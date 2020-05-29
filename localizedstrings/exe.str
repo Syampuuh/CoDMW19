@@ -1,0 +1,718 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            all
+LANG_ENGLISH         "All"
+
+REFERENCE            anonleftgame
+LANG_ENGLISH         "A player left the game"
+
+REFERENCE            anonplayerkicked_inactive
+LANG_ENGLISH         "A player was kicked for inactivity."
+
+REFERENCE            autodl_clientdisabled
+LANG_ENGLISH         "Could not download &&1 because autodownloading is disabled on the client.
+
+You will need to get this file elsewhere before you can connect to this server, or set autodownload to Yes in your settings."
+
+REFERENCE            autodl_filenotonserver
+LANG_ENGLISH         "File &&1 not found on server for autodownloading."
+
+REFERENCE            autodl_serverdisabled
+LANG_ENGLISH         "Could not download &&1 because autodownloading is disabled on the server.
+
+Set autodownload to No in your settings and you might be able to connect if you do have the file."
+
+REFERENCE            autodl_serverdisabled_pure
+LANG_ENGLISH         "Could not download &&1 because autodownloading is disabled on the server.
+
+You will need to get this file elsewhere before you can connect to this pure server."
+
+REFERENCE            awaitingchallenge
+LANG_ENGLISH         "Awaiting challenge...&&1"
+
+REFERENCE            awaitingconnection
+LANG_ENGLISH         "Awaiting connection...&&1"
+
+REFERENCE            awaitinggamestate
+LANG_ENGLISH         "Setting up game"
+
+REFERENCE            awaitinghost
+LANG_ENGLISH         "Waiting for other players"
+
+REFERENCE            bad_challenge
+LANG_ENGLISH         "No or bad challenge for address."
+
+REFERENCE            badserveraddress
+LANG_ENGLISH         "Bad server address."
+
+REFERENCE            bnet_checkout_error
+LANG_ENGLISH         "An error occurred while purchasing the product."
+
+REFERENCE            bytes
+LANG_ENGLISH         "bytes"
+
+REFERENCE            cannotkickhostplayer
+LANG_ENGLISH         "Cannot kick the host player."
+
+REFERENCE            cannotvalidatepureclient
+LANG_ENGLISH         "Cannot validate pure client!"
+
+REFERENCE            cantautodlgamepak
+LANG_ENGLISH         "Cannot auto-download game IWD file &&1."
+
+REFERENCE            checkpoint_failed
+LANG_ENGLISH         "Checkpoint saving failed."
+
+REFERENCE            checkpoint_reached
+LANG_ENGLISH         "Checkpoint reached."
+
+REFERENCE            cod_feature_perm_ban_player
+LANG_ENGLISH         "This profile (&&1) has been permanently banned from using this feature due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            cod_feature_temp_ban_player
+LANG_ENGLISH         "This profile (&&1) has been temporarily banned from using this feature due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            cod_leaderboard_write_ban
+LANG_ENGLISH         "This profile (&&1) has been banned from appearing on this Leaderboard due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            cod_multiplayer
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? Multiplayer"
+
+REFERENCE            cod_online_perm_ban_console
+LANG_ENGLISH         "This console device has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            cod_online_perm_ban_player
+LANG_ENGLISH         "This profile (&&1) has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            cod_online_temp_ban_player
+LANG_ENGLISH         "This profile (&&1) has been temporarily banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            cod_temp_ban_days
+LANG_ENGLISH         "&&1 days remaining before access is granted."
+
+REFERENCE            cod_temp_ban_hours
+LANG_ENGLISH         "&&1 hours remaining before access is granted."
+
+REFERENCE            cod_temp_ban_minutes
+LANG_ENGLISH         "&&1 minutes remaining before access is granted."
+
+REFERENCE            configstringmismatch
+LANG_ENGLISH         "Our level fastfile is different from the server!  Aborting connection"
+
+REFERENCE            copied
+LANG_ENGLISH         "copied"
+
+REFERENCE            dcache_required_resource_locked
+LANG_ENGLISH         "Required file '&&1' is locked by another process. Please unlock and try again."
+
+REFERENCE            demonware_disconnect
+LANG_ENGLISH         "You have been disconnected from the Call of Duty??: Modern Warfare?? servers. Please try again or visit https://support.activision.com/mwstatus for updates."
+
+REFERENCE            demonware_multiple_logins
+LANG_ENGLISH         "The Call of Duty??: Modern Warfare?? server is not available due to multiple logins of your Activision Account. Please reboot to reconnect."
+
+REFERENCE            demonware_multiple_logins_generic
+LANG_ENGLISH         "The Call of Duty??: Modern Warfare?? server is not available due to multiple logins of your account. Please reboot to reconnect."
+
+REFERENCE            demonware_player_ban
+LANG_ENGLISH         "This profile (&&1) has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            disconnected
+LANG_ENGLISH         "Lost connection to host"
+
+REFERENCE            disconnectedfromownlistenserver
+LANG_ENGLISH         "Client told to disconnect from its own listen server."
+
+REFERENCE            dnsfailure
+LANG_ENGLISH         "DNS failure trying to locate Activision servers.  You will be unable to play online games until you restart."
+
+REFERENCE            downloading
+LANG_ENGLISH         "Downloading:"
+
+REFERENCE            endofgame
+LANG_ENGLISH         "End of Game"
+
+REFERENCE            err_arb_multitex_bad_max
+LANG_ENGLISH         "GL_ARB_multitexture found, but it doesn't allow multiple textures."
+
+REFERENCE            err_arb_multitex_init_failed
+LANG_ENGLISH         "GL_ARB_multitexture found, but it failed to initialize."
+
+REFERENCE            err_bad_game_folder
+LANG_ENGLISH         "Invalid game folder"
+
+REFERENCE            err_bad_windows_ver
+LANG_ENGLISH         "Your version of Microsoft Windows(TM) does not support Call of Duty??: Modern Warfare??."
+
+REFERENCE            err_banned_perm
+LANG_ENGLISH         "You are permanently banned from this server."
+
+REFERENCE            err_banned_temp
+LANG_ENGLISH         "You are temporarily banned from this server."
+
+REFERENCE            err_cant_create
+LANG_ENGLISH         "Cannot create &&1."
+
+REFERENCE            err_cant_write
+LANG_ENGLISH         "Cannot write to &&1."
+
+REFERENCE            err_client_cmd_overflow
+LANG_ENGLISH         "Client command overflow"
+
+REFERENCE            err_correct_folder
+LANG_ENGLISH         "Make sure Call of Duty??: Modern Warfare?? is run from the correct folder."
+
+REFERENCE            err_couldnt_configure
+LANG_ENGLISH         "Couldn't configure:"
+
+REFERENCE            err_couldnt_create_window
+LANG_ENGLISH         "Could not create a window. This is a Microsoft Windows(TM) error. You may need to reboot."
+
+REFERENCE            err_couldnt_init_refresh
+LANG_ENGLISH         "Couldn't initialize refresh"
+
+REFERENCE            err_couldnt_load
+LANG_ENGLISH         "Couldn't load &&1"
+
+REFERENCE            err_couldnt_load_opengl
+LANG_ENGLISH         "Could not load OpenGL.  Make sure that you have the latest drivers for your video card from the manufacturer's web site."
+
+REFERENCE            err_couldnt_open_url
+LANG_ENGLISH         "Could not open url: '&&1'"
+
+REFERENCE            err_couldnt_register_window
+LANG_ENGLISH         "Could not register a window class. This is a Microsoft Windows(TM) error. You may need to reboot."
+
+REFERENCE            err_couldnt_start_process
+LANG_ENGLISH         "Could not start process: &&1"
+
+REFERENCE            err_game_failed_pure_check
+LANG_ENGLISH         "Game code(&&1) failed Pure Server check"
+
+REFERENCE            err_get_newest_drivers
+LANG_ENGLISH         "You should install the latest drivers for your video card, being sure to uninstall the old drivers first.  If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them.  This fixes most problems.  If the game still doesn't work, it may be that your video card does not have the minimum features required.  Please check the readme for more information, including a list of supported video cards."
+
+REFERENCE            err_high_ping_only
+LANG_ENGLISH         "Server is for high ping players only."
+
+REFERENCE            err_hungusage_corrupt
+LANG_ENGLISH         "hunkusage.dat file is corrupt."
+
+REFERENCE            err_hunk_alloc_failed
+LANG_ENGLISH         "Hunk data failed to allocate &&1 megs."
+
+REFERENCE            err_hunkusage_cant_write
+LANG_ENGLISH         "Cannot write to hunkusage.dat, check disk full."
+
+REFERENCE            err_internal_startup_error
+LANG_ENGLISH         "There was an error starting the game."
+
+REFERENCE            err_internal_startup_error_sp_script_func_mismatch
+LANG_ENGLISH         "There was an error starting the game."
+
+REFERENCE            err_invalid_cd_key
+LANG_ENGLISH         "Key Code is not valid.
+Please enter your Key Code in the Multiplayer Options/Enter Key Code menu and then try connecting to the server again."
+
+REFERENCE            err_invalid_demo_file
+LANG_ENGLISH         "You have selected an invalid film or clip."
+
+REFERENCE            err_journal_file_read
+LANG_ENGLISH         "Error reading from journal file"
+
+REFERENCE            err_journal_file_write
+LANG_ENGLISH         "Error writing to journal file"
+
+REFERENCE            err_low_ping_only
+LANG_ENGLISH         "Server is for low ping players only."
+
+REFERENCE            err_mlg_no_matches
+LANG_ENGLISH         "You have no MLG matches scheduled. Please go to the MLG website and subscribe to a match."
+
+REFERENCE            err_multitex_bad_max
+LANG_ENGLISH         "OpenGL 1.3 multitexture found, but it doesn't allow multiple textures."
+
+REFERENCE            err_multitex_init_fail
+LANG_ENGLISH         "OpenGL 1.3 multitexture found, but it failed to initialize."
+
+REFERENCE            err_not_a_demo_server
+LANG_ENGLISH         "Server is not a demo server."
+
+REFERENCE            err_not_found
+LANG_ENGLISH         "&&1 not found."
+
+REFERENCE            err_not_received
+LANG_ENGLISH         "Requested a command not received. Lost connection to host."
+
+REFERENCE            err_online_data
+LANG_ENGLISH         "You have been disconnected from the Call of Duty??: Modern Warfare?? servers. Please try again or visit https://support.activision.com/mwstatus for updates.
+
+Error Code: &&1"
+
+REFERENCE            err_opening_screenshot
+LANG_ENGLISH         "An error occurred while opening the screenshot."
+
+REFERENCE            err_out_of_memory
+LANG_ENGLISH         "Out of memory."
+
+REFERENCE            err_process_demo_file_failed
+LANG_ENGLISH         "An error occurred while processing this film or clip."
+
+REFERENCE            err_qport
+LANG_ENGLISH         "Unable to connect.  Duplicate qport on server."
+
+REFERENCE            err_reading_demo
+LANG_ENGLISH         "An error occurred while reading the film or clip."
+
+REFERENCE            err_reliable_cycled_out
+LANG_ENGLISH         "A reliable command was cycled out."
+
+REFERENCE            err_save_game_unrecoverable
+LANG_ENGLISH         "There was a problem resuming the game. You can start that mission again from the Mission Select menu."
+
+REFERENCE            err_server_timeout
+LANG_ENGLISH         "Lost connection to Host/Server. Connection timed out."
+
+REFERENCE            err_should_be
+LANG_ENGLISH         "should be"
+
+REFERENCE            err_snapshot
+LANG_ENGLISH         "Server snapshot error"
+
+REFERENCE            err_unauthorized_ip
+LANG_ENGLISH         "The Call of Duty??: Modern Warfare?? server has rejected access from this IP address."
+
+REFERENCE            err_unregistered_connection
+LANG_ENGLISH         "Server rejected our connection request."
+
+REFERENCE            err_videocard_missing_feature
+LANG_ENGLISH         "Your video card appears to be missing one or more features required to run Call of Duty??: Modern Warfare??."
+
+REFERENCE            err_wrong_map_version_num
+LANG_ENGLISH         "Map &&1 has the wrong version number."
+
+REFERENCE            est_time_left
+LANG_ENGLISH         "Estimated time left:"
+
+REFERENCE            estimating
+LANG_ENGLISH         "estimating"
+
+REFERENCE            exchange_error
+LANG_ENGLISH         "The currency exchange system is temporarily offline. Your COD Points balance will automatically update when the system is back online."
+
+REFERENCE            exchange_error_no_cod_points
+LANG_ENGLISH         "The currency exchange system is temporarily offline."
+
+REFERENCE            favoriteaddressempty
+LANG_ENGLISH         "Server address is empty."
+
+REFERENCE            favoriteinlist
+LANG_ENGLISH         "This server is already a favorite server."
+
+REFERENCE            favoritenameempty
+LANG_ENGLISH         "Server name is empty."
+
+REFERENCE            favorites
+LANG_ENGLISH         "Favorites"
+
+REFERENCE            feature_perm_ban_console
+LANG_ENGLISH         "This console has been permanently banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            feature_perm_ban_player
+LANG_ENGLISH         "&&1 has been permanently banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            feature_temp_ban_console
+LANG_ENGLISH         "This console has been temporarily banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            feature_temp_ban_player
+LANG_ENGLISH         "&&1 has been temporarily banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            gameisending
+LANG_ENGLISH         "Join failed - game is about to end"
+
+REFERENCE            gameismigrating
+LANG_ENGLISH         "Join failed - game is temporarily not joinable.  Please try again later."
+
+REFERENCE            gamesaved
+LANG_ENGLISH         "Game Saved"
+
+REFERENCE            generic_fatal_error
+LANG_ENGLISH         "The game has recovered from a fatal error."
+
+REFERENCE            gigabyte
+LANG_ENGLISH         "GB"
+
+REFERENCE            host_handle_error
+LANG_ENGLISH         "Unable to establish secure connection to host"
+
+REFERENCE            hostunreach
+LANG_ENGLISH         "Unable to connect to host"
+
+REFERENCE            hours
+LANG_ENGLISH         "hr"
+
+REFERENCE            internet
+LANG_ENGLISH         "Internet"
+
+REFERENCE            invalidupdateserverdownload
+LANG_ENGLISH         "Invalid download from update server"
+
+REFERENCE            keychange
+LANG_ENGLISH         "Press ENTER or CLICK to change"
+
+REFERENCE            keywait
+LANG_ENGLISH         "Press ESCAPE to cancel or BACKSPACE to clear"
+
+REFERENCE            kilobyte
+LANG_ENGLISH         "KB"
+
+REFERENCE            leaderboard_write_ban
+LANG_ENGLISH         "You have been banned from appearing on this Leaderboard."
+
+REFERENCE            leftgame
+LANG_ENGLISH         "left the game"
+
+REFERENCE            local
+LANG_ENGLISH         "Local"
+
+REFERENCE            local_play
+LANG_ENGLISH         "Local Play"
+
+REFERENCE            lostconnection
+LANG_ENGLISH         "Network connection lost"
+
+REFERENCE            lostreliablecommands
+LANG_ENGLISH         "Lost reliable commands"
+
+REFERENCE            lui_root_create_error
+LANG_ENGLISH         "There was an error starting the game."
+
+REFERENCE            matchended
+LANG_ENGLISH         "The match has ended"
+
+REFERENCE            megabyte
+LANG_ENGLISH         "MB"
+
+REFERENCE            migration_in_progress
+LANG_ENGLISH         "Could not join match because host migration was in progress."
+
+REFERENCE            migrationaborted
+LANG_ENGLISH         "Host Migration aborted. No good host available."
+
+REFERENCE            migrationaborted_backout
+LANG_ENGLISH         "Host Migration aborted. No good host available."
+
+REFERENCE            migrationdropped
+LANG_ENGLISH         "Migration failed. Dropped by host."
+
+REFERENCE            migrationlimit
+LANG_ENGLISH         "Migration limit reached"
+
+REFERENCE            minutes
+LANG_ENGLISH         "min"
+
+REFERENCE            month_abv_april
+LANG_ENGLISH         "Apr"
+
+REFERENCE            month_abv_august
+LANG_ENGLISH         "Aug"
+
+REFERENCE            month_abv_december
+LANG_ENGLISH         "Dec"
+
+REFERENCE            month_abv_february
+LANG_ENGLISH         "Feb"
+
+REFERENCE            month_abv_january
+LANG_ENGLISH         "Jan"
+
+REFERENCE            month_abv_july
+LANG_ENGLISH         "Jul"
+
+REFERENCE            month_abv_jun
+LANG_ENGLISH         "Jun"
+
+REFERENCE            month_abv_june
+LANG_ENGLISH         "Jun"
+
+REFERENCE            month_abv_march
+LANG_ENGLISH         "Mar"
+
+REFERENCE            month_abv_may
+LANG_ENGLISH         "May"
+
+REFERENCE            month_abv_november
+LANG_ENGLISH         "Nov"
+
+REFERENCE            month_abv_october
+LANG_ENGLISH         "Oct"
+
+REFERENCE            month_abv_september
+LANG_ENGLISH         "Sep"
+
+REFERENCE            needstats
+LANG_ENGLISH         "Error synchronizing game settings"
+
+REFERENCE            netsource
+LANG_ENGLISH         "Source:     &&1"
+
+REFERENCE            no
+LANG_ENGLISH         "No"
+
+REFERENCE            nosavegames
+LANG_ENGLISH         "(no savegames)"
+
+REFERENCE            of
+LANG_ENGLISH         "of"
+
+REFERENCE            online_perm_ban_console
+LANG_ENGLISH         "This console has been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            online_perm_ban_player
+LANG_ENGLISH         "&&1 has been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            online_perm_ban_player_no_name
+LANG_ENGLISH         "You have been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit https://support.activision.com/mwPolicy."
+
+REFERENCE            online_temp_ban_console
+LANG_ENGLISH         "This console has been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            online_temp_ban_player
+LANG_ENGLISH         "&&1 has been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            online_temp_ban_player_no_name
+LANG_ENGLISH         "You have been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+
+REFERENCE            playerkicked
+LANG_ENGLISH         "Player kicked."
+
+REFERENCE            playerkicked_bot_balance
+LANG_ENGLISH         "kicked to equalize team balance."
+
+REFERENCE            playerkicked_bot_make_room
+LANG_ENGLISH         "kicked to make room for a human player"
+
+REFERENCE            playerkicked_extracted
+LANG_ENGLISH         "You have successfully extracted."
+
+REFERENCE            playerkicked_inactive
+LANG_ENGLISH         "Kicked for inactivity."
+
+REFERENCE            playerkicked_invalidteam
+LANG_ENGLISH         "Disconnected from server"
+
+REFERENCE            playerkicked_teamkills
+LANG_ENGLISH         "Kicked for Team Killing."
+
+REFERENCE            reconciliation_failed
+LANG_ENGLISH         "Your purchase was successful but there was a temporary problem adding some of the products onto your account. Any in-game products will be added to your account upon your next login."
+
+REFERENCE            say
+LANG_ENGLISH         "All"
+
+REFERENCE            sayteam
+LANG_ENGLISH         "Team"
+
+REFERENCE            seconds
+LANG_ENGLISH         "sec"
+
+REFERENCE            server_disconnected
+LANG_ENGLISH         "Server Disconnected"
+
+REFERENCE            server_disconnected_unknown
+LANG_ENGLISH         "Disconnected from server"
+
+REFERENCE            server_fatal_crashed
+LANG_ENGLISH         "Server fatal crashed:"
+
+REFERENCE            server_is_different_ver
+LANG_ENGLISH         "Server is a different version:
+&&1"
+
+REFERENCE            servercommandoverflow
+LANG_ENGLISH         "Server command overflow"
+
+REFERENCE            serverdidnthavecd
+LANG_ENGLISH         "Server didn't have CD"
+
+REFERENCE            serverdisconnectreason
+LANG_ENGLISH         "&&1"
+
+REFERENCE            serverfilter
+LANG_ENGLISH         "Filter: &&1"
+
+REFERENCE            serverisfull
+LANG_ENGLISH         "Server is full."
+
+REFERENCE            serverkilled
+LANG_ENGLISH         "Server killed."
+
+REFERENCE            servermessageoverflow
+LANG_ENGLISH         "Server message overflow"
+
+REFERENCE            serverquit
+LANG_ENGLISH         "Server quit"
+
+REFERENCE            serverrestartmisc
+LANG_ENGLISH         "Restarting server due to &&1 wrapping."
+
+REFERENCE            serverrestarttimewrap
+LANG_ENGLISH         "Restarting server due to time wrapping"
+
+REFERENCE            servershutdownmisc
+LANG_ENGLISH         "Stopping game due to &&1 wrapping."
+
+REFERENCE            servershutdowntimewrap
+LANG_ENGLISH         "Stopping game due to time wrapping"
+
+REFERENCE            spawn_location
+LANG_ENGLISH         "START SPAWN LOCATIONS"
+
+REFERENCE            sv_info_address
+LANG_ENGLISH         "IP Address"
+
+REFERENCE            sv_info_allowanon
+LANG_ENGLISH         "Allow Anonymous"
+
+REFERENCE            sv_info_antilag
+LANG_ENGLISH         "Anti Lag"
+
+REFERENCE            sv_info_compass_enemies
+LANG_ENGLISH         "Compass Enemies"
+
+REFERENCE            sv_info_dedicated
+LANG_ENGLISH         "Server Type"
+
+REFERENCE            sv_info_dedicated_0
+LANG_ENGLISH         "Listen Server"
+
+REFERENCE            sv_info_dedicated_1
+LANG_ENGLISH         "Dedicated LAN Server"
+
+REFERENCE            sv_info_dedicated_2
+LANG_ENGLISH         "Dedicated Internet Server"
+
+REFERENCE            sv_info_floodprotect
+LANG_ENGLISH         "Flood Protect"
+
+REFERENCE            sv_info_friendly_fire
+LANG_ENGLISH         "Friendly Fire"
+
+REFERENCE            sv_info_gamename
+LANG_ENGLISH         "Game Name"
+
+REFERENCE            sv_info_gametype
+LANG_ENGLISH         "Game Type"
+
+REFERENCE            sv_info_hardcore
+LANG_ENGLISH         "Hardcore"
+
+REFERENCE            sv_info_killcam
+LANG_ENGLISH         "Killcam"
+
+REFERENCE            sv_info_map
+LANG_ENGLISH         "Map"
+
+REFERENCE            sv_info_maxclients
+LANG_ENGLISH         "Max Clients"
+
+REFERENCE            sv_info_maxping
+LANG_ENGLISH         "Max Ping"
+
+REFERENCE            sv_info_maxrate
+LANG_ENGLISH         "Max Rate"
+
+REFERENCE            sv_info_minping
+LANG_ENGLISH         "Min Ping"
+
+REFERENCE            sv_info_mod
+LANG_ENGLISH         "Mod"
+
+REFERENCE            sv_info_name
+LANG_ENGLISH         "name"
+
+REFERENCE            sv_info_num
+LANG_ENGLISH         "num"
+
+REFERENCE            sv_info_password
+LANG_ENGLISH         "Password Protected"
+
+REFERENCE            sv_info_ping
+LANG_ENGLISH         "ping"
+
+REFERENCE            sv_info_privateclients
+LANG_ENGLISH         "Private Clients"
+
+REFERENCE            sv_info_protocol
+LANG_ENGLISH         "Protocol Version"
+
+REFERENCE            sv_info_pure
+LANG_ENGLISH         "Pure Server"
+
+REFERENCE            sv_info_score
+LANG_ENGLISH         "score"
+
+REFERENCE            sv_info_servername
+LANG_ENGLISH         "Server Name"
+
+REFERENCE            sv_info_version
+LANG_ENGLISH         "Version"
+
+REFERENCE            sv_info_voice
+LANG_ENGLISH         "Voice"
+
+REFERENCE            sv_info_voice_0
+LANG_ENGLISH         "No Chat"
+
+REFERENCE            sv_info_voice_1
+LANG_ENGLISH         "Open Chat"
+
+REFERENCE            sv_info_voice_2
+LANG_ENGLISH         "Team Chat"
+
+REFERENCE            temp_ban_days
+LANG_ENGLISH         "&&1 days remaining before access is granted."
+
+REFERENCE            temp_ban_hours
+LANG_ENGLISH         "&&1 hours remaining before access is granted."
+
+REFERENCE            timedout
+LANG_ENGLISH         "Timed out"
+
+REFERENCE            trans_rate
+LANG_ENGLISH         "Transfer rate:"
+
+REFERENCE            transmiterror
+LANG_ENGLISH         "Disconnected due to transmission error"
+
+REFERENCE            transmiterror_clientnum_already_registered
+LANG_ENGLISH         "Disconnected due to transmission error. Error Code : HARASS"
+
+REFERENCE            transmiterror_corrupt_data
+LANG_ENGLISH         "Disconnected due to transmission error. Error Code : INTELLIGENCE"
+
+REFERENCE            transmiterror_dev_drop
+LANG_ENGLISH         "Disconnected due to transmission error. Error Code : CANNONSHOT"
+
+REFERENCE            transmiterror_send_failure
+LANG_ENGLISH         "Disconnected due to transmission error. Error Code : SPRING WIND"
+
+REFERENCE            transmiterror_xnaddr_failed
+LANG_ENGLISH         "Disconnected due to transmission error. Error Code : ANKLET"
+
+REFERENCE            unpureclientdetected
+LANG_ENGLISH         "Impure client detected."
+
+REFERENCE            uploadingstats
+LANG_ENGLISH         "Synchronizing game settings"
+
+REFERENCE            writing_to_disk
+LANG_ENGLISH         "Writing to disk..."
+
+REFERENCE            yes
+LANG_ENGLISH         "Yes"
+
+
+ENDMARKER

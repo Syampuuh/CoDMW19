@@ -1,0 +1,64 @@
+//==========================================================================
+// Odin scene
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+//<cut>
+//<movement> fixed
+//<orientation> attached
+//<hide_support_actor> 1
+//<tag> j_neck
+//<tag_range> 45
+//<tag_pitch> 15
+//<time> 0.6
+
+// pan from battle buddy to where we will spawn, focusing on the battle buddy
+// battle buddy is lead actor and we are the supporting actor in this scene
+<cut>
+<movement> pan
+<orientation> target
+<hide_support_actor> 1
+<pan_to_supporting_actor> 1
+
+<tag_start> j_neck
+<tag_start_range> 45
+<tag_start_pitch> 15
+<tag_start_yaw> 25
+
+<tag_focus> j_neck
+<tag_focus_range> 45
+<tag_focus_pitch> 15
+<tag_focus_yaw> 25
+
+<tag_end> tag_origin
+<tag_end_pitch> 90
+<tag_end_range> 55
+
+<collision> 0
+<time> 0.65
+
+
+<cut>
+<movement> fixed
+<orientation> attached
+<hide_support_actor> 1
+<tag> tag_origin
+<tag_pitch> 90
+<tag_range> 55
+<fixed_use_supporting_actor> 1
+<time> 0.25
+<lerp> 1.0
+
+// flash into first person
+<vision>
+<vision_start_time> 0.55
+<vision_name> "coup_sunblind"
+<vision_blend_duration> 200
+
+<vision>
+<vision_start_time> 0.9
+<vision_name> ""
+<vision_blend_duration> 200

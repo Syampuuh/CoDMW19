@@ -1,0 +1,450 @@
+{
+    "targets" : [
+        {
+            "parent": "dev",
+            "target_name": "ship",
+            "exclude_files": [
+                "^.*\\.pdb",
+                "^.*\\.map",
+                "^.*\\.exe$",
+                "^rail_.*\\.dll$",
+                "^tersafe\\.dll$",
+                "^steam_api64\\.dll$",
+                "^concrt140d\\.dll$",
+                "^dxcompiler\\.dll$",
+                "^msvcp140d\\.dll$",
+                "^msvcp140_1\\.dll$",
+                "^msvcp140_1d\\.dll$",
+                "^msvcp140_2d\\.dll$",
+                "^vccorlib140d\\.dll$",
+                "^vcruntime140d\\.dll$",
+                "^vcamp140d\\.dll$",
+                "^mfc140d\\.dll$",
+                "^mfc140ud\\.dll$",
+                "^mfcm140d\\.dll$",
+                "^mfcm140ud\\.dll$",
+                "^vcomp140d\\.dll$",
+                "^ucrtbased\\.dll$",
+                "^renderdoc\\.dll$",
+                "^d3dcompiler_47\\.dll$",
+                "^GFSDK_Aftermath_Lib\\.x64\\.dll$",
+                "^WinPixEventRuntime\\.dll$",
+                "^api-ms-win-crt-multibyte-l1-1-0\\.dll$",
+                "^sch_.*",
+                "^chs_.*",
+                "^cn_.*",
+                "^ens_.*",
+                "^.*_alt_mp\\..*",
+                "mp_lc_speedball",
+                "mp_m_king_pm",
+                "^.*\\.xhash$",
+                "^.*\\.ffd$",
+                "^.*\\.ffsd$",
+                "^.*\\.ffid$",
+                "^dev_.*",
+                "^dbgshd_.*",
+                "^development.*",
+                "^.*_development.*",
+                "^.*cg_ls_tr\\.ff$",
+                "^packageinfo\\.txt$",
+                "^.*\\.psv$",
+                "^launcher\\.exe.*",
+                "^.*\\.txt$",
+                "^.*\\.ini$",
+                "^.*\\.chunks$",
+                "^.*\\.exp$",
+                "^.*\\.ilk$",
+                "^.*\\.log$",
+                "^.*\\.gsml$",
+                "^.*\\.psob$",
+                "^__.*",
+                "^.*\\.dcache$",
+                "cp_sv_.*",
+                "cp_piccadilly",
+                "pak_survival",
+                ".*\\.arxinstmap",
+                "pak_ccs.xpak", 
+                "pak_dev.xpak",
+                "mp_donetsk_.*",
+                "mp_donetsk\\.ff$",
+                "mp_donetsk\\.fp$",
+                "mp_donetsk\\.xpak$",
+                "mp_donetsk\\.sabs$"
+            ],
+            "rename_files": [],
+            "include_files": [
+                "mp_br_quarry_cg_ls_tr.ff",
+                "^ModernWarfare.exe$",
+                "^BlizzardBrowser.exe$",
+                "^mp_donetsk_gulag_intro.bik$",
+                "^mp_donetsk_c130_intro.bik$",
+                "^mp_donetsk_gulag_outro.bik$"
+            ]
+        },
+        {
+            "parent": "dev",
+            "target_name": "ship_esports",
+            "exclude_files": [
+                "^.*\\.pdb$",
+                "^.*\\.map$",
+                "^.*\\.exe$",
+                "^rail_.*\\.dll$",
+                "^tersafe\\.dll$",
+                "^steam_api64\\.dll$",
+                "^concrt140d\\.dll$",
+                "^dxcompiler\\.dll$",
+                "^msvcp140d\\.dll$",
+                "^msvcp140_1\\.dll$",
+                "^msvcp140_1d\\.dll$",
+                "^msvcp140_2d\\.dll$",
+                "^vccorlib140d\\.dll$",
+                "^vcruntime140d\\.dll$",
+                "^vcamp140d\\.dll$",
+                "^mfc140d\\.dll$",
+                "^mfc140ud\\.dll$",
+                "^mfcm140d\\.dll$",
+                "^mfcm140ud\\.dll$",
+                "^vcomp140d\\.dll$",
+                "^ucrtbased\\.dll$",
+                "^renderdoc\\.dll$",
+                "^d3dcompiler_47\\.dll$",
+                "^GFSDK_Aftermath_Lib\\.x64\\.dll$",
+                "^WinPixEventRuntime\\.dll$",
+                "^api-ms-win-crt-multibyte-l1-1-0\\.dll$",
+                "^sch_.*",
+                "^chs_.*",
+                "^cn_.*",
+                "^ens_.*",
+                "^.*_alt_mp\\..*",
+                "mp_lc_speedball",
+                "mp_m_king_pm",
+                "^.*\\.xhash$",
+                "^.*\\.ffd$",
+                "^.*\\.ffsd$",
+                "^.*\\.ffid$",
+                "^dev_.*",
+                "^dbgshd_.*",
+                "^development.*",
+                "^.*_development.*",
+                "^.*cg_ls_tr\\.ff$",
+                "^packageinfo\\.txt$",
+                "^.*\\.psv$",
+                "^launcher\\.exe.*",
+                "^.*\\.txt$",
+                "^.*\\.ini$",
+                "^.*\\.chunks$",
+                "^.*\\.exp$",
+                "^.*\\.ilk$",
+                "^.*\\.log$",
+                "^.*\\.gsml$",
+                "^.*\\.psob$",
+                "^__.*",
+                "^.*\\.dcache$",
+                "cp_sv_.*",
+                "cp_piccadilly",
+                "pak_survival",
+                ".*\\.arxinstmap",
+                "pak_ccs.xpak",
+                "pak_dev.xpak",
+                "mp_donetsk_.*",
+                "mp_donetsk\\.ff$",
+                "mp_donetsk\\.fp$",
+                "mp_donetsk\\.xpak$",
+                "mp_donetsk\\.sabs$"
+                
+            ],
+            "rename_files": [],
+            "include_files": [
+                "mp_br_quarry_cg_ls_tr.ff",
+                "^ModernWarfare.exe$",
+                "^ModernWarfare_CDL.exe$",
+                "^ModernWarfare_CDL_Online.exe$",
+                "^BlizzardBrowser.exe$",
+                "^mp_donetsk_gulag_intro.bik$",
+                "^mp_donetsk_c130_intro.bik$",
+                "^mp_donetsk_gulag_outro.bik$"
+            ]
+        },
+        {
+            "parent": "dev",
+            "target_name": "vendor",
+            "exclude_files": [
+                "^.*\\.pdb",
+                "^.*\\.map",
+                "^.*\\.exe$",
+                "^concrt140d\\.dll$",
+                "^msvcp140d\\.dll$",
+                "^msvcp140_1d\\.dll$",
+                "^msvcp140_2d\\.dll$",
+                "^vccorlib140d\\.dll$",
+                "^vcruntime140d\\.dll$",
+                "^vcamp140d\\.dll$",
+                "^mfc140d\\.dll$",
+                "^mfc140ud\\.dll$",
+                "^mfcm140d\\.dll$",
+                "^mfcm140ud\\.dll$",
+                "^vcomp140d\\.dll$",
+                "^ucrtbased\\.dll$",
+                "^sch_.*",
+                "^chs_.*",
+                "^cn_.*",
+                "^ens_.*",
+                "^.*_alt_mp\\..*",
+                "mp_lc_speedball",
+                "mp_m_king_pm",
+                "^packageinfo\\.txt$",
+                "^.*\\.psv$",
+                "^.*\\.chunks$",
+                "^.*\\.exp$",
+                "^.*\\.ilk$",
+                "^.*_prot\\.exe$",
+                "^.*\\.log$",
+                "^.*\\.gsml$",
+                ".*\\.arxinstmap",
+                "pak_ccs.xpak",
+                "0-game_ship.exe"
+            ],
+            "include_files": [
+                "game_steam_dx12_profile.exe",
+                "game_steam_dx12_test.exe"
+            ]
+        },
+        {
+            "target_name": "dev",
+            "include_folders": [
+                "BlizzardBrowser",
+                "main",
+                "arabic",
+                "english",
+                "french",
+                "german",
+                "italian",
+                "korea15",
+                "korean_full",
+                "korean_partial",
+                "japan",
+                "japanese_full",
+                "japanese_partial",
+                "polish_full",
+                "polish_partial",
+                "portuguese",
+                "russian_full",
+                "russian_partial",
+                "saudiarabia",
+                "spanish",
+                "spanishna",
+                "traditional_chinese",
+                "worldwide"
+            ],
+            "exclude_files": [
+                "^.*\\.pdb",
+                "^.*\\.map",
+                "^rail_.*\\.dll$",
+                "^tersafe\\.dll$",
+                "^steam_api64\\.dll$",
+                "^concrt140d\\.dll$",
+                "^msvcp140d\\.dll$",
+                "^msvcp140_1d\\.dll$",
+                "^msvcp140_2d\\.dll$",
+                "^vccorlib140d\\.dll$",
+                "^vcruntime140d\\.dll$",
+                "^vcamp140d\\.dll$",
+                "^mfc140d\\.dll$",
+                "^mfc140ud\\.dll$",
+                "^mfcm140d\\.dll$",
+                "^mfcm140ud\\.dll$",
+                "^vcomp140d\\.dll$",
+                "^ucrtbased\\.dll$",
+                "game_steam_.*\\.exe$",
+                "game_wegame_.*\\.exe$",
+                "game_battlenet_.*\\.exe$",
+                "^sch_.*",
+                "^chs_.*",
+                "^cn_.*",
+                "^ens_.*",
+                "^.*_alt_mp\\..*",
+                "mp_lc_speedball",
+                "mp_m_king_pm",
+                "^.*\\.psv$",
+                "^.*\\.txt$",
+                "^.*\\.chunks$",
+                "^.*\\.exp$",
+                "^.*\\.ilk$",
+                "^.*_prot\\.exe$",
+                "^.*\\.log$",
+                "^.*\\.gsml$",
+                "^.*\\.psob$",
+                "^__.*",
+                "^.*\\.dcache$",
+                "cp_sv_.*",
+                "cp_piccadilly",
+                "pak_survival",
+                ".*\\.arxinstmap",
+                "pak_ccs.xpak",
+                "0-game_ship.exe",
+                "mp_donetsk_.*",
+                "mp_donetsk\\.ff$",
+                "mp_donetsk\\.fp$",
+                "mp_donetsk\\.xpak$",
+                "mp_donetsk\\.sabs$",
+                "mp_donetsk\\.ffs$",
+                "mp_donetsk\\.xhash$"
+            ],
+            "install_files": [
+                "fileSysCheck.cfg",
+                ".*\\.exe.*",
+                ".*\\.dll",
+                "BlizzardBrowser",
+                "game.icn"
+            ],
+            "rename_files": [
+                {
+                    "filename": "ModernWarfare.exe",
+                    "new_filename": "0-game_ship.exe"
+                },
+                {
+                    "filename": "launcher.exe",
+                    "new_filename": "ModernWarfare.exe"
+                }
+            ],
+            "include_files": [
+                "mp_br_quarry_cg_ls_tr.ff",
+                "^mp_donetsk_gulag_intro.bik$",
+                "^mp_donetsk_c130_intro.bik$",
+                "^mp_donetsk_gulag_outro.bik$"
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "group": "locale",
+            "tag": "enUS",
+            "prefixes": ["eng_"]
+        },
+        {
+            "group": "locale",
+            "tag": "frFR",
+            "prefixes": ["fra_"]
+        },
+        {
+            "group": "locale",
+            "tag": "deDE",
+            "prefixes": ["deu_"]
+        },
+        {
+            "group": "locale",
+            "tag": "itIT",
+            "prefixes": ["ita_"]
+        },
+        {
+            "group": "locale",
+            "tag": "esES",
+            "prefixes": ["spa_"]
+        },
+        {
+            "group": "locale",
+            "tag": "koKR",
+            "prefixes": ["kof_", "kop_"]
+        },
+        {
+            "group": "locale",
+            "tag": "ptBR",
+            "prefixes": ["por_"]
+        },
+        {
+            "group": "locale",
+            "tag": "esMX",
+            "prefixes": ["sna_"]
+        },
+        {
+            "group": "locale",
+            "tag": "zhTW",
+            "prefixes": ["tch_"]
+        },
+        {
+            "group": "locale",
+            "tag": "arSA",
+            "prefixes": ["ara_"]
+        },
+        {
+            "group": "locale",
+            "tag": "jaJP",
+            "prefixes": ["jpf_", "jpp_"]
+        },
+        {
+            "group": "locale",
+            "tag": "plPL",
+            "prefixes": ["pof_", "pop_"]
+        },
+        {
+            "group": "locale",
+            "tag": "ruRU",
+            "prefixes": ["ruf_", "rup_"]
+        },
+        {
+            "group": "license",
+            "tag": "sp",
+            "license": 43336,
+            "regexes": [ "sp_.*\\.bik", "pak_sp", "dx_vom_bkv_square_speech_", "pw_", "pic_screens_02", "pak_dlc_" ],
+            "levels": [ "piccadilly", "proxywar", "safehouse", "townhoused", "captive", "embassy", "estate", "hometown", "highway", "lab", "marines", "stpetersburg", "tunnels", "global_core_sp", "common_core_sp", "ui_core_sp", "ui_sp", "common_sp", "global_sp" ],
+            "apply_to_targets": [ "dev", "ship" ]
+        },
+        {
+            "group": "license",
+            "tag": "mp",
+            "license": 43356,
+            "regexes": [ "pak_mp", "pak_dlc_" ],
+            "levels": [ "mp_aniyah.", "mp_deadzone", "mp_euphrates", "mp_raid", "mp_cave", "mp_cave_am", "mp_hackney_yard", "mp_hackney_am", "mp_runner", "mp_runner_pm", "mp_spear", "mp_spear_pm", "mp_port2_gw", "mp_quarry2", "mp_farms2_gw", "mp_downtown_gw", "mp_piccadilly", "mp_petrograd", "mp_crash2", "mp_vacant", "mp_m_cage", "mp_m_cargo", "mp_m_hill", "mp_m_showers", "mp_m_overunder", "mp_m_pine", "mp_m_stack", "mp_m_overwinter", "mp_boneyard_gw" ],
+            "apply_to_targets": [ "dev", "ship" ]
+        },
+        {
+            "group": "license",
+            "tag": "cp",
+            "license": 43337,
+            "regexes": [ "pak_cp", "vehicle_bradley_npc", "vehicle_bradley_plr", "vehicle_wheelson", "vehicle_engine_type1", "vehicle_engine_type2", "vehicle_engine_type3", "vehicle_engine_type5", "vehicle_engine_type7", "weapon_la_rpapa7", "weapon_lm_dblmg", "weapon_lm_mama2", "cp_mbi_", "cp_tutorial_", "cp_cine_phone", "cp_so_", "pak_solo", "pak_dlc_" ],
+            "levels": [ "cp_dwn_twn", "cp_dwn_twn_2", "cp_landlord", "cp_landlord_2", "cp_smuggler", "cp_arms_dealer", "cp_armsdealer_2", "common_cp", "global_cp", "global_core_cp", "common_core_cp", "ui_cp", "ui_core_cp", "cp_so_finale", "cp_so_estate", "cp_so_highway", "cp_so_safehouse", "cp_so_aniyah", "cp_so_proxywar", "cp_so_embassy", "trials_darklab", "trials_marines", "trials_safehouse", "trials_estate", "trials_lab", "trials_embassy", "trials_highway", "trials_aniyah_apache", "trials_safehousefinale" ],
+            "apply_to_targets": [ "dev", "ship" ]
+        }
+    ],
+    "level_prefixes": ["ara", "eng", "fra", "deu", "ita", "jpf", "jpp", "kof", "kop", "pof", "pop", "por", "ruf", "rup", "spa", "sna", "tch", "jp", "kr15", "sa", "ww", "srv", "techsets"],
+    "patch_prefix" : "patch",
+    "priorities" : [],
+    "metadata" : [
+        {
+            "key": "build-product",
+            "value": "Odin"
+        },
+        {
+            "key": "build-uid",
+            "value": "odin"
+        },
+        {
+            "key": "tag-group-locale",
+            "value": "enUS frFR deDE itIT esES koKR ptBR esMX zhTW arSA jaJP plPL ruRU"
+        },
+        {
+            "key": "tag-group-indy",
+            "value": "indy-ignore"
+        },
+        {
+            "key": "tag-group-acct",
+            "value": "acct-SAU acct-JPN acct-KOR"
+        },
+        {
+            "key": "tag-group-licenses",
+            "value": "sp mp cp dnu"
+        },
+        {
+            "key": "vfs-options",
+            "value": "lowercase"
+        }
+    ],
+    "file_manifests": [
+        {
+            "manifest_name": "techsets_manifest.csv",
+            "manifest_regex": "techsets_.*\\.f.$"
+        }
+    ],
+    "file_size_limit": 950,
+    "default_file_encoding": "b:256K*=n"
+}

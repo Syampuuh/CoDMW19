@@ -1,0 +1,5 @@
+1,lowHealthWarning,GAME/GET_TO_COVER,hud_icon_warning,default,none,
+2,oxygenLowWarning,OXYGEN LOW,hud_icon_warning,warning,slow,
+3,oxygenCriticalWarning,OXYGEN CRITICAL,hud_icon_warning,danger,medium,
+4,oxygenDepletedWarning,OXYGEN DEPLETED,hud_icon_warning,danger,fast,
+5,weaponOfflineWarning,MONS WEAPON OFFLINE,hud_icon_warning,default,none,

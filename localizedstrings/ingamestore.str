@@ -1,0 +1,400 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            bundle_includes
+LANG_ENGLISH         "Bundle Includes"
+
+REFERENCE            category_codpoints
+LANG_ENGLISH         "COD Points"
+
+REFERENCE            category_dlc
+LANG_ENGLISH         "DLC"
+
+REFERENCE            category_featured
+LANG_ENGLISH         "Featured"
+
+REFERENCE            category_franchise
+LANG_ENGLISH         "Call of Duty?? Franchise"
+
+REFERENCE            category_misc
+LANG_ENGLISH         "Misc"
+
+REFERENCE            category_titleids
+LANG_ENGLISH         "Call of Duty??: Modern Warfare??"
+
+REFERENCE            product_battlepass_edition
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? - Battle Pass Edition"
+
+REFERENCE            product_battlepass_edition_desc
+LANG_ENGLISH         "The Battle Pass Edition includes 3,000 Call of Duty Points (CP), three Operator Packs, a custom in-game tactical knife, and the XRK Weapons Pack. Each Operator Pack includes a themed Operator skin, cosmetic weapon variant, and additional bonus content."
+
+REFERENCE            product_cdlpack_01
+LANG_ENGLISH         "Modern Warfare?? - Atlanta FaZe Pack"
+
+REFERENCE            product_cdlpack_01_desc
+LANG_ENGLISH         "Show your support for the Atlanta FaZe! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_02
+LANG_ENGLISH         "Modern Warfare?? - Chicago Huntsmen Pack"
+
+REFERENCE            product_cdlpack_02_desc
+LANG_ENGLISH         "Show your support for the Chicago Huntsmen! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_03
+LANG_ENGLISH         "Modern Warfare?? - Dallas Empire Pack"
+
+REFERENCE            product_cdlpack_03_desc
+LANG_ENGLISH         "Show your support for the Dallas Empire! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_04
+LANG_ENGLISH         "Modern Warfare?? - Florida Mutineers Pack"
+
+REFERENCE            product_cdlpack_04_desc
+LANG_ENGLISH         "Show your support for the Florida Mutineers! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_05
+LANG_ENGLISH         "Modern Warfare?? - London Royal Ravens Pack"
+
+REFERENCE            product_cdlpack_05_desc
+LANG_ENGLISH         "Show your support for the London Royal Ravens! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_06
+LANG_ENGLISH         "Modern Warfare?? - Los Angeles Guerrillas Pack"
+
+REFERENCE            product_cdlpack_06_desc
+LANG_ENGLISH         "Show your support for the Los Angeles Guerrillas! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_07
+LANG_ENGLISH         "Modern Warfare?? - Minnesota R??KKR Pack"
+
+REFERENCE            product_cdlpack_07_desc
+LANG_ENGLISH         "Show your support for the Minnesota R??KKR! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_08
+LANG_ENGLISH         "Modern Warfare?? - New York Subliners Pack"
+
+REFERENCE            product_cdlpack_08_desc
+LANG_ENGLISH         "Show your support for the New York Subliners! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_09
+LANG_ENGLISH         "Modern Warfare?? - OpTic Gaming Los Angeles Pack"
+
+REFERENCE            product_cdlpack_09_desc
+LANG_ENGLISH         "Show your support for OpTic Gaming Los Angeles! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_10
+LANG_ENGLISH         "Modern Warfare?? - Paris Legion Pack"
+
+REFERENCE            product_cdlpack_10_desc
+LANG_ENGLISH         "Show your support for the Paris Legion! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_11
+LANG_ENGLISH         "Modern Warfare?? - Seattle Surge Pack"
+
+REFERENCE            product_cdlpack_11_desc
+LANG_ENGLISH         "Show your support for the Seattle Surge! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_cdlpack_12
+LANG_ENGLISH         "Modern Warfare?? - Toronto Ultra Pack"
+
+REFERENCE            product_cdlpack_12_desc
+LANG_ENGLISH         "Show your support for the Toronto Ultra! Pack includes 2 operator skins, a weapon camo, watch, weapon charm, sticker, spray, calling card, and emblem for use in Call of Duty??: Modern Warfare??.
+
+?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
+REFERENCE            product_codepack
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? -  C.O.D.E. Defender Pack"
+
+REFERENCE            product_codepack_2
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? -  C.O.D.E. Fearless Pack"
+
+REFERENCE            product_codepack_2_desc
+LANG_ENGLISH         "Defend those who defended our freedom! Support civilian careers for veterans through your purchase of the Call of Duty Endowment (C.O.D.E.) Fearless Pack for Modern Warfare??! We heard from the fans, so our biggest Endowment cosmetic content pack ever is back. It includes The For The Cause cosmetic weapon variant, weapon camo, watch, a weapon charm, a weapon sticker, environment spray, 2 emblems, and 2 calling cards!
+
+100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
+
+
+?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codepack_desc
+LANG_ENGLISH         "Defend those who defended our freedom! Support civilian careers for veterans through your purchase of the Call of Duty Endowment (C.O.D.E.) Defender Pack for Modern Warfare??! We heard from the fans, so our biggest Endowment cosmetic content pack ever is back. It includes The Defender Pistol cosmetic weapon variant, weapon camo, watch, weapon charm, weapon sticker, 2 environment sprays, 3 emblems, and a calling card!
+
+100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
+
+
+?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codpoints_1100
+LANG_ENGLISH         "1,100 Call of Duty?? Points"
+
+REFERENCE            product_codpoints_1100_desc
+LANG_ENGLISH         "This bundle includes 1,000 + 100 Bonus Call of Duty?? Points for an extra 10% value. Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain new in-game content for use in Multiplayer and Special Ops game modes.
+
+Call of Duty??: Modern Warfare?? game required, sold separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games. CP will be accessible once functionality for CP is enabled in Call of Duty??: Modern Warfare?? and CP are made available.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality, and is subject to change.
+
+?? 2019 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codpoints_13000
+LANG_ENGLISH         "13,000 Call of Duty?? Points"
+
+REFERENCE            product_codpoints_13000_desc
+LANG_ENGLISH         "This bundle includes 10,000 + 3,000 Bonus Call of Duty??Points for an extra 30% value. Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain new in-game content for use in Multiplayer and Special Ops game modes.
+
+Call of Duty??: Modern Warfare?? game required, sold separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games. CP will be accessible once functionality for CP is enabled in Call of Duty??: Modern Warfare?? and CP are made available.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality, and is subject to change.
+
+?? 2019 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codpoints_200
+LANG_ENGLISH         "200 Call of Duty?? Points"
+
+REFERENCE            product_codpoints_200_desc
+LANG_ENGLISH         "This bundle includes 200 Call of Duty?? Points. Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain new in-game content for use in Multiplayer and Special Ops game modes.
+
+Call of Duty??: Modern Warfare?? game required, sold separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games. CP will be accessible once functionality for CP is enabled in Call of Duty??: Modern Warfare?? and CP are made available.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality, and is subject to change.
+
+?? 2019 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codpoints_2400
+LANG_ENGLISH         "2,400 Call of Duty?? Points"
+
+REFERENCE            product_codpoints_2400_desc
+LANG_ENGLISH         "This bundle includes 2,000 + 400 Bonus Call of Duty?? Points for an extra 20% value. Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain new in-game content for use in Multiplayer and Special Ops game modes.
+
+Call of Duty??: Modern Warfare?? game required, sold separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games. CP will be accessible once functionality for CP is enabled in Call of Duty??: Modern Warfare?? and CP are made available.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality, and is subject to change.
+
+?? 2019 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codpoints_500
+LANG_ENGLISH         "500 Call of Duty?? Points"
+
+REFERENCE            product_codpoints_5000
+LANG_ENGLISH         "5,000 Call of Duty?? Points"
+
+REFERENCE            product_codpoints_5000_desc
+LANG_ENGLISH         "This bundle includes 4,000 + 1,000 Bonus Call of Duty??Points for an extra 25% value. Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain new in-game content for use in Multiplayer and Special Ops game modes.
+
+Call of Duty??: Modern Warfare?? game required, sold separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games. CP will be accessible once functionality for CP is enabled in Call of Duty??: Modern Warfare?? and CP are made available.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality, and is subject to change.
+
+?? 2019 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codpoints_500_desc
+LANG_ENGLISH         "This bundle includes 500 Call of Duty?? Points. Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain new in-game content for use in Multiplayer and Special Ops game modes.
+
+Call of Duty??: Modern Warfare?? game required, sold separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games. CP will be accessible once functionality for CP is enabled in Call of Duty??: Modern Warfare?? and CP are made available.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality, and is subject to change.
+
+?? 2019 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_codpoints_9500
+LANG_ENGLISH         "9,500 Call of Duty?? Points"
+
+REFERENCE            product_codpoints_9500_desc
+LANG_ENGLISH         "This bundle includes 7,500 + 2,000 Bonus Call of Duty?? Points (CP) for an extra 26% value.
+
+Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare?? to obtain new in-game content for use in Multiplayer and Special Ops game modes.
+
+Call of Duty??: Modern Warfare?? game required, sold separately.
+
+CP purchased may also be used to obtain in-game content in certain Call of Duty?? games with CP functionality enabled*. Each game sold separately. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games. CP will be accessible once functionality for CP is enabled in Call of Duty??: Modern Warfare?? and CP are made available.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality, and is subject to change.
+
+?? 2019 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+
+REFERENCE            product_dlc_cp1
+LANG_ENGLISH         "Special Ops Pack"
+
+REFERENCE            product_dlc_cp1_desc
+LANG_ENGLISH         "Special Ops Pack is required to play Special Ops"
+
+REFERENCE            product_dlc_cp2
+LANG_ENGLISH         "Survival Pack"
+
+REFERENCE            product_dlc_cp2_desc
+LANG_ENGLISH         "Survival Pack is required to play Special Ops Survival"
+
+REFERENCE            product_dlc_cp3
+LANG_ENGLISH         "Special Ops Pack 2"
+
+REFERENCE            product_dlc_cp3_desc
+LANG_ENGLISH         "Special Ops Pack 2 is required to play Special Ops"
+
+REFERENCE            product_dlc_mp1
+LANG_ENGLISH         "Multiplayer Pack"
+
+REFERENCE            product_dlc_mp1_desc
+LANG_ENGLISH         "Multiplayer Pack is required to play Multiplayer"
+
+REFERENCE            product_dlc_mp2
+LANG_ENGLISH         "Multiplayer Pack 2"
+
+REFERENCE            product_dlc_mp2_desc
+LANG_ENGLISH         "Multiplayer Pack 2 is required to play Multiplayer"
+
+REFERENCE            product_dlc_mp3
+LANG_ENGLISH         "Data Pack 1"
+
+REFERENCE            product_dlc_mp3_desc
+LANG_ENGLISH         "This pack is required for access to Campaign, Multiplayer, and Special Ops."
+
+REFERENCE            product_dlc_sp1
+LANG_ENGLISH         "Campaign Pack 1"
+
+REFERENCE            product_dlc_sp1_desc
+LANG_ENGLISH         "Campaign Pack 1 is required to play Campaign"
+
+REFERENCE            product_dlc_sp2
+LANG_ENGLISH         "Campaign Pack 2"
+
+REFERENCE            product_dlc_sp2_desc
+LANG_ENGLISH         "Campaign Pack 2 is required to play Campaign"
+
+REFERENCE            product_head_start_pack
+LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Three)"
+
+REFERENCE            product_head_start_pack_2
+LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack"
+
+REFERENCE            product_head_start_pack_2_desc
+LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by the mountains of Verdansk.
+
+This pack includes:
+
+- Epic Operator Skin for Wyatt
+- Legendary Marksman Rifle Blueprint
+- Epic Pistol Blueprint
+- Epic Tactical Knife
+- Epic Weapon Charm
+- Epic Animated Calling Card
+- Rare Spray
+- 60-minute 2x Weapon XP Token
+
+Timed exclusive for PlayStation??Plus members until October 1, 2020.
+
+Call of Duty??: Modern Warfare?? (or free-to-play Warzone) required. Sold separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_desc
+LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by the mountains of Verdansk.
+
+This pack includes:
+
+- Epic Operator Skin for Wyatt
+- Legendary Marksman Rifle Blueprint
+- Epic Pistol Blueprint
+- Epic Tactical Knife
+- Epic Weapon Charm
+- Epic Animated Calling Card
+- Rare Spray
+- 60-minute 2x Weapon XP Token
+
+Timed exclusive for PlayStation??Plus members until October 1, 2020.
+
+Call of Duty??: Modern Warfare?? (or free-to-play Warzone) required. Sold separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_mw2r
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? 2 Campaign Remastered"
+
+REFERENCE            product_mw2r_desc
+LANG_ENGLISH         "INCLUDES the Underwater Demo Team Classic Ghost Bundle, available for use in Call of Duty??: Modern Warfare??, including Warzone*.
+
+Gear up with one of the most iconic Ghost looks from the Call of Duty??: Modern Warfare?? 2 campaign mission 'The Only Easy Day??? Was Yesterday' and bring it  into Modern Warfare?? including the free to play version, Call of Duty??: Warzone.
+
+Bundle includes:
+
+- UDT Classic Ghost Skin
+- 2 Weapon Blueprints
+- Weapon Charm
+- Finishing Move
+- Voice Quip
+- Animated Calling Card
+- Emblem
+- 2 Battle Pass Tier Skips
+
+Relive the epic single-player Campaign from the 2009 blockbuster Call of Duty??: Modern Warfare?? 2, remastered for a new generation in true high-definition.
+
+The Call of Duty??: Modern Warfare?? 2 Campaign has been fully remastered with improved textures, animations, physically based rendering, high-dynamic range lighting and much more.
+
+*Call of Duty??: Modern Warfare?? or Call of Duty??: Warzone required (Sold/downloaded separately).
+
+?? 2009, 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. Contains the campaign mode from the original Call of Duty??: Modern Warfare?? 2 only; Multiplayer and cooperative modes are not included."
+
+REFERENCE            product_standard_edition
+LANG_ENGLISH         "Call of Duty??: Modern Warfare??"
+
+REFERENCE            product_standard_edition_desc
+LANG_ENGLISH         "The Standard Edition includes a Custom In-Game Tactical Knife and the XRK Weapons Pack."
+
+REFERENCE            starter_pack_desc
+LANG_ENGLISH         "Starter Pack contains..."
+
+REFERENCE            starterpack_title
+LANG_ENGLISH         "Starter Pack"
+
+REFERENCE            upsell_daily
+LANG_ENGLISH         "All daily challenges available in the full game."
+
+REFERENCE            upsell_hint
+LANG_ENGLISH         "[{ui_alt1}] Purchase full game"
+
+REFERENCE            upsell_missions
+LANG_ENGLISH         "All mission challenges available in the full game."
+
+REFERENCE            upsell_weekly
+LANG_ENGLISH         "All weekly challenges available in the full game."
+
+
+ENDMARKER

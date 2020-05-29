@@ -1,0 +1,4 @@
+1,shippingrecieving,CP_STRIKE/RESCUE_HOSTAGE,,1,primary,icon_waypoint_objective_general,704, 2363, 67,,480,90,30,
+2,exfil_hostage,CP_STRIKE/EXFIL_HOSTAGE,,1,step,icon_waypoint_objective_general,704, 1363, 67,,,,,
+3,defend_lz,CP_STRIKE/DEFEND_LZ,,1,step,icon_waypoint_objective_general,1080, -5616, -60,,120,,,
+4,call_exfil,CP_STRIKE/CALL_EXFIL,,1,step,icon_waypoint_objective_general,1080, -5616, -60,,,,,

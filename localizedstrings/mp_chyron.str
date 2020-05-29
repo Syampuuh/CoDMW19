@@ -1,0 +1,997 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            br_arm4
+LANG_ENGLISH         "ARM-4"
+
+REFERENCE            br_gulag_chyron_1
+LANG_ENGLISH         "Eliminate Enemy to Respawn"
+
+REFERENCE            br_gulag_chyron_title
+LANG_ENGLISH         "GULAG FIGHT"
+
+REFERENCE            br_infil_title
+LANG_ENGLISH         "Armistice"
+
+REFERENCE            br_operation
+LANG_ENGLISH         "'Operation: Rapid Sunder'"
+
+REFERENCE            mp_aniyah_allies_1
+LANG_ENGLISH         "Operation: Aniyah Palace"
+
+REFERENCE            mp_aniyah_allies_2
+LANG_ENGLISH         "Day 107: 13:43:"
+
+REFERENCE            mp_aniyah_allies_3
+LANG_ENGLISH         "2 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_aniyah_allies_4
+LANG_ENGLISH         "Demon Dogs - Detachment Bravo"
+
+REFERENCE            mp_aniyah_axis_1
+LANG_ENGLISH         "Operation: Aniyah Palace"
+
+REFERENCE            mp_aniyah_axis_2
+LANG_ENGLISH         "Day 107: 13:43:"
+
+REFERENCE            mp_aniyah_axis_3
+LANG_ENGLISH         "2 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_aniyah_axis_4
+LANG_ENGLISH         "Jackals - Squadron 7"
+
+REFERENCE            mp_aniyah_tac_allies_1
+LANG_ENGLISH         "Operation: Aniyah Incursion"
+
+REFERENCE            mp_aniyah_tac_allies_2
+LANG_ENGLISH         "Day 102: 13:43:"
+
+REFERENCE            mp_aniyah_tac_allies_3
+LANG_ENGLISH         "2 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_aniyah_tac_allies_4
+LANG_ENGLISH         "Demon Dogs - Detachment Bravo"
+
+REFERENCE            mp_aniyah_tac_axis_1
+LANG_ENGLISH         "Operation: Aniyah Incursion"
+
+REFERENCE            mp_aniyah_tac_axis_2
+LANG_ENGLISH         "Day 102: 13:43:"
+
+REFERENCE            mp_aniyah_tac_axis_3
+LANG_ENGLISH         "2 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_aniyah_tac_axis_4
+LANG_ENGLISH         "Jackals - Squadron 7"
+
+REFERENCE            mp_backlot2_allies_1
+LANG_ENGLISH         "Operation: Talsik Backlot"
+
+REFERENCE            mp_backlot2_allies_2
+LANG_ENGLISH         "Day 87 1:03:"
+
+REFERENCE            mp_backlot2_allies_3
+LANG_ENGLISH         "Meska, Urzikstan"
+
+REFERENCE            mp_backlot2_allies_4
+LANG_ENGLISH         "Demon Dogs - A Squadron"
+
+REFERENCE            mp_backlot2_axis_1
+LANG_ENGLISH         "Operation: Talsik Backlot"
+
+REFERENCE            mp_backlot2_axis_2
+LANG_ENGLISH         "Day 87 1:03:"
+
+REFERENCE            mp_backlot2_axis_3
+LANG_ENGLISH         "Meska, Urzikstan"
+
+REFERENCE            mp_backlot2_axis_4
+LANG_ENGLISH         "Jackals - Expedition Unit"
+
+REFERENCE            mp_bigmap_locale_10_allies_1
+LANG_ENGLISH         "Operation: Verdansk International Airport"
+
+REFERENCE            mp_bigmap_locale_10_allies_2
+LANG_ENGLISH         "Day 104 1:21:"
+
+REFERENCE            mp_bigmap_locale_10_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_10_allies_4
+LANG_ENGLISH         "Warcom - 23rd Battalion"
+
+REFERENCE            mp_bigmap_locale_10_axis_1
+LANG_ENGLISH         "Operation: Verdansk International Airport"
+
+REFERENCE            mp_bigmap_locale_10_axis_2
+LANG_ENGLISH         "Day 104 1:21:"
+
+REFERENCE            mp_bigmap_locale_10_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_10_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
+
+REFERENCE            mp_bigmap_locale_16_allies_1
+LANG_ENGLISH         "'Operation Black Box'"
+
+REFERENCE            mp_bigmap_locale_16_allies_2
+LANG_ENGLISH         "Day 21 10:05:"
+
+REFERENCE            mp_bigmap_locale_16_allies_3
+LANG_ENGLISH         "Karst River Quarry, Kastovia"
+
+REFERENCE            mp_bigmap_locale_16_allies_4
+LANG_ENGLISH         "MSOC - Detachment Delta"
+
+REFERENCE            mp_bigmap_locale_16_axis_1
+LANG_ENGLISH         "'Operation Fire Pit'"
+
+REFERENCE            mp_bigmap_locale_16_axis_2
+LANG_ENGLISH         "Day 21 10:05:"
+
+REFERENCE            mp_bigmap_locale_16_axis_3
+LANG_ENGLISH         "Karst River Quarry, Kastovia"
+
+REFERENCE            mp_bigmap_locale_16_axis_4
+LANG_ENGLISH         "7th Spetsnaz Brigade"
+
+REFERENCE            mp_bigmap_locale_17_allies_1
+LANG_ENGLISH         "'Operation: Aniyah Palace'"
+
+REFERENCE            mp_bigmap_locale_17_allies_2
+LANG_ENGLISH         "Day 107: 13:43:"
+
+REFERENCE            mp_bigmap_locale_17_allies_3
+LANG_ENGLISH         "2 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_bigmap_locale_17_allies_4
+LANG_ENGLISH         "Demon Dogs - Detachment Bravo"
+
+REFERENCE            mp_bigmap_locale_17_axis_1
+LANG_ENGLISH         "'Operation: Aniyah Palace'"
+
+REFERENCE            mp_bigmap_locale_17_axis_2
+LANG_ENGLISH         "Day 107: 13:43:"
+
+REFERENCE            mp_bigmap_locale_17_axis_3
+LANG_ENGLISH         "2 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_bigmap_locale_17_axis_4
+LANG_ENGLISH         "Jackals - Squadron 7"
+
+REFERENCE            mp_bigmap_locale_3_allies_1
+LANG_ENGLISH         "'Operation Lifeboat'"
+
+REFERENCE            mp_bigmap_locale_3_allies_2
+LANG_ENGLISH         "Day 13 10:22:"
+
+REFERENCE            mp_bigmap_locale_3_allies_3
+LANG_ENGLISH         "Port of Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_3_allies_4
+LANG_ENGLISH         "MSOC - Detachment Echo"
+
+REFERENCE            mp_bigmap_locale_3_axis_1
+LANG_ENGLISH         "'Operation Warship'"
+
+REFERENCE            mp_bigmap_locale_3_axis_2
+LANG_ENGLISH         "Day 13 10:22:"
+
+REFERENCE            mp_bigmap_locale_3_axis_3
+LANG_ENGLISH         "Port of Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_3_axis_4
+LANG_ENGLISH         "19th Spetsnaz Brigade"
+
+REFERENCE            mp_bigmap_locale_4_allies_1
+LANG_ENGLISH         "'Operation Broken Wings'"
+
+REFERENCE            mp_bigmap_locale_4_allies_2
+LANG_ENGLISH         "Day 41 10:15:"
+
+REFERENCE            mp_bigmap_locale_4_allies_3
+LANG_ENGLISH         "Aircraft Graveyard - Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_4_allies_4
+LANG_ENGLISH         "MSOC - Detachment Alpha"
+
+REFERENCE            mp_bigmap_locale_4_axis_1
+LANG_ENGLISH         "'Operation Scrapyard'"
+
+REFERENCE            mp_bigmap_locale_4_axis_2
+LANG_ENGLISH         "Day 41 10:15:"
+
+REFERENCE            mp_bigmap_locale_4_axis_3
+LANG_ENGLISH         "Aircraft Graveyard - Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_4_axis_4
+LANG_ENGLISH         "22th Spetsnaz Brigade"
+
+REFERENCE            mp_bigmap_locale_5_allies_1
+LANG_ENGLISH         "'Operation Black Box'"
+
+REFERENCE            mp_bigmap_locale_5_allies_2
+LANG_ENGLISH         "Day 21 10:05:"
+
+REFERENCE            mp_bigmap_locale_5_allies_3
+LANG_ENGLISH         "Karst River Quarry, Kastovia"
+
+REFERENCE            mp_bigmap_locale_5_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_bigmap_locale_5_axis_1
+LANG_ENGLISH         "'Operation Fire Pit'"
+
+REFERENCE            mp_bigmap_locale_5_axis_2
+LANG_ENGLISH         "Day 21 10:05:"
+
+REFERENCE            mp_bigmap_locale_5_axis_3
+LANG_ENGLISH         "Karst River Quarry, Kastovia"
+
+REFERENCE            mp_bigmap_locale_5_axis_4
+LANG_ENGLISH         "7th Spetsnaz Brigade"
+
+REFERENCE            mp_bigmap_locale_6_allies_1
+LANG_ENGLISH         "'Operation Burndown'"
+
+REFERENCE            mp_bigmap_locale_6_allies_2
+LANG_ENGLISH         "Day 22 10:25:"
+
+REFERENCE            mp_bigmap_locale_6_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_6_allies_4
+LANG_ENGLISH         "MSOC - Detachment Alpha"
+
+REFERENCE            mp_bigmap_locale_6_axis_1
+LANG_ENGLISH         "'Operation Scorched'"
+
+REFERENCE            mp_bigmap_locale_6_axis_2
+LANG_ENGLISH         "Day 22 10:25:"
+
+REFERENCE            mp_bigmap_locale_6_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_6_axis_4
+LANG_ENGLISH         "31st Spetsnaz Brigade"
+
+REFERENCE            mp_bigmap_locale_8_allies_1
+LANG_ENGLISH         "'Operation Burndown'"
+
+REFERENCE            mp_bigmap_locale_8_allies_2
+LANG_ENGLISH         "Day 41 10:15:"
+
+REFERENCE            mp_bigmap_locale_8_allies_3
+LANG_ENGLISH         "Downtown Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_8_allies_4
+LANG_ENGLISH         "Warcom - Detachment Alpha"
+
+REFERENCE            mp_bigmap_locale_8_axis_1
+LANG_ENGLISH         "'Operation Scorched'"
+
+REFERENCE            mp_bigmap_locale_8_axis_2
+LANG_ENGLISH         "Day 41 10:15:"
+
+REFERENCE            mp_bigmap_locale_8_axis_3
+LANG_ENGLISH         "Downtown Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_8_axis_4
+LANG_ENGLISH         "Jackals Squadron 4"
+
+REFERENCE            mp_bigmap_locale_9_allies_1
+LANG_ENGLISH         "'Operation Sidelines'"
+
+REFERENCE            mp_bigmap_locale_9_allies_2
+LANG_ENGLISH         "Day 53 10:05:"
+
+REFERENCE            mp_bigmap_locale_9_allies_3
+LANG_ENGLISH         "Eastern Farmlands, Kastovia"
+
+REFERENCE            mp_bigmap_locale_9_allies_4
+LANG_ENGLISH         "Devil Dogs - Unit 3"
+
+REFERENCE            mp_bigmap_locale_9_axis_1
+LANG_ENGLISH         "'Operation Windmill'"
+
+REFERENCE            mp_bigmap_locale_9_axis_2
+LANG_ENGLISH         "Day 53 10:05:"
+
+REFERENCE            mp_bigmap_locale_9_axis_3
+LANG_ENGLISH         "Eastern Farmlands, Kastovia"
+
+REFERENCE            mp_bigmap_locale_9_axis_4
+LANG_ENGLISH         "16th Chimera Force"
+
+REFERENCE            mp_boneyard_gw_allies_1
+LANG_ENGLISH         "'Operation Broken Wings'"
+
+REFERENCE            mp_boneyard_gw_allies_2
+LANG_ENGLISH         "Day 41 10:15:"
+
+REFERENCE            mp_boneyard_gw_allies_3
+LANG_ENGLISH         "Aircraft Graveyard - Verdansk, Kastovia"
+
+REFERENCE            mp_boneyard_gw_allies_4
+LANG_ENGLISH         "MSOC - Detachment Alpha"
+
+REFERENCE            mp_boneyard_gw_axis_1
+LANG_ENGLISH         "'Operation Scrapyard'"
+
+REFERENCE            mp_boneyard_gw_axis_2
+LANG_ENGLISH         "Day 41 10:15:"
+
+REFERENCE            mp_boneyard_gw_axis_3
+LANG_ENGLISH         "Aircraft Graveyard - Verdansk, Kastovia"
+
+REFERENCE            mp_boneyard_gw_axis_4
+LANG_ENGLISH         "22nd Spetsnaz Brigade"
+
+REFERENCE            mp_cave_allies_1
+LANG_ENGLISH         "Operation: Azhir Cave"
+
+REFERENCE            mp_cave_allies_2
+LANG_ENGLISH         "Day 122 22:55:"
+
+REFERENCE            mp_cave_allies_3
+LANG_ENGLISH         "4 km outside of Tobraka, Urzikstan"
+
+REFERENCE            mp_cave_allies_4
+LANG_ENGLISH         "Warcom - 1st Battalion"
+
+REFERENCE            mp_cave_am_allies_1
+LANG_ENGLISH         "Operation: Azhir Cave"
+
+REFERENCE            mp_cave_am_allies_2
+LANG_ENGLISH         "Day 122 11:55:"
+
+REFERENCE            mp_cave_am_allies_3
+LANG_ENGLISH         "4 km outside of Tobraka, Urzikstan"
+
+REFERENCE            mp_cave_am_allies_4
+LANG_ENGLISH         "Warcom - 1st Battalion"
+
+REFERENCE            mp_cave_am_axis_1
+LANG_ENGLISH         "Operation: Azhir Cave"
+
+REFERENCE            mp_cave_am_axis_2
+LANG_ENGLISH         "Day 122 11:55:"
+
+REFERENCE            mp_cave_am_axis_3
+LANG_ENGLISH         "4 km outside of Tobraka, Urzikstan"
+
+REFERENCE            mp_cave_am_axis_4
+LANG_ENGLISH         "Jackals - 3rd Unit"
+
+REFERENCE            mp_cave_axis_1
+LANG_ENGLISH         "Operation: Azhir Cave"
+
+REFERENCE            mp_cave_axis_2
+LANG_ENGLISH         "Day 122 22:55:"
+
+REFERENCE            mp_cave_axis_3
+LANG_ENGLISH         "4 km outside of Tobraka, Urzikstan"
+
+REFERENCE            mp_cave_axis_4
+LANG_ENGLISH         "Jackals - 3rd Unit"
+
+REFERENCE            mp_crash2_allies_1
+LANG_ENGLISH         "Operation: Crash"
+
+REFERENCE            mp_crash2_allies_2
+LANG_ENGLISH         "Day 1 - 15:20:"
+
+REFERENCE            mp_crash2_allies_3
+LANG_ENGLISH         "Location: 16km outside of Faridah, Urzikstan"
+
+REFERENCE            mp_crash2_allies_4
+LANG_ENGLISH         "Warcom"
+
+REFERENCE            mp_crash2_axis_1
+LANG_ENGLISH         "Operation: Crash"
+
+REFERENCE            mp_crash2_axis_2
+LANG_ENGLISH         "Day 1 - 15:20:"
+
+REFERENCE            mp_crash2_axis_3
+LANG_ENGLISH         "Location: 16km outside of Faridah, Urzikstan"
+
+REFERENCE            mp_crash2_axis_4
+LANG_ENGLISH         "Spetsnaz"
+
+REFERENCE            mp_deadzone_allies_1
+LANG_ENGLISH         "'Operation Renaissance'"
+
+REFERENCE            mp_deadzone_allies_2
+LANG_ENGLISH         "Day 37 18:55:"
+
+REFERENCE            mp_deadzone_allies_3
+LANG_ENGLISH         "9 km outside of Venskaya, Kastovia"
+
+REFERENCE            mp_deadzone_allies_4
+LANG_ENGLISH         "MSOC - Detachment Alpha"
+
+REFERENCE            mp_deadzone_axis_1
+LANG_ENGLISH         "'Operation Salvation'"
+
+REFERENCE            mp_deadzone_axis_2
+LANG_ENGLISH         "Day 37 18:55:"
+
+REFERENCE            mp_deadzone_axis_3
+LANG_ENGLISH         "9 km outside of Venskaya, Kastovia"
+
+REFERENCE            mp_deadzone_axis_4
+LANG_ENGLISH         "22nd Spetsnaz Brigade"
+
+REFERENCE            mp_donetsk_allies_1
+LANG_ENGLISH         "'Operation Empty Quiver'"
+
+REFERENCE            mp_donetsk_allies_2
+LANG_ENGLISH         "Day 215 16:25:"
+
+REFERENCE            mp_donetsk_allies_3
+LANG_ENGLISH         "Kuibyshevskyi District, Donetsk"
+
+REFERENCE            mp_donetsk_allies_4
+LANG_ENGLISH         "MARSOC - Detachment Bravo"
+
+REFERENCE            mp_donetsk_axis_1
+LANG_ENGLISH         "'Operation Tishina'"
+
+REFERENCE            mp_donetsk_axis_2
+LANG_ENGLISH         "Day 215 16:25:"
+
+REFERENCE            mp_donetsk_axis_3
+LANG_ENGLISH         "Kuibyshevskyi District, Donetsk"
+
+REFERENCE            mp_donetsk_axis_4
+LANG_ENGLISH         "22nd Spetsnaz Brigade"
+
+REFERENCE            mp_downtown_gw_allies_1
+LANG_ENGLISH         "'Operation Burndown'"
+
+REFERENCE            mp_downtown_gw_allies_2
+LANG_ENGLISH         "Day 22 10:25:"
+
+REFERENCE            mp_downtown_gw_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_downtown_gw_allies_4
+LANG_ENGLISH         "MSOC - Detachment Alpha"
+
+REFERENCE            mp_downtown_gw_axis_1
+LANG_ENGLISH         "'Operation Scorched'"
+
+REFERENCE            mp_downtown_gw_axis_2
+LANG_ENGLISH         "Day 22 10:25:"
+
+REFERENCE            mp_downtown_gw_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_downtown_gw_axis_4
+LANG_ENGLISH         "31st Spetsnaz Brigade"
+
+REFERENCE            mp_emporium_allies_1
+LANG_ENGLISH         "Operation: Atlas Superstore"
+
+REFERENCE            mp_emporium_allies_2
+LANG_ENGLISH         "Day 79 10:45:"
+
+REFERENCE            mp_emporium_allies_3
+LANG_ENGLISH         "Verdansk"
+
+REFERENCE            mp_emporium_allies_4
+LANG_ENGLISH         "Warcom"
+
+REFERENCE            mp_emporium_axis_1
+LANG_ENGLISH         "Operation: Atlas Superstore"
+
+REFERENCE            mp_emporium_axis_2
+LANG_ENGLISH         "Day 79 10:45:"
+
+REFERENCE            mp_emporium_axis_3
+LANG_ENGLISH         "Verdansk"
+
+REFERENCE            mp_emporium_axis_4
+LANG_ENGLISH         "Spetsnaz"
+
+REFERENCE            mp_euphrates_allies_1
+LANG_ENGLISH         "Operation: Euphrates Bridge"
+
+REFERENCE            mp_euphrates_allies_2
+LANG_ENGLISH         "Day 72 18:26:"
+
+REFERENCE            mp_euphrates_allies_3
+LANG_ENGLISH         "7 km outside Haditha, Urzikstan"
+
+REFERENCE            mp_euphrates_allies_4
+LANG_ENGLISH         "Demon Dogs - Detachment Charlie"
+
+REFERENCE            mp_euphrates_axis_1
+LANG_ENGLISH         "Operation: Euphrates Bridge"
+
+REFERENCE            mp_euphrates_axis_2
+LANG_ENGLISH         "Day 72 18:26:"
+
+REFERENCE            mp_euphrates_axis_3
+LANG_ENGLISH         "7 km outside Haditha, Urzikstan"
+
+REFERENCE            mp_euphrates_axis_4
+LANG_ENGLISH         "Jackals - Company C"
+
+REFERENCE            mp_faridah_allies_1
+LANG_ENGLISH         "'The Lion's Den'"
+
+REFERENCE            mp_faridah_allies_2
+LANG_ENGLISH         "Day 213 - 08:54:"
+
+REFERENCE            mp_faridah_allies_3
+LANG_ENGLISH         "Faridah, Afghanistan "
+
+REFERENCE            mp_faridah_allies_4
+LANG_ENGLISH         "MARSOC - Detachment Alpha"
+
+REFERENCE            mp_farms2_gw_allies_1
+LANG_ENGLISH         "'Operation Sidelines'"
+
+REFERENCE            mp_farms2_gw_allies_2
+LANG_ENGLISH         "Day 53 10:05:"
+
+REFERENCE            mp_farms2_gw_allies_3
+LANG_ENGLISH         "Eastern Farmlands, Kastovia"
+
+REFERENCE            mp_farms2_gw_allies_4
+LANG_ENGLISH         "Devil Dogs - Unit 3"
+
+REFERENCE            mp_farms2_gw_axis_1
+LANG_ENGLISH         "'Operation Windmill'"
+
+REFERENCE            mp_farms2_gw_axis_2
+LANG_ENGLISH         "Day 53 10:05:"
+
+REFERENCE            mp_farms2_gw_axis_3
+LANG_ENGLISH         "Eastern Farmlands, Kastovia"
+
+REFERENCE            mp_farms2_gw_axis_4
+LANG_ENGLISH         "16th Chimera Force"
+
+REFERENCE            mp_hackney_am_allies_1
+LANG_ENGLISH         "Operation: Hackney Yard"
+
+REFERENCE            mp_hackney_am_allies_2
+LANG_ENGLISH         "Day 0 - 08:08:"
+
+REFERENCE            mp_hackney_am_allies_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_hackney_am_allies_4
+LANG_ENGLISH         "SAS - Detachment Alpha"
+
+REFERENCE            mp_hackney_am_axis_1
+LANG_ENGLISH         "Operation: Hackney Yard"
+
+REFERENCE            mp_hackney_am_axis_2
+LANG_ENGLISH         "Day 0 - 08:08:"
+
+REFERENCE            mp_hackney_am_axis_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_hackney_am_axis_4
+LANG_ENGLISH         "Chimera - Unit 5"
+
+REFERENCE            mp_hackney_yard_allies_1
+LANG_ENGLISH         "Operation: Hackney Yard"
+
+REFERENCE            mp_hackney_yard_allies_2
+LANG_ENGLISH         "Day 0 - 03:08:"
+
+REFERENCE            mp_hackney_yard_allies_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_hackney_yard_allies_4
+LANG_ENGLISH         "SAS - Detachment Alpha"
+
+REFERENCE            mp_hackney_yard_axis_1
+LANG_ENGLISH         "Operation: Hackney Yard"
+
+REFERENCE            mp_hackney_yard_axis_2
+LANG_ENGLISH         "Day 0 - 03:08:"
+
+REFERENCE            mp_hackney_yard_axis_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_hackney_yard_axis_4
+LANG_ENGLISH         "Chimera - Unit 5"
+
+REFERENCE            mp_hardhat_allies_1
+LANG_ENGLISH         "Operation: Hardhat"
+
+REFERENCE            mp_hardhat_allies_2
+LANG_ENGLISH         "Day 157 10:27:"
+
+REFERENCE            mp_hardhat_allies_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_hardhat_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_hardhat_axis_1
+LANG_ENGLISH         "Operation: Hardhat"
+
+REFERENCE            mp_hardhat_axis_2
+LANG_ENGLISH         "Day 157  10:27:"
+
+REFERENCE            mp_hardhat_axis_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_hardhat_axis_4
+LANG_ENGLISH         "Chimera - Unit 1"
+
+REFERENCE            mp_hideout_allies_1
+LANG_ENGLISH         "Operation: Khandor Hideout"
+
+REFERENCE            mp_hideout_allies_2
+LANG_ENGLISH         "Day 9 9:40:"
+
+REFERENCE            mp_hideout_allies_3
+LANG_ENGLISH         "Khandor, Urzikstan"
+
+REFERENCE            mp_hideout_allies_4
+LANG_ENGLISH         "Warcom - 23rd Battalion"
+
+REFERENCE            mp_hideout_axis_1
+LANG_ENGLISH         "Operation: Khandor Hideout"
+
+REFERENCE            mp_hideout_axis_2
+LANG_ENGLISH         "Day 9 9:40:"
+
+REFERENCE            mp_hideout_axis_3
+LANG_ENGLISH         "Khandor, Urzikstan"
+
+REFERENCE            mp_hideout_axis_4
+LANG_ENGLISH         "Chimera - Unit 1"
+
+REFERENCE            mp_m_speed_allies_1
+LANG_ENGLISH         "'Operation: Shoot House'"
+
+REFERENCE            mp_m_speed_allies_2
+LANG_ENGLISH         "Day 66 14:22:"
+
+REFERENCE            mp_m_speed_allies_3
+LANG_ENGLISH         "Classified"
+
+REFERENCE            mp_m_speed_allies_4
+LANG_ENGLISH         "SAS - Detachment Bravo"
+
+REFERENCE            mp_m_speed_axis_1
+LANG_ENGLISH         "'Operation: Shoot House'"
+
+REFERENCE            mp_m_speed_axis_2
+LANG_ENGLISH         "Day 66 14:22:"
+
+REFERENCE            mp_m_speed_axis_3
+LANG_ENGLISH         "Classified"
+
+REFERENCE            mp_m_speed_axis_4
+LANG_ENGLISH         "31st Spetsnaz Brigade"
+
+REFERENCE            mp_petrograd_allies_1
+LANG_ENGLISH         "Operation: St. Petrograd"
+
+REFERENCE            mp_petrograd_allies_2
+LANG_ENGLISH         "Day 2 - 19:12:"
+
+REFERENCE            mp_petrograd_allies_3
+LANG_ENGLISH         "Location: St. Petrograd, Kastovia"
+
+REFERENCE            mp_petrograd_allies_4
+LANG_ENGLISH         "SAS - Detachment Charlie"
+
+REFERENCE            mp_petrograd_axis_1
+LANG_ENGLISH         "Operation: St. Petrograd"
+
+REFERENCE            mp_petrograd_axis_2
+LANG_ENGLISH         "Day 2 - 19:12:"
+
+REFERENCE            mp_petrograd_axis_3
+LANG_ENGLISH         "Location: St. Petrograd, Kastovia"
+
+REFERENCE            mp_petrograd_axis_4
+LANG_ENGLISH         "22nd Spetsnaz Brigade"
+
+REFERENCE            mp_piccadilly_allies_1
+LANG_ENGLISH         "Operation: Piccadilly"
+
+REFERENCE            mp_piccadilly_allies_2
+LANG_ENGLISH         "Day 1 - 7:00:"
+
+REFERENCE            mp_piccadilly_allies_3
+LANG_ENGLISH         "Location: London, England"
+
+REFERENCE            mp_piccadilly_allies_4
+LANG_ENGLISH         "SAS - Detachment Alpha"
+
+REFERENCE            mp_piccadilly_axis_1
+LANG_ENGLISH         "Operation: Piccadilly"
+
+REFERENCE            mp_piccadilly_axis_2
+LANG_ENGLISH         "Day 1 - 7:00:"
+
+REFERENCE            mp_piccadilly_axis_3
+LANG_ENGLISH         "Location: London, England"
+
+REFERENCE            mp_piccadilly_axis_4
+LANG_ENGLISH         "Chimera - Unit 1"
+
+REFERENCE            mp_port2_gw_allies_1
+LANG_ENGLISH         "'Operation Lifeboat'"
+
+REFERENCE            mp_port2_gw_allies_2
+LANG_ENGLISH         "Day 13 10:22:"
+
+REFERENCE            mp_port2_gw_allies_3
+LANG_ENGLISH         "Port of Verdansk, Kastovia"
+
+REFERENCE            mp_port2_gw_allies_4
+LANG_ENGLISH         "MSOC - Detachment Echo"
+
+REFERENCE            mp_port2_gw_axis_1
+LANG_ENGLISH         "'Operation Warship'"
+
+REFERENCE            mp_port2_gw_axis_2
+LANG_ENGLISH         "Day 13 10:22:"
+
+REFERENCE            mp_port2_gw_axis_3
+LANG_ENGLISH         "Port of Verdansk, Kastovia"
+
+REFERENCE            mp_port2_gw_axis_4
+LANG_ENGLISH         "19th Spetsnaz Brigade"
+
+REFERENCE            mp_quarry2_allies_1
+LANG_ENGLISH         "'Operation Black Box'"
+
+REFERENCE            mp_quarry2_allies_2
+LANG_ENGLISH         "Day 21 10:05:"
+
+REFERENCE            mp_quarry2_allies_3
+LANG_ENGLISH         "Karst River Quarry, Kastovia"
+
+REFERENCE            mp_quarry2_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_quarry2_axis_1
+LANG_ENGLISH         "'Operation Fire Pit'"
+
+REFERENCE            mp_quarry2_axis_2
+LANG_ENGLISH         "Day 21 10:05:"
+
+REFERENCE            mp_quarry2_axis_3
+LANG_ENGLISH         "Karst River Quarry, Kastovia"
+
+REFERENCE            mp_quarry2_axis_4
+LANG_ENGLISH         "7th Spetsnaz Brigade"
+
+REFERENCE            mp_raid_allies_1
+LANG_ENGLISH         "Operation: Grazna Raid"
+
+REFERENCE            mp_raid_allies_2
+LANG_ENGLISH         "Day 194 17:55:"
+
+REFERENCE            mp_raid_allies_3
+LANG_ENGLISH         "5 km outside of Venskaya, Kastovia"
+
+REFERENCE            mp_raid_allies_4
+LANG_ENGLISH         "SAS - Detachment Charlie"
+
+REFERENCE            mp_raid_axis_1
+LANG_ENGLISH         "Operation: Grazna Raid"
+
+REFERENCE            mp_raid_axis_2
+LANG_ENGLISH         "Day 194 17:55:"
+
+REFERENCE            mp_raid_axis_3
+LANG_ENGLISH         "5 km outside of Venskaya, Kastovia"
+
+REFERENCE            mp_raid_axis_4
+LANG_ENGLISH         "22nd Spetsnaz Brigade"
+
+REFERENCE            mp_runner_allies_1
+LANG_ENGLISH         "Operation: Gun Runner"
+
+REFERENCE            mp_runner_allies_2
+LANG_ENGLISH         "Day 215 17:55:"
+
+REFERENCE            mp_runner_allies_3
+LANG_ENGLISH         "9 km outside of Tavorsk, Kastovia"
+
+REFERENCE            mp_runner_allies_4
+LANG_ENGLISH         "Warcom - 23rd Battalion"
+
+REFERENCE            mp_runner_axis_1
+LANG_ENGLISH         "Operation: Gun Runner"
+
+REFERENCE            mp_runner_axis_2
+LANG_ENGLISH         "Day 215 17:55:"
+
+REFERENCE            mp_runner_axis_3
+LANG_ENGLISH         "9 km outside of Tavorsk, Kastovia"
+
+REFERENCE            mp_runner_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
+
+REFERENCE            mp_runner_pm_allies_1
+LANG_ENGLISH         "Operation: Gun Runner"
+
+REFERENCE            mp_runner_pm_allies_2
+LANG_ENGLISH         "Day 215 01:55:"
+
+REFERENCE            mp_runner_pm_allies_3
+LANG_ENGLISH         "9 km outside of Tavorsk, Kastovia"
+
+REFERENCE            mp_runner_pm_allies_4
+LANG_ENGLISH         "Warcom - 23rd Battalion"
+
+REFERENCE            mp_runner_pm_axis_1
+LANG_ENGLISH         "Operation: Gun Runner"
+
+REFERENCE            mp_runner_pm_axis_2
+LANG_ENGLISH         "Day 215 01:55:"
+
+REFERENCE            mp_runner_pm_axis_3
+LANG_ENGLISH         "9 km outside of Tavorsk, Kastovia"
+
+REFERENCE            mp_runner_pm_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
+
+REFERENCE            mp_rust_allies_1
+LANG_ENGLISH         "Operation: Rust"
+
+REFERENCE            mp_rust_allies_2
+LANG_ENGLISH         "Day 80 10:30:"
+
+REFERENCE            mp_rust_allies_3
+LANG_ENGLISH         "Classified"
+
+REFERENCE            mp_rust_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_rust_axis_1
+LANG_ENGLISH         "Operation: Rust"
+
+REFERENCE            mp_rust_axis_2
+LANG_ENGLISH         "Day 80 10:30:"
+
+REFERENCE            mp_rust_axis_3
+LANG_ENGLISH         "Classified"
+
+REFERENCE            mp_rust_axis_4
+LANG_ENGLISH         "Jackals - Expedition Unit"
+
+REFERENCE            mp_shipment_allies_1
+LANG_ENGLISH         "Operation: Shipment"
+
+REFERENCE            mp_shipment_allies_2
+LANG_ENGLISH         "Day 23 10:33:"
+
+REFERENCE            mp_shipment_allies_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_shipment_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_shipment_axis_1
+LANG_ENGLISH         "Operation: Shipment"
+
+REFERENCE            mp_shipment_axis_2
+LANG_ENGLISH         "Day 23 10:33:"
+
+REFERENCE            mp_shipment_axis_3
+LANG_ENGLISH         "London, England"
+
+REFERENCE            mp_shipment_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
+
+REFERENCE            mp_spear_allies_1
+LANG_ENGLISH         "Operation: Rammaza"
+
+REFERENCE            mp_spear_allies_2
+LANG_ENGLISH         "Day 306 18:43:"
+
+REFERENCE            mp_spear_allies_3
+LANG_ENGLISH         "14 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_spear_allies_4
+LANG_ENGLISH         "Demon Dogs - A Squadron"
+
+REFERENCE            mp_spear_axis_1
+LANG_ENGLISH         "Operation: Rammaza"
+
+REFERENCE            mp_spear_axis_2
+LANG_ENGLISH         "Day 306 18:43:"
+
+REFERENCE            mp_spear_axis_3
+LANG_ENGLISH         "14 km outside of El Nadaar, Urzikstan"
+
+REFERENCE            mp_spear_axis_4
+LANG_ENGLISH         "Jackals - Expedition Unit"
+
+REFERENCE            mp_spear_pm_allies_1
+LANG_ENGLISH         "Operation: Rammaza"
+
+REFERENCE            mp_spear_pm_allies_2
+LANG_ENGLISH         "Day 306 18:43:"
+
+REFERENCE            mp_spear_pm_allies_3
+LANG_ENGLISH         "Ar Raqqah, Urzikstan"
+
+REFERENCE            mp_spear_pm_allies_4
+LANG_ENGLISH         "Demon Dogs - A Squadron"
+
+REFERENCE            mp_spear_pm_axis_1
+LANG_ENGLISH         "Operation: Rammaza"
+
+REFERENCE            mp_spear_pm_axis_2
+LANG_ENGLISH         "Day 306 18:43:"
+
+REFERENCE            mp_spear_pm_axis_3
+LANG_ENGLISH         "Ar Raqqah, Urzikstan"
+
+REFERENCE            mp_spear_pm_axis_4
+LANG_ENGLISH         "Jackals - Expedition Unit"
+
+REFERENCE            mp_vacant_allies_1
+LANG_ENGLISH         "Operation: Vacant"
+
+REFERENCE            mp_vacant_allies_2
+LANG_ENGLISH         "Day 78 10:55:"
+
+REFERENCE            mp_vacant_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_vacant_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_vacant_axis_1
+LANG_ENGLISH         "Operation: Vacant"
+
+REFERENCE            mp_vacant_axis_2
+LANG_ENGLISH         "Day 78 10:55:"
+
+REFERENCE            mp_vacant_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia
+"
+
+REFERENCE            mp_vacant_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
+
+REFERENCE            mp_village2_allies_1
+LANG_ENGLISH         "Operation: Hovec Sawmill"
+
+REFERENCE            mp_village2_allies_2
+LANG_ENGLISH         "Day 119 2:21:"
+
+REFERENCE            mp_village2_allies_3
+LANG_ENGLISH         "14 km outside of Venskaya, Kastovia"
+
+REFERENCE            mp_village2_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_village2_axis_1
+LANG_ENGLISH         "Operation: Hovec Sawmill"
+
+REFERENCE            mp_village2_axis_2
+LANG_ENGLISH         "Day 119 2:21:"
+
+REFERENCE            mp_village2_axis_3
+LANG_ENGLISH         "14 km outside of Venskaya, Kastovia"
+
+REFERENCE            mp_village2_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
+
+REFERENCE            rng_datetime
+LANG_ENGLISH         "Day &&1, &&2:&&3:&&4"
+
+
+ENDMARKER

@@ -1,0 +1,6 @@
+j_spine4, 4.0f, 6.0f,j_shoulder_ri,
+j_spine4, 4.0f, -6.0f,j_shoulder_le,
+j_spine4, 5.0f, 0.0f,j_head,
+j_neck,0.0f,0.0f,j_head,
+j_spinelower, 0.0f, 6.0f,j_hip_ri,
+j_spinelower, 0.0f, -6.0f,j_hip_le,

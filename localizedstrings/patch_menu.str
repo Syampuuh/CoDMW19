@@ -1,0 +1,282 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            attachment_barrel_caps
+LANG_ENGLISH         "BARREL"
+
+REFERENCE            attachment_barrel_desc
+LANG_ENGLISH         "Reduce muzzle flash, go silent or extend your weapon's range and damage. Includes: Flash Suppressor, Silencer, Muzzle Brake and Chrome Lined Barrel."
+
+REFERENCE            attachment_mod_caps
+LANG_ENGLISH         "MOD"
+
+REFERENCE            attachment_mod_desc
+LANG_ENGLISH         "Modify your weapon's fire type and ammo. Includes: Armor-Piercing, Rapid Fire, Extended Mags, Slug Rounds, Automatic Fire, Semi-automatic, Burst Fire, Radar, Scrambler, and Titanium Frame."
+
+REFERENCE            attachment_sights_caps
+LANG_ENGLISH         "SIGHTS"
+
+REFERENCE            attachment_sights_desc
+LANG_ENGLISH         "Advance optical precision sights. Includes: Iron Sights, Red Dot, ACOG, Holographic, VMR, Thermal, Tracker, and Variable Zoom Lens."
+
+REFERENCE            attachment_under_barrel_caps
+LANG_ENGLISH         "UNDER BARREL"
+
+REFERENCE            attachment_under_barrel_desc
+LANG_ENGLISH         "Add more stability and firepower to your weapon. Includes: Foregrip, Under Barrel Shotgun and Grenade Launcher, Akimbo and Tactical Knife."
+
+REFERENCE            camo_preview
+LANG_ENGLISH         "Camo Preview"
+
+REFERENCE            cdl_rules
+LANG_ENGLISH         "Call of Duty League??? Rules"
+
+REFERENCE            cdl_rules_version
+LANG_ENGLISH         "Call of Duty League??? Rules v&&1"
+
+REFERENCE            change_password_caps
+LANG_ENGLISH         "CHANGE PASSWORD"
+
+REFERENCE            clan_leader_colon_caps
+LANG_ENGLISH         "REQUESTED BY:"
+
+REFERENCE            clan_level_colon_caps
+LANG_ENGLISH         "CLAN LEVEL:"
+
+REFERENCE            clantag_notallowed
+LANG_ENGLISH         "You are not authorized to use this clan tag."
+
+REFERENCE            closed
+LANG_ENGLISH         "Closed"
+
+REFERENCE            cod_redemption_code
+LANG_ENGLISH         "Redeem Code"
+
+REFERENCE            congratulations
+LANG_ENGLISH         "Congratulations!"
+
+REFERENCE            default_classes_caps
+LANG_ENGLISH         "DEFAULT LOADOUTS"
+
+REFERENCE            disable_mlg_rules
+LANG_ENGLISH         "Disable ^3#CODeSports^7 Rules"
+
+REFERENCE            enable_mlg_rules
+LANG_ENGLISH         "Enable ^3#CODeSports^7 Rules"
+
+REFERENCE            esports_rules_enabled
+LANG_ENGLISH         "Call of Duty League??? Rules : ^3Enabled^7"
+
+REFERENCE            extra_loadout_no_ai
+LANG_ENGLISH         "Extra loadouts cannot be used by AI."
+
+REFERENCE            friends_only
+LANG_ENGLISH         "Friends Only"
+
+REFERENCE            invite_number
+LANG_ENGLISH         "INVITE &&1"
+
+REFERENCE            item_restricted
+LANG_ENGLISH         "Restricted"
+
+REFERENCE            matchrules_custom
+LANG_ENGLISH         "Custom"
+
+REFERENCE            matchrules_default
+LANG_ENGLISH         "Default"
+
+REFERENCE            matchrules_mlg
+LANG_ENGLISH         "^5#CODeSports^7 Rules"
+
+REFERENCE            matchrules_mlg_recipe_name
+LANG_ENGLISH         "^3#CODeSports^7 v&&1"
+
+REFERENCE            members
+LANG_ENGLISH         "Members"
+
+REFERENCE            mlg_spect_cameras_only
+LANG_ENGLISH         "Hide Helper"
+
+REFERENCE            mlg_spect_first_person
+LANG_ENGLISH         "First Person"
+
+REFERENCE            mlg_spect_focus_scoreboard
+LANG_ENGLISH         "Focus Scoreboard"
+
+REFERENCE            mlg_spect_free_cam
+LANG_ENGLISH         "Free Camera"
+
+REFERENCE            mlg_spect_fullscreen_map
+LANG_ENGLISH         "Fullscreen Map"
+
+REFERENCE            mlg_spect_hide_help
+LANG_ENGLISH         "Hide Overlays"
+
+REFERENCE            mlg_spect_large_map
+LANG_ENGLISH         "Large Map"
+
+REFERENCE            mlg_spect_menu
+LANG_ENGLISH         "Menu"
+
+REFERENCE            mlg_spect_minimap
+LANG_ENGLISH         "Minimap"
+
+REFERENCE            mlg_spect_scoreboard
+LANG_ENGLISH         "Toggle Scoreboard"
+
+REFERENCE            mlg_spect_select_player
+LANG_ENGLISH         "Select Player"
+
+REFERENCE            mlg_spect_show_all_help
+LANG_ENGLISH         "Show Overlays"
+
+REFERENCE            mlg_spect_third_person
+LANG_ENGLISH         "Third Person"
+
+REFERENCE            mlg_spect_toolbar_only
+LANG_ENGLISH         "Toolbar Only"
+
+REFERENCE            mlg_spect_unfocus_scoreboard
+LANG_ENGLISH         "Unfocus Scoreboard"
+
+REFERENCE            more_maps
+LANG_ENGLISH         "Get More Maps"
+
+REFERENCE            mute_groups
+LANG_ENGLISH         "Mute Groups"
+
+REFERENCE            no_guest
+LANG_ENGLISH         "Not available to guest accounts."
+
+REFERENCE            onlinevault_copying
+LANG_ENGLISH         "Copying"
+
+REFERENCE            onlinevault_facebook_processing
+LANG_ENGLISH         "Sharing..."
+
+REFERENCE            open
+LANG_ENGLISH         "Open"
+
+REFERENCE            ops_weapons
+LANG_ENGLISH         "WEAPON OPERATIONS"
+
+REFERENCE            party_privacy_caps
+LANG_ENGLISH         "PARTY PRIVACY"
+
+REFERENCE            password_set
+LANG_ENGLISH         "Password Set"
+
+REFERENCE            perk_awareness
+LANG_ENGLISH         "Awareness"
+
+REFERENCE            perk_awareness_desc
+LANG_ENGLISH         "Perks for enhanced situational awareness. Includes: Recon, Scavenger, SitRep, Amplify, and Wiretap."
+
+REFERENCE            perk_elite
+LANG_ENGLISH         "Elite"
+
+REFERENCE            perk_elite_desc
+LANG_ENGLISH         "Perks for specialized roles. Includes: Gambler, Hardline, Ping, Overkill, and Deadeye."
+
+REFERENCE            perk_equipment
+LANG_ENGLISH         "Equipment"
+
+REFERENCE            perk_equipment_desc
+LANG_ENGLISH         "Perks for extra equipment and ammo. Includes: Extra Tactical, Extra Lethal, Fully Loaded, Extra Attachment, and Danger Close."
+
+REFERENCE            perk_handling
+LANG_ENGLISH         "Handling"
+
+REFERENCE            perk_handling_desc
+LANG_ENGLISH         "Perks for increased weapon and equipment handling. Includes: Strong-Arm, On the Go, Reflex, Steady Aim, and Quickdraw."
+
+REFERENCE            perk_resistance
+LANG_ENGLISH         "Resistance"
+
+REFERENCE            perk_resistance_desc
+LANG_ENGLISH         "Perks for increased resistance to damage and explosives. Includes: Resilience, ICU, Focus, Tac Resist, and Blast Shield."
+
+REFERENCE            perk_speed
+LANG_ENGLISH         "Speed"
+
+REFERENCE            perk_speed_desc
+LANG_ENGLISH         "Perks for increased movement speed and reloading. Includes: Ready Up, Sleight of Hand, Agility, Marathon, and Stalker."
+
+REFERENCE            perk_stealth
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            perk_stealth_desc
+LANG_ENGLISH         "Perks for enhanced stealth capabilities. Includes: Takedown, Blind Eye, Dead Silence, Incog, and Off the Grid."
+
+REFERENCE            player_limit_caps
+LANG_ENGLISH         "PLAYER LIMIT"
+
+REFERENCE            preview
+LANG_ENGLISH         "Preview"
+
+REFERENCE            requires_cod_account
+LANG_ENGLISH         "This feature requires a Activision Account to use."
+
+REFERENCE            reset_options
+LANG_ENGLISH         "Reset options back to default settings?"
+
+REFERENCE            s_for_stabs_caps
+LANG_ENGLISH         "Stabs"
+
+REFERENCE            s_for_streak_caps
+LANG_ENGLISH         "Streaks"
+
+REFERENCE            salvage
+LANG_ENGLISH         "Salvage"
+
+REFERENCE            salvage_bonus
+LANG_ENGLISH         "Salvage Bonus"
+
+REFERENCE            second_attachment_locked
+LANG_ENGLISH         "Select a weapon that allows two attachments to make use of your Extra Attachment Perk."
+
+REFERENCE            set_mlg_spectator
+LANG_ENGLISH         "Enable Broadcaster Mode"
+
+REFERENCE            specialist_caps
+LANG_ENGLISH         "SPECIALIST"
+
+REFERENCE            squads_dlc_category_caps
+LANG_ENGLISH         "^3ONSLAUGHT^7"
+
+REFERENCE            squads_dlc_desc
+LANG_ENGLISH         "Play Safeguard and Wargame on ^3Onslaught^7 Maps. Exclusively for players that own DLC: Onslaught"
+
+REFERENCE            stabs
+LANG_ENGLISH         "Stabs"
+
+REFERENCE            support_caps
+LANG_ENGLISH         "SUPPORT"
+
+REFERENCE            theater_recording
+LANG_ENGLISH         "Theater Recording"
+
+REFERENCE            theater_recording_desc
+LANG_ENGLISH         "Enable or disable theater demo recording."
+
+REFERENCE            third_attachment_locked
+LANG_ENGLISH         "Select a weapon that allows three attachments to make use of your Extra Attachment Perk."
+
+REFERENCE            toggle_default_loadout
+LANG_ENGLISH         "Toggle Default Loadout"
+
+REFERENCE            unset_mlg_spectator
+LANG_ENGLISH         "Disable Broadcaster Mode"
+
+REFERENCE            wait_to_vote
+LANG_ENGLISH         "You must wait &&1 seconds between votes."
+
+REFERENCE            waiting_for_good_host
+LANG_ENGLISH         "Waiting for better host"
+
+REFERENCE            weapons_op_prefix
+LANG_ENGLISH         "Weapons: &&1"
+
+
+ENDMARKER

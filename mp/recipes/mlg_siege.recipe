@@ -1,0 +1,34 @@
+gametype = siege
+commonOption.timeLimit = 2.000000
+commonOption.scoreLimit = 1
+commonOption.roundLimit = 0
+commonOption.winLimit = 4
+commonOption.roundSwitch = 1
+commonOption.winByTwoEnabled = 0
+commonOption.winByTwoMaxRounds = 8
+
+commonOption.allowKillstreaks = 1
+commonOption.allowPerks = 1
+commonOption.allowSupers = 1
+commonOption.superFastChargeRate = 1
+commonOption.superPointsMod = 1
+commonOption.doubleJumpEnabled = 1
+commonOption.wallRunEnabled = 1
+commonOption.forceRespawn = 1
+commonOption.showKillcam = 1
+commonOption.healthRegen = 5.000000
+commonOption.maxHealth = 100.000000
+commonOption.numLives = 1
+commonOption.spectateModeAllowed = 1
+commonOption.codcasterEnabled = 1
+commonOption.ffPunishLimit = 2
+commonOption.spectate3rdAllowed = 1
+commonOption.teamAssignmentAllowed = 1
+commonOption.tacticalMode = 0
+commonOption.bulletBounce = 0
+
+siegeData.rushTimer = 1
+siegeData.rushTimerAmount = 45.00000
+siegeData.sharedRushTimer = 0
+siegeData.preCapPoints = 0
+siegeData.capRate = 7.5

@@ -1,0 +1,664 @@
+main_clientcharacter
+{
+	// front-end operators
+	chr_menu_male_pose_01_close
+	chr_menu_male_pose_01_mid
+	chr_menu_male_pose_01_full
+	chr_menu_male_pose_08_close
+	chr_menu_male_pose_08_mid
+	chr_menu_male_pose_08_full
+	chr_menu_female_idle_01_AR
+	chr_menu_female_idle_02_AR
+	chr_menu_female_intro_01_AR
+	chr_menu_dog_idle_01
+	chr_menu_male_idle_01_AR
+	chr_menu_male_idle_02_AR
+	chr_menu_male_intro_01_AR
+	fe_operator_select_idle_kruger_01
+	chr_menu_buddy_east_female_01_AR
+	chr_menu_buddy_east_female_01_DMR
+	chr_menu_buddy_east_female_01_LMG
+	chr_menu_buddy_east_female_01_SMG
+	chr_menu_buddy_west_female_01_AR
+	chr_menu_buddy_west_female_01_DMR
+	chr_menu_buddy_west_female_01_LMG
+	chr_menu_buddy_west_female_01_SMG
+	chr_menu_buddy_east_male_01_AR
+	chr_menu_buddy_east_male_01_DMR
+	chr_menu_buddy_east_male_01_LMG
+	chr_menu_buddy_east_male_01_SMG
+	chr_menu_buddy_west_male_01_AR
+	chr_menu_buddy_west_male_01_DMR
+	chr_menu_buddy_west_male_01_LMG
+	chr_menu_buddy_west_male_01_SMG
+	chr_menu_edit_female_idle_01
+	chr_menu_edit_female_idle_02
+	chr_menu_edit_female_idle_03
+	chr_menu_edit_female_idle_04
+	chr_menu_edit_male_idle_01
+	chr_menu_edit_male_idle_02
+	chr_menu_edit_male_idle_03
+	chr_menu_edit_male_idle_04
+	chr_menu_edit_female_turn_l_01
+	chr_menu_edit_female_turn_l_02
+	chr_menu_edit_female_turn_l_03
+	chr_menu_edit_female_turn_l_04
+	chr_menu_edit_female_turn_r_01
+	chr_menu_edit_female_turn_r_02
+	chr_menu_edit_female_turn_r_03
+	chr_menu_edit_female_turn_r_04
+	chr_menu_edit_male_turn_l_01
+	chr_menu_edit_male_turn_l_02
+	chr_menu_edit_male_turn_l_03
+	chr_menu_edit_male_turn_l_04
+	chr_menu_edit_male_turn_r_01
+	chr_menu_edit_male_turn_r_02
+	chr_menu_edit_male_turn_r_03
+	chr_menu_edit_male_turn_r_04
+	chr_menu_mp_squad_dog_01
+	chr_menu_mp_squad_male_01
+	chr_menu_mp_squad_male_02
+	chr_menu_mp_squad_male_03
+	chr_menu_mp_squad_male_04
+	chr_menu_mp_squad_male_05
+	chr_menu_mp_squad_male_06
+	chr_menu_mp_squad_mag_tease_01
+	chr_menu_mp_squad_mag_tease_02
+	chr_menu_mp_squad_mag_tease_03
+	chr_menu_mp_squad_mag_tease_04
+	chr_menu_mp_squad_mag_tease_05
+	chr_menu_mp_squad_mag_tease_05_copy
+	chr_menu_mp_squad_female_01
+	chr_menu_mp_squad_female_02
+	chr_menu_mp_squad_female_03
+	chr_menu_mp_squad_female_04
+	chr_menu_mp_squad_female_05
+	chr_menu_mp_squad_female_06
+	sdr_mp_stand_idle01
+	sdr_mp_crouch_idle
+	chr_menu_male_idle_unarmed_01
+	chr_menu_female_idle_unarmed_01
+	fe_operator_select_confirm_default_01
+	fe_operator_select_confirm_wyatt_01
+	fe_operator_select_confirm_dday_01
+	fe_operator_select_confirm_alice_01
+	fe_operator_select_confirm_syd_01
+	fe_operator_select_confirm_bale_01
+	fe_operator_select_confirm_domino_01
+	fe_operator_select_confirm_otter_01
+	fe_operator_select_confirm_otter_02
+	fe_operator_select_confirm_golem_01
+	fe_operator_select_confirm_lynch_01
+	fe_operator_select_confirm_rodion_01
+	fe_operator_select_confirm_grinch_01
+	fe_operator_select_confirm_yegor_01
+	fe_operator_select_confirm_kruger_01
+	fe_operator_select_confirm_azur_01
+	fe_operator_select_confirm_zane_01
+	fe_operator_select_confirm_minotavr_01
+	fe_operator_select_confirm_minotavr_02
+	fe_operator_select_confirm_murphy_01
+	fe_operator_select_confirm_zedra_01
+	fe_operator_select_confirm_nikto_01
+	fe_operator_select_confirm_ghost_01
+	fe_operator_select_confirm_crowfoot_01
+	fe_operator_select_confirm_mace_01
+	fe_operator_select_confirm_alex_01
+	fe_operator_select_confirm_ronin_01
+	fe_operator_select_confirm_iskra_01
+	fe_operator_select_confirm_kyle_01
+	
+
+	// Quartermaster Crate
+	mp_military_carepackage_common_landing
+	mp_military_carepackage_common_landing_idle
+	mp_military_carepackage_common_predrop_idle
+	mp_military_carepackage_common_straps_falling
+	mp_military_carepackage_common_straps_falling_idle
+
+	mp_military_carepackage_epic_landing
+	mp_military_carepackage_epic_landing_idle
+	mp_military_carepackage_epic_predrop_idle
+	mp_military_carepackage_epic_straps_falling
+	mp_military_carepackage_epic_straps_falling_idle
+
+	mp_military_carepackage_rare_landing
+	mp_military_carepackage_rare_landing_idle
+	mp_military_carepackage_rare_predrop_idle
+	mp_military_carepackage_rare_straps_falling
+	mp_military_carepackage_rare_straps_falling_idle
+
+	mp_military_carepackage_legendary_landing
+	mp_military_carepackage_legendary_landing_idle
+	mp_military_carepackage_legendary_predrop_idle
+	mp_military_carepackage_legendary_straps_falling
+	mp_military_carepackage_legendary_straps_falling_idle
+
+	// Quartermaster Targets
+	fe_store_loot_target01_highlight_off
+	fe_store_loot_target01_highlight_on
+	fe_store_loot_target01_highlight_on_idle
+	fe_store_loot_target01_movein
+	fe_store_loot_target01_movein_idle
+	fe_store_loot_target01_moveout
+	fe_store_loot_target01_moveout_idle
+	
+	fe_store_loot_target02_highlight_off
+	fe_store_loot_target02_highlight_on
+	fe_store_loot_target02_highlight_on_idle
+	fe_store_loot_target02_movein
+	fe_store_loot_target02_movein_idle
+	fe_store_loot_target02_moveout
+	fe_store_loot_target02_moveout_idle
+	
+	fe_store_loot_target03_highlight_off
+	fe_store_loot_target03_highlight_on
+	fe_store_loot_target03_highlight_on_idle
+	fe_store_loot_target03_movein
+	fe_store_loot_target03_movein_idle
+	fe_store_loot_target03_moveout
+	fe_store_loot_target03_moveout_idle
+	
+	fe_store_loot_target04_highlight_off
+	fe_store_loot_target04_highlight_on
+	fe_store_loot_target04_highlight_on_idle
+	fe_store_loot_target04_movein
+	fe_store_loot_target04_movein_idle
+	fe_store_loot_target04_moveout
+	fe_store_loot_target04_moveout_idle
+
+	ik_fingers_l : clientonly overlay
+	{
+//IW8 - Pistols
+	
+		mp_fingers_pi_golf21_l
+		mp_fingers_pi_golf21_stock_l
+		mp_fingers_pi_mike1911_l
+		mp_fingers_pi_decho_l		
+		mp_fingers_pi_cpapa_l
+		mp_fingers_pi_cpapa_stock_l
+		mp_fingers_pi_papa320_l
+		mp_fingers_pi_mike9_l
+		mp_fingers_pi_mike9_vertgrip_l
+		mp_fingers_pi_mike9_stock_l
+		
+//IW8 - SMGs
+
+		mp_fingers_sm_mpapa5_l
+		mp_fingers_sm_mpapa5_gripang_l
+		mp_fingers_sm_mpapa5_gripvert_l
+		mp_fingers_sm_mpapa5_silencer_l
+		mp_fingers_sm_mpapa5_barcust2_l
+
+		mp_fingers_sm_beta_l
+		mp_fingers_sm_beta_xmag_l
+		
+		mp_fingers_sm_augolf_l
+		mp_fingers_sm_augolf_gripang_l
+		mp_fingers_sm_augolf_gripvert_l
+	
+		mp_fingers_sm_papa90_l
+
+		mp_fingers_sm_mpapa7_l
+		mp_fingers_sm_mpapa7_gripvert_l
+		mp_fingers_sm_mpapa7_gripang_l
+		
+		mp_fingers_sm_uzulu_l
+		mp_fingers_sm_uzulu_gripang_l
+		mp_fingers_sm_uzulu_gripvert_l	
+		
+		mp_fingers_sm_smgolf45_l
+		mp_fingers_sm_smgolf45_gripang_l
+		mp_fingers_sm_smgolf45_gripvert_l	
+		mp_fingers_sm_smgolf45_gripvertpro_l
+		
+//IW8 - ARs
+
+		mp_fingers_ar_mike4_gl_launcher_l
+		mp_fingers_ar_mike4_l
+		mp_fingers_ar_mike4_l_gl
+		mp_fingers_ar_mike4_l_grip
+		mp_fingers_ar_mike4_l_gripang
+		mp_fingers_ar_mike4_l_ubshtgn
+
+		mp_fingers_ar_akilo47_angledgrip_l
+		mp_fingers_ar_akilo47_gl_l
+		mp_fingers_ar_akilo47_gl_launcher_l
+		mp_fingers_ar_akilo47_l
+		mp_fingers_ar_akilo47_ubshtgn_l
+		mp_fingers_ar_akilo47_vertgrip_l
+		mp_fingers_ar_akilo47_vertgrippro_l
+		mp_fingers_ar_akilo47_vertgrippro_smg_l
+		mp_fingers_sm_akilo74_l		
+		mp_fingers_ar_akilo47_ubshtgn_alt_l
+		
+		sdr_mp_fingers_ar_asierra12_gl
+		sdr_mp_fingers_ar_asierra12_gl_launcher_l
+		sdr_mp_fingers_ar_asierra12_gripang_l
+		sdr_mp_fingers_ar_asierra12_gripvert_l
+		sdr_mp_fingers_ar_asierra12_l
+		sdr_mp_fingers_ar_asierra12_ubshtgn_l
+
+		mp_fingers_ar_falpha_gl_l
+		mp_fingers_ar_falpha_gripang_l
+		mp_fingers_ar_falpha_gripvert_l
+		mp_fingers_ar_falpha_l
+		mp_fingers_ar_falpha_ubshtgn_l
+
+		mp_fingers_ar_mcharlie_barshort_l
+		mp_fingers_ar_mcharlie_gl_l
+		mp_fingers_ar_mcharlie_gl_launcher_l
+		mp_fingers_ar_mcharlie_gripang_l
+		mp_fingers_ar_mcharlie_griphip_l
+		mp_fingers_ar_mcharlie_gripvert_l
+		mp_fingers_ar_mcharlie_gripvertpro_l
+		mp_fingers_ar_mcharlie_l
+		mp_fingers_ar_mcharlie_ubshtgn_l
+
+		mp_fingers_ar_kilo433_drum_l
+		mp_fingers_ar_kilo433_gl_l
+		mp_fingers_ar_kilo433_gl_launcher_l
+		mp_fingers_ar_kilo433_gripang_l
+		mp_fingers_ar_kilo433_gripvert_l
+		mp_fingers_ar_kilo433_gripvert_large
+		mp_fingers_ar_kilo433_gripvert_pro
+		mp_fingers_ar_kilo433_l
+		mp_fingers_ar_kilo433_ubshtgn_l
+		mp_fingers_ar_kilo433_v2_gripang_l
+		mp_fingers_ar_kilo433_v2_gripvert_pro_l
+		mp_fingers_ar_kilo433_v2_l
+
+		mp_fingers_ar_falima_l
+		mp_fingers_ar_falima_gl_l
+		mp_fingers_ar_falima_gripvert_l
+		mp_fingers_ar_falima_gripang_l
+		mp_fingers_ar_falima_bipod_l
+		mp_fingers_ar_falima_ubshtgn_l		
+		mp_fingers_ar_falima_ubshtgn_alt_l
+		mp_fingers_ar_falima_gl_launcher_l
+
+		
+		mp_fingers_ar_scharlie_cclamp
+		mp_fingers_ar_scharlie_cclamp_laser
+		mp_fingers_ar_scharlie_gl_l
+		mp_fingers_ar_scharlie_gl_launcher_l
+		mp_fingers_ar_scharlie_gripang_l
+		mp_fingers_ar_scharlie_gripbipod_l
+		mp_fingers_ar_scharlie_gripvert_l
+		mp_fingers_ar_scharlie_gripvertpro_l
+		mp_fingers_ar_scharlie_l
+		mp_fingers_ar_scharlie_ubshtgn_l
+		
+		mp_fingers_ar_tango21_l
+		mp_fingers_ar_tango21_l_gripvert
+		mp_fingers_ar_tango21_l_gripang
+		mp_fingers_ar_tango21_gl_l
+		mp_fingers_ar_tango21_gl_launcher_l
+		mp_fingers_ar_tango21_l_barlong
+		
+		mp_fingers_ar_sierra552_gl_l
+		mp_fingers_ar_sierra552_gl_l_launcher
+		mp_fingers_ar_sierra552_gripang_l
+		mp_fingers_ar_sierra552_gripvert_l
+		mp_fingers_ar_sierra552_gripvertpro_l
+		mp_fingers_ar_sierra552_l
+		mp_fingers_ar_sierra552_barshort_l
+		mp_fingers_ar_sierra552_barlong_l
+		mp_fingers_ar_sierra552_l_ubshtgn
+		mp_fingers_ar_sierra552_l_ubshtgn_alt
+		
+		mp_fingers_ar_galima_gl_l
+		mp_fingers_ar_galima_gripang_l
+		mp_fingers_ar_galima_gripvert_l
+		mp_fingers_ar_galima_gripvertpro_l
+		mp_fingers_ar_galima_l
+		mp_fingers_ar_galima_l_ubshtgn
+	
+		
+//IW8 - Launchers
+		
+		mp_fingers_la_rpapa7_l	
+		
+		mp_fingers_la_juliet_l	
+		
+		mp_fingers_la_gromeo_l
+		
+		mp_fingers_la_mike32_l
+		
+		mp_fingers_la_kgolf_l
+		
+//IW8 - Snipers
+
+		mp_fingers_sn_mike14_l
+		mp_fingers_sn_mike14_l_gripang
+		mp_fingers_sn_mike14_l_gripvert
+		mp_fingers_sn_mike14_l_griphip
+		mp_fingers_sn_mike14_l_gripvertpro
+
+		mp_fingers_sn_kilo98_l
+		
+		mp_fingers_sn_sbeta_l	
+		
+		mp_fingers_sn_alpha50_l	
+
+		mp_fingers_sn_delta_l
+		
+		mp_fingers_sn_hdromeo_l
+		
+		mp_fingers_sn_crossbow_l
+		mp_fingers_sn_crossbow_l_gripang
+		mp_fingers_sn_crossbow_l_gripvert
+		mp_fingers_sn_crossbow_l_gripvertpro
+		
+		mp_fingers_sn_sksierra_l
+		mp_fingers_sn_sksierra_l_gripang
+		mp_fingers_sn_sksierra_l_gripvert
+		mp_fingers_sn_sksierra_l_gripvertpro
+		mp_fingers_sn_sksierra_l_griphip
+		mp_fingers_sn_sksierra_l_stockhvy
+		
+//IW8 - Shotguns	
+		
+		mp_fingers_sh_dpapa12_l
+		mp_fingers_sh_dpapa12_l_gripvert
+
+		mp_fingers_sh_oscar12_gripside_l
+		mp_fingers_sh_oscar12_gripang_l
+		mp_fingers_sh_oscar12_gripvert_l
+		mp_fingers_sh_oscar12_gripside_cant_l
+		
+		mp_fingers_sh_charlie725_l
+		mp_fingers_sh_charlie725_gripang_l
+		mp_fingers_sh_charlie725_gripvert_l
+		mp_fingers_sh_charlie725_gripvertcqbpro_l
+		
+		mp_fingers_sh_romeo870_l
+		mp_fingers_sh_romeo870_gripang_l
+		mp_fingers_sh_romeo870_griprail_l
+		mp_fingers_sh_romeo870_gripvert_l
+		mp_fingers_sh_romeo870_gripvertpro_l
+		mp_fingers_sh_romeo870_gripwood_l
+		
+		mp_fingers_sh_mike26_l
+		mp_fingers_sh_mike26_l_gripside
+
+//IW8 - LMGs
+
+		mp_fingers_lm_kilo121_l
+		mp_fingers_lm_kilo121_l_gripang
+		mp_fingers_lm_kilo121_l_gripvert
+		
+		mp_fingers_lm_pkilo_l
+		mp_fingers_lm_pkilo_l_gripang
+		mp_fingers_lm_pkilo_l_gripside
+		mp_fingers_lm_pkilo_l_gripvert
+		
+		mp_fingers_lm_mkilo3_l
+		mp_fingers_lm_mkilo3_l_gripang
+		mp_fingers_lm_mkilo3_l_gripvert
+		mp_fingers_lm_mkilo3_l_barlong
+		
+		mp_fingers_lm_lima86_l
+		mp_fingers_lm_lima86_l_gripang
+		mp_fingers_lm_lima86_l_gripvert
+		
+		mp_fingers_lm_mgolf34_l
+		mp_fingers_lm_mgolf34_l_gripang
+		mp_fingers_lm_mgolf34_l_gripvert
+		
+		mp_fingers_lm_mgolf36_l
+		mp_fingers_lm_mgolf36_l_gripang
+		mp_fingers_lm_mgolf36_l_gripvert
+		mp_fingers_lm_mgolf36_l_barshort
+		
+		mp_fingers_lm_dblmg_l	
+		
+		mp_fingers_mobile_turret_deploy_l
+
+		sdr_mp_fingers_me_riotshield_l
+
+	}
+
+	ik_fingers_r: clientonly overlay
+	{
+//IW8 - Pistols
+	
+		mp_fingers_pi_golf21_r
+		mp_fingers_pi_golf21_r_safe
+		mp_fingers_pi_golf21_stock_r
+		mp_fingers_pi_golf21_stock_r_safe
+		mp_fingers_pi_mike1911_r
+		mp_fingers_pi_mike1911_r_safe
+		mp_fingers_pi_decho_r
+		mp_fingers_pi_decho_r_safe
+		mp_fingers_pi_cpapa_r
+		mp_fingers_pi_cpapa_r_safe
+		mp_fingers_pi_cpapa_stock_r
+		mp_fingers_pi_cpapa_stock_r_safe
+		mp_fingers_pi_papa320_r
+		mp_fingers_pi_papa320_r_safe
+		mp_fingers_pi_mike9_r
+		mp_fingers_pi_mike9_r_safe
+		mp_fingers_pi_mike9_stock_r
+		mp_fingers_pi_mike9_stock_r_safe
+		mp_fingers_pi_mike9_vertgrip_r
+		mp_fingers_pi_mike9_vertgrip_r_safe
+		
+//IW8 - SMGs
+
+		mp_fingers_sm_mpapa5_r
+		mp_fingers_sm_mpapa5_r_safe
+		
+		mp_fingers_sm_beta_r
+		mp_fingers_sm_beta_r_safe
+		
+		mp_fingers_sm_augolf_r
+		mp_fingers_sm_augolf_r_safe
+		
+		mp_fingers_sm_papa90_r
+		mp_fingers_sm_papa90_r_safe
+		
+		mp_fingers_sm_mpapa7_r
+		mp_fingers_sm_mpapa7_r_safe
+
+		mp_fingers_sm_uzulu_r
+		mp_fingers_sm_uzulu_r_safe
+		
+		mp_fingers_sm_smgolf45_r
+		mp_fingers_sm_smgolf45_r_safe
+		
+//IW8 - ARs
+
+		mp_fingers_ar_mike4_r
+		mp_fingers_ar_mike4_r_gl
+		mp_fingers_ar_mike4_r_grip
+		mp_fingers_ar_mike4_r_safe
+		
+		mp_fingers_ar_akilo47_r
+		mp_fingers_ar_akilo47_r_safe
+		
+		sdr_mp_fingers_ar_asierra12_r
+		sdr_mp_fingers_ar_asierra12_r_safe
+		
+		mp_fingers_ar_falpha_r
+		mp_fingers_ar_falpha_r_safe
+
+		mp_fingers_ar_mcharlie_r
+		mp_fingers_ar_mcharlie_r_safe		
+		
+		mp_fingers_ar_kilo433_r
+		mp_fingers_ar_kilo433_r_safe
+		
+		mp_fingers_ar_falima_r
+		mp_fingers_ar_falima_r_safe		
+		
+		mp_fingers_ar_scharlie_r
+		mp_fingers_ar_scharlie_r_safe
+		
+		mp_fingers_ar_tango21_r
+		mp_fingers_ar_tango21_r_safe
+		
+		mp_fingers_ar_sierra552_r
+		mp_fingers_ar_sierra552_r_safe
+		
+		mp_fingers_ar_galima_r
+		mp_fingers_ar_galima_r_safe
+
+//IW8 - Launchers		
+
+		mp_fingers_la_rpapa7_r
+		mp_fingers_la_rpapa7_r_safe
+		
+		mp_fingers_la_juliet_r	
+		
+		mp_fingers_la_gromeo_r
+		mp_fingers_la_gromeo_r_safe
+		
+		mp_fingers_la_mike32_r
+		mp_fingers_la_mike32_r_safe
+		
+		mp_fingers_la_kgolf_r
+		mp_fingers_la_kgolf_r_safe
+		
+//IW8 - Snipers
+
+		mp_fingers_sn_mike14_r
+		mp_fingers_sn_mike14_r_safe
+		mp_fingers_sn_mike14_r_pistolgrip
+		mp_fingers_sn_mike14_r_pistolgrip_safe
+		
+		mp_fingers_sn_kilo98_r
+		mp_fingers_sn_kilo98_r_safe
+		
+		mp_fingers_sn_sbeta_r
+		mp_fingers_sn_sbeta_r_safe		
+		
+		mp_fingers_sn_alpha50_r
+		mp_fingers_sn_alpha50_r_safe
+
+		mp_fingers_sn_delta_r
+		mp_fingers_sn_delta_r_safe	
+		mp_fingers_sn_delta_stockl_r
+		mp_fingers_sn_delta_stockl_r_safe
+		
+		mp_fingers_sn_hdromeo_r
+		mp_fingers_sn_hdromeo_r_safe
+		
+		mp_fingers_sn_crossbow_r
+		mp_fingers_sn_crossbow_r_safe
+		
+		mp_fingers_sn_sksierra_r
+		mp_fingers_sn_sksierra_r_safe
+		mp_fingers_sn_sksierra_r_stockhvy2
+		mp_fingers_sn_sksierra_r_stockhvy2_safe
+		
+//IW8 - Shotguns
+
+		mp_fingers_sh_dpapa12_r
+		mp_fingers_sh_dpapa12_r_safe
+
+		mp_fingers_sh_oscar12_r
+		mp_fingers_sh_oscar12_r_safe
+		
+		mp_fingers_sh_charlie725_r
+		mp_fingers_sh_charlie725_r_safe		
+		
+		mp_fingers_sh_romeo870_r
+		mp_fingers_sh_romeo870_r_safe
+		mp_fingers_sh_romeo870_stockh_r
+		mp_fingers_sh_romeo870_stockh_r_safe
+		
+		mp_fingers_sh_mike26_r
+		mp_fingers_sh_mike26_r_safe		
+		
+//IW8 - LMGs
+
+		mp_fingers_lm_kilo121_r
+		mp_fingers_lm_kilo121_r_safe		
+		
+		mp_fingers_lm_pkilo_r
+		mp_fingers_lm_pkilo_r_safe
+		
+		mp_fingers_lm_mkilo3_r
+		mp_fingers_lm_mkilo3_r_safe
+
+		mp_fingers_lm_lima86_r
+		mp_fingers_lm_lima86_r_safe
+
+		mp_fingers_lm_dblmg_r
+		
+		mp_fingers_lm_mgolf34_r
+		mp_fingers_lm_mgolf34_r_safe
+		
+		mp_fingers_lm_mgolf36_r
+		mp_fingers_lm_mgolf36_r_safe
+
+		mp_fingers_mobile_turret_deploy_r
+		
+//IW8 - Riotshield
+
+		sdr_mp_fingers_me_riotshield_r
+
+	}
+
+	add_weapon_placement : additive complete
+	{
+		fe_gunsmith_weapon_placement_mike4
+		fe_gunsmith_weapon_placement_akilo47
+		fe_gunsmith_weapon_placement_mpapa5
+		fe_gunsmith_weapon_placement_romeo870
+		fe_gunsmith_weapon_placement_asierra
+		fe_gunsmith_weapon_placement_falpha
+		fe_gunsmith_weapon_placement_falima
+		fe_gunsmith_weapon_placement_kilo433
+		fe_gunsmith_weapon_placement_mcharlie
+		fe_gunsmith_weapon_placement_scharlie
+		fe_gunsmith_weapon_placement_dblmg
+		fe_gunsmith_weapon_placement_kilo121
+		fe_gunsmith_weapon_placement_lima86
+		fe_gunsmith_weapon_placement_mgolf34
+		fe_gunsmith_weapon_placement_pkilo
+		fe_gunsmith_weapon_placement_cpapa
+		fe_gunsmith_weapon_placement_decho
+		fe_gunsmith_weapon_placement_golf21
+		fe_gunsmith_weapon_placement_mike1911
+		fe_gunsmith_weapon_placement_papa320
+		fe_gunsmith_weapon_placement_charlie725
+		fe_gunsmith_weapon_placement_dpapa12
+		fe_gunsmith_weapon_placement_oscar12
+		fe_gunsmith_weapon_placement_augolf
+		fe_gunsmith_weapon_placement_beta
+		fe_gunsmith_weapon_placement_mpapa7
+		fe_gunsmith_weapon_placement_papa90
+		fe_gunsmith_weapon_placement_uzulu
+		fe_gunsmith_weapon_placement_victor
+		fe_gunsmith_weapon_placement_alpha50
+		fe_gunsmith_weapon_placement_delta
+		fe_gunsmith_weapon_placement_hdromeo
+		fe_gunsmith_weapon_placement_kilo98
+		fe_gunsmith_weapon_placement_mike14
+		fe_gunsmith_weapon_placement_sbeta
+		fe_gunsmith_weapon_placement_riotshield
+		fe_gunsmith_weapon_placement_tango21
+		fe_gunsmith_weapon_placement_mgolf36
+		fe_gunsmith_weapon_placement_crossbow
+		fe_gunsmith_weapon_placement_sierra552
+		fe_gunsmith_weapon_placement_smgolf45
+		fe_gunsmith_weapon_placement_mike26
+		fe_gunsmith_weapon_placement_mike9
+		fe_gunsmith_weapon_placement_sksierra
+		fe_gunsmith_weapon_placement_mkilo3
+	}
+}
+
+ik_node : ik_node ( )
+{
+}
+
+proc_node : public proc_node ()
+{
+}
+
+clothnode : clientauth cloth_link(xanimclothlcn=[xanimclothlcn])
+{
+}

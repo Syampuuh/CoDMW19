@@ -1,0 +1,30 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            season_unlocks
+LANG_ENGLISH         "&&1 Unlocks"
+
+REFERENCE            season_6
+LANG_ENGLISH         "Season 6"
+
+REFERENCE            season_5
+LANG_ENGLISH         "Season 5"
+
+REFERENCE            season_4
+LANG_ENGLISH         "Season 4"
+
+REFERENCE            season_3
+LANG_ENGLISH         "Season 3"
+
+REFERENCE            season_2
+LANG_ENGLISH         "Season 2"
+
+REFERENCE            season_1
+LANG_ENGLISH         "Season 1"
+
+REFERENCE            season_0
+LANG_ENGLISH         "Season 0"
+
+
+ENDMARKER

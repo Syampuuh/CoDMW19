@@ -1,0 +1,70 @@
+gametype = dom
+commonOption.hardcoreModeOn = 1
+commonOption.teamCount = 2
+commonOption.teamSize = 0
+commonOption.squadSize = 4
+commonOption.timeLimit = 0.000000
+commonOption.scoreLimit = 200
+commonOption.roundLimit = 1
+commonOption.winLimit = 0
+commonOption.roundSwitch = 0
+commonOption.matchStartTime = 15
+commonOption.roundStartTime = 10
+commonOption.postGameExfil = 0
+commonOption.postGameExfilWeapon = none
+commonOption.exfilActiveTimer = 20
+commonOption.exfilExtractTimer = 20
+commonOption.exfilRespawn = 0
+commonOption.exfilShowLocation = 0
+
+commonOption.radarHideShots = 2
+commonOption.allowKillstreaks = 1
+commonOption.roundRetainStreaks = 1
+commonOption.roundRetainStreakProg = 1
+commonOption.deathRetainStreaks = 1
+commonOption.allowPerks = 1
+commonOption.allowSupers = 1
+commonOption.superFastChargeRate = 1
+commonOption.superPointsMod = 1
+commonOption.forceRespawn = 1
+commonOption.showKillcam = 0
+commonOption.killcamType = 1
+commonOption.healthRegen = 0.000000
+commonOption.maxHealth = 30.000000
+commonOption.FriendlyFire = 4
+commonOption.RadarAlwaysOn = 0
+commonOption.RadarHideShots = 2
+commonOption.CompassHidePings = 2
+commonOption.ForceRespawn = 1
+commonOption.allowMercy = 1
+commonOption.spectateModeAllowed = 1
+commonOption.inputSwapEnabled = 1
+commonOption.codcasterEnabled = 1
+commonOption.ffPunishLimit = 2
+commonOption.spectate3rdAllowed = 0
+commonOption.teamAssignmentAllowed = 1
+commonOption.tacticalMode = 0
+commonOption EnableMiniMap = 0
+commonOption.equipmentMSProtect = 5.000000
+commonOption.magCount = 3
+
+commonOption.lastStand = 0
+commonOption.lastStandHealth = 40
+commonOption.lastStandReviveHealth = 50
+commonOption.lastStandTimer = 10.00000
+commonOption.lastStandReviveTimer = 2.00000
+commonOption.lastStandSuicideTimer = 1
+
+domData.flagCaptureTime = 10
+domData.flagsRequiredToScore = 1
+domData.pointsPerFlag = 1
+domData.flagNeutralization = 0
+domData.numFlagsScoreOnKill = 0
+domData.objScalar = 4.000000
+
+captureData.captureDecay = 0
+captureData.captureType = 1
+
+siegeData.preCapPoints = 0
+
+commonOption.localeID = 0

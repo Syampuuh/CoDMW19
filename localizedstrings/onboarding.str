@@ -1,0 +1,505 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            armory
+LANG_ENGLISH         "Armory"
+
+REFERENCE            armory_1
+LANG_ENGLISH         "The Armory holds your collection of Custom Mods and Blueprint weapons. These Weapons may be applied directly to your loadouts."
+
+REFERENCE            armory_2
+LANG_ENGLISH         "Custom Mods are earned by leveling your Weapons. Each one is a save slot where you can customize and name your firearms for quick access."
+
+REFERENCE            armory_3
+LANG_ENGLISH         "Blueprint Weapons are firearms with pre-configured attachments and custom cosmetics. Any Blueprints that you acquire will be shown in the Armory, and can be taken into Gunsmith for modification."
+
+REFERENCE            armory_3_wz
+LANG_ENGLISH         "Blueprint weapons are firearms with pre-configured
+attachments and custom cosmetics. Blueprints can be
+purchased in the ^5Store ^7, via the ^5Battle Pass^7, or unlocked in ^5Missions & Challenges^7.
+Blueprints will be shown in the armory and can be taken into Gunsmith for modification."
+
+REFERENCE            br_classic_hint_header_1
+LANG_ENGLISH         "Loot"
+
+REFERENCE            br_classic_hint_header_2
+LANG_ENGLISH         "Escalate"
+
+REFERENCE            br_classic_hint_header_3
+LANG_ENGLISH         "Survive"
+
+REFERENCE            br_classic_hint_text_1
+LANG_ENGLISH         "Drop in and gear up for combat. Gather weapons, ammo, and armor."
+
+REFERENCE            br_classic_hint_text_2
+LANG_ENGLISH         "Choose the best path to stay in the circle, engage enemies on your terms."
+
+REFERENCE            br_classic_hint_text_3
+LANG_ENGLISH         "Be the last one alive to win. Eliminate opponents and escape the gas."
+
+REFERENCE            br_hint_header_1
+LANG_ENGLISH         "Loot"
+
+REFERENCE            br_hint_header_2
+LANG_ENGLISH         "Upgrade"
+
+REFERENCE            br_hint_header_3
+LANG_ENGLISH         "Survive"
+
+REFERENCE            br_hint_text_1
+LANG_ENGLISH         "Drop in and gear up for combat. Gather weapons, ammo, and armor."
+
+REFERENCE            br_hint_text_2
+LANG_ENGLISH         "Complete Contracts, visit Buy Stations, and access your custom loadouts when Loadout Drops appear."
+
+REFERENCE            br_hint_text_3
+LANG_ENGLISH         "Be the last one alive to win. Eliminate opponents and escape the gas."
+
+REFERENCE            cdl
+LANG_ENGLISH         "Call of Duty League??? RESTRICTIONS"
+
+REFERENCE            cdl_1
+LANG_ENGLISH         "Call of Duty League??? are restricting some items to improve the competition.
+Make sure to change your custom loadout to remove any restricted items."
+
+REFERENCE            cdl_2
+LANG_ENGLISH         "Call of Duty League??? Restrictions are identified by this icon."
+
+REFERENCE            cdl_3
+LANG_ENGLISH         "Call of Duty League??? Restricted items will be replaced by valid ones when going in-game."
+
+REFERENCE            cdl_rules
+LANG_ENGLISH         "Call of Duty League??? Rules"
+
+REFERENCE            cdl_rules_1
+LANG_ENGLISH         "Play like the pros while still earning XP, unlocking content, and completing challenges!"
+
+REFERENCE            cdl_rules_2
+LANG_ENGLISH         "Play Call of Duty League??? Maps and Game Modes with League approved ruleset."
+
+REFERENCE            cdl_rules_3
+LANG_ENGLISH         "In the Call of Duty League??? playlists, your Private Match Loadouts are used and all items are unlocked. Restricted items will be replaced."
+
+REFERENCE            editdropkit
+LANG_ENGLISH         "Edit Loadout"
+
+REFERENCE            editdropkit_1
+LANG_ENGLISH         "Edit Loadout allows you to configure loadouts that can be accessed during the match. Assemble battle-ready combinations of Weapons, Equipment, and Perks."
+
+REFERENCE            editdropkit_2
+LANG_ENGLISH         "Primary and Secondary weapons form the base of your loadout. Perks give your soldier abilities on the battlefield."
+
+REFERENCE            editdropkit_3
+LANG_ENGLISH         "You may create and name multiple loadouts for various gameplay situations. Be sure to experiment with new combinations as you level up and unlock new functionalities."
+
+REFERENCE            elder
+LANG_ENGLISH         "Officer Progression"
+
+REFERENCE            elder_1
+LANG_ENGLISH         "Officer Ranks are a new seasonal leveling system for Call of Duty??: Modern Warfare??. Once you have completed the Enlisted Ranks, you may climb the Officer Ranks to earn recognition and rewards."
+
+REFERENCE            elder_2
+LANG_ENGLISH         "Each new Officer Rank unlocks a challenge which can be completed for a medal ribbon and an XP boost. The more Rank Challenges you complete, the more ribbons you earn and the faster you progress."
+
+REFERENCE            elder_3
+LANG_ENGLISH         "Officer Ranks are specific to the current Season. Climb as high as possible during the current season to maximize your Rank. Remember - Officer Ranks are reset at the start of each new Season, but your achievements will be saved to build your history as a combatant."
+
+REFERENCE            fieldupgrade
+LANG_ENGLISH         "Field Upgrade"
+
+REFERENCE            fieldupgrade_1
+LANG_ENGLISH         "Field Upgrades are abilities and pieces of gear that can give you a tactical edge in battle."
+
+REFERENCE            fieldupgrade_2
+LANG_ENGLISH         "They recharge throughout a fight. More powerful Field Upgrades take longer to charge."
+
+REFERENCE            fieldupgrade_3
+LANG_ENGLISH         "Field Upgrade Pro lets you equip two Field Upgrades instead of one. Choose between them on each activation. Unlocked at level 45."
+
+REFERENCE            fieldupgrade_pro
+LANG_ENGLISH         "Field Upgrade Pro"
+
+REFERENCE            fieldupgrade_pro_desc
+LANG_ENGLISH         "Field upgrade pro is now available. You can now equip 2 field upgrades instead of 1. Choose between them on each activation."
+
+REFERENCE            gamebattles
+LANG_ENGLISH         "GameBattles"
+
+REFERENCE            gamebattles_1
+LANG_ENGLISH         "Grab your teammates and head over to GameBattles.com to participate in upcoming GameBattles ladders, tournaments, and Call of Duty Challengers competitions."
+
+REFERENCE            gamebattles_2
+LANG_ENGLISH         "Play your match in the GameBattles menu in Modern Warfare?? and your results will automatically be reported to GameBattles."
+
+REFERENCE            gamebattles_3
+LANG_ENGLISH         "The use of GameBattles is subject to the Major League Gaming Terms of Service, Privacy Policy and other applicable rules. Visit GameBattles.com for more information."
+
+REFERENCE            go_to_bp
+LANG_ENGLISH         "View Battle Pass"
+
+REFERENCE            gunfight
+LANG_ENGLISH         "Gunfight"
+
+REFERENCE            gunfight_1
+LANG_ENGLISH         "Small team, multiple round battles"
+
+REFERENCE            gunfight_2
+LANG_ENGLISH         "Eliminate all enemies to win"
+
+REFERENCE            gunfight_3
+LANG_ENGLISH         "Or, first team to reach score limit wins"
+
+REFERENCE            gunsmith
+LANG_ENGLISH         "Gunsmith"
+
+REFERENCE            gunsmith_1
+LANG_ENGLISH         "Gunsmith is a deep weapon customization system that allows you to create your own custom firearms."
+
+REFERENCE            gunsmith_2
+LANG_ENGLISH         "Leveling up your weapons in battle will unlock new attachments across 8 attachment zones, as well as weapon perks."
+
+REFERENCE            gunsmith_3
+LANG_ENGLISH         "Upgrade your weapon with up to 5 attachments that significantly change how your weapon feels. Experiment with various combinations to suit your playstyle and different game modes."
+
+REFERENCE            gunsmith_customs
+LANG_ENGLISH         "Gunsmith Customs"
+
+REFERENCE            gunsmith_customs_1
+LANG_ENGLISH         "When selecting attachments, hit the Blueprint button to select from the attachment variants you own!"
+
+REFERENCE            gunsmith_customs_2
+LANG_ENGLISH         "Combine cosmetic attachment variants from up to 5 weapons to create the weapon that's right for you!"
+
+REFERENCE            hint_how_to_play
+LANG_ENGLISH         "How to Play"
+
+REFERENCE            intel_mission_challenges
+LANG_ENGLISH         "Intel Missions"
+
+REFERENCE            intel_mission_challenges_1
+LANG_ENGLISH         "New Intel Missions are available to play in Warzone. Find more information in the Missions menu on the Intel tab."
+
+REFERENCE            intel_mission_challenges_2
+LANG_ENGLISH         "Intel Missions give you a variety of scavenger based missions to do when dropping into the Warzone."
+
+REFERENCE            intel_mission_challenges_3
+LANG_ENGLISH         "Completing the Intel Missions will give you the chance to follow Ghost and learn more about Verdansk."
+
+REFERENCE            killstreak_1
+LANG_ENGLISH         "Killstreaks are powerful support packages that you can call into the battlefield during a match. Used properly, they can turn the tide of a fight."
+
+REFERENCE            killstreak_2
+LANG_ENGLISH         "Earn Killstreaks by getting Kills without dying. Each type of Killstreak requires a specific number of Kills to earn. The more Kills one costs, the more powerful it is. You may choose three Killstreaks as part of your combat readiness."
+
+REFERENCE            killstreak_3
+LANG_ENGLISH         "When you're in combat, you may trigger each Killstreak once you've achieved the corresponding number of Kills. Be sure to keep an eye on the Killstreak HUD to see what you have available."
+
+REFERENCE            killstreaks
+LANG_ENGLISH         "Killstreaks"
+
+REFERENCE            loadout
+LANG_ENGLISH         "Edit Loadout"
+
+REFERENCE            loadout_1
+LANG_ENGLISH         "Edit loadout allows you to configure your own battle-ready combinations of Weapons, Equipment, Perks, Killstreaks, and Field Upgrades."
+
+REFERENCE            loadout_1_cp
+LANG_ENGLISH         "Create A Class allows you to configure your own battle-ready combinations of Weapons, Equipment, Perks, Munitions, and Roles."
+
+REFERENCE            loadout_2
+LANG_ENGLISH         "Primary and Secondary weapons form the base of your loadout. Perks give your soldier special abilities on the battlefield, while Killstreaks and Field Upgrades allow you to call in support mid-match."
+
+REFERENCE            loadout_2_cp
+LANG_ENGLISH         "Primary and Secondary weapons form the base of your class. Perks give your soldier special abilities on the battlefield, while Munitions and Roles allow you provide support to your team."
+
+REFERENCE            loadout_3
+LANG_ENGLISH         "You may create and name multiple loadouts for various gameplay situations. Be sure to experiment with new combinations as you level up and unlock new functionality. You can set your favorite loadout to see it on the gun bench and in the hands of your Operator in the menus."
+
+REFERENCE            mature_content_cancel
+LANG_ENGLISH         "Return to main menu"
+
+REFERENCE            mature_content_confirm
+LANG_ENGLISH         "I understand"
+
+REFERENCE            mature_content_desc
+LANG_ENGLISH         "Player discretion is advised. Some scenes include graphic or intense content including violence. Please consult the game???s ratings."
+
+REFERENCE            mature_content_warning
+LANG_ENGLISH         "Mature Content Notice"
+
+REFERENCE            milsim
+LANG_ENGLISH         "Mil-Sim Operators"
+
+REFERENCE            milsim_1
+LANG_ENGLISH         "Represent your country with new Mil-Sim operators for both Coalition and Allegiance factions. Mil-Sim Operators can be purchased in
+bundles from the ^5Store ^7or unlocked via the ^5Battle Pass^7.
+"
+
+REFERENCE            mission_challenges
+LANG_ENGLISH         "Mission Challenges"
+
+REFERENCE            mission_challenges_1
+LANG_ENGLISH         "Missions are multi-step challenges that can be completed for XP bonuses and special rewards."
+
+REFERENCE            mission_challenges_2
+LANG_ENGLISH         "Missions must be activated in order to complete them. Activate a Mission from the Missions page and track your progress. You will be notified when you complete each step and when you have completed your overall objectives."
+
+REFERENCE            mission_challenges_3
+LANG_ENGLISH         "There are several Missions available, with more to be released in each new season. Be sure to check back to the Missions page for new challenges and rewards."
+
+REFERENCE            mod_1
+LANG_ENGLISH         "Custom Mods are weapons that you create, customize, and save into your Armory. Mod slots are unlocked by leveling each weapon."
+
+REFERENCE            mod_2
+LANG_ENGLISH         "Create a Custom Mod in Gunsmith by adding attachments, customizing with camos and charms, and then saving it into one of your Mod Slots. You can personalize its name to make it stand out."
+
+REFERENCE            mod_3
+LANG_ENGLISH         "Custom Mods track stats, so your weapon will build a history. As long as your Mod retains the same base weapon and name, you may continue to modify it."
+
+REFERENCE            mods
+LANG_ENGLISH         "Custom Modification"
+
+REFERENCE            moshpit_trials_1
+LANG_ENGLISH         "For a limited time, hop into Modern Warfare's multiplayer mode to rank up, level your guns and complete challenges."
+
+REFERENCE            moshpit_trials_2
+LANG_ENGLISH         "A wide variety of Maps and Game-modes are live in the Multiplayer Trial playlist."
+
+REFERENCE            moshpit_trials_3
+LANG_ENGLISH         "If you upgrade you can choose what you want to play, when you want to play it. A deep and mature Campaign, a fun action Packed 4 Player Co-Op Experience and a Variety filled Multiplayer complete with 2v2 Gunfight, Night Vision, Realism, Objective Modes, 64 Player Ground War battles and much much more!"
+
+REFERENCE            munition_1
+LANG_ENGLISH         "Munitions can be equipped before going in game by spending points won by playing the game."
+
+REFERENCE            munition_2
+LANG_ENGLISH         "Munitions found during a mission are not kept afterwards."
+
+REFERENCE            munition_3
+LANG_ENGLISH         "Activate munitions using the radial menu. Points will be spent when they are used."
+
+REFERENCE            munitions
+LANG_ENGLISH         "Munitions"
+
+REFERENCE            operator_1
+LANG_ENGLISH         "Operators are soldiers of the Call of Duty??: Modern Warfare?? universe. Each one has their own personality and look on the battlefield."
+
+REFERENCE            operator_2
+LANG_ENGLISH         "Operators are divided into two Factions???Coalition and Allegiance. Choose a favorite Operator from each side to take into combat."
+
+REFERENCE            operator_3
+LANG_ENGLISH         "You may customize your Operators to give them additional flair. Outfit them with new Skins, change their VO Quips, or select their Finishing Moves from the "Customize Operator" menu."
+
+REFERENCE            operator_3_wz
+LANG_ENGLISH         "You may customize your operators with new skins, change
+their VO Quips, or select their finishing moves to give them
+additional flair. Operators and cosmetics can be purchased in
+bundle from the ^5Store ^7or unlocked via the ^5Battle Pass^7."
+
+REFERENCE            operator_missions
+LANG_ENGLISH         "OPERATOR MISSIONS"
+
+REFERENCE            operator_missions_1
+LANG_ENGLISH         "Operator Missions have been moved from the Missions screen to the Operators screen."
+
+REFERENCE            operator_missions_2
+LANG_ENGLISH         "You no longer need to manually select Operator Missions ??? if an Operator has an available Mission, it will be active automatically when you have that Operator selected."
+
+REFERENCE            operator_missions_3
+LANG_ENGLISH         "Core Missions are still available to select from the Missions screen. Make sure to complete your Missions and maximize your XP."
+
+REFERENCE            operators
+LANG_ENGLISH         "Operators"
+
+REFERENCE            perk_1
+LANG_ENGLISH         "Passive bonuses can be mixed and matched to fit your playstyle. Use them to boost your strengths or cover your weaknesses."
+
+REFERENCE            perk_2
+LANG_ENGLISH         "Enable Specialist for a loadout to earn perks instead of killstreaks. After 8 kills, become the ultimate soldier. Unlocked at level 29."
+
+REFERENCE            perk_3
+LANG_ENGLISH         "Retrieving a loadout from your Dropkit will equip your Perks. Plan ahead and choose perks that will give you an edge in Warzone."
+
+REFERENCE            perk_update
+LANG_ENGLISH         "Perk Balance Pass"
+
+REFERENCE            perk_update_1
+LANG_ENGLISH         "Perks have been adjusted to help create more balanced choices. Weak and unpopular perks have been buffed! Read the notes in the perk descriptions to find out more about what has changed for each perk."
+
+REFERENCE            perk_update_2
+LANG_ENGLISH         "^5Overkill ^7is now a red slot perk and must be picked against some of the strongest perks in the game. Combine it with scavenger to keep yourself fully loaded for any situation."
+
+REFERENCE            perk_update_3
+LANG_ENGLISH         "^5Kill Chain ^7has been moved to the blue slot. Combine it with Hardline or Pointman for a super charged killstreak loadout."
+
+REFERENCE            perks
+LANG_ENGLISH         "Perks"
+
+REFERENCE            plunder_hint_header_1
+LANG_ENGLISH         "Find Cash"
+
+REFERENCE            plunder_hint_header_2
+LANG_ENGLISH         "Protect your cash"
+
+REFERENCE            plunder_hint_header_3
+LANG_ENGLISH         "Most Cash Wins"
+
+REFERENCE            plunder_hint_text_1
+LANG_ENGLISH         "Loot, complete Contracts and take cash from rival players."
+
+REFERENCE            plunder_hint_text_2
+LANG_ENGLISH         "Deposit cash at helipads and with portable deposit balloons. Deposited cash is safe and cannot be stolen."
+
+REFERENCE            plunder_hint_text_3
+LANG_ENGLISH         "Cash leaders' locations are shown on the map."
+
+REFERENCE            plunder_intro_button_1
+LANG_ENGLISH         "Play Plunder Training"
+
+REFERENCE            plunder_intro_button_2
+LANG_ENGLISH         "Play Plunder Now"
+
+REFERENCE            plunder_intro_popup_desc_1
+LANG_ENGLISH         "Learn and test out the new game mechanics of Plunder to get the edge on the opponent and receive an unique reward."
+
+REFERENCE            regiment_1
+LANG_ENGLISH         "Welcome to your new regiment! Access your regiment's roster, squad up with other players, view the next Happy Hour, or even join another regiment."
+
+REFERENCE            regiment_2
+LANG_ENGLISH         "Check back regularly to squad up with your regiment and take advantage of Happy Hour for Double XP."
+
+REFERENCE            regiment_3
+LANG_ENGLISH         "Represent your regiment with gold clan tags! Get your golden clan tag by matching your clan tag with your regiment's."
+
+REFERENCE            regiments
+LANG_ENGLISH         "Regiments"
+
+REFERENCE            role_1
+LANG_ENGLISH         "A Role is defined by the combination of an activated ability and a passive ability."
+
+REFERENCE            role_2
+LANG_ENGLISH         "Choose a Role for your desired play style."
+
+REFERENCE            role_3
+LANG_ENGLISH         "A team with players in different Roles is equipped to handle any situation."
+
+REFERENCE            roles
+LANG_ENGLISH         "Roles"
+
+REFERENCE            specialist
+LANG_ENGLISH         "Specialist Mode Available"
+
+REFERENCE            specialist_cancel
+LANG_ENGLISH         "Not Now"
+
+REFERENCE            specialist_confirm
+LANG_ENGLISH         "Toggle Specialist Mode"
+
+REFERENCE            specialist_desc
+LANG_ENGLISH         "At level 29 the specialist mode becomes available. When activated you can have up to 6 perks in your loadout. You earn an extra perk every 2 kills. After 8 kills you earn the Specialist bonus which grants most perks and weapon perks in the game."
+
+REFERENCE            specialist_mode_info
+LANG_ENGLISH         "Specialist Mode Info"
+
+REFERENCE            specialist_warning
+LANG_ENGLISH         "*Killstreaks are disabled when this mode is active"
+
+REFERENCE            store
+LANG_ENGLISH         "Store"
+
+REFERENCE            tdm
+LANG_ENGLISH         "Team Deathmatch"
+
+REFERENCE            tdm_1
+LANG_ENGLISH         "Allows parties of up to 6 players each"
+
+REFERENCE            tdm_2
+LANG_ENGLISH         "Kill enemies to score"
+
+REFERENCE            tdm_3
+LANG_ENGLISH         "Be the first team to the score limit OR highest score when the clock runs out"
+
+REFERENCE            tutorial_plunder_1_header
+LANG_ENGLISH         "Team With the Most Cash Wins"
+
+REFERENCE            tutorial_plunder_1_point_1
+LANG_ENGLISH         "Players with the most cash are marked"
+
+REFERENCE            tutorial_plunder_2_desc
+LANG_ENGLISH         "Get cash by finding loot crates, completing contracts or killing other players to steal their cash."
+
+REFERENCE            tutorial_plunder_2_header
+LANG_ENGLISH         "Collect Cash"
+
+REFERENCE            tutorial_plunder_2_point_1
+LANG_ENGLISH         "Find Supply Boxes"
+
+REFERENCE            tutorial_plunder_2_point_2
+LANG_ENGLISH         "Complete Contracts"
+
+REFERENCE            tutorial_plunder_2_point_3
+LANG_ENGLISH         "Kill Enemies To Steal"
+
+REFERENCE            tutorial_plunder_3_desc
+LANG_ENGLISH         "Protect your cash by depositing it during the match. This prevents that cash from being stolen if you are killed."
+
+REFERENCE            tutorial_plunder_3_header
+LANG_ENGLISH         "Deposit Cash to Keep it Safe"
+
+REFERENCE            tutorial_plunder_3_point_1
+LANG_ENGLISH         "Cash Deposit Balloon"
+
+REFERENCE            tutorial_plunder_3_point_2
+LANG_ENGLISH         "Buy station"
+
+REFERENCE            tutorial_plunder_3_point_3
+LANG_ENGLISH         "Cash Deposit Helipad"
+
+REFERENCE            vehicle_camos_1
+LANG_ENGLISH         "Customize your vehicles."
+
+REFERENCE            vehicle_camos_2
+LANG_ENGLISH         "Vehicle Skins will appear when you're the first to enter a vehicle."
+
+REFERENCE            vehicle_camos_3
+LANG_ENGLISH         "When available, Vehicle Skins can be purchased in
+bundles from the ^5Store ^7or unlocked via the ^5Battle Pass^7.
+"
+
+REFERENCE            wz_congratulation_popup_desc_1
+LANG_ENGLISH         "Congratulations on completing the Warzone training. Replay it anytime by accessing it from the play menu."
+
+REFERENCE            wz_congratulation_popup_desc_2
+LANG_ENGLISH         "Now team up and jump into the real fight and be the last soldier standing in Warzone."
+
+REFERENCE            wz_congratulation_popup_desc_3
+LANG_ENGLISH         "Don???t forget to set up your Loadout Drop before the match to pick up your best equipment in the Warzone."
+
+REFERENCE            wz_congratulation_popup_title
+LANG_ENGLISH         "CONGRATULATIONS"
+
+REFERENCE            wz_intro_popup_desc_1
+LANG_ENGLISH         "Join a squad to jump into large scale combat in Battle Royale and Plunder in Warzone.
+Available every season."
+
+REFERENCE            wz_intro_popup_desc_2
+LANG_ENGLISH         "Bigger Map with intense combat."
+
+REFERENCE            wz_intro_popup_desc_3
+LANG_ENGLISH         "Fun, Limited Mode available every season."
+
+REFERENCE            wz_intro_popup_title
+LANG_ENGLISH         "WARZONE INTRODUCTION"
+
+REFERENCE            wz_magmaplayers_congratulation_popup_desc_1
+LANG_ENGLISH         "Congratulations on completing the Warzone training. Replay it anytime."
+
+REFERENCE            wz_magmaplayers_congratulation_popup_desc_2
+LANG_ENGLISH         "You now have access to the Battle Pass if you want more customization items."
+
+REFERENCE            wz_magmaplayers_congratulation_popup_desc_3
+LANG_ENGLISH         "Get new operator skins, blueprints and more simply by playing. You already have access to a free tier in the Battle Pass.
+Go check it out!"
+
+
+ENDMARKER

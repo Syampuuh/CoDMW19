@@ -1,0 +1,414 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            alt
+LANG_ENGLISH         "ALT"
+
+REFERENCE            aux1
+LANG_ENGLISH         "Auxiliary 1"
+
+REFERENCE            aux10
+LANG_ENGLISH         "Auxiliary 10"
+
+REFERENCE            aux11
+LANG_ENGLISH         "Auxiliary 11"
+
+REFERENCE            aux12
+LANG_ENGLISH         "Auxiliary 12"
+
+REFERENCE            aux13
+LANG_ENGLISH         "Auxiliary 13"
+
+REFERENCE            aux14
+LANG_ENGLISH         "Auxiliary 14"
+
+REFERENCE            aux15
+LANG_ENGLISH         "Auxiliary 15"
+
+REFERENCE            aux16
+LANG_ENGLISH         "Auxiliary 16"
+
+REFERENCE            aux2
+LANG_ENGLISH         "Auxiliary 2"
+
+REFERENCE            aux3
+LANG_ENGLISH         "Auxiliary 3"
+
+REFERENCE            aux4
+LANG_ENGLISH         "Auxiliary 4"
+
+REFERENCE            aux5
+LANG_ENGLISH         "Auxiliary 5"
+
+REFERENCE            aux6
+LANG_ENGLISH         "Auxiliary 6"
+
+REFERENCE            aux7
+LANG_ENGLISH         "Auxiliary 7"
+
+REFERENCE            aux8
+LANG_ENGLISH         "Auxiliary 8"
+
+REFERENCE            aux9
+LANG_ENGLISH         "Auxiliary 9"
+
+REFERENCE            backspace
+LANG_ENGLISH         "BACKSPACE"
+
+REFERENCE            button_mousewheelupdown
+LANG_ENGLISH         "?? Zoom In & Out"
+
+REFERENCE            button_vita_l1
+LANG_ENGLISH         ""
+
+REFERENCE            button_vita_l2
+LANG_ENGLISH         ""
+
+REFERENCE            button_vita_l3
+LANG_ENGLISH         ""
+
+REFERENCE            button_vita_r1
+LANG_ENGLISH         ""
+
+REFERENCE            button_vita_r2
+LANG_ENGLISH         ""
+
+REFERENCE            button_vita_r3
+LANG_ENGLISH         ""
+
+REFERENCE            button_vita_touchpad
+LANG_ENGLISH         ""
+
+REFERENCE            capslock
+LANG_ENGLISH         "CAPS LOCK"
+
+REFERENCE            command
+LANG_ENGLISH         "COMMAND"
+
+REFERENCE            ctrl
+LANG_ENGLISH         "CTRL"
+
+REFERENCE            del
+LANG_ENGLISH         "DEL"
+
+REFERENCE            downarrow
+LANG_ENGLISH         "??"
+
+REFERENCE            end
+LANG_ENGLISH         "END"
+
+REFERENCE            enter
+LANG_ENGLISH         "ENTER"
+
+REFERENCE            esc
+LANG_ENGLISH         "ESC"
+
+REFERENCE            escape
+LANG_ENGLISH         "ESC"
+
+REFERENCE            f1
+LANG_ENGLISH         "F1"
+
+REFERENCE            f10
+LANG_ENGLISH         "F10"
+
+REFERENCE            f11
+LANG_ENGLISH         "F11"
+
+REFERENCE            f12
+LANG_ENGLISH         "F12"
+
+REFERENCE            f2
+LANG_ENGLISH         "F2"
+
+REFERENCE            f3
+LANG_ENGLISH         "F3"
+
+REFERENCE            f4
+LANG_ENGLISH         "F4"
+
+REFERENCE            f5
+LANG_ENGLISH         "F5"
+
+REFERENCE            f6
+LANG_ENGLISH         "F6"
+
+REFERENCE            f7
+LANG_ENGLISH         "F7"
+
+REFERENCE            f8
+LANG_ENGLISH         "F8"
+
+REFERENCE            f9
+LANG_ENGLISH         "F9"
+
+REFERENCE            henkan
+LANG_ENGLISH         "HENKAN"
+
+REFERENCE            hiragana
+LANG_ENGLISH         "HIRAGANA"
+
+REFERENCE            home
+LANG_ENGLISH         "HOME"
+
+REFERENCE            ins
+LANG_ENGLISH         "INS"
+
+REFERENCE            joy1
+LANG_ENGLISH         "Joystick 1"
+
+REFERENCE            joy10
+LANG_ENGLISH         "Joystick 10"
+
+REFERENCE            joy11
+LANG_ENGLISH         "Joystick 11"
+
+REFERENCE            joy12
+LANG_ENGLISH         "Joystick 12"
+
+REFERENCE            joy13
+LANG_ENGLISH         "Joystick 13"
+
+REFERENCE            joy14
+LANG_ENGLISH         "Joystick 14"
+
+REFERENCE            joy15
+LANG_ENGLISH         "Joystick 15"
+
+REFERENCE            joy16
+LANG_ENGLISH         "Joystick 16"
+
+REFERENCE            joy17
+LANG_ENGLISH         "Joystick 17"
+
+REFERENCE            joy18
+LANG_ENGLISH         "Joystick 18"
+
+REFERENCE            joy19
+LANG_ENGLISH         "Joystick 19"
+
+REFERENCE            joy2
+LANG_ENGLISH         "Joystick 2"
+
+REFERENCE            joy20
+LANG_ENGLISH         "Joystick 20"
+
+REFERENCE            joy21
+LANG_ENGLISH         "Joystick 21"
+
+REFERENCE            joy22
+LANG_ENGLISH         "Joystick 22"
+
+REFERENCE            joy23
+LANG_ENGLISH         "Joystick 23"
+
+REFERENCE            joy24
+LANG_ENGLISH         "Joystick 24"
+
+REFERENCE            joy25
+LANG_ENGLISH         "Joystick 25"
+
+REFERENCE            joy26
+LANG_ENGLISH         "Joystick 26"
+
+REFERENCE            joy27
+LANG_ENGLISH         "Joystick 27"
+
+REFERENCE            joy28
+LANG_ENGLISH         "Joystick 28"
+
+REFERENCE            joy29
+LANG_ENGLISH         "Joystick 29"
+
+REFERENCE            joy3
+LANG_ENGLISH         "Joystick 3"
+
+REFERENCE            joy30
+LANG_ENGLISH         "Joystick 30"
+
+REFERENCE            joy31
+LANG_ENGLISH         "Joystick 31"
+
+REFERENCE            joy32
+LANG_ENGLISH         "Joystick 32"
+
+REFERENCE            joy4
+LANG_ENGLISH         "Joystick 4"
+
+REFERENCE            joy5
+LANG_ENGLISH         "Joystick 5"
+
+REFERENCE            joy6
+LANG_ENGLISH         "Joystick 6"
+
+REFERENCE            joy7
+LANG_ENGLISH         "Joystick 7"
+
+REFERENCE            joy8
+LANG_ENGLISH         "Joystick 8"
+
+REFERENCE            joy9
+LANG_ENGLISH         "Joystick 9"
+
+REFERENCE            kp_del
+LANG_ENGLISH         "NUM DECIMAL"
+
+REFERENCE            kp_downarrow
+LANG_ENGLISH         "NUM 2"
+
+REFERENCE            kp_end
+LANG_ENGLISH         "NUM 1"
+
+REFERENCE            kp_enter
+LANG_ENGLISH         "NUM ENTER"
+
+REFERENCE            kp_equals
+LANG_ENGLISH         "NUM EQUALS"
+
+REFERENCE            kp_home
+LANG_ENGLISH         "NUM 7"
+
+REFERENCE            kp_ins
+LANG_ENGLISH         "NUM 0"
+
+REFERENCE            kp_leftarrow
+LANG_ENGLISH         "NUM 4"
+
+REFERENCE            kp_minus
+LANG_ENGLISH         "NUM MINUS"
+
+REFERENCE            kp_numlock
+LANG_ENGLISH         "NUM LOCK"
+
+REFERENCE            kp_numpad_5
+LANG_ENGLISH         "NUM 5"
+
+REFERENCE            kp_pgdn
+LANG_ENGLISH         "NUM 3"
+
+REFERENCE            kp_pgup
+LANG_ENGLISH         "NUM 9"
+
+REFERENCE            kp_plus
+LANG_ENGLISH         "NUM PLUS"
+
+REFERENCE            kp_rightarrow
+LANG_ENGLISH         "NUM 6"
+
+REFERENCE            kp_slash
+LANG_ENGLISH         "NUM SLASH"
+
+REFERENCE            kp_star
+LANG_ENGLISH         "NUM STAR"
+
+REFERENCE            kp_uparrow
+LANG_ENGLISH         "NUM 8"
+
+REFERENCE            lalt
+LANG_ENGLISH         "LEFT ALT"
+
+REFERENCE            lctrl
+LANG_ENGLISH         "LEFT CTRL"
+
+REFERENCE            leftarrow
+LANG_ENGLISH         "??"
+
+REFERENCE            lshift
+LANG_ENGLISH         "LEFT SHIFT"
+
+REFERENCE            lwin
+LANG_ENGLISH         "LEFT SYSTEM"
+
+REFERENCE            menu
+LANG_ENGLISH         "MENU"
+
+REFERENCE            mouse
+LANG_ENGLISH         "??"
+
+REFERENCE            mouse1
+LANG_ENGLISH         "??"
+
+REFERENCE            mouse2
+LANG_ENGLISH         "??"
+
+REFERENCE            mouse3
+LANG_ENGLISH         "??"
+
+REFERENCE            mouse4
+LANG_ENGLISH         "??"
+
+REFERENCE            mouse5
+LANG_ENGLISH         "??"
+
+REFERENCE            muhenkan
+LANG_ENGLISH         "MUHENKAN"
+
+REFERENCE            mwheeldown
+LANG_ENGLISH         "??"
+
+REFERENCE            mwheelleft
+LANG_ENGLISH         "WHEEL LEFT"
+
+REFERENCE            mwheelright
+LANG_ENGLISH         "WHEEL RIGHT"
+
+REFERENCE            mwheelup
+LANG_ENGLISH         "??"
+
+REFERENCE            or
+LANG_ENGLISH         "or"
+
+REFERENCE            pause
+LANG_ENGLISH         "PAUSE"
+
+REFERENCE            pgdn
+LANG_ENGLISH         "PAGE DOWN"
+
+REFERENCE            pgup
+LANG_ENGLISH         "PAGE UP"
+
+REFERENCE            printscreen
+LANG_ENGLISH         "PRINT SCREEN"
+
+REFERENCE            ralt
+LANG_ENGLISH         "RIGHT ALT"
+
+REFERENCE            rctrl
+LANG_ENGLISH         "RIGHT CTRL"
+
+REFERENCE            rightarrow
+LANG_ENGLISH         "??"
+
+REFERENCE            rshift
+LANG_ENGLISH         "RIGHT SHIFT"
+
+REFERENCE            rwin
+LANG_ENGLISH         "RIGHT SYSTEM"
+
+REFERENCE            scrolllock
+LANG_ENGLISH         "SCROLL LOCK"
+
+REFERENCE            shift
+LANG_ENGLISH         "SHIFT"
+
+REFERENCE            space
+LANG_ENGLISH         "SPACE"
+
+REFERENCE            tab
+LANG_ENGLISH         "TAB"
+
+REFERENCE            unbound
+LANG_ENGLISH         "UNBOUND"
+
+REFERENCE            uparrow
+LANG_ENGLISH         "??"
+
+REFERENCE            use
+LANG_ENGLISH         "use"
+
+REFERENCE            zen_han
+LANG_ENGLISH         "ZEN/HAN"
+
+
+ENDMARKER

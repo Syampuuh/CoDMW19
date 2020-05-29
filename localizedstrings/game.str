@@ -1,0 +1,421 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            backward
+LANG_ENGLISH         "Backward"
+
+REFERENCE            badclientslot
+LANG_ENGLISH         "Bad client slot:"
+
+REFERENCE            begin_match
+LANG_ENGLISH         "Begin Match"
+
+REFERENCE            calledavote
+LANG_ENGLISH         "&&1 called a vote."
+
+REFERENCE            cant_get_grenade_weap_message
+LANG_ENGLISH         "You must have the grenades selected to pickup a different type of grenades."
+
+REFERENCE            cant_get_pistol_weap_message
+LANG_ENGLISH         "You must have the pistol selected to pickup a different pistol."
+
+REFERENCE            cant_get_smoker_weap_message
+LANG_ENGLISH         "You must have the smoke grenades selected to pickup a different type of smoke grenades."
+
+REFERENCE            changedto
+LANG_ENGLISH         "changed to"
+
+REFERENCE            cheatsnotenabled
+LANG_ENGLISH         "Cheats are not enabled on this server."
+
+REFERENCE            clientnotactive
+LANG_ENGLISH         "Client &&1 is not active"
+
+REFERENCE            clientnotonserver
+LANG_ENGLISH         "Client not on server."
+
+REFERENCE            complaintfiledagainst
+LANG_ENGLISH         "Complaint filed against you. (&&1 until kicked)"
+
+REFERENCE            crouch_blocked
+LANG_ENGLISH         "You can't crouch here."
+
+REFERENCE            crouch_blocked_weapon
+LANG_ENGLISH         "Can't Crouch To Use This Weapon Here."
+
+REFERENCE            custom_gamemode
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? Custom Game Mode"
+
+REFERENCE            dead
+LANG_ENGLISH         "Dead"
+
+REFERENCE            demi_godmode_off
+LANG_ENGLISH         "demigod mode OFF"
+
+REFERENCE            demi_godmode_on
+LANG_ENGLISH         "demigod mode ON"
+
+REFERENCE            difficulty_fu
+LANG_ENGLISH         "Difficulty: Veteran"
+
+REFERENCE            difficulty_hard
+LANG_ENGLISH         "Difficulty: Hardened"
+
+REFERENCE            difficulty_medium
+LANG_ENGLISH         "Difficulty: Regular"
+
+REFERENCE            difficulty_unknown
+LANG_ENGLISH         "Difficulty: Unknown"
+
+REFERENCE            door_open
+LANG_ENGLISH         "Open"
+
+REFERENCE            droppedforinactivity
+LANG_ENGLISH         "Kicked from server due to inactivity."
+
+REFERENCE            err_savegame_bad
+LANG_ENGLISH         "Savegame is out-of-date or corrupt."
+
+REFERENCE            find_armor
+LANG_ENGLISH         "SCAVENGE FOR ARMOR"
+
+REFERENCE            fire_type
+LANG_ENGLISH         "Fire Type: &&1"
+
+REFERENCE            focus_hint
+LANG_ENGLISH         "[{+focus}] View objectives."
+
+REFERENCE            forward
+LANG_ENGLISH         "Forward"
+
+REFERENCE            gc_comehere
+LANG_ENGLISH         "Come here."
+
+REFERENCE            gc_coverme
+LANG_ENGLISH         "Cover me."
+
+REFERENCE            gc_guardlocation
+LANG_ENGLISH         "Guard location."
+
+REFERENCE            gc_holdthisposition
+LANG_ENGLISH         "Hold this position."
+
+REFERENCE            gc_holdyourposition
+LANG_ENGLISH         "Hold your position."
+
+REFERENCE            gc_report
+LANG_ENGLISH         "Report."
+
+REFERENCE            gc_searchdestroy
+LANG_ENGLISH         "Search and destroy."
+
+REFERENCE            get_to_cover
+LANG_ENGLISH         "You are hurt. Get to cover!"
+
+REFERENCE            godmode_off
+LANG_ENGLISH         "godmode OFF"
+
+REFERENCE            godmode_on
+LANG_ENGLISH         "godmode ON"
+
+REFERENCE            health
+LANG_ENGLISH         "Health"
+
+REFERENCE            hold
+LANG_ENGLISH         "Hold"
+
+REFERENCE            hold_caps
+LANG_ENGLISH         "HOLD"
+
+REFERENCE            inactivedropwarning
+LANG_ENGLISH         "Warning: You are about to be kicked due to inactivity."
+
+REFERENCE            invalidgametype
+LANG_ENGLISH         "Invalid gametype."
+
+REFERENCE            invalidpassword
+LANG_ENGLISH         "Invalid Password."
+
+REFERENCE            invalidserver
+LANG_ENGLISH         "Invalid Server."
+
+REFERENCE            invalidvotestring
+LANG_ENGLISH         "Invalid vote string."
+
+REFERENCE            kickedfromcomplaints
+LANG_ENGLISH         "kicked after too many complaints."
+
+REFERENCE            last_stand_get_back_up
+LANG_ENGLISH         "Kill an enemy to get back up!"
+
+REFERENCE            launch_phase_1
+LANG_ENGLISH         "1v1 Free For All"
+
+REFERENCE            launch_phase_1_desc
+LANG_ENGLISH         "Eliminate the enemy to score.
+Highest score wins.
+Health regeneration and respawning enabled."
+
+REFERENCE            launch_phase_2
+LANG_ENGLISH         "2v2 Standard Gunfight"
+
+REFERENCE            launch_phase_2_desc
+LANG_ENGLISH         "Eliminate the enemy team, or capture the overtime flag to win.
+Victory goes to the first team to win 6 rounds.
+Health regeneration and respawning disabled."
+
+REFERENCE            launch_phase_3
+LANG_ENGLISH         "2v2 Gunfight On-Site Procurement"
+
+REFERENCE            launch_phase_3_desc
+LANG_ENGLISH         "Eliminate the enemy team, or capture the overtime flag to win.
+Find weapons in the arena and fight to win 6 rounds.
+Health regeneration and respawning disabled."
+
+REFERENCE            launch_phase_4
+LANG_ENGLISH         "2v2 Kill Confirmed"
+
+REFERENCE            launch_phase_4_desc
+LANG_ENGLISH         "Downed enemies drop dogtags. Score by collecting dropped tags.
+Highest score wins.
+Health regeneration and respawning enabled."
+
+REFERENCE            launch_start_match
+LANG_ENGLISH         "[{ui_primary}] To Start Match"
+
+REFERENCE            leveltime
+LANG_ENGLISH         "Level Time"
+
+REFERENCE            low_armor
+LANG_ENGLISH         "LOW ARMOR"
+
+REFERENCE            marines
+LANG_ENGLISH         "Marines"
+
+REFERENCE            maxvotescalled
+LANG_ENGLISH         "You have called the maximum number of votes."
+
+REFERENCE            missionfailed
+LANG_ENGLISH         "Mission Failed"
+
+REFERENCE            mpoff
+LANG_ENGLISH         "Model Previewer Off"
+
+REFERENCE            mpon
+LANG_ENGLISH         "Model Previewer On"
+
+REFERENCE            mustbealivecommand
+LANG_ENGLISH         "You must be alive to use this command."
+
+REFERENCE            next_match
+LANG_ENGLISH         "Next Match"
+
+REFERENCE            no_armor
+LANG_ENGLISH         "NO ARMOR"
+
+REFERENCE            noclipoff
+LANG_ENGLISH         "noclip OFF"
+
+REFERENCE            noclipon
+LANG_ENGLISH         "noclip ON"
+
+REFERENCE            nospectatorcallvote
+LANG_ENGLISH         "Not allowed to call a vote as spectator."
+
+REFERENCE            nospectatorvote
+LANG_ENGLISH         "Not allowed to vote as spectator."
+
+REFERENCE            notargetoff
+LANG_ENGLISH         "notarget OFF"
+
+REFERENCE            notargeton
+LANG_ENGLISH         "notarget ON"
+
+REFERENCE            novoteinprogress
+LANG_ENGLISH         "No vote in progress."
+
+REFERENCE            objectivecompleted
+LANG_ENGLISH         "Objective Completed"
+
+REFERENCE            objectivefailed
+LANG_ENGLISH         "Objective Failed"
+
+REFERENCE            objectivesupdated
+LANG_ENGLISH         "Objectives Updated"
+
+REFERENCE            offline_stats
+LANG_ENGLISH         "Multiplayer Progress for "&&1""
+
+REFERENCE            online_update_description
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? Online Update"
+
+REFERENCE            operation
+LANG_ENGLISH         "Operation"
+
+REFERENCE            opfor
+LANG_ENGLISH         "Opposition"
+
+REFERENCE            pickup_ammo
+LANG_ENGLISH         "Got &&1 ammo."
+
+REFERENCE            pickup_cantcarrymoreammo
+LANG_ENGLISH         "&&1 ammo full."
+
+REFERENCE            pickup_cliponly_ammo
+LANG_ENGLISH         "Got &&1 ammo"
+
+REFERENCE            replay_file
+LANG_ENGLISH         "Game Replay File"
+
+REFERENCE            save_description
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? Save Game"
+
+REFERENCE            save_insufficient_free_disk
+LANG_ENGLISH         "Insufficient free disk space.
+
+Please free at least 5mb of free space on game drive."
+
+REFERENCE            save_unable_to_access_device
+LANG_ENGLISH         "Unable to access save device. Please make sure that you have a valid User Profile(Xbox live account. Use "Tools" in the Xenon Launcher)."
+
+REFERENCE            save_unable_to_read_from_device
+LANG_ENGLISH         "Unable to read from memory device. Please check that the device is inserted correctly."
+
+REFERENCE            server
+LANG_ENGLISH         "Server"
+
+REFERENCE            spamprotect
+LANG_ENGLISH         "Spam Protection"
+
+REFERENCE            spectator
+LANG_ENGLISH         "Spectator"
+
+REFERENCE            stand_blocked
+LANG_ENGLISH         "You can't stand here."
+
+REFERENCE            stand_blocked_weapon
+LANG_ENGLISH         "Can't Stand To Use This Weapon Here."
+
+REFERENCE            swap_flash
+LANG_ENGLISH         "Swap to Flash"
+
+REFERENCE            swap_frag
+LANG_ENGLISH         "Swap to Frag"
+
+REFERENCE            swap_molotov
+LANG_ENGLISH         "Swap to Molotov"
+
+REFERENCE            swap_semtex
+LANG_ENGLISH         "Swap to Semtex"
+
+REFERENCE            take_ammo
+LANG_ENGLISH         "Ammo"
+
+REFERENCE            take_flash
+LANG_ENGLISH         "Flashbangs"
+
+REFERENCE            take_frag
+LANG_ENGLISH         "Frags"
+
+REFERENCE            take_molotov
+LANG_ENGLISH         "Molotovs"
+
+REFERENCE            take_semtex
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            tap
+LANG_ENGLISH         "Tap"
+
+REFERENCE            tap_caps
+LANG_ENGLISH         "TAP"
+
+REFERENCE            toggle
+LANG_ENGLISH         "Toggle"
+
+REFERENCE            typemap_nochange
+LANG_ENGLISH         "Vote would not change Game Type or Map."
+
+REFERENCE            ufooff
+LANG_ENGLISH         "ufomode OFF"
+
+REFERENCE            ufoon
+LANG_ENGLISH         "ufomode ON"
+
+REFERENCE            unknownclientcommand
+LANG_ENGLISH         "Unknown cmd &&1"
+
+REFERENCE            usage
+LANG_ENGLISH         "usage"
+
+REFERENCE            use_armor
+LANG_ENGLISH         "^3[{+actionslot 4}]^7 USE ARMOR"
+
+REFERENCE            use_retract_shield
+LANG_ENGLISH         "[{+smoke}] Use Shield!"
+
+REFERENCE            usernotonserver
+LANG_ENGLISH         "User &&1 is not on the server."
+
+REFERENCE            voicechatignored
+LANG_ENGLISH         "VoiceChat ignored"
+
+REFERENCE            vote_classified
+LANG_ENGLISH         "Random:"
+
+REFERENCE            vote_gametype
+LANG_ENGLISH         "Game Type: "
+
+REFERENCE            vote_kick
+LANG_ENGLISH         "Kick Player: &&1"
+
+REFERENCE            vote_map
+LANG_ENGLISH         "Map: "
+
+REFERENCE            vote_maprestart
+LANG_ENGLISH         "Map Restart"
+
+REFERENCE            vote_next
+LANG_ENGLISH         "Next:"
+
+REFERENCE            vote_nextmap
+LANG_ENGLISH         "Next Map"
+
+REFERENCE            vote_prev
+LANG_ENGLISH         "Prev:"
+
+REFERENCE            vote_random
+LANG_ENGLISH         "Classified"
+
+REFERENCE            votealreadycast
+LANG_ENGLISH         "Vote already cast."
+
+REFERENCE            votealreadyinprogress
+LANG_ENGLISH         "A vote is already in progress."
+
+REFERENCE            votecast
+LANG_ENGLISH         "Vote cast."
+
+REFERENCE            votecommandsare
+LANG_ENGLISH         "Vote commands are:"
+
+REFERENCE            votefailed
+LANG_ENGLISH         "Vote failed."
+
+REFERENCE            votepassed
+LANG_ENGLISH         "Vote passed."
+
+REFERENCE            votingnotenabled
+LANG_ENGLISH         "Voting not enabled on this server."
+
+REFERENCE            votingnotenoughplayers
+LANG_ENGLISH         "There are not enough players to call a vote."
+
+REFERENCE            votingtoosoon
+LANG_ENGLISH         "Its too soon to call a vote."
+
+REFERENCE            warning
+LANG_ENGLISH         "WARNING"
+
+
+ENDMARKER

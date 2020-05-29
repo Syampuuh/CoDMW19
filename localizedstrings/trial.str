@@ -1,0 +1,49 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            buy_full_game
+LANG_ENGLISH         "Buy full game"
+
+REFERENCE            buy_full_game_caps
+LANG_ENGLISH         "BUY FULL GAME"
+
+REFERENCE            last_game
+LANG_ENGLISH         "After this game, you will need to purchase the game to play further"
+
+REFERENCE            menu_blocked
+LANG_ENGLISH         "This gamemode is not allowed in trial mode. 
+ Purchase the game to have access to everything."
+
+REFERENCE            mp_trial_version
+LANG_ENGLISH         "Modern Warfare MP Trial Version"
+
+REFERENCE            not_available_in_trial
+LANG_ENGLISH         "Not available in trial"
+
+REFERENCE            purchase_full_game
+LANG_ENGLISH         "Purchase full game"
+
+REFERENCE            restart_new_content
+LANG_ENGLISH         "You have successfully purchased Call of Duty??: Modern Warfare. Please, restart the game to update to the full game version."
+
+REFERENCE            successful_purchase
+LANG_ENGLISH         "Successful Purchase"
+
+REFERENCE            to_play_further_please_purchase
+LANG_ENGLISH         "To play further and unlock the rest of the game, please purchase the full game"
+
+REFERENCE            trial_ended
+LANG_ENGLISH         "Trial ended"
+
+REFERENCE            trial_ends_in
+LANG_ENGLISH         "Your free trial will end in &&1"
+
+REFERENCE            trial_time_left
+LANG_ENGLISH         "Trial time left"
+
+REFERENCE            trial_time_remaining
+LANG_ENGLISH         "Trial time remaining"
+
+
+ENDMARKER

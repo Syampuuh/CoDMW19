@@ -1,0 +1,96 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            captive
+LANG_ENGLISH         "Jackpot"
+
+REFERENCE            captive_desc
+LANG_ENGLISH         "With the Wolf dead, but Hadir and the gas still at large, Farah???s forces are put on the Foreign Terrorist Organization list. Alex chooses to stay with Farah???s army."
+
+REFERENCE            embassy
+LANG_ENGLISH         "All Killers Here"
+
+REFERENCE            embassy_desc
+LANG_ENGLISH         "Following capture of The Wolf, Alex, Farah and Hadir prepare to hand him off to Price & Kyle. Militants led by the Butcher storm the embassy to free the Al-Qatala leader."
+
+REFERENCE            epilogue
+LANG_ENGLISH         "Task Force"
+
+REFERENCE            epilogue_desc
+LANG_ENGLISH         "In the wake of their success against Barkov, Price and Laswell discuss the formation of new task force called ???141.???"
+
+REFERENCE            estate
+LANG_ENGLISH         "Draw the Line"
+
+REFERENCE            estate_desc
+LANG_ENGLISH         "On the heels of a trying interrogation of the Butcher, Price and Kyle race to intercept Hadir at Barkov???s estate as Kyle questions where they draw the line."
+
+REFERENCE            highway
+LANG_ENGLISH         "Lie in Wait"
+
+REFERENCE            highway_desc
+LANG_ENGLISH         "Farah hatches a plan to ambush the Wolf on the ???Highway of Death??? before he can escape to the mountains."
+
+REFERENCE            lab
+LANG_ENGLISH         "One Way Trip"
+
+REFERENCE            lab_desc
+LANG_ENGLISH         "Hadir discovers the location of Barkov???s gas factory but is apprehended by Price and Kyle. Laswell gives Hadir to the Russians. Price asks Farah to help him destroy the lab."
+
+REFERENCE            marines
+LANG_ENGLISH         "Sundown"
+
+REFERENCE            marines_desc
+LANG_ENGLISH         "Alex and Farah prep for a mission to capture the Wolf. Farah explains that anyone who uses terrorist tactics is her enemy, without exception."
+
+REFERENCE            piccadilly
+LANG_ENGLISH         "Debrief"
+
+REFERENCE            piccadilly_desc
+LANG_ENGLISH         "After terrorists steal Russian gas from General Barkov???s PMCs, Laswell calls Captain John Price for help with recovering the stolen chemicals and de-escalating tensions with Russia."
+
+REFERENCE            proxywar
+LANG_ENGLISH         "Trespass"
+
+REFERENCE            proxywar_desc
+LANG_ENGLISH         "CIA Station Chief Kate Laswell commands an operation with Ground Branch officer Alex and Marine Raiders to intercept a chemical weapons shipment bound for Urzikstan."
+
+REFERENCE            sacrifice
+LANG_ENGLISH         "For the Cause"
+
+REFERENCE            sacrifice_desc
+LANG_ENGLISH         "The team plants charges to demolish Barkov???s gas facility but the detonator is damaged. Alex volunteers to sacrifice himself and set off the explosions manually."
+
+REFERENCE            safehouse
+LANG_ENGLISH         "Join Forces"
+
+REFERENCE            safehouse_desc
+LANG_ENGLISH         "When Al-Qatala claims responsibility for a London attack, SAS Sgt. Kyle Garrick wants to escalate. Alex meets with militia Commander Karim to join forces in pursuit of the stolen gas."
+
+REFERENCE            safehousefinale
+LANG_ENGLISH         "Stronghold"
+
+REFERENCE            safehousefinale_desc
+LANG_ENGLISH         "From Hadir???s safehouse, Hadir and Alex prep for an assault on General Barkov???s airbase."
+
+REFERENCE            stpetersburg
+LANG_ENGLISH         "Prisoner of War"
+
+REFERENCE            stpetersburg_desc
+LANG_ENGLISH         "Then: Lt. Price helps rescue Farah and Hadir from Barkov???s POW camp. Now: intel says Hadir is planning an attack in Russia. Price and Laswell launch a covert mission to stop it.   "
+
+REFERENCE            townhoused
+LANG_ENGLISH         "Actionable Intel"
+
+REFERENCE            townhoused_desc
+LANG_ENGLISH         "Kyle???s intel leads to a raid on a London townhouse where the Al-Qatala terror cell is holed-up."
+
+REFERENCE            tunnels
+LANG_ENGLISH         "Execute Authority"
+
+REFERENCE            tunnels_desc
+LANG_ENGLISH         "Upon discovering that her brother Hadir is responsible for stealing the Russian gas, and is now in Al-Qatala???s hands, Farah vows to hunt him down alongside Price???s team."
+
+
+ENDMARKER

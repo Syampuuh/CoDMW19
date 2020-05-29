@@ -1,0 +1,4 @@
+ui_hardpoint_timer,1,,g,t,0,,,
+ui_hardpoint,1,,g,i,-1,-3,31,
+ui_hp_callout_id,1,,c,i,-1,-1,31,
+ui_hq_status,1,,g,i,-1,-1,128,

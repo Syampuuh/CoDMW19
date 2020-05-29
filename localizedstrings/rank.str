@@ -1,0 +1,693 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            1stlt
+LANG_ENGLISH         "1stLt."
+
+REFERENCE            1stsgt
+LANG_ENGLISH         "1stSgt."
+
+REFERENCE            1stsgt_full
+LANG_ENGLISH         "First Sergeant"
+
+REFERENCE            1stsgt_full2
+LANG_ENGLISH         "First Sergeant I"
+
+REFERENCE            1stsgt_full3
+LANG_ENGLISH         "First Sergeant II"
+
+REFERENCE            1stsgt_full4
+LANG_ENGLISH         "First Sergeant III"
+
+REFERENCE            1stsgt_full_n
+LANG_ENGLISH         "First Sergeant &&1"
+
+REFERENCE            2ndlt
+LANG_ENGLISH         "2ndLt."
+
+REFERENCE            2ndlt_full
+LANG_ENGLISH         "Second Lieutenant I"
+
+REFERENCE            2ndlt_full2
+LANG_ENGLISH         "Second Lieutenant II"
+
+REFERENCE            2ndlt_full3
+LANG_ENGLISH         "Second Lieutenant III"
+
+REFERENCE            2ndlt_full4
+LANG_ENGLISH         "Second Lieutenant IV"
+
+REFERENCE            2ndlt_full5
+LANG_ENGLISH         "Second Lieutenant V"
+
+REFERENCE            2ndlt_full_n
+LANG_ENGLISH         "Second Lieutenant &&1"
+
+REFERENCE            5gen_full
+LANG_ENGLISH         "5 Star General I"
+
+REFERENCE            5gen_full2
+LANG_ENGLISH         "5 Star General II"
+
+REFERENCE            5gen_full3
+LANG_ENGLISH         "5 Star General III"
+
+REFERENCE            5gen_full4
+LANG_ENGLISH         "5 Star General IV"
+
+REFERENCE            5gen_full5
+LANG_ENGLISH         "5 Star General V"
+
+REFERENCE            5gen_full_n
+LANG_ENGLISH         "5 Star General &&1"
+
+REFERENCE            avenged
+LANG_ENGLISH         "^3&&1 avenged you !^7"
+
+REFERENCE            bgen
+LANG_ENGLISH         "BGen."
+
+REFERENCE            bgen_full
+LANG_ENGLISH         "Brigadier General I"
+
+REFERENCE            bgen_full2
+LANG_ENGLISH         "Brigadier General II"
+
+REFERENCE            bgen_full3
+LANG_ENGLISH         "Brigadier General III"
+
+REFERENCE            bgen_full4
+LANG_ENGLISH         "Brigadier General IV"
+
+REFERENCE            bgen_full5
+LANG_ENGLISH         "Brigadier General V"
+
+REFERENCE            capt
+LANG_ENGLISH         "Capt."
+
+REFERENCE            capt_full
+LANG_ENGLISH         "Captain I"
+
+REFERENCE            capt_full2
+LANG_ENGLISH         "Captain II"
+
+REFERENCE            capt_full3
+LANG_ENGLISH         "Captain III"
+
+REFERENCE            capt_full4
+LANG_ENGLISH         "Captain IV"
+
+REFERENCE            capt_full5
+LANG_ENGLISH         "Captain V"
+
+REFERENCE            capt_full_n
+LANG_ENGLISH         "Captain &&1"
+
+REFERENCE            col
+LANG_ENGLISH         "Col."
+
+REFERENCE            col_full
+LANG_ENGLISH         "Colonel I"
+
+REFERENCE            col_full2
+LANG_ENGLISH         "Colonel II"
+
+REFERENCE            col_full3
+LANG_ENGLISH         "Colonel III"
+
+REFERENCE            col_full4
+LANG_ENGLISH         "Colonel IV"
+
+REFERENCE            col_full5
+LANG_ENGLISH         "Colonel V"
+
+REFERENCE            col_full_n
+LANG_ENGLISH         "Colonel &&1"
+
+REFERENCE            comm
+LANG_ENGLISH         "Cdr."
+
+REFERENCE            comm_full
+LANG_ENGLISH         "Commander I"
+
+REFERENCE            comm_full2
+LANG_ENGLISH         "Commander II"
+
+REFERENCE            comm_full3
+LANG_ENGLISH         "Commander III"
+
+REFERENCE            comm_full4
+LANG_ENGLISH         "Commander IV"
+
+REFERENCE            comm_full5
+LANG_ENGLISH         "Commander V"
+
+REFERENCE            comm_full_n
+LANG_ENGLISH         "Commander &&1"
+
+REFERENCE            cpl
+LANG_ENGLISH         "Cpl."
+
+REFERENCE            cpl_full
+LANG_ENGLISH         "Corporal I"
+
+REFERENCE            cpl_full2
+LANG_ENGLISH         "Corporal II"
+
+REFERENCE            cpl_full3
+LANG_ENGLISH         "Corporal III"
+
+REFERENCE            cpl_full4
+LANG_ENGLISH         "Corporal IV"
+
+REFERENCE            cpl_full5
+LANG_ENGLISH         "Corporal V"
+
+REFERENCE            cpl_full_n
+LANG_ENGLISH         "Corporal &&1"
+
+REFERENCE            csm
+LANG_ENGLISH         "CSM."
+
+REFERENCE            csm_full
+LANG_ENGLISH         "Command Sergeant Major I"
+
+REFERENCE            csm_full2
+LANG_ENGLISH         "Command Sergeant Major II"
+
+REFERENCE            csm_full3
+LANG_ENGLISH         "Command Sergeant Major III"
+
+REFERENCE            csm_full4
+LANG_ENGLISH         "Command Sergeant Major IV"
+
+REFERENCE            csm_full5
+LANG_ENGLISH         "Command Sergeant Major V"
+
+REFERENCE            csm_full_n
+LANG_ENGLISH         "Command Sergeant Major &&1"
+
+REFERENCE            cwo2_full
+LANG_ENGLISH         "Chief Warrant Officer Two I"
+
+REFERENCE            cwo2_full2
+LANG_ENGLISH         "Chief Warrant Officer Two II"
+
+REFERENCE            cwo2_full3
+LANG_ENGLISH         "Chief Warrant Officer Two III"
+
+REFERENCE            cwo2_full4
+LANG_ENGLISH         "Chief Warrant Officer Two IV"
+
+REFERENCE            cwo2_full5
+LANG_ENGLISH         "Chief Warrant Officer Two V"
+
+REFERENCE            cwo2_full_n
+LANG_ENGLISH         "Chief Warrant Officer Two &&1"
+
+REFERENCE            cwo3_full
+LANG_ENGLISH         "Chief Warrant Officer Three I"
+
+REFERENCE            cwo3_full2
+LANG_ENGLISH         "Chief Warrant Officer Three II"
+
+REFERENCE            cwo3_full3
+LANG_ENGLISH         "Chief Warrant Officer Three III"
+
+REFERENCE            cwo3_full4
+LANG_ENGLISH         "Chief Warrant Officer Three IV"
+
+REFERENCE            cwo3_full5
+LANG_ENGLISH         "Chief Warrant Officer Three V"
+
+REFERENCE            cwo3_full_n
+LANG_ENGLISH         "Chief Warrant Officer Three &&1"
+
+REFERENCE            cwo4_full
+LANG_ENGLISH         "Chief Warrant Officer Four I"
+
+REFERENCE            cwo4_full2
+LANG_ENGLISH         "Chief Warrant Officer Four II"
+
+REFERENCE            cwo4_full3
+LANG_ENGLISH         "Chief Warrant Officer Four III"
+
+REFERENCE            cwo4_full4
+LANG_ENGLISH         "Chief Warrant Officer Four IV"
+
+REFERENCE            cwo4_full5
+LANG_ENGLISH         "Chief Warrant Officer Four V"
+
+REFERENCE            cwo4_full_n
+LANG_ENGLISH         "Chief Warrant Officer Four &&1"
+
+REFERENCE            ens_full
+LANG_ENGLISH         "Ensign I"
+
+REFERENCE            ens_full2
+LANG_ENGLISH         "Ensign II"
+
+REFERENCE            ens_full3
+LANG_ENGLISH         "Ensign III"
+
+REFERENCE            ens_full4
+LANG_ENGLISH         "Ensign IV"
+
+REFERENCE            ens_full5
+LANG_ENGLISH         "Ensign V"
+
+REFERENCE            ens_full_n
+LANG_ENGLISH         "Ensign &&1"
+
+REFERENCE            gen
+LANG_ENGLISH         "Gen."
+
+REFERENCE            gen_full
+LANG_ENGLISH         "General I"
+
+REFERENCE            gen_full2
+LANG_ENGLISH         "General II"
+
+REFERENCE            gen_full3
+LANG_ENGLISH         "General III"
+
+REFERENCE            gen_full4
+LANG_ENGLISH         "General IV"
+
+REFERENCE            gen_full5
+LANG_ENGLISH         "General V"
+
+REFERENCE            gsgt
+LANG_ENGLISH         "GSgt."
+
+REFERENCE            gsgt_full
+LANG_ENGLISH         "Gunnery Sergeant I"
+
+REFERENCE            gsgt_full2
+LANG_ENGLISH         "Gunnery Sergeant II"
+
+REFERENCE            gsgt_full3
+LANG_ENGLISH         "Gunnery Sergeant III"
+
+REFERENCE            gsgt_full4
+LANG_ENGLISH         "Gunnery Sergeant IV"
+
+REFERENCE            gsgt_full5
+LANG_ENGLISH         "Gunnery Sergeant V"
+
+REFERENCE            gsgt_full_n
+LANG_ENGLISH         "Gunnery Sergeant &&1"
+
+REFERENCE            lt_full
+LANG_ENGLISH         "Lieutenant I"
+
+REFERENCE            lt_full2
+LANG_ENGLISH         "Lieutenant II"
+
+REFERENCE            lt_full3
+LANG_ENGLISH         "Lieutenant III"
+
+REFERENCE            lt_full4
+LANG_ENGLISH         "Lieutenant IV"
+
+REFERENCE            lt_full5
+LANG_ENGLISH         "Lieutenant V"
+
+REFERENCE            lt_full_n
+LANG_ENGLISH         "Lieutenant &&1"
+
+REFERENCE            ltc_full
+LANG_ENGLISH         "Lieutenant Commander I"
+
+REFERENCE            ltc_full2
+LANG_ENGLISH         "Lieutenant Commander II"
+
+REFERENCE            ltc_full3
+LANG_ENGLISH         "Lieutenant Commander III"
+
+REFERENCE            ltc_full4
+LANG_ENGLISH         "Lieutenant Commander IV"
+
+REFERENCE            ltc_full5
+LANG_ENGLISH         "Lieutenant Commander V"
+
+REFERENCE            ltc_full_n
+LANG_ENGLISH         "Lieutenant Commander &&1"
+
+REFERENCE            ltcol
+LANG_ENGLISH         "LtCol."
+
+REFERENCE            ltcol_full
+LANG_ENGLISH         "Lieutenant Colonel I"
+
+REFERENCE            ltcol_full2
+LANG_ENGLISH         "Lieutenant Colonel II"
+
+REFERENCE            ltcol_full3
+LANG_ENGLISH         "Lieutenant Colonel III"
+
+REFERENCE            ltcol_full4
+LANG_ENGLISH         "Lieutenant Colonel IV"
+
+REFERENCE            ltcol_full5
+LANG_ENGLISH         "Lieutenant Colonel V"
+
+REFERENCE            ltcol_full_n
+LANG_ENGLISH         "Lieutenant Colonel &&1"
+
+REFERENCE            ltgen
+LANG_ENGLISH         "LtGen."
+
+REFERENCE            ltgen_full
+LANG_ENGLISH         "Lieutenant General I"
+
+REFERENCE            ltgen_full2
+LANG_ENGLISH         "Lieutenant General II"
+
+REFERENCE            ltgen_full3
+LANG_ENGLISH         "Lieutenant General III"
+
+REFERENCE            ltgen_full4
+LANG_ENGLISH         "Lieutenant General IV"
+
+REFERENCE            ltgen_full5
+LANG_ENGLISH         "Lieutenant General V"
+
+REFERENCE            maj
+LANG_ENGLISH         "Maj."
+
+REFERENCE            maj_full
+LANG_ENGLISH         "Major I"
+
+REFERENCE            maj_full2
+LANG_ENGLISH         "Major II"
+
+REFERENCE            maj_full3
+LANG_ENGLISH         "Major III"
+
+REFERENCE            maj_full4
+LANG_ENGLISH         "Major IV"
+
+REFERENCE            maj_full5
+LANG_ENGLISH         "Major V"
+
+REFERENCE            maj_full_n
+LANG_ENGLISH         "Major &&1"
+
+REFERENCE            majgen
+LANG_ENGLISH         "MajGen."
+
+REFERENCE            majgen_full
+LANG_ENGLISH         "Major General I"
+
+REFERENCE            majgen_full2
+LANG_ENGLISH         "Major General II"
+
+REFERENCE            majgen_full3
+LANG_ENGLISH         "Major General III"
+
+REFERENCE            majgen_full4
+LANG_ENGLISH         "Major General IV"
+
+REFERENCE            majgen_full5
+LANG_ENGLISH         "Major General V"
+
+REFERENCE            msc
+LANG_ENGLISH         "MSC."
+
+REFERENCE            msc_full
+LANG_ENGLISH         "Master Chief I"
+
+REFERENCE            msc_full2
+LANG_ENGLISH         "Master Chief II"
+
+REFERENCE            msc_full3
+LANG_ENGLISH         "Master Chief III"
+
+REFERENCE            msc_full4
+LANG_ENGLISH         "Master Chief IV"
+
+REFERENCE            msc_full5
+LANG_ENGLISH         "Master Chief V"
+
+REFERENCE            msc_full_n
+LANG_ENGLISH         "Master Chief &&1"
+
+REFERENCE            msgsgt
+LANG_ENGLISH         "MSGSgt."
+
+REFERENCE            msgsgt_full
+LANG_ENGLISH         "Master Gunnery Sergeant I"
+
+REFERENCE            msgsgt_full2
+LANG_ENGLISH         "Master Gunnery Sergeant II"
+
+REFERENCE            msgsgt_full3
+LANG_ENGLISH         "Master Gunnery Sergeant III"
+
+REFERENCE            msgsgt_full4
+LANG_ENGLISH         "Master Gunnery Sergeant IV"
+
+REFERENCE            msgsgt_full5
+LANG_ENGLISH         "Master Gunnery Sergeant V"
+
+REFERENCE            msgsgt_full_n
+LANG_ENGLISH         "Master Gunnery Sergeant &&1"
+
+REFERENCE            msgt
+LANG_ENGLISH         "MSgt."
+
+REFERENCE            msgt_full
+LANG_ENGLISH         "Master Sergeant I"
+
+REFERENCE            msgt_full2
+LANG_ENGLISH         "Master Sergeant II"
+
+REFERENCE            msgt_full3
+LANG_ENGLISH         "Master Sergeant III"
+
+REFERENCE            msgt_full4
+LANG_ENGLISH         "Master Sergeant IV"
+
+REFERENCE            msgt_full5
+LANG_ENGLISH         "Master Sergeant V"
+
+REFERENCE            msgt_full_n
+LANG_ENGLISH         "Master Sergeant &&1"
+
+REFERENCE            mwo_full
+LANG_ENGLISH         "Master Warrant Officer I"
+
+REFERENCE            mwo_full2
+LANG_ENGLISH         "Master Warrant Officer II"
+
+REFERENCE            mwo_full3
+LANG_ENGLISH         "Master Warrant Officer III"
+
+REFERENCE            mwo_full4
+LANG_ENGLISH         "Master Warrant Officer IV"
+
+REFERENCE            mwo_full5
+LANG_ENGLISH         "Master Warrant Officer V"
+
+REFERENCE            mwo_full_n
+LANG_ENGLISH         "Master Warrant Officer &&1"
+
+REFERENCE            pfc
+LANG_ENGLISH         "PFC."
+
+REFERENCE            pfc_full
+LANG_ENGLISH         "Private First Class I"
+
+REFERENCE            pfc_full2
+LANG_ENGLISH         "Private First Class II"
+
+REFERENCE            pfc_full3
+LANG_ENGLISH         "Private First Class III"
+
+REFERENCE            pfc_full4
+LANG_ENGLISH         "Private First Class IV"
+
+REFERENCE            pfc_full5
+LANG_ENGLISH         "Private First Class V"
+
+REFERENCE            pfc_full_n
+LANG_ENGLISH         "Private First Class &&1"
+
+REFERENCE            player_was_promoted
+LANG_ENGLISH         "&&1 was promoted to rank &&2!"
+
+REFERENCE            player_was_promoted_n
+LANG_ENGLISH         "&&1 was promoted to &&2 &&3!"
+
+REFERENCE            promoted
+LANG_ENGLISH         "You've been promoted!"
+
+REFERENCE            promoted_weapon
+LANG_ENGLISH         "Your weapon rank has increased!"
+
+REFERENCE            pvt
+LANG_ENGLISH         "Pvt."
+
+REFERENCE            pvt_full
+LANG_ENGLISH         "Private I"
+
+REFERENCE            pvt_full2
+LANG_ENGLISH         "Private II"
+
+REFERENCE            pvt_full3
+LANG_ENGLISH         "Private III"
+
+REFERENCE            pvt_full4
+LANG_ENGLISH         "Private IV"
+
+REFERENCE            pvt_full5
+LANG_ENGLISH         "Private V"
+
+REFERENCE            pvt_full_n
+LANG_ENGLISH         "Private &&1"
+
+REFERENCE            romani
+LANG_ENGLISH         "I"
+
+REFERENCE            romanii
+LANG_ENGLISH         "II"
+
+REFERENCE            romaniii
+LANG_ENGLISH         "III"
+
+REFERENCE            saved
+LANG_ENGLISH         "^3&&1 saved you !^7"
+
+REFERENCE            sfc
+LANG_ENGLISH         "SFC."
+
+REFERENCE            sfc_full
+LANG_ENGLISH         "Sergeant First Class"
+
+REFERENCE            sfc_full2
+LANG_ENGLISH         "Sergeant First Class I"
+
+REFERENCE            sfc_full3
+LANG_ENGLISH         "Sergeant First Class II"
+
+REFERENCE            sfc_full4
+LANG_ENGLISH         "Sergeant First Class III"
+
+REFERENCE            sfc_full_n
+LANG_ENGLISH         "Sergeant First Class &&1"
+
+REFERENCE            sgt
+LANG_ENGLISH         "Sgt."
+
+REFERENCE            sgt_full
+LANG_ENGLISH         "Sergeant I"
+
+REFERENCE            sgt_full2
+LANG_ENGLISH         "Sergeant II"
+
+REFERENCE            sgt_full3
+LANG_ENGLISH         "Sergeant III"
+
+REFERENCE            sgt_full4
+LANG_ENGLISH         "Sergeant IV"
+
+REFERENCE            sgt_full5
+LANG_ENGLISH         "Sergeant V"
+
+REFERENCE            sgt_full_n
+LANG_ENGLISH         "Sergeant &&1"
+
+REFERENCE            sgtmaj
+LANG_ENGLISH         "SgtMaj."
+
+REFERENCE            sgtmaj_full
+LANG_ENGLISH         "Sergeant Major I"
+
+REFERENCE            sgtmaj_full2
+LANG_ENGLISH         "Sergeant Major II"
+
+REFERENCE            sgtmaj_full3
+LANG_ENGLISH         "Sergeant Major III"
+
+REFERENCE            sgtmaj_full4
+LANG_ENGLISH         "Sergeant Major IV"
+
+REFERENCE            sgtmaj_full5
+LANG_ENGLISH         "Sergeant Major V"
+
+REFERENCE            sgtmaj_full_n
+LANG_ENGLISH         "Sergeant Major &&1"
+
+REFERENCE            spc
+LANG_ENGLISH         "Spc."
+
+REFERENCE            spc_full
+LANG_ENGLISH         "Specialist I"
+
+REFERENCE            spc_full2
+LANG_ENGLISH         "Specialist II"
+
+REFERENCE            spc_full3
+LANG_ENGLISH         "Specialist III"
+
+REFERENCE            spc_full4
+LANG_ENGLISH         "Specialist IV"
+
+REFERENCE            spc_full5
+LANG_ENGLISH         "Specialist V"
+
+REFERENCE            spc_full_n
+LANG_ENGLISH         "Specialist &&1"
+
+REFERENCE            ssgt
+LANG_ENGLISH         "SSgt."
+
+REFERENCE            ssgt_full
+LANG_ENGLISH         "Staff Sergeant I"
+
+REFERENCE            ssgt_full2
+LANG_ENGLISH         "Staff Sergeant II"
+
+REFERENCE            ssgt_full3
+LANG_ENGLISH         "Staff Sergeant III"
+
+REFERENCE            ssgt_full4
+LANG_ENGLISH         "Staff Sergeant IV"
+
+REFERENCE            ssgt_full5
+LANG_ENGLISH         "Staff Sergeant V"
+
+REFERENCE            ssgt_full_n
+LANG_ENGLISH         "Staff Sergeant &&1"
+
+REFERENCE            weapon_was_promoted
+LANG_ENGLISH         "&&1 has increased their weapon rank!"
+
+REFERENCE            wof
+LANG_ENGLISH         "Wrnt.O"
+
+REFERENCE            wof_full
+LANG_ENGLISH         "Warrant Officer I"
+
+REFERENCE            wof_full2
+LANG_ENGLISH         "Warrant Officer II"
+
+REFERENCE            wof_full3
+LANG_ENGLISH         "Warrant Officer III"
+
+REFERENCE            wof_full4
+LANG_ENGLISH         "Warrant Officer IV"
+
+REFERENCE            wof_full5
+LANG_ENGLISH         "Warrant Officer V"
+
+REFERENCE            wof_full_n
+LANG_ENGLISH         "Warrant Officer &&1"
+
+REFERENCE            you_saved
+LANG_ENGLISH         "^3You saved &&1 !^7"
+
+
+ENDMARKER

@@ -1,0 +1,2119 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            69star_gratz
+LANG_ENGLISH         "Congratulations! 
+You've completed Special Ops."
+
+REFERENCE            aar_summary
+LANG_ENGLISH         "Mission Summary"
+
+REFERENCE            accuracy_pre
+LANG_ENGLISH         "ACCURACY"
+
+REFERENCE            act_i_caps
+LANG_ENGLISH         "ACT I"
+
+REFERENCE            act_ii_caps
+LANG_ENGLISH         "ACT II"
+
+REFERENCE            act_iii_caps
+LANG_ENGLISH         "ACT III"
+
+REFERENCE            anti_cheat_warning_continue
+LANG_ENGLISH         "Continue"
+
+REFERENCE            anti_cheat_warning_message
+LANG_ENGLISH         "Your Save Data does not match your current Campaign progression. No further progression will be saved until you restart from a previously completed mission in the Campaign Menu.
+Last Unlocked Mission: &&1"
+
+REFERENCE            anti_cheat_warning_quit
+LANG_ENGLISH         "Return to Campaign Menu"
+
+REFERENCE            anti_cheat_warning_title
+LANG_ENGLISH         "Required Missions Skipped"
+
+REFERENCE            are_you_absolutely_sure
+LANG_ENGLISH         "Are you absolutely sure?"
+
+REFERENCE            assault_key
+LANG_ENGLISH         "Ship Assault"
+
+REFERENCE            campaign
+LANG_ENGLISH         "CAMPAIGN"
+
+REFERENCE            campaign_incomplete
+LANG_ENGLISH         "Campaign not complete"
+
+REFERENCE            castle_desc
+LANG_ENGLISH         "Infiltrate the castle to discover Makarov's location."
+
+REFERENCE            change_map_desc
+LANG_ENGLISH         "Choose a different Map."
+
+REFERENCE            change_mission
+LANG_ENGLISH         "Change Mission"
+
+REFERENCE            change_mission_desc
+LANG_ENGLISH         "Choose a different Mission."
+
+REFERENCE            change_op
+LANG_ENGLISH         "Change Op"
+
+REFERENCE            change_op_desc
+LANG_ENGLISH         "Choose a different Operation."
+
+REFERENCE            choose_a_different_op
+LANG_ENGLISH         "Choose a different Op"
+
+REFERENCE            choose_primary
+LANG_ENGLISH         "Choose Primary"
+
+REFERENCE            chooseroles
+LANG_ENGLISH         "Select Role"
+
+REFERENCE            chooseroles_client_desc
+LANG_ENGLISH         "Only host can select roles."
+
+REFERENCE            chooseroles_na_desc
+LANG_ENGLISH         "No selectable roles in this mission."
+
+REFERENCE            classified
+LANG_ENGLISH         "Classified"
+
+REFERENCE            classified_01_caps
+LANG_ENGLISH         "PSYCH PROFILE - GABRIEL RORKE"
+
+REFERENCE            classified_02_caps
+LANG_ENGLISH         "THREATS AGAINST THE WALL"
+
+REFERENCE            classified_03_caps
+LANG_ENGLISH         "NO MAN'S LAND"
+
+REFERENCE            classified_04_caps
+LANG_ENGLISH         "FIREBASE CHARLIE"
+
+REFERENCE            classified_05_caps
+LANG_ENGLISH         "OPERATION: HOMECOMING"
+
+REFERENCE            classified_06_caps
+LANG_ENGLISH         "OPERATION: RETURN TO SENDER"
+
+REFERENCE            classified_07_caps
+LANG_ENGLISH         "FEDERATION DAY"
+
+REFERENCE            classified_08_caps
+LANG_ENGLISH         "OPERATION: DEADBOLT"
+
+REFERENCE            classified_09_caps
+LANG_ENGLISH         "OPERATION: DEADBOLT"
+
+REFERENCE            classified_10_caps
+LANG_ENGLISH         "DAMAGE ESTIMATES"
+
+REFERENCE            classified_11_caps
+LANG_ENGLISH         "OPERATION: BLACK ICE"
+
+REFERENCE            classified_12_caps
+LANG_ENGLISH         "OPERATION: GRAVEDIGGER"
+
+REFERENCE            classified_13_caps
+LANG_ENGLISH         "FEDSAT PROTOTYPE"
+
+REFERENCE            classified_14_caps
+LANG_ENGLISH         "SAFEHOUSE BREACH"
+
+REFERENCE            classified_15_caps
+LANG_ENGLISH         "OPERATION: BLINDSIDE"
+
+REFERENCE            classified_16_caps
+LANG_ENGLISH         "OPERATION: BLINDSIDE"
+
+REFERENCE            classified_17_caps
+LANG_ENGLISH         "OPERATION: BLINDSIDE"
+
+REFERENCE            classified_18_caps
+LANG_ENGLISH         "GABRIEL RORKE - MANIFESTO"
+
+REFERENCE            classified_19_caps
+LANG_ENGLISH         "PROFILE: ELIAS T. WALKER, CPT. RET."
+
+REFERENCE            classified_20_caps
+LANG_ENGLISH         "PROFILE: DAVID "HESH" WALKER, LT."
+
+REFERENCE            classified_21_caps
+LANG_ENGLISH         "PROFILE: THOMAS A. MERRICK, CPT."
+
+REFERENCE            classified_names
+LANG_ENGLISH         "RORKE FILES"
+
+REFERENCE            collateral_rank
+LANG_ENGLISH         "Collateral Damage Assessment: "
+
+REFERENCE            completion
+LANG_ENGLISH         "completion"
+
+REFERENCE            completion_dot_percent
+LANG_ENGLISH         "completion &&1.&&2%"
+
+REFERENCE            completion_percent
+LANG_ENGLISH         "completion &&1%"
+
+REFERENCE            computer
+LANG_ENGLISH         "Computer"
+
+REFERENCE            confirm_loadout_reset
+LANG_ENGLISH         "Are you sure you would like to reset this loadout?"
+
+REFERENCE            continue_to_multiplayer
+LANG_ENGLISH         "Continue to Multiplayer"
+
+REFERENCE            continue_to_special_ops
+LANG_ENGLISH         "Continue to Special Ops"
+
+REFERENCE            continue_to_special_ops_caps
+LANG_ENGLISH         "CONTINUE TO SPECIAL OPS"
+
+REFERENCE            credits_caps
+LANG_ENGLISH         "CREDITS"
+
+REFERENCE            current_level_intel_title
+LANG_ENGLISH         "enemy intelligence"
+
+REFERENCE            current_level_intels
+LANG_ENGLISH         "&&1/&&2 Intel Items found"
+
+REFERENCE            current_mission
+LANG_ENGLISH         "Deployment"
+
+REFERENCE            desc_multiplayer
+LANG_ENGLISH         "Rank up and unlock new weapons, perks, killstreaks and much more online."
+
+REFERENCE            desc_mw3_singleplayer
+LANG_ENGLISH         "Pick up the story where Modern Warfare 2??? ended and continue the single player experience."
+
+REFERENCE            desc_playercard
+LANG_ENGLISH         "Set your Title and Emblem."
+
+REFERENCE            desc_quit
+LANG_ENGLISH         "Leave the game."
+
+REFERENCE            desc_singleplayer
+LANG_ENGLISH         "Pick up the story where Modern Warfare??? 2 ended and continue the single player experience."
+
+REFERENCE            desc_so_leaderboards
+LANG_ENGLISH         "Compare stats with your friends and the world."
+
+REFERENCE            desc_so_stats
+LANG_ENGLISH         "See your game progression across all modes."
+
+REFERENCE            desc_so_survival_armory
+LANG_ENGLISH         "Browse items in Survival armories and their unlock status."
+
+REFERENCE            desc_specialops
+LANG_ENGLISH         "Playing solo or co-op, rank up to unlock weapons, tactical support, levels and more in Survival mode and a variety of challenging missions."
+
+REFERENCE            desc_survial_mode
+LANG_ENGLISH         "Survival game "
+
+REFERENCE            dev_levels
+LANG_ENGLISH         "Dev Levels"
+
+REFERENCE            diff_ranking_0
+LANG_ENGLISH         "None"
+
+REFERENCE            diff_ranking_1
+LANG_ENGLISH         "Minimal"
+
+REFERENCE            diff_ranking_2
+LANG_ENGLISH         "Light"
+
+REFERENCE            diff_ranking_3
+LANG_ENGLISH         "Medium"
+
+REFERENCE            diff_ranking_4
+LANG_ENGLISH         "Heavy"
+
+REFERENCE            diff_ranking_5
+LANG_ENGLISH         "Massive"
+
+REFERENCE            different_diff
+LANG_ENGLISH         "Different difficulties selected."
+
+REFERENCE            edit_loadout
+LANG_ENGLISH         "Edit Loadout"
+
+REFERENCE            energy_weapon_choose
+LANG_ENGLISH         "Energy Weapon"
+
+REFERENCE            equipment_select
+LANG_ENGLISH         "Equipment"
+
+REFERENCE            find_online_match_caps
+LANG_ENGLISH         "FIND ONLINE MATCH"
+
+REFERENCE            first_difficulty_star
+LANG_ENGLISH         "Complete this Op on Hardened or Veteran difficulty to earn additional stars."
+
+REFERENCE            first_difficulty_star_survival
+LANG_ENGLISH         "Survive higher waves in this Op to earn additional stars."
+
+REFERENCE            for_the_record
+LANG_ENGLISH         ""For the Record""
+
+REFERENCE            friend_lock_group_desc
+LANG_ENGLISH         "Teammate has not unlocked this group."
+
+REFERENCE            friend_lock_op_desc
+LANG_ENGLISH         "This Op is locked for teammate. However, he/she can still earn XP and rank up."
+
+REFERENCE            friend_unlock_group_has
+LANG_ENGLISH         "Has: &&1"
+
+REFERENCE            friend_unlock_group_req
+LANG_ENGLISH         "Requires: &&1"
+
+REFERENCE            griffs_recommended
+LANG_ENGLISH         "Griff's Recommendation"
+
+REFERENCE            hamburg
+LANG_ENGLISH         "GOALPOST"
+
+REFERENCE            hamburg_desc
+LANG_ENGLISH         "Locate and secure the U.S. Vice President for immediate extraction."
+
+REFERENCE            headshots_pre
+LANG_ENGLISH         "HEADSHOTS"
+
+REFERENCE            heist_title
+LANG_ENGLISH         "Operation Black Flag: Trap is Sprung"
+
+REFERENCE            heistspace_title
+LANG_ENGLISH         "Operation Blood Storm: Trojan Horse"
+
+REFERENCE            highest_difficulty
+LANG_ENGLISH         "Highest Difficulty Achieved: "
+
+REFERENCE            igr_unavailable
+LANG_ENGLISH         "Campaign is available after purchasing the game."
+
+REFERENCE            iis_legal
+LANG_ENGLISH         "?? 2011 Activision Publishing, Inc. Call of Duty??, Modern Warfare?? and Activision are registered trademarks of Activision Publishing, Inc."
+
+REFERENCE            invite_friend_pc_cpu
+LANG_ENGLISH         "The player with the fastest CPU should invite."
+
+REFERENCE            item_achievement_unlocked
+LANG_ENGLISH         "Item unlocked. 
+Achievement unlocked."
+
+REFERENCE            iw5_levels
+LANG_ENGLISH         "MW3 Levels"
+
+REFERENCE            iw6_black_ice
+LANG_ENGLISH         "Atlas Falls"
+
+REFERENCE            iw6_black_ice_desc
+LANG_ENGLISH         "Sabotage the Atlas oil platform as a diversionary tactic."
+
+REFERENCE            iw6_carrier
+LANG_ENGLISH         "All Or Nothing"
+
+REFERENCE            iw6_carrier_desc
+LANG_ENGLISH         "Defend the U.S.S. Liberator during the assault on the Federation."
+
+REFERENCE            iw6_characters
+LANG_ENGLISH         "Characters"
+
+REFERENCE            iw6_characters_whiteroom
+LANG_ENGLISH         "Character Whiteroom"
+
+REFERENCE            iw6_clockwork
+LANG_ENGLISH         "Clockwork"
+
+REFERENCE            iw6_clockwork_desc
+LANG_ENGLISH         "Infiltrate a Federation facility and retrieve data on their missile program."
+
+REFERENCE            iw6_cornered
+LANG_ENGLISH         "Federation Day"
+
+REFERENCE            iw6_cornered_desc
+LANG_ENGLISH         "The Ghosts return to Caracas to find and interrogate Victor Ramos."
+
+REFERENCE            iw6_deerhunt
+LANG_ENGLISH         "Brave New World"
+
+REFERENCE            iw6_deerhunt_desc
+LANG_ENGLISH         "10 years later..."
+
+REFERENCE            iw6_enemyhq
+LANG_ENGLISH         "Struck Down"
+
+REFERENCE            iw6_enemyhq_desc
+LANG_ENGLISH         "Help the Ghosts rescue Ajax."
+
+REFERENCE            iw6_factory
+LANG_ENGLISH         "End Of The Line"
+
+REFERENCE            iw6_factory_desc
+LANG_ENGLISH         "Infiltrate the weapons factory to find out what the Federation has been building."
+
+REFERENCE            iw6_flood
+LANG_ENGLISH         "Legends Never Die"
+
+REFERENCE            iw6_flood_desc
+LANG_ENGLISH         "12 years ago, Elias and the Ghosts, led by Rorke, are sent to eliminate General Diego Almagro."
+
+REFERENCE            iw6_homecoming
+LANG_ENGLISH         "Homecoming"
+
+REFERENCE            iw6_homecoming_desc
+LANG_ENGLISH         "Prevent Santa Monica from falling."
+
+REFERENCE            iw6_jungle_ghosts
+LANG_ENGLISH         "The Hunted"
+
+REFERENCE            iw6_jungle_ghosts_desc
+LANG_ENGLISH         "Escape the jungle."
+
+REFERENCE            iw6_jungle_ghosts_intro
+LANG_ENGLISH         "Jungle Ghosts Intro"
+
+REFERENCE            iw6_las_vegas
+LANG_ENGLISH         "Sin City"
+
+REFERENCE            iw6_las_vegas_desc
+LANG_ENGLISH         "Return to the safehouse and wait for Keegan."
+
+REFERENCE            iw6_levels
+LANG_ENGLISH         "IW6 Levels"
+
+REFERENCE            iw6_loki
+LANG_ENGLISH         "Loki"
+
+REFERENCE            iw6_nml
+LANG_ENGLISH         "No Man's Land"
+
+REFERENCE            iw6_nml_desc
+LANG_ENGLISH         "Meet with a recon team outside the wall."
+
+REFERENCE            iw6_odin
+LANG_ENGLISH         "ODIN"
+
+REFERENCE            iw6_oilrocks
+LANG_ENGLISH         "Birds Of Prey"
+
+REFERENCE            iw6_oilrocks_desc
+LANG_ENGLISH         "Assault Rorke's hideout and capture him alive."
+
+REFERENCE            iw6_prologue
+LANG_ENGLISH         "Ghost Stories"
+
+REFERENCE            iw6_prologue_desc
+LANG_ENGLISH         "Return home on the day everything changed."
+
+REFERENCE            iw6_safehouse
+LANG_ENGLISH         "patriot_crib_proto"
+
+REFERENCE            iw6_satfarm
+LANG_ENGLISH         "Severed Ties"
+
+REFERENCE            iw6_satfarm_desc
+LANG_ENGLISH         "Lead a desperate attack against the Federation's ground array."
+
+REFERENCE            iw6_ship_graveyard
+LANG_ENGLISH         "Into The Deep"
+
+REFERENCE            iw6_ship_graveyard_desc
+LANG_ENGLISH         "Sink the destroyer guarding the Federation's weapons factory."
+
+REFERENCE            iw6_skyway
+LANG_ENGLISH         "The Ghost Killer"
+
+REFERENCE            iw6_skyway_desc
+LANG_ENGLISH         "Confront Rorke one last time."
+
+REFERENCE            iw6_youngblood
+LANG_ENGLISH         "Young Blood"
+
+REFERENCE            iw_best_time
+LANG_ENGLISH         "IW Best Time: "
+
+REFERENCE            iw_intel
+LANG_ENGLISH         "Infinity Ward Intel"
+
+REFERENCE            iw_kleenex
+LANG_ENGLISH         "IW KLEENEX"
+
+REFERENCE            ja_asteriod_title
+LANG_ENGLISH         "Operation Pure Threat"
+
+REFERENCE            ja_mining_title
+LANG_ENGLISH         "Operation Trace Kill"
+
+REFERENCE            ja_spacestation_title
+LANG_ENGLISH         "Operation Safe Harbor"
+
+REFERENCE            ja_titan_title
+LANG_ENGLISH         "Operation Sudden Death"
+
+REFERENCE            ja_wreckage_title
+LANG_ENGLISH         "Operation Grave Robber"
+
+REFERENCE            kills
+LANG_ENGLISH         "KILLS"
+
+REFERENCE            kills_j_pre
+LANG_ENGLISH         "JUGGERNAUT KILLS"
+
+REFERENCE            kleenex_levels
+LANG_ENGLISH         "Kleenex Levels"
+
+REFERENCE            korea15_unavailable
+LANG_ENGLISH         "Campaign is not available to players under 18."
+
+REFERENCE            last_checkpoint_confirmation
+LANG_ENGLISH         "Return to the last checkpoint?"
+
+REFERENCE            leavelobby
+LANG_ENGLISH         "Leave Lobby?"
+
+REFERENCE            level_avg_time
+LANG_ENGLISH         "Est. Completion Time: "
+
+REFERENCE            level_n
+LANG_ENGLISH         "Level &&1"
+
+REFERENCE            level_type
+LANG_ENGLISH         "Classification"
+
+REFERENCE            level_your_best_time
+LANG_ENGLISH         "Best Time"
+
+REFERENCE            loading_transients
+LANG_ENGLISH         "Loading..."
+
+REFERENCE            loadout_1
+LANG_ENGLISH         "Loadout 1"
+
+REFERENCE            loadout_2
+LANG_ENGLISH         "Loadout 2"
+
+REFERENCE            loadout_3
+LANG_ENGLISH         "Loadout 3"
+
+REFERENCE            loadout_4
+LANG_ENGLISH         "Loadout 4"
+
+REFERENCE            loadout_5
+LANG_ENGLISH         "Loadout 5"
+
+REFERENCE            london
+LANG_ENGLISH         "MIND THE GAP"
+
+REFERENCE            london_desc
+LANG_ENGLISH         "Investigate the security threat in London."
+
+REFERENCE            margin_horizontal_desc
+LANG_ENGLISH         "Move the slider to adjust the horizontal margin."
+
+REFERENCE            margin_vertical_desc
+LANG_ENGLISH         "Move the slider to adjust the vertical margin."
+
+REFERENCE            max_reward
+LANG_ENGLISH         "Max reward: "
+
+REFERENCE            mission_key
+LANG_ENGLISH         "Main Missions"
+
+REFERENCE            mission_mode_caps
+LANG_ENGLISH         "MISSIONS"
+
+REFERENCE            mission_mode_desc
+LANG_ENGLISH         "Global Special Operations"
+
+REFERENCE            mission_pre
+LANG_ENGLISH         "Mission:"
+
+REFERENCE            na_for_this_op
+LANG_ENGLISH         "Not available for this Operation."
+
+REFERENCE            need_one_more_player
+LANG_ENGLISH         "Need one more player..."
+
+REFERENCE            need_sight
+LANG_ENGLISH         "A WEAPON SIGHT MUST BE ATTACHED IN THE FIRST ATTACHMENT SLOT."
+
+REFERENCE            need_two_more_players
+LANG_ENGLISH         "Need two more players..."
+
+REFERENCE            new_bestscore
+LANG_ENGLISH         "New Best Score!"
+
+REFERENCE            new_besttime
+LANG_ENGLISH         "New Best Time!"
+
+REFERENCE            next_unlock
+LANG_ENGLISH         "NEXT UNLOCK: "
+
+REFERENCE            no_stars_for_locked_op
+LANG_ENGLISH         "No progress saved since you don't have this Op unlocked."
+
+REFERENCE            not_signed_in
+LANG_ENGLISH         "Not signed in"
+
+REFERENCE            note_civilian
+LANG_ENGLISH         "Civilians"
+
+REFERENCE            note_explosives_knives_only
+LANG_ENGLISH         "Explosives & Knives Only"
+
+REFERENCE            note_slow_mo_breach
+LANG_ENGLISH         "Slow-mo Breach"
+
+REFERENCE            note_two_players_required
+LANG_ENGLISH         "Two Players Required"
+
+REFERENCE            offensive_are_you_sure
+LANG_ENGLISH         "Are you sure you want to skip the content?"
+
+REFERENCE            offensive_checkbox_kbm
+LANG_ENGLISH         "I confirm that I have read the description and I am aware of my choice"
+
+REFERENCE            offensive_skip_1
+LANG_ENGLISH         "Later in this mission there may be disturbing or offensive content, do you want to skip that content?"
+
+REFERENCE            offensive_skip_2
+LANG_ENGLISH         "Some players may find some game content in one of the missions disturbing or offensive. Would you like to have the option to skip this content?"
+
+REFERENCE            offensive_skip_3
+LANG_ENGLISH         "If you answer yes you will never be asked about skipping content again."
+
+REFERENCE            offensive_skip_4
+LANG_ENGLISH         "(The skip content option will be available in the pause menu.)"
+
+REFERENCE            offensive_skip_no_wont_get_offended
+LANG_ENGLISH         "[HOLD] No, I will not be offended"
+
+REFERENCE            offensive_skip_now
+LANG_ENGLISH         "Skip content"
+
+REFERENCE            offensive_skip_yes_ask_later
+LANG_ENGLISH         "[HOLD] Yes, ask me later"
+
+REFERENCE            offensive_skip_yes_never_ask
+LANG_ENGLISH         "Yes, never ask me again"
+
+REFERENCE            offensive_title
+LANG_ENGLISH         "Disturbing Content Notice"
+
+REFERENCE            offensive_warning
+LANG_ENGLISH         "Warning: This game contains provocative content that some may find offensive."
+
+REFERENCE            only_host_can_choose
+LANG_ENGLISH         "Only host can change the Op."
+
+REFERENCE            operation_locked
+LANG_ENGLISH         "Operation Locked"
+
+REFERENCE            operator_reward
+LANG_ENGLISH         "MP Operator - &&1"
+
+REFERENCE            opposition_force
+LANG_ENGLISH         "Opposition"
+
+REFERENCE            ops_unlocked_caps
+LANG_ENGLISH         "OPS UNLOCKED"
+
+REFERENCE            opsmap_tut_1_a
+LANG_ENGLISH         "Targets Of Opportunity"
+
+REFERENCE            opsmap_tut_1_b
+LANG_ENGLISH         "Ops Map Data"
+
+REFERENCE            opsmap_tut_1_c
+LANG_ENGLISH         "Icon Legend"
+
+REFERENCE            opsmap_tut_1_d
+LANG_ENGLISH         "Legend
+"
+
+REFERENCE            opsmap_tut_2_a
+LANG_ENGLISH         "Primary Operation"
+
+REFERENCE            opsmap_tut_2_b
+LANG_ENGLISH         "Air To Air Targets"
+
+REFERENCE            payback
+LANG_ENGLISH         "RETURN TO SENDER"
+
+REFERENCE            payback_desc
+LANG_ENGLISH         "Storm the Somali compound and pick up Makarov's trail."
+
+REFERENCE            percentage_completed
+LANG_ENGLISH         "PERCENTAGE COMPLETED"
+
+REFERENCE            phparade_desc
+LANG_ENGLISH         "Take in the sights of Fleet Week."
+
+REFERENCE            phparade_title
+LANG_ENGLISH         "Black Sky: Parade"
+
+REFERENCE            phspace_title
+LANG_ENGLISH         "Black Sky: Take to the Sky"
+
+REFERENCE            phstreets_title
+LANG_ENGLISH         "Black Sky: Under Attack"
+
+REFERENCE            play_story
+LANG_ENGLISH         "Play Story"
+
+REFERENCE            prague
+LANG_ENGLISH         "EYE OF THE STORM"
+
+REFERENCE            prague_desc
+LANG_ENGLISH         "Maneuver behind enemy lines to the church tower."
+
+REFERENCE            prisoner_title
+LANG_ENGLISH         "Operation Black Flag: Prisoner Escort"
+
+REFERENCE            private_online_match_caps
+LANG_ENGLISH         "PRIVATE ONLINE MATCH"
+
+REFERENCE            profile_warning
+LANG_ENGLISH         "You are not signed in to a profile. 
+Do you wish to sign in?"
+
+REFERENCE            profile_warning_sp
+LANG_ENGLISH         "You are not signed in to a profile. 
+You will not be able to save your progress. 
+Do you wish to sign in?"
+
+REFERENCE            rank_a
+LANG_ENGLISH         "Rank A"
+
+REFERENCE            rank_b
+LANG_ENGLISH         "Rank B"
+
+REFERENCE            rank_c
+LANG_ENGLISH         "Rank C"
+
+REFERENCE            rank_d
+LANG_ENGLISH         "Rank D"
+
+REFERENCE            rank_f
+LANG_ENGLISH         "Rank F"
+
+REFERENCE            recent_unlocks_caps
+LANG_ENGLISH         "RECENT UNLOCKS"
+
+REFERENCE            recommendation
+LANG_ENGLISH         "We suggest you play Squads first."
+
+REFERENCE            recommended
+LANG_ENGLISH         "RECOMMENDED"
+
+REFERENCE            require_primary_weapon
+LANG_ENGLISH         "Primary weapon required for loadout."
+
+REFERENCE            require_secondary_weapon
+LANG_ENGLISH         "Secondary weapon required for loadout."
+
+REFERENCE            requires_scrap
+LANG_ENGLISH         "COMPLETE &&1 MORE OPERATIONS"
+
+REFERENCE            resource_level
+LANG_ENGLISH         "Resource Level"
+
+REFERENCE            reward_complete
+LANG_ENGLISH         "&&1  [{reward_complete}]"
+
+REFERENCE            reward_incomplete
+LANG_ENGLISH         "&&1  [{reward_incomplete}]"
+
+REFERENCE            reward_jackal_upgrade
+LANG_ENGLISH         "JACKAL UPGRADE"
+
+REFERENCE            reward_most_wanted
+LANG_ENGLISH         "MOST WANTED"
+
+REFERENCE            reward_offline
+LANG_ENGLISH         "Claim rewards by completing mission while online."
+
+REFERENCE            reward_perk
+LANG_ENGLISH         "PERK"
+
+REFERENCE            reward_title
+LANG_ENGLISH         "Reward:"
+
+REFERENCE            reward_weapon
+LANG_ENGLISH         "WEAPON"
+
+REFERENCE            rewards
+LANG_ENGLISH         "Rewards"
+
+REFERENCE            rouge_title
+LANG_ENGLISH         "Operation Dark Quarry"
+
+REFERENCE            sa_assassination_title
+LANG_ENGLISH         "Operation Deep Execute"
+
+REFERENCE            sa_empambush_title
+LANG_ENGLISH         "Operation Phoenix"
+
+REFERENCE            sa_vips_title
+LANG_ENGLISH         "Operation Taken Dagger"
+
+REFERENCE            sa_wounded_title
+LANG_ENGLISH         "Operation D-Con"
+
+REFERENCE            select_attach
+LANG_ENGLISH         "Select"
+
+REFERENCE            select_save_device_caps
+LANG_ENGLISH         "SELECT SAVE DEVICE"
+
+REFERENCE            select_your_diff
+LANG_ENGLISH         "Select your difficulty."
+
+REFERENCE            show_timer
+LANG_ENGLISH         "Show Timer"
+
+REFERENCE            skip_mission
+LANG_ENGLISH         "Skip Mission"
+
+REFERENCE            so_mode_select_caps
+LANG_ENGLISH         "CHOOSE GAME MODE"
+
+REFERENCE            so_player_options
+LANG_ENGLISH         "Player Options"
+
+REFERENCE            solo_play_caps
+LANG_ENGLISH         "SOLO PLAY"
+
+REFERENCE            spec_ops_guest_cap
+LANG_ENGLISH         "GUEST"
+
+REFERENCE            special_ops_caps
+LANG_ENGLISH         "SPECIAL OPS"
+
+REFERENCE            specialist_desc
+LANG_ENGLISH         "Manage your health and inventory in order to survive.  Only Elite Specialists accept this challenge."
+
+REFERENCE            stars_earned
+LANG_ENGLISH         "Stars Earned!"
+
+REFERENCE            start_op
+LANG_ENGLISH         "Start Op"
+
+REFERENCE            start_op_desc
+LANG_ENGLISH         "Start the Operation."
+
+REFERENCE            stat_game_progression
+LANG_ENGLISH         "Game Progression"
+
+REFERENCE            stat_hardened_progress
+LANG_ENGLISH         "Hardened Progress"
+
+REFERENCE            stat_intel_items
+LANG_ENGLISH         "Intel Items"
+
+REFERENCE            stat_mp_play_time
+LANG_ENGLISH         "Multiplayer Play Time"
+
+REFERENCE            stat_mp_progression
+LANG_ENGLISH         "Multiplayer Progress"
+
+REFERENCE            stat_num_dot_percent
+LANG_ENGLISH         "&&1.&&2%"
+
+REFERENCE            stat_num_dot_percent_complete
+LANG_ENGLISH         "&&1.&&2% Complete"
+
+REFERENCE            stat_num_percent
+LANG_ENGLISH         "&&1%"
+
+REFERENCE            stat_num_percent_complete
+LANG_ENGLISH         "&&1% Complete"
+
+REFERENCE            stat_num_ratio
+LANG_ENGLISH         "&&1/&&2"
+
+REFERENCE            stat_play_time
+LANG_ENGLISH         "Play Time"
+
+REFERENCE            stat_so_play_time
+LANG_ENGLISH         "Special Ops Play Time"
+
+REFERENCE            stat_so_progression
+LANG_ENGLISH         "Special Ops Progress"
+
+REFERENCE            stat_sp_easy_regular_progression
+LANG_ENGLISH         "Recruit & Regular Progress"
+
+REFERENCE            stat_sp_play_time
+LANG_ENGLISH         "Campaign Play Time"
+
+REFERENCE            stat_sp_progression
+LANG_ENGLISH         "Campaign Progress"
+
+REFERENCE            stat_stars_earned
+LANG_ENGLISH         "Stars Earned"
+
+REFERENCE            stat_time_format
+LANG_ENGLISH         "D      H        M       S"
+
+REFERENCE            stat_total
+LANG_ENGLISH         "Total"
+
+REFERENCE            stat_total_play_time
+LANG_ENGLISH         "Total Play Time"
+
+REFERENCE            stat_total_stars
+LANG_ENGLISH         "Achievement Stars"
+
+REFERENCE            stat_total_stars_trophy
+LANG_ENGLISH         "Trophy Stars"
+
+REFERENCE            stat_veteran_progress
+LANG_ENGLISH         "Veteran Progress"
+
+REFERENCE            steam_chat_hint
+LANG_ENGLISH         "Double click your friend's name in Steam to voice chat."
+
+REFERENCE            story_caps
+LANG_ENGLISH         "STORY"
+
+REFERENCE            streaming_install
+LANG_ENGLISH         "Installing content. Please wait."
+
+REFERENCE            streaming_install_remaining
+LANG_ENGLISH         "&&1:&&2:&&3 remaining"
+
+REFERENCE            survival_armory_caps
+LANG_ENGLISH         "SURVIVAL ARMORY"
+
+REFERENCE            survival_highest_round
+LANG_ENGLISH         "Highest Round"
+
+REFERENCE            survival_mode_caps
+LANG_ENGLISH         "SURVIVAL"
+
+REFERENCE            survival_mode_desc
+LANG_ENGLISH         "Survive countless waves of enemies"
+
+REFERENCE            survival_pre
+LANG_ENGLISH         "Survival:"
+
+REFERENCE            time_played
+LANG_ENGLISH         "TIME PLAYED"
+
+REFERENCE            time_played_dhms
+LANG_ENGLISH         "&&1d:&&2h:&&3m:&&4s"
+
+REFERENCE            time_played_hms
+LANG_ENGLISH         "&&1h:&&2m:&&3s"
+
+REFERENCE            timer_night_vision
+LANG_ENGLISH         "Timer/Night Vision"
+
+REFERENCE            titan_title
+LANG_ENGLISH         "Operation Burn Water: Refinery"
+
+REFERENCE            titanjackal_title
+LANG_ENGLISH         "Operation Burn Water: Fight or Flight"
+
+REFERENCE            total_progress
+LANG_ENGLISH         "TOTAL PROGRESS: "
+
+REFERENCE            trials
+LANG_ENGLISH         "Trials"
+
+REFERENCE            two_player_online
+LANG_ENGLISH         "Two Player Online"
+
+REFERENCE            two_player_online_caps
+LANG_ENGLISH         "TWO PLAYER ONLINE"
+
+REFERENCE            two_player_private
+LANG_ENGLISH         "Two Player Private"
+
+REFERENCE            two_player_private_caps
+LANG_ENGLISH         "TWO PLAYER PRIVATE"
+
+REFERENCE            two_player_split_screen
+LANG_ENGLISH         "Two Player Split Screen"
+
+REFERENCE            two_player_split_screen_caps
+LANG_ENGLISH         "TWO PLAYER SPLIT SCREEN"
+
+REFERENCE            type_assault
+LANG_ENGLISH         "Assault"
+
+REFERENCE            type_assault_defend
+LANG_ENGLISH         "Assault & Defend"
+
+REFERENCE            type_driving
+LANG_ENGLISH         "Driving"
+
+REFERENCE            type_escort
+LANG_ENGLISH         "Escort"
+
+REFERENCE            type_killspree
+LANG_ENGLISH         "Elimination"
+
+REFERENCE            type_stealth
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            type_time_assault
+LANG_ENGLISH         "Timed Assault"
+
+REFERENCE            type_timed_driving
+LANG_ENGLISH         "Timed Driving"
+
+REFERENCE            type_timed_escort
+LANG_ENGLISH         "Timed Escort"
+
+REFERENCE            type_vehicle_killspree
+LANG_ENGLISH         "Vehicle Killspree"
+
+REFERENCE            type_wave_defense
+LANG_ENGLISH         "Wave Defense"
+
+REFERENCE            unlock_at_rank
+LANG_ENGLISH         "Unlocked at Lv.&&1."
+
+REFERENCE            unlock_new_mode
+LANG_ENGLISH         "New Difficulty Unlocked"
+
+REFERENCE            unlock_new_mode_realism
+LANG_ENGLISH         "Specialist Unlocked"
+
+REFERENCE            unlock_new_mode_yolo
+LANG_ENGLISH         "#YOLO Unlocked"
+
+REFERENCE            v1
+LANG_ENGLISH         "V1"
+
+REFERENCE            v2
+LANG_ENGLISH         "V2"
+
+REFERENCE            veteran_is_extremely_difficult
+LANG_ENGLISH         "Veteran is extremely difficult, are you certain you want to play at Veteran Difficulty?"
+
+REFERENCE            vf_audio_cap_01
+LANG_ENGLISH         "g_rorke_psycheval.wav"
+
+REFERENCE            vf_audio_cap_02
+LANG_ENGLISH         "STALKERSIX_jan_17.mp3"
+
+REFERENCE            vf_audio_cap_03
+LANG_ENGLISH         "ramos_nml_log1.mp3"
+
+REFERENCE            vf_audio_cap_04
+LANG_ENGLISH         "Rorke_Ajax_inter.mp3"
+
+REFERENCE            vf_audio_cap_05
+LANG_ENGLISH         "rorke_tap_feb10.wav"
+
+REFERENCE            vf_audio_cap_06
+LANG_ENGLISH         "t_merrick.wav"
+
+REFERENCE            vf_audio_cap_07
+LANG_ENGLISH         "RORKE_log_mar30.mp3"
+
+REFERENCE            vf_audio_cap_08
+LANG_ENGLISH         "T_Merrick_deadbolt.mp3"
+
+REFERENCE            vf_audio_cap_09
+LANG_ENGLISH         "ramos_rocket_tech.mp3"
+
+REFERENCE            vf_audio_cap_10
+LANG_ENGLISH         "RORKE_interogation.mp3"
+
+REFERENCE            vf_audio_cap_11
+LANG_ENGLISH         "intercept_fed_xm.wav"
+
+REFERENCE            vf_audio_cap_12
+LANG_ENGLISH         "ramos_aegis_tech.mp3"
+
+REFERENCE            vf_audio_cap_13
+LANG_ENGLISH         "Rorke_ODIN_log.mp3"
+
+REFERENCE            vf_audio_cap_14
+LANG_ENGLISH         "Rorke_vegas_file.wav"
+
+REFERENCE            vf_audio_cap_15
+LANG_ENGLISH         "Hesh_log_04.mp3"
+
+REFERENCE            vf_audio_cap_16
+LANG_ENGLISH         "Rorke_log_blindside.wav"
+
+REFERENCE            vf_audio_cap_17
+LANG_ENGLISH         "Ramos_sat_upgrades.mp3"
+
+REFERENCE            vf_audio_cap_18
+LANG_ENGLISH         "rorke_broadcast.mp3"
+
+REFERENCE            vf_audio_cap_19
+LANG_ENGLISH         "e_walker_psycheval.wav"
+
+REFERENCE            vf_audio_cap_20
+LANG_ENGLISH         "d_walker_psycheval.wav"
+
+REFERENCE            vf_audio_cap_21
+LANG_ENGLISH         "t_merrick_psycheval.wav"
+
+REFERENCE            vf_audio_caption_title
+LANG_ENGLISH         "AUDIO:"
+
+REFERENCE            vf_classifed
+LANG_ENGLISH         "Classified"
+
+REFERENCE            vf_date_caption_01_01
+LANG_ENGLISH         "APR12"
+
+REFERENCE            vf_date_caption_01_02
+LANG_ENGLISH         "SEP26"
+
+REFERENCE            vf_date_caption_01_03
+LANG_ENGLISH         "JAN30"
+
+REFERENCE            vf_date_caption_02_01
+LANG_ENGLISH         "MAY6"
+
+REFERENCE            vf_date_caption_02_02
+LANG_ENGLISH         "JUL30"
+
+REFERENCE            vf_date_caption_02_03
+LANG_ENGLISH         "MAR28"
+
+REFERENCE            vf_date_caption_03_01
+LANG_ENGLISH         "APR23"
+
+REFERENCE            vf_date_caption_03_02
+LANG_ENGLISH         "FEB19"
+
+REFERENCE            vf_date_caption_03_03
+LANG_ENGLISH         "MAY30"
+
+REFERENCE            vf_date_caption_04_01
+LANG_ENGLISH         "OCT11"
+
+REFERENCE            vf_date_caption_04_02
+LANG_ENGLISH         "FEB01"
+
+REFERENCE            vf_date_caption_04_03
+LANG_ENGLISH         "APR09"
+
+REFERENCE            vf_date_caption_05_01
+LANG_ENGLISH         "JAN10"
+
+REFERENCE            vf_date_caption_05_02
+LANG_ENGLISH         "MAY22"
+
+REFERENCE            vf_date_caption_05_03
+LANG_ENGLISH         "MAY22"
+
+REFERENCE            vf_date_caption_06_01
+LANG_ENGLISH         "NOV30"
+
+REFERENCE            vf_date_caption_06_02
+LANG_ENGLISH         "MAR19"
+
+REFERENCE            vf_date_caption_06_03
+LANG_ENGLISH         "JUN02"
+
+REFERENCE            vf_date_caption_07_01
+LANG_ENGLISH         "SEP10"
+
+REFERENCE            vf_date_caption_07_02
+LANG_ENGLISH         "DEC17"
+
+REFERENCE            vf_date_caption_07_03
+LANG_ENGLISH         "JAN05"
+
+REFERENCE            vf_date_caption_08_01
+LANG_ENGLISH         "AUG18"
+
+REFERENCE            vf_date_caption_08_02
+LANG_ENGLISH         "APR06"
+
+REFERENCE            vf_date_caption_08_03
+LANG_ENGLISH         "OCT03"
+
+REFERENCE            vf_date_caption_09_01
+LANG_ENGLISH         "JUL13"
+
+REFERENCE            vf_date_caption_09_02
+LANG_ENGLISH         "JUL15"
+
+REFERENCE            vf_date_caption_09_03
+LANG_ENGLISH         "JUL18"
+
+REFERENCE            vf_date_caption_10_01
+LANG_ENGLISH         "MAR10"
+
+REFERENCE            vf_date_caption_10_02
+LANG_ENGLISH         "APR15"
+
+REFERENCE            vf_date_caption_10_03
+LANG_ENGLISH         "NOV08"
+
+REFERENCE            vf_date_caption_11_01
+LANG_ENGLISH         "FEB22"
+
+REFERENCE            vf_date_caption_11_02
+LANG_ENGLISH         "SEP03"
+
+REFERENCE            vf_date_caption_11_03
+LANG_ENGLISH         "SEP14"
+
+REFERENCE            vf_date_caption_12_01
+LANG_ENGLISH         "APR19"
+
+REFERENCE            vf_date_caption_12_02
+LANG_ENGLISH         "MAY13"
+
+REFERENCE            vf_date_caption_12_03
+LANG_ENGLISH         "AUG27"
+
+REFERENCE            vf_date_caption_13_01
+LANG_ENGLISH         "OCT16"
+
+REFERENCE            vf_date_caption_13_02
+LANG_ENGLISH         "MAR30"
+
+REFERENCE            vf_date_caption_13_03
+LANG_ENGLISH         "MAR30"
+
+REFERENCE            vf_date_caption_14_01
+LANG_ENGLISH         "JAN14"
+
+REFERENCE            vf_date_caption_14_02
+LANG_ENGLISH         "JUN30"
+
+REFERENCE            vf_date_caption_14_03
+LANG_ENGLISH         "JUL1"
+
+REFERENCE            vf_date_caption_15_01
+LANG_ENGLISH         "JUL4"
+
+REFERENCE            vf_date_caption_15_02
+LANG_ENGLISH         "JUL1"
+
+REFERENCE            vf_date_caption_15_03
+LANG_ENGLISH         "JUN29"
+
+REFERENCE            vf_date_caption_16_01
+LANG_ENGLISH         "JUL2"
+
+REFERENCE            vf_date_caption_16_02
+LANG_ENGLISH         "JUN30"
+
+REFERENCE            vf_date_caption_16_03
+LANG_ENGLISH         "JUL1"
+
+REFERENCE            vf_date_caption_17_01
+LANG_ENGLISH         "JUL3"
+
+REFERENCE            vf_date_caption_17_02
+LANG_ENGLISH         "JUL4"
+
+REFERENCE            vf_date_caption_17_03
+LANG_ENGLISH         "JUL4"
+
+REFERENCE            vf_date_caption_18_01
+LANG_ENGLISH         "MAY29"
+
+REFERENCE            vf_date_caption_18_02
+LANG_ENGLISH         "AUG05"
+
+REFERENCE            vf_date_caption_18_03
+LANG_ENGLISH         "FEBXX"
+
+REFERENCE            vf_date_caption_19_01
+LANG_ENGLISH         "APR19"
+
+REFERENCE            vf_date_caption_19_02
+LANG_ENGLISH         "NOV25"
+
+REFERENCE            vf_date_caption_19_03
+LANG_ENGLISH         "SEP30"
+
+REFERENCE            vf_date_caption_20_01
+LANG_ENGLISH         "AUG31"
+
+REFERENCE            vf_date_caption_20_02
+LANG_ENGLISH         "MAY13"
+
+REFERENCE            vf_date_caption_20_03
+LANG_ENGLISH         "OCT02"
+
+REFERENCE            vf_date_caption_21_01
+LANG_ENGLISH         "DEC19"
+
+REFERENCE            vf_date_caption_21_02
+LANG_ENGLISH         "JUN07"
+
+REFERENCE            vf_date_caption_21_03
+LANG_ENGLISH         "NOV05"
+
+REFERENCE            vf_date_caption_title
+LANG_ENGLISH         "DATE:"
+
+REFERENCE            vf_file_01_body
+LANG_ENGLISH         "CIA - HR3650092326177 // PSYCHIATRIC REPORT - 10/02
+
+Patient:  GABRIEL T. RORKE
+Rank: Captain - ACTIVE DUTY
+
+GABRIEL RORKE was involved in Operation: Sand Viper, and is one of only fifteen operators who survived the conflict.  For the past year, the traumatizing experience seems to have no effect on his combat readiness or mental sharpness.
+
+If anything, I would say the experience has given him purpose.  He seems more focused than ever.  Calm.  It's really quite inspiring, actually.  Most soldiers I've come across have "dead" eyes - they just look right through me, as if I'm not even there.
+
+Captain Rorke displays no medical hindrances, physical or mental.  
+
+Diagnosis:  Combat Ready."
+
+REFERENCE            vf_file_02_body
+LANG_ENGLISH         "CIA - SR91923000932-LW //  DEFENSE SYSTEM VULNERABILITIES
+
+Methods of Infiltration
+
+We've seen an increasing number of attacks against the Liberty Wall.  The source of the attacks, we believe, are Federation Recon Teams (FEDREC) operating in No Man's Land.
+
+As of now, the attacks have slowed.  However, our own FORCE RECON teams have reported an alarming number of civilian casualties outside the wall.  A detachment recently discovered mass graves in the craters south of Los Angeles. 
+
+We were able to determine that Federation forces are attempting to find alternative ways into the city.
+"
+
+REFERENCE            vf_file_03_body
+LANG_ENGLISH         "CIA - SR13727199-G // TIER 1 POWs
+
+Latest reports from OTW Recon show severe breaches in operator safety.  Specific teams that have operated in these areas have proven effective so far, however, at this time, we believe their security has been compromised.
+
+[OPERATOR SAFETY]
+We are currently aware of three (3) operators who have gone missing or have been reported K.I.A. near Zones Romeo and Sierra.
+Chris Greene    -   "Torch"
+Riddian Poe      -   "Grim"
+Alex Johnson   -   "Ajax"
+
+Note:  All operators are from the same unit - designation: STALKER
+"
+
+REFERENCE            vf_file_04_body
+LANG_ENGLISH         "CIA - SR13727201-G  //  ENEMY POSITIONS OTW
+
+New intel from OTW Recon teams outside the wall show enemy fortifications along the outskirts of San Diego, CA, listed below.
+
+[FIREBASE CHARLIE]
+An OTW team has tracked one of our missing POWs to a stadium a half-mile inland of San Diego.  Designated FIREBASE CHARLIE by enemy forces, we believe this to be a Forward Operating Base for the Federation, and a staging ground for launching attacks against the Wall.
+
+Intel suggests the enemy has been transporting POWs to this location and attempting to extract information via interrogation and torture. Due to the high level of security clearance these operators possess, we have issued protocols to ensure our safety. "
+
+REFERENCE            vf_file_05_body
+LANG_ENGLISH         "CIA - SR0008119192-LW  //  URGENT - IMPENDING ATTACK ON SANTA MONICA
+
+FEDERATION ASSAULT FORCE INBOUND TO FORT SANTA MONICA
+
+Intel has confirmed a large scale enemy force is inbound to Santa Monica and the surrounding areas - including Los Angeles and the Liberty Wall itself. Request immediate deployment of all QRF and Emergency Services.
+
+UPDATE - 5/4 11:23AM
+U.S. Forces at Fort Santa Monica have engaged enemy ground troops.  Federation Navy inbound. Attack routes and trajectories hitting GRID 7012 and GRID 3281.
+
+IMMEDIATE ASSISTANCE REQUIRED
+"
+
+REFERENCE            vf_file_06_body
+LANG_ENGLISH         "CIA - LB000012995  //  FEDERATION RISE TO POWER
+
+TRANSITION OF POWER AND RESOURCES AFTER TEL AVIV WAR
+
+After multiple conflicts in the Middle East, the invasion of Tel Aviv and the resulting collapse of energy and financial resources in the area resulted in crippling effects to First World countries - mainly those relying on such resources provided by allied governments.
+
+With NATO and Allied Forces spread thin, other governments seized an opportunity to monopolize their own resources and consolidate power over neighboring countries.
+
+Venezuela, Brazil, and Chile unite under one banner, calling themselves "The Federation".  Within the next few years, a massive financial boost to the Federation's economy resulted in a global dominance over energy markets."
+
+REFERENCE            vf_file_07_body
+LANG_ENGLISH         "CIA - LB000017955  //  VICTOR RAMOS - PROFILE
+
+Name: Victor H. Ramos
+Born: July 1st, ????
+Age:  Unknown
+
+Ramos is a high ranking officer in the Federation Science Division, in charge of covert operations outside of San Diego.
+
+Intel suggests he is utilized and protected by the Federation because of his knowledge of reverse engineering classified technology.  Former clients include China, Iran, and North Korea.  His breakthroughs in kinetic energy through projectiles laid the groundwork for the Orbital Defense Initiative (O.D.I.N.) satellite.
+
+He is one of the only people who deals directly with GABRIEL RORKE, and we believe he never stays in the same place more than twenty four hours.
+"
+
+REFERENCE            vf_file_08_body
+LANG_ENGLISH         "CIA - SR21945500  //  OPERATION: DEADBOLT
+
+A heavily damaged laptop was recovered from recent operations in Caracas, VZ, but we were able to pull critical data from the HDD.
+
+From what the files suggest, Rorke moves every twenty four hours, much like Victor Ramos - a man in his employ. We are unsure of how many pre-designated locations are used, however we were able to extract a cluster of them from the laptop.
+
+A series of oil platforms and government housing off the coast of the Yucatan Peninsula is the next stop along his route. Called "The Freeport", we believe this area houses small-arms militias loyal to The Federation.  The area is to be considered extremely hostile. The Freeport is our only link to Rorke and we are currently unsure of when his movement cycle will start over.
+
+Recommended COA:  UTILIZATION OF TIER1 TEAMS FOR IMMEDIATE ACTION
+"
+
+REFERENCE            vf_file_09_body
+LANG_ENGLISH         "CIA - SR21945616  //  ORDNANCE LAUNCHES IN YUCATAN
+
+Aerial surveillance during OPERATION: DEADBOLT (see CIA - SR21945500) located simultaneous missile-like projectiles launching from the nearby jungle.
+
+Exactly how many projectiles were used is unknown at this time, however allied forces in the area were able to determine at least six (6) of them were successfully launched. Long range tracking lost sight of them within minutes, though the angle of trajectory suggests the ordnance broke into the upper mesosphere.
+
+SAFETY MEASURES FOR U.S. CITIES
+Governing bodies of key U.S. cities have been notified, but at this time, the warning is preliminary.  The most current intel we've gathered suggests the projectiles never returned to the stratosphere.
+"
+
+REFERENCE            vf_file_10_body
+LANG_ENGLISH         "CIA - SR24100706  //  DAMAGE ESTIMATES 
+
+Below is a report taken from a recent intelligence-gathering operation in Federation occupied Argentina.  These estimates are potential casualties of an attack that, as of yet, has not occurred.
+
+WASHINGTON, D.C.         NEW YORK CITY, NY.
+TOTAL: 309,000 est.       TOTAL:  5,681,019 est.
+
+CHICAGO, IL.                     LOS ANGELES, CA.
+TOTAL: 1,510,400 est.     TOTAL: 2,773,380 est.
+
+The number of casualties on impact suggest the Federation plans on using nuclear or kinetic-based attacks on U.S. soil, though the latter is pure speculation at this point.
+"
+
+REFERENCE            vf_file_11_body
+LANG_ENGLISH         "CIA - AP1-385717 (TS)  // THE SHOP
+
+Intelligence gathered from recent operations in Southern Argentina points to a facility near Rio de Janeiro, Brazil, as a hub for Federation activity.  The significance of this facility, referred to as "The Shop", is unknown, but appears to be of great importance to the enemy.
+
+DIRECT ACTION OPERATIONS
+Surveillance rotations have resulted in the loss of one UAV drone that was shot down by anti-aircraft fire.  However, the drone was able to feed topography and enemy defense positions back to us.
+
+The Shop is heavily guarded by a naval fleet on the perimeter of two possible entrances.  Any direct action operations would require immobilization of this fleet. Utilizing STALKER on Atlas Platform proved successful.  The Federation naval fleet was diverted to the wreckage, leaving one AEGIS-CLASS DESTROYER guarding The Shop."
+
+REFERENCE            vf_file_12_body
+LANG_ENGLISH         "CIA - RDP921-1 // ADVANCED SYSTEMS OF THE FEDERATION NAVY
+
+Repurposed and reverse engineered U.S. technology has devastated areas where our military was prominent (see 'CIA - RDP921-3'). Current reports indicate an upgraded Arleigh Burke Class (AEGIS) Destroyer being tested somewhere off the coast of Mexico.
+
+The updated sonar-pulse system mimics that of a search sonar found on current AEGIS destroyers active within the U.S. Navy. A report suggests that human subjects (believed to be Federation Soldiers) were used in testing of the device. None were reported to have survived the blasts.
+
+Only one repurposed AEGIS Destroyer has been confirmed. We can safely assume more are in production."
+
+REFERENCE            vf_file_13_body
+LANG_ENGLISH         "CIA - IA699614202 (TS)  //  REVERSE ENGINEERED U.S. TECHNOLOGY
+
+Following operations near Rio de Janeiro, Brazil, and IA of "The Shop" (CIA - AP1-385717), we have learned of reverse engineering (RE) efforts of the Federation to rebuild and enhance wreckage of the United States Orbital Defense Initiative (ODIN) program.
+
+We believe that Victor RAMOS (see Library File LB000017955) aided the Federation in this effort before being declared K.I.A. in Caracas, VZ earlier this year.
+
+As of June, we have confirmation from eyes on the ground and STALKER that these efforts proved effective.  The Federation is in control of a working prototype of the ODIN satellite, referred to hereafter as "LOKI".  We believe Gabriel T. RORKE is responsible for divulging classified ODIN information to the Federation, allowing them to complete a prototype of LOKI.
+"
+
+REFERENCE            vf_file_14_body
+LANG_ENGLISH         "CIA - IA700001892 (TS)  //  COMPROMISED GHOST SAFEHOUSE
+
+Recently a location near Las Vegas, NV used by GHOST was compromised by a former operator in the team, Gabriel RORKE.  In the resulting attack, four operators were taken hostage and one, Elias T. WALKER, was killed in action.
+
+The three remaining operators taken hostage underwent interrogation from RORKE, but we currently do not believe any national security was compromised.  Debrief of the three operators concluded that RORKE's intention was "...vendetta more than [intelligence gathering]".
+
+RORKE was presumed dead during the events of Operation: Return to Sender, but we have since learned he survived and has been working for the Federation, primarily targeting members of GHOST.
+"
+
+REFERENCE            vf_file_15_body
+LANG_ENGLISH         "CIA - OA1005382-2 (TS)  //  OPERATION: BLINDSLIDE
+
+ADVISE:  OPERATIONS ARE CURRENTLY UNDERWAY
+
+NORAD has approved an offensive strike against a satellite array (SATFARM) in the Atacama Desert of Chile.  The SATFARM is communicating with the Federation controlled satellite (CIA-IA699614202) in an attempt to coordinate kinetic strikes against the United States.
+
+At this time, mobilization of forces is already underway at Fort Santa Monica.  Additional coordination with SOCOM and utilization of GHOST requested.  However, due to recent flaws of operational security assets, it is unknown if they can be of assistance.
+"
+
+REFERENCE            vf_file_16_body
+LANG_ENGLISH         "CIA - OA1005382-3 (TS)  //  OPERATION: BLINDSLIDE
+
+LOKI / SATFARM CONNECTION
+The SATFARM communicates with FEDSAT to direct attacks, however the satellite is still capable of kinetic bombardment of areas without any assistance.  These attacks would deal catastrophic damage to targets, but without SATFARM's involvement, FEDSAT is firing blind.
+
+CONTINGENCY OPERATIONS
+A decommissioned space shuttle has been repurposed for a direct action mission aimed directly at FEDSAT.  NORAD currently has an assault team standing by for tasking, should the SATFARM operation prove successful.  With SATFARM disabled, FEDSAT will be vulnerable to attack, allowing us to put strike teams onboard the station itself.
+"
+
+REFERENCE            vf_file_17_body
+LANG_ENGLISH         "CIA - OA1005382-4 (TS)  // ENHANCEMENTS OVER ODIN
+
+Further developments from intel recovered from The Shop (see CIA-AP1-385717) show that the Federation Satellite (FEDSAT) is an upgraded, more streamlined enhancement of the original ODIN prototype.
+
+Enhancements from intelligence gathered at The Shop described below:
+- Tungsten rod variations
+The U.S. operated ODIN used only 6.1 x 0.3m tungsten cylinders as projectiles. FEDSAT is using various sized rods not exceeding those of ODIN.  This allows for impacts closer to allied forces without the fear of danger close fire.
+
+- Necklace configuration
+FEDSAT is using subsidiary firing platforms controlled by a central HUB satellite.  These platforms allow for a greater range of potential targets. Current intel suggests the United States and Allied European countries are at the highest risk.
+"
+
+REFERENCE            vf_file_18_body
+LANG_ENGLISH         "I am Gabriel Rorke.
+
+I have been trained by your Government to be a weapon.  Trained to kill and destroy.  All in the name of Liberty and Justice.  Even surrender my very life in service to your country.
+
+But I am not one of you. The "Just" have turned their backs and become deaf to your cries.  Who, then, will show them justice?  Who will show you the Liberty they have promised?  The weapon they have created will be their undoing.
+
+But do not fear this.  Do not fear me.  It is only natural.  Like the collapse of Rome, your cities will crumble and there will be great sorrow.  But from the ashes of this diseased metropolis, a rebirth will occur.  It will be paid for with blood and steel. Liberty must be restored. I am Gabriel Rorke, and I am here to show you the true meaning of justice."
+
+REFERENCE            vf_file_19_body
+LANG_ENGLISH         "Age: 51
+Rank: Captain, RET.
+Birthplace: San Diego, CA
+Callsign: Scarecrow
+
+Captain Walker is the acting commander of GHOST, and is also one of its oldest operators.  A career soldier, his 30+ years of service have been invaluable to the safety of the United States.
+
+His two sons, Logan and David "Hesh" Walker, are also active duty operators - performing S&R/Recon outside the wall.
+
+Captain Walker has been nominated for the Congressional Medal of Honor, multiple Silver and Bronze stars, but has declined to receive any, preferring anonymity."
+
+REFERENCE            vf_file_20_body
+LANG_ENGLISH         "Age: 28
+Rank: Lieutenant
+Birthplace: San Diego, CA
+
+David Walker ("HESH") is the oldest son of Captain Elias T. Walker, RET.  His brother, Logan Walker, also serves in the same Outside the Wall (OTW) Recon team.
+
+Lt. Walker has received numerous commendations for operations near the border zone, referred to as No Man's Land.  His superiors have called him a "...natural born leader."
+
+At this time, he is being considered as a top tier candidate for Task Force: STALKER."
+
+REFERENCE            vf_file_21_body
+LANG_ENGLISH         "Age: 41
+Rank: Captain
+Birthplace: Sacramento, CA
+
+Thomas A. Merrick ("MERRICK") joined the United States Navy at age 17, and quickly became one of the youngest recruits to ever complete SEAL training. He was later assigned to SEAL Team Two, deploying to the Middle East.
+
+He was one of fifteen survivors of an operation near the Iran border. He was later assigned to Task Force STALKER (GHOST), where he currently resides as team leader in the field.
+
+Merrick is the third generation of his family to serve with the U.S. Military.  His grandfather, Clyde E. Merrick, was killed in Normandy during Operation Neptune. His father, SSgt. Nicholas "Bull" Merrick, was killed in Fallujah."
+
+REFERENCE            vf_file_caption_01_01
+LANG_ENGLISH         "rorke_gabriel_scans.jpg"
+
+REFERENCE            vf_file_caption_01_02
+LANG_ENGLISH         "rorke_gabriel_poly.PNG"
+
+REFERENCE            vf_file_caption_01_03
+LANG_ENGLISH         "SERE_GR.jpg"
+
+REFERENCE            vf_file_caption_02_01
+LANG_ENGLISH         "FEDREC_demo_team.jpg"
+
+REFERENCE            vf_file_caption_02_02
+LANG_ENGLISH         "wall_breach_july.jpg"
+
+REFERENCE            vf_file_caption_02_03
+LANG_ENGLISH         "FEDREC_civilian_pits.jpg"
+
+REFERENCE            vf_file_caption_03_01
+LANG_ENGLISH         "FED_embassy_SD.PNG"
+
+REFERENCE            vf_file_caption_03_02
+LANG_ENGLISH         "STALKER_Torch_POL.PNG"
+
+REFERENCE            vf_file_caption_03_03
+LANG_ENGLISH         "FED_embassy_surv.XIF"
+
+REFERENCE            vf_file_caption_04_01
+LANG_ENGLISH         "meeting_NML.jpg"
+
+REFERENCE            vf_file_caption_04_02
+LANG_ENGLISH         "FED_int_tech.PNG"
+
+REFERENCE            vf_file_caption_04_03
+LANG_ENGLISH         "redding_chris_dec.XIF"
+
+REFERENCE            vf_file_caption_05_01
+LANG_ENGLISH         "Federation_KMI.XIF"
+
+REFERENCE            vf_file_caption_05_02
+LANG_ENGLISH         "LRS_FB_CHARLIE.jpg"
+
+REFERENCE            vf_file_caption_05_03
+LANG_ENGLISH         "POA_wall_assault.jpg"
+
+REFERENCE            vf_file_caption_06_01
+LANG_ENGLISH         "FED_rally.PNG"
+
+REFERENCE            vf_file_caption_06_02
+LANG_ENGLISH         "FED_Caracas_riots.jpg"
+
+REFERENCE            vf_file_caption_06_03
+LANG_ENGLISH         "FED_flag_official.jpg"
+
+REFERENCE            vf_file_caption_07_01
+LANG_ENGLISH         "ramos_graduation.XIF"
+
+REFERENCE            vf_file_caption_07_02
+LANG_ENGLISH         "FED_research_ai.XIF"
+
+REFERENCE            vf_file_caption_07_03
+LANG_ENGLISH         "quantum_farms.XIF"
+
+REFERENCE            vf_file_caption_08_01
+LANG_ENGLISH         "FED_freeport_schem.jpg"
+
+REFERENCE            vf_file_caption_08_02
+LANG_ENGLISH         "FED_freeport_con.PNG"
+
+REFERENCE            vf_file_caption_08_03
+LANG_ENGLISH         "FED_freeport_surv.XIF"
+
+REFERENCE            vf_file_caption_09_01
+LANG_ENGLISH         "FED_yucatan_site.jpg"
+
+REFERENCE            vf_file_caption_09_02
+LANG_ENGLISH         "Yucatan_ordnance.jpg"
+
+REFERENCE            vf_file_caption_09_03
+LANG_ENGLISH         "archive_test_launch.jpg"
+
+REFERENCE            vf_file_caption_10_01
+LANG_ENGLISH         "SG_cnews_contact.PNG"
+
+REFERENCE            vf_file_caption_10_02
+LANG_ENGLISH         "watchlist_TASat.PNG"
+
+REFERENCE            vf_file_caption_10_03
+LANG_ENGLISH         "anti_fed_protests.XIF"
+
+REFERENCE            vf_file_caption_11_01
+LANG_ENGLISH         "FED_fleet_carrier.jpg"
+
+REFERENCE            vf_file_caption_11_02
+LANG_ENGLISH         "FED_the_shop.XIF"
+
+REFERENCE            vf_file_caption_11_03
+LANG_ENGLISH         "ATLAS_key_targets.XIF"
+
+REFERENCE            vf_file_caption_12_01
+LANG_ENGLISH         "AEGIS_proto.jpg"
+
+REFERENCE            vf_file_caption_12_02
+LANG_ENGLISH         "rorke_mtg_06.jpg"
+
+REFERENCE            vf_file_caption_12_03
+LANG_ENGLISH         "FED_test_bodies.jpg"
+
+REFERENCE            vf_file_caption_13_01
+LANG_ENGLISH         "ODIN_panel_repair.jpg"
+
+REFERENCE            vf_file_caption_13_02
+LANG_ENGLISH         "rod_targeting_vector.PNG"
+
+REFERENCE            vf_file_caption_13_03
+LANG_ENGLISH         "rod_impact_CA.PNG"
+
+REFERENCE            vf_file_caption_14_01
+LANG_ENGLISH         "GT_KIA.PNG"
+
+REFERENCE            vf_file_caption_14_02
+LANG_ENGLISH         "GT_safehouses.XIF"
+
+REFERENCE            vf_file_caption_14_03
+LANG_ENGLISH         "GT_finger_trauma.XIF"
+
+REFERENCE            vf_file_caption_15_01
+LANG_ENGLISH         "ground_array_sec.jpg"
+
+REFERENCE            vf_file_caption_15_02
+LANG_ENGLISH         "opsec_breach_03.jpg"
+
+REFERENCE            vf_file_caption_15_03
+LANG_ENGLISH         "FED_ground_array.jpg"
+
+REFERENCE            vf_file_caption_16_01
+LANG_ENGLISH         "sat_farm_atacama.jpg"
+
+REFERENCE            vf_file_caption_16_02
+LANG_ENGLISH         "sat_construct_06.PNG"
+
+REFERENCE            vf_file_caption_16_03
+LANG_ENGLISH         "FED_kinetic_strike.PNG"
+
+REFERENCE            vf_file_caption_17_01
+LANG_ENGLISH         "Loki_construction.XIF"
+
+REFERENCE            vf_file_caption_17_02
+LANG_ENGLISH         "ODIN_pod_01.PNG"
+
+REFERENCE            vf_file_caption_17_03
+LANG_ENGLISH         "Loki_necklace_array.jpg"
+
+REFERENCE            vf_file_caption_18_01
+LANG_ENGLISH         "RORKE_gabriel.jpg"
+
+REFERENCE            vf_file_caption_18_02
+LANG_ENGLISH         "RORKE_USNA.PNG"
+
+REFERENCE            vf_file_caption_18_03
+LANG_ENGLISH         "RORKE_training.XIF"
+
+REFERENCE            vf_file_caption_19_01
+LANG_ENGLISH         "WALKER_firstborn.jpg"
+
+REFERENCE            vf_file_caption_19_02
+LANG_ENGLISH         "Walker_sons.jpg"
+
+REFERENCE            vf_file_caption_19_03
+LANG_ENGLISH         "WALKER_Riley_pup.jpg"
+
+REFERENCE            vf_file_caption_20_01
+LANG_ENGLISH         "DavidandLogan.jpg"
+
+REFERENCE            vf_file_caption_20_02
+LANG_ENGLISH         "WALKER_bros.PNG"
+
+REFERENCE            vf_file_caption_20_03
+LANG_ENGLISH         "hunting_woods.jpg"
+
+REFERENCE            vf_file_caption_21_01
+LANG_ENGLISH         "VZ_flood_aftermath.PNG"
+
+REFERENCE            vf_file_caption_21_02
+LANG_ENGLISH         "VZ_shock_and_awe.PNG"
+
+REFERENCE            vf_file_caption_21_03
+LANG_ENGLISH         "MERRICK_Clyde_E.jpg"
+
+REFERENCE            vf_file_caption_title
+LANG_ENGLISH         "FILE:"
+
+REFERENCE            vf_file_id_num_12
+LANG_ENGLISH         "03"
+
+REFERENCE            vf_location_caption_01_01
+LANG_ENGLISH         "Rheinland-Pfalz, Germany"
+
+REFERENCE            vf_location_caption_01_02
+LANG_ENGLISH         "Langley, VA"
+
+REFERENCE            vf_location_caption_01_03
+LANG_ENGLISH         "SH-116A"
+
+REFERENCE            vf_location_caption_02_01
+LANG_ENGLISH         "UNDISCLOSED"
+
+REFERENCE            vf_location_caption_02_02
+LANG_ENGLISH         "Los Angeles, CA"
+
+REFERENCE            vf_location_caption_02_03
+LANG_ENGLISH         "NML"
+
+REFERENCE            vf_location_caption_03_01
+LANG_ENGLISH         "Santiago, Chile"
+
+REFERENCE            vf_location_caption_03_02
+LANG_ENGLISH         "UNKNOWN"
+
+REFERENCE            vf_location_caption_03_03
+LANG_ENGLISH         "Santiago, Chile"
+
+REFERENCE            vf_location_caption_04_01
+LANG_ENGLISH         "No Man's Land"
+
+REFERENCE            vf_location_caption_04_02
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_04_03
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_05_01
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_05_02
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_05_03
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_06_01
+LANG_ENGLISH         "Caracas, VZ"
+
+REFERENCE            vf_location_caption_06_02
+LANG_ENGLISH         "Caracas, VZ"
+
+REFERENCE            vf_location_caption_06_03
+LANG_ENGLISH         "Caracas, VZ"
+
+REFERENCE            vf_location_caption_07_01
+LANG_ENGLISH         "Caracas, VZ"
+
+REFERENCE            vf_location_caption_07_02
+LANG_ENGLISH         "Rio de Janeiro"
+
+REFERENCE            vf_location_caption_07_03
+LANG_ENGLISH         "Rio de Janeiro"
+
+REFERENCE            vf_location_caption_08_01
+LANG_ENGLISH         "Campeche Oil Fields"
+
+REFERENCE            vf_location_caption_08_02
+LANG_ENGLISH         "Campeche Oil Fields"
+
+REFERENCE            vf_location_caption_08_03
+LANG_ENGLISH         "Campeche Oil Fields"
+
+REFERENCE            vf_location_caption_09_01
+LANG_ENGLISH         "Yucatan Test Site"
+
+REFERENCE            vf_location_caption_09_02
+LANG_ENGLISH         "Yucatan Test Site"
+
+REFERENCE            vf_location_caption_09_03
+LANG_ENGLISH         "Yucatan Test Site"
+
+REFERENCE            vf_location_caption_10_01
+LANG_ENGLISH         "ARCHIVE CIA-09A3918"
+
+REFERENCE            vf_location_caption_10_02
+LANG_ENGLISH         "ARCHIVE CIA-09A3918"
+
+REFERENCE            vf_location_caption_10_03
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_11_01
+LANG_ENGLISH         "Gulf of Mexico"
+
+REFERENCE            vf_location_caption_11_02
+LANG_ENGLISH         "Rio de Janeiro"
+
+REFERENCE            vf_location_caption_11_03
+LANG_ENGLISH         "Drake Passage"
+
+REFERENCE            vf_location_caption_12_01
+LANG_ENGLISH         "Sao Paulo, Brazil"
+
+REFERENCE            vf_location_caption_12_02
+LANG_ENGLISH         "Porto Alegre, Uruguay"
+
+REFERENCE            vf_location_caption_12_03
+LANG_ENGLISH         "Mexico City, Mexico"
+
+REFERENCE            vf_location_caption_13_01
+LANG_ENGLISH         "Low Earth Orbit"
+
+REFERENCE            vf_location_caption_13_02
+LANG_ENGLISH         "Low Earth Orbit"
+
+REFERENCE            vf_location_caption_13_03
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_14_01
+LANG_ENGLISH         "No Man's Land"
+
+REFERENCE            vf_location_caption_14_02
+LANG_ENGLISH         "No Man's Land"
+
+REFERENCE            vf_location_caption_14_03
+LANG_ENGLISH         "Las Vegas, NV"
+
+REFERENCE            vf_location_caption_15_01
+LANG_ENGLISH         "Atacama Desert"
+
+REFERENCE            vf_location_caption_15_02
+LANG_ENGLISH         "Los Angeles, CA"
+
+REFERENCE            vf_location_caption_15_03
+LANG_ENGLISH         "Atacama Desert"
+
+REFERENCE            vf_location_caption_16_01
+LANG_ENGLISH         "Atacama Desert"
+
+REFERENCE            vf_location_caption_16_02
+LANG_ENGLISH         "Atacama Facility"
+
+REFERENCE            vf_location_caption_16_03
+LANG_ENGLISH         "Loki - Low Earth Orbit"
+
+REFERENCE            vf_location_caption_17_01
+LANG_ENGLISH         "Low Earth Orbit"
+
+REFERENCE            vf_location_caption_17_02
+LANG_ENGLISH         "Low Earth Orbit"
+
+REFERENCE            vf_location_caption_17_03
+LANG_ENGLISH         "Low Earth Orbit"
+
+REFERENCE            vf_location_caption_18_01
+LANG_ENGLISH         "Coronado, CA"
+
+REFERENCE            vf_location_caption_18_02
+LANG_ENGLISH         "Annapolis, MD"
+
+REFERENCE            vf_location_caption_18_03
+LANG_ENGLISH         "CLASSIFIED"
+
+REFERENCE            vf_location_caption_19_01
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_19_02
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_19_03
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_20_01
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_20_02
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_20_03
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_location_caption_21_01
+LANG_ENGLISH         "Caracas, VZ"
+
+REFERENCE            vf_location_caption_21_02
+LANG_ENGLISH         "Northern Venezuela"
+
+REFERENCE            vf_location_caption_21_03
+LANG_ENGLISH         "Normandy, France"
+
+REFERENCE            vf_location_caption_title
+LANG_ENGLISH         "SITE:"
+
+REFERENCE            vf_menu_select_case1
+LANG_ENGLISH         "CASE FILE: Gabriel Rorke"
+
+REFERENCE            vf_menu_select_case2
+LANG_ENGLISH         "CASE FILE: Elias Walker"
+
+REFERENCE            vf_menu_select_case3
+LANG_ENGLISH         "CASE FILE: David Walker"
+
+REFERENCE            vf_menu_select_case4
+LANG_ENGLISH         "CASE FILE: Thomas Merrick"
+
+REFERENCE            vf_menu_select_classified
+LANG_ENGLISH         "CLASSIFIED"
+
+REFERENCE            vf_menu_select_doi
+LANG_ENGLISH         "DEPARTMENT OF INTELLIGENCE"
+
+REFERENCE            vf_menu_select_warning
+LANG_ENGLISH         "No Unauthorized Duplication"
+
+REFERENCE            vf_mission_name_01
+LANG_ENGLISH         "Ghost Stories"
+
+REFERENCE            vf_mission_name_02
+LANG_ENGLISH         "Brave New World"
+
+REFERENCE            vf_mission_name_03
+LANG_ENGLISH         "No Man's Land"
+
+REFERENCE            vf_mission_name_04
+LANG_ENGLISH         "Struck Down"
+
+REFERENCE            vf_mission_name_05
+LANG_ENGLISH         "Homecoming"
+
+REFERENCE            vf_mission_name_06
+LANG_ENGLISH         "Legends Never Die"
+
+REFERENCE            vf_mission_name_07
+LANG_ENGLISH         "Federation Day"
+
+REFERENCE            vf_mission_name_08
+LANG_ENGLISH         "Birds Of Prey"
+
+REFERENCE            vf_mission_name_09
+LANG_ENGLISH         "The Hunted"
+
+REFERENCE            vf_mission_name_10
+LANG_ENGLISH         "Clockwork"
+
+REFERENCE            vf_mission_name_11
+LANG_ENGLISH         "Atlas Falls"
+
+REFERENCE            vf_mission_name_12
+LANG_ENGLISH         "Into The Deep"
+
+REFERENCE            vf_mission_name_13
+LANG_ENGLISH         "End Of The Line"
+
+REFERENCE            vf_mission_name_14
+LANG_ENGLISH         "Sin City"
+
+REFERENCE            vf_mission_name_15
+LANG_ENGLISH         "All Or Nothing"
+
+REFERENCE            vf_mission_name_16
+LANG_ENGLISH         "Severed Ties"
+
+REFERENCE            vf_mission_name_17
+LANG_ENGLISH         "LOKI"
+
+REFERENCE            vf_mission_name_18
+LANG_ENGLISH         "The Ghost Killer"
+
+REFERENCE            vf_mission_name_19
+LANG_ENGLISH         "Elias T. Walker"
+
+REFERENCE            vf_mission_name_20
+LANG_ENGLISH         "Hesh Walker"
+
+REFERENCE            vf_mission_name_21
+LANG_ENGLISH         "Thomas Merrick"
+
+REFERENCE            vf_mission_title
+LANG_ENGLISH         "MISSION:"
+
+REFERENCE            vf_op_name_01
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_op_name_02
+LANG_ENGLISH         "Los Angeles, CA"
+
+REFERENCE            vf_op_name_03
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_op_name_04
+LANG_ENGLISH         "San Diego, CA"
+
+REFERENCE            vf_op_name_05
+LANG_ENGLISH         "Fort Santa Monica, CA"
+
+REFERENCE            vf_op_name_06
+LANG_ENGLISH         "Caracas, VZ"
+
+REFERENCE            vf_op_name_07
+LANG_ENGLISH         "Caracas, VZ"
+
+REFERENCE            vf_op_name_08
+LANG_ENGLISH         "Gulf of Mexico"
+
+REFERENCE            vf_op_name_09
+LANG_ENGLISH         "Yucatan Peninsula"
+
+REFERENCE            vf_op_name_10
+LANG_ENGLISH         "The Andes, Patagonia"
+
+REFERENCE            vf_op_name_11
+LANG_ENGLISH         "Drake Passage, Antarctica"
+
+REFERENCE            vf_op_name_12
+LANG_ENGLISH         "Atlantic Ocean, South America"
+
+REFERENCE            vf_op_name_13
+LANG_ENGLISH         "North of Rio de Janeiro"
+
+REFERENCE            vf_op_name_14
+LANG_ENGLISH         "Las Vegas, NV"
+
+REFERENCE            vf_op_name_15
+LANG_ENGLISH         "U.S.S. Liberator, Pacific Ocean"
+
+REFERENCE            vf_op_name_16
+LANG_ENGLISH         "Atacama Desert, CL"
+
+REFERENCE            vf_op_name_17
+LANG_ENGLISH         "Low Earth Orbit"
+
+REFERENCE            vf_op_name_18
+LANG_ENGLISH         "Federation Supply Train"
+
+REFERENCE            vf_op_name_19
+LANG_ENGLISH         "Captain - RET."
+
+REFERENCE            vf_op_name_20
+LANG_ENGLISH         "Lieutenant - Active Duty"
+
+REFERENCE            vf_op_name_21
+LANG_ENGLISH         "Captain - Active Duty"
+
+REFERENCE            vf_op_title
+LANG_ENGLISH         "LOCATION:"
+
+REFERENCE            vf_percent_complete
+LANG_ENGLISH         "% COMPLETE"
+
+REFERENCE            vf_profile_title
+LANG_ENGLISH         "PROFILE:"
+
+REFERENCE            vf_rank_title
+LANG_ENGLISH         "RANK:"
+
+REFERENCE            view_map
+LANG_ENGLISH         "Browse Maps"
+
+REFERENCE            view_map_desc
+LANG_ENGLISH         "View unlocked Maps."
+
+REFERENCE            view_mission
+LANG_ENGLISH         "Browse Missions"
+
+REFERENCE            view_mission_desc
+LANG_ENGLISH         "View unlocked Missions."
+
+REFERENCE            view_op
+LANG_ENGLISH         "Browse Ops"
+
+REFERENCE            view_op_desc
+LANG_ENGLISH         "View unlocked Ops."
+
+REFERENCE            view_unlocked_tip
+LANG_ENGLISH         "Go to the Armory to see all unlocks"
+
+REFERENCE            waiting_for_host
+LANG_ENGLISH         "Waiting for host to start..."
+
+REFERENCE            waves_survived_pre
+LANG_ENGLISH         "WAVES SURVIVED"
+
+REFERENCE            x_additional_unlocked
+LANG_ENGLISH         "&&1 Additional Items unlocked"
+
+REFERENCE            x_additional_unlocked_singular
+LANG_ENGLISH         "&&1 Additional Item unlocked"
+
+REFERENCE            x_attachments_unlocked
+LANG_ENGLISH         "&&1 Attachments unlocked"
+
+REFERENCE            x_attachments_unlocked_singular
+LANG_ENGLISH         "&&1 Attachment unlocked"
+
+REFERENCE            x_player_perk_unlocked
+LANG_ENGLISH         "&&1 Player Perk unlocked"
+
+REFERENCE            x_slash_y_xp
+LANG_ENGLISH         "&&1/&&2 XP"
+
+REFERENCE            x_weapons_unlocked
+LANG_ENGLISH         "&&1 Weapons unlocked"
+
+REFERENCE            x_weapons_unlocked_singular
+LANG_ENGLISH         "&&1 Weapon unlocked"
+
+REFERENCE            yard_title
+LANG_ENGLISH         "Operation Blood Storm: Assault the Shipyard"
+
+REFERENCE            yolo_desc
+LANG_ENGLISH         "No checkpoints, no room for error, no mercy."
+
+REFERENCE            you_lock_op_desc
+LANG_ENGLISH         "You have not unlocked this Op. However, you can still earn XP and rank up."
+
+REFERENCE            your_level_n
+LANG_ENGLISH         "Your Level: &&1"
+
+
+ENDMARKER

@@ -1,0 +1,1071 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            30_streak_desc
+LANG_ENGLISH         "Killed 30 enemies without dying"
+
+REFERENCE            air_kill
+LANG_ENGLISH         "Jumpshot"
+
+REFERENCE            air_kill_desc
+LANG_ENGLISH         "Killed an enemy that was below you while you were in the air"
+
+REFERENCE            air_to_air_kill
+LANG_ENGLISH         "Dogfight"
+
+REFERENCE            air_to_air_kill_desc
+LANG_ENGLISH         "Killed an enemy while both of you were in the air"
+
+REFERENCE            assisted_suicide
+LANG_ENGLISH         "Assisted Suicide"
+
+REFERENCE            assisted_suicide_desc
+LANG_ENGLISH         "Did damage to a player that then killed themselves"
+
+REFERENCE            avenger
+LANG_ENGLISH         "Avenger"
+
+REFERENCE            avenger_desc
+LANG_ENGLISH         "Killed an enemy after they killed a teammate"
+
+REFERENCE            backfire
+LANG_ENGLISH         "Backfire"
+
+REFERENCE            backfire_desc
+LANG_ENGLISH         "Kill an enemy with their own weapon"
+
+REFERENCE            backstab
+LANG_ENGLISH         "Backstabber"
+
+REFERENCE            backstab_desc
+LANG_ENGLISH         "Knife an enemy in the back"
+
+REFERENCE            buzkill_desc
+LANG_ENGLISH         "Killed an enemy that was on a score streak"
+
+REFERENCE            buzzkill
+LANG_ENGLISH         "Buzzkill"
+
+REFERENCE            comeback
+LANG_ENGLISH         "Comeback"
+
+REFERENCE            comeback_desc
+LANG_ENGLISH         "Killed an enemy after you died 4 or more times"
+
+REFERENCE            cruise_predator_kill
+LANG_ENGLISH         "Good Hit"
+
+REFERENCE            double_kill
+LANG_ENGLISH         "Double Kill"
+
+REFERENCE            double_kill_desc
+LANG_ENGLISH         "Killed 2 enemies within a short time of one another"
+
+REFERENCE            eight_kill
+LANG_ENGLISH         "Ultra Kill"
+
+REFERENCE            eight_kill_desc
+LANG_ENGLISH         "Killed 8 enemies within a short time of one another"
+
+REFERENCE            explosive_stick
+LANG_ENGLISH         "Stick"
+
+REFERENCE            explosive_stick_desc
+LANG_ENGLISH         "Stuck and killed an enemy with an explosive"
+
+REFERENCE            first_place_kill
+LANG_ENGLISH         "Kingslayer"
+
+REFERENCE            first_place_kill_desc
+LANG_ENGLISH         "Kill an enemy that is on top of the scoreboard"
+
+REFERENCE            firstblood
+LANG_ENGLISH         "First Blood"
+
+REFERENCE            firstblood_desc
+LANG_ENGLISH         "Got the first kill of a match"
+
+REFERENCE            fist_kill
+LANG_ENGLISH         "Knockout"
+
+REFERENCE            fist_kill_desc
+LANG_ENGLISH         "Killed an enemy by hitting them with your plain fists"
+
+REFERENCE            five_kill
+LANG_ENGLISH         "Frenzy Kill"
+
+REFERENCE            five_kill_desc
+LANG_ENGLISH         "Killed 5 enemies within a short time of one another"
+
+REFERENCE            four_kill
+LANG_ENGLISH         "Fury Kill"
+
+REFERENCE            four_kill_desc
+LANG_ENGLISH         "Killed 4 enemies within a short time of one another"
+
+REFERENCE            grenade_double
+LANG_ENGLISH         "Popcorn"
+
+REFERENCE            grenade_double_desc
+LANG_ENGLISH         "Killed 2 or more enemies with a single explosive."
+
+REFERENCE            gun_butt
+LANG_ENGLISH         "Nosebreaker"
+
+REFERENCE            gun_butt_desc
+LANG_ENGLISH         "Killed an enemy with a Gun Butt"
+
+REFERENCE            hack_package_kill
+LANG_ENGLISH         "Bait Taken"
+
+REFERENCE            hack_package_kill_desc
+LANG_ENGLISH         "Killed an enemy with a hacked Drone Package"
+
+REFERENCE            headshot
+LANG_ENGLISH         "Headshot"
+
+REFERENCE            headshot_desc
+LANG_ENGLISH         "Killed an enemy by shooting them in the head"
+
+REFERENCE            item_impact
+LANG_ENGLISH         "Bonk"
+
+REFERENCE            item_impact_desc
+LANG_ENGLISH         "Killed an enemy with direct impact from equipment"
+
+REFERENCE            kill_apc_rus
+LANG_ENGLISH         "Easy as APC"
+
+REFERENCE            kill_apc_rus_desc
+LANG_ENGLISH         "Destroyed an enemy APC"
+
+REFERENCE            kill_jumper
+LANG_ENGLISH         "Grounded"
+
+REFERENCE            kill_jumper_desc
+LANG_ENGLISH         "Killed an enemy that was in the air"
+
+REFERENCE            kill_ss_ac130
+LANG_ENGLISH         "Boss Battle"
+
+REFERENCE            kill_ss_ac130_desc
+LANG_ENGLISH         "Destroyed an enemy Gunship"
+
+REFERENCE            kill_ss_bradley
+LANG_ENGLISH         "Bunker Buster"
+
+REFERENCE            kill_ss_bradley_desc
+LANG_ENGLISH         "Destroyed an enemy Infantry Assault Vehicle"
+
+REFERENCE            kill_ss_chopper_gunner
+LANG_ENGLISH         "Mayday"
+
+REFERENCE            kill_ss_chopper_gunner_desc
+LANG_ENGLISH         "Destroyed an enemy Chopper Gunner"
+
+REFERENCE            kill_ss_chopper_support
+LANG_ENGLISH         "Helo Down"
+
+REFERENCE            kill_ss_chopper_support_desc
+LANG_ENGLISH         "Shot down an enemy Support Helo"
+
+REFERENCE            kill_ss_counter_uav
+LANG_ENGLISH         "Fuzzbuster"
+
+REFERENCE            kill_ss_counter_uav_desc
+LANG_ENGLISH         "Destroyed an enemy Counter UAV"
+
+REFERENCE            kill_ss_cruise_predator
+LANG_ENGLISH         "Interceptor"
+
+REFERENCE            kill_ss_cruise_predator_desc
+LANG_ENGLISH         "Destroyed an enemy Cruise Missile"
+
+REFERENCE            kill_ss_directional_uav
+LANG_ENGLISH         "Blinded"
+
+REFERENCE            kill_ss_directional_uav_desc
+LANG_ENGLISH         "Destroyed an enemy Advanced UAV"
+
+REFERENCE            kill_ss_dronedrop
+LANG_ENGLISH         "No Tip"
+
+REFERENCE            kill_ss_dronedrop_desc
+LANG_ENGLISH         "Destroyed an enemy Drone Package"
+
+REFERENCE            kill_ss_flash_turret
+LANG_ENGLISH         "Killer Shades"
+
+REFERENCE            kill_ss_flash_turret_desc
+LANG_ENGLISH         "Destroyed an enemy Detection Turret"
+
+REFERENCE            kill_ss_fuel_airstrike
+LANG_ENGLISH         "Fuel Leak"
+
+REFERENCE            kill_ss_fuel_airstrike_desc
+LANG_ENGLISH         "Destroyed an enemy Fuel Airstrike"
+
+REFERENCE            kill_ss_hover_jet
+LANG_ENGLISH         "Hunter"
+
+REFERENCE            kill_ss_hover_jet_desc
+LANG_ENGLISH         "Shot down an enemy VTOL Jet"
+
+REFERENCE            kill_ss_jackal
+LANG_ENGLISH         "Flyswatter"
+
+REFERENCE            kill_ss_jackal_desc
+LANG_ENGLISH         "Destroyed an enemy Warden"
+
+REFERENCE            kill_ss_manual_turret
+LANG_ENGLISH         "Scrapped"
+
+REFERENCE            kill_ss_manual_turret_desc
+LANG_ENGLISH         "Destroyed an enemy Shield Turret"
+
+REFERENCE            kill_ss_multi_airstrike
+LANG_ENGLISH         "AA Gun"
+
+REFERENCE            kill_ss_multi_airstrike_desc
+LANG_ENGLISH         "Destroyed an enemy Multi Strike"
+
+REFERENCE            kill_ss_pac_sentry
+LANG_ENGLISH         "Breakdown"
+
+REFERENCE            kill_ss_pac_sentry_desc
+LANG_ENGLISH         "Destroyed an enemy Wheelson"
+
+REFERENCE            kill_ss_radar_drone
+LANG_ENGLISH         "Cut Off"
+
+REFERENCE            kill_ss_radar_drone_desc
+LANG_ENGLISH         "Destroyed an enemy Personal Radar"
+
+REFERENCE            kill_ss_recon_drone
+LANG_ENGLISH         "Counter Espionage"
+
+REFERENCE            kill_ss_recon_drone_desc
+LANG_ENGLISH         "Shot down an enemy Recon Drone"
+
+REFERENCE            kill_ss_scrambler_drone
+LANG_ENGLISH         "Clear Skies"
+
+REFERENCE            kill_ss_scrambler_drone_desc
+LANG_ENGLISH         "Destroyed an enemy Counter UAV"
+
+REFERENCE            kill_ss_sentry_gun
+LANG_ENGLISH         "Scrapped"
+
+REFERENCE            kill_ss_sentry_gun_desc
+LANG_ENGLISH         "Destroyed an enemy Sentry Gun"
+
+REFERENCE            kill_ss_support_box
+LANG_ENGLISH         "Blockade"
+
+REFERENCE            kill_ss_support_box_desc
+LANG_ENGLISH         "Destroyed an enemy Munitions Box"
+
+REFERENCE            kill_ss_toma_strike
+LANG_ENGLISH         "Missile Defense"
+
+REFERENCE            kill_ss_toma_strike_desc
+LANG_ENGLISH         "Destroyed an enemy Cluster Strike"
+
+REFERENCE            kill_ss_trinity
+LANG_ENGLISH         "Intercepted"
+
+REFERENCE            kill_ss_trinity_desc
+LANG_ENGLISH         "Destroyed an enemy Trinity Rocket"
+
+REFERENCE            kill_ss_uav
+LANG_ENGLISH         "Blackout"
+
+REFERENCE            kill_ss_uav_desc
+LANG_ENGLISH         "Destroyed an enemy UAV"
+
+REFERENCE            kill_ss_venom
+LANG_ENGLISH         "Road Rage"
+
+REFERENCE            kill_ss_venom_desc
+LANG_ENGLISH         "Destroyed an enemy Scarab"
+
+REFERENCE            kill_wallrunner
+LANG_ENGLISH         "Wallbuster"
+
+REFERENCE            kill_wallrunner_desc
+LANG_ENGLISH         "Killed an enemy that was wallrunning"
+
+REFERENCE            knife_bounce
+LANG_ENGLISH         "Bankshot"
+
+REFERENCE            knife_bounce_desc
+LANG_ENGLISH         "Killed by bouncing your throwable weapon off of a surface"
+
+REFERENCE            launcher_direct_hit
+LANG_ENGLISH         "Direct Hit"
+
+REFERENCE            launcher_direct_hit_desc
+LANG_ENGLISH         "Hit and killed an enemy with a missile!"
+
+REFERENCE            longshot
+LANG_ENGLISH         "Longshot"
+
+REFERENCE            longshot_desc
+LANG_ENGLISH         "Killed an enemy with a long distance shot"
+
+REFERENCE            low_health_kill
+LANG_ENGLISH         "Survivor"
+
+REFERENCE            low_health_kill_desc
+LANG_ENGLISH         "Killed an enemy while severely injured"
+
+REFERENCE            mantle_kill
+LANG_ENGLISH         "Multitasker"
+
+REFERENCE            mantle_kill_desc
+LANG_ENGLISH         "Killed an enemy while mantling over something"
+
+REFERENCE            match_complete
+LANG_ENGLISH         "Honorable"
+
+REFERENCE            match_complete_desc
+LANG_ENGLISH         "Completed a match"
+
+REFERENCE            match_complete_win
+LANG_ENGLISH         "Victor"
+
+REFERENCE            match_complete_win_desc
+LANG_ENGLISH         "Completed a match with a victory"
+
+REFERENCE            medals_mp_kill_ss_emp_drone
+LANG_ENGLISH         "No Fly Zone"
+
+REFERENCE            medals_mp_kill_ss_emp_drone_desc
+LANG_ENGLISH         "Destroyed an enemy EMP Drone"
+
+REFERENCE            mo_money
+LANG_ENGLISH         "Mo' Money"
+
+REFERENCE            mo_money_desc
+LANG_ENGLISH         "Got a kill with a Mo' Money loot weapon"
+
+REFERENCE            mode_ctf_cap
+LANG_ENGLISH         "Playmaker"
+
+REFERENCE            mode_ctf_cap_desc
+LANG_ENGLISH         "Captured the flag"
+
+REFERENCE            mode_ctf_kill_carrier
+LANG_ENGLISH         "Takedown"
+
+REFERENCE            mode_ctf_kill_carrier_desc
+LANG_ENGLISH         "Killed the enemy flag carrier"
+
+REFERENCE            mode_ctf_kill_with_flag
+LANG_ENGLISH         "Denied"
+
+REFERENCE            mode_ctf_kill_with_flag_desc
+LANG_ENGLISH         "Killed an enemy while carrying the flag"
+
+REFERENCE            mode_ctf_nope
+LANG_ENGLISH         "Nope"
+
+REFERENCE            mode_ctf_nope_desc
+LANG_ENGLISH         "Killed the flag carrier when they are very close to capturing and returned the flag"
+
+REFERENCE            mode_cyber_kill_carrier
+LANG_ENGLISH         "Firewall"
+
+REFERENCE            mode_cyber_kill_carrier_desc
+LANG_ENGLISH         "Killed the enemy EMP carrier"
+
+REFERENCE            mode_cyber_kill_with_emp
+LANG_ENGLISH         "Virus"
+
+REFERENCE            mode_cyber_kill_with_emp_desc
+LANG_ENGLISH         "Killed an enemy while holding the EMP"
+
+REFERENCE            mode_dom_assault
+LANG_ENGLISH         "Assault"
+
+REFERENCE            mode_dom_assault_desc
+LANG_ENGLISH         "Take a Domination Objective by force"
+
+REFERENCE            mode_dom_neutralized
+LANG_ENGLISH         "Neutralized"
+
+REFERENCE            mode_dom_neutralized_cap
+LANG_ENGLISH         "Neutral Secure"
+
+REFERENCE            mode_dom_neutralized_cap_desc
+LANG_ENGLISH         "Captured a neutralized flag in Domination"
+
+REFERENCE            mode_dom_neutralized_desc
+LANG_ENGLISH         "Enemy flag neutralized"
+
+REFERENCE            mode_dom_secure
+LANG_ENGLISH         "Secure"
+
+REFERENCE            mode_dom_secure_b
+LANG_ENGLISH         "Opening Move"
+
+REFERENCE            mode_dom_secure_b_desc
+LANG_ENGLISH         "Secure the neutral B flag in Domination"
+
+REFERENCE            mode_dom_secure_desc
+LANG_ENGLISH         "Secure the flag in Domination"
+
+REFERENCE            mode_dom_secure_neutral
+LANG_ENGLISH         "Kickoff"
+
+REFERENCE            mode_dom_secure_neutral_desc
+LANG_ENGLISH         "Captured a previously uncaptured flag in Domination"
+
+REFERENCE            mode_gun_melee
+LANG_ENGLISH         "Humiliation"
+
+REFERENCE            mode_gun_melee_1st_place
+LANG_ENGLISH         "Regicide"
+
+REFERENCE            mode_gun_melee_1st_place_desc
+LANG_ENGLISH         "Melee killed the player with the highest score in Gun Game"
+
+REFERENCE            mode_gun_melee_desc
+LANG_ENGLISH         "Killed an enemy with melee in Gun Game"
+
+REFERENCE            mode_gun_quick_kill
+LANG_ENGLISH         "Gunslinger"
+
+REFERENCE            mode_gun_quick_kill_desc
+LANG_ENGLISH         "Killed an enemy within 5 seconds of equipping a new weapon in Gun Game"
+
+REFERENCE            mode_hp_assault
+LANG_ENGLISH         "Cleared"
+
+REFERENCE            mode_hp_assault_desc
+LANG_ENGLISH         "Take a Hardpoint objective by force"
+
+REFERENCE            mode_hp_quick_cap
+LANG_ENGLISH         "Forward Position"
+
+REFERENCE            mode_hp_quick_cap_desc
+LANG_ENGLISH         "Quickly capture a hardpoint immediately after your team owned the last hardpoint"
+
+REFERENCE            mode_hp_secure
+LANG_ENGLISH         "Locked Down"
+
+REFERENCE            mode_hp_secure_desc
+LANG_ENGLISH         "Secured the Hardpoint"
+
+REFERENCE            mode_kc_3_tags
+LANG_ENGLISH         "Cleanup"
+
+REFERENCE            mode_kc_3_tags_desc
+LANG_ENGLISH         "Collect 3 tags in rapid succession"
+
+REFERENCE            mode_kc_own_tags
+LANG_ENGLISH         "Retrieved"
+
+REFERENCE            mode_kc_own_tags_desc
+LANG_ENGLISH         "Retrieved your own tags"
+
+REFERENCE            mode_sd_defuse
+LANG_ENGLISH         "Hero"
+
+REFERENCE            mode_sd_defuse_desc
+LANG_ENGLISH         "Defuse the bomb"
+
+REFERENCE            mode_sd_defuse_save
+LANG_ENGLISH         "Still Online"
+
+REFERENCE            mode_sd_defuse_save_desc
+LANG_ENGLISH         "Killed the enemy while they were defusing the bomb"
+
+REFERENCE            mode_sd_detonate
+LANG_ENGLISH         "Bomber"
+
+REFERENCE            mode_sd_detonate_desc
+LANG_ENGLISH         "Detonated the bomb"
+
+REFERENCE            mode_sd_last_defuse
+LANG_ENGLISH         "Clutch"
+
+REFERENCE            mode_sd_last_defuse_desc
+LANG_ENGLISH         "Defused the bomb when you were the last player alive"
+
+REFERENCE            mode_sd_plant_save
+LANG_ENGLISH         "Task Force"
+
+REFERENCE            mode_sd_plant_save_desc
+LANG_ENGLISH         "Killed an enemy while they were planting the bomb"
+
+REFERENCE            mode_siege_secure
+LANG_ENGLISH         "Reinforced"
+
+REFERENCE            mode_siege_secure_desc
+LANG_ENGLISH         "Secure the flag in Reinforce"
+
+REFERENCE            mode_x_assault
+LANG_ENGLISH         "Assault"
+
+REFERENCE            mode_x_assault_desc
+LANG_ENGLISH         "Killed an enemy near an objective controlled by the enemy team"
+
+REFERENCE            mode_x_clear
+LANG_ENGLISH         "Wipeout"
+
+REFERENCE            mode_x_clear_desc
+LANG_ENGLISH         "Clear your objective of 2 or more enemies"
+
+REFERENCE            mode_x_defend
+LANG_ENGLISH         "Defend"
+
+REFERENCE            mode_x_defend_desc
+LANG_ENGLISH         "Killed an enemy near an objective controlled by your team"
+
+REFERENCE            mode_x_eliminate
+LANG_ENGLISH         "Elimination"
+
+REFERENCE            mode_x_eliminate_desc
+LANG_ENGLISH         "Killed an enemy in Search and Destroy or Reinforce"
+
+REFERENCE            mode_x_last_alive
+LANG_ENGLISH         "Last Man Standing"
+
+REFERENCE            mode_x_last_alive_desc
+LANG_ENGLISH         "Eliminate the last enemy when you are the last player alive"
+
+REFERENCE            mode_x_wipeout
+LANG_ENGLISH         "Wipeout"
+
+REFERENCE            mode_x_wipeout_desc
+LANG_ENGLISH         "Clear your objective of two or more enemies"
+
+REFERENCE            multi_kill
+LANG_ENGLISH         "Kill Chain"
+
+REFERENCE            multi_kill_desc
+LANG_ENGLISH         "Killed 9 or more enemies within a short time of one another"
+
+REFERENCE            one_shot_kill
+LANG_ENGLISH         "One Shot, One Kill"
+
+REFERENCE            one_shot_kill_desc
+LANG_ENGLISH         "Killed an enemy with a single bullet"
+
+REFERENCE            one_shot_two_kills
+LANG_ENGLISH         "Collateral"
+
+REFERENCE            one_shot_two_kills_desc
+LANG_ENGLISH         "Killed two enemies with a single bullet"
+
+REFERENCE            pointblank
+LANG_ENGLISH         "Point Blank"
+
+REFERENCE            pointblank_desc
+LANG_ENGLISH         "Killed an enemy from a very short distance"
+
+REFERENCE            posthumous
+LANG_ENGLISH         "Afterlife"
+
+REFERENCE            posthumous_desc
+LANG_ENGLISH         "Kill an enemy after you have died"
+
+REFERENCE            quad_feed
+LANG_ENGLISH         "Quad Feed"
+
+REFERENCE            quad_feed_desc
+LANG_ENGLISH         "Got 4 uninterrupted kills to appear in the obituary feed"
+
+REFERENCE            revenge
+LANG_ENGLISH         "Revenge"
+
+REFERENCE            revenge_desc
+LANG_ENGLISH         "Killed the enemy who last killed you"
+
+REFERENCE            rock_paper_scissors_win
+LANG_ENGLISH         "Champion"
+
+REFERENCE            rock_paper_scissors_win_desc
+LANG_ENGLISH         "Won a match of Rock, Paper, Scissors"
+
+REFERENCE            save_teammate
+LANG_ENGLISH         "Savior"
+
+REFERENCE            save_teammate_desc
+LANG_ENGLISH         "Killed an enemy who was injuring a teammate"
+
+REFERENCE            savior
+LANG_ENGLISH         "Savior"
+
+REFERENCE            savior_desc
+LANG_ENGLISH         "Killed an enemy who was attacking an ally"
+
+REFERENCE            seven_kill
+LANG_ENGLISH         "Mega Kill"
+
+REFERENCE            seven_kill_desc
+LANG_ENGLISH         "Killed 7 enemies within a short time of one another"
+
+REFERENCE            simultaneous_kill
+LANG_ENGLISH         "Trade"
+
+REFERENCE            simultaneous_kill_desc
+LANG_ENGLISH         "Killed a player at the same moment that they killed you"
+
+REFERENCE            six_kill
+LANG_ENGLISH         "Super Kill"
+
+REFERENCE            six_kill_desc
+LANG_ENGLISH         "Killed 6 enemies within a short time of one another"
+
+REFERENCE            slide_kill
+LANG_ENGLISH         "Low Blow"
+
+REFERENCE            slide_kill_desc
+LANG_ENGLISH         "Killed an enemy while sliding"
+
+REFERENCE            ss_kill_ac130
+LANG_ENGLISH         "Raining Death"
+
+REFERENCE            ss_kill_ac130_desc
+LANG_ENGLISH         "Your Gunship killed an enemy"
+
+REFERENCE            ss_kill_ball_drone_backup
+LANG_ENGLISH         "Covering Fire"
+
+REFERENCE            ss_kill_ball_drone_backup_desc
+LANG_ENGLISH         "Your Vulture killed an enemy"
+
+REFERENCE            ss_kill_bombardment
+LANG_ENGLISH         "From Orbit"
+
+REFERENCE            ss_kill_bombardment_desc
+LANG_ENGLISH         "You killed an enemy with a Bombardment"
+
+REFERENCE            ss_kill_chopper_gunner
+LANG_ENGLISH         "Chopped Down"
+
+REFERENCE            ss_kill_chopper_gunner_desc
+LANG_ENGLISH         "Your Chopper Gunner killed an enemy"
+
+REFERENCE            ss_kill_chopper_support
+LANG_ENGLISH         "Twin Fire"
+
+REFERENCE            ss_kill_chopper_support_desc
+LANG_ENGLISH         "Killed an enemy with your Support Helo"
+
+REFERENCE            ss_kill_cruise_predator
+LANG_ENGLISH         "Death from Above"
+
+REFERENCE            ss_kill_cruise_predator_desc
+LANG_ENGLISH         "Your Cruise Missile killed an enemy"
+
+REFERENCE            ss_kill_death_switch
+LANG_ENGLISH         "Death Switch Kill"
+
+REFERENCE            ss_kill_death_switch_desc
+LANG_ENGLISH         "Killed an enemy with your Death Switch"
+
+REFERENCE            ss_kill_flash_turret
+LANG_ENGLISH         "Blinding Light"
+
+REFERENCE            ss_kill_flash_turret_desc
+LANG_ENGLISH         "Your Detection Turret killed an enemy"
+
+REFERENCE            ss_kill_fuel_airstrike
+LANG_ENGLISH         "On Fire"
+
+REFERENCE            ss_kill_fuel_airstrike_desc
+LANG_ENGLISH         "Your Fuel Bomb Airstrike killed an enemy"
+
+REFERENCE            ss_kill_hover_jet
+LANG_ENGLISH         "Covering Fire"
+
+REFERENCE            ss_kill_hover_jet_desc
+LANG_ENGLISH         "Killed an enemy with your VTOL Jet"
+
+REFERENCE            ss_kill_jackal
+LANG_ENGLISH         "Air Support"
+
+REFERENCE            ss_kill_jackal_desc
+LANG_ENGLISH         "Your Warden killed an enemy"
+
+REFERENCE            ss_kill_juggernaut
+LANG_ENGLISH         "Pew Pew"
+
+REFERENCE            ss_kill_juggernaut_desc
+LANG_ENGLISH         "Your Juggernaut killed an enemy"
+
+REFERENCE            ss_kill_light_tank
+LANG_ENGLISH         "Bigger Gun"
+
+REFERENCE            ss_kill_light_tank_desc
+LANG_ENGLISH         "Your Infantry Assault Vehicle killed an enemy"
+
+REFERENCE            ss_kill_manual_turret
+LANG_ENGLISH         "Spearhead"
+
+REFERENCE            ss_kill_manual_turret_desc
+LANG_ENGLISH         "Your Shield Turret killed an enemy"
+
+REFERENCE            ss_kill_minijackal
+LANG_ENGLISH         "Predator"
+
+REFERENCE            ss_kill_minijackal_desc
+LANG_ENGLISH         "You killed an enemy with the AP-3X"
+
+REFERENCE            ss_kill_multi_airstrike
+LANG_ENGLISH         "Swiss Cheese 2"
+
+REFERENCE            ss_kill_multi_airstrike_desc
+LANG_ENGLISH         "Your Multi Airstrike killed an enemy"
+
+REFERENCE            ss_kill_pac_sentry
+LANG_ENGLISH         "Rock and Roll"
+
+REFERENCE            ss_kill_pac_sentry_desc
+LANG_ENGLISH         "Your Wheelson killed an enemy"
+
+REFERENCE            ss_kill_precision_airstrike
+LANG_ENGLISH         "Strike Delivered"
+
+REFERENCE            ss_kill_precision_airstrike_desc
+LANG_ENGLISH         "Killed an enemy with Precision Airstrike"
+
+REFERENCE            ss_kill_sentry_gun
+LANG_ENGLISH         "Crackdown"
+
+REFERENCE            ss_kill_sentry_gun_desc
+LANG_ENGLISH         "Your Sentry Gun killed an enemy"
+
+REFERENCE            ss_kill_thor
+LANG_ENGLISH         "Thunderstorm"
+
+REFERENCE            ss_kill_thor_desc
+LANG_ENGLISH         "You killed an enemy with the T.H.O.R."
+
+REFERENCE            ss_kill_toma_strike
+LANG_ENGLISH         "Bombastic"
+
+REFERENCE            ss_kill_toma_strike_desc
+LANG_ENGLISH         "Your Cluster Strike killed an enemy"
+
+REFERENCE            ss_kill_trinity
+LANG_ENGLISH         "Raining Death"
+
+REFERENCE            ss_kill_trinity_desc
+LANG_ENGLISH         "Killed an enemy with the Trinity Rocket"
+
+REFERENCE            ss_kill_venom
+LANG_ENGLISH         "Boom!"
+
+REFERENCE            ss_kill_venom_desc
+LANG_ENGLISH         "Killed an enemy with the Scarab"
+
+REFERENCE            ss_kill_white_phosphorus
+LANG_ENGLISH         "Burned Down"
+
+REFERENCE            ss_kill_white_phosphorus_desc
+LANG_ENGLISH         "Your White Phosphorus killed an enemy"
+
+REFERENCE            ss_use_dronedrop
+LANG_ENGLISH         "Good Citizen"
+
+REFERENCE            ss_use_dronedrop_desc
+LANG_ENGLISH         "Shared a Drone Package"
+
+REFERENCE            ss_use_enemy_dronedrop
+LANG_ENGLISH         "Hijacker"
+
+REFERENCE            ss_use_enemy_dronedrop_desc
+LANG_ENGLISH         "Stole an enemy Drone Package"
+
+REFERENCE            streak_10
+LANG_ENGLISH         "Merciless"
+
+REFERENCE            streak_10_desc
+LANG_ENGLISH         "Killed 10 enemies without dying"
+
+REFERENCE            streak_15
+LANG_ENGLISH         "Ruthless"
+
+REFERENCE            streak_15_desc
+LANG_ENGLISH         "Killed 15 enemies without dying"
+
+REFERENCE            streak_20
+LANG_ENGLISH         "Relentless"
+
+REFERENCE            streak_20_desc
+LANG_ENGLISH         "Killed 20 enemies without dying"
+
+REFERENCE            streak_25
+LANG_ENGLISH         "Brutal"
+
+REFERENCE            streak_25_desc
+LANG_ENGLISH         "Killed 25 enemies without dying"
+
+REFERENCE            streak_30
+LANG_ENGLISH         "Juggernaut"
+
+REFERENCE            streak_5
+LANG_ENGLISH         "Bloodthirsty"
+
+REFERENCE            streak_5_desc
+LANG_ENGLISH         "Killed 5 enemies without dying"
+
+REFERENCE            streak_max
+LANG_ENGLISH         "Unstoppable"
+
+REFERENCE            streak_max_desc
+LANG_ENGLISH         "Killed 31+ enemies without dying"
+
+REFERENCE            stunned_kill
+LANG_ENGLISH         "Shake it Off"
+
+REFERENCE            stunned_kill_desc
+LANG_ENGLISH         "Killed an enemy while blinded or stunned"
+
+REFERENCE            super_kill_amplify
+LANG_ENGLISH         "Calculated"
+
+REFERENCE            super_kill_amplify_desc
+LANG_ENGLISH         "Killed an enemy while using Combat Focus"
+
+REFERENCE            super_kill_armmgs
+LANG_ENGLISH         "No Hands"
+
+REFERENCE            super_kill_armmgs_desc
+LANG_ENGLISH         "Killed 2 enemies rapidly with the Equalizer"
+
+REFERENCE            super_kill_armorup
+LANG_ENGLISH         "Impervious"
+
+REFERENCE            super_kill_armorup_desc
+LANG_ENGLISH         "Killed an enemy while using Reactive Armor"
+
+REFERENCE            super_kill_atomizer
+LANG_ENGLISH         "Mystified"
+
+REFERENCE            super_kill_atomizer_desc
+LANG_ENGLISH         "Killed 2 enemies rapidly with the Eraser"
+
+REFERENCE            super_kill_blackholegun
+LANG_ENGLISH         "Supermassive"
+
+REFERENCE            super_kill_blackholegun_desc
+LANG_ENGLISH         "Killed 2 enemies rapidly with the Gravity Vortex Gun"
+
+REFERENCE            super_kill_bull_charge
+LANG_ENGLISH         "Unstoppable Force"
+
+REFERENCE            super_kill_bull_charge_desc
+LANG_ENGLISH         "Killed an enemy while using Bull Charge"
+
+REFERENCE            super_kill_claw
+LANG_ENGLISH         "Lead Thrower"
+
+REFERENCE            super_kill_claw_desc
+LANG_ENGLISH         "Killed 2 enemies rapidly with the Claw"
+
+REFERENCE            super_kill_invisible
+LANG_ENGLISH         "Wraith"
+
+REFERENCE            super_kill_invisible_desc
+LANG_ENGLISH         "Killed an enemy while using Active Camouflage"
+
+REFERENCE            super_kill_microturret
+LANG_ENGLISH         "Proxy Kill"
+
+REFERENCE            super_kill_microturret_desc
+LANG_ENGLISH         "Killed an enemy with your Micro Turret"
+
+REFERENCE            super_kill_overdrive
+LANG_ENGLISH         "Amped Up"
+
+REFERENCE            super_kill_overdrive_desc
+LANG_ENGLISH         "Killed an enemy while using Overdrive"
+
+REFERENCE            super_kill_penetrationrailgun
+LANG_ENGLISH         "Nailed It"
+
+REFERENCE            super_kill_penetrationrailgun_desc
+LANG_ENGLISH         "Killed 2 enemies rapidly with the Ballista"
+
+REFERENCE            super_kill_phaseshift
+LANG_ENGLISH         "Surprise"
+
+REFERENCE            super_kill_phaseshift_desc
+LANG_ENGLISH         "Killed an enemy while in Phase Shift or shortly after exiting Phase Shift"
+
+REFERENCE            super_kill_reaper
+LANG_ENGLISH         "Hunter"
+
+REFERENCE            super_kill_reaper_desc
+LANG_ENGLISH         "Killed an enemy with the Synaptic's Reaper"
+
+REFERENCE            super_kill_rewind
+LANG_ENGLISH         "D??j?? vu"
+
+REFERENCE            super_kill_rewind_desc
+LANG_ENGLISH         "Killed an enemy while using Rewind"
+
+REFERENCE            super_kill_steeldragon
+LANG_ENGLISH         "Twin Snake"
+
+REFERENCE            super_kill_steeldragon_desc
+LANG_ENGLISH         "Killed 2 enemies rapidly with the Steel Dragon"
+
+REFERENCE            super_kill_supertrophy
+LANG_ENGLISH         "Lockdown"
+
+REFERENCE            super_kill_supertrophy_desc
+LANG_ENGLISH         "Your Centurion destroyed a piece of equipment"
+
+REFERENCE            super_kill_teleport
+LANG_ENGLISH         "Blink"
+
+REFERENCE            super_kill_teleport_desc
+LANG_ENGLISH         "Kill an enemy shortly after using FTL Jump"
+
+REFERENCE            super_kill_visionpulse
+LANG_ENGLISH         "Omniscient"
+
+REFERENCE            super_kill_visionpulse_desc
+LANG_ENGLISH         "Killed an enemy while using Pulsar"
+
+REFERENCE            super_shutdown_amplify
+LANG_ENGLISH         "Scatterbrained"
+
+REFERENCE            super_shutdown_amplify_desc
+LANG_ENGLISH         "Killed an enemy who was using Combat Focus"
+
+REFERENCE            super_shutdown_armmgs
+LANG_ENGLISH         "Short Circuit"
+
+REFERENCE            super_shutdown_armmgs_desc
+LANG_ENGLISH         "Killed an enemy who was using the Equalizer"
+
+REFERENCE            super_shutdown_armorup
+LANG_ENGLISH         "A.P."
+
+REFERENCE            super_shutdown_armorup_desc
+LANG_ENGLISH         "Killed an enemy who was using Reactive Armor"
+
+REFERENCE            super_shutdown_atomizer
+LANG_ENGLISH         "Duelist"
+
+REFERENCE            super_shutdown_atomizer_desc
+LANG_ENGLISH         "Killed an enemy who was using the Eraser"
+
+REFERENCE            super_shutdown_blackholegun
+LANG_ENGLISH         "Anti-Grav"
+
+REFERENCE            super_shutdown_blackholegun_desc
+LANG_ENGLISH         "Killed an enemy who was using the Gravity Vortex Gun"
+
+REFERENCE            super_shutdown_bull_charge
+LANG_ENGLISH         "Matador"
+
+REFERENCE            super_shutdown_bull_charge_desc
+LANG_ENGLISH         "Killed an enemy who was using Bull Charge"
+
+REFERENCE            super_shutdown_claw
+LANG_ENGLISH         "Not Afraid"
+
+REFERENCE            super_shutdown_claw_desc
+LANG_ENGLISH         "Killed an enemy who was using the Claw"
+
+REFERENCE            super_shutdown_invisible
+LANG_ENGLISH         "I See You"
+
+REFERENCE            super_shutdown_invisible_desc
+LANG_ENGLISH         "Killed an enemy who was using Active Camouflage"
+
+REFERENCE            super_shutdown_microturret
+LANG_ENGLISH         "RMA"
+
+REFERENCE            super_shutdown_microturret_desc
+LANG_ENGLISH         "Killed an enemy's Micro Turret"
+
+REFERENCE            super_shutdown_overdrive
+LANG_ENGLISH         "Slow Down"
+
+REFERENCE            super_shutdown_overdrive_desc
+LANG_ENGLISH         "Killed an enemy who was using Overdrive"
+
+REFERENCE            super_shutdown_penetrationrailgun
+LANG_ENGLISH         "Railed"
+
+REFERENCE            super_shutdown_penetrationrailgun_desc
+LANG_ENGLISH         "Killed an enemy who was using the Ballista"
+
+REFERENCE            super_shutdown_phaseshift
+LANG_ENGLISH         "Out of Phase"
+
+REFERENCE            super_shutdown_phaseshift_desc
+LANG_ENGLISH         "Killed an enemy who was in Phase Shift or had recently exited Phase Shift"
+
+REFERENCE            super_shutdown_reaper
+LANG_ENGLISH         "Poacher"
+
+REFERENCE            super_shutdown_reaper_desc
+LANG_ENGLISH         "Killed an enemy who was using the Reaper"
+
+REFERENCE            super_shutdown_rewind
+LANG_ENGLISH         "Unwound"
+
+REFERENCE            super_shutdown_rewind_desc
+LANG_ENGLISH         "Killed an enemy who was using Rewind"
+
+REFERENCE            super_shutdown_steeldragon
+LANG_ENGLISH         "Dragon Slayer"
+
+REFERENCE            super_shutdown_steeldragon_desc
+LANG_ENGLISH         "Killed an enemy who was using the Steel Dragon"
+
+REFERENCE            super_shutdown_supertrophy
+LANG_ENGLISH         "Decimator"
+
+REFERENCE            super_shutdown_supertrophy_desc
+LANG_ENGLISH         "Killed an enemy's Centurion"
+
+REFERENCE            super_shutdown_teleport
+LANG_ENGLISH         "Didn't Blink"
+
+REFERENCE            super_shutdown_teleport_desc
+LANG_ENGLISH         "Killed an enemy shortly after they used FTL Jump"
+
+REFERENCE            super_shutdown_visionpulse
+LANG_ENGLISH         "Tag Back"
+
+REFERENCE            super_shutdown_visionpulse_desc
+LANG_ENGLISH         "Killed an enemy who tagged you with Pulsar"
+
+REFERENCE            throwback_kill
+LANG_ENGLISH         "Return To Sender"
+
+REFERENCE            throwback_kill_desc
+LANG_ENGLISH         "Killed an enemy with their own grenade by throwing it back at them"
+
+REFERENCE            throwingknife_kill
+LANG_ENGLISH         "Surgical"
+
+REFERENCE            throwingknife_kill_desc
+LANG_ENGLISH         "Killed an enemy with a Throwing Knife"
+
+REFERENCE            triple_kill
+LANG_ENGLISH         "Triple Kill"
+
+REFERENCE            triple_kill_desc
+LANG_ENGLISH         "Killed 3 enemies within a short time of one another"
+
+REFERENCE            wallrun_kill
+LANG_ENGLISH         "Smackdown"
+
+REFERENCE            wallrun_kill_desc
+LANG_ENGLISH         "Killed an enemy while you were wallrunning"
+
+
+ENDMARKER

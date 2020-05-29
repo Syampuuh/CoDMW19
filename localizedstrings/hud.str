@@ -1,0 +1,360 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ability_warning
+LANG_ENGLISH         "Warning"
+
+REFERENCE            ballistics
+LANG_ENGLISH         "Ballistics"
+
+REFERENCE            boost
+LANG_ENGLISH         "[ B O O S T ]"
+
+REFERENCE            bradley_accelerate
+LANG_ENGLISH         "Accelerate"
+
+REFERENCE            bradley_aim
+LANG_ENGLISH         "Aim"
+
+REFERENCE            bradley_ammo
+LANG_ENGLISH         "Rounds: &&1"
+
+REFERENCE            bradley_ammo_empty
+LANG_ENGLISH         "Reloading"
+
+REFERENCE            bradley_ammo_low
+LANG_ENGLISH         "Low Ammo"
+
+REFERENCE            bradley_destruct_warning
+LANG_ENGLISH         "Self Destruct Imminent"
+
+REFERENCE            bradley_driver_label
+LANG_ENGLISH         "Bradley Tank - Driver"
+
+REFERENCE            bradley_exit_switch_driver
+LANG_ENGLISH         "[HOLD] Exit"
+
+REFERENCE            bradley_exit_switch_gunner
+LANG_ENGLISH         "[HOLD] Exit"
+
+REFERENCE            bradley_fire
+LANG_ENGLISH         "Fire Cannon"
+
+REFERENCE            bradley_fire_warning
+LANG_ENGLISH         "Weapon Systems Damaged"
+
+REFERENCE            bradley_gunner_label
+LANG_ENGLISH         "Bradley Tank - Gunner"
+
+REFERENCE            bradley_health
+LANG_ENGLISH         "&&1%"
+
+REFERENCE            bradley_missile
+LANG_ENGLISH         "Fire Missile"
+
+REFERENCE            bradley_missile_count
+LANG_ENGLISH         "TOW Missiles: &&1"
+
+REFERENCE            bradley_move_warning
+LANG_ENGLISH         "Movement Systems Damaged"
+
+REFERENCE            bradley_reverse
+LANG_ENGLISH         "Reverse"
+
+REFERENCE            bradley_smoke
+LANG_ENGLISH         "Smoke"
+
+REFERENCE            bradley_smoke_count
+LANG_ENGLISH         "Active Smokes: &&1"
+
+REFERENCE            bradley_speed_boost
+LANG_ENGLISH         "Turbo Boost"
+
+REFERENCE            bradley_speed_boost_count
+LANG_ENGLISH         "Turbo Boosts: &&1"
+
+REFERENCE            bradley_steer
+LANG_ENGLISH         "Steer"
+
+REFERENCE            bradley_switch_seat
+LANG_ENGLISH         "Switch Seats"
+
+REFERENCE            bradley_time
+LANG_ENGLISH         "Time Remaining"
+
+REFERENCE            bronze_honors
+LANG_ENGLISH         "Bronze Honors"
+
+REFERENCE            bullettype
+LANG_ENGLISH         "Bullet Type"
+
+REFERENCE            c12
+LANG_ENGLISH         "C12"
+
+REFERENCE            c12_missile_count
+LANG_ENGLISH         "Missiles Ready: &&1"
+
+REFERENCE            c12_target_count
+LANG_ENGLISH         "Missiles Locked: &&1"
+
+REFERENCE            c12_targeting
+LANG_ENGLISH         "C12 Targeting..."
+
+REFERENCE            connected
+LANG_ENGLISH         "Connected"
+
+REFERENCE            contextual_ping_hint
+LANG_ENGLISH         "[{+ping,+actionslot 1}] Ping"
+
+REFERENCE            cyber_msg
+LANG_ENGLISH         "BOMB"
+
+REFERENCE            degrees
+LANG_ENGLISH         "&&1??
+"
+
+REFERENCE            dz_msg
+LANG_ENGLISH         "Drop Zone"
+
+REFERENCE            east
+LANG_ENGLISH         "E"
+
+REFERENCE            energy
+LANG_ENGLISH         "Energy"
+
+REFERENCE            engage_thrusters
+LANG_ENGLISH         "Engage Thrusters"
+
+REFERENCE            field_orders
+LANG_ENGLISH         "Mission"
+
+REFERENCE            final_moments
+LANG_ENGLISH         "Final Moments!"
+
+REFERENCE            fire
+LANG_ENGLISH         "Fire"
+
+REFERENCE            fraction
+LANG_ENGLISH         "&&1/&&2"
+
+REFERENCE            gold_honors
+LANG_ENGLISH         "Gold Honors"
+
+REFERENCE            hack_c6_robot
+LANG_ENGLISH         "C6 - TACTICAL ROBOT"
+
+REFERENCE            hack_c8_robot
+LANG_ENGLISH         "C8 - TACTICAL ROBOT"
+
+REFERENCE            hack_complete
+LANG_ENGLISH         "HACK COMPLETE"
+
+REFERENCE            hack_connect_target
+LANG_ENGLISH         "Connecting To Target"
+
+REFERENCE            hack_connecting
+LANG_ENGLISH         "Connecting"
+
+REFERENCE            hack_connection_lost
+LANG_ENGLISH         "Connection Lost"
+
+REFERENCE            hack_failed
+LANG_ENGLISH         "HACK FAILED"
+
+REFERENCE            hack_hacking
+LANG_ENGLISH         "Hacking:"
+
+REFERENCE            hack_initiated
+LANG_ENGLISH         "Robot Hack Initiated"
+
+REFERENCE            hack_online
+LANG_ENGLISH         "Online"
+
+REFERENCE            hack_openining_connection
+LANG_ENGLISH         "Opening Connection"
+
+REFERENCE            hack_system_readout
+LANG_ENGLISH         "System
+Readout"
+
+REFERENCE            hack_version
+LANG_ENGLISH         "VER:101469"
+
+REFERENCE            hardpoint_msg
+LANG_ENGLISH         "Hardpoint"
+
+REFERENCE            hq_msg
+LANG_ENGLISH         "Headquarters"
+
+REFERENCE            injured
+LANG_ENGLISH         "INJURED"
+
+REFERENCE            jackal
+LANG_ENGLISH         "Jackal"
+
+REFERENCE            jackal_30mm
+LANG_ENGLISH         "30mm Gren"
+
+REFERENCE            jackal_50mm
+LANG_ENGLISH         "50mm Pathfinder"
+
+REFERENCE            jackal_air_ground
+LANG_ENGLISH         "Air-To-Ground Missiles"
+
+REFERENCE            jackal_targets
+LANG_ENGLISH         "Targets:"
+
+REFERENCE            kill
+LANG_ENGLISH         "KILL"
+
+REFERENCE            losing_signal
+LANG_ENGLISH         "LOSING SIGNAL"
+
+REFERENCE            loss_imminent
+LANG_ENGLISH         "Loss Imminent!"
+
+REFERENCE            meter_oxg
+LANG_ENGLISH         "OXY"
+
+REFERENCE            meter_temp
+LANG_ENGLISH         "TMP"
+
+REFERENCE            mission_complete
+LANG_ENGLISH         "Mission Complete"
+
+REFERENCE            new_weapon
+LANG_ENGLISH         "NEW WEAPON"
+
+REFERENCE            no_injury
+LANG_ENGLISH         "NO INJURY"
+
+REFERENCE            north
+LANG_ENGLISH         "N"
+
+REFERENCE            north_east
+LANG_ENGLISH         "NE"
+
+REFERENCE            north_west
+LANG_ENGLISH         "NW"
+
+REFERENCE            nvg_instruction
+LANG_ENGLISH         "[{ONFOOT:+actionslot 2;nightvision}]"
+
+REFERENCE            objective_distance
+LANG_ENGLISH         "&&1m"
+
+REFERENCE            objective_done
+LANG_ENGLISH         "Objective Complete"
+
+REFERENCE            objective_failed
+LANG_ENGLISH         "Objective Failed"
+
+REFERENCE            out_of_range
+LANG_ENGLISH         "OUT OF RANGE"
+
+REFERENCE            out_of_range_hack_paused
+LANG_ENGLISH         "OUT OF RANGE, HACK PAUSED"
+
+REFERENCE            percentage
+LANG_ENGLISH         "&&1%
+"
+
+REFERENCE            point_1_msg
+LANG_ENGLISH         "Point A"
+
+REFERENCE            point_2_msg
+LANG_ENGLISH         "Point B"
+
+REFERENCE            point_3_msg
+LANG_ENGLISH         "Point C"
+
+REFERENCE            point_4_msg
+LANG_ENGLISH         "Point D"
+
+REFERENCE            point_5_msg
+LANG_ENGLISH         "Point E"
+
+REFERENCE            points_popup_score
+LANG_ENGLISH         "+&&1"
+
+REFERENCE            points_popup_xp
+LANG_ENGLISH         "+&&1 XP"
+
+REFERENCE            proximity_hack
+LANG_ENGLISH         "PROXIMITY HACK"
+
+REFERENCE            ready
+LANG_ENGLISH         "Ready"
+
+REFERENCE            remote_missile
+LANG_ENGLISH         "Remote Missile System"
+
+REFERENCE            rms_desc
+LANG_ENGLISH         "Designate missile strike path"
+
+REFERENCE            rms_end
+LANG_ENGLISH         "END"
+
+REFERENCE            rms_start
+LANG_ENGLISH         "START"
+
+REFERENCE            searching_target
+LANG_ENGLISH         "Searching For Target"
+
+REFERENCE            silver_honors
+LANG_ENGLISH         "Silver Honors"
+
+REFERENCE            sonic
+LANG_ENGLISH         "Sonic"
+
+REFERENCE            south
+LANG_ENGLISH         "S"
+
+REFERENCE            south_east
+LANG_ENGLISH         "SE"
+
+REFERENCE            south_west
+LANG_ENGLISH         "SW"
+
+REFERENCE            specialfeatures
+LANG_ENGLISH         "Special Features"
+
+REFERENCE            stack_grenade_stacking
+LANG_ENGLISH         "Stacking..."
+
+REFERENCE            stack_grenade_will_stack
+LANG_ENGLISH         "Cook To Stack"
+
+REFERENCE            temperature
+LANG_ENGLISH         "[ TEMPERATURE ]"
+
+REFERENCE            thor_fire_missiles
+LANG_ENGLISH         "Fire Missiles"
+
+REFERENCE            thrust
+LANG_ENGLISH         "[ T H R U S T ]"
+
+REFERENCE            tracking
+LANG_ENGLISH         "Tracking"
+
+REFERENCE            tracking_vision
+LANG_ENGLISH         "Tracking Vision"
+
+REFERENCE            under_barrel_and_ammo
+LANG_ENGLISH         "&&1 [ &&2 ]"
+
+REFERENCE            weapon_swap
+LANG_ENGLISH         "For &&1"
+
+REFERENCE            weapontype
+LANG_ENGLISH         "Weapon Type"
+
+REFERENCE            west
+LANG_ENGLISH         "W"
+
+REFERENCE            win_imminent
+LANG_ENGLISH         "Win Imminent!"
+
+
+ENDMARKER

@@ -1,0 +1,5 @@
+inherit,mp/loot_set_global.csv,,,
+chance,point,50,#     % of non-clustered points that will be populated,
+chance,cluster,60,#     % of clusters that will be populated,
+chance,clusterSolo,50,#     % of clusters that will become invalid after spawning one item (with dependencies),
+req,,tablet,1,

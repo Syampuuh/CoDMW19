@@ -1,0 +1,2988 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            spray_303
+LANG_ENGLISH         "Slither"
+
+REFERENCE            spray_304
+LANG_ENGLISH         "Emerald Quiver"
+
+REFERENCE            spray_305
+LANG_ENGLISH         "Treacherous Web"
+
+REFERENCE            spray_307
+LANG_ENGLISH         "Nautical"
+
+REFERENCE            spray_308
+LANG_ENGLISH         "Valiant"
+
+REFERENCE            spray_309
+LANG_ENGLISH         "Strike Hot"
+
+REFERENCE            spray_314
+LANG_ENGLISH         "SPRAY_314"
+
+REFERENCE            spray_332
+LANG_ENGLISH         "SPRAY_332"
+
+REFERENCE            spray_333
+LANG_ENGLISH         "SPRAY_333"
+
+REFERENCE            spray_334
+LANG_ENGLISH         "SPRAY_334"
+
+REFERENCE            spray_335
+LANG_ENGLISH         "SPRAY_335"
+
+REFERENCE            spray_336
+LANG_ENGLISH         "SPRAY_336"
+
+REFERENCE            spray_337
+LANG_ENGLISH         "SPRAY_337"
+
+REFERENCE            spray_338
+LANG_ENGLISH         "SPRAY_338"
+
+REFERENCE            spray_339
+LANG_ENGLISH         "Want You Dead"
+
+REFERENCE            spray_340
+LANG_ENGLISH         "SPRAY_340"
+
+REFERENCE            spray_341
+LANG_ENGLISH         "SPRAY_341"
+
+REFERENCE            spray_342
+LANG_ENGLISH         "Activision Aces"
+
+REFERENCE            spray_343
+LANG_ENGLISH         "Activision Ambassadors"
+
+REFERENCE            spray_344
+LANG_ENGLISH         "SPRAY_344"
+
+REFERENCE            spray_345
+LANG_ENGLISH         "SPRAY_345"
+
+REFERENCE            spray_346
+LANG_ENGLISH         "SPRAY_346"
+
+REFERENCE            spray_347
+LANG_ENGLISH         "SPRAY_347"
+
+REFERENCE            spray_348
+LANG_ENGLISH         "SPRAY_348"
+
+REFERENCE            spray_349
+LANG_ENGLISH         "SPRAY_349"
+
+REFERENCE            spray_350
+LANG_ENGLISH         "SPRAY_350"
+
+REFERENCE            spray_351
+LANG_ENGLISH         "SPRAY_351"
+
+REFERENCE            spray_352
+LANG_ENGLISH         "SPRAY_352"
+
+REFERENCE            spray_353
+LANG_ENGLISH         "SPRAY_353"
+
+REFERENCE            spray_354
+LANG_ENGLISH         "SPRAY_354"
+
+REFERENCE            spray_355
+LANG_ENGLISH         "SPRAY_355"
+
+REFERENCE            spray_356
+LANG_ENGLISH         "Bullet Grit"
+
+REFERENCE            spray_357
+LANG_ENGLISH         "SPRAY_357"
+
+REFERENCE            spray_358
+LANG_ENGLISH         "SPRAY_358"
+
+REFERENCE            spray_359
+LANG_ENGLISH         "SPRAY_359"
+
+REFERENCE            spray_360
+LANG_ENGLISH         "SPRAY_360"
+
+REFERENCE            spray_361
+LANG_ENGLISH         "SPRAY_361"
+
+REFERENCE            spray_362
+LANG_ENGLISH         "SPRAY_362"
+
+REFERENCE            spray_363
+LANG_ENGLISH         "SPRAY_363"
+
+REFERENCE            spray_364
+LANG_ENGLISH         "SPRAY_364"
+
+REFERENCE            spray_365
+LANG_ENGLISH         "SPRAY_365"
+
+REFERENCE            spray_366
+LANG_ENGLISH         "SPRAY_366"
+
+REFERENCE            spray_367
+LANG_ENGLISH         "SPRAY_367"
+
+REFERENCE            spray_368
+LANG_ENGLISH         "SPRAY_368"
+
+REFERENCE            spray_369
+LANG_ENGLISH         "SPRAY_369"
+
+REFERENCE            spray_370
+LANG_ENGLISH         "SPRAY_370"
+
+REFERENCE            spray_371
+LANG_ENGLISH         "SPRAY_371"
+
+REFERENCE            spray_372
+LANG_ENGLISH         "SPRAY_372"
+
+REFERENCE            spray_373
+LANG_ENGLISH         "SPRAY_373"
+
+REFERENCE            spray_374
+LANG_ENGLISH         "SPRAY_374"
+
+REFERENCE            spray_375
+LANG_ENGLISH         "SPRAY_375"
+
+REFERENCE            spray_376
+LANG_ENGLISH         "SPRAY_376"
+
+REFERENCE            spray_377
+LANG_ENGLISH         "Big Plans"
+
+REFERENCE            spray_378
+LANG_ENGLISH         "SPRAY_378"
+
+REFERENCE            spray_382
+LANG_ENGLISH         "SPRAY_382"
+
+REFERENCE            spray_383
+LANG_ENGLISH         "SPRAY_383"
+
+REFERENCE            spray_384
+LANG_ENGLISH         "SPRAY_384"
+
+REFERENCE            spray_385
+LANG_ENGLISH         "SPRAY_385"
+
+REFERENCE            spray_386
+LANG_ENGLISH         "SPRAY_386"
+
+REFERENCE            spray_387
+LANG_ENGLISH         "SPRAY_387"
+
+REFERENCE            spray_388
+LANG_ENGLISH         "SPRAY_388"
+
+REFERENCE            spray_389
+LANG_ENGLISH         "SPRAY_389"
+
+REFERENCE            spray_390
+LANG_ENGLISH         "SPRAY_390"
+
+REFERENCE            spray_391
+LANG_ENGLISH         "SPRAY_391"
+
+REFERENCE            spray_392
+LANG_ENGLISH         "SPRAY_392"
+
+REFERENCE            spray_393
+LANG_ENGLISH         "On Target"
+
+REFERENCE            spray_394
+LANG_ENGLISH         "SPRAY_394"
+
+REFERENCE            spray_395
+LANG_ENGLISH         "SPRAY_395"
+
+REFERENCE            spray_396
+LANG_ENGLISH         "Head Shot"
+
+REFERENCE            spray_397
+LANG_ENGLISH         "SPRAY_397"
+
+REFERENCE            spray_398
+LANG_ENGLISH         "In the Crosshairs"
+
+REFERENCE            spray_399
+LANG_ENGLISH         "Zane Glint"
+
+REFERENCE            spray_400
+LANG_ENGLISH         "SPRAY_400"
+
+REFERENCE            spray_401
+LANG_ENGLISH         "SPRAY_401"
+
+REFERENCE            spray_402
+LANG_ENGLISH         "SPRAY_402"
+
+REFERENCE            spray_403
+LANG_ENGLISH         "SPRAY_403"
+
+REFERENCE            spray_404
+LANG_ENGLISH         "SPRAY_404"
+
+REFERENCE            spray_405
+LANG_ENGLISH         "SPRAY_405"
+
+REFERENCE            spray_406
+LANG_ENGLISH         "SPRAY_406"
+
+REFERENCE            spray_407
+LANG_ENGLISH         "SPRAY_407"
+
+REFERENCE            spray_408
+LANG_ENGLISH         "SPRAY_408"
+
+REFERENCE            spray_409
+LANG_ENGLISH         "SPRAY_409"
+
+REFERENCE            spray_410
+LANG_ENGLISH         "SPRAY_410"
+
+REFERENCE            spray_411
+LANG_ENGLISH         "SPRAY_411"
+
+REFERENCE            spray_412
+LANG_ENGLISH         "SPRAY_412"
+
+REFERENCE            spray_413
+LANG_ENGLISH         "SPRAY_413"
+
+REFERENCE            spray_414
+LANG_ENGLISH         "SPRAY_414"
+
+REFERENCE            spray_415
+LANG_ENGLISH         "Bruiser"
+
+REFERENCE            spray_416
+LANG_ENGLISH         "SPRAY_416"
+
+REFERENCE            spray_417
+LANG_ENGLISH         "SPRAY_417"
+
+REFERENCE            spray_418
+LANG_ENGLISH         "SPRAY_418"
+
+REFERENCE            spray_419
+LANG_ENGLISH         "SPRAY_419"
+
+REFERENCE            spray_420
+LANG_ENGLISH         "SPRAY_420"
+
+REFERENCE            spray_421
+LANG_ENGLISH         "SPRAY_421"
+
+REFERENCE            spray_422
+LANG_ENGLISH         "SPRAY_422"
+
+REFERENCE            spray_423
+LANG_ENGLISH         "Reaper"
+
+REFERENCE            spray_424
+LANG_ENGLISH         "SPRAY_424"
+
+REFERENCE            spray_425
+LANG_ENGLISH         "SPRAY_425"
+
+REFERENCE            spray_426
+LANG_ENGLISH         "SPRAY_426"
+
+REFERENCE            spray_427
+LANG_ENGLISH         "SPRAY_427"
+
+REFERENCE            spray_428
+LANG_ENGLISH         "SPRAY_428"
+
+REFERENCE            spray_429
+LANG_ENGLISH         "SPRAY_429"
+
+REFERENCE            spray_430
+LANG_ENGLISH         "In the Shade"
+
+REFERENCE            spray_431
+LANG_ENGLISH         "SPRAY_431"
+
+REFERENCE            spray_432
+LANG_ENGLISH         "SPRAY_432"
+
+REFERENCE            spray_433
+LANG_ENGLISH         "SPRAY_433"
+
+REFERENCE            spray_434
+LANG_ENGLISH         "Fiery Tomb"
+
+REFERENCE            spray_435
+LANG_ENGLISH         "SPRAY_435"
+
+REFERENCE            spray_436
+LANG_ENGLISH         "SPRAY_436"
+
+REFERENCE            spray_437
+LANG_ENGLISH         "SPRAY_437"
+
+REFERENCE            spray_438
+LANG_ENGLISH         "SPRAY_438"
+
+REFERENCE            spray_439
+LANG_ENGLISH         "SPRAY_439"
+
+REFERENCE            spray_440
+LANG_ENGLISH         "SPRAY_440"
+
+REFERENCE            spray_441
+LANG_ENGLISH         "SPRAY_441"
+
+REFERENCE            spray_442
+LANG_ENGLISH         "SPRAY_442"
+
+REFERENCE            spray_443
+LANG_ENGLISH         "Blossom Bomb"
+
+REFERENCE            spray_444
+LANG_ENGLISH         "SPRAY_444"
+
+REFERENCE            spray_445
+LANG_ENGLISH         "SPRAY_445"
+
+REFERENCE            spray_446
+LANG_ENGLISH         "SPRAY_446"
+
+REFERENCE            spray_447
+LANG_ENGLISH         "SPRAY_447"
+
+REFERENCE            spray_448
+LANG_ENGLISH         "SPRAY_448"
+
+REFERENCE            spray_449
+LANG_ENGLISH         "SPRAY_449"
+
+REFERENCE            spray_450
+LANG_ENGLISH         "SPRAY_450"
+
+REFERENCE            spray_451
+LANG_ENGLISH         "Teddy"
+
+REFERENCE            spray_452
+LANG_ENGLISH         "SPRAY_452"
+
+REFERENCE            spray_453
+LANG_ENGLISH         "Masks On"
+
+REFERENCE            spray_454
+LANG_ENGLISH         "Biohazard"
+
+REFERENCE            spray_455
+LANG_ENGLISH         "ChemWeap"
+
+REFERENCE            spray_456
+LANG_ENGLISH         "Hazmat Savior"
+
+REFERENCE            spray_457
+LANG_ENGLISH         "Mind Blown"
+
+REFERENCE            spray_458
+LANG_ENGLISH         "SPRAY_458"
+
+REFERENCE            spray_459
+LANG_ENGLISH         "Fire Hazard"
+
+REFERENCE            spray_460
+LANG_ENGLISH         "Hazardous"
+
+REFERENCE            spray_461
+LANG_ENGLISH         "Immolation"
+
+REFERENCE            spray_462
+LANG_ENGLISH         "Atlanta FaZe"
+
+REFERENCE            spray_463
+LANG_ENGLISH         "Chicago Huntsmen"
+
+REFERENCE            spray_464
+LANG_ENGLISH         "Dallas Empire"
+
+REFERENCE            spray_465
+LANG_ENGLISH         "Florida Mutineers"
+
+REFERENCE            spray_466
+LANG_ENGLISH         "Los Angeles Guerrillas"
+
+REFERENCE            spray_467
+LANG_ENGLISH         "OpTic Gaming Los Angeles"
+
+REFERENCE            spray_468
+LANG_ENGLISH         "London Royal Ravens"
+
+REFERENCE            spray_469
+LANG_ENGLISH         "Minnesota R??KKR"
+
+REFERENCE            spray_470
+LANG_ENGLISH         "New York Subliners"
+
+REFERENCE            spray_471
+LANG_ENGLISH         "Paris Legion"
+
+REFERENCE            spray_472
+LANG_ENGLISH         "Seattle Surge"
+
+REFERENCE            spray_473
+LANG_ENGLISH         "Toronto Ultra"
+
+REFERENCE            spray_474
+LANG_ENGLISH         "Lucky Dragon"
+
+REFERENCE            spray_475
+LANG_ENGLISH         "SPRAY 475"
+
+REFERENCE            spray_476
+LANG_ENGLISH         "Avenged"
+
+REFERENCE            spray_477
+LANG_ENGLISH         "Crucible"
+
+REFERENCE            spray_478
+LANG_ENGLISH         "Dead Men"
+
+REFERENCE            spray_479
+LANG_ENGLISH         "Ghost III"
+
+REFERENCE            spray_480
+LANG_ENGLISH         "The Fallen"
+
+REFERENCE            spray_481
+LANG_ENGLISH         "Unbroken"
+
+REFERENCE            spray_482
+LANG_ENGLISH         "Off The Lawn!"
+
+REFERENCE            spray_483
+LANG_ENGLISH         "With Me?"
+
+REFERENCE            spray_484
+LANG_ENGLISH         "Sacred Ground"
+
+REFERENCE            spray_485
+LANG_ENGLISH         "SPRAY 485"
+
+REFERENCE            spray_486
+LANG_ENGLISH         "Atlanta Faze Home Series"
+
+REFERENCE            spray_487
+LANG_ENGLISH         "Chicago Huntsmen Home Series"
+
+REFERENCE            spray_488
+LANG_ENGLISH         "Dallas Empire Home Series"
+
+REFERENCE            spray_489
+LANG_ENGLISH         "Florida Mutineers Home Series"
+
+REFERENCE            spray_490
+LANG_ENGLISH         "Los Angeles Guerrillas Home Series"
+
+REFERENCE            spray_491
+LANG_ENGLISH         "Optic Gaming Los Angeles Home Series"
+
+REFERENCE            spray_492
+LANG_ENGLISH         "London Royal Ravens Home Series"
+
+REFERENCE            spray_493
+LANG_ENGLISH         "Minnesota R??kkr Home Series"
+
+REFERENCE            spray_494
+LANG_ENGLISH         "New York Subliners Home Series"
+
+REFERENCE            spray_495
+LANG_ENGLISH         "Paris Legion Home Series"
+
+REFERENCE            spray_496
+LANG_ENGLISH         "Seattle Surge Home Series"
+
+REFERENCE            spray_497
+LANG_ENGLISH         "Toronto Ultra Home Series"
+
+REFERENCE            spray_014
+LANG_ENGLISH         "Puppy Patdown"
+
+REFERENCE            spray_022
+LANG_ENGLISH         "That was Fast"
+
+REFERENCE            spray_061
+LANG_ENGLISH         "Talk of Death"
+
+REFERENCE            spray_062
+LANG_ENGLISH         "Spray 62"
+
+REFERENCE            spray_063
+LANG_ENGLISH         "Electrifying"
+
+REFERENCE            spray_064
+LANG_ENGLISH         "Morning Regret"
+
+REFERENCE            spray_066
+LANG_ENGLISH         "Smash"
+
+REFERENCE            spray_067
+LANG_ENGLISH         "Bone Doctor"
+
+REFERENCE            spray_069
+LANG_ENGLISH         "Like Magic!"
+
+REFERENCE            spray_070
+LANG_ENGLISH         "And Burn"
+
+REFERENCE            spray_071
+LANG_ENGLISH         "My Bad"
+
+REFERENCE            spray_072
+LANG_ENGLISH         "U Mad?"
+
+REFERENCE            spray_080
+LANG_ENGLISH         "Shadowed"
+
+REFERENCE            spray_084
+LANG_ENGLISH         "Sharpshooter"
+
+REFERENCE            spray_087
+LANG_ENGLISH         "Dead Center"
+
+REFERENCE            spray_179
+LANG_ENGLISH         "Skull Beret"
+
+REFERENCE            spray_180
+LANG_ENGLISH         "Anchors Away"
+
+REFERENCE            spray_181
+LANG_ENGLISH         "Death Jam"
+
+REFERENCE            spray_143
+LANG_ENGLISH         "C4 Ya"
+
+REFERENCE            spray_141
+LANG_ENGLISH         "Straight Up"
+
+REFERENCE            spray_140
+LANG_ENGLISH         "SPRAY_140"
+
+REFERENCE            spray_136
+LANG_ENGLISH         "Stand Your Ground"
+
+REFERENCE            spray_117
+LANG_ENGLISH         "Oh Boy!"
+
+REFERENCE            spray_068
+LANG_ENGLISH         "Boinkers!"
+
+REFERENCE            spray_065
+LANG_ENGLISH         "Dope Thoughts"
+
+REFERENCE            spray_217
+LANG_ENGLISH         "Rally Cry"
+
+REFERENCE            spray_219
+LANG_ENGLISH         "Love 4 Tha Game"
+
+REFERENCE            spray_207
+LANG_ENGLISH         "Going Dark"
+
+REFERENCE            spray_222
+LANG_ENGLISH         "Vile Shock"
+
+REFERENCE            spray_218
+LANG_ENGLISH         "Mark the Spot"
+
+REFERENCE            spray_227
+LANG_ENGLISH         "Wings of Fire"
+
+REFERENCE            spray_296
+LANG_ENGLISH         "Death in the Sky"
+
+REFERENCE            spray_282
+LANG_ENGLISH         "Patrol"
+
+REFERENCE            spray_267
+LANG_ENGLISH         "Three Chances"
+
+REFERENCE            spray_264
+LANG_ENGLISH         "Fab Five"
+
+REFERENCE            spray_226
+LANG_ENGLISH         "Triple Threat"
+
+REFERENCE            spray_210
+LANG_ENGLISH         "SPRAY_210"
+
+REFERENCE            spray_208
+LANG_ENGLISH         "SPRAY_208"
+
+REFERENCE            spray_203
+LANG_ENGLISH         "SPRAY_203"
+
+REFERENCE            spray_202
+LANG_ENGLISH         "Duel Wield"
+
+REFERENCE            spray_201
+LANG_ENGLISH         "The Pineapple"
+
+REFERENCE            spray_145
+LANG_ENGLISH         "Three Peace"
+
+REFERENCE            spray_144
+LANG_ENGLISH         "Trophy Wife"
+
+REFERENCE            spray_381
+LANG_ENGLISH         "SPRAY_381"
+
+REFERENCE            spray_380
+LANG_ENGLISH         "SPRAY_380"
+
+REFERENCE            spray_379
+LANG_ENGLISH         "SPRAY_379"
+
+REFERENCE            spray_325
+LANG_ENGLISH         "Live it Up"
+
+REFERENCE            spray_001
+LANG_ENGLISH         "Short Fuse"
+
+REFERENCE            spray_002
+LANG_ENGLISH         "Lil Devil"
+
+REFERENCE            spray_003
+LANG_ENGLISH         "Friend or Food"
+
+REFERENCE            spray_004
+LANG_ENGLISH         "Big-Bad-Toot"
+
+REFERENCE            spray_005
+LANG_ENGLISH         "Death Dino"
+
+REFERENCE            spray_006
+LANG_ENGLISH         "One Rude Dude"
+
+REFERENCE            spray_007
+LANG_ENGLISH         "Sunny Disposition"
+
+REFERENCE            spray_008
+LANG_ENGLISH         "Eternal Slumber"
+
+REFERENCE            spray_009
+LANG_ENGLISH         "Soft Serve"
+
+REFERENCE            spray_010
+LANG_ENGLISH         "Jester"
+
+REFERENCE            spray_011
+LANG_ENGLISH         "King of COD"
+
+REFERENCE            spray_012
+LANG_ENGLISH         "Goin' Bananas"
+
+REFERENCE            spray_013
+LANG_ENGLISH         "Space Cowboy"
+
+REFERENCE            spray_014
+LANG_ENGLISH         "Puppy Patdown"
+
+REFERENCE            spray_015
+LANG_ENGLISH         "Urban Undead"
+
+REFERENCE            spray_016
+LANG_ENGLISH         "Freeze"
+
+REFERENCE            spray_017
+LANG_ENGLISH         "Checkmate"
+
+REFERENCE            spray_018
+LANG_ENGLISH         "Chill"
+
+REFERENCE            spray_019
+LANG_ENGLISH         "Laugh Last"
+
+REFERENCE            spray_020
+LANG_ENGLISH         "Domination"
+
+REFERENCE            spray_021
+LANG_ENGLISH         "No Tourists"
+
+REFERENCE            spray_022
+LANG_ENGLISH         "That was Fast"
+
+REFERENCE            spray_023
+LANG_ENGLISH         "Ace!"
+
+REFERENCE            spray_024
+LANG_ENGLISH         "Never Give Up"
+
+REFERENCE            spray_025
+LANG_ENGLISH         "Best in Class"
+
+REFERENCE            spray_026
+LANG_ENGLISH         "Hyena"
+
+REFERENCE            spray_027
+LANG_ENGLISH         "Gargoyle"
+
+REFERENCE            spray_028
+LANG_ENGLISH         "Wolf Knight"
+
+REFERENCE            spray_029
+LANG_ENGLISH         "Neptune's Wrath"
+
+REFERENCE            spray_030
+LANG_ENGLISH         "Beret & Bones"
+
+REFERENCE            spray_031
+LANG_ENGLISH         "Adamant"
+
+REFERENCE            spray_032
+LANG_ENGLISH         "Spray 32"
+
+REFERENCE            spray_033
+LANG_ENGLISH         "Spray 33"
+
+REFERENCE            spray_034
+LANG_ENGLISH         "Spray 34"
+
+REFERENCE            spray_035
+LANG_ENGLISH         "Spray 35"
+
+REFERENCE            spray_036
+LANG_ENGLISH         "Spray 36"
+
+REFERENCE            spray_037
+LANG_ENGLISH         "Spray 37"
+
+REFERENCE            spray_038
+LANG_ENGLISH         "Spray 38"
+
+REFERENCE            spray_039
+LANG_ENGLISH         "Stalking Gargoyle"
+
+REFERENCE            spray_040
+LANG_ENGLISH         "Spray 40"
+
+REFERENCE            spray_041
+LANG_ENGLISH         "Spray 41"
+
+REFERENCE            spray_042
+LANG_ENGLISH         "Spray 42"
+
+REFERENCE            spray_043
+LANG_ENGLISH         "Spray 43"
+
+REFERENCE            spray_044
+LANG_ENGLISH         "Spray 44"
+
+REFERENCE            spray_045
+LANG_ENGLISH         "Spray 45"
+
+REFERENCE            spray_046
+LANG_ENGLISH         "Spray 46"
+
+REFERENCE            spray_047
+LANG_ENGLISH         "Spray 47"
+
+REFERENCE            spray_048
+LANG_ENGLISH         "Spray 48"
+
+REFERENCE            spray_049
+LANG_ENGLISH         "Spray 49"
+
+REFERENCE            spray_050
+LANG_ENGLISH         "Spray 50"
+
+REFERENCE            spray_051
+LANG_ENGLISH         "Spray 51"
+
+REFERENCE            spray_052
+LANG_ENGLISH         "Spray 52"
+
+REFERENCE            spray_053
+LANG_ENGLISH         "Spray 53"
+
+REFERENCE            spray_054
+LANG_ENGLISH         "Spray 54"
+
+REFERENCE            spray_055
+LANG_ENGLISH         "Spray 55"
+
+REFERENCE            spray_056
+LANG_ENGLISH         "Spray 56"
+
+REFERENCE            spray_057
+LANG_ENGLISH         "Spray 57"
+
+REFERENCE            spray_058
+LANG_ENGLISH         "Spray 58"
+
+REFERENCE            spray_059
+LANG_ENGLISH         "Spray 59"
+
+REFERENCE            spray_060
+LANG_ENGLISH         "Spray 60"
+
+REFERENCE            spray_061
+LANG_ENGLISH         "Talk of Death"
+
+REFERENCE            spray_062
+LANG_ENGLISH         "Spray 62"
+
+REFERENCE            spray_063
+LANG_ENGLISH         "Electrifying"
+
+REFERENCE            spray_064
+LANG_ENGLISH         "Morning Regret"
+
+REFERENCE            spray_065
+LANG_ENGLISH         "Dope Thoughts"
+
+REFERENCE            spray_066
+LANG_ENGLISH         "Smash"
+
+REFERENCE            spray_067
+LANG_ENGLISH         "Bone Doctor"
+
+REFERENCE            spray_068
+LANG_ENGLISH         "Boinkers!"
+
+REFERENCE            spray_069
+LANG_ENGLISH         "Like Magic!"
+
+REFERENCE            spray_070
+LANG_ENGLISH         "And Burn"
+
+REFERENCE            spray_071
+LANG_ENGLISH         "My Bad"
+
+REFERENCE            spray_072
+LANG_ENGLISH         "U Mad?"
+
+REFERENCE            spray_073
+LANG_ENGLISH         "Surprisingly Surprised!"
+
+REFERENCE            spray_074
+LANG_ENGLISH         "Secret CODE"
+
+REFERENCE            spray_075
+LANG_ENGLISH         "CODE All Star"
+
+REFERENCE            spray_076
+LANG_ENGLISH         "Patrol"
+
+REFERENCE            spray_077
+LANG_ENGLISH         "Heavy"
+
+REFERENCE            spray_078
+LANG_ENGLISH         "Equipped"
+
+REFERENCE            spray_079
+LANG_ENGLISH         "Idle"
+
+REFERENCE            spray_080
+LANG_ENGLISH         "Shadowed"
+
+REFERENCE            spray_081
+LANG_ENGLISH         "Mercenary"
+
+REFERENCE            spray_082
+LANG_ENGLISH         "Sneaky"
+
+REFERENCE            spray_083
+LANG_ENGLISH         "Poise"
+
+REFERENCE            spray_084
+LANG_ENGLISH         "Sharpshooter"
+
+REFERENCE            spray_085
+LANG_ENGLISH         "Try Me"
+
+REFERENCE            spray_086
+LANG_ENGLISH         "Target Practice"
+
+REFERENCE            spray_087
+LANG_ENGLISH         "Dead Center"
+
+REFERENCE            spray_088
+LANG_ENGLISH         "Center Mass"
+
+REFERENCE            spray_089
+LANG_ENGLISH         "Modern Viking"
+
+REFERENCE            spray_090
+LANG_ENGLISH         "Henchman Fodder"
+
+REFERENCE            spray_091
+LANG_ENGLISH         "Covert Takedown"
+
+REFERENCE            spray_092
+LANG_ENGLISH         "Looks that Kill"
+
+REFERENCE            spray_093
+LANG_ENGLISH         "Marked for Death"
+
+REFERENCE            spray_094
+LANG_ENGLISH         "Deflect This"
+
+REFERENCE            spray_095
+LANG_ENGLISH         "Non-lethal"
+
+REFERENCE            spray_096
+LANG_ENGLISH         "Hero's Dilemma"
+
+REFERENCE            spray_097
+LANG_ENGLISH         "Brawler"
+
+REFERENCE            spray_098
+LANG_ENGLISH         "Hey! You There"
+
+REFERENCE            spray_099
+LANG_ENGLISH         "UR DEAD"
+
+REFERENCE            spray_100
+LANG_ENGLISH         "RIP"
+
+REFERENCE            spray_101
+LANG_ENGLISH         "Pwned"
+
+REFERENCE            spray_102
+LANG_ENGLISH         "Go Away"
+
+REFERENCE            spray_103
+LANG_ENGLISH         "Customer Service"
+
+REFERENCE            spray_104
+LANG_ENGLISH         "Someone's Watching"
+
+REFERENCE            spray_105
+LANG_ENGLISH         "Hold Still"
+
+REFERENCE            spray_106
+LANG_ENGLISH         "Mind Control"
+
+REFERENCE            spray_107
+LANG_ENGLISH         "Aim Check"
+
+REFERENCE            spray_108
+LANG_ENGLISH         "Belly Flop"
+
+REFERENCE            spray_109
+LANG_ENGLISH         "The Jogger"
+
+REFERENCE            spray_110
+LANG_ENGLISH         "Jazz Hands"
+
+REFERENCE            spray_111
+LANG_ENGLISH         "Sweet Hitchhiker"
+
+REFERENCE            spray_112
+LANG_ENGLISH         "Falling"
+
+REFERENCE            spray_113
+LANG_ENGLISH         "Howdy Neighbor"
+
+REFERENCE            spray_114
+LANG_ENGLISH         "Take a Seat"
+
+REFERENCE            spray_115
+LANG_ENGLISH         "Restless Sleeper"
+
+REFERENCE            spray_116
+LANG_ENGLISH         "Tap Dancer"
+
+REFERENCE            spray_117
+LANG_ENGLISH         "Oh Boy!"
+
+REFERENCE            spray_118
+LANG_ENGLISH         "Skipping Along"
+
+REFERENCE            spray_119
+LANG_ENGLISH         "Funky Rhythm"
+
+REFERENCE            spray_120
+LANG_ENGLISH         "Vertical Twist"
+
+REFERENCE            spray_121
+LANG_ENGLISH         "Morning Jog"
+
+REFERENCE            spray_122
+LANG_ENGLISH         "Hyped"
+
+REFERENCE            spray_123
+LANG_ENGLISH         "Free Fall"
+
+REFERENCE            spray_124
+LANG_ENGLISH         "No Bones"
+
+REFERENCE            spray_125
+LANG_ENGLISH         "Slacker"
+
+REFERENCE            spray_126
+LANG_ENGLISH         "Rigor Mortis"
+
+REFERENCE            spray_127
+LANG_ENGLISH         "Hands Free"
+
+REFERENCE            spray_128
+LANG_ENGLISH         "Dead Last"
+
+REFERENCE            spray_129
+LANG_ENGLISH         "Back Scratch"
+
+REFERENCE            spray_130
+LANG_ENGLISH         "Hands in the Air"
+
+REFERENCE            spray_131
+LANG_ENGLISH         "Step Forward"
+
+REFERENCE            spray_132
+LANG_ENGLISH         "Up Here"
+
+REFERENCE            spray_133
+LANG_ENGLISH         "Hop, Skip, Jump"
+
+REFERENCE            spray_134
+LANG_ENGLISH         "Little Teapot"
+
+REFERENCE            spray_135
+LANG_ENGLISH         "In the Distance"
+
+REFERENCE            spray_136
+LANG_ENGLISH         "Stand Your Ground"
+
+REFERENCE            spray_137
+LANG_ENGLISH         "Peace Maker"
+
+REFERENCE            spray_138
+LANG_ENGLISH         "Swamp Fever"
+
+REFERENCE            spray_139
+LANG_ENGLISH         "Stand Down"
+
+REFERENCE            spray_140
+LANG_ENGLISH         "SPRAY_140"
+
+REFERENCE            spray_141
+LANG_ENGLISH         "Straight Up"
+
+REFERENCE            spray_142
+LANG_ENGLISH         "Be Mine"
+
+REFERENCE            spray_143
+LANG_ENGLISH         "C4 Ya"
+
+REFERENCE            spray_144
+LANG_ENGLISH         "Trophy Wife"
+
+REFERENCE            spray_145
+LANG_ENGLISH         "Three Peace"
+
+REFERENCE            spray_146
+LANG_ENGLISH         "C Ya Later"
+
+REFERENCE            spray_147
+LANG_ENGLISH         "Jump Scare"
+
+REFERENCE            spray_148
+LANG_ENGLISH         "Out of Reach"
+
+REFERENCE            spray_149
+LANG_ENGLISH         "Surprise!"
+
+REFERENCE            spray_150
+LANG_ENGLISH         "Center Mass"
+
+REFERENCE            spray_151
+LANG_ENGLISH         "Center Mass"
+
+REFERENCE            spray_152
+LANG_ENGLISH         "One Shot Only"
+
+REFERENCE            spray_153
+LANG_ENGLISH         "Square Up"
+
+REFERENCE            spray_154
+LANG_ENGLISH         "Phase Shift"
+
+REFERENCE            spray_155
+LANG_ENGLISH         "Nutty"
+
+REFERENCE            spray_156
+LANG_ENGLISH         "Crystal Clear"
+
+REFERENCE            spray_157
+LANG_ENGLISH         "New Dimension"
+
+REFERENCE            spray_158
+LANG_ENGLISH         "Archaic Madness"
+
+REFERENCE            spray_159
+LANG_ENGLISH         "Omni Directional"
+
+REFERENCE            spray_160
+LANG_ENGLISH         "Crown"
+
+REFERENCE            spray_161
+LANG_ENGLISH         "Star-E Sky"
+
+REFERENCE            spray_162
+LANG_ENGLISH         "Cross Hatched"
+
+REFERENCE            spray_163
+LANG_ENGLISH         "Infinite"
+
+REFERENCE            spray_164
+LANG_ENGLISH         "Over Here"
+
+REFERENCE            spray_165
+LANG_ENGLISH         "ROYGBIV"
+
+REFERENCE            spray_166
+LANG_ENGLISH         "Layered"
+
+REFERENCE            spray_167
+LANG_ENGLISH         "Beneath the Surface"
+
+REFERENCE            spray_168
+LANG_ENGLISH         "Art Forms"
+
+REFERENCE            spray_169
+LANG_ENGLISH         "Symphony"
+
+REFERENCE            spray_170
+LANG_ENGLISH         "Misdirection"
+
+REFERENCE            spray_171
+LANG_ENGLISH         "Bird's Eye View"
+
+REFERENCE            spray_172
+LANG_ENGLISH         "Global Warming"
+
+REFERENCE            spray_173
+LANG_ENGLISH         "Spartan Sense"
+
+REFERENCE            spray_174
+LANG_ENGLISH         "Divine Justice"
+
+REFERENCE            spray_175
+LANG_ENGLISH         "Medieval"
+
+REFERENCE            spray_176
+LANG_ENGLISH         "Doom Horn"
+
+REFERENCE            spray_177
+LANG_ENGLISH         "Smite Thee"
+
+REFERENCE            spray_178
+LANG_ENGLISH         "Base Jumper"
+
+REFERENCE            spray_179
+LANG_ENGLISH         "Skull Beret"
+
+REFERENCE            spray_180
+LANG_ENGLISH         "Anchors Away"
+
+REFERENCE            spray_181
+LANG_ENGLISH         "Death Jam"
+
+REFERENCE            spray_182
+LANG_ENGLISH         "Brain Surgeon"
+
+REFERENCE            spray_183
+LANG_ENGLISH         "Natural Born Killer"
+
+REFERENCE            spray_184
+LANG_ENGLISH         "Shoot to Thrill"
+
+REFERENCE            spray_185
+LANG_ENGLISH         "Phoenix Fire"
+
+REFERENCE            spray_186
+LANG_ENGLISH         "The Ram"
+
+REFERENCE            spray_187
+LANG_ENGLISH         "Death Purge"
+
+REFERENCE            spray_188
+LANG_ENGLISH         "Rule of Three"
+
+REFERENCE            spray_189
+LANG_ENGLISH         "Spades"
+
+REFERENCE            spray_190
+LANG_ENGLISH         "Nautilus"
+
+REFERENCE            spray_191
+LANG_ENGLISH         "Armageddon"
+
+REFERENCE            spray_192
+LANG_ENGLISH         "Executioner"
+
+REFERENCE            spray_193
+LANG_ENGLISH         "Over Fished"
+
+REFERENCE            spray_194
+LANG_ENGLISH         "Star Struck"
+
+REFERENCE            spray_195
+LANG_ENGLISH         "Lethal Status"
+
+REFERENCE            spray_196
+LANG_ENGLISH         "SPRAY_196"
+
+REFERENCE            spray_197
+LANG_ENGLISH         "Humane Extinction"
+
+REFERENCE            spray_198
+LANG_ENGLISH         "SPRAY_198"
+
+REFERENCE            spray_199
+LANG_ENGLISH         "HammerTime"
+
+REFERENCE            spray_200
+LANG_ENGLISH         "Toothpick"
+
+REFERENCE            spray_201
+LANG_ENGLISH         "The Pineapple"
+
+REFERENCE            spray_202
+LANG_ENGLISH         "Duel Wield"
+
+REFERENCE            spray_203
+LANG_ENGLISH         "SPRAY_203"
+
+REFERENCE            spray_204
+LANG_ENGLISH         "Bravo"
+
+REFERENCE            spray_205
+LANG_ENGLISH         "Feel That Burn"
+
+REFERENCE            spray_206
+LANG_ENGLISH         "Hot"
+
+REFERENCE            spray_207
+LANG_ENGLISH         "Going Dark"
+
+REFERENCE            spray_208
+LANG_ENGLISH         "SPRAY_208"
+
+REFERENCE            spray_209
+LANG_ENGLISH         "SPRAY_209"
+
+REFERENCE            spray_210
+LANG_ENGLISH         "SPRAY_210"
+
+REFERENCE            spray_211
+LANG_ENGLISH         "SPRAY_211"
+
+REFERENCE            spray_212
+LANG_ENGLISH         "SPRAY_212"
+
+REFERENCE            spray_213
+LANG_ENGLISH         "SPRAY_213"
+
+REFERENCE            spray_214
+LANG_ENGLISH         "Bleed Out"
+
+REFERENCE            spray_215
+LANG_ENGLISH         "SPRAY_215"
+
+REFERENCE            spray_216
+LANG_ENGLISH         "SPRAY_216"
+
+REFERENCE            spray_217
+LANG_ENGLISH         "Rally Cry"
+
+REFERENCE            spray_218
+LANG_ENGLISH         "Mark the Spot"
+
+REFERENCE            spray_219
+LANG_ENGLISH         "Love 4 Tha Game"
+
+REFERENCE            spray_220
+LANG_ENGLISH         "One Shot"
+
+REFERENCE            spray_221
+LANG_ENGLISH         "Poisonous"
+
+REFERENCE            spray_222
+LANG_ENGLISH         "Vile Shock"
+
+REFERENCE            spray_223
+LANG_ENGLISH         "Electrifight"
+
+REFERENCE            spray_224
+LANG_ENGLISH         "Break These Bones"
+
+REFERENCE            spray_225
+LANG_ENGLISH         "Fallen Star"
+
+REFERENCE            spray_226
+LANG_ENGLISH         "Triple Threat"
+
+REFERENCE            spray_227
+LANG_ENGLISH         "Wings of Fire"
+
+REFERENCE            spray_228
+LANG_ENGLISH         "Wings of Valor"
+
+REFERENCE            spray_229
+LANG_ENGLISH         "Blood Shot"
+
+REFERENCE            spray_230
+LANG_ENGLISH         "SPRAY_230"
+
+REFERENCE            spray_231
+LANG_ENGLISH         "SPRAY_231"
+
+REFERENCE            spray_232
+LANG_ENGLISH         "SPRAY_232"
+
+REFERENCE            spray_233
+LANG_ENGLISH         "SPRAY_233"
+
+REFERENCE            spray_234
+LANG_ENGLISH         "SPRAY_234"
+
+REFERENCE            spray_235
+LANG_ENGLISH         "SPRAY_235"
+
+REFERENCE            spray_236
+LANG_ENGLISH         "Wrath"
+
+REFERENCE            spray_237
+LANG_ENGLISH         "SPRAY_237"
+
+REFERENCE            spray_238
+LANG_ENGLISH         "SPRAY_238"
+
+REFERENCE            spray_239
+LANG_ENGLISH         "SPRAY_239"
+
+REFERENCE            spray_240
+LANG_ENGLISH         "Grimace"
+
+REFERENCE            spray_241
+LANG_ENGLISH         "Go Forth"
+
+REFERENCE            spray_242
+LANG_ENGLISH         "Up, Up, and Away"
+
+REFERENCE            spray_243
+LANG_ENGLISH         "SPRAY_243"
+
+REFERENCE            spray_244
+LANG_ENGLISH         "SPRAY_244"
+
+REFERENCE            spray_245
+LANG_ENGLISH         "Downward Dog"
+
+REFERENCE            spray_246
+LANG_ENGLISH         "Ammi Right"
+
+REFERENCE            spray_247
+LANG_ENGLISH         "Tyrannical"
+
+REFERENCE            spray_248
+LANG_ENGLISH         "SPRAY_248"
+
+REFERENCE            spray_249
+LANG_ENGLISH         "SPRAY_249"
+
+REFERENCE            spray_250
+LANG_ENGLISH         "SPRAY_250"
+
+REFERENCE            spray_251
+LANG_ENGLISH         "SPRAY_251"
+
+REFERENCE            spray_252
+LANG_ENGLISH         "Dead inside"
+
+REFERENCE            spray_253
+LANG_ENGLISH         "SPRAY_253"
+
+REFERENCE            spray_254
+LANG_ENGLISH         "My Dominion"
+
+REFERENCE            spray_255
+LANG_ENGLISH         "Private Skull"
+
+REFERENCE            spray_256
+LANG_ENGLISH         "Thought Bubbles"
+
+REFERENCE            spray_257
+LANG_ENGLISH         "SPRAY_257"
+
+REFERENCE            spray_258
+LANG_ENGLISH         "SPRAY_258"
+
+REFERENCE            spray_259
+LANG_ENGLISH         "Five More"
+
+REFERENCE            spray_260
+LANG_ENGLISH         "Five Down"
+
+REFERENCE            spray_261
+LANG_ENGLISH         "Five Lives"
+
+REFERENCE            spray_262
+LANG_ENGLISH         "Two Mistakes"
+
+REFERENCE            spray_263
+LANG_ENGLISH         "Fat Five"
+
+REFERENCE            spray_264
+LANG_ENGLISH         "Fab Five"
+
+REFERENCE            spray_265
+LANG_ENGLISH         "3 Strikes"
+
+REFERENCE            spray_266
+LANG_ENGLISH         "French Fives"
+
+REFERENCE            spray_267
+LANG_ENGLISH         "Three Chances"
+
+REFERENCE            spray_268
+LANG_ENGLISH         "Five Fences"
+
+REFERENCE            spray_269
+LANG_ENGLISH         "Three's a Charm"
+
+REFERENCE            spray_270
+LANG_ENGLISH         "Lookin' Five"
+
+REFERENCE            spray_271
+LANG_ENGLISH         "Final Five"
+
+REFERENCE            spray_272
+LANG_ENGLISH         "Two Timer"
+
+REFERENCE            spray_273
+LANG_ENGLISH         "Round 5"
+
+REFERENCE            spray_274
+LANG_ENGLISH         "Tois"
+
+REFERENCE            spray_275
+LANG_ENGLISH         "On the Fence"
+
+REFERENCE            spray_276
+LANG_ENGLISH         "Quads"
+
+REFERENCE            spray_277
+LANG_ENGLISH         "Three's a Crowd"
+
+REFERENCE            spray_278
+LANG_ENGLISH         "Razor's Edge"
+
+REFERENCE            spray_279
+LANG_ENGLISH         "Fine Five"
+
+REFERENCE            spray_280
+LANG_ENGLISH         "The Big Guns"
+
+REFERENCE            spray_281
+LANG_ENGLISH         "Locust"
+
+REFERENCE            spray_282
+LANG_ENGLISH         "Patrol"
+
+REFERENCE            spray_283
+LANG_ENGLISH         "Boogie Monster"
+
+REFERENCE            spray_284
+LANG_ENGLISH         "Standing Tall"
+
+REFERENCE            spray_285
+LANG_ENGLISH         "Trailblazer"
+
+REFERENCE            spray_286
+LANG_ENGLISH         "Plain Sight"
+
+REFERENCE            spray_287
+LANG_ENGLISH         "Lookout"
+
+REFERENCE            spray_288
+LANG_ENGLISH         "At the Ready"
+
+REFERENCE            spray_289
+LANG_ENGLISH         "Highlander"
+
+REFERENCE            spray_290
+LANG_ENGLISH         "Pride Stride"
+
+REFERENCE            spray_291
+LANG_ENGLISH         "Standoff"
+
+REFERENCE            spray_292
+LANG_ENGLISH         "Thunder Knight"
+
+REFERENCE            spray_293
+LANG_ENGLISH         "Feral Fear"
+
+REFERENCE            spray_294
+LANG_ENGLISH         "Silverback"
+
+REFERENCE            spray_295
+LANG_ENGLISH         "Poison Grapes"
+
+REFERENCE            spray_296
+LANG_ENGLISH         "Death in the Sky"
+
+REFERENCE            spray_297
+LANG_ENGLISH         "Wyvern"
+
+REFERENCE            spray_298
+LANG_ENGLISH         "Fiendish"
+
+REFERENCE            spray_299
+LANG_ENGLISH         "Royal Seal"
+
+REFERENCE            spray_300
+LANG_ENGLISH         "Cold-Hearted"
+
+REFERENCE            spray_301
+LANG_ENGLISH         "Blood Diamond"
+
+REFERENCE            spray_302
+LANG_ENGLISH         "Electrifying"
+
+REFERENCE            spray_303
+LANG_ENGLISH         "Slither"
+
+REFERENCE            spray_304
+LANG_ENGLISH         "Emerald Quiver"
+
+REFERENCE            spray_305
+LANG_ENGLISH         "Treacherous Web"
+
+REFERENCE            spray_306
+LANG_ENGLISH         "Omega Doge"
+
+REFERENCE            spray_307
+LANG_ENGLISH         "Nautical"
+
+REFERENCE            spray_308
+LANG_ENGLISH         "Valiant"
+
+REFERENCE            spray_309
+LANG_ENGLISH         "Strike Hot"
+
+REFERENCE            spray_310
+LANG_ENGLISH         "Six Amp"
+
+REFERENCE            spray_311
+LANG_ENGLISH         "Honor & Glory"
+
+REFERENCE            spray_312
+LANG_ENGLISH         "SPRAY_312"
+
+REFERENCE            spray_313
+LANG_ENGLISH         "SPRAY_313"
+
+REFERENCE            spray_314
+LANG_ENGLISH         "SPRAY_314"
+
+REFERENCE            spray_315
+LANG_ENGLISH         "SPRAY_315"
+
+REFERENCE            spray_316
+LANG_ENGLISH         "Guns a Blazing"
+
+REFERENCE            spray_317
+LANG_ENGLISH         "SPRAY_317"
+
+REFERENCE            spray_318
+LANG_ENGLISH         "Wildcat"
+
+REFERENCE            spray_319
+LANG_ENGLISH         "Higher Calling"
+
+REFERENCE            spray_320
+LANG_ENGLISH         "Gemini"
+
+REFERENCE            spray_321
+LANG_ENGLISH         "SPRAY_321"
+
+REFERENCE            spray_322
+LANG_ENGLISH         "SPRAY_322"
+
+REFERENCE            spray_323
+LANG_ENGLISH         "SPRAY_323"
+
+REFERENCE            spray_324
+LANG_ENGLISH         "SPRAY_324"
+
+REFERENCE            spray_325
+LANG_ENGLISH         "Live it Up"
+
+REFERENCE            spray_326
+LANG_ENGLISH         "Funky Fresh"
+
+REFERENCE            spray_327
+LANG_ENGLISH         "Mammoth Damage"
+
+REFERENCE            spray_328
+LANG_ENGLISH         "SPRAY_328"
+
+REFERENCE            spray_329
+LANG_ENGLISH         "SPRAY_329"
+
+REFERENCE            spray_330
+LANG_ENGLISH         "SPRAY_330"
+
+REFERENCE            spray_331
+LANG_ENGLISH         "SPRAY_331"
+
+REFERENCE            spray_332
+LANG_ENGLISH         "SPRAY_332"
+
+REFERENCE            spray_333
+LANG_ENGLISH         "SPRAY_333"
+
+REFERENCE            spray_334
+LANG_ENGLISH         "SPRAY_334"
+
+REFERENCE            spray_335
+LANG_ENGLISH         "SPRAY_335"
+
+REFERENCE            spray_336
+LANG_ENGLISH         "SPRAY_336"
+
+REFERENCE            spray_337
+LANG_ENGLISH         "SPRAY_337"
+
+REFERENCE            spray_338
+LANG_ENGLISH         "SPRAY_338"
+
+REFERENCE            spray_339
+LANG_ENGLISH         "Want You Dead"
+
+REFERENCE            spray_340
+LANG_ENGLISH         "SPRAY_340"
+
+REFERENCE            spray_341
+LANG_ENGLISH         "SPRAY_341"
+
+REFERENCE            spray_342
+LANG_ENGLISH         "Activision Aces"
+
+REFERENCE            spray_343
+LANG_ENGLISH         "Activision Ambassadors"
+
+REFERENCE            spray_344
+LANG_ENGLISH         "SPRAY_344"
+
+REFERENCE            spray_345
+LANG_ENGLISH         "SPRAY_345"
+
+REFERENCE            spray_346
+LANG_ENGLISH         "SPRAY_346"
+
+REFERENCE            spray_347
+LANG_ENGLISH         "SPRAY_347"
+
+REFERENCE            spray_348
+LANG_ENGLISH         "SPRAY_348"
+
+REFERENCE            spray_349
+LANG_ENGLISH         "SPRAY_349"
+
+REFERENCE            spray_350
+LANG_ENGLISH         "SPRAY_350"
+
+REFERENCE            spray_351
+LANG_ENGLISH         "SPRAY_351"
+
+REFERENCE            spray_352
+LANG_ENGLISH         "SPRAY_352"
+
+REFERENCE            spray_353
+LANG_ENGLISH         "SPRAY_353"
+
+REFERENCE            spray_354
+LANG_ENGLISH         "SPRAY_354"
+
+REFERENCE            spray_355
+LANG_ENGLISH         "SPRAY_355"
+
+REFERENCE            spray_356
+LANG_ENGLISH         "Bullet Grit"
+
+REFERENCE            spray_357
+LANG_ENGLISH         "SPRAY_357"
+
+REFERENCE            spray_358
+LANG_ENGLISH         "SPRAY_358"
+
+REFERENCE            spray_359
+LANG_ENGLISH         "SPRAY_359"
+
+REFERENCE            spray_360
+LANG_ENGLISH         "SPRAY_360"
+
+REFERENCE            spray_361
+LANG_ENGLISH         "SPRAY_361"
+
+REFERENCE            spray_362
+LANG_ENGLISH         "SPRAY_362"
+
+REFERENCE            spray_363
+LANG_ENGLISH         "SPRAY_363"
+
+REFERENCE            spray_364
+LANG_ENGLISH         "SPRAY_364"
+
+REFERENCE            spray_365
+LANG_ENGLISH         "SPRAY_365"
+
+REFERENCE            spray_366
+LANG_ENGLISH         "SPRAY_366"
+
+REFERENCE            spray_367
+LANG_ENGLISH         "SPRAY_367"
+
+REFERENCE            spray_368
+LANG_ENGLISH         "SPRAY_368"
+
+REFERENCE            spray_369
+LANG_ENGLISH         "SPRAY_369"
+
+REFERENCE            spray_370
+LANG_ENGLISH         "SPRAY_370"
+
+REFERENCE            spray_371
+LANG_ENGLISH         "SPRAY_371"
+
+REFERENCE            spray_372
+LANG_ENGLISH         "SPRAY_372"
+
+REFERENCE            spray_373
+LANG_ENGLISH         "SPRAY_373"
+
+REFERENCE            spray_374
+LANG_ENGLISH         "SPRAY_374"
+
+REFERENCE            spray_375
+LANG_ENGLISH         "SPRAY_375"
+
+REFERENCE            spray_376
+LANG_ENGLISH         "SPRAY_376"
+
+REFERENCE            spray_377
+LANG_ENGLISH         "Big Plans"
+
+REFERENCE            spray_378
+LANG_ENGLISH         "SPRAY_378"
+
+REFERENCE            spray_379
+LANG_ENGLISH         "SPRAY_379"
+
+REFERENCE            spray_380
+LANG_ENGLISH         "SPRAY_380"
+
+REFERENCE            spray_381
+LANG_ENGLISH         "SPRAY_381"
+
+REFERENCE            spray_382
+LANG_ENGLISH         "SPRAY_382"
+
+REFERENCE            spray_383
+LANG_ENGLISH         "SPRAY_383"
+
+REFERENCE            spray_384
+LANG_ENGLISH         "SPRAY_384"
+
+REFERENCE            spray_385
+LANG_ENGLISH         "SPRAY_385"
+
+REFERENCE            spray_386
+LANG_ENGLISH         "SPRAY_386"
+
+REFERENCE            spray_387
+LANG_ENGLISH         "SPRAY_387"
+
+REFERENCE            spray_388
+LANG_ENGLISH         "SPRAY_388"
+
+REFERENCE            spray_389
+LANG_ENGLISH         "SPRAY_389"
+
+REFERENCE            spray_390
+LANG_ENGLISH         "SPRAY_390"
+
+REFERENCE            spray_391
+LANG_ENGLISH         "SPRAY_391"
+
+REFERENCE            spray_392
+LANG_ENGLISH         "SPRAY_392"
+
+REFERENCE            spray_393
+LANG_ENGLISH         "On Target"
+
+REFERENCE            spray_394
+LANG_ENGLISH         "SPRAY_394"
+
+REFERENCE            spray_395
+LANG_ENGLISH         "SPRAY_395"
+
+REFERENCE            spray_396
+LANG_ENGLISH         "Head Shot"
+
+REFERENCE            spray_397
+LANG_ENGLISH         "SPRAY_397"
+
+REFERENCE            spray_398
+LANG_ENGLISH         "In the Crosshairs"
+
+REFERENCE            spray_399
+LANG_ENGLISH         "Zane Glint"
+
+REFERENCE            spray_400
+LANG_ENGLISH         "SPRAY_400"
+
+REFERENCE            spray_401
+LANG_ENGLISH         "SPRAY_401"
+
+REFERENCE            spray_402
+LANG_ENGLISH         "SPRAY_402"
+
+REFERENCE            spray_403
+LANG_ENGLISH         "SPRAY_403"
+
+REFERENCE            spray_404
+LANG_ENGLISH         "SPRAY_404"
+
+REFERENCE            spray_405
+LANG_ENGLISH         "SPRAY_405"
+
+REFERENCE            spray_406
+LANG_ENGLISH         "SPRAY_406"
+
+REFERENCE            spray_407
+LANG_ENGLISH         "SPRAY_407"
+
+REFERENCE            spray_408
+LANG_ENGLISH         "SPRAY_408"
+
+REFERENCE            spray_409
+LANG_ENGLISH         "SPRAY_409"
+
+REFERENCE            spray_410
+LANG_ENGLISH         "SPRAY_410"
+
+REFERENCE            spray_411
+LANG_ENGLISH         "SPRAY_411"
+
+REFERENCE            spray_412
+LANG_ENGLISH         "SPRAY_412"
+
+REFERENCE            spray_413
+LANG_ENGLISH         "SPRAY_413"
+
+REFERENCE            spray_414
+LANG_ENGLISH         "SPRAY_414"
+
+REFERENCE            spray_415
+LANG_ENGLISH         "Bruiser"
+
+REFERENCE            spray_416
+LANG_ENGLISH         "SPRAY_416"
+
+REFERENCE            spray_417
+LANG_ENGLISH         "SPRAY_417"
+
+REFERENCE            spray_418
+LANG_ENGLISH         "SPRAY_418"
+
+REFERENCE            spray_419
+LANG_ENGLISH         "SPRAY_419"
+
+REFERENCE            spray_420
+LANG_ENGLISH         "SPRAY_420"
+
+REFERENCE            spray_421
+LANG_ENGLISH         "SPRAY_421"
+
+REFERENCE            spray_422
+LANG_ENGLISH         "SPRAY_422"
+
+REFERENCE            spray_423
+LANG_ENGLISH         "Reaper"
+
+REFERENCE            spray_424
+LANG_ENGLISH         "SPRAY_424"
+
+REFERENCE            spray_425
+LANG_ENGLISH         "SPRAY_425"
+
+REFERENCE            spray_426
+LANG_ENGLISH         "SPRAY_426"
+
+REFERENCE            spray_427
+LANG_ENGLISH         "SPRAY_427"
+
+REFERENCE            spray_428
+LANG_ENGLISH         "SPRAY_428"
+
+REFERENCE            spray_429
+LANG_ENGLISH         "SPRAY_429"
+
+REFERENCE            spray_430
+LANG_ENGLISH         "In the Shade"
+
+REFERENCE            spray_431
+LANG_ENGLISH         "SPRAY_431"
+
+REFERENCE            spray_432
+LANG_ENGLISH         "SPRAY_432"
+
+REFERENCE            spray_433
+LANG_ENGLISH         "SPRAY_433"
+
+REFERENCE            spray_434
+LANG_ENGLISH         "Fiery Tomb"
+
+REFERENCE            spray_435
+LANG_ENGLISH         "SPRAY_435"
+
+REFERENCE            spray_436
+LANG_ENGLISH         "SPRAY_436"
+
+REFERENCE            spray_437
+LANG_ENGLISH         "SPRAY_437"
+
+REFERENCE            spray_438
+LANG_ENGLISH         "SPRAY_438"
+
+REFERENCE            spray_439
+LANG_ENGLISH         "SPRAY_439"
+
+REFERENCE            spray_440
+LANG_ENGLISH         "SPRAY_440"
+
+REFERENCE            spray_441
+LANG_ENGLISH         "SPRAY_441"
+
+REFERENCE            spray_442
+LANG_ENGLISH         "SPRAY_442"
+
+REFERENCE            spray_443
+LANG_ENGLISH         "Blossom Bomb"
+
+REFERENCE            spray_444
+LANG_ENGLISH         "SPRAY_444"
+
+REFERENCE            spray_445
+LANG_ENGLISH         "SPRAY_445"
+
+REFERENCE            spray_446
+LANG_ENGLISH         "SPRAY_446"
+
+REFERENCE            spray_447
+LANG_ENGLISH         "SPRAY_447"
+
+REFERENCE            spray_448
+LANG_ENGLISH         "SPRAY_448"
+
+REFERENCE            spray_449
+LANG_ENGLISH         "SPRAY_449"
+
+REFERENCE            spray_450
+LANG_ENGLISH         "SPRAY_450"
+
+REFERENCE            spray_451
+LANG_ENGLISH         "Teddy"
+
+REFERENCE            spray_452
+LANG_ENGLISH         "SPRAY_452"
+
+REFERENCE            spray_453
+LANG_ENGLISH         "Masks On"
+
+REFERENCE            spray_454
+LANG_ENGLISH         "Biohazard"
+
+REFERENCE            spray_455
+LANG_ENGLISH         "ChemWeap"
+
+REFERENCE            spray_456
+LANG_ENGLISH         "Hazmat Savior"
+
+REFERENCE            spray_457
+LANG_ENGLISH         "Mind Blown"
+
+REFERENCE            spray_458
+LANG_ENGLISH         "SPRAY_458"
+
+REFERENCE            spray_459
+LANG_ENGLISH         "Fire Hazard"
+
+REFERENCE            spray_460
+LANG_ENGLISH         "Hazardous"
+
+REFERENCE            spray_461
+LANG_ENGLISH         "Immolation"
+
+REFERENCE            spray_462
+LANG_ENGLISH         "Atlanta FaZe"
+
+REFERENCE            spray_463
+LANG_ENGLISH         "Chicago Huntsmen"
+
+REFERENCE            spray_464
+LANG_ENGLISH         "Dallas Empire"
+
+REFERENCE            spray_465
+LANG_ENGLISH         "Florida Mutineers"
+
+REFERENCE            spray_466
+LANG_ENGLISH         "Los Angeles Guerrillas"
+
+REFERENCE            spray_467
+LANG_ENGLISH         "OpTic Gaming Los Angeles"
+
+REFERENCE            spray_468
+LANG_ENGLISH         "London Royal Ravens"
+
+REFERENCE            spray_469
+LANG_ENGLISH         "Minnesota R??KKR"
+
+REFERENCE            spray_470
+LANG_ENGLISH         "New York Subliners"
+
+REFERENCE            spray_471
+LANG_ENGLISH         "Paris Legion"
+
+REFERENCE            spray_472
+LANG_ENGLISH         "Seattle Surge"
+
+REFERENCE            spray_473
+LANG_ENGLISH         "Toronto Ultra"
+
+REFERENCE            spray_474
+LANG_ENGLISH         "Lucky Dragon"
+
+REFERENCE            spray_475
+LANG_ENGLISH         "SPRAY 475"
+
+REFERENCE            spray_476
+LANG_ENGLISH         "Avenged"
+
+REFERENCE            spray_477
+LANG_ENGLISH         "Crucible"
+
+REFERENCE            spray_478
+LANG_ENGLISH         "Dead Men"
+
+REFERENCE            spray_479
+LANG_ENGLISH         "Ghost III"
+
+REFERENCE            spray_480
+LANG_ENGLISH         "The Fallen"
+
+REFERENCE            spray_481
+LANG_ENGLISH         "Unbroken"
+
+REFERENCE            spray_482
+LANG_ENGLISH         "Off The Lawn!"
+
+REFERENCE            spray_483
+LANG_ENGLISH         "With Me?"
+
+REFERENCE            spray_484
+LANG_ENGLISH         "Sacred Ground"
+
+REFERENCE            spray_485
+LANG_ENGLISH         "SPRAY 485"
+
+REFERENCE            spray_486
+LANG_ENGLISH         "Atlanta Faze Home Series"
+
+REFERENCE            spray_487
+LANG_ENGLISH         "Chicago Huntsmen Home Series"
+
+REFERENCE            spray_488
+LANG_ENGLISH         "Dallas Empire Home Series"
+
+REFERENCE            spray_489
+LANG_ENGLISH         "Florida Mutineers Home Series"
+
+REFERENCE            spray_490
+LANG_ENGLISH         "Los Angeles Guerrillas Home Series"
+
+REFERENCE            spray_491
+LANG_ENGLISH         "Optic Gaming Los Angeles Home Series"
+
+REFERENCE            spray_492
+LANG_ENGLISH         "London Royal Ravens Home Series"
+
+REFERENCE            spray_493
+LANG_ENGLISH         "Minnesota R??kkr Home Series"
+
+REFERENCE            spray_494
+LANG_ENGLISH         "New York Subliners Home Series"
+
+REFERENCE            spray_495
+LANG_ENGLISH         "Paris Legion Home Series"
+
+REFERENCE            spray_496
+LANG_ENGLISH         "Seattle Surge Home Series"
+
+REFERENCE            spray_497
+LANG_ENGLISH         "Toronto Ultra Home Series"
+
+REFERENCE            spray_047
+LANG_ENGLISH         "Spray 47"
+
+REFERENCE            spray_048
+LANG_ENGLISH         "Spray 48"
+
+REFERENCE            spray_049
+LANG_ENGLISH         "Spray 49"
+
+REFERENCE            spray_050
+LANG_ENGLISH         "Spray 50"
+
+REFERENCE            spray_051
+LANG_ENGLISH         "Spray 51"
+
+REFERENCE            spray_052
+LANG_ENGLISH         "Spray 52"
+
+REFERENCE            spray_053
+LANG_ENGLISH         "Spray 53"
+
+REFERENCE            spray_054
+LANG_ENGLISH         "Spray 54"
+
+REFERENCE            spray_055
+LANG_ENGLISH         "Spray 55"
+
+REFERENCE            spray_056
+LANG_ENGLISH         "Spray 56"
+
+REFERENCE            spray_057
+LANG_ENGLISH         "Spray 57"
+
+REFERENCE            spray_058
+LANG_ENGLISH         "Spray 58"
+
+REFERENCE            spray_059
+LANG_ENGLISH         "Spray 59"
+
+REFERENCE            spray_060
+LANG_ENGLISH         "Spray 60"
+
+REFERENCE            spray_073
+LANG_ENGLISH         "Surprisingly Surprised!"
+
+REFERENCE            spray_074
+LANG_ENGLISH         "Secret CODE"
+
+REFERENCE            spray_075
+LANG_ENGLISH         "CODE All Star"
+
+REFERENCE            spray_076
+LANG_ENGLISH         "Patrol"
+
+REFERENCE            spray_077
+LANG_ENGLISH         "Heavy"
+
+REFERENCE            spray_078
+LANG_ENGLISH         "Equipped"
+
+REFERENCE            spray_079
+LANG_ENGLISH         "Idle"
+
+REFERENCE            spray_081
+LANG_ENGLISH         "Mercenary"
+
+REFERENCE            spray_082
+LANG_ENGLISH         "Sneaky"
+
+REFERENCE            spray_083
+LANG_ENGLISH         "Poise"
+
+REFERENCE            spray_085
+LANG_ENGLISH         "Try Me"
+
+REFERENCE            spray_086
+LANG_ENGLISH         "Target Practice"
+
+REFERENCE            spray_088
+LANG_ENGLISH         "Center Mass"
+
+REFERENCE            spray_089
+LANG_ENGLISH         "Modern Viking"
+
+REFERENCE            spray_090
+LANG_ENGLISH         "Henchman Fodder"
+
+REFERENCE            spray_091
+LANG_ENGLISH         "Covert Takedown"
+
+REFERENCE            spray_092
+LANG_ENGLISH         "Looks that Kill"
+
+REFERENCE            spray_093
+LANG_ENGLISH         "Marked for Death"
+
+REFERENCE            spray_094
+LANG_ENGLISH         "Deflect This"
+
+REFERENCE            spray_095
+LANG_ENGLISH         "Non-lethal"
+
+REFERENCE            spray_096
+LANG_ENGLISH         "Hero's Dilemma"
+
+REFERENCE            spray_097
+LANG_ENGLISH         "Brawler"
+
+REFERENCE            spray_098
+LANG_ENGLISH         "Hey! You There"
+
+REFERENCE            spray_099
+LANG_ENGLISH         "UR DEAD"
+
+REFERENCE            spray_100
+LANG_ENGLISH         "RIP"
+
+REFERENCE            spray_101
+LANG_ENGLISH         "Pwned"
+
+REFERENCE            spray_102
+LANG_ENGLISH         "Go Away"
+
+REFERENCE            spray_103
+LANG_ENGLISH         "Customer Service"
+
+REFERENCE            spray_104
+LANG_ENGLISH         "Someone's Watching"
+
+REFERENCE            spray_105
+LANG_ENGLISH         "Hold Still"
+
+REFERENCE            spray_106
+LANG_ENGLISH         "Mind Control"
+
+REFERENCE            spray_107
+LANG_ENGLISH         "Aim Check"
+
+REFERENCE            spray_108
+LANG_ENGLISH         "Belly Flop"
+
+REFERENCE            spray_109
+LANG_ENGLISH         "The Jogger"
+
+REFERENCE            spray_110
+LANG_ENGLISH         "Jazz Hands"
+
+REFERENCE            spray_111
+LANG_ENGLISH         "Sweet Hitchhiker"
+
+REFERENCE            spray_112
+LANG_ENGLISH         "Falling"
+
+REFERENCE            spray_113
+LANG_ENGLISH         "Howdy Neighbor"
+
+REFERENCE            spray_114
+LANG_ENGLISH         "Take a Seat"
+
+REFERENCE            spray_115
+LANG_ENGLISH         "Restless Sleeper"
+
+REFERENCE            spray_116
+LANG_ENGLISH         "Tap Dancer"
+
+REFERENCE            spray_118
+LANG_ENGLISH         "Skipping Along"
+
+REFERENCE            spray_119
+LANG_ENGLISH         "Funky Rhythm"
+
+REFERENCE            spray_120
+LANG_ENGLISH         "Vertical Twist"
+
+REFERENCE            spray_121
+LANG_ENGLISH         "Morning Jog"
+
+REFERENCE            spray_122
+LANG_ENGLISH         "Hyped"
+
+REFERENCE            spray_123
+LANG_ENGLISH         "Free Fall"
+
+REFERENCE            spray_124
+LANG_ENGLISH         "No Bones"
+
+REFERENCE            spray_125
+LANG_ENGLISH         "Slacker"
+
+REFERENCE            spray_126
+LANG_ENGLISH         "Rigor Mortis"
+
+REFERENCE            spray_127
+LANG_ENGLISH         "Hands Free"
+
+REFERENCE            spray_128
+LANG_ENGLISH         "Dead Last"
+
+REFERENCE            spray_129
+LANG_ENGLISH         "Back Scratch"
+
+REFERENCE            spray_130
+LANG_ENGLISH         "Hands in the Air"
+
+REFERENCE            spray_131
+LANG_ENGLISH         "Step Forward"
+
+REFERENCE            spray_132
+LANG_ENGLISH         "Up Here"
+
+REFERENCE            spray_133
+LANG_ENGLISH         "Hop, Skip, Jump"
+
+REFERENCE            spray_134
+LANG_ENGLISH         "Little Teapot"
+
+REFERENCE            spray_135
+LANG_ENGLISH         "In the Distance"
+
+REFERENCE            spray_137
+LANG_ENGLISH         "Peace Maker"
+
+REFERENCE            spray_138
+LANG_ENGLISH         "Swamp Fever"
+
+REFERENCE            spray_139
+LANG_ENGLISH         "Stand Down"
+
+REFERENCE            spray_142
+LANG_ENGLISH         "Be Mine"
+
+REFERENCE            spray_146
+LANG_ENGLISH         "C Ya Later"
+
+REFERENCE            spray_147
+LANG_ENGLISH         "Jump Scare"
+
+REFERENCE            spray_148
+LANG_ENGLISH         "Out of Reach"
+
+REFERENCE            spray_149
+LANG_ENGLISH         "Surprise!"
+
+REFERENCE            spray_150
+LANG_ENGLISH         "Center Mass"
+
+REFERENCE            spray_151
+LANG_ENGLISH         "Center Mass"
+
+REFERENCE            spray_152
+LANG_ENGLISH         "One Shot Only"
+
+REFERENCE            spray_153
+LANG_ENGLISH         "Square Up"
+
+REFERENCE            spray_154
+LANG_ENGLISH         "Phase Shift"
+
+REFERENCE            spray_155
+LANG_ENGLISH         "Nutty"
+
+REFERENCE            spray_156
+LANG_ENGLISH         "Crystal Clear"
+
+REFERENCE            spray_157
+LANG_ENGLISH         "New Dimension"
+
+REFERENCE            spray_158
+LANG_ENGLISH         "Archaic Madness"
+
+REFERENCE            spray_159
+LANG_ENGLISH         "Omni Directional"
+
+REFERENCE            spray_160
+LANG_ENGLISH         "Crown"
+
+REFERENCE            spray_161
+LANG_ENGLISH         "Star-E Sky"
+
+REFERENCE            spray_162
+LANG_ENGLISH         "Cross Hatched"
+
+REFERENCE            spray_163
+LANG_ENGLISH         "Infinite"
+
+REFERENCE            spray_164
+LANG_ENGLISH         "Over Here"
+
+REFERENCE            spray_165
+LANG_ENGLISH         "ROYGBIV"
+
+REFERENCE            spray_166
+LANG_ENGLISH         "Layered"
+
+REFERENCE            spray_167
+LANG_ENGLISH         "Beneath the Surface"
+
+REFERENCE            spray_168
+LANG_ENGLISH         "Art Forms"
+
+REFERENCE            spray_169
+LANG_ENGLISH         "Symphony"
+
+REFERENCE            spray_170
+LANG_ENGLISH         "Misdirection"
+
+REFERENCE            spray_171
+LANG_ENGLISH         "Bird's Eye View"
+
+REFERENCE            spray_172
+LANG_ENGLISH         "Global Warming"
+
+REFERENCE            spray_173
+LANG_ENGLISH         "Spartan Sense"
+
+REFERENCE            spray_174
+LANG_ENGLISH         "Divine Justice"
+
+REFERENCE            spray_175
+LANG_ENGLISH         "Medieval"
+
+REFERENCE            spray_177
+LANG_ENGLISH         "Smite Thee"
+
+REFERENCE            spray_182
+LANG_ENGLISH         "Brain Surgeon"
+
+REFERENCE            spray_184
+LANG_ENGLISH         "Shoot to Thrill"
+
+REFERENCE            spray_185
+LANG_ENGLISH         "Phoenix Fire"
+
+REFERENCE            spray_186
+LANG_ENGLISH         "The Ram"
+
+REFERENCE            spray_187
+LANG_ENGLISH         "Death Purge"
+
+REFERENCE            spray_188
+LANG_ENGLISH         "Rule of Three"
+
+REFERENCE            spray_189
+LANG_ENGLISH         "Spades"
+
+REFERENCE            spray_190
+LANG_ENGLISH         "Nautilus"
+
+REFERENCE            spray_191
+LANG_ENGLISH         "Armageddon"
+
+REFERENCE            spray_192
+LANG_ENGLISH         "Executioner"
+
+REFERENCE            spray_193
+LANG_ENGLISH         "Over Fished"
+
+REFERENCE            spray_194
+LANG_ENGLISH         "Star Struck"
+
+REFERENCE            spray_195
+LANG_ENGLISH         "Lethal Status"
+
+REFERENCE            spray_196
+LANG_ENGLISH         "SPRAY_196"
+
+REFERENCE            spray_197
+LANG_ENGLISH         "Humane Extinction"
+
+REFERENCE            spray_198
+LANG_ENGLISH         "SPRAY_198"
+
+REFERENCE            spray_199
+LANG_ENGLISH         "HammerTime"
+
+REFERENCE            spray_200
+LANG_ENGLISH         "Toothpick"
+
+REFERENCE            spray_204
+LANG_ENGLISH         "Bravo"
+
+REFERENCE            spray_206
+LANG_ENGLISH         "Hot"
+
+REFERENCE            spray_211
+LANG_ENGLISH         "SPRAY_211"
+
+REFERENCE            spray_212
+LANG_ENGLISH         "SPRAY_212"
+
+REFERENCE            spray_213
+LANG_ENGLISH         "SPRAY_213"
+
+REFERENCE            spray_214
+LANG_ENGLISH         "Bleed Out"
+
+REFERENCE            spray_215
+LANG_ENGLISH         "SPRAY_215"
+
+REFERENCE            spray_216
+LANG_ENGLISH         "SPRAY_216"
+
+REFERENCE            spray_220
+LANG_ENGLISH         "One Shot"
+
+REFERENCE            spray_221
+LANG_ENGLISH         "Poisonous"
+
+REFERENCE            spray_223
+LANG_ENGLISH         "Electrifight"
+
+REFERENCE            spray_225
+LANG_ENGLISH         "Fallen Star"
+
+REFERENCE            spray_228
+LANG_ENGLISH         "Wings of Valor"
+
+REFERENCE            spray_229
+LANG_ENGLISH         "Blood Shot"
+
+REFERENCE            spray_230
+LANG_ENGLISH         "SPRAY_230"
+
+REFERENCE            spray_231
+LANG_ENGLISH         "SPRAY_231"
+
+REFERENCE            spray_232
+LANG_ENGLISH         "SPRAY_232"
+
+REFERENCE            spray_233
+LANG_ENGLISH         "SPRAY_233"
+
+REFERENCE            spray_234
+LANG_ENGLISH         "SPRAY_234"
+
+REFERENCE            spray_235
+LANG_ENGLISH         "SPRAY_235"
+
+REFERENCE            spray_236
+LANG_ENGLISH         "Wrath"
+
+REFERENCE            spray_237
+LANG_ENGLISH         "SPRAY_237"
+
+REFERENCE            spray_238
+LANG_ENGLISH         "SPRAY_238"
+
+REFERENCE            spray_239
+LANG_ENGLISH         "SPRAY_239"
+
+REFERENCE            spray_241
+LANG_ENGLISH         "Go Forth"
+
+REFERENCE            spray_242
+LANG_ENGLISH         "Up, Up, and Away"
+
+REFERENCE            spray_244
+LANG_ENGLISH         "SPRAY_244"
+
+REFERENCE            spray_245
+LANG_ENGLISH         "Downward Dog"
+
+REFERENCE            spray_246
+LANG_ENGLISH         "Ammi Right"
+
+REFERENCE            spray_248
+LANG_ENGLISH         "SPRAY_248"
+
+REFERENCE            spray_249
+LANG_ENGLISH         "SPRAY_249"
+
+REFERENCE            spray_250
+LANG_ENGLISH         "SPRAY_250"
+
+REFERENCE            spray_251
+LANG_ENGLISH         "SPRAY_251"
+
+REFERENCE            spray_252
+LANG_ENGLISH         "Dead inside"
+
+REFERENCE            spray_253
+LANG_ENGLISH         "SPRAY_253"
+
+REFERENCE            spray_254
+LANG_ENGLISH         "My Dominion"
+
+REFERENCE            spray_255
+LANG_ENGLISH         "Private Skull"
+
+REFERENCE            spray_256
+LANG_ENGLISH         "Thought Bubbles"
+
+REFERENCE            spray_257
+LANG_ENGLISH         "SPRAY_257"
+
+REFERENCE            spray_258
+LANG_ENGLISH         "SPRAY_258"
+
+REFERENCE            spray_259
+LANG_ENGLISH         "Five More"
+
+REFERENCE            spray_260
+LANG_ENGLISH         "Five Down"
+
+REFERENCE            spray_261
+LANG_ENGLISH         "Five Lives"
+
+REFERENCE            spray_262
+LANG_ENGLISH         "Two Mistakes"
+
+REFERENCE            spray_263
+LANG_ENGLISH         "Fat Five"
+
+REFERENCE            spray_265
+LANG_ENGLISH         "3 Strikes"
+
+REFERENCE            spray_266
+LANG_ENGLISH         "French Fives"
+
+REFERENCE            spray_268
+LANG_ENGLISH         "Five Fences"
+
+REFERENCE            spray_269
+LANG_ENGLISH         "Three's a Charm"
+
+REFERENCE            spray_270
+LANG_ENGLISH         "Lookin' Five"
+
+REFERENCE            spray_271
+LANG_ENGLISH         "Final Five"
+
+REFERENCE            spray_272
+LANG_ENGLISH         "Two Timer"
+
+REFERENCE            spray_273
+LANG_ENGLISH         "Round 5"
+
+REFERENCE            spray_274
+LANG_ENGLISH         "Tois"
+
+REFERENCE            spray_275
+LANG_ENGLISH         "On the Fence"
+
+REFERENCE            spray_276
+LANG_ENGLISH         "Quads"
+
+REFERENCE            spray_277
+LANG_ENGLISH         "Three's a Crowd"
+
+REFERENCE            spray_278
+LANG_ENGLISH         "Razor's Edge"
+
+REFERENCE            spray_279
+LANG_ENGLISH         "Fine Five"
+
+REFERENCE            spray_280
+LANG_ENGLISH         "The Big Guns"
+
+REFERENCE            spray_281
+LANG_ENGLISH         "Locust"
+
+REFERENCE            spray_283
+LANG_ENGLISH         "Boogie Monster"
+
+REFERENCE            spray_284
+LANG_ENGLISH         "Standing Tall"
+
+REFERENCE            spray_285
+LANG_ENGLISH         "Trailblazer"
+
+REFERENCE            spray_286
+LANG_ENGLISH         "Plain Sight"
+
+REFERENCE            spray_287
+LANG_ENGLISH         "Lookout"
+
+REFERENCE            spray_288
+LANG_ENGLISH         "At the Ready"
+
+REFERENCE            spray_289
+LANG_ENGLISH         "Highlander"
+
+REFERENCE            spray_290
+LANG_ENGLISH         "Pride Stride"
+
+REFERENCE            spray_291
+LANG_ENGLISH         "Standoff"
+
+REFERENCE            spray_292
+LANG_ENGLISH         "Thunder Knight"
+
+REFERENCE            spray_293
+LANG_ENGLISH         "Feral Fear"
+
+REFERENCE            spray_294
+LANG_ENGLISH         "Silverback"
+
+REFERENCE            spray_295
+LANG_ENGLISH         "Poison Grapes"
+
+REFERENCE            spray_297
+LANG_ENGLISH         "Wyvern"
+
+REFERENCE            spray_298
+LANG_ENGLISH         "Fiendish"
+
+REFERENCE            spray_299
+LANG_ENGLISH         "Royal Seal"
+
+REFERENCE            spray_300
+LANG_ENGLISH         "Cold-Hearted"
+
+REFERENCE            spray_301
+LANG_ENGLISH         "Blood Diamond"
+
+REFERENCE            spray_302
+LANG_ENGLISH         "Electrifying"
+
+REFERENCE            spray_306
+LANG_ENGLISH         "Omega Doge"
+
+REFERENCE            spray_310
+LANG_ENGLISH         "Six Amp"
+
+REFERENCE            spray_311
+LANG_ENGLISH         "Honor & Glory"
+
+REFERENCE            spray_312
+LANG_ENGLISH         "SPRAY_312"
+
+REFERENCE            spray_313
+LANG_ENGLISH         "SPRAY_313"
+
+REFERENCE            spray_315
+LANG_ENGLISH         "SPRAY_315"
+
+REFERENCE            spray_316
+LANG_ENGLISH         "Guns a Blazing"
+
+REFERENCE            spray_317
+LANG_ENGLISH         "SPRAY_317"
+
+REFERENCE            spray_318
+LANG_ENGLISH         "Wildcat"
+
+REFERENCE            spray_319
+LANG_ENGLISH         "Higher Calling"
+
+REFERENCE            spray_320
+LANG_ENGLISH         "Gemini"
+
+REFERENCE            spray_321
+LANG_ENGLISH         "SPRAY_321"
+
+REFERENCE            spray_322
+LANG_ENGLISH         "SPRAY_322"
+
+REFERENCE            spray_323
+LANG_ENGLISH         "SPRAY_323"
+
+REFERENCE            spray_324
+LANG_ENGLISH         "SPRAY_324"
+
+REFERENCE            spray_326
+LANG_ENGLISH         "Funky Fresh"
+
+REFERENCE            spray_327
+LANG_ENGLISH         "Mammoth Damage"
+
+REFERENCE            spray_330
+LANG_ENGLISH         "SPRAY_330"
+
+REFERENCE            spray_046
+LANG_ENGLISH         "Spray 46"
+
+REFERENCE            spray_329
+LANG_ENGLISH         "SPRAY_329"
+
+REFERENCE            spray_328
+LANG_ENGLISH         "SPRAY_328"
+
+REFERENCE            spray_001
+LANG_ENGLISH         "Short Fuse"
+
+REFERENCE            spray_002
+LANG_ENGLISH         "Lil Devil"
+
+REFERENCE            spray_003
+LANG_ENGLISH         "Friend or Food"
+
+REFERENCE            spray_004
+LANG_ENGLISH         "Big-Bad-Toot"
+
+REFERENCE            spray_005
+LANG_ENGLISH         "Death Dino"
+
+REFERENCE            spray_006
+LANG_ENGLISH         "One Rude Dude"
+
+REFERENCE            spray_007
+LANG_ENGLISH         "Sunny Disposition"
+
+REFERENCE            spray_008
+LANG_ENGLISH         "Eternal Slumber"
+
+REFERENCE            spray_009
+LANG_ENGLISH         "Soft Serve"
+
+REFERENCE            spray_010
+LANG_ENGLISH         "Jester"
+
+REFERENCE            spray_011
+LANG_ENGLISH         "King of COD"
+
+REFERENCE            spray_012
+LANG_ENGLISH         "Goin' Bananas"
+
+REFERENCE            spray_013
+LANG_ENGLISH         "Space Cowboy"
+
+REFERENCE            spray_015
+LANG_ENGLISH         "Urban Undead"
+
+REFERENCE            spray_016
+LANG_ENGLISH         "Freeze"
+
+REFERENCE            spray_017
+LANG_ENGLISH         "Checkmate"
+
+REFERENCE            spray_018
+LANG_ENGLISH         "Chill"
+
+REFERENCE            spray_020
+LANG_ENGLISH         "Domination"
+
+REFERENCE            spray_021
+LANG_ENGLISH         "No Tourists"
+
+REFERENCE            spray_023
+LANG_ENGLISH         "Ace!"
+
+REFERENCE            spray_024
+LANG_ENGLISH         "Never Give Up"
+
+REFERENCE            spray_026
+LANG_ENGLISH         "Hyena"
+
+REFERENCE            spray_027
+LANG_ENGLISH         "Gargoyle"
+
+REFERENCE            spray_028
+LANG_ENGLISH         "Wolf Knight"
+
+REFERENCE            spray_030
+LANG_ENGLISH         "Beret & Bones"
+
+REFERENCE            spray_031
+LANG_ENGLISH         "Adamant"
+
+REFERENCE            spray_033
+LANG_ENGLISH         "Spray 33"
+
+REFERENCE            spray_034
+LANG_ENGLISH         "Spray 34"
+
+REFERENCE            spray_035
+LANG_ENGLISH         "Spray 35"
+
+REFERENCE            spray_036
+LANG_ENGLISH         "Spray 36"
+
+REFERENCE            spray_037
+LANG_ENGLISH         "Spray 37"
+
+REFERENCE            spray_038
+LANG_ENGLISH         "Spray 38"
+
+REFERENCE            spray_039
+LANG_ENGLISH         "Stalking Gargoyle"
+
+REFERENCE            spray_040
+LANG_ENGLISH         "Spray 40"
+
+REFERENCE            spray_041
+LANG_ENGLISH         "Spray 41"
+
+REFERENCE            spray_043
+LANG_ENGLISH         "Spray 43"
+
+REFERENCE            spray_044
+LANG_ENGLISH         "Spray 44"
+
+REFERENCE            spray_045
+LANG_ENGLISH         "Spray 45"
+
+REFERENCE            spray_247
+LANG_ENGLISH         "Tyrannical"
+
+REFERENCE            spray_243
+LANG_ENGLISH         "SPRAY_243"
+
+REFERENCE            spray_240
+LANG_ENGLISH         "Grimace"
+
+REFERENCE            spray_224
+LANG_ENGLISH         "Break These Bones"
+
+REFERENCE            spray_209
+LANG_ENGLISH         "SPRAY_209"
+
+REFERENCE            spray_205
+LANG_ENGLISH         "Feel That Burn"
+
+REFERENCE            spray_183
+LANG_ENGLISH         "Natural Born Killer"
+
+REFERENCE            spray_178
+LANG_ENGLISH         "Base Jumper"
+
+REFERENCE            spray_176
+LANG_ENGLISH         "Doom Horn"
+
+REFERENCE            spray_042
+LANG_ENGLISH         "Spray 42"
+
+REFERENCE            spray_032
+LANG_ENGLISH         "Spray 32"
+
+REFERENCE            spray_029
+LANG_ENGLISH         "Neptune's Wrath"
+
+REFERENCE            spray_025
+LANG_ENGLISH         "Best in Class"
+
+REFERENCE            spray_019
+LANG_ENGLISH         "Laugh Last"
+
+REFERENCE            spray_331
+LANG_ENGLISH         "SPRAY_331"
+
+
+ENDMARKER

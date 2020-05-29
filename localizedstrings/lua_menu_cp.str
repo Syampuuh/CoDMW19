@@ -1,0 +1,952 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            activated_by
+LANG_ENGLISH         "Activated by &&1"
+
+REFERENCE            assault_class_desc
+LANG_ENGLISH         "Fast reload"
+
+REFERENCE            assault_class_name
+LANG_ENGLISH         "Assault"
+
+REFERENCE            assault_mun_desc
+LANG_ENGLISH         "Ammo Box"
+
+REFERENCE            assault_orders_desc
+LANG_ENGLISH         "Thermite Launcher"
+
+REFERENCE            assault_prog_desc
+LANG_ENGLISH         "Active Ability: Team Stopping Power
+Passive Ability: Fast Reload"
+
+REFERENCE            big_map_name
+LANG_ENGLISH         "Big Map"
+
+REFERENCE            choose_map
+LANG_ENGLISH         "Select Map"
+
+REFERENCE            choose_mode
+LANG_ENGLISH         "Game Mode"
+
+REFERENCE            cinematics
+LANG_ENGLISH         "Cinematics"
+
+REFERENCE            cinematics_cp_intro
+LANG_ENGLISH         "Unified Forces"
+
+REFERENCE            cinematics_cp_intro_desc
+LANG_ENGLISH         "CP Intro Desc"
+
+REFERENCE            cinematics_cp_outro
+LANG_ENGLISH         "CP Outro"
+
+REFERENCE            cinematics_cp_outro_desc
+LANG_ENGLISH         "CP Outro Desc"
+
+REFERENCE            cinematics_dealer
+LANG_ENGLISH         "Operation Paladin"
+
+REFERENCE            cinematics_dealer_desc
+LANG_ENGLISH         "Operation Paladin Desc"
+
+REFERENCE            cinematics_desc
+LANG_ENGLISH         "Replay story Cinematics."
+
+REFERENCE            cinematics_landlord
+LANG_ENGLISH         "Operation Headhunter"
+
+REFERENCE            cinematics_landlord_desc
+LANG_ENGLISH         "Operation Headhunter Desc"
+
+REFERENCE            cinematics_launderer
+LANG_ENGLISH         "Operation Just Reward"
+
+REFERENCE            cinematics_launderer_desc
+LANG_ENGLISH         "Operation Just Reward Desc"
+
+REFERENCE            cinematics_smuggler
+LANG_ENGLISH         "Operation Harbinger"
+
+REFERENCE            cinematics_smuggler_desc
+LANG_ENGLISH         "Operation Harbinger Desc"
+
+REFERENCE            class_selection
+LANG_ENGLISH         "Class Selection"
+
+REFERENCE            classic_missions
+LANG_ENGLISH         "Classic Special Ops"
+
+REFERENCE            classic_missions_desc
+LANG_ENGLISH         "A replayable, curated experience where your proficiency with specific weapons, killstreaks, and other tools will be tested."
+
+REFERENCE            close
+LANG_ENGLISH         "[{ui_Select}] Close"
+
+REFERENCE            close_menu
+LANG_ENGLISH         "Close Menu"
+
+REFERENCE            completed
+LANG_ENGLISH         "Completed"
+
+REFERENCE            covert_ops_desc
+LANG_ENGLISH         "Enemy vehicles take longer to target you."
+
+REFERENCE            cp_so_aniyah
+LANG_ENGLISH         "Door Kick"
+
+REFERENCE            cp_so_aniyah_desc
+LANG_ENGLISH         "Infil. Retrieve enemy intel. Move to extraction point."
+
+REFERENCE            cp_so_embassy
+LANG_ENGLISH         "Disinform"
+
+REFERENCE            cp_so_embassy_desc
+LANG_ENGLISH         "Infil. Clear all hostile forces. Transfer classified intelligence. Move to exfil."
+
+REFERENCE            cp_so_estate
+LANG_ENGLISH         "Pitch Black"
+
+REFERENCE            cp_so_estate_desc
+LANG_ENGLISH         "Infil. Recover and transmit all on-site intel to your Tactical Rover. 
+Advisory: Defend Rover for ground exfil."
+
+REFERENCE            cp_so_finale
+LANG_ENGLISH         "Grounded"
+
+REFERENCE            cp_so_finale_desc
+LANG_ENGLISH         "Engage and eliminate AQ militants. Resecure airbase. "
+
+REFERENCE            cp_so_highway
+LANG_ENGLISH         "Safeguard"
+
+REFERENCE            cp_so_highway_desc
+LANG_ENGLISH         "Armed Air Reconnaissance. Report enemy troop movement. "
+
+REFERENCE            cp_so_proxywar
+LANG_ENGLISH         "Takedown"
+
+REFERENCE            cp_so_proxywar_desc
+LANG_ENGLISH         "Insert. Plant explosives. Destroy depot."
+
+REFERENCE            cp_so_safehouse
+LANG_ENGLISH         "Bomb Squad"
+
+REFERENCE            cp_so_sh_desc
+LANG_ENGLISH         "Defuse IEDs before detonation."
+
+REFERENCE            crusader_class_desc
+LANG_ENGLISH         "Triple the duration of Tactical Sprint."
+
+REFERENCE            crusader_mun_desc
+LANG_ENGLISH         "Grenade Box"
+
+REFERENCE            crusader_orders_desc
+LANG_ENGLISH         "Toma Strike"
+
+REFERENCE            desc_hardline
+LANG_ENGLISH         "Consecutive enemy kills will earn random munitions."
+
+REFERENCE            desc_scavenger
+LANG_ENGLISH         "Resupply ammo from dead enemies."
+
+REFERENCE            difficulty
+LANG_ENGLISH         "Difficulty"
+
+REFERENCE            difficulty_easy
+LANG_ENGLISH         "Recruit"
+
+REFERENCE            difficulty_hard
+LANG_ENGLISH         "Hardened"
+
+REFERENCE            difficulty_medium
+LANG_ENGLISH         "Standard"
+
+REFERENCE            difficulty_veteran
+LANG_ENGLISH         "Veteran"
+
+REFERENCE            disabled_munitions
+LANG_ENGLISH         "Disabled Munitions"
+
+REFERENCE            downs
+LANG_ENGLISH         "Downs"
+
+REFERENCE            emp_drone
+LANG_ENGLISH         "EMP Drone"
+
+REFERENCE            emp_drone_desc
+LANG_ENGLISH         "Launch and control a drone that disables enemy vehicles and equipment"
+
+REFERENCE            engineer_class_desc
+LANG_ENGLISH         "Increase charge rate of Field Upgrades by 50%."
+
+REFERENCE            engineer_class_name
+LANG_ENGLISH         "Engineer"
+
+REFERENCE            engineer_mun_desc
+LANG_ENGLISH         "Grenade Box"
+
+REFERENCE            engineer_orders_desc
+LANG_ENGLISH         "Sentry Turret"
+
+REFERENCE            engineer_prog_desc
+LANG_ENGLISH         "Active Ability: Emp Drone
+Passive Ability: Armor Piercing"
+
+REFERENCE            eod_desc
+LANG_ENGLISH         "Take reduced damage from explosives and fire."
+
+REFERENCE            equipment
+LANG_ENGLISH         "Equipment"
+
+REFERENCE            field_order_drone_name
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            field_order_emp_drone_name
+LANG_ENGLISH         "EMP Drone"
+
+REFERENCE            field_order_header
+LANG_ENGLISH         "Active Ability:"
+
+REFERENCE            field_order_team_armor_name
+LANG_ENGLISH         "Team Armor"
+
+REFERENCE            field_order_team_revive_name
+LANG_ENGLISH         "Team Revive"
+
+REFERENCE            field_order_team_stopping_power_name
+LANG_ENGLISH         "Team Stopping Power"
+
+REFERENCE            field_order_thermite_launcher_name
+LANG_ENGLISH         "Thermite Launcher"
+
+REFERENCE            field_upgrade_header
+LANG_ENGLISH         "Field Upgrade Name"
+
+REFERENCE            floor_10
+LANG_ENGLISH         "Floor 10"
+
+REFERENCE            floor_11
+LANG_ENGLISH         "Floor 11"
+
+REFERENCE            floor_12
+LANG_ENGLISH         "Floor 12"
+
+REFERENCE            floor_14
+LANG_ENGLISH         "Floor 14"
+
+REFERENCE            floor_roof
+LANG_ENGLISH         "The Roof (default)"
+
+REFERENCE            game_mode
+LANG_ENGLISH         "Game Mode"
+
+REFERENCE            guerrilla_desc
+LANG_ENGLISH         "Patrolling enemy visual detection range reduced."
+
+REFERENCE            headshots
+LANG_ENGLISH         "Headshots"
+
+REFERENCE            heavy_metal_desc
+LANG_ENGLISH         "Kills increase Role Ability charge."
+
+REFERENCE            hunter_class_desc
+LANG_ENGLISH         "Weapons have less recoil."
+
+REFERENCE            hunter_class_name
+LANG_ENGLISH         "Recon"
+
+REFERENCE            hunter_mun_desc
+LANG_ENGLISH         "Ammo Box"
+
+REFERENCE            hunter_orders_desc
+LANG_ENGLISH         "Snapshot Pulse"
+
+REFERENCE            huntmaster_desc
+LANG_ENGLISH         "Patrolling enemies are outlined for a time after they leave line of sight."
+
+REFERENCE            intel_audio_decryption
+LANG_ENGLISH         "<DECRYPTION>"
+
+REFERENCE            intel_audio_header
+LANG_ENGLISH         "> Remote Connection"
+
+REFERENCE            intel_desc
+LANG_ENGLISH         "View collected Intel."
+
+REFERENCE            intel_image_header
+LANG_ENGLISH         "> Image Preview"
+
+REFERENCE            intel_season_1_name
+LANG_ENGLISH         "Dogs of War"
+
+REFERENCE            intel_season_2_name
+LANG_ENGLISH         "Season 2"
+
+REFERENCE            intel_season_3_name
+LANG_ENGLISH         "Season 3"
+
+REFERENCE            intel_season_4_name
+LANG_ENGLISH         "Season 4"
+
+REFERENCE            intel_video_header
+LANG_ENGLISH         "> Video Playback"
+
+REFERENCE            iw_best_score
+LANG_ENGLISH         "IW Score"
+
+REFERENCE            iw_best_time
+LANG_ENGLISH         "IW Time"
+
+REFERENCE            kills
+LANG_ENGLISH         "Kills"
+
+REFERENCE            landlord
+LANG_ENGLISH         "New text"
+
+REFERENCE            make_default_loadout
+LANG_ENGLISH         "Make Default  Loadout"
+
+REFERENCE            medic_class_desc
+LANG_ENGLISH         "Revive teammates much faster."
+
+REFERENCE            medic_class_name
+LANG_ENGLISH         "Medic"
+
+REFERENCE            medic_mun_desc
+LANG_ENGLISH         "Armor Box"
+
+REFERENCE            medic_orders_desc
+LANG_ENGLISH         "Team Auto Revive"
+
+REFERENCE            mission_hvt_dealer
+LANG_ENGLISH         "Paladin"
+
+REFERENCE            mission_hvt_dealer_2
+LANG_ENGLISH         "Crosswind"
+
+REFERENCE            mission_hvt_dealer_desc
+LANG_ENGLISH         "The terrorist "Arms Dealer" is as ruthless and evil as they come.  Kill him at all costs."
+
+REFERENCE            mission_hvt_landlord
+LANG_ENGLISH         "Headhunter"
+
+REFERENCE            mission_hvt_landlord_2
+LANG_ENGLISH         "Kuvalda"
+
+REFERENCE            mission_hvt_landlord_desc
+LANG_ENGLISH         "Description text for the Landlord mission."
+
+REFERENCE            mission_hvt_launderer
+LANG_ENGLISH         "Just Reward"
+
+REFERENCE            mission_hvt_launderer_2
+LANG_ENGLISH         "Strongbox"
+
+REFERENCE            mission_hvt_launderer_desc
+LANG_ENGLISH         "Intercept the enemy HVT, "Money Launderer" before he can make another deposit."
+
+REFERENCE            mission_hvt_smuggler
+LANG_ENGLISH         "Harbinger"
+
+REFERENCE            mission_hvt_smuggler_2
+LANG_ENGLISH         "Brimstone"
+
+REFERENCE            mission_hvt_smugller_desc
+LANG_ENGLISH         "Find and take down the man otherwise known as "The Smuggler"."
+
+REFERENCE            mission_raid_part_1
+LANG_ENGLISH         "Raid Part 1"
+
+REFERENCE            mission_raid_part_2
+LANG_ENGLISH         "Raid Part 2"
+
+REFERENCE            missions
+LANG_ENGLISH         "Missions"
+
+REFERENCE            mode_disabled_crossplay
+LANG_ENGLISH         "Survival is inaccessible as you have some players from other platforms in your party who do not have access to this mode."
+
+REFERENCE            mute_players
+LANG_ENGLISH         "Mute Players"
+
+REFERENCE            n_stars
+LANG_ENGLISH         "&&1 Stars"
+
+REFERENCE            nuke_end
+LANG_ENGLISH         "Nuke"
+
+REFERENCE            objective_event_header
+LANG_ENGLISH         "Optional Event:"
+
+REFERENCE            objective_list_header
+LANG_ENGLISH         "Objective:"
+
+REFERENCE            objective_title_header
+LANG_ENGLISH         "Mission Name:"
+
+REFERENCE            passive_armor_piercing_desc
+LANG_ENGLISH         "Extra Damage to Armored Targets and Vehicles"
+
+REFERENCE            passive_armor_piercing_name
+LANG_ENGLISH         "Armor Piercing"
+
+REFERENCE            passive_fast_reload_desc
+LANG_ENGLISH         "Reload your weapon much faster"
+
+REFERENCE            passive_fast_reload_name
+LANG_ENGLISH         "Fast Reload"
+
+REFERENCE            passive_launcher_ammo_desc
+LANG_ENGLISH         "100% more ammo in launchers"
+
+REFERENCE            passive_launcher_ammo_name
+LANG_ENGLISH         "Launcher Ammo+"
+
+REFERENCE            passive_quick_revive_desc
+LANG_ENGLISH         "Revive downed players faster"
+
+REFERENCE            passive_quick_revive_name
+LANG_ENGLISH         "Quick Revive"
+
+REFERENCE            passive_scavenge_grenades_desc
+LANG_ENGLISH         "Enemies drop grenade pickups"
+
+REFERENCE            passive_scavenge_grenades_name
+LANG_ENGLISH         "Scavenge Grenades"
+
+REFERENCE            passive_steady_aim_desc
+LANG_ENGLISH         "Weapons have very low recoil"
+
+REFERENCE            passive_steady_aim_name
+LANG_ENGLISH         "Steady Aim"
+
+REFERENCE            playlists
+LANG_ENGLISH         "PLAYLISTS"
+
+REFERENCE            public_match_desc
+LANG_ENGLISH         "Team up and complete Co-Op missions."
+
+REFERENCE            pvpve
+LANG_ENGLISH         "PvPE"
+
+REFERENCE            quick_fix_desc
+LANG_ENGLISH         "Consecutive enemy kills will increase your health regeneration rate."
+
+REFERENCE            relic_aggressive_melee
+LANG_ENGLISH         "Aggressive Melee "
+
+REFERENCE            relic_aggressive_melee_desc
+LANG_ENGLISH         "Enemies charge and melee more frequently."
+
+REFERENCE            relic_aitype_armored
+LANG_ENGLISH         "Armored Enemies"
+
+REFERENCE            relic_aitype_armored_desc
+LANG_ENGLISH         "All enemies are equipped with armor."
+
+REFERENCE            relic_aitype_riotshield
+LANG_ENGLISH         "Forced Riotshield AI"
+
+REFERENCE            relic_aitype_riotshield_desc
+LANG_ENGLISH         "Force Spawned AI to be Riotshield types."
+
+REFERENCE            relic_aitype_rpg
+LANG_ENGLISH         "Forced RPG AI"
+
+REFERENCE            relic_aitype_rpg_desc
+LANG_ENGLISH         "Force Spawned AI to be RPG types."
+
+REFERENCE            relic_aitype_shotgun
+LANG_ENGLISH         "Forced Shotgun AI"
+
+REFERENCE            relic_aitype_shotgun_desc
+LANG_ENGLISH         "Force Spawned AI to be Shotgun types."
+
+REFERENCE            relic_aitype_sniper
+LANG_ENGLISH         "Forced Sniper AI"
+
+REFERENCE            relic_aitype_sniper_desc
+LANG_ENGLISH         "Force Spawned AI to be Sniper types."
+
+REFERENCE            relic_aitype_suicidebomber
+LANG_ENGLISH         "Forced Suicidebomber AI"
+
+REFERENCE            relic_aitype_suicidebomber_desc
+LANG_ENGLISH         "Force Spawned AI to be Suicidebomber types."
+
+REFERENCE            relic_ammo_drain
+LANG_ENGLISH         "Ammo Drain"
+
+REFERENCE            relic_ammo_drain_desc
+LANG_ENGLISH         "Ammo clip is constantly drained. Launcher ammo and lethals are not affected."
+
+REFERENCE            relic_amped
+LANG_ENGLISH         "Pass the Buck"
+
+REFERENCE            relic_amped_desc
+LANG_ENGLISH         "A randomly picked player will have to kill enemies quickly to avoid exploding. If they survive, a new player will be chosen."
+
+REFERENCE            relic_boom
+LANG_ENGLISH         "Boom"
+
+REFERENCE            relic_boom_desc
+LANG_ENGLISH         "Enemies killed spawn a thermite at the death location"
+
+REFERENCE            relic_catch
+LANG_ENGLISH         "Catch"
+
+REFERENCE            relic_catch_desc
+LANG_ENGLISH         "Enemies drop lethals and tacticals that can be picked up."
+
+REFERENCE            relic_collateral_damage
+LANG_ENGLISH         "Collateral Damage"
+
+REFERENCE            relic_collateral_damage_desc
+LANG_ENGLISH         "Enemies explode when killed by headshots."
+
+REFERENCE            relic_damage_from_above
+LANG_ENGLISH         "Raining Bullets"
+
+REFERENCE            relic_damage_from_above_desc
+LANG_ENGLISH         "Damage is increased when done from a higher point than the victim."
+
+REFERENCE            relic_dfa
+LANG_ENGLISH         "Death From Above"
+
+REFERENCE            relic_dfa_desc
+LANG_ENGLISH         "Players are chased around by an invulnerable Gunship"
+
+REFERENCE            relic_dogtags
+LANG_ENGLISH         "Dogtags"
+
+REFERENCE            relic_dogtags_desc
+LANG_ENGLISH         "Players drop dogtags when they die instead of respawning via infil"
+
+REFERENCE            relic_doomslayer
+LANG_ENGLISH         "Slayer"
+
+REFERENCE            relic_doomslayer_desc
+LANG_ENGLISH         "Enemies only drop Weapons on Melee Kills."
+
+REFERENCE            relic_doubletap
+LANG_ENGLISH         "Double Tap"
+
+REFERENCE            relic_doubletap_desc
+LANG_ENGLISH         "Enemies will enter Last Stand; self revives if not finished off."
+
+REFERENCE            relic_expldmg
+LANG_ENGLISH         "Explosion Damage"
+
+REFERENCE            relic_expldmg_desc
+LANG_ENGLISH         "Take increased damage from explosions."
+
+REFERENCE            relic_fastbleed
+LANG_ENGLISH         "Gushing Wounds"
+
+REFERENCE            relic_fastbleed2
+LANG_ENGLISH         "Fast Downs"
+
+REFERENCE            relic_fastbleed_desc
+LANG_ENGLISH         "Last stand duration reduced to 5 seconds."
+
+REFERENCE            relic_focus_fire
+LANG_ENGLISH         "Focus Fire"
+
+REFERENCE            relic_focus_fire_desc
+LANG_ENGLISH         "Deal increased damage when multiple players fire on the same enemy."
+
+REFERENCE            relic_gas_martyr
+LANG_ENGLISH         "Gas Martyrdom"
+
+REFERENCE            relic_gas_martyr_desc
+LANG_ENGLISH         "Enemies drop live gas grenades on death."
+
+REFERENCE            relic_gas_martyr_desc1
+LANG_ENGLISH         ""
+
+REFERENCE            relic_grounded
+LANG_ENGLISH         "Grounded"
+
+REFERENCE            relic_grounded_desc
+LANG_ENGLISH         "Lose all remaining ammo in clip or magazine when reloading."
+
+REFERENCE            relic_gun_game
+LANG_ENGLISH         "Gun Game"
+
+REFERENCE            relic_gun_game_desc
+LANG_ENGLISH         "Players can only use random primary weapons from their custom loadouts"
+
+REFERENCE            relic_head_bullets
+LANG_ENGLISH         "Head Bullets"
+
+REFERENCE            relic_head_bullets_desc
+LANG_ENGLISH         "Headshot kills reward bullet ammo."
+
+REFERENCE            relic_header
+LANG_ENGLISH         "Modifiers:"
+
+REFERENCE            relic_header_main
+LANG_ENGLISH         "Modifiers applied:"
+
+REFERENCE            relic_healthpacks
+LANG_ENGLISH         "Health Packs"
+
+REFERENCE            relic_healthpacks_desc
+LANG_ENGLISH         "Enemies drop health packs when killed."
+
+REFERENCE            relic_hideobj
+LANG_ENGLISH         "Tactical Objectives"
+
+REFERENCE            relic_hideobj_desc
+LANG_ENGLISH         "Objective icons are only visible on the Tac Map"
+
+REFERENCE            relic_just_keep_moving
+LANG_ENGLISH         "Just Keep Moving"
+
+REFERENCE            relic_just_keep_moving_desc
+LANG_ENGLISH         "You will only regen health while moving"
+
+REFERENCE            relic_landlocked
+LANG_ENGLISH         "Landlocked"
+
+REFERENCE            relic_landlocked_desc
+LANG_ENGLISH         "Leaving an active hack area will cause the player to explode"
+
+REFERENCE            relic_lsmelee
+LANG_ENGLISH         "Last Stand Brawl"
+
+REFERENCE            relic_lsmelee_desc
+LANG_ENGLISH         "Players in last stand are restricted to melee"
+
+REFERENCE            relic_martyrdom
+LANG_ENGLISH         "Martyrdom"
+
+REFERENCE            relic_martyrdom_desc
+LANG_ENGLISH         "Enemies drop live frag grenades on death."
+
+REFERENCE            relic_mythic
+LANG_ENGLISH         "Bulked Up"
+
+REFERENCE            relic_mythic_desc
+LANG_ENGLISH         "Enemies have significantly more health."
+
+REFERENCE            relic_no_ammo_mun
+LANG_ENGLISH         "No Ammo Munitions"
+
+REFERENCE            relic_no_ammo_mun_desc
+LANG_ENGLISH         "No ammo crate munitions in the map.
+Enemies will not drop ammo or weapons."
+
+REFERENCE            relic_nobulletdamage
+LANG_ENGLISH         "Plated"
+
+REFERENCE            relic_nobulletdamage_desc
+LANG_ENGLISH         "Enemies are immune to bullet damage."
+
+REFERENCE            relic_noks
+LANG_ENGLISH         "Missing Munitions"
+
+REFERENCE            relic_noks_desc
+LANG_ENGLISH         "No munitions can be found in the map."
+
+REFERENCE            relic_noluck
+LANG_ENGLISH         "No Luck"
+
+REFERENCE            relic_noluck_desc
+LANG_ENGLISH         "Enemies will not drop ammo or weapons."
+
+REFERENCE            relic_noregen
+LANG_ENGLISH         "No Health Regeneration"
+
+REFERENCE            relic_noregen_desc
+LANG_ENGLISH         "Player health regeneration is disabled. 'Quick Fix' will not function."
+
+REFERENCE            relic_nuketimer
+LANG_ENGLISH         "DEFCON 2"
+
+REFERENCE            relic_nuketimer2
+LANG_ENGLISH         "Nuke Timer"
+
+REFERENCE            relic_nuketimer_desc
+LANG_ENGLISH         "Players have limited time to complete the Operation. Progress rewards more time."
+
+REFERENCE            relic_oneclip
+LANG_ENGLISH         "Don't Waste Your Shots"
+
+REFERENCE            relic_oneclip_desc
+LANG_ENGLISH         "All Bullet Weapons only have 1 Clip."
+
+REFERENCE            relic_punchbullets
+LANG_ENGLISH         "Punch for Bullets"
+
+REFERENCE            relic_punchbullets_desc
+LANG_ENGLISH         "Melee kills reward bullet ammo."
+
+REFERENCE            relic_rocketkillammo
+LANG_ENGLISH         "Rocket Refill"
+
+REFERENCE            relic_rocketkillammo_desc
+LANG_ENGLISH         "Kills with launchers reward launcher ammo."
+
+REFERENCE            relic_shieldsonly
+LANG_ENGLISH         "Shields Only"
+
+REFERENCE            relic_shieldsonly_desc
+LANG_ENGLISH         "Only 1 HP.  Armor gets refreshed on kills."
+
+REFERENCE            relic_squadlink
+LANG_ENGLISH         "Squad Link"
+
+REFERENCE            relic_squadlink_desc
+LANG_ENGLISH         "Deal increased damage and gain increased health while near teammates. Vision will deteriorate while far away from teammates."
+
+REFERENCE            relic_steelballs
+LANG_ENGLISH         "Steam Roller"
+
+REFERENCE            relic_steelballs_desc
+LANG_ENGLISH         "Melee Damage increased 3 folds. Sprint Sliding into Enemies deal Melee Damage. Falling onto Enemies from heights deal Melee Damage. Regenerates Health on Melee Kills."
+
+REFERENCE            relic_swat
+LANG_ENGLISH         "SWAT"
+
+REFERENCE            relic_swat_desc
+LANG_ENGLISH         "Enemies can only be killed by headshots, melee, lethals, killstreaks, and vehicles."
+
+REFERENCE            relic_trex
+LANG_ENGLISH         "T-Rex"
+
+REFERENCE            relic_trex_desc
+LANG_ENGLISH         "Enemies ignore players who stand still."
+
+REFERENCE            relic_vampire
+LANG_ENGLISH         "Vampire"
+
+REFERENCE            relic_vampire_desc
+LANG_ENGLISH         "Regain 5 health points each time you damage an enemy"
+
+REFERENCE            revives
+LANG_ENGLISH         "Revives"
+
+REFERENCE            role_ability_header
+LANG_ENGLISH         "Passive Ability:"
+
+REFERENCE            role_includes
+LANG_ENGLISH         "Includes:"
+
+REFERENCE            role_select
+LANG_ENGLISH         "Role Select"
+
+REFERENCE            role_select_desc
+LANG_ENGLISH         "Select your Role."
+
+REFERENCE            score
+LANG_ENGLISH         "Score"
+
+REFERENCE            scout_drone
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            scout_drone_desc
+LANG_ENGLISH         "Remote-controlled drone that marks enemies"
+
+REFERENCE            select_class
+LANG_ENGLISH         "Select Class"
+
+REFERENCE            select_faction
+LANG_ENGLISH         "Select Faction"
+
+REFERENCE            select_loadout
+LANG_ENGLISH         "Select Loadout"
+
+REFERENCE            select_perk
+LANG_ENGLISH         "Select Perk"
+
+REFERENCE            show_map
+LANG_ENGLISH         "Show Map"
+
+REFERENCE            show_scoreboard
+LANG_ENGLISH         "Show Full Scoreboard"
+
+REFERENCE            shrapnel_cp_desc
+LANG_ENGLISH         "Spawn with an extra piece of lethal equipment."
+
+REFERENCE            shrapnel_desc
+LANG_ENGLISH         "Spawn with an extra piece of lethal equipment."
+
+REFERENCE            spec_ops_embassy
+LANG_ENGLISH         "Embassy Assault"
+
+REFERENCE            spec_ops_estate
+LANG_ENGLISH         "Pitch Black"
+
+REFERENCE            spec_ops_estate_desc
+LANG_ENGLISH         "Infiltrate the Estate."
+
+REFERENCE            special_operations
+LANG_ENGLISH         "Special Operations"
+
+REFERENCE            special_operations_desc
+LANG_ENGLISH         "Choose your role, perfect your loadout, and deploy with 3 other Operators to complete epic, story-based operations."
+
+REFERENCE            specops
+LANG_ENGLISH         "Classic Special Ops"
+
+REFERENCE            star_next
+LANG_ENGLISH         "Next Star"
+
+REFERENCE            stars_earned
+LANG_ENGLISH         "Stars Earned"
+
+REFERENCE            stars_local_play_warning
+LANG_ENGLISH         "Play Online to earn Stars"
+
+REFERENCE            starting_floor
+LANG_ENGLISH         "Floor"
+
+REFERENCE            stats_stars
+LANG_ENGLISH         "Stars"
+
+REFERENCE            stats_time
+LANG_ENGLISH         "Best Time"
+
+REFERENCE            stats_time_played_hours
+LANG_ENGLISH         "&&1:&&2:&&3"
+
+REFERENCE            stats_time_played_minutes
+LANG_ENGLISH         "&&1:&&2"
+
+REFERENCE            strategist_desc
+LANG_ENGLISH         "Amount of time between "consecutive" enemy kills is increased."
+
+REFERENCE            strike
+LANG_ENGLISH         "Strike"
+
+REFERENCE            succeed
+LANG_ENGLISH         "Succeed"
+
+REFERENCE            super_ammo_ready
+LANG_ENGLISH         "Thermite Launcher Ready"
+
+REFERENCE            super_ammo_used
+LANG_ENGLISH         "Thermite Launcher Used"
+
+REFERENCE            super_armor_ready
+LANG_ENGLISH         "Team Hardened Armor Ready!"
+
+REFERENCE            super_armor_used
+LANG_ENGLISH         "Team Hardened Armor Used"
+
+REFERENCE            super_cluster_ready
+LANG_ENGLISH         "Toma Strike Ready!"
+
+REFERENCE            super_cluster_used
+LANG_ENGLISH         "Toma Strike Used"
+
+REFERENCE            super_cooldown_ready
+LANG_ENGLISH         "Sentry Turret Ready!"
+
+REFERENCE            super_cooldown_used
+LANG_ENGLISH         "Sentry Turret Used"
+
+REFERENCE            super_drone_ready
+LANG_ENGLISH         "Recon Drone Ready!"
+
+REFERENCE            super_emp_ready
+LANG_ENGLISH         "EMP Drone Ready!"
+
+REFERENCE            super_emp_used
+LANG_ENGLISH         "EMP Drone Used"
+
+REFERENCE            super_mark_ready
+LANG_ENGLISH         "Snapshot Pulse Ready!"
+
+REFERENCE            super_mark_used
+LANG_ENGLISH         "Snapshot Pulse Used"
+
+REFERENCE            super_recon_used
+LANG_ENGLISH         "Recon Drone Used"
+
+REFERENCE            super_revive_ready
+LANG_ENGLISH         "Team Auto-Revive Ready!"
+
+REFERENCE            super_revive_used
+LANG_ENGLISH         "Team Auto-Revive Used"
+
+REFERENCE            super_scavenger_ready
+LANG_ENGLISH         "Toma Strike Ready!"
+
+REFERENCE            super_stopping_power_ready
+LANG_ENGLISH         "Team Stopping Power Ready!"
+
+REFERENCE            super_stopping_power_used
+LANG_ENGLISH         "Team Stopping Power Used!"
+
+REFERENCE            surveillance_desc
+LANG_ENGLISH         "Your vision pulses when high damage enemies outside of your view see you."
+
+REFERENCE            survival
+LANG_ENGLISH         "Operations"
+
+REFERENCE            survival_description
+LANG_ENGLISH         "Tac-Ops description"
+
+REFERENCE            survival_private_match
+LANG_ENGLISH         "Survival Private Match"
+
+REFERENCE            survival_private_match_desc
+LANG_ENGLISH         "Survive waves of enemies."
+
+REFERENCE            tactical_recon_desc
+LANG_ENGLISH         "See enemy equipment through walls. Mark them for your team by looking at them while aiming down sights."
+
+REFERENCE            tank_class_desc
+LANG_ENGLISH         "Take reduced damage from explosives and fire."
+
+REFERENCE            tank_class_name
+LANG_ENGLISH         "Heavy"
+
+REFERENCE            tank_mun_desc
+LANG_ENGLISH         "Armor Box"
+
+REFERENCE            tank_orders_desc
+LANG_ENGLISH         "Juggernaut Suit"
+
+REFERENCE            team_armor
+LANG_ENGLISH         "Team Hardened Armor"
+
+REFERENCE            team_armor_desc
+LANG_ENGLISH         "Give team heavy armor"
+
+REFERENCE            team_auto_revive_desc
+LANG_ENGLISH         "Revives all down teammates"
+
+REFERENCE            team_revive
+LANG_ENGLISH         "Team Auto Revive"
+
+REFERENCE            team_stopping_power
+LANG_ENGLISH         "Team Stopping Power Rounds"
+
+REFERENCE            team_stopping_power_desc
+LANG_ENGLISH         "Gives team stopping power rounds that deal extra damage"
+
+REFERENCE            thermite_launcher_desc
+LANG_ENGLISH         "Grenade Launcher with Thermite Rounds"
+
+REFERENCE            trials
+LANG_ENGLISH         "Trials"
+
+REFERENCE            tune_up_desc
+LANG_ENGLISH         "Reduces the charge time of Role Ability by 33%."
+
+REFERENCE            vanguard_class_name
+LANG_ENGLISH         "Demolition"
+
+REFERENCE            wave_survival
+LANG_ENGLISH         "Survival"
+
+REFERENCE            wave_survival_desc
+LANG_ENGLISH         "Classic Survival"
+
+
+ENDMARKER

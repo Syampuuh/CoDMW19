@@ -1,0 +1,447 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            100_tier_skips
+LANG_ENGLISH         "100 Tier Skips"
+
+REFERENCE            10_tier_skips
+LANG_ENGLISH         "10 Tier Skips"
+
+REFERENCE            1_tier_skip
+LANG_ENGLISH         "1 Tier Skip"
+
+REFERENCE            20_tier_skips
+LANG_ENGLISH         "20 Tier Skips"
+
+REFERENCE            2_tier_skips
+LANG_ENGLISH         "2 Tier Skips"
+
+REFERENCE            50_tier_skips
+LANG_ENGLISH         "50 Tier Skips"
+
+REFERENCE            5_tier_skips
+LANG_ENGLISH         "5 Tier Skips"
+
+REFERENCE            activate_x
+LANG_ENGLISH         "Activate &&1"
+
+REFERENCE            activating
+LANG_ENGLISH         "Activating"
+
+REFERENCE            assists_bonus
+LANG_ENGLISH         "Assists Bonus"
+
+REFERENCE            battle_pass_inactive
+LANG_ENGLISH         "Battle Pass Inactive"
+
+REFERENCE            battle_pass_tokens
+LANG_ENGLISH         "Battle Pass Tokens"
+
+REFERENCE            battlepass
+LANG_ENGLISH         "Battle Pass"
+
+REFERENCE            battlepass_10_tier_skip
+LANG_ENGLISH         "Battle Pass 10 Tier Skips"
+
+REFERENCE            battlepass_20_tier_skip
+LANG_ENGLISH         "Battle Pass 20 Tier Skips"
+
+REFERENCE            battlepass_25_tier_skip
+LANG_ENGLISH         "Battle Pass 25 Tier Skips"
+
+REFERENCE            battlepass_free_tier_upsell_message
+LANG_ENGLISH         "Your next unlock in the Battle Pass is a ^3FREE^7 reward."
+
+REFERENCE            battlepass_premium
+LANG_ENGLISH         "Battle Pass"
+
+REFERENCE            battlepass_premium_bundle
+LANG_ENGLISH         "Battle Pass Bundle"
+
+REFERENCE            battlepass_premium_bundle_season_02
+LANG_ENGLISH         "Battle Pass Bundle Season 02"
+
+REFERENCE            battlepass_premium_bundle_season_03
+LANG_ENGLISH         "Battle Pass Bundle Season 03"
+
+REFERENCE            battlepass_premium_bundle_season_04
+LANG_ENGLISH         "Battle Pass Bundle Season 04"
+
+REFERENCE            battlepass_premium_bundle_season_05
+LANG_ENGLISH         "Battle Pass Bundle Season 05"
+
+REFERENCE            battlepass_premium_bundle_season_06
+LANG_ENGLISH         "Battle Pass Bundle Season 06"
+
+REFERENCE            battlepass_premium_season_02
+LANG_ENGLISH         "Battle Pass Season 02"
+
+REFERENCE            battlepass_premium_season_03
+LANG_ENGLISH         "Battle Pass Season 03"
+
+REFERENCE            battlepass_premium_season_04
+LANG_ENGLISH         "Battle Pass Season 04"
+
+REFERENCE            battlepass_premium_season_05
+LANG_ENGLISH         "Battle Pass Season 05"
+
+REFERENCE            battlepass_premium_season_06
+LANG_ENGLISH         "Battle Pass Season 06"
+
+REFERENCE            battlepass_preview_title
+LANG_ENGLISH         "Battle Pass Preview"
+
+REFERENCE            battlepass_update
+LANG_ENGLISH         "Battle Pass Update"
+
+REFERENCE            blueprint_with_type
+LANG_ENGLISH         "Blueprint (&&1)"
+
+REFERENCE            bonus
+LANG_ENGLISH         "Instant Reward"
+
+REFERENCE            buy_tiers
+LANG_ENGLISH         "Buy Tiers"
+
+REFERENCE            buy_tiers_multiple
+LANG_ENGLISH         "Buy Tier(s)"
+
+REFERENCE            buy_with_cod_points
+LANG_ENGLISH         "Buy With COD Points"
+
+REFERENCE            captures_bonus
+LANG_ENGLISH         "Captures Bonus"
+
+REFERENCE            carries_bonus
+LANG_ENGLISH         "Carries Bonus"
+
+REFERENCE            challenge_bonus
+LANG_ENGLISH         "Challenge Bonus"
+
+REFERENCE            check_it_out
+LANG_ENGLISH         "Go check it out!"
+
+REFERENCE            claim_now
+LANG_ENGLISH         "Claim Now"
+
+REFERENCE            claim_x
+LANG_ENGLISH         "Claim &&1"
+
+REFERENCE            claiming_tiers
+LANG_ENGLISH         "Claiming Tiers"
+
+REFERENCE            close_popup
+LANG_ENGLISH         "[{ui_secondary}] Close"
+
+REFERENCE            collect_gift
+LANG_ENGLISH         "Collect Gift"
+
+REFERENCE            collect_reward
+LANG_ENGLISH         "Collect Reward"
+
+REFERENCE            complete
+LANG_ENGLISH         "Battle Pass Complete"
+
+REFERENCE            complete_battlepass
+LANG_ENGLISH         "Complete"
+
+REFERENCE            confirm_bonus
+LANG_ENGLISH         "Confirm Bonus"
+
+REFERENCE            current_tier
+LANG_ENGLISH         "Current Tier: &&1"
+
+REFERENCE            defends_bonus
+LANG_ENGLISH         "Defends Bonus"
+
+REFERENCE            defuses_bonus
+LANG_ENGLISH         "Defuses Bonus"
+
+REFERENCE            denies_bonus
+LANG_ENGLISH         "Denies Bonus"
+
+REFERENCE            discount_percent
+LANG_ENGLISH         "&&1% Extra Value"
+
+REFERENCE            extra_tiers
+LANG_ENGLISH         "+&&1 Tiers"
+
+REFERENCE            failed_activate
+LANG_ENGLISH         "Failed to activate &&1."
+
+REFERENCE            failed_claim
+LANG_ENGLISH         "Failed to claim &&1."
+
+REFERENCE            failed_purchase
+LANG_ENGLISH         "Failed to purchase &&1."
+
+REFERENCE            fix_up_message
+LANG_ENGLISH         "Claiming existing Battle Pass tokens..."
+
+REFERENCE            flag_returns_bonus
+LANG_ENGLISH         "Flag Returns Bonus"
+
+REFERENCE            free_gun
+LANG_ENGLISH         "Free Weapon"
+
+REFERENCE            hide_reward_details
+LANG_ENGLISH         "[{ui_r3}] Hide Reward Details"
+
+REFERENCE            how_it_works_1
+LANG_ENGLISH         "Season &&1 Battle Pass comes with 100 Tiers of new content - including over ^320 Tiers^7 that are ^3FREE^7 for everyone.
+"
+
+REFERENCE            how_it_works_2
+LANG_ENGLISH         "At any time during the season you can upgrade and gain access to all 100 Tiers in the Battle Pass."
+
+REFERENCE            how_it_works_3
+LANG_ENGLISH         "Tiers are unlocked just by playing Multiplayer or Special Ops as you normally would."
+
+REFERENCE            how_it_works_header
+LANG_ENGLISH         "How does it work?"
+
+REFERENCE            how_to_unlock_1
+LANG_ENGLISH         "You already have access to the Free Tiers just by playing - rewards will automatically be granted as you progress.
+"
+
+REFERENCE            how_to_unlock_2
+LANG_ENGLISH         "At any time during the season you can upgrade and gain access to all 100 Tiers (which include ^31,300 CP^7 along the way).
+"
+
+REFERENCE            how_to_unlock_3
+LANG_ENGLISH         "Those looking to expedite their progression can upgrade to the ^3Battle Pass Bundle^7 and immediately unlock ^320 Tiers^7 of content."
+
+REFERENCE            how_to_unlock_header
+LANG_ENGLISH         "How do I unlock the Pass?"
+
+REFERENCE            infected_kills_bonus
+LANG_ENGLISH         "Infected Kills Bonus"
+
+REFERENCE            instant_unlocks
+LANG_ENGLISH         "Instant Unlocks"
+
+REFERENCE            item_not_available
+LANG_ENGLISH         "[{ui_lock}] Purchase the battle pass to unlock instantly."
+
+REFERENCE            kills_bonus
+LANG_ENGLISH         "Kills Bonus"
+
+REFERENCE            killstreak_bonus
+LANG_ENGLISH         "Killstreak Bonus"
+
+REFERENCE            locked_incomplete
+LANG_ENGLISH         "Unlocked at Tier &&1"
+
+REFERENCE            locked_incomplete_with_battlepass
+LANG_ENGLISH         "Unlocked with Battle Pass at Tier &&1"
+
+REFERENCE            locked_with_battlepass
+LANG_ENGLISH         "Unlocked with purchase of the Battle Pass"
+
+REFERENCE            match_bonus
+LANG_ENGLISH         "Match Bonus"
+
+REFERENCE            match_double_bonus
+LANG_ENGLISH         "Match Double Bonus"
+
+REFERENCE            more_info
+LANG_ENGLISH         "More Info"
+
+REFERENCE            n_bonus_tier_skips
+LANG_ENGLISH         "&&1 Bonus Tier Skips"
+
+REFERENCE            n_tier_skips
+LANG_ENGLISH         "&&1 Tier Skips"
+
+REFERENCE            new_mission
+LANG_ENGLISH         "New Mission"
+
+REFERENCE            no_thanks
+LANG_ENGLISH         "No Thanks"
+
+REFERENCE            operator_challenge_unlock_message
+LANG_ENGLISH         "Unlocked by completing &&1"
+
+REFERENCE            or
+LANG_ENGLISH         "Or"
+
+REFERENCE            pass_activated
+LANG_ENGLISH         "Battle Pass Activated"
+
+REFERENCE            plants_bonus
+LANG_ENGLISH         "Plants Bonus"
+
+REFERENCE            plus_mission
+LANG_ENGLISH         "Plus: &&1"
+
+REFERENCE            premium_bundle_desc
+LANG_ENGLISH         "Battle Pass upgrade + &&1 tiers"
+
+REFERENCE            premium_bundle_extra_details
+LANG_ENGLISH         "Boost your progress today with an instant ^320-Tier^7 jump!"
+
+REFERENCE            premium_desc
+LANG_ENGLISH         "The Battle Pass has 100 Tiers  of exciting new content! It includes new Weapons, one new Operator, 20 custom ^+Legendary^* ^7and ^*Epic^7 Blueprints, over 30 ^+Legendary^7 and ^*Epic^7 Skins to get your Operators battle-ready, dozens of cosmetic accessories, and more."
+
+REFERENCE            premium_extra_details
+LANG_ENGLISH         "In all, you get over 100 exciting items for one low price."
+
+REFERENCE            preview_popup
+LANG_ENGLISH         "[{ui_primary}] Preview"
+
+REFERENCE            preview_prompt
+LANG_ENGLISH         "[{ui_primary}] Preview"
+
+REFERENCE            purchase_battlepass
+LANG_ENGLISH         "Purchase Battle Pass"
+
+REFERENCE            purchase_battlepass_with_button
+LANG_ENGLISH         "[{ui_alt1}] Purchase Battle Pass"
+
+REFERENCE            purchase_premium_battlepass
+LANG_ENGLISH         "Purchase Battle Pass Bundle"
+
+REFERENCE            purchase_tier_celebration
+LANG_ENGLISH         "Tier Unlocked"
+
+REFERENCE            rarity_and_type
+LANG_ENGLISH         "&&1 - &&2"
+
+REFERENCE            redeemed
+LANG_ENGLISH         "Redeemed"
+
+REFERENCE            rescues_bonus
+LANG_ENGLISH         "Rescues Bonus"
+
+REFERENCE            revives_bonus
+LANG_ENGLISH         "Revives Bonus"
+
+REFERENCE            reward_error_message
+LANG_ENGLISH         "Something went wrong. Please try again later."
+
+REFERENCE            season_x_battlepass
+LANG_ENGLISH         "Season &&1 Battle Pass"
+
+REFERENCE            setbacks_bonus
+LANG_ENGLISH         "Setbacks Bonus"
+
+REFERENCE            skip_celebration
+LANG_ENGLISH         "Skip Celebration"
+
+REFERENCE            skip_celebration_prompt
+LANG_ENGLISH         "[{ui_alt1}] Skip Celebration"
+
+REFERENCE            tier
+LANG_ENGLISH         "Battle Pass Tier"
+
+REFERENCE            tier_celebration
+LANG_ENGLISH         "Tier &&1"
+
+REFERENCE            tier_gift_promo_note
+LANG_ENGLISH         "&&1 free bonus tier skips applied after purchase"
+
+REFERENCE            tier_gift_promo_timer
+LANG_ENGLISH         "Bonus Tier Skip Promo: ^3&&1^7"
+
+REFERENCE            tier_item_name
+LANG_ENGLISH         "- &&1"
+
+REFERENCE            tier_sale
+LANG_ENGLISH         "Tier Sale"
+
+REFERENCE            tier_skip_gift_desc
+LANG_ENGLISH         "Thanks for purchasing the &&1! Here are your ^3&&2^7 additional tier skips to claim now."
+
+REFERENCE            tier_skip_gift_title
+LANG_ENGLISH         "&&1 Tier Skips Gift"
+
+REFERENCE            tier_skip_sale
+LANG_ENGLISH         "Tier Skip Sale"
+
+REFERENCE            tier_unlocked
+LANG_ENGLISH         "&&1 Tier Unlocked"
+
+REFERENCE            tier_unlocks
+LANG_ENGLISH         "Tier Unlocks"
+
+REFERENCE            tier_up
+LANG_ENGLISH         "Battle Pass Tier Up"
+
+REFERENCE            tier_value
+LANG_ENGLISH         "Tier &&1"
+
+REFERENCE            tiers_unlocked
+LANG_ENGLISH         "&&1 Tiers Unlocked"
+
+REFERENCE            tiers_unlocked_celebration
+LANG_ENGLISH         "Tiers Unlocked"
+
+REFERENCE            time_bonus
+LANG_ENGLISH         "Time Bonus"
+
+REFERENCE            toggle_reward_details_contextual
+LANG_ENGLISH         "Toggle Reward Details"
+
+REFERENCE            token_bonus
+LANG_ENGLISH         "Battle Pass token bonus."
+
+REFERENCE            unlock_criteria
+LANG_ENGLISH         "Rewarded with Battle Pass"
+
+REFERENCE            unlock_x_reward
+LANG_ENGLISH         "Unlock &&1 Reward"
+
+REFERENCE            unlock_x_rewards
+LANG_ENGLISH         "Unlock &&1 Rewards"
+
+REFERENCE            unlocks_desc
+LANG_ENGLISH         "Buy the Battle Pass upgrade today and gain an instant range of rewards including the items below:"
+
+REFERENCE            upgrade
+LANG_ENGLISH         "Buy Battle Pass"
+
+REFERENCE            upgrade_unlocked
+LANG_ENGLISH         "Upgrade Unlocked"
+
+REFERENCE            upsell_title
+LANG_ENGLISH         "&&1 Includes:"
+
+REFERENCE            view_battlepass
+LANG_ENGLISH         "View Battle Pass"
+
+REFERENCE            view_mission_details
+LANG_ENGLISH         "[{ui_r3}] View Mission Details"
+
+REFERENCE            view_mission_details_contextual
+LANG_ENGLISH         "View Mission Details"
+
+REFERENCE            view_reward_details
+LANG_ENGLISH         "[{ui_r3}] View Reward Details"
+
+REFERENCE            view_reward_details_contextual
+LANG_ENGLISH         "View Reward Details"
+
+REFERENCE            view_reward_stats
+LANG_ENGLISH         "[{ui_r3}] View Reward Stats"
+
+REFERENCE            view_trailer
+LANG_ENGLISH         "View Season &&1 Trailer"
+
+REFERENCE            warzone_10_tier_gift
+LANG_ENGLISH         "Gift Pack"
+
+REFERENCE            warzone_reward_message
+LANG_ENGLISH         "Congratulations on completing your first match! To celebrate we are rewarding you a tier skip for the battle pass to use now."
+
+REFERENCE            welcome
+LANG_ENGLISH         "Welcome to Battle Pass"
+
+REFERENCE            why_buy
+LANG_ENGLISH         "Get access to all 100 Tiers!"
+
+REFERENCE            why_buy_bundle
+LANG_ENGLISH         "Get access to all 100 Tiers & Skip 20 Tiers instantly!"
+
+
+ENDMARKER

@@ -1,0 +1,1408 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            accuracy
+LANG_ENGLISH         "Accuracy"
+
+REFERENCE            active_mission
+LANG_ENGLISH         "Active Mission"
+
+REFERENCE            active_mission_choose
+LANG_ENGLISH         "Choose Your Active Mission"
+
+REFERENCE            alien_armory
+LANG_ENGLISH         "Nightfall"
+
+REFERENCE            alien_beacon
+LANG_ENGLISH         "Mayday"
+
+REFERENCE            alien_descent
+LANG_ENGLISH         "Descent"
+
+REFERENCE            alien_town
+LANG_ENGLISH         "Point of Contact"
+
+REFERENCE            aliens
+LANG_ENGLISH         "Extinction"
+
+REFERENCE            all_accolades_caps
+LANG_ENGLISH         "ALL ACCOLADES"
+
+REFERENCE            arctic
+LANG_ENGLISH         "Arctic"
+
+REFERENCE            arena
+LANG_ENGLISH         "Gunfight"
+
+REFERENCE            arena_caps
+LANG_ENGLISH         "GUNFIGHT"
+
+REFERENCE            assault_rifle
+LANG_ENGLISH         "Assault Rifle"
+
+REFERENCE            assists
+LANG_ENGLISH         "Assists"
+
+REFERENCE            autoassign
+LANG_ENGLISH         "Auto-Assign"
+
+REFERENCE            battlezone
+LANG_ENGLISH         "Mission"
+
+REFERENCE            being_revived
+LANG_ENGLISH         "&&1 is reviving you"
+
+REFERENCE            being_self_revived
+LANG_ENGLISH         "Using Self-Revive"
+
+REFERENCE            beta_notice
+LANG_ENGLISH         "Beta"
+
+REFERENCE            bgm
+LANG_ENGLISH         "Big Game Mode"
+
+REFERENCE            bgm_caps
+LANG_ENGLISH         "BIG GAME MODE"
+
+REFERENCE            blindsided
+LANG_ENGLISH         "Blindsided"
+
+REFERENCE            blue_tiger
+LANG_ENGLISH         "Blue Tiger"
+
+REFERENCE            call_vote
+LANG_ENGLISH         "Call Vote"
+
+REFERENCE            callvote
+LANG_ENGLISH         "CALL VOTE"
+
+REFERENCE            cancel
+LANG_ENGLISH         "Cancel"
+
+REFERENCE            cant_show_gamercard
+LANG_ENGLISH         "This Gamer Card cannot be accessed."
+
+REFERENCE            cantjoinalreadyinparty
+LANG_ENGLISH         "Unable to join session - you are already in the party that you are trying to join."
+
+REFERENCE            cdl_invalid_host_text
+LANG_ENGLISH         "When playing in the Call of Duty League??? Playlist, your party will use their private match loadouts and all progression content will be unlocked. Private match loadouts will be updated to replace any Call of Duty League??? restricted items.
+
+Do you wish to continue with your party?"
+
+REFERENCE            cdl_invalid_loadouts
+LANG_ENGLISH         "Play Like the Pros!"
+
+REFERENCE            cdl_invalid_text
+LANG_ENGLISH         "When the Call of Duty League??? rules are in effect, your private match loadouts will be updated to replace any Call of Duty League??? restricted items.
+
+Do you wish to continue?"
+
+REFERENCE            challenges_caps
+LANG_ENGLISH         "CHALLENGES"
+
+REFERENCE            challenges_completed_caps
+LANG_ENGLISH         "CHALLENGES COMPLETED"
+
+REFERENCE            change_team
+LANG_ENGLISH         "Change Team Or Role"
+
+REFERENCE            changehosttitle
+LANG_ENGLISH         "Change Party Leader"
+
+REFERENCE            choose_class
+LANG_ENGLISH         "Choose Class"
+
+REFERENCE            choose_class_cap
+LANG_ENGLISH         "CHOOSE CLASS"
+
+REFERENCE            choose_team
+LANG_ENGLISH         "CHOOSE TEAM"
+
+REFERENCE            closing_connection_caps
+LANG_ENGLISH         "CLOSING CONNECTION"
+
+REFERENCE            clutch_player
+LANG_ENGLISH         "Clutch Player"
+
+REFERENCE            combat_zone
+LANG_ENGLISH         "Combat Zone"
+
+REFERENCE            commander_hint
+LANG_ENGLISH         "[{togglescores}] Toggle Tactics Menu
+"
+
+REFERENCE            connecting_new_host
+LANG_ENGLISH         "Connecting to new host"
+
+REFERENCE            cp_basebuilding
+LANG_ENGLISH         "Base Building Prototype"
+
+REFERENCE            cp_basebuilding_desc
+LANG_ENGLISH         "Base building prototype gameplay"
+
+REFERENCE            cp_titan
+LANG_ENGLISH         "Titan"
+
+REFERENCE            cp_titan_desc
+LANG_ENGLISH         "Prototype coop gameplay on Titan "
+
+REFERENCE            create_a_streak_caps
+LANG_ENGLISH         "CREATE A STREAK"
+
+REFERENCE            current_objective
+LANG_ENGLISH         "Current Objective:"
+
+REFERENCE            cutting
+LANG_ENGLISH         "Cutting"
+
+REFERENCE            damage
+LANG_ENGLISH         "Damage"
+
+REFERENCE            decimator
+LANG_ENGLISH         "Decimator"
+
+REFERENCE            default_trial_sell_text
+LANG_ENGLISH         "The current trial is now active."
+
+REFERENCE            defend
+LANG_ENGLISH         "Defend:"
+
+REFERENCE            defenders
+LANG_ENGLISH         "Defenders"
+
+REFERENCE            defuse
+LANG_ENGLISH         "Defuse:"
+
+REFERENCE            desc_alien_armory
+LANG_ENGLISH         "Assault the Nightfall research facility. Locate survivors and eradicate the Cryptid outbreak."
+
+REFERENCE            desc_alien_beacon
+LANG_ENGLISH         "Search for the double agent aboard the abandoned research vessel. Exterminate the Cryptids and recover any intel which could lead us to the Ark."
+
+REFERENCE            desc_alien_descent
+LANG_ENGLISH         "Descent desc..."
+
+REFERENCE            desc_alien_town
+LANG_ENGLISH         "First contact with the alien scourge. Head to the heart of the impact and detonate the nuke."
+
+REFERENCE            desc_map_alien_hazard
+LANG_ENGLISH         "Try to Survive the Alien onslaught!"
+
+REFERENCE            desc_select_offline_profile
+LANG_ENGLISH         "Select an offline profile to store your multiplayer progress."
+
+REFERENCE            desc_select_save_device
+LANG_ENGLISH         "Select a save device for your multiplayer progress."
+
+REFERENCE            desc_squad_hq
+LANG_ENGLISH         "Manage your Squad and view progress"
+
+REFERENCE            desc_squad_match
+LANG_ENGLISH         "Search out and fight different squads from around the world."
+
+REFERENCE            desert
+LANG_ENGLISH         "Desert"
+
+REFERENCE            destroyed_killstreak
+LANG_ENGLISH         "Destroyed Score streak!"
+
+REFERENCE            digital
+LANG_ENGLISH         "Digital"
+
+REFERENCE            directive
+LANG_ENGLISH         "Directive:"
+
+REFERENCE            dl_content_avail_notice
+LANG_ENGLISH         "Free downloadable content is available. Do you want to download it now?"
+
+REFERENCE            dl_content_never_again
+LANG_ENGLISH         "Do not remind me again"
+
+REFERENCE            dl_content_req_avail_notice
+LANG_ENGLISH         "Free downloadable content is required. Do you want to download it now?"
+
+REFERENCE            dlc_avail_for_trial
+LANG_ENGLISH         "^2Available for Trial"
+
+REFERENCE            dlc_avail_to_download
+LANG_ENGLISH         "^2Available to Download"
+
+REFERENCE            dlc_avail_to_own
+LANG_ENGLISH         "^2Available to Own"
+
+REFERENCE            dlc_avail_to_purchase
+LANG_ENGLISH         "^2Available to Purchase"
+
+REFERENCE            dlc_coming_soon
+LANG_ENGLISH         "Available via Elite Subscription"
+
+REFERENCE            dlc_currently_trialled
+LANG_ENGLISH         "Currently being Trialled"
+
+REFERENCE            dlc_go_to_store
+LANG_ENGLISH         "You can go to the store to purchase game content and Elite Premium Memberships."
+
+REFERENCE            dlc_installed
+LANG_ENGLISH         "Installed"
+
+REFERENCE            dlc_no_elite
+LANG_ENGLISH         "Trial has Ended"
+
+REFERENCE            done_caps
+LANG_ENGLISH         "DONE"
+
+REFERENCE            downloadplaylist
+LANG_ENGLISH         "There is a playlist update available.  The playlist update will now be downloaded."
+
+REFERENCE            editing_character_caps
+LANG_ENGLISH         "EDITING CHARACTER"
+
+REFERENCE            elite_sell_confirm
+LANG_ENGLISH         "Download the free Call of Duty?? Elite application"
+
+REFERENCE            elite_sell_desc
+LANG_ENGLISH         "Connect with players. Compete for prizes. Improve your game. Receive a free exclusive emblem, title and 2 hours of double XP."
+
+REFERENCE            elite_sell_nothanks
+LANG_ENGLISH         "No thanks"
+
+REFERENCE            elite_sell_title
+LANG_ENGLISH         "CONNECT. COMPETE. IMPROVE."
+
+REFERENCE            empty
+LANG_ENGLISH         "Empty"
+
+REFERENCE            enable_cursor
+LANG_ENGLISH         "Enable cursor"
+
+REFERENCE            end_game
+LANG_ENGLISH         "End Game"
+
+REFERENCE            end_game2
+LANG_ENGLISH         "End Game?"
+
+REFERENCE            entering_restricted
+LANG_ENGLISH         "Entering Restricted Area"
+
+REFERENCE            equipmentprimary
+LANG_ENGLISH         "[{+frag}]"
+
+REFERENCE            equipmentsecondary
+LANG_ENGLISH         "[{+smoke}]"
+
+REFERENCE            field_upgrade_available
+LANG_ENGLISH         "Field Upgrade Available"
+
+REFERENCE            fieldupgrade_available
+LANG_ENGLISH         "&&1 Available"
+
+REFERENCE            finalround
+LANG_ENGLISH         "FINAL ROUND"
+
+REFERENCE            fire_rate
+LANG_ENGLISH         "Fire Rate"
+
+REFERENCE            firingrange_caps
+LANG_ENGLISH         "FIRING RANGE"
+
+REFERENCE            first_to
+LANG_ENGLISH         "First to &&1"
+
+REFERENCE            friends_vault
+LANG_ENGLISH         "Friend's Vault"
+
+REFERENCE            ft_hold_1
+LANG_ENGLISH         "Hold &&1"
+
+REFERENCE            ft_hold_2
+LANG_ENGLISH         "Hold &&1 & &&2"
+
+REFERENCE            ft_hold_3
+LANG_ENGLISH         "Hold All"
+
+REFERENCE            ft_next
+LANG_ENGLISH         "Next"
+
+REFERENCE            ft_prev
+LANG_ENGLISH         "Prev"
+
+REFERENCE            ft_tactics
+LANG_ENGLISH         "Tactics"
+
+REFERENCE            get_mw3_content
+LANG_ENGLISH         "Get Map Packs"
+
+REFERENCE            golden
+LANG_ENGLISH         "Golden"
+
+REFERENCE            guest_sponsor_error
+LANG_ENGLISH         "Guest accounts cannot play without a sponsor."
+
+REFERENCE            hashtag
+LANG_ENGLISH         "#"
+
+REFERENCE            highlander
+LANG_ENGLISH         "The Show"
+
+REFERENCE            highlights_caps
+LANG_ENGLISH         "ACCOLADES"
+
+REFERENCE            honors_damage
+LANG_ENGLISH         "Damage"
+
+REFERENCE            honors_deaths
+LANG_ENGLISH         "Death"
+
+REFERENCE            honors_equipment
+LANG_ENGLISH         "Equipment"
+
+REFERENCE            honors_gamemode
+LANG_ENGLISH         "Game Mode"
+
+REFERENCE            honors_scorestreak
+LANG_ENGLISH         "Score Streak"
+
+REFERENCE            honors_special
+LANG_ENGLISH         "Special"
+
+REFERENCE            how_trial_works
+LANG_ENGLISH         "How does the Trial work?"
+
+REFERENCE            key_pack_store
+LANG_ENGLISH         "Download Purchased Maps"
+
+REFERENCE            kick_player
+LANG_ENGLISH         "Kick Player"
+
+REFERENCE            killed_every_member_of
+LANG_ENGLISH         "Killed entire enemy team"
+
+REFERENCE            killed_every_member_of1
+LANG_ENGLISH         "Killed entire enemy team without dying"
+
+REFERENCE            kills
+LANG_ENGLISH         "Kills"
+
+REFERENCE            killstreak_kill
+LANG_ENGLISH         "Score streak Kill"
+
+REFERENCE            killstreaks
+LANG_ENGLISH         "Killstreaks"
+
+REFERENCE            leave_game
+LANG_ENGLISH         "Leave Game"
+
+REFERENCE            leave_game1
+LANG_ENGLISH         "Leave Game?"
+
+REFERENCE            leave_party_and_play
+LANG_ENGLISH         "Leave party and play filtered game modes"
+
+REFERENCE            leave_party_and_play_gamemode
+LANG_ENGLISH         "Leave party and play &&1 "
+
+REFERENCE            leave_party_and_play_promoted
+LANG_ENGLISH         "Leave party and play solo"
+
+REFERENCE            level_n
+LANG_ENGLISH         "Lv &&1"
+
+REFERENCE            life_link_effect
+LANG_ENGLISH         "Health Regen Up!"
+
+REFERENCE            light_machine_gun
+LANG_ENGLISH         "Light Machine Gun"
+
+REFERENCE            losing_caps
+LANG_ENGLISH         "LOSING"
+
+REFERENCE            makehostactive
+LANG_ENGLISH         "Changing party leader"
+
+REFERENCE            makehostfailed
+LANG_ENGLISH         "The selected party member does not have the required connectivity to be the leader at this time."
+
+REFERENCE            makehostquestion
+LANG_ENGLISH         "Make &&1 the new party leader?"
+
+REFERENCE            makehosttimeout
+LANG_ENGLISH         "We did not hear back from the new party leader in time, so we'll remain the leader."
+
+REFERENCE            mark_strike_location
+LANG_ENGLISH         "Mark Airstrike Location"
+
+REFERENCE            max_level
+LANG_ENGLISH         "Max Lv"
+
+REFERENCE            max_xp
+LANG_ENGLISH         "MAX XP!"
+
+REFERENCE            max_xp_desc
+LANG_ENGLISH         "Squad match maximum reached!"
+
+REFERENCE            maxpartysize
+LANG_ENGLISH         "Maximum party size of &&1"
+
+REFERENCE            migrating_session
+LANG_ENGLISH         "migrating session"
+
+REFERENCE            migration_evaluating
+LANG_ENGLISH         "evaluating clients"
+
+REFERENCE            migration_sending
+LANG_ENGLISH         "sent &&1% of blocks"
+
+REFERENCE            minpartysize
+LANG_ENGLISH         "Minimum party size of &&1"
+
+REFERENCE            mming_erroring
+LANG_ENGLISH         "Reinitializing to take another pass"
+
+REFERENCE            mming_host_does_it
+LANG_ENGLISH         "Our party host is looking for a match"
+
+REFERENCE            mming_initializing
+LANG_ENGLISH         "Connecting to matchmaking service"
+
+REFERENCE            mming_qosing
+LANG_ENGLISH         "Testing connection to &&1 other players"
+
+REFERENCE            mming_searching
+LANG_ENGLISH         "Searching for a match"
+
+REFERENCE            mming_searching_ping
+LANG_ENGLISH         "Searching for a match <&&1ms ping"
+
+REFERENCE            mobility
+LANG_ENGLISH         "Mobility"
+
+REFERENCE            more_details
+LANG_ENGLISH         "More Details"
+
+REFERENCE            most_deaths_from_behind
+LANG_ENGLISH         "Most deaths from behind"
+
+REFERENCE            most_thumper_kills
+LANG_ENGLISH         "Most thumper kills"
+
+REFERENCE            motd
+LANG_ENGLISH         "Message of the Day"
+
+REFERENCE            mp44
+LANG_ENGLISH         "MP44"
+
+REFERENCE            mtdm
+LANG_ENGLISH         "Multi Team Deathmatch"
+
+REFERENCE            mtdm_caps
+LANG_ENGLISH         "MULTI TEAM DEATHMATCH"
+
+REFERENCE            mtdm_recipe_desc
+LANG_ENGLISH         "Recipe based on the MTDM game mode"
+
+REFERENCE            mtdm_recipe_name
+LANG_ENGLISH         "MTDM Recipe"
+
+REFERENCE            mute_players
+LANG_ENGLISH         "Mute Players"
+
+REFERENCE            muteplayers
+LANG_ENGLISH         "MUTE PLAYERS"
+
+REFERENCE            mw3_content_available_desc
+LANG_ENGLISH         "Gain access to DLC content by using an option below."
+
+REFERENCE            mw3_content_available_no_sub_desc
+LANG_ENGLISH         "Gain access to DLC content by purchasing a map pack."
+
+REFERENCE            mw3_content_required_desc
+LANG_ENGLISH         "DLC content is required. Required map &&1 is missing or damaged. Gain access by using an option below."
+
+REFERENCE            mw3_content_required_no_sub_desc
+LANG_ENGLISH         "DLC content is required. Required map &&1 is missing or damaged. Gain access by purchasing a map pack."
+
+REFERENCE            new_patch_available
+LANG_ENGLISH         "There is a new update available. The game will now restart."
+
+REFERENCE            new_patch_restart
+LANG_ENGLISH         "The game was restarted as a new patch is available."
+
+REFERENCE            newsfeed_is
+LANG_ENGLISH         "is"
+
+REFERENCE            next_map
+LANG_ENGLISH         "Next Map"
+
+REFERENCE            next_unlock
+LANG_ENGLISH         "Next Unlock : "
+
+REFERENCE            no_highlights
+LANG_ENGLISH         "Just getting started."
+
+REFERENCE            no_killsatleast_1_death
+LANG_ENGLISH         "No kills/At least 1 death"
+
+REFERENCE            no_killsno_deaths
+LANG_ENGLISH         "No kills/No deaths"
+
+REFERENCE            no_rewards_help
+LANG_ENGLISH         "Visit www.callofduty.com to find out how to earn and claim additional rewards in game."
+
+REFERENCE            no_trial_ticket
+LANG_ENGLISH         "No Trials Ticket"
+
+REFERENCE            no_trial_ticket_desc
+LANG_ENGLISH         "You do not have ^5a ticket^7 for playing a trial. Come back once you unlock tickets.
+Tickets can be acquired when ranking up."
+
+REFERENCE            no_valid_target
+LANG_ENGLISH         "NO VALID TARGET"
+
+REFERENCE            none
+LANG_ENGLISH         "None"
+
+REFERENCE            none_spared
+LANG_ENGLISH         "None Spared"
+
+REFERENCE            objective
+LANG_ENGLISH         "Objective"
+
+REFERENCE            odd_man_out
+LANG_ENGLISH         "Warming Up"
+
+REFERENCE            online_vault
+LANG_ENGLISH         "Online Vault"
+
+REFERENCE            onlinevault_friend_not_confirmed
+LANG_ENGLISH         "You must confirm this friend request before you can access their vault."
+
+REFERENCE            onlinevault_friend_still_pending
+LANG_ENGLISH         "This friend must confirm your friend request before you can access their vault."
+
+REFERENCE            open_store
+LANG_ENGLISH         "Open Store"
+
+REFERENCE            opening_connection_caps
+LANG_ENGLISH         "OPENING CONNECTION"
+
+REFERENCE            operation
+LANG_ENGLISH         "OPERATION"
+
+REFERENCE            operator
+LANG_ENGLISH         "Operator:"
+
+REFERENCE            orange_fall
+LANG_ENGLISH         "Fall"
+
+REFERENCE            overtime
+LANG_ENGLISH         "OVERTIME"
+
+REFERENCE            party_invite_accept
+LANG_ENGLISH         "Join party"
+
+REFERENCE            party_invite_decline
+LANG_ENGLISH         "Decline"
+
+REFERENCE            party_invite_question
+LANG_ENGLISH         "&&1 invited you to a party."
+
+REFERENCE            party_invite_question_party_host
+LANG_ENGLISH         "&&1 invited you to join a party.
+Accepting this invite will disband your party."
+
+REFERENCE            party_invite_title
+LANG_ENGLISH         "Party invitation"
+
+REFERENCE            party_leader
+LANG_ENGLISH         "Party Leader"
+
+REFERENCE            party_lost_host
+LANG_ENGLISH         "You were unable to join the private party leader's game session."
+
+REFERENCE            party_member_lost_backout
+LANG_ENGLISH         "One of our party members lost their connection to the lobby host; we followed him back to the party screen."
+
+REFERENCE            perk_unlocks_caps
+LANG_ENGLISH         "PERK UNLOCKS"
+
+REFERENCE            perk_upgrade_available
+LANG_ENGLISH         "Perk Upgrade Available"
+
+REFERENCE            perk_upgrade_ingame_title
+LANG_ENGLISH         "Choose a Perk Upgrade"
+
+REFERENCE            picking_new_host
+LANG_ENGLISH         "Picking a new host"
+
+REFERENCE            pistol
+LANG_ENGLISH         "Pistol"
+
+REFERENCE            play_with_kbm
+LANG_ENGLISH         "Playing with Keyboard and Mouse"
+
+REFERENCE            player_name_caps
+LANG_ENGLISH         "PLAYER NAME"
+
+REFERENCE            player_options
+LANG_ENGLISH         "Player Options"
+
+REFERENCE            prestige
+LANG_ENGLISH         "Prestige"
+
+REFERENCE            prestige_custom_class_caps
+LANG_ENGLISH         "EXTRA CUSTOM CLASS"
+
+REFERENCE            prestige_reset_stats
+LANG_ENGLISH         "RESET ALL STATS"
+
+REFERENCE            primary_weapon_caps
+LANG_ENGLISH         "PRIMARY WEAPON"
+
+REFERENCE            pro_perk
+LANG_ENGLISH         "Pro"
+
+REFERENCE            progression_item_unlocked
+LANG_ENGLISH         "&&1 Unlocked"
+
+REFERENCE            projectile
+LANG_ENGLISH         "Launcher"
+
+REFERENCE            range
+LANG_ENGLISH         "Range"
+
+REFERENCE            rank_pre
+LANG_ENGLISH         "Rank:"
+
+REFERENCE            recipe_load_failed
+LANG_ENGLISH         "Failed to load custom gamemode data."
+
+REFERENCE            recipe_load_succeeded
+LANG_ENGLISH         "Load custom gamemode succeeded."
+
+REFERENCE            recipe_save_failed
+LANG_ENGLISH         "Failed to save custom gamemode data."
+
+REFERENCE            recipe_save_succeeded
+LANG_ENGLISH         "Save custom gamemode succeeded."
+
+REFERENCE            recommendedplayers
+LANG_ENGLISH         "Recommended Max Players: &&1"
+
+REFERENCE            red_tiger
+LANG_ENGLISH         "Red Tiger"
+
+REFERENCE            red_urban
+LANG_ENGLISH         "Urban"
+
+REFERENCE            reflect
+LANG_ENGLISH         "Reflect"
+
+REFERENCE            remove_non_premium_player
+LANG_ENGLISH         "There are players in your party who do not own the full version of Call of Duty. "
+
+REFERENCE            remove_non_subscription_players
+LANG_ENGLISH         "One or more members in this party does not have access to this feature."
+
+REFERENCE            remove_players
+LANG_ENGLISH         "Remove players"
+
+REFERENCE            remove_players_desc
+LANG_ENGLISH         "You are required to remove an additional &&1 players to play &&2 in a party.
+
+What do you wish to do?"
+
+REFERENCE            remove_players_filtered_desc
+LANG_ENGLISH         "You are required to remove at least &&1 players in order to play your filtered game modes. 
+
+What do you wish to do?"
+
+REFERENCE            remove_players_promoted_desc
+LANG_ENGLISH         "You are required to remove at least &&1 players in order to play"
+
+REFERENCE            repairing
+LANG_ENGLISH         "Repairing Vehicle"
+
+REFERENCE            reset_to_default_caps
+LANG_ENGLISH         "RESET TO DEFAULT"
+
+REFERENCE            restart_map
+LANG_ENGLISH         "Restart Map"
+
+REFERENCE            return_to_combat_area
+LANG_ENGLISH         "Return to Combat Area"
+
+REFERENCE            return_to_vehicle
+LANG_ENGLISH         "Return to Vehicle"
+
+REFERENCE            reviving
+LANG_ENGLISH         "Reviving"
+
+REFERENCE            round
+LANG_ENGLISH         "Round &&1/&&2"
+
+REFERENCE            round_only
+LANG_ENGLISH         "Round &&1"
+
+REFERENCE            rules_10x
+LANG_ENGLISH         "10X"
+
+REFERENCE            rules_1_5x
+LANG_ENGLISH         "1.5X"
+
+REFERENCE            rules_add_to_rotation
+LANG_ENGLISH         "Add/Remove Map"
+
+REFERENCE            rules_exclude_category
+LANG_ENGLISH         "Restrict Group"
+
+REFERENCE            rules_noguestsave
+LANG_ENGLISH         "Guest accounts are not supported for saving custom game modes."
+
+REFERENCE            rules_nosavedevice
+LANG_ENGLISH         "A save device is required to support saving custom game modes."
+
+REFERENCE            rules_save
+LANG_ENGLISH         "Save Settings"
+
+REFERENCE            rules_save_to_vault
+LANG_ENGLISH         "Save to Vault"
+
+REFERENCE            rules_shared
+LANG_ENGLISH         "Shared"
+
+REFERENCE            rust_caps
+LANG_ENGLISH         "RUST"
+
+REFERENCE            save_and_exit
+LANG_ENGLISH         "Save and Exit"
+
+REFERENCE            score
+LANG_ENGLISH         "Score"
+
+REFERENCE            secondary_weapon_caps
+LANG_ENGLISH         "SECONDARY WEAPON"
+
+REFERENCE            server_info_failed
+LANG_ENGLISH         "Failed to retrieve server info"
+
+REFERENCE            setashost
+LANG_ENGLISH         "Make Leader"
+
+REFERENCE            sixth_sense
+LANG_ENGLISH         "6th Sense"
+
+REFERENCE            sniper_rifle
+LANG_ENGLISH         "Sniper Rifle"
+
+REFERENCE            spectator
+LANG_ENGLISH         "Spectator"
+
+REFERENCE            start_practice_run
+LANG_ENGLISH         "Start Practice Run"
+
+REFERENCE            store_key_pack_text
+LANG_ENGLISH         "Purchased maps are available to download."
+
+REFERENCE            streak_use_hint
+LANG_ENGLISH         "Press &&1"
+
+REFERENCE            sub_machine_gun
+LANG_ENGLISH         "Submachine Gun"
+
+REFERENCE            super_ability_hint
+LANG_ENGLISH         "[{+smoke}] + [{+frag}]"
+
+REFERENCE            super_ability_hint_br_layout
+LANG_ENGLISH         "[{+ping}] + [{+equip_toggle_throw}]"
+
+REFERENCE            super_ability_hint_pc
+LANG_ENGLISH         "[{+special}]"
+
+REFERENCE            super_ability_ready_caps
+LANG_ENGLISH         "&&1 READY"
+
+REFERENCE            supernatural
+LANG_ENGLISH         "Supernatural"
+
+REFERENCE            terminator
+LANG_ENGLISH         "Exterminator"
+
+REFERENCE            tied_caps
+LANG_ENGLISH         "TIE"
+
+REFERENCE            tournament_begin_popup_confirmation
+LANG_ENGLISH         "Are you sure you want to enter Tournament?"
+
+REFERENCE            tournament_disbanded
+LANG_ENGLISH         "Tournament has been disbanded.  Please try again later."
+
+REFERENCE            tournament_formation_lobby_disbanded
+LANG_ENGLISH         "Unable to form a playable bracket.  Please try again later."
+
+REFERENCE            tournament_full
+LANG_ENGLISH         "All upcoming tournaments are full.  Please try again later."
+
+REFERENCE            tournament_party_lost
+LANG_ENGLISH         "Tournament formation failed due to party breakup.  Please reform the party and try again."
+
+REFERENCE            tournament_team_name_0
+LANG_ENGLISH         "Alpha Team"
+
+REFERENCE            tournament_team_name_1
+LANG_ENGLISH         "Bravo Team"
+
+REFERENCE            tournament_team_name_10
+LANG_ENGLISH         "Kilo Team"
+
+REFERENCE            tournament_team_name_11
+LANG_ENGLISH         "Lima Team"
+
+REFERENCE            tournament_team_name_12
+LANG_ENGLISH         "Mike Team"
+
+REFERENCE            tournament_team_name_13
+LANG_ENGLISH         "November Team"
+
+REFERENCE            tournament_team_name_14
+LANG_ENGLISH         "Oscar Team"
+
+REFERENCE            tournament_team_name_15
+LANG_ENGLISH         "Papa Team"
+
+REFERENCE            tournament_team_name_16
+LANG_ENGLISH         "Quebec Team"
+
+REFERENCE            tournament_team_name_17
+LANG_ENGLISH         "Romeo Team"
+
+REFERENCE            tournament_team_name_18
+LANG_ENGLISH         "Sierra Team"
+
+REFERENCE            tournament_team_name_19
+LANG_ENGLISH         "Tango Team"
+
+REFERENCE            tournament_team_name_2
+LANG_ENGLISH         "Charlie Team"
+
+REFERENCE            tournament_team_name_20
+LANG_ENGLISH         "Uniform Team"
+
+REFERENCE            tournament_team_name_21
+LANG_ENGLISH         "Victor Team"
+
+REFERENCE            tournament_team_name_22
+LANG_ENGLISH         "Whiskey Team"
+
+REFERENCE            tournament_team_name_23
+LANG_ENGLISH         "Xray Team"
+
+REFERENCE            tournament_team_name_24
+LANG_ENGLISH         "Yankee Team"
+
+REFERENCE            tournament_team_name_25
+LANG_ENGLISH         "Zulu Team"
+
+REFERENCE            tournament_team_name_3
+LANG_ENGLISH         "Delta Team"
+
+REFERENCE            tournament_team_name_4
+LANG_ENGLISH         "Echo Team"
+
+REFERENCE            tournament_team_name_5
+LANG_ENGLISH         "Foxtrot Team"
+
+REFERENCE            tournament_team_name_6
+LANG_ENGLISH         "Golf Team"
+
+REFERENCE            tournament_team_name_7
+LANG_ENGLISH         "Hotel Team"
+
+REFERENCE            tournament_team_name_8
+LANG_ENGLISH         "India Team"
+
+REFERENCE            tournament_team_name_9
+LANG_ENGLISH         "Juliet Team"
+
+REFERENCE            tournament_unable_to_connect_to_lobby
+LANG_ENGLISH         "Unable to connect to game lobby.  Canceling tournament."
+
+REFERENCE            trial_available_tickets
+LANG_ENGLISH         "Available Tickets [{ui_killhouse_ticket}] x&&1"
+
+REFERENCE            trial_begin_popup_confirmation
+LANG_ENGLISH         "Spend 1 ticket to enter this trial?"
+
+REFERENCE            trial_begin_practice_confirmation
+LANG_ENGLISH         "Enter practice mode without spending ticket?
+^1No rewards may be obtained.^7"
+
+REFERENCE            trial_behind_enemy_line_desc_assault
+LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
+
+Loadout: ^3Assault weapons^7
+3 attempts"
+
+REFERENCE            trial_behind_enemy_line_desc_cqb_nvg
+LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
+
+Loadout: ^3CQB weapons^7 + ^2Night-vision goggles^7
+3 attempts"
+
+REFERENCE            trial_behind_enemy_line_desc_heavy
+LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
+
+Loadout: ^3Heavy weapons^7
+3 attempts"
+
+REFERENCE            trial_behind_enemy_line_desc_m19_nvg
+LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.  You will have limited ammo in your initial weapon and will need to scavenge for ammo and weapons through the fight.
+
+Loadout: ^3M19 + Night-vision goggles^7
+3 attempts
+"
+
+REFERENCE            trial_behind_enemy_line_desc_m19_nvg_fixed
+LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.  You will have limited ammo in your initial weapon and will need to scavenge for ammo and weapons through the fight.
+
+Loadout: ^3M19^7 + ^2Night-vision goggles^7
+3 attempts"
+
+REFERENCE            trial_behind_enemy_line_name
+LANG_ENGLISH         "Behind Enemy Lines"
+
+REFERENCE            trial_best_score
+LANG_ENGLISH         "Best Score: ^5&&1^7"
+
+REFERENCE            trial_best_time
+LANG_ENGLISH         "Best Time: ^5&&1^7"
+
+REFERENCE            trial_cannot_start
+LANG_ENGLISH         "Trial cannot start"
+
+REFERENCE            trial_clay_target_desc_assorted
+LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
+
+Loadout: ^3Assorted weapons^7
+3 attempts"
+
+REFERENCE            trial_clay_target_desc_osp
+LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
+
+Loadout: ^3On-site procurement^7
+3 attempts"
+
+REFERENCE            trial_clay_target_desc_shotguns
+LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
+
+Loadout: ^3Shotguns^7
+3 attempts"
+
+REFERENCE            trial_clay_target_desc_weapon_pickup
+LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
+
+Loadout: ^3Pick up the weapons available on the course^7
+3 attempts"
+
+REFERENCE            trial_clay_target_desc_weapon_rack
+LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
+
+Loadout: ^3Choose your weapon out of the gun rack^7
+3 attempts"
+
+REFERENCE            trial_clay_target_name
+LANG_ENGLISH         "Shooting Range"
+
+REFERENCE            trial_enter
+LANG_ENGLISH         "Use Ticket"
+
+REFERENCE            trial_gun_course_desc
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
+
+3 attempts"
+
+REFERENCE            trial_gun_course_desc_assault
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
+
+Loadout: ^3Assault weapons^7
+3 attempts"
+
+REFERENCE            trial_gun_course_desc_assorted
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
+
+Loadout: ^3Assorted weapons^7
+3 attempts"
+
+REFERENCE            trial_gun_course_desc_cqb_weapons
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
+
+Loadout: ^3CQB weapons^7
+3 attempts"
+
+REFERENCE            trial_gun_course_desc_marksman
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
+
+Loadout: ^3Marksman weapons^7
+3 attempts"
+
+REFERENCE            trial_gun_course_desc_smoke
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
+
+Scenario: ^5Smoke deployment^7
+3 attempts"
+
+REFERENCE            trial_gun_course_desc_smoke_assorted
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
+
+Loadout: ^3Assorted weapons^7
+Scenario: ^5Smoke deployment^7
+3 attempts"
+
+REFERENCE            trial_gun_course_name
+LANG_ENGLISH         "Gun Course"
+
+REFERENCE            trial_gunslinger_desc_1911
+LANG_ENGLISH         "Sharpen your decision making skills while engaging waves of mixed enemies and civilian targets.
+
+Loadout: ^31911^7
+3 attempts"
+
+REFERENCE            trial_gunslinger_desc_mk2
+LANG_ENGLISH         "Sharpen your decision making skills while engaging waves of mixed enemies and civilian targets.
+
+Loadout: ^3MK2 Carbine^7
+3 attempts"
+
+REFERENCE            trial_gunslinger_name
+LANG_ENGLISH         "Price's Alley"
+
+REFERENCE            trial_how_many_stars
+LANG_ENGLISH         "Get at least ^5&&1 Star ^7to win the reward."
+
+REFERENCE            trial_juggernaut_desc
+LANG_ENGLISH         "Equip the Juggernaut suit and survive as long as possible against hordes of enemies and artillery.
+
+Loadout: ^3Juggernaut killstreak^7
+3 attempts"
+
+REFERENCE            trial_juggernaut_desc_simple
+LANG_ENGLISH         "Equip the Juggernaut suit and survive as long as possible against hordes of enemies and artillery.
+
+3 attempts"
+
+REFERENCE            trial_juggernaut_name
+LANG_ENGLISH         "Heavily armed"
+
+REFERENCE            trial_lava_desc_decho
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
+
+Loadout: ^3.50 GS^7
+3 attempts"
+
+REFERENCE            trial_lava_desc_decho_mines
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Destroy mines blocking your path and beware of the heavy toxic gas on low ground.
+
+Loadout: ^3.50 GS^7
+3 attempts"
+
+REFERENCE            trial_lava_desc_knife
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
+
+Loadout: ^3Combat Knife^7
+3 attempts"
+
+REFERENCE            trial_lava_desc_riot_shield
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
+
+Loadout: ^3Riot Shield^7
+3 attempts"
+
+REFERENCE            trial_lava_desc_simple
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
+
+3 attempts"
+
+REFERENCE            trial_lava_desc_x16
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
+
+Loadout: ^3X16^7
+3 attempts"
+
+REFERENCE            trial_lava_desc_x16_mines
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Destroy mines blocking your path and beware of the heavy toxic gas on low ground.
+
+Loadout: ^3X16^7
+3 attempts"
+
+REFERENCE            trial_lava_name
+LANG_ENGLISH         "Risky Parkour"
+
+REFERENCE            trial_loadout_1911
+LANG_ENGLISH         "Loadout: ^31911^7
+3 attempts"
+
+REFERENCE            trial_loadout_assault
+LANG_ENGLISH         "Loadout: ^3Assault weapons^7
+3 attempts"
+
+REFERENCE            trial_loadout_atv
+LANG_ENGLISH         "Loadout: ^3ATV^7
+3 attempts"
+
+REFERENCE            trial_loadout_cqb
+LANG_ENGLISH         "Loadout: ^3CQB weapons^7
+3 attempts"
+
+REFERENCE            trial_loadout_cqb_pm
+LANG_ENGLISH         "Loadout: ^3CQB weapons^7 + ^2Night-vision goggles^7
+3 attempts"
+
+REFERENCE            trial_loadout_frag
+LANG_ENGLISH         "Loadout: ^3Frag Grenade^7
+3 attempts"
+
+REFERENCE            trial_loadout_heavy
+LANG_ENGLISH         "Loadout: ^3Heavy weapons^7
+3 attempts"
+
+REFERENCE            trial_loadout_juggernaut
+LANG_ENGLISH         "Loadout: ^3Juggernaut killstreak^7
+3 attempts"
+
+REFERENCE            trial_loadout_knife
+LANG_ENGLISH         "Loadout: ^3Combat Knife^7
+3 attempts"
+
+REFERENCE            trial_loadout_m19_nvg
+LANG_ENGLISH         "Loadout: ^3M19 + Night-vision goggles^7
+3 attempts"
+
+REFERENCE            trial_loadout_marksman
+LANG_ENGLISH         "Loadout: ^3Marksman weapons^7
+3 attempts"
+
+REFERENCE            trial_loadout_mk2
+LANG_ENGLISH         "Loadout: ^3MK2 Carbine^7
+3 attempts"
+
+REFERENCE            trial_loadout_pickup
+LANG_ENGLISH         "Loadout: ^3Pick up the weapons available on the course ^7
+3 attempts"
+
+REFERENCE            trial_loadout_rack
+LANG_ENGLISH         "Loadout: ^3Choose your weapon out of the gun rack^7
+3 attempts
+"
+
+REFERENCE            trial_loadout_shield
+LANG_ENGLISH         "Loadout: ^3Riot Shield^7
+3 attempts"
+
+REFERENCE            trial_loadout_snr_1
+LANG_ENGLISH         "Loadout: ^3AX-50^7
+3 attempts"
+
+REFERENCE            trial_loadout_snr_2
+LANG_ENGLISH         "Loadout: ^3Scoped .357^7
+3 attempts"
+
+REFERENCE            trial_marksman_desc_ax50
+LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
+
+Loadout: ^3AX-50^7
+3 attempts"
+
+REFERENCE            trial_marksman_desc_decho
+LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
+
+Loadout: ^3.50 GS^7
+3 attempts"
+
+REFERENCE            trial_marksman_desc_dragunov
+LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
+
+Loadout: ^3Dragunov^7
+3 attempts"
+
+REFERENCE            trial_marksman_desc_scoped
+LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
+
+Loadout: ^3Scoped .357^7
+3 attempts"
+
+REFERENCE            trial_marksman_name
+LANG_ENGLISH         "Marksman Challenge"
+
+REFERENCE            trial_olympics
+LANG_ENGLISH         "Try Hard Olympics"
+
+REFERENCE            trial_pitcher_desc_frag
+LANG_ENGLISH         "Practice your throwing skills with lethal equipment and reach as many targets as possible before time runs out.
+
+Loadout: ^3Frag Grenade^7
+3 attempts"
+
+REFERENCE            trial_pitcher_desc_frag_round
+LANG_ENGLISH         "Practice your throwing skills with lethal equipment and hit as many indicated targets in each round before time runs out.
+
+Loadout: ^3Frag Grenade^7
+3 attempts"
+
+REFERENCE            trial_pitcher_name
+LANG_ENGLISH         "Fire in the Hole"
+
+REFERENCE            trial_quadrace_desc
+LANG_ENGLISH         "Finish the race as quickly as possible. Race through flare gates and finish the course as quickly as possible.
+
+Loadout: ^3ATV^7
+3 attempts"
+
+REFERENCE            trial_quadrace_desc_simple
+LANG_ENGLISH         "Race through flare gates and finish the course as quickly as possible.
+
+3 attempts"
+
+REFERENCE            trial_quadrace_name
+LANG_ENGLISH         "Quad Race"
+
+REFERENCE            trial_reward
+LANG_ENGLISH         "Trial Reward"
+
+REFERENCE            trial_reward_title
+LANG_ENGLISH         "Trial Reward"
+
+REFERENCE            trial_rewards
+LANG_ENGLISH         "Rewards"
+
+REFERENCE            trial_rules
+LANG_ENGLISH         "Rules"
+
+REFERENCE            trial_store
+LANG_ENGLISH         "Download Trial Maps"
+
+REFERENCE            trial_supply_drops
+LANG_ENGLISH         "Supply drops can be open in the quartermaster"
+
+REFERENCE            trial_ticket_count
+LANG_ENGLISH         "x&&1"
+
+REFERENCE            trial_time_to_beat
+LANG_ENGLISH         "Time to beat:"
+
+REFERENCE            trial_title
+LANG_ENGLISH         "Trial"
+
+REFERENCE            trial_trialthlon
+LANG_ENGLISH         "Trial-thlon"
+
+REFERENCE            trial_trialympics
+LANG_ENGLISH         "Trialympics"
+
+REFERENCE            trying_to_download_rewards
+LANG_ENGLISH         "Downloading Rewards from server ..."
+
+REFERENCE            uav_assist
+LANG_ENGLISH         "UAV assist"
+
+REFERENCE            unlocked_at_prestige_n
+LANG_ENGLISH         "Unlocked at Prestige &&1."
+
+REFERENCE            unlocked_by_challenge
+LANG_ENGLISH         "Unlocked by challenge."
+
+REFERENCE            unlocked_by_challenge_pre
+LANG_ENGLISH         "Unlocked by Challenge:"
+
+REFERENCE            unlockxp
+LANG_ENGLISH         "Unlocked at &&1 (Lv&&2)"
+
+REFERENCE            unnamed
+LANG_ENGLISH         "[unnamed]"
+
+REFERENCE            upgrade
+LANG_ENGLISH         "Upgrade"
+
+REFERENCE            uplink_armor
+LANG_ENGLISH         "Armor"
+
+REFERENCE            uplink_pass
+LANG_ENGLISH         "Pass"
+
+REFERENCE            uplink_throw
+LANG_ENGLISH         "Throw"
+
+REFERENCE            vault_basegamemode
+LANG_ENGLISH         "BASE GAME MODE"
+
+REFERENCE            vault_creator
+LANG_ENGLISH         "CREATOR"
+
+REFERENCE            vault_datetime
+LANG_ENGLISH         "DATE / TIME"
+
+REFERENCE            vault_description
+LANG_ENGLISH         "DESCRIPTION"
+
+REFERENCE            vault_duration
+LANG_ENGLISH         "DURATION"
+
+REFERENCE            vault_gametype
+LANG_ENGLISH         "GAME TYPE"
+
+REFERENCE            vault_map
+LANG_ENGLISH         "MAP"
+
+REFERENCE            vault_result_defeat
+LANG_ENGLISH         "DEFEAT"
+
+REFERENCE            vault_result_victory
+LANG_ENGLISH         "VICTORY"
+
+REFERENCE            vehicle_passenger
+LANG_ENGLISH         "Vehicle Passenger"
+
+REFERENCE            vip
+LANG_ENGLISH         "VIP"
+
+REFERENCE            waiting_for_party_members
+LANG_ENGLISH         "Waiting for party members"
+
+REFERENCE            waiting_new_host
+LANG_ENGLISH         "Waiting for new host"
+
+REFERENCE            weapon_leveled
+LANG_ENGLISH         "Weapon Rank Up"
+
+REFERENCE            weapon_lvl
+LANG_ENGLISH         "WEAPON LEVEL"
+
+REFERENCE            weapon_rank_up
+LANG_ENGLISH         "&&1 ranked up to rank &&2"
+
+REFERENCE            weapon_xp_gained_caps
+LANG_ENGLISH         "WEAPON XP GAINED"
+
+REFERENCE            winning_caps
+LANG_ENGLISH         "WINNING"
+
+REFERENCE            woodland
+LANG_ENGLISH         "Woodland"
+
+REFERENCE            xp_level
+LANG_ENGLISH         "Level: &&1"
+
+REFERENCE            xp_next_level
+LANG_ENGLISH         "XP to next level: &&1 / &&2"
+
+REFERENCE            xp_pre
+LANG_ENGLISH         "XP"
+
+REFERENCE            youarehost
+LANG_ENGLISH         "You are now the party leader."
+
+REFERENCE            your_accolades_caps
+LANG_ENGLISH         "YOUR ACCOLADES"
+
+
+ENDMARKER

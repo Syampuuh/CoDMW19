@@ -1,0 +1,342 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            challenge_complete
+LANG_ENGLISH         "Challenge Completed"
+
+REFERENCE            challenge_locked
+LANG_ENGLISH         "Challenge is locked and will be available when you reach rank &&1"
+
+REFERENCE            challenge_locked_max
+LANG_ENGLISH         "Challenge is locked and will be available when you reach Max Rank"
+
+REFERENCE            emblem_challenge_update
+LANG_ENGLISH         "Every &&1 completed challenges unlock a new season emblem."
+
+REFERENCE            new_rank
+LANG_ENGLISH         "New Rank"
+
+REFERENCE            player_rank_reset
+LANG_ENGLISH         "Player Rank Reset"
+
+REFERENCE            progress
+LANG_ENGLISH         "Challenge Progress"
+
+REFERENCE            progress_count
+LANG_ENGLISH         "&&1/&&2"
+
+REFERENCE            rank_reset_time
+LANG_ENGLISH         "Rank resets &&1"
+
+REFERENCE            ribbon_of_honor
+LANG_ENGLISH         "Ribbon of Honor"
+
+REFERENCE            ribbon_of_honor_001
+LANG_ENGLISH         "Ribbon of Honor 1"
+
+REFERENCE            ribbon_of_honor_002
+LANG_ENGLISH         "Ribbon of Honor 2"
+
+REFERENCE            ribbon_of_honor_003
+LANG_ENGLISH         "Ribbon of Honor 3"
+
+REFERENCE            ribbon_of_honor_004
+LANG_ENGLISH         "Ribbon of Honor 4"
+
+REFERENCE            ribbon_of_honor_005
+LANG_ENGLISH         "Ribbon of Honor 5"
+
+REFERENCE            ribbon_of_honor_006
+LANG_ENGLISH         "Ribbon of Honor 6"
+
+REFERENCE            ribbon_of_honor_007
+LANG_ENGLISH         "Ribbon of Honor 7"
+
+REFERENCE            ribbon_of_honor_008
+LANG_ENGLISH         "Ribbon of Honor 8"
+
+REFERENCE            ribbon_of_honor_009
+LANG_ENGLISH         "Ribbon of Honor 9"
+
+REFERENCE            ribbon_of_honor_010
+LANG_ENGLISH         "Ribbon of Honor 10"
+
+REFERENCE            ribbon_of_honor_011
+LANG_ENGLISH         "Ribbon of Honor 11"
+
+REFERENCE            ribbon_of_honor_012
+LANG_ENGLISH         "Ribbon of Honor 12"
+
+REFERENCE            ribbon_of_honor_013
+LANG_ENGLISH         "Ribbon of Honor 13"
+
+REFERENCE            ribbon_of_honor_014
+LANG_ENGLISH         "Ribbon of Honor 14"
+
+REFERENCE            ribbon_of_honor_015
+LANG_ENGLISH         "Ribbon of Honor 15"
+
+REFERENCE            ribbon_of_honor_016
+LANG_ENGLISH         "Ribbon of Honor 16"
+
+REFERENCE            ribbon_of_honor_017
+LANG_ENGLISH         "Ribbon of Honor 17"
+
+REFERENCE            ribbon_of_honor_018
+LANG_ENGLISH         "Ribbon of Honor 18"
+
+REFERENCE            ribbon_of_honor_019
+LANG_ENGLISH         "Ribbon of Honor 19"
+
+REFERENCE            ribbon_of_honor_020
+LANG_ENGLISH         "Ribbon of Honor 20"
+
+REFERENCE            ribbon_of_honor_021
+LANG_ENGLISH         "Ribbon of Honor 21"
+
+REFERENCE            ribbon_of_honor_022
+LANG_ENGLISH         "Ribbon of Honor 22"
+
+REFERENCE            ribbon_of_honor_023
+LANG_ENGLISH         "Ribbon of Honor 23"
+
+REFERENCE            ribbon_of_honor_024
+LANG_ENGLISH         "Ribbon of Honor 24"
+
+REFERENCE            ribbon_of_honor_025
+LANG_ENGLISH         "Ribbon of Honor 25"
+
+REFERENCE            ribbon_of_honor_026
+LANG_ENGLISH         "Ribbon of Honor 26"
+
+REFERENCE            ribbon_of_honor_027
+LANG_ENGLISH         "Ribbon of Honor 27"
+
+REFERENCE            ribbon_of_honor_028
+LANG_ENGLISH         "Ribbon of Honor 28"
+
+REFERENCE            ribbon_of_honor_029
+LANG_ENGLISH         "Ribbon of Honor 29"
+
+REFERENCE            ribbon_of_honor_030
+LANG_ENGLISH         "Ribbon of Honor 30"
+
+REFERENCE            ribbon_of_honor_031
+LANG_ENGLISH         "Ribbon of Honor 31"
+
+REFERENCE            ribbon_of_honor_032
+LANG_ENGLISH         "Ribbon of Honor 32"
+
+REFERENCE            ribbon_of_honor_033
+LANG_ENGLISH         "Ribbon of Honor 33"
+
+REFERENCE            ribbon_of_honor_034
+LANG_ENGLISH         "Ribbon of Honor 34"
+
+REFERENCE            ribbon_of_honor_035
+LANG_ENGLISH         "Ribbon of Honor 35"
+
+REFERENCE            ribbon_of_honor_036
+LANG_ENGLISH         "Ribbon of Honor 36"
+
+REFERENCE            ribbon_of_honor_037
+LANG_ENGLISH         "Ribbon of Honor 37"
+
+REFERENCE            ribbon_of_honor_038
+LANG_ENGLISH         "Ribbon of Honor 38"
+
+REFERENCE            ribbon_of_honor_039
+LANG_ENGLISH         "Ribbon of Honor 39"
+
+REFERENCE            ribbon_of_honor_040
+LANG_ENGLISH         "Ribbon of Honor 40"
+
+REFERENCE            ribbon_of_honor_041
+LANG_ENGLISH         "Ribbon of Honor 41"
+
+REFERENCE            ribbon_of_honor_042
+LANG_ENGLISH         "Ribbon of Honor 42"
+
+REFERENCE            ribbon_of_honor_043
+LANG_ENGLISH         "Ribbon of Honor 43"
+
+REFERENCE            ribbon_of_honor_044
+LANG_ENGLISH         "Ribbon of Honor 44"
+
+REFERENCE            ribbon_of_honor_045
+LANG_ENGLISH         "Ribbon of Honor 45"
+
+REFERENCE            ribbon_of_honor_046
+LANG_ENGLISH         "Ribbon of Honor 46"
+
+REFERENCE            ribbon_of_honor_047
+LANG_ENGLISH         "Ribbon of Honor 47"
+
+REFERENCE            ribbon_of_honor_048
+LANG_ENGLISH         "Ribbon of Honor 48"
+
+REFERENCE            ribbon_of_honor_049
+LANG_ENGLISH         "Ribbon of Honor 49"
+
+REFERENCE            ribbon_of_honor_050
+LANG_ENGLISH         "Ribbon of Honor 50"
+
+REFERENCE            ribbon_of_honor_051
+LANG_ENGLISH         "Ribbon of Honor 51"
+
+REFERENCE            ribbon_of_honor_052
+LANG_ENGLISH         "Ribbon of Honor 52"
+
+REFERENCE            ribbon_of_honor_053
+LANG_ENGLISH         "Ribbon of Honor 53"
+
+REFERENCE            ribbon_of_honor_054
+LANG_ENGLISH         "Ribbon of Honor 54"
+
+REFERENCE            ribbon_of_honor_055
+LANG_ENGLISH         "Ribbon of Honor 55"
+
+REFERENCE            ribbon_of_honor_056
+LANG_ENGLISH         "Ribbon of Honor 56"
+
+REFERENCE            ribbon_of_honor_057
+LANG_ENGLISH         "Ribbon of Honor 57"
+
+REFERENCE            ribbon_of_honor_058
+LANG_ENGLISH         "Ribbon of Honor 58"
+
+REFERENCE            ribbon_of_honor_059
+LANG_ENGLISH         "Ribbon of Honor 59"
+
+REFERENCE            ribbon_of_honor_060
+LANG_ENGLISH         "Ribbon of Honor 60"
+
+REFERENCE            ribbon_of_honor_061
+LANG_ENGLISH         "Ribbon of Honor 61"
+
+REFERENCE            ribbon_of_honor_062
+LANG_ENGLISH         "Ribbon of Honor 62"
+
+REFERENCE            ribbon_of_honor_063
+LANG_ENGLISH         "Ribbon of Honor 63"
+
+REFERENCE            ribbon_of_honor_064
+LANG_ENGLISH         "Ribbon of Honor 64"
+
+REFERENCE            ribbon_of_honor_065
+LANG_ENGLISH         "Ribbon of Honor 65"
+
+REFERENCE            ribbon_of_honor_066
+LANG_ENGLISH         "Ribbon of Honor 66"
+
+REFERENCE            ribbon_of_honor_067
+LANG_ENGLISH         "Ribbon of Honor 67"
+
+REFERENCE            ribbon_of_honor_068
+LANG_ENGLISH         "Ribbon of Honor 68"
+
+REFERENCE            ribbon_of_honor_069
+LANG_ENGLISH         "Ribbon of Honor 69"
+
+REFERENCE            ribbon_of_honor_070
+LANG_ENGLISH         "Ribbon of Honor 70"
+
+REFERENCE            ribbon_of_honor_071
+LANG_ENGLISH         "Ribbon of Honor 71"
+
+REFERENCE            ribbon_of_honor_072
+LANG_ENGLISH         "Ribbon of Honor 72"
+
+REFERENCE            ribbon_of_honor_073
+LANG_ENGLISH         "Ribbon of Honor 73"
+
+REFERENCE            ribbon_of_honor_074
+LANG_ENGLISH         "Ribbon of Honor 74"
+
+REFERENCE            ribbon_of_honor_075
+LANG_ENGLISH         "Ribbon of Honor 75"
+
+REFERENCE            ribbon_of_honor_076
+LANG_ENGLISH         "Ribbon of Honor 76"
+
+REFERENCE            ribbon_of_honor_077
+LANG_ENGLISH         "Ribbon of Honor 77"
+
+REFERENCE            ribbon_of_honor_078
+LANG_ENGLISH         "Ribbon of Honor 78"
+
+REFERENCE            ribbon_of_honor_079
+LANG_ENGLISH         "Ribbon of Honor 79"
+
+REFERENCE            ribbon_of_honor_080
+LANG_ENGLISH         "Ribbon of Honor 80"
+
+REFERENCE            ribbon_of_honor_081
+LANG_ENGLISH         "Ribbon of Honor 81"
+
+REFERENCE            ribbon_of_honor_082
+LANG_ENGLISH         "Ribbon of Honor 82"
+
+REFERENCE            ribbon_of_honor_083
+LANG_ENGLISH         "Ribbon of Honor 83"
+
+REFERENCE            ribbon_of_honor_084
+LANG_ENGLISH         "Ribbon of Honor 84"
+
+REFERENCE            ribbon_of_honor_085
+LANG_ENGLISH         "Ribbon of Honor 85"
+
+REFERENCE            ribbon_of_honor_086
+LANG_ENGLISH         "Ribbon of Honor 86"
+
+REFERENCE            ribbon_of_honor_087
+LANG_ENGLISH         "Ribbon of Honor 87"
+
+REFERENCE            ribbon_of_honor_088
+LANG_ENGLISH         "Ribbon of Honor 88"
+
+REFERENCE            ribbon_of_honor_089
+LANG_ENGLISH         "Ribbon of Honor 89"
+
+REFERENCE            ribbon_of_honor_090
+LANG_ENGLISH         "Ribbon of Honor 90"
+
+REFERENCE            ribbon_of_honor_091
+LANG_ENGLISH         "Ribbon of Honor 91"
+
+REFERENCE            ribbon_of_honor_092
+LANG_ENGLISH         "Ribbon of Honor 92"
+
+REFERENCE            ribbon_of_honor_093
+LANG_ENGLISH         "Ribbon of Honor 93"
+
+REFERENCE            ribbon_of_honor_094
+LANG_ENGLISH         "Ribbon of Honor 94"
+
+REFERENCE            ribbon_of_honor_095
+LANG_ENGLISH         "Ribbon of Honor 95"
+
+REFERENCE            ribbon_of_honor_096
+LANG_ENGLISH         "Ribbon of Honor 96"
+
+REFERENCE            ribbon_of_honor_097
+LANG_ENGLISH         "Ribbon of Honor 97"
+
+REFERENCE            ribbon_of_honor_098
+LANG_ENGLISH         "Ribbon of Honor 98"
+
+REFERENCE            ribbon_of_honor_099
+LANG_ENGLISH         "Ribbon of Honor 99"
+
+REFERENCE            ribbon_of_honor_100
+LANG_ENGLISH         "Ribbon of Honor 100"
+
+REFERENCE            season_unlock_desc
+LANG_ENGLISH         "Unlock the following reward on completion of Rank &&1 (&&2)"
+
+REFERENCE            weapon_unlocks
+LANG_ENGLISH         "Season Rewards"
+
+
+ENDMARKER

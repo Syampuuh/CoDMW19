@@ -1,0 +1,37 @@
+gametype = war
+commonOption.teamCount = 2
+commonOption.timeLimit = 600
+commonOption.scoreLimit = 100
+commonOption.roundLimit = 1
+commonOption.winLimit = 0
+commonOption.roundSwitch = 1
+commonOption.matchStartTime = 15
+commonOption.roundStartTime = 10
+
+commonOption.allowKillstreaks = 1
+commonOption.allowPerks = 1
+commonOption.allowSupers = 1
+commonOption.superFastChargeRate = 1
+commonOption.superPointsMod = 1
+commonOption.doubleJumpEnabled = 1
+commonOption.wallRunEnabled = 1
+commonOption.forceRespawn = 1
+commonOption.showKillcam = 1
+commonOption.killcamType = 1
+commonOption.spectateModeAllowed = 1
+commonOption.healthRegen = 5.000000
+commonOption.maxHealth = 100.000000
+commonOption.pointsPerKill = 1
+commonOption.pointsPerDeath = 0
+commonOption.pointsHeadshotBonus = 0
+commonOption.dogTags = 0
+commonOption.codcasterEnabled = 1
+commonOption.ffPunishLimit = 2
+commonOption.spectate3rdAllowed = 0
+commonOption.teamAssignmentAllowed = 1
+commonOption.tacticalMode = 0
+commonOption.bulletBounce = 0
+commonOption.equipmentMSProtect = 5.000000
+commonOption.magCount = 3
+
+commonOption.localeID = 0

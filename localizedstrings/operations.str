@@ -1,0 +1,1491 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            a_little_concussed
+LANG_ENGLISH         "A Little Concussed"
+
+REFERENCE            aa_launcher
+LANG_ENGLISH         "Two Missiles, One Target"
+
+REFERENCE            acog_master
+LANG_ENGLISH         "ACOG Master"
+
+REFERENCE            air_superiority
+LANG_ENGLISH         "Air Superiority"
+
+REFERENCE            airborne
+LANG_ENGLISH         "Airborne"
+
+REFERENCE            akimbo_master
+LANG_ENGLISH         "Akimbo Master"
+
+REFERENCE            alive_and_kickin
+LANG_ENGLISH         "Alive And Kickin'"
+
+REFERENCE            all_jammed_up
+LANG_ENGLISH         "All Jammed Up"
+
+REFERENCE            all_pro
+LANG_ENGLISH         "All Pro"
+
+REFERENCE            always_deadly
+LANG_ENGLISH         "Always Deadly"
+
+REFERENCE            amplify_master
+LANG_ENGLISH         "Amplify Master"
+
+REFERENCE            armor_piercing_ammo_master
+LANG_ENGLISH         "Armor Piercing Master"
+
+REFERENCE            assisted_firepower
+LANG_ENGLISH         "Assisted Firepower"
+
+REFERENCE            atm
+LANG_ENGLISH         "ATM"
+
+REFERENCE            avenger
+LANG_ENGLISH         "Avenger"
+
+REFERENCE            backstabber
+LANG_ENGLISH         "Backstabber"
+
+REFERENCE            balls_of_steel
+LANG_ENGLISH         "Balls Of Steel"
+
+REFERENCE            bang_for_your_buck
+LANG_ENGLISH         "Bang For Your Buck"
+
+REFERENCE            base_jump
+LANG_ENGLISH         "Base Jump"
+
+REFERENCE            best_in_show
+LANG_ENGLISH         "Best In Show"
+
+REFERENCE            best_mates
+LANG_ENGLISH         "Best Mates"
+
+REFERENCE            blast_shield_master
+LANG_ENGLISH         "Blast Shield Master"
+
+REFERENCE            blind_eye_master
+LANG_ENGLISH         "Blind Eye Master"
+
+REFERENCE            blitz_score
+LANG_ENGLISH         "Blitz Score"
+
+REFERENCE            blitz_victor
+LANG_ENGLISH         "Blitz Victor"
+
+REFERENCE            blood_money
+LANG_ENGLISH         "Blood Money"
+
+REFERENCE            bomb_defender
+LANG_ENGLISH         "Bomb Defender"
+
+REFERENCE            bomb_down
+LANG_ENGLISH         "Bomb Down"
+
+REFERENCE            bomb_prevention
+LANG_ENGLISH         "Bomb Prevention"
+
+REFERENCE            born_ready
+LANG_ENGLISH         "Born Ready"
+
+REFERENCE            break_the_bank
+LANG_ENGLISH         "Break The Bank"
+
+REFERENCE            bromance
+LANG_ENGLISH         "Bromance"
+
+REFERENCE            bullseye
+LANG_ENGLISH         "Bullseye"
+
+REFERENCE            burst_fire_master
+LANG_ENGLISH         "Burst Fire Master"
+
+REFERENCE            c4
+LANG_ENGLISH         "Plastic Surgery"
+
+REFERENCE            canister_killer
+LANG_ENGLISH         "Canister Killer"
+
+REFERENCE            car_bomb
+LANG_ENGLISH         "Car Bomb"
+
+REFERENCE            carnie
+LANG_ENGLISH         "Carnie"
+
+REFERENCE            chopper_veteran
+LANG_ENGLISH         "Aerial Assault Vet"
+
+REFERENCE            clan_customize_diamond_win_1
+LANG_ENGLISH         "Win a Clan War in Diamond Division."
+
+REFERENCE            clan_customize_win_2
+LANG_ENGLISH         "Win 2 Clan Wars in Gold Division or Higher."
+
+REFERENCE            clan_customize_win_3
+LANG_ENGLISH         "Win 3 Clan Wars in Gold Division or Higher."
+
+REFERENCE            clan_customize_win_4
+LANG_ENGLISH         "Win 4 Clan Wars in Gold Division or Higher."
+
+REFERENCE            clan_ret_diamond_desc
+LANG_ENGLISH         "Place in Clan Wars Diamond Division"
+
+REFERENCE            clear_skies
+LANG_ENGLISH         "Clear Skies"
+
+REFERENCE            clocking_off_early
+LANG_ENGLISH         "Clocking Out Early"
+
+REFERENCE            cluster_funk
+LANG_ENGLISH         "Cluster Funk"
+
+REFERENCE            collateral_damage
+LANG_ENGLISH         "Collateral Damage"
+
+REFERENCE            counter_c4
+LANG_ENGLISH         "Counter C4"
+
+REFERENCE            crab_meat
+LANG_ENGLISH         "Crab Meat"
+
+REFERENCE            crank_victor
+LANG_ENGLISH         "Crank Victor"
+
+REFERENCE            cranked_reset
+LANG_ENGLISH         "Snooze Button"
+
+REFERENCE            cranky
+LANG_ENGLISH         "Cranky"
+
+REFERENCE            cruelty
+LANG_ENGLISH         "Cruelty"
+
+REFERENCE            defuser
+LANG_ENGLISH         "Defuser"
+
+REFERENCE            denied
+LANG_ENGLISH         "Denied"
+
+REFERENCE            desc_a_little_concussed
+LANG_ENGLISH         "Stun &&1 enemies with Concussion Grenades."
+
+REFERENCE            desc_aa_launcher
+LANG_ENGLISH         "Shoot down &&1 enemy aircraft with a MAAWS Launcher."
+
+REFERENCE            desc_acog_master
+LANG_ENGLISH         "Get &&1 kills with the ACOG Sight."
+
+REFERENCE            desc_air_superiority
+LANG_ENGLISH         "Destroy &&1 aircraft with Air Superiority Strikes."
+
+REFERENCE            desc_airborne
+LANG_ENGLISH         "Get a 2 kill streak with bullets while in mid-air."
+
+REFERENCE            desc_akimbo_master
+LANG_ENGLISH         "Get &&1 kills with Akimbo weapons."
+
+REFERENCE            desc_alive_and_kickin
+LANG_ENGLISH         "Be a Survivor for &&1 matches of Infected."
+
+REFERENCE            desc_all_jammed_up
+LANG_ENGLISH         "Call in &&1 Ground Jammers."
+
+REFERENCE            desc_all_pro
+LANG_ENGLISH         "Headshot 2+ enemies with 1 bullet."
+
+REFERENCE            desc_always_deadly
+LANG_ENGLISH         "Get a kill with your primary and secondary in one life, &&1 times."
+
+REFERENCE            desc_amplify_master
+LANG_ENGLISH         "Get &&1 kills while using Amplify."
+
+REFERENCE            desc_armor_piercing_ammo
+LANG_ENGLISH         "Get &&1 kills with Armor Piercing Ammo."
+
+REFERENCE            desc_assisted_firepower
+LANG_ENGLISH         "Get &&1 assists as a Juggernaut Recon."
+
+REFERENCE            desc_atm
+LANG_ENGLISH         "Get a Payback with a Throwing Knife."
+
+REFERENCE            desc_avenger
+LANG_ENGLISH         "Avenge a teammate &&1 times."
+
+REFERENCE            desc_backstabber
+LANG_ENGLISH         "Stab an enemy in the back with your knife."
+
+REFERENCE            desc_balls_of_steel
+LANG_ENGLISH         "Get &&1 kills with just a Combat Knife equipped."
+
+REFERENCE            desc_bang_for_your_buck
+LANG_ENGLISH         "Get Payback &&1 times with Frag Grenades."
+
+REFERENCE            desc_base_jump
+LANG_ENGLISH         "Fall 15 feet or more and survive."
+
+REFERENCE            desc_best_in_show
+LANG_ENGLISH         "Get the game winning Killcam with a Guard Dog."
+
+REFERENCE            desc_best_mates
+LANG_ENGLISH         "Get the game winning Killcam with a Support Squadmate."
+
+REFERENCE            desc_blast_shield_master
+LANG_ENGLISH         "Survive &&1 explosions while using Blast Shield."
+
+REFERENCE            desc_blind_eye_master
+LANG_ENGLISH         "Destroy &&1 enemy killstreak rewards using Blind Eye."
+
+REFERENCE            desc_blitz_score
+LANG_ENGLISH         "Score &&1 points in Blitz."
+
+REFERENCE            desc_blitz_victor
+LANG_ENGLISH         "Win &&1 games of Blitz."
+
+REFERENCE            desc_blood_money
+LANG_ENGLISH         "Get Payback &&1 times with headshots."
+
+REFERENCE            desc_bomb_defender
+LANG_ENGLISH         "Kill &&1 enemies while they are defusing a bomb."
+
+REFERENCE            desc_bomb_down
+LANG_ENGLISH         "Kill a bomb carrier."
+
+REFERENCE            desc_bomb_prevention
+LANG_ENGLISH         "Kill &&1 enemies while they're planting a bomb."
+
+REFERENCE            desc_born_ready
+LANG_ENGLISH         "Get First Blood &&1 times."
+
+REFERENCE            desc_break_the_break
+LANG_ENGLISH         "Get Payback with an I.E.D."
+
+REFERENCE            desc_bromance
+LANG_ENGLISH         "Win &&1 Clan Matches."
+
+REFERENCE            desc_bullseye
+LANG_ENGLISH         "Kill 4 or more enemies with one Trinity Rocket."
+
+REFERENCE            desc_burst_fire_master
+LANG_ENGLISH         "Get &&1 kills with the Burst Fire attachment."
+
+REFERENCE            desc_c4shot
+LANG_ENGLISH         "Kill &&1 enemies by using C4."
+
+REFERENCE            desc_canister_killer
+LANG_ENGLISH         "Get &&1 kills with Canister Bombs."
+
+REFERENCE            desc_car_bomb
+LANG_ENGLISH         "Kill &&1 enemies by destroying cars."
+
+REFERENCE            desc_carnie
+LANG_ENGLISH         "Kill &&1 players with a Throwing Knife."
+
+REFERENCE            desc_chopper_veteran
+LANG_ENGLISH         "Kill &&1 enemies by calling in Battle Hinds."
+
+REFERENCE            desc_classified
+LANG_ENGLISH         "Classified"
+
+REFERENCE            desc_clear_skies
+LANG_ENGLISH         "Destroy enemy air support &&1 times."
+
+REFERENCE            desc_clocking_off_early
+LANG_ENGLISH         "Force Halftime by scoring 8 times in the 1st round of Blitz."
+
+REFERENCE            desc_cluster_funk
+LANG_ENGLISH         "Get &&1 kills with a Trinity Rocket."
+
+REFERENCE            desc_collateral_damage
+LANG_ENGLISH         "Kill 2 or more enemies with a single sniper rifle bullet."
+
+REFERENCE            desc_counter_c4
+LANG_ENGLISH         "Kill &&1 enemies by shooting C4."
+
+REFERENCE            desc_crab_meat
+LANG_ENGLISH         "Kill 10 enemies with a single killstreak reward."
+
+REFERENCE            desc_crank_victor
+LANG_ENGLISH         "Win &&1 games of Cranked."
+
+REFERENCE            desc_cranked_reset
+LANG_ENGLISH         "Kill an enemy in Cranked just before you explode."
+
+REFERENCE            desc_cranky
+LANG_ENGLISH         "Kill &&1 Cranked enemies."
+
+REFERENCE            desc_cruelty
+LANG_ENGLISH         "Kill an enemy, pick up his weapon, then kill him with his own weapon."
+
+REFERENCE            desc_defuser
+LANG_ENGLISH         "Defuse &&1 bombs."
+
+REFERENCE            desc_denied
+LANG_ENGLISH         "Successfully defend the goal in Blitz &&1 times."
+
+REFERENCE            desc_dmr_ironsight_master
+LANG_ENGLISH         "Get &&1 kills with the Marksman Rifle Iron Sight."
+
+REFERENCE            desc_domination_capture
+LANG_ENGLISH         "Capture &&1 Domination points."
+
+REFERENCE            desc_domination_dominator
+LANG_ENGLISH         "Hold all Domination points in a single match (concurrently)."
+
+REFERENCE            desc_domination_protector
+LANG_ENGLISH         "Kill &&1 enemies trying to take your Domination point."
+
+REFERENCE            desc_domination_victor
+LANG_ENGLISH         "Win &&1 games of Domination."
+
+REFERENCE            desc_dominos
+LANG_ENGLISH         "Kill an enemy by setting off a chain reaction of explosives."
+
+REFERENCE            desc_down_boy
+LANG_ENGLISH         "Get &&1 kills with Guard Dogs."
+
+REFERENCE            desc_eagle_eye
+LANG_ENGLISH         "Call in &&1 Oracles."
+
+REFERENCE            desc_enemy_down
+LANG_ENGLISH         "Shoot down an enemy Battle Hind as a Helo Pilot."
+
+REFERENCE            desc_enemy_of_the_state
+LANG_ENGLISH         "Kill 3 enemies as the only surviving member of your team."
+
+REFERENCE            desc_eotech_master
+LANG_ENGLISH         "Get &&1 kills with the Holographic Sight attachment."
+
+REFERENCE            desc_extended_mags_master
+LANG_ENGLISH         "Get &&1 kills with Extended Mags."
+
+REFERENCE            desc_extreme_cruelty
+LANG_ENGLISH         "Kill every member of the enemy team (at least 4 enemies) without dying."
+
+REFERENCE            desc_eyes_wide_open
+LANG_ENGLISH         "Call in &&1 Night Owls."
+
+REFERENCE            desc_far_superior
+LANG_ENGLISH         "Call in 2 Battle Hinds in a single match."
+
+REFERENCE            desc_fast_swap
+LANG_ENGLISH         "Hurt an enemy with a primary weapon, then finish them off with a pistol."
+
+REFERENCE            desc_fearless
+LANG_ENGLISH         "Kill 10 enemies in a single match without dying."
+
+REFERENCE            desc_flyswatter
+LANG_ENGLISH         "Shoot down an enemy helicopter."
+
+REFERENCE            desc_frag_tastic
+LANG_ENGLISH         "Kill &&1 enemies with grenades."
+
+REFERENCE            desc_free_for_all_victor
+LANG_ENGLISH         "Place 1st, 2nd, or 3rd... at least &&1 times in Free For All matches."
+
+REFERENCE            desc_full_auto_master
+LANG_ENGLISH         "Get &&1 kills with the Full Auto attachment."
+
+REFERENCE            desc_grenade_launcher_master
+LANG_ENGLISH         "Get &&1 kills with an Under Barrel Grenade Launcher."
+
+REFERENCE            desc_grind_victor
+LANG_ENGLISH         "Win &&1 games of Grind."
+
+REFERENCE            desc_grinder
+LANG_ENGLISH         "Score &&1 points in Grind."
+
+REFERENCE            desc_grip_master
+LANG_ENGLISH         "Get &&1 kills with the Grip attachment."
+
+REFERENCE            desc_group_hug
+LANG_ENGLISH         "Kill more than 1 enemy when a Semtex is stuck to one of them."
+
+REFERENCE            desc_gryphon_attack
+LANG_ENGLISH         "Get the game winning Killcam with a Gryphon Missile."
+
+REFERENCE            desc_gryphon_down
+LANG_ENGLISH         "Destroy &&1 Gryphons."
+
+REFERENCE            desc_gun_in_a_box
+LANG_ENGLISH         "Get the special weapon from the Ammo Crate."
+
+REFERENCE            desc_hard_landing
+LANG_ENGLISH         "Kill an enemy that is in mid-air."
+
+REFERENCE            desc_hardcore_team_player
+LANG_ENGLISH         "Win &&1 Hardcore Team Deathmatch games."
+
+REFERENCE            desc_hardcore_to_the_extreme
+LANG_ENGLISH         "Win &&1 Hardcore games."
+
+REFERENCE            desc_hardline_master
+LANG_ENGLISH         "Get &&1 killstreak rewards while using Hardline."
+
+REFERENCE            desc_have_no_idea
+LANG_ENGLISH         "Kill &&1 enemies with Akimbo + ACOG .44 Magnums."
+
+REFERENCE            desc_heli_sniper_finalkill
+LANG_ENGLISH         "Get the game winning kill as a Helo Scout."
+
+REFERENCE            desc_helo_pilot
+LANG_ENGLISH         "Get &&1 kills as the Helo Pilot."
+
+REFERENCE            desc_help_me
+LANG_ENGLISH         "Rescue 4 teammates in a single round of Search and Rescue."
+
+REFERENCE            desc_here_boy
+LANG_ENGLISH         "Call in &&1 Guard Dogs."
+
+REFERENCE            desc_hide_and_seek
+LANG_ENGLISH         "Eliminate &&1 enemies in Search and Rescue."
+
+REFERENCE            desc_hijacker
+LANG_ENGLISH         "Steal &&1 Care Packages."
+
+REFERENCE            desc_hoopla
+LANG_ENGLISH         "Kill an enemy Guard Dog while it is jumping."
+
+REFERENCE            desc_hot_shot
+LANG_ENGLISH         "Get the game winning Killcam as a Helo Pilot."
+
+REFERENCE            desc_hunted_victor
+LANG_ENGLISH         "Win &&1 games of Hunted."
+
+REFERENCE            desc_hybrid_sight_master
+LANG_ENGLISH         "Get &&1 kills with the VMR Sight."
+
+REFERENCE            desc_im_rich
+LANG_ENGLISH         "Get Payback &&1 times with C4."
+
+REFERENCE            desc_incoming
+LANG_ENGLISH         "Get &&1 kills with Gryphon Missiles."
+
+REFERENCE            desc_indecent_exposure
+LANG_ENGLISH         "Flash &&1 enemies with 9-Bang Grenades."
+
+REFERENCE            desc_infected_victor
+LANG_ENGLISH         "Win &&1 games of Infected."
+
+REFERENCE            desc_intelligence
+LANG_ENGLISH         "Successfully complete &&1 Field Orders."
+
+REFERENCE            desc_its_personal
+LANG_ENGLISH         "Hurt an enemy then finish them with a Throwing Knife."
+
+REFERENCE            desc_kill_confirmed_collector
+LANG_ENGLISH         "Collect &&1 enemy dog tags in Kill Confirmed."
+
+REFERENCE            desc_kill_confirmed_denier
+LANG_ENGLISH         "Deny &&1 kills in Kill Confirmed."
+
+REFERENCE            desc_kill_confirmed_victor
+LANG_ENGLISH         "Win &&1 games of Kill Confirmed."
+
+REFERENCE            desc_knife_veteran
+LANG_ENGLISH         "Kill &&1 enemies with the knife melee attack."
+
+REFERENCE            desc_last_man_standing
+LANG_ENGLISH         "Be the last man standing in Search and Rescue."
+
+REFERENCE            desc_lock_down
+LANG_ENGLISH         "Shut out the enemy team in Blitz (Hit the score limit with 0 enemy scores)."
+
+REFERENCE            desc_loki_killer
+LANG_ENGLISH         "Get the game winning Killcam with a Loki Satellite."
+
+REFERENCE            desc_long_distance_relationship
+LANG_ENGLISH         "Call in &&1 Helo Scouts."
+
+REFERENCE            desc_long_distance_shooter
+LANG_ENGLISH         "Get &&1 kills with a Helo Scout."
+
+REFERENCE            desc_look_no_hands
+LANG_ENGLISH         "Get &&1 kills with a Sentry Gun."
+
+REFERENCE            desc_maniacal_attack
+LANG_ENGLISH         "Call in &&1 Maniacs."
+
+REFERENCE            desc_master_chef
+LANG_ENGLISH         "Kill &&1 enemies with cooked grenades."
+
+REFERENCE            desc_meticulous
+LANG_ENGLISH         "Kill 4 or more enemies with a single clip &&1 times."
+
+REFERENCE            desc_misery_loves_company
+LANG_ENGLISH         "Kill yourself and 1 enemy by cooking a grenade without throwing it."
+
+REFERENCE            desc_money_shot
+LANG_ENGLISH         "Get a Payback in the game winning Killcam."
+
+REFERENCE            desc_motion_detected
+LANG_ENGLISH         "Tag &&1 enemies with the Motion Sensor."
+
+REFERENCE            desc_multi_c4
+LANG_ENGLISH         "Kill 2 or more enemies with C4... &&1 times."
+
+REFERENCE            desc_multi_frag
+LANG_ENGLISH         "Kill 2 or more enemies with a frag... &&1 times."
+
+REFERENCE            desc_multi_rpg
+LANG_ENGLISH         "Kill 2 or more enemies with a single Panzerfaust shot... &&1 times."
+
+REFERENCE            desc_muzzle_brake_master
+LANG_ENGLISH         "Get &&1 kills with the Muzzle Brake attachment."
+
+REFERENCE            desc_mvp_team_deathmatch
+LANG_ENGLISH         "Get the overall high score in a Team Deathmatch game."
+
+REFERENCE            desc_mvp_team_hardcore
+LANG_ENGLISH         "Win a hardcore Team Deathmatch game and have the highest score."
+
+REFERENCE            desc_nbk
+LANG_ENGLISH         "Get 3 longshots in 1 life."
+
+REFERENCE            desc_never_forget
+LANG_ENGLISH         "Get injured by an enemy but survive and backstab them."
+
+REFERENCE            desc_no_boom_for_you
+LANG_ENGLISH         "Stop &&1 enemy projectiles with the Trophy System."
+
+REFERENCE            desc_no_escape
+LANG_ENGLISH         "Get the game winning Killcam with a Trinity Rocket."
+
+REFERENCE            desc_no_place_to_hide
+LANG_ENGLISH         "Kill six different enemies in one life as the Maniac."
+
+REFERENCE            desc_no_secrets
+LANG_ENGLISH         "Call in 3 SAT COMs in one game. (Assault SAT COM only)."
+
+REFERENCE            desc_not_so_best_friend
+LANG_ENGLISH         "Kill &&1 enemy Guard Dogs."
+
+REFERENCE            desc_odin_support
+LANG_ENGLISH         "Call in &&1 Odins."
+
+REFERENCE            desc_og
+LANG_ENGLISH         "Get a Game Winning Killcam with a Battle Hind."
+
+REFERENCE            desc_ol_painless
+LANG_ENGLISH         "Get &&1 kills with the Assault Juggernaut."
+
+REFERENCE            desc_omnicide
+LANG_ENGLISH         "Kill 4 or more enemies within 10 seconds."
+
+REFERENCE            desc_onthepulse
+LANG_ENGLISH         "EMP &&1 enemies with a fully cooked 9-Bang grenade."
+
+REFERENCE            desc_ouch
+LANG_ENGLISH         "Kill an enemy with Direct Impact from an under barrel grenade launcher (No Detonation)."
+
+REFERENCE            desc_outsmarted
+LANG_ENGLISH         "Get &&1 kills with the I.M.S."
+
+REFERENCE            desc_overdraft
+LANG_ENGLISH         "Get a Payback that sticks to the victim."
+
+REFERENCE            desc_overlord
+LANG_ENGLISH         "Get &&1 kills with Loki Satellites."
+
+REFERENCE            desc_plastered
+LANG_ENGLISH         "Stick &&1 players with a Semtex grenade."
+
+REFERENCE            desc_point_guard
+LANG_ENGLISH         "Get &&1 assists."
+
+REFERENCE            desc_proximity_explosive
+LANG_ENGLISH         "Kill &&1 enemies with an I.E.D."
+
+REFERENCE            desc_rapid_fire_master
+LANG_ENGLISH         "Get &&1 kills with the Rapid Fire attachment."
+
+REFERENCE            desc_raw_skills
+LANG_ENGLISH         "Get &&1 kills with your primary or secondary weapon without any attachments equipped."
+
+REFERENCE            desc_red_dot_sight_master
+LANG_ENGLISH         "Get &&1 kills with the Red Dot Sight."
+
+REFERENCE            desc_rescuer
+LANG_ENGLISH         "Recover &&1 ally dog tags in Search and Rescue."
+
+REFERENCE            desc_riotshield_radar_master
+LANG_ENGLISH         "Get &&1 kills with the Riot Shield Radar equipped."
+
+REFERENCE            desc_riotshield_scrambler_master
+LANG_ENGLISH         "Get &&1 kills with the Riot Shield Scrambler equipped."
+
+REFERENCE            desc_riotshield_titanium_frame_master
+LANG_ENGLISH         "Get &&1 kills with the Riot Shield Titanium Frame equipped."
+
+REFERENCE            desc_rival
+LANG_ENGLISH         "Kill the same enemy 5 times in a single match."
+
+REFERENCE            desc_saafe
+LANG_ENGLISH         "Slide into the goal in Blitz."
+
+REFERENCE            desc_saboteur
+LANG_ENGLISH         "Plant &&1 bombs."
+
+REFERENCE            desc_scavenger_master
+LANG_ENGLISH         "Resupply &&1 times while using Scavenger."
+
+REFERENCE            desc_search_and_destroy_victor
+LANG_ENGLISH         "Win &&1 Search and Destroy matches."
+
+REFERENCE            desc_search_and_rescue_victor
+LANG_ENGLISH         "Win &&1 games of Search and Rescue."
+
+REFERENCE            desc_sharing_caring
+LANG_ENGLISH         "Call in &&1 Ammo Crates for your team."
+
+REFERENCE            desc_shooting_star
+LANG_ENGLISH         "Destroy &&1 enemy aircraft using the Loki Satellite."
+
+REFERENCE            desc_sidekick_support
+LANG_ENGLISH         "Call in &&1 Support Squadmates."
+
+REFERENCE            desc_silencer_master
+LANG_ENGLISH         "Get &&1 kills with the Silencer attachment."
+
+REFERENCE            desc_single_shot_master
+LANG_ENGLISH         "Get &&1 kills with the Semi-automatic attachment."
+
+REFERENCE            desc_slasher
+LANG_ENGLISH         "Get a 3 melee kill streak without dying."
+
+REFERENCE            desc_slug_master
+LANG_ENGLISH         "Get &&1 kills with Slug Rounds."
+
+REFERENCE            desc_smoke_em_if_you_got_em
+LANG_ENGLISH         "Kill &&1 enemies inside your smoke screen."
+
+REFERENCE            desc_smooth_moves
+LANG_ENGLISH         "Kill an enemy with your knife while sliding."
+
+REFERENCE            desc_space_assault
+LANG_ENGLISH         "Call in &&1 Assault SAT COMs."
+
+REFERENCE            desc_star_player
+LANG_ENGLISH         "Play an entire match of any game type with a 5:1 kill/death ratio."
+
+REFERENCE            desc_starry_eyed
+LANG_ENGLISH         "Be the victim in the game winning Killcam &&1 times."
+
+REFERENCE            desc_strong_signal
+LANG_ENGLISH         "Call in &&1 Support SAT COMs."
+
+REFERENCE            desc_support_juggernaut
+LANG_ENGLISH         "Suit up as a Juggernaut Recon &&1 times."
+
+REFERENCE            desc_surgical_assault
+LANG_ENGLISH         "Fire an entire AR clip into your enemies without missing a bullet."
+
+REFERENCE            desc_surgical_dmr
+LANG_ENGLISH         "Fire an entire Marksman Rifle clip into your enemies without missing a bullet."
+
+REFERENCE            desc_surgical_lmg
+LANG_ENGLISH         "Fire an entire LMG clip into your enemies without missing a bullet."
+
+REFERENCE            desc_surgical_shotgun
+LANG_ENGLISH         "Fire a full chamber of Shotgun shells into your enemies without missing."
+
+REFERENCE            desc_surgical_smg
+LANG_ENGLISH         "Fire an entire SMG clip into your enemies without missing a bullet."
+
+REFERENCE            desc_surgical_sniper
+LANG_ENGLISH         "Fire an entire Sniper clip into your enemies without missing a bullet."
+
+REFERENCE            desc_tactical_knife_master
+LANG_ENGLISH         "Get &&1 kills with the Tactical Knife."
+
+REFERENCE            desc_tactician
+LANG_ENGLISH         "Win &&1 Team Tactical Matches."
+
+REFERENCE            desc_tango_down
+LANG_ENGLISH         "Kill 4 or more different members of the enemy team."
+
+REFERENCE            desc_tdm_skills
+LANG_ENGLISH         "Place 1st, 2nd or 3rd... at least &&1 times in Team Deathmatch."
+
+REFERENCE            desc_team_player
+LANG_ENGLISH         "Win &&1 Team Deathmatch matches."
+
+REFERENCE            desc_telefragged
+LANG_ENGLISH         "Stick an enemy with a Semtex grenade before they score in Blitz."
+
+REFERENCE            desc_thanks_buddy
+LANG_ENGLISH         "Get the game winning Killcam with a Vulture."
+
+REFERENCE            desc_the_bigger_they_are
+LANG_ENGLISH         "Kill the top player 3 times in a row."
+
+REFERENCE            desc_the_brink
+LANG_ENGLISH         "Get a 3 or more kill streak while near death (Screen flashing red)."
+
+REFERENCE            desc_the_edge
+LANG_ENGLISH         "Get the match winning kill &&1 times."
+
+REFERENCE            desc_the_harder_they_fall
+LANG_ENGLISH         "Kill the top player 5 times in a row."
+
+REFERENCE            desc_the_survivor
+LANG_ENGLISH         "Get a knife kill when all of your ammo is empty."
+
+REFERENCE            desc_thermal_sight_master
+LANG_ENGLISH         "Get &&1 kills with the Thermal Sight."
+
+REFERENCE            desc_thermobaric_grenade_master
+LANG_ENGLISH         "Kill &&1 enemies weakened by Thermobaric Grenades with explosives."
+
+REFERENCE            desc_this_is_a_knife
+LANG_ENGLISH         "Kill an enemy Maniac with a knife."
+
+REFERENCE            desc_throw_away
+LANG_ENGLISH         "Kill &&1 enemies with thrown back explosives."
+
+REFERENCE            desc_time_is_money
+LANG_ENGLISH         "Get Payback &&1 times with Semtex."
+
+REFERENCE            desc_tracker_master
+LANG_ENGLISH         "Get &&1 kills with the Tracker attachment."
+
+REFERENCE            desc_twice_as_deadly
+LANG_ENGLISH         "Have both a Guard Dog and a Vulture active at the same time."
+
+REFERENCE            desc_underbarrel_shotgun_master
+LANG_ENGLISH         "Get &&1 kills with the Under Barrel Shotgun."
+
+REFERENCE            desc_untouchable
+LANG_ENGLISH         "Get the game winning Killcam with a Maniac."
+
+REFERENCE            desc_variable_zoom_master
+LANG_ENGLISH         "Get &&1 kills with the Variable Zoom Sight."
+
+REFERENCE            desc_vulture
+LANG_ENGLISH         "Get &&1 kills with the Vulture."
+
+REFERENCE            desc_vulture_killer
+LANG_ENGLISH         "Destroy &&1 Vultures."
+
+REFERENCE            desc_wargasm
+LANG_ENGLISH         "Get all 3 of your killstreak rewards within 20 seconds."
+
+REFERENCE            desc_well_protected
+LANG_ENGLISH         "Call in &&1 Ballistic Vests."
+
+REFERENCE            desc_wise_guy
+LANG_ENGLISH         "Get &&1 kills from picked up enemy weapons."
+
+REFERENCE            desc_you_cant_see_me
+LANG_ENGLISH         "Kill &&1 enemies while an enemy Oracle is up."
+
+REFERENCE            dmr_ironsight_master
+LANG_ENGLISH         "MR Iron Sight Master"
+
+REFERENCE            domination_capture
+LANG_ENGLISH         "Domination Capture"
+
+REFERENCE            domination_dominator
+LANG_ENGLISH         "Domination Point Guard"
+
+REFERENCE            domination_protector
+LANG_ENGLISH         "Domination Protector"
+
+REFERENCE            domination_victor
+LANG_ENGLISH         "Domination Victor"
+
+REFERENCE            dominos
+LANG_ENGLISH         "Dominos"
+
+REFERENCE            down_boy
+LANG_ENGLISH         "Down Boy"
+
+REFERENCE            eagle_eye
+LANG_ENGLISH         "Eagle Eye"
+
+REFERENCE            edit_finishing_moves
+LANG_ENGLISH         "[{ui_alt2}] Finishing Moves"
+
+REFERENCE            edit_finishing_moves_kbm
+LANG_ENGLISH         "Finishing Moves"
+
+REFERENCE            edit_skin
+LANG_ENGLISH         "[{ui_alt2}] Customize"
+
+REFERENCE            edit_skin_kbm
+LANG_ENGLISH         "Customize"
+
+REFERENCE            enemy_down
+LANG_ENGLISH         "Enemy Down"
+
+REFERENCE            enemy_of_the_state
+LANG_ENGLISH         "Enemy Of The State"
+
+REFERENCE            eotech_master
+LANG_ENGLISH         "Holographic Sight Master"
+
+REFERENCE            extended_mags_master
+LANG_ENGLISH         "Extended Mags Master"
+
+REFERENCE            extreme_cruelty
+LANG_ENGLISH         "Extreme Cruelty"
+
+REFERENCE            eyes_wide_open
+LANG_ENGLISH         "Eyes Wide Open"
+
+REFERENCE            far_superior
+LANG_ENGLISH         "Far Superior"
+
+REFERENCE            fast_swap
+LANG_ENGLISH         "Fast Swap"
+
+REFERENCE            fearless
+LANG_ENGLISH         "Fearless"
+
+REFERENCE            flyswatter
+LANG_ENGLISH         "Flyswatter"
+
+REFERENCE            frag_tastic
+LANG_ENGLISH         "Frag-Tastic"
+
+REFERENCE            free_for_all_victor
+LANG_ENGLISH         "Free For All Victor"
+
+REFERENCE            full_auto_master
+LANG_ENGLISH         "Full Auto Master"
+
+REFERENCE            get_n_kills
+LANG_ENGLISH         "Get &&1 kills with this weapon."
+
+REFERENCE            grenade_launcher_master
+LANG_ENGLISH         "Grenade Launcher Master"
+
+REFERENCE            grind_victor
+LANG_ENGLISH         "Grind Victor"
+
+REFERENCE            grinder
+LANG_ENGLISH         "Grinder"
+
+REFERENCE            grip_master
+LANG_ENGLISH         "Grip Master"
+
+REFERENCE            group_hug
+LANG_ENGLISH         "Group Hug"
+
+REFERENCE            gryphon_attack
+LANG_ENGLISH         "Gryphon Attack"
+
+REFERENCE            gryphon_down
+LANG_ENGLISH         "Gryphon Down"
+
+REFERENCE            gun_in_a_box
+LANG_ENGLISH         "Gun In A Box"
+
+REFERENCE            hard_landing
+LANG_ENGLISH         "Hard Landing"
+
+REFERENCE            hardcore_team_player
+LANG_ENGLISH         "Hardcore Team Player"
+
+REFERENCE            hardcore_to_the_extreme
+LANG_ENGLISH         "Hardcore To The Extreme"
+
+REFERENCE            hardline_master
+LANG_ENGLISH         "Hardline Master"
+
+REFERENCE            have_no_idea
+LANG_ENGLISH         "Clueless"
+
+REFERENCE            heli_sniper_finalkill
+LANG_ENGLISH         "The Long Kiss Goodnight"
+
+REFERENCE            helo_pilot
+LANG_ENGLISH         "Helo Pilot"
+
+REFERENCE            help_me
+LANG_ENGLISH         "Help Me"
+
+REFERENCE            here_boy
+LANG_ENGLISH         "Here Boy"
+
+REFERENCE            hide_and_seek
+LANG_ENGLISH         "Hide And Seek"
+
+REFERENCE            hijacker
+LANG_ENGLISH         "Hijacker"
+
+REFERENCE            hoopla
+LANG_ENGLISH         "Hoop-La"
+
+REFERENCE            hot_shot
+LANG_ENGLISH         "Hot Shot"
+
+REFERENCE            hunted_victor
+LANG_ENGLISH         "Hunted Victor"
+
+REFERENCE            hybrid_sight_master
+LANG_ENGLISH         "VMR Sight Master"
+
+REFERENCE            im_rich
+LANG_ENGLISH         "I'm Rich"
+
+REFERENCE            incoming
+LANG_ENGLISH         "Incoming"
+
+REFERENCE            indecent_exposure
+LANG_ENGLISH         "Indecent Exposure"
+
+REFERENCE            infected_victor
+LANG_ENGLISH         "Infected Victor"
+
+REFERENCE            intelligence
+LANG_ENGLISH         "Intelligence"
+
+REFERENCE            its_personal
+LANG_ENGLISH         "It's Personal"
+
+REFERENCE            kill_confirmed_collector
+LANG_ENGLISH         "Kill Confirmed Collector"
+
+REFERENCE            kill_confirmed_denier
+LANG_ENGLISH         "Kill Confirmed Denier"
+
+REFERENCE            kill_confirmed_victor
+LANG_ENGLISH         "Kill Confirmed Victor"
+
+REFERENCE            kill_ghillie_suit
+LANG_ENGLISH         "Bigfoot Sighting"
+
+REFERENCE            kill_pmc_elite_heavy
+LANG_ENGLISH         "Ghost Busted"
+
+REFERENCE            kills_allcamo
+LANG_ENGLISH         "Weapon Master"
+
+REFERENCE            kills_allcamo_desc
+LANG_ENGLISH         "Unlock all weapon challenge camos for this weapon."
+
+REFERENCE            kills_assists
+LANG_ENGLISH         "Assist"
+
+REFERENCE            kills_assists_desc
+LANG_ENGLISH         "Get &&1 assists with this weapon."
+
+REFERENCE            kills_att_altshotgun
+LANG_ENGLISH         "Under Barrel Shotgun"
+
+REFERENCE            kills_att_altshotgun_desc
+LANG_ENGLISH         "Get &&1 Shotgun attachment kills while aiming with this sight."
+
+REFERENCE            kills_att_ammoslug
+LANG_ENGLISH         "Ammo Slug"
+
+REFERENCE            kills_att_ammoslug_desc
+LANG_ENGLISH         "Get &&1 Slug Rounds kills while aiming with this sight."
+
+REFERENCE            kills_att_crouch
+LANG_ENGLISH         "Take a Knee"
+
+REFERENCE            kills_att_crouch_desc
+LANG_ENGLISH         "Get &&1 kills while crouched and aiming with this sight."
+
+REFERENCE            kills_att_double
+LANG_ENGLISH         "Double Kill"
+
+REFERENCE            kills_att_double_desc
+LANG_ENGLISH         "Get &&1 double kills while aiming with this sight."
+
+REFERENCE            kills_att_headshot
+LANG_ENGLISH         "Head Shot"
+
+REFERENCE            kills_att_headshot_desc
+LANG_ENGLISH         "Get &&1 head shot kills while aiming with this sight."
+
+REFERENCE            kills_att_longshot
+LANG_ENGLISH         "Long Shot"
+
+REFERENCE            kills_att_longshot_desc
+LANG_ENGLISH         "Get &&1 long shot kills while aiming with this sight."
+
+REFERENCE            kills_att_moving
+LANG_ENGLISH         "Fire and Motion"
+
+REFERENCE            kills_att_moving_desc
+LANG_ENGLISH         "Get &&1 kills while moving and aiming with this sight."
+
+REFERENCE            kills_att_oneshot
+LANG_ENGLISH         "One Shot"
+
+REFERENCE            kills_att_oneshot_desc
+LANG_ENGLISH         "Get &&1 one shot kills while aiming with this sight."
+
+REFERENCE            kills_att_penetrate
+LANG_ENGLISH         "Penetrator"
+
+REFERENCE            kills_att_penetrate_desc
+LANG_ENGLISH         "Get &&1 kills by shooting through objects while aiming with this sight."
+
+REFERENCE            kills_att_prone
+LANG_ENGLISH         "Prone"
+
+REFERENCE            kills_att_prone_desc
+LANG_ENGLISH         "Get &&1 kills while prone and aiming with this sight."
+
+REFERENCE            kills_att_vmr_headshot_desc
+LANG_ENGLISH         "Get &&1 head shot kills while zoomed out and aiming with this sight."
+
+REFERENCE            kills_att_vmr_longshot_desc
+LANG_ENGLISH         "Get &&1 long shot kills while zoomed in and aiming with this sight."
+
+REFERENCE            kills_att_zoomin
+LANG_ENGLISH         "Zoom and Enhance"
+
+REFERENCE            kills_att_zoomin_desc
+LANG_ENGLISH         "Get &&1 kills while zoomed in and aiming with this sight."
+
+REFERENCE            kills_att_zoomout
+LANG_ENGLISH         "Wide Angle"
+
+REFERENCE            kills_att_zoomout_desc
+LANG_ENGLISH         "Get &&1 kills while zoomed out and aiming with this sight."
+
+REFERENCE            kills_backsmasher
+LANG_ENGLISH         "Back Smasher"
+
+REFERENCE            kills_backsmasher_desc
+LANG_ENGLISH         "Crush an enemy from behind."
+
+REFERENCE            kills_c4
+LANG_ENGLISH         "C4"
+
+REFERENCE            kills_c4_desc
+LANG_ENGLISH         "Get &&1 kills with C4 and a Riot Shield."
+
+REFERENCE            kills_consecutive
+LANG_ENGLISH         "Streaking"
+
+REFERENCE            kills_consecutive_desc
+LANG_ENGLISH         "Get 3 kills in one life &&1 times with this weapon."
+
+REFERENCE            kills_crouch
+LANG_ENGLISH         "Take a Knee"
+
+REFERENCE            kills_crouch_desc
+LANG_ENGLISH         "Get &&1 kills with this weapon while crouched."
+
+REFERENCE            kills_damage
+LANG_ENGLISH         "Sponge"
+
+REFERENCE            kills_damage_desc
+LANG_ENGLISH         "Absorb &&1 damage with your Riot Shield."
+
+REFERENCE            kills_explosive
+LANG_ENGLISH         "Unbreakable"
+
+REFERENCE            kills_explosive_desc
+LANG_ENGLISH         "Deflect &&1 explosions with your Riot shield."
+
+REFERENCE            kills_headshot_desc
+LANG_ENGLISH         "Get &&1 head shot kills with this weapon."
+
+REFERENCE            kills_hipfire
+LANG_ENGLISH         "From the Hip"
+
+REFERENCE            kills_hipfire_desc
+LANG_ENGLISH         "Get &&1 hip fire kills with this weapon."
+
+REFERENCE            kills_leaning
+LANG_ENGLISH         "Lean Kill"
+
+REFERENCE            kills_leaning_desc
+LANG_ENGLISH         "Get &&1 kills with this weapon while leaning."
+
+REFERENCE            kills_longshot
+LANG_ENGLISH         "Long Shot"
+
+REFERENCE            kills_longshot_desc
+LANG_ENGLISH         "Get &&1 long shot kills with this weapon."
+
+REFERENCE            kills_noattach
+LANG_ENGLISH         "No Attachments"
+
+REFERENCE            kills_noattach_desc
+LANG_ENGLISH         "Get &&1 kills with no attachments on this weapon."
+
+REFERENCE            kills_noperks
+LANG_ENGLISH         "Purist"
+
+REFERENCE            kills_noperks_desc
+LANG_ENGLISH         "Get &&1 kills with this weapon and no perks equipped."
+
+REFERENCE            kills_oneshotkill
+LANG_ENGLISH         "One Shot Kill"
+
+REFERENCE            kills_oneshotkill_desc
+LANG_ENGLISH         "Get &&1 one shot kills with this weapon."
+
+REFERENCE            kills_penetrate
+LANG_ENGLISH         "Penetrator"
+
+REFERENCE            kills_penetrate_desc
+LANG_ENGLISH         "Get &&1 kills with this weapon by shooting through objects."
+
+REFERENCE            kills_pistol
+LANG_ENGLISH         "Pistol"
+
+REFERENCE            kills_pistol_desc
+LANG_ENGLISH         "Get &&1 kills with a pistol after swapping from your Riot Shield."
+
+REFERENCE            kills_pointblank
+LANG_ENGLISH         "Point Blank"
+
+REFERENCE            kills_pointblank_desc
+LANG_ENGLISH         "Get &&1 point-blank kills with this weapon."
+
+REFERENCE            kills_prone
+LANG_ENGLISH         "Prone"
+
+REFERENCE            kills_prone_desc
+LANG_ENGLISH         "Get &&1 kills with this weapon while prone."
+
+REFERENCE            kills_reload
+LANG_ENGLISH         "Nick of Time"
+
+REFERENCE            kills_reload_desc
+LANG_ENGLISH         "Get &&1 kills with this weapon shortly after reloading."
+
+REFERENCE            kills_rescues
+LANG_ENGLISH         "My Hero"
+
+REFERENCE            kills_rescues_desc
+LANG_ENGLISH         "Get &&1 rescue kills with this weapon."
+
+REFERENCE            kills_sliding
+LANG_ENGLISH         "Slide Kill"
+
+REFERENCE            kills_sliding_desc
+LANG_ENGLISH         "Get &&1 kills with this weapon shortly after sliding."
+
+REFERENCE            kills_throwingknife
+LANG_ENGLISH         "Throwing Knife"
+
+REFERENCE            kills_throwingknife_desc
+LANG_ENGLISH         "Get &&1 kills with Throwing Knives and a Riot Shield."
+
+REFERENCE            knife_veteran
+LANG_ENGLISH         "Knife Veteran"
+
+REFERENCE            last_man_standing
+LANG_ENGLISH         "Last Man Standing"
+
+REFERENCE            lock_down
+LANG_ENGLISH         "Lock Down"
+
+REFERENCE            loki_killer
+LANG_ENGLISH         "Loki Killer"
+
+REFERENCE            long_distance_relationship
+LANG_ENGLISH         "Long Distance Relationship"
+
+REFERENCE            long_distance_shooter
+LANG_ENGLISH         "Long Distance Shooter"
+
+REFERENCE            look_no_hands
+LANG_ENGLISH         "Look! No Hands!"
+
+REFERENCE            maniacal_attack
+LANG_ENGLISH         "Maniacal Attack"
+
+REFERENCE            marksman
+LANG_ENGLISH         "Marksman &&1"
+
+REFERENCE            master_chef
+LANG_ENGLISH         "Master Chef"
+
+REFERENCE            meticulous
+LANG_ENGLISH         "Meticulous"
+
+REFERENCE            misery_loves_company
+LANG_ENGLISH         "Misery Loves Company"
+
+REFERENCE            money_shot
+LANG_ENGLISH         "Money Shot!"
+
+REFERENCE            motion_detected
+LANG_ENGLISH         "Motion Detected"
+
+REFERENCE            msft_pack
+LANG_ENGLISH         "Exclusive Unlock"
+
+REFERENCE            msft_pack_desc
+LANG_ENGLISH         ""
+
+REFERENCE            multi_c4
+LANG_ENGLISH         "Multi C4"
+
+REFERENCE            multi_frag
+LANG_ENGLISH         "Multi Frag"
+
+REFERENCE            multi_rpg
+LANG_ENGLISH         "Armored Fists"
+
+REFERENCE            muzzle_brake_master
+LANG_ENGLISH         "Muzzle Brake Master"
+
+REFERENCE            mvp_team_deathmatch
+LANG_ENGLISH         "MVP Team Deathmatch"
+
+REFERENCE            mvp_team_hardcore
+LANG_ENGLISH         "MVP Team Hardcore"
+
+REFERENCE            nbk
+LANG_ENGLISH         "NBK"
+
+REFERENCE            never_forget
+LANG_ENGLISH         "Never Forget"
+
+REFERENCE            no_boom_for_you
+LANG_ENGLISH         "No Boom For You"
+
+REFERENCE            no_escape
+LANG_ENGLISH         "No Escape"
+
+REFERENCE            no_place_to_hide
+LANG_ENGLISH         "No Place To Hide"
+
+REFERENCE            no_secrets
+LANG_ENGLISH         "No Secrets"
+
+REFERENCE            not_so_best_friend
+LANG_ENGLISH         "Not So Best Friend"
+
+REFERENCE            odin_support
+LANG_ENGLISH         "Odin Officer"
+
+REFERENCE            og
+LANG_ENGLISH         "OG"
+
+REFERENCE            ol_painless
+LANG_ENGLISH         "Ol' Painless"
+
+REFERENCE            omnicide
+LANG_ENGLISH         "Omnicide"
+
+REFERENCE            onthepulse
+LANG_ENGLISH         "On The Pulse"
+
+REFERENCE            operator_preview
+LANG_ENGLISH         "[{ui_r3}] Preview"
+
+REFERENCE            ouch
+LANG_ENGLISH         "Ouch"
+
+REFERENCE            outsmarted
+LANG_ENGLISH         "Outsmarted"
+
+REFERENCE            overdraft
+LANG_ENGLISH         "Overdraft"
+
+REFERENCE            overlord
+LANG_ENGLISH         "Overlord"
+
+REFERENCE            plastered
+LANG_ENGLISH         "Plastered"
+
+REFERENCE            point_guard
+LANG_ENGLISH         "Point Guard"
+
+REFERENCE            proximity_explosive
+LANG_ENGLISH         "Tick ... Boom"
+
+REFERENCE            rapid_fire_master
+LANG_ENGLISH         "Rapid Fire Master"
+
+REFERENCE            raw_skills
+LANG_ENGLISH         "Pure and Simple"
+
+REFERENCE            red_dot_sight_master
+LANG_ENGLISH         "Red Dot Sight Master"
+
+REFERENCE            rescuer
+LANG_ENGLISH         "Rescuer"
+
+REFERENCE            riotshield_radar_master
+LANG_ENGLISH         "R. Shield Radar Master"
+
+REFERENCE            riotshield_scrambler_master
+LANG_ENGLISH         "R. Shield Scrambler Master"
+
+REFERENCE            riotshield_titanium_frame_master
+LANG_ENGLISH         "R. Shield T. Frame Master"
+
+REFERENCE            rival
+LANG_ENGLISH         "Rival"
+
+REFERENCE            saafe
+LANG_ENGLISH         "Sa-afe"
+
+REFERENCE            saboteur
+LANG_ENGLISH         "Saboteur"
+
+REFERENCE            scavenger_master
+LANG_ENGLISH         "Scavenger Master"
+
+REFERENCE            search_and_rescue_victor
+LANG_ENGLISH         "Search And Rescue Victor"
+
+REFERENCE            sharing_caring
+LANG_ENGLISH         "Sharing = Caring"
+
+REFERENCE            shooting_star
+LANG_ENGLISH         "Shooting Star"
+
+REFERENCE            sidekick_support
+LANG_ENGLISH         "Sidekick Support"
+
+REFERENCE            silencer_master
+LANG_ENGLISH         "Silencer Master"
+
+REFERENCE            single_shot_master
+LANG_ENGLISH         "Single Shot Master"
+
+REFERENCE            slasher
+LANG_ENGLISH         "Slasher"
+
+REFERENCE            slug_master
+LANG_ENGLISH         "Slug Master"
+
+REFERENCE            smoke_em_if_you_got_em
+LANG_ENGLISH         "Smoke 'Em If You Got 'Em"
+
+REFERENCE            smooth_moves
+LANG_ENGLISH         "Smooth Moves"
+
+REFERENCE            space_assault
+LANG_ENGLISH         "Space Assault"
+
+REFERENCE            star_player
+LANG_ENGLISH         "Star Player"
+
+REFERENCE            starry_eyed
+LANG_ENGLISH         "Star Struck"
+
+REFERENCE            strong_signal
+LANG_ENGLISH         "Strong Signal"
+
+REFERENCE            support_juggernaut
+LANG_ENGLISH         "Juggernaut Recon"
+
+REFERENCE            surgical_assault
+LANG_ENGLISH         "The Surgical"
+
+REFERENCE            surgical_dmr
+LANG_ENGLISH         "20:20"
+
+REFERENCE            surgical_lmg
+LANG_ENGLISH         "Dictator"
+
+REFERENCE            surgical_shotgun
+LANG_ENGLISH         "Yee Haw!"
+
+REFERENCE            surgical_smg
+LANG_ENGLISH         "Mach 5"
+
+REFERENCE            surgical_sniper
+LANG_ENGLISH         "Perfectionist"
+
+REFERENCE            tactical_knife_master
+LANG_ENGLISH         "Tactical Knife Master"
+
+REFERENCE            tactician
+LANG_ENGLISH         "Tactician"
+
+REFERENCE            tango_down
+LANG_ENGLISH         "Tango Down"
+
+REFERENCE            tdm_skills
+LANG_ENGLISH         "Team Deathmatch Skills"
+
+REFERENCE            team_leader_pack
+LANG_ENGLISH         "Team Leader Pack"
+
+REFERENCE            team_leader_pack_desc
+LANG_ENGLISH         "Unlocked from Season Pass."
+
+REFERENCE            team_player
+LANG_ENGLISH         "Team Player"
+
+REFERENCE            telefragged
+LANG_ENGLISH         "Telefragged"
+
+REFERENCE            thanks_buddy
+LANG_ENGLISH         "Thanks Buddy!"
+
+REFERENCE            the_bigger_they_are
+LANG_ENGLISH         "The Bigger They Are..."
+
+REFERENCE            the_brink
+LANG_ENGLISH         "The Brink"
+
+REFERENCE            the_edge
+LANG_ENGLISH         "The Edge"
+
+REFERENCE            the_harder_they_fall
+LANG_ENGLISH         "...The Harder They Fall"
+
+REFERENCE            the_survivor
+LANG_ENGLISH         "The Survivor"
+
+REFERENCE            thermal_sight_master
+LANG_ENGLISH         "Thermal Sight Master"
+
+REFERENCE            thermobaric_grenade_master
+LANG_ENGLISH         "Thermobaric Grenade Master"
+
+REFERENCE            this_is_a_knife
+LANG_ENGLISH         "This Is A Knife"
+
+REFERENCE            throw_away
+LANG_ENGLISH         "Throw Away"
+
+REFERENCE            time_is_money
+LANG_ENGLISH         "Time Is Money"
+
+REFERENCE            tracker_master
+LANG_ENGLISH         "Tracker Master"
+
+REFERENCE            twice_as_deadly
+LANG_ENGLISH         "Twice As Deadly"
+
+REFERENCE            underbarrel_shotgun_master
+LANG_ENGLISH         "U. Barrel Shotgun Master"
+
+REFERENCE            untouchable
+LANG_ENGLISH         "Untouchable"
+
+REFERENCE            variable_zoom_master
+LANG_ENGLISH         "Variable Zoom Master"
+
+REFERENCE            vulture
+LANG_ENGLISH         "Vulture"
+
+REFERENCE            vulture_killer
+LANG_ENGLISH         "Vulture Killer"
+
+REFERENCE            wargasm
+LANG_ENGLISH         "Wargasm"
+
+REFERENCE            well_protected
+LANG_ENGLISH         "Well Protected"
+
+REFERENCE            wise_guy
+LANG_ENGLISH         "Wise Guy"
+
+REFERENCE            you_cant_see_me
+LANG_ENGLISH         "You Can't See Me?"
+
+
+ENDMARKER

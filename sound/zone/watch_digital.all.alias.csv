@@ -1,0 +1,6 @@
+Name,Secondary,FileSpec,
+watch_geiger_nuke_activate,,user_interface\watch\digital\ui_watch_geiger_nuke_activate.PN.75.44100.all,
+watch_geiger_nuke_pulse,,user_interface\watch\digital\ui_watch_geiger_nuke_pulse.PN.75.44100.all,
+watch_geiger_tick,,user_interface\watch\digital\ui_watch_geiger_tick.PN.75.44100.all,
+watch_health_tick,,user_interface\watch\digital\ui_watch_health_tick.PN.75.44100.all,
+watch_rank_up,,user_interface\watch\digital\ui_watch_rank_up.PN.75.44100.all,

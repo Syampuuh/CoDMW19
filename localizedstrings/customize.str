@@ -1,0 +1,15 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            no_helmet
+LANG_ENGLISH         "No Headgear"
+
+REFERENCE            helmet_x
+LANG_ENGLISH         "DEVGRU Dominator"
+
+REFERENCE            helmet_a
+LANG_ENGLISH         "Skullcap"
+
+
+ENDMARKER

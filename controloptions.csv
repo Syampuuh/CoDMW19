@@ -1,0 +1,6 @@
+0,Movement,GenericButton,,LUA_MENU/MOVEMENT,LUA_MENU/MOVEMENT_DESC,,,Y,Y,Y,
+1,Actions,GenericButton,,LUA_MENU/ACTIONS,LUA_MENU/ACTIONS_DESC,,,Y,Y,Y,
+2,Look,GenericButton,,LUA_MENU/LOOK,LUA_MENU/LOOK_DESC,,,Y,Y,Y,
+3,Gamepad,GenericButton,,LUA_MENU/GAMEPAD,LUA_MENU/GAMEPAD_DESC,,,Y,Y,Y,
+4,CopyKeysFromOtherMode,GenericButton,,,,,,Y,Y,N,
+5,ResetControls,GenericButton,,LUA_MENU/RESTORE_DEFAULT_CONTROLS,LUA_MENU/RESET_CONTROLS_DESC,,,Y,Y,Y,

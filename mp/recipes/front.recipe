@@ -1,0 +1,37 @@
+gametype = front
+commonOption.timeLimit = 5.000000
+commonOption.scoreLimit = 100
+commonOption.roundLimit = 2
+commonOption.winLimit = 0
+commonOption.roundSwitch = 1
+
+commonOption.allowKillstreaks = 1
+commonOption.allowPerks = 1
+commonOption.allowSupers = 1
+commonOption.superFastChargeRate = 1
+commonOption.superPointsMod = 1
+commonOption.forceRespawn = 1
+commonOption.showKillcam = 1
+commonOption.healthRegen = 5.000000
+commonOption.maxHealth = 100.000000
+commonOption.spectateModeAllowed = 1
+commonOption.codcasterEnabled = 1
+commonOption.ffPunishLimit = 2
+commonOption.spectate3rdAllowed = 1
+commonOption.teamAssignmentAllowed = 1
+commonOption.tacticalMode = 0
+commonOption.equipmentMSProtect = 5.000000
+
+commonOption.lastStand = 0
+commonOption.lastStandHealth = 40
+commonOption.lastStandReviveHealth = 50
+commonOption.lastStandTimer = 10.00000
+commonOption.lastStandReviveTimer = 2.00000
+commonOption.lastStandSuicideTimer = 1
+
+commonOption.spawnProtectionTimer = 10.000000
+frontData.enemyBaseKillReveal = 5.000000
+frontData.friendlyBaseScore = 1
+frontData.midfieldScore = 2
+frontData.enemyBaseScore = 1
+commonOption.dogTags = 0

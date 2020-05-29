@@ -1,0 +1,666 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            aliens
+LANG_ENGLISH         "Extinction"
+
+REFERENCE            arena
+LANG_ENGLISH         "Gunfight"
+
+REFERENCE            armsrace
+LANG_ENGLISH         "Ground War"
+
+REFERENCE            ball
+LANG_ENGLISH         "Uplink"
+
+REFERENCE            blitz
+LANG_ENGLISH         "Blitz"
+
+REFERENCE            bnty
+LANG_ENGLISH         ""
+
+REFERENCE            br
+LANG_ENGLISH         "Warzone"
+
+REFERENCE            conf
+LANG_ENGLISH         "Kill Confirmed"
+
+REFERENCE            cp_arms_dealer
+LANG_ENGLISH         "West Verdansk"
+
+REFERENCE            cp_armsdealer_2
+LANG_ENGLISH         "West Verdansk"
+
+REFERENCE            cp_disco
+LANG_ENGLISH         "Shaolin Shuffle"
+
+REFERENCE            cp_dwn_twn_2
+LANG_ENGLISH         "Downtown Verdansk"
+
+REFERENCE            cp_landlord
+LANG_ENGLISH         "East Verdansk"
+
+REFERENCE            cp_landlord_2
+LANG_ENGLISH         "East Verdansk"
+
+REFERENCE            cp_piccadilly
+LANG_ENGLISH         "Piccadilly"
+
+REFERENCE            cp_rave
+LANG_ENGLISH         "Rave in the Redwoods"
+
+REFERENCE            cp_smuggler
+LANG_ENGLISH         "North Verdansk"
+
+REFERENCE            cp_smuggler_2
+LANG_ENGLISH         "Operation Brimstone"
+
+REFERENCE            cp_so_aniyah
+LANG_ENGLISH         "Operation Door Kick"
+
+REFERENCE            cp_so_embassy
+LANG_ENGLISH         "Operation Disinform"
+
+REFERENCE            cp_so_estate
+LANG_ENGLISH         "Operation Pitch Black"
+
+REFERENCE            cp_so_finale
+LANG_ENGLISH         "Operation Grounded"
+
+REFERENCE            cp_so_highway
+LANG_ENGLISH         "Operation Safeguard"
+
+REFERENCE            cp_so_proxywar
+LANG_ENGLISH         "Operation Takedown"
+
+REFERENCE            cp_so_safehouse
+LANG_ENGLISH         "Operation Bomb Squad"
+
+REFERENCE            cp_sv_aniyah
+LANG_ENGLISH         "Aniyah Palace"
+
+REFERENCE            cp_sv_bigstore
+LANG_ENGLISH         "Atlas Superstore"
+
+REFERENCE            cp_sv_cave_pm
+LANG_ENGLISH         "Azhir Cave"
+
+REFERENCE            cp_sv_crash
+LANG_ENGLISH         "Crash"
+
+REFERENCE            cp_sv_petrograd
+LANG_ENGLISH         "St. Petrograd"
+
+REFERENCE            cp_sv_raid
+LANG_ENGLISH         "Grazna Raid"
+
+REFERENCE            cp_sv_speed
+LANG_ENGLISH         "Shoot House"
+
+REFERENCE            cranked
+LANG_ENGLISH         "Cranked"
+
+REFERENCE            ctf
+LANG_ENGLISH         "Capture the Flag"
+
+REFERENCE            cyberattack
+LANG_ENGLISH         "Cyber Attack"
+
+REFERENCE            dd
+LANG_ENGLISH         "Demolition"
+
+REFERENCE            defcon
+LANG_ENGLISH         "DEFCON"
+
+REFERENCE            dm
+LANG_ENGLISH         "Free-for-all"
+
+REFERENCE            dom
+LANG_ENGLISH         "Domination"
+
+REFERENCE            dropzone
+LANG_ENGLISH         "Drop Zone"
+
+REFERENCE            front
+LANG_ENGLISH         "Frontline"
+
+REFERENCE            grind
+LANG_ENGLISH         "Grind"
+
+REFERENCE            grnd
+LANG_ENGLISH         "Drop Zone"
+
+REFERENCE            groundwar
+LANG_ENGLISH         "Ground War"
+
+REFERENCE            gun
+LANG_ENGLISH         "Gun Game"
+
+REFERENCE            headquarters
+LANG_ENGLISH         "Headquarters"
+
+REFERENCE            horde
+LANG_ENGLISH         "Safeguard"
+
+REFERENCE            hp
+LANG_ENGLISH         "Hardpoint"
+
+REFERENCE            hvt
+LANG_ENGLISH         "HVT"
+
+REFERENCE            infect
+LANG_ENGLISH         "Infected"
+
+REFERENCE            jugg
+LANG_ENGLISH         ""
+
+REFERENCE            koth
+LANG_ENGLISH         "Hardpoint"
+
+REFERENCE            lava
+LANG_ENGLISH         "The Floor is Lava"
+
+REFERENCE            lobby
+LANG_ENGLISH         "In pre-game lobby"
+
+REFERENCE            mp_afghan
+LANG_ENGLISH         "Dominion"
+
+REFERENCE            mp_aniyah
+LANG_ENGLISH         "Aniyah Palace"
+
+REFERENCE            mp_aniyah_tac
+LANG_ENGLISH         "Aniyah Incursion"
+
+REFERENCE            mp_backlot2
+LANG_ENGLISH         "Talsik Backlot"
+
+REFERENCE            mp_bm_tut
+LANG_ENGLISH         "Plunder Tutorial"
+
+REFERENCE            mp_boneyard_gw
+LANG_ENGLISH         "Zhokov Boneyard"
+
+REFERENCE            mp_br_quarry
+LANG_ENGLISH         "Karst River Quarry"
+
+REFERENCE            mp_br_tut
+LANG_ENGLISH         "Armistice Training Facility"
+
+REFERENCE            mp_breakneck
+LANG_ENGLISH         "Mayday"
+
+REFERENCE            mp_cave
+LANG_ENGLISH         "Azhir Cave (Night)"
+
+REFERENCE            mp_cave_am
+LANG_ENGLISH         "Azhir Cave"
+
+REFERENCE            mp_crash2
+LANG_ENGLISH         "Crash"
+
+REFERENCE            mp_deadzone
+LANG_ENGLISH         "Arklov Peak"
+
+REFERENCE            mp_desert
+LANG_ENGLISH         "Grounded"
+
+REFERENCE            mp_divide
+LANG_ENGLISH         "Scorch"
+
+REFERENCE            mp_dome
+LANG_ENGLISH         "Genesis"
+
+REFERENCE            mp_don3
+LANG_ENGLISH         "Verdansk"
+
+REFERENCE            mp_donetsk
+LANG_ENGLISH         "Verdansk"
+
+REFERENCE            mp_donetsk2
+LANG_ENGLISH         "Verdansk"
+
+REFERENCE            mp_donetsk_2
+LANG_ENGLISH         "Verdansk"
+
+REFERENCE            mp_downtown_gw
+LANG_ENGLISH         "Tavorsk District"
+
+REFERENCE            mp_emporium
+LANG_ENGLISH         "Atlas Superstore"
+
+REFERENCE            mp_euphrates
+LANG_ENGLISH         "Euphrates Bridge"
+
+REFERENCE            mp_fallen
+LANG_ENGLISH         "Throwback"
+
+REFERENCE            mp_farms2_gw
+LANG_ENGLISH         "Krovnik Farmland"
+
+REFERENCE            mp_flip
+LANG_ENGLISH         "Excess"
+
+REFERENCE            mp_frontier
+LANG_ENGLISH         "Frontier"
+
+REFERENCE            mp_geneva
+LANG_ENGLISH         "Renaissance"
+
+REFERENCE            mp_hackney_am
+LANG_ENGLISH         "Hackney Yard"
+
+REFERENCE            mp_hackney_yard
+LANG_ENGLISH         "Hackney Yard (Night)"
+
+REFERENCE            mp_hardhat
+LANG_ENGLISH         "Hardhat"
+
+REFERENCE            mp_hideout
+LANG_ENGLISH         "Khandor Hideout"
+
+REFERENCE            mp_junk
+LANG_ENGLISH         "Scrap"
+
+REFERENCE            mp_layover
+LANG_ENGLISH         "Layover"
+
+REFERENCE            mp_lowline
+LANG_ENGLISH         "Lowline"
+
+REFERENCE            mp_m_cage
+LANG_ENGLISH         "Atrium"
+
+REFERENCE            mp_m_cargo
+LANG_ENGLISH         "Cargo"
+
+REFERENCE            mp_m_fork
+LANG_ENGLISH         "Bazaar"
+
+REFERENCE            mp_m_hill
+LANG_ENGLISH         "Hill"
+
+REFERENCE            mp_m_king
+LANG_ENGLISH         "King"
+
+REFERENCE            mp_m_king_pm
+LANG_ENGLISH         "King (Night)"
+
+REFERENCE            mp_m_overunder
+LANG_ENGLISH         "Docks"
+
+REFERENCE            mp_m_overwinter
+LANG_ENGLISH         "Winter Docks"
+
+REFERENCE            mp_m_pine
+LANG_ENGLISH         "Pine"
+
+REFERENCE            mp_m_showers
+LANG_ENGLISH         "Gulag Showers"
+
+REFERENCE            mp_m_speed
+LANG_ENGLISH         "Shoot House"
+
+REFERENCE            mp_m_speedball
+LANG_ENGLISH         "Speedball"
+
+REFERENCE            mp_m_stack
+LANG_ENGLISH         "Stack"
+
+REFERENCE            mp_m_wallco2
+LANG_ENGLISH         "Aisle 9"
+
+REFERENCE            mp_mansion
+LANG_ENGLISH         "Archive"
+
+REFERENCE            mp_metropolis
+LANG_ENGLISH         "Precinct"
+
+REFERENCE            mp_neon
+LANG_ENGLISH         "Neon"
+
+REFERENCE            mp_parkour
+LANG_ENGLISH         "Breakout"
+
+REFERENCE            mp_petrograd
+LANG_ENGLISH         "St. Petrograd"
+
+REFERENCE            mp_piccadilly
+LANG_ENGLISH         "Piccadilly"
+
+REFERENCE            mp_port2_gw
+LANG_ENGLISH         "Port of Verdansk"
+
+REFERENCE            mp_prime
+LANG_ENGLISH         "Noir"
+
+REFERENCE            mp_proto
+LANG_ENGLISH         "Frost"
+
+REFERENCE            mp_quarry
+LANG_ENGLISH         "Crusher"
+
+REFERENCE            mp_quarry2
+LANG_ENGLISH         "Karst River Quarry"
+
+REFERENCE            mp_raid
+LANG_ENGLISH         "Grazna Raid"
+
+REFERENCE            mp_riot
+LANG_ENGLISH         "Retaliation"
+
+REFERENCE            mp_rivet
+LANG_ENGLISH         "SkyDock"
+
+REFERENCE            mp_runner
+LANG_ENGLISH         "Gun Runner"
+
+REFERENCE            mp_runner_pm
+LANG_ENGLISH         "Gun Runner (Night)"
+
+REFERENCE            mp_rust
+LANG_ENGLISH         "Rust"
+
+REFERENCE            mp_shipment
+LANG_ENGLISH         "Shipment"
+
+REFERENCE            mp_skyway
+LANG_ENGLISH         "Terminal"
+
+REFERENCE            mp_spear
+LANG_ENGLISH         "Rammaza"
+
+REFERENCE            mp_spear_pm
+LANG_ENGLISH         "Rammaza (Night)"
+
+REFERENCE            mp_t_gun_course
+LANG_ENGLISH         "Gun Course"
+
+REFERENCE            mp_t_reflex
+LANG_ENGLISH         "Training Range"
+
+REFERENCE            mp_t_sn_reflex
+LANG_ENGLISH         "Marksman Challenge"
+
+REFERENCE            mp_vacant
+LANG_ENGLISH         "Vacant"
+
+REFERENCE            mp_village2
+LANG_ENGLISH         "Hovec Sawmill"
+
+REFERENCE            mtdm
+LANG_ENGLISH         ""
+
+REFERENCE            mugger
+LANG_ENGLISH         ""
+
+REFERENCE            new_genesis
+LANG_ENGLISH         "Genesis Holiday"
+
+REFERENCE            notingame
+LANG_ENGLISH         "At the main menu"
+
+REFERENCE            oic
+LANG_ENGLISH         ""
+
+REFERENCE            on_battlenet
+LANG_ENGLISH         " on Blizzard Battle.net"
+
+REFERENCE            on_pc
+LANG_ENGLISH         " on Steam"
+
+REFERENCE            on_ps3
+LANG_ENGLISH         " on PlayStation??3 system"
+
+REFERENCE            on_ps4
+LANG_ENGLISH         " on PlayStation??4 system"
+
+REFERENCE            on_wegame
+LANG_ENGLISH         " on WeGame "
+
+REFERENCE            on_wiiu
+LANG_ENGLISH         " on WiiU"
+
+REFERENCE            on_xbox360
+LANG_ENGLISH         " on Xbox 360"
+
+REFERENCE            on_xboxone
+LANG_ENGLISH         " on Xbox One"
+
+REFERENCE            party
+LANG_ENGLISH         "In a party"
+
+REFERENCE            pillage
+LANG_ENGLISH         "PILLAGE"
+
+REFERENCE            playingmp
+LANG_ENGLISH         "Playing &&1 in &&2"
+
+REFERENCE            playingsp
+LANG_ENGLISH         "Playing Single Player in &&1"
+
+REFERENCE            playingtheatre
+LANG_ENGLISH         "Watching a replay in Theater mode"
+
+REFERENCE            rugby
+LANG_ENGLISH         "Rupture"
+
+REFERENCE            sab
+LANG_ENGLISH         ""
+
+REFERENCE            sd
+LANG_ENGLISH         "Search and Destroy"
+
+REFERENCE            siege
+LANG_ENGLISH         "Reinforce"
+
+REFERENCE            snatch
+LANG_ENGLISH         "Smash & Grab"
+
+REFERENCE            sotf
+LANG_ENGLISH         "Hunted"
+
+REFERENCE            sotf_ffa
+LANG_ENGLISH         "Hunted Free-for-all"
+
+REFERENCE            sp_black_ice
+LANG_ENGLISH         "Atlas Falls"
+
+REFERENCE            sp_captive
+LANG_ENGLISH         "Captive"
+
+REFERENCE            sp_carrier
+LANG_ENGLISH         "All or Nothing"
+
+REFERENCE            sp_clockwork
+LANG_ENGLISH         "Clockwork"
+
+REFERENCE            sp_cornered
+LANG_ENGLISH         "Federation Day"
+
+REFERENCE            sp_deer_hunt
+LANG_ENGLISH         "Brave New World"
+
+REFERENCE            sp_embassy
+LANG_ENGLISH         "The Embassy"
+
+REFERENCE            sp_enemyhq
+LANG_ENGLISH         "Struck Down"
+
+REFERENCE            sp_estate
+LANG_ENGLISH         "Going Dark"
+
+REFERENCE            sp_factory
+LANG_ENGLISH         "End of the line"
+
+REFERENCE            sp_flood
+LANG_ENGLISH         "Legends never die"
+
+REFERENCE            sp_heist
+LANG_ENGLISH         "Operation Black Flag"
+
+REFERENCE            sp_heist_space
+LANG_ENGLISH         "Operation Blood Storm"
+
+REFERENCE            sp_highway
+LANG_ENGLISH         "Highway of Death"
+
+REFERENCE            sp_homecoming
+LANG_ENGLISH         "Homecoming"
+
+REFERENCE            sp_hometown
+LANG_ENGLISH         "Hometown"
+
+REFERENCE            sp_ja_asteroid
+LANG_ENGLISH         "Operation Pure Threat"
+
+REFERENCE            sp_ja_mining
+LANG_ENGLISH         "Operation Trace Kill"
+
+REFERENCE            sp_ja_spacestation
+LANG_ENGLISH         "Operation Safe Harbor"
+
+REFERENCE            sp_ja_titan
+LANG_ENGLISH         "Operation Sudden Death"
+
+REFERENCE            sp_ja_wreckage
+LANG_ENGLISH         "Operation Grave Robber"
+
+REFERENCE            sp_jungle_ghosts
+LANG_ENGLISH         "The Hunted"
+
+REFERENCE            sp_lab
+LANG_ENGLISH         "Into the Furnace"
+
+REFERENCE            sp_las_vegas
+LANG_ENGLISH         "Sin City"
+
+REFERENCE            sp_loki
+LANG_ENGLISH         "Loki"
+
+REFERENCE            sp_marines
+LANG_ENGLISH         "Hunting Party"
+
+REFERENCE            sp_nml
+LANG_ENGLISH         "No Man's Land"
+
+REFERENCE            sp_oilrocks
+LANG_ENGLISH         "Birds of Prey"
+
+REFERENCE            sp_phparade
+LANG_ENGLISH         "Black Sky"
+
+REFERENCE            sp_phspace
+LANG_ENGLISH         "Black Sky"
+
+REFERENCE            sp_phstreets
+LANG_ENGLISH         "Black Sky"
+
+REFERENCE            sp_piccadilly
+LANG_ENGLISH         "Piccadilly"
+
+REFERENCE            sp_prisoner
+LANG_ENGLISH         "Operation Black Flag"
+
+REFERENCE            sp_prologue
+LANG_ENGLISH         "Ghost Stories"
+
+REFERENCE            sp_proxywar
+LANG_ENGLISH         "Fog of War"
+
+REFERENCE            sp_rogue
+LANG_ENGLISH         "Operation Dark Quarry"
+
+REFERENCE            sp_rogue_dropship
+LANG_ENGLISH         "Rogue Dropship"
+
+REFERENCE            sp_sa_assassination
+LANG_ENGLISH         "Operation Deep Execute"
+
+REFERENCE            sp_sa_emp
+LANG_ENGLISH         "Operation Phoenix"
+
+REFERENCE            sp_sa_vips
+LANG_ENGLISH         "Operation Taken Dagger"
+
+REFERENCE            sp_sa_wounded
+LANG_ENGLISH         "Operation D-Con"
+
+REFERENCE            sp_safehouse
+LANG_ENGLISH         "Embedded"
+
+REFERENCE            sp_safehouse_finale
+LANG_ENGLISH         "Proxy War"
+
+REFERENCE            sp_satfarm
+LANG_ENGLISH         "Severed Ties"
+
+REFERENCE            sp_satfarm_b
+LANG_ENGLISH         "Severed Ties"
+
+REFERENCE            sp_sc_epilogue
+LANG_ENGLISH         "Restoration"
+
+REFERENCE            sp_sc_prisoner
+LANG_ENGLISH         "Retribution"
+
+REFERENCE            sp_sc_rogue
+LANG_ENGLISH         "Retribution"
+
+REFERENCE            sp_sc_titan
+LANG_ENGLISH         "Retribution"
+
+REFERENCE            sp_ship_graveyard
+LANG_ENGLISH         "Into the Deep"
+
+REFERENCE            sp_skyway
+LANG_ENGLISH         "The Ghost Killer"
+
+REFERENCE            sp_stpetersburg
+LANG_ENGLISH         "Old Comrades"
+
+REFERENCE            sp_titan
+LANG_ENGLISH         "Operation Burn Water"
+
+REFERENCE            sp_titan_ja
+LANG_ENGLISH         "Operation Burn Water"
+
+REFERENCE            sp_townhouse
+LANG_ENGLISH         "Clean House"
+
+REFERENCE            sp_tunnels
+LANG_ENGLISH         "The Wolf's Den"
+
+REFERENCE            spec_ops
+LANG_ENGLISH         "Special Ops"
+
+REFERENCE            sr
+LANG_ENGLISH         "Search and Rescue"
+
+REFERENCE            survival
+LANG_ENGLISH         "Survival"
+
+REFERENCE            tac_ops
+LANG_ENGLISH         "Special Ops"
+
+REFERENCE            tdef
+LANG_ENGLISH         "Defender"
+
+REFERENCE            tjugg
+LANG_ENGLISH         ""
+
+REFERENCE            trial
+LANG_ENGLISH         "Trials"
+
+REFERENCE            unknown_map
+LANG_ENGLISH         "unknown map"
+
+REFERENCE            war
+LANG_ENGLISH         "Team Deathmatch"
+
+REFERENCE            watchingcredits
+LANG_ENGLISH         "Watching the credits"
+
+
+ENDMARKER

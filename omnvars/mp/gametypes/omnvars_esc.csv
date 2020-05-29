@@ -1,0 +1,5 @@
+include,omnvars/mp/omnvars_grindtags.csv,,,,,,,,,,,,,
+include,omnvars/mp/omnvars_hardpoint.csv,,,,,,,,,,,,,
+ui_escape_timer,1,,c,t,0,,,,,,,,,
+ui_escape_timer_final_seconds,1,,c,b,0,0,1,,,,,,#this could be done clientside,
+ui_escape_challenge_update,1,,c,b,0,0,1,,,,,,,

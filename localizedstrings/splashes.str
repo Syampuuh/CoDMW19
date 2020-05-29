@@ -1,0 +1,2143 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            white_phosphorus_assist
+LANG_ENGLISH         "White Phosphorus Assist."
+
+REFERENCE            weapon_ranked_up_desc
+LANG_ENGLISH         "Rank &&1"
+
+REFERENCE            weapon_ranked_up
+LANG_ENGLISH         "&&1 Ranked Up!"
+
+REFERENCE            weapon_box_teammate_used
+LANG_ENGLISH         "Armed Teammate"
+
+REFERENCE            warning
+LANG_ENGLISH         "WARNING"
+
+REFERENCE            wallkill
+LANG_ENGLISH         "Wall Kill"
+
+REFERENCE            vehicle_critical_damage
+LANG_ENGLISH         "Critical Hit"
+
+REFERENCE            ultrakill_desc
+LANG_ENGLISH         "You got eight kills in a short time."
+
+REFERENCE            ultrakill
+LANG_ENGLISH         "Ultra Kill"
+
+REFERENCE            uav_assist
+LANG_ENGLISH         "UAV assist"
+
+REFERENCE            trophy_defense
+LANG_ENGLISH         "Trophy System Defense"
+
+REFERENCE            triplekill_desc
+LANG_ENGLISH         "You got three kills in a short time."
+
+REFERENCE            triplekill
+LANG_ENGLISH         "Triple Kill"
+
+REFERENCE            triple_kill_short
+LANG_ENGLISH         "Triple Kill"
+
+REFERENCE            triggered_alarm
+LANG_ENGLISH         "Triggered alarm!"
+
+REFERENCE            trial_collateral_triple
+LANG_ENGLISH         "TRIPLE COLLATERAL"
+
+REFERENCE            trial_collateral_quad
+LANG_ENGLISH         "QUAD COLLATERAL"
+
+REFERENCE            trial_collateral
+LANG_ENGLISH         "COLLATERAL"
+
+REFERENCE            tr_revived
+LANG_ENGLISH         "REVIVED!"
+
+REFERENCE            tr_enemy_revived
+LANG_ENGLISH         "Enemy Revived!"
+
+REFERENCE            tr_ally_revived
+LANG_ENGLISH         "Ally Revived!"
+
+REFERENCE            top_gun_rank
+LANG_ENGLISH         "Top Gun Rank!"
+
+REFERENCE            timeadded
+LANG_ENGLISH         "Time Added!"
+
+REFERENCE            time_added_desc
+LANG_ENGLISH         "Bomb site destroyed. Game time extended."
+
+REFERENCE            time_added
+LANG_ENGLISH         "Time Extension!"
+
+REFERENCE            thermite_victim_stuck_desc
+LANG_ENGLISH         "A Thermite has hit you!"
+
+REFERENCE            thermite_attacker_stuck_desc
+LANG_ENGLISH         "You stuck an enemy with Thermite!"
+
+REFERENCE            teamkill
+LANG_ENGLISH         "Teammate Killed"
+
+REFERENCE            team_wiped
+LANG_ENGLISH         "Team Wiped"
+
+REFERENCE            team_confirmed
+LANG_ENGLISH         "Teammate confirmed kill"
+
+REFERENCE            team_collected
+LANG_ENGLISH         "Teammate collected tags"
+
+REFERENCE            target_eliminated
+LANG_ENGLISH         "Target Eliminated!"
+
+REFERENCE            tags_retrieved
+LANG_ENGLISH         "Got Your Tags!"
+
+REFERENCE            tags_banked
+LANG_ENGLISH         "&&1 Tags Banked!"
+
+REFERENCE            tag_denied
+LANG_ENGLISH         "Tag Denied"
+
+REFERENCE            tag_collected
+LANG_ENGLISH         "Tag Collected"
+
+REFERENCE            tac_insert_success_br
+LANG_ENGLISH         "Tactical Insertion Respawn"
+
+REFERENCE            tac_insert_fail_br_too_far
+LANG_ENGLISH         "Tactical Insertion Too Far"
+
+REFERENCE            survivor
+LANG_ENGLISH         "Survivor"
+
+REFERENCE            superkill_desc
+LANG_ENGLISH         "You got six kills in a short time."
+
+REFERENCE            superkill
+LANG_ENGLISH         "Super Kill"
+
+REFERENCE            super_wallhack_kill
+LANG_ENGLISH         "Pulsar Kill"
+
+REFERENCE            super_trophy_kill
+LANG_ENGLISH         "Centurion Kill"
+
+REFERENCE            super_teleport_kill
+LANG_ENGLISH         "FTL Jump Kill"
+
+REFERENCE            super_steeldragon_kill
+LANG_ENGLISH         "Steel Dragon Kill"
+
+REFERENCE            super_shutdown
+LANG_ENGLISH         "Payload Shutdown!"
+
+REFERENCE            super_rewind_kill
+LANG_ENGLISH         "Rewind Kill"
+
+REFERENCE            super_reaper_kill
+LANG_ENGLISH         "Reaper Kill"
+
+REFERENCE            super_reactive_armor_kill
+LANG_ENGLISH         "Reactive Armor Kill"
+
+REFERENCE            super_railgun_kill
+LANG_ENGLISH         "Ballista Kill"
+
+REFERENCE            super_phase_shift_kill
+LANG_ENGLISH         "Phase Shift Kill"
+
+REFERENCE            super_pack
+LANG_ENGLISH         "Payload cooldown decreased!"
+
+REFERENCE            super_overdrive_kill
+LANG_ENGLISH         "Overdrive Kill"
+
+REFERENCE            super_micro_turret_kill
+LANG_ENGLISH         "Micro Turret Kill"
+
+REFERENCE            super_kinetic_pulse_kill
+LANG_ENGLISH         "Kinetic Pulse Kill"
+
+REFERENCE            super_kill
+LANG_ENGLISH         "Payload Kill"
+
+REFERENCE            super_eraser_kill
+LANG_ENGLISH         "Eraser Kill"
+
+REFERENCE            super_combat_focus_kill
+LANG_ENGLISH         "Combat Focus Kill"
+
+REFERENCE            super_claw_kill
+LANG_ENGLISH         "Claw Kill"
+
+REFERENCE            super_bull_charge_kill
+LANG_ENGLISH         "Bull Charge Kill"
+
+REFERENCE            super_blackholegun_kill
+LANG_ENGLISH         "Gravity Vortex Kill"
+
+REFERENCE            super_arm2_kill
+LANG_ENGLISH         "Equalizer Kill"
+
+REFERENCE            super_active_camo_kill
+LANG_ENGLISH         "Active Camo Kill"
+
+REFERENCE            stuck_stickglprox_desc
+LANG_ENGLISH         "You stuck an enemy with a Sticky Missile!"
+
+REFERENCE            stuck_spider_grenade_desc
+LANG_ENGLISH         "You stuck an enemy with Seeker Grenade!"
+
+REFERENCE            stuck_shard_ball_desc
+LANG_ENGLISH         "You stuck an enemy with Shard Ball!"
+
+REFERENCE            stuck_semtex_desc
+LANG_ENGLISH         "You stuck an enemy with Semtex!"
+
+REFERENCE            stuck_semtex
+LANG_ENGLISH         "Stuck!"
+
+REFERENCE            stuck_pulse_grenade_desc
+LANG_ENGLISH         "You stuck an enemy with a Pulse Grenade!"
+
+REFERENCE            stuck_arc_grenade_desc
+LANG_ENGLISH         "You stuck an enemy with a Arc Grenade!"
+
+REFERENCE            stopping_power_loaded
+LANG_ENGLISH         "^3Stopping Power Loaded"
+
+REFERENCE            stickglprox_stuck
+LANG_ENGLISH         "Stuck you with a Sticky Missile"
+
+REFERENCE            sr_respawned
+LANG_ENGLISH         "RESCUED!"
+
+REFERENCE            sr_enemy_respawned
+LANG_ENGLISH         "ENEMY RESCUED!"
+
+REFERENCE            sr_enemy_eliminated
+LANG_ENGLISH         "ENEMY ELIMINATED!"
+
+REFERENCE            sr_enemy_down
+LANG_ENGLISH         "ENEMY DOWNED!"
+
+REFERENCE            sr_eliminated
+LANG_ENGLISH         "ELIMINATED!"
+
+REFERENCE            sr_down
+LANG_ENGLISH         "DOWNED!"
+
+REFERENCE            sr_ally_respawned
+LANG_ENGLISH         "ALLY RESCUED!"
+
+REFERENCE            sr_ally_eliminated
+LANG_ENGLISH         "ALLY ELIMINATED!"
+
+REFERENCE            sr_ally_down
+LANG_ENGLISH         "ALLY DOWNED!"
+
+REFERENCE            squad_spawn_self
+LANG_ENGLISH         "You spawned on squadmate"
+
+REFERENCE            squad_spawn
+LANG_ENGLISH         "Squad Spawn"
+
+REFERENCE            spider_grenade_stuck_desc
+LANG_ENGLISH         "A Seeker Grenade has hit you!"
+
+REFERENCE            spider_grenade_stuck
+LANG_ENGLISH         "Stuck you with Seeker Grenade"
+
+REFERENCE            specialty_steadyaim_desc
+LANG_ENGLISH         "5 Point Streak!"
+
+REFERENCE            specialty_steadyaim
+LANG_ENGLISH         "Steady Aim"
+
+REFERENCE            specialty_specialist_desc
+LANG_ENGLISH         "Bonus Perks Gained!"
+
+REFERENCE            specialty_specialist
+LANG_ENGLISH         "Specialist!"
+
+REFERENCE            specialty_scavenger_desc
+LANG_ENGLISH         "1 Point Streak!"
+
+REFERENCE            specialty_scavenger
+LANG_ENGLISH         "Scavenger"
+
+REFERENCE            specialty_quickdraw_desc
+LANG_ENGLISH         "3 Point Streak!"
+
+REFERENCE            specialty_quickdraw
+LANG_ENGLISH         "Quickdraw"
+
+REFERENCE            snowball_kill
+LANG_ENGLISH         "Iced!"
+
+REFERENCE            slidekill
+LANG_ENGLISH         "Slide Kill"
+
+REFERENCE            six_kill_short
+LANG_ENGLISH         "6x Multi-Kill"
+
+REFERENCE            shieldassist_desc
+LANG_ENGLISH         "You make an excellent distraction."
+
+REFERENCE            shieldassist
+LANG_ENGLISH         "Crowd Control!"
+
+REFERENCE            sharepackage_desc
+LANG_ENGLISH         "A teammate saved your Care Package! (^3+&&1^7)"
+
+REFERENCE            sharepackage
+LANG_ENGLISH         "Share Package!"
+
+REFERENCE            shard_ball_stuck
+LANG_ENGLISH         "Stuck you with Shard Ball"
+
+REFERENCE            seven_kill_short
+LANG_ENGLISH         "7x Multi-Kill"
+
+REFERENCE            semtex_stuck
+LANG_ENGLISH         "Stuck you with Semtex"
+
+REFERENCE            secured_position_e
+LANG_ENGLISH         "Secured E!"
+
+REFERENCE            secured_position_d
+LANG_ENGLISH         "Secured D!"
+
+REFERENCE            secured_position_c
+LANG_ENGLISH         "Secured C!"
+
+REFERENCE            secured_position_b
+LANG_ENGLISH         "Secured B!"
+
+REFERENCE            secured_position_a
+LANG_ENGLISH         "Secured A!"
+
+REFERENCE            secured_position
+LANG_ENGLISH         "Secured Position!"
+
+REFERENCE            scrap_assist
+LANG_ENGLISH         "Scrap Assist"
+
+REFERENCE            scrambler_assist
+LANG_ENGLISH         "Counter UAV Assist"
+
+REFERENCE            scorestreak_pack
+LANG_ENGLISH         "Collected Scorestreak bonus!"
+
+REFERENCE            savior
+LANG_ENGLISH         "Savior"
+
+REFERENCE            saved_objective
+LANG_ENGLISH         "Saved Objective!"
+
+REFERENCE            reviver_desc
+LANG_ENGLISH         "You revived a fallen teamate."
+
+REFERENCE            reviver
+LANG_ENGLISH         "Reviver!"
+
+REFERENCE            revived
+LANG_ENGLISH         "Revived You"
+
+REFERENCE            revenge_desc
+LANG_ENGLISH         "You've taken revenge."
+
+REFERENCE            revenge
+LANG_ENGLISH         "Payback"
+
+REFERENCE            rested_done_desc
+LANG_ENGLISH         "Bonus XP acquired."
+
+REFERENCE            rested_done
+LANG_ENGLISH         "Daily XP Boost Done."
+
+REFERENCE            rested_desc
+LANG_ENGLISH         "Earning your daily bonus XP!"
+
+REFERENCE            rested
+LANG_ENGLISH         "Daily XP Boost!"
+
+REFERENCE            refresh_kill_single_desc
+LANG_ENGLISH         "ONE more kill until Refresh!"
+
+REFERENCE            refresh_kill_desc
+LANG_ENGLISH         "&&1 kills away from Refresh!"
+
+REFERENCE            refresh_kill
+LANG_ENGLISH         "Refresh Streak Kill"
+
+REFERENCE            redeploy_token_converted_title
+LANG_ENGLISH         "Token Converted to XP"
+
+REFERENCE            redeploy_token_converted_desc
+LANG_ENGLISH         "Gulag is closed now.
+Redeploy Token has been converted to XP"
+
+REFERENCE            recon_killstreak_marked
+LANG_ENGLISH         "Killstreak Marked"
+
+REFERENCE            recon_equipment_marked
+LANG_ENGLISH         "Equipment Marked"
+
+REFERENCE            recon_enemy_marked
+LANG_ENGLISH         "Enemy Marked"
+
+REFERENCE            recon_assist
+LANG_ENGLISH         "Personal Radar Assist"
+
+REFERENCE            recon_agent
+LANG_ENGLISH         "Juggernaut Squadmate"
+
+REFERENCE            ranked_up_desc
+LANG_ENGLISH         "New Rank: &&1"
+
+REFERENCE            ranked_up
+LANG_ENGLISH         "RANKED UP!"
+
+REFERENCE            quad_kill_short
+LANG_ENGLISH         "Quad Kill"
+
+REFERENCE            pulse_grenade_stuck
+LANG_ENGLISH         "Stuck you with a Pulse Grenade"
+
+REFERENCE            proximitykill
+LANG_ENGLISH         "Team Kill"
+
+REFERENCE            proximityassist
+LANG_ENGLISH         "Team Assist"
+
+REFERENCE            posthumous_desc
+LANG_ENGLISH         "You killed an enemy after you died."
+
+REFERENCE            posthumous
+LANG_ENGLISH         "Afterlife"
+
+REFERENCE            pointblank_desc
+LANG_ENGLISH         "Who needs to aim when you're so close?"
+
+REFERENCE            pointblank
+LANG_ENGLISH         "Point Blank"
+
+REFERENCE            plunder_cash
+LANG_ENGLISH         "Cash!"
+
+REFERENCE            plant_desc
+LANG_ENGLISH         "You planted the bomb."
+
+REFERENCE            plant
+LANG_ENGLISH         "Saboteur"
+
+REFERENCE            phaser_resource
+LANG_ENGLISH         "Collected Resource!"
+
+REFERENCE            perk_tank_upgrade
+LANG_ENGLISH         "You now have armor vest protection. Deploy a Trophy System."
+
+REFERENCE            perk_survivor_upgrade
+LANG_ENGLISH         "Bleedout with self-revive."
+
+REFERENCE            perk_support_upgrade
+LANG_ENGLISH         "Place deployable cover."
+
+REFERENCE            perk_stealth_upgrade
+LANG_ENGLISH         "Immune to enemy outlines and killstreak marking. Scramble enemy HUDs."
+
+REFERENCE            perk_spotter_upgrade
+LANG_ENGLISH         "Fly a recon drone. Mark targets in less time."
+
+REFERENCE            perk_munitions_upgrade
+LANG_ENGLISH         "Killed enemies drop ammo bags. Place stopping power supplies."
+
+REFERENCE            perk_marked_target
+LANG_ENGLISH         "Marked for team!"
+
+REFERENCE            perk_hunter_upgrade
+LANG_ENGLISH         "You are harder to track."
+
+REFERENCE            perk_healer_upgrade
+LANG_ENGLISH         "Stim. Shoot while reviving.""
+
+REFERENCE            perk_destroyed_target
+LANG_ENGLISH         "Destroyed marked target!"
+
+REFERENCE            perk_demolitions_upgrade
+LANG_ENGLISH         "Remotely detonate explosives. Have a blast shield. Place deployable cover."
+
+REFERENCE            perk_breacher_upgrade
+LANG_ENGLISH         "Detect enemies through closed doors."
+
+REFERENCE            penetration_kill
+LANG_ENGLISH         "Wall Bang"
+
+REFERENCE            package_pickup
+LANG_ENGLISH         "Care Package Resupply"
+
+REFERENCE            objective_update
+LANG_ENGLISH         "OBJECTIVE UPDATE"
+
+REFERENCE            objective_new
+LANG_ENGLISH         "NEW OBJECTIVE"
+
+REFERENCE            nuke_landed
+LANG_ENGLISH         "NUKE AVAILABLE"
+
+REFERENCE            nuke_kill_single_desc
+LANG_ENGLISH         "ONE more kill until a Nuke!"
+
+REFERENCE            nuke_kill_desc
+LANG_ENGLISH         "&&1 kills away from Nuke!"
+
+REFERENCE            nuke_kill
+LANG_ENGLISH         "Nuke Streak Kill"
+
+REFERENCE            ninja_defuse_desc
+LANG_ENGLISH         "Sneaky sneaky..."
+
+REFERENCE            ninja_defuse
+LANG_ENGLISH         "Ninja Defuse"
+
+REFERENCE            nine_kill_short
+LANG_ENGLISH         "9x Multi-Kill"
+
+REFERENCE            next_crate_located
+LANG_ENGLISH         "Next Crate Located"
+
+REFERENCE            next_bonus_level_short
+LANG_ENGLISH         "NEXT BONUS: +&&1%"
+
+REFERENCE            next_bonus_level
+LANG_ENGLISH         "NEXT CONTRACT BONUS: &&1%"
+
+REFERENCE            new_juggernaut
+LANG_ENGLISH         "New Juggernaut!"
+
+REFERENCE            munitions_box_teammate_used
+LANG_ENGLISH         "Resupplied Teammate"
+
+REFERENCE            multikill_desc
+LANG_ENGLISH         "You got a lot of kills in a short time."
+
+REFERENCE            multikill
+LANG_ENGLISH         "Multi-Kill"
+
+REFERENCE            muggernaut_old_desc
+LANG_ENGLISH         "&&1 Muggings in a row!"
+
+REFERENCE            muggernaut_desc
+LANG_ENGLISH         "&&1 Tags Insta-Banked!"
+
+REFERENCE            muggernaut
+LANG_ENGLISH         "Muggernaut!"
+
+REFERENCE            mugger_suicide
+LANG_ENGLISH         "Suicide!"
+
+REFERENCE            mugger_megadrop
+LANG_ENGLISH         "Mega-Mugging!"
+
+REFERENCE            mugger_jackpot_desc
+LANG_ENGLISH         "&&1 Tags!"
+
+REFERENCE            mugger_jackpot
+LANG_ENGLISH         "JACKPOT"
+
+REFERENCE            mugger_desc
+LANG_ENGLISH         "Tags Dropped: &&1"
+
+REFERENCE            mugger_airdrop
+LANG_ENGLISH         "Jackpot Airdrop Incoming!"
+
+REFERENCE            mugger
+LANG_ENGLISH         "Mugger!"
+
+REFERENCE            mugged_desc
+LANG_ENGLISH         "Tags Dropped: &&1"
+
+REFERENCE            mugged
+LANG_ENGLISH         "Mugged!"
+
+REFERENCE            molotov_stuck_desc
+LANG_ENGLISH         "You struck an enemy with a Molotov!"
+
+REFERENCE            mode_switch_kill
+LANG_ENGLISH         "Dynamic Kill"
+
+REFERENCE            mo_money_kill_desc
+LANG_ENGLISH         "Less Copyright Infringement"
+
+REFERENCE            mo_money_kill
+LANG_ENGLISH         "Mo' Money"
+
+REFERENCE            megakill_desc
+LANG_ENGLISH         "You got seven kills in a short time."
+
+REFERENCE            megakill
+LANG_ENGLISH         "Mega Kill"
+
+REFERENCE            max_xp_desc
+LANG_ENGLISH         "squad match maximum reached!"
+
+REFERENCE            max_xp
+LANG_ENGLISH         "MAX XP!"
+
+REFERENCE            manual_flare_missile_redirect
+LANG_ENGLISH         "Missile Redirected"
+
+REFERENCE            looted
+LANG_ENGLISH         "Looted"
+
+REFERENCE            longshot_desc
+LANG_ENGLISH         "Nice kill from a distance."
+
+REFERENCE            longshot
+LANG_ENGLISH         "Longshot"
+
+REFERENCE            leader_kill
+LANG_ENGLISH         "Assassination"
+
+REFERENCE            last_team_member_alive_desc
+LANG_ENGLISH         "It's all up to you!"
+
+REFERENCE            last_team_member_alive
+LANG_ENGLISH         "Last Alive!"
+
+REFERENCE            last_stand_kill
+LANG_ENGLISH         "Eliminated"
+
+REFERENCE            last_man_kill
+LANG_ENGLISH         "Clutch Kill"
+
+REFERENCE            last_enemy_alive_desc
+LANG_ENGLISH         "Only one enemy left!"
+
+REFERENCE            last_enemy_alive
+LANG_ENGLISH         "Last Enemy Alive!"
+
+REFERENCE            lap_final
+LANG_ENGLISH         "Final Lap"
+
+REFERENCE            lap_5
+LANG_ENGLISH         "Lap 5"
+
+REFERENCE            lap_4
+LANG_ENGLISH         "Lap 4"
+
+REFERENCE            lap_3
+LANG_ENGLISH         "Lap 3"
+
+REFERENCE            lap_2
+LANG_ENGLISH         "Lap 2"
+
+REFERENCE            lap_1
+LANG_ENGLISH         "Lap 1"
+
+REFERENCE            kiosk_purchase
+LANG_ENGLISH         "Purchased"
+
+REFERENCE            killstreak_use
+LANG_ENGLISH         "Ready for activation"
+
+REFERENCE            killstreak_kill
+LANG_ENGLISH         "Killstreak Kill"
+
+REFERENCE            killstreak_giveaway
+LANG_ENGLISH         "Teammate took your scorestreak!"
+
+REFERENCE            killstreak_assist
+LANG_ENGLISH         "Scrap Assist!"
+
+REFERENCE            killonwall
+LANG_ENGLISH         "Fly Swatter"
+
+REFERENCE            killinair
+LANG_ENGLISH         "Skeet Shooter"
+
+REFERENCE            killed_the_hunter_desc
+LANG_ENGLISH         "Killed the player hunting you."
+
+REFERENCE            killed_the_hunter
+LANG_ENGLISH         "Killed The Hunter"
+
+REFERENCE            killed_flag_carrier_desc
+LANG_ENGLISH         "You killed the Flag Carrier"
+
+REFERENCE            killed_flag_carrier
+LANG_ENGLISH         "Killed Flag Carrier"
+
+REFERENCE            killed_emp_carrier
+LANG_ENGLISH         "Killed EMP Carrier"
+
+REFERENCE            killed_carrier
+LANG_ENGLISH         "Killed Bomb Carrier!"
+
+REFERENCE            kill_streaking
+LANG_ENGLISH         "On a &&1 Kill Streak!"
+
+REFERENCE            kill_denied
+LANG_ENGLISH         "Kill Denied!"
+
+REFERENCE            kill_cranked
+LANG_ENGLISH         "Kill x2!"
+
+REFERENCE            kill_confirmed
+LANG_ENGLISH         "Kill Confirmed!"
+
+REFERENCE            kill_bonus
+LANG_ENGLISH         "Bonus Wager XP!"
+
+REFERENCE            kill
+LANG_ENGLISH         "Kill"
+
+REFERENCE            key_pickup
+LANG_ENGLISH         "Key Collected!"
+
+REFERENCE            infected_survivor
+LANG_ENGLISH         "Infected a Survivor!"
+
+REFERENCE            infected_starts_in
+LANG_ENGLISH         "Infected Countdown: "
+
+REFERENCE            infected
+LANG_ENGLISH         "Infected"
+
+REFERENCE            infect_super_ti_set
+LANG_ENGLISH         "Skydive Tactical Insertion Set"
+
+REFERENCE            infect_all
+LANG_ENGLISH         "Infect all survivors!"
+
+REFERENCE            hvt_status_6
+LANG_ENGLISH         "HVT Rank Max"
+
+REFERENCE            hvt_status_5
+LANG_ENGLISH         "HVT Rank 6"
+
+REFERENCE            hvt_status_4
+LANG_ENGLISH         "HVT Rank 5"
+
+REFERENCE            hvt_status_3
+LANG_ENGLISH         "HVT Rank 4"
+
+REFERENCE            hvt_status_2
+LANG_ENGLISH         "HVT Rank 3"
+
+REFERENCE            hvt_status_1
+LANG_ENGLISH         "HVT Rank 2"
+
+REFERENCE            hvt_status
+LANG_ENGLISH         "HVT Status Acquired"
+
+REFERENCE            hvt_saved
+LANG_ENGLISH         "HVT Saved"
+
+REFERENCE            hvt_rank_up_6
+LANG_ENGLISH         "Finish This"
+
+REFERENCE            hvt_rank_up_5
+LANG_ENGLISH         "They are coming for you"
+
+REFERENCE            hvt_rank_up_4
+LANG_ENGLISH         "You are Extremely Valuable"
+
+REFERENCE            hvt_rank_up_3
+LANG_ENGLISH         "You are now a Very High Value Target"
+
+REFERENCE            hvt_rank_up_2
+LANG_ENGLISH         "Value Increased"
+
+REFERENCE            hvt_rank_up_1
+LANG_ENGLISH         "You are now a High Value Target"
+
+REFERENCE            hvt_rank_demotion
+LANG_ENGLISH         "HVT status revoked"
+
+REFERENCE            hvt_killed
+LANG_ENGLISH         "Killed High Value Target!"
+
+REFERENCE            hvt_kill
+LANG_ENGLISH         "HVT Killed"
+
+REFERENCE            hvt_demoted
+LANG_ENGLISH         "HVT Demotion"
+
+REFERENCE            hvt_captured
+LANG_ENGLISH         "HVT Captured"
+
+REFERENCE            hvt
+LANG_ENGLISH         "High Value Target!"
+
+REFERENCE            hq_secured
+LANG_ENGLISH         "HQ secured"
+
+REFERENCE            hq_new
+LANG_ENGLISH         "Control the HQ location."
+
+REFERENCE            hq_destroyed
+LANG_ENGLISH         "HQ was disabled."
+
+REFERENCE            hq_destroy
+LANG_ENGLISH         "Disable the HQ."
+
+REFERENCE            hq_captured_desc
+LANG_ENGLISH         "Defend the HQ."
+
+REFERENCE            hq_captured
+LANG_ENGLISH         "Respawns disabled!"
+
+REFERENCE            hq_capture
+LANG_ENGLISH         "Capture the HQ."
+
+REFERENCE            hitman_kill_single_desc
+LANG_ENGLISH         "ONE more kill until Hitman!"
+
+REFERENCE            hitman_kill_desc
+LANG_ENGLISH         "&&1 kills away from Hitman!"
+
+REFERENCE            hitman_kill_all_desc
+LANG_ENGLISH         "All Targets Eliminated!"
+
+REFERENCE            hitman_kill
+LANG_ENGLISH         "Hitman Kill Streak"
+
+REFERENCE            hijacker_desc
+LANG_ENGLISH         "You captured an enemy supply crate."
+
+REFERENCE            hijacker
+LANG_ENGLISH         "Hijacker"
+
+REFERENCE            hijacked_sentry
+LANG_ENGLISH         "Took Your Sentry!"
+
+REFERENCE            hijacked_remote_tank
+LANG_ENGLISH         "Took Your Assault Drone!"
+
+REFERENCE            hijacked_maniac
+LANG_ENGLISH         "Took Your Maniac!"
+
+REFERENCE            hijacked_juggernaut
+LANG_ENGLISH         "Took Your Juggernaut!"
+
+REFERENCE            hijacked_emergency_airdrop
+LANG_ENGLISH         "Took your crate!"
+
+REFERENCE            hijacked_airdrop
+LANG_ENGLISH         "Took Your Crate!"
+
+REFERENCE            heroic_desc
+LANG_ENGLISH         "You captured an objective in last stand!"
+
+REFERENCE            heroic
+LANG_ENGLISH         "Heroic!"
+
+REFERENCE            headshot_desc
+LANG_ENGLISH         "You got a headshot on an enemy."
+
+REFERENCE            headshot
+LANG_ENGLISH         "Headshot"
+
+REFERENCE            gtnw_overtime_desc
+LANG_ENGLISH         "No respawning."
+
+REFERENCE            gtnw_overtime
+LANG_ENGLISH         "Sudden Death!"
+
+REFERENCE            grabbed_the_flag
+LANG_ENGLISH         "Grabbed the flag!"
+
+REFERENCE            got_infected
+LANG_ENGLISH         "Got Infected!"
+
+REFERENCE            giveaway_sentry
+LANG_ENGLISH         "...took a Sentry Gun"
+
+REFERENCE            giveaway_maniac
+LANG_ENGLISH         "...took a Maniac"
+
+REFERENCE            giveaway_juggernaut
+LANG_ENGLISH         "...took a Juggernaut"
+
+REFERENCE            giveaway_airdrop
+LANG_ENGLISH         "... took an airdropped Killstreak."
+
+REFERENCE            generic_perk_upgrade_desc
+LANG_ENGLISH         "Your active perk has been upgraded."
+
+REFERENCE            generic_perk_upgrade
+LANG_ENGLISH         "Perk Upgrade"
+
+REFERENCE            gained_gun_rank
+LANG_ENGLISH         "Gun Promotion!"
+
+REFERENCE            furykill_desc
+LANG_ENGLISH         "You got four kills in a short time."
+
+REFERENCE            furykill
+LANG_ENGLISH         "Fury Kill"
+
+REFERENCE            frenzykill_desc
+LANG_ENGLISH         "You got five kills in a short time."
+
+REFERENCE            frenzykill
+LANG_ENGLISH         "Frenzy Kill"
+
+REFERENCE            fr_defcon
+LANG_ENGLISH         "We've reached DEFCON &&1"
+
+REFERENCE            flare_gun_victim_stuck_desc
+LANG_ENGLISH         "A Flare has hit you!"
+
+REFERENCE            flare_gun_attacker_stuck_desc
+LANG_ENGLISH         "You stuck an enemy with a Flare!"
+
+REFERENCE            flagreturn_desc
+LANG_ENGLISH         "You returned your team flag."
+
+REFERENCE            flagreturn
+LANG_ENGLISH         "Flag Return"
+
+REFERENCE            flagpickup_desc
+LANG_ENGLISH         "You picked up the enemy flag."
+
+REFERENCE            flagpickup
+LANG_ENGLISH         "Flag Runner"
+
+REFERENCE            flag_grab
+LANG_ENGLISH         "Flag Grab"
+
+REFERENCE            flag_captured_desc
+LANG_ENGLISH         "You captured the flag!"
+
+REFERENCE            flag_capture
+LANG_ENGLISH         "Captured the Flag"
+
+REFERENCE            five_kill_short
+LANG_ENGLISH         "5x Multi-Kill"
+
+REFERENCE            firstblood_desc
+LANG_ENGLISH         "You got the first kill at the start of a match."
+
+REFERENCE            firstblood
+LANG_ENGLISH         "First Blood"
+
+REFERENCE            first_survivor_desc
+LANG_ENGLISH         "Survive at all costs!"
+
+REFERENCE            first_survivor
+LANG_ENGLISH         "Survivor!"
+
+REFERENCE            first_infected_desc
+LANG_ENGLISH         "Player randomly chosen."
+
+REFERENCE            first_infected
+LANG_ENGLISH         "First Infected!"
+
+REFERENCE            final_survivor
+LANG_ENGLISH         "Final Survivor!"
+
+REFERENCE            field_upgrade_purchased_desc
+LANG_ENGLISH         "Field Upgrade ready for use."
+
+REFERENCE            extra_points_loot
+LANG_ENGLISH         "Extra Score!"
+
+REFERENCE            exfil_success
+LANG_ENGLISH         "You've lived to fight another day."
+
+REFERENCE            exfil_start_winners
+LANG_ENGLISH         "The enemy is attempting to escape, stop them!"
+
+REFERENCE            exfil_start_losers
+LANG_ENGLISH         "We've lost! Get to the exfil before it's too late!"
+
+REFERENCE            exfil_bmo_start_winners
+LANG_ENGLISH         "Nuke impact imminent, get to the exfil!"
+
+REFERENCE            exfil_arm_start_winners
+LANG_ENGLISH         "Nuke impact imminent, respawning is disabled."
+
+REFERENCE            exfil_arm_start_losers
+LANG_ENGLISH         "The nuke is armed, take as many of them with us as possible."
+
+REFERENCE            execution
+LANG_ENGLISH         "Finishing Move"
+
+REFERENCE            esc_challenge_complete
+LANG_ENGLISH         "Challenge Completed"
+
+REFERENCE            en_defcon
+LANG_ENGLISH         "Enemy team has reached DEFCON &&1"
+
+REFERENCE            emped_vehicle
+LANG_ENGLISH         "EMPed Vehicle"
+
+REFERENCE            emped_player
+LANG_ENGLISH         "EMPed Player"
+
+REFERENCE            emped_killstreak
+LANG_ENGLISH         "EMPed Killstreak"
+
+REFERENCE            emp_planted_enemy_desc
+LANG_ENGLISH         "Disable the enemy bomb!"
+
+REFERENCE            emp_planted_enemy
+LANG_ENGLISH         "Enemy bomb armed!"
+
+REFERENCE            emp_planted_desc
+LANG_ENGLISH         "Bomb is armed, defend it!"
+
+REFERENCE            emp_planted
+LANG_ENGLISH         "Armed bomb!"
+
+REFERENCE            emp_pickup_enemy_desc
+LANG_ENGLISH         "Stop the enemy bomb carrier!"
+
+REFERENCE            emp_pickup_enemy
+LANG_ENGLISH         "Enemy has the bomb!"
+
+REFERENCE            emp_pickup_desc
+LANG_ENGLISH         "Bomb acquired, go plant it!"
+
+REFERENCE            emp_pickup
+LANG_ENGLISH         "Picked up the bomb!"
+
+REFERENCE            emp_grab
+LANG_ENGLISH         "Bomb Secured"
+
+REFERENCE            emp_defused_enemy_desc
+LANG_ENGLISH         "The enemy defused your Bomb!"
+
+REFERENCE            emp_defused_enemy
+LANG_ENGLISH         "Bomb disabled!"
+
+REFERENCE            emp_defused_desc
+LANG_ENGLISH         "You disabled the enemy bomb!"
+
+REFERENCE            emp_defused
+LANG_ENGLISH         "Disabled the bomb!"
+
+REFERENCE            eliminated
+LANG_ENGLISH         "Eliminated!"
+
+REFERENCE            eight_kill_short
+LANG_ENGLISH         "8x Multi-Kill"
+
+REFERENCE            earned_unlock_desc
+LANG_ENGLISH         "You earned a Squad Point"
+
+REFERENCE            earned_unlock
+LANG_ENGLISH         "Unlock Token!"
+
+REFERENCE            dz_secured
+LANG_ENGLISH         "Drop zone secured"
+
+REFERENCE            dropped_juggernaut
+LANG_ENGLISH         "Dropped Juggernaut!"
+
+REFERENCE            dropped_gun_rank
+LANG_ENGLISH         "Gun Demotion!"
+
+REFERENCE            dropped_enemy_gun_rank
+LANG_ENGLISH         "Knifed!"
+
+REFERENCE            downed_player
+LANG_ENGLISH         "Downed"
+
+REFERENCE            doublekill_desc
+LANG_ENGLISH         "You got two kills in a short time."
+
+REFERENCE            doublekill
+LANG_ENGLISH         "Double Kill"
+
+REFERENCE            double_xp
+LANG_ENGLISH         "Double XP"
+
+REFERENCE            double_weapon_xp
+LANG_ENGLISH         "Double Weapon XP"
+
+REFERENCE            double_mission_xp
+LANG_ENGLISH         "Double Mission Team XP"
+
+REFERENCE            double_kill_short
+LANG_ENGLISH         "Double Kill"
+
+REFERENCE            double_keys
+LANG_ENGLISH         "Double Keys"
+
+REFERENCE            double_battle_xp
+LANG_ENGLISH         "Double Battle Pass XP"
+
+REFERENCE            disabled_vehicle_medium
+LANG_ENGLISH         "Disabled Vehicle!"
+
+REFERENCE            disabled_vehicle_light
+LANG_ENGLISH         "Disabled Vehicle!"
+
+REFERENCE            disabled_vehicle_heavy
+LANG_ENGLISH         "Disabled Vehicle!"
+
+REFERENCE            directional_uav_assist
+LANG_ENGLISH         "Advanced UAV assist"
+
+REFERENCE            direct_hit_launcher
+LANG_ENGLISH         "Direct Hit"
+
+REFERENCE            direct_hit
+LANG_ENGLISH         "Direct Hit"
+
+REFERENCE            destroyed_vehicle_medium
+LANG_ENGLISH         "Destroyed Vehicle!"
+
+REFERENCE            destroyed_vehicle_light
+LANG_ENGLISH         "Destroyed Vehicle!"
+
+REFERENCE            destroyed_vehicle_heavy
+LANG_ENGLISH         "Destroyed Vehicle!"
+
+REFERENCE            destroyed_uplink
+LANG_ENGLISH         "Destroyed SAT COM!"
+
+REFERENCE            destroyed_uav
+LANG_ENGLISH         "Destroyed UAV!"
+
+REFERENCE            destroyed_toma_strike
+LANG_ENGLISH         "Destroyed Cluster Strike!"
+
+REFERENCE            destroyed_tac_insert
+LANG_ENGLISH         "Destroyed Tactical Insertion"
+
+REFERENCE            destroyed_support_box
+LANG_ENGLISH         "Destroyed Munitions Box!"
+
+REFERENCE            destroyed_squad_mate
+LANG_ENGLISH         "Killed Squad Member!"
+
+REFERENCE            destroyed_sentry_gun
+LANG_ENGLISH         "Destroyed Sentry Gun!"
+
+REFERENCE            destroyed_scrambler_drone
+LANG_ENGLISH         "Destroyed Counter UAV!"
+
+REFERENCE            destroyed_radar_drone
+LANG_ENGLISH         "Destroyed Personal Radar!"
+
+REFERENCE            destroyed_pulse_dart
+LANG_ENGLISH         "Destroyed Pulse Dart"
+
+REFERENCE            destroyed_pac_sentry
+LANG_ENGLISH         "Destroyed Wheelson!"
+
+REFERENCE            destroyed_objective
+LANG_ENGLISH         "Destroyed Objective!"
+
+REFERENCE            destroyed_multi_airstrike
+LANG_ENGLISH         "Destroyed Multi Airstrike!"
+
+REFERENCE            destroyed_manual_turret
+LANG_ENGLISH         "Destroyed Shield Turret!"
+
+REFERENCE            destroyed_juggernaut
+LANG_ENGLISH         "Killed Juggernaut!"
+
+REFERENCE            destroyed_jackal
+LANG_ENGLISH         "Destroyed Warden!"
+
+REFERENCE            destroyed_insertion
+LANG_ENGLISH         "Blocked your TI!"
+
+REFERENCE            destroyed_hq
+LANG_ENGLISH         "Destroyed HQ!"
+
+REFERENCE            destroyed_hover_jet
+LANG_ENGLISH         "Destroyed VTOL Jet!"
+
+REFERENCE            destroyed_fuel_airstrike
+LANG_ENGLISH         "Destroyed Fuel Bomb Airstrike!"
+
+REFERENCE            destroyed_equipment
+LANG_ENGLISH         "Destroyed Equipment"
+
+REFERENCE            destroyed_emp
+LANG_ENGLISH         "Destroyed EMP!"
+
+REFERENCE            destroyed_directional_uav
+LANG_ENGLISH         "Destroyed Advanced UAV!"
+
+REFERENCE            destroyed_cyberbombsite
+LANG_ENGLISH         "Destroyed Data Center!"
+
+REFERENCE            destroyed_cruise_predator
+LANG_ENGLISH         "Destroyed Cruise Missile!"
+
+REFERENCE            destroyed_counter_uav
+LANG_ENGLISH         "Destroyed Counter UAV!"
+
+REFERENCE            destroyed_chopper_support
+LANG_ENGLISH         "Destroyed Support Helo!"
+
+REFERENCE            destroyed_chopper_gunner
+LANG_ENGLISH         "Destroyed Chopper Gunner!"
+
+REFERENCE            destroyed_bradley
+LANG_ENGLISH         "Destroyed Infantry Assault Vehicle!"
+
+REFERENCE            destroyed_airdrop
+LANG_ENGLISH         "Destroyed Care Package!"
+
+REFERENCE            destroyed_ac130
+LANG_ENGLISH         "Destroyed Gunship!"
+
+REFERENCE            deserted
+LANG_ENGLISH         "Ran Away!"
+
+REFERENCE            desc_captured_nuke
+LANG_ENGLISH         "You've captured the nuke."
+
+REFERENCE            denied_kill
+LANG_ENGLISH         "Denied Kill!"
+
+REFERENCE            denied_desc
+LANG_ENGLISH         "You destroyed an enemy tactical insertion!"
+
+REFERENCE            denied
+LANG_ENGLISH         "Denied!"
+
+REFERENCE            defuse_desc
+LANG_ENGLISH         "You defused the bomb."
+
+REFERENCE            defuse
+LANG_ENGLISH         "Hero"
+
+REFERENCE            defender_desc
+LANG_ENGLISH         "You've rescued a team-mate."
+
+REFERENCE            defender
+LANG_ENGLISH         "Rescuer"
+
+REFERENCE            defend_desc
+LANG_ENGLISH         "You defended the objective."
+
+REFERENCE            defend
+LANG_ENGLISH         "Defense"
+
+REFERENCE            defcon_two
+LANG_ENGLISH         "NUCLEAR THREAT SEVERE!!"
+
+REFERENCE            defcon_three
+LANG_ENGLISH         "NUCLEAR THREAT ELEVATED!!"
+
+REFERENCE            defcon_points
+LANG_ENGLISH         "Defcon"
+
+REFERENCE            defcon_one
+LANG_ENGLISH         "NUCLEAR THREAT CRITICAL!!"
+
+REFERENCE            defcon_four
+LANG_ENGLISH         "NUCLEAR THREAT RISING!!"
+
+REFERENCE            defcon
+LANG_ENGLISH         "DEFCON &&1"
+
+REFERENCE            cranked
+LANG_ENGLISH         "Cranked!"
+
+REFERENCE            counter_uav_assist
+LANG_ENGLISH         "Counter UAV assist"
+
+REFERENCE            copied
+LANG_ENGLISH         "Copied class!"
+
+REFERENCE            cop_target
+LANG_ENGLISH         "Prepare to assault the outpost."
+
+REFERENCE            cop_planted
+LANG_ENGLISH         "Bomb planted!"
+
+REFERENCE            cop_hold_friendly
+LANG_ENGLISH         "Hold the outpost to secure the area."
+
+REFERENCE            cop_hold_enemy
+LANG_ENGLISH         "The enemy controls the outpost, stop them."
+
+REFERENCE            cop_defused
+LANG_ENGLISH         "Bomb defused!"
+
+REFERENCE            cop_defend
+LANG_ENGLISH         "Defend the outpost, stop the enemy from planting the bomb."
+
+REFERENCE            cop_captured_friendly
+LANG_ENGLISH         "Outpost Captured, push forward."
+
+REFERENCE            cop_captured_enemy
+LANG_ENGLISH         "Outpost Lost, fall back."
+
+REFERENCE            cop_attack
+LANG_ENGLISH         "Plant the bomb to destroy the enemy outpost."
+
+REFERENCE            cop_activate
+LANG_ENGLISH         "Capture the outpost."
+
+REFERENCE            contract_start
+LANG_ENGLISH         "Contract Started"
+
+REFERENCE            contract_end
+LANG_ENGLISH         "Contract Complete"
+
+REFERENCE            contract_complete_team_3_desc
+LANG_ENGLISH         "Wraith Contract"
+
+REFERENCE            contract_complete_team_2_desc
+LANG_ENGLISH         "Sabre Team Seven Contract"
+
+REFERENCE            contract_complete_team_1_desc
+LANG_ENGLISH         "Orion Initiative Contract"
+
+REFERENCE            contract_complete_team_0_desc
+LANG_ENGLISH         "JTF Wolverines Contract"
+
+REFERENCE            contract_complete_joint_ops_desc
+LANG_ENGLISH         "Joint Ops Contract"
+
+REFERENCE            contract_complete
+LANG_ENGLISH         "Contract Complete"
+
+REFERENCE            comeback_desc
+LANG_ENGLISH         "You've recovered from a streak of deaths."
+
+REFERENCE            comeback
+LANG_ENGLISH         "Comeback"
+
+REFERENCE            collected_bounty
+LANG_ENGLISH         "Collected Bounty!"
+
+REFERENCE            civilian_killed
+LANG_ENGLISH         "Civilian killed"
+
+REFERENCE            chainkill_desc
+LANG_ENGLISH         "You got nine+ kills in a short time."
+
+REFERENCE            chainkill
+LANG_ENGLISH         "Kill Chain"
+
+REFERENCE            cash_banked
+LANG_ENGLISH         "Cash Secured"
+
+REFERENCE            carrier_kill
+LANG_ENGLISH         "Carrier Kill"
+
+REFERENCE            captured_nuke
+LANG_ENGLISH         "Nuke Captured!"
+
+REFERENCE            captured_hq
+LANG_ENGLISH         "Captured HQ!"
+
+REFERENCE            capture_neutral_b
+LANG_ENGLISH         "Neutral B Position Secure"
+
+REFERENCE            capture_neutral
+LANG_ENGLISH         "Neutral Position Secure"
+
+REFERENCE            capture_kill
+LANG_ENGLISH         "Capture Kill"
+
+REFERENCE            capture_desc
+LANG_ENGLISH         "You've taken an objective."
+
+REFERENCE            capture
+LANG_ENGLISH         "Capture"
+
+REFERENCE            buzzkill_desc
+LANG_ENGLISH         "Stopped enemy short of a killstreak."
+
+REFERENCE            buzzkill
+LANG_ENGLISH         "Buzzkill"
+
+REFERENCE            buddy_boost
+LANG_ENGLISH         "Boosted!"
+
+REFERENCE            brjugg_welcome_desc
+LANG_ENGLISH         "Fight over Juggernaut crates and be the last team standing."
+
+REFERENCE            brjugg_welcome
+LANG_ENGLISH         "BR Juggernaut"
+
+REFERENCE            breaker
+LANG_ENGLISH         "Hill Breaker"
+
+REFERENCE            breach
+LANG_ENGLISH         "Breach!"
+
+REFERENCE            br_welcome_splash_title
+LANG_ENGLISH         "Welcome To Warzone"
+
+REFERENCE            br_welcome_splash_desc
+LANG_ENGLISH         "Win the game with your squad or alone by staying alive"
+
+REFERENCE            br_wait_for_extract_heli
+LANG_ENGLISH         "Please wait for the helicopter"
+
+REFERENCE            br_vehicle_purchased
+LANG_ENGLISH         "Vehicle Purchased"
+
+REFERENCE            br_teammate_revived
+LANG_ENGLISH         "Teammate revived"
+
+REFERENCE            br_teammate_down
+LANG_ENGLISH         "Teammate down"
+
+REFERENCE            br_teammate_dead
+LANG_ENGLISH         "Teammate dead"
+
+REFERENCE            br_squadmate_redeployed
+LANG_ENGLISH         "Squadmate redeployed"
+
+REFERENCE            br_special_item_purchased
+LANG_ENGLISH         "Special Item Purchased"
+
+REFERENCE            br_spawn_match
+LANG_ENGLISH         "Spawned into the match"
+
+REFERENCE            br_self_revive_token_pickup
+LANG_ENGLISH         "Self-Revive Kit Acquired"
+
+REFERENCE            br_second_wind
+LANG_ENGLISH         "Revived with Second Wind"
+
+REFERENCE            br_score_cacheopen
+LANG_ENGLISH         "Cache Opened"
+
+REFERENCE            br_satellite_truck_active
+LANG_ENGLISH         "Satellite truck scanning the area"
+
+REFERENCE            br_sales_event_selective_desc
+LANG_ENGLISH         "Select items on sale at Buy Stations"
+
+REFERENCE            br_sales_event_all_desc
+LANG_ENGLISH         "All items on sale at Buy Stations"
+
+REFERENCE            br_sales_event
+LANG_ENGLISH         "Sales Event"
+
+REFERENCE            br_respawn_token_pickup
+LANG_ENGLISH         "Redeploy Token Acquired"
+
+REFERENCE            br_respawn_token_disabled_desc
+LANG_ENGLISH         "You can no longer use redeploy tokens."
+
+REFERENCE            br_respawn_token_disabled
+LANG_ENGLISH         "Redeploy Token Disabled"
+
+REFERENCE            br_respawn_start
+LANG_ENGLISH         "Find an ambulance!"
+
+REFERENCE            br_redeployment_done_desc
+LANG_ENGLISH         "All deaths final"
+
+REFERENCE            br_redeployment_done
+LANG_ENGLISH         "Redeployment Unavailable"
+
+REFERENCE            br_ready_jump_c130
+LANG_ENGLISH         "Ready to jump c130"
+
+REFERENCE            br_prematch_welcome_splash_title
+LANG_ENGLISH         "Welcome To Pre-Match"
+
+REFERENCE            br_prematch_welcome_splash_dmz_desc
+LANG_ENGLISH         "Shoot other players without death penalty with your selected loadout"
+
+REFERENCE            br_prematch_welcome_splash_desc
+LANG_ENGLISH         "Shoot other players without death penalty with your randomly assigned loadout"
+
+REFERENCE            br_plunder_first_pickup
+LANG_ENGLISH         "Spend Cash At Buy Stations"
+
+REFERENCE            br_plunder_extraction_started_them
+LANG_ENGLISH         "Enemy Called In Deposit Helicopter"
+
+REFERENCE            br_plunder_extraction_started_alt
+LANG_ENGLISH         "Deposit Helicopter Incoming"
+
+REFERENCE            br_plunder_extraction_started
+LANG_ENGLISH         "Cash Deposit Helicopter Incoming"
+
+REFERENCE            br_plunder_extraction_failed_alt
+LANG_ENGLISH         "Deposit Helicopter Destroyed"
+
+REFERENCE            br_plunder_extraction_failed
+LANG_ENGLISH         "Cash Deposit Helicopter Destroyed"
+
+REFERENCE            br_plunder_banked
+LANG_ENGLISH         "Cash deposited successfully"
+
+REFERENCE            br_plate_pouch_pickup
+LANG_ENGLISH         "Armor Satchel Acquired"
+
+REFERENCE            br_pe_jailbreak_redeploy_desc
+LANG_ENGLISH         "ALL OPERATORS REDEPLOYED TO THE AO"
+
+REFERENCE            br_pe_jailbreak_redeploy
+LANG_ENGLISH         "REDEPLOYING"
+
+REFERENCE            br_pe_jailbreak_incoming_desc
+LANG_ENGLISH         "ALL OPERATORS WILL REDEPLOY"
+
+REFERENCE            br_pe_jailbreak_incoming
+LANG_ENGLISH         "JAILBREAK IMMINENT"
+
+REFERENCE            br_pe_jailbreak_active_desc
+LANG_ENGLISH         "ALL OPERATORS REDEPLOYED TO THE AO"
+
+REFERENCE            br_pe_jailbreak_active
+LANG_ENGLISH         "JAILBREAK ACTIVE"
+
+REFERENCE            br_pe_firesale_start
+LANG_ENGLISH         "FIRE SALE STARTED"
+
+REFERENCE            br_pe_firesale_end
+LANG_ENGLISH         "FIRE SALE OVER"
+
+REFERENCE            br_pe_firesale_desc
+LANG_ENGLISH         "Visit Buy Stations for Discounts"
+
+REFERENCE            br_pe_choppers_start
+LANG_ENGLISH         "SUPPLY CHOPPERS INCOMING"
+
+REFERENCE            br_pe_choppers_desc
+LANG_ENGLISH         "SHOOT DOWN SUPPLY CHOPPERS"
+
+REFERENCE            br_mobile_armory_active
+LANG_ENGLISH         "Loadout ready at the mobile armory"
+
+REFERENCE            br_mission_your_squad_is_being_hunted
+LANG_ENGLISH         "Your Squad is being Hunted"
+
+REFERENCE            br_mission_you_are_being_tracked
+LANG_ENGLISH         "You are being Tracked"
+
+REFERENCE            br_mission_vip_taken_out_noplunder
+LANG_ENGLISH         "Bonus granted for killing Enemy Most Wanted Target"
+
+REFERENCE            br_mission_vip_taken_out
+LANG_ENGLISH         "Bonus granted for killing Enemy Most Wanted Target
+^.Reward: &&1"
+
+REFERENCE            br_mission_vip_mission_in_progress
+LANG_ENGLISH         "Most Wanted Contract in Progress"
+
+REFERENCE            br_mission_vip_mission_complete
+LANG_ENGLISH         "Most Wanted Contract Complete!"
+
+REFERENCE            br_mission_vip_mission_accepted
+LANG_ENGLISH         "Most Wanted Contract Accepted"
+
+REFERENCE            br_mission_vip_lost
+LANG_ENGLISH         "Most Wanted Target Lost!"
+
+REFERENCE            br_mission_vip_is_dead
+LANG_ENGLISH         "The Most Wanted Target is Dead"
+
+REFERENCE            br_mission_vip_in_your_area
+LANG_ENGLISH         "Enemy Most Wanted Target Appeared!"
+
+REFERENCE            br_mission_vip_eliminated
+LANG_ENGLISH         "Most Wanted Target Eliminated"
+
+REFERENCE            br_mission_vip_complete
+LANG_ENGLISH         "Most Wanted Complete!"
+
+REFERENCE            br_mission_timer_expired
+LANG_ENGLISH         "Contract Timer Expired"
+
+REFERENCE            br_mission_timedrun_sale_reached
+LANG_ENGLISH         "Sale Reached in Time"
+
+REFERENCE            br_mission_timedrun_sale_available
+LANG_ENGLISH         "Fire Sale Available for Limited Time"
+
+REFERENCE            br_mission_timedrun_point_lost_to_circle
+LANG_ENGLISH         "Objective Lost to the Circle"
+
+REFERENCE            br_mission_timedrun_mission_accepted
+LANG_ENGLISH         "Seize Contract Accepted"
+
+REFERENCE            br_mission_timedrun_in_progress
+LANG_ENGLISH         "Seize Contract in Progress"
+
+REFERENCE            br_mission_timedrun_expired
+LANG_ENGLISH         "Seize Expired"
+
+REFERENCE            br_mission_timedrun_complete
+LANG_ENGLISH         "Seize Contract Complete!"
+
+REFERENCE            br_mission_the_vip_survived_noplunder
+LANG_ENGLISH         "The Most Wanted Target Survived"
+
+REFERENCE            br_mission_the_vip_survived
+LANG_ENGLISH         "The Most Wanted Target Survived
+^.Reward: &&1"
+
+REFERENCE            br_mission_the_targets_have_escaped
+LANG_ENGLISH         "The Targets have escaped"
+
+REFERENCE            br_mission_survive_or_eliminate_your_hunters
+LANG_ENGLISH         "Survive or Eliminate your Hunters"
+
+REFERENCE            br_mission_scavenger_point_lost_to_circle
+LANG_ENGLISH         "The Scavenger Area Exited the Mission Area"
+
+REFERENCE            br_mission_scavenger_mission_in_progress
+LANG_ENGLISH         "Scavenger Contract in Progress"
+
+REFERENCE            br_mission_scavenger_mission_accepted
+LANG_ENGLISH         "Scavenger Contract Accepted"
+
+REFERENCE            br_mission_scavenger_expired
+LANG_ENGLISH         "Scavenger Expired!"
+
+REFERENCE            br_mission_scavenger_complete
+LANG_ENGLISH         "Scavenger Complete!"
+
+REFERENCE            br_mission_scavenger_boxes_collected_noplunder
+LANG_ENGLISH         "Supply Boxes Collected"
+
+REFERENCE            br_mission_scavenger_boxes_collected
+LANG_ENGLISH         "Supply Boxes Collected
+^.Reward: $&&1"
+
+REFERENCE            br_mission_reward_tier_up_no_num
+LANG_ENGLISH         "Reward Tier Increased"
+
+REFERENCE            br_mission_reward_tier_up
+LANG_ENGLISH         "Reward Tier Increased: &&1"
+
+REFERENCE            br_mission_protect_yourself_noplunder
+LANG_ENGLISH         "Protect Yourself"
+
+REFERENCE            br_mission_protect_yourself
+LANG_ENGLISH         "Protect Yourself
+^.Reward: &&1"
+
+REFERENCE            br_mission_protect_the_vip_noplunder
+LANG_ENGLISH         "Protect The Most Wanted Target"
+
+REFERENCE            br_mission_protect_the_vip
+LANG_ENGLISH         "Protect The Most Wanted Target
+^.Reward: &&1"
+
+REFERENCE            br_mission_proceed_to_next_location
+LANG_ENGLISH         "Proceed to next Location"
+
+REFERENCE            br_mission_objective_located
+LANG_ENGLISH         "Objective Located"
+
+REFERENCE            br_mission_new_target_acquired
+LANG_ENGLISH         "New Target Acquired"
+
+REFERENCE            br_mission_mission_failed
+LANG_ENGLISH         "Contract Failed"
+
+REFERENCE            br_mission_mission_complete
+LANG_ENGLISH         "Contract Complete!"
+
+REFERENCE            br_mission_locate_and_eliminate_noplunder
+LANG_ENGLISH         "Eliminate Target at Location"
+
+REFERENCE            br_mission_locate_and_eliminate
+LANG_ENGLISH         "Eliminate Target at Location
+Bounty : ^.$&&1"
+
+REFERENCE            br_mission_hunters_have_lost_your_signal
+LANG_ENGLISH         "Hunters have lost your signal"
+
+REFERENCE            br_mission_hunters_have_been_eliminated_noplunder
+LANG_ENGLISH         "Hunters have been Eliminated"
+
+REFERENCE            br_mission_hunters_have_been_eliminated
+LANG_ENGLISH         "Hunters have been Eliminated
+^.Reward: $&&1"
+
+REFERENCE            br_mission_hunters_are_tracking
+LANG_ENGLISH         "Hunters are Tracking: ^5[tempName]"
+
+REFERENCE            br_mission_eliminate_vip_noplunder
+LANG_ENGLISH         "Eliminate the Most Wanted Target to obtain Payout"
+
+REFERENCE            br_mission_eliminate_vip
+LANG_ENGLISH         "Eliminate the Most Wanted Target to obtain Payout
+^.Reward: $&&1"
+
+REFERENCE            br_mission_domination_reward1
+LANG_ENGLISH         "^.Circle Preview is Now Active^7"
+
+REFERENCE            br_mission_domination_point_lost_to_circle
+LANG_ENGLISH         "The Recon Point Exited the Mission Area"
+
+REFERENCE            br_mission_domination_point_lost
+LANG_ENGLISH         "Recon Point Captured by Enemy"
+
+REFERENCE            br_mission_domination_point_captured_noplunder
+LANG_ENGLISH         "Recon Point Captured"
+
+REFERENCE            br_mission_domination_point_captured
+LANG_ENGLISH         "Recon Point Captured
+^.Reward: $&&1"
+
+REFERENCE            br_mission_domination_mission_in_progress
+LANG_ENGLISH         "Recon Contract in Progress"
+
+REFERENCE            br_mission_domination_mission_accepted
+LANG_ENGLISH         "Recon Contract Accepted"
+
+REFERENCE            br_mission_domination_expired
+LANG_ENGLISH         "Recon Expired!"
+
+REFERENCE            br_mission_domination_complete
+LANG_ENGLISH         "Recon Complete!"
+
+REFERENCE            br_mission_domination_alert
+LANG_ENGLISH         "Recon Device Activated Nearby"
+
+REFERENCE            br_mission_capture_the_objective_noplunder
+LANG_ENGLISH         "Capture the Objective"
+
+REFERENCE            br_mission_capture_the_objective
+LANG_ENGLISH         "Capture the Objective
+^.Reward: $&&1"
+
+REFERENCE            br_mission_blueprint_extract_spawned
+LANG_ENGLISH         "Contraband Contract Spawned"
+
+REFERENCE            br_mission_blueprint_extract_mission_in_progress
+LANG_ENGLISH         "Contraband Contract in Progress"
+
+REFERENCE            br_mission_blueprint_extract_mission_accepted
+LANG_ENGLISH         "Contraband Contract Accepted"
+
+REFERENCE            br_mission_blueprint_extract_expired
+LANG_ENGLISH         "Contraband Contract Expired!"
+
+REFERENCE            br_mission_blueprint_extract_complete
+LANG_ENGLISH         "Contraband Contract Complete!"
+
+REFERENCE            br_mission_assassination_target_vanished
+LANG_ENGLISH         "Bounty Poached!"
+
+REFERENCE            br_mission_assassination_remaining_x
+LANG_ENGLISH         "&&1 Bounties Remaining!"
+
+REFERENCE            br_mission_assassination_remaining_1
+LANG_ENGLISH         "1 Bounty Remaining!"
+
+REFERENCE            br_mission_assassination_expired
+LANG_ENGLISH         "Bounty Expired!"
+
+REFERENCE            br_mission_assassination_complete
+LANG_ENGLISH         "Bounty Complete!"
+
+REFERENCE            br_mission_assassination_averted
+LANG_ENGLISH         "Bounty Averted"
+
+REFERENCE            br_mission_assassination_4_complete
+LANG_ENGLISH         "4 Bounties Complete!"
+
+REFERENCE            br_mission_assassination_3_complete
+LANG_ENGLISH         "3 Bounties Complete!"
+
+REFERENCE            br_mission_assassination_2_complete
+LANG_ENGLISH         "2 Bounties Complete!"
+
+REFERENCE            br_mission_assassination_1_complete
+LANG_ENGLISH         "1 Bounty Complete!"
+
+REFERENCE            br_mission_assassin_mission_in_progress
+LANG_ENGLISH         "Bounty Contract in Progress"
+
+REFERENCE            br_mission_assassin_mission_accepted
+LANG_ENGLISH         "Bounty Contract Accepted"
+
+REFERENCE            br_mission_all_targets_have_been_eliminated_noplunder
+LANG_ENGLISH         "All Targets Eliminated"
+
+REFERENCE            br_mission_all_targets_have_been_eliminated
+LANG_ENGLISH         "All Targets Eliminated
+^.Reward: $&&1^7"
+
+REFERENCE            br_lootchopper_takedown
+LANG_ENGLISH         "Take it down!"
+
+REFERENCE            br_lootchopper_incoming_nearby
+LANG_ENGLISH         "Attack Chopper Nearby!"
+
+REFERENCE            br_lootchopper_incoming
+LANG_ENGLISH         "Attack Chopper Incoming!"
+
+REFERENCE            br_lootchopper_down_assist
+LANG_ENGLISH         "Chopper Down Assist"
+
+REFERENCE            br_lootchopper_down
+LANG_ENGLISH         "Chopper Down"
+
+REFERENCE            br_loadout_purchased_desc
+LANG_ENGLISH         "New loadout equipped."
+
+REFERENCE            br_loadout_purchased
+LANG_ENGLISH         "Loadout Purchased"
+
+REFERENCE            br_kiosks_disabled
+LANG_ENGLISH         "Buy Stations Closed"
+
+REFERENCE            br_killstreak_purchased_desc
+LANG_ENGLISH         "Killstreak activated."
+
+REFERENCE            br_killstreak_purchased
+LANG_ENGLISH         "Killstreak Purchased"
+
+REFERENCE            br_juggdrop_incoming
+LANG_ENGLISH         "Juggernaut Armor Drops Incoming"
+
+REFERENCE            br_investigate_extract_heli_alt
+LANG_ENGLISH         "Enemy squad called a Deposit Helicopter in your AO"
+
+REFERENCE            br_investigate_extract_heli
+LANG_ENGLISH         "Enemy squad called a Cash Deposit Helicopter in your AO"
+
+REFERENCE            br_gulag_winner_redeploy_mogulag_desc
+LANG_ENGLISH         "Get back in the fight!"
+
+REFERENCE            br_gulag_winner_redeploy_desc
+LANG_ENGLISH         "No More Second Chances"
+
+REFERENCE            br_gulag_winner
+LANG_ENGLISH         "Gulag Winner!"
+
+REFERENCE            br_gulag_welcome_desc
+LANG_ENGLISH         "Win your ticket to respawn"
+
+REFERENCE            br_gulag_welcome
+LANG_ENGLISH         "Gulag prison camp"
+
+REFERENCE            br_gulag_team_out
+LANG_ENGLISH         "Teammate respawning from Gulag"
+
+REFERENCE            br_gulag_team_in
+LANG_ENGLISH         "Teammate in Gulag"
+
+REFERENCE            br_gulag_start_desc
+LANG_ENGLISH         "Eliminate the enemy to respawn. "
+
+REFERENCE            br_gulag_start
+LANG_ENGLISH         "Gulag fight"
+
+REFERENCE            br_gulag_done_desc
+LANG_ENGLISH         "You will no longer go to Gulag."
+
+REFERENCE            br_gulag_done
+LANG_ENGLISH         "Gulag is closed"
+
+REFERENCE            br_gulag_bought_back_desc
+LANG_ENGLISH         "&&1 Brought You Back"
+
+REFERENCE            br_fulton_device_placed
+LANG_ENGLISH         "Cash Deposit Balloon placed"
+
+REFERENCE            br_field_upgrade_purchased
+LANG_ENGLISH         "Field Upgrade Purchased"
+
+REFERENCE            br_extract_heli_destroyed
+LANG_ENGLISH         "Cash Deposit Helicopter was destroyed"
+
+REFERENCE            br_enemy_eliminated
+LANG_ENGLISH         "Enemy eliminated"
+
+REFERENCE            br_enemy_downed
+LANG_ENGLISH         "Enemy downed"
+
+REFERENCE            br_c130airdrop_incoming
+LANG_ENGLISH         "Airplane Cash Drop Incoming"
+
+REFERENCE            br_bank_alarm_active
+LANG_ENGLISH         "Bank alarm going off in your area"
+
+REFERENCE            br_balloon_successfully_away
+LANG_ENGLISH         "Cash Deposit Balloon away"
+
+REFERENCE            br_balloon_shot_down
+LANG_ENGLISH         "Balloon was shot down"
+
+REFERENCE            br_balloon_full
+LANG_ENGLISH         "Balloon is full of cash!"
+
+REFERENCE            br_airdrop_landed
+LANG_ENGLISH         "Loadout Drop Landed"
+
+REFERENCE            br_airdrop_incoming
+LANG_ENGLISH         "Loadout Drop Incoming
+"
+
+REFERENCE            bounty_new
+LANG_ENGLISH         "New Bounty"
+
+REFERENCE            bounty_kill
+LANG_ENGLISH         "Bounty Kill"
+
+REFERENCE            bounty_increased
+LANG_ENGLISH         "Bounty Increased"
+
+REFERENCE            bounty_collected
+LANG_ENGLISH         "Bounty Collected"
+
+REFERENCE            bonus
+LANG_ENGLISH         "Bonus Kill!"
+
+REFERENCE            bombsite_detonate
+LANG_ENGLISH         "Destruction"
+
+REFERENCE            bomb_taken
+LANG_ENGLISH         "Took Bomb!"
+
+REFERENCE            bomb_planted
+LANG_ENGLISH         "Planted Bomb!"
+
+REFERENCE            bomb_pickup_desc
+LANG_ENGLISH         "Plant the bomb at the enemy bombsites."
+
+REFERENCE            bomb_pickup
+LANG_ENGLISH         "Bomb acquired"
+
+REFERENCE            bomb_dropped
+LANG_ENGLISH         "Dropped Bomb!"
+
+REFERENCE            bomb_defused
+LANG_ENGLISH         "Defused Bomb!"
+
+REFERENCE            bm_your_squad_wiped_desc
+LANG_ENGLISH         "New Drop Zone Authorized"
+
+REFERENCE            bm_your_squad_wiped
+LANG_ENGLISH         "Your Squad Wiped!!"
+
+REFERENCE            bm_vips_marked
+LANG_ENGLISH         "Top Earners Marked. Go get them!!"
+
+REFERENCE            bm_top_team_regained_desc
+LANG_ENGLISH         "You've regained the lead!"
+
+REFERENCE            bm_top_team_regained
+LANG_ENGLISH         "BACK ON TOP"
+
+REFERENCE            bm_top_team_lost_desc
+LANG_ENGLISH         "You've lost the lead!"
+
+REFERENCE            bm_top_team_lost
+LANG_ENGLISH         "LEAD LOST"
+
+REFERENCE            bm_top_team_desc
+LANG_ENGLISH         "Your team is in the lead!"
+
+REFERENCE            bm_top_team
+LANG_ENGLISH         "TOP TEAM!!"
+
+REFERENCE            bm_top_5_desc
+LANG_ENGLISH         "Your team is in the top 5!"
+
+REFERENCE            bm_top_5
+LANG_ENGLISH         "TOP 5!"
+
+REFERENCE            bm_top_10_desc
+LANG_ENGLISH         "Your team is in the top 10!"
+
+REFERENCE            bm_top_10
+LANG_ENGLISH         "TOP 10"
+
+REFERENCE            bm_player_unmarked_desc
+LANG_ENGLISH         "You are no longer being marked."
+
+REFERENCE            bm_player_unmarked
+LANG_ENGLISH         "MARKED REMOVED"
+
+REFERENCE            bm_player_marked_desc
+LANG_ENGLISH         "You are a top earner. You have been marked."
+
+REFERENCE            bm_player_marked
+LANG_ENGLISH         "YOU'RE MARKED!"
+
+REFERENCE            bm_overtime_start_us_desc
+LANG_ENGLISH         "We hit $1 Million! Great job squad, but it's not over yet!"
+
+REFERENCE            bm_overtime_start_us
+LANG_ENGLISH         "Overtime!"
+
+REFERENCE            bm_overtime_start_them_desc
+LANG_ENGLISH         "Enemy squad hit $1 Million, but it's not too late to steal the win!"
+
+REFERENCE            bm_overtime_start_them
+LANG_ENGLISH         "Overtime!"
+
+REFERENCE            bm_overtime_double_cash_perc
+LANG_ENGLISH         "Overtime: +&&1% Cash!"
+
+REFERENCE            bm_overtime_double_cash_num
+LANG_ENGLISH         "Overtime: &&1x Cash!"
+
+REFERENCE            bm_overtime_double_cash_desc
+LANG_ENGLISH         "All cash and payouts are increased"
+
+REFERENCE            bm_overtime_double_cash_2x
+LANG_ENGLISH         "Overtime: 2x Cash!"
+
+REFERENCE            bm_overtime_double_cash
+LANG_ENGLISH         "Overtime: Double Cash!"
+
+REFERENCE            bm_out_of_top_10_desc
+LANG_ENGLISH         "You've fallen behind. Your team is no longer in the top 10."
+
+REFERENCE            bm_out_of_top_10
+LANG_ENGLISH         "FALLING BEHIND"
+
+REFERENCE            bm_first_to_90_us_desc
+LANG_ENGLISH         "We are the first to reach 90% of the target."
+
+REFERENCE            bm_first_to_90_us
+LANG_ENGLISH         "WE'RE AT 90%"
+
+REFERENCE            bm_first_to_90_them_desc
+LANG_ENGLISH         "A team has reached 90% of the target."
+
+REFERENCE            bm_first_to_90_them
+LANG_ENGLISH         "TEAM AT 90%"
+
+REFERENCE            bm_first_to_75_us_desc
+LANG_ENGLISH         "We are the first to reach 75% of the target."
+
+REFERENCE            bm_first_to_75_us
+LANG_ENGLISH         "WE'RE AT 75%"
+
+REFERENCE            bm_first_to_75_them_desc
+LANG_ENGLISH         "A team has reached 75% of the target."
+
+REFERENCE            bm_first_to_75_them
+LANG_ENGLISH         "TEAM AT 75%"
+
+REFERENCE            bm_first_to_50_us_desc
+LANG_ENGLISH         "We are the first to reach 50% of the target."
+
+REFERENCE            bm_first_to_50_us
+LANG_ENGLISH         "WE'RE AT 50%"
+
+REFERENCE            bm_first_to_50_them_desc
+LANG_ENGLISH         "A team has reached 50% of the target."
+
+REFERENCE            bm_first_to_50_them
+LANG_ENGLISH         "TEAM AT 50%"
+
+REFERENCE            bm_extract_heli_start_desc
+LANG_ENGLISH         "Call in helicopters to deposit your cash!"
+
+REFERENCE            bm_extract_heli_start
+LANG_ENGLISH         "CASH DEPOSIT HELIPADS ACTIVE"
+
+REFERENCE            blueprint_unlock_header
+LANG_ENGLISH         "&&1 Blueprint Unlock"
+
+REFERENCE            blitz_score_team_desc
+LANG_ENGLISH         "Team entered the objective."
+
+REFERENCE            blitz_score_team
+LANG_ENGLISH         "Team Scored"
+
+REFERENCE            blitz_score_enemy_desc
+LANG_ENGLISH         "Enemy entered the objective."
+
+REFERENCE            blitz_score_enemy
+LANG_ENGLISH         "Enemy Scored"
+
+REFERENCE            blank
+LANG_ENGLISH         ""
+
+REFERENCE            blackhat_hack
+LANG_ENGLISH         "Hacked Equipment!"
+
+REFERENCE            beacon_bonus
+LANG_ENGLISH         "Beacon Bonus"
+
+REFERENCE            base_kill
+LANG_ENGLISH         "Base Kill"
+
+REFERENCE            banked_ten_tags
+LANG_ENGLISH         "Mega Bank!"
+
+REFERENCE            banked_tag_desc
+LANG_ENGLISH         "You scored by banking a tag!"
+
+REFERENCE            banked_tag
+LANG_ENGLISH         "Banked Tag!"
+
+REFERENCE            ball_carrier_kill
+LANG_ENGLISH         "Beatdown"
+
+REFERENCE            baited_kill
+LANG_ENGLISH         "BAITED"
+
+REFERENCE            avenger_desc
+LANG_ENGLISH         "You've avenged a team-mate."
+
+REFERENCE            avenger
+LANG_ENGLISH         "Avenger"
+
+REFERENCE            assistedsuicide_desc
+LANG_ENGLISH         "You have assisted the suicide of an enemy."
+
+REFERENCE            assistedsuicide
+LANG_ENGLISH         "Assisted Suicide"
+
+REFERENCE            assist_secured_position
+LANG_ENGLISH         "Capture Assist!"
+
+REFERENCE            assist_ping
+LANG_ENGLISH         "Ping Assist"
+
+REFERENCE            assist_marked
+LANG_ENGLISH         "Marked Assist"
+
+REFERENCE            assist_hardline
+LANG_ENGLISH         "Hardline Bonus"
+
+REFERENCE            assist_ffa
+LANG_ENGLISH         "Crossfire"
+
+REFERENCE            assist_decoy
+LANG_ENGLISH         "Decoy Assist"
+
+REFERENCE            assist_cranked
+LANG_ENGLISH         "Assist Time Bonus"
+
+REFERENCE            assist
+LANG_ENGLISH         "Assist"
+
+REFERENCE            assault_desc
+LANG_ENGLISH         "You killed a defender."
+
+REFERENCE            assault
+LANG_ENGLISH         "Offense"
+
+REFERENCE            arm_killstreak_incoming
+LANG_ENGLISH         "New Care Package Incoming"
+
+REFERENCE            arc_grenade_stuck
+LANG_ENGLISH         "Stuck you with a Arc Grenade"
+
+
+ENDMARKER

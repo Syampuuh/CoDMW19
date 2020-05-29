@@ -1,0 +1,363 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            away
+LANG_ENGLISH         "Away"
+
+REFERENCE            back_button
+LANG_ENGLISH         ""
+
+REFERENCE            back_caps
+LANG_ENGLISH         " BACK"
+
+REFERENCE            battlenet_auth_failed
+LANG_ENGLISH         "Authentication with Battle.net failed.  Application will close."
+
+REFERENCE            battlenet_connection_failed
+LANG_ENGLISH         "Unable to connect to Battle.net Services"
+
+REFERENCE            busy
+LANG_ENGLISH         "Busy"
+
+REFERENCE            cantjoinownsession
+LANG_ENGLISH         "Unable to join session - you are already a member of this session."
+
+REFERENCE            cantjoinsession
+LANG_ENGLISH         "Unable to join game session, the host cannot be joined or game play is paused."
+
+REFERENCE            cantjoinsession_cwl_match_in_progress
+LANG_ENGLISH         "Unable to join a CDL match in progress."
+
+REFERENCE            cantjoinsession_host_mm
+LANG_ENGLISH         "Unable to join - the host is currently matchmaking and not yet in a joinable game lobby"
+
+REFERENCE            cantjoinsession_host_paused
+LANG_ENGLISH         "Unable to join game session - the host is paused"
+
+REFERENCE            cantjoinsession_install
+LANG_ENGLISH         "Unable to join game session. Installation is still in progress."
+
+REFERENCE            cantjoinsession_maxparty_exceeded
+LANG_ENGLISH         "Unable to join session - the host's party is full"
+
+REFERENCE            cantjoinsession_playing_squads
+LANG_ENGLISH         "Unable to join game session - the player is playing Squads"
+
+REFERENCE            cantjoinsession_skills_mismatched
+LANG_ENGLISH         "Unable to join game session - the skill difference is too big"
+
+REFERENCE            changeprofile
+LANG_ENGLISH         " Change Profile"
+
+REFERENCE            changeprofile_button
+LANG_ENGLISH         ""
+
+REFERENCE            changeprofile_caps
+LANG_ENGLISH         " CHANGE PROFILE"
+
+REFERENCE            changeusers
+LANG_ENGLISH         " Change Users"
+
+REFERENCE            clansettings
+LANG_ENGLISH         "Clan Settings"
+
+REFERENCE            connecting_to_battlenet
+LANG_ENGLISH         "Connecting to Battle.net Services"
+
+REFERENCE            destroyparty
+LANG_ENGLISH         "End Party?"
+
+REFERENCE            download_fail
+LANG_ENGLISH         "Failed to complete download for online update."
+
+REFERENCE            editclaninfo
+LANG_ENGLISH         "Edit Clan Info"
+
+REFERENCE            endofmatch
+LANG_ENGLISH         "End of match"
+
+REFERENCE            externalmute
+LANG_ENGLISH         "Player has been externally muted through his gamercard or your privacy settings prevent any communications."
+
+REFERENCE            externalmute_title
+LANG_ENGLISH         "Can't toggle mute"
+
+REFERENCE            findgame
+LANG_ENGLISH         " find game"
+
+REFERENCE            findgamelobby
+LANG_ENGLISH         " Find Game Lobby"
+
+REFERENCE            friendslist
+LANG_ENGLISH         " friends"
+
+REFERENCE            friendslistonx
+LANG_ENGLISH         " friends"
+
+REFERENCE            gamebattle_not_in_match
+LANG_ENGLISH         "Unable to join MLG Game Battle Match. You are not authorized to join this MLG Game Battle."
+
+REFERENCE            host_joining
+LANG_ENGLISH         "Unable to join game, its host is connecting to us."
+
+REFERENCE            hostkickplayer
+LANG_ENGLISH         " Kick Player"
+
+REFERENCE            invalidpermissions
+LANG_ENGLISH         "The user &&1 does not have proper permissions for that operation"
+
+REFERENCE            invite
+LANG_ENGLISH         " invite friends"
+
+REFERENCE            invite_only
+LANG_ENGLISH         "Lobby is by Invitation Only"
+
+REFERENCE            join_full_game
+LANG_ENGLISH         "This player's game session is currently full."
+
+REFERENCE            join_on_blocked_user_confirm
+LANG_ENGLISH         "The player you are trying to join on is in your blocklist. Would you like to continue to join on them?"
+
+REFERENCE            joinsplitscreengame
+LANG_ENGLISH         " Join Game"
+
+REFERENCE            joinsplitscreengame_button
+LANG_ENGLISH         ""
+
+REFERENCE            joinsplitscreengame_caps
+LANG_ENGLISH         " JOIN GAME"
+
+REFERENCE            kick
+LANG_ENGLISH         "Kick"
+
+REFERENCE            kickplayer
+LANG_ENGLISH         "Kick &&1?"
+
+REFERENCE            kickplayerinlist
+LANG_ENGLISH         " KICK PLAYER"
+
+REFERENCE            lansuspend
+LANG_ENGLISH         "Connection to LAN game lost due to title suspend."
+
+REFERENCE            leaderboards
+LANG_ENGLISH         "Leaderboards"
+
+REFERENCE            leavelobby
+LANG_ENGLISH         "Leave Lobby?"
+
+REFERENCE            leavelobbyblockedplayer
+LANG_ENGLISH         "A player on your blocklist has joined the game. Would you like to exit the lobby?"
+
+REFERENCE            leaveparty
+LANG_ENGLISH         "Leave party?"
+
+REFERENCE            leavepartyandlobby
+LANG_ENGLISH         "Leave lobby and party?"
+
+REFERENCE            leavepartybutton
+LANG_ENGLISH         " Leave Party"
+
+REFERENCE            leavesplitscreengame
+LANG_ENGLISH         " Leave Game"
+
+REFERENCE            leavesplitscreengame_button
+LANG_ENGLISH         ""
+
+REFERENCE            leavesplitscreengame_caps
+LANG_ENGLISH         " LEAVE GAME"
+
+REFERENCE            liveerror
+LANG_ENGLISH         "Communication with the Activision servers has been interrupted."
+
+REFERENCE            lobby_connection_err
+LANG_ENGLISH         "Unable to connect to Activision Matchmaking (Error &&1)"
+
+REFERENCE            lobbyended
+LANG_ENGLISH         "Game lobby closed"
+
+REFERENCE            lobbygamercard
+LANG_ENGLISH         " View Player's Gamercard"
+
+REFERENCE            local_server
+LANG_ENGLISH         "Local Server"
+
+REFERENCE            loggedoff
+LANG_ENGLISH         "You were logged out of Xbox Live"
+
+REFERENCE            looking_to_play
+LANG_ENGLISH         "Online - Looking to Play"
+
+REFERENCE            looking_to_trade
+LANG_ENGLISH         "Online - Looking to Trade"
+
+REFERENCE            mpnotallowed
+LANG_ENGLISH         "The current profile is not allowed to play on Xbox Live."
+
+REFERENCE            mustlogin
+LANG_ENGLISH         "You must sign in before you can play Call of Duty??: Modern Warfare??."
+
+REFERENCE            netconnection
+LANG_ENGLISH         "You must have an active network connection to play Xbox Live matches."
+
+REFERENCE            noguestaccounts
+LANG_ENGLISH         "Guest accounts are not supported for online play in Call of Duty??: Modern Warfare??."
+
+REFERENCE            notsignedin
+LANG_ENGLISH         "Not signed in to a profile"
+
+REFERENCE            notsignedinlive
+LANG_ENGLISH         "Not signed in to an Xbox Live profile"
+
+REFERENCE            offline
+LANG_ENGLISH         "Offline"
+
+REFERENCE            online
+LANG_ENGLISH         "Online"
+
+REFERENCE            party_invite
+LANG_ENGLISH         "Live Party Invite Received"
+
+REFERENCE            party_invite_accept
+LANG_ENGLISH         "Accept Invite"
+
+REFERENCE            party_invite_accept_later
+LANG_ENGLISH         "Accept Later from Friends Menu"
+
+REFERENCE            party_invite_accept_now
+LANG_ENGLISH         "Accept Now"
+
+REFERENCE            partydetails
+LANG_ENGLISH         " party details"
+
+REFERENCE            partyended
+LANG_ENGLISH         "The party is no longer active"
+
+REFERENCE            player0
+LANG_ENGLISH         "Guest 1"
+
+REFERENCE            player1
+LANG_ENGLISH         "Guest 2"
+
+REFERENCE            player2
+LANG_ENGLISH         "Guest 3"
+
+REFERENCE            player3
+LANG_ENGLISH         "Guest 4"
+
+REFERENCE            player_mute
+LANG_ENGLISH         "Toggle Mute"
+
+REFERENCE            playlistisnew
+LANG_ENGLISH         "Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists."
+
+REFERENCE            playlistisold
+LANG_ENGLISH         "Your playlist data is older than the host's.  You must restart the game or reconnect in order to get the new playlist data."
+
+REFERENCE            playlistusercount
+LANG_ENGLISH         "&&1/&&2 Players in Playlists"
+
+REFERENCE            popup_connection
+LANG_ENGLISH         "Connecting to Online Services"
+
+REFERENCE            restrictedclan
+LANG_ENGLISH         "This server only allows players from certain clans to play here."
+
+REFERENCE            save_fail
+LANG_ENGLISH         "Failed to complete save device access for online update."
+
+REFERENCE            selectbutton
+LANG_ENGLISH         "Click me!"
+
+REFERENCE            selectofflineprofile_button
+LANG_ENGLISH         ""
+
+REFERENCE            selectofflineprofile_caps
+LANG_ENGLISH         " SELECT OFFLINE PROFILE"
+
+REFERENCE            selectsavedevice
+LANG_ENGLISH         " Select Save Device"
+
+REFERENCE            selectsavedevice_button
+LANG_ENGLISH         ""
+
+REFERENCE            selectsavedevice_caps
+LANG_ENGLISH         " SELECT SAVE DEVICE"
+
+REFERENCE            sign_in_to_save
+LANG_ENGLISH         "Sign in to save your progress."
+
+REFERENCE            signedinas
+LANG_ENGLISH         "Signed in as: &&1"
+
+REFERENCE            signedout
+LANG_ENGLISH         "Your profile was signed out"
+
+REFERENCE            signedoutoflive
+LANG_ENGLISH         "You must be signed in to Battlenet to play online matches."
+
+REFERENCE            signin
+LANG_ENGLISH         "Sign In to Xbox Live"
+
+REFERENCE            signinchanged
+LANG_ENGLISH         "Your sign in status has changed, returning to the title screen."
+
+REFERENCE            signinprofile
+LANG_ENGLISH         " Sign In Profile"
+
+REFERENCE            signinprofile_button
+LANG_ENGLISH         ""
+
+REFERENCE            signinprofile_caps
+LANG_ENGLISH         " SIGN IN PROFILE"
+
+REFERENCE            signintoprofile
+LANG_ENGLISH         " Sign In To Profile"
+
+REFERENCE            signout
+LANG_ENGLISH         "Sign Out of Xbox Live"
+
+REFERENCE            snooze
+LANG_ENGLISH         "Snooze"
+
+REFERENCE            splitscreen_sign_in
+LANG_ENGLISH         "Splitscreen Sign In"
+
+REFERENCE            startgame
+LANG_ENGLISH         " Continue"
+
+REFERENCE            startgame_button
+LANG_ENGLISH         ""
+
+REFERENCE            startgame_caps
+LANG_ENGLISH         " CONTINUE"
+
+REFERENCE            title
+LANG_ENGLISH         "Playing Call of Duty??: Modern Warfare??"
+
+REFERENCE            toomanytasks
+LANG_ENGLISH         "Client is flooding the Activision servers with commands - command failure."
+
+REFERENCE            totalusercount
+LANG_ENGLISH         "&&1 Total Players Online"
+
+REFERENCE            tournament_not_in_match
+LANG_ENGLISH         "You are not authorized to join this Tournament match."
+
+REFERENCE            user_changed_controller
+LANG_ENGLISH         "User selected a profile previously signed into another controller."
+
+REFERENCE            view_gamer_card
+LANG_ENGLISH         " view gamer"
+
+REFERENCE            view_profile
+LANG_ENGLISH         "View Gamercard"
+
+REFERENCE            viewclaninfo
+LANG_ENGLISH         "Clan Info"
+
+REFERENCE            wan_failure_msg
+LANG_ENGLISH         "A required network service has failed."
+
+
+ENDMARKER

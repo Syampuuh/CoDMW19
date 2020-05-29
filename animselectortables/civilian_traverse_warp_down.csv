@@ -1,0 +1,6 @@
+???alias,min_drop_height,max_drop_height,min_arrival_yaw,max_arrival_yaw,__END__,
+step_down,,40,,,,
+mantle_down,,80,,,,
+jump_mantle_down,,,,,,
+default,,,,,,
+__END__,,,,,,

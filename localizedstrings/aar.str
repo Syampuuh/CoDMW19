@@ -1,0 +1,424 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            adventure_quest_bonus
+LANG_ENGLISH         "Adventure Quest Bonus"
+
+REFERENCE            after_action_report
+LANG_ENGLISH         "After Action Report"
+
+REFERENCE            attachment
+LANG_ENGLISH         "Attachment"
+
+REFERENCE            attachment_unlock_info
+LANG_ENGLISH         "Attachments available when &&1 is unlocked at level &&2"
+
+REFERENCE            attachment_unlock_info_challenge
+LANG_ENGLISH         "Attachments available when &&1 is unlocked by completing challenge."
+
+REFERENCE            banked_plunder_bonus
+LANG_ENGLISH         "Deposited Cash Bonus"
+
+REFERENCE            cac_unlocked
+LANG_ENGLISH         "CAC Unlocked"
+
+REFERENCE            camo
+LANG_ENGLISH         "Camo"
+
+REFERENCE            camo_challenge
+LANG_ENGLISH         "Gunsmith Camo Challenge"
+
+REFERENCE            camo_unlock
+LANG_ENGLISH         "Camo Unlocks"
+
+REFERENCE            camo_unlock_info
+LANG_ENGLISH         "Camos available when &&1 is unlocked at level &&2"
+
+REFERENCE            camo_unlock_info_challenge
+LANG_ENGLISH         "Camos available when &&1 is unlocked by completing challenge."
+
+REFERENCE            cash_collected
+LANG_ENGLISH         "Cash Collected"
+
+REFERENCE            cash_collected_value
+LANG_ENGLISH         "Cash Collected ^5&&1^7 XP"
+
+REFERENCE            challenge__unlocked
+LANG_ENGLISH         "Challenge Unlocked"
+
+REFERENCE            challenge_bonus
+LANG_ENGLISH         "Challenge Bonus"
+
+REFERENCE            challenges
+LANG_ENGLISH         "Challenges"
+
+REFERENCE            charm
+LANG_ENGLISH         "Weapon Charm"
+
+REFERENCE            combat_value_xp
+LANG_ENGLISH         "Combat ^5&&1^7 XP"
+
+REFERENCE            combat_xp
+LANG_ENGLISH         "Combat XP"
+
+REFERENCE            comlete
+LANG_ENGLISH         "Complete"
+
+REFERENCE            commendations
+LANG_ENGLISH         "Commendations"
+
+REFERENCE            common_crate
+LANG_ENGLISH         "Common Crate"
+
+REFERENCE            common_crate_progress
+LANG_ENGLISH         "Common Crate Progress"
+
+REFERENCE            completed_nums
+LANG_ENGLISH         "X &&1"
+
+REFERENCE            contract_bonus
+LANG_ENGLISH         "Contract Bonus"
+
+REFERENCE            daily
+LANG_ENGLISH         "Daily"
+
+REFERENCE            double_match_xp
+LANG_ENGLISH         "Double Match XP"
+
+REFERENCE            emblem
+LANG_ENGLISH         "Emblem"
+
+REFERENCE            execution
+LANG_ENGLISH         "Finishing Moves"
+
+REFERENCE            faction_progress
+LANG_ENGLISH         "Faction Progress"
+
+REFERENCE            factions
+LANG_ENGLISH         "Factions"
+
+REFERENCE            feature
+LANG_ENGLISH         "Feature"
+
+REFERENCE            field_upgrade
+LANG_ENGLISH         "Field Upgrade"
+
+REFERENCE            gestures
+LANG_ENGLISH         "Gesture"
+
+REFERENCE            gulag_bonus
+LANG_ENGLISH         "Gulag Bonus"
+
+REFERENCE            gunsmith_unlocks
+LANG_ENGLISH         "Gunsmith Unlocks"
+
+REFERENCE            ingame_aar_xp
+LANG_ENGLISH         "^5&&1^7 XP"
+
+REFERENCE            instruction
+LANG_ENGLISH         "You can equip munitions with your points in the munition menu."
+
+REFERENCE            intro
+LANG_ENGLISH         "Intro"
+
+REFERENCE            keys_awarded
+LANG_ENGLISH         "Keys Awarded"
+
+REFERENCE            killstreak
+LANG_ENGLISH         "Killstreak"
+
+REFERENCE            leave_party_warning
+LANG_ENGLISH         "[{streak_warning}] To leave game with party, the party host must leave the game for you."
+
+REFERENCE            level_value
+LANG_ENGLISH         "Level &&1"
+
+REFERENCE            loot_value_xp
+LANG_ENGLISH         "Loot ^5&&1^7 XP"
+
+REFERENCE            loot_xp
+LANG_ENGLISH         "Loot XP"
+
+REFERENCE            make_your_own_adventure
+LANG_ENGLISH         "Make Your Own Adventure"
+
+REFERENCE            match_bonus
+LANG_ENGLISH         "Match Bonus"
+
+REFERENCE            match_bonus_value
+LANG_ENGLISH         "Match Bonus ^5&&1^7 XP"
+
+REFERENCE            match_total
+LANG_ENGLISH         "Match Total"
+
+REFERENCE            match_total_xp
+LANG_ENGLISH         "Match Total ^5&&1^7 XP"
+
+REFERENCE            match_xp
+LANG_ENGLISH         "Match XP"
+
+REFERENCE            match_xp_xp
+LANG_ENGLISH         "Match XP &&1 XP"
+
+REFERENCE            misc_xp
+LANG_ENGLISH         "Misc XP"
+
+REFERENCE            misc_xp_value
+LANG_ENGLISH         "Misc ^5&&1^7 XP"
+
+REFERENCE            mission_bonus
+LANG_ENGLISH         "Mission Bonus"
+
+REFERENCE            mission_value_xp
+LANG_ENGLISH         "Mission ^5&&1^7 XP"
+
+REFERENCE            mission_xp
+LANG_ENGLISH         "Mission XP"
+
+REFERENCE            new_best
+LANG_ENGLISH         "New Best"
+
+REFERENCE            next_unlock
+LANG_ENGLISH         "Next Unlock"
+
+REFERENCE            officer_rank_unlocked
+LANG_ENGLISH         "Officer Rank Unlocked!"
+
+REFERENCE            operator
+LANG_ENGLISH         "Operator"
+
+REFERENCE            operator_skin
+LANG_ENGLISH         "Operator Skin"
+
+REFERENCE            operators
+LANG_ENGLISH         "Operators"
+
+REFERENCE            party_host
+LANG_ENGLISH         "Party Host:"
+
+REFERENCE            placement
+LANG_ENGLISH         "Placement Bonus"
+
+REFERENCE            placement_01
+LANG_ENGLISH         "Damascus"
+
+REFERENCE            placement_02
+LANG_ENGLISH         "Onyx"
+
+REFERENCE            placement_03
+LANG_ENGLISH         "Diamond"
+
+REFERENCE            placement_04
+LANG_ENGLISH         "Sapphire"
+
+REFERENCE            placement_05
+LANG_ENGLISH         "Ruby"
+
+REFERENCE            placement_06
+LANG_ENGLISH         "Jade"
+
+REFERENCE            placement_07
+LANG_ENGLISH         "Platinum"
+
+REFERENCE            placement_08
+LANG_ENGLISH         "Gold"
+
+REFERENCE            placement_09
+LANG_ENGLISH         "Silver"
+
+REFERENCE            placement_10
+LANG_ENGLISH         "Bronze"
+
+REFERENCE            placement_11
+LANG_ENGLISH         "Wood"
+
+REFERENCE            placement_title
+LANG_ENGLISH         "You Placed &&1!"
+
+REFERENCE            placement_value
+LANG_ENGLISH         "Placement Bonus ^5&&1^7 XP"
+
+REFERENCE            play_again_keep_party
+LANG_ENGLISH         "Play again ( keep the party )"
+
+REFERENCE            play_again_leave_party
+LANG_ENGLISH         "Play again ( leave the party )"
+
+REFERENCE            player_position_with_suffix
+LANG_ENGLISH         "&&1&&2"
+
+REFERENCE            playercard
+LANG_ENGLISH         "Playercard"
+
+REFERENCE            plunder_banked
+LANG_ENGLISH         "Cash Deposited"
+
+REFERENCE            plunder_banked_xp
+LANG_ENGLISH         "Cash Deposited &&1 XP"
+
+REFERENCE            plunder_bonus
+LANG_ENGLISH         "Cash Bonus"
+
+REFERENCE            plunder_count
+LANG_ENGLISH         "Cash Bonus"
+
+REFERENCE            plunder_held
+LANG_ENGLISH         "Cash Held"
+
+REFERENCE            plunder_held_xp
+LANG_ENGLISH         "Cash Held &&1 XP"
+
+REFERENCE            plunder_value_count
+LANG_ENGLISH         "Cash Bonus ^5&&1^7 XP"
+
+REFERENCE            plus_xp
+LANG_ENGLISH         "+&&1 XP"
+
+REFERENCE            point_acquired
+LANG_ENGLISH         "Point Acquired!"
+
+REFERENCE            points
+LANG_ENGLISH         "&&1 Pts
+"
+
+REFERENCE            prestige_value
+LANG_ENGLISH         "Prestige &&1"
+
+REFERENCE            progression
+LANG_ENGLISH         "Progression"
+
+REFERENCE            rank_up
+LANG_ENGLISH         "Rank Up"
+
+REFERENCE            rank_up_splash
+LANG_ENGLISH         "Ranked Up: &&1"
+
+REFERENCE            received_commendations
+LANG_ENGLISH         "Received Commendations"
+
+REFERENCE            recent_unlocks
+LANG_ENGLISH         "Recent Unlocks"
+
+REFERENCE            replay
+LANG_ENGLISH         "Replay Progression Ceremony"
+
+REFERENCE            required_xp
+LANG_ENGLISH         "Required &&1 XP"
+
+REFERENCE            reticle
+LANG_ENGLISH         "Reticle"
+
+REFERENCE            role
+LANG_ENGLISH         "Role"
+
+REFERENCE            scoreboard
+LANG_ENGLISH         "Scoreboard"
+
+REFERENCE            sprays
+LANG_ENGLISH         "Sprays"
+
+REFERENCE            stats
+LANG_ENGLISH         "Stats"
+
+REFERENCE            summary
+LANG_ENGLISH         "Summary"
+
+REFERENCE            taunts
+LANG_ENGLISH         "Taunts"
+
+REFERENCE            top_commendations
+LANG_ENGLISH         "Top Commendations"
+
+REFERENCE            total
+LANG_ENGLISH         "Total"
+
+REFERENCE            unlocked
+LANG_ENGLISH         "Unlocked"
+
+REFERENCE            unlocked_at_level
+LANG_ENGLISH         "Unlocked at Level"
+
+REFERENCE            unlocks
+LANG_ENGLISH         "Unlocks"
+
+REFERENCE            watch
+LANG_ENGLISH         "Watch"
+
+REFERENCE            weapon
+LANG_ENGLISH         "Weapon"
+
+REFERENCE            weapon_reach_rank
+LANG_ENGLISH         "Weapon &&1 reached level &&2"
+
+REFERENCE            weapon_unlocks
+LANG_ENGLISH         "Weapon Unlocks"
+
+REFERENCE            wegame_adventure_quest_bonus_1
+LANG_ENGLISH         "Adventure Quest Bonus(HALF)"
+
+REFERENCE            wegame_adventure_quest_bonus_2
+LANG_ENGLISH         "Adventure Quest Bonus(ZERO)"
+
+REFERENCE            wegame_banked_plunder_bonus_1
+LANG_ENGLISH         "Deposited Cash Bonus(HALF)"
+
+REFERENCE            wegame_banked_plunder_bonus_2
+LANG_ENGLISH         "Deposited Cash Bonus(ZERO)"
+
+REFERENCE            wegame_challenge_bonus_1
+LANG_ENGLISH         "Challenge Bonus (HALF)"
+
+REFERENCE            wegame_challenge_bonus_2
+LANG_ENGLISH         "Challenge Bonus (ZERO)"
+
+REFERENCE            wegame_contract_bonus_1
+LANG_ENGLISH         "Contract Bonus (HALF)"
+
+REFERENCE            wegame_contract_bonus_2
+LANG_ENGLISH         "Contract Bonus (ZERO)"
+
+REFERENCE            wegame_double_match_xp_1
+LANG_ENGLISH         "Double Match XP(HALF)"
+
+REFERENCE            wegame_double_match_xp_2
+LANG_ENGLISH         "Double Match XP(ZERO)"
+
+REFERENCE            wegame_gulag_bonus_1
+LANG_ENGLISH         "Adventure Quest Bonus(HALF)"
+
+REFERENCE            wegame_gulag_bonus_2
+LANG_ENGLISH         "Adventure Quest Bonus(ZERO)"
+
+REFERENCE            wegame_match_bonus_1
+LANG_ENGLISH         "Match Bonus(HALF)"
+
+REFERENCE            wegame_match_bonus_2
+LANG_ENGLISH         "Match Bonus(ZERO)"
+
+REFERENCE            wegame_match_xp_1
+LANG_ENGLISH         "Match XP(HALF)"
+
+REFERENCE            wegame_match_xp_2
+LANG_ENGLISH         "Match XP(ZERO)"
+
+REFERENCE            wegame_mission_bonus_1
+LANG_ENGLISH         "Mission Bonus (HALF)"
+
+REFERENCE            wegame_mission_bonus_2
+LANG_ENGLISH         "Mission Bonus (ZERO)"
+
+REFERENCE            wegame_plunder_bonus_1
+LANG_ENGLISH         "Cash Bonus (HALF)"
+
+REFERENCE            wegame_plunder_bonus_2
+LANG_ENGLISH         "Cash Bonus (ZERO)"
+
+REFERENCE            xp
+LANG_ENGLISH         "XP"
+
+REFERENCE            xp_breakdown
+LANG_ENGLISH         "XP Breakdown"
+
+
+ENDMARKER

@@ -1,0 +1,88 @@
+//==========================================================================
+// Killcam scene
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+////////////////////////////////////////////
+// CUTS
+
+// 1. lerp to attacker
+<cut>
+<movement> pan
+<orientation> target
+<tag_start> tag_eye
+<tag_start_pitch> 0
+<tag_start_range> 10
+<tag_end> tag_eye
+<tag_end_range> 0
+<tag_focus> tag_eye
+<tag_focus_range> 10
+<pan_focus_supporting_actor> 1
+<collision> 1
+<time> 0.5
+
+<cut>
+<movement> fixed
+<orientation> attached
+<hide_lead_actor> 1
+<tag> tag_origin
+<tag_pitch> 90
+<tag_range> 55
+<time> 0.25
+<lerp> 0.25
+
+// END CUTS
+////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+// FOV'S
+
+<fov>
+<fov_start_time> 0.5
+<fov_value> 90
+
+<fov>
+<fov_start_time> 0.75
+<fov_value> 65
+
+// END FOV'S
+////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+// VISION SETS
+
+//<vision>
+//<vision_start_time> 0.4
+//<vision_name> "coup_sunblind"
+//<vision_blend_duration> 200
+//
+//<vision>
+//<vision_start_time> 0.6
+//<vision_name> ""
+//<vision_blend_duration> 200
+
+// END VISION SETS
+////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+// DOF'S
+
+// blur background
+<dof>
+<dof_start_time> 0
+<dof_blend_duration> 0
+<dof_far_start> 75
+<dof_far_end> 175
+<dof_far_blur> 2.5
+
+// END DOF'S
+////////////////////////////////////////////

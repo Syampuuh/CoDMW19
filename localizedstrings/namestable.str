@@ -1,0 +1,930 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            abdo
+LANG_ENGLISH         "Abdo"
+
+REFERENCE            adamson
+LANG_ENGLISH         "Adamson"
+
+REFERENCE            adelmeyer
+LANG_ENGLISH         "Adelmeyer"
+
+REFERENCE            afsar
+LANG_ENGLISH         "Afsar"
+
+REFERENCE            ahn
+LANG_ENGLISH         "Ahn"
+
+REFERENCE            alexandre
+LANG_ENGLISH         "Alexandre"
+
+REFERENCE            allaire
+LANG_ENGLISH         "Allaire"
+
+REFERENCE            allaway
+LANG_ENGLISH         "Allaway"
+
+REFERENCE            alvarez
+LANG_ENGLISH         "Alvarez"
+
+REFERENCE            alvidrez
+LANG_ENGLISH         "Alvidrez"
+
+REFERENCE            amaral
+LANG_ENGLISH         "Amaral"
+
+REFERENCE            anderson
+LANG_ENGLISH         "Anderson"
+
+REFERENCE            andonaegui
+LANG_ENGLISH         "Andonaegui"
+
+REFERENCE            antoniazzi
+LANG_ENGLISH         "Antoniazzi"
+
+REFERENCE            arenas
+LANG_ENGLISH         "Arenas"
+
+REFERENCE            arrizon
+LANG_ENGLISH         "Arrizon"
+
+REFERENCE            audick
+LANG_ENGLISH         "Audick"
+
+REFERENCE            avola
+LANG_ENGLISH         "Avola"
+
+REFERENCE            bailey
+LANG_ENGLISH         "Bailey"
+
+REFERENCE            baker
+LANG_ENGLISH         "Baker"
+
+REFERENCE            ball
+LANG_ENGLISH         "Ball"
+
+REFERENCE            barajas
+LANG_ENGLISH         "Barajas"
+
+REFERENCE            barnes
+LANG_ENGLISH         "Barnes"
+
+REFERENCE            bartlett
+LANG_ENGLISH         "Bartlett"
+
+REFERENCE            batchkoff
+LANG_ENGLISH         "Batchkoff"
+
+REFERENCE            bauer
+LANG_ENGLISH         "Bauer"
+
+REFERENCE            beck
+LANG_ENGLISH         "Beck"
+
+REFERENCE            bem
+LANG_ENGLISH         "Bem"
+
+REFERENCE            binder
+LANG_ENGLISH         "Binder"
+
+REFERENCE            blizard
+LANG_ENGLISH         "Blizard"
+
+REFERENCE            bocanegra
+LANG_ENGLISH         "Bocanegra"
+
+REFERENCE            boon
+LANG_ENGLISH         "Boon"
+
+REFERENCE            bracamontes
+LANG_ENGLISH         "Bracamontes"
+
+REFERENCE            bright
+LANG_ENGLISH         "Bright"
+
+REFERENCE            brooks
+LANG_ENGLISH         "Brooks"
+
+REFERENCE            burgos
+LANG_ENGLISH         "Burgos"
+
+REFERENCE            burrichter
+LANG_ENGLISH         "Burrichter"
+
+REFERENCE            buyer
+LANG_ENGLISH         "Buyer"
+
+REFERENCE            camilli
+LANG_ENGLISH         "Camilli"
+
+REFERENCE            campbell
+LANG_ENGLISH         "Campbell"
+
+REFERENCE            campos
+LANG_ENGLISH         "Campos"
+
+REFERENCE            canale
+LANG_ENGLISH         "Canale"
+
+REFERENCE            capparelli
+LANG_ENGLISH         "Capparelli"
+
+REFERENCE            carotenuto
+LANG_ENGLISH         "Carotenuto"
+
+REFERENCE            carpenter
+LANG_ENGLISH         "Carpenter"
+
+REFERENCE            cecot
+LANG_ENGLISH         "Cecot"
+
+REFERENCE            cervantes
+LANG_ENGLISH         "Cervantes"
+
+REFERENCE            chabert
+LANG_ENGLISH         "Chabert"
+
+REFERENCE            chang
+LANG_ENGLISH         "Chang"
+
+REFERENCE            chapman
+LANG_ENGLISH         "Chapman"
+
+REFERENCE            chen
+LANG_ENGLISH         "Chen"
+
+REFERENCE            chew
+LANG_ENGLISH         "Chew"
+
+REFERENCE            collier
+LANG_ENGLISH         "Collier"
+
+REFERENCE            cournoyer
+LANG_ENGLISH         "Cournoyer"
+
+REFERENCE            cromwell
+LANG_ENGLISH         "Cromwell"
+
+REFERENCE            curatalo
+LANG_ENGLISH         "Curatalo"
+
+REFERENCE            davies
+LANG_ENGLISH         "Davies"
+
+REFERENCE            day
+LANG_ENGLISH         "Day"
+
+REFERENCE            de_la_garza
+LANG_ENGLISH         "De La Garza"
+
+REFERENCE            de_lalla
+LANG_ENGLISH         "De Lalla"
+
+REFERENCE            de_torres
+LANG_ENGLISH         "De Torres"
+
+REFERENCE            dekel
+LANG_ENGLISH         "Dekel"
+
+REFERENCE            del
+LANG_ENGLISH         "Del"
+
+REFERENCE            delgado
+LANG_ENGLISH         "Delgado"
+
+REFERENCE            denny
+LANG_ENGLISH         "Denny"
+
+REFERENCE            derhachov
+LANG_ENGLISH         "Derhachov"
+
+REFERENCE            diaz
+LANG_ENGLISH         "Diaz"
+
+REFERENCE            dickerson
+LANG_ENGLISH         "Dickerson"
+
+REFERENCE            dimond
+LANG_ENGLISH         "Dimond"
+
+REFERENCE            drobot
+LANG_ENGLISH         "Drobot"
+
+REFERENCE            dunford
+LANG_ENGLISH         "Dunford"
+
+REFERENCE            dunn
+LANG_ENGLISH         "Dunn"
+
+REFERENCE            dunnam
+LANG_ENGLISH         "Dunnam"
+
+REFERENCE            edwards
+LANG_ENGLISH         "Edwards"
+
+REFERENCE            egan
+LANG_ENGLISH         "Egan"
+
+REFERENCE            egert
+LANG_ENGLISH         "Egert"
+
+REFERENCE            elenes
+LANG_ENGLISH         "Elenes"
+
+REFERENCE            emslie
+LANG_ENGLISH         "Emslie"
+
+REFERENCE            englerth
+LANG_ENGLISH         "Englerth"
+
+REFERENCE            esposito
+LANG_ENGLISH         "Esposito"
+
+REFERENCE            eurek
+LANG_ENGLISH         "Eurek"
+
+REFERENCE            evans
+LANG_ENGLISH         "Evans"
+
+REFERENCE            farber
+LANG_ENGLISH         "Farber"
+
+REFERENCE            farrelly
+LANG_ENGLISH         "Farrelly"
+
+REFERENCE            faulk
+LANG_ENGLISH         "Faulk"
+
+REFERENCE            ferguson
+LANG_ENGLISH         "Ferguson"
+
+REFERENCE            fisher
+LANG_ENGLISH         "Fisher"
+
+REFERENCE            fletcher
+LANG_ENGLISH         "Fletcher"
+
+REFERENCE            flores
+LANG_ENGLISH         "Flores"
+
+REFERENCE            fox
+LANG_ENGLISH         "Fox"
+
+REFERENCE            fraki
+LANG_ENGLISH         "Fraki"
+
+REFERENCE            friedrich
+LANG_ENGLISH         "Friedrich"
+
+REFERENCE            frittelli
+LANG_ENGLISH         "Frittelli"
+
+REFERENCE            galvez
+LANG_ENGLISH         "Galvez"
+
+REFERENCE            garcia
+LANG_ENGLISH         "Garcia"
+
+REFERENCE            garnell
+LANG_ENGLISH         "Garnell"
+
+REFERENCE            garrido
+LANG_ENGLISH         "Garrido"
+
+REFERENCE            gatica
+LANG_ENGLISH         "Gatica"
+
+REFERENCE            george
+LANG_ENGLISH         "George"
+
+REFERENCE            gil
+LANG_ENGLISH         "Gil"
+
+REFERENCE            godoy
+LANG_ENGLISH         "Godoy"
+
+REFERENCE            goldin
+LANG_ENGLISH         "Goldin"
+
+REFERENCE            goldsworthy
+LANG_ENGLISH         "Goldsworthy"
+
+REFERENCE            gomez
+LANG_ENGLISH         "Gomez"
+
+REFERENCE            greenberg
+LANG_ENGLISH         "Greenberg"
+
+REFERENCE            grigsby
+LANG_ENGLISH         "Grigsby"
+
+REFERENCE            groman
+LANG_ENGLISH         "Groman"
+
+REFERENCE            gropper
+LANG_ENGLISH         "Gropper"
+
+REFERENCE            guerrero
+LANG_ENGLISH         "Guerrero"
+
+REFERENCE            guillermo
+LANG_ENGLISH         "Guillermo"
+
+REFERENCE            gunasingam
+LANG_ENGLISH         "Gunasingam"
+
+REFERENCE            hagar
+LANG_ENGLISH         "Hagar"
+
+REFERENCE            hagmaier
+LANG_ENGLISH         "Hagmaier"
+
+REFERENCE            haile
+LANG_ENGLISH         "Haile"
+
+REFERENCE            hambarsumian
+LANG_ENGLISH         "Hambarsumian"
+
+REFERENCE            hancock
+LANG_ENGLISH         "Hancock"
+
+REFERENCE            harris
+LANG_ENGLISH         "Harris"
+
+REFERENCE            haun
+LANG_ENGLISH         "Haun"
+
+REFERENCE            head
+LANG_ENGLISH         "Head"
+
+REFERENCE            heder
+LANG_ENGLISH         "Heder"
+
+REFERENCE            hernandez
+LANG_ENGLISH         "Hernandez"
+
+REFERENCE            herrera
+LANG_ENGLISH         "Herrera"
+
+REFERENCE            hill
+LANG_ENGLISH         "Hill"
+
+REFERENCE            hines
+LANG_ENGLISH         "Hines"
+
+REFERENCE            holmes
+LANG_ENGLISH         "Holmes"
+
+REFERENCE            hong
+LANG_ENGLISH         "Hong"
+
+REFERENCE            horrocks
+LANG_ENGLISH         "Horrocks"
+
+REFERENCE            house
+LANG_ENGLISH         "House"
+
+REFERENCE            hul
+LANG_ENGLISH         "Hul"
+
+REFERENCE            indrikson
+LANG_ENGLISH         "Indrikson"
+
+REFERENCE            interrante
+LANG_ENGLISH         "Interrante"
+
+REFERENCE            isaac
+LANG_ENGLISH         "Isaac"
+
+REFERENCE            isaacson
+LANG_ENGLISH         "Isaacson"
+
+REFERENCE            isibor
+LANG_ENGLISH         "Isibor"
+
+REFERENCE            jeffries
+LANG_ENGLISH         "Jeffries"
+
+REFERENCE            jones
+LANG_ENGLISH         "Jones"
+
+REFERENCE            kagan
+LANG_ENGLISH         "Kagan"
+
+REFERENCE            kal
+LANG_ENGLISH         "Kal"
+
+REFERENCE            kamara
+LANG_ENGLISH         "Kamara"
+
+REFERENCE            kang
+LANG_ENGLISH         "Kang"
+
+REFERENCE            keele
+LANG_ENGLISH         "Keele"
+
+REFERENCE            kelly
+LANG_ENGLISH         "Kelly"
+
+REFERENCE            kerby
+LANG_ENGLISH         "Kerby"
+
+REFERENCE            khalsa
+LANG_ENGLISH         "Khalsa"
+
+REFERENCE            kimball
+LANG_ENGLISH         "Kimball"
+
+REFERENCE            kimmich
+LANG_ENGLISH         "Kimmich"
+
+REFERENCE            krstikj
+LANG_ENGLISH         "Krstikj"
+
+REFERENCE            kurosaki
+LANG_ENGLISH         "Kurosaki"
+
+REFERENCE            kutcher
+LANG_ENGLISH         "Kutcher"
+
+REFERENCE            lagle
+LANG_ENGLISH         "Lagle"
+
+REFERENCE            lance
+LANG_ENGLISH         "Lance"
+
+REFERENCE            le
+LANG_ENGLISH         "Le"
+
+REFERENCE            lebessis
+LANG_ENGLISH         "Lebessis"
+
+REFERENCE            lee
+LANG_ENGLISH         "Lee"
+
+REFERENCE            lepine
+LANG_ENGLISH         "Lepine"
+
+REFERENCE            leviste
+LANG_ENGLISH         "Leviste"
+
+REFERENCE            limaye
+LANG_ENGLISH         "Limaye"
+
+REFERENCE            lin
+LANG_ENGLISH         "Lin"
+
+REFERENCE            lincoln
+LANG_ENGLISH         "Lincoln"
+
+REFERENCE            linde
+LANG_ENGLISH         "Linde"
+
+REFERENCE            liu
+LANG_ENGLISH         "Liu"
+
+REFERENCE            lockwood
+LANG_ENGLISH         "Lockwood"
+
+REFERENCE            loisel
+LANG_ENGLISH         "Loisel"
+
+REFERENCE            lopez
+LANG_ENGLISH         "Lopez"
+
+REFERENCE            ludwig
+LANG_ENGLISH         "Ludwig"
+
+REFERENCE            luo
+LANG_ENGLISH         "Luo"
+
+REFERENCE            mackenzie
+LANG_ENGLISH         "Mackenzie"
+
+REFERENCE            mackey
+LANG_ENGLISH         "Mackey"
+
+REFERENCE            madden
+LANG_ENGLISH         "Madden"
+
+REFERENCE            malach
+LANG_ENGLISH         "Malach"
+
+REFERENCE            mardirossian
+LANG_ENGLISH         "Mardirossian"
+
+REFERENCE            marin
+LANG_ENGLISH         "Marin"
+
+REFERENCE            mason
+LANG_ENGLISH         "Mason"
+
+REFERENCE            maynard
+LANG_ENGLISH         "Maynard"
+
+REFERENCE            mcadams
+LANG_ENGLISH         "McAdams"
+
+REFERENCE            mccabe
+LANG_ENGLISH         "McCabe"
+
+REFERENCE            mccarthy
+LANG_ENGLISH         "McCarthy"
+
+REFERENCE            mcclellan
+LANG_ENGLISH         "McClellan"
+
+REFERENCE            mckisic
+LANG_ENGLISH         "McKisic"
+
+REFERENCE            meserve
+LANG_ENGLISH         "Meserve"
+
+REFERENCE            mickner
+LANG_ENGLISH         "Mickner"
+
+REFERENCE            miller
+LANG_ENGLISH         "Miller"
+
+REFERENCE            minkoff
+LANG_ENGLISH         "Minkoff"
+
+REFERENCE            molchanov
+LANG_ENGLISH         "Molchanov"
+
+REFERENCE            montoya
+LANG_ENGLISH         "Montoya"
+
+REFERENCE            moody
+LANG_ENGLISH         "Moody"
+
+REFERENCE            morales
+LANG_ENGLISH         "Morales"
+
+REFERENCE            moroyoqui
+LANG_ENGLISH         "Moroyoqui"
+
+REFERENCE            mullen
+LANG_ENGLISH         "Mullen"
+
+REFERENCE            mundy
+LANG_ENGLISH         "Mundy"
+
+REFERENCE            myers
+LANG_ENGLISH         "Myers"
+
+REFERENCE            najera
+LANG_ENGLISH         "Najera"
+
+REFERENCE            natale
+LANG_ENGLISH         "Natale"
+
+REFERENCE            negus
+LANG_ENGLISH         "Negus"
+
+REFERENCE            nelson
+LANG_ENGLISH         "Nelson"
+
+REFERENCE            newman
+LANG_ENGLISH         "Newman"
+
+REFERENCE            norris
+LANG_ENGLISH         "Norris"
+
+REFERENCE            norwood
+LANG_ENGLISH         "Norwood"
+
+REFERENCE            o
+LANG_ENGLISH         "O"
+
+REFERENCE            odion
+LANG_ENGLISH         "Odion"
+
+REFERENCE            ojomo
+LANG_ENGLISH         "Ojomo"
+
+REFERENCE            orellana
+LANG_ENGLISH         "Orellana"
+
+REFERENCE            orlando
+LANG_ENGLISH         "Orlando"
+
+REFERENCE            parise
+LANG_ENGLISH         "Parise"
+
+REFERENCE            park
+LANG_ENGLISH         "Park"
+
+REFERENCE            parker
+LANG_ENGLISH         "Parker"
+
+REFERENCE            parmley
+LANG_ENGLISH         "Parmley"
+
+REFERENCE            parra
+LANG_ENGLISH         "Parra"
+
+REFERENCE            pavlenko
+LANG_ENGLISH         "Pavlenko"
+
+REFERENCE            pedroza
+LANG_ENGLISH         "Pedroza"
+
+REFERENCE            perez
+LANG_ENGLISH         "Perez"
+
+REFERENCE            perng
+LANG_ENGLISH         "Perng"
+
+REFERENCE            pierro
+LANG_ENGLISH         "Pierro"
+
+REFERENCE            pierson
+LANG_ENGLISH         "Pierson"
+
+REFERENCE            piper
+LANG_ENGLISH         "Piper"
+
+REFERENCE            prince
+LANG_ENGLISH         "Prince"
+
+REFERENCE            prior
+LANG_ENGLISH         "Prior"
+
+REFERENCE            provine
+LANG_ENGLISH         "Provine"
+
+REFERENCE            pugh
+LANG_ENGLISH         "Pugh"
+
+REFERENCE            racey
+LANG_ENGLISH         "Racey"
+
+REFERENCE            ramon
+LANG_ENGLISH         "Ramon"
+
+REFERENCE            ravishankar
+LANG_ENGLISH         "Ravishankar"
+
+REFERENCE            raymond
+LANG_ENGLISH         "Raymond"
+
+REFERENCE            reyes
+LANG_ENGLISH         "Reyes"
+
+REFERENCE            reynolds
+LANG_ENGLISH         "Reynolds"
+
+REFERENCE            rieke
+LANG_ENGLISH         "Rieke"
+
+REFERENCE            rowe
+LANG_ENGLISH         "Rowe"
+
+REFERENCE            roycewicz
+LANG_ENGLISH         "Roycewicz"
+
+REFERENCE            salisbury
+LANG_ENGLISH         "Salisbury"
+
+REFERENCE            sanborn
+LANG_ENGLISH         "Sanborn"
+
+REFERENCE            sanchez
+LANG_ENGLISH         "Sanchez"
+
+REFERENCE            sandler
+LANG_ENGLISH         "Sandler"
+
+REFERENCE            sandoval
+LANG_ENGLISH         "Sandoval"
+
+REFERENCE            santi
+LANG_ENGLISH         "Santi"
+
+REFERENCE            sarkisyan
+LANG_ENGLISH         "Sarkisyan"
+
+REFERENCE            sarono
+LANG_ENGLISH         "Sarono"
+
+REFERENCE            savage
+LANG_ENGLISH         "Savage"
+
+REFERENCE            schiltz
+LANG_ENGLISH         "Schiltz"
+
+REFERENCE            schwartz
+LANG_ENGLISH         "Schwartz"
+
+REFERENCE            self
+LANG_ENGLISH         "Self"
+
+REFERENCE            shin
+LANG_ENGLISH         "Shin"
+
+REFERENCE            shingledecker
+LANG_ENGLISH         "Shingledecker"
+
+REFERENCE            silvers
+LANG_ENGLISH         "Silvers"
+
+REFERENCE            skillman
+LANG_ENGLISH         "Skillman"
+
+REFERENCE            smith
+LANG_ENGLISH         "Smith"
+
+REFERENCE            son
+LANG_ENGLISH         "Son"
+
+REFERENCE            song
+LANG_ENGLISH         "Song"
+
+REFERENCE            stakenas
+LANG_ENGLISH         "Stakenas"
+
+REFERENCE            stamm
+LANG_ENGLISH         "Stamm"
+
+REFERENCE            staples
+LANG_ENGLISH         "Staples"
+
+REFERENCE            stasica
+LANG_ENGLISH         "Stasica"
+
+REFERENCE            stepanov
+LANG_ENGLISH         "Stepanov"
+
+REFERENCE            stewart
+LANG_ENGLISH         "Stewart"
+
+REFERENCE            stine
+LANG_ENGLISH         "Stine"
+
+REFERENCE            su
+LANG_ENGLISH         "Su"
+
+REFERENCE            suh
+LANG_ENGLISH         "Suh"
+
+REFERENCE            surmenian
+LANG_ENGLISH         "Surmenian"
+
+REFERENCE            swenty
+LANG_ENGLISH         "Swenty"
+
+REFERENCE            szadoczki
+LANG_ENGLISH         "Szadoczki"
+
+REFERENCE            szakolczay
+LANG_ENGLISH         "Szakolczay"
+
+REFERENCE            szymczyk
+LANG_ENGLISH         "Szymczyk"
+
+REFERENCE            tancinco
+LANG_ENGLISH         "Tancinco"
+
+REFERENCE            tankiewicz
+LANG_ENGLISH         "Tankiewicz"
+
+REFERENCE            tawarotip
+LANG_ENGLISH         "Tawarotip"
+
+REFERENCE            taylor
+LANG_ENGLISH         "Taylor"
+
+REFERENCE            thies
+LANG_ENGLISH         "Thies"
+
+REFERENCE            thompson
+LANG_ENGLISH         "Thompson"
+
+REFERENCE            thurman
+LANG_ENGLISH         "Thurman"
+
+REFERENCE            timnak
+LANG_ENGLISH         "Timnak"
+
+REFERENCE            townsend
+LANG_ENGLISH         "Townsend"
+
+REFERENCE            tullis
+LANG_ENGLISH         "Tullis"
+
+REFERENCE            turchik
+LANG_ENGLISH         "Turchik"
+
+REFERENCE            turner
+LANG_ENGLISH         "Turner"
+
+REFERENCE            ty
+LANG_ENGLISH         "Ty"
+
+REFERENCE            tyley
+LANG_ENGLISH         "Tyley"
+
+REFERENCE            unni
+LANG_ENGLISH         "Unni"
+
+REFERENCE            uvidia
+LANG_ENGLISH         "Uvidia"
+
+REFERENCE            uyeda
+LANG_ENGLISH         "Uyeda"
+
+REFERENCE            vadlamani
+LANG_ENGLISH         "Vadlamani"
+
+REFERENCE            valdivia
+LANG_ENGLISH         "Valdivia"
+
+REFERENCE            valenton
+LANG_ENGLISH         "Valenton"
+
+REFERENCE            vanenkevort
+LANG_ENGLISH         "VanEnkevort"
+
+REFERENCE            vargas
+LANG_ENGLISH         "Vargas"
+
+REFERENCE            vasquez
+LANG_ENGLISH         "Vasquez"
+
+REFERENCE            velasquez
+LANG_ENGLISH         "Velasquez"
+
+REFERENCE            vernon
+LANG_ENGLISH         "Vernon"
+
+REFERENCE            villena
+LANG_ENGLISH         "Villena"
+
+REFERENCE            vokal
+LANG_ENGLISH         "Vokal"
+
+REFERENCE            volker
+LANG_ENGLISH         "Volker"
+
+REFERENCE            vukovic
+LANG_ENGLISH         "Vukovic"
+
+REFERENCE            wang
+LANG_ENGLISH         "Wang"
+
+REFERENCE            wapner
+LANG_ENGLISH         "Wapner"
+
+REFERENCE            warr
+LANG_ENGLISH         "Warr"
+
+REFERENCE            webb
+LANG_ENGLISH         "Webb"
+
+REFERENCE            wechsler
+LANG_ENGLISH         "Wechsler"
+
+REFERENCE            weldon
+LANG_ENGLISH         "Weldon"
+
+REFERENCE            wellman
+LANG_ENGLISH         "Wellman"
+
+REFERENCE            wells
+LANG_ENGLISH         "Wells"
+
+REFERENCE            whelpley
+LANG_ENGLISH         "Whelpley"
+
+REFERENCE            white
+LANG_ENGLISH         "White"
+
+REFERENCE            wilkerson
+LANG_ENGLISH         "Wilkerson"
+
+REFERENCE            williams
+LANG_ENGLISH         "Williams"
+
+REFERENCE            wiuff
+LANG_ENGLISH         "Wiuff"
+
+REFERENCE            wright
+LANG_ENGLISH         "Wright"
+
+REFERENCE            yenal
+LANG_ENGLISH         "Yenal"
+
+REFERENCE            zalanyi
+LANG_ENGLISH         "Zalanyi"
+
+REFERENCE            zhang
+LANG_ENGLISH         "Zhang"
+
+REFERENCE            zielske
+LANG_ENGLISH         "Zielske"
+
+
+ENDMARKER

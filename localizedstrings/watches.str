@@ -1,0 +1,75 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            billion_abbreviation
+LANG_ENGLISH         "&&1B"
+
+REFERENCE            cals_burned
+LANG_ENGLISH         "Calories Burned"
+
+REFERENCE            cals_inactive
+LANG_ENGLISH         "Get that fire going!"
+
+REFERENCE            cals_quip_1
+LANG_ENGLISH         "You're on a hot streak!"
+
+REFERENCE            cals_quip_2
+LANG_ENGLISH         "You're on fire!"
+
+REFERENCE            cals_quip_3
+LANG_ENGLISH         "Burning it up!"
+
+REFERENCE            deaths
+LANG_ENGLISH         "[{watch_deaths}] &&1"
+
+REFERENCE            degrees_celsius
+LANG_ENGLISH         "&&1??C"
+
+REFERENCE            degrees_farenheight
+LANG_ENGLISH         "&&1??F"
+
+REFERENCE            headshots
+LANG_ENGLISH         "[{watch_headshots}] &&1"
+
+REFERENCE            kills
+LANG_ENGLISH         "[{watch_kills}] &&1"
+
+REFERENCE            million_abbreviation
+LANG_ENGLISH         "&&1M"
+
+REFERENCE            month_day
+LANG_ENGLISH         "&&1-&&2"
+
+REFERENCE            steps_inactive
+LANG_ENGLISH         "Time to get moving!"
+
+REFERENCE            steps_quip_1
+LANG_ENGLISH         "Keep up the pace! You got this!"
+
+REFERENCE            steps_quip_2
+LANG_ENGLISH         "Going the distance! Just a little more!"
+
+REFERENCE            steps_quip_3
+LANG_ENGLISH         "Stepping it up! Nice work!"
+
+REFERENCE            steps_taken
+LANG_ENGLISH         "Steps Taken"
+
+REFERENCE            temperature
+LANG_ENGLISH         "&&1 / ^3&&2"
+
+REFERENCE            thousand_abbreviation
+LANG_ENGLISH         "&&1K"
+
+REFERENCE            time_am
+LANG_ENGLISH         "AM"
+
+REFERENCE            time_pm
+LANG_ENGLISH         "PM"
+
+REFERENCE            trillion_abbreviation
+LANG_ENGLISH         "&&1T"
+
+
+ENDMARKER

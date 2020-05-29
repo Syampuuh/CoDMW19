@@ -1,0 +1,56 @@
+//==========================================================================
+// Killcam scene
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+////////////////////////////////////////////
+// CUTS
+
+// 1. Pan in front of attacker after the final kill
+<cut>
+<movement> pan
+<orientation> attached
+<tag> j_spine4
+<tag_pitch> 70
+<tag_range> 10
+<pan_distance> 15
+<pan_focus_range> 30
+<pan_focus_supporting_actor> 1
+<pan_mounted_to_actor> 1
+<pan_mounted_angles_pitch> -10
+<pan_mounted_angles_yaw> 30
+<time> 2.0
+
+// END CUTS
+////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+// FOV'S
+
+<fov>
+<fov_start_time> 0
+<fov_value> 85
+
+// END FOV'S
+////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+// DOF'S
+
+// blur background
+<dof>
+<dof_start_time> 0
+<dof_blend_duration> 0
+<dof_far_start> 75
+<dof_far_end> 175
+<dof_far_blur> 2.5
+
+// END DOF'S
+////////////////////////////////////////////

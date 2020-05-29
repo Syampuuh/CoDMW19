@@ -1,0 +1,1902 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            0_0
+LANG_ENGLISH         "GOLDFLAKE"
+
+REFERENCE            0_1
+LANG_ENGLISH         "GOBLET"
+
+REFERENCE            0_10
+LANG_ENGLISH         "MASTIFF"
+
+REFERENCE            0_11
+LANG_ENGLISH         "STRANGLE"
+
+REFERENCE            0_12
+LANG_ENGLISH         "CRUSADER"
+
+REFERENCE            0_13
+LANG_ENGLISH         "COVERLET"
+
+REFERENCE            0_14
+LANG_ENGLISH         "REPROACH"
+
+REFERENCE            0_15
+LANG_ENGLISH         "RIPPER"
+
+REFERENCE            0_16
+LANG_ENGLISH         "CAMERON"
+
+REFERENCE            0_17
+LANG_ENGLISH         "SEAFRONT"
+
+REFERENCE            0_18
+LANG_ENGLISH         "HANNIBAL"
+
+REFERENCE            0_19
+LANG_ENGLISH         "WARDEN"
+
+REFERENCE            0_2
+LANG_ENGLISH         "TULIP"
+
+REFERENCE            0_20
+LANG_ENGLISH         "DANBURY"
+
+REFERENCE            0_21
+LANG_ENGLISH         "RAILWAY"
+
+REFERENCE            0_22
+LANG_ENGLISH         "COMET"
+
+REFERENCE            0_3
+LANG_ENGLISH         "EAGLEATTACK"
+
+REFERENCE            0_4
+LANG_ENGLISH         "ARMADA"
+
+REFERENCE            0_5
+LANG_ENGLISH         "TECHNOLOGY"
+
+REFERENCE            0_6
+LANG_ENGLISH         "INTERLUDE"
+
+REFERENCE            0_7
+LANG_ENGLISH         "NOAH"
+
+REFERENCE            0_8
+LANG_ENGLISH         "BROADSWORD"
+
+REFERENCE            0_9
+LANG_ENGLISH         "WILFRED"
+
+REFERENCE            10_0
+LANG_ENGLISH         "CAPHIS"
+
+REFERENCE            10_1
+LANG_ENGLISH         "GUNNERSIDE"
+
+REFERENCE            10_10
+LANG_ENGLISH         "ROLLINGTHUNDER"
+
+REFERENCE            10_11
+LANG_ENGLISH         "CAULDRON"
+
+REFERENCE            10_12
+LANG_ENGLISH         "ANGER"
+
+REFERENCE            10_13
+LANG_ENGLISH         "THURSDAY"
+
+REFERENCE            10_14
+LANG_ENGLISH         "DEXTERITY"
+
+REFERENCE            10_15
+LANG_ENGLISH         "MONTANO"
+
+REFERENCE            10_16
+LANG_ENGLISH         "CERES"
+
+REFERENCE            10_17
+LANG_ENGLISH         "HURRICANE"
+
+REFERENCE            10_2
+LANG_ENGLISH         "JUBILEE"
+
+REFERENCE            10_3
+LANG_ENGLISH         "GRIFFIN"
+
+REFERENCE            10_4
+LANG_ENGLISH         "BLISSFUL"
+
+REFERENCE            10_5
+LANG_ENGLISH         "INCISOR"
+
+REFERENCE            10_6
+LANG_ENGLISH         "BREVITY"
+
+REFERENCE            10_7
+LANG_ENGLISH         "SOUTHERNSTORM"
+
+REFERENCE            10_8
+LANG_ENGLISH         "BULLSEYE"
+
+REFERENCE            10_9
+LANG_ENGLISH         "BACKFIRE"
+
+REFERENCE            11_0
+LANG_ENGLISH         "BARBARITY"
+
+REFERENCE            11_1
+LANG_ENGLISH         "VENTILATE"
+
+REFERENCE            11_10
+LANG_ENGLISH         "CALENDAR"
+
+REFERENCE            11_11
+LANG_ENGLISH         "CHICKEN"
+
+REFERENCE            11_12
+LANG_ENGLISH         "ROUNDHAMMER"
+
+REFERENCE            11_13
+LANG_ENGLISH         "PROPELLER"
+
+REFERENCE            11_14
+LANG_ENGLISH         "RUDDER"
+
+REFERENCE            11_15
+LANG_ENGLISH         "CARPETBAGGER"
+
+REFERENCE            11_16
+LANG_ENGLISH         "ULTRA"
+
+REFERENCE            11_17
+LANG_ENGLISH         "CROQUET"
+
+REFERENCE            11_18
+LANG_ENGLISH         "GRANITE"
+
+REFERENCE            11_19
+LANG_ENGLISH         "UNDERTONE"
+
+REFERENCE            11_2
+LANG_ENGLISH         "PLUNDER"
+
+REFERENCE            11_20
+LANG_ENGLISH         "OLIVE"
+
+REFERENCE            11_21
+LANG_ENGLISH         "MEDITERRANEAN"
+
+REFERENCE            11_22
+LANG_ENGLISH         "HAGGARD"
+
+REFERENCE            11_23
+LANG_ENGLISH         "HURRY"
+
+REFERENCE            11_24
+LANG_ENGLISH         "VIGOROUS"
+
+REFERENCE            11_25
+LANG_ENGLISH         "STALEMATE"
+
+REFERENCE            11_26
+LANG_ENGLISH         "DOVE"
+
+REFERENCE            11_3
+LANG_ENGLISH         "MARKETGARDEN"
+
+REFERENCE            11_4
+LANG_ENGLISH         "DOLPHIN"
+
+REFERENCE            11_5
+LANG_ENGLISH         "CARTWHEEL"
+
+REFERENCE            11_6
+LANG_ENGLISH         "WAREWOLF"
+
+REFERENCE            11_7
+LANG_ENGLISH         "SCONCE"
+
+REFERENCE            11_8
+LANG_ENGLISH         "ECLIPSE"
+
+REFERENCE            11_9
+LANG_ENGLISH         "VENERABLE"
+
+REFERENCE            12_0
+LANG_ENGLISH         "ARMADILLO"
+
+REFERENCE            12_1
+LANG_ENGLISH         "RABAT"
+
+REFERENCE            12_10
+LANG_ENGLISH         "SAPLING"
+
+REFERENCE            12_11
+LANG_ENGLISH         "GUNMAN"
+
+REFERENCE            12_12
+LANG_ENGLISH         "BODYGUARD"
+
+REFERENCE            12_13
+LANG_ENGLISH         "JAYWICK"
+
+REFERENCE            12_14
+LANG_ENGLISH         "WALTER"
+
+REFERENCE            12_15
+LANG_ENGLISH         "CHESS"
+
+REFERENCE            12_16
+LANG_ENGLISH         "SILENTSNIPER"
+
+REFERENCE            12_17
+LANG_ENGLISH         "RECKLESS"
+
+REFERENCE            12_18
+LANG_ENGLISH         "DRAGOON"
+
+REFERENCE            12_19
+LANG_ENGLISH         "ROGER"
+
+REFERENCE            12_2
+LANG_ENGLISH         "MUSTANG"
+
+REFERENCE            12_20
+LANG_ENGLISH         "OUTCAST"
+
+REFERENCE            12_21
+LANG_ENGLISH         "RANSOM"
+
+REFERENCE            12_22
+LANG_ENGLISH         "CURTAIN"
+
+REFERENCE            12_23
+LANG_ENGLISH         "VICTORY"
+
+REFERENCE            12_24
+LANG_ENGLISH         "PANDARUS"
+
+REFERENCE            12_25
+LANG_ENGLISH         "ROCKET"
+
+REFERENCE            12_26
+LANG_ENGLISH         "MAGNET"
+
+REFERENCE            12_27
+LANG_ENGLISH         "STREAMLINE"
+
+REFERENCE            12_28
+LANG_ENGLISH         "REINHARD"
+
+REFERENCE            12_29
+LANG_ENGLISH         "GYMNAST"
+
+REFERENCE            12_3
+LANG_ENGLISH         "BOLERO"
+
+REFERENCE            12_30
+LANG_ENGLISH         "ASTER"
+
+REFERENCE            12_31
+LANG_ENGLISH         "MANHATTANPROJECT"
+
+REFERENCE            12_32
+LANG_ENGLISH         "TERMINAL"
+
+REFERENCE            12_33
+LANG_ENGLISH         "SCATTER"
+
+REFERENCE            12_34
+LANG_ENGLISH         "LAMB"
+
+REFERENCE            12_35
+LANG_ENGLISH         "DANIEL"
+
+REFERENCE            12_36
+LANG_ENGLISH         "COAL"
+
+REFERENCE            12_37
+LANG_ENGLISH         "GAUNTLET"
+
+REFERENCE            12_38
+LANG_ENGLISH         "FABIAN"
+
+REFERENCE            12_39
+LANG_ENGLISH         "PRIMUS"
+
+REFERENCE            12_4
+LANG_ENGLISH         "BIANCA"
+
+REFERENCE            12_40
+LANG_ENGLISH         "TOMBOLA"
+
+REFERENCE            12_41
+LANG_ENGLISH         "MAPLE"
+
+REFERENCE            12_42
+LANG_ENGLISH         "VERITABLE"
+
+REFERENCE            12_43
+LANG_ENGLISH         "BULBASKET"
+
+REFERENCE            12_44
+LANG_ENGLISH         "SPARK"
+
+REFERENCE            12_45
+LANG_ENGLISH         "MANDRILL"
+
+REFERENCE            12_46
+LANG_ENGLISH         "FERRET"
+
+REFERENCE            12_47
+LANG_ENGLISH         "REMORSE"
+
+REFERENCE            12_48
+LANG_ENGLISH         "HARROD"
+
+REFERENCE            12_49
+LANG_ENGLISH         "OTTO"
+
+REFERENCE            12_5
+LANG_ENGLISH         "RING"
+
+REFERENCE            12_50
+LANG_ENGLISH         "SEALION"
+
+REFERENCE            12_51
+LANG_ENGLISH         "GOALPOST"
+
+REFERENCE            12_52
+LANG_ENGLISH         "HOWARD"
+
+REFERENCE            12_53
+LANG_ENGLISH         "VIKING"
+
+REFERENCE            12_54
+LANG_ENGLISH         "HAILSTONE"
+
+REFERENCE            12_55
+LANG_ENGLISH         "GHOSTZONE"
+
+REFERENCE            12_56
+LANG_ENGLISH         "DICING"
+
+REFERENCE            12_57
+LANG_ENGLISH         "ATLANTIC"
+
+REFERENCE            12_58
+LANG_ENGLISH         "LARKSWOOD"
+
+REFERENCE            12_59
+LANG_ENGLISH         "BAYTOWN"
+
+REFERENCE            12_6
+LANG_ENGLISH         "SATURN"
+
+REFERENCE            12_60
+LANG_ENGLISH         "TRIDENT"
+
+REFERENCE            12_61
+LANG_ENGLISH         "KNIFE"
+
+REFERENCE            12_62
+LANG_ENGLISH         "TUNNEL"
+
+REFERENCE            12_7
+LANG_ENGLISH         "MAGPIE"
+
+REFERENCE            12_8
+LANG_ENGLISH         "TALISMAN"
+
+REFERENCE            12_9
+LANG_ENGLISH         "APHRODITE"
+
+REFERENCE            13_0
+LANG_ENGLISH         "CITADEL"
+
+REFERENCE            13_1
+LANG_ENGLISH         "ZEBRA"
+
+REFERENCE            14_0
+LANG_ENGLISH         "CATO"
+
+REFERENCE            14_1
+LANG_ENGLISH         "CASEMENT"
+
+REFERENCE            14_10
+LANG_ENGLISH         "OLYMPIC"
+
+REFERENCE            14_11
+LANG_ENGLISH         "SUPERCHARGE"
+
+REFERENCE            14_12
+LANG_ENGLISH         "WINCH"
+
+REFERENCE            14_2
+LANG_ENGLISH         "BASEPLATE"
+
+REFERENCE            14_3
+LANG_ENGLISH         "IRONHAMMER"
+
+REFERENCE            14_4
+LANG_ENGLISH         "MARSHALL"
+
+REFERENCE            14_5
+LANG_ENGLISH         "WOLF"
+
+REFERENCE            14_6
+LANG_ENGLISH         "CLEANSER"
+
+REFERENCE            14_7
+LANG_ENGLISH         "HALFBACK"
+
+REFERENCE            14_8
+LANG_ENGLISH         "OPINION"
+
+REFERENCE            14_9
+LANG_ENGLISH         "CLARIBEL"
+
+REFERENCE            15_0
+LANG_ENGLISH         "DUVAL"
+
+REFERENCE            15_1
+LANG_ENGLISH         "TALON"
+
+REFERENCE            16_0
+LANG_ENGLISH         "HUCKABACK"
+
+REFERENCE            16_1
+LANG_ENGLISH         "ACROBAT"
+
+REFERENCE            17_0
+LANG_ENGLISH         "MAJESTIC"
+
+REFERENCE            17_1
+LANG_ENGLISH         "TRACTABLE"
+
+REFERENCE            18_0
+LANG_ENGLISH         "CONCERTINA"
+
+REFERENCE            18_1
+LANG_ENGLISH         "HYDRA"
+
+REFERENCE            18_2
+LANG_ENGLISH         "LIGHTFOOT"
+
+REFERENCE            19_0
+LANG_ENGLISH         "TRANSFIGURE"
+
+REFERENCE            19_1
+LANG_ENGLISH         "STABLES"
+
+REFERENCE            19_10
+LANG_ENGLISH         "CATHERINE"
+
+REFERENCE            19_11
+LANG_ENGLISH         "TURRET"
+
+REFERENCE            19_12
+LANG_ENGLISH         "RINGBOLT"
+
+REFERENCE            19_13
+LANG_ENGLISH         "ASSOCIATION"
+
+REFERENCE            19_14
+LANG_ENGLISH         "LUMBERJACK"
+
+REFERENCE            19_15
+LANG_ENGLISH         "DEVON"
+
+REFERENCE            19_16
+LANG_ENGLISH         "ZOMBIE"
+
+REFERENCE            19_17
+LANG_ENGLISH         "SAPPHIC"
+
+REFERENCE            19_18
+LANG_ENGLISH         "GALVANIC"
+
+REFERENCE            19_19
+LANG_ENGLISH         "PARTISAN"
+
+REFERENCE            19_2
+LANG_ENGLISH         "KEELHAUL"
+
+REFERENCE            19_20
+LANG_ENGLISH         "ASCENDANT"
+
+REFERENCE            19_21
+LANG_ENGLISH         "CORKSCREW"
+
+REFERENCE            19_22
+LANG_ENGLISH         "SCULPTOR"
+
+REFERENCE            19_23
+LANG_ENGLISH         "AIDA"
+
+REFERENCE            19_24
+LANG_ENGLISH         "CATCHPOLE"
+
+REFERENCE            19_25
+LANG_ENGLISH         "FAHRENHEIT"
+
+REFERENCE            19_26
+LANG_ENGLISH         "UNDERGO"
+
+REFERENCE            19_27
+LANG_ENGLISH         "AXE"
+
+REFERENCE            19_28
+LANG_ENGLISH         "SANDCRAB"
+
+REFERENCE            19_29
+LANG_ENGLISH         "PADERBORN"
+
+REFERENCE            19_3
+LANG_ENGLISH         "MILLENNIUM"
+
+REFERENCE            19_30
+LANG_ENGLISH         "REMBRANDT"
+
+REFERENCE            19_31
+LANG_ENGLISH         "PLATYPUS"
+
+REFERENCE            19_32
+LANG_ENGLISH         "BATTLEAXE"
+
+REFERENCE            19_33
+LANG_ENGLISH         "PADDLE"
+
+REFERENCE            19_34
+LANG_ENGLISH         "TRAIN"
+
+REFERENCE            19_35
+LANG_ENGLISH         "CHIEFTAIN"
+
+REFERENCE            19_36
+LANG_ENGLISH         "CHARGER"
+
+REFERENCE            19_37
+LANG_ENGLISH         "MARGARETHE"
+
+REFERENCE            19_38
+LANG_ENGLISH         "FLINTLOCK"
+
+REFERENCE            19_39
+LANG_ENGLISH         "MULBERRY"
+
+REFERENCE            19_4
+LANG_ENGLISH         "PARAVANE"
+
+REFERENCE            19_40
+LANG_ENGLISH         "SAVANNAH"
+
+REFERENCE            19_41
+LANG_ENGLISH         "BERTRAM"
+
+REFERENCE            19_42
+LANG_ENGLISH         "GUINEAPIG"
+
+REFERENCE            19_43
+LANG_ENGLISH         "SCULLION"
+
+REFERENCE            19_44
+LANG_ENGLISH         "CHESTNUT"
+
+REFERENCE            19_45
+LANG_ENGLISH         "GROG"
+
+REFERENCE            19_46
+LANG_ENGLISH         "BLOCKBUSTER"
+
+REFERENCE            19_47
+LANG_ENGLISH         "LIGHTNING"
+
+REFERENCE            19_48
+LANG_ENGLISH         "MUSKETOON"
+
+REFERENCE            19_49
+LANG_ENGLISH         "DAFFODIL"
+
+REFERENCE            19_5
+LANG_ENGLISH         "EPSILON"
+
+REFERENCE            19_50
+LANG_ENGLISH         "DUNCERY"
+
+REFERENCE            19_51
+LANG_ENGLISH         "CRACKLER"
+
+REFERENCE            19_52
+LANG_ENGLISH         "ARCHWAY"
+
+REFERENCE            19_53
+LANG_ENGLISH         "STORMTIDE"
+
+REFERENCE            19_54
+LANG_ENGLISH         "EAGLECLAW"
+
+REFERENCE            19_55
+LANG_ENGLISH         "MANNA"
+
+REFERENCE            19_56
+LANG_ENGLISH         "SMASH"
+
+REFERENCE            19_57
+LANG_ENGLISH         "SUBSTANCE"
+
+REFERENCE            19_58
+LANG_ENGLISH         "DEVIL"
+
+REFERENCE            19_59
+LANG_ENGLISH         "MARIGOLD"
+
+REFERENCE            19_6
+LANG_ENGLISH         "MARCIUS"
+
+REFERENCE            19_60
+LANG_ENGLISH         "GISELLA"
+
+REFERENCE            19_61
+LANG_ENGLISH         "MAJORDOMO"
+
+REFERENCE            19_62
+LANG_ENGLISH         "HARBORAGE"
+
+REFERENCE            19_7
+LANG_ENGLISH         "SPINSTER"
+
+REFERENCE            19_8
+LANG_ENGLISH         "NEWTON"
+
+REFERENCE            19_9
+LANG_ENGLISH         "GAMBLING"
+
+REFERENCE            1_0
+LANG_ENGLISH         "BIRKE"
+
+REFERENCE            1_1
+LANG_ENGLISH         "HISTORIAN"
+
+REFERENCE            1_10
+LANG_ENGLISH         "CORONET"
+
+REFERENCE            1_11
+LANG_ENGLISH         "MACDUFF"
+
+REFERENCE            1_12
+LANG_ENGLISH         "SILENCE"
+
+REFERENCE            1_13
+LANG_ENGLISH         "APPEARANCE"
+
+REFERENCE            1_14
+LANG_ENGLISH         "VENONA"
+
+REFERENCE            1_15
+LANG_ENGLISH         "MOONSHINE"
+
+REFERENCE            1_16
+LANG_ENGLISH         "PLUTO"
+
+REFERENCE            1_17
+LANG_ENGLISH         "CONSENSUS"
+
+REFERENCE            1_18
+LANG_ENGLISH         "BRAVADO"
+
+REFERENCE            1_19
+LANG_ENGLISH         "POSTHORN"
+
+REFERENCE            1_2
+LANG_ENGLISH         "DEFIANCE"
+
+REFERENCE            1_20
+LANG_ENGLISH         "CELESTE"
+
+REFERENCE            1_21
+LANG_ENGLISH         "BERNARD"
+
+REFERENCE            1_22
+LANG_ENGLISH         "POLONIUS"
+
+REFERENCE            1_23
+LANG_ENGLISH         "DEADLIGHT"
+
+REFERENCE            1_24
+LANG_ENGLISH         "CURLING"
+
+REFERENCE            1_25
+LANG_ENGLISH         "DRYBROOK"
+
+REFERENCE            1_26
+LANG_ENGLISH         "OVERLORD"
+
+REFERENCE            1_27
+LANG_ENGLISH         "SABINE"
+
+REFERENCE            1_28
+LANG_ENGLISH         "NICANOR"
+
+REFERENCE            1_29
+LANG_ENGLISH         "TRACER"
+
+REFERENCE            1_3
+LANG_ENGLISH         "BULLFROG"
+
+REFERENCE            1_30
+LANG_ENGLISH         "ALPHABET"
+
+REFERENCE            1_31
+LANG_ENGLISH         "STONEWALL"
+
+REFERENCE            1_32
+LANG_ENGLISH         "LUCID"
+
+REFERENCE            1_33
+LANG_ENGLISH         "LILLIPUT"
+
+REFERENCE            1_4
+LANG_ENGLISH         "FLAMINGO"
+
+REFERENCE            1_5
+LANG_ENGLISH         "COYOTE"
+
+REFERENCE            1_6
+LANG_ENGLISH         "CAWDOR"
+
+REFERENCE            1_7
+LANG_ENGLISH         "THUNDERBOLT"
+
+REFERENCE            1_8
+LANG_ENGLISH         "VENETO"
+
+REFERENCE            1_9
+LANG_ENGLISH         "HOUNDSMITH"
+
+REFERENCE            20_0
+LANG_ENGLISH         "SCREWDRIVER"
+
+REFERENCE            20_1
+LANG_ENGLISH         "RAZOR"
+
+REFERENCE            20_2
+LANG_ENGLISH         "BRUSHWOOD"
+
+REFERENCE            20_3
+LANG_ENGLISH         "WONDERLAND"
+
+REFERENCE            20_4
+LANG_ENGLISH         "BRUNSWICK"
+
+REFERENCE            21_0
+LANG_ENGLISH         "HATS"
+
+REFERENCE            21_1
+LANG_ENGLISH         "MARMOT"
+
+REFERENCE            21_2
+LANG_ENGLISH         "LEADER"
+
+REFERENCE            21_3
+LANG_ENGLISH         "ROYALMARINE"
+
+REFERENCE            21_4
+LANG_ENGLISH         "TOTALIZE"
+
+REFERENCE            21_5
+LANG_ENGLISH         "CHICAGO"
+
+REFERENCE            21_6
+LANG_ENGLISH         "MINCEMEAT"
+
+REFERENCE            21_7
+LANG_ENGLISH         "UNION"
+
+REFERENCE            21_8
+LANG_ENGLISH         "LIVERY"
+
+REFERENCE            21_9
+LANG_ENGLISH         "FRIDAY"
+
+REFERENCE            22_0
+LANG_ENGLISH         "HERCULES"
+
+REFERENCE            22_1
+LANG_ENGLISH         "ICEBERG"
+
+REFERENCE            22_10
+LANG_ENGLISH         "SHARK"
+
+REFERENCE            22_11
+LANG_ENGLISH         "SCORPION"
+
+REFERENCE            22_12
+LANG_ENGLISH         "RICCO"
+
+REFERENCE            22_13
+LANG_ENGLISH         "FORTITUDE"
+
+REFERENCE            22_14
+LANG_ENGLISH         "POINTER"
+
+REFERENCE            22_15
+LANG_ENGLISH         "DRAUGHTS"
+
+REFERENCE            22_16
+LANG_ENGLISH         "DESERTSHIELD"
+
+REFERENCE            22_17
+LANG_ENGLISH         "GRATIANO"
+
+REFERENCE            22_18
+LANG_ENGLISH         "MOPUP"
+
+REFERENCE            22_19
+LANG_ENGLISH         "CADILLAC"
+
+REFERENCE            22_2
+LANG_ENGLISH         "GATWICK"
+
+REFERENCE            22_20
+LANG_ENGLISH         "KILLER"
+
+REFERENCE            22_21
+LANG_ENGLISH         "MINK"
+
+REFERENCE            22_22
+LANG_ENGLISH         "WINTERSOLSTICE"
+
+REFERENCE            22_23
+LANG_ENGLISH         "DAUNTLESS"
+
+REFERENCE            22_24
+LANG_ENGLISH         "SPILLWAY"
+
+REFERENCE            22_25
+LANG_ENGLISH         "JOCKWORTH"
+
+REFERENCE            22_3
+LANG_ENGLISH         "VALKYRIE"
+
+REFERENCE            22_4
+LANG_ENGLISH         "WINDSOR"
+
+REFERENCE            22_5
+LANG_ENGLISH         "BELT"
+
+REFERENCE            22_6
+LANG_ENGLISH         "SEAGULL"
+
+REFERENCE            22_7
+LANG_ENGLISH         "GOODWOOD"
+
+REFERENCE            22_8
+LANG_ENGLISH         "RELATOR"
+
+REFERENCE            22_9
+LANG_ENGLISH         "AFLAME"
+
+REFERENCE            23_0
+LANG_ENGLISH         "BARITONE"
+
+REFERENCE            23_1
+LANG_ENGLISH         "SQUAWK"
+
+REFERENCE            23_2
+LANG_ENGLISH         "HEADS"
+
+REFERENCE            23_3
+LANG_ENGLISH         "EVAPORATE"
+
+REFERENCE            23_4
+LANG_ENGLISH         "MAILFIST"
+
+REFERENCE            24_0
+LANG_ENGLISH         "MARITA"
+
+REFERENCE            24_1
+LANG_ENGLISH         "GREYHOUND"
+
+REFERENCE            24_2
+LANG_ENGLISH         "DOMINO"
+
+REFERENCE            24_3
+LANG_ENGLISH         "RUBBLE"
+
+REFERENCE            24_4
+LANG_ENGLISH         "EXCESS"
+
+REFERENCE            2_0
+LANG_ENGLISH         "JULIUS"
+
+REFERENCE            2_1
+LANG_ENGLISH         "PERPETUAL"
+
+REFERENCE            2_10
+LANG_ENGLISH         "AUTOGYRO"
+
+REFERENCE            2_11
+LANG_ENGLISH         "DUNLOP"
+
+REFERENCE            2_12
+LANG_ENGLISH         "FRANTIC"
+
+REFERENCE            2_13
+LANG_ENGLISH         "POLARFOX"
+
+REFERENCE            2_14
+LANG_ENGLISH         "LINEBACKER"
+
+REFERENCE            2_15
+LANG_ENGLISH         "LEVER"
+
+REFERENCE            2_16
+LANG_ENGLISH         "DUNHILL"
+
+REFERENCE            2_17
+LANG_ENGLISH         "INMATE"
+
+REFERENCE            2_18
+LANG_ENGLISH         "HAFT"
+
+REFERENCE            2_19
+LANG_ENGLISH         "GAMBIT"
+
+REFERENCE            2_2
+LANG_ENGLISH         "QUADRANGLE"
+
+REFERENCE            2_20
+LANG_ENGLISH         "SLENDER"
+
+REFERENCE            2_21
+LANG_ENGLISH         "LACQUER"
+
+REFERENCE            2_22
+LANG_ENGLISH         "BROADBEAN"
+
+REFERENCE            2_23
+LANG_ENGLISH         "SAFEHAVEN"
+
+REFERENCE            2_24
+LANG_ENGLISH         "GIANT"
+
+REFERENCE            2_25
+LANG_ENGLISH         "INCOMPARABLE"
+
+REFERENCE            2_26
+LANG_ENGLISH         "VALEDICTION"
+
+REFERENCE            2_27
+LANG_ENGLISH         "MASCOT"
+
+REFERENCE            2_28
+LANG_ENGLISH         "FOXCHASE"
+
+REFERENCE            2_29
+LANG_ENGLISH         "FUSILADE"
+
+REFERENCE            2_3
+LANG_ENGLISH         "PEKING"
+
+REFERENCE            2_30
+LANG_ENGLISH         "CHESTERFIELD"
+
+REFERENCE            2_31
+LANG_ENGLISH         "HOUSEKEEPER"
+
+REFERENCE            2_32
+LANG_ENGLISH         "AUTUMNJOURNEY"
+
+REFERENCE            2_33
+LANG_ENGLISH         "BABOON"
+
+REFERENCE            2_34
+LANG_ENGLISH         "ROSIE"
+
+REFERENCE            2_35
+LANG_ENGLISH         "VITALITY"
+
+REFERENCE            2_36
+LANG_ENGLISH         "SPEEDWELL"
+
+REFERENCE            2_37
+LANG_ENGLISH         "HAMBONE"
+
+REFERENCE            2_38
+LANG_ENGLISH         "CHRONICLE"
+
+REFERENCE            2_39
+LANG_ENGLISH         "SABLE"
+
+REFERENCE            2_4
+LANG_ENGLISH         "MARSHFIELD"
+
+REFERENCE            2_40
+LANG_ENGLISH         "LANDMARK"
+
+REFERENCE            2_41
+LANG_ENGLISH         "TYBALT"
+
+REFERENCE            2_42
+LANG_ENGLISH         "POWERPACK"
+
+REFERENCE            2_43
+LANG_ENGLISH         "INDIGO"
+
+REFERENCE            2_44
+LANG_ENGLISH         "CERBERUS"
+
+REFERENCE            2_45
+LANG_ENGLISH         "SPRING"
+
+REFERENCE            2_46
+LANG_ENGLISH         "PAPERCLIP"
+
+REFERENCE            2_47
+LANG_ENGLISH         "FLAMINIUS"
+
+REFERENCE            2_5
+LANG_ENGLISH         "JUPITER"
+
+REFERENCE            2_6
+LANG_ENGLISH         "PILGRIM"
+
+REFERENCE            2_7
+LANG_ENGLISH         "TYPICAL"
+
+REFERENCE            2_8
+LANG_ENGLISH         "ARTICHOKE"
+
+REFERENCE            2_9
+LANG_ENGLISH         "VERTEBRAE"
+
+REFERENCE            3_0
+LANG_ENGLISH         "BREACH"
+
+REFERENCE            3_1
+LANG_ENGLISH         "CROSSBOW"
+
+REFERENCE            3_10
+LANG_ENGLISH         "COLDCOMFORT"
+
+REFERENCE            3_11
+LANG_ENGLISH         "COBRA"
+
+REFERENCE            3_12
+LANG_ENGLISH         "WESTERNFRONT"
+
+REFERENCE            3_13
+LANG_ENGLISH         "GROVE"
+
+REFERENCE            3_14
+LANG_ENGLISH         "PIGEON"
+
+REFERENCE            3_15
+LANG_ENGLISH         "MARINE"
+
+REFERENCE            3_16
+LANG_ENGLISH         "SWITCHBACK"
+
+REFERENCE            3_17
+LANG_ENGLISH         "INSECT"
+
+REFERENCE            3_18
+LANG_ENGLISH         "UNCATEGORIZED"
+
+REFERENCE            3_19
+LANG_ENGLISH         "CATAPULT"
+
+REFERENCE            3_2
+LANG_ENGLISH         "SUNRISE"
+
+REFERENCE            3_20
+LANG_ENGLISH         "FLAP"
+
+REFERENCE            3_21
+LANG_ENGLISH         "HEATHER"
+
+REFERENCE            3_22
+LANG_ENGLISH         "MITTEN"
+
+REFERENCE            3_23
+LANG_ENGLISH         "BUCKHOUND"
+
+REFERENCE            3_24
+LANG_ENGLISH         "LYNX"
+
+REFERENCE            3_25
+LANG_ENGLISH         "BALTHAZAR"
+
+REFERENCE            3_26
+LANG_ENGLISH         "CHARNWOOD"
+
+REFERENCE            3_27
+LANG_ENGLISH         "THESEUS"
+
+REFERENCE            3_28
+LANG_ENGLISH         "REINDEER"
+
+REFERENCE            3_29
+LANG_ENGLISH         "TOUCHDOWN"
+
+REFERENCE            3_3
+LANG_ENGLISH         "HARPOON"
+
+REFERENCE            3_30
+LANG_ENGLISH         "EXPORTER"
+
+REFERENCE            3_31
+LANG_ENGLISH         "HARLING"
+
+REFERENCE            3_32
+LANG_ENGLISH         "HAMSTER"
+
+REFERENCE            3_33
+LANG_ENGLISH         "POSTERN"
+
+REFERENCE            3_34
+LANG_ENGLISH         "SILKMERCHANT"
+
+REFERENCE            3_35
+LANG_ENGLISH         "CALF"
+
+REFERENCE            3_36
+LANG_ENGLISH         "BACKBONE"
+
+REFERENCE            3_37
+LANG_ENGLISH         "BLACKTHORN"
+
+REFERENCE            3_38
+LANG_ENGLISH         "ABEL"
+
+REFERENCE            3_39
+LANG_ENGLISH         "AQUATINT"
+
+REFERENCE            3_4
+LANG_ENGLISH         "MUSKET"
+
+REFERENCE            3_40
+LANG_ENGLISH         "BIRDSEED"
+
+REFERENCE            3_41
+LANG_ENGLISH         "DRESSMAKER"
+
+REFERENCE            3_42
+LANG_ENGLISH         "PLATINUMFOX"
+
+REFERENCE            3_43
+LANG_ENGLISH         "BASALT"
+
+REFERENCE            3_44
+LANG_ENGLISH         "PLAN"
+
+REFERENCE            3_45
+LANG_ENGLISH         "CHARIOT"
+
+REFERENCE            3_46
+LANG_ENGLISH         "CLAYMORE"
+
+REFERENCE            3_47
+LANG_ENGLISH         "ELECTRA"
+
+REFERENCE            3_48
+LANG_ENGLISH         "SNOWDROP"
+
+REFERENCE            3_49
+LANG_ENGLISH         "RUGGED"
+
+REFERENCE            3_5
+LANG_ENGLISH         "TONGA"
+
+REFERENCE            3_50
+LANG_ENGLISH         "SACK"
+
+REFERENCE            3_51
+LANG_ENGLISH         "ANTENOR"
+
+REFERENCE            3_52
+LANG_ENGLISH         "HOLLOWSHOES"
+
+REFERENCE            3_53
+LANG_ENGLISH         "SPORT"
+
+REFERENCE            3_54
+LANG_ENGLISH         "CAPRI"
+
+REFERENCE            3_55
+LANG_ENGLISH         "BITING"
+
+REFERENCE            3_56
+LANG_ENGLISH         "GREENLEAVES"
+
+REFERENCE            3_57
+LANG_ENGLISH         "CHETTYFORD"
+
+REFERENCE            3_58
+LANG_ENGLISH         "VENGEANCE"
+
+REFERENCE            3_59
+LANG_ENGLISH         "OAK"
+
+REFERENCE            3_6
+LANG_ENGLISH         "CAESAR"
+
+REFERENCE            3_60
+LANG_ENGLISH         "POTLUCK"
+
+REFERENCE            3_61
+LANG_ENGLISH         "SPARTANSCORPION"
+
+REFERENCE            3_7
+LANG_ENGLISH         "OBOE"
+
+REFERENCE            3_8
+LANG_ENGLISH         "SUPPLY"
+
+REFERENCE            3_9
+LANG_ENGLISH         "PIONEER"
+
+REFERENCE            4_0
+LANG_ENGLISH         "CHAPTER"
+
+REFERENCE            4_1
+LANG_ENGLISH         "CIVET"
+
+REFERENCE            4_10
+LANG_ENGLISH         "STARVATION"
+
+REFERENCE            4_11
+LANG_ENGLISH         "HECATE"
+
+REFERENCE            4_12
+LANG_ENGLISH         "SICKLE"
+
+REFERENCE            4_13
+LANG_ENGLISH         "BELLOWS"
+
+REFERENCE            4_14
+LANG_ENGLISH         "ALPINEVIOLET"
+
+REFERENCE            4_15
+LANG_ENGLISH         "JERICHO"
+
+REFERENCE            4_16
+LANG_ENGLISH         "RAINBOW"
+
+REFERENCE            4_17
+LANG_ENGLISH         "GREENLINE"
+
+REFERENCE            4_18
+LANG_ENGLISH         "ROUNDUP"
+
+REFERENCE            4_19
+LANG_ENGLISH         "FERDINAND"
+
+REFERENCE            4_2
+LANG_ENGLISH         "MATTERHORN"
+
+REFERENCE            4_20
+LANG_ENGLISH         "M6"
+
+REFERENCE            4_21
+LANG_ENGLISH         "FOIL"
+
+REFERENCE            4_22
+LANG_ENGLISH         "HOLDER"
+
+REFERENCE            4_23
+LANG_ENGLISH         "DIPLOMAT"
+
+REFERENCE            4_24
+LANG_ENGLISH         "FLOODLIGHT"
+
+REFERENCE            4_25
+LANG_ENGLISH         "DOVER"
+
+REFERENCE            4_26
+LANG_ENGLISH         "URGENTFURY"
+
+REFERENCE            4_27
+LANG_ENGLISH         "DERRY"
+
+REFERENCE            4_28
+LANG_ENGLISH         "MONGOOSE"
+
+REFERENCE            4_29
+LANG_ENGLISH         "CULVERIN"
+
+REFERENCE            4_3
+LANG_ENGLISH         "LEMUR"
+
+REFERENCE            4_30
+LANG_ENGLISH         "TRADEWIND"
+
+REFERENCE            4_31
+LANG_ENGLISH         "ZEPPELIN"
+
+REFERENCE            4_32
+LANG_ENGLISH         "PANTHER"
+
+REFERENCE            4_33
+LANG_ENGLISH         "TERRIER"
+
+REFERENCE            4_34
+LANG_ENGLISH         "TANNENBERG"
+
+REFERENCE            4_35
+LANG_ENGLISH         "HERRINGTON"
+
+REFERENCE            4_36
+LANG_ENGLISH         "TIGER"
+
+REFERENCE            4_37
+LANG_ENGLISH         "PAMPHLET"
+
+REFERENCE            4_38
+LANG_ENGLISH         "VIVACIOUS"
+
+REFERENCE            4_39
+LANG_ENGLISH         "GROUSE"
+
+REFERENCE            4_4
+LANG_ENGLISH         "VARSITY"
+
+REFERENCE            4_40
+LANG_ENGLISH         "SALIENT"
+
+REFERENCE            4_41
+LANG_ENGLISH         "URSULA"
+
+REFERENCE            4_42
+LANG_ENGLISH         "CRUPPER"
+
+REFERENCE            4_43
+LANG_ENGLISH         "COOPERATION"
+
+REFERENCE            4_44
+LANG_ENGLISH         "FIGURE"
+
+REFERENCE            4_45
+LANG_ENGLISH         "KEYSTONE"
+
+REFERENCE            4_46
+LANG_ENGLISH         "JET"
+
+REFERENCE            4_47
+LANG_ENGLISH         "SPAN"
+
+REFERENCE            4_48
+LANG_ENGLISH         "TORCH"
+
+REFERENCE            4_49
+LANG_ENGLISH         "GLIMMER"
+
+REFERENCE            4_5
+LANG_ENGLISH         "HILLCAT"
+
+REFERENCE            4_50
+LANG_ENGLISH         "FORAGER"
+
+REFERENCE            4_51
+LANG_ENGLISH         "IAGO"
+
+REFERENCE            4_52
+LANG_ENGLISH         "PILEDRIVER"
+
+REFERENCE            4_53
+LANG_ENGLISH         "GIBBON"
+
+REFERENCE            4_54
+LANG_ENGLISH         "MARS"
+
+REFERENCE            4_55
+LANG_ENGLISH         "EVANSVILLE"
+
+REFERENCE            4_56
+LANG_ENGLISH         "HA-GO"
+
+REFERENCE            4_57
+LANG_ENGLISH         "BLUEFOX"
+
+REFERENCE            4_58
+LANG_ENGLISH         "CLOWDER"
+
+REFERENCE            4_59
+LANG_ENGLISH         "PYX"
+
+REFERENCE            4_6
+LANG_ENGLISH         "DIVER"
+
+REFERENCE            4_60
+LANG_ENGLISH         "PANICLE"
+
+REFERENCE            4_61
+LANG_ENGLISH         "COMPOSITION"
+
+REFERENCE            4_62
+LANG_ENGLISH         "VANGUARD"
+
+REFERENCE            4_7
+LANG_ENGLISH         "CHIRON"
+
+REFERENCE            4_8
+LANG_ENGLISH         "LOBSTER"
+
+REFERENCE            4_9
+LANG_ENGLISH         "GOODTIME"
+
+REFERENCE            5_0
+LANG_ENGLISH         "MULE"
+
+REFERENCE            5_1
+LANG_ENGLISH         "CROWD"
+
+REFERENCE            5_2
+LANG_ENGLISH         "PIKE"
+
+REFERENCE            5_3
+LANG_ENGLISH         "GRATITUDE"
+
+REFERENCE            5_4
+LANG_ENGLISH         "STYLE"
+
+REFERENCE            5_5
+LANG_ENGLISH         "BONGO"
+
+REFERENCE            5_6
+LANG_ENGLISH         "ICEPUSH"
+
+REFERENCE            5_7
+LANG_ENGLISH         "PROVIDENCE"
+
+REFERENCE            6_0
+LANG_ENGLISH         "PROJECT"
+
+REFERENCE            6_1
+LANG_ENGLISH         "HARDY"
+
+REFERENCE            6_10
+LANG_ENGLISH         "EXODUS"
+
+REFERENCE            6_11
+LANG_ENGLISH         "PRIAM"
+
+REFERENCE            6_12
+LANG_ENGLISH         "FORK"
+
+REFERENCE            6_13
+LANG_ENGLISH         "DETACHMENT"
+
+REFERENCE            6_2
+LANG_ENGLISH         "VULCAN"
+
+REFERENCE            6_3
+LANG_ENGLISH         "IRONJUSTICE"
+
+REFERENCE            6_4
+LANG_ENGLISH         "ACCOLADE"
+
+REFERENCE            6_5
+LANG_ENGLISH         "ANTHROPOID"
+
+REFERENCE            6_6
+LANG_ENGLISH         "HANGMAN"
+
+REFERENCE            6_7
+LANG_ENGLISH         "MENACE"
+
+REFERENCE            6_8
+LANG_ENGLISH         "SHOWDOWN"
+
+REFERENCE            6_9
+LANG_ENGLISH         "EUCALYPTUS"
+
+REFERENCE            7_0
+LANG_ENGLISH         "PATROCLUS"
+
+REFERENCE            7_1
+LANG_ENGLISH         "COUNTENANCE"
+
+REFERENCE            7_10
+LANG_ENGLISH         "CAMILLA"
+
+REFERENCE            7_11
+LANG_ENGLISH         "CROSSKEYS"
+
+REFERENCE            7_12
+LANG_ENGLISH         "PHANTOMFURY"
+
+REFERENCE            7_13
+LANG_ENGLISH         "DERVISH"
+
+REFERENCE            7_14
+LANG_ENGLISH         "AXEHEAD"
+
+REFERENCE            7_15
+LANG_ENGLISH         "SLEUTH"
+
+REFERENCE            7_16
+LANG_ENGLISH         "TOTTER"
+
+REFERENCE            7_17
+LANG_ENGLISH         "URANUS"
+
+REFERENCE            7_18
+LANG_ENGLISH         "SEEK"
+
+REFERENCE            7_19
+LANG_ENGLISH         "SYMBOL"
+
+REFERENCE            7_2
+LANG_ENGLISH         "ANVIL"
+
+REFERENCE            7_20
+LANG_ENGLISH         "CYCLONE"
+
+REFERENCE            7_21
+LANG_ENGLISH         "OXHEAD"
+
+REFERENCE            7_22
+LANG_ENGLISH         "PUMA"
+
+REFERENCE            7_23
+LANG_ENGLISH         "FRONTTHEATER"
+
+REFERENCE            7_24
+LANG_ENGLISH         "BIGBANG"
+
+REFERENCE            7_25
+LANG_ENGLISH         "BADGER"
+
+REFERENCE            7_26
+LANG_ENGLISH         "GUILLOTINE"
+
+REFERENCE            7_27
+LANG_ENGLISH         "MERCURY"
+
+REFERENCE            7_28
+LANG_ENGLISH         "INDEPENDENCE"
+
+REFERENCE            7_29
+LANG_ENGLISH         "PATRON"
+
+REFERENCE            7_3
+LANG_ENGLISH         "INFATUATE"
+
+REFERENCE            7_30
+LANG_ENGLISH         "ARCHERY"
+
+REFERENCE            7_31
+LANG_ENGLISH         "JAEL"
+
+REFERENCE            7_32
+LANG_ENGLISH         "CHASTISE"
+
+REFERENCE            7_33
+LANG_ENGLISH         "AVALANCHE"
+
+REFERENCE            7_34
+LANG_ENGLISH         "LOCKSMITH"
+
+REFERENCE            7_35
+LANG_ENGLISH         "HAIL"
+
+REFERENCE            7_36
+LANG_ENGLISH         "COMMANDO"
+
+REFERENCE            7_37
+LANG_ENGLISH         "POSTMASTER"
+
+REFERENCE            7_38
+LANG_ENGLISH         "MAINYARD"
+
+REFERENCE            7_39
+LANG_ENGLISH         "LITTLEATLAS"
+
+REFERENCE            7_4
+LANG_ENGLISH         "RESERVIST"
+
+REFERENCE            7_40
+LANG_ENGLISH         "BRIMSTONE"
+
+REFERENCE            7_41
+LANG_ENGLISH         "COLLIE"
+
+REFERENCE            7_42
+LANG_ENGLISH         "ATMOSPHERE"
+
+REFERENCE            7_43
+LANG_ENGLISH         "CLAWHAMMER"
+
+REFERENCE            7_44
+LANG_ENGLISH         "CYCLE"
+
+REFERENCE            7_45
+LANG_ENGLISH         "YAPOK"
+
+REFERENCE            7_46
+LANG_ENGLISH         "DOWNFALL"
+
+REFERENCE            7_47
+LANG_ENGLISH         "ARBORETUM"
+
+REFERENCE            7_48
+LANG_ENGLISH         "LENTIL"
+
+REFERENCE            7_49
+LANG_ENGLISH         "HECTOR"
+
+REFERENCE            7_5
+LANG_ENGLISH         "ENVELOPE"
+
+REFERENCE            7_50
+LANG_ENGLISH         "CLIPPER"
+
+REFERENCE            7_51
+LANG_ENGLISH         "SUSSEX"
+
+REFERENCE            7_52
+LANG_ENGLISH         "CANIDUS"
+
+REFERENCE            7_53
+LANG_ENGLISH         "SLING"
+
+REFERENCE            7_54
+LANG_ENGLISH         "DONUM"
+
+REFERENCE            7_55
+LANG_ENGLISH         "BISHOP"
+
+REFERENCE            7_56
+LANG_ENGLISH         "DOWNEND"
+
+REFERENCE            7_57
+LANG_ENGLISH         "RUGBY"
+
+REFERENCE            7_58
+LANG_ENGLISH         "RAINCOAT"
+
+REFERENCE            7_59
+LANG_ENGLISH         "COMPASS"
+
+REFERENCE            7_6
+LANG_ENGLISH         "CLAUDIUS"
+
+REFERENCE            7_60
+LANG_ENGLISH         "PERFORMANCE"
+
+REFERENCE            7_7
+LANG_ENGLISH         "GRENADE"
+
+REFERENCE            7_8
+LANG_ENGLISH         "CRIMSON"
+
+REFERENCE            7_9
+LANG_ENGLISH         "RATHUNT"
+
+REFERENCE            8_0
+LANG_ENGLISH         "HIDE"
+
+REFERENCE            8_1
+LANG_ENGLISH         "FRESHMAN"
+
+REFERENCE            8_2
+LANG_ENGLISH         "PEDESTAL"
+
+REFERENCE            8_3
+LANG_ENGLISH         "LOST"
+
+REFERENCE            8_4
+LANG_ENGLISH         "ALPHA"
+
+REFERENCE            8_5
+LANG_ENGLISH         "AMBASSADOR"
+
+REFERENCE            8_6
+LANG_ENGLISH         "MANDAMUS"
+
+REFERENCE            8_7
+LANG_ENGLISH         "STRAFE"
+
+REFERENCE            8_8
+LANG_ENGLISH         "TURTLE"
+
+REFERENCE            8_9
+LANG_ENGLISH         "CHRONOMETER"
+
+REFERENCE            9_0
+LANG_ENGLISH         "MB8"
+
+REFERENCE            9_1
+LANG_ENGLISH         "IRONCLAD"
+
+REFERENCE            9_10
+LANG_ENGLISH         "BALSAM"
+
+REFERENCE            9_11
+LANG_ENGLISH         "GOMORRAH"
+
+REFERENCE            9_12
+LANG_ENGLISH         "GAFF"
+
+REFERENCE            9_13
+LANG_ENGLISH         "REGATTA"
+
+REFERENCE            9_14
+LANG_ENGLISH         "WOP"
+
+REFERENCE            9_15
+LANG_ENGLISH         "DRIFTWOOD"
+
+REFERENCE            9_16
+LANG_ENGLISH         "HAWKEYE"
+
+REFERENCE            9_17
+LANG_ENGLISH         "CHALLENGER"
+
+REFERENCE            9_18
+LANG_ENGLISH         "LABRADOR"
+
+REFERENCE            9_19
+LANG_ENGLISH         "BOWERY"
+
+REFERENCE            9_2
+LANG_ENGLISH         "MOUSE"
+
+REFERENCE            9_20
+LANG_ENGLISH         "HUSKY"
+
+REFERENCE            9_21
+LANG_ENGLISH         "DYNAMO"
+
+REFERENCE            9_22
+LANG_ENGLISH         "BAN"
+
+REFERENCE            9_23
+LANG_ENGLISH         "PUNISHMENT"
+
+REFERENCE            9_24
+LANG_ENGLISH         "DINGO"
+
+REFERENCE            9_25
+LANG_ENGLISH         "SCUPPER"
+
+REFERENCE            9_26
+LANG_ENGLISH         "BRACELET"
+
+REFERENCE            9_27
+LANG_ENGLISH         "BANDON"
+
+REFERENCE            9_28
+LANG_ENGLISH         "STELLAPOLARIS"
+
+REFERENCE            9_29
+LANG_ENGLISH         "PLACKET"
+
+REFERENCE            9_3
+LANG_ENGLISH         "SPOTTER"
+
+REFERENCE            9_30
+LANG_ENGLISH         "EASTERNFRONT"
+
+REFERENCE            9_31
+LANG_ENGLISH         "ROMEO"
+
+REFERENCE            9_32
+LANG_ENGLISH         "CANUCK"
+
+REFERENCE            9_33
+LANG_ENGLISH         "COONEY"
+
+REFERENCE            9_34
+LANG_ENGLISH         "DETROIT"
+
+REFERENCE            9_35
+LANG_ENGLISH         "POOL"
+
+REFERENCE            9_36
+LANG_ENGLISH         "RETRIBUTION"
+
+REFERENCE            9_37
+LANG_ENGLISH         "WALLOP"
+
+REFERENCE            9_38
+LANG_ENGLISH         "PEGASUS"
+
+REFERENCE            9_39
+LANG_ENGLISH         "TORNADO"
+
+REFERENCE            9_4
+LANG_ENGLISH         "CHAMPION"
+
+REFERENCE            9_40
+LANG_ENGLISH         "TUNGSTEN"
+
+REFERENCE            9_41
+LANG_ENGLISH         "CHRISTMASTREE"
+
+REFERENCE            9_42
+LANG_ENGLISH         "SURGEON"
+
+REFERENCE            9_43
+LANG_ENGLISH         "KOALA"
+
+REFERENCE            9_44
+LANG_ENGLISH         "QUADRANT"
+
+REFERENCE            9_45
+LANG_ENGLISH         "SABER"
+
+REFERENCE            9_46
+LANG_ENGLISH         "HYACINTH"
+
+REFERENCE            9_47
+LANG_ENGLISH         "ALACRITY"
+
+REFERENCE            9_48
+LANG_ENGLISH         "HUNTING"
+
+REFERENCE            9_49
+LANG_ENGLISH         "HOUNDSWORTH"
+
+REFERENCE            9_5
+LANG_ENGLISH         "JUNO"
+
+REFERENCE            9_50
+LANG_ENGLISH         "BOARDMAN"
+
+REFERENCE            9_51
+LANG_ENGLISH         "DEMON"
+
+REFERENCE            9_52
+LANG_ENGLISH         "FIN"
+
+REFERENCE            9_53
+LANG_ENGLISH         "PINPOINT"
+
+REFERENCE            9_54
+LANG_ENGLISH         "ZIPPER"
+
+REFERENCE            9_55
+LANG_ENGLISH         "FALLRIVER"
+
+REFERENCE            9_56
+LANG_ENGLISH         "WESEREXERCISE"
+
+REFERENCE            9_57
+LANG_ENGLISH         "CITRONELLE"
+
+REFERENCE            9_58
+LANG_ENGLISH         "AGREEMENT"
+
+REFERENCE            9_59
+LANG_ENGLISH         "CUPOLA"
+
+REFERENCE            9_6
+LANG_ENGLISH         "HAWTHORN"
+
+REFERENCE            9_60
+LANG_ENGLISH         "BRUTUS"
+
+REFERENCE            9_61
+LANG_ENGLISH         "THUNDERCLAP"
+
+REFERENCE            9_62
+LANG_ENGLISH         "PUBLIUS"
+
+REFERENCE            9_7
+LANG_ENGLISH         "PIRATE"
+
+REFERENCE            9_8
+LANG_ENGLISH         "CLEANSLATE"
+
+REFERENCE            9_9
+LANG_ENGLISH         "OFFENSIVE"
+
+
+ENDMARKER

@@ -1,0 +1,31 @@
+{
+  "whitelist": [{
+      "entry": "sv_snapdetails*",
+      "data_member": "influxdb-packed"
+    },
+    {
+      "entry": "sv_bandwidthprofile*",
+      "data_member": "influxdb-packed"
+    },
+    {
+      "entry": "server_profile",
+      "data_member": "influxdb-packed"
+    },
+    {
+      "entry": "server_latency",
+      "data_member": "influxdb-packed"
+    },
+    {
+      "entry": "metric*",
+      "data_member": "influxdb-packed"
+    },
+    {
+      "entry": "party_profile_*",
+      "data_member": "influxdb-packed"
+    },
+    {
+      "entry": "*",
+      "data_member": "blackbox_event"
+    }
+  ]
+}

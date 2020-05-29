@@ -1,0 +1,304 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            1v1
+LANG_ENGLISH         "1 v 1"
+
+REFERENCE            2v2
+LANG_ENGLISH         "2 v 2"
+
+REFERENCE            3v3
+LANG_ENGLISH         "3 v 3"
+
+REFERENCE            4v4
+LANG_ENGLISH         "4 v 4"
+
+REFERENCE            additional_rewards
+LANG_ENGLISH         "Additional Rewards"
+
+REFERENCE            ban_confirm
+LANG_ENGLISH         "Ok"
+
+REFERENCE            ban_message
+LANG_ENGLISH         "You have been banned from tournaments due to previously violating tournament rules"
+
+REFERENCE            ban_timer_message
+LANG_ENGLISH         "Your ban will be lifted in:"
+
+REFERENCE            banned
+LANG_ENGLISH         "Banned"
+
+REFERENCE            callback_header
+LANG_ENGLISH         "Tournament Starts In"
+
+REFERENCE            cancel_message
+LANG_ENGLISH         "Would you like to cancel your tournament registration?"
+
+REFERENCE            cancel_registration
+LANG_ENGLISH         "Cancel Registration"
+
+REFERENCE            cap_point_event
+LANG_ENGLISH         "&&1 caps point"
+
+REFERENCE            champ
+LANG_ENGLISH         "Champion"
+
+REFERENCE            champion
+LANG_ENGLISH         "CHAMPION"
+
+REFERENCE            current_score
+LANG_ENGLISH         "Current score"
+
+REFERENCE            details
+LANG_ENGLISH         "Tournament details"
+
+REFERENCE            eliminated
+LANG_ENGLISH         "You have been eliminated"
+
+REFERENCE            final
+LANG_ENGLISH         "Final"
+
+REFERENCE            final_result
+LANG_ENGLISH         "Final Result"
+
+REFERENCE            first
+LANG_ENGLISH         "1st"
+
+REFERENCE            gunfight_tournament
+LANG_ENGLISH         "&&1 v &&2 Gunfight Tournament"
+
+REFERENCE            health
+LANG_ENGLISH         "&&1%"
+
+REFERENCE            how_to_play
+LANG_ENGLISH         "How to Play Gunfight"
+
+REFERENCE            how_to_play_desc
+LANG_ENGLISH         "Eliminate the enemy team or capture the overtime flag to win. Health regeneration and respawning disabled."
+
+REFERENCE            join_tournament
+LANG_ENGLISH         "Join Tournament"
+
+REFERENCE            leave_lobby
+LANG_ENGLISH         "Leave Lobby"
+
+REFERENCE            leave_party_and_tournament
+LANG_ENGLISH         "Leave party and tournament?  You will receive a penalty."
+
+REFERENCE            leave_party_registration
+LANG_ENGLISH         "Leave party and cancel your tournament registration?"
+
+REFERENCE            leave_tournament
+LANG_ENGLISH         "Leave tournament?  You will receive a penalty."
+
+REFERENCE            match_num
+LANG_ENGLISH         "Match &&1"
+
+REFERENCE            match_num_completed
+LANG_ENGLISH         "Match &&1 - Completed"
+
+REFERENCE            match_num_in_progress
+LANG_ENGLISH         "Match &&1 - In Progress"
+
+REFERENCE            match_preview
+LANG_ENGLISH         "Match Preview"
+
+REFERENCE            match_update
+LANG_ENGLISH         "Match Update"
+
+REFERENCE            matchmaking_starts_in
+LANG_ENGLISH         "Tournament matchmaking starts in:"
+
+REFERENCE            max_party
+LANG_ENGLISH         "&&1 max"
+
+REFERENCE            max_party_warning
+LANG_ENGLISH         "Party max size for tournaments is &&1. Please remove some party members and try again."
+
+REFERENCE            mode_setup
+LANG_ENGLISH         "Mode Setup"
+
+REFERENCE            mode_video
+LANG_ENGLISH         "[{ui_alt1}] Mode video"
+
+REFERENCE            no_data
+LANG_ENGLISH         "-"
+
+REFERENCE            no_splitscreen
+LANG_ENGLISH         "Tournaments do not allow split screen. Please remove your split screen player and try again."
+
+REFERENCE            not_ready
+LANG_ENGLISH         "READY DOWN"
+
+REFERENCE            number_of_teams
+LANG_ENGLISH         "Number of Teams"
+
+REFERENCE            open_match_preview
+LANG_ENGLISH         "[{ui_primary}] Open Match Preview"
+
+REFERENCE            overtime
+LANG_ENGLISH         "Overtime"
+
+REFERENCE            overtime_event
+LANG_ENGLISH         "Overtime"
+
+REFERENCE            playing_on
+LANG_ENGLISH         "Playing on:
+&&1"
+
+REFERENCE            pre_game
+LANG_ENGLISH         "Pre Game"
+
+REFERENCE            preliminaries
+LANG_ENGLISH         "Preliminaries"
+
+REFERENCE            preliminary_rounds
+LANG_ENGLISH         "Preliminary Rounds"
+
+REFERENCE            prizes
+LANG_ENGLISH         "Prizes"
+
+REFERENCE            quarter_finalists
+LANG_ENGLISH         "Quarter Finalists"
+
+REFERENCE            quarter_finals
+LANG_ENGLISH         "Quarter Finals"
+
+REFERENCE            ready_all_players
+LANG_ENGLISH         "Automatically readying all players"
+
+REFERENCE            ready_up
+LANG_ENGLISH         "[{ui_alt1}] READY UP"
+
+REFERENCE            registration_cutoff
+LANG_ENGLISH         "Registration Cutoff:"
+
+REFERENCE            rejoin_tournament
+LANG_ENGLISH         "Rejoin Tournament"
+
+REFERENCE            rejoin_tournament_header
+LANG_ENGLISH         "Your tournament is still in progress"
+
+REFERENCE            remain
+LANG_ENGLISH         "Remain"
+
+REFERENCE            reminder_header
+LANG_ENGLISH         "Tournament Reminder"
+
+REFERENCE            result
+LANG_ENGLISH         "Result"
+
+REFERENCE            results
+LANG_ENGLISH         "Results"
+
+REFERENCE            return
+LANG_ENGLISH         "Return to the Lobby"
+
+REFERENCE            reward_cp
+LANG_ENGLISH         "+  [{ui_codPoints}] &&1"
+
+REFERENCE            reward_xp
+LANG_ENGLISH         "+ &&1 xp"
+
+REFERENCE            rewards
+LANG_ENGLISH         "Rewards"
+
+REFERENCE            rewards_earned
+LANG_ENGLISH         "You earned the following rewards:"
+
+REFERENCE            round
+LANG_ENGLISH         "Round"
+
+REFERENCE            round_end
+LANG_ENGLISH         "Round End"
+
+REFERENCE            round_number
+LANG_ENGLISH         "Round &&1"
+
+REFERENCE            round_one
+LANG_ENGLISH         "Round 1"
+
+REFERENCE            round_results
+LANG_ENGLISH         "Round Results"
+
+REFERENCE            runner_up
+LANG_ENGLISH         "RUNNER UP"
+
+REFERENCE            second
+LANG_ENGLISH         "2nd"
+
+REFERENCE            semi_finalists
+LANG_ENGLISH         "Semi-Finalists"
+
+REFERENCE            semi_finals
+LANG_ENGLISH         "Semi Finals"
+
+REFERENCE            sign_up
+LANG_ENGLISH         "Sign up: [{ui_codPoints}] &&1"
+
+REFERENCE            sign_up_no_cost
+LANG_ENGLISH         "Sign Up"
+
+REFERENCE            spectate
+LANG_ENGLISH         "[{ui_alt1}] Spectate Match"
+
+REFERENCE            starting_in
+LANG_ENGLISH         "Starting in: &&1"
+
+REFERENCE            team_count
+LANG_ENGLISH         "&&1 teams of &&2 players"
+
+REFERENCE            third
+LANG_ENGLISH         "3rd"
+
+REFERENCE            time_minutes
+LANG_ENGLISH         "&&1 minutes"
+
+REFERENCE            title
+LANG_ENGLISH         "Tournament"
+
+REFERENCE            tournament_time
+LANG_ENGLISH         "Average Tournament Time"
+
+REFERENCE            versus
+LANG_ENGLISH         "VS"
+
+REFERENCE            victorious
+LANG_ENGLISH         "You are the winner!"
+
+REFERENCE            waiting_for_winner
+LANG_ENGLISH         "Waiting for the winner of match &&1"
+
+REFERENCE            waiting_on_prev_match
+LANG_ENGLISH         "Waiting for opponent's previous match to complete"
+
+REFERENCE            waiting_on_ready_up
+LANG_ENGLISH         "Waiting for other players to Ready Up"
+
+REFERENCE            waiting_to_start
+LANG_ENGLISH         "Waiting for gunfight tournament to start"
+
+REFERENCE            warning
+LANG_ENGLISH         "Warning"
+
+REFERENCE            warning_confirm
+LANG_ENGLISH         "Ok"
+
+REFERENCE            warning_message
+LANG_ENGLISH         "Leaving tournament during active play will result in strikes which will lead to a ban. This is your first and only warning. Leaving early from a gunfight bracket will result in a 24hr ban."
+
+REFERENCE            welcome
+LANG_ENGLISH         "Welcome to the Gunfight Tournament"
+
+REFERENCE            winner
+LANG_ENGLISH         "Winner"
+
+REFERENCE            you_placed
+LANG_ENGLISH         "You placed"
+
+REFERENCE            your_wallet
+LANG_ENGLISH         "Your wallet [{ui_codPoints}] &&1"
+
+
+ENDMARKER

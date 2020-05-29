@@ -1,0 +1,57 @@
+MTNTKPTMO "flashed"
+// The amount of time in seconds for the shellshock effect to blend
+LLSTOSTPPR "0.01"
+// The amount of time in seconds for the shellshock effect to fade
+MTQKMOLQPL "0.02"
+// In seconds, how soon from the end of the effect to start blending out the whiteout layer.
+NMMNTPTLKO "0.05"
+// In seconds, how soon from the end of the effect to start blending out the screengrab layer.
+MNTLOLMPLL "0.3"
+
+// The period of the shellshock view kick effect
+LQMSTMTRTO "3"
+// Shell shock kick radius
+MMMQSMMRL "0.99"
+// The time for the shellshock kick effect to fade
+LTQLMMNNKK "2.5"
+
+// Play shell shock sound
+MSNQLPOLRP "0"
+// Shellshock loop alias
+MKLPKQTKQN "flashbang_tinnitus_loop"
+// The sound that gets blended with the shellshock loop alias
+NMORMTTOTK "flashbang_tinnitus_loop_silent"
+// Shellshock end sound alias
+LLMSLLSMSO "flashbang_tinnitus_end"
+// Shellshock aborted end sound alias
+NLSKOTNRTK "flashbang_tinnitus_abort"
+
+// Shell shock sound fade in time in seconds
+MQNQSOTLRT "0.05"
+// Shell shock sound fade out time in seconds
+LTLPONSSOQ "1.25"
+// Shell shock sound loop fade time in seconds
+MORTTNKLMK "1.25"
+// Sound loop end offset time from the end of the shellshock in seconds
+NTLSSLOSST "-1.25"
+
+// Shell shock sound audio zone
+NONPKOOTQN ""
+// The delay from the end of the shell shock to the end of the sound modification
+LMQPNKKPNP "0.1"
+
+// Alter player control during shellshock
+NTTLTTNQQO "1"
+// Maximum pitch movement rate while shellshocked in degrees per second
+NMRQOMMKQ "2"
+// Maximum yaw movement rate while shell shocked in degrees per second
+NLQQNTOTLL "1.25"
+// Sensitivity scale to apply to a shellshocked player
+MQLOKRSRT "0.1"
+MOMSRLRNNQ "4"
+
+LMSOKTLPKR "0"
+MMLLQKNTRO "0"
+OOQMONOTO "0"
+
+LLQNNMRKLR "1"

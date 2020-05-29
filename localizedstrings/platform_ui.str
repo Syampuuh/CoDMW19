@@ -1,0 +1,418 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            adapter
+LANG_ENGLISH         "Display Adapter"
+
+REFERENCE            ads_fov
+LANG_ENGLISH         "ADS Field of View"
+
+REFERENCE            ads_fov_description
+LANG_ENGLISH         "^5Independent:^7 Aiming Down Sights zooms the field of view to its usual value.
+
+^5Affected:^7 Aiming Down Sights zooms to a value closer to the Field of View setting. Only applies to ^5low^7 magnification levels (less than 3.25x) including iron sights."
+
+REFERENCE            aspect_ratio
+LANG_ENGLISH         "Aspect Ratio"
+
+REFERENCE            aspect_ratio_caps
+LANG_ENGLISH         "ASPECT RATIO"
+
+REFERENCE            aspect_ratio_desc
+LANG_ENGLISH         "Set a ^5fixed aspect ratio for the game's rendering.^7
+
+Changing the aspect ratio may result in lower framerate and some graphical artifacts."
+
+REFERENCE            cancel_right
+LANG_ENGLISH         "Cancel ^5&&1^7"
+
+REFERENCE            clear_attachments
+LANG_ENGLISH         "^5F1 ^0- ^7CLEAR ATTACHMENTS"
+
+REFERENCE            clear_deathstreaks
+LANG_ENGLISH         "^5F1 ^0- ^7Clear Death Streaks"
+
+REFERENCE            clear_killstreaks
+LANG_ENGLISH         "^5F1 ^0- ^7Clear Kill Streaks"
+
+REFERENCE            clear_perks
+LANG_ENGLISH         "^5F1 ^0- ^7Clear Perks"
+
+REFERENCE            confirm_rarity
+LANG_ENGLISH         "confirm rarity"
+
+REFERENCE            controller_deadzone_desc
+LANG_ENGLISH         "Adjust the controller deadzone that represents the inner range in which stick input will not be registered."
+
+REFERENCE            cpu_priority_management
+LANG_ENGLISH         "CPU Priority Management"
+
+REFERENCE            cpu_priority_management_caps
+LANG_ENGLISH         "CPU PRIORITY MANAGEMENT"
+
+REFERENCE            cpu_priority_management_desc
+LANG_ENGLISH         "^5Manual:^7 CPU Priority will never be changed by the game.
+
+^5Automatic:^7 CPU Priority is changed when the game is out of focus."
+
+REFERENCE            custom_framerate_limit_caps
+LANG_ENGLISH         "Gameplay Custom Framerate Limit"
+
+REFERENCE            custom_framerate_limit_desc
+LANG_ENGLISH         "Set a custom limit to the number of frames per second ^5in gameplay only^7.
+
+Note that if ^5V-Sync^7 is on, your maximum framerate is still going to be your monitor's refresh rate."
+
+REFERENCE            depth_of_field
+LANG_ENGLISH         "Depth of Field"
+
+REFERENCE            depth_of_field_desc
+LANG_ENGLISH         "^5Disabled:^7 Out of focus blur effect is disabled.
+
+^5Enabled:^7 Simulates camera lens, out of focus regions appear blurry.
+
+^3Depth of Field will show visual noise if the Anti-Aliasing option is not set to SMAA T2X or Filmic SMAA T2X.^7"
+
+REFERENCE            desc_display_options
+LANG_ENGLISH         "Set the Display options."
+
+REFERENCE            desc_light_shadow_options
+LANG_ENGLISH         "Set the Light and Shadow options."
+
+REFERENCE            desc_miscellaneous_options
+LANG_ENGLISH         "Set the Miscellaneous options."
+
+REFERENCE            desc_post_process_options
+LANG_ENGLISH         "Set the Post Process options"
+
+REFERENCE            desc_texture_options
+LANG_ENGLISH         "Set the Texture options."
+
+REFERENCE            display_driver_update_message_amd
+LANG_ENGLISH         "Radeon??? Software revision number &&1, or better, is required."
+
+REFERENCE            display_driver_update_message_nvidia
+LANG_ENGLISH         "Geforce?? Game Ready version &&1, or better, is required."
+
+REFERENCE            display_driver_update_message_warning
+LANG_ENGLISH         "The game may not function with the current display driver.  Are you sure you wish to continue?"
+
+REFERENCE            display_driver_update_title
+LANG_ENGLISH         "Display Driver Update Required"
+
+REFERENCE            display_driver_update_title_caps
+LANG_ENGLISH         "DISPLAY DRIVER UPDATE REQUIRED"
+
+REFERENCE            display_gamma_caps
+LANG_ENGLISH         "Display Gamma"
+
+REFERENCE            display_gamma_cpu_rgb
+LANG_ENGLISH         "CPU RGB"
+
+REFERENCE            display_gamma_desc
+LANG_ENGLISH         "Select the gamma setting that matches your display device. ^5This affects the game's luminosity.^7"
+
+REFERENCE            display_gamma_hdtv
+LANG_ENGLISH         "HDTV"
+
+REFERENCE            display_mode_desc_alt
+LANG_ENGLISH         "Select Windowed or Fullscreen. Pressing Alt + Enter toggles between fullscreen and windowed modes."
+
+REFERENCE            display_options
+LANG_ENGLISH         "Display Options"
+
+REFERENCE            display_options_caps
+LANG_ENGLISH         "DISPLAY OPTIONS"
+
+REFERENCE            dynamic_light_limit_caps
+LANG_ENGLISH         "DYNAMIC LIGHT LIMIT"
+
+REFERENCE            dynamic_light_limit_desc
+LANG_ENGLISH         "Number of dynamic lights"
+
+REFERENCE            dynamic_shadow_caps
+LANG_ENGLISH         "DYNAMIC SHADOWS"
+
+REFERENCE            dynamic_shadow_desc
+LANG_ENGLISH         "Improved shadow quality"
+
+REFERENCE            eog_summary_play_again
+LANG_ENGLISH         "Play Again"
+
+REFERENCE            eog_summary_return
+LANG_ENGLISH         "Return to Special OPS"
+
+REFERENCE            exit_game_caps
+LANG_ENGLISH         "EXIT GAME"
+
+REFERENCE            feeder_secondary_controller_play
+LANG_ENGLISH         "Player 2 Press &&1 To Play"
+
+REFERENCE            feeder_secondary_controller_plugin
+LANG_ENGLISH         "Add Controller For Split Screen"
+
+REFERENCE            feeder_secondary_controller_signin
+LANG_ENGLISH         "Player 2 Press &&1 To Sign In"
+
+REFERENCE            fov_caps
+LANG_ENGLISH         "Field of View"
+
+REFERENCE            fov_desc
+LANG_ENGLISH         "Defines the ^5height and width of in-game view.^7
+
+The value selected combined with the current aspect ratio creates the true field of view. The current true values are: Horizontal &&1 and Vertical &&2.
+
+Changing the scale may result in lower framerate and some graphical artifacts."
+
+REFERENCE            fov_vehicles
+LANG_ENGLISH         "Vehicles 3rd Person FOV"
+
+REFERENCE            fov_vehicles_desc
+LANG_ENGLISH         "Defines the width of in-game view while using a ^53rd person view in vehicles^7. Values greater than the default may result in lower framerate and some graphical issues."
+
+REFERENCE            framerate_limit
+LANG_ENGLISH         "Custom Framerate Limit"
+
+REFERENCE            framerate_limit_caps
+LANG_ENGLISH         "FRAMERATE LIMIT"
+
+REFERENCE            framerate_limit_desc
+LANG_ENGLISH         "^5Unlimited:^7 Framerates are tied to your computer's performance.
+
+^5Custom:^7 Choose the specific framerate limit that you want in the advanced section below.
+
+Higher framerates makes the gameplay feel more fluid. However, setting a custom framerate limit can help prevent instability."
+
+REFERENCE            full_res
+LANG_ENGLISH         "Full-Res"
+
+REFERENCE            gamepad
+LANG_ENGLISH         "Controller"
+
+REFERENCE            go_back_and_wait
+LANG_ENGLISH         "Go back and wait"
+
+REFERENCE            half_res
+LANG_ENGLISH         "Half-Res"
+
+REFERENCE            image_quality
+LANG_ENGLISH         "Render Resolution"
+
+REFERENCE            keep_display_settings
+LANG_ENGLISH         "DISPLAY SETTINGS"
+
+REFERENCE            keep_display_settings_desc
+LANG_ENGLISH         "Do you want to keep these display settings?"
+
+REFERENCE            keep_display_settings_time
+LANG_ENGLISH         "Reverting in &&1 seconds"
+
+REFERENCE            light_and_shadow_options
+LANG_ENGLISH         "Light and Shadow Options"
+
+REFERENCE            light_and_shadow_options_caps
+LANG_ENGLISH         "LIGHT AND SHADOW OPTIONS"
+
+REFERENCE            material_lod_caps
+LANG_ENGLISH         "MATERIAL LEVEL OF DETAIL"
+
+REFERENCE            material_lod_desc
+LANG_ENGLISH         "Changes material shading quality for scene geometry at further distances."
+
+REFERENCE            mb_used
+LANG_ENGLISH         "MB used"
+
+REFERENCE            menu_custom_framerate_limit_caps
+LANG_ENGLISH         "Menu Custom Framerate Limit"
+
+REFERENCE            menu_custom_framerate_limit_desc
+LANG_ENGLISH         "Set a custom limit to the number of frames per second ^5in menus only.^7 Cannot exceed global Gameplay Custom Framerate Limit.
+
+^5V-Sync is always on for Menus.^7 Maximum framerate is still going to match your monitor's refresh rate."
+
+REFERENCE            misc_options
+LANG_ENGLISH         "MISCELLANEOUS OPTIONS"
+
+REFERENCE            monitor
+LANG_ENGLISH         "Display Monitor"
+
+REFERENCE            monitor_caps
+LANG_ENGLISH         "MONITOR"
+
+REFERENCE            monitor_desc
+LANG_ENGLISH         "Select on which ^5monitor the game is displayed.^7
+
+^3This option is only available in the Fullscreen and Borderless modes.^7"
+
+REFERENCE            motion_blur
+LANG_ENGLISH         "World Motion Blur"
+
+REFERENCE            motion_blur_desc
+LANG_ENGLISH         "^5Disabled:^7 Removes blurring of moving objects.
+
+^5Enabled:^7 Simulates blurring of moving objects.
+
+^3World Motion Blur will show visual noise if the Anti-Aliasing option is not set to SMAA T2X or Filmic SMAA T2X.^7"
+
+REFERENCE            native
+LANG_ENGLISH         "Native"
+
+REFERENCE            out_of_focus_custom_framerate_limit_caps
+LANG_ENGLISH         "Out of Focus Custom Framerate Limit
+"
+
+REFERENCE            out_of_focus_custom_framerate_limit_desc
+LANG_ENGLISH         "Set a custom limit to the number of frames per second ^5when the game is out of focus only.^7"
+
+REFERENCE            pause_installation
+LANG_ENGLISH         "Pause Installation"
+
+REFERENCE            paused
+LANG_ENGLISH         "(Paused)"
+
+REFERENCE            playing_with_controller
+LANG_ENGLISH         "Playing with a Controller"
+
+REFERENCE            post_process_options
+LANG_ENGLISH         "Post Process Options"
+
+REFERENCE            post_process_options_caps
+LANG_ENGLISH         "POST PROCESS OPTIONS"
+
+REFERENCE            preload_shaders_caps
+LANG_ENGLISH         "PRELOAD SHADERS"
+
+REFERENCE            preload_shaders_desc
+LANG_ENGLISH         "Install shaders during the loading screen instead of during gameplay. Turning this off will make you load a map faster, but might cause some graphical issues during gameplay."
+
+REFERENCE            press_buttonselectchoice
+LANG_ENGLISH         "Press ^5&&1^7 to skip."
+
+REFERENCE            press_to_continue
+LANG_ENGLISH         "Press ^5[{ui_primary}]^7 to continue."
+
+REFERENCE            restart_game_graphics
+LANG_ENGLISH         "Restart Game"
+
+REFERENCE            restart_game_graphics_message
+LANG_ENGLISH         "Restart game now to apply graphic settings?"
+
+REFERENCE            restart_shaders_desc
+LANG_ENGLISH         "This will delete your entire shaders cache. You will be sent to the main menu and kicked out of any party you were in. The shaders installation will be restarted."
+
+REFERENCE            selectbutton
+LANG_ENGLISH         "^5&&1^7"
+
+REFERENCE            selectbutton_deselect
+LANG_ENGLISH         "Press ^5&&1^7 to deselect."
+
+REFERENCE            selectbutton_disable
+LANG_ENGLISH         "Press ^5&&1^7 to disable."
+
+REFERENCE            selectbutton_enable
+LANG_ENGLISH         "Press ^5&&1^7 to enable."
+
+REFERENCE            selectbutton_select
+LANG_ENGLISH         "Press ^5&&1^7 to select."
+
+REFERENCE            selectbutton_toggle
+LANG_ENGLISH         "Press ^5&&1^7 to toggle."
+
+REFERENCE            shader_frontend_preload_already_done
+LANG_ENGLISH         "Full shader installation has already been completed."
+
+REFERENCE            shader_frontend_preload_skip
+LANG_ENGLISH         "To enter a lobby or match, you must pause the shaders installation. This will cause ^1noticeable performance issues^7 when playing a map for the first time."
+
+REFERENCE            shader_frontend_preload_skip_cancel
+LANG_ENGLISH         "Continue installing shaders"
+
+REFERENCE            shader_frontend_preload_skip_confirm
+LANG_ENGLISH         "Pause shader installation"
+
+REFERENCE            shader_frontend_preload_wait
+LANG_ENGLISH         "Installing Shaders"
+
+REFERENCE            shaders_menu_explanation
+LANG_ENGLISH         "Installing shaders to optimize performance during gameplay."
+
+REFERENCE            shaders_progress_coop
+LANG_ENGLISH         "Co-op: &&1%"
+
+REFERENCE            shaders_progress_multiplayer
+LANG_ENGLISH         "Multiplayer: &&1%"
+
+REFERENCE            shadow_caster_caps
+LANG_ENGLISH         "Shadow Caster Levels"
+
+REFERENCE            shadow_caster_desc
+LANG_ENGLISH         "Affects the number of shadow casting objects and shadow casting lights."
+
+REFERENCE            show_scores
+LANG_ENGLISH         "Show Scores"
+
+REFERENCE            sss_caps
+LANG_ENGLISH         "SUBSURFACE SCATTERING"
+
+REFERENCE            sss_desc
+LANG_ENGLISH         "Simulation of light transport through semi-translucent materials"
+
+REFERENCE            steam_overlay_required
+LANG_ENGLISH         "You must enable Steam Community In-Game to select this option."
+
+REFERENCE            store_mustlogin
+LANG_ENGLISH         "You must be connected to the internet to view the Store."
+
+REFERENCE            sys_restart_warning_mp
+LANG_ENGLISH         "Toggling this option will restart Call of Duty??: Modern Warfare??. You will be removed from any active lobbies or parties. Are you sure you want to restart?"
+
+REFERENCE            sys_restart_warning_sp
+LANG_ENGLISH         "Toggling this option will restart Call of Duty??: Modern Warfare??. Are you sure you want to restart?"
+
+REFERENCE            sys_restart_warning_title
+LANG_ENGLISH         "Restart Warning"
+
+REFERENCE            texture_options
+LANG_ENGLISH         "Texture Options"
+
+REFERENCE            texture_options_caps
+LANG_ENGLISH         "TEXTURE OPTIONS"
+
+REFERENCE            volumetric_lighting
+LANG_ENGLISH         "Volumetric Lighting"
+
+REFERENCE            volumetric_lighting_caps
+LANG_ENGLISH         "VOLUMETRIC LIGHTING"
+
+REFERENCE            volumetric_lighting_desc
+LANG_ENGLISH         "Enable sunbeam and lightbeam effects."
+
+REFERENCE            vsync
+LANG_ENGLISH         "Sync Every Frame (V-Sync)"
+
+REFERENCE            vsync_caps
+LANG_ENGLISH         "SYNC EVERY FRAME (V-SYNC)"
+
+REFERENCE            vsync_desc
+LANG_ENGLISH         "^5Disabled:^7 Does not limit your framerate with your monitor's refresh rate.
+
+^5Enabled:^7 Limits your framerate to match your monitor's refresh rate.
+
+Enabling this prevents screen tearing issues but causes some input lag."
+
+REFERENCE            warning_caps
+LANG_ENGLISH         "WARNING"
+
+REFERENCE            weapon_motion_blur
+LANG_ENGLISH         "Weapon Motion Blur"
+
+REFERENCE            weapon_motion_blur_desc
+LANG_ENGLISH         "^5Disabled:^7 Removes weapon motion blur effects.
+
+^5Enabled:^7 Adds weapon motion blur effects while moving, aiming, and firing.
+
+^3Weapon Motion Blur will show visual noise if the Anti-Aliasing option is not set to SMAA T2X or Filmic SMAA T2X.^7"
+
+
+ENDMARKER

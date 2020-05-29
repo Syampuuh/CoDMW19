@@ -1,0 +1,81 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            traditional_chinese
+LANG_ENGLISH         "Traditional Chinese"
+
+REFERENCE            text_language
+LANG_ENGLISH         "Text Language"
+
+REFERENCE            spanishna
+LANG_ENGLISH         "Spanish"
+
+REFERENCE            spanish
+LANG_ENGLISH         "Spanish"
+
+REFERENCE            simplified_chinese
+LANG_ENGLISH         "Simplified Chinese"
+
+REFERENCE            screen_title
+LANG_ENGLISH         "Language Selection"
+
+REFERENCE            safe_chinese
+LANG_ENGLISH         "Safe Chinese"
+
+REFERENCE            russian
+LANG_ENGLISH         "Russian"
+
+REFERENCE            portuguese
+LANG_ENGLISH         "Portuguese"
+
+REFERENCE            polish
+LANG_ENGLISH         "Polish"
+
+REFERENCE            partial
+LANG_ENGLISH         "subtitles and English audio"
+
+REFERENCE            mismatch
+LANG_ENGLISH         "Current language is set to &&1. Would you like to restart the game with &&2?"
+
+REFERENCE            language
+LANG_ENGLISH         "Language"
+
+REFERENCE            korean
+LANG_ENGLISH         "Korean"
+
+REFERENCE            japanese
+LANG_ENGLISH         "Japanese"
+
+REFERENCE            italian
+LANG_ENGLISH         "Italian"
+
+REFERENCE            german
+LANG_ENGLISH         "German"
+
+REFERENCE            french
+LANG_ENGLISH         "French"
+
+REFERENCE            english
+LANG_ENGLISH         "English"
+
+REFERENCE            czech
+LANG_ENGLISH         "Czech"
+
+REFERENCE            confirm_change
+LANG_ENGLISH         "Do you want to apply your selection and restart the game?"
+
+REFERENCE            button_text_desc
+LANG_ENGLISH         "Set your ^5preferred language.^7"
+
+REFERENCE            button_text
+LANG_ENGLISH         "Language Selection"
+
+REFERENCE            audio_language
+LANG_ENGLISH         "Audio Language"
+
+REFERENCE            arabic
+LANG_ENGLISH         "Arabic"
+
+
+ENDMARKER

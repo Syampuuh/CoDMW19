@@ -1,0 +1,153 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            accept_invite_fail
+LANG_ENGLISH         "Failed to accept regiment invitation"
+
+REFERENCE            block_invites
+LANG_ENGLISH         "Block Invites"
+
+REFERENCE            cannot_kick_member
+LANG_ENGLISH         "You do not have the permission to kick this member."
+
+REFERENCE            create_regiment
+LANG_ENGLISH         "Create"
+
+REFERENCE            create_regiment_desc
+LANG_ENGLISH         "Do you wish to create a regiment with the following details?"
+
+REFERENCE            create_regiment_header
+LANG_ENGLISH         "Create Regiment"
+
+REFERENCE            custom_clan_tag
+LANG_ENGLISH         "Custom Clan Tag"
+
+REFERENCE            custom_clan_tag_desc
+LANG_ENGLISH         "Edit your custom clan tag"
+
+REFERENCE            delete_regiment_button_desc
+LANG_ENGLISH         "Permanently delete your current regiment."
+
+REFERENCE            deleting_regiment
+LANG_ENGLISH         "Deleting Regiment..."
+
+REFERENCE            demoted_to_member
+LANG_ENGLISH         "You have been demoted to member"
+
+REFERENCE            demoted_to_officer
+LANG_ENGLISH         "You have been demoted to officer"
+
+REFERENCE            demotion
+LANG_ENGLISH         "Regiment Demotion"
+
+REFERENCE            digits_restriction_error
+LANG_ENGLISH         "You are not allowed to use more than &&1 numeric characters."
+
+REFERENCE            does_not_exist
+LANG_ENGLISH         "Regiment does not exist"
+
+REFERENCE            group_full
+LANG_ENGLISH         "Regiment is full"
+
+REFERENCE            happy_hour_end
+LANG_ENGLISH         "Happy Hour has ended"
+
+REFERENCE            happy_hour_start
+LANG_ENGLISH         "Happy Hour has started"
+
+REFERENCE            invite_accepted
+LANG_ENGLISH         "Regiment Invite Accepted"
+
+REFERENCE            invite_declined
+LANG_ENGLISH         "Regiment Invite Declined"
+
+REFERENCE            invite_prompt
+LANG_ENGLISH         "[{ui_trigger_right}]Invite to regiment"
+
+REFERENCE            invite_received
+LANG_ENGLISH         "Regiment Invite Received"
+
+REFERENCE            invite_revoked
+LANG_ENGLISH         "Regiment Invite Revoked"
+
+REFERENCE            invite_sent
+LANG_ENGLISH         "Regiment Invite Sent"
+
+REFERENCE            kick_from_regiment
+LANG_ENGLISH         "Kick from &&1"
+
+REFERENCE            kicked_desc
+LANG_ENGLISH         "You have been kicked from &&1"
+
+REFERENCE            kicked_header
+LANG_ENGLISH         "Kicked"
+
+REFERENCE            leaving_regiment
+LANG_ENGLISH         "Leaving Regiment..."
+
+REFERENCE            member_ban_exists
+LANG_ENGLISH         "You are currently banned"
+
+REFERENCE            member_kicked
+LANG_ENGLISH         "Member Kicked"
+
+REFERENCE            member_not_found
+LANG_ENGLISH         "Could not locate this player in the regiment."
+
+REFERENCE            memberships_reached
+LANG_ENGLISH         "You belong to the maximum number of regiments allowed"
+
+REFERENCE            name_restrictions_tip
+LANG_ENGLISH         "* Regiment name must be &&1 characters or less and contain no more than &&2 numeric characters."
+
+REFERENCE            name_warning
+LANG_ENGLISH         "[{streak_warning}] After creating a regiment, its name and tag cannot be changed"
+
+REFERENCE            officer_added
+LANG_ENGLISH         "Officer Added"
+
+REFERENCE            officer_removed
+LANG_ENGLISH         "Officer Removed"
+
+REFERENCE            promoted_to_officer
+LANG_ENGLISH         "You have been promoted to officer"
+
+REFERENCE            promoted_to_owner
+LANG_ENGLISH         "You have been promoted to owner"
+
+REFERENCE            promotion
+LANG_ENGLISH         "Regiment Promotion"
+
+REFERENCE            received_invite_prompt
+LANG_ENGLISH         "To Regiments"
+
+REFERENCE            regiment_clan_tag
+LANG_ENGLISH         "Regiment Clan Tag"
+
+REFERENCE            regiment_clan_tag_set
+LANG_ENGLISH         "Regiment clan tag set"
+
+REFERENCE            regiment_inviter
+LANG_ENGLISH         "Invitation from:"
+
+REFERENCE            regiment_name_confirm
+LANG_ENGLISH         "Regiment Name: ^5&&1^7"
+
+REFERENCE            regiment_tag_confirm
+LANG_ENGLISH         "Regiment Tag: ^5&&1^7"
+
+REFERENCE            roster_count
+LANG_ENGLISH         "Roster: &&1/&&2"
+
+REFERENCE            use_custom_clan_tag
+LANG_ENGLISH         "[{ui_alt1}] Use Custom Clan Tag"
+
+REFERENCE            use_regiment_clan_tag
+LANG_ENGLISH         "[{ui_alt1}] Use Regiment Clan Tag"
+
+REFERENCE            use_regiment_tag
+LANG_ENGLISH         "Use Regiment Clan Tag"
+
+
+ENDMARKER

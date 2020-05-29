@@ -1,0 +1,2985 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            emblem_586
+LANG_ENGLISH         "EMBLEM_586"
+
+REFERENCE            emblem_591
+LANG_ENGLISH         "Brain Storm"
+
+REFERENCE            emblem_592
+LANG_ENGLISH         "Lethality"
+
+REFERENCE            emblem_593
+LANG_ENGLISH         "Lethal Dose"
+
+REFERENCE            emblem_621
+LANG_ENGLISH         "EMBLEM 621"
+
+REFERENCE            emblem_347
+LANG_ENGLISH         "Robbery"
+
+REFERENCE            emblem_283
+LANG_ENGLISH         "Fang You"
+
+REFERENCE            emblem_532
+LANG_ENGLISH         "Gassed"
+
+REFERENCE            emblem_528
+LANG_ENGLISH         "Cog Of Duty"
+
+REFERENCE            emblem_526
+LANG_ENGLISH         "EMBLEM_526"
+
+REFERENCE            emblem_525
+LANG_ENGLISH         "EMBLEM_525"
+
+REFERENCE            emblem_524
+LANG_ENGLISH         "EMBLEM_524"
+
+REFERENCE            emblem_523
+LANG_ENGLISH         "EMBLEM_523"
+
+REFERENCE            emblem_522
+LANG_ENGLISH         "EMBLEM_522"
+
+REFERENCE            emblem_521
+LANG_ENGLISH         "Valor Raines"
+
+REFERENCE            emblem_520
+LANG_ENGLISH         "Valor Otter"
+
+REFERENCE            emblem_519
+LANG_ENGLISH         "EMBLEM_519"
+
+REFERENCE            emblem_518
+LANG_ENGLISH         "EMBLEM_518"
+
+REFERENCE            emblem_517
+LANG_ENGLISH         "EMBLEM_517"
+
+REFERENCE            emblem_189
+LANG_ENGLISH         "Howling Dawn"
+
+REFERENCE            emblem_677
+LANG_ENGLISH         "EMBLEM 677"
+
+REFERENCE            emblem_778
+LANG_ENGLISH         "EMBLEM 778"
+
+REFERENCE            emblem_777
+LANG_ENGLISH         "Smoking Buddy"
+
+REFERENCE            emblem_780
+LANG_ENGLISH         "Cash Sack"
+
+REFERENCE            emblem_128
+LANG_ENGLISH         "3-Pronged Attack"
+
+REFERENCE            emblem_mc_obsidian_sm_beta
+LANG_ENGLISH         "PP19 Bizon Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sm_augolf
+LANG_ENGLISH         "SAUG Master: Obsidian"
+
+REFERENCE            emblem_127
+LANG_ENGLISH         "EMBLEM_127"
+
+REFERENCE            emblem_mc_obsidian_lm_mgolf34
+LANG_ENGLISH         "MG34 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_lm_lima86
+LANG_ENGLISH         "SA87 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_lm_kilo121
+LANG_ENGLISH         "M91 Master: Obsidian"
+
+REFERENCE            emblem_126
+LANG_ENGLISH         "EMBLEM_126"
+
+REFERENCE            emblem_mc_obsidian_la_gromeo
+LANG_ENGLISH         "PILA Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_la_juliet
+LANG_ENGLISH         "Strela-P "
+
+REFERENCE            emblem_724
+LANG_ENGLISH         "EMBLEM 724"
+
+REFERENCE            emblem_mc_obsidian_ar_tango21
+LANG_ENGLISH         "RAM-7 Master: Obsidian"
+
+REFERENCE            emblem_723
+LANG_ENGLISH         "EMBLEM 723"
+
+REFERENCE            emblem_mc_obsidian_ar_sierra552
+LANG_ENGLISH         "Grau 5.56 Master: Obsidian"
+
+REFERENCE            emblem_125
+LANG_ENGLISH         "EMBLEM_125"
+
+REFERENCE            emblem_mc_obsidian_ar_kilo433
+LANG_ENGLISH         "Kilo 141 Master: Obsidian"
+
+REFERENCE            emblem_124
+LANG_ENGLISH         "EMBLEM_124"
+
+REFERENCE            emblem_mc_obsidian_ar_falima
+LANG_ENGLISH         "FAL Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_ar_mcharlie
+LANG_ENGLISH         "M13 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_ar_scharlie
+LANG_ENGLISH         "FN SCar 17 Master: Obsidian"
+
+REFERENCE            emblem_758
+LANG_ENGLISH         "Bone Collector"
+
+REFERENCE            emblem_mc_obsidian_ar_falpha
+LANG_ENGLISH         "FR 5.56 Master: Obsidian"
+
+REFERENCE            emblem_123
+LANG_ENGLISH         "Sea Worthy"
+
+REFERENCE            emblem_mc_obsidian_ar_asierra12
+LANG_ENGLISH         "Oden Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_ar_akilo47
+LANG_ENGLISH         "AK-47 Master: Obsidian"
+
+REFERENCE            emblem_755
+LANG_ENGLISH         "Harbinger"
+
+REFERENCE            emblem_mc_gold_sn_sksierra
+LANG_ENGLISH         "SKS Master: Gold"
+
+REFERENCE            emblem_122
+LANG_ENGLISH         "Jump Master"
+
+REFERENCE            emblem_mc_gold_sn_crossbow
+LANG_ENGLISH         "Crossbow Master: Gold"
+
+REFERENCE            emblem_121
+LANG_ENGLISH         "Airborne"
+
+REFERENCE            emblem_mc_gold_sn_mike14
+LANG_ENGLISH         "EBR-14 Master: Gold"
+
+REFERENCE            emblem_mc_gold_sn_kilo98
+LANG_ENGLISH         "Kar98k Master: Gold"
+
+REFERENCE            emblem_mc_gold_sn_hdromeo
+LANG_ENGLISH         "HDR Master: Gold"
+
+REFERENCE            emblem_120
+LANG_ENGLISH         "Viper Valor"
+
+REFERENCE            emblem_mc_obsidian_la_rpapa7
+LANG_ENGLISH         "RPG-7 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_la_kgolf
+LANG_ENGLISH         "JOKR Master: Obsidian"
+
+REFERENCE            emblem_mc_gold_sn_sbeta
+LANG_ENGLISH         "MK2 Carbine Master: Gold"
+
+REFERENCE            emblem_119
+LANG_ENGLISH         "Wading Marauder"
+
+REFERENCE            emblem_118
+LANG_ENGLISH         "EMBLEM_118"
+
+REFERENCE            emblem_mc_gold_ar_mcharlie
+LANG_ENGLISH         "M13 Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_kilo433
+LANG_ENGLISH         "Kilo 141 Master: Gold"
+
+REFERENCE            emblem_117
+LANG_ENGLISH         "Valor Stars"
+
+REFERENCE            emblem_mc_gold_la_gromeo
+LANG_ENGLISH         "PILA Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_tango21
+LANG_ENGLISH         "RAM-7 Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_akilo47
+LANG_ENGLISH         "AK-47 Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_falpha
+LANG_ENGLISH         "FR 5.56 Master: Gold"
+
+REFERENCE            emblem_mc_damascus_sn_sksierra
+LANG_ENGLISH         "Grau 5.56 Master: Damascus"
+
+REFERENCE            emblem_116
+LANG_ENGLISH         "Chrome Rams"
+
+REFERENCE            emblem_mc_damascus_sn_sbeta
+LANG_ENGLISH         "Mk2 Carbine Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sn_hdromeo
+LANG_ENGLISH         "HDR Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_smgolf45
+LANG_ENGLISH         "Striker 54 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_papa90
+LANG_ENGLISH         "P90 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sh_oscar12
+LANG_ENGLISH         "Origin 12 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_mpapa7
+LANG_ENGLISH         "MP7 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sh_romeo870
+LANG_ENGLISH         "Model 680 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sh_charlie725
+LANG_ENGLISH         "725 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sh_mike26
+LANG_ENGLISH         "VLK Rogue Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sh_dpapa12
+LANG_ENGLISH         "R9-0 Master: Damascus"
+
+REFERENCE            emblem_115
+LANG_ENGLISH         "In Flight"
+
+REFERENCE            emblem_mc_damascus_pi_mike9
+LANG_ENGLISH         "Renetti Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_pi_papa320
+LANG_ENGLISH         "M19 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_pi_mike1911
+LANG_ENGLISH         "1911 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_pi_golf21
+LANG_ENGLISH         "X16 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_pi_decho
+LANG_ENGLISH         ".50 GS Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_pi_cpapa
+LANG_ENGLISH         ".357 Master: Damascus"
+
+REFERENCE            emblem_114
+LANG_ENGLISH         "Bear Bites"
+
+REFERENCE            emblem_mc_damascus_me_soscar_knife
+LANG_ENGLISH         "Combat Knife Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_me_riotshield
+LANG_ENGLISH         "Riot Shield Master: Damascus"
+
+REFERENCE            emblem_113
+LANG_ENGLISH         "EMBLEM_113"
+
+REFERENCE            emblem_mc_damascus_lm_pkilo
+LANG_ENGLISH         "PKM Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_lm_mkilo3
+LANG_ENGLISH         "Bruen MK9 Master: Damascus"
+
+REFERENCE            emblem_112
+LANG_ENGLISH         "Cross Swords"
+
+REFERENCE            emblem_mc_damascus_lm_lima86
+LANG_ENGLISH         "SA87 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_lm_mgolf34
+LANG_ENGLISH         "MG34 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_lm_mgolf36
+LANG_ENGLISH         "Holger-26 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_lm_kilo121
+LANG_ENGLISH         "M91 Master: Damascus"
+
+REFERENCE            emblem_111
+LANG_ENGLISH         "Jolly Roger's Legacy"
+
+REFERENCE            emblem_mc_damascus_la_rpapa7
+LANG_ENGLISH         "RPG-7 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_la_kgolf
+LANG_ENGLISH         "JOKR Master: Damascus"
+
+REFERENCE            emblem_110
+LANG_ENGLISH         "EMBLEM_110"
+
+REFERENCE            emblem_mc_damascus_la_juliet
+LANG_ENGLISH         "Strela-P Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_la_gromeo
+LANG_ENGLISH         "PILA Master: Damascus"
+
+REFERENCE            emblem_109
+LANG_ENGLISH         "Glory Swords"
+
+REFERENCE            emblem_mc_damascus_ar_tango21
+LANG_ENGLISH         "RAM-7 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_ar_sierra552
+LANG_ENGLISH         "Grau 5.56 Master: Damascus"
+
+REFERENCE            emblem_108
+LANG_ENGLISH         "EMBLEM_108"
+
+REFERENCE            emblem_mc_damascus_ar_scharlie
+LANG_ENGLISH         "FN Scar 17 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_ar_mike4
+LANG_ENGLISH         "M4A1 Master: Damascus"
+
+REFERENCE            emblem_107
+LANG_ENGLISH         "Knife's Edge"
+
+REFERENCE            emblem_106
+LANG_ENGLISH         "Silver Valor"
+
+REFERENCE            emblem_mc_damascus_ar_falpha
+LANG_ENGLISH         "FR 5.56 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_ar_falima
+LANG_ENGLISH         "FAL Master: Damascus"
+
+REFERENCE            emblem_105
+LANG_ENGLISH         "Clad Colleseum"
+
+REFERENCE            emblem_mc_damascus_ar_asierra12
+LANG_ENGLISH         "Oden Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_ar_akilo47
+LANG_ENGLISH         "AK-47 Master: Damascus"
+
+REFERENCE            emblem_104
+LANG_ENGLISH         "Shining Eagle"
+
+REFERENCE            emblem_801
+LANG_ENGLISH         "Seattle Surge Home Series"
+
+REFERENCE            emblem_800
+LANG_ENGLISH         "Paris Legion Home Series"
+
+REFERENCE            emblem_102
+LANG_ENGLISH         "EMBLEM_102"
+
+REFERENCE            emblem_798
+LANG_ENGLISH         "Minnesota R??kkr Home Series"
+
+REFERENCE            emblem_796
+LANG_ENGLISH         "Optic Gaming Los Angeles Home Series"
+
+REFERENCE            emblem_101
+LANG_ENGLISH         "Gassed Gods"
+
+REFERENCE            emblem_795
+LANG_ENGLISH         "Los Angeles Guerrillas Home Series"
+
+REFERENCE            emblem_793
+LANG_ENGLISH         "Dallas Empire Home Series"
+
+REFERENCE            emblem_100
+LANG_ENGLISH         "EMBLEM_100"
+
+REFERENCE            emblem_099
+LANG_ENGLISH         "Put a Pin In It"
+
+REFERENCE            emblem_775
+LANG_ENGLISH         "Echo 31"
+
+REFERENCE            emblem_mc_gold_sm_uzulu
+LANG_ENGLISH         "Uzi Master: Gold"
+
+REFERENCE            emblem_776
+LANG_ENGLISH         "EMBLEM 776"
+
+REFERENCE            emblem_774
+LANG_ENGLISH         "Indiana"
+
+REFERENCE            emblem_098
+LANG_ENGLISH         "EMBLEM_098"
+
+REFERENCE            emblem_097
+LANG_ENGLISH         "Anchors Aweigh"
+
+REFERENCE            emblem_748
+LANG_ENGLISH         "EMBLEM 748"
+
+REFERENCE            emblem_747
+LANG_ENGLISH         "EMBLEM 747"
+
+REFERENCE            emblem_096
+LANG_ENGLISH         "Brazen Anchors"
+
+REFERENCE            emblem_731
+LANG_ENGLISH         "EMBLEM 731"
+
+REFERENCE            emblem_730
+LANG_ENGLISH         "EMBLEM 730"
+
+REFERENCE            emblem_728
+LANG_ENGLISH         "EMBLEM 728"
+
+REFERENCE            emblem_095
+LANG_ENGLISH         "Bite the Bullet"
+
+REFERENCE            emblem_727
+LANG_ENGLISH         "EMBLEM 727"
+
+REFERENCE            emblem_726
+LANG_ENGLISH         "EMBLEM 726"
+
+REFERENCE            emblem_725
+LANG_ENGLISH         "EMBLEM 725"
+
+REFERENCE            emblem_721
+LANG_ENGLISH         "EMBLEM 721"
+
+REFERENCE            emblem_720
+LANG_ENGLISH         "EMBLEM 720"
+
+REFERENCE            emblem_091
+LANG_ENGLISH         "EMBLEM_091"
+
+REFERENCE            emblem_mc_gold_sn_alpha50
+LANG_ENGLISH         "AX-50 Master: Gold"
+
+REFERENCE            emblem_mc_gold_me_soscar_knife
+LANG_ENGLISH         "Combat Knife Master: Gold"
+
+REFERENCE            emblem_768
+LANG_ENGLISH         "EMBLEM 768"
+
+REFERENCE            emblem_090
+LANG_ENGLISH         "Honor Bound"
+
+REFERENCE            emblem_767
+LANG_ENGLISH         "Laid to Rest"
+
+REFERENCE            emblem_766
+LANG_ENGLISH         "Waxy Brains"
+
+REFERENCE            emblem_089
+LANG_ENGLISH         "Red Honor"
+
+REFERENCE            emblem_789
+LANG_ENGLISH         "Avocadabra"
+
+REFERENCE            emblem_790
+LANG_ENGLISH         "Sparks Pride"
+
+REFERENCE            emblem_088
+LANG_ENGLISH         "Ocean's Fury"
+
+REFERENCE            emblem_787
+LANG_ENGLISH         "Plucky"
+
+REFERENCE            emblem_783
+LANG_ENGLISH         "The Cyborg"
+
+REFERENCE            emblem_785
+LANG_ENGLISH         "Inner Fire"
+
+REFERENCE            emblem_786
+LANG_ENGLISH         "No Remorse"
+
+REFERENCE            emblem_784
+LANG_ENGLISH         "Season 3"
+
+REFERENCE            emblem_087
+LANG_ENGLISH         "Statuesque"
+
+REFERENCE            emblem_781
+LANG_ENGLISH         "Getting Some Air"
+
+REFERENCE            emblem_782
+LANG_ENGLISH         "Take A Knee"
+
+REFERENCE            emblem_779
+LANG_ENGLISH         "Bada Boom"
+
+REFERENCE            emblem_086
+LANG_ENGLISH         "Grim Gargoyle"
+
+REFERENCE            emblem_773
+LANG_ENGLISH         "Slughead"
+
+REFERENCE            emblem_771
+LANG_ENGLISH         "Mastermind"
+
+REFERENCE            emblem_772
+LANG_ENGLISH         "Inner Light"
+
+REFERENCE            emblem_769
+LANG_ENGLISH         "EMBLEM 769"
+
+REFERENCE            emblem_770
+LANG_ENGLISH         "Fruit Salad"
+
+REFERENCE            emblem_085
+LANG_ENGLISH         "Gremlin"
+
+REFERENCE            emblem_mc_obsidian_sn_alpha50
+LANG_ENGLISH         "AX-50 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sn_crossbow
+LANG_ENGLISH         "Crossbow Master: Obsidian"
+
+REFERENCE            emblem_084
+LANG_ENGLISH         "EMBLEM_084"
+
+REFERENCE            emblem_mc_obsidian_sm_uzulu
+LANG_ENGLISH         "Uzi Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sm_smgolf45
+LANG_ENGLISH         "Striker Master: Obsidian"
+
+REFERENCE            emblem_083
+LANG_ENGLISH         "EMBLEM_083"
+
+REFERENCE            emblem_mc_obsidian_sm_mpapa7
+LANG_ENGLISH         "MP7 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sm_papa90
+LANG_ENGLISH         "P90 Master: Obsidian"
+
+REFERENCE            emblem_082
+LANG_ENGLISH         "EMBLEM_082"
+
+REFERENCE            emblem_mc_obsidian_lm_mkilo3
+LANG_ENGLISH         "SBruen MK9 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_lm_pkilo
+LANG_ENGLISH         "PKM Master: Obsidian"
+
+REFERENCE            emblem_081
+LANG_ENGLISH         "EMBLEM_081"
+
+REFERENCE            emblem_080
+LANG_ENGLISH         "EMBLEM_080"
+
+REFERENCE            emblem_mc_obsidian_sh_oscar12
+LANG_ENGLISH         "Origin 12 Master: Obsidian"
+
+REFERENCE            emblem_079
+LANG_ENGLISH         "EMBLEM_079"
+
+REFERENCE            emblem_078
+LANG_ENGLISH         "EMBLEM_078"
+
+REFERENCE            emblem_mc_obsidian_sh_charlie725
+LANG_ENGLISH         "725 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_pi_papa320
+LANG_ENGLISH         "M19 Master: Obsidian"
+
+REFERENCE            emblem_077
+LANG_ENGLISH         "EMBLEM_077"
+
+REFERENCE            emblem_076
+LANG_ENGLISH         "EMBLEM_076"
+
+REFERENCE            emblem_mc_obsidian_pi_mike9
+LANG_ENGLISH         "Renetti Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_pi_mike1911
+LANG_ENGLISH         "1911 Master: Obsidian"
+
+REFERENCE            emblem_075
+LANG_ENGLISH         "EMBLEM_075"
+
+REFERENCE            emblem_mc_obsidian_pi_decho
+LANG_ENGLISH         ".50 GS Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_pi_golf21
+LANG_ENGLISH         "X16 Master: Obsidian"
+
+REFERENCE            emblem_074
+LANG_ENGLISH         "EMBLEM_074"
+
+REFERENCE            emblem_mc_obsidian_me_soscar_knife
+LANG_ENGLISH         "Combat Knife Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_pi_cpapa
+LANG_ENGLISH         ".357 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_me_riotshield
+LANG_ENGLISH         "Riot Shield Master: Obsidian"
+
+REFERENCE            emblem_073
+LANG_ENGLISH         "EMBLEM_073"
+
+REFERENCE            emblem_mc_obsidian_lm_mgolf36
+LANG_ENGLISH         "Holger-26 Master: Obsidian"
+
+REFERENCE            emblem_072
+LANG_ENGLISH         "King's Seal"
+
+REFERENCE            emblem_mc_obsidian_sh_romeo870
+LANG_ENGLISH         "Model 680 Master: Obsidian"
+
+REFERENCE            emblem_071
+LANG_ENGLISH         "Death Ops"
+
+REFERENCE            emblem_mc_obsidian_sh_mike26
+LANG_ENGLISH         "VLK Rogue Master: Obsidian"
+
+REFERENCE            emblem_070
+LANG_ENGLISH         "Poseidon's Fury"
+
+REFERENCE            emblem_069
+LANG_ENGLISH         "Night Hunter"
+
+REFERENCE            emblem_068
+LANG_ENGLISH         "Stoic Sentinel"
+
+REFERENCE            emblem_067
+LANG_ENGLISH         "DingoBat"
+
+REFERENCE            emblem_066
+LANG_ENGLISH         "Knights Chivalry"
+
+REFERENCE            emblem_065
+LANG_ENGLISH         "Knights Honor"
+
+REFERENCE            emblem_064
+LANG_ENGLISH         "Bad Beret"
+
+REFERENCE            emblem_063
+LANG_ENGLISH         "Skeleton Corps"
+
+REFERENCE            emblem_062
+LANG_ENGLISH         "Atlantis Frontier"
+
+REFERENCE            emblem_061
+LANG_ENGLISH         "Darkest Depths"
+
+REFERENCE            emblem_060
+LANG_ENGLISH         "Wolf's Mantel"
+
+REFERENCE            emblem_059
+LANG_ENGLISH         "Wolf Pack"
+
+REFERENCE            emblem_058
+LANG_ENGLISH         "Wyvern Corps"
+
+REFERENCE            emblem_057
+LANG_ENGLISH         "Night Watcher"
+
+REFERENCE            emblem_056
+LANG_ENGLISH         "Hyena's Fury"
+
+REFERENCE            emblem_055
+LANG_ENGLISH         "Hyena Howl"
+
+REFERENCE            emblem_054
+LANG_ENGLISH         "DROZA Champions"
+
+REFERENCE            emblem_053
+LANG_ENGLISH         "Chained Down"
+
+REFERENCE            emblem_052
+LANG_ENGLISH         "Memento Mori"
+
+REFERENCE            emblem_051
+LANG_ENGLISH         "Edge Lord"
+
+REFERENCE            emblem_050
+LANG_ENGLISH         "K.T. Love"
+
+REFERENCE            emblem_049
+LANG_ENGLISH         "Growmaster"
+
+REFERENCE            emblem_048
+LANG_ENGLISH         "Cracked Colossus"
+
+REFERENCE            emblem_047
+LANG_ENGLISH         "G.O.M.E Illuminations"
+
+REFERENCE            emblem_046
+LANG_ENGLISH         "ARENAS Protection"
+
+REFERENCE            emblem_045
+LANG_ENGLISH         "Bloody Vaidy"
+
+REFERENCE            emblem_044
+LANG_ENGLISH         "Inky Business"
+
+REFERENCE            emblem_043
+LANG_ENGLISH         "D.M.A.C"
+
+REFERENCE            emblem_042
+LANG_ENGLISH         "Recipe G.A.M.E.R.O"
+
+REFERENCE            emblem_041
+LANG_ENGLISH         "Change In The Air"
+
+REFERENCE            emblem_040
+LANG_ENGLISH         "Prickly"
+
+REFERENCE            emblem_039
+LANG_ENGLISH         "D.L.U.D Intel"
+
+REFERENCE            emblem_038
+LANG_ENGLISH         "Emerald Emissions"
+
+REFERENCE            emblem_037
+LANG_ENGLISH         "Agent MSZ"
+
+REFERENCE            emblem_036
+LANG_ENGLISH         "Seadog"
+
+REFERENCE            emblem_035
+LANG_ENGLISH         "High Voltage"
+
+REFERENCE            emblem_034
+LANG_ENGLISH         "Gelatinous Rube"
+
+REFERENCE            emblem_033
+LANG_ENGLISH         "Frostfang"
+
+REFERENCE            emblem_032
+LANG_ENGLISH         "Grim Beauty"
+
+REFERENCE            emblem_031
+LANG_ENGLISH         "Skull Trooper"
+
+REFERENCE            emblem_030
+LANG_ENGLISH         "Sssstrike"
+
+REFERENCE            emblem_029
+LANG_ENGLISH         "Grin Goblin"
+
+REFERENCE            emblem_028
+LANG_ENGLISH         "Zombie Bump"
+
+REFERENCE            emblem_027
+LANG_ENGLISH         "Orbital Strike"
+
+REFERENCE            emblem_026
+LANG_ENGLISH         "Cyber Chomper"
+
+REFERENCE            emblem_025
+LANG_ENGLISH         "Death in the Machine"
+
+REFERENCE            emblem_024
+LANG_ENGLISH         "Hellhound"
+
+REFERENCE            emblem_023
+LANG_ENGLISH         "Punked"
+
+REFERENCE            emblem_022
+LANG_ENGLISH         "Honor and Command"
+
+REFERENCE            emblem_021
+LANG_ENGLISH         "Brain-Kebab"
+
+REFERENCE            emblem_020
+LANG_ENGLISH         "Justice Platoon"
+
+REFERENCE            emblem_019
+LANG_ENGLISH         "Gilded Death"
+
+REFERENCE            emblem_018
+LANG_ENGLISH         "Skull and Blades"
+
+REFERENCE            emblem_017
+LANG_ENGLISH         "Freedom Fighter"
+
+REFERENCE            emblem_016
+LANG_ENGLISH         "Valor Victorious"
+
+REFERENCE            emblem_015
+LANG_ENGLISH         "Gilded Legionnaires"
+
+REFERENCE            emblem_014
+LANG_ENGLISH         "Global Merit"
+
+REFERENCE            emblem_013
+LANG_ENGLISH         "Weighed Down"
+
+REFERENCE            emblem_012
+LANG_ENGLISH         "Tactical Edge"
+
+REFERENCE            emblem_011
+LANG_ENGLISH         "Scarlet Reapers"
+
+REFERENCE            emblem_010
+LANG_ENGLISH         "Playing Koi"
+
+REFERENCE            emblem_009
+LANG_ENGLISH         "Murdergami"
+
+REFERENCE            emblem_143
+LANG_ENGLISH         "War Dog"
+
+REFERENCE            emblem_142
+LANG_ENGLISH         "Splitting Headache"
+
+REFERENCE            emblem_141
+LANG_ENGLISH         "EMBLEM_141"
+
+REFERENCE            emblem_140
+LANG_ENGLISH         "EMBLEM_140"
+
+REFERENCE            emblem_139
+LANG_ENGLISH         "The Martyr"
+
+REFERENCE            emblem_138
+LANG_ENGLISH         "Ace Combatant"
+
+REFERENCE            emblem_137
+LANG_ENGLISH         "EMBLEM_137"
+
+REFERENCE            emblem_136
+LANG_ENGLISH         "EMBLEM_136"
+
+REFERENCE            emblem_135
+LANG_ENGLISH         "EMBLEM_135"
+
+REFERENCE            emblem_134
+LANG_ENGLISH         "Winged Blades"
+
+REFERENCE            emblem_133
+LANG_ENGLISH         "EMBLEM_133"
+
+REFERENCE            emblem_132
+LANG_ENGLISH         "Grinning Reaper"
+
+REFERENCE            emblem_131
+LANG_ENGLISH         "Star Command"
+
+REFERENCE            emblem_130
+LANG_ENGLISH         "EMBLEM_130"
+
+REFERENCE            emblem_129
+LANG_ENGLISH         "The Anchor"
+
+REFERENCE            emblem_145
+LANG_ENGLISH         "Winged Death"
+
+REFERENCE            emblem_144
+LANG_ENGLISH         "Airborne Commander"
+
+REFERENCE            emblem_225
+LANG_ENGLISH         "Full Impact"
+
+REFERENCE            emblem_227
+LANG_ENGLISH         "Gear Head"
+
+REFERENCE            emblem_224
+LANG_ENGLISH         "Angelic Archer"
+
+REFERENCE            emblem_153
+LANG_ENGLISH         "EMBLEM_153"
+
+REFERENCE            emblem_152
+LANG_ENGLISH         "Struck Down"
+
+REFERENCE            emblem_151
+LANG_ENGLISH         "Venom Strike"
+
+REFERENCE            emblem_211
+LANG_ENGLISH         "Celestial Protector"
+
+REFERENCE            emblem_212
+LANG_ENGLISH         "Striker"
+
+REFERENCE            emblem_210
+LANG_ENGLISH         "Anchors Away"
+
+REFERENCE            emblem_162
+LANG_ENGLISH         "EMBLEM_162"
+
+REFERENCE            emblem_792
+LANG_ENGLISH         "Chicago Huntsmen Home Series"
+
+REFERENCE            emblem_794
+LANG_ENGLISH         "Florida Mutineers Home Series"
+
+REFERENCE            emblem_mc_platinum_ar_akilo47
+LANG_ENGLISH         "AK-47 Master: Platinum"
+
+REFERENCE            emblem_791
+LANG_ENGLISH         "Atlanta Faze Home Series"
+
+REFERENCE            emblem_797
+LANG_ENGLISH         "London Royal Ravens Home Series"
+
+REFERENCE            emblem_mc_damascus_ar_kilo433
+LANG_ENGLISH         "Kilo141 Master: Damascus"
+
+REFERENCE            emblem_mc_platinum_sn_sksierra
+LANG_ENGLISH         "SKS Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sn_sbeta
+LANG_ENGLISH         "MK2 Carbine Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sn_mike14
+LANG_ENGLISH         "EBR 14 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sn_kilo98
+LANG_ENGLISH         "Kar98k Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sn_hdromeo
+LANG_ENGLISH         "HDR Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sn_delta
+LANG_ENGLISH         "Dragunov Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sn_crossbow
+LANG_ENGLISH         "Crossbow Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sn_alpha50
+LANG_ENGLISH         "AX-50 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sm_smgolf45
+LANG_ENGLISH         "Striker 45 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sm_papa90
+LANG_ENGLISH         "P90 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sm_mpapa7
+LANG_ENGLISH         "MP7 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sm_mpapa5
+LANG_ENGLISH         "MP5 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sm_beta
+LANG_ENGLISH         "PP19 Bizon Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sm_augolf
+LANG_ENGLISH         "AUG Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sh_romeo870
+LANG_ENGLISH         "Model 680 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sh_oscar12
+LANG_ENGLISH         "Origin 12 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sh_mike26
+LANG_ENGLISH         "VLK Rogue Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sh_dpapa12
+LANG_ENGLISH         "R9-0 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sh_charlie725
+LANG_ENGLISH         "725 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_pi_papa320
+LANG_ENGLISH         "M19 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_pi_mike9
+LANG_ENGLISH         "Renetti Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_pi_mike1911
+LANG_ENGLISH         "1911 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_pi_golf21
+LANG_ENGLISH         "X16 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_pi_decho
+LANG_ENGLISH         ".50 GS Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_pi_cpapa
+LANG_ENGLISH         "S.357 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_me_soscar_knife
+LANG_ENGLISH         "Comabat Knife Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_me_riotshield
+LANG_ENGLISH         "Riot Shield Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_lm_pkilo
+LANG_ENGLISH         "PKM Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_lm_mkilo3
+LANG_ENGLISH         "Bruen MK9 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_lm_mgolf36
+LANG_ENGLISH         "Holger-26 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_lm_mgolf34
+LANG_ENGLISH         "MG34 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_lm_lima86
+LANG_ENGLISH         "SA87 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_lm_kilo121
+LANG_ENGLISH         "M91 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_la_rpapa7
+LANG_ENGLISH         "RPG-7 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_la_kgolf
+LANG_ENGLISH         "JOKR Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_la_juliet
+LANG_ENGLISH         "Strela-P Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_la_gromeo
+LANG_ENGLISH         "PILA Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_tango21
+LANG_ENGLISH         "RAM-7 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_sierra552
+LANG_ENGLISH         "Grau 5.56 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_scharlie
+LANG_ENGLISH         "FN Scar 17 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_mike4
+LANG_ENGLISH         "M4A1 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_mcharlie
+LANG_ENGLISH         "M13 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_kilo433
+LANG_ENGLISH         "Kilo 141 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_falpha
+LANG_ENGLISH         "FR 5.56 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_falima
+LANG_ENGLISH         "FAL Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_ar_asierra12
+LANG_ENGLISH         "Oden Master: Platinum"
+
+REFERENCE            emblem_mc_obsidian_sn_sksierra
+LANG_ENGLISH         "SKS Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sn_sbeta
+LANG_ENGLISH         "MK2 Carbine Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sn_mike14
+LANG_ENGLISH         "EBR-14 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sn_kilo98
+LANG_ENGLISH         "Kar98k Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sn_hdromeo
+LANG_ENGLISH         "HDR Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sn_delta
+LANG_ENGLISH         "Dragunov Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sm_mpapa5
+LANG_ENGLISH         "MP5 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sh_dpapa12
+LANG_ENGLISH         "R9-0 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_ar_mike4
+LANG_ENGLISH         "M4A1 Master: Obsidian"
+
+REFERENCE            emblem_mc_gold_sn_delta
+LANG_ENGLISH         "Dragunov Master: Gold"
+
+REFERENCE            emblem_mc_gold_sm_smgolf45
+LANG_ENGLISH         "Striker 45 Master: Gold"
+
+REFERENCE            emblem_mc_gold_sm_papa90
+LANG_ENGLISH         "P90 Master: Gold"
+
+REFERENCE            emblem_mc_gold_sm_mpapa7
+LANG_ENGLISH         "MP7 Master: Gold"
+
+REFERENCE            emblem_mc_gold_sm_mpapa5
+LANG_ENGLISH         "MP5 Master: Gold"
+
+REFERENCE            emblem_mc_gold_sm_beta
+LANG_ENGLISH         "PP19 Bizon Master: Gold"
+
+REFERENCE            emblem_mc_gold_sm_augolf
+LANG_ENGLISH         "AUG Master: Gold"
+
+REFERENCE            emblem_mc_gold_sh_romeo870
+LANG_ENGLISH         "Model 680 Master: Gold"
+
+REFERENCE            emblem_mc_gold_sh_oscar12
+LANG_ENGLISH         "Origin 12 Shotgun Master: Gold"
+
+REFERENCE            emblem_mc_gold_sh_mike26
+LANG_ENGLISH         "VLK Rogue Master: Gold"
+
+REFERENCE            emblem_mc_gold_sh_dpapa12
+LANG_ENGLISH         "R9-0 Shotgun Master: Gold"
+
+REFERENCE            emblem_mc_gold_sh_charlie725
+LANG_ENGLISH         "725 Master: Gold"
+
+REFERENCE            emblem_mc_gold_pi_papa320
+LANG_ENGLISH         "M19 Master: Gold"
+
+REFERENCE            emblem_mc_gold_pi_mike9
+LANG_ENGLISH         "Renetti Master: Gold"
+
+REFERENCE            emblem_mc_gold_pi_mike1911
+LANG_ENGLISH         "1911 Master: Gold"
+
+REFERENCE            emblem_mc_gold_pi_golf21
+LANG_ENGLISH         "X16 Master: Gold"
+
+REFERENCE            emblem_mc_gold_pi_decho
+LANG_ENGLISH         ".50 GS Master: Gold"
+
+REFERENCE            emblem_mc_gold_pi_cpapa
+LANG_ENGLISH         ".357 Master: Gold"
+
+REFERENCE            emblem_mc_gold_me_riotshield
+LANG_ENGLISH         "Riot Shield Master: Gold"
+
+REFERENCE            emblem_mc_gold_lm_pkilo
+LANG_ENGLISH         "PKM Master: Gold"
+
+REFERENCE            emblem_mc_gold_lm_mkilo3
+LANG_ENGLISH         "Bruen Mk9 Master: Gold"
+
+REFERENCE            emblem_mc_gold_lm_mgolf36
+LANG_ENGLISH         "Holger-26 Master: Gold"
+
+REFERENCE            emblem_mc_gold_lm_mgolf34
+LANG_ENGLISH         "MG34 Master: Gold"
+
+REFERENCE            emblem_mc_gold_lm_lima86
+LANG_ENGLISH         "SA87 Master: Gold"
+
+REFERENCE            emblem_mc_gold_lm_kilo121
+LANG_ENGLISH         "M91 Master: Gold"
+
+REFERENCE            emblem_mc_gold_la_rpapa7
+LANG_ENGLISH         "RPG-7 Master: Gold"
+
+REFERENCE            emblem_mc_gold_la_kgolf
+LANG_ENGLISH         "JOKR Master: Gold"
+
+REFERENCE            emblem_mc_gold_la_juliet
+LANG_ENGLISH         "Strela-P Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_sierra552
+LANG_ENGLISH         "Grau 5.56 Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_scharlie
+LANG_ENGLISH         "FN Scar 17 Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_mike4
+LANG_ENGLISH         "M4A1 Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_falima
+LANG_ENGLISH         "FAL Master: Gold"
+
+REFERENCE            emblem_mc_gold_ar_asierra12
+LANG_ENGLISH         "Oden Master: Gold"
+
+REFERENCE            emblem_mc_damascus_sn_mike14
+LANG_ENGLISH         "EBR-14 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sn_kilo98
+LANG_ENGLISH         "Kar98k Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sn_delta
+LANG_ENGLISH         "Dragunov Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sn_crossbow
+LANG_ENGLISH         "Crossbow Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sn_alpha50
+LANG_ENGLISH         "AX-50 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_uzulu
+LANG_ENGLISH         "Uzi Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_mpapa5
+LANG_ENGLISH         "MP5 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_beta
+LANG_ENGLISH         "PP19 Bizon Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_augolf
+LANG_ENGLISH         "AUG Master: Damascus"
+
+REFERENCE            emblem_765
+LANG_ENGLISH         "Royal Chamber"
+
+REFERENCE            emblem_764
+LANG_ENGLISH         "Brain Freeze"
+
+REFERENCE            emblem_763
+LANG_ENGLISH         "EMBLEM 763"
+
+REFERENCE            emblem_762
+LANG_ENGLISH         "EMBLEM 762"
+
+REFERENCE            emblem_761
+LANG_ENGLISH         "EMBLEM 761"
+
+REFERENCE            emblem_760
+LANG_ENGLISH         "Deathly chill"
+
+REFERENCE            emblem_759
+LANG_ENGLISH         "Killer System"
+
+REFERENCE            emblem_757
+LANG_ENGLISH         "Soul of the Mountain"
+
+REFERENCE            emblem_756
+LANG_ENGLISH         "The Roc"
+
+REFERENCE            emblem_754
+LANG_ENGLISH         "EMBLEM 754"
+
+REFERENCE            emblem_753
+LANG_ENGLISH         "Season Two"
+
+REFERENCE            emblem_752
+LANG_ENGLISH         "EMBLEM 752"
+
+REFERENCE            emblem_751
+LANG_ENGLISH         "EMBLEM 751"
+
+REFERENCE            emblem_750
+LANG_ENGLISH         "EMBLEM 750"
+
+REFERENCE            emblem_749
+LANG_ENGLISH         "EMBLEM 749"
+
+REFERENCE            emblem_746
+LANG_ENGLISH         "Ancestral Spirits"
+
+REFERENCE            emblem_745
+LANG_ENGLISH         "EMBLEM 745"
+
+REFERENCE            emblem_744
+LANG_ENGLISH         "EMBLEM 744"
+
+REFERENCE            emblem_743
+LANG_ENGLISH         "EMBLEM 743"
+
+REFERENCE            emblem_742
+LANG_ENGLISH         "EMBLEM 742"
+
+REFERENCE            emblem_741
+LANG_ENGLISH         "Blood and Thunder"
+
+REFERENCE            emblem_740
+LANG_ENGLISH         "EMBLEM 740"
+
+REFERENCE            emblem_739
+LANG_ENGLISH         "EMBLEM 739"
+
+REFERENCE            emblem_738
+LANG_ENGLISH         "EMBLEM 738"
+
+REFERENCE            emblem_737
+LANG_ENGLISH         "EMBLEM 737"
+
+REFERENCE            emblem_736
+LANG_ENGLISH         "EMBLEM 736"
+
+REFERENCE            emblem_735
+LANG_ENGLISH         "EMBLEM 735"
+
+REFERENCE            emblem_734
+LANG_ENGLISH         "EMBLEM 734"
+
+REFERENCE            emblem_733
+LANG_ENGLISH         "EMBLEM 733"
+
+REFERENCE            emblem_732
+LANG_ENGLISH         "Guardian Spirit"
+
+REFERENCE            emblem_729
+LANG_ENGLISH         "EMBLEM 729"
+
+REFERENCE            emblem_722
+LANG_ENGLISH         "EMBLEM 722"
+
+REFERENCE            emblem_719
+LANG_ENGLISH         "EMBLEM 719"
+
+REFERENCE            emblem_718
+LANG_ENGLISH         "EMBLEM 718"
+
+REFERENCE            emblem_717
+LANG_ENGLISH         "EMBLEM 717"
+
+REFERENCE            emblem_716
+LANG_ENGLISH         "EMBLEM 716"
+
+REFERENCE            emblem_715
+LANG_ENGLISH         "EMBLEM 715"
+
+REFERENCE            emblem_714
+LANG_ENGLISH         "EMBLEM 714"
+
+REFERENCE            emblem_713
+LANG_ENGLISH         "EMBLEM 713"
+
+REFERENCE            emblem_712
+LANG_ENGLISH         "Silver Morpho"
+
+REFERENCE            emblem_711
+LANG_ENGLISH         "EMBLEM 711"
+
+REFERENCE            emblem_710
+LANG_ENGLISH         "EMBLEM 710"
+
+REFERENCE            emblem_709
+LANG_ENGLISH         "EMBLEM 709"
+
+REFERENCE            emblem_708
+LANG_ENGLISH         "Garden Grove"
+
+REFERENCE            emblem_707
+LANG_ENGLISH         "EMBLEM 707"
+
+REFERENCE            emblem_706
+LANG_ENGLISH         "EMBLEM 706"
+
+REFERENCE            emblem_705
+LANG_ENGLISH         "EMBLEM 705"
+
+REFERENCE            emblem_704
+LANG_ENGLISH         "EMBLEM 704"
+
+REFERENCE            emblem_703
+LANG_ENGLISH         "EMBLEM 703"
+
+REFERENCE            emblem_702
+LANG_ENGLISH         "EMBLEM 702"
+
+REFERENCE            emblem_701
+LANG_ENGLISH         "EMBLEM 701"
+
+REFERENCE            emblem_700
+LANG_ENGLISH         "EMBLEM 700"
+
+REFERENCE            emblem_699
+LANG_ENGLISH         "EMBLEM 699"
+
+REFERENCE            emblem_698
+LANG_ENGLISH         "EMBLEM 698"
+
+REFERENCE            emblem_697
+LANG_ENGLISH         "EMBLEM 697"
+
+REFERENCE            emblem_696
+LANG_ENGLISH         "EMBLEM 696"
+
+REFERENCE            emblem_695
+LANG_ENGLISH         "EMBLEM 695"
+
+REFERENCE            emblem_694
+LANG_ENGLISH         "EMBLEM 694"
+
+REFERENCE            emblem_693
+LANG_ENGLISH         "EMBLEM 693"
+
+REFERENCE            emblem_692
+LANG_ENGLISH         "EMBLEM 692"
+
+REFERENCE            emblem_691
+LANG_ENGLISH         "EMBLEM 691"
+
+REFERENCE            emblem_690
+LANG_ENGLISH         "EMBLEM 690"
+
+REFERENCE            emblem_689
+LANG_ENGLISH         "EMBLEM 689"
+
+REFERENCE            emblem_688
+LANG_ENGLISH         "Web of Death"
+
+REFERENCE            emblem_687
+LANG_ENGLISH         "EMBLEM 687"
+
+REFERENCE            emblem_686
+LANG_ENGLISH         "EMBLEM 686"
+
+REFERENCE            emblem_685
+LANG_ENGLISH         "EMBLEM 685"
+
+REFERENCE            emblem_684
+LANG_ENGLISH         "Murder Machine"
+
+REFERENCE            emblem_683
+LANG_ENGLISH         "Creepy Crawly"
+
+REFERENCE            emblem_682
+LANG_ENGLISH         "EMBLEM 682"
+
+REFERENCE            emblem_681
+LANG_ENGLISH         "EMBLEM 681"
+
+REFERENCE            emblem_680
+LANG_ENGLISH         "EMBLEM 680"
+
+REFERENCE            emblem_679
+LANG_ENGLISH         "EMBLEM 679"
+
+REFERENCE            emblem_678
+LANG_ENGLISH         "EMBLEM 678"
+
+REFERENCE            emblem_676
+LANG_ENGLISH         "EMBLEM 676"
+
+REFERENCE            emblem_675
+LANG_ENGLISH         "EMBLEM 675"
+
+REFERENCE            emblem_674
+LANG_ENGLISH         "EMBLEM 674"
+
+REFERENCE            emblem_673
+LANG_ENGLISH         "EMBLEM 673"
+
+REFERENCE            emblem_672
+LANG_ENGLISH         "EMBLEM 672"
+
+REFERENCE            emblem_671
+LANG_ENGLISH         "EMBLEM 671"
+
+REFERENCE            emblem_670
+LANG_ENGLISH         "EMBLEM 670"
+
+REFERENCE            emblem_669
+LANG_ENGLISH         "EMBLEM 669"
+
+REFERENCE            emblem_668
+LANG_ENGLISH         "EMBLEM 668"
+
+REFERENCE            emblem_667
+LANG_ENGLISH         "EMBLEM 667"
+
+REFERENCE            emblem_666
+LANG_ENGLISH         "EMBLEM 666"
+
+REFERENCE            emblem_665
+LANG_ENGLISH         "EMBLEM 665"
+
+REFERENCE            emblem_664
+LANG_ENGLISH         "EMBLEM 664"
+
+REFERENCE            emblem_663
+LANG_ENGLISH         "EMBLEM 663"
+
+REFERENCE            emblem_662
+LANG_ENGLISH         "EMBLEM 662"
+
+REFERENCE            emblem_661
+LANG_ENGLISH         "EMBLEM 661"
+
+REFERENCE            emblem_660
+LANG_ENGLISH         "EMBLEM 660"
+
+REFERENCE            emblem_659
+LANG_ENGLISH         "EMBLEM 659"
+
+REFERENCE            emblem_658
+LANG_ENGLISH         "EMBLEM 658"
+
+REFERENCE            emblem_657
+LANG_ENGLISH         "EMBLEM 657"
+
+REFERENCE            emblem_656
+LANG_ENGLISH         "EMBLEM 656"
+
+REFERENCE            emblem_655
+LANG_ENGLISH         "EMBLEM 655"
+
+REFERENCE            emblem_654
+LANG_ENGLISH         "EMBLEM 654"
+
+REFERENCE            emblem_653
+LANG_ENGLISH         "EMBLEM 653"
+
+REFERENCE            emblem_652
+LANG_ENGLISH         "EMBLEM 652"
+
+REFERENCE            emblem_651
+LANG_ENGLISH         "EMBLEM 651"
+
+REFERENCE            emblem_650
+LANG_ENGLISH         "EMBLEM 650"
+
+REFERENCE            emblem_649
+LANG_ENGLISH         "EMBLEM 649"
+
+REFERENCE            emblem_648
+LANG_ENGLISH         "EMBLEM 648"
+
+REFERENCE            emblem_647
+LANG_ENGLISH         "EMBLEM 647"
+
+REFERENCE            emblem_646
+LANG_ENGLISH         "EMBLEM 646"
+
+REFERENCE            emblem_644
+LANG_ENGLISH         "EMBLEM 644"
+
+REFERENCE            emblem_642
+LANG_ENGLISH         "EMBLEM 642"
+
+REFERENCE            emblem_631
+LANG_ENGLISH         "Fire in the Sky"
+
+REFERENCE            emblem_616
+LANG_ENGLISH         "Alpha Sabotus"
+
+REFERENCE            emblem_590
+LANG_ENGLISH         "Masked Watch"
+
+REFERENCE            emblem_589
+LANG_ENGLISH         "Sweet Mercy"
+
+REFERENCE            emblem_588
+LANG_ENGLISH         "Death Toast"
+
+REFERENCE            emblem_587
+LANG_ENGLISH         "EMBLEM_587"
+
+REFERENCE            emblem_541
+LANG_ENGLISH         "EMBLEM_541"
+
+REFERENCE            emblem_540
+LANG_ENGLISH         "EMBLEM_540"
+
+REFERENCE            emblem_539
+LANG_ENGLISH         "EMBLEM_539"
+
+REFERENCE            emblem_538
+LANG_ENGLISH         "EMBLEM_538"
+
+REFERENCE            emblem_537
+LANG_ENGLISH         "EMBLEM_537"
+
+REFERENCE            emblem_536
+LANG_ENGLISH         "EMBLEM_536"
+
+REFERENCE            emblem_535
+LANG_ENGLISH         "EMBLEM_535"
+
+REFERENCE            emblem_534
+LANG_ENGLISH         "EMBLEM_534"
+
+REFERENCE            emblem_533
+LANG_ENGLISH         "EMBLEM_533"
+
+REFERENCE            emblem_531
+LANG_ENGLISH         "Caustic Area"
+
+REFERENCE            emblem_530
+LANG_ENGLISH         "EMBLEM_530"
+
+REFERENCE            emblem_529
+LANG_ENGLISH         "EMBLEM_529"
+
+REFERENCE            emblem_527
+LANG_ENGLISH         "Valor Zane"
+
+REFERENCE            emblem_516
+LANG_ENGLISH         "EMBLEM_516"
+
+REFERENCE            emblem_515
+LANG_ENGLISH         "EMBLEM_515"
+
+REFERENCE            emblem_514
+LANG_ENGLISH         "EMBLEM_514"
+
+REFERENCE            emblem_513
+LANG_ENGLISH         "EMBLEM_513"
+
+REFERENCE            emblem_512
+LANG_ENGLISH         "Valor Bale"
+
+REFERENCE            emblem_511
+LANG_ENGLISH         "EMBLEM_511"
+
+REFERENCE            emblem_510
+LANG_ENGLISH         "EMBLEM_510"
+
+REFERENCE            emblem_509
+LANG_ENGLISH         "EMBLEM_509"
+
+REFERENCE            emblem_508
+LANG_ENGLISH         "EMBLEM_508"
+
+REFERENCE            emblem_507
+LANG_ENGLISH         "EMBLEM_507"
+
+REFERENCE            emblem_504
+LANG_ENGLISH         "EMBLEM_504"
+
+REFERENCE            emblem_353
+LANG_ENGLISH         "Night Prowler"
+
+REFERENCE            emblem_352
+LANG_ENGLISH         "Helmet Head"
+
+REFERENCE            emblem_351
+LANG_ENGLISH         "Kyle"
+
+REFERENCE            emblem_350
+LANG_ENGLISH         "Hadir Without Hair"
+
+REFERENCE            emblem_349
+LANG_ENGLISH         "Scape Goat"
+
+REFERENCE            emblem_348
+LANG_ENGLISH         "Disguise"
+
+REFERENCE            emblem_346
+LANG_ENGLISH         "Snow Patrol"
+
+REFERENCE            emblem_345
+LANG_ENGLISH         "Ski Team"
+
+REFERENCE            emblem_344
+LANG_ENGLISH         "Scout"
+
+REFERENCE            emblem_343
+LANG_ENGLISH         "Oohrah"
+
+REFERENCE            emblem_342
+LANG_ENGLISH         "Swat"
+
+REFERENCE            emblem_341
+LANG_ENGLISH         "Grenadier"
+
+REFERENCE            emblem_340
+LANG_ENGLISH         "Watchman"
+
+REFERENCE            emblem_339
+LANG_ENGLISH         "Over and Out"
+
+REFERENCE            emblem_338
+LANG_ENGLISH         "Ready to Roll"
+
+REFERENCE            emblem_337
+LANG_ENGLISH         "Advisory"
+
+REFERENCE            emblem_336
+LANG_ENGLISH         "Ghost"
+
+REFERENCE            emblem_335
+LANG_ENGLISH         "Desert Visor"
+
+REFERENCE            emblem_334
+LANG_ENGLISH         "No Goggles"
+
+REFERENCE            emblem_333
+LANG_ENGLISH         "Light Infantry"
+
+REFERENCE            emblem_332
+LANG_ENGLISH         "Heavy Armor"
+
+REFERENCE            emblem_331
+LANG_ENGLISH         "Mohawk"
+
+REFERENCE            emblem_330
+LANG_ENGLISH         "Confident"
+
+REFERENCE            emblem_329
+LANG_ENGLISH         "Forest Fighter"
+
+REFERENCE            emblem_328
+LANG_ENGLISH         "Desert Stalker"
+
+REFERENCE            emblem_327
+LANG_ENGLISH         "Snow Scope"
+
+REFERENCE            emblem_326
+LANG_ENGLISH         "Red Wrap"
+
+REFERENCE            emblem_325
+LANG_ENGLISH         "Black Wrap"
+
+REFERENCE            emblem_324
+LANG_ENGLISH         "Half Wrap"
+
+REFERENCE            emblem_323
+LANG_ENGLISH         "Black Hood"
+
+REFERENCE            emblem_322
+LANG_ENGLISH         "Beat the Heat"
+
+REFERENCE            emblem_321
+LANG_ENGLISH         "Green Hood"
+
+REFERENCE            emblem_320
+LANG_ENGLISH         "Lieutenant"
+
+REFERENCE            emblem_319
+LANG_ENGLISH         "Soldier"
+
+REFERENCE            emblem_318
+LANG_ENGLISH         "In-depth"
+
+REFERENCE            emblem_317
+LANG_ENGLISH         "Caliber"
+
+REFERENCE            emblem_316
+LANG_ENGLISH         "Recon"
+
+REFERENCE            emblem_315
+LANG_ENGLISH         "War Stripes"
+
+REFERENCE            emblem_314
+LANG_ENGLISH         "Going Under"
+
+REFERENCE            emblem_313
+LANG_ENGLISH         "Covert Operation"
+
+REFERENCE            emblem_312
+LANG_ENGLISH         "Trooper"
+
+REFERENCE            emblem_311
+LANG_ENGLISH         "Concealed"
+
+REFERENCE            emblem_310
+LANG_ENGLISH         "Rough Air"
+
+REFERENCE            emblem_309
+LANG_ENGLISH         "Facemask"
+
+REFERENCE            emblem_308
+LANG_ENGLISH         "Safari Price"
+
+REFERENCE            emblem_307
+LANG_ENGLISH         "Lakeside Price"
+
+REFERENCE            emblem_306
+LANG_ENGLISH         "General"
+
+REFERENCE            emblem_305
+LANG_ENGLISH         "The Bandit"
+
+REFERENCE            emblem_304
+LANG_ENGLISH         "Icy Patrol"
+
+REFERENCE            emblem_303
+LANG_ENGLISH         "Grey Beret"
+
+REFERENCE            emblem_302
+LANG_ENGLISH         "Ghost Com"
+
+REFERENCE            emblem_301
+LANG_ENGLISH         "X-Ray"
+
+REFERENCE            emblem_300
+LANG_ENGLISH         "High Flyer"
+
+REFERENCE            emblem_299
+LANG_ENGLISH         "Cause and Effect"
+
+REFERENCE            emblem_298
+LANG_ENGLISH         "Dancing Vibes"
+
+REFERENCE            emblem_297
+LANG_ENGLISH         "Starry Night"
+
+REFERENCE            emblem_296
+LANG_ENGLISH         "Saw Sting"
+
+REFERENCE            emblem_295
+LANG_ENGLISH         "Lightning Bolt"
+
+REFERENCE            emblem_294
+LANG_ENGLISH         "Sleep Mask"
+
+REFERENCE            emblem_293
+LANG_ENGLISH         "Epic Hero"
+
+REFERENCE            emblem_292
+LANG_ENGLISH         "Terminal Patrol"
+
+REFERENCE            emblem_291
+LANG_ENGLISH         "EMBLEM_291"
+
+REFERENCE            emblem_290
+LANG_ENGLISH         "Daredevil"
+
+REFERENCE            emblem_289
+LANG_ENGLISH         "Cause and Affect"
+
+REFERENCE            emblem_288
+LANG_ENGLISH         "Prime Watcher"
+
+REFERENCE            emblem_287
+LANG_ENGLISH         "Infrared"
+
+REFERENCE            emblem_286
+LANG_ENGLISH         "Saw Sting"
+
+REFERENCE            emblem_284
+LANG_ENGLISH         "EMBLEM_284"
+
+REFERENCE            emblem_282
+LANG_ENGLISH         "Scrap Dragon"
+
+REFERENCE            emblem_281
+LANG_ENGLISH         "Blue Rush"
+
+REFERENCE            emblem_280
+LANG_ENGLISH         "EMBLEM_280"
+
+REFERENCE            emblem_279
+LANG_ENGLISH         "EMBLEM_279"
+
+REFERENCE            emblem_278
+LANG_ENGLISH         "EMBLEM_278"
+
+REFERENCE            emblem_277
+LANG_ENGLISH         "Hidden Enemy"
+
+REFERENCE            emblem_276
+LANG_ENGLISH         "Red Rage"
+
+REFERENCE            emblem_275
+LANG_ENGLISH         "Golden Rage"
+
+REFERENCE            emblem_274
+LANG_ENGLISH         "In a Flash"
+
+REFERENCE            emblem_273
+LANG_ENGLISH         "EMBLEM_273"
+
+REFERENCE            emblem_272
+LANG_ENGLISH         "Cobra Strike"
+
+REFERENCE            emblem_271
+LANG_ENGLISH         "EMBLEM_271"
+
+REFERENCE            emblem_270
+LANG_ENGLISH         "Three Cheers"
+
+REFERENCE            emblem_269
+LANG_ENGLISH         "EMBLEM_269"
+
+REFERENCE            emblem_268
+LANG_ENGLISH         "EMBLEM_268"
+
+REFERENCE            emblem_267
+LANG_ENGLISH         "EMBLEM_267"
+
+REFERENCE            emblem_266
+LANG_ENGLISH         "EMBLEM_266"
+
+REFERENCE            emblem_265
+LANG_ENGLISH         "EMBLEM_265"
+
+REFERENCE            emblem_264
+LANG_ENGLISH         "EMBLEM_264"
+
+REFERENCE            emblem_263
+LANG_ENGLISH         "EMBLEM_263"
+
+REFERENCE            emblem_262
+LANG_ENGLISH         "EMBLEM_262"
+
+REFERENCE            emblem_261
+LANG_ENGLISH         "Grim Outlook"
+
+REFERENCE            emblem_260
+LANG_ENGLISH         "EMBLEM_260"
+
+REFERENCE            emblem_259
+LANG_ENGLISH         "Snake Eyes"
+
+REFERENCE            emblem_258
+LANG_ENGLISH         "Death in Hand"
+
+REFERENCE            emblem_257
+LANG_ENGLISH         "EMBLEM_257"
+
+REFERENCE            emblem_256
+LANG_ENGLISH         "EMBLEM_256"
+
+REFERENCE            emblem_255
+LANG_ENGLISH         "EMBLEM_255"
+
+REFERENCE            emblem_254
+LANG_ENGLISH         "Cutting Corners"
+
+REFERENCE            emblem_253
+LANG_ENGLISH         "Echo Chamber"
+
+REFERENCE            emblem_252
+LANG_ENGLISH         "Equilateral"
+
+REFERENCE            emblem_251
+LANG_ENGLISH         "Kings Shield"
+
+REFERENCE            emblem_223
+LANG_ENGLISH         "Dual Identity"
+
+REFERENCE            emblem_222
+LANG_ENGLISH         "Light Headed"
+
+REFERENCE            emblem_220
+LANG_ENGLISH         "Power Protector"
+
+REFERENCE            emblem_219
+LANG_ENGLISH         "Angelic Akimbo"
+
+REFERENCE            emblem_218
+LANG_ENGLISH         "Venomous"
+
+REFERENCE            emblem_217
+LANG_ENGLISH         "Extrovert"
+
+REFERENCE            emblem_146
+LANG_ENGLISH         "Shock N' Awe"
+
+REFERENCE            emblem_196
+LANG_ENGLISH         "Checkmate"
+
+REFERENCE            emblem_195
+LANG_ENGLISH         "Rage Face"
+
+REFERENCE            emblem_194
+LANG_ENGLISH         "Death Machine"
+
+REFERENCE            emblem_179
+LANG_ENGLISH         "Dead Anchors"
+
+REFERENCE            emblem_193
+LANG_ENGLISH         "Flat Black"
+
+REFERENCE            emblem_192
+LANG_ENGLISH         "Sturdy Stripes"
+
+REFERENCE            emblem_176
+LANG_ENGLISH         "Hell Bent"
+
+REFERENCE            emblem_213
+LANG_ENGLISH         "Conductor"
+
+REFERENCE            emblem_206
+LANG_ENGLISH         "Reptilian"
+
+REFERENCE            emblem_209
+LANG_ENGLISH         "Super Charged Wolf"
+
+REFERENCE            emblem_208
+LANG_ENGLISH         "Bug Catcher"
+
+REFERENCE            emblem_205
+LANG_ENGLISH         "Charged Attack"
+
+REFERENCE            emblem_204
+LANG_ENGLISH         "Precious Stones"
+
+REFERENCE            emblem_201
+LANG_ENGLISH         "Ghoulish"
+
+REFERENCE            emblem_200
+LANG_ENGLISH         "Fire Stalker"
+
+REFERENCE            emblem_199
+LANG_ENGLISH         "Message Received"
+
+REFERENCE            emblem_180
+LANG_ENGLISH         "Bronze Wisdom"
+
+REFERENCE            emblem_187
+LANG_ENGLISH         "Ursa Roar"
+
+REFERENCE            emblem_249
+LANG_ENGLISH         "Quartered"
+
+REFERENCE            emblem_248
+LANG_ENGLISH         "Shadowbox"
+
+REFERENCE            emblem_mc_damascus_ar_mcharlie
+LANG_ENGLISH         "M13 Master: Damascus"
+
+REFERENCE            emblem_mc_platinum_sm_uzulu
+LANG_ENGLISH         "Uzi Master: Platinum"
+
+REFERENCE            emblem_788
+LANG_ENGLISH         "Gallant"
+
+REFERENCE            emblem_799
+LANG_ENGLISH         "New York Subliners Home Series"
+
+REFERENCE            emblem_103
+LANG_ENGLISH         "EMBLEM_103"
+
+REFERENCE            emblem_802
+LANG_ENGLISH         "Toronto Ultra Home Series"
+
+REFERENCE            emblem_414
+LANG_ENGLISH         "EMBLEM_414"
+
+REFERENCE            emblem_415
+LANG_ENGLISH         "EMBLEM_415"
+
+REFERENCE            emblem_416
+LANG_ENGLISH         "EMBLEM_416"
+
+REFERENCE            emblem_417
+LANG_ENGLISH         "EMBLEM_417"
+
+REFERENCE            emblem_418
+LANG_ENGLISH         "Burger Town"
+
+REFERENCE            emblem_420
+LANG_ENGLISH         "EMBLEM_420"
+
+REFERENCE            emblem_421
+LANG_ENGLISH         "Briar Heart"
+
+REFERENCE            emblem_422
+LANG_ENGLISH         "Devotee"
+
+REFERENCE            emblem_423
+LANG_ENGLISH         "Jolly Jaunt"
+
+REFERENCE            emblem_424
+LANG_ENGLISH         "EMBLEM_424"
+
+REFERENCE            emblem_425
+LANG_ENGLISH         "One Team, One Fight"
+
+REFERENCE            emblem_426
+LANG_ENGLISH         "EMBLEM_426"
+
+REFERENCE            emblem_427
+LANG_ENGLISH         "Noxious"
+
+REFERENCE            emblem_428
+LANG_ENGLISH         "Bad Green Wolf"
+
+REFERENCE            emblem_429
+LANG_ENGLISH         "Angelic Rounds"
+
+REFERENCE            emblem_430
+LANG_ENGLISH         "EMBLEM_430"
+
+REFERENCE            emblem_431
+LANG_ENGLISH         "Filthy Pharaoh"
+
+REFERENCE            emblem_432
+LANG_ENGLISH         "Bun Bun"
+
+REFERENCE            emblem_433
+LANG_ENGLISH         "Optic Nerve"
+
+REFERENCE            emblem_434
+LANG_ENGLISH         "Dead Head Fred"
+
+REFERENCE            emblem_435
+LANG_ENGLISH         "Boom Bloom"
+
+REFERENCE            emblem_436
+LANG_ENGLISH         "EMBLEM_436"
+
+REFERENCE            emblem_437
+LANG_ENGLISH         "Killer Slice"
+
+REFERENCE            emblem_438
+LANG_ENGLISH         "EMBLEM_438"
+
+REFERENCE            emblem_439
+LANG_ENGLISH         "Burnin' Rubber"
+
+REFERENCE            emblem_440
+LANG_ENGLISH         "Ursa Roar"
+
+REFERENCE            emblem_441
+LANG_ENGLISH         "EMBLEM_441"
+
+REFERENCE            emblem_442
+LANG_ENGLISH         "EMBLEM_442"
+
+REFERENCE            emblem_443
+LANG_ENGLISH         "EMBLEM_443"
+
+REFERENCE            emblem_444
+LANG_ENGLISH         "EMBLEM_444"
+
+REFERENCE            emblem_445
+LANG_ENGLISH         "EMBLEM_445"
+
+REFERENCE            emblem_446
+LANG_ENGLISH         "EMBLEM_446"
+
+REFERENCE            emblem_447
+LANG_ENGLISH         "EMBLEM_447"
+
+REFERENCE            emblem_448
+LANG_ENGLISH         "EMBLEM_448"
+
+REFERENCE            emblem_449
+LANG_ENGLISH         "EMBLEM_449"
+
+REFERENCE            emblem_450
+LANG_ENGLISH         "EMBLEM_450"
+
+REFERENCE            emblem_451
+LANG_ENGLISH         "EMBLEM_451"
+
+REFERENCE            emblem_452
+LANG_ENGLISH         "EMBLEM_452"
+
+REFERENCE            emblem_453
+LANG_ENGLISH         "EMBLEM_453"
+
+REFERENCE            emblem_454
+LANG_ENGLISH         "EMBLEM_454"
+
+REFERENCE            emblem_455
+LANG_ENGLISH         "EMBLEM_455"
+
+REFERENCE            emblem_456
+LANG_ENGLISH         "EMBLEM_456"
+
+REFERENCE            emblem_457
+LANG_ENGLISH         "EMBLEM_457"
+
+REFERENCE            emblem_458
+LANG_ENGLISH         "EMBLEM_458"
+
+REFERENCE            emblem_459
+LANG_ENGLISH         "EMBLEM_459"
+
+REFERENCE            emblem_460
+LANG_ENGLISH         "EMBLEM_460"
+
+REFERENCE            emblem_461
+LANG_ENGLISH         "EMBLEM_461"
+
+REFERENCE            emblem_462
+LANG_ENGLISH         "EMBLEM_462"
+
+REFERENCE            emblem_595
+LANG_ENGLISH         "Peppermint Doom"
+
+REFERENCE            emblem_594
+LANG_ENGLISH         "Season One"
+
+REFERENCE            emblem_413
+LANG_ENGLISH         "EMBLEM_413"
+
+REFERENCE            emblem_412
+LANG_ENGLISH         "EMBLEM_412"
+
+REFERENCE            emblem_411
+LANG_ENGLISH         "EMBLEM_411"
+
+REFERENCE            emblem_410
+LANG_ENGLISH         "EMBLEM_410"
+
+REFERENCE            emblem_409
+LANG_ENGLISH         "EMBLEM_409"
+
+REFERENCE            emblem_408
+LANG_ENGLISH         "EMBLEM_408"
+
+REFERENCE            emblem_407
+LANG_ENGLISH         "EMBLEM_407"
+
+REFERENCE            emblem_406
+LANG_ENGLISH         "EMBLEM_406"
+
+REFERENCE            emblem_405
+LANG_ENGLISH         "EMBLEM_405"
+
+REFERENCE            emblem_404
+LANG_ENGLISH         "EMBLEM_404"
+
+REFERENCE            emblem_403
+LANG_ENGLISH         "EMBLEM_403"
+
+REFERENCE            emblem_402
+LANG_ENGLISH         "EMBLEM_402"
+
+REFERENCE            emblem_401
+LANG_ENGLISH         "EMBLEM_401"
+
+REFERENCE            emblem_400
+LANG_ENGLISH         "EMBLEM_400"
+
+REFERENCE            emblem_399
+LANG_ENGLISH         "EMBLEM_399"
+
+REFERENCE            emblem_398
+LANG_ENGLISH         "EMBLEM_398"
+
+REFERENCE            emblem_397
+LANG_ENGLISH         "S3-10"
+
+REFERENCE            emblem_396
+LANG_ENGLISH         "S3-9"
+
+REFERENCE            emblem_395
+LANG_ENGLISH         "S3-8"
+
+REFERENCE            emblem_394
+LANG_ENGLISH         "S3-7"
+
+REFERENCE            emblem_393
+LANG_ENGLISH         "S3-6"
+
+REFERENCE            emblem_392
+LANG_ENGLISH         "S3-5"
+
+REFERENCE            emblem_391
+LANG_ENGLISH         "S3-4"
+
+REFERENCE            emblem_390
+LANG_ENGLISH         "S3-3"
+
+REFERENCE            emblem_389
+LANG_ENGLISH         "S3-2"
+
+REFERENCE            emblem_388
+LANG_ENGLISH         "S3-1"
+
+REFERENCE            emblem_387
+LANG_ENGLISH         "S2-10"
+
+REFERENCE            emblem_386
+LANG_ENGLISH         "S2-9"
+
+REFERENCE            emblem_385
+LANG_ENGLISH         "S2-8"
+
+REFERENCE            emblem_384
+LANG_ENGLISH         "S2-7"
+
+REFERENCE            emblem_383
+LANG_ENGLISH         "S2-6"
+
+REFERENCE            emblem_382
+LANG_ENGLISH         "S2-5"
+
+REFERENCE            emblem_381
+LANG_ENGLISH         "S2-4"
+
+REFERENCE            emblem_380
+LANG_ENGLISH         "S2-3"
+
+REFERENCE            emblem_379
+LANG_ENGLISH         "S2-2"
+
+REFERENCE            emblem_378
+LANG_ENGLISH         "S2-1"
+
+REFERENCE            emblem_377
+LANG_ENGLISH         "S1-10"
+
+REFERENCE            emblem_376
+LANG_ENGLISH         "S1-9"
+
+REFERENCE            emblem_375
+LANG_ENGLISH         "S1-8"
+
+REFERENCE            emblem_374
+LANG_ENGLISH         "S1-7"
+
+REFERENCE            emblem_373
+LANG_ENGLISH         "S1-6"
+
+REFERENCE            emblem_372
+LANG_ENGLISH         "S1-5"
+
+REFERENCE            emblem_371
+LANG_ENGLISH         "S1-4"
+
+REFERENCE            emblem_370
+LANG_ENGLISH         "S1-3"
+
+REFERENCE            emblem_369
+LANG_ENGLISH         "S1-2"
+
+REFERENCE            emblem_368
+LANG_ENGLISH         "S1-1"
+
+REFERENCE            emblem_367
+LANG_ENGLISH         "S0-10"
+
+REFERENCE            emblem_366
+LANG_ENGLISH         "S0-9"
+
+REFERENCE            emblem_365
+LANG_ENGLISH         "S0-8"
+
+REFERENCE            emblem_364
+LANG_ENGLISH         "S0-7"
+
+REFERENCE            emblem_363
+LANG_ENGLISH         "S0-6"
+
+REFERENCE            emblem_362
+LANG_ENGLISH         "S0-5"
+
+REFERENCE            emblem_361
+LANG_ENGLISH         "S0-4"
+
+REFERENCE            emblem_360
+LANG_ENGLISH         "S0-3"
+
+REFERENCE            emblem_359
+LANG_ENGLISH         "S0-2"
+
+REFERENCE            emblem_358
+LANG_ENGLISH         "S0-1"
+
+REFERENCE            emblem_357
+LANG_ENGLISH         "Feline Mechanized"
+
+REFERENCE            emblem_356
+LANG_ENGLISH         "Bravo Six"
+
+REFERENCE            emblem_355
+LANG_ENGLISH         "Farah"
+
+REFERENCE            emblem_354
+LANG_ENGLISH         "Kate"
+
+REFERENCE            emblem_285
+LANG_ENGLISH         "Sapphire Vision"
+
+REFERENCE            emblem_247
+LANG_ENGLISH         "Directional"
+
+REFERENCE            emblem_246
+LANG_ENGLISH         "High Impact"
+
+REFERENCE            emblem_245
+LANG_ENGLISH         "Hourglass"
+
+REFERENCE            emblem_244
+LANG_ENGLISH         "Serpentine"
+
+REFERENCE            emblem_243
+LANG_ENGLISH         "The Shocker"
+
+REFERENCE            emblem_242
+LANG_ENGLISH         "Target Acquired"
+
+REFERENCE            emblem_241
+LANG_ENGLISH         "This Side Up"
+
+REFERENCE            emblem_240
+LANG_ENGLISH         "Hard Target"
+
+REFERENCE            emblem_239
+LANG_ENGLISH         "Crossroads"
+
+REFERENCE            emblem_238
+LANG_ENGLISH         "Shining Star"
+
+REFERENCE            emblem_237
+LANG_ENGLISH         "Diamonds Up"
+
+REFERENCE            emblem_236
+LANG_ENGLISH         "Gridlock"
+
+REFERENCE            emblem_232
+LANG_ENGLISH         "Black Skull Brigade"
+
+REFERENCE            emblem_231
+LANG_ENGLISH         "Forest Prince"
+
+REFERENCE            emblem_230
+LANG_ENGLISH         "Intervention"
+
+REFERENCE            emblem_229
+LANG_ENGLISH         "Poleaxe"
+
+REFERENCE            emblem_228
+LANG_ENGLISH         "See No Evil"
+
+REFERENCE            emblem_226
+LANG_ENGLISH         "Knife Fight"
+
+REFERENCE            emblem_207
+LANG_ENGLISH         "Brave One"
+
+REFERENCE            emblem_203
+LANG_ENGLISH         "Death's Watch"
+
+REFERENCE            emblem_202
+LANG_ENGLISH         "Divine Right"
+
+REFERENCE            emblem_198
+LANG_ENGLISH         "Checkpoint"
+
+REFERENCE            emblem_197
+LANG_ENGLISH         "Knuckle Dragger"
+
+REFERENCE            emblem_174
+LANG_ENGLISH         "Thunderstruck"
+
+REFERENCE            emblem_173
+LANG_ENGLISH         "Death Horns"
+
+REFERENCE            emblem_172
+LANG_ENGLISH         "Spartan"
+
+REFERENCE            emblem_171
+LANG_ENGLISH         "Cheetin Death"
+
+REFERENCE            emblem_170
+LANG_ENGLISH         "Winged Valor"
+
+REFERENCE            emblem_169
+LANG_ENGLISH         "Albino Ape"
+
+REFERENCE            emblem_168
+LANG_ENGLISH         "EMBLEM_168"
+
+REFERENCE            emblem_008
+LANG_ENGLISH         "Light Hearted"
+
+REFERENCE            emblem_166
+LANG_ENGLISH         "Ace of Spades"
+
+REFERENCE            emblem_163
+LANG_ENGLISH         "EMBLEM_163"
+
+REFERENCE            emblem_164
+LANG_ENGLISH         "EMBLEM_164"
+
+REFERENCE            emblem_167
+LANG_ENGLISH         "Explosive Puppeteers"
+
+REFERENCE            emblem_165
+LANG_ENGLISH         "Night Owls"
+
+REFERENCE            emblem_001
+LANG_ENGLISH         "Mauled"
+
+REFERENCE            emblem_002
+LANG_ENGLISH         "Hivemind"
+
+REFERENCE            emblem_003
+LANG_ENGLISH         "Wings of Valor"
+
+REFERENCE            emblem_004
+LANG_ENGLISH         "Cubed"
+
+REFERENCE            emblem_005
+LANG_ENGLISH         "Astrologicus"
+
+REFERENCE            emblem_006
+LANG_ENGLISH         "Parallel Pyramids"
+
+REFERENCE            emblem_235
+LANG_ENGLISH         "Pythagoras"
+
+REFERENCE            emblem_007
+LANG_ENGLISH         "Verdant Torment"
+
+REFERENCE            emblem_191
+LANG_ENGLISH         "Zoomin"
+
+REFERENCE            emblem_190
+LANG_ENGLISH         "Bold Border"
+
+REFERENCE            emblem_156
+LANG_ENGLISH         "Two Toned Teeth: Silver"
+
+REFERENCE            emblem_185
+LANG_ENGLISH         "Bird of Prey"
+
+REFERENCE            emblem_186
+LANG_ENGLISH         "Sky Terror"
+
+REFERENCE            emblem_234
+LANG_ENGLISH         "Crossbones"
+
+REFERENCE            emblem_092
+LANG_ENGLISH         "Flying Skulls"
+
+REFERENCE            emblem_233
+LANG_ENGLISH         "High Voltage"
+
+REFERENCE            emblem_093
+LANG_ENGLISH         "EMBLEM_093"
+
+REFERENCE            emblem_181
+LANG_ENGLISH         "Predator Instincts"
+
+REFERENCE            emblem_183
+LANG_ENGLISH         "Ice Age"
+
+REFERENCE            emblem_216
+LANG_ENGLISH         "Soaring High"
+
+REFERENCE            emblem_182
+LANG_ENGLISH         "Pinkeye"
+
+REFERENCE            emblem_184
+LANG_ENGLISH         "Fangs Out"
+
+REFERENCE            emblem_215
+LANG_ENGLISH         "Double Damage"
+
+REFERENCE            emblem_214
+LANG_ENGLISH         "Sacred Defender"
+
+REFERENCE            emblem_094
+LANG_ENGLISH         "3 Strikes"
+
+REFERENCE            emblem_188
+LANG_ENGLISH         "Aries"
+
+REFERENCE            emblem_154
+LANG_ENGLISH         "EMBLEM_154"
+
+REFERENCE            emblem_155
+LANG_ENGLISH         "Two Toned Teeth: Red"
+
+REFERENCE            emblem_175
+LANG_ENGLISH         "Looking Grim"
+
+REFERENCE            emblem_221
+LANG_ENGLISH         "Captivated"
+
+REFERENCE            emblem_147
+LANG_ENGLISH         "Finger of God"
+
+REFERENCE            emblem_148
+LANG_ENGLISH         "Bladed Wings"
+
+REFERENCE            emblem_149
+LANG_ENGLISH         "Skull Crusher"
+
+REFERENCE            emblem_177
+LANG_ENGLISH         "Dread Scavengers"
+
+REFERENCE            emblem_150
+LANG_ENGLISH         "EMBLEM_150"
+
+REFERENCE            emblem_159
+LANG_ENGLISH         "EMBLEM_159"
+
+REFERENCE            emblem_160
+LANG_ENGLISH         "EMBLEM_160"
+
+REFERENCE            emblem_157
+LANG_ENGLISH         "EMBLEM_157"
+
+REFERENCE            emblem_158
+LANG_ENGLISH         "Citadel Defenders"
+
+REFERENCE            emblem_250
+LANG_ENGLISH         "Inception"
+
+REFERENCE            emblem_161
+LANG_ENGLISH         "Grim Fate"
+
+REFERENCE            emblem_178
+LANG_ENGLISH         "Explosive Puppeteers"
+
+REFERENCE            emblem_463
+LANG_ENGLISH         "EMBLEM_463"
+
+REFERENCE            emblem_464
+LANG_ENGLISH         "EMBLEM_464"
+
+REFERENCE            emblem_465
+LANG_ENGLISH         "EMBLEM_465"
+
+REFERENCE            emblem_466
+LANG_ENGLISH         "EMBLEM_466"
+
+REFERENCE            emblem_467
+LANG_ENGLISH         "EMBLEM_467"
+
+REFERENCE            emblem_468
+LANG_ENGLISH         "EMBLEM_468"
+
+REFERENCE            emblem_469
+LANG_ENGLISH         "EMBLEM_469"
+
+REFERENCE            emblem_470
+LANG_ENGLISH         "EMBLEM_470"
+
+REFERENCE            emblem_471
+LANG_ENGLISH         "EMBLEM_471"
+
+REFERENCE            emblem_472
+LANG_ENGLISH         "EMBLEM_472"
+
+REFERENCE            emblem_473
+LANG_ENGLISH         "EMBLEM_473"
+
+REFERENCE            emblem_474
+LANG_ENGLISH         "EMBLEM_474"
+
+REFERENCE            emblem_475
+LANG_ENGLISH         "EMBLEM_475"
+
+REFERENCE            emblem_476
+LANG_ENGLISH         "EMBLEM_476"
+
+REFERENCE            emblem_477
+LANG_ENGLISH         "EMBLEM_477"
+
+REFERENCE            emblem_478
+LANG_ENGLISH         "EMBLEM_478"
+
+REFERENCE            emblem_479
+LANG_ENGLISH         "EMBLEM_479"
+
+REFERENCE            emblem_480
+LANG_ENGLISH         "EMBLEM_480"
+
+REFERENCE            emblem_481
+LANG_ENGLISH         "EMBLEM_481"
+
+REFERENCE            emblem_482
+LANG_ENGLISH         "EMBLEM_482"
+
+REFERENCE            emblem_483
+LANG_ENGLISH         "EMBLEM_483"
+
+REFERENCE            emblem_484
+LANG_ENGLISH         "Devil Horns"
+
+REFERENCE            emblem_485
+LANG_ENGLISH         "Sharp Tooth"
+
+REFERENCE            emblem_486
+LANG_ENGLISH         "Long Toothed"
+
+REFERENCE            emblem_487
+LANG_ENGLISH         "EMBLEM_487"
+
+REFERENCE            emblem_488
+LANG_ENGLISH         "EMBLEM_488"
+
+REFERENCE            emblem_489
+LANG_ENGLISH         "EMBLEM_489"
+
+REFERENCE            emblem_490
+LANG_ENGLISH         "Ancient Ram"
+
+REFERENCE            emblem_491
+LANG_ENGLISH         "EMBLEM_491"
+
+REFERENCE            emblem_492
+LANG_ENGLISH         "EMBLEM_492"
+
+REFERENCE            emblem_493
+LANG_ENGLISH         "EMBLEM_493"
+
+REFERENCE            emblem_494
+LANG_ENGLISH         "EMBLEM_494"
+
+REFERENCE            emblem_495
+LANG_ENGLISH         "EMBLEM_495"
+
+REFERENCE            emblem_496
+LANG_ENGLISH         "EMBLEM_496"
+
+REFERENCE            emblem_497
+LANG_ENGLISH         "Grizzled Pixel"
+
+REFERENCE            emblem_498
+LANG_ENGLISH         "EMBLEM_498"
+
+REFERENCE            emblem_499
+LANG_ENGLISH         "EMBLEM_499"
+
+REFERENCE            emblem_500
+LANG_ENGLISH         "EMBLEM_500"
+
+REFERENCE            emblem_501
+LANG_ENGLISH         "EMBLEM_501"
+
+REFERENCE            emblem_502
+LANG_ENGLISH         "EMBLEM_502"
+
+REFERENCE            emblem_503
+LANG_ENGLISH         "EMBLEM_503"
+
+REFERENCE            emblem_505
+LANG_ENGLISH         "EMBLEM_505"
+
+REFERENCE            emblem_506
+LANG_ENGLISH         "EMBLEM_506"
+
+REFERENCE            emblem_542
+LANG_ENGLISH         "EMBLEM_542"
+
+REFERENCE            emblem_543
+LANG_ENGLISH         "EMBLEM_543"
+
+REFERENCE            emblem_544
+LANG_ENGLISH         "The Soul Collector"
+
+REFERENCE            emblem_545
+LANG_ENGLISH         "Gunhorns"
+
+REFERENCE            emblem_546
+LANG_ENGLISH         "Eurotas"
+
+REFERENCE            emblem_547
+LANG_ENGLISH         "EMBLEM_547"
+
+REFERENCE            emblem_548
+LANG_ENGLISH         "Devil's Rank"
+
+REFERENCE            emblem_549
+LANG_ENGLISH         "EMBLEM_549"
+
+REFERENCE            emblem_550
+LANG_ENGLISH         "Life in the Balance"
+
+REFERENCE            emblem_551
+LANG_ENGLISH         "EMBLEM_551"
+
+REFERENCE            emblem_552
+LANG_ENGLISH         "Revolving Death"
+
+REFERENCE            emblem_553
+LANG_ENGLISH         "War Birds"
+
+REFERENCE            emblem_554
+LANG_ENGLISH         "Serpent Shield"
+
+REFERENCE            emblem_555
+LANG_ENGLISH         "EMBLEM_555"
+
+REFERENCE            emblem_556
+LANG_ENGLISH         "Bear Claw"
+
+REFERENCE            emblem_557
+LANG_ENGLISH         "Fang Fighter"
+
+REFERENCE            emblem_558
+LANG_ENGLISH         "EMBLEM_558"
+
+REFERENCE            emblem_559
+LANG_ENGLISH         "Life Extractor"
+
+REFERENCE            emblem_560
+LANG_ENGLISH         "Victory Angel"
+
+REFERENCE            emblem_561
+LANG_ENGLISH         "Guilded Stripes"
+
+REFERENCE            emblem_562
+LANG_ENGLISH         "Lightning Strike"
+
+REFERENCE            emblem_563
+LANG_ENGLISH         "The Scourge"
+
+REFERENCE            emblem_564
+LANG_ENGLISH         "EMBLEM_564"
+
+REFERENCE            emblem_565
+LANG_ENGLISH         "EMBLEM_565"
+
+REFERENCE            emblem_566
+LANG_ENGLISH         "Unbroken Will"
+
+REFERENCE            emblem_567
+LANG_ENGLISH         "Grizzled Veteran"
+
+REFERENCE            emblem_568
+LANG_ENGLISH         "EMBLEM_568"
+
+REFERENCE            emblem_569
+LANG_ENGLISH         "The Depth of Devotion"
+
+REFERENCE            emblem_570
+LANG_ENGLISH         "Sure Shot"
+
+REFERENCE            emblem_571
+LANG_ENGLISH         "EMBLEM_571"
+
+REFERENCE            emblem_572
+LANG_ENGLISH         "EMBLEM_572"
+
+REFERENCE            emblem_573
+LANG_ENGLISH         "Chimera"
+
+REFERENCE            emblem_574
+LANG_ENGLISH         "Spetsnaz"
+
+REFERENCE            emblem_575
+LANG_ENGLISH         "Warcom"
+
+REFERENCE            emblem_576
+LANG_ENGLISH         "Demon Dogs"
+
+REFERENCE            emblem_577
+LANG_ENGLISH         "Jackals"
+
+REFERENCE            emblem_578
+LANG_ENGLISH         "SAS"
+
+REFERENCE            emblem_579
+LANG_ENGLISH         "EMBLEM_579"
+
+REFERENCE            emblem_580
+LANG_ENGLISH         "EMBLEM_580"
+
+REFERENCE            emblem_581
+LANG_ENGLISH         "EMBLEM_581"
+
+REFERENCE            emblem_582
+LANG_ENGLISH         "EMBLEM_582"
+
+REFERENCE            emblem_583
+LANG_ENGLISH         "EMBLEM_583"
+
+REFERENCE            emblem_584
+LANG_ENGLISH         "EMBLEM_584"
+
+REFERENCE            emblem_585
+LANG_ENGLISH         "Cremation"
+
+REFERENCE            emblem_596
+LANG_ENGLISH         "Atlanta FaZe"
+
+REFERENCE            emblem_597
+LANG_ENGLISH         "Chicago Huntsmen"
+
+REFERENCE            emblem_598
+LANG_ENGLISH         "Dallas Empire"
+
+REFERENCE            emblem_599
+LANG_ENGLISH         "Florida Mutineers"
+
+REFERENCE            emblem_600
+LANG_ENGLISH         "Los Angeles Guerrillas"
+
+REFERENCE            emblem_601
+LANG_ENGLISH         "OpTic Gaming Los Angeles"
+
+REFERENCE            emblem_602
+LANG_ENGLISH         "London Royal Ravens"
+
+REFERENCE            emblem_603
+LANG_ENGLISH         "Minnesota R??KKR"
+
+REFERENCE            emblem_604
+LANG_ENGLISH         "New York Subliners"
+
+REFERENCE            emblem_605
+LANG_ENGLISH         "Paris Legion"
+
+REFERENCE            emblem_606
+LANG_ENGLISH         "Seattle Surge"
+
+REFERENCE            emblem_607
+LANG_ENGLISH         "Toronto Ultra"
+
+REFERENCE            emblem_608
+LANG_ENGLISH         "Abundance"
+
+REFERENCE            emblem_609
+LANG_ENGLISH         "Luck"
+
+REFERENCE            emblem_610
+LANG_ENGLISH         "EMBLEM 610"
+
+REFERENCE            emblem_611
+LANG_ENGLISH         "Solidarity"
+
+REFERENCE            emblem_612
+LANG_ENGLISH         "Second Coming"
+
+REFERENCE            emblem_613
+LANG_ENGLISH         "EMBLEM 613"
+
+REFERENCE            emblem_614
+LANG_ENGLISH         "Stronghold"
+
+REFERENCE            emblem_615
+LANG_ENGLISH         "Thunderhead"
+
+REFERENCE            emblem_617
+LANG_ENGLISH         "Blessings"
+
+REFERENCE            emblem_618
+LANG_ENGLISH         "Airdrop"
+
+REFERENCE            emblem_619
+LANG_ENGLISH         "EMBLEM 619"
+
+REFERENCE            emblem_620
+LANG_ENGLISH         "EMBLEM 620"
+
+REFERENCE            emblem_622
+LANG_ENGLISH         "EMBLEM 622"
+
+REFERENCE            emblem_623
+LANG_ENGLISH         "EMBLEM 623"
+
+REFERENCE            emblem_624
+LANG_ENGLISH         "EMBLEM 624"
+
+REFERENCE            emblem_625
+LANG_ENGLISH         "EMBLEM 625"
+
+REFERENCE            emblem_626
+LANG_ENGLISH         "Toxic Event"
+
+REFERENCE            emblem_627
+LANG_ENGLISH         "Ghost Story"
+
+REFERENCE            emblem_628
+LANG_ENGLISH         "EMBLEM 628"
+
+REFERENCE            emblem_629
+LANG_ENGLISH         "The Conqueror"
+
+REFERENCE            emblem_630
+LANG_ENGLISH         "EMBLEM 630"
+
+REFERENCE            emblem_632
+LANG_ENGLISH         "Vengeance Awaits"
+
+REFERENCE            emblem_633
+LANG_ENGLISH         "EMBLEM 633"
+
+REFERENCE            emblem_634
+LANG_ENGLISH         "EMBLEM 634"
+
+REFERENCE            emblem_635
+LANG_ENGLISH         "EMBLEM 635"
+
+REFERENCE            emblem_636
+LANG_ENGLISH         "EMBLEM 636"
+
+REFERENCE            emblem_637
+LANG_ENGLISH         "EMBLEM 637"
+
+REFERENCE            emblem_638
+LANG_ENGLISH         "EMBLEM 638"
+
+REFERENCE            emblem_639
+LANG_ENGLISH         "EMBLEM 639"
+
+REFERENCE            emblem_640
+LANG_ENGLISH         "EMBLEM 640"
+
+REFERENCE            emblem_641
+LANG_ENGLISH         "EMBLEM 641"
+
+REFERENCE            emblem_643
+LANG_ENGLISH         "EMBLEM 643"
+
+REFERENCE            emblem_645
+LANG_ENGLISH         "EMBLEM 645"
+
+
+ENDMARKER

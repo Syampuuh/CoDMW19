@@ -1,0 +1,80 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            korean_boot_description_ranting15
+LANG_ENGLISH         "This game has two ratings, ???15+??? and ???18+???. 
+The player???s age is automatically determined upon log in. 
+Players between the ages of 15 and 18 can access ???15+??? rated content only and it is unsuitable for players under the age of 15."
+
+REFERENCE            korean_boot_description_ranting18
+LANG_ENGLISH         "This game is rated mature.
+Players under the age of 18 are not allowed to play."
+
+REFERENCE            korean_overindulgence_notification
+LANG_ENGLISH         "You have played for &&1 hours. Excessive game play may harmfully affect your normal daily life."
+
+REFERENCE            korean_pi_body_0
+LANG_ENGLISH         "LIST OF COLLECTED PERSONAL DATA AND COLLECTION METHOD
+Activision Publishing, Inc. (hereinafter referred to as "Activision", located in the United States, contact: privacy@activision.com) collects (including receiving data from Blizzard Entertainment, Ltd. and its group companies) and uses your personal data to the minimum extent that is necessary to provide our services to you. Activision transfers collected personal data overseas upon your purchase and usage of services by online transmission to provide its services. You have a right to refuse this consent form. Even when you do not enter personal data that is optional, there is no limitation on your use of our services. However, Activision???s service shall be restricted if you don't agree to this essential consent for PI processing.
+"
+
+REFERENCE            korean_pi_body_1
+LANG_ENGLISH         "Required Items Collected Through Blizzard
+??	BattleTag and Blizzard Account information
+??	Regional information
+??	Relevant Blizzard service purchase and usage information
+
+Required Items Collected by Activision for Call of Duty Account
+??	Region, Email address, Password and Display name
+Automatically Collected Items
+??	IP address, unauthorized usage log, access log, cookie
+"
+
+REFERENCE            korean_pi_body_2
+LANG_ENGLISH         "PURPOSE OF COLLECTION AND USAGE OF PERSONAL DATA
+We use the information we collect to operate Activision Services; to operate communication service and online play among players over platforms; to deliver the items and services you have requested; to enhance, improve, operate, and maintain Activision Services, our games, and our other systems, resources, and products; to prevent fraudulent use of Activision Services; to tailor your user experience, and the content and advertisements that are presented to you; to maintain a record of our dealings with you, and for other administrative purposes.
+
+For improvement of users' game experience and management of users' in-game relationship, non-identifiable data along with Battle Tag may be disclosed to other users through open API or in-game interface, including game data generated during user's usage of Activision's services.
+"
+
+REFERENCE            korean_pi_body_3
+LANG_ENGLISH         "PERIOD OF RETENTION AND USAGE
+Activision will hold your personal information until termination of service.
+In addition, if Activision needs to retain such data to comply with relevant laws or regulations, Activision will retain the data for the period set under such laws or regulations.
+For any privacy policy or personal data-related inquiries, please send an e-mail to privacy@activision.com.
+"
+
+REFERENCE            korean_pi_decline_description
+LANG_ENGLISH         "You must accept the Consent Form for PI Collection and Processing to proceed or close the game."
+
+REFERENCE            korean_pi_decline_title
+LANG_ENGLISH         "Decline Consent Form for PI Collection and Processing"
+
+REFERENCE            korean_pi_header
+LANG_ENGLISH         "(Essential) Consent Form for PI Collection and Processing"
+
+REFERENCE            korean_pio_body_0
+LANG_ENGLISH         "NOTIFICATION FOR PERSONAL DATA OVERSEAS TRANSFER
+Activision transfer collected personal data overseas as below, and service may not be provided if you don???t consent of such transfer since this is essential for service.
+
+For Stable Service Provision
+??	Company: Amazon.com Inc. (location: United States, contact: Amazon Customer Service https://aws.amazon.com/contact-us/?nc1=h_ls)
+??	Items: BattleTag and Blizzard Account information, Regional information, Relevant Blizzard service purchase and usage information, Game data (inventory, progression, match stats, etc.), IP address, unauthorized usage log, access log, cookie
+??	Period: until termination of agreement
+
+"
+
+REFERENCE            korean_pio_decline_description
+LANG_ENGLISH         "You must accept the Consent Form for PI Overseas Transfer to proceed or close the game.
+"
+
+REFERENCE            korean_pio_decline_title
+LANG_ENGLISH         "Decline Consent Form for PI Overseas Transfer"
+
+REFERENCE            korean_pio_header
+LANG_ENGLISH         "(Essential) Consent Form for PI Overseas Transfer
+"
+
+
+ENDMARKER

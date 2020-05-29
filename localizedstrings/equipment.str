@@ -1,0 +1,391 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            adrenaline
+LANG_ENGLISH         "Stim"
+
+REFERENCE            adrenaline_br
+LANG_ENGLISH         "Medical Syringe"
+
+REFERENCE            adrenaline_desc
+LANG_ENGLISH         "Military stimulant that cauterizes combat wounds and refreshes Tactical Sprint."
+
+REFERENCE            adrenaline_desc_br
+LANG_ENGLISH         "Military injection heals for maximum health over 2 seconds. Weapons can be used one handed during this time."
+
+REFERENCE            adrenaline_ready
+LANG_ENGLISH         "Stim Ready"
+
+REFERENCE            advanced_supply_drop
+LANG_ENGLISH         "Loadout Drop Marker"
+
+REFERENCE            advanced_supply_drop_desc
+LANG_ENGLISH         "Marks a location and deploys a supply drop, allowing your team to pick-up a loadout, including perks."
+
+REFERENCE            allyclose
+LANG_ENGLISH         "Danger Close"
+
+REFERENCE            ammo_drop
+LANG_ENGLISH         "Munitions Box"
+
+REFERENCE            ammo_drop_desc
+LANG_ENGLISH         "Deploy a box of ammo and equipment for you and your teammates. Shoot at your own risk."
+
+REFERENCE            armor_drop
+LANG_ENGLISH         "Armor Box"
+
+REFERENCE            armor_drop_desc
+LANG_ENGLISH         "Deploy a box of armor plates for you and your teammates. Shoot at your own risk."
+
+REFERENCE            armor_plate_br
+LANG_ENGLISH         "Armor Plate"
+
+REFERENCE            armor_plate_desc_br
+LANG_ENGLISH         "Refills 75 Armor when used."
+
+REFERENCE            armor_satchel_br
+LANG_ENGLISH         "Satchel: Armor Plates"
+
+REFERENCE            armorplate
+LANG_ENGLISH         "Armor Plate"
+
+REFERENCE            at_mine
+LANG_ENGLISH         "Proximity Mine"
+
+REFERENCE            at_mine_desc
+LANG_ENGLISH         "Proximity-triggered explosive that deals heavy damage to vehicles."
+
+REFERENCE            atmine_br
+LANG_ENGLISH         "Proximity Mine"
+
+REFERENCE            bandages_br
+LANG_ENGLISH         "Small Medical Kit"
+
+REFERENCE            bandages_desc_br
+LANG_ENGLISH         "Heals for 20% of maximum health over 5 seconds."
+
+REFERENCE            bouncing_betty
+LANG_ENGLISH         "Bouncing Betty"
+
+REFERENCE            bouncing_betty_desc
+LANG_ENGLISH         "Proximity explosive that launches into the air before detonating."
+
+REFERENCE            br_plate_pouch
+LANG_ENGLISH         "Armor Satchel"
+
+REFERENCE            br_plate_pouch_desc
+LANG_ENGLISH         "Increases personal Armor Plate storage by 3."
+
+REFERENCE            c4
+LANG_ENGLISH         "C4"
+
+REFERENCE            c4_desc
+LANG_ENGLISH         "Large explosive that sticks to surfaces and can be detonated remotely with [{ONFOOT:+frag}] when the equipment is depleted.
+
+Double-tapping [{ONFOOT:+reload}] always detonates the explosives."
+
+REFERENCE            c4_desc_kbm
+LANG_ENGLISH         "Large explosive that sticks to surfaces and can be detonated remotely with [{ONFOOT:+frag}] when the equipment is depleted.
+
+Double-tapping [{COMMON:+activate}] always detonates the explosives."
+
+REFERENCE            claymore
+LANG_ENGLISH         "Claymore"
+
+REFERENCE            claymore_br
+LANG_ENGLISH         "Claymore"
+
+REFERENCE            claymore_desc
+LANG_ENGLISH         "Proximity-activated explosive mine."
+
+REFERENCE            concussion
+LANG_ENGLISH         "Stun Grenade"
+
+REFERENCE            concussion_br
+LANG_ENGLISH         "Stun Grenade"
+
+REFERENCE            concussion_desc
+LANG_ENGLISH         "Slows victim's movement and aiming."
+
+REFERENCE            decoy
+LANG_ENGLISH         "Decoy Grenade"
+
+REFERENCE            decoy_br
+LANG_ENGLISH         "Decoy Grenade"
+
+REFERENCE            decoy_desc
+LANG_ENGLISH         "Counter-intel grenade that simulates fake gunfire and radar signatures that confuse the enemy."
+
+REFERENCE            drone_reloading
+LANG_ENGLISH         "Drone Reloading"
+
+REFERENCE            emp
+LANG_ENGLISH         "Chaff Grenade"
+
+REFERENCE            emp_desc
+LANG_ENGLISH         "Scrambles or disables electronic systems.  Effective against equipment and scorestreaks."
+
+REFERENCE            empdrone_br
+LANG_ENGLISH         "EMP Drone"
+
+REFERENCE            firstaid_br
+LANG_ENGLISH         "Large Medical Kit"
+
+REFERENCE            firstaid_desc_br
+LANG_ENGLISH         "Heals for maximum health over 5 seconds."
+
+REFERENCE            flash
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            flash_br
+LANG_ENGLISH         "Flash"
+
+REFERENCE            flash_desc
+LANG_ENGLISH         "Blinds and deafens targets."
+
+REFERENCE            frag
+LANG_ENGLISH         "Frag Grenade"
+
+REFERENCE            frag_br
+LANG_ENGLISH         "Frag"
+
+REFERENCE            frag_desc
+LANG_ENGLISH         "Cookable fragmentation grenade."
+
+REFERENCE            fulton_instruction
+LANG_ENGLISH         "Hold [{+activate}] to Deposit Cash"
+
+REFERENCE            gas
+LANG_ENGLISH         "Gas Grenade"
+
+REFERENCE            gas_br
+LANG_ENGLISH         "Gas Grenade"
+
+REFERENCE            gas_desc
+LANG_ENGLISH         "Explodes on impact with the ground, releasing a lingering cloud of tear gas that causes slowed movement, blurred vision, and coughing."
+
+REFERENCE            gasmask
+LANG_ENGLISH         "Gas Mask"
+
+REFERENCE            greenbeam_equip
+LANG_ENGLISH         "[{+actionslot 1}] Use laser marking"
+
+REFERENCE            greenbeam_fire
+LANG_ENGLISH         "[{+attack}] Designate a target"
+
+REFERENCE            hb_sensor
+LANG_ENGLISH         "Heartbeat Sensor"
+
+REFERENCE            hb_sensor_desc
+LANG_ENGLISH         "A tablet that displays rough information about nearby enemies."
+
+REFERENCE            heartbeatsensor_br
+LANG_ENGLISH         "Heartbeat Sensor"
+
+REFERENCE            helmet
+LANG_ENGLISH         "SATO Helmet"
+
+REFERENCE            helmet_2_br
+LANG_ENGLISH         "Helmet L2"
+
+REFERENCE            helmet_3_br
+LANG_ENGLISH         "Helmet L3"
+
+REFERENCE            helmet_br
+LANG_ENGLISH         "Helmet L1"
+
+REFERENCE            helmet_mp
+LANG_ENGLISH         "Ballistic Helmet"
+
+REFERENCE            helmet_mp_desc
+LANG_ENGLISH         "Reinforced helmet with extra protection against headshots."
+
+REFERENCE            loot_armor
+LANG_ENGLISH         "+ Ballistic Vest"
+
+REFERENCE            loot_flash
+LANG_ENGLISH         "+ M84 Flash"
+
+REFERENCE            loot_frag
+LANG_ENGLISH         "+ M67 Frag"
+
+REFERENCE            loot_molotov
+LANG_ENGLISH         "+ Molotov"
+
+REFERENCE            loot_semtex
+LANG_ENGLISH         "+ Semtex"
+
+REFERENCE            loot_throwing_knife
+LANG_ENGLISH         "+ Throwing Knife"
+
+REFERENCE            low_armor
+LANG_ENGLISH         "Low Armor"
+
+REFERENCE            mission_tablet
+LANG_ENGLISH         "Mission Tablet"
+
+REFERENCE            molotov
+LANG_ENGLISH         "Molotov Cocktail"
+
+REFERENCE            molotov_br
+LANG_ENGLISH         "Molotov"
+
+REFERENCE            molotov_desc
+LANG_ENGLISH         "Improvised incendiary device that explodes on impact."
+
+REFERENCE            no_armor
+LANG_ENGLISH         "No Armor"
+
+REFERENCE            none
+LANG_ENGLISH         "None"
+
+REFERENCE            none_desc
+LANG_ENGLISH         ""
+
+REFERENCE            notarget
+LANG_ENGLISH         "No Target Designated"
+
+REFERENCE            off
+LANG_ENGLISH         "Off"
+
+REFERENCE            on
+LANG_ENGLISH         "On"
+
+REFERENCE            pball
+LANG_ENGLISH         "^3Snowball^7"
+
+REFERENCE            plant_failed
+LANG_ENGLISH         "Cannot Place Here"
+
+REFERENCE            pop_rocket
+LANG_ENGLISH         "Pop Rocket"
+
+REFERENCE            pop_rocket_desc
+LANG_ENGLISH         "Improvised hand-held rocket launcher."
+
+REFERENCE            radardrone_br
+LANG_ENGLISH         "Radar Drone"
+
+REFERENCE            recondrone_br
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            rock
+LANG_ENGLISH         "Rock"
+
+REFERENCE            scramblerdrone_br
+LANG_ENGLISH         "Scrambler Drone"
+
+REFERENCE            semtex
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            semtex_br
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            semtex_desc
+LANG_ENGLISH         "Timed sticky grenade."
+
+REFERENCE            shieldturret_br
+LANG_ENGLISH         "Shield Turret"
+
+REFERENCE            smoke
+LANG_ENGLISH         "Smoke Grenade"
+
+REFERENCE            smoke_desc
+LANG_ENGLISH         "Deploys a smoke screen that blocks vision and automated targeting systems."
+
+REFERENCE            smoke_target
+LANG_ENGLISH         "Smoke Targeting Device"
+
+REFERENCE            snapshot_br
+LANG_ENGLISH         "Snapshot Grenade"
+
+REFERENCE            snapshot_grenade
+LANG_ENGLISH         "Snapshot Grenade"
+
+REFERENCE            snapshot_grenade_desc
+LANG_ENGLISH         "Provides a momentary glimpse of enemies within the blast radius."
+
+REFERENCE            snowball
+LANG_ENGLISH         "Snowball"
+
+REFERENCE            spotterscope
+LANG_ENGLISH         "Spotter Scope"
+
+REFERENCE            support_box
+LANG_ENGLISH         "Stopping Power Rounds"
+
+REFERENCE            support_box_desc
+LANG_ENGLISH         "Reload your gun with stopping power rounds that deal extra damage."
+
+REFERENCE            support_box_ready
+LANG_ENGLISH         "Stopping Power Rounds Ready"
+
+REFERENCE            swap_instruction
+LANG_ENGLISH         "[{ui_dpad_up}] Swap equipment"
+
+REFERENCE            tac_insert
+LANG_ENGLISH         "Tactical Insertion"
+
+REFERENCE            tac_insert_desc
+LANG_ENGLISH         "Marks a location as your next spawn point."
+
+REFERENCE            tactical_cover
+LANG_ENGLISH         "Deployable Cover"
+
+REFERENCE            tactical_cover_desc
+LANG_ENGLISH         "Portable, rapidly-deployable ballistic cover."
+
+REFERENCE            tactical_cover_ready
+LANG_ENGLISH         "Deployable Cover Ready"
+
+REFERENCE            thermite
+LANG_ENGLISH         "Thermite"
+
+REFERENCE            thermite_br
+LANG_ENGLISH         "Thermite Grenade"
+
+REFERENCE            thermite_desc
+LANG_ENGLISH         "Burns fiercely for a short while after impact. Sticks to all surfaces."
+
+REFERENCE            throwing_knife
+LANG_ENGLISH         "Throwing Knife"
+
+REFERENCE            throwing_knife_br
+LANG_ENGLISH         "Throwing Knife"
+
+REFERENCE            throwing_knife_desc
+LANG_ENGLISH         "Retrievable knife that is lethal on impact."
+
+REFERENCE            throwing_knife_fire
+LANG_ENGLISH         "Flaming Throwing Knife"
+
+REFERENCE            throwing_knife_fire_desc
+LANG_ENGLISH         "Retrievable knife that is lethal on impact. Note: this equipment can be obtained from the Pyromaniac Bundle when available in the store and has no functional difference from the ^5Throwing Knife^7, change is visual only."
+
+REFERENCE            trophy
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            trophy_desc
+LANG_ENGLISH         "Deployable autonomous defense system that destroys up to three nearby pieces of equipment and projectiles."
+
+REFERENCE            type_lethal_caps
+LANG_ENGLISH         "LETHAL"
+
+REFERENCE            type_tactical_caps
+LANG_ENGLISH         "TACTICAL"
+
+REFERENCE            type_utility_caps
+LANG_ENGLISH         "UTILITY"
+
+REFERENCE            vest_2_br
+LANG_ENGLISH         "Vest L2"
+
+REFERENCE            vest_3_br
+LANG_ENGLISH         "Vest L3"
+
+REFERENCE            vest_br
+LANG_ENGLISH         "Vest L1"
+
+
+ENDMARKER

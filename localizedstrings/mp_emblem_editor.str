@@ -1,0 +1,1645 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            y
+LANG_ENGLISH         "Y: &&1"
+
+REFERENCE            xy
+LANG_ENGLISH         "X: &&1, Y: &&2"
+
+REFERENCE            x
+LANG_ENGLISH         "X: &&1"
+
+REFERENCE            world_wide
+LANG_ENGLISH         "WORLD WIDE"
+
+REFERENCE            wolfhead
+LANG_ENGLISH         "WOLFHEAD"
+
+REFERENCE            wing
+LANG_ENGLISH         "WING"
+
+REFERENCE            widow
+LANG_ENGLISH         "WIDOW"
+
+REFERENCE            weed
+LANG_ENGLISH         "WEED"
+
+REFERENCE            weapon_widowmaker
+LANG_ENGLISH         "widowmaker"
+
+REFERENCE            weapon_volk
+LANG_ENGLISH         "volk"
+
+REFERENCE            weapon_type_2
+LANG_ENGLISH         "type-2"
+
+REFERENCE            weapon_titan
+LANG_ENGLISH         "titan"
+
+REFERENCE            weapon_tf141
+LANG_ENGLISH         "tf-141"
+
+REFERENCE            weapon_sravage
+LANG_ENGLISH         "s-ravage"
+
+REFERENCE            weapon_spartan_sa3
+LANG_ENGLISH         "spartan sa3"
+
+REFERENCE            weapon_seeker
+LANG_ENGLISH         "seeker"
+
+REFERENCE            weapon_saiga
+LANG_ENGLISH         "saiga"
+
+REFERENCE            weapon_rpr_evo
+LANG_ENGLISH         "rpr evo"
+
+REFERENCE            weapon_reaver
+LANG_ENGLISH         "reaver"
+
+REFERENCE            weapon_raw
+LANG_ENGLISH         "r.a.w."
+
+REFERENCE            weapon_rack9
+LANG_ENGLISH         "rack-9"
+
+REFERENCE            weapon_r3k
+LANG_ENGLISH         "r3k"
+
+REFERENCE            weapon_plasma_grenade
+LANG_ENGLISH         "plasma grenade"
+
+REFERENCE            weapon_pdw
+LANG_ENGLISH         "p-law"
+
+REFERENCE            weapon_osa
+LANG_ENGLISH         "osa"
+
+REFERENCE            weapon_oni
+LANG_ENGLISH         "oni"
+
+REFERENCE            weapon_nv4
+LANG_ENGLISH         "nv4"
+
+REFERENCE            weapon_mors
+LANG_ENGLISH         "mors"
+
+REFERENCE            weapon_mauler
+LANG_ENGLISH         "mauler"
+
+REFERENCE            weapon_mactav45
+LANG_ENGLISH         "mactav-45"
+
+REFERENCE            weapon_m1
+LANG_ENGLISH         "m1"
+
+REFERENCE            weapon_kendall_44
+LANG_ENGLISH         "kendall 44"
+
+REFERENCE            weapon_kbs_longbow
+LANG_ENGLISH         "kbs longbow"
+
+REFERENCE            weapon_kbar
+LANG_ENGLISH         "kbar-32"
+
+REFERENCE            weapon_karma45
+LANG_ENGLISH         "karma-45"
+
+REFERENCE            weapon_infected
+LANG_ENGLISH         "infected"
+
+REFERENCE            weapon_hvr
+LANG_ENGLISH         "hvr"
+
+REFERENCE            weapon_howitzer
+LANG_ENGLISH         "howitzer"
+
+REFERENCE            weapon_hornet
+LANG_ENGLISH         "hornet"
+
+REFERENCE            weapon_hailstorm
+LANG_ENGLISH         "hailstorm"
+
+REFERENCE            weapon_grenade
+LANG_ENGLISH         "grenade"
+
+REFERENCE            weapon_flechette
+LANG_ENGLISH         "flechette"
+
+REFERENCE            weapon_fhr40
+LANG_ENGLISH         "fhr-40"
+
+REFERENCE            weapon_exploding_drone
+LANG_ENGLISH         "exploding drone"
+
+REFERENCE            weapon_erad
+LANG_ENGLISH         "erad"
+
+REFERENCE            weapon_emp
+LANG_ENGLISH         "New text"
+
+REFERENCE            weapon_emc
+LANG_ENGLISH         "emc"
+
+REFERENCE            weapon_ebr800
+LANG_ENGLISH         "ebr-800"
+
+REFERENCE            weapon_dmr1
+LANG_ENGLISH         "dmr-1"
+
+REFERENCE            weapon_dcm8
+LANG_ENGLISH         "dcm-8"
+
+REFERENCE            weapon_combat_knife
+LANG_ENGLISH         "combat knife"
+
+REFERENCE            weapon_cluster
+LANG_ENGLISH         "cluster"
+
+REFERENCE            weapon_black_hole
+LANG_ENGLISH         "black hole"
+
+REFERENCE            weapon_banshee
+LANG_ENGLISH         "banshee"
+
+REFERENCE            visit_store
+LANG_ENGLISH         "VISIT THE STORE TO PURCHASE MORE EMBLEM SLOTS/EMBLEMS"
+
+REFERENCE            usna
+LANG_ENGLISH         "USNA"
+
+REFERENCE            ungroup_layer
+LANG_ENGLISH         "UNGROUP LAYER"
+
+REFERENCE            type_zero
+LANG_ENGLISH         "zero"
+
+REFERENCE            type_two
+LANG_ENGLISH         "two"
+
+REFERENCE            type_three
+LANG_ENGLISH         "three"
+
+REFERENCE            type_six
+LANG_ENGLISH         "six"
+
+REFERENCE            type_seven
+LANG_ENGLISH         "seven"
+
+REFERENCE            type_one
+LANG_ENGLISH         "one"
+
+REFERENCE            type_nine
+LANG_ENGLISH         "nine"
+
+REFERENCE            type_letter_z
+LANG_ENGLISH         "Letter Z"
+
+REFERENCE            type_letter_y
+LANG_ENGLISH         "Letter Y"
+
+REFERENCE            type_letter_x
+LANG_ENGLISH         "Letter X"
+
+REFERENCE            type_letter_w
+LANG_ENGLISH         "Letter W"
+
+REFERENCE            type_letter_v
+LANG_ENGLISH         "Letter V"
+
+REFERENCE            type_letter_u
+LANG_ENGLISH         "Letter U"
+
+REFERENCE            type_letter_t
+LANG_ENGLISH         "Letter T"
+
+REFERENCE            type_letter_s
+LANG_ENGLISH         "Letter S"
+
+REFERENCE            type_letter_r
+LANG_ENGLISH         "Letter R"
+
+REFERENCE            type_letter_q
+LANG_ENGLISH         "Letter Q"
+
+REFERENCE            type_letter_p
+LANG_ENGLISH         "Letter P"
+
+REFERENCE            type_letter_o
+LANG_ENGLISH         "Letter O"
+
+REFERENCE            type_letter_n
+LANG_ENGLISH         "Letter N"
+
+REFERENCE            type_letter_m
+LANG_ENGLISH         "Letter M"
+
+REFERENCE            type_letter_l
+LANG_ENGLISH         "Letter L"
+
+REFERENCE            type_letter_k
+LANG_ENGLISH         "Letter K"
+
+REFERENCE            type_letter_j
+LANG_ENGLISH         "Letter J"
+
+REFERENCE            type_letter_i
+LANG_ENGLISH         "Letter I"
+
+REFERENCE            type_letter_h
+LANG_ENGLISH         "Letter H"
+
+REFERENCE            type_letter_g
+LANG_ENGLISH         "Letter G"
+
+REFERENCE            type_letter_f
+LANG_ENGLISH         "Letter F"
+
+REFERENCE            type_letter_e
+LANG_ENGLISH         "Letter E"
+
+REFERENCE            type_letter_d
+LANG_ENGLISH         "Letter D"
+
+REFERENCE            type_letter_c
+LANG_ENGLISH         "Letter C"
+
+REFERENCE            type_letter_b
+LANG_ENGLISH         "Letter B"
+
+REFERENCE            type_letter_a
+LANG_ENGLISH         "Letter A"
+
+REFERENCE            type_four
+LANG_ENGLISH         "four"
+
+REFERENCE            type_five
+LANG_ENGLISH         "five"
+
+REFERENCE            type_eight
+LANG_ENGLISH         "eight"
+
+REFERENCE            two_hexagons
+LANG_ENGLISH         "TWO HEXAGONS"
+
+REFERENCE            twinkle
+LANG_ENGLISH         "TWINKLE"
+
+REFERENCE            tripple_banner
+LANG_ENGLISH         "TRIPPLE BANNER"
+
+REFERENCE            triangle
+LANG_ENGLISH         "TRIANGLE"
+
+REFERENCE            treble_outline
+LANG_ENGLISH         "TREBLE OUTLINE"
+
+REFERENCE            treble
+LANG_ENGLISH         "TREBLE"
+
+REFERENCE            trapezium
+LANG_ENGLISH         "TRAPEZIUM"
+
+REFERENCE            toggle_grid_on
+LANG_ENGLISH         "TOGGLE GRID: ON"
+
+REFERENCE            toggle_grid_off
+LANG_ENGLISH         "TOGGLE GRID: OFF"
+
+REFERENCE            toggle_grid_alt_color_on
+LANG_ENGLISH         "USE ALTERNATIVE GRID COLOR: ON"
+
+REFERENCE            toggle_grid_alt_color_off
+LANG_ENGLISH         "USE ALTERNATIVE GRID COLOR: OFF"
+
+REFERENCE            toggle_gradient
+LANG_ENGLISH         "TOGGLE GRADIENT"
+
+REFERENCE            toggle_color_picker
+LANG_ENGLISH         "TOGGLE COLOR PICKER"
+
+REFERENCE            toggle_color_mixer
+LANG_ENGLISH         "TOGGLE COLOR MIXER"
+
+REFERENCE            throwing_star
+LANG_ENGLISH         "THROWING STAR"
+
+REFERENCE            tail
+LANG_ENGLISH         "TAIL"
+
+REFERENCE            table_banner
+LANG_ENGLISH         "TABLE BANNER"
+
+REFERENCE            sword
+LANG_ENGLISH         "SWORD"
+
+REFERENCE            switch_to_free_scale
+LANG_ENGLISH         "SWITCH TO FREE SCALE"
+
+REFERENCE            switch_to_fixed_scale
+LANG_ENGLISH         "SWITCH TO FIXED SCALE"
+
+REFERENCE            switch_to_favorites
+LANG_ENGLISH         "SWITCH TO FAVORITES"
+
+REFERENCE            switch_to_colors
+LANG_ENGLISH         "SWITCH TO COLOR PICKER"
+
+REFERENCE            super_star
+LANG_ENGLISH         "SUPER STAR"
+
+REFERENCE            sunrise
+LANG_ENGLISH         "SUNRISE"
+
+REFERENCE            straight_banner
+LANG_ENGLISH         "STRAIGHT BANNER"
+
+REFERENCE            store
+LANG_ENGLISH         "STORE"
+
+REFERENCE            star_circle
+LANG_ENGLISH         "STAR CIRCLE"
+
+REFERENCE            star_child
+LANG_ENGLISH         "STAR CHILD"
+
+REFERENCE            star_burst
+LANG_ENGLISH         "STAR BURST"
+
+REFERENCE            star
+LANG_ENGLISH         "STAR"
+
+REFERENCE            square
+LANG_ENGLISH         "SQUARE"
+
+REFERENCE            spoiler
+LANG_ENGLISH         "SPOILER"
+
+REFERENCE            spearhead
+LANG_ENGLISH         "SPEARHEAD"
+
+REFERENCE            space_lines
+LANG_ENGLISH         "SPACE LINES"
+
+REFERENCE            smile
+LANG_ENGLISH         "SMILE"
+
+REFERENCE            slots_used
+LANG_ENGLISH         "SLOTS USED: &&1/&&2"
+
+REFERENCE            slot_limit_reached_title
+LANG_ENGLISH         "SLOT LIMIT REACHED"
+
+REFERENCE            slot_limit_reached_message
+LANG_ENGLISH         "You've used up all your free slots.
+
+You can delete an emblem to free up space."
+
+REFERENCE            shock_outline
+LANG_ENGLISH         "shock outline"
+
+REFERENCE            shield_outline
+LANG_ENGLISH         "SHIELD OUTLINE"
+
+REFERENCE            shape_wind_sock
+LANG_ENGLISH         "wind sock"
+
+REFERENCE            shape_visor
+LANG_ENGLISH         "visor"
+
+REFERENCE            shape_vase
+LANG_ENGLISH         "vase"
+
+REFERENCE            shape_tube
+LANG_ENGLISH         "tube"
+
+REFERENCE            shape_trapezium
+LANG_ENGLISH         "trapezoid"
+
+REFERENCE            shape_top_hat
+LANG_ENGLISH         "top hat"
+
+REFERENCE            shape_tongue
+LANG_ENGLISH         "tongue"
+
+REFERENCE            shape_thimble
+LANG_ENGLISH         "thimble"
+
+REFERENCE            shape_swoop
+LANG_ENGLISH         "swoop"
+
+REFERENCE            shape_sun_star
+LANG_ENGLISH         "sun star"
+
+REFERENCE            shape_shuriken
+LANG_ENGLISH         "shuriken"
+
+REFERENCE            shape_shield_symbol
+LANG_ENGLISH         "shield symbol"
+
+REFERENCE            shape_scribble
+LANG_ENGLISH         "scribble"
+
+REFERENCE            shape_scoop
+LANG_ENGLISH         "scoop"
+
+REFERENCE            shape_rounded_triangle
+LANG_ENGLISH         "rounded triangle"
+
+REFERENCE            shape_rounded_square
+LANG_ENGLISH         "rounded square"
+
+REFERENCE            shape_rock_shadow
+LANG_ENGLISH         "rock shadow"
+
+REFERENCE            shape_rock
+LANG_ENGLISH         "rock"
+
+REFERENCE            shape_quarter_egg
+LANG_ENGLISH         "quarter egg"
+
+REFERENCE            shape_podium
+LANG_ENGLISH         "podium"
+
+REFERENCE            shape_pillow
+LANG_ENGLISH         "pillow"
+
+REFERENCE            shape_pie_slice
+LANG_ENGLISH         "pie slice"
+
+REFERENCE            shape_paint_splash
+LANG_ENGLISH         "paint splash"
+
+REFERENCE            shape_oven_mitt
+LANG_ENGLISH         "oven mitt"
+
+REFERENCE            shape_nose
+LANG_ENGLISH         "nose"
+
+REFERENCE            shape_ninja_star
+LANG_ENGLISH         "ninja star"
+
+REFERENCE            shape_monolith
+LANG_ENGLISH         "monolith"
+
+REFERENCE            shape_mane
+LANG_ENGLISH         "mane"
+
+REFERENCE            shape_kiss
+LANG_ENGLISH         "kiss"
+
+REFERENCE            shape_island
+LANG_ENGLISH         "island"
+
+REFERENCE            shape_igloo
+LANG_ENGLISH         "igloo"
+
+REFERENCE            shape_half_tube
+LANG_ENGLISH         "half tube"
+
+REFERENCE            shape_half_sun_star
+LANG_ENGLISH         "half sun star"
+
+REFERENCE            shape_half_shuriken
+LANG_ENGLISH         "half shuriken"
+
+REFERENCE            shape_half_ninja_star
+LANG_ENGLISH         "half ninja star"
+
+REFERENCE            shape_half_heart
+LANG_ENGLISH         "half heart"
+
+REFERENCE            shape_half_diamond
+LANG_ENGLISH         "half diamond"
+
+REFERENCE            shape_half_column
+LANG_ENGLISH         "half column"
+
+REFERENCE            shape_half_circle
+LANG_ENGLISH         "half circle"
+
+REFERENCE            shape_golf_flag
+LANG_ENGLISH         "golf flag"
+
+REFERENCE            shape_flashlight
+LANG_ENGLISH         "flashlight"
+
+REFERENCE            shape_flag_no_wind
+LANG_ENGLISH         "flag no wind"
+
+REFERENCE            shape_flag_breeze
+LANG_ENGLISH         "flag breeze"
+
+REFERENCE            shape_fedora
+LANG_ENGLISH         "fedora"
+
+REFERENCE            shape_egg
+LANG_ENGLISH         "egg"
+
+REFERENCE            shape_diamond
+LANG_ENGLISH         "diamond"
+
+REFERENCE            shape_cone
+LANG_ENGLISH         "cone"
+
+REFERENCE            shape_circle_quarter
+LANG_ENGLISH         "circle quarter"
+
+REFERENCE            shape_broken_column
+LANG_ENGLISH         "broken column"
+
+REFERENCE            shape_bone
+LANG_ENGLISH         "bone"
+
+REFERENCE            shape_bike_ramp
+LANG_ENGLISH         "bike ramp"
+
+REFERENCE            shape_axe
+LANG_ENGLISH         "axe"
+
+REFERENCE            shape_armchair
+LANG_ENGLISH         "armchair"
+
+REFERENCE            shape_arm
+LANG_ENGLISH         "arm"
+
+REFERENCE            scale_material
+LANG_ENGLISH         "SCALE MATERIAL"
+
+REFERENCE            scale_layer_free
+LANG_ENGLISH         "SCALE: FREE"
+
+REFERENCE            scale_layer_fixed
+LANG_ENGLISH         "SCALE: FIXED"
+
+REFERENCE            scale_layer
+LANG_ENGLISH         "SCALE LAYER"
+
+REFERENCE            scale
+LANG_ENGLISH         "Scale"
+
+REFERENCE            save_paint_job_popup_title
+LANG_ENGLISH         "SAVE PAINT JOB"
+
+REFERENCE            save_paint_job_popup_message
+LANG_ENGLISH         "Save your custom Paint Job."
+
+REFERENCE            save_emblem_popup_title
+LANG_ENGLISH         "SAVE EMBLEM"
+
+REFERENCE            save_emblem_popup_message
+LANG_ENGLISH         "Save your custom Emblem."
+
+REFERENCE            save_and_apply
+LANG_ENGLISH         "Save and update playercard"
+
+REFERENCE            save
+LANG_ENGLISH         "SAVE"
+
+REFERENCE            saucer
+LANG_ENGLISH         "SAUCER"
+
+REFERENCE            sato
+LANG_ENGLISH         "SATO"
+
+REFERENCE            sash
+LANG_ENGLISH         "SASH"
+
+REFERENCE            rounded_rectangle
+LANG_ENGLISH         "ROUNDED RECTANGLE"
+
+REFERENCE            rounded_hexagon
+LANG_ENGLISH         "ROUNDED HEXAGON"
+
+REFERENCE            rounded_edge
+LANG_ENGLISH         "ROUNDED EDGE"
+
+REFERENCE            round_table
+LANG_ENGLISH         "ROUND TABLE"
+
+REFERENCE            rotation
+LANG_ENGLISH         "Rotation"
+
+REFERENCE            rotate_material
+LANG_ENGLISH         "ROTATE MATERIAL"
+
+REFERENCE            rotate_gradient
+LANG_ENGLISH         "ROTATE GRADIENT"
+
+REFERENCE            rotate
+LANG_ENGLISH         "ROTATE LAYER"
+
+REFERENCE            ring
+LANG_ENGLISH         "RING"
+
+REFERENCE            right_angle_triangle
+LANG_ENGLISH         "RIGHT-ANGLED TRIANGLE"
+
+REFERENCE            reticle
+LANG_ENGLISH         "RETICLE"
+
+REFERENCE            reset_material
+LANG_ENGLISH         "RESET MATERIAL"
+
+REFERENCE            rename_paint_job
+LANG_ENGLISH         "RENAME PAINT JOB"
+
+REFERENCE            rename_emblem
+LANG_ENGLISH         "RENAME EMBLEM"
+
+REFERENCE            remove_from_favorites
+LANG_ENGLISH         "REMOVE FROM FAVORITES"
+
+REFERENCE            red
+LANG_ENGLISH         "RED"
+
+REFERENCE            rebel
+LANG_ENGLISH         "REBEL"
+
+REFERENCE            rank_two
+LANG_ENGLISH         "rank four"
+
+REFERENCE            rank_twenty_one
+LANG_ENGLISH         "rank fifty-four"
+
+REFERENCE            rank_twenty
+LANG_ENGLISH         "rank fifty-two"
+
+REFERENCE            rank_twelve
+LANG_ENGLISH         "rank thirty-two"
+
+REFERENCE            rank_three
+LANG_ENGLISH         "rank seven"
+
+REFERENCE            rank_thirteen
+LANG_ENGLISH         "rank thirty-four"
+
+REFERENCE            rank_ten
+LANG_ENGLISH         "rank twenty-eight"
+
+REFERENCE            rank_staff_sergeant
+LANG_ENGLISH         "staff sergeant"
+
+REFERENCE            rank_specialist
+LANG_ENGLISH         "specialist"
+
+REFERENCE            rank_sixteen
+LANG_ENGLISH         "rank forty-two"
+
+REFERENCE            rank_six
+LANG_ENGLISH         "rank sixteen"
+
+REFERENCE            rank_seventeen
+LANG_ENGLISH         "rank forty-six"
+
+REFERENCE            rank_seven
+LANG_ENGLISH         "rank nineteen"
+
+REFERENCE            rank_sergeant_first_class
+LANG_ENGLISH         "sergeant first class"
+
+REFERENCE            rank_sergeant_first
+LANG_ENGLISH         "sergeant first"
+
+REFERENCE            rank_sergeant
+LANG_ENGLISH         "sergeant"
+
+REFERENCE            rank_second_lieutenant
+LANG_ENGLISH         "second lieutenant"
+
+REFERENCE            rank_private_rank
+LANG_ENGLISH         "first class"
+
+REFERENCE            rank_private_first
+LANG_ENGLISH         "private first"
+
+REFERENCE            rank_private
+LANG_ENGLISH         "private"
+
+REFERENCE            rank_one
+LANG_ENGLISH         "rank one"
+
+REFERENCE            rank_nineteen
+LANG_ENGLISH         "rank fifty"
+
+REFERENCE            rank_nine
+LANG_ENGLISH         "rank twenty-five"
+
+REFERENCE            rank_major
+LANG_ENGLISH         "major"
+
+REFERENCE            rank_lieutenant_general
+LANG_ENGLISH         "lt general"
+
+REFERENCE            rank_general_army
+LANG_ENGLISH         "general of army"
+
+REFERENCE            rank_general
+LANG_ENGLISH         "general"
+
+REFERENCE            rank_fourteen
+LANG_ENGLISH         "rank thirty-eight"
+
+REFERENCE            rank_four
+LANG_ENGLISH         "rank ten"
+
+REFERENCE            rank_five
+LANG_ENGLISH         "rank thirteen"
+
+REFERENCE            rank_fifteen
+LANG_ENGLISH         "rank forty"
+
+REFERENCE            rank_eleven
+LANG_ENGLISH         "rank thirty"
+
+REFERENCE            rank_eighteen
+LANG_ENGLISH         "rank forty-eight"
+
+REFERENCE            rank_eight
+LANG_ENGLISH         "rank twenty-two"
+
+REFERENCE            rank_corporal
+LANG_ENGLISH         "corporal"
+
+REFERENCE            rank_command_sergeant
+LANG_ENGLISH         "command sergeant"
+
+REFERENCE            rank_command
+LANG_ENGLISH         "command"
+
+REFERENCE            rank_colonel
+LANG_ENGLISH         "colonel"
+
+REFERENCE            rank_captain
+LANG_ENGLISH         "captain"
+
+REFERENCE            rank_brigadier_general
+LANG_ENGLISH         "brigadier general"
+
+REFERENCE            rainbow
+LANG_ENGLISH         "RAINBOW"
+
+REFERENCE            radar
+LANG_ENGLISH         "RADAR"
+
+REFERENCE            racing_stripes
+LANG_ENGLISH         "RACING STRIPES"
+
+REFERENCE            racing_line
+LANG_ENGLISH         "RACING LINE"
+
+REFERENCE            quill
+LANG_ENGLISH         "QUILL"
+
+REFERENCE            queens_crown
+LANG_ENGLISH         "QUEENS CROWN"
+
+REFERENCE            position
+LANG_ENGLISH         "Position"
+
+REFERENCE            police_shield
+LANG_ENGLISH         "POLICE SHIELD"
+
+REFERENCE            point
+LANG_ENGLISH         "POINT"
+
+REFERENCE            plaque
+LANG_ENGLISH         "PLAQUE"
+
+REFERENCE            plant
+LANG_ENGLISH         "PLANT"
+
+REFERENCE            pit
+LANG_ENGLISH         "PIT"
+
+REFERENCE            pirate_sword
+LANG_ENGLISH         "PIRATE SWORD"
+
+REFERENCE            pin
+LANG_ENGLISH         "PIN"
+
+REFERENCE            pentagon
+LANG_ENGLISH         "PENTAGON"
+
+REFERENCE            pencil
+LANG_ENGLISH         "PENCIL"
+
+REFERENCE            peacock
+LANG_ENGLISH         "PEACOCK"
+
+REFERENCE            paste_layer
+LANG_ENGLISH         "PASTE LAYER"
+
+REFERENCE            parallelogram
+LANG_ENGLISH         "PARALLELOGRAM"
+
+REFERENCE            paint_job_equipped_message
+LANG_ENGLISH         "Paint job equipped."
+
+REFERENCE            outline
+LANG_ENGLISH         "TOGGLE OUTLINE"
+
+REFERENCE            other
+LANG_ENGLISH         "OTHER"
+
+REFERENCE            options_menu_title
+LANG_ENGLISH         "EMBLEM EDITOR OPTIONS"
+
+REFERENCE            options
+LANG_ENGLISH         "OPTIONS"
+
+REFERENCE            opacity
+LANG_ENGLISH         "Opacity"
+
+REFERENCE            octagon
+LANG_ENGLISH         "OCTAGON"
+
+REFERENCE            north_star
+LANG_ENGLISH         "NORTH STAR"
+
+REFERENCE            north_america
+LANG_ENGLISH         "NORTH AMERICA"
+
+REFERENCE            no_emblems
+LANG_ENGLISH         "NO EMBLEMS FOUND"
+
+REFERENCE            nerve
+LANG_ENGLISH         "NERVE"
+
+REFERENCE            move
+LANG_ENGLISH         "MOVE LAYER"
+
+REFERENCE            medical
+LANG_ENGLISH         "MEDICAL"
+
+REFERENCE            material_picker
+LANG_ENGLISH         "MATERIAL PICKER"
+
+REFERENCE            mask
+LANG_ENGLISH         "MASK"
+
+REFERENCE            lines
+LANG_ENGLISH         "LINES"
+
+REFERENCE            lightning_bolt
+LANG_ENGLISH         "LIGHTNING BOLT"
+
+REFERENCE            leafs
+LANG_ENGLISH         "LEAFS"
+
+REFERENCE            layers_used
+LANG_ENGLISH         "LAYERS USED: &&1/&&2"
+
+REFERENCE            layers_empty_message
+LANG_ENGLISH         "All of your layers are empty. Changes will not be saved."
+
+REFERENCE            layer_x_of_y
+LANG_ENGLISH         "Layer: &&1/&&2"
+
+REFERENCE            layer_details
+LANG_ENGLISH         "LAYER DETAILS"
+
+REFERENCE            laurel_leafs
+LANG_ENGLISH         "LAUREL LEAFS"
+
+REFERENCE            landing_pad
+LANG_ENGLISH         "LANDING PAD"
+
+REFERENCE            knights_star
+LANG_ENGLISH         "KNIGHTS STAR"
+
+REFERENCE            knights_shield
+LANG_ENGLISH         "KNIGHTS SHIELD"
+
+REFERENCE            kite
+LANG_ENGLISH         "KITE"
+
+REFERENCE            kink
+LANG_ENGLISH         "KINK"
+
+REFERENCE            kings_crown
+LANG_ENGLISH         "KINGS CROWN"
+
+REFERENCE            kills
+LANG_ENGLISH         "KILLS"
+
+REFERENCE            jewel
+LANG_ENGLISH         "JEWEL"
+
+REFERENCE            icon_zig_zag
+LANG_ENGLISH         "zig zag"
+
+REFERENCE            icon_wizard_hat
+LANG_ENGLISH         "wizard hat"
+
+REFERENCE            icon_warden_outline
+LANG_ENGLISH         "Warden Outline"
+
+REFERENCE            icon_warden
+LANG_ENGLISH         "warden"
+
+REFERENCE            icon_vulture_ol
+LANG_ENGLISH         "Vulture Outline"
+
+REFERENCE            icon_vulture
+LANG_ENGLISH         "vulture"
+
+REFERENCE            icon_victory_box
+LANG_ENGLISH         "victory box"
+
+REFERENCE            icon_victory
+LANG_ENGLISH         "victory"
+
+REFERENCE            icon_venom_outline
+LANG_ENGLISH         "Scarab Outline"
+
+REFERENCE            icon_venom
+LANG_ENGLISH         "Scarab"
+
+REFERENCE            icon_uav_outline
+LANG_ENGLISH         "uav outline"
+
+REFERENCE            icon_uav
+LANG_ENGLISH         "uav"
+
+REFERENCE            icon_two_dog_tags
+LANG_ENGLISH         "two dog tags"
+
+REFERENCE            icon_triple_kill
+LANG_ENGLISH         "triple kill"
+
+REFERENCE            icon_triple_bullets
+LANG_ENGLISH         "triple bullets"
+
+REFERENCE            icon_trinity
+LANG_ENGLISH         "trinity rocket"
+
+REFERENCE            icon_tracker
+LANG_ENGLISH         "tracker"
+
+REFERENCE            icon_thor_outline
+LANG_ENGLISH         "T.H.O.R. outline"
+
+REFERENCE            icon_thor
+LANG_ENGLISH         "T.H.O.R."
+
+REFERENCE            icon_theif_mask
+LANG_ENGLISH         "thief mask"
+
+REFERENCE            icon_teamwork
+LANG_ENGLISH         "teamwork"
+
+REFERENCE            icon_team_hug
+LANG_ENGLISH         "team hug"
+
+REFERENCE            icon_tar
+LANG_ENGLISH         "tar"
+
+REFERENCE            icon_supply_drop
+LANG_ENGLISH         "supply drop"
+
+REFERENCE            icon_super_trophy
+LANG_ENGLISH         "super trophy"
+
+REFERENCE            icon_suitcase
+LANG_ENGLISH         "suitcase"
+
+REFERENCE            icon_special_delivery
+LANG_ENGLISH         "special delivery"
+
+REFERENCE            icon_soldier
+LANG_ENGLISH         "soldier"
+
+REFERENCE            icon_sniper_star
+LANG_ENGLISH         "sniper star"
+
+REFERENCE            icon_smoke
+LANG_ENGLISH         "smoke"
+
+REFERENCE            icon_smg_star
+LANG_ENGLISH         "smg star"
+
+REFERENCE            icon_smg_soldier
+LANG_ENGLISH         "smg soldier"
+
+REFERENCE            icon_small_game
+LANG_ENGLISH         "small game"
+
+REFERENCE            icon_skull_shield
+LANG_ENGLISH         "SKULL SHIELD"
+
+REFERENCE            icon_skull
+LANG_ENGLISH         "skull"
+
+REFERENCE            icon_shrunk_head
+LANG_ENGLISH         "shrunk head"
+
+REFERENCE            icon_shock_sentry
+LANG_ENGLISH         "shock sentry"
+
+REFERENCE            icon_shock_outline
+LANG_ENGLISH         "shock outline"
+
+REFERENCE            icon_shock_charge
+LANG_ENGLISH         "shock charge"
+
+REFERENCE            icon_shield
+LANG_ENGLISH         "shield"
+
+REFERENCE            icon_sheriff_star
+LANG_ENGLISH         "sheriff star"
+
+REFERENCE            icon_sentry_new
+LANG_ENGLISH         "sentry"
+
+REFERENCE            icon_sentry
+LANG_ENGLISH         "shock sentry"
+
+REFERENCE            icon_scorcher_outline
+LANG_ENGLISH         "scorcher outline"
+
+REFERENCE            icon_scorcher
+LANG_ENGLISH         "scorcher"
+
+REFERENCE            icon_scarab
+LANG_ENGLISH         "scarab"
+
+REFERENCE            icon_savior
+LANG_ENGLISH         "savior"
+
+REFERENCE            icon_ruthless
+LANG_ENGLISH         "ruthless"
+
+REFERENCE            icon_rocket
+LANG_ENGLISH         "rocket"
+
+REFERENCE            icon_rentless
+LANG_ENGLISH         "relentless"
+
+REFERENCE            icon_rc_car
+LANG_ENGLISH         "rc car"
+
+REFERENCE            icon_rc_bomber
+LANG_ENGLISH         "rc bomber"
+
+REFERENCE            icon_rc82
+LANG_ENGLISH         "r-c8"
+
+REFERENCE            icon_radar
+LANG_ENGLISH         "radar"
+
+REFERENCE            icon_prestige
+LANG_ENGLISH         "prestige"
+
+REFERENCE            icon_pocket_watch
+LANG_ENGLISH         "pocket watch"
+
+REFERENCE            icon_plus_sign
+LANG_ENGLISH         "plus sign"
+
+REFERENCE            icon_pistol_star
+LANG_ENGLISH         "pistol star"
+
+REFERENCE            icon_pistol
+LANG_ENGLISH         "pistol"
+
+REFERENCE            icon_phone
+LANG_ENGLISH         "phone"
+
+REFERENCE            icon_pest_control
+LANG_ENGLISH         "pest control"
+
+REFERENCE            icon_payload
+LANG_ENGLISH         "payload"
+
+REFERENCE            icon_paw
+LANG_ENGLISH         "paw"
+
+REFERENCE            icon_ninja_mask
+LANG_ENGLISH         "ninja mask"
+
+REFERENCE            icon_mini_gun
+LANG_ENGLISH         "mini gun"
+
+REFERENCE            icon_micro_turret
+LANG_ENGLISH         "micro turret"
+
+REFERENCE            icon_merciless
+LANG_ENGLISH         "merciless"
+
+REFERENCE            icon_lmg_star
+LANG_ENGLISH         "lmg star"
+
+REFERENCE            icon_lizard
+LANG_ENGLISH         "lizard"
+
+REFERENCE            icon_lightening
+LANG_ENGLISH         "Lightning"
+
+REFERENCE            icon_lethal
+LANG_ENGLISH         "lethal"
+
+REFERENCE            icon_laughter
+LANG_ENGLISH         "laughter"
+
+REFERENCE            icon_last_man
+LANG_ENGLISH         "last man standing"
+
+REFERENCE            icon_ladder
+LANG_ENGLISH         "ladder"
+
+REFERENCE            icon_jet
+LANG_ENGLISH         "jet"
+
+REFERENCE            icon_jammer
+LANG_ENGLISH         "jammer"
+
+REFERENCE            icon_jackal_top
+LANG_ENGLISH         "jackal top"
+
+REFERENCE            icon_jackal_front
+LANG_ENGLISH         "jackal front"
+
+REFERENCE            icon_jackal_bottom
+LANG_ENGLISH         "jackal bottom"
+
+REFERENCE            icon_interruption
+LANG_ENGLISH         "interruption"
+
+REFERENCE            icon_hijacked
+LANG_ENGLISH         "hijacked"
+
+REFERENCE            icon_helicopter
+LANG_ENGLISH         "helicopter"
+
+REFERENCE            icon_hard_counter
+LANG_ENGLISH         "hard counter"
+
+REFERENCE            icon_hand_gun
+LANG_ENGLISH         "hand gun"
+
+REFERENCE            icon_hand
+LANG_ENGLISH         "hand"
+
+REFERENCE            icon_hacker_tool
+LANG_ENGLISH         "hacker tool"
+
+REFERENCE            icon_gurdian
+LANG_ENGLISH         "guardian"
+
+REFERENCE            icon_gunfighter
+LANG_ENGLISH         "gunfighter"
+
+REFERENCE            icon_grim_reaper
+LANG_ENGLISH         "grim reaper"
+
+REFERENCE            icon_grenade_launcher
+LANG_ENGLISH         "grenade launcher"
+
+REFERENCE            icon_gold
+LANG_ENGLISH         "gold"
+
+REFERENCE            icon_focus_fire
+LANG_ENGLISH         "focus fire"
+
+REFERENCE            icon_fist
+LANG_ENGLISH         "fist"
+
+REFERENCE            icon_final_defense
+LANG_ENGLISH         "final defense"
+
+REFERENCE            icon_fighter_jet
+LANG_ENGLISH         "fighter jet"
+
+REFERENCE            icon_feather_duster
+LANG_ENGLISH         "feather duster"
+
+REFERENCE            icon_explosion
+LANG_ENGLISH         "explosion"
+
+REFERENCE            icon_explode
+LANG_ENGLISH         "explode"
+
+REFERENCE            icon_dropship
+LANG_ENGLISH         "dropship"
+
+REFERENCE            icon_drone_package
+LANG_ENGLISH         "drone package"
+
+REFERENCE            icon_drone_outline
+LANG_ENGLISH         "package"
+
+REFERENCE            icon_drone
+LANG_ENGLISH         "drone"
+
+REFERENCE            icon_double_headshot
+LANG_ENGLISH         "double headshot"
+
+REFERENCE            icon_double_denied
+LANG_ENGLISH         "double denied"
+
+REFERENCE            icon_dome_shield
+LANG_ENGLISH         "dome shield"
+
+REFERENCE            icon_dog_tag
+LANG_ENGLISH         "dog tag"
+
+REFERENCE            icon_dog
+LANG_ENGLISH         "dog"
+
+REFERENCE            icon_defeat
+LANG_ENGLISH         "defeat"
+
+REFERENCE            icon_crushing_victory
+LANG_ENGLISH         "crushing victory"
+
+REFERENCE            icon_crosshair
+LANG_ENGLISH         "crosshair"
+
+REFERENCE            icon_cross_bones
+LANG_ENGLISH         "cross bones"
+
+REFERENCE            icon_counter_uav_outline
+LANG_ENGLISH         "Counter UAV outline"
+
+REFERENCE            icon_counter_uav
+LANG_ENGLISH         "counter uav"
+
+REFERENCE            icon_cleaver
+LANG_ENGLISH         "cleaver"
+
+REFERENCE            icon_charlie_lockdown
+LANG_ENGLISH         "charlie lockdown"
+
+REFERENCE            icon_car
+LANG_ENGLISH         "car"
+
+REFERENCE            icon_cannon
+LANG_ENGLISH         "cannon"
+
+REFERENCE            icon_c8
+LANG_ENGLISH         "R-C8 Outline"
+
+REFERENCE            icon_bullet
+LANG_ENGLISH         "bullet"
+
+REFERENCE            icon_broom
+LANG_ENGLISH         "broom"
+
+REFERENCE            icon_bravo_lockdown
+LANG_ENGLISH         "bravo lockdown"
+
+REFERENCE            icon_bravo_hot
+LANG_ENGLISH         "bravo hot"
+
+REFERENCE            icon_bombardment
+LANG_ENGLISH         "bombardment"
+
+REFERENCE            icon_bomb_protector
+LANG_ENGLISH         "bomb protector"
+
+REFERENCE            icon_bomb_case
+LANG_ENGLISH         "bomb case"
+
+REFERENCE            icon_bomb
+LANG_ENGLISH         "bomb"
+
+REFERENCE            icon_boltcutter
+LANG_ENGLISH         "boltcutter"
+
+REFERENCE            icon_blackout
+LANG_ENGLISH         "blackout"
+
+REFERENCE            icon_bandage
+LANG_ENGLISH         "bandage"
+
+REFERENCE            icon_avenger
+LANG_ENGLISH         "avenger"
+
+REFERENCE            icon_assault__package
+LANG_ENGLISH         "assault package"
+
+REFERENCE            icon_arrow
+LANG_ENGLISH         "arrow"
+
+REFERENCE            icon_ar_star
+LANG_ENGLISH         "assault star"
+
+REFERENCE            icon_apex_outline
+LANG_ENGLISH         "AP-3X outline"
+
+REFERENCE            icon_apex
+LANG_ENGLISH         "AP-3X"
+
+REFERENCE            icon_alpha_lockdown
+LANG_ENGLISH         "alpha lockdown"
+
+REFERENCE            icon_air_defense
+LANG_ENGLISH         "air defense"
+
+REFERENCE            icon_aerial_assault
+LANG_ENGLISH         "aerial assault"
+
+REFERENCE            icon_advanced_uav
+LANG_ENGLISH         "advanced uav"
+
+REFERENCE            hour_glass
+LANG_ENGLISH         "HOURGLASS"
+
+REFERENCE            hockey_stick
+LANG_ENGLISH         "HOCKEY STICK"
+
+REFERENCE            hexagon
+LANG_ENGLISH         "HEXAGON"
+
+REFERENCE            heptagon
+LANG_ENGLISH         "HEPTAGON"
+
+REFERENCE            hazzard
+LANG_ENGLISH         "HAZARD"
+
+REFERENCE            half_tube
+LANG_ENGLISH         "HALF TUBE"
+
+REFERENCE            half_rainbow
+LANG_ENGLISH         "HALF RAINBOW"
+
+REFERENCE            halberd_axe
+LANG_ENGLISH         "HALBERD AXE"
+
+REFERENCE            guitarpick
+LANG_ENGLISH         "GUITAR PICK"
+
+REFERENCE            grouping_controls
+LANG_ENGLISH         "GROUPING CONTROLS"
+
+REFERENCE            group_layer
+LANG_ENGLISH         "GROUP LAYER"
+
+REFERENCE            green
+LANG_ENGLISH         "GREEN"
+
+REFERENCE            greek_leafs
+LANG_ENGLISH         "GREEK LEAFS"
+
+REFERENCE            george_shield
+LANG_ENGLISH         "GEORGE_SHIELD"
+
+REFERENCE            geometric
+LANG_ENGLISH         "GEOMETRIC"
+
+REFERENCE            gear
+LANG_ENGLISH         "GEAR"
+
+REFERENCE            fox
+LANG_ENGLISH         "FOX"
+
+REFERENCE            flipped_pentagon
+LANG_ENGLISH         "FLIPPED PENTAGON"
+
+REFERENCE            flip
+LANG_ENGLISH         "FLIP LAYER"
+
+REFERENCE            flag_stars
+LANG_ENGLISH         "FLAG STARS"
+
+REFERENCE            flag
+LANG_ENGLISH         "FLAG
+
+"
+
+REFERENCE            feather
+LANG_ENGLISH         "FEATHER"
+
+REFERENCE            favorites
+LANG_ENGLISH         "FAVORITES"
+
+REFERENCE            equip
+LANG_ENGLISH         "Update Playercard"
+
+REFERENCE            enter_name
+LANG_ENGLISH         "ENTER NAME"
+
+REFERENCE            emblem_title
+LANG_ENGLISH         "TITLE"
+
+REFERENCE            emblem_live_preview
+LANG_ENGLISH         "EMBLEM LIVE PREVIEW"
+
+REFERENCE            emblem_equipped_message
+LANG_ENGLISH         "The emblem has been equipped."
+
+REFERENCE            emblem_editor
+LANG_ENGLISH         "EMBLEM EDITOR"
+
+REFERENCE            edit_layer_title
+LANG_ENGLISH         "EDIT LAYER"
+
+REFERENCE            edit_layer
+LANG_ENGLISH         "EDIT LAYER"
+
+REFERENCE            edge
+LANG_ENGLISH         "EDGE"
+
+REFERENCE            eclipse
+LANG_ENGLISH         "ECLIPSE"
+
+REFERENCE            earth
+LANG_ENGLISH         "EARTH"
+
+REFERENCE            duplicate_layer
+LANG_ENGLISH         "DUPLICATE LAYER"
+
+REFERENCE            downloading_emblems
+LANG_ENGLISH         "Downloading Emblems"
+
+REFERENCE            double_hourglass
+LANG_ENGLISH         "DOUBLE HOURGLASS"
+
+REFERENCE            discard
+LANG_ENGLISH         "DISCARD"
+
+REFERENCE            diamond_triangle
+LANG_ENGLISH         "DIAMOND TRIANGLE"
+
+REFERENCE            diamond_star
+LANG_ENGLISH         "DIAMOND STAR"
+
+REFERENCE            diamond_formation
+LANG_ENGLISH         "DIAMOND FORMATION"
+
+REFERENCE            detailed_arrow
+LANG_ENGLISH         "DETAILED ARROW"
+
+REFERENCE            delete_paint_job
+LANG_ENGLISH         "DELETE PAINT JOB"
+
+REFERENCE            delete_emblem
+LANG_ENGLISH         "DELETE EMBLEM"
+
+REFERENCE            default_paint_job_name
+LANG_ENGLISH         "MyPaintJob"
+
+REFERENCE            default_emblem_name
+LANG_ENGLISH         "CustomEmblem"
+
+REFERENCE            default
+LANG_ENGLISH         "DEFAULT"
+
+REFERENCE            decal_tab_weapons
+LANG_ENGLISH         "weapons"
+
+REFERENCE            decal_tab_symbols
+LANG_ENGLISH         "symbols"
+
+REFERENCE            decal_tab_ranks
+LANG_ENGLISH         "ranks"
+
+REFERENCE            decal_tab_icons
+LANG_ENGLISH         "icons"
+
+REFERENCE            decal_tab_alphas
+LANG_ENGLISH         "alphanumeric"
+
+REFERENCE            death
+LANG_ENGLISH         "DEATH"
+
+REFERENCE            cut_layer
+LANG_ENGLISH         "CUT LAYER"
+
+REFERENCE            customize
+LANG_ENGLISH         "CUSTOMIZE"
+
+REFERENCE            custom
+LANG_ENGLISH         "CUSTOM"
+
+REFERENCE            curved_triangle
+LANG_ENGLISH         "CURVED TRIANGLE"
+
+REFERENCE            creed
+LANG_ENGLISH         "CREED"
+
+REFERENCE            create_new
+LANG_ENGLISH         "CREATE NEW"
+
+REFERENCE            cotton_reel
+LANG_ENGLISH         "Cotton Reel"
+
+REFERENCE            copy_layer
+LANG_ENGLISH         "COPY LAYER"
+
+REFERENCE            controls
+LANG_ENGLISH         "CONTROLS"
+
+REFERENCE            confirm_delete_paint_job_message
+LANG_ENGLISH         "Are you sure you want to delete this paint job?"
+
+REFERENCE            confirm_delete_emblem_message
+LANG_ENGLISH         "Are you sure you want to delete this emblem?"
+
+REFERENCE            community
+LANG_ENGLISH         "COMMUNITY"
+
+REFERENCE            color_picker
+LANG_ENGLISH         "COLOR PICKER"
+
+REFERENCE            color_mixer
+LANG_ENGLISH         "COLOR MIXER"
+
+REFERENCE            color_gradient
+LANG_ENGLISH         "COLOR GRADIENT"
+
+REFERENCE            cog
+LANG_ENGLISH         "COG"
+
+REFERENCE            clipboard_controls
+LANG_ENGLISH         "CLIPBOARD CONTROLS"
+
+REFERENCE            clipboard
+LANG_ENGLISH         "CLIPBOARD"
+
+REFERENCE            clear_layer
+LANG_ENGLISH         "CLEAR LAYER"
+
+REFERENCE            circle_border
+LANG_ENGLISH         "CIRCLE BORDER"
+
+REFERENCE            circle
+LANG_ENGLISH         "CIRCLE"
+
+REFERENCE            choose_decal
+LANG_ENGLISH         "Choose Decal"
+
+REFERENCE            change_opacity
+LANG_ENGLISH         "ADJUST OPACITY"
+
+REFERENCE            change_layer_order
+LANG_ENGLISH         "ORDER LAYER"
+
+REFERENCE            change_layer
+LANG_ENGLISH         "CHANGE LAYER"
+
+REFERENCE            champion_belt
+LANG_ENGLISH         "CHAMPION BELT"
+
+REFERENCE            cat
+LANG_ENGLISH         "CAT"
+
+REFERENCE            canvas
+LANG_ENGLISH         "Canvas"
+
+REFERENCE            bullseye
+LANG_ENGLISH         "BULLSEYE"
+
+REFERENCE            bright_star
+LANG_ENGLISH         "BRIGHT STAR"
+
+REFERENCE            bowl
+LANG_ENGLISH         "BOWL"
+
+REFERENCE            blue
+LANG_ENGLISH         "BLUE"
+
+REFERENCE            bird
+LANG_ENGLISH         "BIRD"
+
+REFERENCE            barcode
+LANG_ENGLISH         "BARCODE"
+
+REFERENCE            barber_blade
+LANG_ENGLISH         "BARBER BLADE"
+
+REFERENCE            banner_edge
+LANG_ENGLISH         "BANNER EDGE"
+
+REFERENCE            banner
+LANG_ENGLISH         "BANNER"
+
+REFERENCE            badge
+LANG_ENGLISH         "BADGE"
+
+REFERENCE            arrow_banner
+LANG_ENGLISH         "ARROW BANNER"
+
+REFERENCE            arrow
+LANG_ENGLISH         "ARROW"
+
+REFERENCE            arabian_sword
+LANG_ENGLISH         "ARABIAN SWORD"
+
+REFERENCE            apply_paint_job
+LANG_ENGLISH         "APPLY PAINT JOB"
+
+REFERENCE            angel_wings
+LANG_ENGLISH         "ANGEL WINGS"
+
+REFERENCE            america
+LANG_ENGLISH         "Americas"
+
+REFERENCE            add_to_favorites
+LANG_ENGLISH         "ADD TO FAVORITES"
+
+
+ENDMARKER

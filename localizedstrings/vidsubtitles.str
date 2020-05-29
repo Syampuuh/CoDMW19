@@ -1,0 +1,1979 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            10yearsago
+LANG_ENGLISH         "[ 10 YEARS AGO ]"
+
+REFERENCE            20yearsago
+LANG_ENGLISH         "20 YEARS AGO"
+
+REFERENCE            24hoursearlier
+LANG_ENGLISH         "24 HOURS EARLIER"
+
+REFERENCE            cp_continued
+LANG_ENGLISH         "THE STORY CONTINUES IN SPECIAL OPS..."
+
+REFERENCE            cp_mbi_arms_dealer_kam_2
+LANG_ENGLISH         "^2Kamarov:^7 This is an arms dealer they call, "Mr. Z." Z is wanted by the International Criminal Court for "conspiracy to transport, sell, and supply arms to a foreign terrorist organization.""
+
+REFERENCE            cp_mbi_arms_dealer_kam_5
+LANG_ENGLISH         "^2Kamarov:^7 A volunteer physician on the ground, Dr. Linda Morales, informed us that Z's been using medical shipments as a front for moving hazardous materials into Verdansk."
+
+REFERENCE            cp_mbi_arms_dealer_kam_6
+LANG_ENGLISH         "^2Kamarov:^7 Four hours ago, she was taken hostage by AQ operatives."
+
+REFERENCE            cp_mbi_arms_dealer_lass_1
+LANG_ENGLISH         "^2Laswell:^7 The criteria for mission success is to defeat Al-Qatala's supply chain."
+
+REFERENCE            cp_mbi_arms_dealer_lass_3
+LANG_ENGLISH         "^2Laswell:^7 Mr. Z appears to have focused on one exclusive client, Al-Qatala's new number one..."
+
+REFERENCE            cp_mbi_arms_dealer_lass_4
+LANG_ENGLISH         "^2Laswell:^7 ...and has positioned himself as both supplier and advisor to the terrorist leader."
+
+REFERENCE            cp_mbi_arms_dealer_lass_7
+LANG_ENGLISH         "^2Laswell:^7 Armistice's primary objective is to rescue Dr. Morales. If Z is bringing chemical weapons into this fight, she may know where to find them."
+
+REFERENCE            cp_mbi_banker_kam_2
+LANG_ENGLISH         "^2Kamarov:^7 For that, Al-Qatala uses a British banker, one of our primary HVTs and the man responsible for laundering their currency."
+
+REFERENCE            cp_mbi_banker_kam_4
+LANG_ENGLISH         "^2Kamarov:^7 We need an assault force on the ground to shut these transactions down. Your team will target hostile forces for intel that points us to the Banker's crypto servers."
+
+REFERENCE            cp_mbi_banker_lass_1
+LANG_ENGLISH         "^2Laswell:^7 The war in Verdansk runs on a black market. That means dirty money and someone to clean it."
+
+REFERENCE            cp_mbi_banker_lass_3
+LANG_ENGLISH         "^2Laswell:^7 We don't know the Banker's name, but we do know he runs a system of server farms that spit-shine AQ cash so they can weaponize the proceeds."
+
+REFERENCE            cp_mbi_banker_lass_5
+LANG_ENGLISH         "^2Laswell:^7 Once you retrieve enough data, we'll triangulate it, freeze their assets, and attempt to revoke the birth certificate of the man who holds the purse strings."
+
+REFERENCE            cp_mbi_banker_lass_6
+LANG_ENGLISH         "^2Laswell:^7 First and foremost, get in country, and round up AQ fighters for actionable intel on the Banker's operation."
+
+REFERENCE            cp_mbi_landlord_kam_2
+LANG_ENGLISH         "^2Kamarov:^7 We've put our differences aside. Together, as Armistice, this is our first direct action against the Al-Qatala army."
+
+REFERENCE            cp_mbi_landlord_kam_4
+LANG_ENGLISH         "^2Kamarov:^7 These HVTs are powerful, well-connected collaborators, offering material aid and support to our enemy."
+
+REFERENCE            cp_mbi_landlord_kam_6
+LANG_ENGLISH         "^2Kamarov:^7 Your first operation is against a high-ranking AQ figure they call "Almalik", the Landlord."
+
+REFERENCE            cp_mbi_landlord_kam_8
+LANG_ENGLISH         "^2Kamarov:^7 Your team will insert into the southern district to engage and capture enemy personnel for intel leading to Almalik's warehouses."
+
+REFERENCE            cp_mbi_landlord_lass_1
+LANG_ENGLISH         "^2Laswell:^7 This is Case Officer Laswell of the Coalition. I'm in joint command with Sergeant Kamarov of the Allegiance."
+
+REFERENCE            cp_mbi_landlord_lass_10
+LANG_ENGLISH         "^2Laswell:^7 Be advised, if you find him, he will be well defended."
+
+REFERENCE            cp_mbi_landlord_lass_11
+LANG_ENGLISH         "^2Laswell:^7 Good hunting."
+
+REFERENCE            cp_mbi_landlord_lass_3
+LANG_ENGLISH         "^2Laswell:^7 Your mission is to find, fix, and finish off high-value targets of the AQ network in Verdansk."
+
+REFERENCE            cp_mbi_landlord_lass_5
+LANG_ENGLISH         "^2Laswell:^7 They all serve one new master, who's leading the Al-Qatala charge in Verdansk. To find him, we need to find them."
+
+REFERENCE            cp_mbi_landlord_lass_7
+LANG_ENGLISH         "^2Laswell:^7 Almalik owns several warehouses across Verdansk, serving as Al-Qatala weapons depots. He's a slumlord for guns and terrorists."
+
+REFERENCE            cp_mbi_landlord_lass_9
+LANG_ENGLISH         "^2Laswell:^7 Get this right and we will nullify AQ's stockpiles. Hit the jackpot and we locate Almalik himself."
+
+REFERENCE            cp_mbi_outro_kam_4
+LANG_ENGLISH         "^2Kamarov:^7 Thanks to your assault teams, the Al-Qatala support network has been cut off and the power brokers that emboldened this terrorist threat have been eliminated."
+
+REFERENCE            cp_mbi_outro_kam_8
+LANG_ENGLISH         "^2Kamarov:^7 This unknown leader is now calling his army, "Al-Qatala-Aljahdid", the 'New' Killers."
+
+REFERENCE            cp_mbi_outro_lass_1
+LANG_ENGLISH         "^2Laswell:^7 From the onset of this operation, the formation of Armistice ruffled feathers."
+
+REFERENCE            cp_mbi_outro_lass_2
+LANG_ENGLISH         "^2Laswell:^7 They said Russian and the West couldn't work together..."
+
+REFERENCE            cp_mbi_outro_lass_3
+LANG_ENGLISH         "^2Laswell:^7 ...they were wrong."
+
+REFERENCE            cp_mbi_outro_lass_5
+LANG_ENGLISH         "^2Laswell:^7 However, Mr. Z still remains at large."
+
+REFERENCE            cp_mbi_outro_lass_6
+LANG_ENGLISH         "^2Laswell:^7 His weapons are locked and loaded in terrorist hands all over Verdansk."
+
+REFERENCE            cp_mbi_outro_lass_7
+LANG_ENGLISH         "^2Laswell:^7 Our presence in the region is the only line of defense preventing Z and the new AQ boss from pushing through to Urzikstan."
+
+REFERENCE            cp_mbi_outro_lass_9
+LANG_ENGLISH         "^2Laswell:^7 These New Killers are calling him, "The Immortal Lion", or "Khaled Al-Asad"."
+
+REFERENCE            cp_mbi_smuggler_kam_3
+LANG_ENGLISH         "^2Kamarov:^7 This is 'El Traficante'. He helms a worldwide smuggling operation based in South America that moves contraband all over the globe."
+
+REFERENCE            cp_mbi_smuggler_kam_5
+LANG_ENGLISH         "^2Kamarov:^7 A local asset reported that El Traficante is moving something big across Verdansk before sundown."
+
+REFERENCE            cp_mbi_smuggler_kam_6
+LANG_ENGLISH         "^2Kamarov:^7 At 0700, he transmitted a distress signal. That was our last contact."
+
+REFERENCE            cp_mbi_smuggler_kam_8
+LANG_ENGLISH         "^2Kamarov:^7 Infil your team to the north zone, where you'll assault a series of AQ safehouses. Search and send back any intel you find."
+
+REFERENCE            cp_mbi_smuggler_lass_1
+LANG_ENGLISH         "^2Laswell:^7 Our gains in Verdansk could kick the hornet's nest."
+
+REFERENCE            cp_mbi_smuggler_lass_2
+LANG_ENGLISH         "^2Laswell:^7 As Armistice eliminates their upper echelon, Al-Qatala is making more aggressive and desperate moves."
+
+REFERENCE            cp_mbi_smuggler_lass_4
+LANG_ENGLISH         "^2Laswell:^7 He protects himself, his customers, and his shipments. We're going after all three."
+
+REFERENCE            cp_mbi_smuggler_lass_7
+LANG_ENGLISH         "^2Laswell:^7 You need to reacquire the asset and learn what he knows about El Traficante's plan so we can stop it."
+
+REFERENCE            cp_mbi_smuggler_lass_9
+LANG_ENGLISH         "^2Laswell:^7 Time is not on our side. If El Traficante is coordinating a move, AQ may be launching a strike tonight."
+
+REFERENCE            cp_opening_cine_intro_kam_28
+LANG_ENGLISH         "^2Kamarov:^7 Not the first time."
+
+REFERENCE            cp_opening_cine_intro_kam_30
+LANG_ENGLISH         "^2Kamarov:^7 Captain Price."
+
+REFERENCE            cp_opening_cine_intro_kam_31
+LANG_ENGLISH         "^2Kamarov:^7 Nikolai."
+
+REFERENCE            cp_opening_cine_intro_kam_32
+LANG_ENGLISH         "^2Kamarov:^7 You've been a bad boy."
+
+REFERENCE            cp_opening_cine_intro_kam_34
+LANG_ENGLISH         "^2Kamarov:^7 Please. We're all friends here."
+
+REFERENCE            cp_opening_cine_intro_kam_35
+LANG_ENGLISH         "^2Kamarov:^7 I owed you...for Beirut."
+
+REFERENCE            cp_opening_cine_intro_kam_37
+LANG_ENGLISH         "^2Kamarov:^7 These new weapons...give Al-Qatala the power to turn acts of terror into acts of war."
+
+REFERENCE            cp_opening_cine_intro_kam_38
+LANG_ENGLISH         "^2Kamarov:^7 This is a problem. For everyone."
+
+REFERENCE            cp_opening_cine_intro_lass_13
+LANG_ENGLISH         "^2Laswell:^7 The city's under evacuation. Al-Qatala's got complete control."
+
+REFERENCE            cp_opening_cine_intro_lass_17
+LANG_ENGLISH         "^2Laswell:^7 AQ didn't like that cooperation..."
+
+REFERENCE            cp_opening_cine_intro_lass_18
+LANG_ENGLISH         "^2Laswell:^7 ...now they've got armor, heavy weapons."
+
+REFERENCE            cp_opening_cine_intro_lass_21
+LANG_ENGLISH         "^2Laswell:^7 Someone new."
+
+REFERENCE            cp_opening_cine_intro_lass_23
+LANG_ENGLISH         "^2Laswell:^7 We don't know, but he's got friends in high places."
+
+REFERENCE            cp_opening_cine_intro_lass_26
+LANG_ENGLISH         "^2Laswell:^7 My counterpart in Moscow."
+
+REFERENCE            cp_opening_cine_intro_lass_36
+LANG_ENGLISH         "^2Laswell:^7 Sergeant Kamarov is going to help conduct this operation."
+
+REFERENCE            cp_opening_cine_intro_lass_39
+LANG_ENGLISH         "^2Laswell:^7 We're launching a multi-lateral force to hunt AQ's new leader and contain this threat while we still can."
+
+REFERENCE            cp_opening_cine_intro_nik_14
+LANG_ENGLISH         "^2Nikolai:^7 This place was nice once."
+
+REFERENCE            cp_opening_cine_intro_nik_16
+LANG_ENGLISH         "^2Nikolai:^7 East and West rebuilt Verdansk after the Cold War."
+
+REFERENCE            cp_opening_cine_intro_nik_19
+LANG_ENGLISH         "^2Nikolai:^7 Terrorists with tanks."
+
+REFERENCE            cp_opening_cine_intro_nik_22
+LANG_ENGLISH         "^2Nikolai:^7 Nice hat. What's his name?"
+
+REFERENCE            cp_opening_cine_intro_nik_27
+LANG_ENGLISH         "^2Nikolai:^7 The CIA working with the FSB?"
+
+REFERENCE            cp_opening_cine_intro_nik_33
+LANG_ENGLISH         "^2Nikolai:^7 From you, that's a compliment."
+
+REFERENCE            cp_opening_cine_intro_pri_15
+LANG_ENGLISH         "^2Price:^7 Well it's not anymore."
+
+REFERENCE            cp_opening_cine_intro_pri_20
+LANG_ENGLISH         "^2Price:^7 Who's at the helm?"
+
+REFERENCE            cp_opening_cine_intro_pri_24
+LANG_ENGLISH         "^2Price:^7 This is Russian intel."
+
+REFERENCE            cp_opening_cine_intro_pri_25
+LANG_ENGLISH         "^2Price:^7 Where did we get this?"
+
+REFERENCE            cp_opening_cine_intro_pri_29
+LANG_ENGLISH         "^2Price:^7 Kamarov."
+
+REFERENCE            cp_opening_cine_intro_pri_40
+LANG_ENGLISH         "^2Price:^7 Okay, we're in."
+
+REFERENCE            cp_opening_cine_intro_pri_41
+LANG_ENGLISH         "^2Price:^7 Start up your teams. Let's operate."
+
+REFERENCE            cp_opening_cine_intro_rus_1
+LANG_ENGLISH         "^1Russian Soldier:^7 Base, this is Seven."
+
+REFERENCE            cp_opening_cine_intro_rus_10
+LANG_ENGLISH         "^1Russian Soldier:^7 No..."
+
+REFERENCE            cp_opening_cine_intro_rus_11
+LANG_ENGLISH         "^1Russian Soldier:^7 I'm begging you..."
+
+REFERENCE            cp_opening_cine_intro_rus_12
+LANG_ENGLISH         "^1Russian Soldier:^7 Please!"
+
+REFERENCE            cp_opening_cine_intro_rus_2
+LANG_ENGLISH         "^1Russian Soldier:^7 We have tanks and armor approaching from the east!"
+
+REFERENCE            cp_opening_cine_intro_rus_3
+LANG_ENGLISH         "^1Russian Soldier:^7 Taking heavy casualties! Do you copy?"
+
+REFERENCE            cp_opening_cine_intro_rus_4
+LANG_ENGLISH         "^1Russian Soldier:^7 Base, come in!"
+
+REFERENCE            cp_opening_cine_intro_rus_5
+LANG_ENGLISH         "^1Russian Soldier:^7 Base!"
+
+REFERENCE            cp_opening_cine_intro_rus_6
+LANG_ENGLISH         "^1Russian Soldier:^7 Shit!"
+
+REFERENCE            cp_opening_cine_intro_rus_7
+LANG_ENGLISH         "^1Russian Soldier:^7 All stations this net: we're overrun!"
+
+REFERENCE            cp_opening_cine_intro_rus_8
+LANG_ENGLISH         "^1Russian Soldier:^7 It's a fucking army!"
+
+REFERENCE            cp_opening_cine_intro_rus_9
+LANG_ENGLISH         "^1Russian Soldier:^7 We need-!"
+
+REFERENCE            cp_season_01_stinger_01
+LANG_ENGLISH         "Stand by for your next deployment against the AQ army..."
+
+REFERENCE            dx_brm_gfx_tutorial_cine_10
+LANG_ENGLISH         "PLUNDER"
+
+REFERENCE            dx_brm_gfx_tutorial_cine_120
+LANG_ENGLISH         "LOOTING ENEMIES HIGH RISK, HIGH REWARD"
+
+REFERENCE            dx_brm_gfx_tutorial_cine_170
+LANG_ENGLISH         "PROTECTING CASH"
+
+REFERENCE            dx_brm_gfx_tutorial_cine_180
+LANG_ENGLISH         "DEPOSIT HELIPADS SAFEGUARD LARGE AMOUNTS OF CASH"
+
+REFERENCE            dx_brm_gfx_tutorial_cine_210
+LANG_ENGLISH         "CASH DEPOSIT BALLOONS PROTECT YOUR CASH ANYWHERE"
+
+REFERENCE            dx_brm_gfx_tutorial_cine_50
+LANG_ENGLISH         "COLLECTING CASH"
+
+REFERENCE            dx_brm_gfx_tutorial_cine_70
+LANG_ENGLISH         "SUPPLY BOXES SEARCH BUILDINGS"
+
+REFERENCE            dx_brm_gfx_tutorial_cine_90
+LANG_ENGLISH         "CONTRACTS OPTIONAL MINI-MISSIONS"
+
+REFERENCE            dx_brm_ghos_subtitles_cine_10
+LANG_ENGLISH         "^2Ghost:^7 The Modern Warfare Battle Pass system now includes Warzone."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_100
+LANG_ENGLISH         "^2Ghost:^7 Call of Duty Modern Warfare Battle Pass system. Available now for Warzone."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_20
+LANG_ENGLISH         "^2Ghost:^7 Play the game. Level up. Earn rewards."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_30
+LANG_ENGLISH         "^2Ghost:^7 Battle Pass is coming in hot with over 100 items for you to earn and equip."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_40
+LANG_ENGLISH         "^2Ghost:^7 A bunch of that content is free to all players."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_50
+LANG_ENGLISH         "^2Ghost:^7 As you rank up and progress, you'll unlock 2 functional weapons and a load of gear to customize your Operator, all for just playing the game."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_60
+LANG_ENGLISH         "^2Ghost:^7 You can purchase Battle Pass for access to unlock all 100 Tiers of content."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_70
+LANG_ENGLISH         "^2Ghost:^7 You'll immediately unlock GHOST a legendary Operator for you to drop into battle with."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_80
+LANG_ENGLISH         "^2Ghost:^7 As you assault the tiers, you'll be rewarded with legendary weapon blueprints, operator skins, COD Points, and a whole lot more."
+
+REFERENCE            dx_brm_ghos_subtitles_cine_90
+LANG_ENGLISH         "^2Ghost:^7 Boot up, login and play any available mode to earn rewards."
+
+REFERENCE            dx_brm_rust_cine_intro_alx_120
+LANG_ENGLISH         "^2Alex:^7 Echo 3-1, reporting for duty."
+
+REFERENCE            dx_brm_rust_cine_intro_alx_140
+LANG_ENGLISH         "^2Alex:^7 Still standing..."
+
+REFERENCE            dx_brm_rust_cine_intro_alx_160
+LANG_ENGLISH         "^2Alex:^7 Let's get evil."
+
+REFERENCE            dx_brm_rust_cine_intro_ghos_130
+LANG_ENGLISH         "^2Ghost:^7 Alex. I thought you were dead."
+
+REFERENCE            dx_brm_rust_cine_intro_ghos_150
+LANG_ENGLISH         "^2Ghost:^7 You ready for a gunfight?"
+
+REFERENCE            dx_brm_rust_cine_intro_ghos_20
+LANG_ENGLISH         "^2Ghost:^7 Price..."
+
+REFERENCE            dx_brm_rust_cine_intro_ghos_40
+LANG_ENGLISH         "^2Ghost:^7 I can listen."
+
+REFERENCE            dx_brm_rust_cine_intro_ghos_70
+LANG_ENGLISH         "^2Ghost:^7 Tell me something I don't know."
+
+REFERENCE            dx_brm_rust_cine_intro_ghos_90
+LANG_ENGLISH         "^2Ghost:^7 They better be good..."
+
+REFERENCE            dx_brm_rust_cine_intro_pri_10
+LANG_ENGLISH         "^2Price:^7 Simon-?"
+
+REFERENCE            dx_brm_rust_cine_intro_pri_100
+LANG_ENGLISH         "^2Price:^7 They are..."
+
+REFERENCE            dx_brm_rust_cine_intro_pri_30
+LANG_ENGLISH         "^2Price:^7 Can you talk?"
+
+REFERENCE            dx_brm_rust_cine_intro_pri_60
+LANG_ENGLISH         "^2Price:^7 Zakhaev's plan is working-- The Armistice in Verdansk has officially fallen. It's bloody chaos..."
+
+REFERENCE            dx_brm_rust_cine_intro_pri_80
+LANG_ENGLISH         "^2Price:^7 I've got a fire team-- Operators inbound hot to your position."
+
+REFERENCE            dx_brm_story_cine_alx_150
+LANG_ENGLISH         "^2Alex:^7 Then help us track it."
+
+REFERENCE            dx_brm_story_cine_alx_180
+LANG_ENGLISH         "^2Alex:^7 Then let's fight."
+
+REFERENCE            dx_brm_story_cine_enfo_280
+LANG_ENGLISH         "^2Enforcer:^7 How about you Captain,"
+
+REFERENCE            dx_brm_story_cine_enfo_290
+LANG_ENGLISH         "^2Enforcer:^7 are you going to let them die?"
+
+REFERENCE            dx_brm_story_cine_far_140
+LANG_ENGLISH         "^2Farah:^7 Because of this poison, my people have known something worse than war."
+
+REFERENCE            dx_brm_story_cine_far_160
+LANG_ENGLISH         "^2Farah:^7 If you stay we can help you."
+
+REFERENCE            dx_brm_story_cine_far_170
+LANG_ENGLISH         "^2Farah:^7 But if you stay... you fight."
+
+REFERENCE            dx_brm_story_cine_far_190
+LANG_ENGLISH         "^2Farah:^7 The invaders of my country have no regard for human life."
+
+REFERENCE            dx_brm_story_cine_far_200
+LANG_ENGLISH         "^2Farah:^7 We live like this every day."
+
+REFERENCE            dx_brm_story_cine_far_250
+LANG_ENGLISH         "^2Farah:^7 I lead soldiers."
+
+REFERENCE            dx_brm_story_cine_far_260
+LANG_ENGLISH         "^2Farah:^7 You train killers."
+
+REFERENCE            dx_brm_story_cine_far_420
+LANG_ENGLISH         "^2Farah:^7 This is crazy."
+
+REFERENCE            dx_brm_story_cine_gfx_30
+LANG_ENGLISH         "ACTIVISION PRESENTS"
+
+REFERENCE            dx_brm_story_cine_gfx_470
+LANG_ENGLISH         "PURCHASE NOW"
+
+REFERENCE            dx_brm_story_cine_gfx_60
+LANG_ENGLISH         "AN INFINITY WARD PRODUCTION"
+
+REFERENCE            dx_brm_story_cine_kyle_320
+LANG_ENGLISH         "^2Kyle:^7 Where do we draw the line on this, sir?"
+
+REFERENCE            dx_brm_story_cine_kyle_350
+LANG_ENGLISH         "^2Kyle:^7 Don't move!"
+
+REFERENCE            dx_brm_story_cine_kyle_360
+LANG_ENGLISH         "^2Kyle:^7 Stop!"
+
+REFERENCE            dx_brm_story_cine_lass_10
+LANG_ENGLISH         "^2Laswell:^7 Twenty years of Civil War."
+
+REFERENCE            dx_brm_story_cine_lass_210
+LANG_ENGLISH         "^2Laswell:^7 Any further complications and we're at war."
+
+REFERENCE            dx_brm_story_cine_lass_390
+LANG_ENGLISH         "^2Laswell:^7 It's the off switch!"
+
+REFERENCE            dx_brm_story_cine_lass_40
+LANG_ENGLISH         "^2Laswell:^7 This is bigger now."
+
+REFERENCE            dx_brm_story_cine_lass_400
+LANG_ENGLISH         "^2Laswell:^7 We're all just pawns in this."
+
+REFERENCE            dx_brm_story_cine_lass_50
+LANG_ENGLISH         "^2Laswell:^7 Chemical weapons have fallen into terrorist's hands."
+
+REFERENCE            dx_brm_story_cine_lass_70
+LANG_ENGLISH         "^2Laswell:^7 They could be anywhere."
+
+REFERENCE            dx_brm_story_cine_lass_90
+LANG_ENGLISH         "^2Laswell:^7 What do you suggest?"
+
+REFERENCE            dx_brm_story_cine_lyon_300
+LANG_ENGLISH         "^2Lyons:^7 Chemical weapons are now in the wild."
+
+REFERENCE            dx_brm_story_cine_lyon_310
+LANG_ENGLISH         "^2Lyons:^7 Fix it."
+
+REFERENCE            dx_brm_story_cine_pri_100
+LANG_ENGLISH         "^2Price:^7 A business trip."
+
+REFERENCE            dx_brm_story_cine_pri_110
+LANG_ENGLISH         "^2Price:^7 Farah!"
+
+REFERENCE            dx_brm_story_cine_pri_120
+LANG_ENGLISH         "^2Price:^7 Let's talk."
+
+REFERENCE            dx_brm_story_cine_pri_130
+LANG_ENGLISH         "^2Price:^7 I need your help."
+
+REFERENCE            dx_brm_story_cine_pri_20
+LANG_ENGLISH         "^2Price:^7 There's nothing civil about it."
+
+REFERENCE            dx_brm_story_cine_pri_220
+LANG_ENGLISH         "^2Price:^7 They're breaking through now."
+
+REFERENCE            dx_brm_story_cine_pri_230
+LANG_ENGLISH         "^2Price:^7 We need a new extraction point, fast!"
+
+REFERENCE            dx_brm_story_cine_pri_330
+LANG_ENGLISH         "^2Price:^7 You draw the line..."
+
+REFERENCE            dx_brm_story_cine_pri_340
+LANG_ENGLISH         "^2Price:^7 No time!"
+
+REFERENCE            dx_brm_story_cine_pri_370
+LANG_ENGLISH         "^2Price:^7 Wherever you need it."
+
+REFERENCE            dx_brm_story_cine_pri_380
+LANG_ENGLISH         "^2Price:^7 What the hell is this?"
+
+REFERENCE            dx_brm_story_cine_pri_410
+LANG_ENGLISH         "^2Price:^7 You speak for yourself."
+
+REFERENCE            dx_brm_story_cine_pri_430
+LANG_ENGLISH         "^2Price:^7 Yeah, but we're all a little crazy, aren't we?"
+
+REFERENCE            dx_brm_story_cine_pri_440
+LANG_ENGLISH         "^2Price:^7 The rules of engagement have changed."
+
+REFERENCE            dx_brm_story_cine_pri_450
+LANG_ENGLISH         "^2Price:^7 If you can't identify the target"
+
+REFERENCE            dx_brm_story_cine_pri_460
+LANG_ENGLISH         "^2Price:^7 You are the target."
+
+REFERENCE            dx_brm_story_cine_pri_80
+LANG_ENGLISH         "^2Price:^7 We need to move fast."
+
+REFERENCE            dx_brm_story_cine_wolf_240
+LANG_ENGLISH         "^2Wolf:^7 Save yourself daughter. Join us!"
+
+REFERENCE            dx_brm_story_cine_wolf_270
+LANG_ENGLISH         "^2Wolf:^7 We are all killers here... no?"
+
+REFERENCE            dx_brm_uktl_tutorial_cine_100
+LANG_ENGLISH         "^2UK Team Leader:^7 Contracts are optional mini-missions scattered throughout the map."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_110
+LANG_ENGLISH         "^2UK Team Leader:^7 You can search for the yellow contract icon, then follow the instructions for a cash payment."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_130
+LANG_ENGLISH         "^2UK Team Leader:^7 When a player dies, they drop cash."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_140
+LANG_ENGLISH         "^2UK Team Leader:^7 A high risk, high reward strategy is to take out the players carrying the most cash."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_150
+LANG_ENGLISH         "^2UK Team Leader:^7 High Value Targets are specially marked on the map."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_160
+LANG_ENGLISH         "^2UK Team Leader:^7 But be advised, when you die, you drop cash, too."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_190
+LANG_ENGLISH         "^2UK Team Leader:^7 To safeguard it, you can protect your cash using Cash Deposit Helipads."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_20
+LANG_ENGLISH         "^2UK Team Leader:^7 This is Plunder."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_200
+LANG_ENGLISH         "^2UK Team Leader:^7 When you get to one, call in a helo and fill it with your cash."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_220
+LANG_ENGLISH         "^2UK Team Leader:^7 You can also protect your cash using Cash Deposit Balloons found in Supply Boxes or purchased from Buy Stations located throughout the map."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_230
+LANG_ENGLISH         "^2UK Team Leader:^7 These are the essentials of Plunder."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_240
+LANG_ENGLISH         "^2UK Team Leader:^7 Now get in there and get some."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_30
+LANG_ENGLISH         "^2UK Team Leader:^7 Here's the lay of the land."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_40
+LANG_ENGLISH         "^2UK Team Leader:^7 In this mode each team fights to collect the most cash."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_60
+LANG_ENGLISH         "^2UK Team Leader:^7 Cash can be collected in multiple ways."
+
+REFERENCE            dx_brm_uktl_tutorial_cine_80
+LANG_ENGLISH         "^2UK Team Leader:^7 The most surefire is finding and looting Supply Boxes located throughout the map."
+
+REFERENCE            dx_vom_bridge_intro_lass_30_31
+LANG_ENGLISH         "^2Laswell:^7 Troops in the open, north side of the bridge. Call for fire."
+
+REFERENCE            dx_vom_bridge_intro_uavoperator_40_32
+LANG_ENGLISH         "^2U.S. UAV Operator:^7 Copy. Three seconds to impact."
+
+REFERENCE            dx_vom_cine_epilogue_lass_100_10
+LANG_ENGLISH         "^2Laswell:^7 We already have loose ends."
+
+REFERENCE            dx_vom_cine_epilogue_lass_10_01
+LANG_ENGLISH         "^2Laswell:^7 Tea?"
+
+REFERENCE            dx_vom_cine_epilogue_lass_120_12
+LANG_ENGLISH         "^2Laswell:^7 I can fund assets, not outlaws."
+
+REFERENCE            dx_vom_cine_epilogue_lass_140_14
+LANG_ENGLISH         "^2Laswell:^7 Zakhaev wants Barkov's throne."
+
+REFERENCE            dx_vom_cine_epilogue_lass_160_16
+LANG_ENGLISH         "^2Laswell:^7 That was the father. This is the son, "Victor"."
+
+REFERENCE            dx_vom_cine_epilogue_lass_180_18
+LANG_ENGLISH         "^2Laswell:^7 They're big fans of Hadir's..."
+
+REFERENCE            dx_vom_cine_epilogue_lass_200_20
+LANG_ENGLISH         "^2Laswell:^7 They're going to get him out."
+
+REFERENCE            dx_vom_cine_epilogue_lass_220_22
+LANG_ENGLISH         "^2Laswell:^7 Who's your crew?"
+
+REFERENCE            dx_vom_cine_epilogue_lass_240_24
+LANG_ENGLISH         "^2Laswell:^7 Kyle?"
+
+REFERENCE            dx_vom_cine_epilogue_lass_270_27
+LANG_ENGLISH         "^2Laswell:^7 Why?"
+
+REFERENCE            dx_vom_cine_epilogue_lass_300_32
+LANG_ENGLISH         "^2Laswell:^7 There's no picture."
+
+REFERENCE            dx_vom_cine_epilogue_lass_30_03
+LANG_ENGLISH         "^2Laswell:^7 Russia disowned Barkov."
+
+REFERENCE            dx_vom_cine_epilogue_lass_330_36
+LANG_ENGLISH         "^2Laswell:^7 What are you calling this task force?"
+
+REFERENCE            dx_vom_cine_epilogue_lass_50_05
+LANG_ENGLISH         "^2Laswell:^7 You took a big bite out of that problem, John."
+
+REFERENCE            dx_vom_cine_epilogue_lass_70_07
+LANG_ENGLISH         "^2Laswell:^7 They won't be."
+
+REFERENCE            dx_vom_cine_epilogue_lass_80_08
+LANG_ENGLISH         "^2Laswell:^7 General Shepherd pulled the files you asked for. What exactly is this about?"
+
+REFERENCE            dx_vom_cine_epilogue_pri_110_11
+LANG_ENGLISH         "^2Price:^7 And I will tie them."
+
+REFERENCE            dx_vom_cine_epilogue_pri_130_13
+LANG_ENGLISH         "^2Price:^7 Enjoy the tea then."
+
+REFERENCE            dx_vom_cine_epilogue_pri_150_15
+LANG_ENGLISH         "^2Price:^7 I almost buried him in Pripyat... With MacMillan."
+
+REFERENCE            dx_vom_cine_epilogue_pri_170_17
+LANG_ENGLISH         "^2Price:^7 Lovely family..."
+
+REFERENCE            dx_vom_cine_epilogue_pri_190_19
+LANG_ENGLISH         "^2Price:^7 Well, that would explain why he's still alive."
+
+REFERENCE            dx_vom_cine_epilogue_pri_20_02
+LANG_ENGLISH         "^2Price:^7 Yeah, well I'm a long way from a proper pint."
+
+REFERENCE            dx_vom_cine_epilogue_pri_210_21
+LANG_ENGLISH         "^2Price:^7 Then give me what I need..."
+
+REFERENCE            dx_vom_cine_epilogue_pri_230_23
+LANG_ENGLISH         "^2Price:^7 Sergeant Garrick."
+
+REFERENCE            dx_vom_cine_epilogue_pri_250_25
+LANG_ENGLISH         "^2Price:^7 They call him "Gaz". He never said anything."
+
+REFERENCE            dx_vom_cine_epilogue_pri_260_26
+LANG_ENGLISH         "^2Price:^7 John MacTavish, SAS. Sniper- demolitions. Goes by "Soap"."
+
+REFERENCE            dx_vom_cine_epilogue_pri_280_28
+LANG_ENGLISH         "^2Price:^7 That's classified."
+
+REFERENCE            dx_vom_cine_epilogue_pri_290_29
+LANG_ENGLISH         "^2Price:^7 [CHUCKLING]"
+
+REFERENCE            dx_vom_cine_epilogue_pri_290_30
+LANG_ENGLISH         "^2Price:^7 There he is... "
+
+REFERENCE            dx_vom_cine_epilogue_pri_290_31
+LANG_ENGLISH         "^2Price:^7 Simon Riley."
+
+REFERENCE            dx_vom_cine_epilogue_pri_310_33
+LANG_ENGLISH         "^2Price:^7 Never."
+
+REFERENCE            dx_vom_cine_epilogue_pri_320_34
+LANG_ENGLISH         "^2Price:^7 Now the rest..."
+
+REFERENCE            dx_vom_cine_epilogue_pri_320_35
+LANG_ENGLISH         "^2Price:^7 That's need to know. Unless we got a deal."
+
+REFERENCE            dx_vom_cine_epilogue_pri_340_37
+LANG_ENGLISH         "^2Price:^7 1-4-1."
+
+REFERENCE            dx_vom_cine_epilogue_pri_40_04
+LANG_ENGLISH         "^2Price:^7 Well they didn't have much choice did they? He's dead."
+
+REFERENCE            dx_vom_cine_epilogue_pri_60_06
+LANG_ENGLISH         "^2Price:^7 For now... but left unchecked..."
+
+REFERENCE            dx_vom_cine_epilogue_pri_90_09
+LANG_ENGLISH         "^2Price:^7 A task force."
+
+REFERENCE            dx_vom_cine_intro_alx_10_01
+LANG_ENGLISH         "^2Alex:^7 Echo 3-1 to Charlie 2-Actual-"
+
+REFERENCE            dx_vom_cine_intro_alx_110_11
+LANG_ENGLISH         "^2Alex:^7 Hadir's fight is not with us."
+
+REFERENCE            dx_vom_cine_intro_alx_120_12
+LANG_ENGLISH         "^2Alex:^7 Now, he could have killed everyone when he stole the gas, but he chose not to."
+
+REFERENCE            dx_vom_cine_intro_alx_120_14
+LANG_ENGLISH         "^2Alex:^7 Marines want their pound of flesh. They're leading the charge on this."
+
+REFERENCE            dx_vom_cine_intro_alx_140_14
+LANG_ENGLISH         "^2Alex:^7 I was there...trying to stop it."
+
+REFERENCE            dx_vom_cine_intro_alx_140_16
+LANG_ENGLISH         "^2Alex:^7 And you're keeping your word."
+
+REFERENCE            dx_vom_cine_intro_alx_160_16
+LANG_ENGLISH         "^2Alex:^7 We believed it was Al-Qatala. We didn't know it was him."
+
+REFERENCE            dx_vom_cine_intro_alx_190_21
+LANG_ENGLISH         "^2Alex:^7 No exceptions?"
+
+REFERENCE            dx_vom_cine_intro_alx_230_25
+LANG_ENGLISH         "^2Alex:^7 I'll make sure you're at the embassy for the handoff to Price."
+
+REFERENCE            dx_vom_cine_intro_alx_250_27
+LANG_ENGLISH         "^2Alex:^7 Wherever they send me."
+
+REFERENCE            dx_vom_cine_intro_alx_260_26
+LANG_ENGLISH         "^2Alex:^7 This is a bad idea, Farah."
+
+REFERENCE            dx_vom_cine_intro_alx_270_29
+LANG_ENGLISH         "^2Alex:^7 Not exactly."
+
+REFERENCE            dx_vom_cine_intro_alx_290_31
+LANG_ENGLISH         "^2Alex:^7 What about you and your men?"
+
+REFERENCE            dx_vom_cine_intro_alx_30_03
+LANG_ENGLISH         "^2Alex:^7 LZ is in sight. Looks like our boys are right on time, Colonel."
+
+REFERENCE            dx_vom_cine_intro_alx_310_33
+LANG_ENGLISH         "^2Alex:^7 I'll cover the open corner."
+
+REFERENCE            dx_vom_cine_intro_alx_311_34
+LANG_ENGLISH         "^2Alex:^7 [WHISTLES A SIGNAL]"
+
+REFERENCE            dx_vom_cine_intro_alx_70_07
+LANG_ENGLISH         "^2Alex:^7 I'm sorry, Farah."
+
+REFERENCE            dx_vom_cine_intro_alx_80_08
+LANG_ENGLISH         "^2Alex:^7 Or some thing."
+
+REFERENCE            dx_vom_cine_intro_far_10_01
+LANG_ENGLISH         "^2Farah:^7 My brother always wanted to fight without rules..."
+
+REFERENCE            dx_vom_cine_intro_far_110_13
+LANG_ENGLISH         "^2Farah:^7 Hadir is my best sniper. You can rely on him... and all my fighters."
+
+REFERENCE            dx_vom_cine_intro_far_130_13
+LANG_ENGLISH         "^2Farah:^7 How do you know this?"
+
+REFERENCE            dx_vom_cine_intro_far_130_15
+LANG_ENGLISH         "^2Farah:^7 I told you we would help you."
+
+REFERENCE            dx_vom_cine_intro_far_150_15
+LANG_ENGLISH         "^2Farah:^7 Why didn't you tell me?"
+
+REFERENCE            dx_vom_cine_intro_far_150_17
+LANG_ENGLISH         "^2Farah:^7 I don't do this to...keep my word."
+
+REFERENCE            dx_vom_cine_intro_far_160_18
+LANG_ENGLISH         "^2Farah:^7 The invaders of my country have no regard for human life."
+
+REFERENCE            dx_vom_cine_intro_far_170_19
+LANG_ENGLISH         "^2Farah:^7 The gas kills all things. Even food in our gardens."
+
+REFERENCE            dx_vom_cine_intro_far_180_20
+LANG_ENGLISH         "^2Farah:^7 If you use these tactics, you are my enemy."
+
+REFERENCE            dx_vom_cine_intro_far_190_19
+LANG_ENGLISH         "^2Farah:^7 I'll come with you."
+
+REFERENCE            dx_vom_cine_intro_far_200_22
+LANG_ENGLISH         "^2Farah:^7 None."
+
+REFERENCE            dx_vom_cine_intro_far_20_02
+LANG_ENGLISH         "^2Farah:^7 Now he's broken all of them."
+
+REFERENCE            dx_vom_cine_intro_far_210_21
+LANG_ENGLISH         "^2Farah:^7 He is not my brother. Not anymore."
+
+REFERENCE            dx_vom_cine_intro_far_210_23
+LANG_ENGLISH         "^2Farah:^7 Al-Qatala has given my people a bad name, and we have paid dearly for their crimes."
+
+REFERENCE            dx_vom_cine_intro_far_220_24
+LANG_ENGLISH         "^2Farah:^7 I want to see the Wolf punished."
+
+REFERENCE            dx_vom_cine_intro_far_240_26
+LANG_ENGLISH         "^2Farah:^7 And you? Where will you go when this is over?"
+
+REFERENCE            dx_vom_cine_intro_far_260_28
+LANG_ENGLISH         "^2Farah:^7 You don't choose?"
+
+REFERENCE            dx_vom_cine_intro_far_270_27
+LANG_ENGLISH         "^2Farah:^7 We take care of our own here."
+
+REFERENCE            dx_vom_cine_intro_far_280_30
+LANG_ENGLISH         "^2Farah:^7 Rest up. Tomorrow is a big day."
+
+REFERENCE            dx_vom_cine_intro_far_300_32
+LANG_ENGLISH         "^2Farah:^7 We'll be here until sunrise."
+
+REFERENCE            dx_vom_cine_intro_far_30_03
+LANG_ENGLISH         "^2Farah:^7 (ARABIC) Copy."
+
+REFERENCE            dx_vom_cine_intro_far_40_04
+LANG_ENGLISH         "^2Farah:^7 (ARABIC) Keep us posted."
+
+REFERENCE            dx_vom_cine_intro_far_50_05
+LANG_ENGLISH         "^2Farah:^7 My soldiers confirm that the hospital is under siege."
+
+REFERENCE            dx_vom_cine_intro_far_60_06
+LANG_ENGLISH         "^2Farah:^7 Al-Qatala is taking civilians as human shields."
+
+REFERENCE            dx_vom_cine_intro_far_70_07
+LANG_ENGLISH         "^2Farah:^7 They're protecting someone."
+
+REFERENCE            dx_vom_cine_intro_far_90_09
+LANG_ENGLISH         "^2Farah:^7 The more we find out..."
+
+REFERENCE            dx_vom_cine_intro_far_90_091
+LANG_ENGLISH         "^2Farah:^7 Is a terrorist."
+
+REFERENCE            dx_vom_cine_intro_had_100_12
+LANG_ENGLISH         "^2Hadir:^7 All clear, sister."
+
+REFERENCE            dx_vom_cine_intro_had_312_35
+LANG_ENGLISH         "^2Militia Fighter:^7 [WHISTLES IN REPLY]"
+
+REFERENCE            dx_vom_cine_intro_had_91_10
+LANG_ENGLISH         "^2Hadir:^7 [WHISTLES A SIGNAL]"
+
+REFERENCE            dx_vom_cine_intro_kyle_200_20
+LANG_ENGLISH         "^2Kyle:^7 You'll be hunting your own brother."
+
+REFERENCE            dx_vom_cine_intro_kyle_280_28
+LANG_ENGLISH         "^2Kyle:^7 Not usually what that means..."
+
+REFERENCE            dx_vom_cine_intro_lass_100_07
+LANG_ENGLISH         "^2Laswell:^7 Not until I say so."
+
+REFERENCE            dx_vom_cine_intro_lass_100_10
+LANG_ENGLISH         "^2Laswell:^7 Is an American asset, who is either with or in terrorist hands."
+
+REFERENCE            dx_vom_cine_intro_lass_170_17
+LANG_ENGLISH         "^2Laswell:^7 We know now."
+
+REFERENCE            dx_vom_cine_intro_lass_180_18
+LANG_ENGLISH         "^2Laswell:^7 We're going after him tonight."
+
+REFERENCE            dx_vom_cine_intro_lass_220_22
+LANG_ENGLISH         "^2Laswell:^7 Barkov's going to put a bounty on his head."
+
+REFERENCE            dx_vom_cine_intro_lass_240_24
+LANG_ENGLISH         "^2Laswell:^7 Any further complications and we're at war with Russia."
+
+REFERENCE            dx_vom_cine_intro_lass_30_03
+LANG_ENGLISH         "^2Laswell:^7 Hadir went North..."
+
+REFERENCE            dx_vom_cine_intro_lass_310_31
+LANG_ENGLISH         "^2Laswell:^7 Fine."
+
+REFERENCE            dx_vom_cine_intro_lass_320_32
+LANG_ENGLISH         "^2Laswell:^7 You have execute authority. "
+
+REFERENCE            dx_vom_cine_intro_lass_320_33
+LANG_ENGLISH         "^2Laswell:^7 All of you."
+
+REFERENCE            dx_vom_cine_intro_lass_330_34
+LANG_ENGLISH         "^2Laswell:^7 Okay, let's brief up."
+
+REFERENCE            dx_vom_cine_intro_lass_40_04
+LANG_ENGLISH         "^2Laswell:^7 He was picked up by AQ fighters in the foothills."
+
+REFERENCE            dx_vom_cine_intro_lass_60_06
+LANG_ENGLISH         "^2Laswell:^7 We don't know..."
+
+REFERENCE            dx_vom_cine_intro_lass_80_05
+LANG_ENGLISH         "^2Laswell:^7 Colonel, we may have a problem."
+
+REFERENCE            dx_vom_cine_intro_lass_80_08
+LANG_ENGLISH         "^2Laswell:^7 Your brother..."
+
+REFERENCE            dx_vom_cine_intro_lf1_10_01
+LANG_ENGLISH         "^2Militia Fighter:^7 (ARABIC) Commander, Al Qatala was shooting in the hospital."
+
+REFERENCE            dx_vom_cine_intro_lf1_20_02
+LANG_ENGLISH         "^2Militia Fighter:^7 (ARABIC) It's quiet again now."
+
+REFERENCE            dx_vom_cine_intro_lf1_92_11
+LANG_ENGLISH         "^2Militia Fighter:^7 [DISTANT WHISTLE IN REPLY]"
+
+REFERENCE            dx_vom_cine_intro_norr_20_02
+LANG_ENGLISH         "^2Norris:^7 Go for Actual..."
+
+REFERENCE            dx_vom_cine_intro_norr_40_04
+LANG_ENGLISH         "^2Norris:^7 Roger, 3-1. Hitman teams are locked and loaded for assault. You are green to go."
+
+REFERENCE            dx_vom_cine_intro_norr_90_06
+LANG_ENGLISH         "^2Norris:^7 Too late, Laswell. We're live..."
+
+REFERENCE            dx_vom_cine_intro_pri_230_23
+LANG_ENGLISH         "^2Price:^7 Alright, well let's get him first then."
+
+REFERENCE            dx_vom_cine_intro_pri_250_25
+LANG_ENGLISH         "^2Price:^7 Well then don't complicate it."
+
+REFERENCE            dx_vom_cine_intro_pri_290_29
+LANG_ENGLISH         "^2Price:^7 It does here."
+
+REFERENCE            dx_vom_cine_intro_pri_300_30
+LANG_ENGLISH         "^2Price:^7 I want Farah on the team. I'm not asking."
+
+REFERENCE            dx_vom_cine_intro_pri_50_05
+LANG_ENGLISH         "^2Price:^7 Voluntarily or by force?"
+
+REFERENCE            dx_vom_cine_load_alx_10_03
+LANG_ENGLISH         "^2Alex:^7 2-6, Echo is on the third deck for RV..."
+
+REFERENCE            dx_vom_cine_load_alx_112_14
+LANG_ENGLISH         "^2Alex:^7 Where is it?"
+
+REFERENCE            dx_vom_cine_load_alx_130_19
+LANG_ENGLISH         "^2Alex:^7 Hey- Tap the brakes."
+
+REFERENCE            dx_vom_cine_load_alx_200_24
+LANG_ENGLISH         "^2Alex:^7 They're gonna breach! "
+
+REFERENCE            dx_vom_cine_load_alx_200_25
+LANG_ENGLISH         "^2Alex:^7 We gotta move, now!"
+
+REFERENCE            dx_vom_cine_load_alx_20_04
+LANG_ENGLISH         "^2Alex:^7 Be advised- primary entry point is clear but that window is rapidly closing."
+
+REFERENCE            dx_vom_cine_load_alx_210_26
+LANG_ENGLISH         "^2Alex:^7 3-1 to 2-6. Shots fired, moving to secure the HVI, will advise..."
+
+REFERENCE            dx_vom_cine_load_alx_40_06
+LANG_ENGLISH         "^2Alex:^7 3 minutes."
+
+REFERENCE            dx_vom_cine_load_alx_60_08
+LANG_ENGLISH         "^2Alex:^7 I chose to take you alive- I can still change my mind."
+
+REFERENCE            dx_vom_cine_load_enf_06_01
+LANG_ENGLISH         "[CROWD CHANTING]"
+
+REFERENCE            dx_vom_cine_load_enf_06_02
+LANG_ENGLISH         "^1Butcher:^7 (ARABIC) Give us the Wolf, or we take him!"
+
+REFERENCE            dx_vom_cine_load_far_100_12
+LANG_ENGLISH         "^2Farah:^7 Who did?"
+
+REFERENCE            dx_vom_cine_load_far_160_20
+LANG_ENGLISH         "^2Farah:^7 I'm not your child, old man. I lead soldiers. You train killers."
+
+REFERENCE            dx_vom_cine_load_far_80_10
+LANG_ENGLISH         "^2Farah:^7 Lies- Tell them what you've done."
+
+REFERENCE            dx_vom_cine_load_had_120_16
+LANG_ENGLISH         "^2Hadir:^7 The Butcher is outside. They'll burn the city if they have to."
+
+REFERENCE            dx_vom_cine_load_had_123_18
+LANG_ENGLISH         "^2Hadir:^7 Do not talk to her!"
+
+REFERENCE            dx_vom_cine_load_kyle_30_05
+LANG_ENGLISH         "^2Kyle:^7 Roger. Wheels down in 3 mikes. 2-6, out."
+
+REFERENCE            dx_vom_cine_load_sfx_171_22
+LANG_ENGLISH         "[MUFFLED GUNFIRE]"
+
+REFERENCE            dx_vom_cine_load_sfx_172_23
+LANG_ENGLISH         "[ALARMS BLARING]"
+
+REFERENCE            dx_vom_cine_load_wolf_110_13
+LANG_ENGLISH         "^1Wolf:^7 Someone very dangerous."
+
+REFERENCE            dx_vom_cine_load_wolf_114_15
+LANG_ENGLISH         "^1Wolf:^7 I wish I knew..."
+
+REFERENCE            dx_vom_cine_load_wolf_122_17
+LANG_ENGLISH         "^1Wolf:^7 Save yourself, daughter... Join us."
+
+REFERENCE            dx_vom_cine_load_wolf_170_21
+LANG_ENGLISH         "^1Wolf:^7 But we are all killers, here, no?"
+
+REFERENCE            dx_vom_cine_load_wolf_50_07
+LANG_ENGLISH         "^1Wolf:^7 In 3 minutes, my people will be inside. They will kill all of you."
+
+REFERENCE            dx_vom_cine_load_wolf_70_09
+LANG_ENGLISH         "^1Wolf:^7 You have the wrong man."
+
+REFERENCE            dx_vom_cine_load_wolf_90_11
+LANG_ENGLISH         "^1Wolf:^7 We did not steal the gas."
+
+REFERENCE            dx_vom_cine_mbi_far_10_01
+LANG_ENGLISH         "^2Farah:^7 The Wolf is with the Butcher. Terrorist cells in the city will hide them."
+
+REFERENCE            dx_vom_cine_mbi_far_10_02
+LANG_ENGLISH         "^2Farah:^7 Bravo will clear house to house in search, my people will help you."
+
+REFERENCE            dx_vom_cine_mbi_far_20_03
+LANG_ENGLISH         "^2Farah:^7 If they try to escape to the mountains, there is only one road-"
+
+REFERENCE            dx_vom_cine_mbi_far_20_04
+LANG_ENGLISH         "^2Farah:^7 Tariq Almawt' the highway of death."
+
+REFERENCE            dx_vom_cine_mbi_far_20_05
+LANG_ENGLISH         "^2Farah:^7 The Russians bombed it during the invasion, killing the people trying to escape."
+
+REFERENCE            dx_vom_cine_mbi_far_20_06
+LANG_ENGLISH         "^2Farah:^7 There is a village at the crossroads."
+
+REFERENCE            dx_vom_cine_mbi_far_30_07
+LANG_ENGLISH         "^2Farah:^7 I sent Hadir and his fighters there to prepare an ambush. "
+
+REFERENCE            dx_vom_cine_mbi_far_30_08
+LANG_ENGLISH         "^2Farah:^7 Alex and I will join them and take up firing positions above the road- "
+
+REFERENCE            dx_vom_cine_mbi_far_30_09
+LANG_ENGLISH         "^2Farah:^7 Lying in wait, for the Wolf..."
+
+REFERENCE            dx_vom_cine_mbi_lass_10_35
+LANG_ENGLISH         "^2Laswell:^7 Imagery confirms Hadir was in possession of the remaining stolen gas when he made direct contact with Al-Qatala's most brutal enforcer, the Butcher."
+
+REFERENCE            dx_vom_cine_mbi_lass_20_36
+LANG_ENGLISH         "^2Laswell:^7 Surveillance tracked their vehicles to a residential complex in the Aqrus Mountains, believed to be The Wolf's stronghold."
+
+REFERENCE            dx_vom_cine_mbi_lass_30_37
+LANG_ENGLISH         "^2Laswell:^7 Alex and Farah will hold orbit for secondary clearance, while Bravo Six leads the assault force to locate the chemical agents, retrieve Hadir, and kill The Wolf."
+
+REFERENCE            dx_vom_cine_mbi_pri_10_26
+LANG_ENGLISH         "^2Price:^7 This is a covert operation to destroy Barkov's gas lab."
+
+REFERENCE            dx_vom_cine_mbi_pri_20_27
+LANG_ENGLISH         "^2Price:^7 Nikolai is on the inside, he'll provide the explosives."
+
+REFERENCE            dx_vom_cine_mbi_pri_30_28
+LANG_ENGLISH         "^2Price:^7 Two teams will infiltrate. Garrick and I will plant charges on the pipeline... Farah and Alex, you'll get a detonator from Nikolai and rig the main furnace."
+
+REFERENCE            dx_vom_cine_mbi_pri_40_29
+LANG_ENGLISH         "^2Price:^7 When the charges are set, get a safe distance... and bring it down."
+
+REFERENCE            dx_vom_cine_mbi_pri_50_30
+LANG_ENGLISH         "^2Price:^7 Air support from Laswell paves the way. Rest is up to us."
+
+REFERENCE            dx_vom_cine_outro_alx_110_12
+LANG_ENGLISH         "^2Alex:^7 No one said they're friends."
+
+REFERENCE            dx_vom_cine_outro_alx_210_22
+LANG_ENGLISH         "^2Alex:^7 What?! They're our allies."
+
+REFERENCE            dx_vom_cine_outro_alx_260_27
+LANG_ENGLISH         "^2Alex:^7 Kate, these people need our support."
+
+REFERENCE            dx_vom_cine_outro_alx_270_270
+LANG_ENGLISH         "^2Alex:^7 Commander Karim. Call me Alex."
+
+REFERENCE            dx_vom_cine_outro_alx_290_290
+LANG_ENGLISH         "^2Alex:^7 This is classified..."
+
+REFERENCE            dx_vom_cine_outro_alx_290_30
+LANG_ENGLISH         "^2Alex:^7 I'm tired of being told who my friends are."
+
+REFERENCE            dx_vom_cine_outro_alx_310_310
+LANG_ENGLISH         "^2Alex:^7 Forty-eight hours ago, terrorists stole a shipment of Russian gas."
+
+REFERENCE            dx_vom_cine_outro_alx_310_32
+LANG_ENGLISH         "^2Alex:^7 I'm going back to Urzikstan. I'm staying with Farah's army."
+
+REFERENCE            dx_vom_cine_outro_alx_330_330
+LANG_ENGLISH         "^2Alex:^7 The Russians make no distinction between Al-Qatala and your people."
+
+REFERENCE            dx_vom_cine_outro_alx_330_34
+LANG_ENGLISH         "^2Alex:^7 I'm pretty sure everything we do is illegal."
+
+REFERENCE            dx_vom_cine_outro_alx_360_360
+LANG_ENGLISH         "^2Alex:^7 Then help us track it, before they..."
+
+REFERENCE            dx_vom_cine_outro_alx_360_37
+LANG_ENGLISH         "^2Alex:^7 You too."
+
+REFERENCE            dx_vom_cine_outro_alx_40_03
+LANG_ENGLISH         "^2Alex:^7 Too bad we couldn't kill him twice."
+
+REFERENCE            dx_vom_cine_outro_alx_450_450
+LANG_ENGLISH         "^2Alex:^7 I have friends who can help us."
+
+REFERENCE            dx_vom_cine_outro_alx_460_460
+LANG_ENGLISH         "^2Alex:^7 But your sister decides what's next."
+
+REFERENCE            dx_vom_cine_outro_alx_540_540
+LANG_ENGLISH         "^2Alex:^7 (ARABIC) Then let's fight."
+
+REFERENCE            dx_vom_cine_outro_atc_50_05
+LANG_ENGLISH         "^2ATC:^7 Lifter 1, clear blue on 2..."
+
+REFERENCE            dx_vom_cine_outro_atc_70_07
+LANG_ENGLISH         "^2ATC:^7 3 on the beach- Welcome home..."
+
+REFERENCE            dx_vom_cine_outro_far_110_11
+LANG_ENGLISH         "^2Farah:^7 We'll be ready."
+
+REFERENCE            dx_vom_cine_outro_far_130_13
+LANG_ENGLISH         "^2Farah:^7 Thank you."
+
+REFERENCE            dx_vom_cine_outro_far_150_15
+LANG_ENGLISH         "^2Farah:^7 The war begins now, brother."
+
+REFERENCE            dx_vom_cine_outro_far_190_19
+LANG_ENGLISH         "^2Farah:^7 What list?"
+
+REFERENCE            dx_vom_cine_outro_far_260_260
+LANG_ENGLISH         "^2Farah:^7 What is your message from Captain Price?"
+
+REFERENCE            dx_vom_cine_outro_far_280_280
+LANG_ENGLISH         "^2Farah:^7 I'm listening, Alex."
+
+REFERENCE            dx_vom_cine_outro_far_300_300
+LANG_ENGLISH         "^2Farah:^7 (ARABIC) Go cousins, get ready."
+
+REFERENCE            dx_vom_cine_outro_far_300_31
+LANG_ENGLISH         "^2Farah:^7 Alex, don't..."
+
+REFERENCE            dx_vom_cine_outro_far_320_320
+LANG_ENGLISH         "^2Farah:^7 Only Al-Qatala would do this."
+
+REFERENCE            dx_vom_cine_outro_far_340_340
+LANG_ENGLISH         "^2Farah:^7 And I make no distinction between Al-Qatala and the Russian army. They are both terrorists."
+
+REFERENCE            dx_vom_cine_outro_far_350_350
+LANG_ENGLISH         "^2Farah:^7 We would never use these poisons."
+
+REFERENCE            dx_vom_cine_outro_far_370_370
+LANG_ENGLISH         "^2Farah:^7 Before they what? Take it to Europe? Or America?"
+
+REFERENCE            dx_vom_cine_outro_far_370_38
+LANG_ENGLISH         "^2Farah:^7 Thank you. For everything."
+
+REFERENCE            dx_vom_cine_outro_far_380_380
+LANG_ENGLISH         "^2Farah:^7 We live like this every day."
+
+REFERENCE            dx_vom_cine_outro_far_390_40
+LANG_ENGLISH         "^2Farah:^7 I always have."
+
+REFERENCE            dx_vom_cine_outro_far_410_410
+LANG_ENGLISH         "^2Farah:^7 Alex, this is my brother and lieutenant, Hadir."
+
+REFERENCE            dx_vom_cine_outro_far_430_430
+LANG_ENGLISH         "^2Farah:^7 He works with Captain Price."
+
+REFERENCE            dx_vom_cine_outro_far_490_490
+LANG_ENGLISH         "^2Farah:^7 This occupation must end. That we can all agree on, yes?"
+
+REFERENCE            dx_vom_cine_outro_far_510_510
+LANG_ENGLISH         "^2Farah:^7 General Barkov's men control the city. We have plans to change that."
+
+REFERENCE            dx_vom_cine_outro_far_530_530
+LANG_ENGLISH         "^2Farah:^7 If you stay, we can help you, but if you stay...you fight."
+
+REFERENCE            dx_vom_cine_outro_far_560_560
+LANG_ENGLISH         "^2Farah:^7 Follow me."
+
+REFERENCE            dx_vom_cine_outro_far_70_07
+LANG_ENGLISH         "^2Farah:^7 (ARABIC) Go, wait for us."
+
+REFERENCE            dx_vom_cine_outro_far_90_10
+LANG_ENGLISH         "^2Farah:^7 Where are they?"
+
+REFERENCE            dx_vom_cine_outro_fsa1_80_08
+LANG_ENGLISH         "^2Militia Fighter:^7 (ARABIC) Yes, Farah."
+
+REFERENCE            dx_vom_cine_outro_had_100_10
+LANG_ENGLISH         "^2Hadir:^7 We will make them pay."
+
+REFERENCE            dx_vom_cine_outro_had_10_875
+LANG_ENGLISH         "^3Hadir:^7 Captain, please, give Farah the plans. Tell her the truth."
+
+REFERENCE            dx_vom_cine_outro_had_140_14
+LANG_ENGLISH         "^2Hadir:^7 The revolution begins now, sister."
+
+REFERENCE            dx_vom_cine_outro_had_30_877
+LANG_ENGLISH         "^3Hadir:^7 I don't care about the world. I did this for my sister."
+
+REFERENCE            dx_vom_cine_outro_had_390_390
+LANG_ENGLISH         "^2Hadir:^7 Commander, it's time to go..."
+
+REFERENCE            dx_vom_cine_outro_had_400_400
+LANG_ENGLISH         "^2Hadir:^7 Who is this?"
+
+REFERENCE            dx_vom_cine_outro_had_420_420
+LANG_ENGLISH         "^2Hadir:^7 You are CIA?"
+
+REFERENCE            dx_vom_cine_outro_had_440_440
+LANG_ENGLISH         "^2Hadir:^7 Then you kill Russians, yes?"
+
+REFERENCE            dx_vom_cine_outro_had_470_470
+LANG_ENGLISH         "^2Hadir:^7 Of course. My sister is in command..."
+
+REFERENCE            dx_vom_cine_outro_had_480_480
+LANG_ENGLISH         "^2Hadir:^7 ...and the Russian army is still here."
+
+REFERENCE            dx_vom_cine_outro_had_500_500
+LANG_ENGLISH         "^2Hadir:^7 Mmhmm."
+
+REFERENCE            dx_vom_cine_outro_had_520_520
+LANG_ENGLISH         "^2Hadir:^7 We have no missiles, but we have our ways."
+
+REFERENCE            dx_vom_cine_outro_had_550_550
+LANG_ENGLISH         "^2Hadir:^7 (ARABIC) Welcome to Urzikstan, Alex."
+
+REFERENCE            dx_vom_cine_outro_kyle_00_01
+LANG_ENGLISH         "^2Kyle:^7 Alex!"
+
+REFERENCE            dx_vom_cine_outro_kyle_100_03
+LANG_ENGLISH         "^2Kyle:^7 It shouldn't have happened in the first place, sir."
+
+REFERENCE            dx_vom_cine_outro_kyle_100_04
+LANG_ENGLISH         "^2Kyle:^7 They sent us in half assed, so everyone can just keep pretending we're not at war."
+
+REFERENCE            dx_vom_cine_outro_kyle_100_884
+LANG_ENGLISH         "^2Kyle:^7 Yes, sir."
+
+REFERENCE            dx_vom_cine_outro_kyle_10_02
+LANG_ENGLISH         "^2Kyle:^7 If it wasn't me- I'm glad it was you."
+
+REFERENCE            dx_vom_cine_outro_kyle_110_13
+LANG_ENGLISH         "^2Kyle:^7 Holy shit, Captain..."
+
+REFERENCE            dx_vom_cine_outro_kyle_120_06
+LANG_ENGLISH         "^2Kyle:^7 Then why have we got our hands tied? Let's just take the bloody gloves off and fight..."
+
+REFERENCE            dx_vom_cine_outro_kyle_120_07
+LANG_ENGLISH         "^2Kyle:^7 Sir..."
+
+REFERENCE            dx_vom_cine_outro_kyle_130_15
+LANG_ENGLISH         "^2Kyle:^7 What if they follow?"
+
+REFERENCE            dx_vom_cine_outro_kyle_140_09
+LANG_ENGLISH         "^2Kyle:^7 We don't stand a chance in hell with these rules of engagement, Captain. "
+
+REFERENCE            dx_vom_cine_outro_kyle_140_10
+LANG_ENGLISH         "^2Kyle:^7 They can tell us where, they can tell us when...don't tell us how. "
+
+REFERENCE            dx_vom_cine_outro_kyle_140_11
+LANG_ENGLISH         "^2Kyle:^7 My men were tracking that cell for weeks."
+
+REFERENCE            dx_vom_cine_outro_kyle_150_17
+LANG_ENGLISH         "^2Kyle:^7 Boss..."
+
+REFERENCE            dx_vom_cine_outro_kyle_160_13
+LANG_ENGLISH         "^2Kyle:^7 Quite a bit, sir."
+
+REFERENCE            dx_vom_cine_outro_kyle_160_18
+LANG_ENGLISH         "^2Kyle:^7 What the hell are we doing here?"
+
+REFERENCE            dx_vom_cine_outro_kyle_170_17
+LANG_ENGLISH         "^2Kyle:^7 You want to translate that from bullshit to English?"
+
+REFERENCE            dx_vom_cine_outro_kyle_170_891
+LANG_ENGLISH         "^2Kyle:^7 What's the word, boss?"
+
+REFERENCE            dx_vom_cine_outro_kyle_180_20
+LANG_ENGLISH         "^2Kyle:^7 With women and children?"
+
+REFERENCE            dx_vom_cine_outro_kyle_200_22
+LANG_ENGLISH         "^2Kyle:^7 They were hostages."
+
+REFERENCE            dx_vom_cine_outro_kyle_20_876
+LANG_ENGLISH         "^2Kyle:^7 You'll have a chance to tell the whole world."
+
+REFERENCE            dx_vom_cine_outro_kyle_220_24
+LANG_ENGLISH         "^2Kyle:^7 Where do we draw the line on this, sir?"
+
+REFERENCE            dx_vom_cine_outro_kyle_240_898
+LANG_ENGLISH         "^2Kyle:^7 Yes, sir."
+
+REFERENCE            dx_vom_cine_outro_kyle_270_29
+LANG_ENGLISH         "^2Kyle:^7 No, sir. No second thoughts."
+
+REFERENCE            dx_vom_cine_outro_kyle_280_29
+LANG_ENGLISH         "^2Kyle:^7 There's plenty we can do."
+
+REFERENCE            dx_vom_cine_outro_kyle_30_03
+LANG_ENGLISH         "^2Kyle:^7 For us?"
+
+REFERENCE            dx_vom_cine_outro_kyle_340_35
+LANG_ENGLISH         "^2Kyle:^7 Only the good stuff."
+
+REFERENCE            dx_vom_cine_outro_kyle_350_36
+LANG_ENGLISH         "^2Kyle:^7 You got friends nearby."
+
+REFERENCE            dx_vom_cine_outro_kyle_41_04
+LANG_ENGLISH         "^2Kyle:^7 Thanks, mate."
+
+REFERENCE            dx_vom_cine_outro_kyle_50_05
+LANG_ENGLISH         "^2Kyle:^7 Road's blocked. What's the plan...?"
+
+REFERENCE            dx_vom_cine_outro_kyle_70_08
+LANG_ENGLISH         "^2Kyle:^7 What if they don't move?"
+
+REFERENCE            dx_vom_cine_outro_kyle_70_881
+LANG_ENGLISH         "^2Kyle:^7 What's she doing here?"
+
+REFERENCE            dx_vom_cine_outro_kyle_90_10
+LANG_ENGLISH         "^2Kyle:^7 Three seconds..."
+
+REFERENCE            dx_vom_cine_outro_lass_100_11
+LANG_ENGLISH         "^2Laswell:^7 One step at a time."
+
+REFERENCE            dx_vom_cine_outro_lass_10_01
+LANG_ENGLISH         "^2Laswell:^7 This operation is now compartmentalized."
+
+REFERENCE            dx_vom_cine_outro_lass_120_886
+LANG_ENGLISH         "^2Laswell:^7 The off-switch. We're turning him over."
+
+REFERENCE            dx_vom_cine_outro_lass_130_14
+LANG_ENGLISH         "^2Laswell:^7 Norris, I asked you to let me-"
+
+REFERENCE            dx_vom_cine_outro_lass_140_16
+LANG_ENGLISH         "^2Laswell:^7 General, right now intelligence is our best weapon."
+
+REFERENCE            dx_vom_cine_outro_lass_140_888
+LANG_ENGLISH         "^2Laswell:^7 Russia."
+
+REFERENCE            dx_vom_cine_outro_lass_150_16
+LANG_ENGLISH         "^2Laswell:^7 Command has officially redesignated Farah's forces."
+
+REFERENCE            dx_vom_cine_outro_lass_160_19
+LANG_ENGLISH         "^2Laswell:^7 John?"
+
+REFERENCE            dx_vom_cine_outro_lass_160_890
+LANG_ENGLISH         "^2Laswell:^7 It's one way."
+
+REFERENCE            dx_vom_cine_outro_lass_180_21
+LANG_ENGLISH         "^2Laswell:^7 Where are you?"
+
+REFERENCE            dx_vom_cine_outro_lass_190_18
+LANG_ENGLISH         "^2Laswell:^7 Twenty years of civil war."
+
+REFERENCE            dx_vom_cine_outro_lass_190_893
+LANG_ENGLISH         "^2Laswell:^7 Don't make this ugly, Captain."
+
+REFERENCE            dx_vom_cine_outro_lass_200_200
+LANG_ENGLISH         "^2Laswell:^7 Al-Qatala's claiming responsibility."
+
+REFERENCE            dx_vom_cine_outro_lass_200_23
+LANG_ENGLISH         "^2Laswell:^7 I've got a problem."
+
+REFERENCE            dx_vom_cine_outro_lass_210_20
+LANG_ENGLISH         "^2Laswell:^7 Hadir's well trained..."
+
+REFERENCE            dx_vom_cine_outro_lass_210_895
+LANG_ENGLISH         "^2Laswell:^7 It's a proxy war, John. We're all just pawns in this."
+
+REFERENCE            dx_vom_cine_outro_lass_220_21
+LANG_ENGLISH         "^2Laswell:^7 ...Teamed up, kidnapped, it doesn't matter."
+
+REFERENCE            dx_vom_cine_outro_lass_220_220
+LANG_ENGLISH         "^2Laswell:^7 Alex is on the ground there, looking for the stolen chems."
+
+REFERENCE            dx_vom_cine_outro_lass_220_25
+LANG_ENGLISH         "^2Laswell:^7 Word travels fast."
+
+REFERENCE            dx_vom_cine_outro_lass_230_22
+LANG_ENGLISH         "^2Laswell:^7 He took the gas to Russia, John."
+
+REFERENCE            dx_vom_cine_outro_lass_230_26
+LANG_ENGLISH         "^2Laswell:^7 Chemical weapons have fallen into terrorist hands. They could be anywhere. Paris, New York..."
+
+REFERENCE            dx_vom_cine_outro_lass_240_240
+LANG_ENGLISH         "^2Laswell:^7 You know Commander Karim?"
+
+REFERENCE            dx_vom_cine_outro_lass_250_24
+LANG_ENGLISH         "^2Laswell:^7 He's got the network and the man power."
+
+REFERENCE            dx_vom_cine_outro_lass_250_29
+LANG_ENGLISH         "^2Laswell:^7 When can you brief?"
+
+REFERENCE            dx_vom_cine_outro_lass_260_900
+LANG_ENGLISH         "^2Laswell:^7 Whatever you've got going on here, I can help."
+
+REFERENCE            dx_vom_cine_outro_lass_270_26
+LANG_ENGLISH         "^2Laswell:^7 Unofficially, no, but this is bigger than Hadir now."
+
+REFERENCE            dx_vom_cine_outro_lass_270_28
+LANG_ENGLISH         "^2Laswell:^7 There's nothing else we can do."
+
+REFERENCE            dx_vom_cine_outro_lass_280_27
+LANG_ENGLISH         "^2Laswell:^7 We've got two options."
+
+REFERENCE            dx_vom_cine_outro_lass_300_29
+LANG_ENGLISH         "^2Laswell:^7 Or we let Mother Russia have a taste of her own medicine."
+
+REFERENCE            dx_vom_cine_outro_lass_30_03
+LANG_ENGLISH         "^2Laswell:^7 It means you no longer have clearance, Colonel."
+
+REFERENCE            dx_vom_cine_outro_lass_320_31
+LANG_ENGLISH         "^2Laswell:^7 At the hands of a Western asset."
+
+REFERENCE            dx_vom_cine_outro_lass_320_33
+LANG_ENGLISH         "^2Laswell:^7 What you're doing is illegal."
+
+REFERENCE            dx_vom_cine_outro_lass_340_33
+LANG_ENGLISH         "^2Laswell:^7 What do you suggest?"
+
+REFERENCE            dx_vom_cine_outro_lass_360_35
+LANG_ENGLISH         "^2Laswell:^7 Unsanctioned?"
+
+REFERENCE            dx_vom_cine_outro_lass_380_37
+LANG_ENGLISH         "^2Laswell:^7 Who's your team?"
+
+REFERENCE            dx_vom_cine_outro_lass_400_39
+LANG_ENGLISH         "^2Laswell:^7 And the Sergeant?"
+
+REFERENCE            dx_vom_cine_outro_lass_420_41
+LANG_ENGLISH         "^2Laswell:^7 I can get you in. After that you're on your own. Host nation weapons only."
+
+REFERENCE            dx_vom_cine_outro_lass_50_05
+LANG_ENGLISH         "^2Laswell:^7 That's not advisable."
+
+REFERENCE            dx_vom_cine_outro_lass_80_08
+LANG_ENGLISH         "^2Laswell:^7 Congratulations on a job well done."
+
+REFERENCE            dx_vom_cine_outro_lass_80_09
+LANG_ENGLISH         "^2Laswell:^7 As much as we can all hear the ice in the glass, I'm afraid our toast has to wait. Hadir and his new friends are on the move."
+
+REFERENCE            dx_vom_cine_outro_lyon_110_11
+LANG_ENGLISH         "^2Lyons:^7 We've got a situation..."
+
+REFERENCE            dx_vom_cine_outro_lyon_120_12
+LANG_ENGLISH         "^2Lyons:^7 The Kremlin has suspended all deconfliction channels... "
+
+REFERENCE            dx_vom_cine_outro_lyon_120_13
+LANG_ENGLISH         "^2Lyons:^7 the Sixth Fleet is pushing into the Black Sea..."
+
+REFERENCE            dx_vom_cine_outro_lyon_120_14
+LANG_ENGLISH         "^2Lyons:^7 ...and chemical weapons are now in the wild."
+
+REFERENCE            dx_vom_cine_outro_lyon_130_15
+LANG_ENGLISH         "^2Lyons:^7 Your fingerprints are all over this, Laswell. Fix it."
+
+REFERENCE            dx_vom_cine_outro_lyon_150_17
+LANG_ENGLISH         "^2Lyons:^7 We've tried intelligence. Get me a better weapon."
+
+REFERENCE            dx_vom_cine_outro_lyon_70_07
+LANG_ENGLISH         "^2Lyons:^7 Colonel. Laswell."
+
+REFERENCE            dx_vom_cine_outro_lyon_90_09
+LANG_ENGLISH         "^2Lyons:^7 Norris, give us a minute."
+
+REFERENCE            dx_vom_cine_outro_norr_100_10
+LANG_ENGLISH         "^2Norris:^7 Yes, ma'am."
+
+REFERENCE            dx_vom_cine_outro_norr_120_13
+LANG_ENGLISH         "^2Norris:^7 The general would tend to disagree."
+
+REFERENCE            dx_vom_cine_outro_norr_140_15
+LANG_ENGLISH         "^2Norris:^7 Tell them, Laswell, or I will."
+
+REFERENCE            dx_vom_cine_outro_norr_200_20
+LANG_ENGLISH         "^2Norris:^7 Foreign terror organization list. "
+
+REFERENCE            dx_vom_cine_outro_norr_200_21
+LANG_ENGLISH         "^2Norris:^7 I've ordered my Marines to treat Farah's army as hostiles."
+
+REFERENCE            dx_vom_cine_outro_norr_20_02
+LANG_ENGLISH         "^2Norris:^7 What the hell does that mean?!"
+
+REFERENCE            dx_vom_cine_outro_norr_220_23
+LANG_ENGLISH         "^2Norris:^7 Not anymore."
+
+REFERENCE            dx_vom_cine_outro_norr_240_25
+LANG_ENGLISH         "^2Norris:^7 Or what?"
+
+REFERENCE            dx_vom_cine_outro_norr_40_04
+LANG_ENGLISH         "^2Norris:^7 Those are my Marines. We need a QRF in there right now."
+
+REFERENCE            dx_vom_cine_outro_norr_60_06
+LANG_ENGLISH         "^2Norris:^7 And that is not your call!"
+
+REFERENCE            dx_vom_cine_outro_norr_80_08
+LANG_ENGLISH         "^2Norris:^7 General, my men are..."
+
+REFERENCE            dx_vom_cine_outro_plt_60_06
+LANG_ENGLISH         "^2Pilot:^7 1, Roger blue 2."
+
+REFERENCE            dx_vom_cine_outro_pri_100_11
+LANG_ENGLISH         "^2Price:^7 That's plenty of time..."
+
+REFERENCE            dx_vom_cine_outro_pri_101_12
+LANG_ENGLISH         "^2Price:^7 [LAUGHS]"
+
+REFERENCE            dx_vom_cine_outro_pri_10_01
+LANG_ENGLISH         "^2Price:^7 Hey..."
+
+REFERENCE            dx_vom_cine_outro_pri_10_02
+LANG_ENGLISH         "^2Price:^7 Go north. Avoid the highway."
+
+REFERENCE            dx_vom_cine_outro_pri_110_05
+LANG_ENGLISH         "^2Price:^7 Yeah, lie of the fuckin' century, that is."
+
+REFERENCE            dx_vom_cine_outro_pri_110_885
+LANG_ENGLISH         "^2Price:^7 The hell is this?"
+
+REFERENCE            dx_vom_cine_outro_pri_120_12
+LANG_ENGLISH         "^2Price:^7 My men have cleared the road to the north. You can camp there, it's safe."
+
+REFERENCE            dx_vom_cine_outro_pri_120_14
+LANG_ENGLISH         "^2Price:^7 Nikolai saved our bacon."
+
+REFERENCE            dx_vom_cine_outro_pri_130_08
+LANG_ENGLISH         "^2Price:^7 Go on."
+
+REFERENCE            dx_vom_cine_outro_pri_130_887
+LANG_ENGLISH         "^2Price:^7 To who?"
+
+REFERENCE            dx_vom_cine_outro_pri_140_16
+LANG_ENGLISH         "^2Price:^7 They won't."
+
+REFERENCE            dx_vom_cine_outro_pri_150_12
+LANG_ENGLISH         "^2Price:^7 You had actionable intel on this?"
+
+REFERENCE            dx_vom_cine_outro_pri_150_889
+LANG_ENGLISH         "^2Price:^7 Prisoner swap?"
+
+REFERENCE            dx_vom_cine_outro_pri_160_16
+LANG_ENGLISH         "^2Price:^7 Even war has a high ground. Stay on it."
+
+REFERENCE            dx_vom_cine_outro_pri_170_14
+LANG_ENGLISH         "^2Price:^7 Okay, Garrick. You're with me."
+
+REFERENCE            dx_vom_cine_outro_pri_170_17
+LANG_ENGLISH         "^2Price:^7 Bravo Six, wheels up in two."
+
+REFERENCE            dx_vom_cine_outro_pri_170_19
+LANG_ENGLISH         "^2Price:^7 We're cleaning up a mess."
+
+REFERENCE            dx_vom_cine_outro_pri_170_20
+LANG_ENGLISH         "^2Price:^7 Laswell."
+
+REFERENCE            dx_vom_cine_outro_pri_180_18
+LANG_ENGLISH         "^2Price:^7 It means they're on the list."
+
+REFERENCE            dx_vom_cine_outro_pri_180_892
+LANG_ENGLISH         "^2Price:^7 Stand by..."
+
+REFERENCE            dx_vom_cine_outro_pri_190_21
+LANG_ENGLISH         "^2Price:^7 They were leverage."
+
+REFERENCE            dx_vom_cine_outro_pri_190_22
+LANG_ENGLISH         "^2Price:^7 Occupied."
+
+REFERENCE            dx_vom_cine_outro_pri_200_19
+LANG_ENGLISH         "^2Price:^7 Eh, there's nothing civil about it."
+
+REFERENCE            dx_vom_cine_outro_pri_200_894
+LANG_ENGLISH         "^2Price:^7 You give me a reason not to!"
+
+REFERENCE            dx_vom_cine_outro_pri_20_02
+LANG_ENGLISH         "^2Price:^7 There's a checkpoint."
+
+REFERENCE            dx_vom_cine_outro_pri_20_03
+LANG_ENGLISH         "^2Price:^7 Bravo Six to Cobalt Four. Confirming station time."
+
+REFERENCE            dx_vom_cine_outro_pri_210_210
+LANG_ENGLISH         "^2Price:^7 On orders from the Wolf in Urzikstan."
+
+REFERENCE            dx_vom_cine_outro_pri_210_23
+LANG_ENGLISH         "^2Price:^7 When you take the gloves off, you get blood on your hands, Kyle. That's how it works."
+
+REFERENCE            dx_vom_cine_outro_pri_210_24
+LANG_ENGLISH         "^2Price:^7 Russians?"
+
+REFERENCE            dx_vom_cine_outro_pri_220_896
+LANG_ENGLISH         "^2Price:^7 You speak for yourself."
+
+REFERENCE            dx_vom_cine_outro_pri_230_230
+LANG_ENGLISH         "^2Price:^7 Well, you'll need the Liberation Force on his side, so have him contact the CO."
+
+REFERENCE            dx_vom_cine_outro_pri_230_24
+LANG_ENGLISH         "^2Price:^7 You keep your moppets on a short string, Colonel."
+
+REFERENCE            dx_vom_cine_outro_pri_230_25
+LANG_ENGLISH         "^2Price:^7 You draw the line wherever you need it, Sergeant."
+
+REFERENCE            dx_vom_cine_outro_pri_230_897
+LANG_ENGLISH         "^2Price:^7 Hand him over."
+
+REFERENCE            dx_vom_cine_outro_pri_240_23
+LANG_ENGLISH         "^2Price:^7 He did that with Al-Qatala's help."
+
+REFERENCE            dx_vom_cine_outro_pri_240_26
+LANG_ENGLISH         "^2Price:^7 End of the day someone has to make the enemy scared of the dark."
+
+REFERENCE            dx_vom_cine_outro_pri_240_27
+LANG_ENGLISH         "^2Price:^7 London."
+
+REFERENCE            dx_vom_cine_outro_pri_250_250
+LANG_ENGLISH         "^2Price:^7 We're acquainted. Use my name- or they'll kill him."
+
+REFERENCE            dx_vom_cine_outro_pri_250_26
+LANG_ENGLISH         "^2Price:^7 Or I'll fucking hang you from it."
+
+REFERENCE            dx_vom_cine_outro_pri_250_27
+LANG_ENGLISH         "^2Price:^7 We get dirty and the world stays clean. That's the mission."
+
+REFERENCE            dx_vom_cine_outro_pri_250_899
+LANG_ENGLISH         "^2Price:^7 Hadir's yours. Intel's mine."
+
+REFERENCE            dx_vom_cine_outro_pri_260_25
+LANG_ENGLISH         "^2Price:^7 Yeah, well, can you blame him, eh?"
+
+REFERENCE            dx_vom_cine_outro_pri_260_28
+LANG_ENGLISH         "^2Price:^7 Now if you're having second thoughts, then I can do this on my own..."
+
+REFERENCE            dx_vom_cine_outro_pri_260_30
+LANG_ENGLISH         "^2Price:^7 We just did."
+
+REFERENCE            dx_vom_cine_outro_pri_270_901
+LANG_ENGLISH         "^2Price:^7 I'll call you if I need you."
+
+REFERENCE            dx_vom_cine_outro_pri_280_30
+LANG_ENGLISH         "^2Price:^7 Good."
+
+REFERENCE            dx_vom_cine_outro_pri_290_28
+LANG_ENGLISH         "^2Price:^7 What? We warn Moscow?"
+
+REFERENCE            dx_vom_cine_outro_pri_290_31
+LANG_ENGLISH         "^2Price:^7 Now let's get Hadir before he kills Barkov."
+
+REFERENCE            dx_vom_cine_outro_pri_310_30
+LANG_ENGLISH         "^2Price:^7 A lot of innocent people are gonna die."
+
+REFERENCE            dx_vom_cine_outro_pri_330_32
+LANG_ENGLISH         "^2Price:^7 Okay, so let's cut to the chase."
+
+REFERENCE            dx_vom_cine_outro_pri_350_34
+LANG_ENGLISH         "^2Price:^7 A business trip."
+
+REFERENCE            dx_vom_cine_outro_pri_370_36
+LANG_ENGLISH         "^2Price:^7 Black."
+
+REFERENCE            dx_vom_cine_outro_pri_380_39
+LANG_ENGLISH         "^2Price:^7 Oh, it's not over yet. Trust me."
+
+REFERENCE            dx_vom_cine_outro_pri_390_38
+LANG_ENGLISH         "^2Price:^7 Some old comrades."
+
+REFERENCE            dx_vom_cine_outro_pri_40_04
+LANG_ENGLISH         "^2Price:^7 What- is there a difference?"
+
+REFERENCE            dx_vom_cine_outro_pri_40_05
+LANG_ENGLISH         "^2Price:^7 Rog. Hold orbit."
+
+REFERENCE            dx_vom_cine_outro_pri_410_40
+LANG_ENGLISH         "^2Price:^7 He's ready."
+
+REFERENCE            dx_vom_cine_outro_pri_430_42
+LANG_ENGLISH         "^2Price:^7 Leave it to me."
+
+REFERENCE            dx_vom_cine_outro_pri_50_879
+LANG_ENGLISH         "^2Price:^7 Copy."
+
+REFERENCE            dx_vom_cine_outro_pri_60_06
+LANG_ENGLISH         "^2Price:^7 Shock and awe."
+
+REFERENCE            dx_vom_cine_outro_pri_60_061
+LANG_ENGLISH         "^2Price:^7 Hurry, now. Even Barkov's going to come and claim his dead."
+
+REFERENCE            dx_vom_cine_outro_pri_60_880
+LANG_ENGLISH         "^2Price:^7 It's Laswell."
+
+REFERENCE            dx_vom_cine_outro_pri_80_09
+LANG_ENGLISH         "^2Price:^7 Then all hell's going to break loose..."
+
+REFERENCE            dx_vom_cine_outro_pri_80_882
+LANG_ENGLISH         "^2Price:^7 I smell blood..."
+
+REFERENCE            dx_vom_cine_outro_pri_90_02
+LANG_ENGLISH         "^2Price:^7 You saved lives today, Sergeant."
+
+REFERENCE            dx_vom_cine_outro_pri_90_09
+LANG_ENGLISH         "^2Price:^7 You know he's gonna make you pay for this."
+
+REFERENCE            dx_vom_cine_outro_pri_90_883
+LANG_ENGLISH         "^2Price:^7 Lab intel. Keep it on you."
+
+REFERENCE            dx_vom_cine_outro_sfx_00_01
+LANG_ENGLISH         "[TRUCK ENGINE STARTS]"
+
+REFERENCE            dx_vom_cine_outro_sfx_151_18
+LANG_ENGLISH         "[CELLPHONE VIBRATING]"
+
+REFERENCE            dx_vom_cine_outro_sfx_171_15
+LANG_ENGLISH         "[CELLPHONE VIBRATING]"
+
+REFERENCE            dx_vom_cine_outro_sfx_241_28
+LANG_ENGLISH         "[BULLET STRIKES]"
+
+REFERENCE            dx_vom_cine_outro_sfx_61_07
+LANG_ENGLISH         "[POLICE SIRENS WAIL]"
+
+REFERENCE            dx_vom_cine_outro_sfx_80_01
+LANG_ENGLISH         "[POLICE SIRENS WAILING]"
+
+REFERENCE            dx_vom_cine_outro_ukp1_30_04
+LANG_ENGLISH         "^2UK Pilot:^7 Ten minutes."
+
+REFERENCE            dx_vom_cine_outro_uspi1_40_878
+LANG_ENGLISH         "^2Watcher 1:^7 Baseplate to 0-6, friendly air-traffic approaching south at 1-8-0. Callsign is Watcher 1."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_100_372
+LANG_ENGLISH         "^2Alex:^7 You'll never get away in time."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_120_374
+LANG_ENGLISH         "^2Alex:^7 Farah..."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_120_374_1
+LANG_ENGLISH         "^2Alex:^7 ...listen to me."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_140_376
+LANG_ENGLISH         "^2Alex:^7 I'm not asking you to turn back...."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_140_376_1
+LANG_ENGLISH         "^2Alex:^7 ...I'm asking you to give me the order."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_160_378
+LANG_ENGLISH         "^2Alex:^7 Commander, please."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_180_380
+LANG_ENGLISH         "^2Alex:^7 Then who is?"
+
+REFERENCE            dx_vom_cine_sacrifice_alx_180_380_1
+LANG_ENGLISH         "^2Alex:^7 Because someone needs to light this fire and someone needs to kill Barkov..."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_190_381
+LANG_ENGLISH         "^2Alex:^7 ...and you can't do both."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_190_381_1
+LANG_ENGLISH         "^2Alex:^7 I've been on assignment my whole life. This...is one I believe in."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_190_381_2
+LANG_ENGLISH         "^2Alex:^7 Give me the order."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_210_383
+LANG_ENGLISH         "^2Alex:^7 You're a born leader, Farah."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_220_384
+LANG_ENGLISH         "^2Alex:^7 Say the word."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_240_386
+LANG_ENGLISH         "^2Alex:^7 Yes, ma'am..."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_250_387
+LANG_ENGLISH         "^2Alex:^7 Good luck."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_50_367
+LANG_ENGLISH         "^2Alex:^7 Detonator's fucked."
+
+REFERENCE            dx_vom_cine_sacrifice_alx_80_370
+LANG_ENGLISH         "^2Alex:^7 And do what?"
+
+REFERENCE            dx_vom_cine_sacrifice_far_10_363
+LANG_ENGLISH         "^2Farah:^7 Clear!"
+
+REFERENCE            dx_vom_cine_sacrifice_far_110_373
+LANG_ENGLISH         "^2Farah:^7 I know what I'm doing."
+
+REFERENCE            dx_vom_cine_sacrifice_far_130_375
+LANG_ENGLISH         "^2Farah:^7 No, you listen to me..."
+
+REFERENCE            dx_vom_cine_sacrifice_far_130_375_1
+LANG_ENGLISH         "^2Farah:^7 ...because of this poison, my people have known something worse than war. I did not come this far to turn back."
+
+REFERENCE            dx_vom_cine_sacrifice_far_150_377
+LANG_ENGLISH         "^2Farah:^7 I won't do that."
+
+REFERENCE            dx_vom_cine_sacrifice_far_170_379
+LANG_ENGLISH         "^2Farah:^7 I am not your CO."
+
+REFERENCE            dx_vom_cine_sacrifice_far_200_382
+LANG_ENGLISH         "^2Farah:^7 You are a freedom fighter, Alex."
+
+REFERENCE            dx_vom_cine_sacrifice_far_230_385
+LANG_ENGLISH         "^2Farah:^7 Go."
+
+REFERENCE            dx_vom_cine_sacrifice_far_40_366
+LANG_ENGLISH         "^2Farah:^7 What happened?"
+
+REFERENCE            dx_vom_cine_sacrifice_far_60_368
+LANG_ENGLISH         "^2Farah:^7 It's dead."
+
+REFERENCE            dx_vom_cine_sacrifice_far_70_369
+LANG_ENGLISH         "^2Farah:^7 I'll go in there."
+
+REFERENCE            dx_vom_cine_sacrifice_far_90_371
+LANG_ENGLISH         "^2Farah:^7 Ignite the furnace."
+
+REFERENCE            dx_vom_cine_sfreunion_alx_130_15
+LANG_ENGLISH         "^2Alex:^7 Affirmative, sir."
+
+REFERENCE            dx_vom_cine_sfreunion_far_110_12
+LANG_ENGLISH         "^2Farah:^7 Hadir is fucking crazy."
+
+REFERENCE            dx_vom_cine_sfreunion_far_170_17
+LANG_ENGLISH         "^2Farah:^7 You're a good friend, Captain. And a worse enemy, I'm sure... "
+
+REFERENCE            dx_vom_cine_sfreunion_far_170_18
+LANG_ENGLISH         "^2Farah:^7 But I do not cross borders and invade. I defend my people here at home."
+
+REFERENCE            dx_vom_cine_sfreunion_far_200_21
+LANG_ENGLISH         "^2Farah:^7 I see..."
+
+REFERENCE            dx_vom_cine_sfreunion_far_210_22
+LANG_ENGLISH         "^2Farah:^7 A militia with no ties to the West could carry out this mission..."
+
+REFERENCE            dx_vom_cine_sfreunion_far_230_24
+LANG_ENGLISH         "^2Farah:^7 I knew I could trust you."
+
+REFERENCE            dx_vom_cine_sfreunion_far_250_25
+LANG_ENGLISH         "^2Farah:^7 If Barkov's there... He's mine."
+
+REFERENCE            dx_vom_cine_sfreunion_far_30_04
+LANG_ENGLISH         "^2Farah:^7 I know how this works, Captain."
+
+REFERENCE            dx_vom_cine_sfreunion_far_50_06
+LANG_ENGLISH         "^2Farah:^7 They'll kill him."
+
+REFERENCE            dx_vom_cine_sfreunion_far_70_08
+LANG_ENGLISH         "^2Farah:^7 Looks like you saved the free world again, Captain Price."
+
+REFERENCE            dx_vom_cine_sfreunion_far_90_10
+LANG_ENGLISH         "^2Farah:^7 Gas factory?"
+
+REFERENCE            dx_vom_cine_sfreunion_kyle_00_01
+LANG_ENGLISH         "^2Kyle:^7 Got your six, Captain."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_100_11
+LANG_ENGLISH         "^2Price:^7 He had plans to destroy it."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_10_02
+LANG_ENGLISH         "^2Price:^7 Farah!"
+
+REFERENCE            dx_vom_cine_sfreunion_pri_120_13
+LANG_ENGLISH         "^2Price:^7 Yeah, but, we're all a little crazy, aren't we?"
+
+REFERENCE            dx_vom_cine_sfreunion_pri_120_14
+LANG_ENGLISH         "^2Price:^7 Isn't that right, Alex?"
+
+REFERENCE            dx_vom_cine_sfreunion_pri_160_16
+LANG_ENGLISH         "^2Price:^7 With your help, we can finish what he started..."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_180_19
+LANG_ENGLISH         "^2Price:^7 Well sometimes the best line of defense..."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_190_20
+LANG_ENGLISH         "^2Price:^7 It's all there- the plans, the personnel..."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_20_03
+LANG_ENGLISH         "^2Price:^7 Let's talk..."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_220_23
+LANG_ENGLISH         "^2Price:^7 And they'd all blame 'the terrorists', wouldn't they?"
+
+REFERENCE            dx_vom_cine_sfreunion_pri_40_05
+LANG_ENGLISH         "^2Price:^7 Not this time. They gave Hadir to the Russians."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_60_07
+LANG_ENGLISH         "^2Price:^7 If he's lucky."
+
+REFERENCE            dx_vom_cine_sfreunion_pri_80_09
+LANG_ENGLISH         "^2Price:^7 Hadir located Barkov's lab in Eastern Georgia."
+
+REFERENCE            dx_vom_gameplay_bombers_crowd_21_08
+LANG_ENGLISH         "[CROWD SCREAMING]"
+
+REFERENCE            dx_vom_gameplay_bombers_enf_26_03
+LANG_ENGLISH         "^1Butcher:^7 We are Al-Qatala. We are The Killers."
+
+REFERENCE            dx_vom_gameplay_bombers_wolf_10_01
+LANG_ENGLISH         "^1Wolf:^7 Our war is not for our faith. "
+
+REFERENCE            dx_vom_gameplay_bombers_wolf_10_02
+LANG_ENGLISH         "^1Wolf:^7 We fight to remove all foreign power from our soil..."
+
+REFERENCE            dx_vom_gameplay_bombers_wolf_20_04
+LANG_ENGLISH         "^1Wolf:^7 We fight without sorrow."
+
+REFERENCE            dx_vom_gameplay_bombers_wolf_20_05
+LANG_ENGLISH         "^1Wolf:^7 We wage war without sympathy."
+
+REFERENCE            dx_vom_gameplay_bombers_wolf_20_06
+LANG_ENGLISH         "^1Wolf:^7 This is the only way to live...and die..."
+
+REFERENCE            dx_vom_gameplay_bombers_wolf_20_07
+LANG_ENGLISH         "^1Wolf:^7 A true soldier."
+
+REFERENCE            dx_vom_mbi_intro_alx_20_09
+LANG_ENGLISH         "^2Alex:^7 Station chief Laswell, send traffic..."
+
+REFERENCE            dx_vom_mbi_intro_lass_10_08
+LANG_ENGLISH         "^2Laswell:^7 Watcher to 3-1, how copy-?"
+
+REFERENCE            dx_vom_mbi_intro_lass_30_10
+LANG_ENGLISH         "^2Laswell:^7 General Barkov has sent a new shipment of chlorine gas to his depot..."
+
+REFERENCE            dx_vom_mbi_intro_lass_30_11
+LANG_ENGLISH         "^2Laswell:^7 ...but his mercs are prepping to move the chems into Urzikstan via convoy, tonight."
+
+REFERENCE            dx_vom_mbi_intro_lass_30_12
+LANG_ENGLISH         "^2Laswell:^7 You're still clear to engage, but live fire on Russian military is prohibited-"
+
+REFERENCE            dx_vom_mbi_intro_lass_30_13
+LANG_ENGLISH         "^2Laswell:^7 We cannot have an international incident."
+
+REFERENCE            dx_vom_mbi_load_lass_10_01
+LANG_ENGLISH         "^2Laswell:^7 The attic of the Al-Qatala townhouse was a gold mine. It looks like we found the Wolf."
+
+REFERENCE            dx_vom_mbi_load_lass_20_02
+LANG_ENGLISH         "^2Laswell:^7 Communications from the laptop were tracked to Ramaza hospital in Urzikstan, where the Al-Qatala leader is believed to be holed-up."
+
+REFERENCE            dx_vom_mbi_load_lass_30_03
+LANG_ENGLISH         "^2Laswell:^7 Farah's forces will track terror activity at the hospital while a marine ground force can be mobilized to advance on the complex. "
+
+REFERENCE            dx_vom_mbi_load_lass_30_04
+LANG_ENGLISH         "^2Laswell:^7 Echo 3-1 will capture the Wolf for interrogation about the stolen Russian gas."
+
+REFERENCE            dx_vom_mbi_load_pri_10_01
+LANG_ENGLISH         "^2Price:^7 Alex and Commander Karim's forces have destroyed General Barkov's Forward Operations Base, temporarily limiting Russian air capability in Urzikstan. We need to move fast."
+
+REFERENCE            dx_vom_mbi_load_pri_20_02
+LANG_ENGLISH         "^2Price:^7 Sgt. Garrick, thanks to your intel, we've tracked the Al-Qatala cell responsible for the Piccadilly attack to a townhouse in North London."
+
+REFERENCE            dx_vom_mbi_load_pri_30_03
+LANG_ENGLISH         "^2Price:^7 Three SAS teams will get inside and connect the dots. If the Wolf is in possession of the stolen Russian gas in Urzikstan, we need to find him..."
+
+REFERENCE            dx_vom_mbi_load_pri_40_04
+LANG_ENGLISH         "^2Price:^7 Be advised: There may be non combatants on target. Check your shots."
+
+REFERENCE            dx_vom_safehouse_interior_intro_had_05_01
+LANG_ENGLISH         "^2Hadir:^7 You're in my house now, Alex. "
+
+REFERENCE            dx_vom_safehouse_interior_intro_had_05_02
+LANG_ENGLISH         "^2Hadir:^7 I set up shop on the edge of Barkov's base... Keep those fucking dogs in check--"
+
+REFERENCE            dx_vom_safehouse_interior_intro_had_05_03
+LANG_ENGLISH         "^2Hadir:^7 Friends close, enemies closer..."
+
+REFERENCE            georgia
+LANG_ENGLISH         "GEORGIA"
+
+REFERENCE            london
+LANG_ENGLISH         "LONDON"
+
+REFERENCE            modernwarfare
+LANG_ENGLISH         "MODERN WARFARE"
+
+REFERENCE            presentday
+LANG_ENGLISH         "PRESENT DAY"
+
+REFERENCE            s2_cine_intro_01
+LANG_ENGLISH         "^3Wyatt: ^7Target down."
+
+REFERENCE            s2_cine_intro_02
+LANG_ENGLISH         "^3Wyatt: ^7Gas is closing in. We need to exfil now."
+
+REFERENCE            s2_cine_intro_03
+LANG_ENGLISH         "^2Ghost:^7 Price."
+
+REFERENCE            s2_cine_intro_04
+LANG_ENGLISH         "^2Ghost:^7 Something's wrong in Verdansk."
+
+REFERENCE            s2_cine_intro_05
+LANG_ENGLISH         "^2Ghost:^7 They're targeting their own. We need to find out why."
+
+REFERENCE            s2_cine_intro_06
+LANG_ENGLISH         "^2Ghost:^7 Send fighters I can trust."
+
+REFERENCE            s2_cine_intro_07
+LANG_ENGLISH         "^2Ghost:^7 Ghost out."
+
+REFERENCE            stpetersburg
+LANG_ENGLISH         "ST. PETERSBURG
+
+
+
+
+^2Nikolai:^7 Was the capital before Moscow."
+
+REFERENCE            urzikstan
+LANG_ENGLISH         "URZIKSTAN"
+
+REFERENCE            verdansk
+LANG_ENGLISH         "VERDANSK"
+
+
+ENDMARKER

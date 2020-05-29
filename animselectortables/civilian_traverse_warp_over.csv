@@ -1,0 +1,7 @@
+???alias,min_height,max_height,min_arrival_yaw,max_arrival_yaw,__END__,
+hop_over,,30,,,,
+mantle_over_01,30,44,,,,
+mantle_over_02,44,52,,,,
+climb_over,52,,,,,
+default,,,,,,
+__END__,,,,,,

@@ -1,0 +1,91 @@
+//==========================================================================
+// Killcam scene
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+
+// 1. zoom out of killer's head
+//<cut>
+//<movement> pan
+//<orientation> target
+//<tag_start> tag_eye
+//<tag_start_pitch> -30
+//<tag_start_yaw> 180
+//<tag_start_range> -15
+//<tag_end> tag_eye
+//<tag_end_pitch> 30
+//<tag_end_range> 45
+//<tag_focus> tag_eye
+//<tag_focus_pitch> 70
+//<tag_focus_range> 10
+//<time> 0.25
+
+
+// 2. hold
+<cut>
+<movement> pan
+<orientation> target
+<tag_start> tag_eye
+<tag_start_pitch> 30
+<tag_start_range> 45
+<tag_end> tag_eye
+<tag_end_pitch> 30
+<tag_end_range> 45
+<tag_focus> tag_eye
+<tag_focus_pitch> 35
+<tag_focus_range> 10
+<time> 2.0
+//<lerp> 0.5
+
+
+// 3. slam zoom into killer's head
+<cut>
+<movement> pan
+<orientation> target
+<tag_start> tag_eye
+<tag_start_pitch> 30
+<tag_start_range> 45
+<tag_end> tag_eye
+<tag_end_pitch> 0
+<tag_end_yaw> 180
+<tag_end_range> -15
+<tag_focus> tag_eye
+<tag_focus_pitch> 35
+<tag_focus_range> 10
+<time> 0.25
+<lerp> 0.15
+
+
+<fov>
+<fov_start_time> 0
+<fov_value> 85
+<fov_blend_duration> 0
+
+<fov>
+<fov_start_time> 1.85
+<fov_value> 65
+<fov_blend_duration> 300
+
+// slam zoom flash
+<vision>
+<vision_start_time> 2.1
+<vision_name> "coup_sunblind"
+<vision_blend_duration> 200
+
+<vision>
+<vision_start_time> 2.3
+<vision_name> ""
+<vision_blend_duration> 400
+
+
+// SOUNDS
+//<sound>
+//<sound_start_time> 0
+//<sound_name> "mp_killcam_slomo_in"
+
+<sound>
+<sound_start_time> 1.9
+<sound_name> "mp_killcam_slomo_out"

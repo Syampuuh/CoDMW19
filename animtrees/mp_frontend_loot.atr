@@ -1,0 +1,14 @@
+//Crate
+
+mp_military_carepackage_common_predrop_idle
+mp_military_carepackage_common_straps_falling
+mp_military_carepackage_common_landing
+
+//Targets
+
+fe_store_loot_target01_highlight_off
+fe_store_loot_target01_highlight_on
+fe_store_loot_target01_movein
+fe_store_loot_target01_movein_idle
+fe_store_loot_target01_moveout
+fe_store_loot_target01_moveout_idle

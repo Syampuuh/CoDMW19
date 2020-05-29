@@ -1,0 +1,2264 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            aar_assessment_aniyah_allies
+LANG_ENGLISH         "Allegiance forces engaged indigenous fighters and western assets in contest for the Urzikstani Presidential Palace, indicating a power play in the region. Orders to disengage resulted in successful Allegiance capture of the palace, denying victory to the people of Urzikstan."
+
+REFERENCE            aar_assessment_aniyah_axis
+LANG_ENGLISH         "During their successful raid and capture of the Urzikstani Presidential Palace, Allegiance forces encountered a combined force of Coalition soldiers and indigenous fighters confirmed to be Al-Qatala. Both forces appeared to be fighting in unison, suggesting that a splinter faction of the Coalition may be operating in conjunction with Al-Qatala. Evidence should be presented to Allegiance command at once."
+
+REFERENCE            aar_assessment_caves_allies
+LANG_ENGLISH         "Lighthouse 2 reacted with appropriate force when engaged by a hostile Allegiance element. Allegiance objective at Alzilu Alsayf unclear. Anti-aircraft guns used to engage Coalition UAV presumed to be Al-Qatala operated, but Allegiance may have been responsible. Their attempt to recover aforementioned blackbox, and their willingness to use engage Lighthouse 2, recommends this possibility."
+
+REFERENCE            aar_assessment_caves_axis
+LANG_ENGLISH         "Kurgan 1 acted in appropriate defense from a hostile Coalition force, resulting in casualties on both sides. Rules of engagement observed. Status of Coalition asset (UAV) unknown, presumed recovered by Coalition. Al-Qatala presence successfully eliminated- AQ reoccupation of Alzilu Alsayf probable without Allegiance occupation."
+
+REFERENCE            aar_assessment_header
+LANG_ENGLISH         "/Assessment"
+
+REFERENCE            aar_assessment_runner_allies
+LANG_ENGLISH         "Arrowhead 3 identified a known ultranationalist associate in direct communication with Allegiance personnel on the ground. ROEs were properly observed, returning fire as a last resort. Level of Allegiance resistance supports possibility of collaboration between Sokolov, Mr. Z, and Allegiance forces, though a splinter Allegiance group may be responsible."
+
+REFERENCE            aar_assessment_runner_axis
+LANG_ENGLISH         "All efforts made to avoid direct conflict with Coalition forces, mitigating risk of open hostilities. Coalition presence in this territory could indicate increased hostility toward Allegiance-protected territories. However, first shots fired from Sokolov Facility were not fired by Omega 1 or any Allegiance force. Recommend forced occupation of the Sokolov Facility and increased Allegiance presence in the region."
+
+REFERENCE            aar_blank
+LANG_ENGLISH         ""
+
+REFERENCE            aar_button_aniyah_allegiance
+LANG_ENGLISH         "Aniyah Allegiance"
+
+REFERENCE            aar_button_aniyah_coalition
+LANG_ENGLISH         "Aniyah Coalition"
+
+REFERENCE            aar_button_caves_allegiance
+LANG_ENGLISH         "Caves Allegiance"
+
+REFERENCE            aar_button_caves_coalition
+LANG_ENGLISH         "Caves Coalition"
+
+REFERENCE            aar_button_runner_allegiance
+LANG_ENGLISH         "Runner Allegiance"
+
+REFERENCE            aar_button_runner_coalition
+LANG_ENGLISH         "Runner Coalition"
+
+REFERENCE            aar_confidential
+LANG_ENGLISH         "Do not copy/confidential"
+
+REFERENCE            aar_engagement_header
+LANG_ENGLISH         "Engagement"
+
+REFERENCE            aar_engagementtext_1_aniyah_allies
+LANG_ENGLISH         "Warrior 1 surrounds target perimeter. Reaver 2 sweeps the exterior grounds, dropping 3 AQ patrols. No alarms raised."
+
+REFERENCE            aar_engagementtext_1_aniyah_axis
+LANG_ENGLISH         "Blacksmith 4 returns fire to cover active infiltration. Squads fast-rope into the palace grounds, take position, and engage the enemy."
+
+REFERENCE            aar_engagementtext_1_caves_allies
+LANG_ENGLISH         "Allegiance force opens small arms fire, wounding Lighthouse 2-0 in command. Lighthouse 2 returns fire, secures 2-0, and secures crashsite."
+
+REFERENCE            aar_engagementtext_1_caves_axis
+LANG_ENGLISH         "Kurgan 1 arrives on station, begins house-to-house sweep- 14 AQ combatants killed. Progressed into caves, clearing small security force- 8 AQ combatants. No casualties reported."
+
+REFERENCE            aar_engagementtext_1_runner_allies
+LANG_ENGLISH         "Identifies Allegiance forces on the ground in the facility- in verbal contact with owner/proprietor Leonid Sokolov- known associate of arms dealer "Mr. Z". Governor 1 relays orders to hold position and report changes."
+
+REFERENCE            aar_engagementtext_1_runner_axis
+LANG_ENGLISH         "Omega 1 forces entry through the main gate and begin sweep of Sokolov Facility and surrounding area. Omega 1-1 in command questions Sokolov."
+
+REFERENCE            aar_engagementtext_2_aniyah_allies
+LANG_ENGLISH         "Reaver 2 moves interior, Warrior 1 occupies grounds. Reaver 2 goes loud, executes room to room sweep. North, south, and west palace wings clear."
+
+REFERENCE            aar_engagementtext_2_aniyah_axis
+LANG_ENGLISH         "Blacksmith 4 kills 12/18 identified AQ targets. Additional enemy forces exit the palace and engage."
+
+REFERENCE            aar_engagementtext_2_caves_allies
+LANG_ENGLISH         "Heavy fire sustained from occupying Allegiance force. Orders received to press enemy back into the caves, providing cover for blackbox recovery and emergency egress."
+
+REFERENCE            aar_engagementtext_2_caves_axis
+LANG_ENGLISH         "AQ A-A fire observed from western horizon. RU-00 reports Coalition UAV on approach for emergency landing."
+
+REFERENCE            aar_engagementtext_2_runner_allies
+LANG_ENGLISH         "Unmarked convoy arrives at the main gate, prompting an apparent argument between Sokolov and Allegiance personnel."
+
+REFERENCE            aar_engagementtext_2_runner_axis
+LANG_ENGLISH         "Unmarked convoy arrives at the gate, Omega 1-1 reports to RU 03 and gives order to search the trucks. Sokolov protests."
+
+REFERENCE            aar_engagementtext_3_aniyah_allies
+LANG_ENGLISH         "Warrior 1 engages unknown targets outside the palace grounds. Reaver 2 clears east wing of remaining AQ, then moves exterior to support."
+
+REFERENCE            aar_engagementtext_3_aniyah_axis
+LANG_ENGLISH         "Blacksmith 4-1 in command receives unconfirmed reports of Coalition forces among the AQ fighters. RU 03 gives full authority to engage."
+
+REFERENCE            aar_engagementtext_3_caves_allies
+LANG_ENGLISH         "Allegiance forces pressed into retreat, egressing to emergency LZ for B-Lima extraction."
+
+REFERENCE            aar_engagementtext_3_caves_axis
+LANG_ENGLISH         "UAV crash landing- center of target village. RU-00 reports Coalition recovery force on approach- gives order to egress and extract."
+
+REFERENCE            aar_engagementtext_3_runner_allies
+LANG_ENGLISH         "Arrowhead 3 begins taking sniper fire from several vectors within the facility.  Governor 1 denies the request to engage, orders Arrowhead 3 to egress to secondary LZ."
+
+REFERENCE            aar_engagementtext_3_runner_axis
+LANG_ENGLISH         "Shots fired from windows within the facility. Omega 1-1 orders defensive posture. Targets are identified in the southern forest. RU 03 gives order to intercept and detain."
+
+REFERENCE            aar_engagementtext_4_aniyah_allies
+LANG_ENGLISH         "Reaver 2 confirms Allegiance contact. Reaver 2 and Warrior 1 set perimeter and hold defense. Warrior 1 sustains heavy casualties."
+
+REFERENCE            aar_engagementtext_4_aniyah_axis
+LANG_ENGLISH         "Enemy forces routed- full retreat. Blacksmith 4 moves in to clear and secure the palace compound, ordering Blacksmith 4-5 and 4-6 to maintain fire on retreating force."
+
+REFERENCE            aar_engagementtext_4_caves_allies
+LANG_ENGLISH         "All Coalition wounded accounted for and prepped for CASEVAC; 4 Allegiance KIA. Blackbox recovered from aircraft prior to thermite demolition. Lighthouse 2 execute sweep of caves, discovering multiple caches of Al-Qatala weaponry. Timed charges set prior to egress/exfil."
+
+REFERENCE            aar_engagementtext_4_caves_axis
+LANG_ENGLISH         "Coalition force arrives. Attempts to contact met with small arms fire. Kurgan takes firing positions in buildings and caves; returns fire. 5 Coalition units down, Kurgan 1, 2 units."
+
+REFERENCE            aar_engagementtext_4_runner_allies
+LANG_ENGLISH         "Allegiance forces cut off Arrowhead 3 retreat, forcing engagement inside the facility. Visual lost on Sokolov."
+
+REFERENCE            aar_engagementtext_4_runner_axis
+LANG_ENGLISH         "Sokolov retreats. Coalition forces arrive in the facility, engaging Omega 1. RU 03 gives command to return fire and cover retreat."
+
+REFERENCE            aar_engagementtext_5_aniyah_allies
+LANG_ENGLISH         "Governor 1 gives order to cut bait and egress to designated LZ. Reaver 2-1 requests to hold position- denied."
+
+REFERENCE            aar_engagementtext_5_aniyah_axis
+LANG_ENGLISH         "Blacksmith 4 confirms Coalition units and Al-Qatala fighters among the dead."
+
+REFERENCE            aar_engagementtext_5_runner_allies
+LANG_ENGLISH         "Taking casualties, Allegiance forces retreat through the main gate. Arrowhead 3 secures the facility. Identifies shipment as chem-bio, coupled with missile stockpiles in the railhouse. Chem-bio tagged for EOD recovery, thermite set for missile demolition."
+
+REFERENCE            aar_engagementtime_1_aniyah_allies
+LANG_ENGLISH         "0715"
+
+REFERENCE            aar_engagementtime_1_aniyah_axis
+LANG_ENGLISH         "0720"
+
+REFERENCE            aar_engagementtime_1_caves_allies
+LANG_ENGLISH         "0410"
+
+REFERENCE            aar_engagementtime_1_caves_axis
+LANG_ENGLISH         "0400"
+
+REFERENCE            aar_engagementtime_1_runner_allies
+LANG_ENGLISH         "0812"
+
+REFERENCE            aar_engagementtime_1_runner_axis
+LANG_ENGLISH         "0812"
+
+REFERENCE            aar_engagementtime_2_aniyah_allies
+LANG_ENGLISH         "0718"
+
+REFERENCE            aar_engagementtime_2_aniyah_axis
+LANG_ENGLISH         "0721"
+
+REFERENCE            aar_engagementtime_2_caves_allies
+LANG_ENGLISH         "0411"
+
+REFERENCE            aar_engagementtime_2_caves_axis
+LANG_ENGLISH         "0406"
+
+REFERENCE            aar_engagementtime_2_runner_allies
+LANG_ENGLISH         "0814"
+
+REFERENCE            aar_engagementtime_2_runner_axis
+LANG_ENGLISH         "0814"
+
+REFERENCE            aar_engagementtime_3_aniyah_allies
+LANG_ENGLISH         "0719"
+
+REFERENCE            aar_engagementtime_3_aniyah_axis
+LANG_ENGLISH         "0722"
+
+REFERENCE            aar_engagementtime_3_caves_allies
+LANG_ENGLISH         "0413"
+
+REFERENCE            aar_engagementtime_3_caves_axis
+LANG_ENGLISH         "0407"
+
+REFERENCE            aar_engagementtime_3_runner_allies
+LANG_ENGLISH         "0815"
+
+REFERENCE            aar_engagementtime_3_runner_axis
+LANG_ENGLISH         "0815"
+
+REFERENCE            aar_engagementtime_4_aniyah_allies
+LANG_ENGLISH         "0720"
+
+REFERENCE            aar_engagementtime_4_aniyah_axis
+LANG_ENGLISH         "0723"
+
+REFERENCE            aar_engagementtime_4_caves_allies
+LANG_ENGLISH         "0414"
+
+REFERENCE            aar_engagementtime_4_caves_axis
+LANG_ENGLISH         "0410"
+
+REFERENCE            aar_engagementtime_4_runner_allies
+LANG_ENGLISH         "0815"
+
+REFERENCE            aar_engagementtime_4_runner_axis
+LANG_ENGLISH         "0817"
+
+REFERENCE            aar_engagementtime_5_aniyah_allies
+LANG_ENGLISH         "0722"
+
+REFERENCE            aar_engagementtime_5_aniyah_axis
+LANG_ENGLISH         "0725"
+
+REFERENCE            aar_engagementtime_5_runner_allies
+LANG_ENGLISH         "0818"
+
+REFERENCE            aar_exfil_header
+LANG_ENGLISH         "Exfil"
+
+REFERENCE            aar_exfiltext_aniyah_allies
+LANG_ENGLISH         "Reaver 2 egress under fire to designated LZ in city ruins northeast of the palace. Remaining Warrior 1 forces scatter into the surrounding area."
+
+REFERENCE            aar_exfiltext_aniyah_axis
+LANG_ENGLISH         "Occupation force Horseman 2 arrives to assume control of the palace. Blacksmith 4 moves to exfil from the main courtyard."
+
+REFERENCE            aar_exfiltext_caves_allies
+LANG_ENGLISH         "Lighthouse 2 egress to rendezvous with truck convoy."
+
+REFERENCE            aar_exfiltext_caves_axis
+LANG_ENGLISH         "B-Lima exfil arrives on station. Kurgan 1 moves to egress under fire- minimal injuries sustained."
+
+REFERENCE            aar_exfiltext_runner_allies
+LANG_ENGLISH         "Arrowhead 3 egress to rendezvous at secondary LZ for extraction."
+
+REFERENCE            aar_exfiltext_runner_axis
+LANG_ENGLISH         "Omega 1 egress under fire to light vehicle convoy and proceed en route to Yaschuk Farm."
+
+REFERENCE            aar_exfiltime_aniyah_allies
+LANG_ENGLISH         "0725"
+
+REFERENCE            aar_exfiltime_aniyah_axis
+LANG_ENGLISH         "0800"
+
+REFERENCE            aar_exfiltime_caves_allies
+LANG_ENGLISH         "0419"
+
+REFERENCE            aar_exfiltime_caves_axis
+LANG_ENGLISH         "0413"
+
+REFERENCE            aar_exfiltime_runner_allies
+LANG_ENGLISH         "0825"
+
+REFERENCE            aar_exfiltime_runner_axis
+LANG_ENGLISH         "0818"
+
+REFERENCE            aar_extract_header
+LANG_ENGLISH         "Extract"
+
+REFERENCE            aar_extracttext_aniyah_allies
+LANG_ENGLISH         "Reaver 2 RTB to Airfield Hotel-51."
+
+REFERENCE            aar_extracttext_aniyah_axis
+LANG_ENGLISH         "Blacksmith 4 arrives at Outpost Forerunner for debrief."
+
+REFERENCE            aar_extracttext_caves_allies
+LANG_ENGLISH         "Lighthouse 2 proceed southbound on Tariq Almawt to Coalition safehouse/airfield, Alfidiya."
+
+REFERENCE            aar_extracttext_caves_axis
+LANG_ENGLISH         "Extraction to Riddam successful. All casualties recovered."
+
+REFERENCE            aar_extracttext_runner_allies
+LANG_ENGLISH         "Arrowhead 3, RTB to Arklov Peak."
+
+REFERENCE            aar_extracttext_runner_axis
+LANG_ENGLISH         "Omega 1 arrive at Yaschuk Farm. 3 wounded, prepped for evacuation."
+
+REFERENCE            aar_extracttime_aniyah_allies
+LANG_ENGLISH         "0730"
+
+REFERENCE            aar_extracttime_aniyah_axis
+LANG_ENGLISH         "0815"
+
+REFERENCE            aar_extracttime_caves_allies
+LANG_ENGLISH         "0420"
+
+REFERENCE            aar_extracttime_caves_axis
+LANG_ENGLISH         "0418"
+
+REFERENCE            aar_extracttime_runner_allies
+LANG_ENGLISH         "0420"
+
+REFERENCE            aar_extracttime_runner_axis
+LANG_ENGLISH         "0845"
+
+REFERENCE            aar_infil_header
+LANG_ENGLISH         "Infil"
+
+REFERENCE            aar_infiltext_aniyah_allies
+LANG_ENGLISH         "Reaver 2 and Warrior 1 arrive at LZ bravo, 1 klick from target. Proceed on foot to palace perimeter."
+
+REFERENCE            aar_infiltext_aniyah_axis
+LANG_ENGLISH         "Blacksmith 4 arrive on target, immediately engaged by AQ targets on the palace grounds."
+
+REFERENCE            aar_infiltext_caves_allies
+LANG_ENGLISH         "Lighthouse 2 arrives on station, identifies Allegiance force holding on crashsite, working to extract onboard storage. Demon Dogs TL gives order to "confront" Allegiance, not engage."
+
+REFERENCE            aar_infiltext_caves_axis
+LANG_ENGLISH         "Aerial infil B-Lima departs Riddam, bound for Alzilu Alsayf. Surveillance reports minimal activity in village."
+
+REFERENCE            aar_infiltext_runner_allies
+LANG_ENGLISH         "Arrowhead arrives on station, south of the target area."
+
+REFERENCE            aar_infiltext_runner_axis
+LANG_ENGLISH         "Omega 1 convoy arrives at Sokolov Facility. Greeted at the gate by Leonid Sokolov but denied entry."
+
+REFERENCE            aar_infiltime_aniyah_allies
+LANG_ENGLISH         "0710"
+
+REFERENCE            aar_infiltime_aniyah_axis
+LANG_ENGLISH         "0720"
+
+REFERENCE            aar_infiltime_caves_allies
+LANG_ENGLISH         "0410"
+
+REFERENCE            aar_infiltime_caves_axis
+LANG_ENGLISH         "0340"
+
+REFERENCE            aar_infiltime_runner_allies
+LANG_ENGLISH         "0810"
+
+REFERENCE            aar_infiltime_runner_axis
+LANG_ENGLISH         "0800"
+
+REFERENCE            aar_insert_header
+LANG_ENGLISH         "Insert"
+
+REFERENCE            aar_insertext_aniyah_allies
+LANG_ENGLISH         "Reaver 2 and Warrior 1 rendezvous at Coalition Airfield Hotel-51, 10 klicks from target. Dust off in light helo squad Nomad 2."
+
+REFERENCE            aar_insertext_aniyah_axis
+LANG_ENGLISH         "Blacksmith 4 rally at Outpost Forerunner. Board B-Lima helos for transport to target, 5 km distance."
+
+REFERENCE            aar_insertext_caves_allies
+LANG_ENGLISH         "Lighthouse 2 convoy travelling westbound on 'Tariq Almawta'1 km from target, rerouted for emergency retrieval."
+
+REFERENCE            aar_insertext_caves_axis
+LANG_ENGLISH         "Kurgan 1 rallies at abandoned village of Riddam, 3 km northeast of target."
+
+REFERENCE            aar_insertext_runner_allies
+LANG_ENGLISH         "Arrowhead 3 rendezvous at Arklov Peak Military Base in northern Verdansk. Board light helicopter group Leatherback 1 for aerial infil."
+
+REFERENCE            aar_insertext_runner_axis
+LANG_ENGLISH         "Omega 1 rally for patrol at Yaschuk Farm, northeast of Verdansk. Boarded light vehicle convoy for patrol."
+
+REFERENCE            aar_insertime_aniyah_allies
+LANG_ENGLISH         "0700"
+
+REFERENCE            aar_insertime_aniyah_axis
+LANG_ENGLISH         "0710"
+
+REFERENCE            aar_insertime_caves_allies
+LANG_ENGLISH         "0407"
+
+REFERENCE            aar_insertime_caves_axis
+LANG_ENGLISH         "0330"
+
+REFERENCE            aar_insertime_runner_allies
+LANG_ENGLISH         "0800"
+
+REFERENCE            aar_insertime_runner_axis
+LANG_ENGLISH         "0730"
+
+REFERENCE            aar_mission_aniyah_allies
+LANG_ENGLISH         "Coalition strike force (callsign Reaver 2,) LF force (callsign Warrior 1,) Governor 1 overwatch. Former Presidential Palace of Urzikstan occupied by Al-Qatala, taken from rogue Gen. Roman Barkov. Reaver 2 tasked with securing the palace grounds and interior for handoff to LF control. Allegiance forces arrived, engaged Reaver 2 and LF forces on the ground."
+
+REFERENCE            aar_mission_aniyah_axis
+LANG_ENGLISH         "Allegiance operation force, callsign Blacksmith 4, RU 03 in command. Unrest in the region caused by the criminal Roman Barkov allowed Al-Qatala to occupy the former Presidential Palace of Urzikstan. Blacksmith 4 ordered to infiltrate, clear, and secure the palace for Allegiance control. Encountered and repelled both Al-Qatala and Coalition forces on the ground."
+
+REFERENCE            aar_mission_caves_allies
+LANG_ENGLISH         "Coalition QRF, callsign Lighthouse 2, Demon Dogs TL overwatch. Coalition UAV reported shot down by Al-Qatala forces based in Alzilu Alsayf village, Urzikstan. QRF dispatched to clear village of AQ fighters, secure the crashsite, recover UAV blackbox, and demo the aircraft. Allegiance QRF spotted on approach, restricting ROEs to defensive posture."
+
+REFERENCE            aar_mission_caves_axis
+LANG_ENGLISH         "10 Allegiance Special Infantry (Callsign "Kurgan") with RU-00 overwatch. Infiltrate, secure, and capture known Al-Qatala stronghold and cave complex- Alzilu Alsayf village, Urzikstan. Surveillance indicated frequent shipments moving through caves, supplying AQ insurgents in the central and southeast region. Primary objective to sever flow of weapons/materiel and gather intel to identify supply routes and sources."
+
+REFERENCE            aar_mission_header
+LANG_ENGLISH         "/Mission"
+
+REFERENCE            aar_mission_runner_allies
+LANG_ENGLISH         "Coalition recon force, callsign Arrowhead 3, Governor 1 overwatch. Intel identified the Sokolov Mining and Lumber facility (northern Kastovia mountains) as a potential chem-bio storage facility tied to rogue Gen. Roman Barkov. Arrowhead 3 tasked with surveillance; dispatched to infil the surrounding forest and recon the facility. Allegiance force identified on site, restricting ROEs to defensive posture."
+
+REFERENCE            aar_mission_runner_axis
+LANG_ENGLISH         "Allegiance patrol, callsign Omega 1, RU 03 overwatch. Reports indicated unidentified convoys traveling rural backroads around Verdansk. Omega 1 received orders to make contact with Leonid Sokolov of the Sokolov Mining and Lumber facility- known smuggler and top of the list for questioning. Unidentified snipers were spotted in the surrounding forest, prompting swift action by Omega 1."
+
+REFERENCE            aar_name_aniyah
+LANG_ENGLISH         "Aniyah"
+
+REFERENCE            aar_name_caves
+LANG_ENGLISH         "Azhir Cave"
+
+REFERENCE            aar_name_runner
+LANG_ENGLISH         "Runner"
+
+REFERENCE            aar_time_aniyah_allies
+LANG_ENGLISH         "OPERATION DOOR KICK - 10.28.2019"
+
+REFERENCE            aar_time_aniyah_axis
+LANG_ENGLISH         "OPERATION SANCTUM - 28, Oct 2019"
+
+REFERENCE            aar_time_caves_allies
+LANG_ENGLISH         "QRF 19070-C - 11.06.2019"
+
+REFERENCE            aar_time_caves_axis
+LANG_ENGLISH         "OPERATION EMPTY HOUSE - 4, Oct 2019"
+
+REFERENCE            aar_time_runner_allies
+LANG_ENGLISH         "OPERATION INTERLOPER - 11.20.2019"
+
+REFERENCE            aar_time_runner_axis
+LANG_ENGLISH         "OPERATION HOTSPRING - 20, Nov 2019"
+
+REFERENCE            aar_timeline_header
+LANG_ENGLISH         "/Timeline"
+
+REFERENCE            aar_title
+LANG_ENGLISH         "After Action Report:"
+
+REFERENCE            billet_alias_alice
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_azur
+LANG_ENGLISH         "Abu Ramad"
+
+REFERENCE            billet_alias_bale
+LANG_ENGLISH         "none"
+
+REFERENCE            billet_alias_charly
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_dday
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_domino
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_golem
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_grinch
+LANG_ENGLISH         "The Green Man"
+
+REFERENCE            billet_alias_krueger
+LANG_ENGLISH         "The Austrian, Cpl. Josef Doss (fmr. KSK 4th Platoon)"
+
+REFERENCE            billet_alias_minotaur
+LANG_ENGLISH         "Sergei Krovopuskov"
+
+REFERENCE            billet_alias_otter
+LANG_ENGLISH         "Ed Arsey"
+
+REFERENCE            billet_alias_raines
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_rodion
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_syd
+LANG_ENGLISH         "N/A"
+
+REFERENCE            billet_alias_thorne
+LANG_ENGLISH         "Union Jack (nickname)"
+
+REFERENCE            billet_alias_wyatt
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_alias_yegor
+LANG_ENGLISH         "Valentyn Zavarov, Anton Husin, Vitalij Nesmachniy, Valerij Pyatov, Yaroslav Rusol"
+
+REFERENCE            billet_alias_zane
+LANG_ENGLISH         "Alakoso (Yoruba, meaning ???Commander???)"
+
+REFERENCE            billet_aliases_title
+LANG_ENGLISH         "Aliases"
+
+REFERENCE            billet_allegiance_title
+LANG_ENGLISH         "/Allegiance Department of intelligence"
+
+REFERENCE            billet_associations_alice
+LANG_ENGLISH         "-Helped coordinate unsanctioned mission with Sgt. Wayne Davis- ???DDay,??? to infiltrate a suspected Taliban stronghold and rescue one Pvt. Grayson Jeffries, captured on routine patrol. Despite successful pacification of the stronghold (planned and directed by Valenzuela) Pvt. Jeffries was found KIA."
+
+REFERENCE            billet_associations_azur
+LANG_ENGLISH         "-Equal partner with Jackals co-founder Viktor Metiko, AKA ???Zane??? ??? an apparently new partnership of convenience. Frequent tension has been observed between both operatives."
+
+REFERENCE            billet_associations_bale
+LANG_ENGLISH         "-Served with brother Sgt. Maxim Bale, operator code name ???Minotaur,??? from Spetsnaz selection in 2005 until Kurbanov Hospital siege, 2009. The two were described as ???inseparable??? until SSgt. Bale???s injury and Minotaur???s discharge. Minotaur assignment with Allegiance requested by SSgt. Bale. (see CASE FILE SUBJECT: Operator A0102- Sgt. Maxim Ivanovich Bale)"
+
+REFERENCE            billet_associations_charly
+LANG_ENGLISH         "-Extensive operational history with Lt. Jacob Thorne, SAS. Friendship appears professional and platonic, but not invulnerable. Disagreement observed between operators over Thorne???s independent decision to release Jackals co-founder ???Zane??? from custody during Operation Iron Canopy."
+
+REFERENCE            billet_associations_dday
+LANG_ENGLISH         "Enlisted operator Alice (then Task Force Orange) in 2014 to conduct an unsanctioned assault on a Taliban stronghold to rescue one Pvt. Grayson Jeffries. Jeffries, now suspected to be in an elicit relationship with DDay, had been captured during an ambush while under DDay???s command. Despite successful pacification of the stronghold, Pvt. Jeffries was found KIA. The elimination of a high value enemy target earned leniency for both operators- demotion for Alice, section 8 discharge for DDay."
+
+REFERENCE            billet_associations_domino
+LANG_ENGLISH         "-Known to interact with Allegiance operator Syd on Armistice assignment in Verdansk. Developing relationship described as ???competitive,??? but amiable."
+
+REFERENCE            billet_associations_golem
+LANG_ENGLISH         "-Served as superior officer to Allegiance operator Krueger (alias ???Cpl. Josef Doss,??? fmr. KSK) during Operation Nachtigall, Mozambique. Civilians found killed with 7.62 NATO rounds consistent with Krueger???s weapon, prompting KSK investigation and discovery of Krueger???s assumed identity. Krueger escaped custody before extradition. Lt. Blaustein was implicated in assisting escape - never formally charged."
+
+REFERENCE            billet_associations_grinch
+LANG_ENGLISH         "-Terms of service brokered between Cpt. Zane and operator Grinch remain mostly hidden, ???per the agreement struck??? between parties, according to Cpt. Zane. Coalition intel reveals scheduled payments from known Jackals shell companies to an anonymous off-shore account in the Cayman Islands."
+
+REFERENCE            billet_associations_krueger
+LANG_ENGLISH         "-Served in KSK 4th Platoon under Lt. Hans Rudolf Blaustein- Coalition code name ???Golem.??? KSK dossier indicates Blaustein befriended Krueger in effort to integrate him with the rest of his squad, claiming recognition of ???talent in a troubled mind.??? Friendship apparently ended after Krueger???s removal and subsequent escape from KSK custody. Aid/interference by Blaustein suspected. Evidence inconclusive."
+
+REFERENCE            billet_associations_minotaur
+LANG_ENGLISH         "-Served with brother SSgt. Dmitry Bale, operator code name ???Bale,??? from Spetsnaz selection in 2005 until Kurbanov Hospital siege, 2009. Reportedly blamed himself for SSgt. Bale???s ???death.??? Allegiance psych-eval shows residual guilt for brother???s historic injury and perceived abandonment. (see CASE FILE SUBJECT: Operator A0101- SSgt. Dmitry Ivanovich Bale)"
+
+REFERENCE            billet_associations_otter
+LANG_ENGLISH         "-Developed friendship with WARCOM operator 2nd Lt. Jackson Wyatt during joint SAS/Australian Special Forces operations in Afghanistan. Coalition psych-eval of operator Otter describes anti-social tendencies- suggests Wyatt friendship is unique.
+-Intercepted AARs from Cpt. Price depict Otter as a ruthless, capable soldier, but often overzealous. ???The lad???s a loose cannon. Needs a firm hand.???"
+
+REFERENCE            billet_associations_raines
+LANG_ENGLISH         "-Connection to Sgt. Marcus Griggs difficult to trace. Case files indicate the two cooperated in an Operation code named ???Sepulcher,??? but documentation remains heavily classified. The speed of Sgt. Raines reassignment to Demon Dogs/Urzikstan may suggest a connection.
+-Sgt.  Raines has taken an interest in Allegiance operative ???Grinch", extending to independent research outside the battlefield."
+
+REFERENCE            billet_associations_rodion
+LANG_ENGLISH         "-Idealizes Spetsnaz veteran SSgt. Dmitry Ivanovich Bale, code name ???Bale.???
+-While serving with Armistice/Allegiance, Rodion has developed an unlikely rapport with CHIMERA operator Yegor Novak."
+
+REFERENCE            billet_associations_syd
+LANG_ENGLISH         "-CHIMERA leader and Allegiance asset code name ???Nikolai,??? claims to have met Syd in Bucharest during ???an interesting bar fight.??? No further details or corroborating evidence available.
+-NOTE: During service with Armistice, Syd has reportedly developed a friendly rivalry with Sgt. Dominique Tam- Coalition code name "Domino""
+
+REFERENCE            billet_associations_thorne
+LANG_ENGLISH         "-Shares long operational history with Lt. Charlotte ???Charly??? Johnstone (SRR.)
+-Known to have released Jackals Cmdr. Zane during Coalition Operation ???Iron Canopy.???"
+
+REFERENCE            billet_associations_title
+LANG_ENGLISH         "Known Associations"
+
+REFERENCE            billet_associations_wyatt
+LANG_ENGLISH         "-Established friendship with Cpl. Benjamin ???Otter??? Lee (SAS) during joint SAS/Australian Special Forces operations in Afghanistan and Urzikstan."
+
+REFERENCE            billet_associations_yegor
+LANG_ENGLISH         "-Long term associate and fixer for CHIMERA leader- Allegiance code name ???Nikolai. Yegor appears loyal only to Nikolai, but surveillance indicates a rising frequency of challenges to Nikolai???s command- most surrounding the Chimera leader???s cooperation with Sgt. Kamarov of the Allegiance."
+
+REFERENCE            billet_associations_zane
+LANG_ENGLISH         "-Equal partner with Azur El-Sarraf, known Egyptian arms dealer. Partnership appears tenuous.
+-Sole recruiter of Jackals operator ???Grinch??? ??? true identity unknown.
+-Believed to have encountered Lt. Jacob Thorne, SAS, during 6/12/18 Coalition Operation ???Iron Canopy,??? intended to capture Jackals command. Lt. Thorne reported negative contact, contrary to anonymous report from Coalition sources."
+
+REFERENCE            billet_blood_alice
+LANG_ENGLISH         "A-"
+
+REFERENCE            billet_blood_azur
+LANG_ENGLISH         "A-"
+
+REFERENCE            billet_blood_bale
+LANG_ENGLISH         "AB-"
+
+REFERENCE            billet_blood_charly
+LANG_ENGLISH         "O-"
+
+REFERENCE            billet_blood_dday
+LANG_ENGLISH         "B+"
+
+REFERENCE            billet_blood_domino
+LANG_ENGLISH         "B+"
+
+REFERENCE            billet_blood_golem
+LANG_ENGLISH         "B+"
+
+REFERENCE            billet_blood_grinch
+LANG_ENGLISH         "Unknown"
+
+REFERENCE            billet_blood_krueger
+LANG_ENGLISH         "AB+"
+
+REFERENCE            billet_blood_minotaur
+LANG_ENGLISH         "AB-"
+
+REFERENCE            billet_blood_otter
+LANG_ENGLISH         "A+"
+
+REFERENCE            billet_blood_raines
+LANG_ENGLISH         "B+"
+
+REFERENCE            billet_blood_rodion
+LANG_ENGLISH         "O-"
+
+REFERENCE            billet_blood_syd
+LANG_ENGLISH         "B-"
+
+REFERENCE            billet_blood_thorne
+LANG_ENGLISH         "O-"
+
+REFERENCE            billet_blood_title
+LANG_ENGLISH         "Blood Type"
+
+REFERENCE            billet_blood_wyatt
+LANG_ENGLISH         "B+"
+
+REFERENCE            billet_blood_yegor
+LANG_ENGLISH         "O+"
+
+REFERENCE            billet_blood_zane
+LANG_ENGLISH         "AB+"
+
+REFERENCE            billet_button_alice
+LANG_ENGLISH         "Alice"
+
+REFERENCE            billet_button_azur
+LANG_ENGLISH         "Azur"
+
+REFERENCE            billet_button_bale
+LANG_ENGLISH         "Bale"
+
+REFERENCE            billet_button_charley
+LANG_ENGLISH         "Charly"
+
+REFERENCE            billet_button_dday
+LANG_ENGLISH         "DDay"
+
+REFERENCE            billet_button_domino
+LANG_ENGLISH         "Domino"
+
+REFERENCE            billet_button_golem
+LANG_ENGLISH         "Golem"
+
+REFERENCE            billet_button_grinch
+LANG_ENGLISH         "Grinch"
+
+REFERENCE            billet_button_krueger
+LANG_ENGLISH         "Krueger"
+
+REFERENCE            billet_button_minotaur
+LANG_ENGLISH         "Minotaur"
+
+REFERENCE            billet_button_otter
+LANG_ENGLISH         "Otter"
+
+REFERENCE            billet_button_raines
+LANG_ENGLISH         "Raines"
+
+REFERENCE            billet_button_rodion
+LANG_ENGLISH         "Rodion"
+
+REFERENCE            billet_button_syd
+LANG_ENGLISH         "Syd"
+
+REFERENCE            billet_button_thorne
+LANG_ENGLISH         "Thorne"
+
+REFERENCE            billet_button_wyatt
+LANG_ENGLISH         "Wyatt"
+
+REFERENCE            billet_button_yegor
+LANG_ENGLISH         "Yegor"
+
+REFERENCE            billet_button_zane
+LANG_ENGLISH         "Zane"
+
+REFERENCE            billet_childern_title
+LANG_ENGLISH         "Children"
+
+REFERENCE            billet_children_alice
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_azur
+LANG_ENGLISH         "Azima El-Sarraf (deceased), Samman ???Sam??? Azur El-Sarraf (deceased)"
+
+REFERENCE            billet_children_bale
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_charly
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_dday
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_domino
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_golem
+LANG_ENGLISH         "Annette Louise Brosseau"
+
+REFERENCE            billet_children_grinch
+LANG_ENGLISH         "Unknown"
+
+REFERENCE            billet_children_krueger
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_minotaur
+LANG_ENGLISH         "(4 known) Long Vannak, Su Sokhem, Kalea Thawan, Suda Chao"
+
+REFERENCE            billet_children_otter
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_raines
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_rodion
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_syd
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_thorne
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_wyatt
+LANG_ENGLISH         "None"
+
+REFERENCE            billet_children_yegor
+LANG_ENGLISH         "(3 known) Vira Chernysh, Lenora Pinchuk, Andriy Sokolov"
+
+REFERENCE            billet_children_zane
+LANG_ENGLISH         "Akanni Metiko"
+
+REFERENCE            billet_coalition_title
+LANG_ENGLISH         "/Office of Coalition Intelligence"
+
+REFERENCE            billet_codename_azur
+LANG_ENGLISH         "Azur"
+
+REFERENCE            billet_codename_bale
+LANG_ENGLISH         "Bale"
+
+REFERENCE            billet_codename_blank
+LANG_ENGLISH         ""
+
+REFERENCE            billet_codename_grinch
+LANG_ENGLISH         "Grinch"
+
+REFERENCE            billet_codename_krueger
+LANG_ENGLISH         "Krueger"
+
+REFERENCE            billet_codename_minotaur
+LANG_ENGLISH         "Minotaur"
+
+REFERENCE            billet_codename_rodion
+LANG_ENGLISH         "Rodion"
+
+REFERENCE            billet_codename_syd
+LANG_ENGLISH         "Syd"
+
+REFERENCE            billet_codename_title
+LANG_ENGLISH         "Code Name"
+
+REFERENCE            billet_codename_yegor
+LANG_ENGLISH         "Yegor"
+
+REFERENCE            billet_codename_zane
+LANG_ENGLISH         "Cmdr. Zane"
+
+REFERENCE            billet_directive_alice
+LANG_ENGLISH         "Maintain surveillance and close cooperation with subject Alice. Report any changes in relationship with operator DDay; identify potential weaknesses."
+
+REFERENCE            billet_directive_azur
+LANG_ENGLISH         "Surveil and report activities to OCI Command. Observe conflict with Operator Zane and investigate root causes. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_bale
+LANG_ENGLISH         "Surveil and report activities to OCI Command. Recover intel on progress of current relations between operators Bale and Minotaur. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_charly
+LANG_ENGLISH         "Maintain surveillance and monitor communications. Encourage involvement of Allegiance operator Zane during SAS/Allegiance operations. Cooperate within Armistice guidelines- do not engage."
+
+REFERENCE            billet_directive_dday
+LANG_ENGLISH         "Maintain surveillance and close cooperation with subject Alice. Report any changes in relationship with operator DDay; identify potential weaknesses."
+
+REFERENCE            billet_directive_domino
+LANG_ENGLISH         "Maintain surveillance and monitor communications between operators Syd and Domino. Encourage close cooperation between the two. Operate within Armistice guidelines. Do not engage."
+
+REFERENCE            billet_directive_golem
+LANG_ENGLISH         "Maintain surveillance and monitor communications between operators Golem and Krueger- high potential for leverage against WARCOM asset. Cooperate within Armistice guidelines. Do not engage."
+
+REFERENCE            billet_directive_grinch
+LANG_ENGLISH         "Surveil and report activities to OCI Command. Apply specific attention to interactions between operators Zane and Grinch. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_krueger
+LANG_ENGLISH         "Surveil and report activities to OCI Command, including (but not limited to) contact with Coalition operator Golem. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_minotaur
+LANG_ENGLISH         "Surveil and report activities to OCI Command. Recover intel on progress of current relations between operators Bale and Minotaur. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_otter
+LANG_ENGLISH         "Maintain surveillance and monitor communications. Report ongoing psychological state and record any incidents- note apparent triggers. Cooperate within Armistice guidelines. Do not engage."
+
+REFERENCE            billet_directive_raines
+LANG_ENGLISH         "Maintain surveillance and monitor communications where possible. Discourage any attempt to uncover intel on operator Grinch. Cooperate within Armistice guidelines but engage if necessary."
+
+REFERENCE            billet_directive_rodion
+LANG_ENGLISH         "Surveil and report activities to OCI Command. Encourage positive interactions with Coalition forces, particularly American operators. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_syd
+LANG_ENGLISH         "Surveil and report activities to OCI Command, including (but not limited to) contact with Coalition Operator Domino. Explore potential to exploit western sympathies- parentage and family history off limits. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_thorne
+LANG_ENGLISH         "Maintain surveillance and monitor communications. Report interactions with Lt. Johnstone and relay any intercepted comms with Cpt. Price. Cooperate within Armistice guidelines- do not engage."
+
+REFERENCE            billet_directive_title
+LANG_ENGLISH         "Current Directive"
+
+REFERENCE            billet_directive_wyatt
+LANG_ENGLISH         "Maintain surveillance and monitor communications between operators Otter and Wyatt. Report any unsanctioned/independent action taken by either. Operate within Armistice guidelines. Do not engage."
+
+REFERENCE            billet_directive_yegor
+LANG_ENGLISH         "Surveil and report activities to OCI Command. Investigate potential to exploit anti-Allegiance sentiments and financial leverage. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_directive_zane
+LANG_ENGLISH         "Surveil and report activities to OCI Command. Observe conflict with operator Azur, and report any interaction with Lt. Thorne, SAS. Cooperate as-directed by Armistice leadership. DO NOT ENGAGE."
+
+REFERENCE            billet_dob_alice
+LANG_ENGLISH         "May 20th, 1991 (Aged 28)"
+
+REFERENCE            billet_dob_azur
+LANG_ENGLISH         "August 21, 1986, (Aged 32)"
+
+REFERENCE            billet_dob_bale
+LANG_ENGLISH         "June 20th, 1984 (Aged 35)"
+
+REFERENCE            billet_dob_charly
+LANG_ENGLISH         "February 20, 1987 (Aged 32)"
+
+REFERENCE            billet_dob_dday
+LANG_ENGLISH         "September 17, 1983 (Aged 36)"
+
+REFERENCE            billet_dob_domino
+LANG_ENGLISH         "September 1, 1993 (Aged 26)"
+
+REFERENCE            billet_dob_golem
+LANG_ENGLISH         "October 30, 1986 (Aged 33)"
+
+REFERENCE            billet_dob_grinch
+LANG_ENGLISH         "Unknown"
+
+REFERENCE            billet_dob_krueger
+LANG_ENGLISH         "March 29, 1985, (Aged 34)"
+
+REFERENCE            billet_dob_minotaur
+LANG_ENGLISH         "June 20th, 1984 (Aged 35)"
+
+REFERENCE            billet_dob_otter
+LANG_ENGLISH         "April 1, 1992 (Aged 27)"
+
+REFERENCE            billet_dob_raines
+LANG_ENGLISH         "August 30, 1986 (Aged 33)"
+
+REFERENCE            billet_dob_rodion
+LANG_ENGLISH         "April 2nd, 1994 (Aged 25)"
+
+REFERENCE            billet_dob_syd
+LANG_ENGLISH         "July 23, 1991, (Aged 28)"
+
+REFERENCE            billet_dob_thorne
+LANG_ENGLISH         "May 1, 1988 (Aged 31)"
+
+REFERENCE            billet_dob_title
+LANG_ENGLISH         "D.O.B."
+
+REFERENCE            billet_dob_wyatt
+LANG_ENGLISH         "November 30, 1992 (Aged 27)"
+
+REFERENCE            billet_dob_yegor
+LANG_ENGLISH         "March 29, 1986, (Aged 33)"
+
+REFERENCE            billet_dob_zane
+LANG_ENGLISH         "June 20th, 1984 (Aged 35)"
+
+REFERENCE            billet_eyecolor_alice
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_eyecolor_azur
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_eyecolor_bale
+LANG_ENGLISH         "Blue"
+
+REFERENCE            billet_eyecolor_charly
+LANG_ENGLISH         "Brown"
+
+REFERENCE            billet_eyecolor_dday
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_eyecolor_domino
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_eyecolor_golem
+LANG_ENGLISH         "Brown"
+
+REFERENCE            billet_eyecolor_grinch
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_eyecolor_krueger
+LANG_ENGLISH         "Brown"
+
+REFERENCE            billet_eyecolor_minotaur
+LANG_ENGLISH         "Blue"
+
+REFERENCE            billet_eyecolor_otter
+LANG_ENGLISH         "Blue"
+
+REFERENCE            billet_eyecolor_raines
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_eyecolor_rodion
+LANG_ENGLISH         "Blue"
+
+REFERENCE            billet_eyecolor_syd
+LANG_ENGLISH         "Brown"
+
+REFERENCE            billet_eyecolor_thorne
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_eyecolor_title
+LANG_ENGLISH         "Eye Color"
+
+REFERENCE            billet_eyecolor_wyatt
+LANG_ENGLISH         "Brown"
+
+REFERENCE            billet_eyecolor_yegor
+LANG_ENGLISH         "Blue"
+
+REFERENCE            billet_eyecolor_zane
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_footerleft_alice
+LANG_ENGLISH         "C1-01-D"
+
+REFERENCE            billet_footerleft_azur
+LANG_ENGLISH         "A0106-J"
+
+REFERENCE            billet_footerleft_bale
+LANG_ENGLISH         "AO101-S"
+
+REFERENCE            billet_footerleft_charly
+LANG_ENGLISH         "C1-04-S"
+
+REFERENCE            billet_footerleft_dday
+LANG_ENGLISH         "C1-02-D"
+
+REFERENCE            billet_footerleft_domino
+LANG_ENGLISH         "C1-08-W"
+
+REFERENCE            billet_footerleft_golem
+LANG_ENGLISH         "C1-07-W"
+
+REFERENCE            billet_footerleft_grinch
+LANG_ENGLISH         "A0105-J"
+
+REFERENCE            billet_footerleft_krueger
+LANG_ENGLISH         "A0109-C"
+
+REFERENCE            billet_footerleft_minotaur
+LANG_ENGLISH         "A0102-S"
+
+REFERENCE            billet_footerleft_otter
+LANG_ENGLISH         "C1-06-S"
+
+REFERENCE            billet_footerleft_raines
+LANG_ENGLISH         "C1-03-D"
+
+REFERENCE            billet_footerleft_rodion
+LANG_ENGLISH         "A0103-S"
+
+REFERENCE            billet_footerleft_syd
+LANG_ENGLISH         "A0108-C"
+
+REFERENCE            billet_footerleft_thorne
+LANG_ENGLISH         "C1-05-S"
+
+REFERENCE            billet_footerleft_wyatt
+LANG_ENGLISH         "C1-09-W"
+
+REFERENCE            billet_footerleft_yegor
+LANG_ENGLISH         "A0107-C"
+
+REFERENCE            billet_footerleft_zane
+LANG_ENGLISH         "A0104-J"
+
+REFERENCE            billet_gender_alice
+LANG_ENGLISH         "Female"
+
+REFERENCE            billet_gender_azur
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_bale
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_charly
+LANG_ENGLISH         "Female"
+
+REFERENCE            billet_gender_dday
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_domino
+LANG_ENGLISH         "Female"
+
+REFERENCE            billet_gender_golem
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_grinch
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_krueger
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_minotaur
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_otter
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_raines
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_rodion
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_syd
+LANG_ENGLISH         "Female"
+
+REFERENCE            billet_gender_thorne
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_title
+LANG_ENGLISH         "Gender"
+
+REFERENCE            billet_gender_wyatt
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_yegor
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_gender_zane
+LANG_ENGLISH         "Male"
+
+REFERENCE            billet_hair_title
+LANG_ENGLISH         "Hair Color"
+
+REFERENCE            billet_haircolor_alice
+LANG_ENGLISH         "Black"
+
+REFERENCE            billet_haircolor_azur
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_haircolor_bale
+LANG_ENGLISH         "Blonde (Bald)"
+
+REFERENCE            billet_haircolor_charly
+LANG_ENGLISH         "Light Brown"
+
+REFERENCE            billet_haircolor_dday
+LANG_ENGLISH         "Black"
+
+REFERENCE            billet_haircolor_domino
+LANG_ENGLISH         "Black"
+
+REFERENCE            billet_haircolor_golem
+LANG_ENGLISH         "Brown"
+
+REFERENCE            billet_haircolor_grinch
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_haircolor_krueger
+LANG_ENGLISH         "Dark Blonde"
+
+REFERENCE            billet_haircolor_minotaur
+LANG_ENGLISH         "Blonde"
+
+REFERENCE            billet_haircolor_otter
+LANG_ENGLISH         "Dark Blonde"
+
+REFERENCE            billet_haircolor_raines
+LANG_ENGLISH         "Black"
+
+REFERENCE            billet_haircolor_rodion
+LANG_ENGLISH         "Light Brown"
+
+REFERENCE            billet_haircolor_syd
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_haircolor_thorne
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_haircolor_wyatt
+LANG_ENGLISH         "Brown"
+
+REFERENCE            billet_haircolor_yegor
+LANG_ENGLISH         "Brown (Receding)"
+
+REFERENCE            billet_haircolor_zane
+LANG_ENGLISH         "Dark Brown"
+
+REFERENCE            billet_header1_confidental
+LANG_ENGLISH         "CONFIDENTIAL!"
+
+REFERENCE            billet_header1_donotcopy
+LANG_ENGLISH         "DO NOT COPY/ CONFIDENTIAL"
+
+REFERENCE            billet_header2_casefile
+LANG_ENGLISH         "CASE FILE SUBJECT:"
+
+REFERENCE            billet_header3_alice
+LANG_ENGLISH         "Faction: Demon Dogs"
+
+REFERENCE            billet_header3_azur
+LANG_ENGLISH         "Operator A0106-J"
+
+REFERENCE            billet_header3_bale
+LANG_ENGLISH         "Operator A0101-S"
+
+REFERENCE            billet_header3_charley
+LANG_ENGLISH         "Faction: SAS"
+
+REFERENCE            billet_header3_dday
+LANG_ENGLISH         "Coalition Operator C1-02-D"
+
+REFERENCE            billet_header3_domino
+LANG_ENGLISH         "Coalition Operator C1-08-W"
+
+REFERENCE            billet_header3_golem
+LANG_ENGLISH         "Coalition Operator C1-07-W
+"
+
+REFERENCE            billet_header3_grinch
+LANG_ENGLISH         "Operator A0105-J"
+
+REFERENCE            billet_header3_krueger
+LANG_ENGLISH         "Operator A0109-C"
+
+REFERENCE            billet_header3_minotaur
+LANG_ENGLISH         "Operator A0102-S"
+
+REFERENCE            billet_header3_otter
+LANG_ENGLISH         "Coalition Operator C1-06-S"
+
+REFERENCE            billet_header3_raines
+LANG_ENGLISH         "Coalition Operator C1-03-D
+"
+
+REFERENCE            billet_header3_rodion
+LANG_ENGLISH         "Operator A0103-S"
+
+REFERENCE            billet_header3_syd
+LANG_ENGLISH         "Operator A0108-C"
+
+REFERENCE            billet_header3_thorne
+LANG_ENGLISH         "Coalition Operator C1-05-S"
+
+REFERENCE            billet_header3_wyatt
+LANG_ENGLISH         "Coalition Operator C1-09-W"
+
+REFERENCE            billet_header3_yegor
+LANG_ENGLISH         "Operator A0107-C"
+
+REFERENCE            billet_header3_zane
+LANG_ENGLISH         "Operator A0104-J"
+
+REFERENCE            billet_header4_alice
+LANG_ENGLISH         "CASE FILE: Coalition Operator C1-01D"
+
+REFERENCE            billet_header4_azur
+LANG_ENGLISH         "ALLEGIANCE - THE JACKALS"
+
+REFERENCE            billet_header4_bale
+LANG_ENGLISH         "ALLEGIANCE - SPETSNAZ"
+
+REFERENCE            billet_header4_charley
+LANG_ENGLISH         "CASE FILE: Coalition Operator C1-05-D"
+
+REFERENCE            billet_header4_dday
+LANG_ENGLISH         "FACTION: DEMON DOGS"
+
+REFERENCE            billet_header4_domino
+LANG_ENGLISH         "FACTION: WARCOM"
+
+REFERENCE            billet_header4_golem
+LANG_ENGLISH         "FACTION: WARCOM"
+
+REFERENCE            billet_header4_grinch
+LANG_ENGLISH         "ALLEGIANCE ??? THE JACKALS (Operative)"
+
+REFERENCE            billet_header4_krueger
+LANG_ENGLISH         "ALLEGIANCE ??? CHIMERA OPERATIVE"
+
+REFERENCE            billet_header4_minotaur
+LANG_ENGLISH         "ALLEGIANCE ??? SPETSNAZ"
+
+REFERENCE            billet_header4_otter
+LANG_ENGLISH         "FACTION: SAS"
+
+REFERENCE            billet_header4_raines
+LANG_ENGLISH         "FACTION: DEMON DOGS"
+
+REFERENCE            billet_header4_rodion
+LANG_ENGLISH         "ALLEGIANCE ??? SPETSNAZ"
+
+REFERENCE            billet_header4_syd
+LANG_ENGLISH         "ALLEGIANCE ??? CHIMERA OPERATIVE"
+
+REFERENCE            billet_header4_thorne
+LANG_ENGLISH         "FACTION: SAS"
+
+REFERENCE            billet_header4_wyatt
+LANG_ENGLISH         "FACTION: WARCOM"
+
+REFERENCE            billet_header4_yegor
+LANG_ENGLISH         "ALLEGIANCE ??? CHIMERA OPERATIVE"
+
+REFERENCE            billet_header4_zane
+LANG_ENGLISH         "ALLEGIANCE ??? THE JACKALS (Co-Founder/Operative)"
+
+REFERENCE            billet_header_alice
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-01-D
+FACTION: DEMON DOGS"
+
+REFERENCE            billet_header_allegiance
+LANG_ENGLISH         "Confidential"
+
+REFERENCE            billet_header_azur
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0106-J
+ALLEGIANCE ??? THE JACKALS"
+
+REFERENCE            billet_header_bale
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0101-S
+ALLEGIANCE ??? SPETSNAZ"
+
+REFERENCE            billet_header_charly
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-04-S
+FACTION: SAS"
+
+REFERENCE            billet_header_dday
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-02-D
+FACTION: DEMON DOGS"
+
+REFERENCE            billet_header_domino
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-08-W
+FACTION: WARCOM"
+
+REFERENCE            billet_header_golem
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-07-W
+FACTION: WARCOM"
+
+REFERENCE            billet_header_grinch
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0105-J
+ALLEGIANCE ??? THE JACKALS (Operative)"
+
+REFERENCE            billet_header_krueger
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0109-C
+ALLEGIANCE ??? CHIMERA OPERATIVE"
+
+REFERENCE            billet_header_minotaur
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0102-S
+ALLEGIANCE ??? SPETSNAZ"
+
+REFERENCE            billet_header_otter
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-06-S
+FACTION: SAS"
+
+REFERENCE            billet_header_raines
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-03-D
+FACTION: DEMON DOGS"
+
+REFERENCE            billet_header_rodion
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0103-S
+ALLEGIANCE ??? SPETSNAZ"
+
+REFERENCE            billet_header_syd
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0108-C
+ALLEGIANCE ??? CHIMERA OPERATIVE"
+
+REFERENCE            billet_header_thorne
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-05-S
+FACTION: SAS"
+
+REFERENCE            billet_header_wyatt
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Coalition Operator C1-09-W
+FACTION: WARCOM"
+
+REFERENCE            billet_header_yegor
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0107-C
+ALLEGIANCE ??? CHIMERA OPERATIVE"
+
+REFERENCE            billet_header_zane
+LANG_ENGLISH         "DO NOT COPY/CONFIDENTIAL
+CASE FILE SUBJECT:
+Operator A0104-J
+ALLEGIANCE ??? THE JACKALS (Co-Founder/Operative)"
+
+REFERENCE            billet_height_alice
+LANG_ENGLISH         "172cm"
+
+REFERENCE            billet_height_azur
+LANG_ENGLISH         "5???11???"
+
+REFERENCE            billet_height_bale
+LANG_ENGLISH         "6???1???"
+
+REFERENCE            billet_height_charly
+LANG_ENGLISH         "177cm"
+
+REFERENCE            billet_height_dday
+LANG_ENGLISH         "181cm"
+
+REFERENCE            billet_height_domino
+LANG_ENGLISH         "170cm"
+
+REFERENCE            billet_height_golem
+LANG_ENGLISH         "181cm"
+
+REFERENCE            billet_height_grinch
+LANG_ENGLISH         "5???11???"
+
+REFERENCE            billet_height_krueger
+LANG_ENGLISH         "5???10???"
+
+REFERENCE            billet_height_minotaur
+LANG_ENGLISH         "6???1???"
+
+REFERENCE            billet_height_otter
+LANG_ENGLISH         "176cm"
+
+REFERENCE            billet_height_raines
+LANG_ENGLISH         "181cm"
+
+REFERENCE            billet_height_rodion
+LANG_ENGLISH         "5???11???"
+
+REFERENCE            billet_height_syd
+LANG_ENGLISH         "5???8???"
+
+REFERENCE            billet_height_thorne
+LANG_ENGLISH         "182cm"
+
+REFERENCE            billet_height_title
+LANG_ENGLISH         "Height"
+
+REFERENCE            billet_height_wyatt
+LANG_ENGLISH         "183cm"
+
+REFERENCE            billet_height_yegor
+LANG_ENGLISH         "5???8???"
+
+REFERENCE            billet_height_zane
+LANG_ENGLISH         "5???10???"
+
+REFERENCE            billet_history_alice
+LANG_ENGLISH         "-Joined US Army at 18. Excelled in written, cognitive, and physical performance. 4 incident reports on file, reporting ???disciplinary issues??? and ???problems with authority.???
+-Entered and passed selection for Task Force Orange with noted reservation by Senior Drill Sergeant, SFC. William Griggs ??? cousin of Sgt. Marcus Griggs USMC. (Demon Dogs CO)
+-Deployed to Afghanistan in 2010. Served with Task Force Orange for 4 years until incident in Kandahar province involving Coalition operator ???DDay.??? (see below)
+-Reassigned to support roles for following 3 years, including training Afghan female soldiers.
+-Filed numerous requests for combat assignment. Chosen for Demon Dogs in October 2019."
+
+REFERENCE            billet_history_azur
+LANG_ENGLISH         "-Known arms dealer, based in Alexandria, Egypt- active across Northern Africa from 2007 to present day.
+-No formal military or combat experience prior. Began hiring private instructors after the murder of wife (Atiya) and children (Azima and Samman) at the hands of Al-Qatala enforcer Jamal Rahar, AKA ???The Butcher;??? an apparent reprisal over an arms deal with AQ rival CHIMERA.
+-Following death of family, entered combat training by various private sources- western and eastern PMCs (CHIMERA included) over 6 years.
+-Entered long-term partnership with pan-African revolutionary group ???the Jackals,??? consolidating influence across the continent. Currently less than 1 year of active involvement."
+
+REFERENCE            billet_history_bale
+LANG_ENGLISH         "-Served 14 total years in Spetsnaz, Spetsgruppa A ??? Alpha Group, Counter-Terrorism. Achieved rank of St??rshiy serzh??nt (Staff Sergeant.)
+-Gravely wounded (GSW, C6 spinal cord injury) during Kurbanov Hospital siege, 2nd Chechen War.
+-Allowed to continue active duty in GRU administrative role. Fully rehabilitated over 5 years.
+-Passed physical requirements for readmission into Alpha Group- April, 2014.
+-Served 6 mo. under Gen. Barkov (Urzikstan) until filing formal complaint, citing civilian deaths."
+
+REFERENCE            billet_history_charly
+LANG_ENGLISH         "-Trained in tracking techniques from age 8 to 18 by father Cpt. Craig Johnstone, hunting poachers in Kenya and Tanzania.
+-Joined British Army in 2005 to follow family tradition. Applied for and passed selection for the Special Reconnaissance Regiment (SRR.)
+-Served multiple tours in Iraq, Afghanistan, and Libya. Paired with Lt. Jacob Micah Thorne, SAS, from 2011-present. Together, they maintain an 84.4% success rate (by Coalition figures.)
+-Orchestrated the successful defense and liberation of a CIA safehouse in southern Urzikstan, earning a friend in Case Officer Kate Laswell, CIA.
+-Al-Qatala attack on Piccadilly Circus solidified the SAS/SRR commitment to the Coalition. History with Laswell ensured assignment of operators Johnstone and Thorne."
+
+REFERENCE            billet_history_dday
+LANG_ENGLISH         "-Joined US Army on 18th birthday, 6 days after September 11th, 2001. Passed US Army Ranger school, May 2002. Deployed to Afghanistan in Operation Enduring Freedom, June 2002.
+-Redeployed to Iraq for Operation Iraqi Freedom; fought in 1st and 2nd battles for Fallujah.
+-Redeployed to Afghanistan for 2009 troop surge. Worked in extensive cooperation with Task Force Orange for 5 years until incident in Kandahar province involving Coalition operator ???Alice.??? (see below) Subsequently issued Section 8 Discharge, sent home to El Paso, TX.
+-Returned to Afghanistan with PMC group Hadrian Defense Solutions. Recruited for Demon Dogs by Coalition operator Alice in October 2019."
+
+REFERENCE            billet_history_domino
+LANG_ENGLISH         "-Trained since 16 years of age to represent France in the Summer Olympics (Track and Field.) Failed to qualify for 2012. On track to qualify for 2016. Changed focus after Al-Qatala attacks on Paris, joining French Army.
+-Selected for French Special Forces. Exhibited extraordinary physical fitness and cognitive ability. Broke 3 regiment records.
+-Sent to Urzikstan in 2017 for first combat deployment, tasked with supporting Coalition forces.
+-Hand-picked to represent France in WARCOM."
+
+REFERENCE            billet_history_golem
+LANG_ENGLISH         "-Raised in Oberstdorf, Germany. Taught the arts of bow hunting and wilderness tracking by father, Col. Daniel Blaustein, on frequent excursions into the German/Austrian Alps.
+-Joined the Bundeswehr at 18, following family tradition established post World War 2.
+-Passed selection for Kommando Spezialkr??fte (KSK) 4th Platoon- special geographic operations.
+-KSK deployments remain classified. Intel suggests operations in Mozambique, Urzikstan, and the Kastovian Mountains.
+-Enjoys a sterling reputation with KSK, despite investigation of Operation Nachtigall (see below.)"
+
+REFERENCE            billet_history_grinch
+LANG_ENGLISH         "-Training and military background unknown. Appears educated in both Coalition and Allegiance battle doctrines combined with self-taught survivalism.
+-???Discovered??? by Jackals patrol through the Democratic Republic of the Congo (DRC) lead by Cpt. Zane (fmr. Nigerian Army, 7th Infantry Division.)
+-3 Jackals fighters were reportedly killed by improvised traps and sniper fire while passing through a derelict jungle village occupied by Grinch. Cpt. Zane negotiated a cease fire and subsequent contract with operator Grinch. Currently 2 years of active service."
+
+REFERENCE            billet_history_krueger
+LANG_ENGLISH         "-Joined the German Bundeswehr under assumed identity ???Josef Doss.??? Now known to have been evading homicide charges in Salzburg, Austria (never convicted.)
+-Received exceptional marks in Long Range Surveillance training and subsequent selection process for the Kommando Spezialkr??fte (KSK.) Inducted into KSK 4th Platoon after 3 years.
+-Removed from active duty pending court-martial for suspected role in civilian killings during 04/12/18 ???Operation Nachtigall,??? Mozambique. Escaped KSK custody 04/15.
+-Fled to Eastern Europe (location unknown,) made contact with CHIMERA mercenary group. Entered long-term contract- currently 2 years in active service."
+
+REFERENCE            billet_history_minotaur
+LANG_ENGLISH         "-Served 5 total years in Spetsnaz, Spetsgruppa A ??? Alpha Group, Counter-Terrorism. Achieved rank of Serzh??nt (Sergeant.)
+-Witnessed wounding of brother SSgt. Dmitry Bale during Kurbanov Hospital siege, 2nd Chechen War (2009.) Falsely informed of brother Dmitry???s death. Discharged for psychological trauma.
+-Spent following 10 years in and out of PMC groups operating in Southeast Asia under assumed alias Sergei Krovopuskov. Holds outstanding warrants for felonies in Cambodia, Laos, and Thailand.
+-Tracked down by SSgt. Bale, July 2019. Requested for Allegiance Operator Status, Nov 2019."
+
+REFERENCE            billet_history_otter
+LANG_ENGLISH         "-Orphaned at 3 years of age, raised as a ???ward of the state.??? Juvenile criminal record includes several counts of larceny, burglary, vandalism, public intoxication, and aggravated assault.
+-Gained international fame in June 2011 (aged 19.) Thwarted an Al-Qatala knife attack in Hyde Park, London- beat suspect unconscious while onlookers watched and recorded the event.
+-Joined British Commandos in August 2011. Thrived in training. Entered SAS selection on recommendation by senior officers. Passed selection in January 2012.
+-Deployed to operations in Iraq, Afghanistan, Libya, Somalia, Yemen, and finally Urzikstan. Known to have served under Cpt. John Price in at least 7 operations."
+
+REFERENCE            billet_history_raines
+LANG_ENGLISH         "-Joined US Marine Corps in 2006. Received top marks in recruit training.
+-Served as a Marine Radio Operator in the Iraq War 2007-2009, utilized in infantry, armored, and finally special reconnaissance. Developed reputation as a fearless, ???laser-focused??? Marine.
+-Passed selection to become a Marine Raider. Served with distinction in Iraq until redeployment to Afghanistan, 2011-2015 assigned at the end to training Afghan Security Forces. Correspondence with family suggests retirement considered.
+-Reached out to friend/fellow soldier Sgt. Marcus Griggs USMC (Demon Dogs) to solicit help in reassignment. Immediately referred/deployed to Urzikstan to serve with the Demon Dogs."
+
+REFERENCE            billet_history_rodion
+LANG_ENGLISH         "-Served 2 years in Spetsnaz 24th Special Purpose Brigade in Irkutsk, specializing in state-of-the-art and prototype weapons systems.
+-Applied for selection into Spetsgruppa "B" or ???Vympel,??? specifically targeting a career in counter-terrorism operations. Cited desire to ???fight real evil,??? referring to Al-Qatala operations in Urzikstan and abroad.
+-Passed Vympel selection after 18 months. Deployed directly into Allegiance active duty by request of Sgt. Kamarov- apparently hand-picked for expertise in Western culture.
+-Verdansk appears to be first CT deployment in an active combat zone."
+
+REFERENCE            billet_history_syd
+LANG_ENGLISH         "-Joined US Army at 18, seeking overseas deployment and combat experience.
+-Stationed by [REDACTED] request to Yambol Province, Bulgaria. Enrolled in every available training course during 4 year term of service (completed.)
+-Records inconsistent over next 5 years. Reports indicate travel to conflict zones including (but not limited to) Ukraine, Urzikstan, and Mozambique. Presumed employment as a PMC.
+-Signed long-term contract with CHIMERA- currently 1 year of active service."
+
+REFERENCE            billet_history_thorne
+LANG_ENGLISH         "-Joined the RAF at 18. Entered and passed SAS selection at 23, honoring family tradition.
+-Served with distinction under Cpt. Johnathan Price, SAS for 3 years, operating in Iraq, Afghanistan, Urzikstan, and Kastovia (classified.)
+-Formally filed for transfer from Cpt. Price???s command in 2011, citing ethical concerns. Reportedly present for the unsanctioned capture and interrogation of suspected ultranationalists in Kastovia.
+-Chose officer???s track in effort to ???lead by example.??? Achieved rank of Lieutenant in 2014. Given command of an SAS platoon, and paired with Lt. Charlotte Johnstone (Charly) of the SRR.
+-Hand-picked by the Director Special Forces (DSF) to represent the SAS in the Coalition. Intercepted messages indicate DSF intent to monitor Cpt. Price. Counter-intelligence possible."
+
+REFERENCE            billet_history_title
+LANG_ENGLISH         "Service History / Training"
+
+REFERENCE            billet_history_wyatt
+LANG_ENGLISH         "-Born in rural Tasmania- raised on long distance camping expeditions and wilderness training.
+-Joined Australian Army with all 3 brothers in 2010. Each served full tours in Afghanistan- separate postings. Brothers returned to Tasmania.
+-Chose a military career, accepted into Australian Special Forces ??? 1st Commando Regiment, October 2012.
+-Known deployments in Afghanistan from 2012 to 2014, followed by operations in Urzikstan from 2015 to present day.
+-Coalition psych-eval notes pronounced affinity for extreme, dangerous scenarios. Recommended for WARCOM/Coalition selection by Cpl. Benjamin ???Otter??? Lee (SAS.)"
+
+REFERENCE            billet_history_yegor
+LANG_ENGLISH         "-Served full 2 year term in the Ukranian Naval Infantry.
+-Entered private sector after discharge. Used Navy contacts across the Black Sea for both white and black market shipping. Came to deal exclusively in illegal arms and cigarettes.
+-Forced out of Ukraine by former partners in the Sokolov Crime Family after reportedly refusing to broker a weapons deal with known ultranationalist Imran Zakhaev.
+-Entered long-term contract with CHIMERA, expanding contacts across Eastern Europe- currently 8 years of active service."
+
+REFERENCE            billet_history_zane
+LANG_ENGLISH         "-Served 12 years in the Nigerian Army- 1 Division, 3 Armoured Division, and 7th Infantry Division. Achieved the rank of Captain.
+-Resigned post April 2nd, 2016 in protest, having filed 3 formal complaints alleging misappropriation of foreign aid intended for the fight against Al-Qatala in West Africa.
+-Left with brother, Abraham Metiko and founded the Jackals PMC Group. Began recruiting and training troops from across Africa ???in defense of our countries, our families, and our way of life.???
+-Financed primarily by black market petroleum and illegal arms sales, the Jackals are officially designated a ???terrorist group??? by the Nigerian Government and Coalition forces."
+
+REFERENCE            billet_languages_alice
+LANG_ENGLISH         "English, Spanish"
+
+REFERENCE            billet_languages_azur
+LANG_ENGLISH         "Arabic, French, English"
+
+REFERENCE            billet_languages_bale
+LANG_ENGLISH         "English"
+
+REFERENCE            billet_languages_charly
+LANG_ENGLISH         "English, Russian, Swahili (novice,) Arabic (novice)"
+
+REFERENCE            billet_languages_dday
+LANG_ENGLISH         "English, Spanish (Novice)"
+
+REFERENCE            billet_languages_domino
+LANG_ENGLISH         "French, English, Korean (novice)"
+
+REFERENCE            billet_languages_golem
+LANG_ENGLISH         "German, Hebrew, English"
+
+REFERENCE            billet_languages_grinch
+LANG_ENGLISH         "English"
+
+REFERENCE            billet_languages_krueger
+LANG_ENGLISH         "Austrian German, German, English, Russian"
+
+REFERENCE            billet_languages_minotaur
+LANG_ENGLISH         "Russian, English, Thai"
+
+REFERENCE            billet_languages_otter
+LANG_ENGLISH         "English"
+
+REFERENCE            billet_languages_raines
+LANG_ENGLISH         "English, Spanish, Russian (novice,) Arabic (novice,) Pashto (novice)"
+
+REFERENCE            billet_languages_rodion
+LANG_ENGLISH         "English"
+
+REFERENCE            billet_languages_syd
+LANG_ENGLISH         "English, French, German, B??lgarski, Arabic, Russian"
+
+REFERENCE            billet_languages_thorne
+LANG_ENGLISH         "English"
+
+REFERENCE            billet_languages_title
+LANG_ENGLISH         "Languages"
+
+REFERENCE            billet_languages_wyatt
+LANG_ENGLISH         "English"
+
+REFERENCE            billet_languages_yegor
+LANG_ENGLISH         "Ukranian, Russian, English"
+
+REFERENCE            billet_languages_zane
+LANG_ENGLISH         "English"
+
+REFERENCE            billet_laterality_alice
+LANG_ENGLISH         "Left (Left Eye Dominant)"
+
+REFERENCE            billet_laterality_azur
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_bale
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_charly
+LANG_ENGLISH         "Left (Left Eye Dominant)"
+
+REFERENCE            billet_laterality_dday
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_domino
+LANG_ENGLISH         "Ambidextrous (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_golem
+LANG_ENGLISH         "Ambidextrous (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_grinch
+LANG_ENGLISH         "Ambidextrous (Left Eye Dominant)"
+
+REFERENCE            billet_laterality_krueger
+LANG_ENGLISH         "Ambidextrous (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_minotaur
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_otter
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_raines
+LANG_ENGLISH         "Ambidextrous (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_rodion
+LANG_ENGLISH         "Left (Left Eye Dominant)"
+
+REFERENCE            billet_laterality_syd
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_thorne
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_title
+LANG_ENGLISH         "Laterality"
+
+REFERENCE            billet_laterality_wyatt
+LANG_ENGLISH         "Left (Left Eye Dominant)"
+
+REFERENCE            billet_laterality_yegor
+LANG_ENGLISH         "Right (Right Eye Dominant)"
+
+REFERENCE            billet_laterality_zane
+LANG_ENGLISH         "Left (Left Eye Dominant)"
+
+REFERENCE            billet_maritalstatus_alice
+LANG_ENGLISH         "Married, Anna Lorraine Khoury"
+
+REFERENCE            billet_maritalstatus_azur
+LANG_ENGLISH         "Widowed; Wife, Atiya El-Sarraf (deceased)"
+
+REFERENCE            billet_maritalstatus_bale
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_charly
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_dday
+LANG_ENGLISH         "Divorced, Christina Katherine Lowery"
+
+REFERENCE            billet_maritalstatus_domino
+LANG_ENGLISH         "Married, Claude Louis Baccala"
+
+REFERENCE            billet_maritalstatus_golem
+LANG_ENGLISH         "Divorced, Nicoline Louise Brosseau"
+
+REFERENCE            billet_maritalstatus_grinch
+LANG_ENGLISH         "Unknown; intel suggests Single"
+
+REFERENCE            billet_maritalstatus_krueger
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_minotaur
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_otter
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_raines
+LANG_ENGLISH         "Engaged, Lakeisha Marie Carter"
+
+REFERENCE            billet_maritalstatus_rodion
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_syd
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_thorne
+LANG_ENGLISH         "Married, Cpl. Izabella King (RAF)"
+
+REFERENCE            billet_maritalstatus_title
+LANG_ENGLISH         "Marital Status"
+
+REFERENCE            billet_maritalstatus_wyatt
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_yegor
+LANG_ENGLISH         "Single"
+
+REFERENCE            billet_maritalstatus_zane
+LANG_ENGLISH         "Married; Wife, Omolara ???Lara??? Metiko"
+
+REFERENCE            billet_name_alice
+LANG_ENGLISH         "Sgt. Alexia Molina Valenzuela ??? ???Alice???"
+
+REFERENCE            billet_name_azur
+LANG_ENGLISH         "Azur Rashid El-Sarraf"
+
+REFERENCE            billet_name_bale
+LANG_ENGLISH         "SSgt. Dmitry Ivanovich Bale"
+
+REFERENCE            billet_name_charly
+LANG_ENGLISH         "Sgt. Charlotte Eleanor Johnstone ??? ???Charly???"
+
+REFERENCE            billet_name_dday
+LANG_ENGLISH         "Sgt. Wayne Dylan Davis ??? ???DDay???"
+
+REFERENCE            billet_name_domino
+LANG_ENGLISH         "Sgt. Dominique Tam ??? ???Domino???"
+
+REFERENCE            billet_name_golem
+LANG_ENGLISH         "Lt. Hans Rudolf Blaustein ??? ???Golem???"
+
+REFERENCE            billet_name_grinch
+LANG_ENGLISH         "Unknown"
+
+REFERENCE            billet_name_krueger
+LANG_ENGLISH         "Sebastian Josef Krueger  "
+
+REFERENCE            billet_name_minotaur
+LANG_ENGLISH         "Sgt. Maxim Ivanovich Bale"
+
+REFERENCE            billet_name_otter
+LANG_ENGLISH         "Cpl. Benjamin Francis Lee ??? ???Otter???"
+
+REFERENCE            billet_name_raines
+LANG_ENGLISH         "Sgt. Damian Ezekiel Raines ??? ???Raines???"
+
+REFERENCE            billet_name_rodion
+LANG_ENGLISH         "Sgt. 2nd Class Nikodim Rodionovich Egorov"
+
+REFERENCE            billet_name_syd
+LANG_ENGLISH         "Sydney [REDACTED]"
+
+REFERENCE            billet_name_thorne
+LANG_ENGLISH         "Lt. Jacob Micah Thorne ??? ???Thorne???"
+
+REFERENCE            billet_name_title
+LANG_ENGLISH         "Name"
+
+REFERENCE            billet_name_wyatt
+LANG_ENGLISH         "Sgt. Jackson Henry Wyatt ??? ???Wyatt???"
+
+REFERENCE            billet_name_yegor
+LANG_ENGLISH         "Yegor Arturovych Novak"
+
+REFERENCE            billet_name_zane
+LANG_ENGLISH         "Cpt. Viktor Isaac Metiko (fmr. Nigerian Army)"
+
+REFERENCE            billet_nationality_alice
+LANG_ENGLISH         "Mexican-American"
+
+REFERENCE            billet_nationality_azur
+LANG_ENGLISH         "Egyptian"
+
+REFERENCE            billet_nationality_bale
+LANG_ENGLISH         "Russian"
+
+REFERENCE            billet_nationality_charly
+LANG_ENGLISH         "Scottish (UK Citizen)"
+
+REFERENCE            billet_nationality_dday
+LANG_ENGLISH         "American"
+
+REFERENCE            billet_nationality_domino
+LANG_ENGLISH         "Korean-French"
+
+REFERENCE            billet_nationality_golem
+LANG_ENGLISH         "German"
+
+REFERENCE            billet_nationality_grinch
+LANG_ENGLISH         "Unknown (Eastern Bantu accent, Western education suspected)"
+
+REFERENCE            billet_nationality_krueger
+LANG_ENGLISH         "Austrian"
+
+REFERENCE            billet_nationality_minotaur
+LANG_ENGLISH         "Russian"
+
+REFERENCE            billet_nationality_otter
+LANG_ENGLISH         "English (UK Citizen)"
+
+REFERENCE            billet_nationality_raines
+LANG_ENGLISH         "American "
+
+REFERENCE            billet_nationality_rodion
+LANG_ENGLISH         "Russian"
+
+REFERENCE            billet_nationality_syd
+LANG_ENGLISH         "American"
+
+REFERENCE            billet_nationality_thorne
+LANG_ENGLISH         "English (UK Citizen)"
+
+REFERENCE            billet_nationality_title
+LANG_ENGLISH         "Nationality"
+
+REFERENCE            billet_nationality_wyatt
+LANG_ENGLISH         "Australian (Tasmania)"
+
+REFERENCE            billet_nationality_yegor
+LANG_ENGLISH         "Ukranian"
+
+REFERENCE            billet_nationality_zane
+LANG_ENGLISH         "Nigerian (Yoruba)"
+
+REFERENCE            billet_relatives_alice
+LANG_ENGLISH         "Sister, Isabella Molina Valenzuela (missing); Mother, Rosalina ???Rosi??? Valenzuela Capel; Father, Ruben Molina Hern??ndez (missing)"
+
+REFERENCE            billet_relatives_azur
+LANG_ENGLISH         "Mother, Fatima El-Sarraf (deceased); Father, Rashid Masud El-Sarraf (deceased)"
+
+REFERENCE            billet_relatives_bale
+LANG_ENGLISH         "Brother, Sgt. Maxim Ivanovich Bale (fraternal twin); Mother, Kalinina Timurovna Sadovova; Father, Ivan Romanovich Bale"
+
+REFERENCE            billet_relatives_charly
+LANG_ENGLISH         "Mother, Emilia Gilmour Johnstone; Father, Cpt. Craig Aaron Johnstone (British Army, retired)"
+
+REFERENCE            billet_relatives_dday
+LANG_ENGLISH         "Mother, Grace Maria Gonzalez; Father, Carl Wayne Davis"
+
+REFERENCE            billet_relatives_domino
+LANG_ENGLISH         "Sister, Chlo?? Tam; Mother, Sandrine Tam; Father, Silvain Tam"
+
+REFERENCE            billet_relatives_golem
+LANG_ENGLISH         "Brothers, Simon Rudolf Blaustein, Ari Michael Blaustein; Mother, Martina Weiss Blaustein; Father, Col. Daniel Rudolf Blaustein (KSK)"
+
+REFERENCE            billet_relatives_grinch
+LANG_ENGLISH         "Unknown"
+
+REFERENCE            billet_relatives_krueger
+LANG_ENGLISH         "Mother, Mona Doss (deceased); Father, Jonathan Krueger (deceased)"
+
+REFERENCE            billet_relatives_minotaur
+LANG_ENGLISH         "Brother, SSgt. Dmitry Ivanovich Bale (fraternal twin); Mother, Kalinina Timurovna Sadovova; Father, Ivan Romanovich Bale"
+
+REFERENCE            billet_relatives_otter
+LANG_ENGLISH         "Mother, Ruby Atkins Lee (deceased); Father, Unknown"
+
+REFERENCE            billet_relatives_raines
+LANG_ENGLISH         "Mother, Marika Pekama Raines; Father, Claudius Michael Raines"
+
+REFERENCE            billet_relatives_rodion
+LANG_ENGLISH         "Mother, Irina Maximovna Petrova; Father, Rodion Mikhailovich Egorov (deceased)"
+
+REFERENCE            billet_relatives_syd
+LANG_ENGLISH         "Mother, [REDACTED], Father, [REDACTED]"
+
+REFERENCE            billet_relatives_thorne
+LANG_ENGLISH         "Mother, Lt. Ruth Eliana Burling (Royal Navy, retired); Father, Maj. Stephen Micah Thorne (SAS, retired)"
+
+REFERENCE            billet_relatives_title
+LANG_ENGLISH         "Relatives"
+
+REFERENCE            billet_relatives_wyatt
+LANG_ENGLISH         "Brothers, William ???Billy??? Wyatt Jr., James ???Jimmy??? Wyatt, Jeffrey ???Jeffy??? Wyatt; Mother, Claire Marshall Wyatt (deceased); Father, William Henry Wyatt"
+
+REFERENCE            billet_relatives_yegor
+LANG_ENGLISH         "Mother, Svetlana Sirenko; Father, Arturo Novak (deceased)"
+
+REFERENCE            billet_relatives_zane
+LANG_ENGLISH         "Brother, Abraham Metiko; Mother, Shola Metiko; Father, Sunkanmi Metiko"
+
+REFERENCE            billet_specialist_title
+LANG_ENGLISH         "Specialist Fields"
+
+REFERENCE            billet_specialistfield_alice
+LANG_ENGLISH         "Firearms, Melee Combat, Close Quarter Combat (CQC,) Search and Rescue, Intelligence Support, Indigenous Relations"
+
+REFERENCE            billet_specialistfield_azur
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Logistics, Finance, Smuggling"
+
+REFERENCE            billet_specialistfield_bale
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Wrestling, Counter-Terrorism, Tactics/Logistics, Hostage Negotiation, Advanced Interrogation, Urban Warfare"
+
+REFERENCE            billet_specialistfield_charly
+LANG_ENGLISH         "Firearms, Melee Combat, Logistics/Tactics, Advanced Tracking, Long Range Reconnaissance, Marksmanship, Communications"
+
+REFERENCE            billet_specialistfield_dday
+LANG_ENGLISH         "Firearms, Melee Combat, Close Quarter Combat (CQC,) Light/Heavy Vehicles"
+
+REFERENCE            billet_specialistfield_domino
+LANG_ENGLISH         "Firearms (Competition Level,) Melee Combat, Close Quarters Combat (CQC,) Covert Operations, Advanced Tactics, Vehicles (Heavy, Land, and Air)"
+
+REFERENCE            billet_specialistfield_golem
+LANG_ENGLISH         "Firearms, Melee Combat, Marksmanship, Covert Operations, Wilderness Survival, Tracking, Mountaineering, Long Range Reconnaissance"
+
+REFERENCE            billet_specialistfield_grinch
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Covert Operations, Tracking, Trapping, Wilderness Survival"
+
+REFERENCE            billet_specialistfield_krueger
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Tracking, Covert Operations, Wilderness Survival"
+
+REFERENCE            billet_specialistfield_minotaur
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Wrestling/Grappling, Heavy Weapons, Land Vehicles"
+
+REFERENCE            billet_specialistfield_otter
+LANG_ENGLISH         "Firearms, Melee Combat (Striking/Grappling,) Marksmanship, Explosives, Survival Skills"
+
+REFERENCE            billet_specialistfield_raines
+LANG_ENGLISH         "Firearms, Melee Combat, Close Quarter Combat (CQC,) Tactics, Marksmanship, Communications"
+
+REFERENCE            billet_specialistfield_rodion
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Advanced Weapons, Western Relations, Field Medicine"
+
+REFERENCE            billet_specialistfield_syd
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Demolitions, Improvised Weaponry"
+
+REFERENCE            billet_specialistfield_thorne
+LANG_ENGLISH         "Firearms, Melee Combat, Logistics/Tactics, Urban Warfare, Counter-Terrorism, Wilderness Survival, Field Medicine"
+
+REFERENCE            billet_specialistfield_wyatt
+LANG_ENGLISH         "Firearms, Melee Combat, Close Quarters Combat (CQC,) Covert Operations, Wilderness Survival, Advanced Tactics, Land Vehicles, HALO Infiltration, High Explosives, Demolitions"
+
+REFERENCE            billet_specialistfield_yegor
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Advanced Interrogation, Smuggling, Racketeering"
+
+REFERENCE            billet_specialistfield_zane
+LANG_ENGLISH         "Firearms, Hand-to-Hand Combat, Covert Operations, Tactics/Logistics"
+
+REFERENCE            billet_vision_alice
+LANG_ENGLISH         "20/19"
+
+REFERENCE            billet_vision_azur
+LANG_ENGLISH         "20/20"
+
+REFERENCE            billet_vision_bale
+LANG_ENGLISH         "20/20"
+
+REFERENCE            billet_vision_charly
+LANG_ENGLISH         "21/21"
+
+REFERENCE            billet_vision_dday
+LANG_ENGLISH         "20/19"
+
+REFERENCE            billet_vision_domino
+LANG_ENGLISH         "20/20"
+
+REFERENCE            billet_vision_golem
+LANG_ENGLISH         "20/20"
+
+REFERENCE            billet_vision_grinch
+LANG_ENGLISH         "Unknown"
+
+REFERENCE            billet_vision_krueger
+LANG_ENGLISH         "21/20"
+
+REFERENCE            billet_vision_minotaur
+LANG_ENGLISH         "19/20"
+
+REFERENCE            billet_vision_otter
+LANG_ENGLISH         "19/21"
+
+REFERENCE            billet_vision_raines
+LANG_ENGLISH         "20/19"
+
+REFERENCE            billet_vision_rodion
+LANG_ENGLISH         "21/22"
+
+REFERENCE            billet_vision_syd
+LANG_ENGLISH         "20/20"
+
+REFERENCE            billet_vision_thorne
+LANG_ENGLISH         "21/21"
+
+REFERENCE            billet_vision_title
+LANG_ENGLISH         "Vision"
+
+REFERENCE            billet_vision_wyatt
+LANG_ENGLISH         "19/20"
+
+REFERENCE            billet_vision_yegor
+LANG_ENGLISH         "20/18"
+
+REFERENCE            billet_vision_zane
+LANG_ENGLISH         "21/19"
+
+REFERENCE            billet_weight_alice
+LANG_ENGLISH         "64.4kg"
+
+REFERENCE            billet_weight_azur
+LANG_ENGLISH         "185 lbs"
+
+REFERENCE            billet_weight_bale
+LANG_ENGLISH         "201 lbs"
+
+REFERENCE            billet_weight_charly
+LANG_ENGLISH         "58.9kg"
+
+REFERENCE            billet_weight_dday
+LANG_ENGLISH         "92.8kg"
+
+REFERENCE            billet_weight_domino
+LANG_ENGLISH         "59.1kg"
+
+REFERENCE            billet_weight_golem
+LANG_ENGLISH         "86.1kg"
+
+REFERENCE            billet_weight_grinch
+LANG_ENGLISH         "190 lbs"
+
+REFERENCE            billet_weight_krueger
+LANG_ENGLISH         "172 lbs"
+
+REFERENCE            billet_weight_minotaur
+LANG_ENGLISH         "210 lbs"
+
+REFERENCE            billet_weight_otter
+LANG_ENGLISH         "78.9kg"
+
+REFERENCE            billet_weight_raines
+LANG_ENGLISH         "92.8kg"
+
+REFERENCE            billet_weight_rodion
+LANG_ENGLISH         "177 lbs"
+
+REFERENCE            billet_weight_syd
+LANG_ENGLISH         "134 lbs"
+
+REFERENCE            billet_weight_thorne
+LANG_ENGLISH         "80.2kg"
+
+REFERENCE            billet_weight_title
+LANG_ENGLISH         "Weight"
+
+REFERENCE            billet_weight_wyatt
+LANG_ENGLISH         "83.8kg"
+
+REFERENCE            billet_weight_yegor
+LANG_ENGLISH         "170 lbs"
+
+REFERENCE            billet_weight_zane
+LANG_ENGLISH         "170 lbs"
+
+REFERENCE            dealer_title
+LANG_ENGLISH         "Dealer"
+
+REFERENCE            landlord_title
+LANG_ENGLISH         "Landlord"
+
+REFERENCE            launderer_title
+LANG_ENGLISH         "Launderer"
+
+REFERENCE            missing_person_1
+LANG_ENGLISH         "MISSING
+
+Yana Kostyuk
+
+Age: 38, short black hair
+
+Last seen 03/03 caring for patients at Verdansk Hospital. 
+
+Nurse. Mother of 2.
+
+PLEASE CALL +380-12549871-22"
+
+REFERENCE            missing_person_1_name
+LANG_ENGLISH         "Yana Kostyuk"
+
+REFERENCE            missing_person_2
+LANG_ENGLISH         "MISSING PERSON
+
+Antonina Morozova ??? goes by ???Nina???
+
+Please find her!!
+
+57 years old, last seen at her house by the Gora River (the yellow one.) 
+
+We love you Nina! +7-08472102-90"
+
+REFERENCE            missing_person_2_name
+LANG_ENGLISH         "Antonina Morozova"
+
+REFERENCE            missing_person_3
+LANG_ENGLISH         "Vadym Karpenko
+
+Missing ??? Verdansk Stadium, last seen wearing Sparks jersey. 
+
+No word since 03/03!
+
+Aged 16, 175cm, blonde hair.
+
+Call +7-27951808-34  Bring him home to us!!!"
+
+REFERENCE            missing_person_3_name
+LANG_ENGLISH         "Vadym Karpenko"
+
+REFERENCE            missing_person_4
+LANG_ENGLISH         "Missing on Invasion Day 03/03
+Anton Savych Vlasyuk
+
+27 years old, Tall, Dark hair
+
+Anton don???t fight them, meet us at Uncle Rustam???s!
+
+If seen, call +380-84365971-77"
+
+REFERENCE            missing_person_4_name
+LANG_ENGLISH         "Anton Savych Vlasyuk"
+
+REFERENCE            missing_person_5
+LANG_ENGLISH         "MISSING PERSON
+Lyudmilla Yarov
+Age: 34 years old, Height: 160cm, Weight: 63kg, Hair: Dark Brown
+Last seen near Torsk Bloc. Worked as air traffic controller at Verdansk International Airport. 
++380-84365971-77"
+
+REFERENCE            missing_person_6
+LANG_ENGLISH         "MISSING!
+Orysya Stepanivna Moroz
+Age: 29, Height: 177cm, 56kg 
+Beloved wife, mother to newborn Sacha. Lost on convoy last seen 03/03 heading south toward Verdansk Port.
+If seen, call +7-65438420-38
+I will wait for you always, my sparrow. ??? Maksym."
+
+REFERENCE            newref
+LANG_ENGLISH         "New text"
+
+REFERENCE            not_found
+LANG_ENGLISH         "Unknown"
+
+REFERENCE            note_button_ax
+LANG_ENGLISH         "Note AX"
+
+REFERENCE            note_button_axv
+LANG_ENGLISH         "Note AXV"
+
+REFERENCE            note_button_axx
+LANG_ENGLISH         "Note AXX"
+
+REFERENCE            note_button_oiii
+LANG_ENGLISH         "Note OIII"
+
+REFERENCE            note_translation_ax
+LANG_ENGLISH         "Weeds setting deep roots in silver fields- more every day. Trees can???t grow there.
+Trees thrive in the hills, sway over field and valley. Gather light while three suns shine.
+No weeds in the yard. Trees shade the cabin at high tea."
+
+REFERENCE            note_translation_axv
+LANG_ENGLISH         "Trees fallen in the hills, shade gone, weeds taken root. Seed and poison, feed and kill, make roots dig deep. Keep weeds planted.
+Grow and sway silent over three rivers- salt, steel, and sky. See what flows, gather light.
+Do not fear death, offer your light. Weeds die, the forest remains."
+
+REFERENCE            note_translation_axx
+LANG_ENGLISH         "Death whispers- blackberry has been taken, no more shade at sunset. 
+Blackberry saw weeds bring thorns to river sky- poisonous. May shine light on thief and devil.
+Angels of death coming for blackberry. Seed and poison river salt, draw away from sky. "
+
+REFERENCE            note_translation_oiii
+LANG_ENGLISH         "Angels of death burn weeds from soil. Roots, untouched, grow more. Forest already burning.
+Thief and devil bring more than thorns, build safely in the shade. 
+Sway over weeds, sway over rivers. Light the way for death- promises angels to follow."
+
+REFERENCE            photo_day1_button
+LANG_ENGLISH         "Garma Pass"
+
+REFERENCE            photo_day1_location
+LANG_ENGLISH         "Garma Pass - Arklov Peak Military Facility"
+
+REFERENCE            photo_day1_time
+LANG_ENGLISH         "03/03/2020 - 0300 hours"
+
+REFERENCE            photo_day2_location
+LANG_ENGLISH         "Downtown Verdansk"
+
+REFERENCE            photo_day2_time
+LANG_ENGLISH         "03/03/2020 - 1100 hours"
+
+REFERENCE            photo_day3_location
+LANG_ENGLISH         "Verdansk Airport"
+
+REFERENCE            photo_day3_time
+LANG_ENGLISH         "03/03/2020 - 1400 hours"
+
+REFERENCE            photo_day4_loaction
+LANG_ENGLISH         "Gora River"
+
+REFERENCE            photo_day4_time
+LANG_ENGLISH         "03/03/2020 - 1500 hours"
+
+REFERENCE            sms_button_baba
+LANG_ENGLISH         "SMS Baba"
+
+REFERENCE            sms_button_lyubov
+LANG_ENGLISH         "SMS Lyubov"
+
+REFERENCE            sms_button_mom
+LANG_ENGLISH         "SMS Mom
+"
+
+REFERENCE            sms_button_olena
+LANG_ENGLISH         "SMS Olena"
+
+REFERENCE            sms_text_baba
+LANG_ENGLISH         "Monday 03/02/2020, 1920 hours (GMT+3)
+
+RECIPIENT ???Baba???: If you really want to quit uni, that???s up to you, but you???re gonna have to tell your mother.
+
+SENDER: I know??? I just don???t know what else to do. 
+
+RECIPIENT ???Baba???: Mustafa you???re my boy! Verdansk might not be it, but you???ll find your way. Take the night off, we???ll talk tomorrow. ???????? ??????????????.
+
+SENDER: night <3
+
+Tuesday 03/03/2020, 1120 hours (GMT+3)
+
+SENDER: Hey baba. Not sure if youll get this???we've been attacked. They say it???s Al-Qatala. I know youd want me to try to come home (Mom especially) but I can???t stop thnking about Uncle Tariq... He couldve left Urzikstan to be with us but he stayed and followed Karim. He fought for something. Now with this... My whole life, I wanted something to fight for and I think Ive finally found it. These people need my help. Don???t know how long its gonna take or if I???ll make it, but don???t be worried for me. Pray for Verdansk. ???????? ??????????????  - Stafa"
+
+REFERENCE            sms_text_lyubov
+LANG_ENGLISH         "Tuesday 03/03/2020, 1340 hours (GMT+3)
+
+SENDER: A soldier just walked by our truck and said things are moving up ahead. They???re letting people onto the boats where are you??
+
+RECIPIENT ???Lyubov???: Roads blocked, I had to leave the car. Heading south through the trees by the farm, I can see the port
+
+SENDER: Ok just get here!!
+
+SENDER: Baby someones shooting, people are rushing the docks! HURRY!!! 
+
+RECIPIENT ???Lyubov???: Im here! Whats your truck look like??
+
+MISSED CALL - Tuesday 3/03/2020, 1350 hours (GMT+3)
+
+MISSED CALL - Tuesday 3/03/2020, 1350 hours (GMT+3)
+
+MISSED CALL - Tuesday 3/03/2020, 1351 hours (GMT+3)"
+
+REFERENCE            sms_text_mom
+LANG_ENGLISH         "Friday 02/21/2020, 1930 hours (GMT+3)
+
+RECIPIENT ???Mom???: Your sister and the boys will be here on the 6th. Everyone else is at the hospital. They gave your father a month at the most, you need to see him soon.
+
+SENDER: can???t make it I???ll lose my job
+
+RECIPIENT ???Mom???: Evgeny, he???s asking for you???
+
+RECIPIENT ???Mom???: Please just think about it. 
+
+Tuesday 03/03/2020, 1100 hours (GMT+3)
+
+SENDER: Mom, something bad is happening the citys under attack. Terrorists or some kind of army don???t know who. I???m stuck downtown at work with some people on the 4th floor of XK. It sounds like theyve gotten in we heard shots. I love you. Tell dad I wish things were different. Tell him I forgive him.
+
+[MESSAGE NOT DELIVERED]"
+
+REFERENCE            sms_text_olena
+LANG_ENGLISH         "Monday 03/02/2020, 1810 hours (GMT+3)
+
+SENDER: It???s my week Olena. I???m their father and I???m taking my kids to a Sparks game.
+
+RECIPIENT ???Olena???:  Your last two checks bounce and suddenly you can afford tickets?? Besides both Roman and Sava hate football you???re not doing this for them
+
+SENDER: You can pick them up on Friday. I???m turning off my phone now.
+
+RECIPIENT ???Olena???:  Of course you are!!
+
+MISSED CALL - Tuesday 3/03/2020, 0811 hours (GMT+3)
+
+MISSED CALL - Tuesday 3/03/2020, 0811 hours (GMT+3)
+
+Tuesday 03/03/2020, 0812 hours (GMT+3)
+
+RECIPIENT ???Olena???: Where are you where are the kids??
+
+Tuesday 03/03/2020, 0813 hours (GMT+3)
+
+RECIPIENT ???Olena???: Stefan there are soldiers everywhere, are you safe? I swear if your fucking phone is still off???
+
+Tuesday 03/03/2020, 0813 hours (GMT+3)
+
+RECIPIENT ???Olena???: Stefan please answer
+
+RECIPIENT ???Olena???: Please Stefan??? tell me you???re all ok"
+
+REFERENCE            smuggler_title
+LANG_ENGLISH         "Smuggler"
+
+REFERENCE            text_mom
+LANG_ENGLISH         "Friday 02/21/2020, 1930 hours (GMT+3)
+RECIPIENT ???Mom???: Your sister and the boys will be here on the 6th. Everyone else is at the hospital. They gave your father a month at the most, you need to see him soon.
+SENDER: can???t make it I???ll lose my job
+RECIPIENT ???Mom???: Evgeny, he???s asking for you???
+RECIPIENT ???Mom???: Please just think about it. 
+Tuesday 03/03/2020, 1100 hours (GMT+3)
+SENDER: Mom, something bad is happening the citys under attack. Terrorists or some kind of army don???t know who. I???m stuck downtown at work with some people on the 4th floor of XK. It sounds like theyve gotten in we heard shots. I love you. Tell dad I wish things were different. Tell him I forgive him.
+[MESSAGE NOT DELIVERED]"
+
+REFERENCE            translation
+LANG_ENGLISH         "Translation"
+
+
+ENDMARKER

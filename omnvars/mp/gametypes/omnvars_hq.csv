@@ -1,0 +1,5 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,,
+include,omnvars/mp/omnvars_hardpoint.csv,,,,,,,
+ui_hq_num_alive,1,,g,i,0,0,100,
+ui_hq_ownerteam,1,,g,i,-1,-1,2,
+ui_hq_norespawn,1,,c,b,0,0,1,

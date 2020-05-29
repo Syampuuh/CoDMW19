@@ -1,0 +1,7 @@
+???alias,min_height,max_height,min_arrival_yaw,max_arrival_yaw,min_length,max_length,__END__,
+jump_across_short,,23,,,,106,,
+jump_across_long,23,32,,,106,,,
+slide,32,52,,,,,,
+vault_over,52,,,,,,,
+default,,,,,,,,
+__END__,,,,,,,,

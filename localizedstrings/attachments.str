@@ -1,0 +1,3809 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            acog_generic
+LANG_ENGLISH         "Scout"
+
+REFERENCE            akimbo
+LANG_ENGLISH         "Akimbo"
+
+REFERENCE            ammomod_exitdamage
+LANG_ENGLISH         "Shrapnel"
+
+REFERENCE            ammomod_impact
+LANG_ENGLISH         "Heavy Impact"
+
+REFERENCE            ammomod_incendiary
+LANG_ENGLISH         "Incendiary Ammo"
+
+REFERENCE            ammomod_slow
+LANG_ENGLISH         "Frangible - Disabling"
+
+REFERENCE            ammomod_subsonic
+LANG_ENGLISH         ".300 Blackout Ammunition"
+
+REFERENCE            ammomod_wound
+LANG_ENGLISH         "Frangible - Wounding"
+
+REFERENCE            armsh_crossbow
+LANG_ENGLISH         "XRK Thunder 200 Lb"
+
+REFERENCE            armsl_crossbow
+LANG_ENGLISH         "XRK Carbon Elite"
+
+REFERENCE            armstac_crossbow
+LANG_ENGLISH         "XRK Quill 100 Lb"
+
+REFERENCE            auto
+LANG_ENGLISH         "Full-Auto Conversion."
+
+REFERENCE            barbull1_hdromeo
+LANG_ENGLISH         "17.2" Bull Barrel"
+
+REFERENCE            barbull2_hdromeo
+LANG_ENGLISH         "26.0" Bull Barrel"
+
+REFERENCE            barburst_mike9
+LANG_ENGLISH         "Mk3 Burst Mod"
+
+REFERENCE            bargrip1_akilo47
+LANG_ENGLISH         "23.0" Romanian"
+
+REFERENCE            bargrip1_sierra552
+LANG_ENGLISH         "ZLR Drifter A-08"
+
+REFERENCE            barheavy1
+LANG_ENGLISH         "Heavy Duty Barrel"
+
+REFERENCE            barheavy1_akilo47
+LANG_ENGLISH         "Spetsnaz Elite"
+
+REFERENCE            barheavy1_alpha50
+LANG_ENGLISH         "Singuard Arms Pro"
+
+REFERENCE            barheavy1_augolf
+LANG_ENGLISH         "407mm Lightweight"
+
+REFERENCE            barheavy1_beta
+LANG_ENGLISH         "8.7" Polygonal"
+
+REFERENCE            barheavy1_cpapa
+LANG_ENGLISH         "Silverfield Ordnance .357"
+
+REFERENCE            barheavy1_decho
+LANG_ENGLISH         "FORGE TAC Extended"
+
+REFERENCE            barheavy1_kilo121
+LANG_ENGLISH         "M91 Special Forces"
+
+REFERENCE            barheavy1_mgolf34
+LANG_ENGLISH         "FSS Brute"
+
+REFERENCE            barheavy1_mgolf36
+LANG_ENGLISH         "FSS 18.9" Sentry"
+
+REFERENCE            barheavy1_mkilo3
+LANG_ENGLISH         "XRK Horizon 23.0""
+
+REFERENCE            barheavy1_mpapa7
+LANG_ENGLISH         "FSS STRIKE"
+
+REFERENCE            barheavy1_papa320
+LANG_ENGLISH         "XRK V Extended"
+
+REFERENCE            barheavy1_papa90
+LANG_ENGLISH         "FSS 10.6" Pro"
+
+REFERENCE            barheavy1_pkilo
+LANG_ENGLISH         "25.9" Heavy Barrel"
+
+REFERENCE            barheavy1_shtgn
+LANG_ENGLISH         "Tapered Barrel"
+
+REFERENCE            barheavy1_shtgn_dpapa12
+LANG_ENGLISH         "FORGE TAC Sentry"
+
+REFERENCE            barheavy1_shtgn_mike26
+LANG_ENGLISH         "16" Warlord"
+
+REFERENCE            barheavy1_shtgn_oscar12
+LANG_ENGLISH         "FORGE TAC Precision"
+
+REFERENCE            barheavy1_shtgn_romeo870
+LANG_ENGLISH         "XRK 18.0" Liberator"
+
+REFERENCE            barheavy1_sierra552
+LANG_ENGLISH         "XRK CZEN mk2"
+
+REFERENCE            barheavy1_sksierra
+LANG_ENGLISH         "FTAC Landmark"
+
+REFERENCE            barheavy1_smgolf45
+LANG_ENGLISH         "300mm Poly Barrel"
+
+REFERENCE            barheavy1_uzulu
+LANG_ENGLISH         "13.1" First Responder"
+
+REFERENCE            barheavy2_golf21
+LANG_ENGLISH         "Singuard Arms Advantage"
+
+REFERENCE            barheavy2_mike1911
+LANG_ENGLISH         "1911 Stalker"
+
+REFERENCE            barheavy2_tango21
+LANG_ENGLISH         "FORGE TAC Eclipse"
+
+REFERENCE            barlight1
+LANG_ENGLISH         "Lightweight Barrel"
+
+REFERENCE            barlight1_beta
+LANG_ENGLISH         "8.7" Aluminum"
+
+REFERENCE            barlight1_falima
+LANG_ENGLISH         "18.0" Ultralight"
+
+REFERENCE            barlight1_falpha
+LANG_ENGLISH         "FORGE TAC Ultralight"
+
+REFERENCE            barlight1_galima
+LANG_ENGLISH         "FSS 11.8" Squall"
+
+REFERENCE            barlight1_mgolf34
+LANG_ENGLISH         "FSS Elite"
+
+REFERENCE            barlight1_mike14
+LANG_ENGLISH         "FORGE TAC Elite"
+
+REFERENCE            barlight1_mike4
+LANG_ENGLISH         "FSS 14.5" Tac Lite"
+
+REFERENCE            barlight1_mpapa5
+LANG_ENGLISH         "FSS Light"
+
+REFERENCE            barlight1_mpapa7
+LANG_ENGLISH         "FSS SWAT"
+
+REFERENCE            barlight1_papa320
+LANG_ENGLISH         "A9-16 Lightweight"
+
+REFERENCE            barlight1_shtgn
+LANG_ENGLISH         "Smooth Bore Barrel"
+
+REFERENCE            barlight1_shtgn_charlie725
+LANG_ENGLISH         "Tempus Smooth Bore"
+
+REFERENCE            barlight1_shtgn_dpapa12
+LANG_ENGLISH         "FORGE TAC Gemini"
+
+REFERENCE            barlight1_shtgn_oscar12
+LANG_ENGLISH         "FORGE TAC Wideshot"
+
+REFERENCE            barlight2_golf21
+LANG_ENGLISH         "Singuard Arms Featherweight"
+
+REFERENCE            barlight2_mgolf36
+LANG_ENGLISH         "XRK Ultralight"
+
+REFERENCE            barlight2_mike9
+LANG_ENGLISH         "Mk1 Competition"
+
+REFERENCE            barlong2_alpha50
+LANG_ENGLISH         "32.0" Factory Barrel"
+
+REFERENCE            barlong2_asierra12
+LANG_ENGLISH         "Oden Factory 730mm "
+
+REFERENCE            barlong2_kilo121
+LANG_ENGLISH         "M91 Heavy"
+
+REFERENCE            barlong2_kilo98
+LANG_ENGLISH         "Singuard Custom 21.2""
+
+REFERENCE            barlong2_lima86
+LANG_ENGLISH         "SA87 25.4" Factory"
+
+REFERENCE            barlong2_mike14
+LANG_ENGLISH         "FORGE TAC Precision 20.0" "
+
+REFERENCE            barlong2_mike1911
+LANG_ENGLISH         ".45 Match Grade"
+
+REFERENCE            barlong2_pkilo
+LANG_ENGLISH         "26.9" Extended Barrel"
+
+REFERENCE            barlong2_pstl
+LANG_ENGLISH         "Extended Slide"
+
+REFERENCE            barlong2_sbeta
+LANG_ENGLISH         "FSS 18.0" Factory"
+
+REFERENCE            barlong3_alt_augolf
+LANG_ENGLISH         "407mm Extended Barrel"
+
+REFERENCE            barlong3_alt_kilo433
+LANG_ENGLISH         "Singuard Arms 16.6" SOCOM"
+
+REFERENCE            barlong3_beta
+LANG_ENGLISH         "8.7" Steel"
+
+REFERENCE            barlong3_delta
+LANG_ENGLISH         "660mm Extended Barrel"
+
+REFERENCE            barlong3_falima
+LANG_ENGLISH         "XRK Marksman"
+
+REFERENCE            barlong3_golf21
+LANG_ENGLISH         "Vanguard Elite"
+
+REFERENCE            barlong3_kilo98
+LANG_ENGLISH         "Singuard Custom 25.1""
+
+REFERENCE            barlong3_mike14
+LANG_ENGLISH         "FORGE TAC Precision 22.0""
+
+REFERENCE            barlong3_mike9
+LANG_ENGLISH         "Mk1 Extended"
+
+REFERENCE            barlong3_mkilo3
+LANG_ENGLISH         "XRK Summit 26.8""
+
+REFERENCE            barlong3_mpapa7
+LANG_ENGLISH         "FSS RECON"
+
+REFERENCE            barlong3_papa320
+LANG_ENGLISH         "XRK L Super"
+
+REFERENCE            barlong3_sbeta
+LANG_ENGLISH         "FSS 20.0" Factory"
+
+REFERENCE            barlong3_scharlie
+LANG_ENGLISH         "FORGE TAC 17.2" LB"
+
+REFERENCE            barlong3_uzulu
+LANG_ENGLISH         "16.5" Factory Carbine"
+
+REFERENCE            barlong4
+LANG_ENGLISH         "Long Barrel"
+
+REFERENCE            barlong4_akilo47
+LANG_ENGLISH         "23.0" RPK Barrel"
+
+REFERENCE            barlong4_asierra12
+LANG_ENGLISH         "Oden Factory 810mm"
+
+REFERENCE            barlong4_charlie725
+LANG_ENGLISH         "Tempus 32" Competition"
+
+REFERENCE            barlong4_cpapa
+LANG_ENGLISH         ".357 Long"
+
+REFERENCE            barlong4_decho
+LANG_ENGLISH         "FORGE TAC Enforcer"
+
+REFERENCE            barlong4_falpha
+LANG_ENGLISH         "FR 24.4" Sniper"
+
+REFERENCE            barlong4_galima
+LANG_ENGLISH         "XRK Equinox S440"
+
+REFERENCE            barlong4_hdromeo
+LANG_ENGLISH         "26.9" HDR Pro"
+
+REFERENCE            barlong4_kilo98
+LANG_ENGLISH         "Singuard Custom 27.6""
+
+REFERENCE            barlong4_mcharlie
+LANG_ENGLISH         "Tempus Marksman"
+
+REFERENCE            barlong4_mike26
+LANG_ENGLISH         "VLK Czar"
+
+REFERENCE            barlong4_mike4
+LANG_ENGLISH         "Corvus Custom Marksman"
+
+REFERENCE            barlong4_oscar12
+LANG_ENGLISH         "FORGE TAC Impaler"
+
+REFERENCE            barlong4_pstl
+LANG_ENGLISH         "Long Slide"
+
+REFERENCE            barlong4_romeo870
+LANG_ENGLISH         "XRK 30.0" Sport"
+
+REFERENCE            barlong4_sbeta
+LANG_ENGLISH         "FSS 24.0" Factory"
+
+REFERENCE            barlong4_sierra552
+LANG_ENGLISH         "FSS 20.8" Nexus"
+
+REFERENCE            barlong4_sksierra
+LANG_ENGLISH         "22" FSS M59/66"
+
+REFERENCE            barlong4_smgolf45
+LANG_ENGLISH         "400mm Stainless Steel"
+
+REFERENCE            barlong4_victor
+LANG_ENGLISH         "ZLR 16" Apex"
+
+REFERENCE            barlong6_augolf
+LANG_ENGLISH         "622mm Long Barrel"
+
+REFERENCE            barlong6_kilo433
+LANG_ENGLISH         "Singuard Arms 19.8" Prowler"
+
+REFERENCE            barlong6_mike4
+LANG_ENGLISH         "Stock M16 Grenadier"
+
+REFERENCE            barlong6_papa90
+LANG_ENGLISH         "FORGE TAC Retribution"
+
+REFERENCE            barlong6_scharlie
+LANG_ENGLISH         "FORGE TAC 20.0" LB"
+
+REFERENCE            barlong6_sierra552
+LANG_ENGLISH         "Tempus 26.4" Archangel"
+
+REFERENCE            barlong6_tango21
+LANG_ENGLISH         "FSS Ranger"
+
+REFERENCE            barlong6_uzulu
+LANG_ENGLISH         "FSS Carbine Pro"
+
+REFERENCE            barlongsil
+LANG_ENGLISH         "Suppressor Long Barrel"
+
+REFERENCE            barshort2_falima
+LANG_ENGLISH         "13.0" OSW Para"
+
+REFERENCE            barshort2_falpha
+LANG_ENGLISH         "FR 15.9" Commando"
+
+REFERENCE            barshort2_kilo121
+LANG_ENGLISH         "M91 Infantry"
+
+REFERENCE            barshort2_lima86
+LANG_ENGLISH         "SA87 18.2" Factory"
+
+REFERENCE            barshort2_mike1911
+LANG_ENGLISH         ".45 Compact"
+
+REFERENCE            barshort2_mkilo3
+LANG_ENGLISH         "Bruen 18.0" Para"
+
+REFERENCE            barshort2_pkilo
+LANG_ENGLISH         "18.2" Compact Barrel"
+
+REFERENCE            barshort2_pstl
+LANG_ENGLISH         "Short Slide"
+
+REFERENCE            barshort2_tango21
+LANG_ENGLISH         "FTAC 13.5" Compact"
+
+REFERENCE            barshort2_uzulu
+LANG_ENGLISH         "8.5" Factory Mini"
+
+REFERENCE            barshort3_alpha50
+LANG_ENGLISH         "17.0" Factory Barrel"
+
+REFERENCE            barshort3_asierra12
+LANG_ENGLISH         "Oden Factory 420mm "
+
+REFERENCE            barshort3_cpapa
+LANG_ENGLISH         ".357 Snub Nose"
+
+REFERENCE            barshort3_delta
+LANG_ENGLISH         "510mm Compact Barrel"
+
+REFERENCE            barshort3_galima
+LANG_ENGLISH         "FSS 8.3" Intruder"
+
+REFERENCE            barshort3_sksierra
+LANG_ENGLISH         "16" FSS Para"
+
+REFERENCE            barshort4
+LANG_ENGLISH         "Short Barrel"
+
+REFERENCE            barshort4_akilo47
+LANG_ENGLISH         "8.1" Compact Barrel"
+
+REFERENCE            barshort4_charlie725
+LANG_ENGLISH         "Sawed-off Barrel"
+
+REFERENCE            barshort4_lima86
+LANG_ENGLISH         "SA87 12.4" Factory"
+
+REFERENCE            barshort4_mcharlie
+LANG_ENGLISH         "Tempus Mini"
+
+REFERENCE            barshort4_mgolf34
+LANG_ENGLISH         "FSS Stubby"
+
+REFERENCE            barshort4_mgolf36
+LANG_ENGLISH         "FTAC 8.98" Spitfire"
+
+REFERENCE            barshort4_mike26
+LANG_ENGLISH         "6" Revolt"
+
+REFERENCE            barshort4_mike4
+LANG_ENGLISH         "FSS 11.5" Commando"
+
+REFERENCE            barshort4_mpapa5
+LANG_ENGLISH         "FSS Mini"
+
+REFERENCE            barshort4_romeo870
+LANG_ENGLISH         "XRK 14.0" SWAT"
+
+REFERENCE            barshort4_scharlie
+LANG_ENGLISH         "FORGE TAC CQC Pro"
+
+REFERENCE            barshort4_smgolf45
+LANG_ENGLISH         "150mm Stainless Steel"
+
+REFERENCE            barsil
+LANG_ENGLISH         "Integral Suppressor"
+
+REFERENCE            barsil_heavy
+LANG_ENGLISH         "Monolithic Integral Suppressor"
+
+REFERENCE            barsil_heavy_kilo433
+LANG_ENGLISH         "Singuard Arms Whisper"
+
+REFERENCE            barsil_heavy_mcharlie
+LANG_ENGLISH         "Tempus Cyclone"
+
+REFERENCE            barsil_light
+LANG_ENGLISH         "Light Integral Suppressor"
+
+REFERENCE            barsil_light_mike4
+LANG_ENGLISH         "FSS 12.4" Predator"
+
+REFERENCE            barsil_light_mpapa5
+LANG_ENGLISH         "Subsonic Integral Suppressor"
+
+REFERENCE            barsil_long_victor
+LANG_ENGLISH         "ZLR 18" Deadfall"
+
+REFERENCE            bayonet
+LANG_ENGLISH         "Bayonet"
+
+REFERENCE            bipod
+LANG_ENGLISH         "Bipod"
+
+REFERENCE            bling_slot
+LANG_ENGLISH         "Bling"
+
+REFERENCE            bolt
+LANG_ENGLISH         "Aftermarket Bolt"
+
+REFERENCE            boltcarbon_crossbow
+LANG_ENGLISH         "XRK Ace 20" Carbon Bolts"
+
+REFERENCE            boltexplo_crossbow
+LANG_ENGLISH         "FTAC Fury 20" Bolts"
+
+REFERENCE            boltfire_crossbow
+LANG_ENGLISH         "FTAC Backburn 20" Bolts"
+
+REFERENCE            boltstun_crossbow
+LANG_ENGLISH         "FTAC Venom 20" Bolts"
+
+REFERENCE            brake
+LANG_ENGLISH         "Muzzle Brake"
+
+REFERENCE            buck
+LANG_ENGLISH         "Snake Shot"
+
+REFERENCE            burst
+LANG_ENGLISH         "Burst-Fire Conversion."
+
+REFERENCE            cableh_crossbow
+LANG_ENGLISH         "28-Strand Cable"
+
+REFERENCE            cablel_crossbow
+LANG_ENGLISH         "16-Strand Cable"
+
+REFERENCE            cal10mm
+LANG_ENGLISH         "10mm Auto 30-Round Mags"
+
+REFERENCE            cal300subsonic
+LANG_ENGLISH         ".300 Blackout 30-Round Mags"
+
+REFERENCE            cal41auto
+LANG_ENGLISH         ".41 AE 32-Round Mags"
+
+REFERENCE            cal458
+LANG_ENGLISH         ".458 SOCOM 10-Round Mags"
+
+REFERENCE            cal545
+LANG_ENGLISH         "5.45??39mm 30-Round Mags"
+
+REFERENCE            cal556nato
+LANG_ENGLISH         "5.56 NATO 30-Round Mags"
+
+REFERENCE            cal556nato_drums
+LANG_ENGLISH         "5.56 NATO 60-Round Drums"
+
+REFERENCE            cal9mm
+LANG_ENGLISH         "9mm Para 32-Round Mags"
+
+REFERENCE            calar
+LANG_ENGLISH         "Caliber Conversion - AR"
+
+REFERENCE            caldb
+LANG_ENGLISH         "Dragon's Breath Rounds"
+
+REFERENCE            caldb_mike26
+LANG_ENGLISH         "8-R Dragon's Breath Mags"
+
+REFERENCE            caldmr
+LANG_ENGLISH         "Caliber Conversion - DMR"
+
+REFERENCE            calsmg
+LANG_ENGLISH         "Caliber Conversion - SMG"
+
+REFERENCE            calsnpr
+LANG_ENGLISH         "AR Conversion"
+
+REFERENCE            choke
+LANG_ENGLISH         "Choke"
+
+REFERENCE            compensator
+LANG_ENGLISH         "Compensator"
+
+REFERENCE            compensator_mike9
+LANG_ENGLISH         "Desperado Pro Compensator"
+
+REFERENCE            cutshells
+LANG_ENGLISH         "Cut Shells"
+
+REFERENCE            desc_akimbo
+LANG_ENGLISH         "Ability to hold a weapon in each hand"
+
+REFERENCE            desc_ammomod_exitdamage
+LANG_ENGLISH         "Rounds that successfully penetrate cause additional damage area damage at point of exit.
+^3  UNDER CONSTRUCTION - Code feature necessary to function ^7
+"
+
+REFERENCE            desc_ammomod_impact
+LANG_ENGLISH         "Bullets create greater flinch on targets.
+"
+
+REFERENCE            desc_ammomod_incendiary
+LANG_ENGLISH         "Penetration causes a small cone of damage at bullet exit
+^3 == UNDER CONSTRUCTION - Does not function in game yet ==^7"
+
+REFERENCE            desc_ammomod_slow
+LANG_ENGLISH         "Bullets slow enemy movement and briefly disable tactical sprint when shooting legs."
+
+REFERENCE            desc_ammomod_subsonic
+LANG_ENGLISH         "Subsonic ammunition leaves no visible tracers.  Lower muzzle velocity, but packs more energy over greater distances."
+
+REFERENCE            desc_ammomod_wound
+LANG_ENGLISH         "Bullets cause target healing to be briefly delayed."
+
+REFERENCE            desc_armsh_crossbow
+LANG_ENGLISH         "Heavyweight 200 Lb draw for maximum bolt velocity."
+
+REFERENCE            desc_armsl_crossbow
+LANG_ENGLISH         "Carbon fiber arms improve handling with a slightly slower bolt velocity."
+
+REFERENCE            desc_armstac_crossbow
+LANG_ENGLISH         "Lightweight arms fire bolts at a slower velocity, but greatly improve agility and handling."
+
+REFERENCE            desc_auto
+LANG_ENGLISH         "^2[{attribute_pro}] Fully-Automatic fire mode."
+
+REFERENCE            desc_barbull1_hdromeo
+LANG_ENGLISH         "Heavy duty reinforced cylindrical barrel lightens recoil and stabilizes shots at the cost of bullet velocity and mobility."
+
+REFERENCE            desc_barbull2_hdromeo
+LANG_ENGLISH         "This beast of a barrel provides maximum recoil control and  shot stability at the cost of mobility and bullet velocity."
+
+REFERENCE            desc_barburst_mike9
+LANG_ENGLISH         "Custom pistol mod features a durable stainless steel barrel, Mk3 series slide, and advanced trigger group that allows a blazing fast 3 round burst."
+
+REFERENCE            desc_bargrip1_akilo47
+LANG_ENGLISH         "23.0" barrel with a built in solid wood grip is the most stable and accurate barrel available. Substantial weight slows movement and handling."
+
+REFERENCE            desc_bargrip1_sierra552
+LANG_ENGLISH         "Ultra short 5.3" barrel with a built in foregrip allows first class agility and maneuverability without sacrificing recoil control."
+
+REFERENCE            desc_barheavy1
+LANG_ENGLISH         "Heavy weight barrel with polygonal rifling slightly increases muzzle velocity and improves range with little additional weight."
+
+REFERENCE            desc_barheavy1_akilo47
+LANG_ENGLISH         "Heavy weight barrel used by special forces has increased muzzle velocity and improved range with little additional weight."
+
+REFERENCE            desc_barheavy1_alpha50
+LANG_ENGLISH         "Custom vanadium barrel with polygonal rifling increases muzzle velocity and improves range with only a minor increase to weight."
+
+REFERENCE            desc_barheavy1_augolf
+LANG_ENGLISH         "Dimpled aluminum alloy barrel extension extends range and muzzle velocity with minimal additional weight."
+
+REFERENCE            desc_barheavy1_beta
+LANG_ENGLISH         "Slight length increase and polygonal rifling improve muzzle velocity and range with little additional weight."
+
+REFERENCE            desc_barheavy1_decho
+LANG_ENGLISH         "Slightly Extended barrel increases muzzle velocity and improves range with only a minor addition to weight."
+
+REFERENCE            desc_barheavy1_kilo121
+LANG_ENGLISH         "Designed to improve muzzle velocity range with as little additional weight as possible."
+
+REFERENCE            desc_barheavy1_mgolf34
+LANG_ENGLISH         "Solid steel barrel with polygonal rifling, wrapped in chrome-moly vanadium. Increases muzzle velocity and improves range with little additional weight."
+
+REFERENCE            desc_barheavy1_mgolf36
+LANG_ENGLISH         "Stainless steel barrel with polygonal rifling improve muzzle velocity and range."
+
+REFERENCE            desc_barheavy1_mkilo3
+LANG_ENGLISH         "Designed to improve muzzle velocity range with as little additional weight as possible."
+
+REFERENCE            desc_barheavy1_mpapa7
+LANG_ENGLISH         "Designed for elite special operations, increased length and polygonal rifling improve muzzle velocity and range with little weight increase."
+
+REFERENCE            desc_barheavy1_papa320
+LANG_ENGLISH         "Extended slide slightly increases muzzle velocity and improves range.  Lightweight construction adds only a minor increase to weight."
+
+REFERENCE            desc_barheavy1_papa90
+LANG_ENGLISH         "10.6 inch stainless steel barrel with polygonal rifling increases muzzle velocity and improves range with little additional weight."
+
+REFERENCE            desc_barheavy1_pkilo
+LANG_ENGLISH         "Heavy weight forced-air-cooled barrel slightly increases muzzle velocity and improves range."
+
+REFERENCE            desc_barheavy1_shtgn
+LANG_ENGLISH         "Heavy-duty tapered barrel tightens pellet spread and slightly extends range with only a minor increase to weight."
+
+REFERENCE            desc_barheavy1_shtgn_dpapa12
+LANG_ENGLISH         "Heavy-duty tapered barrel tightens pellet spread and slightly extends range with only a minor increase to weight."
+
+REFERENCE            desc_barheavy1_shtgn_mike26
+LANG_ENGLISH         "Extended barrel increases muzzle velocity and range.  Light alloy barrel keeps additional weight to a minimum."
+
+REFERENCE            desc_barheavy1_shtgn_oscar12
+LANG_ENGLISH         "Heavy-duty tapered barrel tightens pellet spread and slightly extends range with only a minor increase to weight."
+
+REFERENCE            desc_barheavy1_shtgn_romeo870
+LANG_ENGLISH         "Designed to reduce collateral damage and maintain mobility, this tapered barrel tightens pellet spread and slightly extends range with only a minor increase to weight."
+
+REFERENCE            desc_barheavy1_sierra552
+LANG_ENGLISH         "Aluminum alloy shroud and chrome-moly polygonal rifled barrel perfectly balance range with mobility."
+
+REFERENCE            desc_barheavy1_sksierra
+LANG_ENGLISH         "Aluminum alloy shroud and chrome-moly polygonal rifled barrel perfectly balance range with mobility."
+
+REFERENCE            desc_barheavy1_smgolf45
+LANG_ENGLISH         "Extended barrel with lightweight construction and polygonal rifling for increased muzzle velocity and improved range.  Adds little additional weight."
+
+REFERENCE            desc_barheavy1_uzulu
+LANG_ENGLISH         "Custom barrel with a slight length increase and polygonal rifling for increased muzzle velocity and improved range.  Adds little additional weight."
+
+REFERENCE            desc_barheavy2_golf21
+LANG_ENGLISH         "Extended slide slightly increases muzzle velocity and improves range.  Lightweight construction only adds a minor increase to weight."
+
+REFERENCE            desc_barheavy2_mike1911
+LANG_ENGLISH         "Heavy weight barrel with polygonal rifling slightly increases muzzle velocity and improves range.  Recessed slide keeps weight increase to a minimum."
+
+REFERENCE            desc_barheavy2_tango21
+LANG_ENGLISH         "Lightweight extended front shroud houses a 16" polygonal rifled barrel, increasing both range and muzzle velocity."
+
+REFERENCE            desc_barlight1
+LANG_ENGLISH         "Large bore barrel reduces weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_beta
+LANG_ENGLISH         "Dimpled large bore barrel reduces weight for improved handling at the cost of muzzle velocity."
+
+REFERENCE            desc_barlight1_falima
+LANG_ENGLISH         "Custom dimpled large bore barrel reduces weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_falpha
+LANG_ENGLISH         "Fluted barrel with a wider bore reduces weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_mgolf34
+LANG_ENGLISH         "Lightweight barrel with precision-machined dimples and a wider bore removes excess weight for improved handling with a lower muzzle velocity."
+
+REFERENCE            desc_barlight1_mike14
+LANG_ENGLISH         "MilSpec steel, precision machined dimples, and a wider bore reduce weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_mike4
+LANG_ENGLISH         "Lightweight shroud and large bore barrel reduce weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_mpapa5
+LANG_ENGLISH         "Lightweight shroud and large bore barrel reduce weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_mpapa7
+LANG_ENGLISH         "Designed for police enforcements raids, shorter length and larger bore barrel reduces weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_papa320
+LANG_ENGLISH         "Large bore barrel and lightweight slide improve handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_shtgn
+LANG_ENGLISH         "Lightweight smooth bore barrel widens pellet spread and improves agility with only a minor decrease to range."
+
+REFERENCE            desc_barlight1_shtgn_charlie725
+LANG_ENGLISH         "Lightweight smooth bore barrel widens pellet spread and improves agility with only a minor decrease to range."
+
+REFERENCE            desc_barlight1_shtgn_dpapa12
+LANG_ENGLISH         "Dual thin-walled smooth bore barrels widen pellet spread and improve agility with only a minor decrease to range."
+
+REFERENCE            desc_barlight1_shtgn_oscar12
+LANG_ENGLISH         "Lightweight smooth bore barrel widens pellet spread and improves agility with only a minor decrease to range."
+
+REFERENCE            desc_barlight2_golf21
+LANG_ENGLISH         "Ported slide and large bore barrel reduces weight for faster gun handling at a slight cost to range."
+
+REFERENCE            desc_barlight2_mgolf36
+LANG_ENGLISH         "Shorter barrel and lightweight guard reduce weight for faster gun handling at a slight cost to range."
+
+REFERENCE            desc_barlight2_mike9
+LANG_ENGLISH         "Ported slide, large bore, and fluted barrel reduce weight for faster gun handling at a slight cost to range."
+
+REFERENCE            desc_barlong2_alpha50
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong2_asierra12
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots but slightly affects mobility."
+
+REFERENCE            desc_barlong2_kilo121
+LANG_ENGLISH         "Designed to better hold down positions, this longer barrel improves muzzle velocity, range, and accuracy.  Additional weight hinders mobility."
+
+REFERENCE            desc_barlong2_kilo98
+LANG_ENGLISH         "Custom 21.2" heavyweight barrel with polygonal rifling slightly increases muzzle velocity and extends range with little additional weight"
+
+REFERENCE            desc_barlong2_lima86
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong2_mike14
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range with a slight weight increase."
+
+REFERENCE            desc_barlong2_pkilo
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong2_pstl
+LANG_ENGLISH         "Extended slide improves muzzle velocity and boosts range, with only a slight increase to weight."
+
+REFERENCE            desc_barlong2_sbeta
+LANG_ENGLISH         "18.0" barrel slightly increases muzzle velocity and extends range with very little additional weight."
+
+REFERENCE            desc_barlong3_alt_augolf
+LANG_ENGLISH         "Stainless steel barrel extension increases muzzle velocity and extends range.  Additional weight stabilizes shots but slows handling."
+
+REFERENCE            desc_barlong3_alt_kilo433
+LANG_ENGLISH         "Titanium-cobalt alloy barrel with guard extension improves  muzzle velocity and range.  Moderate weight increase stabilizes shots but slows handling."
+
+REFERENCE            desc_barlong3_beta
+LANG_ENGLISH         "Heavy duty steel barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong3_delta
+LANG_ENGLISH         "Extended barrel improves muzzle velocity and range.  Additional weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong3_falima
+LANG_ENGLISH         "Hammer forged precision barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong3_golf21
+LANG_ENGLISH         "Military issue heavy weight slide provides exceptional stability. Extended barrel with polygonal rifling extends this weapon's range to the max."
+
+REFERENCE            desc_barlong3_kilo98
+LANG_ENGLISH         "Custom 25.1" heavyweight barrel with polygonal rifling balances increased muzzle velocity with increased weight."
+
+REFERENCE            desc_barlong3_mike14
+LANG_ENGLISH         "Longest barrel available increases muzzle velocity and extends range to the max.  Added weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong3_mike9
+LANG_ENGLISH         "Military issue heavy weight slide provides exceptional stability. Extended barrel with polygonal rifling extends this weapon's range to the max."
+
+REFERENCE            desc_barlong3_mkilo3
+LANG_ENGLISH         "Heavy duty steel barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong3_mpapa7
+LANG_ENGLISH         "Designed for mobile scout operations, the 10.5 inch barrel increases muzzle velocity, extends range, and adds a moderate weight increase for smoother recoil."
+
+REFERENCE            desc_barlong3_papa320
+LANG_ENGLISH         "Heavy weight slide provides exceptional stability. Extended barrel with polygonal rifling extends this weapon's range to the max."
+
+REFERENCE            desc_barlong3_sbeta
+LANG_ENGLISH         "20.0" barrel is a perfect balance of increased muzzle velocity and increased weight."
+
+REFERENCE            desc_barlong3_scharlie
+LANG_ENGLISH         "17.2" barrel with a guard extension increase muzzle velocity and extend range.  Additional weight stabilizes shots at a small cost to mobility."
+
+REFERENCE            desc_barlong3_uzulu
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong4
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong4_akilo47
+LANG_ENGLISH         "Heavy duty 23.0" barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong4_asierra12
+LANG_ENGLISH         "Longest barrel available. Greatly increases muzzle velocity and helps build a heftier, steadier weapon at the cost of mobility."
+
+REFERENCE            desc_barlong4_charlie725
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong4_decho
+LANG_ENGLISH         "Extra long slide extension increases muzzle velocity and extends range to the max.  Additional weight helps stabilize shots but hinders mobility."
+
+REFERENCE            desc_barlong4_falpha
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight stabilizes grouping but hinders mobility."
+
+REFERENCE            desc_barlong4_galima
+LANG_ENGLISH         "Achieve the pinnacle of range with this precision barrel from XRK.  Superior muzzle velocity and stabilization at the cost of agility."
+
+REFERENCE            desc_barlong4_hdromeo
+LANG_ENGLISH         "Longer barrel increases muzzle velocity and extends range.  Additional weight helps to stabilize shots at the cost of agility."
+
+REFERENCE            desc_barlong4_kilo98
+LANG_ENGLISH         "Custom 27.6" heavyweight barrel with polygonal rifling increases muzzle velocity to the max.  Additional weight hinders mobility."
+
+REFERENCE            desc_barlong4_mcharlie
+LANG_ENGLISH         "This 16" chrome-moly barrel, with an extended guard, increases muzzle velocity and range.  Additional weight stabilizes shots for the most accurate barrel available."
+
+REFERENCE            desc_barlong4_mike26
+LANG_ENGLISH         "Heavy-duty tapered barrel tightens pellet spread and extends range.  Additional weight and length stabilize shots but hinder mobility."
+
+REFERENCE            desc_barlong4_mike4
+LANG_ENGLISH         "Custom 19 inch M16A4 style barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong4_oscar12
+LANG_ENGLISH         "Extended barrel increases muzzle velocity and range.  Additional weight and length stabilize shots but hinder mobility."
+
+REFERENCE            desc_barlong4_pstl
+LANG_ENGLISH         "Extra long slide increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong4_romeo870
+LANG_ENGLISH         "Longer barrel with a ^210 round^7 tube. Tightens pellet spread, extends range, and carries extra ammo at the cost of agility."
+
+REFERENCE            desc_barlong4_sbeta
+LANG_ENGLISH         "24.0" barrel extends muzzle velocity and range to the max, but hinders mobility."
+
+REFERENCE            desc_barlong4_shtgn
+LANG_ENGLISH         "Tapered competition barrel greatly tightens pellet spread and pushes range to unprecedented levels at the cost of additional weight."
+
+REFERENCE            desc_barlong4_sierra552
+LANG_ENGLISH         "Stainless steel 20.8" barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong4_sksierra
+LANG_ENGLISH         "A modern take from FSS on the classic Yugoslavian sniper barrel.  22.0" barrel greatly increases muzzle velocity and extends range."
+
+REFERENCE            desc_barlong4_smgolf45
+LANG_ENGLISH         "Heavy duty extended barrel extends muzzle velocity and range to the max, but hinders mobility."
+
+REFERENCE            desc_barlong4_victor
+LANG_ENGLISH         "Heavy duty extended barrel extends muzzle velocity and range to the max, but hinders mobility."
+
+REFERENCE            desc_barlong6_augolf
+LANG_ENGLISH         "Maximum barrel extension pushes this weapon's range to the extreme.  Heavy weight, smooth handling."
+
+REFERENCE            desc_barlong6_kilo433
+LANG_ENGLISH         "Stainless steel polygonal rifled barrel with guard extension greatly increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong6_mike4
+LANG_ENGLISH         "Heavy duty 20 inch barrel greatly increases muzzle velocity and extends range.  M203 handguard adds substantial weight for smoother handling."
+
+REFERENCE            desc_barlong6_papa90
+LANG_ENGLISH         "Extended front shroud houses a 16" polygonal rifled barrel. Greatly increases muzzle velocity and extends range.  Additional weight stabilizes shots, but hinders mobility."
+
+REFERENCE            desc_barlong6_scharlie
+LANG_ENGLISH         "20.0" polygonal rifled barrel with guard extension maxes out muzzle velocity and range.  High accuracy comes at the cost of agility."
+
+REFERENCE            desc_barlong6_sierra552
+LANG_ENGLISH         "Partially shrouded 26.4" barrel from FSS provides the ultimate in range and accuracy.  This heavy weight barrel is ideal for improving long range marksmanship."
+
+REFERENCE            desc_barlong6_tango21
+LANG_ENGLISH         "Fully enclosed 460mm barrel provides the ultimate range and accuracy for this weapon.  Additional weight affects mobility."
+
+REFERENCE            desc_barlong6_uzulu
+LANG_ENGLISH         "Heavy duty stainless steel polygonal rifled barrel greatly increases muzzle velocity and extends range to the max.  Additional weight stabilizes shots, but affects mobility."
+
+REFERENCE            desc_barlongsil
+LANG_ENGLISH         "Invisible on radar when firing by using an integrated suppressor and extended range barrel."
+
+REFERENCE            desc_barmid_smg
+LANG_ENGLISH         "^2[{attribute_pro}] Damage Range
+^1- ADS Raise Speed
+- Sprint Out Speed
+- Hip Spread"
+
+REFERENCE            desc_barshort2_falima
+LANG_ENGLISH         "Compact medium contoured barrel improves speed and agility with a minor decrease to muzzle velocity and accuracy."
+
+REFERENCE            desc_barshort2_falpha
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Improves close range combat."
+
+REFERENCE            desc_barshort2_kilo121
+LANG_ENGLISH         "Designed to improve mobility, this compact barrel sacrifices accuracy and range for speed and agility."
+
+REFERENCE            desc_barshort2_lima86
+LANG_ENGLISH         "Shorter barrel improves agility at a slight cost to bullet velocity and range."
+
+REFERENCE            desc_barshort2_mike1911
+LANG_ENGLISH         "Compact slide slightly improves speed and agility with a minimal impact to stability."
+
+REFERENCE            desc_barshort2_mkilo3
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort2_pkilo
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort2_pstl
+LANG_ENGLISH         "Reduced length of slide improves speed and agility with a minimal impact to stability."
+
+REFERENCE            desc_barshort2_tango21
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Improves combat in tight spaces."
+
+REFERENCE            desc_barshort2_uzulu
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Improves performance in close quarters encounters."
+
+REFERENCE            desc_barshort3_alpha50
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility. Better for sniping on the move."
+
+REFERENCE            desc_barshort3_asierra12
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  When mobility matters more than precision."
+
+REFERENCE            desc_barshort3_cpapa
+LANG_ENGLISH         "3 inch barrel sacrifices accuracy and range for speed and agility.  Better for close quarters engagements."
+
+REFERENCE            desc_barshort3_delta
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Better for sniping on the move."
+
+REFERENCE            desc_barshort3_galima
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Excels in CQB and room clearing."
+
+REFERENCE            desc_barshort3_sksierra
+LANG_ENGLISH         "This compact barrel from FSS is a custom version of the classic SKS paratrooper barrel.  Better for sniping on the move."
+
+REFERENCE            desc_barshort4
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort4_akilo47
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort4_charlie725
+LANG_ENGLISH         "Sawing off this long barreled shotgun cripples its effective range, but unlocks explosive power in close quarters."
+
+REFERENCE            desc_barshort4_dmr
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility."
+
+REFERENCE            desc_barshort4_lima86
+LANG_ENGLISH         "Shortest barrel available sacrifices accuracy and range for speed and agility."
+
+REFERENCE            desc_barshort4_lmg
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility."
+
+REFERENCE            desc_barshort4_mcharlie
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort4_mgolf34
+LANG_ENGLISH         "Shortest modernized barrel available for the MG34, the stubby sacrifices accuracy and range for speed and agility."
+
+REFERENCE            desc_barshort4_mgolf36
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort4_mike26
+LANG_ENGLISH         "Short, compact barrel sacrifices range for speed and agility.  Increased pellet spread will help clear out tight spaces."
+
+REFERENCE            desc_barshort4_mike4
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort4_mpapa5
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Improves performance in close quarters encounters."
+
+REFERENCE            desc_barshort4_romeo870
+LANG_ENGLISH         "Designed for short, fast paced raids this compact barrel sports a low weight ^15 round^7 tube.  Sacrifices range and ammo capacity for speed and agility."
+
+REFERENCE            desc_barshort4_scharlie
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Good for clearing out tight spaces."
+
+REFERENCE            desc_barshort4_shtgn
+LANG_ENGLISH         "Short, compact barrel sacrifices range for speed and agility.  Increased pellet spread will help clear out tight spaces."
+
+REFERENCE            desc_barshort4_smgolf45
+LANG_ENGLISH         "Short, compact barrel sacrifices accuracy and range for speed and agility.  Improves performance in close quarters encounters."
+
+REFERENCE            desc_barsil_heavy
+LANG_ENGLISH         "Heavy duty monolithic core increases muzzle velocity while maintaining a low sound signature."
+
+REFERENCE            desc_barsil_heavy_kilo433
+LANG_ENGLISH         "Heavy duty integrated suppressor with a monolithic core increases muzzle velocity while maintaining a low sound signature."
+
+REFERENCE            desc_barsil_heavy_mcharlie
+LANG_ENGLISH         "Heavy duty monolithic core increases muzzle velocity while maintaining a low sound signature."
+
+REFERENCE            desc_barsil_light
+LANG_ENGLISH         "Lightweight aluminum baffles keep the weapon silent and agile, but reduce the muzzle velocity."
+
+REFERENCE            desc_barsil_light_mike4
+LANG_ENGLISH         "Integral suppressor with lightweight aluminum baffles keep the weapon silent and agile, but reduce the muzzle velocity."
+
+REFERENCE            desc_barsil_light_mpapa5
+LANG_ENGLISH         "Lightweight aluminum suppressor decreases muzzle velocity to subsonic speeds providing a smooth recoil, low sound signature, and no visible tracers."
+
+REFERENCE            desc_barsil_long_victor
+LANG_ENGLISH         "Monolithic integral suppressor keep the weapon silent and increases range for longer distance stealth assaults."
+
+REFERENCE            desc_bayonet
+LANG_ENGLISH         "Lethal Melee Attack"
+
+REFERENCE            desc_bipod
+LANG_ENGLISH         "Stability legs to improve control while using the weapon from the ground."
+
+REFERENCE            desc_bolt
+LANG_ENGLISH         "Specialty Bolt with improved maneuverability for faster firing."
+
+REFERENCE            desc_boltcarbon_crossbow
+LANG_ENGLISH         "Highly accurate bolts that travel at great speed.  Lightweight design deals less damage at range."
+
+REFERENCE            desc_boltexplo_crossbow
+LANG_ENGLISH         "Carbon bolts with ^3timed explosive tips^7.  Sticky tips deal less damage, but devastate targets on detonation.  ^1Bolts can not be recovered^7, and are undetectable by trophy systems."
+
+REFERENCE            desc_boltfire_crossbow
+LANG_ENGLISH         "^3Thermite tipped^7 bolts that ignite on impact, stick to metal, and are effective against vehicles.  ^1Bolts can not be recovered^7, and are undetectable by trophy systems.  "
+
+REFERENCE            desc_boltstun_crossbow
+LANG_ENGLISH         "Bolts with high pressure ^3tear gas cartridges^7 that detonate on impact with flesh.  ^1Detonated bolts can not be recovered^7, and are undetectable by trophy systems."
+
+REFERENCE            desc_brake
+LANG_ENGLISH         "Redirects gases outward to stabilize the weapon for better control of sustained fire."
+
+REFERENCE            desc_buck
+LANG_ENGLISH         "Buckshot-Filled Shells."
+
+REFERENCE            desc_burst
+LANG_ENGLISH         "^2[{attribute_pro}] 3 Round Burst fire mode."
+
+REFERENCE            desc_cableh_crossbow
+LANG_ENGLISH         "High-tension heavyweight cable fires bolts at a higher velocity, but with less accuracy."
+
+REFERENCE            desc_cablel_crossbow
+LANG_ENGLISH         "Lower-tension lightweight cable fires the bolts with exceptional accuracy at a lower velocity."
+
+REFERENCE            desc_cal10mm
+LANG_ENGLISH         "Conversion kit to use higher caliber ^310mm Auto^7 ammunition for increased stopping power.
+"
+
+REFERENCE            desc_cal300subsonic
+LANG_ENGLISH         "Conversion kit to use ^3.300 Blackout^7 ammunition. Higher caliber with a lower muzzle velocity, these subsonic rounds pack more energy over greater distances."
+
+REFERENCE            desc_cal41auto
+LANG_ENGLISH         "Conversion kit to use 32-round magazines of higher caliber ^3.41 AE^7 ammunition for increased range and stopping power.
+"
+
+REFERENCE            desc_cal458
+LANG_ENGLISH         "Conversion kit to use high caliber ^3.458 SOCOM^7 ammunition for increased stopping power.  Slower cyclic rate helps control recoil.
+"
+
+REFERENCE            desc_cal545
+LANG_ENGLISH         "Conversion kit to use lower caliber ^35.45??39mm^7 ammunition.  Shorter range, faster fire rate, and less recoil to dominate close quarters engagements.
+"
+
+REFERENCE            desc_cal556nato
+LANG_ENGLISH         "Conversion kit to use 30 round ^35.56 NATO^7 magazines for increased stopping power.  Slightly lower cycle rate to help control recoil.
+"
+
+REFERENCE            desc_cal556nato_drums
+LANG_ENGLISH         "^35.56 NATO^7 conversion kit with ^260 round^7 drums.  Lower mobility, maximize ammunition capacity.
+"
+
+REFERENCE            desc_cal9mm
+LANG_ENGLISH         "Conversion kit to use ^39mm parabellum^7 ammunition.  Cycles at a much higher rate with less recoil.
+"
+
+REFERENCE            desc_calar
+LANG_ENGLISH         "Converts weapon to use 5.56 ammunition."
+
+REFERENCE            desc_caldb
+LANG_ENGLISH         "^312 Gauge incendiary^7 ammunition engulfs targets in a wall of fire and sparks.  3000 ??F magnesium shards torch enemies, dealing heavy damage over time while ignited. "
+
+REFERENCE            desc_caldmr
+LANG_ENGLISH         "Converts weapon to use .50 cal ammunition."
+
+REFERENCE            desc_calsmg
+LANG_ENGLISH         "Converts weapon to use 9mm ammunition."
+
+REFERENCE            desc_calsnpr
+LANG_ENGLISH         ""
+
+REFERENCE            desc_choke
+LANG_ENGLISH         "Device used to narrow the spread of shotgun pellets."
+
+REFERENCE            desc_compensator
+LANG_ENGLISH         "Expels gases upward to aggressively fight muzzle climb."
+
+REFERENCE            desc_compensator_mike9
+LANG_ENGLISH         "Proprietary compensator with vertical porting is precision crafted to aggressively counter muzzle climb."
+
+REFERENCE            desc_drums
+LANG_ENGLISH         "Drum magazines maximize ammunition capacity at the expense of mobility."
+
+REFERENCE            desc_drums_akilo47
+LANG_ENGLISH         "Drum magazines hold ^275 rounds^7 of 7.62??39mm ammunition, maximizing ammo capacity at the expense of mobility."
+
+REFERENCE            desc_drums_kilo433
+LANG_ENGLISH         "Drum magazines hold ^2100 rounds^7 of 5.56 NATO, maximizing ammo capacity at the expense of mobility."
+
+REFERENCE            desc_drums_oscar12
+LANG_ENGLISH         "Drum magazines hold ^225 shells^7 of 12 gauge, maximizing ammo capacity at the expense of mobility."
+
+REFERENCE            desc_drums_tango21
+LANG_ENGLISH         "^39mm Parabellum^7 conversion kit with ^260 round^7 drums.  Higher fire rate and better weapon control for improved short range combat.
+"
+
+REFERENCE            desc_east01_light
+LANG_ENGLISH         "Precision Reticle
+^2 [{attribute_pro}] Improved^7 ADS Raise Speed"
+
+REFERENCE            desc_flashhider
+LANG_ENGLISH         "Suppress the flash of your weapon to help keep your target visible and your position concealed.  Slightly lowers muzzle velocity."
+
+REFERENCE            desc_fmj
+LANG_ENGLISH         "Increases bullet penetration and damage against equipment and killstreaks."
+
+REFERENCE            desc_fourx
+LANG_ENGLISH         "Precision optic with ^23.25x^7 magnification for long range target acquisition."
+
+REFERENCE            desc_fourx2
+LANG_ENGLISH         "Russian combat optic with ^23.0x^7 magnification provides reliable target acquisition."
+
+REFERENCE            desc_fourx2_pstl
+LANG_ENGLISH         "Russian pistol optic with ^22.5x^7 magnification provides reliable target acquisition."
+
+REFERENCE            desc_fourx2_snpr
+LANG_ENGLISH         "Russian combat optic with ^23.0x^7 magnification for closer range engagements."
+
+REFERENCE            desc_fourx3
+LANG_ENGLISH         "Advanced optic with ^23.5x^7 magnification provides excellent target acquisition."
+
+REFERENCE            desc_fourx3_pstl
+LANG_ENGLISH         "Advanced pistol optic with ^23.0x^7 magnification provides excellent target acquisition."
+
+REFERENCE            desc_fourx3_snpr
+LANG_ENGLISH         "Advanced optic with ^23.5x^7 magnification for rapid target acquisition."
+
+REFERENCE            desc_fourx_augolf
+LANG_ENGLISH         "Built in scope with ^23x^7 magnification provides superior target acquisition."
+
+REFERENCE            desc_fourx_light
+LANG_ENGLISH         "Precision reticle with ^23.25x^7 magnification for use in all lighting conditions.
+Lightweight materials used in its construction."
+
+REFERENCE            desc_fourx_mgolf36
+LANG_ENGLISH         "Advanced optic with ^24.0x^7 magnification provides excellent target acquisition."
+
+REFERENCE            desc_fourx_pstl
+LANG_ENGLISH         "Precision pistol optic with ^22.75x^7 magnification for long range target acquisition."
+
+REFERENCE            desc_fourx_snpr
+LANG_ENGLISH         "Lower power ^23.25x^7 optic when range is less important than agility."
+
+REFERENCE            desc_fourx_tango21
+LANG_ENGLISH         "Advanced optic with ^24.0x^7 magnification provides excellent target acquisition."
+
+REFERENCE            desc_frontsuppression
+LANG_ENGLISH         "ATTACHMENT DEPRECATED, PLEASE REMOVE"
+
+REFERENCE            desc_frontsuppression2
+LANG_ENGLISH         "ATTACHMENT DEPRECATED, PLEASE REMOVE"
+
+REFERENCE            desc_gl_conc
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with non-lethal ^2Concussive^7 rounds designed to stun your enemy."
+
+REFERENCE            desc_gl_flash
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with non-lethal ^2Flash^7 rounds designed to temporarily blind your enemy."
+
+REFERENCE            desc_gl_gas
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with non-lethal ^2Gas^7 rounds designed to incapacitate your enemy."
+
+REFERENCE            desc_gl_incendiary
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with lethal ^2 Incendiary^7 rounds. "
+
+REFERENCE            desc_gl_semtex
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with highly explosive timed ^2Semtex^7 rounds. "
+
+REFERENCE            desc_gl_smoke
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with non-lethal ^2Smoke^7 rounds designed to conceal your movement."
+
+REFERENCE            desc_gl_snap
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with ^2Snapshot^7 rounds.  This recon device provides a momentary glimpse of enemies within the blast radius."
+
+REFERENCE            desc_gloves01
+LANG_ENGLISH         "Leather padded gloves that provide greater control over your weapon
+^2 [{attribute_pro}] Reduced^7 Gun Kick"
+
+REFERENCE            desc_gloves02
+LANG_ENGLISH         "Leather padded gloves that provide greater control over your weapon"
+
+REFERENCE            desc_grenade_launcher
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with highly ^2explosive^7 rounds."
+
+REFERENCE            desc_grenade_launcher_gp
+LANG_ENGLISH         "Underbarrel mounted grenade launcher loaded with highly ^2explosive^7 rounds."
+
+REFERENCE            desc_gripang_crossbow02
+LANG_ENGLISH         "Angled foregrip maintains control when performing high-speed maneuvers. Less stable but very agile."
+
+REFERENCE            desc_gripanglarge
+LANG_ENGLISH         "Heavy weight angled grip keeps the weapon steady while aiming, and helps maintain control during heavy fire."
+
+REFERENCE            desc_gripangsmall
+LANG_ENGLISH         "Streamlined foregrip provides superior control acquiring targets."
+
+REFERENCE            desc_gripangsmall_papa90
+LANG_ENGLISH         "Smooth and granulated foregrip provides a relaxed and controlled grip for precision aiming."
+
+REFERENCE            desc_gripangsmall_sierra552
+LANG_ENGLISH         "Tactical foregrip provides best in class control acquiring targets."
+
+REFERENCE            desc_gripbipod
+LANG_ENGLISH         "Helps control recoil, especially from the crouch and prone stance."
+
+REFERENCE            desc_gripcust_augolf
+LANG_ENGLISH         "Typical foregrip attachment that helps control your weapon."
+
+REFERENCE            desc_gripcust_mike1911
+LANG_ENGLISH         "Typical foregrip attachment that helps control your weapon."
+
+REFERENCE            desc_gripfore_mike9
+LANG_ENGLISH         "Solo foregrip helps control recoil without hindering movement or stability."
+
+REFERENCE            desc_gripfore_tactical_romeo
+LANG_ENGLISH         "Granulated forend with recessed grip keep the gun in control while firing, and helps get on target faster."
+
+REFERENCE            desc_gripfore_wood_romeo
+LANG_ENGLISH         "Handcrafted solid wood forend reduces vertical recoil and stabilizes weapon while aiming for improved long range combat."
+
+REFERENCE            desc_griprear
+LANG_ENGLISH         "(Currently has no gameplay change.)"
+
+REFERENCE            desc_gripside_pkilo
+LANG_ENGLISH         "Canted foregrip improves vertical recoil and provides a better stance for raising and lowering the weapon."
+
+REFERENCE            desc_gripside_tactical_mike26
+LANG_ENGLISH         "Light-weight tactical pump grip keeps the gun in control while firing, and helps get on target faster."
+
+REFERENCE            desc_gripvert_crossbow01
+LANG_ENGLISH         "Vertical foregrip with a relaxed and controlled hold.  Keeps you steady and on target."
+
+REFERENCE            desc_gripvert_crossbow03
+LANG_ENGLISH         "Vertical crossbow foregrip with a tight hold.  Less steady, but provides excellent control recoil.  Useful for tracking long distance shots."
+
+REFERENCE            desc_gripvertlong
+LANG_ENGLISH         "Extended foregrip reduces vertical recoil and provides stability from the hip for fast-paced guerrilla tactics."
+
+REFERENCE            desc_gripvertlong_shtgn
+LANG_ENGLISH         "Extended foregrip reduces vertical recoil and provides a better hold for raising and lowering the weapon."
+
+REFERENCE            desc_gripvertmed
+LANG_ENGLISH         "Standard foregrip improves vertical recoil and stabilizes weapon while aiming for improved long range combat."
+
+REFERENCE            desc_gripvertmed_mike26
+LANG_ENGLISH         "Ergonomic pump grip improves vertical recoil and stabilizes weapon while aiming for improved long range combat."
+
+REFERENCE            desc_gripvertmed_papa90
+LANG_ENGLISH         "Stippled foregrip improves vertical recoil and steadies aiming for improved long range combat.
+"
+
+REFERENCE            desc_gripvertshort
+LANG_ENGLISH         "No frills foregrip helps control vertical recoil for faster follow-up shots."
+
+REFERENCE            desc_gripvertshort_mike26
+LANG_ENGLISH         "No frills pump grip helps control vertical recoil for faster follow-up shots."
+
+REFERENCE            desc_gripvertshort_papa90
+LANG_ENGLISH         "Rubberized foregrip keeps gun tight in hand for improved recoil control."
+
+REFERENCE            desc_guardcust
+LANG_ENGLISH         "Tactical guard streamlined to keep the gun tight in hand.  Less steady, but helps control recoil."
+
+REFERENCE            desc_guardh
+LANG_ENGLISH         "Heavy duty ergonomic forend keeps the gun stable while aiming."
+
+REFERENCE            desc_guardh_charlie725
+LANG_ENGLISH         "Heavy duty ergonomic guard keeps the gun stable while aiming."
+
+REFERENCE            desc_guardl
+LANG_ENGLISH         "Ultralight forend grips allows greater control while performing high-speed maneuvers."
+
+REFERENCE            desc_guardl_charlie725
+LANG_ENGLISH         "Ultralight forend grips allows greater control while performing high-speed maneuvers."
+
+REFERENCE            desc_guardtight_charlie725
+LANG_ENGLISH         "Synthetic forend with a deep grip and ribbed surface keep the gun tight in hand to help control recoil."
+
+REFERENCE            desc_gunperk_adsup
+LANG_ENGLISH         "^2[{attribute_pro}] Improved^7 ADS Raise Speed"
+
+REFERENCE            desc_gunperk_binarytrigger
+LANG_ENGLISH         "Weapon fires on both press and depress of the trigger for faster cycling."
+
+REFERENCE            desc_gunperk_burst
+LANG_ENGLISH         "Changes fire mode to ^23-round^7 burst."
+
+REFERENCE            desc_gunperk_burst2
+LANG_ENGLISH         "Changes fire mode to ^22-round^7 burst."
+
+REFERENCE            desc_gunperk_burst2fast
+LANG_ENGLISH         "Changes fire mode to ^22-round^7 burst with improved firing rate."
+
+REFERENCE            desc_gunperk_burst3fast
+LANG_ENGLISH         "Changes fire mode to ^23-round^7 burst with improved firing rate."
+
+REFERENCE            desc_gunperk_burst4
+LANG_ENGLISH         "Changes fire mode to ^24-round^7 burst"
+
+REFERENCE            desc_gunperk_burst4fast
+LANG_ENGLISH         "Changes fire mode to ^24-round^7 burst with improved firing rate."
+
+REFERENCE            desc_gunperk_callout
+LANG_ENGLISH         "Marks enemies for teammates when hovering over them in ADS"
+
+REFERENCE            desc_gunperk_dexterity
+LANG_ENGLISH         "Training enables greater speed in combat."
+
+REFERENCE            desc_gunperk_enemytag
+LANG_ENGLISH         "Damage will put enemies on the minimap and compass."
+
+REFERENCE            desc_gunperk_fastmelee
+LANG_ENGLISH         "Training in executing melee maneuvers with great speed."
+
+REFERENCE            desc_gunperk_glintreduce
+LANG_ENGLISH         "Reduces the angle at which enemies will see glint off of sniper scopes."
+
+REFERENCE            desc_gunperk_hardmelee
+LANG_ENGLISH         "Melee produces greater stun on targets."
+
+REFERENCE            desc_gunperk_holdbreath
+LANG_ENGLISH         "Extended hold breath"
+
+REFERENCE            desc_gunperk_marksman
+LANG_ENGLISH         "See enemy nameplates at greater distances."
+
+REFERENCE            desc_gunperk_range
+LANG_ENGLISH         "^2[{attribute_pro}] Improved^7 Damage Range"
+
+REFERENCE            desc_gunperk_recoil
+LANG_ENGLISH         "^2[{attribute_pro}] Improved^7 ADS Recoil"
+
+REFERENCE            desc_gunperk_ricochet
+LANG_ENGLISH         "Grants special ammunition that ricochets off of surfaces
+^3 UNDER CONSTRUCTION - Does not function in game yet ^7"
+
+REFERENCE            desc_gunperk_rof
+LANG_ENGLISH         "^2[{attribute_pro}] Improved^7 Rate of Fire"
+
+REFERENCE            desc_gunperk_semi
+LANG_ENGLISH         "Changes fire mode to semi-automatic"
+
+REFERENCE            desc_gunperk_stalker
+LANG_ENGLISH         "^2[{attribute_pro}] ADS Move Speed"
+
+REFERENCE            desc_gunperk_stancespeed
+LANG_ENGLISH         "Greater movement speed in crouch and prone while staying silent."
+
+REFERENCE            desc_gunperk_xmags
+LANG_ENGLISH         "^2[{attribute_pro}] Improved^7 starting ammo."
+
+REFERENCE            desc_gunperk_xp
+LANG_ENGLISH         "Earn additional XP for kills."
+
+REFERENCE            desc_hairtrig
+LANG_ENGLISH         ""
+
+REFERENCE            desc_hammer01
+LANG_ENGLISH         "Smooth trigger and hammer assembly provides improved firing stability"
+
+REFERENCE            desc_hammer02
+LANG_ENGLISH         "Match Grade trigger and hammer provides superior follow-up accuracy"
+
+REFERENCE            desc_hammer03
+LANG_ENGLISH         "Lightweight trigger and hammer improves mobility"
+
+REFERENCE            desc_hammer04
+LANG_ENGLISH         "Precision built, lightweight hammer provides excellent control in tactical situations.
+^2[{attribute_pro}][{attribute_pro}] Improved^7 ADS Move Speed
+^2[{attribute_pro}] Improved^7 ADS Movement Bob"
+
+REFERENCE            desc_hipaim
+LANG_ENGLISH         "^2[{attribute_pro}] Improved^7 Hip Spread"
+
+REFERENCE            desc_holo
+LANG_ENGLISH         "Advanced holographic sight of American origin."
+
+REFERENCE            desc_holo_east01
+LANG_ENGLISH         "Advanced holographic sight of Russian origin."
+
+REFERENCE            desc_holo_east01_light
+LANG_ENGLISH         "Advanced holographic sight of Russian origin
+Lightweight materials used in its construction."
+
+REFERENCE            desc_holo_light
+LANG_ENGLISH         "Advanced holographic sight of American origin
+Lightweight materials used in its construction.
+^2 + Improved^7 FOV"
+
+REFERENCE            desc_holo_west02
+LANG_ENGLISH         "Advanced holographic sight of American origin."
+
+REFERENCE            desc_hybrid
+LANG_ENGLISH         "^23.25x^7 Scout with integral reflex sight for quickly transitioning between sights.
+"
+
+REFERENCE            desc_hybrid_east01
+LANG_ENGLISH         "
+"
+
+REFERENCE            desc_hybrid_east01_light
+LANG_ENGLISH         "
+"
+
+REFERENCE            desc_hybrid_east02
+LANG_ENGLISH         "
+"
+
+REFERENCE            desc_hybrid_east02_light
+LANG_ENGLISH         "
+"
+
+REFERENCE            desc_hybrid_thermal
+LANG_ENGLISH         "^23.25x^7 Thermal scope with a side-mounting reflex sight toggles thermal imaging with a flick of the wrist.  ^1Not compatible with Night Vision Goggles.^7
+"
+
+REFERENCE            desc_hybrid_west02
+LANG_ENGLISH         "Long range ^24.0x^7 optic manually flips to closer range holographic sight."
+
+REFERENCE            desc_hybrid_west02_light
+LANG_ENGLISH         "Higher power ^24.0x^7 optic manually flips allowing precision Holo optic to be used for closer engagements."
+
+REFERENCE            desc_hybrid_west03
+LANG_ENGLISH         "^23.25x^7 Scout with a side-mounting reflex sight lets you change engagement distances with a flick of the wrist.
+"
+
+REFERENCE            desc_hybrid_west03_light
+LANG_ENGLISH         "^23.25x^7 Scout with a side-mounting reflex sight lets you change engagement distances with a flick of the wrist."
+
+REFERENCE            desc_irons
+LANG_ENGLISH         ""
+
+REFERENCE            desc_laser_ads
+LANG_ENGLISH         "High power 5mW tactical green laser.  Improves accuracy while aiming down sights.  Exposes position when active."
+
+REFERENCE            desc_laser_hip
+LANG_ENGLISH         "Low power 1mW red laser improves hip fire accuracy while remaining undetected."
+
+REFERENCE            desc_laser_hip_shotgun
+LANG_ENGLISH         "Low power 1mW red laser slightly speeds up target acquisition after sprinting."
+
+REFERENCE            desc_laser_hip_strong
+LANG_ENGLISH         "Ultra bright 5mW green laser greatly improves hip fire accuracy and speeds up target acquisition after sprinting.  Exposes position when active.  Only for the aggressive."
+
+REFERENCE            desc_laser_hip_strong_shotgun
+LANG_ENGLISH         "Ultra bright 5mW green laser greatly speeds up target acquisition after sprinting.  Exposes position when active.  Only for aggressive operators who don't rely on concealment."
+
+REFERENCE            desc_laser_ir
+LANG_ENGLISH         "Infra Red laser only visible using Night Vision."
+
+REFERENCE            desc_linearbrake
+LANG_ENGLISH         "Provides the weapon with the ability to Suppress targets where nearby shots will cause the enemy's view to be disturbed.
+"
+
+REFERENCE            desc_magrelease
+LANG_ENGLISH         "Larger release pad to enable quicker, more efficient reloads
+^2 [{attribute_pro}] Improves^7 Reload Speed"
+
+REFERENCE            desc_muzzlemelee
+LANG_ENGLISH         "Muzzle attachment that enables 1 hit melee kills."
+
+REFERENCE            desc_muzzlemelee2
+LANG_ENGLISH         "Muzzle attachment that enables 1 hit melee kills."
+
+REFERENCE            desc_perk_adsidle
+LANG_ENGLISH         "^2[{attribute_pro}] Improved^7 ADS Idle Sway"
+
+REFERENCE            desc_perk_adsmove
+LANG_ENGLISH         ""
+
+REFERENCE            desc_perk_bling
+LANG_ENGLISH         "^2[{attribute_pro}] 1 Additional Attachment Slot"
+
+REFERENCE            desc_perk_crouchrecoil
+LANG_ENGLISH         "Extra training provides greater accuracy in supported positions."
+
+REFERENCE            desc_perk_fastreload
+LANG_ENGLISH         "Training in reloading faster when under pressure."
+
+REFERENCE            desc_perk_fastswap
+LANG_ENGLISH         "^2[{attribute_pro}] Weapon Switch Speed"
+
+REFERENCE            desc_perk_flinch
+LANG_ENGLISH         "Increased control of aim while being shot."
+
+REFERENCE            desc_perk_fmj
+LANG_ENGLISH         "^2[{attribute_pro}] Maximum bullet penetration
+[{attribute_pro}] Damage to Vehicles and Equipment"
+
+REFERENCE            desc_perk_maxammo
+LANG_ENGLISH         "Start with Maximum Reserve Ammo."
+
+REFERENCE            desc_pistolgrip01
+LANG_ENGLISH         "Smooth and granulated tape for a relaxed and controlled grip.  Keeps you steady and on target."
+
+REFERENCE            desc_pistolgrip01_02_sierra552
+LANG_ENGLISH         "Textured polymer with an adjustable palm shelf keeps the weapon incredibly stable while aiming."
+
+REFERENCE            desc_pistolgrip01_mike14
+LANG_ENGLISH         "Molded grip keeps the weapon in control during maneuvers.  Not as steady as a standard grip.  Heavy duty back end provides a more stable sight picture."
+
+REFERENCE            desc_pistolgrip01_smgolf45
+LANG_ENGLISH         "Textured polymer with a finger groove for a relaxed and controlled grip.  Keeps you steady and on target."
+
+REFERENCE            desc_pistolgrip02
+LANG_ENGLISH         "Stippled pistol grip tape maintains control when performing high-speed maneuvers. Less stable but very agile."
+
+REFERENCE            desc_pistolgrip02_02_sierra552
+LANG_ENGLISH         "Skeletonized grip for the ultimate in high speed maneuvering."
+
+REFERENCE            desc_pistolgrip02_02_smgolf45
+LANG_ENGLISH         "Skeletonized grip with Paracord wrap for the ultimate in high speed maneuvering."
+
+REFERENCE            desc_pistolgrip02_mike14
+LANG_ENGLISH         "Synthetic stock streamlined for close quarters combat.  Gets you on target faster.  Balanced backend for greater stability."
+
+REFERENCE            desc_pistolgrip03
+LANG_ENGLISH         "Rubberized grip keeps gun tight in hand.  Less steady, but helps control recoil."
+
+REFERENCE            desc_pistolgrip03_mike14
+LANG_ENGLISH         "Pistol grip shape keeps gun tight in hand.  Less steady, but helps control recoil.  Balanced backend provides greater stability."
+
+REFERENCE            desc_pistolgrip03_sierra552
+LANG_ENGLISH         "Rubberized no-slip grip keeps gun tight in hand.  Less steady, but helps control recoil."
+
+REFERENCE            desc_pistolgrip03_smgolf45
+LANG_ENGLISH         "Straight line rubberized no-slip grip keeps gun tight in hand.  Less steady, but helps control recoil."
+
+REFERENCE            desc_pistolgrip04
+LANG_ENGLISH         "Textured pistol grips provide greater control."
+
+REFERENCE            desc_pistolgrip04_mike14
+LANG_ENGLISH         "Molded grip keeps the weapon in control during maneuvers.  Not as steady as a standard grip.  Heavy duty back end provides a more stable sight picture."
+
+REFERENCE            desc_pistolgrip05
+LANG_ENGLISH         "Textured pistol grips provide greater control."
+
+REFERENCE            desc_pistolgrip05_mike14
+LANG_ENGLISH         "Smooth and granulated grip keeps you steady and on target.  Balanced backend for close quarters combat.  Gets you on target faster."
+
+REFERENCE            desc_pistolgrip06_mike14
+LANG_ENGLISH         "Pistol grip shape keeps gun tight in hand.  Less steady, but helps control recoil.  Heavy duty stock provides a more stable sight picture."
+
+REFERENCE            desc_pistolgrip_pstl01
+LANG_ENGLISH         "Smooth and granulated tape for a relaxed and controlled grip.  Keeps you steady and on target."
+
+REFERENCE            desc_pistolgrip_pstl02
+LANG_ENGLISH         "Stippled pistol grip tape maintains control when performing high-speed maneuvers. Less stable but very agile."
+
+REFERENCE            desc_pistolgrip_pstl02_mike9
+LANG_ENGLISH         "Tactical pistol grip maintains control when performing high-speed maneuvers. Less stable but very agile."
+
+REFERENCE            desc_pistolgrip_pstl03
+LANG_ENGLISH         "Rubberized grip keeps gun tight in hand.  Less steady, but helps control recoil."
+
+REFERENCE            desc_pistolgrip_pstl03_mike9
+LANG_ENGLISH         "Ergonomic pistol grip keeps gun tight in hand.  Exceptional recoil control at the cost of aiming stability."
+
+REFERENCE            desc_pistolgrip_pstl04
+LANG_ENGLISH         "Textured pistol grips provide greater control."
+
+REFERENCE            desc_pistolgrip_pstl05
+LANG_ENGLISH         "Textured pistol grips provide greater control."
+
+REFERENCE            desc_rack
+LANG_ENGLISH         "Increases Reserve Ammo Capacity."
+
+REFERENCE            desc_railcust_falpha
+LANG_ENGLISH         "(Currently has no gameplay change.)"
+
+REFERENCE            desc_reflex
+LANG_ENGLISH         "Precision Reticle"
+
+REFERENCE            desc_reflex_east01
+LANG_ENGLISH         "Precision reflex sight of Russian origin."
+
+REFERENCE            desc_reflex_east01_light
+LANG_ENGLISH         "Reflex sight of eastern origin.  Provides higher precision.
+Lightweight materials used in its construction."
+
+REFERENCE            desc_reflex_east02
+LANG_ENGLISH         "Russian reflex sight with a low-intrusion frame for improved target tracking."
+
+REFERENCE            desc_reflex_east02_light
+LANG_ENGLISH         "Reflex sight of eastern origin.  Provides higher precision.
+Lightweight materials used in its construction."
+
+REFERENCE            desc_reflex_light
+LANG_ENGLISH         "Precision Reticle
+Lightweight materials used in its construction."
+
+REFERENCE            desc_reflex_mgolf36
+LANG_ENGLISH         "Custom integrated reflex optic with a clean sight picture that puts the focus on the target."
+
+REFERENCE            desc_reflex_mini
+LANG_ENGLISH         "G.I. Miniature reflex optic features a wide, thin frame for an unobstructed sight picture."
+
+REFERENCE            desc_reflex_mini2
+LANG_ENGLISH         "Well-rounded precision sight from Solozero Optics provides a balanced sight picture."
+
+REFERENCE            desc_reflex_mini3
+LANG_ENGLISH         "Circular reflex frame from Cronen keeps the focus on the target."
+
+REFERENCE            desc_reflex_papa90
+LANG_ENGLISH         "Custom integral reflex sight provides higher precision."
+
+REFERENCE            desc_reflex_west01
+LANG_ENGLISH         "Reflex sight of American origin.  Provides higher precision."
+
+REFERENCE            desc_reflex_west01_light
+LANG_ENGLISH         "Reflex sight of American origin.  Provides higher precision.
+Lightweight materials used in its construction."
+
+REFERENCE            desc_reflex_west02
+LANG_ENGLISH         "Reflex sight of western origin.  Provides higher precision."
+
+REFERENCE            desc_reflex_west02_light
+LANG_ENGLISH         "Reflex sight of western origin.  Provides higher precision.
+Lightweight materials used in its construction."
+
+REFERENCE            desc_semi
+LANG_ENGLISH         "^2[{attribute_pro}] Semi-Automatic fire mode."
+
+REFERENCE            desc_shgnmags_caldb_romeo870
+LANG_ENGLISH         "XRK Eagle's Claw receiver with ^26-round magazines^7 of ^312 gauge incendiary^7 ammunition for faster reloads.  ^1Not compatible with custom barrels.^7"
+
+REFERENCE            desc_shgnmags_romeo870
+LANG_ENGLISH         "Custom XRK Eagle's Claw receiver with built in mag well to use ^26-round^7 detachable magazines for faster reloads.  ^1Not compatible with custom barrels.^7"
+
+REFERENCE            desc_shgnmags_slugs_romeo870
+LANG_ENGLISH         "XRK Eagle's Claw receiver with ^26-round^7 magazines of ^3437 gr hardcast slugs^7.  Faster reloads, ultimate stopping power.  ^1Not compatible with custom barrels.^7"
+
+REFERENCE            desc_shotgun
+LANG_ENGLISH         "Under Barrel mounted, semi-auto shotgun that can be fired instantly with ^3[{+frag}]^7."
+
+REFERENCE            desc_silencer
+LANG_ENGLISH         "Invisible on Radar when Firing."
+
+REFERENCE            desc_silencerhuge
+LANG_ENGLISH         "Extended suppressor adds considerable weight to the barrel, but greatly increases the muzzle velocity and reduces recoil to help with long range precision."
+
+REFERENCE            desc_silencerhuge_romeo870
+LANG_ENGLISH         "Box suppressor adds considerable weight to the barrel, but tightens pellet spread and reduces recoil to help with long range precision."
+
+REFERENCE            desc_silencerhuge_victor
+LANG_ENGLISH         "Custom extended suppressor from ZLR greatly increases the muzzle velocity and reduces recoil to help with long range precision."
+
+REFERENCE            desc_silencerlarge
+LANG_ENGLISH         "Monolithic core provides superior sound suppression and increased range.  Moderate weight increase affects agility."
+
+REFERENCE            desc_silencermed
+LANG_ENGLISH         "Titanium can with stainless steel baffles.  Silences weapon with very little additional weight."
+
+REFERENCE            desc_silenceroil
+LANG_ENGLISH         "Suppressor crafted from an oil filter.  Silences weapon, but ^1blocks visibility^7 when used with ironsights."
+
+REFERENCE            desc_silencersmall
+LANG_ENGLISH         "Lightweight aluminum suppressor sacrifices range for stealth and agility."
+
+REFERENCE            desc_slug_mags
+LANG_ENGLISH         "^3437 gr hardcast slugs^7 with a low muzzle velocity and tremendous stopping power.  Zeroed in at 30 meters to compensate for bullet drop."
+
+REFERENCE            desc_slugs
+LANG_ENGLISH         "^3437 gr hardcast slugs^7 with a low muzzle velocity and tremendous stopping power.  Imprecise and hard hitting, accuracy can be improved with longer barrels and chokes."
+
+REFERENCE            desc_slugs_dmb
+LANG_ENGLISH         "^3220 gr HE slugs^7 with a low muzzle velocity and tremendous stopping power.  3.5 grams of composition A-5 give a satisfying impact."
+
+REFERENCE            desc_snprscope
+LANG_ENGLISH         "High power ^28x^7 scope for long distance encounters. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_snprscope_725
+LANG_ENGLISH         "High power ^24.0x^7 scope unlocks this shotgun's true potential. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_snprscope_ar
+LANG_ENGLISH         "High power ^24.4x^7 scope for longer range encounters. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_snprscope_cpapa
+LANG_ENGLISH         "High power ^24.0x^7 scope converts this pistol into an accurate long range weapon. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_snprscope_crossbow
+LANG_ENGLISH         "High power ^24.0x^7 scope converts this crossbow into an accurate long range weapon. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_snprscope_dmr
+LANG_ENGLISH         "High power ^27x^7 scope for long distance encounters. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_snprscope_mike9
+LANG_ENGLISH         "High power ^24.0x^7 scope converts this pistol into an accurate long range weapon. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_stockclassicmpapa5
+LANG_ENGLISH         "Solid body stock provides a more stable sight picture."
+
+REFERENCE            desc_stockcollapsed
+LANG_ENGLISH         "Retracted stock for when agility is more important than precision.  High mobility, heavy recoil."
+
+REFERENCE            desc_stockcqb_mike14
+LANG_ENGLISH         "(Currently has no gameplay change.)"
+
+REFERENCE            desc_stockcust_akilo47
+LANG_ENGLISH         "Custom stock designed for quickly being raised in close encounter situations."
+
+REFERENCE            desc_stockcust_mike4
+LANG_ENGLISH         "^2[{attribute_pro}] ADS Recoil
+^1- ADS Raise Speed
+- ADS Move Speed"
+
+REFERENCE            desc_stockcust_shtgn
+LANG_ENGLISH         "Custom stock designed for quickly being raised in close encounter situations."
+
+REFERENCE            desc_stockfold
+LANG_ENGLISH         "The ultimate run and gun modification when agility is more important than precision.  Folding the stock greatly increases movement."
+
+REFERENCE            desc_stockh
+LANG_ENGLISH         "Heavy duty stock keeps your aim steady for precision shots."
+
+REFERENCE            desc_stockh_2
+LANG_ENGLISH         "The most stable stock available, provides exceptional control while aiming at the cost of mobility."
+
+REFERENCE            desc_stockh_2_hdromeo
+LANG_ENGLISH         "The most stable stock available, provides exceptional control while aiming at the cost of mobility."
+
+REFERENCE            desc_stockh_2_romeo870
+LANG_ENGLISH         "Solid wood rifle stock provides exceptional control while aiming at the cost of mobility."
+
+REFERENCE            desc_stockh_2_sksierra
+LANG_ENGLISH         "Traditional rifle stock provides exceptional control while aiming, at the cost of mobility."
+
+REFERENCE            desc_stockh_ammo_sbeta
+LANG_ENGLISH         "Carry ^26^7 additional rounds.  Extra weight slightly improves stability while aiming."
+
+REFERENCE            desc_stockh_charlie725
+LANG_ENGLISH         "Competition stock with adjustable comb and buttplate provide exceptional precision while aiming."
+
+REFERENCE            desc_stockh_comb
+LANG_ENGLISH         "Heavy weight stock attachment provides stability while aiming."
+
+REFERENCE            desc_stockh_comb_alt
+LANG_ENGLISH         "Heavy duty comb add-on provides exceptional precision while aiming."
+
+REFERENCE            desc_stockh_comb_kilo98
+LANG_ENGLISH         "Heavy weight stock attachment provides stability while aiming."
+
+REFERENCE            desc_stockh_crossbow
+LANG_ENGLISH         "Extremely stable heavy weight stock designed specifically for crossbows."
+
+REFERENCE            desc_stockh_delta
+LANG_ENGLISH         "Western stock adaptor designed to improve aiming precision.
+"
+
+REFERENCE            desc_stockh_kilo433
+LANG_ENGLISH         "Heavy duty stock with adjustable cheek rest.  Keeps your aim steady for precision shots."
+
+REFERENCE            desc_stockh_pack
+LANG_ENGLISH         "Weighted packs provide stability while aiming."
+
+REFERENCE            desc_stockh_pist_mike14
+LANG_ENGLISH         "Modular chassis with a Chronen pistol grip and tactical stock helps get on target faster and improves speed while on the move."
+
+REFERENCE            desc_stockh_pump_dpapa12
+LANG_ENGLISH         "Custom heavy-duty pump provides a more stable sight picture."
+
+REFERENCE            desc_stockh_sksierra
+LANG_ENGLISH         "Western stock adaptor designed to improve aiming precision."
+
+REFERENCE            desc_stockh_sniper
+LANG_ENGLISH         "Sniper variant of the Hunter stock designed to improve aiming precision."
+
+REFERENCE            desc_stockh_solid
+LANG_ENGLISH         "Heavy duty stock provides stability while aiming."
+
+REFERENCE            desc_stockh_solid_akilo47
+LANG_ENGLISH         "Heavyweight solid wood stock remains extremely stable while aiming."
+
+REFERENCE            desc_stockh_solid_mike4
+LANG_ENGLISH         "Heavy duty fixed stock provides reliable stability while aiming."
+
+REFERENCE            desc_stockh_solid_uzulu
+LANG_ENGLISH         "Original solid wood stock provides exceptional stability while aiming."
+
+REFERENCE            desc_stockh_tango21
+LANG_ENGLISH         "Weighted stock with cushioned recoil pad keeps your aim steady for precision shots."
+
+REFERENCE            desc_stockl
+LANG_ENGLISH         "Stock designed for agility while aiming down sights."
+
+REFERENCE            desc_stockl_alt_smgolf45
+LANG_ENGLISH         "Lightweight custom stock from FFS blends mobility with exceptional stability."
+
+REFERENCE            desc_stockl_beta
+LANG_ENGLISH         "Lightweight aluminum stock keeps you agile while aiming down sights."
+
+REFERENCE            desc_stockl_charlie725
+LANG_ENGLISH         "Ultralight adjustable stock configured for mobility while aiming."
+
+REFERENCE            desc_stockl_crossbow
+LANG_ENGLISH         "Lightweight crossbow stock provides exceptional agility while aiming."
+
+REFERENCE            desc_stockl_falima
+LANG_ENGLISH         "Lightweight aluminum stock keeps you agile while aiming down sights."
+
+REFERENCE            desc_stockl_hollow
+LANG_ENGLISH         "Hollowed out stock with lightweight recoil pad keeps shooter agile while aiming down sights."
+
+REFERENCE            desc_stockl_hollow_cust
+LANG_ENGLISH         "Custom hollowed out stock with a lightweight recoil pad that keeps the shooter agile when aiming down sights."
+
+REFERENCE            desc_stockl_mike14
+LANG_ENGLISH         "Lightweight composite stock designed for agility while aiming down sights."
+
+REFERENCE            desc_stockl_mike4
+LANG_ENGLISH         "Aluminum core synthetic stock designed for agility while aiming down sights."
+
+REFERENCE            desc_stockl_pist_mike14
+LANG_ENGLISH         "Modular chassis with a Cronen pistol grip and ultralight stock for superior maneuvering and the cost of stability. "
+
+REFERENCE            desc_stockl_pump_dpapa12
+LANG_ENGLISH         "Lightweight composite pump allows faster movement while staying on target."
+
+REFERENCE            desc_stockl_snpr
+LANG_ENGLISH         "^2[{attribute_pro}] ADS Move Speed"
+
+REFERENCE            desc_stockl_tango21
+LANG_ENGLISH         "Custom hollowed out stock with lightweight recoil pad keeps shooter agile while aiming down sights."
+
+REFERENCE            desc_stockno
+LANG_ENGLISH         "The ultimate run and gun modification when agility is more important than precision.  Removing the stock greatly increases movement."
+
+REFERENCE            desc_stockno_charlie725
+LANG_ENGLISH         "The ultimate run and gun modification when agility is more important than precision.  Sawing off the stock greatly increases movement."
+
+REFERENCE            desc_stockno_mike4
+LANG_ENGLISH         "The ultimate run and gun modification when agility is more important than precision.  Removing the stock greatly increases movement."
+
+REFERENCE            desc_stockno_retracted
+LANG_ENGLISH         "The ultimate run and gun modification when agility is more important than precision.  Collapsing the stock greatly increases movement."
+
+REFERENCE            desc_stockno_sksierra
+LANG_ENGLISH         "The ultimate run and gun modification when agility is more important than precision.  Sawing off the stock greatly increases movement."
+
+REFERENCE            desc_stockpstl
+LANG_ENGLISH         "Stock provides a stable sight picture and helps control recoil while aiming down the sights."
+
+REFERENCE            desc_stockpstl_grip_mike9
+LANG_ENGLISH         "Tactical stock and foregrip combo provide an extremely stable firing platform."
+
+REFERENCE            desc_stockpstl_light
+LANG_ENGLISH         "Polymer stock provides a stable aiming platform without sacrificing too much mobility."
+
+REFERENCE            desc_stockpstl_light_mike9
+LANG_ENGLISH         "Tactical stock provides a stable aiming platform and improved recoil control without sacrificing too much mobility."
+
+REFERENCE            desc_stockpstl_wood
+LANG_ENGLISH         "Solid wood stock provides a superior and stable sight picture while aiming down the sights."
+
+REFERENCE            desc_stocks
+LANG_ENGLISH         "Tactical stock streamlined for close quarters combat.  Gets you on target faster."
+
+REFERENCE            desc_stocks_alpha50
+LANG_ENGLISH         "Tactical stock designed for rapid target acquisition and engagement."
+
+REFERENCE            desc_stocks_charlie725
+LANG_ENGLISH         "Competition stock designed for fast target acquisition."
+
+REFERENCE            desc_stocks_comb
+LANG_ENGLISH         "Tactical comb add-on streamlined for close quarters combat.  Gets you on target faster."
+
+REFERENCE            desc_stocks_comb_sbeta
+LANG_ENGLISH         "Adjustable comb designed to improve target acquisition."
+
+REFERENCE            desc_stocks_crossbow
+LANG_ENGLISH         "Competition stock from FSS designed for rapid target acquisition."
+
+REFERENCE            desc_stocks_delta
+LANG_ENGLISH         "Western stock adaptor designed to improve target acquisition."
+
+REFERENCE            desc_stocks_kilo121
+LANG_ENGLISH         "High performance stock designed for rapid target engagement."
+
+REFERENCE            desc_stocks_mgolf36
+LANG_ENGLISH         "Ergonomic stock with a straight line base has a perfect center of balance for raising and lowering rapidly."
+
+REFERENCE            desc_stocks_origin12
+LANG_ENGLISH         "Tactical stock designed for fast target acquisition."
+
+REFERENCE            desc_stocks_pump_dpapa12
+LANG_ENGLISH         "Tactical pump designed for close quarters combat.  Gets you on target faster."
+
+REFERENCE            desc_stocks_romeo
+LANG_ENGLISH         "Tactical variant of the Stalker designed for 12-gauge, close-quarters combat.  Gets you on target faster."
+
+REFERENCE            desc_stocks_smgolf45
+LANG_ENGLISH         "Tactical stock designed for rapid target acquisition, for when fast reflexes mean the difference between life and death."
+
+REFERENCE            desc_stocks_sniper
+LANG_ENGLISH         "Sniper variant of the Stalker stock designed to improve target acquisition."
+
+REFERENCE            desc_stocks_tango21
+LANG_ENGLISH         "Tactical stock designed for fast target acquisition."
+
+REFERENCE            desc_stocks_wrap
+LANG_ENGLISH         "Tactical comb add-on streamlined for close quarters combat.  Gets you on target faster."
+
+REFERENCE            desc_stockskel
+LANG_ENGLISH         "Ultralight stock speeds up weapon handling and movement at the expense of aiming stability."
+
+REFERENCE            desc_stockstats01
+LANG_ENGLISH         "Lightweight materials provide more mobility."
+
+REFERENCE            desc_stockstats02
+LANG_ENGLISH         "Greater reduction in weight provides excellent mobility.
+^2 [{attribute_pro}][{attribute_pro}] Improved^7 Move Speed
+^1 - Worse^7 ADS Idle Sway"
+
+REFERENCE            desc_stockstats03
+LANG_ENGLISH         "Stock that provides additional stability when Aiming Down Sights
+^2 [{attribute_pro}] Improved ^7 ADS Idle Sway
+^2 [{attribute_pro}] Improved ^7 ADS Movement Bob
+"
+
+REFERENCE            desc_stockstats04
+LANG_ENGLISH         "Well made stock provides excellent control in tactical situations.
+^2[{attribute_pro}] Improved^7 ADS Move Speed
+^2[{attribute_pro}] Improved^7 ADS Movement Bob
+"
+
+REFERENCE            desc_stockstats05
+LANG_ENGLISH         "Advanced stock provides excellent control in tactical situations.
+^2[{attribute_pro}][{attribute_pro}] Improved^7 ADS Move Speed
+^1 - Worse^7 Hip Spread"
+
+REFERENCE            desc_stockstats06
+LANG_ENGLISH         "Specially shaped stock provides excellent control getting into and out of combat readiness.
+^2[{attribute_pro}] Improved^7 ADS Raise Speed
+^2[{attribute_pro}] Improved^7 ADS Movement Bob
+^1 - Worse^7  ADS Idle Sway"
+
+REFERENCE            desc_stockstats07
+LANG_ENGLISH         "^2[{attribute_pro}][{attribute_pro}] Base Move Speed
+^1- Sprint Out Speed"
+
+REFERENCE            desc_stockstats08
+LANG_ENGLISH         "^2[{attribute_pro}][{attribute_pro}] ADS Idle Sway
+^1- ADS Raise Speed"
+
+REFERENCE            desc_stockstats09
+LANG_ENGLISH         "^2[{attribute_pro}] ADS Raise Speed"
+
+REFERENCE            desc_stockstrap
+LANG_ENGLISH         "Clip on strap improves fast paced weapon handling."
+
+REFERENCE            desc_strap
+LANG_ENGLISH         ""
+
+REFERENCE            desc_tacknife
+LANG_ENGLISH         "Faster and Lethal Melee Attack."
+
+REFERENCE            desc_thermal
+LANG_ENGLISH         "Advanced ^23.25x^7 Gen 3 night vision with thermal overlay for enhanced situational awareness. ^1Not compatible with Night Vision Goggles.^7"
+
+REFERENCE            desc_thermal2
+LANG_ENGLISH         "^23.25x^7 scope with thermal imaging highlights targets and provides visibility in all lighting conditions. ^1Not compatible with Night Vision Goggles.^7"
+
+REFERENCE            desc_thermal_snpr
+LANG_ENGLISH         "High-powered ^28x^7 thermal sniper scope uses heat signatures to highlight targets and provides visibility in all lighting conditions. ^1Not compatible with Night Vision Goggles.^7 ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_thermalacog_snpr
+LANG_ENGLISH         "Light weight ^23.25x^7 thermal scope highlights target's heat signature and provides visibility in all lighting conditions. ^1Not compatible with Night Vision Goggles.^7"
+
+REFERENCE            desc_thermalvz
+LANG_ENGLISH         "Advanced thermal imaging scope with variable ^25.0x^7 and ^212.1x^7 magnification for fighting at extreme ranges in all lighting conditions. ^1Not compatible with Night Vision Goggles.^7 ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_trigfan
+LANG_ENGLISH         "Smoother hammer action allows for effective fanning of the hammer"
+
+REFERENCE            desc_triggripcust
+LANG_ENGLISH         "(Currently has no gameplay change.)"
+
+REFERENCE            desc_trighair
+LANG_ENGLISH         "Lighter weight trigger allows for less effort to fire leading to better accuracy"
+
+REFERENCE            desc_trigheavy
+LANG_ENGLISH         "Smooth trigger with a late break allows stable shots at a slower rate of fire."
+
+REFERENCE            desc_triglight
+LANG_ENGLISH         "Hair trigger for the fastest fire rate available.  Not as steady as the stock trigger."
+
+REFERENCE            desc_trigprecise
+LANG_ENGLISH         "High precision trigger offers a higher rate of fire and steady shots while aiming.  Not as accurate from the hip."
+
+REFERENCE            desc_ubshtgn
+LANG_ENGLISH         "Single fire underbarrel ^2shotgun^7 provides reliable backup for close quarters encounters."
+
+REFERENCE            desc_vertmags
+LANG_ENGLISH         ""
+
+REFERENCE            desc_vzscope
+LANG_ENGLISH         "Advanced scope zooms between ^25.0x^7 and ^212.1x^7 for fighting at extreme ranges. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_vzscope_ar
+LANG_ENGLISH         "Advanced scope zooms between ^23.0x^7 and ^26.1x^7 for fighting at extended ranges. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_vzscope_dmr
+LANG_ENGLISH         "Advanced scope zooms between ^23.5x^7 and ^28.0x^7 for fighting at extended ranges. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_vzscope_hdromeo
+LANG_ENGLISH         "Advanced scope zooms between ^25.5x^7 and ^212.6x^7 for fighting at extreme ranges. ^1Optic glint visible to enemies.^7"
+
+REFERENCE            desc_xmags
+LANG_ENGLISH         "Extended magazines hold more ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_akilo47
+LANG_ENGLISH         "Extended magazines hold ^240 rounds^7 of 7.62??39mm ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_alpha50
+LANG_ENGLISH         "Extended magazines hold ^27 rounds^7 of .50 BMG ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_asierra12
+LANG_ENGLISH         "Extended magazines hold ^225 rounds^7 of 12.7??55mm ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_augolf
+LANG_ENGLISH         "Extended magazines hold ^232 rounds^7 of 9mm Parabellum ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_belt_kilo121
+LANG_ENGLISH         "Longer belts hold ^2120 rounds^7 of 7.62 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_belt_long_kilo121
+LANG_ENGLISH         "Extended belts hold ^2150 rounds^7 of 7.62 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmags_belt_long_mgolf34
+LANG_ENGLISH         "Extended belts hold ^2100 rounds^7 of 7.92 Mauser ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmags_belt_long_mkilo3
+LANG_ENGLISH         "Longer belts hold ^2150 rounds^7 of 5.56 NATO ammunition ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmags_belt_long_pkilo
+LANG_ENGLISH         "Longer belts hold ^2150 rounds^7 of 7.62??54mmR ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmags_belt_long_pkilo_dmb
+LANG_ENGLISH         "Longer belts hold ^2150 rounds^7 of 7.62??54mm HEI ammunition.  Each round's point-detonating fuse ignites a 3.5 gram charge for a satisfying impact."
+
+REFERENCE            desc_xmags_belt_mgolf34
+LANG_ENGLISH         "Longer belts hold ^275 rounds^7 of 7.92 Mauser ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_belt_xlong_mkilo3
+LANG_ENGLISH         "Extended belts hold ^2200 rounds^7 of 5.56 NATO ammunition, sacrificing mobility for maximum ammo capacity."
+
+REFERENCE            desc_xmags_belt_xlong_pkilo
+LANG_ENGLISH         "Extended belts hold ^2200 rounds^7 of 7.62??54mmR ammunition, sacrificing mobility for maximum ammo capacity."
+
+REFERENCE            desc_xmags_belt_xlong_pkilo_dmb
+LANG_ENGLISH         "Extended belts hold ^2200 rounds^7 of 7.62??54mm HEI ammunition.  Each round's point-detonating fuse ignites a 3.5 gram charge for a satisfying impact."
+
+REFERENCE            desc_xmags_beta
+LANG_ENGLISH         "Extended magazines hold ^284 rounds^7 of 9mm Makarov ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmags_decho
+LANG_ENGLISH         "Extended magazines hold ^210 rounds^7 of .50 pistol ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_delta
+LANG_ENGLISH         "Extended magazines hold ^215 rounds^7 of 7.62??54mmR ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_falima
+LANG_ENGLISH         "Extended magazines hold ^224 rounds^7 of 7.62 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_falpha
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 5.56 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_galima
+LANG_ENGLISH         "Extended magazines hold ^245 rounds^7 of 7.62??39mm ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_golf21
+LANG_ENGLISH         "Extended magazines hold ^217 rounds^7 of .45 ACP ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_hdromeo
+LANG_ENGLISH         "Extended magazines hold ^27 rounds^7 of 12.7??108mm ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_kilo433
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 5.56 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_lima86
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 5.56 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_mcharlie
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 5.56 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_mike14
+LANG_ENGLISH         "Extended magazines hold ^215 rounds^7 of 7.62 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_mike1911
+LANG_ENGLISH         "Extended magazines hold ^210 rounds^7 of .45 ACP ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_mike26
+LANG_ENGLISH         "Extended magazines hold ^212 shells^7 with a slight weight increase."
+
+REFERENCE            desc_xmags_mike4
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 5.56 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_mike9
+LANG_ENGLISH         "Extended magazines hold ^221 rounds^7 of 9mm Parabellum ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_mpapa5
+LANG_ENGLISH         "Extended magazines hold ^245 rounds^7 of 9mm Parabellum ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_mpapa7
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 4.6??30mm ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_oscar12
+LANG_ENGLISH         "Extended magazines hold ^212 shells^7 with a slight weight increase."
+
+REFERENCE            desc_xmags_papa320
+LANG_ENGLISH         "Extended magazines hold ^221 rounds^7 of 9mm Parabellum ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_scharlie
+LANG_ENGLISH         "Extended magazines hold ^225 rounds^7 of 7.62 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_sierra552
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 5.56 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_sksierra
+LANG_ENGLISH         "Extended magazines hold ^230 rounds^7 of 7.62??39mm ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_smgolf45
+LANG_ENGLISH         "Extended magazines hold ^245 rounds^7 of .45 ACP ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_tango21
+LANG_ENGLISH         "Extended magazines hold ^250 rounds^7 of 5.56 NATO ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_uzulu
+LANG_ENGLISH         "Extended magazines hold ^240 rounds^7 of 9mm Parabellum ammunition with a slight weight increase."
+
+REFERENCE            desc_xmags_victor
+LANG_ENGLISH         "Drum magazines hold ^245 rounds^7 of .41 APC ammunition, maximizing ammo capacity at the expense of mobility."
+
+REFERENCE            desc_xmagslrg
+LANG_ENGLISH         "High capacity magazines hold significantly more ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_alpha50
+LANG_ENGLISH         "High capacity magazines hold ^29 rounds^7 of .50 BMG ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_asierra12
+LANG_ENGLISH         "High capacity magazines hold ^230 rounds^7 of 12.7??55mm ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_decho
+LANG_ENGLISH         "High capacity magazines hold ^213 rounds^7 of .50 pistol ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_delta
+LANG_ENGLISH         "High capacity magazines hold ^220 rounds^7 of 7.62??54mmR ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_falima
+LANG_ENGLISH         "High capacity magazines hold ^230 rounds^7 of 7.62 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_falpha
+LANG_ENGLISH         "High capacity magazines hold ^260 rounds^7 of 5.56 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_golf21
+LANG_ENGLISH         "High capacity magazines hold ^226 rounds^7 of .45 ACP ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_hdromeo
+LANG_ENGLISH         "High capacity magazines hold ^29 rounds^7 of 12.7??108mm ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_kilo433
+LANG_ENGLISH         "High capacity magazines hold ^260 rounds^7 of 5.56 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_lima86
+LANG_ENGLISH         "High capacity magazines hold ^260 rounds^7 of 5.56 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_mcharlie
+LANG_ENGLISH         "High capacity magazines hold ^260 rounds^7 of 5.56 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_mike14
+LANG_ENGLISH         "High capacity magazines hold ^220 rounds^7 of 7.62 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_mike1911
+LANG_ENGLISH         "High capacity magazines hold ^215 rounds^7 of .45 ACP ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_mike4
+LANG_ENGLISH         "High capacity magazines hold ^260 rounds^7 of 5.56 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_mike9
+LANG_ENGLISH         "High capacity magazines hold ^227 rounds^7 of 9mm Parabellum ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_mpapa7
+LANG_ENGLISH         "High capacity magazines hold ^260 rounds^7 of 4.6??30mm ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_papa320
+LANG_ENGLISH         "High capacity magazines hold ^232 rounds^7 of 9mm Parabellum ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_scharlie
+LANG_ENGLISH         "High capacity magazines hold ^230 rounds^7 of 7.62 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_sierra552
+LANG_ENGLISH         "High capacity magazines hold ^260 rounds^7 of 5.56 NATO ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagslrg_uzulu
+LANG_ENGLISH         "High capacity magazines hold ^250 rounds^7 of 9mm Parabellum ammunition with a moderate weight increase."
+
+REFERENCE            desc_xmagssml_galima
+LANG_ENGLISH         "^110 rounds^7 of ^37.62 M67^7 ammunition designed for increased muzzle velocity, improved accuracy, and superior damage.  Weapon defaults to ^2semi-auto^7."
+
+REFERENCE            desc_xmagssml_mgolf36
+LANG_ENGLISH         "^130 round^7 magazines of 5.56 NATO carry less ammunition, but increase mobility and speed up reload times."
+
+REFERENCE            desc_xmagssml_mike26
+LANG_ENGLISH         "^14 round^7 magazines carry fewer 12 gauge shells, but increase mobility and speed up reload times."
+
+REFERENCE            desc_xmagssml_mkilo3
+LANG_ENGLISH         "^160 round^7 magazines of 5.56 NATO carry less ammunition than the standard belts, but increase mobility and greatly speed up reload times."
+
+REFERENCE            desc_xmagssml_sksierra
+LANG_ENGLISH         "^110 round^7 magazines of 7.62??39mm carry less ammunition, but increase mobility and speed up reload times."
+
+REFERENCE            desc_xmagssml_smgolf45
+LANG_ENGLISH         "Gun mod for lightweight single stack ^112 round^7  magazines.  Comes equipped with a ^22-round burst^7 fire mode and ^3.45 ACP Hollow Point^7 ammunition to ensure every shot counts."
+
+REFERENCE            desc_xmagssml_victor
+LANG_ENGLISH         "Gun mod for lightweight single stack ^112 round^7  magazines.  Comes equipped with a ^22-round burst^7 fire mode and ^3.45 ACP Hollow Point^7 ammunition to ensure every shot counts."
+
+REFERENCE            desc_xtubes_dpapa12
+LANG_ENGLISH         "Tube extensions carry an additional ^24 rounds^7 of 12 gauge with a very slight weight increase."
+
+REFERENCE            desc_xtubes_romeo870
+LANG_ENGLISH         "Tube extension carries an extra ^22 rounds^7 of 12 gauge with a very slight weight increase."
+
+REFERENCE            do_not_use
+LANG_ENGLISH         "Do not use"
+
+REFERENCE            drums
+LANG_ENGLISH         "Drum Mags"
+
+REFERENCE            drums_akilo47
+LANG_ENGLISH         "75 Round Drum Mags"
+
+REFERENCE            drums_kilo433
+LANG_ENGLISH         "100 Round Drums"
+
+REFERENCE            drums_oscar12
+LANG_ENGLISH         "25 Round Drum Mags"
+
+REFERENCE            drums_tango21
+LANG_ENGLISH         "9mm Para 60-Round Drums"
+
+REFERENCE            empty
+LANG_ENGLISH         "Empty"
+
+REFERENCE            flashhider
+LANG_ENGLISH         "Flash Guard"
+
+REFERENCE            fmj
+LANG_ENGLISH         "FMJ"
+
+REFERENCE            fourx
+LANG_ENGLISH         "Scout Combat Optic"
+
+REFERENCE            fourx2
+LANG_ENGLISH         "VLK 3.0x Optic"
+
+REFERENCE            fourx2_pist
+LANG_ENGLISH         "VLK 2.5x Optic"
+
+REFERENCE            fourx2_snpr
+LANG_ENGLISH         "VLK 3.0x Optic"
+
+REFERENCE            fourx3
+LANG_ENGLISH         "Cronen C480 Pro Optic"
+
+REFERENCE            fourx3_snpr
+LANG_ENGLISH         "Cronen C480 Pro Optic"
+
+REFERENCE            fourx_augolf
+LANG_ENGLISH         "Integral 3.0x Optic"
+
+REFERENCE            fourx_light
+LANG_ENGLISH         "Scout Combat Optic (LW)"
+
+REFERENCE            fourx_mgolf36
+LANG_ENGLISH         "Solozero K498 4.0x Integral"
+
+REFERENCE            fourx_snpr
+LANG_ENGLISH         "Scout Combat Optic"
+
+REFERENCE            fourx_tango21
+LANG_ENGLISH         "Cronen 2x2 Elite"
+
+REFERENCE            front_slot
+LANG_ENGLISH         "BALLISTICS"
+
+REFERENCE            frontsuppression
+LANG_ENGLISH         "Suppression Device"
+
+REFERENCE            frontsuppression2
+LANG_ENGLISH         "Cut and Crowned Barrel"
+
+REFERENCE            gl_conc
+LANG_ENGLISH         "Concussion Grenade Launcher"
+
+REFERENCE            gl_conc_echo
+LANG_ENGLISH         "40mm Concussive"
+
+REFERENCE            gl_conc_golf25
+LANG_ENGLISH         "GP25 40mm Concussive"
+
+REFERENCE            gl_conc_mike203
+LANG_ENGLISH         "M203 40mm Concussive"
+
+REFERENCE            gl_flash
+LANG_ENGLISH         "Flash Grenade Launcher"
+
+REFERENCE            gl_flash_echo
+LANG_ENGLISH         "40mm Flash"
+
+REFERENCE            gl_flash_golf25
+LANG_ENGLISH         "GP25 40mm Flash"
+
+REFERENCE            gl_flash_mike203
+LANG_ENGLISH         "M203 40mm Flash"
+
+REFERENCE            gl_gas
+LANG_ENGLISH         "Gas Grenade Launcher"
+
+REFERENCE            gl_gas_echo
+LANG_ENGLISH         "40mm Teargas"
+
+REFERENCE            gl_gas_golf25
+LANG_ENGLISH         "GP25 40mm Riot Control"
+
+REFERENCE            gl_gas_mike203
+LANG_ENGLISH         "M203 40mm Riot Control"
+
+REFERENCE            gl_incendiary
+LANG_ENGLISH         "Incendiary Grenade Launcher"
+
+REFERENCE            gl_incendiary_echo
+LANG_ENGLISH         "40mm Incendiary"
+
+REFERENCE            gl_incendiary_golf25
+LANG_ENGLISH         "GP25 40mm Incendiary"
+
+REFERENCE            gl_incendiary_mike203
+LANG_ENGLISH         "M203 40mm Incendiary"
+
+REFERENCE            gl_semtex
+LANG_ENGLISH         "Semtex Grenade Launcher"
+
+REFERENCE            gl_semtex_echo
+LANG_ENGLISH         "40mm Semtex"
+
+REFERENCE            gl_semtex_golf25
+LANG_ENGLISH         "GP25 40mm Demolition"
+
+REFERENCE            gl_semtex_mike203
+LANG_ENGLISH         "M203 40mm Demolition"
+
+REFERENCE            gl_smoke
+LANG_ENGLISH         "Smoke Grenade Launcher"
+
+REFERENCE            gl_smoke_echo
+LANG_ENGLISH         "40mm Smokescreen"
+
+REFERENCE            gl_smoke_golf25
+LANG_ENGLISH         "GP25 40mm Smokescreen"
+
+REFERENCE            gl_smoke_mike203
+LANG_ENGLISH         "M203 40mm Smokescreen"
+
+REFERENCE            gl_snap
+LANG_ENGLISH         "Snapshot Grenade Launcher"
+
+REFERENCE            gl_snap_echo
+LANG_ENGLISH         "40mm Recon"
+
+REFERENCE            gl_snap_golf25
+LANG_ENGLISH         "GP25 40mm Recon"
+
+REFERENCE            gl_snap_mike203
+LANG_ENGLISH         "M203 40mm Recon"
+
+REFERENCE            gloves01
+LANG_ENGLISH         "Fingerless Gloves"
+
+REFERENCE            gloves02
+LANG_ENGLISH         "Tactical Shooting Gloves"
+
+REFERENCE            grenade_launcher
+LANG_ENGLISH         "Grenade Launcher"
+
+REFERENCE            grenade_launcher_echo
+LANG_ENGLISH         "40mm High-explosive"
+
+REFERENCE            grenade_launcher_golf25
+LANG_ENGLISH         "GP25 40mm High-explosive"
+
+REFERENCE            grenade_launcher_mike203
+LANG_ENGLISH         "M203 40mm High-explosive"
+
+REFERENCE            gripang_crossbow02
+LANG_ENGLISH         "FTAC Speed Grip"
+
+REFERENCE            gripanglarge
+LANG_ENGLISH         "Commando Foregrip"
+
+REFERENCE            gripangsmall
+LANG_ENGLISH         "Tactical Foregrip"
+
+REFERENCE            gripangsmall_papa90
+LANG_ENGLISH         "Granulated Grip Tape"
+
+REFERENCE            gripangsmall_sierra552
+LANG_ENGLISH         "Cronen Shark II"
+
+REFERENCE            gripbipod
+LANG_ENGLISH         "Bipod Foregrip"
+
+REFERENCE            gripcust_augolf
+LANG_ENGLISH         "Classic Foregrip"
+
+REFERENCE            gripcust_mike1911
+LANG_ENGLISH         "Custom Foregrip"
+
+REFERENCE            gripfore_mike9
+LANG_ENGLISH         "FTAC G-X"
+
+REFERENCE            gripfore_tactical_romeo
+LANG_ENGLISH         "XRK Truegrip Tactical"
+
+REFERENCE            gripfore_wood_romeo
+LANG_ENGLISH         "Lockwood Precision Series"
+
+REFERENCE            griprear
+LANG_ENGLISH         "Rear Grip"
+
+REFERENCE            gripside_pkilo
+LANG_ENGLISH         "Snatch Grip"
+
+REFERENCE            gripside_tactical_mike26
+LANG_ENGLISH         "XRK Race Grip"
+
+REFERENCE            gripvert_crossbow01
+LANG_ENGLISH         "XRK Precision Grip"
+
+REFERENCE            gripvert_crossbow03
+LANG_ENGLISH         "XRK Talon"
+
+REFERENCE            gripvertlong
+LANG_ENGLISH         "Merc Foregrip"
+
+REFERENCE            gripvertlong_shtgn
+LANG_ENGLISH         "Merc Foregrip"
+
+REFERENCE            gripvertmed
+LANG_ENGLISH         "Ranger Foregrip"
+
+REFERENCE            gripvertmed_mike26
+LANG_ENGLISH         "XRK ReliaGrip"
+
+REFERENCE            gripvertmed_papa90
+LANG_ENGLISH         "Stippled Grip Tape"
+
+REFERENCE            gripvertshort
+LANG_ENGLISH         "Operator Foregrip"
+
+REFERENCE            gripvertshort_mike26
+LANG_ENGLISH         "VLK Prime Pump Grip"
+
+REFERENCE            gripvertshort_papa90
+LANG_ENGLISH         "Rubberized Grip Tape"
+
+REFERENCE            guardcust
+LANG_ENGLISH         "CQB Guard"
+
+REFERENCE            guardh
+LANG_ENGLISH         "Heavy Guard"
+
+REFERENCE            guardh_charlie725
+LANG_ENGLISH         "FORGE TAC Steady Grip"
+
+REFERENCE            guardl
+LANG_ENGLISH         "Lightweight Guard"
+
+REFERENCE            guardl_charlie725
+LANG_ENGLISH         "Tempus SlimGrip"
+
+REFERENCE            guardtight_charlie725
+LANG_ENGLISH         "FORGE TAC Commander"
+
+REFERENCE            gunperk_adsup
+LANG_ENGLISH         "Fast-Up"
+
+REFERENCE            gunperk_binarytrigger
+LANG_ENGLISH         "Binary Trigger"
+
+REFERENCE            gunperk_burst
+LANG_ENGLISH         "Burst"
+
+REFERENCE            gunperk_burst2
+LANG_ENGLISH         "Burst Fire (x2)"
+
+REFERENCE            gunperk_burst2fast
+LANG_ENGLISH         "Burst Fire (x2) Enhanced"
+
+REFERENCE            gunperk_burst3fast
+LANG_ENGLISH         "Burst Fire (x3) Enhanced"
+
+REFERENCE            gunperk_burst4
+LANG_ENGLISH         "Burst Fire (x4)"
+
+REFERENCE            gunperk_burst4fast
+LANG_ENGLISH         "Burst Fire (x4) Enhanced"
+
+REFERENCE            gunperk_callout
+LANG_ENGLISH         "Callout"
+
+REFERENCE            gunperk_dexterity
+LANG_ENGLISH         "Dexterity"
+
+REFERENCE            gunperk_enemytag
+LANG_ENGLISH         "Sensor"
+
+REFERENCE            gunperk_fastmelee
+LANG_ENGLISH         "Fast Melee"
+
+REFERENCE            gunperk_glintreduce
+LANG_ENGLISH         "Reduced Sniper Glint"
+
+REFERENCE            gunperk_hardmelee
+LANG_ENGLISH         "Heavy Hitter"
+
+REFERENCE            gunperk_holdbreath
+LANG_ENGLISH         "Presence of Mind"
+
+REFERENCE            gunperk_marksman
+LANG_ENGLISH         "Recon"
+
+REFERENCE            gunperk_range
+LANG_ENGLISH         "Long-Range
+"
+
+REFERENCE            gunperk_recoil
+LANG_ENGLISH         "Reduced Recoil"
+
+REFERENCE            gunperk_ricochet
+LANG_ENGLISH         "Ricochet"
+
+REFERENCE            gunperk_rof
+LANG_ENGLISH         "Rapid Fire"
+
+REFERENCE            gunperk_semi
+LANG_ENGLISH         "Semi Auto"
+
+REFERENCE            gunperk_stalker
+LANG_ENGLISH         "Stalker"
+
+REFERENCE            gunperk_stancespeed
+LANG_ENGLISH         "Skulk"
+
+REFERENCE            gunperk_xmags
+LANG_ENGLISH         "Fully Loaded"
+
+REFERENCE            gunperk_xp
+LANG_ENGLISH         "Mo' Money"
+
+REFERENCE            hairtrig
+LANG_ENGLISH         "Hair Trigger"
+
+REFERENCE            hammer01
+LANG_ENGLISH         "Stainless Steel Assembly"
+
+REFERENCE            hammer02
+LANG_ENGLISH         "Match Grade Assembly"
+
+REFERENCE            hammer03
+LANG_ENGLISH         "Lightweight Assembly"
+
+REFERENCE            hammer04
+LANG_ENGLISH         "Dynamic Steel Hammer"
+
+REFERENCE            high_caliber
+LANG_ENGLISH         "Hollow Point"
+
+REFERENCE            hipaim
+LANG_ENGLISH         "Laser"
+
+REFERENCE            holo
+LANG_ENGLISH         "Corp Combat Holo Sight"
+
+REFERENCE            holo_east01
+LANG_ENGLISH         "APX5 Holographic Sight"
+
+REFERENCE            holo_east01_light
+LANG_ENGLISH         "APX5 Holo Sight (LW)"
+
+REFERENCE            holo_generic
+LANG_ENGLISH         "Holo"
+
+REFERENCE            holo_light
+LANG_ENGLISH         "Corp Combat Holo Sight (LW)"
+
+REFERENCE            holo_west02
+LANG_ENGLISH         "PBX Holo 7 Sight"
+
+REFERENCE            hybrid
+LANG_ENGLISH         "Integral Hybrid"
+
+REFERENCE            hybrid_east01
+LANG_ENGLISH         "Hybrid Scope - East"
+
+REFERENCE            hybrid_east01_light
+LANG_ENGLISH         "Hybrid Scope - East"
+
+REFERENCE            hybrid_east02
+LANG_ENGLISH         "Hybrid Scope - East (alt)"
+
+REFERENCE            hybrid_east02_light
+LANG_ENGLISH         "Hybrid Scope - East (alt)"
+
+REFERENCE            hybrid_generic
+LANG_ENGLISH         "Hybrid"
+
+REFERENCE            hybrid_thermal
+LANG_ENGLISH         "Thermal Hybrid"
+
+REFERENCE            hybrid_west02
+LANG_ENGLISH         "4.0x Flip Hybrid"
+
+REFERENCE            hybrid_west02_light
+LANG_ENGLISH         "4.0x Flip Hybrid"
+
+REFERENCE            hybrid_west03
+LANG_ENGLISH         "Canted Hybrid"
+
+REFERENCE            hybrid_west03_light
+LANG_ENGLISH         "Canted Hybrid"
+
+REFERENCE            irons
+LANG_ENGLISH         "Iron Sights"
+
+REFERENCE            laser_ads
+LANG_ENGLISH         "Tac Laser"
+
+REFERENCE            laser_hip
+LANG_ENGLISH         "1mW Laser"
+
+REFERENCE            laser_hip_strong
+LANG_ENGLISH         "5mW Laser"
+
+REFERENCE            laser_ir
+LANG_ENGLISH         "IR Laser"
+
+REFERENCE            lasermic_townhouse
+LANG_ENGLISH         "MCX Scoped - Laser Mic"
+
+REFERENCE            linearbrake
+LANG_ENGLISH         "Suppression Device"
+
+REFERENCE            magrelease
+LANG_ENGLISH         "Custom Mag Release"
+
+REFERENCE            mixed_bag_slot
+LANG_ENGLISH         "HANDLING"
+
+REFERENCE            mod_300subsonic_cal
+LANG_ENGLISH         ".300 Blackout ammunition"
+
+REFERENCE            mod_ads_gun_steadiness
+LANG_ENGLISH         "Aim Walking Steadiness"
+
+REFERENCE            mod_ads_movement_speed
+LANG_ENGLISH         "Aim Walking Movement Speed"
+
+REFERENCE            mod_ads_raise_speed
+LANG_ENGLISH         "Aim Down Sight Speed"
+
+REFERENCE            mod_ads_recoil_control
+LANG_ENGLISH         "Aiming Recoil Control"
+
+REFERENCE            mod_ads_recoil_control_when_crouched_or_prone
+LANG_ENGLISH         "Crouch/Prone Recoil Control"
+
+REFERENCE            mod_ads_sway_control
+LANG_ENGLISH         "Aiming Stability"
+
+REFERENCE            mod_ads_vertical_recoil_control
+LANG_ENGLISH         "Aiming Vertical Recoil Control"
+
+REFERENCE            mod_ak_cal
+LANG_ENGLISH         "5.45x39mm ammunition"
+
+REFERENCE            mod_aug_ar_cal
+LANG_ENGLISH         "5.56x45mm ammunition"
+
+REFERENCE            mod_bolt_accuracy
+LANG_ENGLISH         "Bolt Accuracy"
+
+REFERENCE            mod_bolt_explosive
+LANG_ENGLISH         "Explosive Tip"
+
+REFERENCE            mod_bolt_incendiary
+LANG_ENGLISH         "Thermite Tip"
+
+REFERENCE            mod_bolt_teargas
+LANG_ENGLISH         "Tear Gas Cartridge"
+
+REFERENCE            mod_bolt_velocity
+LANG_ENGLISH         "Bolt Velocity"
+
+REFERENCE            mod_bullet_penetration
+LANG_ENGLISH         "Bullet Penetration"
+
+REFERENCE            mod_bullet_velocity
+LANG_ENGLISH         "Bullet Velocity"
+
+REFERENCE            mod_burst_3
+LANG_ENGLISH         "3 Round Burst"
+
+REFERENCE            mod_burst_fire
+LANG_ENGLISH         "Burst Fire Toggle"
+
+REFERENCE            mod_burst_fire4
+LANG_ENGLISH         "4 Shot Burst Fire Toggle"
+
+REFERENCE            mod_callout
+LANG_ENGLISH         "Mark Enemies"
+
+REFERENCE            mod_damage
+LANG_ENGLISH         "Damage"
+
+REFERENCE            mod_damage_impact
+LANG_ENGLISH         "Impact Damage"
+
+REFERENCE            mod_damage_incendiary
+LANG_ENGLISH         "Incendiary Damage"
+
+REFERENCE            mod_damage_radius
+LANG_ENGLISH         "Damage Radius"
+
+REFERENCE            mod_damage_range
+LANG_ENGLISH         "Damage Range"
+
+REFERENCE            mod_enables_suppression_mechanic
+LANG_ENGLISH         "Enables Suppression Mechanic"
+
+REFERENCE            mod_exposure
+LANG_ENGLISH         "Laser Visible to Enemies"
+
+REFERENCE            mod_fire_rate
+LANG_ENGLISH         "Fire Rate"
+
+REFERENCE            mod_flinch_power
+LANG_ENGLISH         "Bullet Impact"
+
+REFERENCE            mod_flinch_resistance
+LANG_ENGLISH         "Flinch Resistance"
+
+REFERENCE            mod_focus
+LANG_ENGLISH         "Focus"
+
+REFERENCE            mod_hip_fire_accuracy
+LANG_ENGLISH         "Hip Fire Accuracy"
+
+REFERENCE            mod_hip_fire_rate
+LANG_ENGLISH         "Hip Fire Rate"
+
+REFERENCE            mod_hip_fire_two_weapons
+LANG_ENGLISH         "Hip Fire Two Weapons"
+
+REFERENCE            mod_holo_acog_toggle
+LANG_ENGLISH         "Holo & Scout Toggle"
+
+REFERENCE            mod_horizontal_recoil_control
+LANG_ENGLISH         "Horizontal Recoil Control"
+
+REFERENCE            mod_idle_sway_control_while_crouched_or_prone
+LANG_ENGLISH         "Crouch/Prone Sway Control"
+
+REFERENCE            mod_m4_cal
+LANG_ENGLISH         ".458 SOCOM ammunition"
+
+REFERENCE            mod_magazine_ammo_capacity
+LANG_ENGLISH         "Magazine Ammo Capacity"
+
+REFERENCE            mod_magnification_level
+LANG_ENGLISH         "Magnification Toggle"
+
+REFERENCE            mod_max_ammo
+LANG_ENGLISH         "Max Starting Ammo"
+
+REFERENCE            mod_melee_damage
+LANG_ENGLISH         "Melee Damage"
+
+REFERENCE            mod_melee_quickness
+LANG_ENGLISH         "Melee Quickness"
+
+REFERENCE            mod_melee_stun
+LANG_ENGLISH         "Melee Stun Power"
+
+REFERENCE            mod_movement_speed
+LANG_ENGLISH         "Movement Speed"
+
+REFERENCE            mod_movespeed_crouch
+LANG_ENGLISH         "Crouch/Prone Move Speed"
+
+REFERENCE            mod_mp5_ar_cal
+LANG_ENGLISH         "10mm Auto ammunition"
+
+REFERENCE            mod_muzzle_flash
+LANG_ENGLISH         "Muzzle Flash Concealment"
+
+REFERENCE            mod_nameplate_visibility
+LANG_ENGLISH         "Enemy Nameplate Range"
+
+REFERENCE            mod_no_ads
+LANG_ENGLISH         "No Aiming Down Sights"
+
+REFERENCE            mod_noskull
+LANG_ENGLISH         "No enemy skulls"
+
+REFERENCE            mod_notracer
+LANG_ENGLISH         "No visible tracers"
+
+REFERENCE            mod_pellet_damage_range
+LANG_ENGLISH         "Pellet Damage Range"
+
+REFERENCE            mod_pellet_radius
+LANG_ENGLISH         "Wider Pellet Spread"
+
+REFERENCE            mod_pellet_tightness
+LANG_ENGLISH         "Tighter Pellet Spread"
+
+REFERENCE            mod_range
+LANG_ENGLISH         "Range"
+
+REFERENCE            mod_rechambering_speed
+LANG_ENGLISH         "Rechambering Speed"
+
+REFERENCE            mod_recoil_control
+LANG_ENGLISH         "Recoil Control"
+
+REFERENCE            mod_reflex_acog_toggle
+LANG_ENGLISH         "Reflex & Scout Toggle"
+
+REFERENCE            mod_reflex_acog_toggle_delay
+LANG_ENGLISH         "Optic Toggle Speed"
+
+REFERENCE            mod_reflex_thermal_toggle
+LANG_ENGLISH         "Reflex & Thermal Toggle"
+
+REFERENCE            mod_reload_mag
+LANG_ENGLISH         "Detachable Magazine"
+
+REFERENCE            mod_reload_quickness
+LANG_ENGLISH         "Reload Quickness"
+
+REFERENCE            mod_sensor
+LANG_ENGLISH         "Enemy Spotting"
+
+REFERENCE            mod_sight_picture
+LANG_ENGLISH         "Precision Sight Picture"
+
+REFERENCE            mod_silencer
+LANG_ENGLISH         "Sound Suppression"
+
+REFERENCE            mod_slow_power
+LANG_ENGLISH         "Crippling Power"
+
+REFERENCE            mod_sprint_speed
+LANG_ENGLISH         "Sprint to Fire Speed"
+
+REFERENCE            mod_stock_ammo
+LANG_ENGLISH         "Stock Ammo"
+
+REFERENCE            mod_sustained_fire
+LANG_ENGLISH         "Recoil Stabilization"
+
+REFERENCE            mod_thermal_identification
+LANG_ENGLISH         "Thermal Target Identification"
+
+REFERENCE            mod_tube_ammo_capacity
+LANG_ENGLISH         "Tube Ammo Capacity"
+
+REFERENCE            mod_ub_shotgun
+LANG_ENGLISH         "Underbarrel Shotgun"
+
+REFERENCE            mod_underbarrel_grenade_launcher
+LANG_ENGLISH         "Underbarrel Grenade Launcher"
+
+REFERENCE            mod_untitled
+LANG_ENGLISH         "Untitled"
+
+REFERENCE            mod_vertical_recoil_control
+LANG_ENGLISH         "Vertical Recoil Control"
+
+REFERENCE            mod_weapon_swap_quickness
+LANG_ENGLISH         "Weapon Swap quickness"
+
+REFERENCE            mod_wounding
+LANG_ENGLISH         "Inflict Wounding Effect"
+
+REFERENCE            mod_xp_bonus
+LANG_ENGLISH         "Headshot XP"
+
+REFERENCE            mod_zoom_level
+LANG_ENGLISH         "Zoom Level"
+
+REFERENCE            modifier_text
+LANG_ENGLISH         "&&1 &&2"
+
+REFERENCE            muzzlemelee
+LANG_ENGLISH         "Breacher Device"
+
+REFERENCE            muzzlemelee2
+LANG_ENGLISH         "CQB Breacher Device"
+
+REFERENCE            no_attachment
+LANG_ENGLISH         "No Attachment"
+
+REFERENCE            perk_adsidle
+LANG_ENGLISH         "Dead On"
+
+REFERENCE            perk_adsmove
+LANG_ENGLISH         "Rush"
+
+REFERENCE            perk_bling
+LANG_ENGLISH         "Bling"
+
+REFERENCE            perk_crouchrecoil
+LANG_ENGLISH         "Stance Training"
+
+REFERENCE            perk_fastreload
+LANG_ENGLISH         "Sleight of Hand"
+
+REFERENCE            perk_fastswap
+LANG_ENGLISH         "Swapper"
+
+REFERENCE            perk_flinch
+LANG_ENGLISH         "Focus"
+
+REFERENCE            perk_fmj
+LANG_ENGLISH         "Deep Impact"
+
+REFERENCE            perk_maxammo
+LANG_ENGLISH         "Fully Loaded"
+
+REFERENCE            perk_slot
+LANG_ENGLISH         "Perk"
+
+REFERENCE            pistolgrip01
+LANG_ENGLISH         "Granulated Grip Tape"
+
+REFERENCE            pistolgrip01_02_sierra552
+LANG_ENGLISH         "Cronen Sniper Elite"
+
+REFERENCE            pistolgrip01_mike14
+LANG_ENGLISH         "Lightweight Gunstock"
+
+REFERENCE            pistolgrip01_smgolf45
+LANG_ENGLISH         "FTAC 60 Series Polymer"
+
+REFERENCE            pistolgrip02
+LANG_ENGLISH         "Stippled Grip Tape"
+
+REFERENCE            pistolgrip02_02_sierra552
+LANG_ENGLISH         "XRK Void II"
+
+REFERENCE            pistolgrip02_02_smgolf45
+LANG_ENGLISH         "FTAC G-5 EXO"
+
+REFERENCE            pistolgrip02_mike14
+LANG_ENGLISH         "Steady Gunstock"
+
+REFERENCE            pistolgrip03
+LANG_ENGLISH         "Rubberized Grip Tape"
+
+REFERENCE            pistolgrip03_mike14
+LANG_ENGLISH         "CQB Gunstock"
+
+REFERENCE            pistolgrip03_sierra552
+LANG_ENGLISH         "FTAC R-89 Rubber"
+
+REFERENCE            pistolgrip03_smgolf45
+LANG_ENGLISH         "FTAC 60 Series Rubber"
+
+REFERENCE            pistolgrip04
+LANG_ENGLISH         "Pistol Grip - Stalker"
+
+REFERENCE            pistolgrip04_mike14
+LANG_ENGLISH         "Solid Gunstock"
+
+REFERENCE            pistolgrip05
+LANG_ENGLISH         "Pistol Grip - CQB"
+
+REFERENCE            pistolgrip05_mike14
+LANG_ENGLISH         "Balanced Gunstock"
+
+REFERENCE            pistolgrip06_mike14
+LANG_ENGLISH         "Tactical Gunstock"
+
+REFERENCE            pistolgrip_pstl01
+LANG_ENGLISH         "Granulated Grip Tape"
+
+REFERENCE            pistolgrip_pstl02
+LANG_ENGLISH         "Stippled Grip Tape"
+
+REFERENCE            pistolgrip_pstl02_mike9
+LANG_ENGLISH         "XRK Speed Grip"
+
+REFERENCE            pistolgrip_pstl03
+LANG_ENGLISH         "Rubberized Grip Tape"
+
+REFERENCE            pistolgrip_pstl03_mike9
+LANG_ENGLISH         "XRK Pro Grip"
+
+REFERENCE            pistolgrip_pstl04
+LANG_ENGLISH         "Pistol Grip - Stalker"
+
+REFERENCE            pistolgrip_pstl05
+LANG_ENGLISH         "Pistol Grip - CQB"
+
+REFERENCE            rack
+LANG_ENGLISH         "Shell Rack"
+
+REFERENCE            rack_snpr
+LANG_ENGLISH         "Ammo Rack"
+
+REFERENCE            railcust_falpha
+LANG_ENGLISH         "Custom Carry Handle."
+
+REFERENCE            reflex
+LANG_ENGLISH         "Reflex"
+
+REFERENCE            reflex_east01
+LANG_ENGLISH         "Viper Reflex Sight"
+
+REFERENCE            reflex_east01_light
+LANG_ENGLISH         "Viper Reflex Sight (LW)"
+
+REFERENCE            reflex_east02
+LANG_ENGLISH         "Monocle Reflex Sight"
+
+REFERENCE            reflex_east02_light
+LANG_ENGLISH         "Monocle Reflex Sight (LW)"
+
+REFERENCE            reflex_light
+LANG_ENGLISH         "Reflex - East - Lightweight"
+
+REFERENCE            reflex_mgolf36
+LANG_ENGLISH         "FSS Integral Reflex"
+
+REFERENCE            reflex_mini
+LANG_ENGLISH         "G.I. Mini Reflex"
+
+REFERENCE            reflex_mini2
+LANG_ENGLISH         "Solozero Optics Mini Reflex"
+
+REFERENCE            reflex_mini3
+LANG_ENGLISH         "Cronen LP945 Mini Reflex"
+
+REFERENCE            reflex_papa90
+LANG_ENGLISH         "FSS Ring Sight"
+
+REFERENCE            reflex_west01
+LANG_ENGLISH         "Operator Reflex Sight"
+
+REFERENCE            reflex_west01_light
+LANG_ENGLISH         "Operator Reflex Sight (LW)"
+
+REFERENCE            reflex_west02
+LANG_ENGLISH         "Aim-Op Reflex Sight"
+
+REFERENCE            reflex_west02_light
+LANG_ENGLISH         "Aim-Op Reflex Sight (LW)"
+
+REFERENCE            scope_slot
+LANG_ENGLISH         "Scope"
+
+REFERENCE            semi
+LANG_ENGLISH         "Semi-Auto Conversion"
+
+REFERENCE            shgnmags_caldb_romeo870
+LANG_ENGLISH         "Dragon's Breath 6-R Mags"
+
+REFERENCE            shgnmags_romeo870
+LANG_ENGLISH         "12 Gauge 6-R Mags"
+
+REFERENCE            shgnmags_slugs_romeo870
+LANG_ENGLISH         "Slug 6-R Mags"
+
+REFERENCE            shotgun
+LANG_ENGLISH         "Shotgun"
+
+REFERENCE            silencer
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            silencerhuge
+LANG_ENGLISH         "Giant Suppressor"
+
+REFERENCE            silencerhuge_asierra12
+LANG_ENGLISH         "Colossus Suppressor"
+
+REFERENCE            silencerhuge_romeo870
+LANG_ENGLISH         "FORGE TAC Marauder"
+
+REFERENCE            silencerhuge_victor
+LANG_ENGLISH         "ZLR Sabre"
+
+REFERENCE            silencerlarge
+LANG_ENGLISH         "Monolithic Suppressor"
+
+REFERENCE            silencermed
+LANG_ENGLISH         "Tactical Suppressor"
+
+REFERENCE            silenceroil
+LANG_ENGLISH         "Oil Can Suppressor"
+
+REFERENCE            silencersmall
+LANG_ENGLISH         "Lightweight Suppressor"
+
+REFERENCE            slug_mags
+LANG_ENGLISH         "8 Round Slug Mags"
+
+REFERENCE            slugs
+LANG_ENGLISH         "Slug Rounds"
+
+REFERENCE            slugs_dmb
+LANG_ENGLISH         "HE Slug Rounds"
+
+REFERENCE            snprscope
+LANG_ENGLISH         "Sniper Scope"
+
+REFERENCE            snprscope_725
+LANG_ENGLISH         "Brownlee 32mm Scope"
+
+REFERENCE            snprscope_cpapa
+LANG_ENGLISH         "Lockwood Pistol Scope"
+
+REFERENCE            snprscope_crossbow
+LANG_ENGLISH         "XRK MidTrak 4.0x Scope"
+
+REFERENCE            snprscope_mike9
+LANG_ENGLISH         "XRK 4.0x Pistol Scope"
+
+REFERENCE            snprscope_sksierra
+LANG_ENGLISH         "PU Scope"
+
+REFERENCE            stockcollapsed
+LANG_ENGLISH         "Collapsed Stock"
+
+REFERENCE            stockfold
+LANG_ENGLISH         "Folded Stock"
+
+REFERENCE            stockh
+LANG_ENGLISH         "Heavy Stock"
+
+REFERENCE            stockh_2
+LANG_ENGLISH         "Monster Stock"
+
+REFERENCE            stockh_2_galima
+LANG_ENGLISH         "XRK Gatekeeper"
+
+REFERENCE            stockh_2_hdromeo
+LANG_ENGLISH         "FTAC Champion"
+
+REFERENCE            stockh_2_romeo870
+LANG_ENGLISH         "Lockwood Precision Series"
+
+REFERENCE            stockh_2_scharlie
+LANG_ENGLISH         "XRK Obelisk Pro"
+
+REFERENCE            stockh_2_sksierra
+LANG_ENGLISH         "SKS Rifle Stock"
+
+REFERENCE            stockh_2_victor
+LANG_ENGLISH         "ZLR Blade"
+
+REFERENCE            stockh_alpha50
+LANG_ENGLISH         "Singuard Arms Marksman"
+
+REFERENCE            stockh_alt
+LANG_ENGLISH         "FTAC Hunter"
+
+REFERENCE            stockh_ammo_sbeta
+LANG_ENGLISH         "Cartridge Sleeve"
+
+REFERENCE            stockh_charlie725
+LANG_ENGLISH         "Cronen Equilibrium"
+
+REFERENCE            stockh_comb
+LANG_ENGLISH         "Heavy Stock Attachment"
+
+REFERENCE            stockh_comb_augolf
+LANG_ENGLISH         "FSS Heavy Stock Pro"
+
+REFERENCE            stockh_comb_kilo98
+LANG_ENGLISH         "STVOL Precision Comb"
+
+REFERENCE            stockh_comb_lima86
+LANG_ENGLISH         "XRK SA87 Heavy Stock Pro"
+
+REFERENCE            stockh_comb_mike14
+LANG_ENGLISH         "FTAC Precision Comb"
+
+REFERENCE            stockh_comb_papa90
+LANG_ENGLISH         "FSS Heavy Stock Pro"
+
+REFERENCE            stockh_comb_sbeta
+LANG_ENGLISH         "FSS MK2 Precision Comb"
+
+REFERENCE            stockh_crossbow
+LANG_ENGLISH         "FORGE TAC Apex"
+
+REFERENCE            stockh_default
+LANG_ENGLISH         "FORGE TAC Stalker"
+
+REFERENCE            stockh_hdromeo
+LANG_ENGLISH         "Heavy Stock"
+
+REFERENCE            stockh_kilo121
+LANG_ENGLISH         "Heavy Stock"
+
+REFERENCE            stockh_kilo433
+LANG_ENGLISH         "Singuard Arms Sniper Pro"
+
+REFERENCE            stockh_mgolf36
+LANG_ENGLISH         "FSS Ranger"
+
+REFERENCE            stockh_mpapa5
+LANG_ENGLISH         "Heavy Stock"
+
+REFERENCE            stockh_pack
+LANG_ENGLISH         "FORGE TAC Ballast Pack"
+
+REFERENCE            stockh_pist_mike14
+LANG_ENGLISH         "FSS Raider Chassis Pro"
+
+REFERENCE            stockh_pump_dpapa12
+LANG_ENGLISH         "FSS R9-0 Bulldog"
+
+REFERENCE            stockh_smgolf45
+LANG_ENGLISH         "FTAC Precision Fixed Stock"
+
+REFERENCE            stockh_sniper
+LANG_ENGLISH         "FTAC Hunter-Scout"
+
+REFERENCE            stockh_solid
+LANG_ENGLISH         "Solid Body Stock"
+
+REFERENCE            stockh_solid_akilo47
+LANG_ENGLISH         "Field LMG Stock"
+
+REFERENCE            stockh_solid_mike4
+LANG_ENGLISH         "M-16 Stock"
+
+REFERENCE            stockh_solid_mpapa5
+LANG_ENGLISH         "Classic Straight-line Stock"
+
+REFERENCE            stockh_solid_sierra552
+LANG_ENGLISH         "FSS Blackjack"
+
+REFERENCE            stockh_solid_uzulu
+LANG_ENGLISH         "Standard-Issue Wood Stock"
+
+REFERENCE            stockh_tango21
+LANG_ENGLISH         "FTAC Equilibrium"
+
+REFERENCE            stockh_victor
+LANG_ENGLISH         "FTAC C6 Carbine PRO"
+
+REFERENCE            stockl
+LANG_ENGLISH         "Lightweight Stock"
+
+REFERENCE            stockl_alpha50
+LANG_ENGLISH         "Singuard Arms Evader"
+
+REFERENCE            stockl_alt_smgolf45
+LANG_ENGLISH         "FSS Guardian"
+
+REFERENCE            stockl_beta
+LANG_ENGLISH         "Factory Aluminum Stock"
+
+REFERENCE            stockl_charlie725
+LANG_ENGLISH         "Cronen Pro Light"
+
+REFERENCE            stockl_crossbow
+LANG_ENGLISH         "FORGE TAC Dart CB"
+
+REFERENCE            stockl_default
+LANG_ENGLISH         "FORGE TAC Ultralight"
+
+REFERENCE            stockl_delta
+LANG_ENGLISH         "VLK Lightweight Stock"
+
+REFERENCE            stockl_falima
+LANG_ENGLISH         "Factory 18" Aluminum Stock"
+
+REFERENCE            stockl_galima
+LANG_ENGLISH         "FTAC Spartan"
+
+REFERENCE            stockl_hdromeo
+LANG_ENGLISH         "FSS Nomad Stock"
+
+REFERENCE            stockl_hollow
+LANG_ENGLISH         "Hollow Stock Mod"
+
+REFERENCE            stockl_hollow_asierra12
+LANG_ENGLISH         "Oden Ultralight Hollow"
+
+REFERENCE            stockl_hollow_aug
+LANG_ENGLISH         "FTAC Ultralight Hollow"
+
+REFERENCE            stockl_hollow_falpha
+LANG_ENGLISH         "FR Ultralight Hollow"
+
+REFERENCE            stockl_hollow_lima86
+LANG_ENGLISH         "SA87 Ultralight Hollow"
+
+REFERENCE            stockl_hollow_sbeta
+LANG_ENGLISH         "MK2 Ultralight Hollow"
+
+REFERENCE            stockl_mgolf36
+LANG_ENGLISH         "FSS Infantry"
+
+REFERENCE            stockl_mike14
+LANG_ENGLISH         "FTAC Lightweight Stock"
+
+REFERENCE            stockl_mike4
+LANG_ENGLISH         "Singuard Arms Invader"
+
+REFERENCE            stockl_mike41
+LANG_ENGLISH         "Light Composite body"
+
+REFERENCE            stockl_pist_mike14
+LANG_ENGLISH         "FSS Raider Chassis Elite"
+
+REFERENCE            stockl_pump_dpapa12
+LANG_ENGLISH         "FTAC Ultralight Pump"
+
+REFERENCE            stockl_sierra552
+LANG_ENGLISH         "XRK StrikeLite III"
+
+REFERENCE            stockl_tango21
+LANG_ENGLISH         "XRK Ultralight Hollow"
+
+REFERENCE            stockl_uzulu
+LANG_ENGLISH         "Lightweight Stock"
+
+REFERENCE            stocklmg
+LANG_ENGLISH         "LMG Stock"
+
+REFERENCE            stockno
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stockno_buffer
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stockno_charlie725
+LANG_ENGLISH         "Sawed-off Stock"
+
+REFERENCE            stockno_default
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stockno_retracted
+LANG_ENGLISH         "FTAC Collapsible Stock"
+
+REFERENCE            stockno_retracted_mpapa5
+LANG_ENGLISH         "FTAC Collapsible"
+
+REFERENCE            stockno_sksierra
+LANG_ENGLISH         "Sawed-off Stock"
+
+REFERENCE            stockpstl_golf21
+LANG_ENGLISH         "X16 Stock"
+
+REFERENCE            stockpstl_grip_mike9
+LANG_ENGLISH         "FTAC SATUS CS-X"
+
+REFERENCE            stockpstl_light_cpapa
+LANG_ENGLISH         "FSS Raider Stock"
+
+REFERENCE            stockpstl_light_mike9
+LANG_ENGLISH         "FTAC SATUS CS-3"
+
+REFERENCE            stockpstl_wood_cpapa
+LANG_ENGLISH         "Lockwood .357 Custom Stock"
+
+REFERENCE            stocks
+LANG_ENGLISH         "Close Quarters Stock"
+
+REFERENCE            stocks_alpha50
+LANG_ENGLISH         "Singuard Arms Assassin"
+
+REFERENCE            stocks_charlie725
+LANG_ENGLISH         "Tempus Sport"
+
+REFERENCE            stocks_comb
+LANG_ENGLISH         "Close Quarters Stock"
+
+REFERENCE            stocks_comb_asierra12
+LANG_ENGLISH         "FTAC XL Elite Comb"
+
+REFERENCE            stocks_comb_augolf
+LANG_ENGLISH         "FORGE TAC CQB Comb"
+
+REFERENCE            stocks_comb_kilo98
+LANG_ENGLISH         "FTAC Sport Comb"
+
+REFERENCE            stocks_comb_lima86
+LANG_ENGLISH         "FORGE TAC CQB Comb"
+
+REFERENCE            stocks_comb_papa90
+LANG_ENGLISH         "FORGE TAC CQB Comb"
+
+REFERENCE            stocks_comb_sbeta
+LANG_ENGLISH         "FSS MK2 Sport Comb"
+
+REFERENCE            stocks_crossbow
+LANG_ENGLISH         "FORGE TAC SpeedTrak"
+
+REFERENCE            stocks_default
+LANG_ENGLISH         "FSS Close Quarters Stock"
+
+REFERENCE            stocks_hdromeo
+LANG_ENGLISH         "Close Quarters Stock"
+
+REFERENCE            stocks_kilo121
+LANG_ENGLISH         "XRK Striker"
+
+REFERENCE            stocks_mgolf36
+LANG_ENGLISH         "XRK Axis"
+
+REFERENCE            stocks_mike4
+LANG_ENGLISH         "FORGE TAC CQS"
+
+REFERENCE            stocks_oscar12
+LANG_ENGLISH         "FORGE TAC Dart"
+
+REFERENCE            stocks_pump_dpapa12
+LANG_ENGLISH         "FTAC Close Quarters Pro"
+
+REFERENCE            stocks_romeo870
+LANG_ENGLISH         "FTAC Stalker-12"
+
+REFERENCE            stocks_smgolf45
+LANG_ENGLISH         "XRK Gen III Survivalist Series"
+
+REFERENCE            stocks_sniper
+LANG_ENGLISH         "FTAC Stalker-Scout"
+
+REFERENCE            stocks_tango21
+LANG_ENGLISH         "XRK Close Quarters Stock"
+
+REFERENCE            stocks_wrap
+LANG_ENGLISH         "FSS Tac-Wrap"
+
+REFERENCE            stockskel
+LANG_ENGLISH         "Skeleton Stock"
+
+REFERENCE            stockskel_beta
+LANG_ENGLISH         "Corvus Skeleton Stock"
+
+REFERENCE            stockskel_default
+LANG_ENGLISH         "Skeleton Stock"
+
+REFERENCE            stockskel_delta
+LANG_ENGLISH         "VLK Skelet Stock"
+
+REFERENCE            stockskel_galima
+LANG_ENGLISH         "CR-56 EXO"
+
+REFERENCE            stockskel_mcharlie
+LANG_ENGLISH         "M13 Skeleton Stock"
+
+REFERENCE            stockskel_mkilo3
+LANG_ENGLISH         "Skeleton Stock"
+
+REFERENCE            stocksmg
+LANG_ENGLISH         "SMG Stock"
+
+REFERENCE            stockstrap_papa90
+LANG_ENGLISH         "Fly Strap"
+
+REFERENCE            stockw
+LANG_ENGLISH         "Wooden Stock"
+
+REFERENCE            strap
+LANG_ENGLISH         "Strap"
+
+REFERENCE            tacknife
+LANG_ENGLISH         "Tac Knife"
+
+REFERENCE            thermal
+LANG_ENGLISH         "Solozero NVG Enhanced"
+
+REFERENCE            thermal2
+LANG_ENGLISH         "Merc Thermal Optic"
+
+REFERENCE            thermal_generic
+LANG_ENGLISH         "Thermal"
+
+REFERENCE            thermal_plus_sniper
+LANG_ENGLISH         "Solozero NVG Enhanced or Thermal Sniper Scope"
+
+REFERENCE            thermal_snpr
+LANG_ENGLISH         "Thermal Sniper Scope"
+
+REFERENCE            thermalacog_snpr
+LANG_ENGLISH         "Merc Thermal Optic"
+
+REFERENCE            thermalvz
+LANG_ENGLISH         "Thermal Dual Power Scope"
+
+REFERENCE            trigfan
+LANG_ENGLISH         "Fast Hammer"
+
+REFERENCE            triggripcust
+LANG_ENGLISH         "Custom Trigger Guard"
+
+REFERENCE            trighair
+LANG_ENGLISH         "Match Grade Trigger"
+
+REFERENCE            trigheavy
+LANG_ENGLISH         "Heavy Duty Trigger"
+
+REFERENCE            triglight
+LANG_ENGLISH         "Lightweight Trigger"
+
+REFERENCE            trigprecise
+LANG_ENGLISH         "Match Grade Trigger"
+
+REFERENCE            ubshtgn
+LANG_ENGLISH         "12-Gauge Deputy"
+
+REFERENCE            vertmags
+LANG_ENGLISH         "Vertical Mags"
+
+REFERENCE            vzscope
+LANG_ENGLISH         "Variable Zoom Scope"
+
+REFERENCE            vzscope_crossbow
+LANG_ENGLISH         "XRK Rangemaster VZ"
+
+REFERENCE            wireh_crossbow
+LANG_ENGLISH         "Heavy Compound Wire"
+
+REFERENCE            xmags
+LANG_ENGLISH         "Extended Mags"
+
+REFERENCE            xmags_9mpapa5
+LANG_ENGLISH         "45 Round Mags"
+
+REFERENCE            xmags_akilo47
+LANG_ENGLISH         "40 Round Mags"
+
+REFERENCE            xmags_alpha50
+LANG_ENGLISH         "7 Round Mags"
+
+REFERENCE            xmags_asierra12
+LANG_ENGLISH         "25 Round Mags"
+
+REFERENCE            xmags_augolf
+LANG_ENGLISH         "32 Round Mags"
+
+REFERENCE            xmags_belt
+LANG_ENGLISH         "Extended Belt"
+
+REFERENCE            xmags_belt_golf34
+LANG_ENGLISH         "75 Round Belt"
+
+REFERENCE            xmags_belt_kilo121
+LANG_ENGLISH         "120 Round Belt"
+
+REFERENCE            xmags_belt_long
+LANG_ENGLISH         "Long Belt"
+
+REFERENCE            xmags_belt_long_kilo121
+LANG_ENGLISH         "150 Round Belt"
+
+REFERENCE            xmags_belt_long_mgolf34
+LANG_ENGLISH         "100 Round Belt"
+
+REFERENCE            xmags_belt_long_mkilo3
+LANG_ENGLISH         "150 Round Belt"
+
+REFERENCE            xmags_belt_long_pkilo
+LANG_ENGLISH         "150 Round Belt"
+
+REFERENCE            xmags_belt_long_pkilo_dmb
+LANG_ENGLISH         "150 Round HEI Belt"
+
+REFERENCE            xmags_belt_xlong
+LANG_ENGLISH         "Extra Long Belt"
+
+REFERENCE            xmags_belt_xlong_mkilo3
+LANG_ENGLISH         "200 Round Belt"
+
+REFERENCE            xmags_belt_xlong_pkilo
+LANG_ENGLISH         "200 Round Belt"
+
+REFERENCE            xmags_belt_xlong_pkilo_dmb
+LANG_ENGLISH         "200 Round HEI Belt"
+
+REFERENCE            xmags_beta
+LANG_ENGLISH         "84 Round Helical Mags"
+
+REFERENCE            xmags_decho
+LANG_ENGLISH         "10 Round Mags"
+
+REFERENCE            xmags_delta
+LANG_ENGLISH         "15 Round Mags"
+
+REFERENCE            xmags_falima
+LANG_ENGLISH         "24 Round Mags"
+
+REFERENCE            xmags_falpha
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_galima
+LANG_ENGLISH         "45 Round Mags"
+
+REFERENCE            xmags_golf21
+LANG_ENGLISH         "17 Round Mags"
+
+REFERENCE            xmags_hdromeo
+LANG_ENGLISH         "7 Round Mags"
+
+REFERENCE            xmags_kilo433
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_lima86
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_mcharlie
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_mike14
+LANG_ENGLISH         "15 Round Mags"
+
+REFERENCE            xmags_mike1911
+LANG_ENGLISH         "10 Round Mags"
+
+REFERENCE            xmags_mike26
+LANG_ENGLISH         "12 Round Mags"
+
+REFERENCE            xmags_mike4
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_mike9
+LANG_ENGLISH         "21 Round Mags"
+
+REFERENCE            xmags_mpapa5
+LANG_ENGLISH         "45 Round Mags"
+
+REFERENCE            xmags_mpapa7
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_oscar12
+LANG_ENGLISH         "12 Round Mags"
+
+REFERENCE            xmags_papa320
+LANG_ENGLISH         "21 Round Mags"
+
+REFERENCE            xmags_scharlie
+LANG_ENGLISH         "25 Round Mags"
+
+REFERENCE            xmags_sierra552
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_sksierra
+LANG_ENGLISH         "30 Round Mags"
+
+REFERENCE            xmags_smgolf45
+LANG_ENGLISH         "45 Round Mags"
+
+REFERENCE            xmags_tango21
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmags_uzulu
+LANG_ENGLISH         "40 Round Mags"
+
+REFERENCE            xmags_victor
+LANG_ENGLISH         "40 Round Drum Mags"
+
+REFERENCE            xmagslrg
+LANG_ENGLISH         "High Capacity Mags"
+
+REFERENCE            xmagslrg_alpha50
+LANG_ENGLISH         "9 Round Mags"
+
+REFERENCE            xmagslrg_asierra12
+LANG_ENGLISH         "30 Round Mags"
+
+REFERENCE            xmagslrg_decho
+LANG_ENGLISH         "13 Round Mags"
+
+REFERENCE            xmagslrg_delta
+LANG_ENGLISH         "20 Round Mags"
+
+REFERENCE            xmagslrg_falima
+LANG_ENGLISH         "30 Round Mags"
+
+REFERENCE            xmagslrg_falpha
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagslrg_golf21
+LANG_ENGLISH         "26 Round Mags"
+
+REFERENCE            xmagslrg_hdromeo
+LANG_ENGLISH         "9 Round Mags"
+
+REFERENCE            xmagslrg_kilo433
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagslrg_lima86
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagslrg_mcharlie
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagslrg_mike14
+LANG_ENGLISH         "20 Round Mags"
+
+REFERENCE            xmagslrg_mike1911
+LANG_ENGLISH         "15 Round Mags"
+
+REFERENCE            xmagslrg_mike4
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagslrg_mike9
+LANG_ENGLISH         "27 Round Mags"
+
+REFERENCE            xmagslrg_mpapa7
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagslrg_papa320
+LANG_ENGLISH         "32 Round Mags"
+
+REFERENCE            xmagslrg_scharlie
+LANG_ENGLISH         "30 Round Mags"
+
+REFERENCE            xmagslrg_sierra552
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagslrg_uzulu
+LANG_ENGLISH         "50 Round Mags"
+
+REFERENCE            xmagssml_galima
+LANG_ENGLISH         "M67 10-R Mags"
+
+REFERENCE            xmagssml_mgolf36
+LANG_ENGLISH         "30 Round Mags"
+
+REFERENCE            xmagssml_mike26
+LANG_ENGLISH         "4 Round Mags"
+
+REFERENCE            xmagssml_mkilo3
+LANG_ENGLISH         "60 Round Mags"
+
+REFERENCE            xmagssml_sksierra
+LANG_ENGLISH         "10 Round Mags"
+
+REFERENCE            xmagssml_smgolf45
+LANG_ENGLISH         ".45 Hollow Point 12-R Mags"
+
+REFERENCE            xmagssml_victor
+LANG_ENGLISH         ".45 Hollow Point 12-R Mags"
+
+REFERENCE            xtubes
+LANG_ENGLISH         "Tube Extension"
+
+REFERENCE            xtubes_dpapa12
+LANG_ENGLISH         "Tube Extensions"
+
+REFERENCE            xtubes_romeo870
+LANG_ENGLISH         "Tube Extension"
+
+
+ENDMARKER

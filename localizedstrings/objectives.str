@@ -1,0 +1,486 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            war_score
+LANG_ENGLISH         "Gain points by eliminating enemy players.  First team to &&1 points wins."
+
+REFERENCE            war_hint
+LANG_ENGLISH         "Eliminate the enemy at all costs."
+
+REFERENCE            war
+LANG_ENGLISH         "Gain points by eliminating enemy players."
+
+REFERENCE            vip_score
+LANG_ENGLISH         "Attackers escort the VIP, while the defenders must prevent the VIP from being extracted."
+
+REFERENCE            vip_hint
+LANG_ENGLISH         "Escort or prevent the VIP from reaching the extraction zone."
+
+REFERENCE            vip_captured
+LANG_ENGLISH         "VIP extracted"
+
+REFERENCE            vip
+LANG_ENGLISH         "Take turns escorting the VIP to the extraction zone"
+
+REFERENCE            uplink_time_to_beat_set_hint
+LANG_ENGLISH         "Upload the satellite to set the Time to Beat"
+
+REFERENCE            uplink_time_to_beat_sd_hint
+LANG_ENGLISH         "Sudden Death. Next upload wins."
+
+REFERENCE            uplink_time_to_beat_defend_hint
+LANG_ENGLISH         "Upload the satellite or defend until the time expires"
+
+REFERENCE            uplink_time_to_beat_attack_hint
+LANG_ENGLISH         "Upload the satellite before time expires"
+
+REFERENCE            trial
+LANG_ENGLISH         "Complete the objective."
+
+REFERENCE            tjugg_score
+LANG_ENGLISH         "Defend your Juggernaut to become Juggernaut.  First team to &&1 points wins."
+
+REFERENCE            tjugg_hint
+LANG_ENGLISH         "Defend your Juggernaut."
+
+REFERENCE            tjugg
+LANG_ENGLISH         "Defend your Juggernaut to become Juggernaut."
+
+REFERENCE            tdef_score
+LANG_ENGLISH         "Capture and hold the drone to score.  First team to &&1 wins."
+
+REFERENCE            tdef_hint
+LANG_ENGLISH         "Capture and hold the drone at all costs."
+
+REFERENCE            tdef_attacker_hint
+LANG_ENGLISH         "Capture and hold the drone at all costs. Score increases with time held."
+
+REFERENCE            tdef
+LANG_ENGLISH         "Capture and hold the drone at all costs. Score increases with time held."
+
+REFERENCE            tacops_defenders_hint
+LANG_ENGLISH         "Defend the Safehouse"
+
+REFERENCE            tacops_attackers_hint
+LANG_ENGLISH         "Breach the Safehouse"
+
+REFERENCE            sr_score
+LANG_ENGLISH         "Take turns destroying and defending A and B bomb sites. Recover dog tags to allow or deny respawns. First team to &&1 points wins. "
+
+REFERENCE            sr
+LANG_ENGLISH         "Take turns destroying and defending A and B bomb sites."
+
+REFERENCE            sotf_score
+LANG_ENGLISH         "Eliminate enemy players.  First team to &&1 points wins."
+
+REFERENCE            sotf_ffa_score
+LANG_ENGLISH         "Eliminate enemy players.  First to &&1 points wins."
+
+REFERENCE            sotf_ffa
+LANG_ENGLISH         "Eliminate enemy players."
+
+REFERENCE            sotf
+LANG_ENGLISH         "Eliminate enemy players."
+
+REFERENCE            snatch
+LANG_ENGLISH         "Hunt for the Arsenal and Escape with the Black Box"
+
+REFERENCE            siege_score
+LANG_ENGLISH         "Capture points to revive fallen teammates. Taking all points will win the round. First team to win &&1 rounds is victorious."
+
+REFERENCE            siege_hint
+LANG_ENGLISH         "Capture points to revive allies. Take all points to win."
+
+REFERENCE            siege
+LANG_ENGLISH         "Capture points to revive fallen teammates. Taking all points will win the round."
+
+REFERENCE            sd_score
+LANG_ENGLISH         "Take turns destroying and defending A and B bomb sites. First team to &&1 wins. "
+
+REFERENCE            sd_defender_score
+LANG_ENGLISH         "Protect the targets from being destroyed. If explosives are planted at either location, defuse them before they explode. First team to &&1 wins."
+
+REFERENCE            sd_defender_hint
+LANG_ENGLISH         "Protect targets A and B."
+
+REFERENCE            sd_defender
+LANG_ENGLISH         "Protect the targets from being destroyed."
+
+REFERENCE            sd_attacker_score
+LANG_ENGLISH         "Destroy target A or B by planting explosives at its location.  Prevent the explosives from being defused once they have been planted.  First team to &&1 points wins."
+
+REFERENCE            sd_attacker_hint
+LANG_ENGLISH         "Destroy target A or B."
+
+REFERENCE            sd_attacker
+LANG_ENGLISH         "Destroy target A or B by planting explosives at its location."
+
+REFERENCE            sd
+LANG_ENGLISH         "Take turns destroying and defending A and B bomb sites."
+
+REFERENCE            sab_score
+LANG_ENGLISH         "Recover the explosives and plant them at the enemy target, while protecting your own. First team to &&1 wins."
+
+REFERENCE            sab_hint
+LANG_ENGLISH         "Destroy the enemy target."
+
+REFERENCE            sab
+LANG_ENGLISH         "Recover the explosives and plant them at the enemy target, while protecting your own."
+
+REFERENCE            rush_score
+LANG_ENGLISH         "Attackers capture objectives, while the defenders must maintain control over them until time runs out. "
+
+REFERENCE            rush_hint
+LANG_ENGLISH         "Capture or defend objectives until time runs out."
+
+REFERENCE            rush
+LANG_ENGLISH         "Capture or defend the objective"
+
+REFERENCE            rugby_score
+LANG_ENGLISH         "Bring the Juggernaut to the enemy's base to score"
+
+REFERENCE            pill_score
+LANG_ENGLISH         "Collect currency from enemies and caches. Bank currency at depots. Pillage more than the enemy team to win."
+
+REFERENCE            pill_hint
+LANG_ENGLISH         "Collect currency from enemies and caches. Bank currency at depots. Pillage more than the enemy team to win."
+
+REFERENCE            pill
+LANG_ENGLISH         "Collect currency from enemies and caches. Bank currency at depots. Pillage more than the enemy team to win."
+
+REFERENCE            payload_defenders_hint
+LANG_ENGLISH         "Prevent the tank from reaching your base."
+
+REFERENCE            payload_attackers_hint
+LANG_ENGLISH         "Escort the tank into the enemy goal."
+
+REFERENCE            oic_score
+LANG_ENGLISH         "Gain Ammo by eliminating enemies.  Highest score wins."
+
+REFERENCE            oic_hint
+LANG_ENGLISH         "Make your shot count."
+
+REFERENCE            oic
+LANG_ENGLISH         "Gain Ammo by eliminating enemies.  Highest score wins."
+
+REFERENCE            obj_offline
+LANG_ENGLISH         "Objective offline"
+
+REFERENCE            mugger_score
+LANG_ENGLISH         "Collect dogtags from killed players to score.  First player to &&1 points wins."
+
+REFERENCE            mugger_hint
+LANG_ENGLISH         "Kill for dogtags, knife to steal."
+
+REFERENCE            mugger
+LANG_ENGLISH         "Kill enemy players for dogtags - knife them to steal their collected tags."
+
+REFERENCE            lava_score
+LANG_ENGLISH         "The floor is lava! Eliminate enemy players while avoiding the ground."
+
+REFERENCE            lava_hint
+LANG_ENGLISH         "The floor is lava!"
+
+REFERENCE            lava
+LANG_ENGLISH         "The floor is lava!"
+
+REFERENCE            koth_score
+LANG_ENGLISH         "Gain points by holding the Hardpoint.  First team to &&1 points wins."
+
+REFERENCE            koth_hint
+LANG_ENGLISH         "Hold the Hardpoint."
+
+REFERENCE            koth
+LANG_ENGLISH         "Gain points by holding the Hardpoint."
+
+REFERENCE            jugg_score
+LANG_ENGLISH         "Kill the Juggernaut to become the new Juggernaut.  First Juggernaut to &&1 kills wins."
+
+REFERENCE            jugg_hint
+LANG_ENGLISH         "Kill the Juggernaut."
+
+REFERENCE            jugg
+LANG_ENGLISH         "It's everyone against the Juggernaut.  Kill the Juggernaut to become the new Juggernaut."
+
+REFERENCE            infect_score
+LANG_ENGLISH         "Eliminated Survivors become Infected.  Infect everyone, or survive the game to win."
+
+REFERENCE            infect_hint
+LANG_ENGLISH         "Watch your back."
+
+REFERENCE            infect
+LANG_ENGLISH         "Eliminated Survivors become Infected.  Infect everyone, or survive the game to win."
+
+REFERENCE            hvt_score
+LANG_ENGLISH         "Gain points by controlling enemy cash.  First team to &&1 points wins."
+
+REFERENCE            hvt
+LANG_ENGLISH         "Gain points by eliminating enemy players.  Steal points back by extracting high value targets."
+
+REFERENCE            hq_score
+LANG_ENGLISH         "Gain points by capturing and holding the Headquarters.  First team to &&1 points wins."
+
+REFERENCE            hq_offline
+LANG_ENGLISH         "HQ offline"
+
+REFERENCE            hq_hint
+LANG_ENGLISH         "Capture and hold the Headquarters."
+
+REFERENCE            hq
+LANG_ENGLISH         "Gain points by capturing and holding the Headquarters."
+
+REFERENCE            hostage_score
+LANG_ENGLISH         "Recover and extract the hostages. Failure is not an option."
+
+REFERENCE            hostage_hint
+LANG_ENGLISH         "Recover and extract the hostages."
+
+REFERENCE            horde_score
+LANG_ENGLISH         "Survive &&1 waves to win."
+
+REFERENCE            horde
+LANG_ENGLISH         "Eliminate all enemies."
+
+REFERENCE            gun_score
+LANG_ENGLISH         "Gain points by eliminating other players. First player to 18 wins."
+
+REFERENCE            gun
+LANG_ENGLISH         "Gain points by eliminating other players. First player to 18 wins."
+
+REFERENCE            gulag
+LANG_ENGLISH         "Eliminate enemy to redeploy"
+
+REFERENCE            grnd_score
+LANG_ENGLISH         "Hold the Drop Zone for Team Points and Care Packages.  First team to &&1 wins."
+
+REFERENCE            grnd_hint
+LANG_ENGLISH         "Get to the Drop Zone!"
+
+REFERENCE            grnd_confirm
+LANG_ENGLISH         "Hold the Drop Zone!"
+
+REFERENCE            grnd
+LANG_ENGLISH         "Hold the Drop Zone for Team Points and Care Packages."
+
+REFERENCE            grind_score
+LANG_ENGLISH         "Recover dog tags and score them at the objective markers.  First team to &&1 points wins."
+
+REFERENCE            grind_hint
+LANG_ENGLISH         "Recover dog tags and score them at the Objective Marker."
+
+REFERENCE            grind
+LANG_ENGLISH         "Recover dog tags and take them to the objective marker to score for your team."
+
+REFERENCE            front_score
+LANG_ENGLISH         "Gain points by eliminating enemy players. You are protected after spawning at your base. First team to &&1 points wins."
+
+REFERENCE            front_hint
+LANG_ENGLISH         "Eliminate hostiles outside of your FOB."
+
+REFERENCE            front
+LANG_ENGLISH         "Gain points by eliminating enemy players."
+
+REFERENCE            flag_name
+LANG_ENGLISH         "&&1"
+
+REFERENCE            flag_home
+LANG_ENGLISH         "HOME"
+
+REFERENCE            flag_away
+LANG_ENGLISH         "AWAY"
+
+REFERENCE            esc_hint
+LANG_ENGLISH         "Kill bad guys - take their stuff - GTFO!"
+
+REFERENCE            dom_score
+LANG_ENGLISH         "Capture and defend the zones.  First team to &&1 points wins."
+
+REFERENCE            dom_hint
+LANG_ENGLISH         "Capture the zones and defend them."
+
+REFERENCE            dom
+LANG_ENGLISH         "Capture and defend the flags."
+
+REFERENCE            dm_score
+LANG_ENGLISH         "Gain points by eliminating other players.  First player to &&1 points wins."
+
+REFERENCE            dm_hint
+LANG_ENGLISH         "Eliminate other players."
+
+REFERENCE            dm
+LANG_ENGLISH         "Gain points by eliminating other players."
+
+REFERENCE            defcon_score
+LANG_ENGLISH         "Complete objectives and kill enemies for points. The team with more points at the end of each DEFCON level wins the round in a best-of-five."
+
+REFERENCE            defcon_hint
+LANG_ENGLISH         "Complete objectives and kill enemies for points. The team with more points at the end of each DEFCON level wins the round in a best-of-five."
+
+REFERENCE            defcon
+LANG_ENGLISH         "Complete objectives and kill enemies for points. The team with more points at the end of each DEFCON level wins the round in a best-of-five."
+
+REFERENCE            dd_score
+LANG_ENGLISH         "Take turns destroying and defending A and B bomb sites. First team to &&1 wins."
+
+REFERENCE            dd_overtime_hint
+LANG_ENGLISH         "Destroy Target A to win."
+
+REFERENCE            dd_defender_score
+LANG_ENGLISH         "Protect the targets from being destroyed. If explosives are planted at either location, defuse them before they explode."
+
+REFERENCE            dd_defender_hint
+LANG_ENGLISH         "Protect targets A and B."
+
+REFERENCE            dd_defender
+LANG_ENGLISH         "Protect targets A and B from being destroyed."
+
+REFERENCE            dd_attacker_score
+LANG_ENGLISH         "Destroy targets A and B by planting explosives at their location.  Prevent the explosives from being defused once they have been planted."
+
+REFERENCE            dd_attacker_hint
+LANG_ENGLISH         "Destroy targets A and B."
+
+REFERENCE            dd_attacker
+LANG_ENGLISH         "Destroy both targets by planting explosives at both A and B."
+
+REFERENCE            cyber_score
+LANG_ENGLISH         "Locate the bomb and disable the enemy data center. First team to &&1 wins."
+
+REFERENCE            cyber_plant_emp
+LANG_ENGLISH         "Plant the EMP at the enemy Data Center"
+
+REFERENCE            cyber_hint
+LANG_ENGLISH         "Locate the bomb and disable the enemy data center."
+
+REFERENCE            cyber_defuse_emp
+LANG_ENGLISH         "Defuse the EMP"
+
+REFERENCE            cyber_defend_emp
+LANG_ENGLISH         "Defend the EMP charge until it detonates"
+
+REFERENCE            cyber_defend_data_center
+LANG_ENGLISH         "Defend the Data Center"
+
+REFERENCE            ctf_time_to_beat_set_hint
+LANG_ENGLISH         "Capture the Flag to set the Time to Beat"
+
+REFERENCE            ctf_time_to_beat_sd_hint
+LANG_ENGLISH         "Sudden Death. Next capture wins."
+
+REFERENCE            ctf_time_to_beat_defend_hint
+LANG_ENGLISH         "Capture enemy flag or defend until time expires"
+
+REFERENCE            ctf_time_to_beat_attack_hint
+LANG_ENGLISH         "Capture the enemy flag before the time expires"
+
+REFERENCE            ctf_score
+LANG_ENGLISH         "Capture the enemy flag to score. &&1 points to win."
+
+REFERENCE            ctf_hint
+LANG_ENGLISH         "Capture the enemy flag."
+
+REFERENCE            ctf
+LANG_ENGLISH         "Take the enemy flag back to your base."
+
+REFERENCE            cranked_score
+LANG_ENGLISH         "Gain points by eliminating enemy players.  First team to &&1 wins."
+
+REFERENCE            cranked
+LANG_ENGLISH         "Gain points by eliminating enemy players."
+
+REFERENCE            conf_score
+LANG_ENGLISH         "Recover dog tags to score for your team and deny enemy score.  First team to &&1 wins."
+
+REFERENCE            conf_hint
+LANG_ENGLISH         "Eliminate hostiles and recover their dog tags."
+
+REFERENCE            conf
+LANG_ENGLISH         "Recover dog tags to score for your team and deny enemy scores."
+
+REFERENCE            cmd_score
+LANG_ENGLISH         "Combat Outpost, capture outposts to gain control of the region."
+
+REFERENCE            cmd_hint
+LANG_ENGLISH         "Push forward and destroy the enemy's base."
+
+REFERENCE            cmd
+LANG_ENGLISH         "Combat Outpost, capture outposts to gain control of the region."
+
+REFERENCE            capture_vip
+LANG_ENGLISH         "Carry the VIP to the extraction zone."
+
+REFERENCE            capture_jugg
+LANG_ENGLISH         "Capture the Juggernaut Armor"
+
+REFERENCE            capture_hq
+LANG_ENGLISH         "Capture and defend the Headquarters."
+
+REFERENCE            capture_flag
+LANG_ENGLISH         "Capture and defend the flag."
+
+REFERENCE            btm_score
+LANG_ENGLISH         "Gain points by eliminating enemy players and capturing objectives.  First team to &&1 points wins."
+
+REFERENCE            btm_hint
+LANG_ENGLISH         "Eliminate enemies, capture HQ's and extract VIPs to earn score for your team."
+
+REFERENCE            brm_hint
+LANG_ENGLISH         "Complete Contracts with your squad to gather resources for your team."
+
+REFERENCE            brm
+LANG_ENGLISH         "Gear up, locate objectives to gain killstreaks for your squad, and eliminate the enemy team."
+
+REFERENCE            br_score
+LANG_ENGLISH         "Eliminate everyone. Survive."
+
+REFERENCE            br
+LANG_ENGLISH         "Eliminate everyone. Survive."
+
+REFERENCE            blitz_score
+LANG_ENGLISH         "Take your team's flag into the enemy base. First to &&1 wins."
+
+REFERENCE            blitz_hint
+LANG_ENGLISH         "Take your team's flag into the enemy base."
+
+REFERENCE            blitz
+LANG_ENGLISH         "Take your team's flag into the enemy base."
+
+REFERENCE            ball_score
+LANG_ENGLISH         "Gain points by carrying or throwing the satellite drone into the enemy uplink. First team to &&1 points wins."
+
+REFERENCE            ball_reset
+LANG_ENGLISH         "RESET"
+
+REFERENCE            ball_hint
+LANG_ENGLISH         "Get the satellite drone into the enemy uplink."
+
+REFERENCE            ball
+LANG_ENGLISH         "Gain points by carrying or throwing the satellite drone into the enemy uplink."
+
+REFERENCE            assault_score
+LANG_ENGLISH         "Take turns attacking and defending the objectives."
+
+REFERENCE            assault_d_hint
+LANG_ENGLISH         "Defend the objectives until time runs out."
+
+REFERENCE            assault_a_hint
+LANG_ENGLISH         "Destroy the objectives before time runs out."
+
+REFERENCE            armsrace_hint
+LANG_ENGLISH         "Eliminate your enemies and capture objectives. Be the first team to reach the score limit to win."
+
+REFERENCE            arm_score
+LANG_ENGLISH         "Eliminate your enemies and capture objectives. Be the first team to reach the score limit to win."
+
+REFERENCE            arm
+LANG_ENGLISH         "Eliminate your enemies and capture objectives. Be the first team to reach the score limit to win."
+
+REFERENCE            arena_score
+LANG_ENGLISH         "Win by eliminating the enemy team, or by having more health at the end of the round. First team to &&1 wins."
+
+REFERENCE            arena
+LANG_ENGLISH         "Win by eliminating the enemy team, or by having more health at the end of the round."
+
+
+ENDMARKER

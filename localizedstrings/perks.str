@@ -1,0 +1,2972 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            9bang_grenade
+LANG_ENGLISH         "9-Bang"
+
+REFERENCE            ability_deadsilence
+LANG_ENGLISH         "Dead Silence"
+
+REFERENCE            ability_deadsilence_desc
+LANG_ENGLISH         "^3Field Upgrade^7: Temporarily faster, silent movement and louder enemy footsteps. Kills refresh duration."
+
+REFERENCE            ability_deadsilence_ready
+LANG_ENGLISH         "Dead Silence Ready"
+
+REFERENCE            ability_deploycover
+LANG_ENGLISH         "Deployable Cover"
+
+REFERENCE            ability_deploycover_desc
+LANG_ENGLISH         "^3Field Upgrade^7: Plant a small waist-high personal shield in the ground"
+
+REFERENCE            ability_empdrone
+LANG_ENGLISH         "EMP Drone"
+
+REFERENCE            ability_empdrone_desc
+LANG_ENGLISH         "^3Field Upgrade^7: Launch and control a drone to disable enemy killstreaks"
+
+REFERENCE            ability_empdrone_ready
+LANG_ENGLISH         "EMP Drone Ready"
+
+REFERENCE            ability_recondrone
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            ability_recondrone_desc
+LANG_ENGLISH         "^3Field Upgrade^7: Launch and control a drone to mark enemy locations for your team"
+
+REFERENCE            ability_selfrevive
+LANG_ENGLISH         "Self-Revive"
+
+REFERENCE            ability_selfrevive_desc
+LANG_ENGLISH         "Last stand with no weapon
+^3Field Upgrade^7: Heal your wounds from last stand and get back up"
+
+REFERENCE            ability_supportbox
+LANG_ENGLISH         "Stopping Power Rounds"
+
+REFERENCE            ability_supportbox_desc
+LANG_ENGLISH         "^3Field Upgrade^7: deploy an ammo box granting 1 magazine of extra-lethal rounds"
+
+REFERENCE            ability_tac_insert_ready
+LANG_ENGLISH         "Tactical Insertion Ready"
+
+REFERENCE            ability_trophy_desc
+LANG_ENGLISH         "^3Field Upgrade^7: deploy a trophy system that disables up to 3 incoming explosives"
+
+REFERENCE            active_reload
+LANG_ENGLISH         "Active Reload"
+
+REFERENCE            adrenaline_mist
+LANG_ENGLISH         "Adrenaline Mist"
+
+REFERENCE            ads_awareness
+LANG_ENGLISH         "Heightened Senses"
+
+REFERENCE            all
+LANG_ENGLISH         "Specialist Bonus Active"
+
+REFERENCE            ar_ak12
+LANG_ENGLISH         "Fully automatic. Increased damage with an improved design for less recoil."
+
+REFERENCE            ar_ake
+LANG_ENGLISH         "Full-auto energy rifle.  Deploys best-in-class stopping power at a low, dependable fire rate."
+
+REFERENCE            ar_ake_semi
+LANG_ENGLISH         "Semi-auto energy rifle.  Deploys best in class stopping power with single shot action."
+
+REFERENCE            ar_akilo47
+LANG_ENGLISH         "Very reliable automatic assault rifle chambered in 7.62mm Soviet.  Large caliber ammunition requires skill to control recoil."
+
+REFERENCE            ar_ar57
+LANG_ENGLISH         "Full-auto ballistic rifle.  Channels a fast fire rate through a ^5lightweight mold^7 for increased hip fire control and mobility."
+
+REFERENCE            ar_aracc
+LANG_ENGLISH         "Full-auto Ballistic assault rifle. Highest fire rate and stability with moderate damage."
+
+REFERENCE            ar_arclassic
+LANG_ENGLISH         "Full-auto ballistic rifle.  Celebrated for rapid, powerful fire and an ^5integrated grenade launcher^7."
+
+REFERENCE            ar_arx160
+LANG_ENGLISH         "Fully automatic. High rate of fire, reduced recoil for the first 3 rounds, and a ^5Laser Sight^7 for increased hip-fire accuracy."
+
+REFERENCE            ar_asierra12
+LANG_ENGLISH         "A fully automatic bullpup assault rifle maintains a slow cycle rate to help control hard hitting 12.7 x 55mm ammunition."
+
+REFERENCE            ar_bren
+LANG_ENGLISH         "Fully automatic. Next generation modular weapon that is strong and versatile overall."
+
+REFERENCE            ar_fads
+LANG_ENGLISH         "Fully automatic. Highest rate of fire in its class, with moderate recoil."
+
+REFERENCE            ar_falima
+LANG_ENGLISH         "A semi-automatic assault rifle with a high rate of fire for faster follow up shots.  "
+
+REFERENCE            ar_falpha
+LANG_ENGLISH         "A 3 round burst bullpup assault rifle.  A well placed burst can be extremely deadly at intermittent ranges."
+
+REFERENCE            ar_fmg
+LANG_ENGLISH         "Full-auto energy rifle.  Hold ^5[{toggleweapalt,+weapnext}]^7 to split the rifle into ^5akimbo auto-pistol mode^7 for close quarter combat.   Features the highest fire rate in class."
+
+REFERENCE            ar_fmg_shtgn
+LANG_ENGLISH         "Full-auto energy rifle.  Hold ^5[{+weapnext}]^7 to split the rifle into ^5akimbo semi-auto shotgun mode^7 for close quarter combat.   Features the highest fire rate in class."
+
+REFERENCE            ar_galima
+LANG_ENGLISH         "This lightweight 7.62 x 39mm full auto assault rifle is compact and powerful.  Built exclusively for military use, the standard issue rifle is deadly at mid range combat and easily configured for a variety of assault tactics."
+
+REFERENCE            ar_honeybadger
+LANG_ENGLISH         "Fully automatic. Integrated ^5Silencer^7 keeps your shots off the radar."
+
+REFERENCE            ar_kilo433
+LANG_ENGLISH         "Fully automatic assault rifle with an ergonomic design that improves handling, and a steady fire rate helps stay on target."
+
+REFERENCE            ar_m4
+LANG_ENGLISH         "Full-auto ballistic rifle.  A moderate fire rate yields increased stability for best-in-class accuracy.  Ideal for mid to long range engagement."
+
+REFERENCE            ar_m4_burst
+LANG_ENGLISH         "2-Round burst Ballistic assault rifle.  Moderate fire rate for increased stability. Highest accuracy in class."
+
+REFERENCE            ar_mcharlie
+LANG_ENGLISH         "Automatic assault rifle featuring a short stroke piston system that keeps the fire rate high and the recoil low."
+
+REFERENCE            ar_mike4
+LANG_ENGLISH         "A fully automatic, all-purpose assault rifle.  Control your shots and this weapon can be very effective at range."
+
+REFERENCE            ar_msbs
+LANG_ENGLISH         "^53 Round Burst^7 allows for high damage output. Fast rate of fire in full auto."
+
+REFERENCE            ar_r5rgp
+LANG_ENGLISH         "Fully automatic. High damage output and range combined with a reduced fire rate for stability."
+
+REFERENCE            ar_rvn
+LANG_ENGLISH         "2-round burst, auto-fire, energy rifle.  Hold ^5[{toggleweapalt,+weapnext}]^7 to split the rifle into ^5melee mode^7 for faster movement and 1 hit kills.  "
+
+REFERENCE            ar_sc2010
+LANG_ENGLISH         "Fully automatic. Redesigned barrel provides longer range with reduced recoil for higher accuracy."
+
+REFERENCE            ar_scharlie
+LANG_ENGLISH         "Large caliber, fully automatic assault rifle that provides high damage over long ranges."
+
+REFERENCE            ar_sdfar
+LANG_ENGLISH         "3-round burst energy rifle.  Each burst applies extreme stopping power at precise intervals."
+
+REFERENCE            ar_sdfar_auto
+LANG_ENGLISH         "Full-auto energy rifle.  Applies extreme stopping power at precise, slower, intervals."
+
+REFERENCE            ar_sierra552
+LANG_ENGLISH         "This modular 5.56 weapon platform is lightweight and maneuverable, with exceptional range.  Precision engineering and world class aftermarket barrels give this weapon extreme potential."
+
+REFERENCE            ar_tango21
+LANG_ENGLISH         "A fully automatic bullpup assault rifle with a compact design that lends itself to close-quarter engagements."
+
+REFERENCE            ar_vr
+LANG_ENGLISH         "Full-auto energy rifle.  ^5Advanced recoil compensator^7 provides focused hip fire.  Aiming down sights increases fire rate.  ^5Integrated optics^7 provide enhanced detection capabilities."
+
+REFERENCE            arctic
+LANG_ENGLISH         "Arctic camouflage finish."
+
+REFERENCE            armor_vest
+LANG_ENGLISH         "Armor Vest"
+
+REFERENCE            assassin
+LANG_ENGLISH         "Off the Grid"
+
+REFERENCE            assassin_pro
+LANG_ENGLISH         "Assassin Pro"
+
+REFERENCE            assault
+LANG_ENGLISH         "Assault"
+
+REFERENCE            aura_quickswap
+LANG_ENGLISH         "Inspiration"
+
+REFERENCE            aura_quickswap_desc
+LANG_ENGLISH         "^5Morale Boost^7
+After a kill, you gain faster reloading of weapons temporarily.  Nearby teammates will also get this benefit."
+
+REFERENCE            aura_regen
+LANG_ENGLISH         "Patch Up"
+
+REFERENCE            aura_regen_desc
+LANG_ENGLISH         "^5Morale Boost^7
+Health regen gets a boost after a kill.  Nearby teammates will also benefit."
+
+REFERENCE            aura_speed
+LANG_ENGLISH         "Keep Up"
+
+REFERENCE            aura_speed_desc
+LANG_ENGLISH         "^5Morale Boost^7
+After a kill, gain a small speed boost for a short amount of time.  Nearby allies will also benefit from this."
+
+REFERENCE            axe_desc
+LANG_ENGLISH         "A standard wood axe, perfect for making kindling out of your enemies."
+
+REFERENCE            battery_pack
+LANG_ENGLISH         "Battery Pack"
+
+REFERENCE            battery_pack_desc
+LANG_ENGLISH         "Kills drop cooldown reduction packs for your team."
+
+REFERENCE            battleslide
+LANG_ENGLISH         "Battle Slide"
+
+REFERENCE            battleslide_desc
+LANG_ENGLISH         "Gives you the ability to slide into an enemy producing a knock back effect and some damage."
+
+REFERENCE            battleslide_offense
+LANG_ENGLISH         "Hamstring"
+
+REFERENCE            battleslide_offense_desc
+LANG_ENGLISH         "Greatly increase the lethality of Battle Slide."
+
+REFERENCE            beam_forge
+LANG_ENGLISH         "Plasma based beam weapon rifle, with integrated heat meter."
+
+REFERENCE            beam_steeldragon
+LANG_ENGLISH         "Powerful energy beam with auto tracking."
+
+REFERENCE            blackout_grenade
+LANG_ENGLISH         "Blackout Grenade"
+
+REFERENCE            blast_suppressor
+LANG_ENGLISH         "Suppression"
+
+REFERENCE            blastshield
+LANG_ENGLISH         "Blast Shield"
+
+REFERENCE            blastshield_pro
+LANG_ENGLISH         "Tac Resist"
+
+REFERENCE            blindeye
+LANG_ENGLISH         "Blind Eye"
+
+REFERENCE            blindeye_pro
+LANG_ENGLISH         "Blind Eye Pro"
+
+REFERENCE            bling
+LANG_ENGLISH         "Bling"
+
+REFERENCE            blue_tiger_stripe_camouflage
+LANG_ENGLISH         "Blue tiger stripe camouflage finish."
+
+REFERENCE            bomb_squad
+LANG_ENGLISH         "SitRep"
+
+REFERENCE            bomb_squad_pro
+LANG_ENGLISH         "Amplify"
+
+REFERENCE            boom
+LANG_ENGLISH         "Ping"
+
+REFERENCE            bouncing_betty
+LANG_ENGLISH         "Bouncing Betty"
+
+REFERENCE            br_ammo_scavenger
+LANG_ENGLISH         "Ammo Scavenger"
+
+REFERENCE            br_armor_scavenger
+LANG_ENGLISH         "Armor Scavenger"
+
+REFERENCE            br_armorer
+LANG_ENGLISH         "Armorer"
+
+REFERENCE            br_artisan_tastes
+LANG_ENGLISH         "Artisan Tastes"
+
+REFERENCE            br_bounty_hunter
+LANG_ENGLISH         "Bounty Hunter"
+
+REFERENCE            br_deep_pockets
+LANG_ENGLISH         "Deep Pockets"
+
+REFERENCE            br_eod
+LANG_ENGLISH         "Explosive Ordnance Disposal"
+
+REFERENCE            br_grenadier
+LANG_ENGLISH         "Grenadier"
+
+REFERENCE            br_healer
+LANG_ENGLISH         "Healer"
+
+REFERENCE            br_marksman
+LANG_ENGLISH         "Marksman"
+
+REFERENCE            br_medic_scavenger
+LANG_ENGLISH         "Medic Scavenger"
+
+REFERENCE            br_plunder_scavenger
+LANG_ENGLISH         "Cash Scavenger"
+
+REFERENCE            br_quickdraw_name
+LANG_ENGLISH         "Faster ADS"
+
+REFERENCE            br_sleightofhand
+LANG_ENGLISH         "Sleight of Hand"
+
+REFERENCE            br_sneaky
+LANG_ENGLISH         "Sneaky"
+
+REFERENCE            br_spotter
+LANG_ENGLISH         "Spotter"
+
+REFERENCE            br_stalker
+LANG_ENGLISH         "Stalker"
+
+REFERENCE            br_thief
+LANG_ENGLISH         "Thief"
+
+REFERENCE            br_tracker
+LANG_ENGLISH         "Tracker"
+
+REFERENCE            breacher
+LANG_ENGLISH         "Breacher"
+
+REFERENCE            breacher_desc
+LANG_ENGLISH         "-Can place ladders.
+-Can place breach charges.
+
+^5Pro:^7
+-Detect enemies through closed doors."
+
+REFERENCE            bullet_damage
+LANG_ENGLISH         "Stopping Power"
+
+REFERENCE            bullet_outline
+LANG_ENGLISH         "Pin Point"
+
+REFERENCE            bullet_outline_desc
+LANG_ENGLISH         "Outline enemies when dealing or taking weapon damage. 
+ 
+Countered by: 
+* Hardwired"
+
+REFERENCE            bulletstorm_device
+LANG_ENGLISH         "Bulletstorm Shield"
+
+REFERENCE            c4
+LANG_ENGLISH         "C4"
+
+REFERENCE            c4death
+LANG_ENGLISH         "Dead Man's Hand"
+
+REFERENCE            camo_elite
+LANG_ENGLISH         "Passive Camo"
+
+REFERENCE            camo_elite_desc
+LANG_ENGLISH         "Camo systems activate when they detect enemies that are targeting you.  Duration = ^54 seconds^7"
+
+REFERENCE            chain_reaction
+LANG_ENGLISH         "Chain Reaction"
+
+REFERENCE            challenges
+LANG_ENGLISH         "Challenges"
+
+REFERENCE            charge_of_plastic_explosives
+LANG_ENGLISH         "Charge of plastic explosives, set off manually with a detonator."
+
+REFERENCE            clan_tag
+LANG_ENGLISH         "Clan Tags"
+
+REFERENCE            claymore
+LANG_ENGLISH         "Claymore"
+
+REFERENCE            cloak
+LANG_ENGLISH         "Cloaking"
+
+REFERENCE            cloak_aerial
+LANG_ENGLISH         "Wall Cloak"
+
+REFERENCE            cloak_desc
+LANG_ENGLISH         "Sprint to charge and activate cloak.  Cloak then stays active for another 5 seconds, until sprinting has ceased, or lethal actions have been performed. Wallrunning and jumping will not break Cloak."
+
+REFERENCE            cluster_grenade
+LANG_ENGLISH         "Cluster Grenade"
+
+REFERENCE            cold_blooded
+LANG_ENGLISH         "Cold Blooded"
+
+REFERENCE            combat_speed
+LANG_ENGLISH         "Combat Speed"
+
+REFERENCE            comexp
+LANG_ENGLISH         "Wiretap"
+
+REFERENCE            complete_the_marksman
+LANG_ENGLISH         "Complete the Marksman challenge for this weapon."
+
+REFERENCE            concussion_grenade
+LANG_ENGLISH         "Concussion Grenade"
+
+REFERENCE            covert_ops
+LANG_ENGLISH         "Cold-Blooded"
+
+REFERENCE            covert_ops_desc
+LANG_ENGLISH         "Undetectable by AI targeting system and thermal optics. Does not trigger High Alert warning."
+
+REFERENCE            covert_ops_desc_extra
+LANG_ENGLISH         "- Still visible to Recon Drones, but cannot be marked."
+
+REFERENCE            create_a_class
+LANG_ENGLISH         "Create a Class"
+
+REFERENCE            create_a_streak_rewards
+LANG_ENGLISH         "Assault and Support Strike Packages"
+
+REFERENCE            crowd_control
+LANG_ENGLISH         "Riot Control"
+
+REFERENCE            deadeye
+LANG_ENGLISH         "Deadeye"
+
+REFERENCE            deadsilence
+LANG_ENGLISH         "Dead Silence"
+
+REFERENCE            deadsilence_pro
+LANG_ENGLISH         "Resilience"
+
+REFERENCE            deep_impact
+LANG_ENGLISH         "Impact"
+
+REFERENCE            defibrillator
+LANG_ENGLISH         "Revive slain teammates or kill your enemies at close range."
+
+REFERENCE            demolitions
+LANG_ENGLISH         "Demolitions"
+
+REFERENCE            demolitions_desc
+LANG_ENGLISH         "Carry an extra lethal equipment"
+
+REFERENCE            desc_9bang_grenade
+LANG_ENGLISH         "Holding produces more flashes to blind enemies. Fully cooked 9-Bangs create an EMP effect that stuns electronics."
+
+REFERENCE            desc_active_reload
+LANG_ENGLISH         "Press the reload button at the right time to reload faster."
+
+REFERENCE            desc_adrenaline_mist
+LANG_ENGLISH         "Device that emits adrenaline inducing mist, giving players higher pain tolerance while surrounded by it."
+
+REFERENCE            desc_ads_awareness
+LANG_ENGLISH         "Audio cues provide advance warning of fast moving or aerial hostiles. Getting lower to the ground will increase the range of detection."
+
+REFERENCE            desc_all
+LANG_ENGLISH         "Given Specialist Bonus Perks."
+
+REFERENCE            desc_armor_vest
+LANG_ENGLISH         "Reduce bullet damage to the chest and abdomen.
+ 
+Countered By:
+* Stopping Power"
+
+REFERENCE            desc_assassin
+LANG_ENGLISH         "Undetectable on minimap."
+
+REFERENCE            desc_assault
+LANG_ENGLISH         "Your streak count resets upon death.  Rewards punish the other team."
+
+REFERENCE            desc_blackout_grenade
+LANG_ENGLISH         "Cause a gradual blackout of the player's vision for a short time."
+
+REFERENCE            desc_blast_suppressor
+LANG_ENGLISH         "Prevent boost jumping from putting you on the minimap."
+
+REFERENCE            desc_blastshield
+LANG_ENGLISH         "Increase resistance to explosive damage."
+
+REFERENCE            desc_blindeye
+LANG_ENGLISH         "Undetectable by AI targeting systems of both air and ground killstreaks. Blocks visual target markers of player controlled killstreaks."
+
+REFERENCE            desc_bling
+LANG_ENGLISH         "Adds an additional attachment slot for your primary weapon."
+
+REFERENCE            desc_bomb_squad
+LANG_ENGLISH         "Detect enemy explosives and tactical equipment."
+
+REFERENCE            desc_boom
+LANG_ENGLISH         "Kills and assists activate a minimap ping at the enemy's location."
+
+REFERENCE            desc_bouncing_betty
+LANG_ENGLISH         "Launches into the air before detonating."
+
+REFERENCE            desc_br_ammo_scavenger
+LANG_ENGLISH         "Enemies you kill always drop some ammunition."
+
+REFERENCE            desc_br_armor_scavenger
+LANG_ENGLISH         "Enemies you kill always drop some armor plates."
+
+REFERENCE            desc_br_armorer
+LANG_ENGLISH         "You use armor plates 20% faster, and they supply 10% more armor."
+
+REFERENCE            desc_br_artisan_tastes
+LANG_ENGLISH         "Weapons you pick up have a chance to automatically upgrade."
+
+REFERENCE            desc_br_bounty_hunter
+LANG_ENGLISH         "If you kill someone with more Perks than you, gain enough points to match them, and then you can replace this perk. "
+
+REFERENCE            desc_br_deep_pockets
+LANG_ENGLISH         "Any usable equipment you pick up has an extra use."
+
+REFERENCE            desc_br_eod
+LANG_ENGLISH         "Explosive Resistance, and you can capture enemy claymores and mines."
+
+REFERENCE            desc_br_ghost
+LANG_ENGLISH         "You are invisible to drones and sensors."
+
+REFERENCE            desc_br_grenadier
+LANG_ENGLISH         "Any throwable equipment you pick up has an extra use."
+
+REFERENCE            desc_br_healer
+LANG_ENGLISH         "Your medic items continue to heal for an additional 25% of their value over the next 20 seconds."
+
+REFERENCE            desc_br_high_alert
+LANG_ENGLISH         "Grants vision when an enemy looks at you from outside of your FoV."
+
+REFERENCE            desc_br_marksman
+LANG_ENGLISH         "Allows you to identify enemies from farther away by showing their names at a greater distance."
+
+REFERENCE            desc_br_medic_scavenger
+LANG_ENGLISH         "Enemies you kill always drop some medic items."
+
+REFERENCE            desc_br_plunder_scavenger
+LANG_ENGLISH         "Enemies you kill always drop some cash.
+"
+
+REFERENCE            desc_br_sleightofhand
+LANG_ENGLISH         "Reload your weapons 50% faster than normal."
+
+REFERENCE            desc_br_sneaky
+LANG_ENGLISH         "Your Footsteps are invisible, and enemies are not warned when you track them."
+
+REFERENCE            desc_br_spotter
+LANG_ENGLISH         "Enemy equipment within a small radius is visible and highlighted to you, even through walls."
+
+REFERENCE            desc_br_stalker
+LANG_ENGLISH         "Faster movement while aiming down sight."
+
+REFERENCE            desc_br_thief
+LANG_ENGLISH         "When you Harvest, generate 20% more cash.
+"
+
+REFERENCE            desc_br_tracker
+LANG_ENGLISH         "Enemies leave footprints as they move, and increased crouch movement speed."
+
+REFERENCE            desc_bullet_damage
+LANG_ENGLISH         "Increase bullet damage to the chest and abdomen.
+ 
+Countered By:
+* Armor Vest"
+
+REFERENCE            desc_bulletstorm_device
+LANG_ENGLISH         "A shield that will protect the user, and charge itself from the damage absorbed.  Any stored energy will be released in an explosion when the shield ends.   "
+
+REFERENCE            desc_c4
+LANG_ENGLISH         "High explosives that stick to surfaces and can be detonated remotely with [{+frag}] or by double-tapping [{+reload}]."
+
+REFERENCE            desc_c4death
+LANG_ENGLISH         "Pull out C4 before death."
+
+REFERENCE            desc_cableh_crossbow
+LANG_ENGLISH         "Heavy Cable"
+
+REFERENCE            desc_cablel_crossbow
+LANG_ENGLISH         "Light Cable"
+
+REFERENCE            desc_cabletac_crossbow
+LANG_ENGLISH         "Balanced Cable"
+
+REFERENCE            desc_chain_reaction
+LANG_ENGLISH         "Kills with explosives set off a chain reaction that increases based on the victim's remaining equipment."
+
+REFERENCE            desc_challenges
+LANG_ENGLISH         "Complete Challenges to gain experience and unlock a variety of items."
+
+REFERENCE            desc_clan_tags
+LANG_ENGLISH         "Clan tags are now available."
+
+REFERENCE            desc_claymore
+LANG_ENGLISH         "Proximity activated explosive mine."
+
+REFERENCE            desc_climb_faster
+LANG_ENGLISH         "Climb obstacles faster."
+
+REFERENCE            desc_cloak_aerial
+LANG_ENGLISH         "Cloaking systems engage while in an active wallrun"
+
+REFERENCE            desc_cluster_grenade
+LANG_ENGLISH         "Grenade that splits into additional mini grenades upon impact.  The longer you cook, the more grenades it will spawn."
+
+REFERENCE            desc_cold_blooded
+LANG_ENGLISH         "Invisible to killstreaks and thermal"
+
+REFERENCE            desc_comexp
+LANG_ENGLISH         "Utilize enemy UAVs"
+
+REFERENCE            desc_concussion_grenade
+LANG_ENGLISH         "Temporarily disorients and slows enemies."
+
+REFERENCE            desc_create_a_class
+LANG_ENGLISH         "Create and customize your own character classes."
+
+REFERENCE            desc_create_a_streak_rewards
+LANG_ENGLISH         "Create and customize your Assault and Support Strike Packages."
+
+REFERENCE            desc_crowd_control
+LANG_ENGLISH         "Play as the Riot Control Class."
+
+REFERENCE            desc_deadeye
+LANG_ENGLISH         "Consecutive kills increase the chance to deal more damage with bullet weapons."
+
+REFERENCE            desc_deadsilence
+LANG_ENGLISH         "Footsteps and jump packs are silenced. 
+ 
+Countered by: 
+* Tracker"
+
+REFERENCE            desc_deep_impact
+LANG_ENGLISH         "Bullets carry more damage through materials."
+
+REFERENCE            desc_dexterity
+LANG_ENGLISH         "Reload and switch weapons faster."
+
+REFERENCE            desc_engineer
+LANG_ENGLISH         "Detect enemy equipment and scorestreaks through walls. Plant the bomb silently in objective game modes. Blocks Counter UAV.
+ 
+Counters:
+* Counter UAV"
+
+REFERENCE            desc_equipment_ping
+LANG_ENGLISH         "Placed equipment will alert the player of nearby enemies on the minimap.  Thrown equipment will paint enemy targets upon detonation."
+
+REFERENCE            desc_expanded_minimap
+LANG_ENGLISH         "Minimap shows a larger area and enemy names show at a greater distance.  Gain a single radar sweep when a standard enemy UAV appears and when it dies."
+
+REFERENCE            desc_explosive_damage
+LANG_ENGLISH         "Damage dealt with explosives goes through blast shield."
+
+REFERENCE            desc_extra_attachment
+LANG_ENGLISH         "Extra attachment for your weapons."
+
+REFERENCE            desc_extra_deadly
+LANG_ENGLISH         "Additional Lethal equipment."
+
+REFERENCE            desc_extra_equipment
+LANG_ENGLISH         "Additional Tactical equipment. Does not work with Smoke and Exo Trophy."
+
+REFERENCE            desc_fast_regen
+LANG_ENGLISH         "Regenerate health faster."
+
+REFERENCE            desc_fastermelee
+LANG_ENGLISH         "Faster melee."
+
+REFERENCE            desc_fastslide
+LANG_ENGLISH         "Gain increased sliding distance and the ability to ADS while sliding while using less boost meter."
+
+REFERENCE            desc_finalstand
+LANG_ENGLISH         "Get back up after being wounded."
+
+REFERENCE            desc_frag_grenade
+LANG_ENGLISH         "Hold to control fuse time, remember to release. Produces lethal radius damage upon detonation."
+
+REFERENCE            desc_gambler
+LANG_ENGLISH         "Spawn with a random Perk."
+
+REFERENCE            desc_ghillie_arctic
+LANG_ENGLISH         "You will now be camouflaged when sniping in snowy environments."
+
+REFERENCE            desc_ghillie_desert
+LANG_ENGLISH         "You will now be camouflaged when sniping in desert environments."
+
+REFERENCE            desc_gpsjammer
+LANG_ENGLISH         "Invisible to UAV and radar pings. 
+ 
+Counters: 
+* UAVs (except the Advanced UAV)
+"
+
+REFERENCE            desc_gravity_grenade
+LANG_ENGLISH         "Temporarily stuns and lifts targets into the air."
+
+REFERENCE            desc_hardline
+LANG_ENGLISH         "Your killstreaks cost 1 less kill."
+
+REFERENCE            desc_hardline_extra
+LANG_ENGLISH         "- Reduces specialist perk cost by 1."
+
+REFERENCE            desc_headgear
+LANG_ENGLISH         "Provides additional protection against sniper headshots.  
+^1* Countered by equipping FMJ^7"
+
+REFERENCE            desc_holdbreathwhileads
+LANG_ENGLISH         "Hold breath while aiming down the sights."
+
+REFERENCE            desc_hover
+LANG_ENGLISH         "While in the air after boost jumping, activate ADS to hover in place for a couple seconds.  Caution: Hover will deplete the rest of your boost meter."
+
+REFERENCE            desc_improved_melee
+LANG_ENGLISH         "Melee attacks are now slightly faster and close from an extended distance."
+
+REFERENCE            desc_improved_prone
+LANG_ENGLISH         "Improves overall movement speed while in a prone state."
+
+REFERENCE            desc_incog
+LANG_ENGLISH         "Resistant to targeting systems including: Recon, Thermal Scope, Tracker Sight and Motion Sensor. No name, red crosshairs, or enemy call-outs when targeted."
+
+REFERENCE            desc_iron_lungs
+LANG_ENGLISH         "Identify enemy targets at longer range."
+
+REFERENCE            desc_lifepack
+LANG_ENGLISH         "Kills drop cooldown packs for your team, giving a temporary boost in cooldown reduction."
+
+REFERENCE            desc_lightweight
+LANG_ENGLISH         "Increased movement speed."
+
+REFERENCE            desc_longer_hold_breath
+LANG_ENGLISH         "Longer hold breath."
+
+REFERENCE            desc_longerrange
+LANG_ENGLISH         "Increase effective weapon range."
+
+REFERENCE            desc_longersprint
+LANG_ENGLISH         "Sprint for longer distances."
+
+REFERENCE            desc_man_at_arms
+LANG_ENGLISH         "Start with maximum ammo capacity and weapons no longer slow default movement."
+
+REFERENCE            desc_marathon
+LANG_ENGLISH         "Unlimited sprint."
+
+REFERENCE            desc_marksman
+LANG_ENGLISH         "Acquire enemy names from a greater distance. Reduced flinch that primarily affects sniper rifles but gives a very minor benefit to other weapons."
+
+REFERENCE            desc_mobile_radar
+LANG_ENGLISH         "This mine will latch onto an enemy, creating a mobile ping pulse that will constantly reveal their teammates nearby."
+
+REFERENCE            desc_momentum
+LANG_ENGLISH         "Increase movement speed."
+
+REFERENCE            desc_moredamage
+LANG_ENGLISH         "Shells do more damage."
+
+REFERENCE            desc_morehealth
+LANG_ENGLISH         "Spawn with additional health."
+
+REFERENCE            desc_mortar_shell
+LANG_ENGLISH         "Mixed chemical bomb that has to be primed before release and detonates shortly after throwing."
+
+REFERENCE            desc_motion_sensor
+LANG_ENGLISH         "Triggered by enemy proximity. Tags the target, allowing them to be tracked through objects for a short time."
+
+REFERENCE            desc_move_quietly
+LANG_ENGLISH         "Move silently, making you harder to detect. Players with Amplify can still hear your footsteps."
+
+REFERENCE            desc_no_falling_damage
+LANG_ENGLISH         "Take no damage from falling."
+
+REFERENCE            desc_noplayertarget
+LANG_ENGLISH         "Undetectable by player controlled killstreaks: ODIN, Oracle, Helo Pilot, Trinity Rocket, and Gryphon."
+
+REFERENCE            desc_overclock_perk
+LANG_ENGLISH         "Payload charges faster."
+
+REFERENCE            desc_overkill
+LANG_ENGLISH         "Carry two primary weapons and swap quickly between them."
+
+REFERENCE            desc_paint
+LANG_ENGLISH         "Enemies hit with explosive damage are tagged and can be seen through objects for a short time."
+
+REFERENCE            desc_phase_fall
+LANG_ENGLISH         "Press ^5[{+togglecrouch}]^7 while in the air to quickly shift to the ground, knocking enemies directly below into phase briefly."
+
+REFERENCE            desc_pitcher
+LANG_ENGLISH         "Throw equipment farther, decrease the cook time of grenades and reset the fuse when throwing back explosives."
+
+REFERENCE            desc_player_trophy_system
+LANG_ENGLISH         "Triggers a personal trophy system countermeasure for incoming projectiles.^2 Cannot be used with Extra Tactical perk.^7"
+
+REFERENCE            desc_powercell
+LANG_ENGLISH         "Tacticals and Lethals refresh on cooldowns."
+
+REFERENCE            desc_proto_ricochet_device
+LANG_ENGLISH         "When this device is deployed, it can be shot at to redirect bullets around corners or cover."
+
+REFERENCE            desc_proximity_explosive
+LANG_ENGLISH         "Improvised proximity explosive device that sticks to the environment. Arms shortly after deployment."
+
+REFERENCE            desc_proxy_bomb
+LANG_ENGLISH         "Low damage bouncing proximity explosives."
+
+REFERENCE            desc_pulse_grenade
+LANG_ENGLISH         "Sticky grenade that emits 3 medium damage AoE pulse waves."
+
+REFERENCE            desc_quickdraw
+LANG_ENGLISH         "Faster aiming."
+
+REFERENCE            desc_rearguard
+LANG_ENGLISH         "Equips a back shield that provides protection against an attack from behind including melee attacks."
+
+REFERENCE            desc_recover_quicker
+LANG_ENGLISH         "Recover from equipment and grenade usage quicker."
+
+REFERENCE            desc_reducedsway
+LANG_ENGLISH         "Reduced weapon sway while aiming down the sights."
+
+REFERENCE            desc_rugged_eqp
+LANG_ENGLISH         "Placed equipment has more health, persists through death, and you can have 1 more active"
+
+REFERENCE            desc_rush
+LANG_ENGLISH         "After each kill, gain a brief boost to movement speed."
+
+REFERENCE            desc_scavenger
+LANG_ENGLISH         "Resupply ammo from dead players."
+
+REFERENCE            desc_scavenger_eqp
+LANG_ENGLISH         "Resupply lethals and tacticals by picking up ammo boxes after successful kills with non-explosive ballistic or energy weapons."
+
+REFERENCE            desc_scavenger_extra
+LANG_ENGLISH         "- Scavenger packs provide throwing knives."
+
+REFERENCE            desc_selective_hearing
+LANG_ENGLISH         "Louder enemy footsteps makes them easier to detect. Allows you to hear Dead Silence players."
+
+REFERENCE            desc_semtex
+LANG_ENGLISH         "Timed explosive device that starts its countdown on release. Sticks to any surface."
+
+REFERENCE            desc_sensor_grenade
+LANG_ENGLISH         "Outlines enemies on your hud. Temporarily disorients and slows enemies on explode."
+
+REFERENCE            desc_sharpfocus
+LANG_ENGLISH         "Reduced weapon sway when aiming down sights and reduced flinch when hit."
+
+REFERENCE            desc_sharpshooter
+LANG_ENGLISH         "Play as the Scout Sniper Class."
+
+REFERENCE            desc_silentkill
+LANG_ENGLISH         "Kill enemies without revealing their death locations."
+
+REFERENCE            desc_sixth_sense
+LANG_ENGLISH         "Your HUD pulses yellow when enemies out of your view are targeting you."
+
+REFERENCE            desc_sleight_of_hand
+LANG_ENGLISH         "Faster reloading."
+
+REFERENCE            desc_smoke_grenade
+LANG_ENGLISH         "Temporarily creates a smoke screen that obscures sight and blocks automated targeting systems. ^2Cannot be used with Extra Tactical perk.^7"
+
+REFERENCE            desc_solobuddyboost
+LANG_ENGLISH         "Buddy boosts, now with 100% less buddy!"
+
+REFERENCE            desc_spawn_radar
+LANG_ENGLISH         "Reveals general position and direciton of nearby enemies for a short time after spawn."
+
+REFERENCE            desc_specialist
+LANG_ENGLISH         "Earn extra perks through your streak.  The streak and rewards reset upon death."
+
+REFERENCE            desc_specialist_strike_package
+LANG_ENGLISH         "Create and customize your Specialist Strike Package."
+
+REFERENCE            desc_sprintreload
+LANG_ENGLISH         "Reload while sprinting."
+
+REFERENCE            desc_stalker
+LANG_ENGLISH         "Move faster while aiming."
+
+REFERENCE            desc_steady_aim
+LANG_ENGLISH         "Increased hip fire accuracy."
+
+REFERENCE            desc_steady_aim_pro
+LANG_ENGLISH         "Increased hip fire accuracy while moving."
+
+REFERENCE            desc_stun_immune
+LANG_ENGLISH         "Additional protection and virtually immune to stuns and flashbangs."
+
+REFERENCE            desc_stun_resistance
+LANG_ENGLISH         "Increase resistance to flash and stun effects. 
+ 
+Counters: 
+* Flash Grenade 
+* Concussion Grenade
+"
+
+REFERENCE            desc_support
+LANG_ENGLISH         "Your streak count persists through death.  Rewards support your team."
+
+REFERENCE            desc_support_killstreaks
+LANG_ENGLISH         "Disables the reset of scorestreaks on death while making scorestreaks cost increasingly more points.  You can only earn each of your scorestreaks once per match."
+
+REFERENCE            desc_swap_weapons_faster
+LANG_ENGLISH         "Swap weapons and use equipment faster."
+
+REFERENCE            desc_tactical_streaktype
+LANG_ENGLISH         "Your choice to be offensive or defensive.  The streak and rewards reset upon death."
+
+REFERENCE            desc_tacticalinsertion
+LANG_ENGLISH         "Choose where to respawn."
+
+REFERENCE            desc_thermal_sniper
+LANG_ENGLISH         "Scope that detects enemy heat signatures."
+
+REFERENCE            desc_thermobaric_grenade
+LANG_ENGLISH         "Fuel-air grenade that creates a large but low damage blast radius and weakens armor."
+
+REFERENCE            desc_thief
+LANG_ENGLISH         "Improved speed and distance on melee.  Upon landing a successful melee attack, you will receive a copy of the victim's primary weapon."
+
+REFERENCE            desc_throwing_knife
+LANG_ENGLISH         "Retrievable knife that causes instant death on impact."
+
+REFERENCE            desc_throwing_knife_c4
+LANG_ENGLISH         "Retrievable explosive that detonates on contact with any biological matter."
+
+REFERENCE            desc_throwing_knife_tele
+LANG_ENGLISH         "Launch to victim's location on impact."
+
+REFERENCE            desc_tracker_perk
+LANG_ENGLISH         "See recent enemy trails, even when they are cloaked.  
+ 
+Counters:
+* Dead Silence
+* Active Camo"
+
+REFERENCE            desc_triggerhappy
+LANG_ENGLISH         "Auto-reload after a non killstreak kill."
+
+REFERENCE            desc_trophy
+LANG_ENGLISH         "Deployable autonomous defense system that destroys up to three incoming projectiles."
+
+REFERENCE            desc_uav
+LANG_ENGLISH         "Get a UAV when you spawn."
+
+REFERENCE            desc_weapon_ready_faster
+LANG_ENGLISH         "Weapon is ready faster after sprinting."
+
+REFERENCE            dexterity
+LANG_ENGLISH         "Dexterity"
+
+REFERENCE            digital
+LANG_ENGLISH         "Digital camouflage finish."
+
+REFERENCE            disruptor_punch
+LANG_ENGLISH         "Disruptor Punch"
+
+REFERENCE            disruptor_punch_desc
+LANG_ENGLISH         "When using melee, an additional knockback is applied to enemies just outside of melee range.  Capable of knocking enemies out of ^5Phase Shift^7"
+
+REFERENCE            dmr_m1
+LANG_ENGLISH         "Semi-auto ballistic rifle.  Updated design retains the ^5top-loading clip^7 while granting moderate stopping power and low recoil.  Allows early clip ejection."
+
+REFERENCE            dmr_m1_classic
+LANG_ENGLISH         "Semi-auto ballistic rifle.  An old, reliable service rifle with moderate stopping power and low recoil.  The ^5top-loading clip^7 must be exhausted to reload."
+
+REFERENCE            dodge
+LANG_ENGLISH         "Rushdown"
+
+REFERENCE            dodge_defense
+LANG_ENGLISH         "Dodge Defense"
+
+REFERENCE            dodge_defense_desc
+LANG_ENGLISH         "Take 50% less damage while dodging."
+
+REFERENCE            dodge_desc
+LANG_ENGLISH         "Execute a quick move in any direction by pressing the [{+specialmove,+sprint}] button."
+
+REFERENCE            dodge_wave
+LANG_ENGLISH         "Dodge Wave"
+
+REFERENCE            dodge_wave_desc
+LANG_ENGLISH         "Whenever you dodge, create a small EMP wedge-shaped blast that disables enemy abilities as well as stuns."
+
+REFERENCE            door_breach
+LANG_ENGLISH         "Door Breach"
+
+REFERENCE            door_breach_desc
+LANG_ENGLISH         "Lock and breach doors"
+
+REFERENCE            engineer
+LANG_ENGLISH         "Scout"
+
+REFERENCE            enhanced_sixth_sense
+LANG_ENGLISH         "Enhanced Perception"
+
+REFERENCE            enhanced_sixth_sense_desc
+LANG_ENGLISH         "Detects off screen enemies viewing the player, depicted by on screen indicators."
+
+REFERENCE            eod
+LANG_ENGLISH         "E.O.D."
+
+REFERENCE            eod_desc
+LANG_ENGLISH         "Take reduced damage from non-killstreak explosives and fire."
+
+REFERENCE            eod_desc_extra
+LANG_ENGLISH         "- When picking up frag grenades, reset the fuse."
+
+REFERENCE            eod_patch_notes
+LANG_ENGLISH         "^1- Moved hacking ability to Spotter Perk."
+
+REFERENCE            equipment_ping
+LANG_ENGLISH         "Relay"
+
+REFERENCE            expanded_minimap
+LANG_ENGLISH         "Surveillance"
+
+REFERENCE            explosive_damage
+LANG_ENGLISH         "Danger Close"
+
+REFERENCE            extend_dodge
+LANG_ENGLISH         "Extend Dodge"
+
+REFERENCE            extend_dodge_desc
+LANG_ENGLISH         "Each Dodge goes 25% farther."
+
+REFERENCE            extra_attachment
+LANG_ENGLISH         "Extra Attachment"
+
+REFERENCE            extra_deadly
+LANG_ENGLISH         "Extra Lethal"
+
+REFERENCE            extra_dodge
+LANG_ENGLISH         "Extra Dodge"
+
+REFERENCE            extra_dodge_desc
+LANG_ENGLISH         "Adds a 2nd dodge."
+
+REFERENCE            extra_equipment
+LANG_ENGLISH         "Extra Tactical"
+
+REFERENCE            fast_regen
+LANG_ENGLISH         "Infusion"
+
+REFERENCE            fastermelee
+LANG_ENGLISH         "Melee"
+
+REFERENCE            fastslide
+LANG_ENGLISH         "Power Slide"
+
+REFERENCE            fists_desc
+LANG_ENGLISH         "Hand to hand combat."
+
+REFERENCE            flash_grenade
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            flash_grenade_desc
+LANG_ENGLISH         "Produces a blinding flash and deafening noise levels sufficient to daze and disorient anyone within effective radius."
+
+REFERENCE            frag_grenade
+LANG_ENGLISH         "Frag Grenade"
+
+REFERENCE            gambler
+LANG_ENGLISH         "Gambler"
+
+REFERENCE            ghillie_arctic
+LANG_ENGLISH         "Arctic Ghillie"
+
+REFERENCE            ghillie_desert
+LANG_ENGLISH         "Desert Ghillie"
+
+REFERENCE            ghillie_urban
+LANG_ENGLISH         "Urban Ghillie"
+
+REFERENCE            golden
+LANG_ENGLISH         "Gold plated finish."
+
+REFERENCE            gpsjammer
+LANG_ENGLISH         "Ghost"
+
+REFERENCE            graverobber
+LANG_ENGLISH         "Graverobber"
+
+REFERENCE            graverobber_desc
+LANG_ENGLISH         "Scrap dropped guns to get extra attachments and ammo.^1 Cannot pick up dropped guns."
+
+REFERENCE            gravity_grenade
+LANG_ENGLISH         "Gravity Void"
+
+REFERENCE            green_woodland_camouflage
+LANG_ENGLISH         "Green woodland camouflage finish."
+
+REFERENCE            ground_pound
+LANG_ENGLISH         "Shockwave"
+
+REFERENCE            ground_pound_desc
+LANG_ENGLISH         "Press [{+specialmove,+melee_zoom}] while in the air to perform a devastating ground slam. "
+
+REFERENCE            ground_pound_shield
+LANG_ENGLISH         "Ground Pound Shield"
+
+REFERENCE            ground_pound_shield_desc
+LANG_ENGLISH         "Deploy a temporary, destructible shield on Ground Pound."
+
+REFERENCE            ground_pound_shock
+LANG_ENGLISH         "Ground Pound Shock"
+
+REFERENCE            ground_pound_shock_desc
+LANG_ENGLISH         "Release an EMP on Ground Pound."
+
+REFERENCE            guerrilla
+LANG_ENGLISH         "Ghost"
+
+REFERENCE            guerrilla_desc
+LANG_ENGLISH         "Undetectable by UAVs, Radar Drones, and Heartbeat Sensors."
+
+REFERENCE            guerrilla_desc_extra
+LANG_ENGLISH         "- Still appear on killstreak radar when firing a weapon.
+- Detectable by Advanced UAV, but removes direction."
+
+REFERENCE            guerrilla_patch_notes
+LANG_ENGLISH         "^1- Moved Snapshot Grenade immunity to Battle Hardened Perk."
+
+REFERENCE            hack_hint
+LANG_ENGLISH         "Hack"
+
+REFERENCE            hardcore_gametypes
+LANG_ENGLISH         "Hardcore Gametypes"
+
+REFERENCE            hardline
+LANG_ENGLISH         "Hardline"
+
+REFERENCE            hardline_br_desc
+LANG_ENGLISH         "^2Multiplayer Only:^7 Your killstreaks cost 1 less kill.
+^3Warzone Only:^7 25% off kiosk prices for killstreaks, field upgrades, and armor plates."
+
+REFERENCE            hardline_pro
+LANG_ENGLISH         "Point Guard"
+
+REFERENCE            hardwired
+LANG_ENGLISH         "Hardwired"
+
+REFERENCE            hardwired_desc
+LANG_ENGLISH         "Immune to EMP effects, blocks equipment or abilities that outline you for enemies. 
+ 
+Counters: 
+* Trojan Sight 
+* Pulsar 
+* Counter UAVs
+* Tracker footprints
+* Pin Point 
+* Marked Target 
+* Jammer Grenade (EMP effects) 
+* Centurion (EMP effects)"
+
+REFERENCE            headgear
+LANG_ENGLISH         "Headgear"
+
+REFERENCE            healer
+LANG_ENGLISH         "Healer"
+
+REFERENCE            healer_desc
+LANG_ENGLISH         "You and nearby teammates recover health faster"
+
+REFERENCE            healing_syringe
+LANG_ENGLISH         "Healing Syringe"
+
+REFERENCE            healing_syringe_desc
+LANG_ENGLISH         "Injects hemostasis compound that heals wounds quickly."
+
+REFERENCE            heavy_metal
+LANG_ENGLISH         "Kill Chain"
+
+REFERENCE            heavy_metal_br_desc
+LANG_ENGLISH         "^2Multiplayer Only:^7 Killstreak kills count towards your next killstreaks. Only applies to killstreaks earned this life.
+^3Warzone Only:^7 Increases your chance of finding killstreaks in supply boxes.
+"
+
+REFERENCE            heavy_metal_desc
+LANG_ENGLISH         "Killstreak kills count towards your next killstreaks. Only applies to killstreaks earned this life. Not effective when Specialist is active."
+
+REFERENCE            heavy_metal_desc_extra
+LANG_ENGLISH         "- Cannot killchain with killstreaks from another player's care package.
+- Killchain kills don't help earn nukes."
+
+REFERENCE            heavy_metal_patch_notes
+LANG_ENGLISH         "^2+ Traded slots with Overkill Perk."
+
+REFERENCE            helmet
+LANG_ENGLISH         "Ballistic Helmet"
+
+REFERENCE            helmet_desc
+LANG_ENGLISH         "Reinforced helmet with extra protection against headshots."
+
+REFERENCE            hold_to_scavenge
+LANG_ENGLISH         "Hold to scavenge."
+
+REFERENCE            holdbreathwhileads
+LANG_ENGLISH         "Breath"
+
+REFERENCE            hover
+LANG_ENGLISH         "Hover"
+
+REFERENCE            hunter
+LANG_ENGLISH         "Hunter"
+
+REFERENCE            hunter_desc
+LANG_ENGLISH         "See enemy footprints for a short duration.
+---
+^5Upgrade:^7 Your own footprints barely show up for other Hunters."
+
+REFERENCE            huntmaster
+LANG_ENGLISH         "Tracker"
+
+REFERENCE            huntmaster_desc
+LANG_ENGLISH         "Enemies leave behind a footprint trail. See markers at enemy death locations and hide the death markers of enemies you kill."
+
+REFERENCE            huntmaster_desc_extra
+LANG_ENGLISH         ""
+
+REFERENCE            hustle
+LANG_ENGLISH         "Double Time"
+
+REFERENCE            hustle_desc
+LANG_ENGLISH         "Double the duration of Tactical Sprint. Increase crouch movement speed by 30%."
+
+REFERENCE            hustle_desc_extra
+LANG_ENGLISH         ""
+
+REFERENCE            hustle_patch_notes
+LANG_ENGLISH         "^2+ Halved Tactical Sprint recharge time."
+
+REFERENCE            improved_melee
+LANG_ENGLISH         "Augmented Melee"
+
+REFERENCE            improved_prone
+LANG_ENGLISH         "Prone Mastery"
+
+REFERENCE            incog
+LANG_ENGLISH         "Incog"
+
+REFERENCE            increased_health
+LANG_ENGLISH         "Spawn with a Vest."
+
+REFERENCE            intel
+LANG_ENGLISH         "Intel"
+
+REFERENCE            intel_desc
+LANG_ENGLISH         "See red skulls where enemies recently died.
+---
+^5Upgrade:^7 TBD"
+
+REFERENCE            iron_lungs
+LANG_ENGLISH         "Marksman"
+
+REFERENCE            iron_lungs_pro
+LANG_ENGLISH         "Marksman Pro"
+
+REFERENCE            juggernaut
+LANG_ENGLISH         "Vest"
+
+REFERENCE            juiced
+LANG_ENGLISH         "Juiced"
+
+REFERENCE            kill_report
+LANG_ENGLISH         "Sixth Sense"
+
+REFERENCE            kill_report_desc
+LANG_ENGLISH         "See enemy death locations"
+
+REFERENCE            knife_only_desc
+LANG_ENGLISH         "A CQC tactical knife.  Standard military issue, employed for fast, quiet, and deadly wetwork."
+
+REFERENCE            la_gromeo
+LANG_ENGLISH         "Portable infrared surface-to-air missile launcher with a free-fire option.  Self-propelled missiles have a higher speed, and moderate explosive yield."
+
+REFERENCE            la_juliet
+LANG_ENGLISH         "Fire and forget lock-on portable missile launcher with a large explosive yield.  Infrared guided missiles take a top-attack trajectory, ensuring destruction of heavily armored vehicles."
+
+REFERENCE            la_kgolf
+LANG_ENGLISH         "84mm recoilless launcher lobs an explosive projectile at a very high velocity.  The unguided armor piercing round has a low explosive yield, but is devastating against vehicles on contact."
+
+REFERENCE            la_lalpha
+LANG_ENGLISH         "Free-fire or vehicle lock-on."
+
+REFERENCE            la_mike32
+LANG_ENGLISH         "Semi-automatic 40mm grenade launcher with low-velocity, high-explosive rounds."
+
+REFERENCE            la_romeo
+LANG_ENGLISH         "Single-fire grenade launcher."
+
+REFERENCE            la_rpapa7
+LANG_ENGLISH         "Unguided, self-propelled rocket launcher fires a slower projectile with a high-explosive yield."
+
+REFERENCE            last_stand
+LANG_ENGLISH         "Last Stand"
+
+REFERENCE            last_stand_desc
+LANG_ENGLISH         "Pull out your pistol before dying"
+
+REFERENCE            launcher_chargeshot_desc
+LANG_ENGLISH         "Charged energy launcher.  Deploys volatile plasma charges that explode for extreme splash damage."
+
+REFERENCE            launcher_glprox
+LANG_ENGLISH         "Grenade launcher.  Launches quick, deadly projectiles that explode on impact."
+
+REFERENCE            launcher_lockon_desc
+LANG_ENGLISH         "Lock-on launcher.  Primarily anti-air with an ^5optical smart lock^7, but can be dumb fired."
+
+REFERENCE            launcher_mk32
+LANG_ENGLISH         "Revolving cylinder semtex launcher that fires 2 rounds in quick succession."
+
+REFERENCE            launcher_panzerfaust3
+LANG_ENGLISH         "Free-fire shoulder mounted rocket launcher."
+
+REFERENCE            launcher_rgm
+LANG_ENGLISH         "Grenade launcher. Fires rounds that explode on impact."
+
+REFERENCE            launcher_rocket
+LANG_ENGLISH         "Fires unguided rockets."
+
+REFERENCE            lifepack
+LANG_ENGLISH         "Cooldown Pack"
+
+REFERENCE            lightweight
+LANG_ENGLISH         "Agility"
+
+REFERENCE            lightweight2
+LANG_ENGLISH         "Speed"
+
+REFERENCE            lightweight_name
+LANG_ENGLISH         "Lightweight"
+
+REFERENCE            lm_kilo121
+LANG_ENGLISH         "Robust light machine gun sacrifices mobility for stability.  High caliber sustained fire will neutralize targets at long ranges."
+
+REFERENCE            lm_lima86
+LANG_ENGLISH         "A fully automatic bullpup light machine gun.  Lower rate of fire and 5.56mm ammunition keep this rifle stable and effective at long ranges."
+
+REFERENCE            lm_mgolf34
+LANG_ENGLISH         "Fully automatic weapon with a high rate of fire and punishing 7.92 Mauser ammunition.  Salvaged WW2 machine guns are still reliable and deadly on the battlefield."
+
+REFERENCE            lm_mgolf36
+LANG_ENGLISH         "A versatile fully automatic 5.56mm light machine gun.  Modular design can be configured for a broad range of engagements."
+
+REFERENCE            lm_mkilo3
+LANG_ENGLISH         "This air-cooled open bolt 5.56 light machine gun features a competitive rate of fire and excellent stability that will dominate the mid to long range battlefield."
+
+REFERENCE            lm_pkilo
+LANG_ENGLISH         "A fully automatic light machine gun firing 7.62mm ammunition for high damage at a moderate fire rate."
+
+REFERENCE            lmg_ameli
+LANG_ENGLISH         "Fully automatic. Increased damage and range with a slower rate of fire for stability."
+
+REFERENCE            lmg_lmg03
+LANG_ENGLISH         "Full-auto energy weapon.  Delivers high damage with strong recoil."
+
+REFERENCE            lmg_m27
+LANG_ENGLISH         "Fully automatic."
+
+REFERENCE            lmg_mauler
+LANG_ENGLISH         "Full-auto heavy ballistic weapon.  An experimental ^5gaussian delinker^7 channels ultra-rapid fire into a tight hip spread."
+
+REFERENCE            lmg_minilmg
+LANG_ENGLISH         "Full-auto ballistic minigun.  Sustained fire allows the rate of fire to climb for maximum bullets downrange."
+
+REFERENCE            lmg_minilmg_akimbo
+LANG_ENGLISH         "Full-auto ballistic ^5akimbo^7 minigun.  Sustained fire allows the rate of fire to climb for maximum bullets downrange."
+
+REFERENCE            lmg_sdflmg
+LANG_ENGLISH         "Full-auto energy weapon.  Offers a dependable fire rate and ^5high-capacity power cell^7 for sustained output."
+
+REFERENCE            longerrange
+LANG_ENGLISH         "Range"
+
+REFERENCE            longersprint
+LANG_ENGLISH         "Extreme Conditioning"
+
+REFERENCE            longersprint_pro
+LANG_ENGLISH         "Extreme Conditioning Pro"
+
+REFERENCE            magma_high_alert
+LANG_ENGLISH         "High Alert"
+
+REFERENCE            man_at_arms
+LANG_ENGLISH         "Man-at-Arms"
+
+REFERENCE            marathon
+LANG_ENGLISH         "Marathon"
+
+REFERENCE            mark_targets
+LANG_ENGLISH         "Marked Target"
+
+REFERENCE            mark_targets_desc
+LANG_ENGLISH         "Damaging enemies with gunfire will mark them for death, preventing regen for 5 seconds."
+
+REFERENCE            marksman
+LANG_ENGLISH         "Marksman"
+
+REFERENCE            me_riotshield_desc
+LANG_ENGLISH         "Ballistic-proof and explosive-resistant shield with increased melee damage."
+
+REFERENCE            meleekill
+LANG_ENGLISH         "Berserker"
+
+REFERENCE            meleekill_desc
+LANG_ENGLISH         "All melee strikes use fists and are lethal. Riotshield excluded."
+
+REFERENCE            mercenary
+LANG_ENGLISH         "Bounty Hunter"
+
+REFERENCE            mercenary_desc
+LANG_ENGLISH         "Earn extra kills towards your killstreaks by killing enemies with bounties. Enemies get a bounty every time they kill three players in a life."
+
+REFERENCE            mobile_radar
+LANG_ENGLISH         "Mobile Radar"
+
+REFERENCE            momentum
+LANG_ENGLISH         "Haste"
+
+REFERENCE            moredamage
+LANG_ENGLISH         "Damage"
+
+REFERENCE            morehealth
+LANG_ENGLISH         "Health"
+
+REFERENCE            mortar_shell
+LANG_ENGLISH         "Canister Bomb"
+
+REFERENCE            motion_sensor
+LANG_ENGLISH         "Motion Sensor"
+
+REFERENCE            multivisor
+LANG_ENGLISH         "Multi-Visor"
+
+REFERENCE            multivisor_desc
+LANG_ENGLISH         "Gain multiple vision sets at once (^5Thermal^7, ^5SitRep^7, and ^5Phase-Vision^7).  Times out after ^510 seconds^7."
+
+REFERENCE            munitions
+LANG_ENGLISH         "Overkill"
+
+REFERENCE            munitions_2
+LANG_ENGLISH         "Overkill"
+
+REFERENCE            munitions_2_desc
+LANG_ENGLISH         "Carry two primary weapons."
+
+REFERENCE            munitions_desc
+LANG_ENGLISH         "Carry two primary weapons."
+
+REFERENCE            munitions_desc_extra
+LANG_ENGLISH         "- Cannot equip two of the same weapon.
+- Secondaries cannot be equipped."
+
+REFERENCE            munitions_patch_notes
+LANG_ENGLISH         "^1- Traded slots with Kill Chain Perk."
+
+REFERENCE            no_custom_reticle
+LANG_ENGLISH         "No custom reticle."
+
+REFERENCE            none
+LANG_ENGLISH         "None"
+
+REFERENCE            noplayertarget
+LANG_ENGLISH         "Lead Lined"
+
+REFERENCE            oldschool_gametypes
+LANG_ENGLISH         "Oldschool Gametypes"
+
+REFERENCE            orange_fall
+LANG_ENGLISH         "Orange fall camouflage finish."
+
+REFERENCE            overclock_perk
+LANG_ENGLISH         "Overclock"
+
+REFERENCE            overkill
+LANG_ENGLISH         "Arsenal"
+
+REFERENCE            overkill_pro
+LANG_ENGLISH         "Overkill Pro"
+
+REFERENCE            package_demolitions
+LANG_ENGLISH         "Demolitions"
+
+REFERENCE            package_demolitions_desc
+LANG_ENGLISH         "Improved lethal equipment"
+
+REFERENCE            package_healer
+LANG_ENGLISH         "Healer"
+
+REFERENCE            package_healer_desc
+LANG_ENGLISH         "Heal yourself and allies"
+
+REFERENCE            package_munitions
+LANG_ENGLISH         "Munitions"
+
+REFERENCE            package_munitions_desc
+LANG_ENGLISH         "Improved weapons and ammunition"
+
+REFERENCE            package_spotter
+LANG_ENGLISH         "Spotter"
+
+REFERENCE            package_spotter_desc
+LANG_ENGLISH         "Gather intel on enemy movement"
+
+REFERENCE            package_stealth
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            package_stealth_desc
+LANG_ENGLISH         "Avoid detection from from enemy combatants"
+
+REFERENCE            package_support
+LANG_ENGLISH         "Support"
+
+REFERENCE            package_support_desc
+LANG_ENGLISH         "Support allies and set up defenses"
+
+REFERENCE            package_survivor
+LANG_ENGLISH         "Survivor"
+
+REFERENCE            package_survivor_desc
+LANG_ENGLISH         "Stay alive longer and earn killstreaks more easily"
+
+REFERENCE            paint
+LANG_ENGLISH         "Recon"
+
+REFERENCE            paint_pro
+LANG_ENGLISH         "Recon Pro"
+
+REFERENCE            perk_package_1
+LANG_ENGLISH         "Perk Package 1"
+
+REFERENCE            perk_package_2
+LANG_ENGLISH         "Perk Package 2"
+
+REFERENCE            perk_package_3
+LANG_ENGLISH         "Perk Package 3"
+
+REFERENCE            perk_title
+LANG_ENGLISH         "Perk &&1"
+
+REFERENCE            perksability_ammo_drop_ready
+LANG_ENGLISH         "Munitions Box Ready"
+
+REFERENCE            personal_trophy
+LANG_ENGLISH         "Trophy Drone"
+
+REFERENCE            personal_trophy_desc
+LANG_ENGLISH         "Portable trophy system that will destroy one incoming lethal grenade and then recharge."
+
+REFERENCE            phase_fall
+LANG_ENGLISH         "Phase Fall"
+
+REFERENCE            phase_slide
+LANG_ENGLISH         "Phase Slide"
+
+REFERENCE            phase_slide_desc
+LANG_ENGLISH         "Temporarily phase shift when you slide."
+
+REFERENCE            phaseslash_rephase
+LANG_ENGLISH         "Cloak Knife"
+
+REFERENCE            phaseslash_rephase_desc
+LANG_ENGLISH         "After a successful kill using melee, automatically go into Cloak"
+
+REFERENCE            pi_cpapa
+LANG_ENGLISH         "Double action revolver firing .357 Magnum ammunition for powerful damage over extended ranges."
+
+REFERENCE            pi_decho
+LANG_ENGLISH         "The most powerful semi-automatic handgun available, deals heavy damage up to intermediate ranges.  "
+
+REFERENCE            pi_golf21
+LANG_ENGLISH         "A semi-automatic pistol chambered in .45 ACP ammunition. A reliable fallback when you find yourself in close quarters."
+
+REFERENCE            pi_mike1911
+LANG_ENGLISH         "A well-rounded, semi-automatic sidearm with a moderate rate of fire.  Slightly more range than your average .45 ACP pistol."
+
+REFERENCE            pi_mike9
+LANG_ENGLISH         "Well rounded semi-auto 9mm pistol.  This unassuming sidearm excels in close range combat, and features gunsmithing capabilities unique to the pistol class that permit a variety of engagement strategies."
+
+REFERENCE            pi_papa320
+LANG_ENGLISH         "Semi-automatic 9mm pistol, excellent stability with a rapid cycle rate."
+
+REFERENCE            pistol_emc
+LANG_ENGLISH         "Semi-auto energy pistol.  Reliably delivers consistent stopping power."
+
+REFERENCE            pistol_emc_burst
+LANG_ENGLISH         "7-round burst energy pistol.  Commands superior stopping power."
+
+REFERENCE            pistol_emc_shotgun
+LANG_ENGLISH         "Semi-auto energy pistol.  Modified to fire in a shotgun style spread pattern."
+
+REFERENCE            pistol_g18
+LANG_ENGLISH         "Semi-auto ballistic pistol.  Allows ultra-fast trigger cycling in a ^5lightweight mold^7 for increased hip fire control.
+"
+
+REFERENCE            pistol_g18_classic
+LANG_ENGLISH         "Full-auto ballistic pistol.  Delivers the highest fire rate and recoil across all weapon classes."
+
+REFERENCE            pistol_g18_fatal
+LANG_ENGLISH         "Semi-automatic pistol. Extremely high damage with very few bullets."
+
+REFERENCE            pistol_m9a1
+LANG_ENGLISH         "Semi-automatic. Well-rounded combination of ammo capacity, range, damage and recoil."
+
+REFERENCE            pistol_mp443
+LANG_ENGLISH         "Semi-automatic. Low recoil and highest fire rate in its class."
+
+REFERENCE            pistol_nrg
+LANG_ENGLISH         "Full-auto energy pistol.  Features a ^5harmonic microcontroller^7 that accelerates fire rate over time."
+
+REFERENCE            pistol_nrg_bloodanvil
+LANG_ENGLISH         "Full-auto energy pistol.  Features a ^5harmonic microcontroller^7 that fires at an extreme rate then stabilizes over time."
+
+REFERENCE            pistol_nrg_charge
+LANG_ENGLISH         "Charged semi-auto energy pistol.  Modified for extreme stopping power."
+
+REFERENCE            pistol_p226
+LANG_ENGLISH         "Semi-automatic. Large ammo capacity, high rate of fire, with increased recoil."
+
+REFERENCE            pistol_pdw
+LANG_ENGLISH         "^5Automatic Fire^7 pistol. Cannot be akimboed (yet)."
+
+REFERENCE            pistol_revolver
+LANG_ENGLISH         "3-round burst ballistic pistol.  Has a triple ^5chamber stack^7 for rapid three round bursts."
+
+REFERENCE            pistol_revolver_semi
+LANG_ENGLISH         "Semi-auto ballistic pistol.   Provides devastating stopping power with each trigger pull at the expense of high recoil."
+
+REFERENCE            pistol_udm45
+LANG_ENGLISH         "Full-auto ballistic pistol built from modular pieces.  This configuration has a slow fire rate but high damage that is effective at longer ranges."
+
+REFERENCE            pistol_udm45_sniper
+LANG_ENGLISH         "Semi-auto ballistic pistol built from modular pieces.  This configuration is equipped with a sniper scope and outputs sniper-class damage in a lightweight package."
+
+REFERENCE            pitcher
+LANG_ENGLISH         "Strong-Arm"
+
+REFERENCE            plasma_auto
+LANG_ENGLISH         "Rapid fire plasma shot with splash damage and ricochet."
+
+REFERENCE            player_shoulder_cannon
+LANG_ENGLISH         "Shoulder Turret"
+
+REFERENCE            player_trophy_system
+LANG_ENGLISH         "Suit Trophy System"
+
+REFERENCE            pointman_specialist_desc
+LANG_ENGLISH         "^2Specialist Only:^7 Earn perks instead of killstreaks."
+
+REFERENCE            portable_radar_item
+LANG_ENGLISH         "Portable Radar"
+
+REFERENCE            power_adrenaline
+LANG_ENGLISH         "Nano Shot"
+
+REFERENCE            power_adrenaline_desc
+LANG_ENGLISH         "Activated combat stimulant that super-charges health regeneration."
+
+REFERENCE            power_adrenaline_mist
+LANG_ENGLISH         "Adrenaline Mist"
+
+REFERENCE            power_adrenaline_mist_desc
+LANG_ENGLISH         "Device that emits adrenaline inducing mist, giving players higher pain tolerance while surrounded by it."
+
+REFERENCE            power_ammo_box
+LANG_ENGLISH         "Ammo Crate"
+
+REFERENCE            power_ammo_box_desc
+LANG_ENGLISH         "Deploy an ammo station for your allies."
+
+REFERENCE            power_arc_grenade
+LANG_ENGLISH         "Arc Grenade"
+
+REFERENCE            power_arc_grenade_desc
+LANG_ENGLISH         "Discharges electric shock to nearby enemies. Electricity will continue to arc to affected enemies that are too close to each other for a short time."
+
+REFERENCE            power_attack_drone
+LANG_ENGLISH         "Attack Drone
+"
+
+REFERENCE            power_attack_drone_desc
+LANG_ENGLISH         "Sends out an attack drone. Can manually be called back with [{+frag}]. Self destruct sequence can be initiated by double-tapping [{+reload}]."
+
+REFERENCE            power_barrier
+LANG_ENGLISH         "Barrier"
+
+REFERENCE            power_barrier_desc
+LANG_ENGLISH         "Fire this ability at teammates to provide them with light armor.  Land a precision shot on the head to give the ally additional protection from ^5headshots^7."
+
+REFERENCE            power_battery
+LANG_ENGLISH         "Battery"
+
+REFERENCE            power_battery_desc
+LANG_ENGLISH         "Activating this ability will cause you to periodically pulse a wave, giving players in the vicinity a temporary boost to their cooldown rates."
+
+REFERENCE            power_biospike
+LANG_ENGLISH         "Bio Spike"
+
+REFERENCE            power_biospike_desc
+LANG_ENGLISH         "Thrown ballistic knife that explodes on enemy impact.  Can be recovered after use."
+
+REFERENCE            power_blackhat
+LANG_ENGLISH         "Blackhat"
+
+REFERENCE            power_blackhat_desc
+LANG_ENGLISH         "Hacks enemy equipment."
+
+REFERENCE            power_blackhole_grenade
+LANG_ENGLISH         "Black Hole Projector"
+
+REFERENCE            power_blackhole_grenade_desc
+LANG_ENGLISH         "Creates a singularity that pulls in enemies with crushing force."
+
+REFERENCE            power_blackoutgrenade
+LANG_ENGLISH         "Blackout Grenade"
+
+REFERENCE            power_blackoutgrenade_desc
+LANG_ENGLISH         "Stuns enemies, causing vision and hearing loss."
+
+REFERENCE            power_blinkknife
+LANG_ENGLISH         "Blink Knife"
+
+REFERENCE            power_blinkknife_desc
+LANG_ENGLISH         "Thrown high-tech knife that warps to enemy position on kill.  Can be recovered after use."
+
+REFERENCE            power_bouncingbetty
+LANG_ENGLISH         "Bouncing Betty"
+
+REFERENCE            power_bouncingbetty_desc
+LANG_ENGLISH         "Deployable projectile that launches into the air before detonating."
+
+REFERENCE            power_bulletstorm
+LANG_ENGLISH         "Bullet Storm"
+
+REFERENCE            power_bulletstorm_desc
+LANG_ENGLISH         "Collects incoming damage and explodes that damage after 2 seconds."
+
+REFERENCE            power_case_bomb
+LANG_ENGLISH         "Case Bomb"
+
+REFERENCE            power_case_bomb_desc
+LANG_ENGLISH         "Deploy a High Explosive Case bomb. Volitile bioplasma causes chain reactions"
+
+REFERENCE            power_chargemode
+LANG_ENGLISH         "Bull Charge"
+
+REFERENCE            power_chargemode_desc
+LANG_ENGLISH         "Sprint grants a mounting speed increase. Buck your foes out of the way on impact, damaging and disorienting them."
+
+REFERENCE            power_cloak
+LANG_ENGLISH         "Active Camo"
+
+REFERENCE            power_cloak_desc
+LANG_ENGLISH         "Turn invisible for a few seconds or until you shoot.  Sniper glint and your nameplate will not be visible to enemies, as well."
+
+REFERENCE            power_clustergrenade
+LANG_ENGLISH         "Cluster Grenade"
+
+REFERENCE            power_clustergrenade_desc
+LANG_ENGLISH         "Cookable grenade that explodes in a series of smaller blasts."
+
+REFERENCE            power_comlink
+LANG_ENGLISH         "Communications Link"
+
+REFERENCE            power_comlink_desc
+LANG_ENGLISH         "Battle positions updated in visor computer."
+
+REFERENCE            power_concussion_grenade
+LANG_ENGLISH         "Jammer Grenade"
+
+REFERENCE            power_concussion_grenade_desc
+LANG_ENGLISH         "Jams enemy minimap, movement, and aiming systems.  Effective against equipment."
+
+REFERENCE            power_cone_flash
+LANG_ENGLISH         "Siphon Wave"
+
+REFERENCE            power_cone_flash_desc
+LANG_ENGLISH         "Fires a blinding wave of force that increases your armor with each target hit."
+
+REFERENCE            power_cryo_mine
+LANG_ENGLISH         "Cryo Mine"
+
+REFERENCE            power_cryo_mine_desc
+LANG_ENGLISH         "Magnetic mine that releases a supercoolant cloud, hindering movement systems."
+
+REFERENCE            power_dash
+LANG_ENGLISH         "Dash"
+
+REFERENCE            power_dash_desc
+LANG_ENGLISH         "Use [{+breath_sprint}] to quickly move in the aimed direction. Forward dashes require the user to be in the air."
+
+REFERENCE            power_deployable_cover
+LANG_ENGLISH         "Foam Wall"
+
+REFERENCE            power_deployable_cover_desc
+LANG_ENGLISH         "Deployable counter-ballistic barrier."
+
+REFERENCE            power_disc_marker
+LANG_ENGLISH         "Surgical Strike Beacon"
+
+REFERENCE            power_disc_marker_desc
+LANG_ENGLISH         "Throw down a marker for a Maverick VII missile strike.  (Best used outdoors)"
+
+REFERENCE            power_disruptor
+LANG_ENGLISH         "Disruptor"
+
+REFERENCE            power_disruptor_desc
+LANG_ENGLISH         "Thrown device that sights in on enemy optics and sends a focused shock at them.  Most effective if the enemy is currently in ADS."
+
+REFERENCE            power_distortionfield_grenade
+LANG_ENGLISH         "Distortion Field"
+
+REFERENCE            power_distortionfield_grenade_desc
+LANG_ENGLISH         "This device deploys an aerial cloaking system that provides visual cover to those that are inside its sphere of influence.  Note that you are still vulnerable to all damage types, including ^5EMP^7 and ^5explosives^7, but you will be harder to pin down."
+
+REFERENCE            power_domeshield
+LANG_ENGLISH         "Dome Shield"
+
+REFERENCE            power_domeshield_desc
+LANG_ENGLISH         "Deployable electromagnetic dome that blocks projectiles."
+
+REFERENCE            power_emp_grenade_desc
+LANG_ENGLISH         "Grenade that disables enemy suit abilities and damages equipment."
+
+REFERENCE            power_eng_drone
+LANG_ENGLISH         "Variable Drone"
+
+REFERENCE            power_eng_drone_desc
+LANG_ENGLISH         "Deployable drone. Hold [{+smoke}] and press [{+activate}] to cycle between drone states: ^5Defense^7 or ^5Support^7."
+
+REFERENCE            power_exploding_drone
+LANG_ENGLISH         "Exploding Drone"
+
+REFERENCE            power_exploding_drone_desc
+LANG_ENGLISH         "Launched aerial drone that explodes on impact or remotely with [{+frag}] or by double-tapping [{+reload}]."
+
+REFERENCE            power_fear_grenade
+LANG_ENGLISH         "Haywire Mine"
+
+REFERENCE            power_fear_grenade_desc
+LANG_ENGLISH         "Places a mine. Upon detonation, releases nanomachines that hack enemy Visors, causing them to see threats that are not real."
+
+REFERENCE            power_forcepush
+LANG_ENGLISH         "Concussive Blast "
+
+REFERENCE            power_forcepush_desc
+LANG_ENGLISH         "Release a wave of concussive force that stuns and pushes enemies."
+
+REFERENCE            power_gasgrenade
+LANG_ENGLISH         "Gas Grenade"
+
+REFERENCE            power_gasgrenade_desc
+LANG_ENGLISH         "Temporarily creates a cloud of poisonous gas that slows and disorients enemies moving into it."
+
+REFERENCE            power_hack_knife
+LANG_ENGLISH         "Hack Knife"
+
+REFERENCE            power_hack_knife_desc
+LANG_ENGLISH         "Nanomachines infiltrate enemy rigs, turning them to your side for a short time."
+
+REFERENCE            power_implosion_grenade
+LANG_ENGLISH         "Vacuum Frag"
+
+REFERENCE            power_implosion_grenade_desc
+LANG_ENGLISH         "Hold to control fuse time, remember to release.  Two-part explosion damage seperated by a vacuum effect."
+
+REFERENCE            power_kineticpulse
+LANG_ENGLISH         "Kinetic Pulse"
+
+REFERENCE            power_kineticpulse_desc
+LANG_ENGLISH         "EMP radius blast that disables enemy abilities as well as stuns."
+
+REFERENCE            power_kineticwave
+LANG_ENGLISH         "Kinetic Wave"
+
+REFERENCE            power_kineticwave_desc
+LANG_ENGLISH         "EMP wedge-shaped blast that disables enemy abilities as well as stuns."
+
+REFERENCE            power_mobileradar
+LANG_ENGLISH         "Mobile Radar"
+
+REFERENCE            power_mobileradar_desc
+LANG_ENGLISH         "Mobile Radar Description"
+
+REFERENCE            power_mortarmount
+LANG_ENGLISH         "Mortar Mount"
+
+REFERENCE            power_mortarmount_desc
+LANG_ENGLISH         "Fire a devastating mortar off your back. Use indoors at your own risk."
+
+REFERENCE            power_niagara
+LANG_ENGLISH         "Niagara"
+
+REFERENCE            power_niagara_desc
+LANG_ENGLISH         "Airburst grenade launcher that showers your enemies with explosives on detonate.  Press [{+attack}] once to fire, and again to detonate in mid air."
+
+REFERENCE            power_opticwave
+LANG_ENGLISH         "Optic Wave"
+
+REFERENCE            power_opticwave_desc
+LANG_ENGLISH         "Brief pulse that personally outlines enemies through walls."
+
+REFERENCE            power_overcharge
+LANG_ENGLISH         "Overcharge"
+
+REFERENCE            power_overcharge_desc
+LANG_ENGLISH         "Increased damage for non explosive weapons."
+
+REFERENCE            power_periphvis
+LANG_ENGLISH         "Personal Radar"
+
+REFERENCE            power_periphvis_desc
+LANG_ENGLISH         "Activated sensor array that tracks enemy location by heat signature."
+
+REFERENCE            power_phasesplit
+LANG_ENGLISH         "Prism"
+
+REFERENCE            power_phasesplit_desc
+LANG_ENGLISH         "Suit bends light creating a hologram decoy of the player that runs out ahead. "
+
+REFERENCE            power_playertrophysystem
+LANG_ENGLISH         "Suit Trophy"
+
+REFERENCE            power_playertrophysystem_desc
+LANG_ENGLISH         "Activates a trophy system on the player that shoots down incoming projectiles."
+
+REFERENCE            power_portal_generator
+LANG_ENGLISH         "Portal Generator"
+
+REFERENCE            power_portal_generator_desc
+LANG_ENGLISH         "Create a physical portal that allows anyone to enter phase shift for a short time."
+
+REFERENCE            power_portal_grenade
+LANG_ENGLISH         "Impulse Grenade"
+
+REFERENCE            power_portal_grenade_desc
+LANG_ENGLISH         "A grenade that applies an extreme reverse gravitational impulse against any enemy within the blast radius."
+
+REFERENCE            power_proxybomb
+LANG_ENGLISH         "Proximity Bomb"
+
+REFERENCE            power_proxybomb_desc
+LANG_ENGLISH         "Bouncy grenade that detonates on contact with enemy targets."
+
+REFERENCE            power_repulsor
+LANG_ENGLISH         "Repulsor"
+
+REFERENCE            power_repulsor_desc
+LANG_ENGLISH         "Release a wave of concussive force that stuns and pushes enemies."
+
+REFERENCE            power_semtex
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            power_semtex_desc
+LANG_ENGLISH         "Timed sticky grenade."
+
+REFERENCE            power_sensorgrenade
+LANG_ENGLISH         "Sensor Grenade"
+
+REFERENCE            power_sensorgrenade_desc
+LANG_ENGLISH         "Bouncy grenade that outlines close enemies. Temporarily disorients and slows enemies on detonation."
+
+REFERENCE            power_shard_ball
+LANG_ENGLISH         "Shard Ball"
+
+REFERENCE            power_shard_ball_desc
+LANG_ENGLISH         "Sticky grenade that launches itself in the air, scattering a series of explosive shards in all directions."
+
+REFERENCE            power_shouldercannon
+LANG_ENGLISH         "Shoulder Turret"
+
+REFERENCE            power_shouldercannon_desc
+LANG_ENGLISH         "Shoulder mounted weapon that auto fires at enemies once activated. Can be toggled on / off with [{+frag}]."
+
+REFERENCE            power_siegemode
+LANG_ENGLISH         "Siege Mode"
+
+REFERENCE            power_siegemode_desc
+LANG_ENGLISH         "Transorm into a stationary turret with strong frontal armor."
+
+REFERENCE            power_siphonknife
+LANG_ENGLISH         "Siphon Knife"
+
+REFERENCE            power_siphonknife_desc
+LANG_ENGLISH         "Siphon power from your enemies and use it to empower your defenses and health regeneration."
+
+REFERENCE            power_smokegrenade
+LANG_ENGLISH         "Smoke Grenade"
+
+REFERENCE            power_smokegrenade_desc
+LANG_ENGLISH         "Creates a smoke screen that blocks vision and automated targeting systems."
+
+REFERENCE            power_sonicsensor
+LANG_ENGLISH         "Sonic Sensor"
+
+REFERENCE            power_sonicsensor_desc
+LANG_ENGLISH         "Device that detects enemy sounds via sonic pulses, revealing enemy positions.  ^5Countered by^7 equipping sound nullifying perks (^5Dead Silence^7)"
+
+REFERENCE            power_speed_strip
+LANG_ENGLISH         "V.E.F."
+
+REFERENCE            power_speed_strip_desc
+LANG_ENGLISH         "Passing through the ^5Velocity Ehancement Field^7 gives the player a temporary boost to speed and cooldown reduction."
+
+REFERENCE            power_spider_grenade
+LANG_ENGLISH         "Seeker Grenade"
+
+REFERENCE            power_spider_grenade_desc
+LANG_ENGLISH         "Autonomous sticky device that seeks out nearby enemies and explodes."
+
+REFERENCE            power_splash_grenade
+LANG_ENGLISH         "Plasma Grenade"
+
+REFERENCE            power_splash_grenade_desc
+LANG_ENGLISH         "Sticky grenade that sprays burning plasma in all directions."
+
+REFERENCE            power_split_grenade
+LANG_ENGLISH         "Flechette Grenade"
+
+REFERENCE            power_split_grenade_desc
+LANG_ENGLISH         "Splits into multiple propelled grenades on impact."
+
+REFERENCE            power_stealth_mode
+LANG_ENGLISH         "Stealth Mode"
+
+REFERENCE            power_stealth_mode_desc
+LANG_ENGLISH         "Gives all stealth perks for a set time and adds a silencer to your weapon."
+
+REFERENCE            power_sticky_mine
+LANG_ENGLISH         "Sticky Mine"
+
+REFERENCE            power_sticky_mine_desc
+LANG_ENGLISH         "Mine that attaches to any surface."
+
+REFERENCE            power_telereap
+LANG_ENGLISH         "Targeted Burst"
+
+REFERENCE            power_telereap_desc
+LANG_ENGLISH         "Leap through enemy attacking with super human speed."
+
+REFERENCE            power_thermobaric
+LANG_ENGLISH         "Thermobaric"
+
+REFERENCE            power_thermobaric_desc
+LANG_ENGLISH         "Fuel-air grenade that creates a large but low damage blast radius and weakens armor."
+
+REFERENCE            power_throwing_knife_smokewall
+LANG_ENGLISH         "Storm Wall"
+
+REFERENCE            power_throwing_knife_smokewall_desc
+LANG_ENGLISH         "Thrown device that deploys a quickly forming ionic smoke wall.  Great for distraction."
+
+REFERENCE            power_throwing_reaper
+LANG_ENGLISH         "Plasma Spear"
+
+REFERENCE            power_throwing_reaper_desc
+LANG_ENGLISH         "Plasma spear damages and stuns struck enemies."
+
+REFERENCE            power_transponder
+LANG_ENGLISH         "Transponder"
+
+REFERENCE            power_transponder_desc
+LANG_ENGLISH         "Thrown device that allows you to instantly teleport to the device's location when activated."
+
+REFERENCE            power_trip_mine
+LANG_ENGLISH         "Trip Mine"
+
+REFERENCE            power_trip_mine_desc
+LANG_ENGLISH         "Magnetic mine that detonates when an enemy interrupts the beam."
+
+REFERENCE            power_virus_grenade
+LANG_ENGLISH         "Virus Grenade"
+
+REFERENCE            power_virus_grenade_desc
+LANG_ENGLISH         "Infects enemy suits, temporarily blocks regenerative systems. The virus can spread to enemies near the virus host."
+
+REFERENCE            power_wristrocket
+LANG_ENGLISH         "T.A.R."
+
+REFERENCE            power_wristrocket_desc
+LANG_ENGLISH         "Rocket propelled system that delivers a timed, sticky plastique payload."
+
+REFERENCE            powercell
+LANG_ENGLISH         "Powercell"
+
+REFERENCE            proto_ricochet_device
+LANG_ENGLISH         "Ricochet Device"
+
+REFERENCE            proximity_explosive
+LANG_ENGLISH         "I.E.D."
+
+REFERENCE            proxy_bomb
+LANG_ENGLISH         "Proximity Bombs"
+
+REFERENCE            pull_out_your_pistol
+LANG_ENGLISH         "Pull your secondary weapon before you die"
+
+REFERENCE            pulse_grenade
+LANG_ENGLISH         "Pulse Grenade"
+
+REFERENCE            quick_fix
+LANG_ENGLISH         "Quick Fix"
+
+REFERENCE            quick_fix_desc
+LANG_ENGLISH         "Killing players immediately starts health regeneration. Capturing and holding objectives increases your health regeneration rate."
+
+REFERENCE            quick_fix_desc_extra
+LANG_ENGLISH         "- Health regeneration delay is skipped on gun, melee, and throwing knife kills.
+- Health regeneration rate is doubled while carrying, capturing, or holding an objective."
+
+REFERENCE            quickdraw
+LANG_ENGLISH         "Quickdraw"
+
+REFERENCE            quickdraw_pro
+LANG_ENGLISH         "Quickdraw Pro"
+
+REFERENCE            rail_railgun
+LANG_ENGLISH         "High-powered rail gun that penetrates any surface."
+
+REFERENCE            reaperblade
+LANG_ENGLISH         "Fast melee weapon with increased range."
+
+REFERENCE            rearguard
+LANG_ENGLISH         "Rearguard"
+
+REFERENCE            red_tiger_stripe_camouflage
+LANG_ENGLISH         "Red tiger stripe camouflage finish."
+
+REFERENCE            red_urban
+LANG_ENGLISH         "Red urban camouflage finish."
+
+REFERENCE            reducedsway
+LANG_ENGLISH         "Stability"
+
+REFERENCE            refill_ammo
+LANG_ENGLISH         "Ammo Refill."
+
+REFERENCE            refill_grenades
+LANG_ENGLISH         "Grenade Refill."
+
+REFERENCE            remote_defuse_hint
+LANG_ENGLISH         "Hold to detonate."
+
+REFERENCE            restock
+LANG_ENGLISH         "Restock"
+
+REFERENCE            restock_br_desc
+LANG_ENGLISH         "^2Multiplayer Only:^7 Recharge equipment over 25 seconds.
+^3Warzone Only:^7 Recharge equipment over 50 seconds.
+"
+
+REFERENCE            restock_desc
+LANG_ENGLISH         "Recharge equipment over 25 seconds."
+
+REFERENCE            restock_desc_extra
+LANG_ENGLISH         "- Throwing knives can recharge 1 extra knife.
+- Decoy Grenades and Stim recharge twice as fast."
+
+REFERENCE            restock_patch_notes
+LANG_ENGLISH         "^2+ Recharge time reduced by 5 seconds."
+
+REFERENCE            reticle1
+LANG_ENGLISH         "Custom Target Dot reticle."
+
+REFERENCE            reticle2
+LANG_ENGLISH         "Custom Delta reticle."
+
+REFERENCE            reticle3
+LANG_ENGLISH         "Custom U-Dot reticle."
+
+REFERENCE            reticle4
+LANG_ENGLISH         "Custom Mil-Dot reticle."
+
+REFERENCE            reticle5
+LANG_ENGLISH         "Custom Omega reticle."
+
+REFERENCE            reticle6
+LANG_ENGLISH         "Custom Lambda reticle."
+
+REFERENCE            revenge
+LANG_ENGLISH         "Revenge"
+
+REFERENCE            revive_use_weapon
+LANG_ENGLISH         "Tactical Revive"
+
+REFERENCE            revive_use_weapon_desc
+LANG_ENGLISH         "Shoot while reviving teammates"
+
+REFERENCE            riot_shield
+LANG_ENGLISH         "Ballistic-proof and explosive-resistant blunt shield weapon."
+
+REFERENCE            rocket_multi
+LANG_ENGLISH         "Rocket Multi Shot - TBD"
+
+REFERENCE            rocket_plyr
+LANG_ENGLISH         "Biomatter Tracking Rocket Propelled Grenade"
+
+REFERENCE            rpg7_x_2
+LANG_ENGLISH         "RPG-7 x 2"
+
+REFERENCE            rugged_eqp
+LANG_ENGLISH         "Mine Field"
+
+REFERENCE            rush
+LANG_ENGLISH         "Combat Burst"
+
+REFERENCE            rushdown
+LANG_ENGLISH         "Propulsion"
+
+REFERENCE            rushdown_desc
+LANG_ENGLISH         "Improved thrusters allow energy to recover faster and also damage enemy players below."
+
+REFERENCE            scavenger
+LANG_ENGLISH         "Scavenger"
+
+REFERENCE            scavenger_eqp
+LANG_ENGLISH         "Resupply"
+
+REFERENCE            scavenger_pro
+LANG_ENGLISH         "Fully Loaded"
+
+REFERENCE            scorestreak_pack
+LANG_ENGLISH         "Scorestreak Pack"
+
+REFERENCE            scorestreak_pack_desc
+LANG_ENGLISH         "Kills drop bonus scorestreak point packs for your team."
+
+REFERENCE            scrambler_item
+LANG_ENGLISH         "Scrambler"
+
+REFERENCE            semtex
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            sensor_grenade
+LANG_ENGLISH         "Sensor Concussion"
+
+REFERENCE            sh_charlie725
+LANG_ENGLISH         "Break action shotgun with 2 round capacity.  A long back-bored barrel and cylindrical choke keeps spread tight and lethal over extended ranges."
+
+REFERENCE            sh_dpapa12
+LANG_ENGLISH         "Double barrels provide two rapid shots before each re-chamber.  "
+
+REFERENCE            sh_mike26
+LANG_ENGLISH         "An agile 12-gauge mag fed shotgun from VLK with extensive options to modify range, stability, and maneuverability."
+
+REFERENCE            sh_oscar12
+LANG_ENGLISH         "A semi-automatic shotgun with a large ammo capacity allows for continuous firing.  Effective at close range."
+
+REFERENCE            sh_romeo870
+LANG_ENGLISH         "A reliable, well-rounded 12 gauge pump-action shotgun."
+
+REFERENCE            sharpfocus
+LANG_ENGLISH         "Focus"
+
+REFERENCE            sharpshooter
+LANG_ENGLISH         "Scout Sniper"
+
+REFERENCE            shocker
+LANG_ENGLISH         "Shocker"
+
+REFERENCE            shocker_desc
+LANG_ENGLISH         "Targets of this upgraded knife get electrocuted"
+
+REFERENCE            shotgun
+LANG_ENGLISH         "Shotgun"
+
+REFERENCE            shotgun_devastator
+LANG_ENGLISH         "Semi-auto ballistic shotgun.  Features a ^5cyclic drum magazine^7 for quick trigger response."
+
+REFERENCE            shotgun_fp6
+LANG_ENGLISH         "Pump action. Strongest damage in its class with moderate range. "
+
+REFERENCE            shotgun_maul
+LANG_ENGLISH         "Semi-automatic. High rate of fire, deadly at short range."
+
+REFERENCE            shotgun_mts255
+LANG_ENGLISH         "Double action, 5-round revolving cylinder shotgun that lets you run and gun in style."
+
+REFERENCE            shotgun_sdfshotty
+LANG_ENGLISH         "Full-auto energy shotgun.  Rapid fire capability is supported by a ^5high-capacity power cell^7."
+
+REFERENCE            shotgun_sonic
+LANG_ENGLISH         "Pump-action sonic shotgun.  Employs a high decibel ^5acoustic driver^7 yielding balanced stopping power and fire rate."
+
+REFERENCE            shotgun_sonic_sonar
+LANG_ENGLISH         "Pump-action Sonic shotgun.  Press ^5[{+toggleads,+toggleads_throw,+speed_throw}]^7 to release a sonar blast, detecting nearby enemies."
+
+REFERENCE            shotgun_spas
+LANG_ENGLISH         "Pump-action ballistic shotgun.  12 gauge ^5terrestrial ammo^7 provides superior stopping power, while the ^5integrated choke^7 increases ADS accuracy."
+
+REFERENCE            shotgun_spas_classic
+LANG_ENGLISH         "Pump-action ballistic shotgun.  An esteemed and rugged firearm that trades a slow rechamber rate for incredible range and stopping power."
+
+REFERENCE            shotgun_uts15
+LANG_ENGLISH         "Pump action. Largest ammo capacity in its class with a built-in ^5Smart Choke^7 for a tighter spread when ADS."
+
+REFERENCE            shrapnel
+LANG_ENGLISH         "Shrapnel"
+
+REFERENCE            shrapnel_desc
+LANG_ENGLISH         "Spawn with an extra piece of lethal equipment. Explosive damage delays enemy health regeneration."
+
+REFERENCE            shrapnel_desc_extra
+LANG_ENGLISH         "- Regeneration delay is 3 seconds."
+
+REFERENCE            silentkill
+LANG_ENGLISH         "Takedown"
+
+REFERENCE            sixth_sense
+LANG_ENGLISH         "Perception"
+
+REFERENCE            slasher
+LANG_ENGLISH         "Slasher"
+
+REFERENCE            slasher_desc
+LANG_ENGLISH         "Melee attacks get up close and personal with this lightweight tactical knife"
+
+REFERENCE            sleight_of_hand
+LANG_ENGLISH         "Sleight of Hand"
+
+REFERENCE            sleight_of_hand_pro
+LANG_ENGLISH         "Reflex"
+
+REFERENCE            sm_augolf
+LANG_ENGLISH         "A modular, fully automatic weapon configured for mobility and close range combat."
+
+REFERENCE            sm_beta
+LANG_ENGLISH         "Well-balanced automatic submachine gun with a high capacity helical magazine."
+
+REFERENCE            sm_mpapa5
+LANG_ENGLISH         "A fully automatic 9mm submachine gun.  A perfect balance of stability, mobility, and lethality."
+
+REFERENCE            sm_mpapa7
+LANG_ENGLISH         "Compact by design, this fully automatic weapon has a high rate of fire and low recoil."
+
+REFERENCE            sm_papa90
+LANG_ENGLISH         "An automatic bullpup submachine gun. The unique top mounted magazine hold carries ample high velocity 5.7 x 28mm ammunition."
+
+REFERENCE            sm_smgolf45
+LANG_ENGLISH         "A hard hitting submachine gun chambered in .45 Auto that will shred at longer distances than other weapons in its class.  Moderate rate of fire keeps the gun in control while fully automatic."
+
+REFERENCE            sm_uzulu
+LANG_ENGLISH         "A fully automatic open bolt submachine gun.  Simple, steady, effective."
+
+REFERENCE            sm_victor
+LANG_ENGLISH         "An aggressive full auto sub machine gun with buttery smooth recoil and a blazing fast rate of fire that is exceptional for strategic room clearing and holding down the front line."
+
+REFERENCE            smg_cbjms
+LANG_ENGLISH         "Fully automatic. Highest rate of fire in its class with custom ^5Armor-Piercing^7 tungsten rounds."
+
+REFERENCE            smg_crb
+LANG_ENGLISH         "Full-auto ballistic firearm.  Built-in ^5dual magazines^7 provide faster reloads and increased ammo capacity."
+
+REFERENCE            smg_crdb
+LANG_ENGLISH         "Full-auto ballistic firearm.  ^5Dual barrels^7 and ^5dual magazines^7 provide both increased bullets down range and faster reloads."
+
+REFERENCE            smg_erad
+LANG_ENGLISH         "Full-auto energy firearm.  A wide ^5dispersion muzzle^7 dampens recoil, providing highest accuracy in class."
+
+REFERENCE            smg_erad_beam
+LANG_ENGLISH         "Beam energy firearm. An exotic design of unknown origin; some speculate it was a prototype for the Steel Dragon."
+
+REFERENCE            smg_erad_shotgun
+LANG_ENGLISH         "Full-auto energy firearm.  Hold ^5[{toggleweapalt,+weapnext}]^7 to switch to ^5Shotgun Mode^7."
+
+REFERENCE            smg_fhr
+LANG_ENGLISH         "Full-auto ballistic firearm.  Offsets a modest range with an extreme fire rate thanks to a unique ^5magnetic bolt carrier^7."
+
+REFERENCE            smg_k7
+LANG_ENGLISH         "Fully automatic. Integrated ^5Silencer^7 allows for best effective silenced range in its class."
+
+REFERENCE            smg_kriss
+LANG_ENGLISH         "Fully automatic. .45 ACP rounds provide highest damage in its class with increased wall penetration."
+
+REFERENCE            smg_microtar
+LANG_ENGLISH         "Fully automatic. Rifle-class range with large ammo capacity and SMG handling."
+
+REFERENCE            smg_mp28
+LANG_ENGLISH         "Full-auto ballistic firearm.  Modest fire rate and magazine grip provide natural stability."
+
+REFERENCE            smg_mp28_launcher
+LANG_ENGLISH         "Full-auto ballistic firearm.  Modest fire rate and magazine grip provide natural stability.  Built in ^5gas-propelled grenade launcher^7 adds an additional explosive to your arsenal."
+
+REFERENCE            smg_pp19
+LANG_ENGLISH         "Fully automatic. High rate of fire with reduced recoil."
+
+REFERENCE            smg_ripper
+LANG_ENGLISH         "Full-auto ballistic firearm.  Hold ^5[{toggleweapalt,+weapnext}]^7 to toggle ^5assault rifle mode^7.  An integrated ^5hybrid sight^7 enhances longer range engagements."
+
+REFERENCE            smg_ripper_burst
+LANG_ENGLISH         "4-round burst ballistic firearm.  Hold ^5[{toggleweapalt,+weapnext}]^7 to toggle ^5Assault Rifle Mode^7.  An integrated ^5hybrid sight^7 enhances longer range engagements."
+
+REFERENCE            smg_ump45
+LANG_ENGLISH         "Full-auto ballistic firearm.  Uses heavy ^5terrestrial ammo^7 for best in class stopping power."
+
+REFERENCE            smg_ump45_akimbo
+LANG_ENGLISH         "Twin full-auto ballistic firearms.  Uses heavy ^5terrestrial ammo^7 for best in class stopping power."
+
+REFERENCE            smg_ump45_classic
+LANG_ENGLISH         "Full-auto ballistic firearm.  Popular with old Earth agencies for delivering high stopping power at range despite a low fire rate."
+
+REFERENCE            smg_vepr
+LANG_ENGLISH         "Fully automatic. Largest ammo capacity in its class with low recoil."
+
+REFERENCE            smoke_grenade
+LANG_ENGLISH         "Smoke"
+
+REFERENCE            sn_alpha50
+LANG_ENGLISH         "Hard hitting, bolt action sniper rifle with .50 cal BMG ammunition.  Its tungsten sabot tipped bullets are fast and powerful, but require precise shots over long distances."
+
+REFERENCE            sn_crossbow
+LANG_ENGLISH         "Silent and agile, this high-performance crossbow fires 20.0" bolts with exceptional lethality.  Exclusive customization, distinct functionality, and unique ammunition types put this weapon in a class of its own.  Standard 20.0" bolts are recoverable, and are undetectable by trophy systems."
+
+REFERENCE            sn_delta
+LANG_ENGLISH         "A soviet workhorse chambered in 7.62mm x 54mmR.  This gas-operated, semi-automatic sniper rifle allows for rapid follow-up shots."
+
+REFERENCE            sn_hdromeo
+LANG_ENGLISH         "An anti-material bolt action sniper rifle chambered in 12.7x108mm ammunition.  745 gr bullets have a lower muzzle velocity, but are devastating at very long ranges."
+
+REFERENCE            sn_india
+LANG_ENGLISH         "Bolt action .308 scout rifle. Exceptionally light and stable, headshot lethal."
+
+REFERENCE            sn_kilo98
+LANG_ENGLISH         "Bolt action rifle chambered in 7.92 Mauser.  A WW2 relic that is still extremely lethal in the hands of a rebel marksman."
+
+REFERENCE            sn_mike14
+LANG_ENGLISH         "A semi-automatic long range marksman rifle balances rate of fire with lethality."
+
+REFERENCE            sn_sbeta
+LANG_ENGLISH         "Highly accurate lever action rifle.  Will neutralize an enemy with one well placed round to the head or chest."
+
+REFERENCE            sn_sksierra
+LANG_ENGLISH         "Lightweight, semi-auto Carbine chambered in 7.62x39mm.  This hard hitting and agile Soviet rifle focuses on utility over accuracy.  It flaunts a faster fire rate than other weapons in its class, but a carefully placed round will eliminate the need for follow up shots entirely.  This classic DMR has seen a lot of battles, and its unique gunsmith configurations reflect a diverse service history."
+
+REFERENCE            sniper_cheytac
+LANG_ENGLISH         "2-round burst bolt-action ballistic rifle.  Features a unique ^5chamber stack^7 for predictable two round burst fire and a ^5lightweight mold^7 for increased mobility.
+"
+
+REFERENCE            sniper_cheytac_classic
+LANG_ENGLISH         "Bolt-action ballistic rifle.  Renowned for superior stability, handling, and unforgiving recoil."
+
+REFERENCE            sniper_g28
+LANG_ENGLISH         "Semi-automatic. A built-in ^5Foregrip^7 lowers recoil. Shorter range with highest rate of fire in its class."
+
+REFERENCE            sniper_gm6
+LANG_ENGLISH         "Semi-automatic. Lower mobility, deadly from the knee up through center mass."
+
+REFERENCE            sniper_imbel
+LANG_ENGLISH         "Semi-automatic. Strong and versatile overall."
+
+REFERENCE            sniper_kbs
+LANG_ENGLISH         "Bolt-action ballistic rifle.  One shot, one kill from the waist up.  Rechambering breaks scope aim."
+
+REFERENCE            sniper_l115a3
+LANG_ENGLISH         "Bolt-action. Deadly from the knee up through center mass.
+^5Recoil Compensator^7 reduces kick with each kill."
+
+REFERENCE            sniper_m8
+LANG_ENGLISH         "Semi-auto energy rifle.  Hold ^5[{toggleweapalt,+weapnext}]^7 to activate ^5assault rifle mode^7 for automatic fire and reduced power consumption."
+
+REFERENCE            sniper_m8_charge
+LANG_ENGLISH         "Charged 3-Round burst energy rifle. Hold ^5[{toggleweapalt,+weapnext}]^7 to activate ^5assault rifle mode^7 for automatic fire and reduced power consumption."
+
+REFERENCE            sniper_mk14
+LANG_ENGLISH         "Semi-automatic. Moderate recoil, highest damage per round in its class."
+
+REFERENCE            sniper_svu
+LANG_ENGLISH         "Semi-automatic. Effective at long range with moderate recoil."
+
+REFERENCE            sniper_usr
+LANG_ENGLISH         "Bolt-action. Deadly from the waist up with faster handling."
+
+REFERENCE            sniper_vks
+LANG_ENGLISH         "Semi-automatic. Integrated ^5Silencer^7 with highest ammo capacity and rate of fire in its class."
+
+REFERENCE            solobuddyboost
+LANG_ENGLISH         "Solo"
+
+REFERENCE            sonar
+LANG_ENGLISH         "Sonar"
+
+REFERENCE            sonar_desc
+LANG_ENGLISH         "Always show the minimap."
+
+REFERENCE            sp_atomizer_desc
+LANG_ENGLISH         "Experimental energy based handgun that blasts victims into a cloud of mist. (No ammo crate refills)"
+
+REFERENCE            sp_beam_steeldragon
+LANG_ENGLISH         "Powerful energy beam with auto tracking. (No ammo crate refills)"
+
+REFERENCE            sp_launcher_chargeshot_desc
+LANG_ENGLISH         "Charge up plasma launcher with extreme splash damage. (No ammo crate refills)"
+
+REFERENCE            sp_launcher_lockon_desc
+LANG_ENGLISH         "Anti-air launcher. Supports straight dumb fire and locking-on to air targets. (No ammo crate refills)"
+
+REFERENCE            sp_penetrator
+LANG_ENGLISH         "Penetrator"
+
+REFERENCE            sp_penetrator_desc
+LANG_ENGLISH         "Highly accurate electromagnetic projectile launcher with increased penetration capability. (No ammo crate refills)"
+
+REFERENCE            spawn_radar
+LANG_ENGLISH         "Spawn Radar"
+
+REFERENCE            specialist
+LANG_ENGLISH         "Specialist"
+
+REFERENCE            specialist_patch_notes
+LANG_ENGLISH         "^2+ More score is earned for assists.
++ More score is earned for objective play.
++ Earn score by helping teammates destroy killstreaks."
+
+REFERENCE            specialist_strike_package
+LANG_ENGLISH         "Specialist Strike Package"
+
+REFERENCE            spotter
+LANG_ENGLISH         "Scout"
+
+REFERENCE            spotter_desc
+LANG_ENGLISH         "See outlines on enemy equipment, and mark enemy soldiers for your team while in ADS"
+
+REFERENCE            sprintfire
+LANG_ENGLISH         "Gung-Ho"
+
+REFERENCE            sprintfire_desc
+LANG_ENGLISH         "Shoot, use equipment and scorestreaks while sprinting."
+
+REFERENCE            sprintreload
+LANG_ENGLISH         "On the Go"
+
+REFERENCE            stalker
+LANG_ENGLISH         "Stalker"
+
+REFERENCE            stalker_pro
+LANG_ENGLISH         "Stalker Pro"
+
+REFERENCE            steady_aim
+LANG_ENGLISH         "Steady Aim"
+
+REFERENCE            steady_aim_pro
+LANG_ENGLISH         "Ready Up"
+
+REFERENCE            stealth
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            stealth_desc
+LANG_ENGLISH         "Invisible to UAV
+Your nameplate doesn't appear for enemies"
+
+REFERENCE            strategist
+LANG_ENGLISH         "Pointman"
+
+REFERENCE            strategist_br_desc
+LANG_ENGLISH         "^2Multiplayer Only:^7 Killstreaks are earned through game score instead of number of kills.
+^3Warzone Only:^7 All members of your team earn more money from completed missions.
+
+"
+
+REFERENCE            strategist_desc
+LANG_ENGLISH         "Killstreaks are earned through game score instead of number of kills.
+^2Specialist Only:^7 Earn perks instead of killstreaks.
+"
+
+REFERENCE            strategist_desc_extra
+LANG_ENGLISH         "- Counter UAVs and UAVs only give 100 score max per use.
+- Advanced UAVs and White Phosphorus only give 150 score max per use."
+
+REFERENCE            stun_immune
+LANG_ENGLISH         "Advanced Blast Shield"
+
+REFERENCE            super_blackholegun_desc
+LANG_ENGLISH         "Fires a projectile that distorts gravity, sucking in enemies and exploding on impact."
+
+REFERENCE            super_pack
+LANG_ENGLISH         "Supercharge"
+
+REFERENCE            super_pack_desc
+LANG_ENGLISH         "Kills drop Payload cooldown packs for your team."
+
+REFERENCE            support
+LANG_ENGLISH         "Support"
+
+REFERENCE            support_desc
+LANG_ENGLISH         "Nearby teammates refill equipment"
+
+REFERENCE            support_killstreaks
+LANG_ENGLISH         "Persistence"
+
+REFERENCE            suppressor
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            surveillance
+LANG_ENGLISH         "High Alert"
+
+REFERENCE            surveillance_desc
+LANG_ENGLISH         "Your vision pulses when enemies outside of your view see you."
+
+REFERENCE            surveillance_desc_extra
+LANG_ENGLISH         "- Triggered by enemies controlling Chopper Gunners, Wheelsons, IAVs, and APCs."
+
+REFERENCE            survivor
+LANG_ENGLISH         "Survivor"
+
+REFERENCE            survivor_desc
+LANG_ENGLISH         "Blast Shield with resistance to explosive damage"
+
+REFERENCE            tac_resist
+LANG_ENGLISH         "Battle Hardened"
+
+REFERENCE            tac_resist_desc
+LANG_ENGLISH         "Reduce strength of enemy flash, stun, EMP, and gas effects. Immune to snapshot grenades."
+
+REFERENCE            tac_resist_desc_extra
+LANG_ENGLISH         ""
+
+REFERENCE            tac_resist_patch_notes
+LANG_ENGLISH         "^2+ Added gas resistance.
++ Added Snapshot Grenade immunity."
+
+REFERENCE            tactical_recon
+LANG_ENGLISH         "Spotter"
+
+REFERENCE            tactical_recon_desc
+LANG_ENGLISH         "See enemy equipment, field upgrades, and killstreaks through walls. Mark them for your team by aiming down sights. Hack enemy Claymores, Proximity Mines, C4, and Trophy Systems."
+
+REFERENCE            tactical_recon_desc_extra
+LANG_ENGLISH         "- Advanced UAVs cannot be marked."
+
+REFERENCE            tactical_recon_patch_notes
+LANG_ENGLISH         "^2+ Added hack ability."
+
+REFERENCE            tactical_streaktype
+LANG_ENGLISH         "Tactical"
+
+REFERENCE            tacticalinsertion
+LANG_ENGLISH         "Tactical Insertion"
+
+REFERENCE            tagger
+LANG_ENGLISH         "Tagger"
+
+REFERENCE            tan_desert_camouflage
+LANG_ENGLISH         "Tan desert camouflage finish."
+
+REFERENCE            tank
+LANG_ENGLISH         "Tank"
+
+REFERENCE            tank_desc
+LANG_ENGLISH         "-Take an additional hit to the head before going down.
+
+^5Pro:^7 
+-^3Field Upgrade:^7 trophy system.
+-Take an additional hit to the chest before going down."
+
+REFERENCE            tele_slide
+LANG_ENGLISH         "Tele Slide"
+
+REFERENCE            tele_slide_desc
+LANG_ENGLISH         "Teleport a short distance instead of slide."
+
+REFERENCE            thermobaric_grenade
+LANG_ENGLISH         "Thermobaric"
+
+REFERENCE            thief
+LANG_ENGLISH         "Thief"
+
+REFERENCE            throwback
+LANG_ENGLISH         "Throwback"
+
+REFERENCE            throwing_axe_desc
+LANG_ENGLISH         "An ancient ceremonial axe used primarily for executions.  Can be thrown by using [{+speed_throw}]."
+
+REFERENCE            throwing_knife
+LANG_ENGLISH         "Throwing Knife"
+
+REFERENCE            throwing_knife_c4
+LANG_ENGLISH         "Bio Spike"
+
+REFERENCE            throwing_knife_smokewall
+LANG_ENGLISH         "Smoke Wall"
+
+REFERENCE            throwing_knife_tele
+LANG_ENGLISH         "Slipblade"
+
+REFERENCE            throwing_reaper
+LANG_ENGLISH         "Plasma Spear"
+
+REFERENCE            thruster
+LANG_ENGLISH         "Afterburner"
+
+REFERENCE            thruster_desc
+LANG_ENGLISH         "Thrusters damage enemy players below."
+
+REFERENCE            tracker_perk
+LANG_ENGLISH         "Tracker"
+
+REFERENCE            triggerhappy
+LANG_ENGLISH         "Trigger Happy"
+
+REFERENCE            trophy
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            tune_up
+LANG_ENGLISH         "Tune Up"
+
+REFERENCE            tune_up_br_desc
+LANG_ENGLISH         "Reduce the charge time of field upgrades by 40%.
+^3Warzone Only:^7 Reduce revive time by 25%. "
+
+REFERENCE            tune_up_desc
+LANG_ENGLISH         "Reduces the charge time of field upgrades by 40%."
+
+REFERENCE            tune_up_desc_extra
+LANG_ENGLISH         ""
+
+REFERENCE            tune_up_patch_notes
+LANG_ENGLISH         "^2+ Increased charge time reduction by 7%."
+
+REFERENCE            uav
+LANG_ENGLISH         "UAV"
+
+REFERENCE            unlocked_at_lv1
+LANG_ENGLISH         "Unlocked at Private (Lv1)."
+
+REFERENCE            unlocked_at_lv10
+LANG_ENGLISH         "Unlocked at Corporal (Lv10)."
+
+REFERENCE            unlocked_at_lv11
+LANG_ENGLISH         "Unlocked at Corporal I (Lv11)."
+
+REFERENCE            unlocked_at_lv12
+LANG_ENGLISH         "Unlocked at Corporal II (Lv12)."
+
+REFERENCE            unlocked_at_lv13
+LANG_ENGLISH         "Unlocked at Sergeant (Lv13)."
+
+REFERENCE            unlocked_at_lv14
+LANG_ENGLISH         "Unlocked at Sergeant I (Lv14)."
+
+REFERENCE            unlocked_at_lv15
+LANG_ENGLISH         "Unlocked at Sergeant II (Lv15)."
+
+REFERENCE            unlocked_at_lv16
+LANG_ENGLISH         "Unlocked at Staff Sergeant (Lv16)."
+
+REFERENCE            unlocked_at_lv17
+LANG_ENGLISH         "Unlocked at Staff Sergeant I (Lv17)."
+
+REFERENCE            unlocked_at_lv18
+LANG_ENGLISH         "Unlocked at Staff Sergeant II (Lv18)."
+
+REFERENCE            unlocked_at_lv19
+LANG_ENGLISH         "Unlocked at Staff Sergeant III (Lv19)."
+
+REFERENCE            unlocked_at_lv2
+LANG_ENGLISH         "Unlocked at Private I (Lv2)."
+
+REFERENCE            unlocked_at_lv20
+LANG_ENGLISH         "Unlocked at Sergeant First Class (Lv20)."
+
+REFERENCE            unlocked_at_lv21
+LANG_ENGLISH         "Unlocked at Sergeant First Class I (Lv21)."
+
+REFERENCE            unlocked_at_lv22
+LANG_ENGLISH         "Unlocked at Sergeant First Class II (Lv22)."
+
+REFERENCE            unlocked_at_lv23
+LANG_ENGLISH         "Unlocked at Sergeant First Class III (Lv23)."
+
+REFERENCE            unlocked_at_lv24
+LANG_ENGLISH         "Unlocked at Master Sergeant (Lv24)."
+
+REFERENCE            unlocked_at_lv25
+LANG_ENGLISH         "Unlocked at Master Sergeant I (Lv25)."
+
+REFERENCE            unlocked_at_lv26
+LANG_ENGLISH         "Unlocked at Master Sergeant II (Lv26)."
+
+REFERENCE            unlocked_at_lv27
+LANG_ENGLISH         "Unlocked at Master Sergeant III (Lv27)."
+
+REFERENCE            unlocked_at_lv28
+LANG_ENGLISH         "Unlocked at First Sergeant (Lv28)."
+
+REFERENCE            unlocked_at_lv29
+LANG_ENGLISH         "Unlocked at First Sergeant I (Lv29)."
+
+REFERENCE            unlocked_at_lv3
+LANG_ENGLISH         "Unlocked at Private II (Lv3)."
+
+REFERENCE            unlocked_at_lv30
+LANG_ENGLISH         "Unlocked at First Sergeant II (Lv30)."
+
+REFERENCE            unlocked_at_lv31
+LANG_ENGLISH         "Unlocked at First Sergeant III (Lv31)."
+
+REFERENCE            unlocked_at_lv32
+LANG_ENGLISH         "Unlocked at Sergeant Major (Lv32)."
+
+REFERENCE            unlocked_at_lv33
+LANG_ENGLISH         "Unlocked at Sergeant Major I (Lv33)."
+
+REFERENCE            unlocked_at_lv34
+LANG_ENGLISH         "Unlocked at Sergeant Major II (Lv34)."
+
+REFERENCE            unlocked_at_lv35
+LANG_ENGLISH         "Unlocked at Sergeant Major III (Lv35)."
+
+REFERENCE            unlocked_at_lv36
+LANG_ENGLISH         "Unlocked at Command Sergeant Major (Lv36)."
+
+REFERENCE            unlocked_at_lv37
+LANG_ENGLISH         "Unlocked at Command Sergeant Major I (Lv37)."
+
+REFERENCE            unlocked_at_lv38
+LANG_ENGLISH         "Unlocked at Command Sergeant Major II (Lv38)."
+
+REFERENCE            unlocked_at_lv39
+LANG_ENGLISH         "Unlocked at Command Sergeant Major III (Lv39)."
+
+REFERENCE            unlocked_at_lv4
+LANG_ENGLISH         "Unlocked at Private First Class (Lv4)."
+
+REFERENCE            unlocked_at_lv40
+LANG_ENGLISH         "Unlocked at 2nd Lieutenant (Lv40)."
+
+REFERENCE            unlocked_at_lv41
+LANG_ENGLISH         "Unlocked at 2nd Lieutenant I (Lv41)."
+
+REFERENCE            unlocked_at_lv42
+LANG_ENGLISH         "Unlocked at 2nd Lieutenant II (Lv42)."
+
+REFERENCE            unlocked_at_lv43
+LANG_ENGLISH         "Unlocked at 2nd Lieutenant III (Lv43)."
+
+REFERENCE            unlocked_at_lv44
+LANG_ENGLISH         "Unlocked at 1st Lieutenant (Lv44)."
+
+REFERENCE            unlocked_at_lv45
+LANG_ENGLISH         "Unlocked at 1st Lieutenant I (Lv45)."
+
+REFERENCE            unlocked_at_lv46
+LANG_ENGLISH         "Unlocked at 1st Lieutenant II (Lv46)."
+
+REFERENCE            unlocked_at_lv47
+LANG_ENGLISH         "Unlocked at 1st Lieutenant III (Lv47)."
+
+REFERENCE            unlocked_at_lv48
+LANG_ENGLISH         "Unlocked at Captain (Lv48)."
+
+REFERENCE            unlocked_at_lv49
+LANG_ENGLISH         "Unlocked at Captain I (Lv49)."
+
+REFERENCE            unlocked_at_lv5
+LANG_ENGLISH         "Unlocked at Private First Class I (Lv5)."
+
+REFERENCE            unlocked_at_lv50
+LANG_ENGLISH         "Unlocked at Captain II (Lv50)."
+
+REFERENCE            unlocked_at_lv6
+LANG_ENGLISH         "Unlocked at Private First Class II (Lv6)."
+
+REFERENCE            unlocked_at_lv7
+LANG_ENGLISH         "Unlocked at Specialist (Lv7)."
+
+REFERENCE            unlocked_at_lv8
+LANG_ENGLISH         "Unlocked at Specialist I (Lv8)."
+
+REFERENCE            unlocked_at_lv9
+LANG_ENGLISH         "Unlocked at Specialist II (Lv9)."
+
+REFERENCE            unlocked_at_none
+LANG_ENGLISH         "Unlocked by unknown means."
+
+REFERENCE            unlocked_by_challenge
+LANG_ENGLISH         "Unlocked by challenge."
+
+REFERENCE            upgrade
+LANG_ENGLISH         "&&1 Upgrade"
+
+REFERENCE            upgrade_assassin
+LANG_ENGLISH         "No red crosshair or name when targeted."
+
+REFERENCE            upgrade_blastshield
+LANG_ENGLISH         "+Resistance to flash and stun."
+
+REFERENCE            upgrade_blindeye
+LANG_ENGLISH         "+Launchers lock-on quicker. Extra bullet damage versus air support and sentries."
+
+REFERENCE            upgrade_bomb_squad
+LANG_ENGLISH         "+Louder enemy footsteps."
+
+REFERENCE            upgrade_dead_silence
+LANG_ENGLISH         "Your footsteps are softer"
+
+REFERENCE            upgrade_deadsilence
+LANG_ENGLISH         "+No falling damage."
+
+REFERENCE            upgrade_fast_reload
+LANG_ENGLISH         "Reload more quickly"
+
+REFERENCE            upgrade_gung_ho
+LANG_ENGLISH         "Fire while sprinting"
+
+REFERENCE            upgrade_hardline
+LANG_ENGLISH         "Every two assists counts as a kill towards your killstreak."
+
+REFERENCE            upgrade_holdbreath
+LANG_ENGLISH         "Hold breath for longer while aiming down sights"
+
+REFERENCE            upgrade_iron_lungs
+LANG_ENGLISH         "+Longer hold breath."
+
+REFERENCE            upgrade_lightweight
+LANG_ENGLISH         "Increased move speed"
+
+REFERENCE            upgrade_longersprint
+LANG_ENGLISH         "+Climb obstacles faster."
+
+REFERENCE            upgrade_marathon
+LANG_ENGLISH         "Unlimited sprint"
+
+REFERENCE            upgrade_menu_blocked
+LANG_ENGLISH         "Must be on ground to upgrade perks."
+
+REFERENCE            upgrade_overkill
+LANG_ENGLISH         "+Attachment on second primary."
+
+REFERENCE            upgrade_paint
+LANG_ENGLISH         "+Bullet damage paints the target on the minimap."
+
+REFERENCE            upgrade_quickdraw
+LANG_ENGLISH         "+Recover from equipment and grenade usage quicker."
+
+REFERENCE            upgrade_quickswap
+LANG_ENGLISH         "Swap weapons faster"
+
+REFERENCE            upgrade_scavenger
+LANG_ENGLISH         "Start with maximum ammo capacity."
+
+REFERENCE            upgrade_selectivehearing
+LANG_ENGLISH         "Enemy footsteps are louder"
+
+REFERENCE            upgrade_sleight_of_hand
+LANG_ENGLISH         "+Swap weapons faster."
+
+REFERENCE            upgrade_stalker
+LANG_ENGLISH         "+Delay detection-triggered explosives."
+
+REFERENCE            upgrade_steady_aim
+LANG_ENGLISH         "+Weapon is ready faster after sprinting."
+
+REFERENCE            upgrade_throwback
+LANG_ENGLISH         "Reset grenade timers on throwback"
+
+REFERENCE            upgrade_tracker
+LANG_ENGLISH         "See recent enemy footprints"
+
+REFERENCE            wall_lock
+LANG_ENGLISH         "Perch"
+
+REFERENCE            wall_lock_desc
+LANG_ENGLISH         "Lock to a wallrunning surface for a short time when going into ADS.  Length of time is determined by how much of the boost meter is left."
+
+REFERENCE            warhead
+LANG_ENGLISH         "Amped"
+
+REFERENCE            warhead_desc
+LANG_ENGLISH         "Faster weapon swap and rocket launcher reload speed."
+
+REFERENCE            warhead_desc_extra
+LANG_ENGLISH         "- Does not affect swapping to pistols and knives.
+- Most equipment is used faster."
+
+REFERENCE            you_will_now_be_camouflaged_when
+LANG_ENGLISH         "You will now be camouflaged when sniping in urban environments."
+
+
+ENDMARKER

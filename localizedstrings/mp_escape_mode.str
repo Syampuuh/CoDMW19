@@ -1,0 +1,192 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            advance_mission
+LANG_ENGLISH         "Advance Mission Location"
+
+REFERENCE            airdrop_incomming
+LANG_ENGLISH         "Airdrop incoming. Go collect it!"
+
+REFERENCE            bank_title
+LANG_ENGLISH         "Bank"
+
+REFERENCE            challenge_complete
+LANG_ENGLISH         "CHALLENGE COMPLETE!"
+
+REFERENCE            challenge_header
+LANG_ENGLISH         "Personal Challenges:"
+
+REFERENCE            challenge_header_1
+LANG_ENGLISH         "CHALLENGE 1:"
+
+REFERENCE            challenge_header_2
+LANG_ENGLISH         "CHALLENGE 2:"
+
+REFERENCE            challenge_header_3
+LANG_ENGLISH         "CHALLENGE 3:"
+
+REFERENCE            challenge_progress
+LANG_ENGLISH         "[ &&1/&&2 ]"
+
+REFERENCE            currency_label
+LANG_ENGLISH         "Banked Currency: $"
+
+REFERENCE            current_objective
+LANG_ENGLISH         "Next Mission:"
+
+REFERENCE            enemy_earned_ac130
+LANG_ENGLISH         "An enemy team has earned their AC130. The race is on!"
+
+REFERENCE            enemy_located_wmd
+LANG_ENGLISH         "An enemy team has located the WMD."
+
+REFERENCE            enemy_secured_zone
+LANG_ENGLISH         "Capture zone secured by enemy team. Advancing to next zone."
+
+REFERENCE            escape_streak_label
+LANG_ENGLISH         "Life Streak: &&1"
+
+REFERENCE            fallout_desc
+LANG_ENGLISH         "Dropped in to a hidden Nuclear Facility in the Ukraine. Find gear, stay alive and get out."
+
+REFERENCE            faridah_desc
+LANG_ENGLISH         "Pass through the war torn town of Faridah.  Find gear, stay alive and get out."
+
+REFERENCE            guard
+LANG_ENGLISH         "GUARD"
+
+REFERENCE            guarding
+LANG_ENGLISH         "GUARDING"
+
+REFERENCE            item1_label
+LANG_ENGLISH         "Item:"
+
+REFERENCE            item2_label
+LANG_ENGLISH         "Item:"
+
+REFERENCE            killstreak_category
+LANG_ENGLISH         "Life Streak Rewards:"
+
+REFERENCE            last_mission_results
+LANG_ENGLISH         "Last Mission Results:"
+
+REFERENCE            layover_desc
+LANG_ENGLISH         "Survive through the bombed out Donetsk Airport in the Ukraine.  Find gear, stay alive and get out."
+
+REFERENCE            life_stats
+LANG_ENGLISH         "Current Life Stats:"
+
+REFERENCE            loadout_title
+LANG_ENGLISH         "Current Loadout:"
+
+REFERENCE            mode_desc
+LANG_ENGLISH         "Experimental survival mode."
+
+REFERENCE            mode_name
+LANG_ENGLISH         "Dark Ops"
+
+REFERENCE            play_ffa
+LANG_ENGLISH         "Play FFA"
+
+REFERENCE            play_team
+LANG_ENGLISH         "Begin Mission"
+
+REFERENCE            provide_support
+LANG_ENGLISH         "Provide Support"
+
+REFERENCE            pull_wmd_data_core
+LANG_ENGLISH         "Extract Core"
+
+REFERENCE            rally_point_being_deployed
+LANG_ENGLISH         "Rally Point Bradley being deployed."
+
+REFERENCE            reach_destination
+LANG_ENGLISH         "Reach Destination"
+
+REFERENCE            replay_mission
+LANG_ENGLISH         "Replay Location"
+
+REFERENCE            replay_not_available
+LANG_ENGLISH         "Replay Not Available"
+
+REFERENCE            result_fail
+LANG_ENGLISH         "^1K.I.A.^7"
+
+REFERENCE            result_win
+LANG_ENGLISH         "^2Mission Successful^7"
+
+REFERENCE            secure
+LANG_ENGLISH         "SECURE"
+
+REFERENCE            securing
+LANG_ENGLISH         "SECURING"
+
+REFERENCE            speedway_desc
+LANG_ENGLISH         "Escape from mp_speedway"
+
+REFERENCE            stat_ammo_found
+LANG_ENGLISH         "Ammo Found:"
+
+REFERENCE            stat_caches
+LANG_ENGLISH         "Caches Looted:"
+
+REFERENCE            stat_currency_gained
+LANG_ENGLISH         "Currency Extracted:"
+
+REFERENCE            stat_damage_dealt
+LANG_ENGLISH         "Damage Dealt:"
+
+REFERENCE            stat_damage_taken
+LANG_ENGLISH         "Damage Taken:"
+
+REFERENCE            stat_kills
+LANG_ENGLISH         "Kills:"
+
+REFERENCE            stat_play_time
+LANG_ENGLISH         "Play Time:"
+
+REFERENCE            stat_weapons_found
+LANG_ENGLISH         "Weapons Found:"
+
+REFERENCE            transit_desc
+LANG_ENGLISH         "The Donetsk transit terminal is on lock down. Clear what you can and get out."
+
+REFERENCE            use
+LANG_ENGLISH         "Use"
+
+REFERENCE            use_ac130
+LANG_ENGLISH         "Use AC130 to locate the WMD."
+
+REFERENCE            use_computer
+LANG_ENGLISH         "Use Computer"
+
+REFERENCE            vehicle_drop_incoming
+LANG_ENGLISH         "Vehicle Incoming"
+
+REFERENCE            weapon1
+LANG_ENGLISH         "Weapon 1:"
+
+REFERENCE            weapon2
+LANG_ENGLISH         "Weapon 2:"
+
+REFERENCE            weapon_ammo
+LANG_ENGLISH         "Ammo: &&1"
+
+REFERENCE            wip_watermark
+LANG_ENGLISH         "MP Design WIP"
+
+REFERENCE            wmd
+LANG_ENGLISH         "WMD"
+
+REFERENCE            wmd_location_revealed
+LANG_ENGLISH         "WMD Location Revealed"
+
+REFERENCE            you_earned_ac130
+LANG_ENGLISH         "Command Promotion Earned - AC130 Available"
+
+REFERENCE            zone_secured
+LANG_ENGLISH         "Zone Secured. Advancing to next zone."
+
+
+ENDMARKER

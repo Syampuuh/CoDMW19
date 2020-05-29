@@ -1,0 +1,4 @@
+0,LookUp,MENU/LOOK_UP,+lookup,Y,Y,Y,
+1,LookDown,MENU/LOOK_DOWN,+lookdown,Y,Y,Y,
+2,HoldMouseLook,MENU/HOLD_MOUSE_LOOK,+mlook,Y,Y,Y,
+3,CenterView,MENU/CENTER_VIEW,CenterView,Y,Y,Y,

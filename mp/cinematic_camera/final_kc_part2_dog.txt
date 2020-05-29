@@ -1,0 +1,25 @@
+//==========================================================================
+// killcam_dog
+// over shoulder style camera similar to gears
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when parser has changed
+<version> 5
+
+////////////////////////////////////////////
+// CUTS
+
+// 1. hold over the shoulder until killcam ends
+<cut>
+<movement> fixed
+<orientation> attached
+<tag> tag_camera
+<tag_range> 40
+<tag_pitch> 10
+<tag_yaw> 25
+<time> 0
+
+// END CUTS
+////////////////////////////////////////////
+

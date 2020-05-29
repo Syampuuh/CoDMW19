@@ -1,0 +1,309 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            captive
+LANG_ENGLISH         "Captive"
+
+REFERENCE            captive_chyrondate
+LANG_ENGLISH         "Imprisoned since 1999"
+
+REFERENCE            captive_chyronlocation
+LANG_ENGLISH         "Tobrak, Urzikstan"
+
+REFERENCE            captive_chyronsquad
+LANG_ENGLISH         "POW Leader"
+
+REFERENCE            captive_chyronwho
+LANG_ENGLISH         "Cmdr. Farah Karim"
+
+REFERENCE            captive_desc
+LANG_ENGLISH         "Mission Description - Captive"
+
+REFERENCE            captive_location
+LANG_ENGLISH         "Tobrak, Urzikstan"
+
+REFERENCE            coldopen
+LANG_ENGLISH         "Cold Open"
+
+REFERENCE            coldopen_desc
+LANG_ENGLISH         "Mission Description - Cold Open"
+
+REFERENCE            coldopen_location
+LANG_ENGLISH         "London, UK"
+
+REFERENCE            embassy
+LANG_ENGLISH         "The Embassy"
+
+REFERENCE            embassy_chyrondate
+LANG_ENGLISH         "28 OCT 2019 2100"
+
+REFERENCE            embassy_chyronlocation
+LANG_ENGLISH         "Sakhra, Urzikstan"
+
+REFERENCE            embassy_chyronsquad
+LANG_ENGLISH         "SAS, CIA, Urzik Militia"
+
+REFERENCE            embassy_chyronwho
+LANG_ENGLISH         "Sgt. Kyle Garrick"
+
+REFERENCE            embassy_desc
+LANG_ENGLISH         "Mission Description - Embassy"
+
+REFERENCE            embassy_location
+LANG_ENGLISH         "Sakhra, Urzikstan"
+
+REFERENCE            estate
+LANG_ENGLISH         "Going Dark"
+
+REFERENCE            estate_chyrondate
+LANG_ENGLISH         "01 NOV 2019 2300"
+
+REFERENCE            estate_chyronlocation
+LANG_ENGLISH         "Baurci, Moldova"
+
+REFERENCE            estate_chyronsquad
+LANG_ENGLISH         "SAS"
+
+REFERENCE            estate_chyronwho
+LANG_ENGLISH         "Sgt. Kyle Garrick"
+
+REFERENCE            estate_desc
+LANG_ENGLISH         "Mission Description - Estate"
+
+REFERENCE            estate_location
+LANG_ENGLISH         "Baurci, Moldova"
+
+REFERENCE            georgia
+LANG_ENGLISH         "Georgia"
+
+REFERENCE            highway
+LANG_ENGLISH         "Highway of Death"
+
+REFERENCE            highway_chyrondate
+LANG_ENGLISH         "29 OCT 2019 0800"
+
+REFERENCE            highway_chyronlocation
+LANG_ENGLISH         "Darus, Urzikstan"
+
+REFERENCE            highway_chyronsquad
+LANG_ENGLISH         "CIA with Urzik Militia"
+
+REFERENCE            highway_chyronwho
+LANG_ENGLISH         "???Alex???"
+
+REFERENCE            highway_desc
+LANG_ENGLISH         "Mission Description - Highway of Death"
+
+REFERENCE            highway_location
+LANG_ENGLISH         "Darus, Urzikstan"
+
+REFERENCE            hometown
+LANG_ENGLISH         "Hometown"
+
+REFERENCE            hometown_desc
+LANG_ENGLISH         "Mission Description - Hometown"
+
+REFERENCE            hometown_location
+LANG_ENGLISH         "Riyzabbi, Urzikstan"
+
+REFERENCE            lab
+LANG_ENGLISH         "Into the Furnace"
+
+REFERENCE            lab_chyrondate
+LANG_ENGLISH         "03 NOV 2019 1430"
+
+REFERENCE            lab_chyronlocation
+LANG_ENGLISH         "Borjomi, Georgia"
+
+REFERENCE            lab_chyronsquad
+LANG_ENGLISH         "CIA, SAS, Urzik Militia"
+
+REFERENCE            lab_chyronwho
+LANG_ENGLISH         ""Alex""
+
+REFERENCE            lab_desc
+LANG_ENGLISH         "Mission Description - Lab"
+
+REFERENCE            lab_location
+LANG_ENGLISH         "Borjomi, Georgia"
+
+REFERENCE            london
+LANG_ENGLISH         "London"
+
+REFERENCE            marines
+LANG_ENGLISH         "Hunting Party"
+
+REFERENCE            marines_chyrondate
+LANG_ENGLISH         "28 OCT 2019 0630"
+
+REFERENCE            marines_chyronlocation
+LANG_ENGLISH         "Rammaza, Urzikstan"
+
+REFERENCE            marines_chyronsquad
+LANG_ENGLISH         "CIA with Demon Dogs"
+
+REFERENCE            marines_chyronwho
+LANG_ENGLISH         "???Alex???"
+
+REFERENCE            marines_desc
+LANG_ENGLISH         "Mission Description - Marines"
+
+REFERENCE            marines_location
+LANG_ENGLISH         "Rammaza, Urzikstan"
+
+REFERENCE            piccadilly
+LANG_ENGLISH         "Piccadilly"
+
+REFERENCE            piccadilly_chyrondate
+LANG_ENGLISH         "25 OCT 2019 1800"
+
+REFERENCE            piccadilly_chyronlocation
+LANG_ENGLISH         "London, UK"
+
+REFERENCE            piccadilly_chyronsquad
+LANG_ENGLISH         "SAS with CTSFO"
+
+REFERENCE            piccadilly_chyronwho
+LANG_ENGLISH         "Sgt. Kyle Garrick"
+
+REFERENCE            piccadilly_desc
+LANG_ENGLISH         "Mission Description - Piccadilly"
+
+REFERENCE            piccadilly_location
+LANG_ENGLISH         "London, UK"
+
+REFERENCE            proxywar
+LANG_ENGLISH         "Fog of War"
+
+REFERENCE            proxywar_chyrondate
+LANG_ENGLISH         "24 OCT 2019 0530"
+
+REFERENCE            proxywar_chyronlocation
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            proxywar_chyronsquad
+LANG_ENGLISH         "CIA with Marine Raiders"
+
+REFERENCE            proxywar_chyronwho
+LANG_ENGLISH         "???Alex???"
+
+REFERENCE            proxywar_desc
+LANG_ENGLISH         "Mission Description - Proxywar"
+
+REFERENCE            proxywar_location
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            safehouse
+LANG_ENGLISH         "Embedded"
+
+REFERENCE            safehouse_chyrondate
+LANG_ENGLISH         "26 OCT 2019 1530"
+
+REFERENCE            safehouse_chyronlocation
+LANG_ENGLISH         "Aqtabi, Urzikstan"
+
+REFERENCE            safehouse_chyronsquad
+LANG_ENGLISH         "CIA with Urzik Militia"
+
+REFERENCE            safehouse_chyronwho
+LANG_ENGLISH         "???Alex???"
+
+REFERENCE            safehouse_desc
+LANG_ENGLISH         "Mission Description - Safehouse"
+
+REFERENCE            safehouse_location
+LANG_ENGLISH         "Aqtabi, Urzikstan"
+
+REFERENCE            safehousefinale
+LANG_ENGLISH         "Proxy War"
+
+REFERENCE            safehousefinale_chyrondate
+LANG_ENGLISH         "26 OCT 2019 1900"
+
+REFERENCE            safehousefinale_chyronlocation
+LANG_ENGLISH         "Al-Raab, Urzikstan"
+
+REFERENCE            safehousefinale_chyronsquad
+LANG_ENGLISH         "CIA with Urzik Militia"
+
+REFERENCE            safehousefinale_chyronwho
+LANG_ENGLISH         "???Alex???"
+
+REFERENCE            safehousefinale_desc
+LANG_ENGLISH         "Mission Description - Safehouse Finale"
+
+REFERENCE            safehousefinale_location
+LANG_ENGLISH         "Al-Raab, Urzikstan"
+
+REFERENCE            st_petersburg
+LANG_ENGLISH         "St Petersburg"
+
+REFERENCE            stpetersburg
+LANG_ENGLISH         "Old Comrades"
+
+REFERENCE            stpetersburg_chyrondate
+LANG_ENGLISH         "31 OCT 2019 1700"
+
+REFERENCE            stpetersburg_chyronlocation
+LANG_ENGLISH         "St. Petersburg, Russia"
+
+REFERENCE            stpetersburg_chyronsquad
+LANG_ENGLISH         "SAS Unsanctioned"
+
+REFERENCE            stpetersburg_chyronwho
+LANG_ENGLISH         "Sgt. Kyle Garrick"
+
+REFERENCE            stpetersburg_desc
+LANG_ENGLISH         "Mission Description - St Petersburg"
+
+REFERENCE            stpetersburg_location
+LANG_ENGLISH         "St. Petersburg, Russia"
+
+REFERENCE            townhoused
+LANG_ENGLISH         "Clean House"
+
+REFERENCE            townhoused_chyrondate
+LANG_ENGLISH         "27 OCT 2019 0100"
+
+REFERENCE            townhoused_chyronlocation
+LANG_ENGLISH         "Camden Town, UK"
+
+REFERENCE            townhoused_chyronsquad
+LANG_ENGLISH         "SAS Anti-terror Wing"
+
+REFERENCE            townhoused_chyronwho
+LANG_ENGLISH         "Sgt. Kyle Garrick"
+
+REFERENCE            townhoused_desc
+LANG_ENGLISH         "Mission Description - Red Crown"
+
+REFERENCE            townhoused_location
+LANG_ENGLISH         "Camden Town, UK"
+
+REFERENCE            tunnels
+LANG_ENGLISH         "The Wolf???s Den"
+
+REFERENCE            tunnels_chyrondate
+LANG_ENGLISH         "29 OCT 2019 2230"
+
+REFERENCE            tunnels_chyronlocation
+LANG_ENGLISH         "Takkari, Urzikstan"
+
+REFERENCE            tunnels_chyronsquad
+LANG_ENGLISH         "SAS, CIA"
+
+REFERENCE            tunnels_chyronwho
+LANG_ENGLISH         "Sgt. Kyle Garrick"
+
+REFERENCE            tunnels_desc
+LANG_ENGLISH         "Mission Description - Tunnels"
+
+REFERENCE            tunnels_location
+LANG_ENGLISH         "Takkari, Urzikstan"
+
+REFERENCE            urzikstan
+LANG_ENGLISH         "Urzikstan"
+
+
+ENDMARKER

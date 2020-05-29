@@ -1,0 +1,60 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            copy_keys_from_mp
+LANG_ENGLISH         "Copy Keyboard Binds from Multiplayer and override your Single Player Keyboard Binds?  Note that some important keys may need to be manually bound."
+
+REFERENCE            copy_keys_from_sp
+LANG_ENGLISH         "Copy Keyboard Binds from Single Player and override your Multiplayer Keyboard Binds? Note that some important keys may need to be manually bound."
+
+REFERENCE            copy_keys_mp
+LANG_ENGLISH         "Copy Keys From Single Player"
+
+REFERENCE            copy_keys_mp_desc
+LANG_ENGLISH         "Copy your Keyboard Binds from Single Player"
+
+REFERENCE            copy_keys_sp
+LANG_ENGLISH         "Copy Keys From Multiplayer"
+
+REFERENCE            copy_keys_sp_desc
+LANG_ENGLISH         "Copy your Keyboard Binds from Multiplayer"
+
+REFERENCE            copy_keys_title
+LANG_ENGLISH         "Copy Keyboard Binds"
+
+REFERENCE            desc_igr_battle_pass_progression_tip
+LANG_ENGLISH         "&&1% battle pass progression in internet cafe mode"
+
+REFERENCE            desc_igr_bonus_tip
+LANG_ENGLISH         "&&1% experience and unlocked all characters in internet cafe mode"
+
+REFERENCE            desc_igr_operator_tip
+LANG_ENGLISH         "Unlock all characters in internet cafe mode"
+
+REFERENCE            desc_igr_weapon_xp_bonus_tip
+LANG_ENGLISH         "&&1% weapon experience in internet cafe mode"
+
+REFERENCE            desc_igr_xp_bonus_tip
+LANG_ENGLISH         "&&1% experience in internet cafe mode"
+
+REFERENCE            installation_complete
+LANG_ENGLISH         "Installation complete!"
+
+REFERENCE            shader_during_gameplay
+LANG_ENGLISH         "This might cause performance issues during gameplay."
+
+REFERENCE            shader_installation_paused
+LANG_ENGLISH         "Shaders installation is paused."
+
+REFERENCE            shader_perf_issues
+LANG_ENGLISH         "Installing shaders to optimize performance during gameplay."
+
+REFERENCE            shader_preloading_progress
+LANG_ENGLISH         "In progress: &&1 (&&2%)"
+
+REFERENCE            shaders_installation_tooltip
+LANG_ENGLISH         "Installation will progress while you browse the menus if you are not in a lobby or party."
+
+
+ENDMARKER

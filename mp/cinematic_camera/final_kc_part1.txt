@@ -1,0 +1,69 @@
+//==================================================================
+// Final KillCam
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//
+// In Final KC, you are viewing from the attacker's point of view
+// the "leading actor" is the victim and the "supporting actor" is the attacker for this
+//==========================================================================
+
+// update the version only when parser has changed
+<version> 4
+
+// DESIGN:
+// Cut 1 = final_kc_part1.txt
+// Third person looking at the victim (close and wide FOV). The back of the camera will always be oriented towards the attacker. We will be in slow mo. The UI will have the word VICTIM large in the top center.
+// Cut 2 = final_kc_part2.txt
+// The camera will lerp to the attacker while still looking at the victim the entire time (bringing the FOV back to normal). The camera will orient itself to the same view angles as the attacker when it gets to them. We can either stay in slow mo or go normal speed throughout the lerp.
+// Cut 3 = _killcam.gsc script
+// We quickly fade to white and back as we go into the attacker's first person. We are at normal speed now until the kill happens and we slow mo the killing blow. The we go back to normal speed. The UI will have the word ATTACKER large in the top center.
+// Cut 4 = final_kc_part3.txt
+// We quickly fade to white and back as we show the attacker in third person from the front and possibly slightly angled to the left arm (close and wide FOV).
+
+////////////////////////////////////////////
+// CUTS
+
+// 1. Pan in front of victim
+<cut>
+<movement> pan
+<orientation> attached
+<tag> j_spine4
+<tag_pitch> 70
+<tag_range> 10
+<pan_distance> 15
+<pan_focus_range> 30
+<pan_focus_supporting_actor> 1
+<pan_mounted_to_actor> 1
+<pan_mounted_angles_pitch> -10
+<pan_mounted_angles_yaw> 30
+<time> 0.25
+
+// END CUTS
+////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+// FOV'S
+
+<fov>
+<fov_start_time> 0
+<fov_value> 85
+
+// END FOV'S
+////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////
+// DOF'S
+
+// blur background
+<dof>
+<dof_start_time> 0
+<dof_blend_duration> 0
+<dof_far_start> 75
+<dof_far_end> 175
+<dof_far_blur> 2.5
+
+// END DOF'S
+////////////////////////////////////////////

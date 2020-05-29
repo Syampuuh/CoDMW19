@@ -1,0 +1,56 @@
+//==========================================================================
+// Killcam_agent
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+// hold over the shoulder until killcam ends
+<cut>
+<movement> fixed
+<orientation> attached
+<tag> j_neck
+<tag_range> 45
+<tag_pitch> 15
+<tag_yaw> 25
+<time> 8
+<lerp> 0.35
+
+// blur background
+<dof>
+<dof_start_time> 0.5
+<dof_blend_duration> 250
+<dof_far_start> 100
+<dof_far_end> 500
+<dof_far_blur> 3.5
+
+// blend back to default
+<dof>
+<dof_start_time> 2.25
+<dof_blend_duration> 1500
+
+<fov>
+<fov_start_time> 0
+<fov_value> 65
+
+//// SOUNDS
+//<sound>
+//<sound_start_time> 0
+//<sound_name> "mp_killcam_slomo_in"
+//
+//<sound>
+//<sound_start_time> 2.25
+//<sound_name> "mp_killcam_slomo_out"
+//
+//// audio zone overrides
+//<sound>
+//<sound_is_zone_override> 1
+//<sound_start_time> 0
+//<sound_fade_duration> 750
+//<sound_name> "mp_killcam_slomo"
+//
+//<sound>
+//<sound_is_zone_override> 1
+//<sound_start_time> 2
+//<sound_fade_duration> 1000

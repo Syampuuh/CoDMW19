@@ -1,0 +1,73 @@
+//==========================================================================
+// Killcam scene
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+// 1. right side of feet
+<cut>
+<movement> fixed
+<orientation> attached
+<tag> tag_origin
+<tag_range> 25
+<tag_pitch> 30
+<tag_yaw> 40
+<collision> 0
+<time> 1
+
+// 2. Show right side
+<cut>
+<movement> rotate 
+<orientation> target
+<tag> j_shoulder_ri
+<tag_range> -5
+<angles_yaw> 90
+<angles_range_start> 15
+<angles_range_end> 17
+<time> 1.75
+
+
+<fov>
+<fov_start_time> 0
+<fov_value> 90
+
+
+
+// slam zoom flash
+<vision>
+<vision_start_time> 0.9
+<vision_name> "coup_sunblind"
+<vision_blend_duration> 200
+
+<vision>
+<vision_start_time> 1.1
+<vision_name> ""
+<vision_blend_duration> 200
+
+
+// slam zoom flash
+<vision>
+<vision_start_time> 2.65
+<vision_name> "coup_sunblind"
+<vision_blend_duration> 200
+
+<vision>
+<vision_start_time> 2.85
+<vision_name> ""
+<vision_blend_duration> 200
+
+
+// blur background
+<dof>
+<dof_start_time> 0
+<dof_blend_duration> 0
+<dof_far_start> 75
+<dof_far_end> 175
+<dof_far_blur> 2.5
+
+
+<dof>
+<dof_start_time> 2.3
+<dof_blend_duration> 7500

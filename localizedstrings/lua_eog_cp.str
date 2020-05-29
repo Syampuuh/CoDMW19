@@ -1,0 +1,68 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            eog_track_assists
+LANG_ENGLISH         "Assists
+"
+
+REFERENCE            eog_track_civs_hit
+LANG_ENGLISH         "Civilians Hit"
+
+REFERENCE            eog_track_crit_hits
+LANG_ENGLISH         "Critical Hits"
+
+REFERENCE            eog_track_currency
+LANG_ENGLISH         "Currency"
+
+REFERENCE            eog_track_currencyspent
+LANG_ENGLISH         "Currency Spent"
+
+REFERENCE            eog_track_currencytotal
+LANG_ENGLISH         "Currency Earned"
+
+REFERENCE            eog_track_deaths
+LANG_ENGLISH         "Deaths"
+
+REFERENCE            eog_track_deployables
+LANG_ENGLISH         "Deployables"
+
+REFERENCE            eog_track_downs
+LANG_ENGLISH         "Downs"
+
+REFERENCE            eog_track_headshots
+LANG_ENGLISH         "Headshots"
+
+REFERENCE            eog_track_kills
+LANG_ENGLISH         "Kills
+"
+
+REFERENCE            eog_track_multiplier_targets
+LANG_ENGLISH         "Multiplier Targets"
+
+REFERENCE            eog_track_revives
+LANG_ENGLISH         "Revives"
+
+REFERENCE            eog_track_score
+LANG_ENGLISH         "Score"
+
+REFERENCE            eog_track_shots_hit
+LANG_ENGLISH         "Shots Hit"
+
+REFERENCE            eog_track_shots_missed
+LANG_ENGLISH         "Shots Missed"
+
+REFERENCE            eog_track_targets
+LANG_ENGLISH         "Targets"
+
+REFERENCE            eog_track_time
+LANG_ENGLISH         "Time"
+
+REFERENCE            eog_track_total_shots
+LANG_ENGLISH         "Shots Fired"
+
+REFERENCE            eog_track_traps
+LANG_ENGLISH         "Traps"
+
+
+ENDMARKER

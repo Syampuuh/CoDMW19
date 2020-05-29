@@ -1,0 +1,565 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            appearance_title
+LANG_ENGLISH         "Gunsmith Customs: &&1"
+
+REFERENCE            armory_locked
+LANG_ENGLISH         "Locked - No weapon saved to Armory"
+
+REFERENCE            attach_challenge_reward
+LANG_ENGLISH         "Reward"
+
+REFERENCE            attach_equip_count
+LANG_ENGLISH         "&&1/&&2"
+
+REFERENCE            attach_unlock_level
+LANG_ENGLISH         "Level &&1"
+
+REFERENCE            attach_variant
+LANG_ENGLISH         "&&1 v&&2"
+
+REFERENCE            attachment_cat_arm
+LANG_ENGLISH         "Arms"
+
+REFERENCE            attachment_cat_back
+LANG_ENGLISH         "Stock"
+
+REFERENCE            attachment_cat_bolt
+LANG_ENGLISH         "Bolt"
+
+REFERENCE            attachment_cat_cable
+LANG_ENGLISH         "Cable"
+
+REFERENCE            attachment_cat_extra
+LANG_ENGLISH         "Laser"
+
+REFERENCE            attachment_cat_front
+LANG_ENGLISH         "Barrel"
+
+REFERENCE            attachment_cat_guard
+LANG_ENGLISH         "Guard"
+
+REFERENCE            attachment_cat_hammer
+LANG_ENGLISH         "Hammer"
+
+REFERENCE            attachment_cat_magazine
+LANG_ENGLISH         "Ammunition"
+
+REFERENCE            attachment_cat_muzzle
+LANG_ENGLISH         "Muzzle"
+
+REFERENCE            attachment_cat_optic
+LANG_ENGLISH         "Optic"
+
+REFERENCE            attachment_cat_perk
+LANG_ENGLISH         "Perk"
+
+REFERENCE            attachment_cat_pump
+LANG_ENGLISH         "Pumps"
+
+REFERENCE            attachment_cat_pump_grip
+LANG_ENGLISH         "Pump Grip"
+
+REFERENCE            attachment_cat_reargrip
+LANG_ENGLISH         "Rear Grip"
+
+REFERENCE            attachment_cat_trigger
+LANG_ENGLISH         "Trigger Action"
+
+REFERENCE            attachment_cat_undermount
+LANG_ENGLISH         "Underbarrel"
+
+REFERENCE            attachment_challenge
+LANG_ENGLISH         "Attachment challenge"
+
+REFERENCE            attachment_conflict
+LANG_ENGLISH         "[{attachment_warning}] Conflict"
+
+REFERENCE            attachment_equipped
+LANG_ENGLISH         "Equipped :"
+
+REFERENCE            attachment_preview
+LANG_ENGLISH         "&&1 Attachment"
+
+REFERENCE            attachment_swap
+LANG_ENGLISH         "[{attachment_swap}] Swap"
+
+REFERENCE            attachment_swap_instructions
+LANG_ENGLISH         "You have 5 attachments already equipped. To equip ^5&&1^7, you need to swap it with an already equipped attachment."
+
+REFERENCE            attachment_variant
+LANG_ENGLISH         "[{ui_attachment_variant}] &&1"
+
+REFERENCE            attachments
+LANG_ENGLISH         "Attachments"
+
+REFERENCE            attachments_equipped
+LANG_ENGLISH         "Attachments Equipped &&1/&&2:"
+
+REFERENCE            blocked_category_warning
+LANG_ENGLISH         "[{streak_warning}] This attachment blocks category &&1. Equipping it will remove &&2."
+
+REFERENCE            blueprint
+LANG_ENGLISH         "Blueprint"
+
+REFERENCE            blueprint_and_weapon
+LANG_ENGLISH         "&&1 - &&2"
+
+REFERENCE            blueprint_attachment
+LANG_ENGLISH         "Gunsmith Customs"
+
+REFERENCE            blueprint_warning_body
+LANG_ENGLISH         "Creating a blueprint uses an available blueprint slot and
+resets your upgrade tree with new sights, perks and attachments.
+
+
+
+Do you wish to proceed?"
+
+REFERENCE            blueprints_for_weapon
+LANG_ENGLISH         "&&1 Blueprints"
+
+REFERENCE            break_modification
+LANG_ENGLISH         "Break Modification"
+
+REFERENCE            button_next_unlocks
+LANG_ENGLISH         "[{ui_trigger_right}] Next Unlocks:"
+
+REFERENCE            button_next_unlocks_kbm
+LANG_ENGLISH         "Next Unlocks:"
+
+REFERENCE            cancel_mod
+LANG_ENGLISH         "Cancel modification creation"
+
+REFERENCE            challenge_complete
+LANG_ENGLISH         "Complete"
+
+REFERENCE            challenge_progress
+LANG_ENGLISH         "&&1/&&2"
+
+REFERENCE            challenge_reward_xp
+LANG_ENGLISH         "+&&1XP"
+
+REFERENCE            choose_appearance
+LANG_ENGLISH         "[{ui_shoulder_left}] Gunsmith Customs"
+
+REFERENCE            choose_appearance_no_prompt
+LANG_ENGLISH         "Gunsmith Customs"
+
+REFERENCE            choose_swap
+LANG_ENGLISH         "Please choose an attachment to swap"
+
+REFERENCE            classified
+LANG_ENGLISH         "Classified"
+
+REFERENCE            clear_filter
+LANG_ENGLISH         "Clear Filter"
+
+REFERENCE            conflict
+LANG_ENGLISH         "Conflict"
+
+REFERENCE            continue
+LANG_ENGLISH         "Continue"
+
+REFERENCE            create_and_save_mod
+LANG_ENGLISH         "Create and save modification"
+
+REFERENCE            create_blueprint
+LANG_ENGLISH         "Create Blueprint"
+
+REFERENCE            create_modification
+LANG_ENGLISH         "[{ui_select}] Create Modification"
+
+REFERENCE            create_new_mod
+LANG_ENGLISH         "Create new modification"
+
+REFERENCE            created_modification
+LANG_ENGLISH         "Created modification"
+
+REFERENCE            de_select
+LANG_ENGLISH         "De-select"
+
+REFERENCE            default_variant
+LANG_ENGLISH         "Default"
+
+REFERENCE            default_weapon_category
+LANG_ENGLISH         "Fast Fire"
+
+REFERENCE            delete
+LANG_ENGLISH         "Delete"
+
+REFERENCE            delete_custom_mod
+LANG_ENGLISH         "Delete Custom Mod"
+
+REFERENCE            delete_modification
+LANG_ENGLISH         "Delete a modification"
+
+REFERENCE            delete_specific_weapon_mod
+LANG_ENGLISH         "Delete &&1 Custom Mod"
+
+REFERENCE            deselect
+LANG_ENGLISH         "Deselect"
+
+REFERENCE            deselect_all
+LANG_ENGLISH         "Deselect All"
+
+REFERENCE            edit
+LANG_ENGLISH         "Edit"
+
+REFERENCE            edit_blueprint
+LANG_ENGLISH         "Edit Blueprint"
+
+REFERENCE            edit_loadout
+LANG_ENGLISH         "Edit Loadout"
+
+REFERENCE            edit_loadouts_desc
+LANG_ENGLISH         "Edit your custom Loadouts."
+
+REFERENCE            edit_mod
+LANG_ENGLISH         "Edit existing modification"
+
+REFERENCE            edit_modification
+LANG_ENGLISH         "Edit &&1 modification"
+
+REFERENCE            edit_warning
+LANG_ENGLISH         "You are about to edit the &&1 and create a new version. This will ^1PERMANENTLY^7 edit the &&3."
+
+REFERENCE            enter_name
+LANG_ENGLISH         "Enter name"
+
+REFERENCE            equip_and_gunsmith
+LANG_ENGLISH         "Equip and Open Gunsmith"
+
+REFERENCE            equipped_attachments
+LANG_ENGLISH         "Attachments: "
+
+REFERENCE            equipped_count
+LANG_ENGLISH         "Equipped &&1/&&2:"
+
+REFERENCE            favorite_loadout
+LANG_ENGLISH         "Set as favorite"
+
+REFERENCE            field_upgrades_desc
+LANG_ENGLISH         "Select your Field Upgrade."
+
+REFERENCE            filter
+LANG_ENGLISH         "Filter: &&1"
+
+REFERENCE            filter_rarity
+LANG_ENGLISH         "Rarity"
+
+REFERENCE            filter_weapon_type
+LANG_ENGLISH         "Weapon Type"
+
+REFERENCE            finish
+LANG_ENGLISH         "Finish"
+
+REFERENCE            gun_weapon_level
+LANG_ENGLISH         "Weapon Level: &&1"
+
+REFERENCE            gunsmith_criteria
+LANG_ENGLISH         "Gain &&1 XP using adjacent attachments to unlock."
+
+REFERENCE            gunsmith_preview
+LANG_ENGLISH         "&&1 Gunsmith Preview"
+
+REFERENCE            gunsmith_tokens_available
+LANG_ENGLISH         "&&1"
+
+REFERENCE            gunsmith_tokens_partial_progress
+LANG_ENGLISH         "Next Token: &&1 XP"
+
+REFERENCE            gunsmith_unlocks
+LANG_ENGLISH         "[{ui_unlocked}]&&1/&&2"
+
+REFERENCE            gunsmith_weapon
+LANG_ENGLISH         "&&1 Gunsmith"
+
+REFERENCE            item_unlock
+LANG_ENGLISH         "Item unlocked at level &&1"
+
+REFERENCE            less_stats
+LANG_ENGLISH         "Less stats"
+
+REFERENCE            level
+LANG_ENGLISH         "Level &&1"
+
+REFERENCE            level_and_mark
+LANG_ENGLISH         "^2MARK &&1^7 : Level &&2"
+
+REFERENCE            lock_msg
+LANG_ENGLISH         "[{ui_lock}] &&1"
+
+REFERENCE            locker_filter
+LANG_ENGLISH         "Filter"
+
+REFERENCE            locker_total
+LANG_ENGLISH         "Locker Total &&1 / &&2"
+
+REFERENCE            mark
+LANG_ENGLISH         "Mark &&1 : "
+
+REFERENCE            max_characters
+LANG_ENGLISH         "Max characters 12"
+
+REFERENCE            mod_delete_warning
+LANG_ENGLISH         "Do you wish to ^1PERMANENTLY^7 delete ^2&&1^7?"
+
+REFERENCE            mod_slots_full
+LANG_ENGLISH         "Custom mod slots full"
+
+REFERENCE            modification
+LANG_ENGLISH         "Modified Weapon"
+
+REFERENCE            modification_added
+LANG_ENGLISH         "Modification added to the weapon armory"
+
+REFERENCE            modification_attachments
+LANG_ENGLISH         "Modification Attachments"
+
+REFERENCE            modification_creation
+LANG_ENGLISH         "Modification Creation"
+
+REFERENCE            modification_deleted
+LANG_ENGLISH         "Modification deleted from the weapon armory"
+
+REFERENCE            modification_locked
+LANG_ENGLISH         "Item locked since it is available in current modification."
+
+REFERENCE            modification_name
+LANG_ENGLISH         "Modification name"
+
+REFERENCE            modification_welcome_message
+LANG_ENGLISH         "You're rewarded with the chance to create a modification of the &&1 from the attachments in your gunsmith grid. In addition, you will unlock a unique skin for your &&2.
+
+After creating a modification of &&3 you will be able to ^1ROLL^7 the gunsmith attachment tree with ^2NEW^7 sights, perks and attachments. Your weapon will increase to MOD level &&4."
+
+REFERENCE            more_stats
+LANG_ENGLISH         "New text"
+
+REFERENCE            name
+LANG_ENGLISH         "Name"
+
+REFERENCE            name_blueprint
+LANG_ENGLISH         "Name Blueprint"
+
+REFERENCE            name_of_setup
+LANG_ENGLISH         "Name of setup"
+
+REFERENCE            name_warning
+LANG_ENGLISH         "Enter a name to save your modification."
+
+REFERENCE            needed_xp
+LANG_ENGLISH         "Needed XP"
+
+REFERENCE            next_level
+LANG_ENGLISH         "Next level : &&1 XP / &&2 XP"
+
+REFERENCE            next_step
+LANG_ENGLISH         "Next step"
+
+REFERENCE            next_unlocks
+LANG_ENGLISH         "Next Unlocks"
+
+REFERENCE            no_selected_attach
+LANG_ENGLISH         "-"
+
+REFERENCE            not_available
+LANG_ENGLISH         "Blocked by &&1"
+
+REFERENCE            original
+LANG_ENGLISH         "Original"
+
+REFERENCE            percent
+LANG_ENGLISH         "&&1%"
+
+REFERENCE            perk
+LANG_ENGLISH         "Perk"
+
+REFERENCE            prestige_weapon
+LANG_ENGLISH         "[{ui_alt2}] Prestige Weapon"
+
+REFERENCE            preview_watch
+LANG_ENGLISH         "Preview Watch"
+
+REFERENCE            preview_weapon
+LANG_ENGLISH         "Preview Weapon"
+
+REFERENCE            preview_weapon_prompt
+LANG_ENGLISH         "[{ui_r3}] Preview Weapon"
+
+REFERENCE            random_unlock
+LANG_ENGLISH         "Unlocked at random level."
+
+REFERENCE            remove_warning
+LANG_ENGLISH         "Don't show again."
+
+REFERENCE            replace_loadout
+LANG_ENGLISH         "Select the loadout you would like to replace with &&1."
+
+REFERENCE            replaces_attachment
+LANG_ENGLISH         "Replaces &&1"
+
+REFERENCE            replaces_with_attachment
+LANG_ENGLISH         "Replaces with &&1"
+
+REFERENCE            reroll
+LANG_ENGLISH         "Re-Roll"
+
+REFERENCE            restricted_criteria
+LANG_ENGLISH         "Adjacent attachment must be unlocked to purchase."
+
+REFERENCE            roll
+LANG_ENGLISH         "Roll"
+
+REFERENCE            roll_attachments
+LANG_ENGLISH         "Generate New Gunsmith Tree"
+
+REFERENCE            roll_gunsmith_desc
+LANG_ENGLISH         "You will now be able to ROLL your weapon with NEW sights, perks and attachments. Your weapon will increase to MOD level &&1."
+
+REFERENCE            roll_gunsmith_tree
+LANG_ENGLISH         "Roll Gunsmith Tree"
+
+REFERENCE            roll_weapon
+LANG_ENGLISH         "Roll &&1 Gunsmith"
+
+REFERENCE            save_blueprint
+LANG_ENGLISH         "[{ui_trigger_left}] Save a Custom Mod"
+
+REFERENCE            save_blueprint_kbm
+LANG_ENGLISH         "Save a Custom Mod"
+
+REFERENCE            save_mod
+LANG_ENGLISH         "Save modification"
+
+REFERENCE            save_mod_title
+LANG_ENGLISH         "Save Custom Mod"
+
+REFERENCE            save_warning
+LANG_ENGLISH         "Changing the name of an existing modification will require you to use an additional modification slot. Do you wish to proceed?"
+
+REFERENCE            saved_to_armory
+LANG_ENGLISH         "This weapon has been saved to the weapon armory."
+
+REFERENCE            select
+LANG_ENGLISH         "Select"
+
+REFERENCE            setup_to_save
+LANG_ENGLISH         "Setup to save"
+
+REFERENCE            slots_full_desc
+LANG_ENGLISH         "You have used all &&1 modification slots. To save a new custom mod you will need to DELETE one created modification from the weapon armory.
+
+How do you wish to proceed?"
+
+REFERENCE            standard_category
+LANG_ENGLISH         "Standard"
+
+REFERENCE            steps
+LANG_ENGLISH         "Steps &&1/&&2"
+
+REFERENCE            stickers
+LANG_ENGLISH         "Stickers"
+
+REFERENCE            streak_select
+LANG_ENGLISH         "Killstreak Select"
+
+REFERENCE            streak_select_desc
+LANG_ENGLISH         "Edit your Killstreaks."
+
+REFERENCE            swap
+LANG_ENGLISH         "Swap"
+
+REFERENCE            swap_attachment
+LANG_ENGLISH         "Swap Attachment"
+
+REFERENCE            swap_description
+LANG_ENGLISH         "To equip the &&1 you need to swap it with one of your already equipped attachments"
+
+REFERENCE            unlock_after_challenge
+LANG_ENGLISH         "Unlocked after completing challenge."
+
+REFERENCE            unlock_by_purchase
+LANG_ENGLISH         "Unlocked by spending gunsmith token."
+
+REFERENCE            unlock_challenge
+LANG_ENGLISH         "Unlock Tokens"
+
+REFERENCE            unlock_requirements
+LANG_ENGLISH         "Unlock Criteria"
+
+REFERENCE            unlocked
+LANG_ENGLISH         "Unlocked"
+
+REFERENCE            update_mod
+LANG_ENGLISH         "Update modification"
+
+REFERENCE            view_with_locker
+LANG_ENGLISH         "Weapon can be viewed from the weapon locker."
+
+REFERENCE            want_to_proceed
+LANG_ENGLISH         "Do you wish to proceed?"
+
+REFERENCE            warning_description
+LANG_ENGLISH         "You are about to create the ^2&&1^7 modification. By confirming this your modification will be saved to the weapon locker and be equipped automatically as your primary weapon in ^2&&2^7.
+
+Do you wish to create the ^2&&3^7?"
+
+REFERENCE            warning_title
+LANG_ENGLISH         "Warning!"
+
+REFERENCE            watch_preview_prompt
+LANG_ENGLISH         "[{ui_r3}] Preview Watch"
+
+REFERENCE            weapon_and_attachment_variant
+LANG_ENGLISH         "&&1 - &&2"
+
+REFERENCE            weapon_and_level
+LANG_ENGLISH         "&&1: Level &&2"
+
+REFERENCE            weapon_and_mod
+LANG_ENGLISH         "&&1 (&&2)"
+
+REFERENCE            weapon_level
+LANG_ENGLISH         "Weapon level"
+
+REFERENCE            weapon_locker
+LANG_ENGLISH         "Armory"
+
+REFERENCE            weapon_locker_desc
+LANG_ENGLISH         "Browse your Weapon Blueprints & Weapon Mods."
+
+REFERENCE            weapon_locker_disabled_desc
+LANG_ENGLISH         "Earn a Weapon Blueprint or save out a Weapon Mod using Gunsmith to unlock the Armory."
+
+REFERENCE            weapon_modification
+LANG_ENGLISH         "Weapon Modification"
+
+REFERENCE            weapon_name
+LANG_ENGLISH         "Weapon Name"
+
+REFERENCE            weapon_prestige_body
+LANG_ENGLISH         " - You are rewarded with the chance to create a blueprint from the unlocked sights, perks and attachments available in the &&1 upgrade tree. Your blueprint will also be equipped with a custom skin.
+
+- After creating a blueprint of the &&2 the weapon's upgrade tree will be reset with new sights, perks and attachments."
+
+REFERENCE            weapon_prestige_welcome
+LANG_ENGLISH         "Welcome to Weapon Prestige"
+
+REFERENCE            weapon_type
+LANG_ENGLISH         "Weapon type"
+
+REFERENCE            wildcard_category
+LANG_ENGLISH         "Wildcard"
+
+REFERENCE            x_to_y
+LANG_ENGLISH         "&&1 - &&2"
+
+REFERENCE            xp_progress
+LANG_ENGLISH         "&&1 / &&2 XP"
+
+
+ENDMARKER

@@ -1,0 +1,69 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            all
+LANG_ENGLISH         "All"
+
+REFERENCE            both
+LANG_ENGLISH         "Both"
+
+REFERENCE            deuteranope
+LANG_ENGLISH         "Deuteranomaly / Deuteranopia"
+
+REFERENCE            deuteranope_desc
+LANG_ENGLISH         "Improve the experience for players having weakness/blindness to ^5green^7 color."
+
+REFERENCE            interface
+LANG_ENGLISH         "Interface"
+
+REFERENCE            minimap_circle
+LANG_ENGLISH         "Round"
+
+REFERENCE            minimap_rotation
+LANG_ENGLISH         "Mini Map Rotation"
+
+REFERENCE            minimap_rotation_desc
+LANG_ENGLISH         "^5Disabled:^7 The mini map's rotation will be static. Only the player icon will be rotated in the direction the player is facing.
+
+^5Enabled:^7 The mini map will always be oriented in the direction the player is facing."
+
+REFERENCE            minimap_square
+LANG_ENGLISH         "Square"
+
+REFERENCE            minimap_style
+LANG_ENGLISH         "Mini Map Shape"
+
+REFERENCE            minimap_style_desc
+LANG_ENGLISH         "Choose between ^5a round^7 or ^5a square^7 mini map."
+
+REFERENCE            none
+LANG_ENGLISH         "None"
+
+REFERENCE            none_desc
+LANG_ENGLISH         ""
+
+REFERENCE            planeonly
+LANG_ENGLISH         "Airplanes Only"
+
+REFERENCE            protanope
+LANG_ENGLISH         "Protanomaly / Protanopia"
+
+REFERENCE            protanope_desc
+LANG_ENGLISH         "Improve the experience for players having weakness/blindness to ^5red^7 color.
+"
+
+REFERENCE            tritanope
+LANG_ENGLISH         "Tritanomaly / Tritanopia"
+
+REFERENCE            tritanope_desc
+LANG_ENGLISH         "Improve the experience for players having weakness/blindness to ^5blue^7 color."
+
+REFERENCE            ui
+LANG_ENGLISH         "UI"
+
+REFERENCE            world
+LANG_ENGLISH         "World"
+
+
+ENDMARKER

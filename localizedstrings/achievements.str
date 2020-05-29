@@ -1,0 +1,210 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            all_game_mode
+LANG_ENGLISH         "All game modes"
+
+REFERENCE            armed
+LANG_ENGLISH         "Armed"
+
+REFERENCE            armed_desc
+LANG_ENGLISH         "Complete the Arms Dealer Special Ops mission."
+
+REFERENCE            ashes
+LANG_ENGLISH         "Ashes to Ashes"
+
+REFERENCE            ashes_desc
+LANG_ENGLISH         "Burn 4 enemies with a single molotov."
+
+REFERENCE            barkovspit
+LANG_ENGLISH         "Got Something on Your Face"
+
+REFERENCE            barkovspit_desc
+LANG_ENGLISH         "Spit on Barkov."
+
+REFERENCE            boom
+LANG_ENGLISH         "Press [BOOM] to Defuse"
+
+REFERENCE            boom_desc
+LANG_ENGLISH         "Blow up 3 tripwires with explosives."
+
+REFERENCE            cinderblock
+LANG_ENGLISH         "Companion Block"
+
+REFERENCE            cinderblock_desc
+LANG_ENGLISH         "Only use one cinder block and bring it to the end of 'Embedded'."
+
+REFERENCE            cooperative
+LANG_ENGLISH         "Co-op"
+
+REFERENCE            dodgebullet
+LANG_ENGLISH         "Dodged a Bullet"
+
+REFERENCE            dodgebullet_desc
+LANG_ENGLISH         "Never get hit by the sniper while escaping captivity."
+
+REFERENCE            driversed
+LANG_ENGLISH         "Driver's Ed"
+
+REFERENCE            driversed_desc
+LANG_ENGLISH         "Shoot the driver of the suicide truck."
+
+REFERENCE            finish
+LANG_ENGLISH         "Tea Time"
+
+REFERENCE            finish_desc
+LANG_ENGLISH         "Finish single player on any difficulty."
+
+REFERENCE            fogfrag
+LANG_ENGLISH         "Nothing but Net"
+
+REFERENCE            fogfrag_desc
+LANG_ENGLISH         "Neutralize the 'Fog of War' machine gun with a frag grenade."
+
+REFERENCE            goldenpath
+LANG_ENGLISH         "Golden Path"
+
+REFERENCE            goldenpath_desc
+LANG_ENGLISH         "Complete 'Clean House' without being hit using one bullet per threat."
+
+REFERENCE            hangtime
+LANG_ENGLISH         "Hang Time"
+
+REFERENCE            hangtime_desc
+LANG_ENGLISH         "Kill 3 enemies while you are on a ladder."
+
+REFERENCE            hotswap
+LANG_ENGLISH         "Hot Swap"
+
+REFERENCE            hotswap_desc
+LANG_ENGLISH         "Get at least one kill with eight different weapons when completing 'Old Comrades'."
+
+REFERENCE            landlord
+LANG_ENGLISH         "Landlord"
+
+REFERENCE            landlord_desc
+LANG_ENGLISH         "Complete the Landlord Special Ops mission."
+
+REFERENCE            laundered
+LANG_ENGLISH         "Laundered"
+
+REFERENCE            laundered_desc
+LANG_ENGLISH         "Complete the Money Launderer Special Ops mission."
+
+REFERENCE            lightsout
+LANG_ENGLISH         "Lights Out"
+
+REFERENCE            lightsout_desc
+LANG_ENGLISH         "Shut off the power to 4 buildings in 'Going Dark'."
+
+REFERENCE            lovefromabove
+LANG_ENGLISH         "Love from Above"
+
+REFERENCE            lovefromabove_desc
+LANG_ENGLISH         "Destroy 4 trucks with 4 drone strikes before they reach the end of their path in 'The Embassy'."
+
+REFERENCE            multiplayer
+LANG_ENGLISH         "Multiplayer"
+
+REFERENCE            nofriendlyfire
+LANG_ENGLISH         "Trigger Discipline"
+
+REFERENCE            nofriendlyfire_desc
+LANG_ENGLISH         "Do not injure any civilians in 'Piccadilly'."
+
+REFERENCE            ownthenight
+LANG_ENGLISH         "We Own the Night"
+
+REFERENCE            ownthenight_desc
+LANG_ENGLISH         "Kill all enemies at the Church, Clocktower, and Pool without anyone calling for backup."
+
+REFERENCE            pickles
+LANG_ENGLISH         "Liberation"
+
+REFERENCE            pickles_desc
+LANG_ENGLISH         "Complete all Special Operations missions."
+
+REFERENCE            pilotkill
+LANG_ENGLISH         "Long Way Down"
+
+REFERENCE            pilotkill_desc
+LANG_ENGLISH         "Crash a helicopter by shooting the pilot."
+
+REFERENCE            pitstop
+LANG_ENGLISH         "Pit Stop"
+
+REFERENCE            pitstop_desc
+LANG_ENGLISH         "Stop three APCs with Hadir's sniper rifle."
+
+REFERENCE            platinum
+LANG_ENGLISH         "Tier 1"
+
+REFERENCE            platinum_desc
+LANG_ENGLISH         "Unlock all Trophies"
+
+REFERENCE            playdead
+LANG_ENGLISH         "Play Dead"
+
+REFERENCE            playdead_desc
+LANG_ENGLISH         "Kill all the enemies in the 'Embedded' field of dead bodies."
+
+REFERENCE            singleplayer
+LANG_ENGLISH         "Singleplayer"
+
+REFERENCE            smokedirect
+LANG_ENGLISH         "Good Effect on Target"
+
+REFERENCE            smokedirect_desc
+LANG_ENGLISH         "Kill an enemy with a direct hit from a smoke grenade."
+
+REFERENCE            smokeout
+LANG_ENGLISH         "Circus Tour"
+
+REFERENCE            smokeout_desc
+LANG_ENGLISH         "Kill at least one enemy while inside The Reading Place, Aural Chic, and both Subway undergrounds."
+
+REFERENCE            smuggled
+LANG_ENGLISH         "Smuggled"
+
+REFERENCE            smuggled_desc
+LANG_ENGLISH         "Complete the Smuggler Special Ops mission."
+
+REFERENCE            tunnelrat
+LANG_ENGLISH         "Tunnel Rat"
+
+REFERENCE            tunnelrat_desc
+LANG_ENGLISH         "Complete 'The Wolf's Den' tunnels using only the 1911."
+
+REFERENCE            twobirds
+LANG_ENGLISH         "Two Birds"
+
+REFERENCE            twobirds_desc
+LANG_ENGLISH         "Kill both soldiers with one shot in 'Hometown'."
+
+REFERENCE            vetfinish
+LANG_ENGLISH         "Out of the Fire"
+
+REFERENCE            vetfinish_desc
+LANG_ENGLISH         "Complete every single player mission on Veteran or Realism difficulty."
+
+REFERENCE            wallhax
+LANG_ENGLISH         "Wall Hax"
+
+REFERENCE            wallhax_desc
+LANG_ENGLISH         "Save Alpha 3-2 from being downed."
+
+REFERENCE            waronfore
+LANG_ENGLISH         "Warheads on Foreheads"
+
+REFERENCE            waronfore_desc
+LANG_ENGLISH         "Reach Barkov's lab entrance using only drone strikes."
+
+REFERENCE            wildfire
+LANG_ENGLISH         "Wild Fire"
+
+REFERENCE            wildfire_desc
+LANG_ENGLISH         "Take down a flying helicopter with a molotov."
+
+
+ENDMARKER

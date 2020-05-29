@@ -1,0 +1,1368 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            aerial_cam
+LANG_ENGLISH         "Aerial Camera"
+
+REFERENCE            aerial_camera_default
+LANG_ENGLISH         "Aerial Camera - Default Camera Lock"
+
+REFERENCE            aerial_camera_default_desc
+LANG_ENGLISH         "Choose whether the CoDCaster is automatically tethered to a player or not when switching to the Aerial Camera."
+
+REFERENCE            an_bomb_pickup
+LANG_ENGLISH         "Has Bomb"
+
+REFERENCE            an_bomb_planted
+LANG_ENGLISH         "Bomb planted at &&1"
+
+REFERENCE            an_bomb_planting
+LANG_ENGLISH         "Planting bomb at &&1"
+
+REFERENCE            an_called_a_scorestreak
+LANG_ENGLISH         "&&1"
+
+REFERENCE            an_ctf_captured
+LANG_ENGLISH         "Flag captured"
+
+REFERENCE            an_ctf_killcarrier
+LANG_ENGLISH         "Killed flag carrier"
+
+REFERENCE            an_ctf_pickup
+LANG_ENGLISH         "Picked up flag"
+
+REFERENCE            an_ctf_return
+LANG_ENGLISH         "Flag returned"
+
+REFERENCE            an_defusing
+LANG_ENGLISH         "Defusing"
+
+REFERENCE            an_dom_secure_point
+LANG_ENGLISH         "&&2 Secured &&1"
+
+REFERENCE            an_emp_pickup
+LANG_ENGLISH         "Picked up EMP"
+
+REFERENCE            an_emp_planted
+LANG_ENGLISH         "&&1 Planted the EMP"
+
+REFERENCE            an_first_blood
+LANG_ENGLISH         "First Blood"
+
+REFERENCE            an_gunfight_flag
+LANG_ENGLISH         "Overtime Flag Available"
+
+REFERENCE            an_hardpoint_available
+LANG_ENGLISH         "Hardpoint Available"
+
+REFERENCE            an_hardpoint_capturing
+LANG_ENGLISH         "Capturing"
+
+REFERENCE            an_hardpoint_contest
+LANG_ENGLISH         "Contested"
+
+REFERENCE            an_hardpoint_new
+LANG_ENGLISH         "New Hardpoint"
+
+REFERENCE            an_hq_available
+LANG_ENGLISH         "HQ Available"
+
+REFERENCE            an_hq_captured
+LANG_ENGLISH         "&&1 captured HQ"
+
+REFERENCE            an_hq_destroyed
+LANG_ENGLISH         "HQ Destroyed"
+
+REFERENCE            an_hq_new
+LANG_ENGLISH         "New Headquarter"
+
+REFERENCE            an_killed_defuser
+LANG_ENGLISH         "Defuser killed"
+
+REFERENCE            an_killstreak
+LANG_ENGLISH         "Killing Spree x&&1"
+
+REFERENCE            an_last_man_standing
+LANG_ENGLISH         "Last man standing"
+
+REFERENCE            an_last_player_standing
+LANG_ENGLISH         "Last Alive"
+
+REFERENCE            an_multikill
+LANG_ENGLISH         "Multikill x&&1"
+
+REFERENCE            an_uplink_ball_pickup
+LANG_ENGLISH         "Drone picked up"
+
+REFERENCE            an_uplink_ball_reset
+LANG_ENGLISH         "Drone reset"
+
+REFERENCE            an_uplink_dunk
+LANG_ENGLISH         "2 points"
+
+REFERENCE            an_uplink_long_shot
+LANG_ENGLISH         "Upload"
+
+REFERENCE            announcement_all
+LANG_ENGLISH         "All Announcements"
+
+REFERENCE            announcement_major_only
+LANG_ENGLISH         "Major Only"
+
+REFERENCE            announcement_minor_only
+LANG_ENGLISH         "Minor Only"
+
+REFERENCE            arena_time_health_ended_game
+LANG_ENGLISH         "&&1 HAS MORE HEALTH"
+
+REFERENCE            arena_time_lives_ended_game
+LANG_ENGLISH         "&&1 HAS MORE PLAYERS ALIVE"
+
+REFERENCE            assign_to_team
+LANG_ENGLISH         "Assign to &&1"
+
+REFERENCE            bindings_aerial_camera_focus
+LANG_ENGLISH         "Aerial Camera - Focus Selected Player"
+
+REFERENCE            bindings_aerial_camera_focus_desc
+LANG_ENGLISH         "^5Center^7 the camera on the selected player while using the ^5Aerial Camera^7."
+
+REFERENCE            bindings_aerial_camera_lock
+LANG_ENGLISH         "Aerial Camera - Toggle Camera Follow"
+
+REFERENCE            bindings_aerial_camera_lock_desc
+LANG_ENGLISH         "^5Lock^7 or ^5unlock^7 the camera from the spectated player while using the ^5Aerial Camera^7."
+
+REFERENCE            bindings_aerial_central_player
+LANG_ENGLISH         "Aerial Camera - Spectate Central Player"
+
+REFERENCE            bindings_aerial_central_player_desc
+LANG_ENGLISH         "Center the camera on the player closest to the middle on the screen while using the Aerial Camera."
+
+REFERENCE            bindings_aerialcam
+LANG_ENGLISH         "Aerial Camera"
+
+REFERENCE            bindings_aerialcam_desc
+LANG_ENGLISH         "Switch to an ^5Aerial Camera^7, allowing you spectate the match using a bird-eye view."
+
+REFERENCE            bindings_announcements
+LANG_ENGLISH         "Announcements"
+
+REFERENCE            bindings_announcements_desc
+LANG_ENGLISH         "Display or hide ^5Announcements^7 in the Information Panel.
+
+Announcements include messages about objectives, killing sprees, first bloods and a few other in-game events.
+Announcements are only displayed if the ^5Score Header^7 setting is enabled."
+
+REFERENCE            bindings_campreset1
+LANG_ENGLISH         "Camera Preset 1"
+
+REFERENCE            bindings_campreset10
+LANG_ENGLISH         "Camera Preset 10"
+
+REFERENCE            bindings_campreset10_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 10^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset1_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 1^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset2
+LANG_ENGLISH         "Camera Preset 2"
+
+REFERENCE            bindings_campreset2_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 2^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset3
+LANG_ENGLISH         "Camera Preset 3"
+
+REFERENCE            bindings_campreset3_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 3^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset4
+LANG_ENGLISH         "Camera Preset 4"
+
+REFERENCE            bindings_campreset4_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 4^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset5
+LANG_ENGLISH         "Camera Preset 5"
+
+REFERENCE            bindings_campreset5_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 5^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset6
+LANG_ENGLISH         "Camera Preset 6"
+
+REFERENCE            bindings_campreset6_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 6^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset7
+LANG_ENGLISH         "Camera Preset 7"
+
+REFERENCE            bindings_campreset7_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 7^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset8
+LANG_ENGLISH         "Camera Preset 8"
+
+REFERENCE            bindings_campreset8_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 8^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_campreset9
+LANG_ENGLISH         "Camera Preset 9"
+
+REFERENCE            bindings_campreset9_desc
+LANG_ENGLISH         "Switch to the Camera Preset assigned to ^5Slot 9^7.
+If no preset is available on this slot, this input is not taken into account.
+
+To set a camera preset, hold the Set Camera Preset key and then press a Camera Preset key to assign a camera position to the corresponding slot."
+
+REFERENCE            bindings_dataview
+LANG_ENGLISH         "Data View"
+
+REFERENCE            bindings_dataview_desc
+LANG_ENGLISH         "Display or hide a ^5fullscreen scoreboard^7.
+
+This includes player names, stats, loadouts, killstreaks, perks, map name and game mode."
+
+REFERENCE            bindings_fieldupgradeview
+LANG_ENGLISH         "Field Upgrade View"
+
+REFERENCE            bindings_fieldupgradeview_desc
+LANG_ENGLISH         "Display or hide the ^5Field Upgrade View^7 overlay over the ^5Portrait List^7.
+
+The ^5Field Upgrade View^7 shows the field upgrade selected by the player and whether it's available or not.
+"
+
+REFERENCE            bindings_freecam
+LANG_ENGLISH         "Free Camera"
+
+REFERENCE            bindings_freecam_desc
+LANG_ENGLISH         "Switch to a ^5Free Camera^7, allowing you to fly around the map to spectate the match."
+
+REFERENCE            bindings_fullscreenmap
+LANG_ENGLISH         "Fullscreen Map View"
+
+REFERENCE            bindings_fullscreenmap_desc
+LANG_ENGLISH         "Display or hide the ^5Fullscreen Map View^7."
+
+REFERENCE            bindings_hidelayer
+LANG_ENGLISH         "Toggle CoDCaster HUD"
+
+REFERENCE            bindings_hidelayer_desc
+LANG_ENGLISH         "Display or hide ^5all CoDCaster HUD elements^7."
+
+REFERENCE            bindings_killfeed
+LANG_ENGLISH         "Killfeed"
+
+REFERENCE            bindings_killfeed_desc
+LANG_ENGLISH         "Display or hide the ^5Killfeed^7 which lists all in-game kills."
+
+REFERENCE            bindings_killstreakview
+LANG_ENGLISH         "Killstreak View"
+
+REFERENCE            bindings_killstreakview_desc
+LANG_ENGLISH         "Display or hide the ^5Killstreak View^7 overlay over the ^5Portrait List^7.
+
+The ^5Killstreak View^7 shows every killstreaks selected by the player and whether it's available or not."
+
+REFERENCE            bindings_listenin
+LANG_ENGLISH         "Toggle Listen In"
+
+REFERENCE            bindings_listenin_desc
+LANG_ENGLISH         "Enable or disable listening to the spectated team's voice chat."
+
+REFERENCE            bindings_medals
+LANG_ENGLISH         "Toggle Player Medals"
+
+REFERENCE            bindings_medals_desc
+LANG_ENGLISH         "Display or hide in-game medals earned by the spectated player."
+
+REFERENCE            bindings_minimap
+LANG_ENGLISH         "Minimap"
+
+REFERENCE            bindings_minimap_desc
+LANG_ENGLISH         "Display or hide the ^5Minimap^7."
+
+REFERENCE            bindings_nightvision
+LANG_ENGLISH         "Toggle Night Vision View"
+
+REFERENCE            bindings_nightvision_desc
+LANG_ENGLISH         "Enable or disable Night Vision view.
+This can be useful to follow the action in darker parts of some maps."
+
+REFERENCE            bindings_pause_game
+LANG_ENGLISH         "Pause Game"
+
+REFERENCE            bindings_pause_game_desc
+LANG_ENGLISH         "^5Pause the game^7 for the host and all clients.
+
+The game may only be paused and unpaused by the host of the game."
+
+REFERENCE            bindings_playercard
+LANG_ENGLISH         "Player Card"
+
+REFERENCE            bindings_playercard_desc
+LANG_ENGLISH         "Display or hide the ^5Player Card^7.
+
+This widget displays the player name, operator, team logo, equipped weapon and ammo."
+
+REFERENCE            bindings_playerhud
+LANG_ENGLISH         "Player HUD"
+
+REFERENCE            bindings_playerhud_desc
+LANG_ENGLISH         "Display or hide Player HUD elements."
+
+REFERENCE            bindings_playernumbers
+LANG_ENGLISH         "Player Numbers"
+
+REFERENCE            bindings_playernumbers_desc
+LANG_ENGLISH         "Display or hide ^5Player Numbers^7 on the ^5Portrait List^7."
+
+REFERENCE            bindings_playerstats
+LANG_ENGLISH         "Toggle Player Stats"
+
+REFERENCE            bindings_playerstats_desc
+LANG_ENGLISH         "Display or hide brief player stats."
+
+REFERENCE            bindings_scoreheader
+LANG_ENGLISH         "Score Header"
+
+REFERENCE            bindings_scoreheader_desc
+LANG_ENGLISH         "Display or hide the ^5Score Header^7 which hosts team scores, game and objective clocks, and the information panel."
+
+REFERENCE            bindings_selectnext
+LANG_ENGLISH         "Select Next Player"
+
+REFERENCE            bindings_selectnext_desc
+LANG_ENGLISH         "Move the ^5Player Selector^7 on the next slot of the ^5Team List^7."
+
+REFERENCE            bindings_selectprevious
+LANG_ENGLISH         "Select Previous Player"
+
+REFERENCE            bindings_selectprevious_desc
+LANG_ENGLISH         "Move the ^5Player Selector^7 on the previous slot of the ^5Team List^7."
+
+REFERENCE            bindings_selectspectate
+LANG_ENGLISH         "Spectate Selected Player"
+
+REFERENCE            bindings_selectspectate_desc
+LANG_ENGLISH         "Spectate the player being highlighted currently by the ^5Player Selector^7."
+
+REFERENCE            bindings_set_camera_preset
+LANG_ENGLISH         "Set Camera Preset"
+
+REFERENCE            bindings_set_camera_preset_desc
+LANG_ENGLISH         "Hold this key and press one of the Camera Preset keys to save a camera preset to the corresponding slot.
+You can then press the camera preset slot's key to move the Free Camera to this location during a match."
+
+REFERENCE            bindings_settingsmenu
+LANG_ENGLISH         "Open CoDCaster Options"
+
+REFERENCE            bindings_settingsmenu_desc
+LANG_ENGLISH         "Opens the ^5CoDCaster options^7 menu tab."
+
+REFERENCE            bindings_spectate1
+LANG_ENGLISH         "Spectate Player 1"
+
+REFERENCE            bindings_spectate10
+LANG_ENGLISH         "Spectate Player 10"
+
+REFERENCE            bindings_spectate10_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 10^7."
+
+REFERENCE            bindings_spectate1_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 1^7."
+
+REFERENCE            bindings_spectate2
+LANG_ENGLISH         "Spectate Player 2"
+
+REFERENCE            bindings_spectate2_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 2^7."
+
+REFERENCE            bindings_spectate3
+LANG_ENGLISH         "Spectate Player 3"
+
+REFERENCE            bindings_spectate3_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 3^7."
+
+REFERENCE            bindings_spectate4
+LANG_ENGLISH         "Spectate Player 4"
+
+REFERENCE            bindings_spectate4_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 4^7."
+
+REFERENCE            bindings_spectate5
+LANG_ENGLISH         "Spectate Player 5"
+
+REFERENCE            bindings_spectate5_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 5^7."
+
+REFERENCE            bindings_spectate6
+LANG_ENGLISH         "Spectate Player 6"
+
+REFERENCE            bindings_spectate6_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 6^7."
+
+REFERENCE            bindings_spectate7
+LANG_ENGLISH         "Spectate Player 7"
+
+REFERENCE            bindings_spectate7_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 7^7."
+
+REFERENCE            bindings_spectate8
+LANG_ENGLISH         "Spectate Player 8"
+
+REFERENCE            bindings_spectate8_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 8^7."
+
+REFERENCE            bindings_spectate9
+LANG_ENGLISH         "Spectate Player 9"
+
+REFERENCE            bindings_spectate9_desc
+LANG_ENGLISH         "Spectate the player in ^5Slot 9^7."
+
+REFERENCE            bindings_spectatenext
+LANG_ENGLISH         "Spectate Next Player"
+
+REFERENCE            bindings_spectatenext_desc
+LANG_ENGLISH         "Spectate the next player in the ^5Team List^7."
+
+REFERENCE            bindings_spectateprevious
+LANG_ENGLISH         "Spectate Previous Player"
+
+REFERENCE            bindings_spectateprevious_desc
+LANG_ENGLISH         "Spectate the previous player in the ^5Team List^7."
+
+REFERENCE            bindings_subcat_title
+LANG_ENGLISH         "CoDCaster Keybinds"
+
+REFERENCE            bindings_teamlist
+LANG_ENGLISH         "Team List"
+
+REFERENCE            bindings_teamlist_desc
+LANG_ENGLISH         "Display or hide the ^5Team List^7.
+
+When Enabled, this widget displays the ^5Portrait List^7 or the ^5Player List^7.
+The displayed list can be set using the ^5Team List Type^7 setting in the HUD category."
+
+REFERENCE            bindings_teamlistype
+LANG_ENGLISH         "Team List Type"
+
+REFERENCE            bindings_teamlistype_desc
+LANG_ENGLISH         "Switch between displaying the ^5Portrait List^7 or the ^5Player List^7 in the ^5Team List^7.
+
+The ^5Portrait List^7 displays operator portraits.
+The ^5Player List^7 displays brief player stats."
+
+REFERENCE            bindings_thirdperson
+LANG_ENGLISH         "Third Person Camera"
+
+REFERENCE            bindings_thirdperson_desc
+LANG_ENGLISH         "Switch to a ^5Third Person camera^7 on the spectated player."
+
+REFERENCE            bindings_title
+LANG_ENGLISH         "KEYBINDS"
+
+REFERENCE            bindings_xray
+LANG_ENGLISH         "XRAY"
+
+REFERENCE            bindings_xray_desc
+LANG_ENGLISH         "Display or hide XRAY on players and objectives.
+
+XRAY Type and First Person Weapon XRAY settings can be adjusted in the Misc category."
+
+REFERENCE            bloodoption
+LANG_ENGLISH         "In-game Blood"
+
+REFERENCE            bloodoption_desc
+LANG_ENGLISH         "Display or hide ^5in-game blood^7."
+
+REFERENCE            camera_keybinds
+LANG_ENGLISH         "Camera Keybinds"
+
+REFERENCE            camera_settings
+LANG_ENGLISH         "Camera Settings"
+
+REFERENCE            camera_smoothing
+LANG_ENGLISH         "Camera Smoothing"
+
+REFERENCE            camera_smoothing_desc
+LANG_ENGLISH         "Enable or disable camera movement smoothing on the Free Camera and the Aerial Camera.
+
+Camera Smoothing averages the movement of the camera based on the last two frames' average, resulting in a smoother but less precise camera movement."
+
+REFERENCE            caps
+LANG_ENGLISH         "CODCASTER"
+
+REFERENCE            codcaster_button_disabled
+LANG_ENGLISH         "Change your team to CoDCaster to unlock."
+
+REFERENCE            codcaster_paused_game_text
+LANG_ENGLISH         "Game Paused"
+
+REFERENCE            codcaster_paused_game_title
+LANG_ENGLISH         "Game Paused"
+
+REFERENCE            codcaster_title
+LANG_ENGLISH         "CoDCaster"
+
+REFERENCE            codecaster_resume_button_label
+LANG_ENGLISH         "Resume Game"
+
+REFERENCE            column_captures
+LANG_ENGLISH         "Captures"
+
+REFERENCE            column_kills_deaths
+LANG_ENGLISH         "K / D"
+
+REFERENCE            column_ratio
+LANG_ENGLISH         "Ratio"
+
+REFERENCE            column_scores
+LANG_ENGLISH         "Scores"
+
+REFERENCE            column_streak
+LANG_ENGLISH         "Streak"
+
+REFERENCE            column_time
+LANG_ENGLISH         "Time"
+
+REFERENCE            column_uplinks
+LANG_ENGLISH         "Uplinks"
+
+REFERENCE            default_camera
+LANG_ENGLISH         "Default Camera"
+
+REFERENCE            display_settings
+LANG_ENGLISH         "Display Settings"
+
+REFERENCE            display_settings_caps
+LANG_ENGLISH         "DISPLAY SETTINGS"
+
+REFERENCE            display_settings_desc
+LANG_ENGLISH         "Control which Display Settings are enabled by default when CODcasting."
+
+REFERENCE            ds_announcement
+LANG_ENGLISH         "Announcements"
+
+REFERENCE            ds_announcement_desc
+LANG_ENGLISH         "Display or hide ^5Announcements^7 in the Information Panel.
+
+Announcements include messages about objectives, killing sprees, first bloods and a few other in-game events.
+Announcements are only displayed if the ^5Score Header^7 setting is enabled."
+
+REFERENCE            ds_callout_cards
+LANG_ENGLISH         "Callout Cards"
+
+REFERENCE            ds_callout_cards_desc
+LANG_ENGLISH         "Display identity cards that call out team
+actions and who was killed."
+
+REFERENCE            ds_cameraicon
+LANG_ENGLISH         "Camera Icons"
+
+REFERENCE            ds_cameraicon_desc
+LANG_ENGLISH         "Display camera icons on the minimap"
+
+REFERENCE            ds_field_upgrade
+LANG_ENGLISH         "Field Upgrades Notifications"
+
+REFERENCE            ds_field_upgrade_desc
+LANG_ENGLISH         "Display or hide ^5Field Upgrades Notifications^7 that appear over the ^5Portrait List^7 when a player earns it."
+
+REFERENCE            ds_flip_score_panel
+LANG_ENGLISH         "Flip Score Panel"
+
+REFERENCE            ds_flip_score_panel_desc
+LANG_ENGLISH         "Invert the ordering of Team 1 and 2."
+
+REFERENCE            ds_inventory
+LANG_ENGLISH         "Ammo Counter"
+
+REFERENCE            ds_inventory_desc
+LANG_ENGLISH         "Display the current weapon's ammo."
+
+REFERENCE            ds_killfeed
+LANG_ENGLISH         "Killfeed"
+
+REFERENCE            ds_killfeed_desc
+LANG_ENGLISH         "Display or hide the ^5Killfeed^7 which lists all in-game kills."
+
+REFERENCE            ds_killstreaks
+LANG_ENGLISH         "Killstreaks"
+
+REFERENCE            ds_killstreaks_desc
+LANG_ENGLISH         "Choose whether or not you can see the player's currently equipped Killstreaks."
+
+REFERENCE            ds_killstreaks_notifications
+LANG_ENGLISH         "Killstreak Notifications"
+
+REFERENCE            ds_killstreaks_notifications_desc
+LANG_ENGLISH         "Display or hide ^5Killstreaks Notifications^7 that appear over the ^5Portrait List^7 when a player earns them."
+
+REFERENCE            ds_minimap
+LANG_ENGLISH         "Minimap"
+
+REFERENCE            ds_minimap_desc
+LANG_ENGLISH         "Display or hide the ^5Minimap^7."
+
+REFERENCE            ds_objective_status
+LANG_ENGLISH         "Objective Status"
+
+REFERENCE            ds_objective_status_desc
+LANG_ENGLISH         "Display objective game modes' status."
+
+REFERENCE            ds_perks
+LANG_ENGLISH         "Perks"
+
+REFERENCE            ds_perks_desc
+LANG_ENGLISH         "Display Perks on spawn, all the time, in their standard spot in the HUD or never."
+
+REFERENCE            ds_player_notifications
+LANG_ENGLISH         "Medals Notifications"
+
+REFERENCE            ds_player_notifications_desc
+LANG_ENGLISH         "Display the notifications for Medals."
+
+REFERENCE            ds_playerpoints
+LANG_ENGLISH         "Player Points"
+
+REFERENCE            ds_playerpoints_desc
+LANG_ENGLISH         "Display the points earned by the player."
+
+REFERENCE            ds_scorestreak_notifications
+LANG_ENGLISH         "Scorestreak Notifications"
+
+REFERENCE            ds_scorestreak_notifications_desc
+LANG_ENGLISH         "Display the notification message when a
+Scorestreak is earned."
+
+REFERENCE            ds_scorestreaks
+LANG_ENGLISH         "Scorestreaks"
+
+REFERENCE            ds_scorestreaks_desc
+LANG_ENGLISH         "Choose whether or not you can see the player's currently equipped Scorestreaks."
+
+REFERENCE            ds_specialist
+LANG_ENGLISH         "Specialist"
+
+REFERENCE            ds_specialist_notifications
+LANG_ENGLISH         "Specialist Perk Notifications"
+
+REFERENCE            ds_specialist_notifications_desc
+LANG_ENGLISH         "Display or hide ^5Specialist Perks Notifications^7 that appear over the ^5Portrait List^7 when a player earns them."
+
+REFERENCE            ds_team_identity
+LANG_ENGLISH         "Team Identity"
+
+REFERENCE            ds_team_identity_desc
+LANG_ENGLISH         "Display Team Logos and Names."
+
+REFERENCE            ds_team_score
+LANG_ENGLISH         "Team Score"
+
+REFERENCE            ds_team_score_desc
+LANG_ENGLISH         "Display the standard team score HUD."
+
+REFERENCE            ds_toolbar
+LANG_ENGLISH         "Display Toolbar"
+
+REFERENCE            ds_toolbar_desc
+LANG_ENGLISH         "Choose whether or not to show the CoDCaster toolbar."
+
+REFERENCE            ds_voip_dock
+LANG_ENGLISH         "Voice Icon"
+
+REFERENCE            ds_voip_dock_desc
+LANG_ENGLISH         "Display the names of CoDCasters when speaking. This will also display players while the Listen In setting is enabled."
+
+REFERENCE            ds_waypoint_markers
+LANG_ENGLISH         "Waypoint Markers"
+
+REFERENCE            ds_waypoint_markers_desc
+LANG_ENGLISH         "Display or hide objectives ^5Waypoint Markers^7."
+
+REFERENCE            ds_xray
+LANG_ENGLISH         "XRAY Type"
+
+REFERENCE            ds_xray_desc
+LANG_ENGLISH         "Display outlines on the ^5allied^7 team, the ^5enemy^7 team or ^5both^7 teams."
+
+REFERENCE            edit_settings
+LANG_ENGLISH         "CoDCaster Settings"
+
+REFERENCE            edit_settings_tool_tip
+LANG_ENGLISH         "Set your CoDCaster settings."
+
+REFERENCE            enable_follow_drone
+LANG_ENGLISH         "Enable follow drone"
+
+REFERENCE            end_result_win
+LANG_ENGLISH         "&&1 WINS"
+
+REFERENCE            end_result_win_plural
+LANG_ENGLISH         "&&1 WIN"
+
+REFERENCE            faction_eliminated
+LANG_ENGLISH         "&&1 ELIMINATED"
+
+REFERENCE            faction_forfeited
+LANG_ENGLISH         "&&1 FORFEITED"
+
+REFERENCE            first_person_xray
+LANG_ENGLISH         "First Person Weapon XRAY"
+
+REFERENCE            first_person_xray_desc
+LANG_ENGLISH         "Display or hide ^5XRAY^7 outlines on a player's weapon in First Person view for a few seconds when switching players.
+
+This setting is independent from the other XRAY settings."
+
+REFERENCE            fly_down_zoom_in
+LANG_ENGLISH         "Fly Down/Zoom In"
+
+REFERENCE            fly_down_zoom_in_desc
+LANG_ENGLISH         "Hold to fly downward while in ^5Free Camera^7.
+Hold to Zoom In while in ^5Aerial Camera^7."
+
+REFERENCE            fly_up_zoom_out
+LANG_ENGLISH         "Fly Up/Zoom Out"
+
+REFERENCE            fly_up_zoom_out_desc
+LANG_ENGLISH         "Hold to fly upward while in ^5Free Camera^7.
+Hold to Zoom Out while in ^5Aerial Camera^7."
+
+REFERENCE            follow
+LANG_ENGLISH         "Follow"
+
+REFERENCE            follow_drone_enabled
+LANG_ENGLISH         "Follow drone enabled"
+
+REFERENCE            follower
+LANG_ENGLISH         "Follower"
+
+REFERENCE            follower_caps
+LANG_ENGLISH         "FOLLOWER"
+
+REFERENCE            free_camera_high_factor
+LANG_ENGLISH         "Free Camera High Speed Multiplier"
+
+REFERENCE            free_camera_high_factor_desc
+LANG_ENGLISH         "Multiples the movement speed for the slow movement of the ^5Free Camera^7."
+
+REFERENCE            free_camera_input_type
+LANG_ENGLISH         "Free Camera Speed Modifier Input Type"
+
+REFERENCE            free_camera_input_type_desc
+LANG_ENGLISH         "Use ^5Hold^7 or ^5Toggle^7 behavior when using the slow or high speed controls for the ^5Free Camera^7."
+
+REFERENCE            free_camera_slow_factor
+LANG_ENGLISH         "Free Camera Slow Speed Multiplier"
+
+REFERENCE            free_camera_slow_factor_desc
+LANG_ENGLISH         "Multiples the movement speed for the slow movement of the ^5Free Camera^7."
+
+REFERENCE            free_camera_smoothing
+LANG_ENGLISH         "Free Camera Smoothing"
+
+REFERENCE            free_camera_smoothing_desc
+LANG_ENGLISH         "Adjust the ^5Free Camera^7 movement smoothing."
+
+REFERENCE            free_camera_speed
+LANG_ENGLISH         "Free Camera Movement Speed"
+
+REFERENCE            free_camera_speed_desc
+LANG_ENGLISH         "Adjust the ^5Free Camera^7 default movement speed."
+
+REFERENCE            freecam
+LANG_ENGLISH         "Free Camera"
+
+REFERENCE            freecam_preset_toast
+LANG_ENGLISH         "Saved"
+
+REFERENCE            freecam_preset_toast_header
+LANG_ENGLISH         "Free Camera Presets"
+
+REFERENCE            hide_followers
+LANG_ENGLISH         "Hide followers"
+
+REFERENCE            highlight_player
+LANG_ENGLISH         "Highlight Player"
+
+REFERENCE            highlight_player_button
+LANG_ENGLISH         "[{dpad_vertical}]"
+
+REFERENCE            highlight_player_pc
+LANG_ENGLISH         "Arrow Up/Down"
+
+REFERENCE            hud_caps
+LANG_ENGLISH         "HUD"
+
+REFERENCE            hud_settings
+LANG_ENGLISH         "HUD Settings"
+
+REFERENCE            kb_comma
+LANG_ENGLISH         ","
+
+REFERENCE            kb_cyclecameras
+LANG_ENGLISH         "Cycle Cameras"
+
+REFERENCE            kb_dot
+LANG_ENGLISH         "."
+
+REFERENCE            kb_loadout
+LANG_ENGLISH         "Loadout"
+
+REFERENCE            kb_loadoutsettings
+LANG_ENGLISH         "Loadout Settings"
+
+REFERENCE            kb_map
+LANG_ENGLISH         "Map"
+
+REFERENCE            kb_menu
+LANG_ENGLISH         "Menu"
+
+REFERENCE            kb_nextliveplayer
+LANG_ENGLISH         "Jump To Next Live Player"
+
+REFERENCE            kb_nextplayer
+LANG_ENGLISH         "Next Player"
+
+REFERENCE            kb_perks
+LANG_ENGLISH         "Perks"
+
+REFERENCE            kb_playercard
+LANG_ENGLISH         "Player Card"
+
+REFERENCE            kb_playerhud
+LANG_ENGLISH         "Player HUD"
+
+REFERENCE            kb_playerlist
+LANG_ENGLISH         "Player List"
+
+REFERENCE            kb_playernumbers
+LANG_ENGLISH         "Player Numbers"
+
+REFERENCE            kb_previousplayer
+LANG_ENGLISH         "Previous Player"
+
+REFERENCE            kb_quicksettings
+LANG_ENGLISH         "Quick Settings"
+
+REFERENCE            kb_scoreboard
+LANG_ENGLISH         "Scoreboard"
+
+REFERENCE            kb_scorepanel
+LANG_ENGLISH         "Score Panel"
+
+REFERENCE            kb_settings
+LANG_ENGLISH         "Settings"
+
+REFERENCE            kb_shortcuts
+LANG_ENGLISH         "K"
+
+REFERENCE            kb_team1
+LANG_ENGLISH         "TEAM #1 Players"
+
+REFERENCE            kb_team2
+LANG_ENGLISH         "TEAM #2 Players"
+
+REFERENCE            kb_thirdperson
+LANG_ENGLISH         "Third Person"
+
+REFERENCE            kb_toolbar
+LANG_ENGLISH         "Toolbar"
+
+REFERENCE            kb_xray
+LANG_ENGLISH         "XRAY"
+
+REFERENCE            keyboard_shortcuts
+LANG_ENGLISH         "Keyboard Shortcuts"
+
+REFERENCE            keyboard_shortcuts_desc
+LANG_ENGLISH         "View the keyboard shortcuts layout."
+
+REFERENCE            loadout
+LANG_ENGLISH         "Loadout"
+
+REFERENCE            loadout_settings
+LANG_ENGLISH         "Loadout Settings"
+
+REFERENCE            loadout_settings_caps
+LANG_ENGLISH         "LOADOUT SETTINGS"
+
+REFERENCE            loadout_settings_desc
+LANG_ENGLISH         "Control which Loadout Settings are enabled by default when CODcasting."
+
+REFERENCE            ls_equipment
+LANG_ENGLISH         "Equipment"
+
+REFERENCE            ls_equipment_desc
+LANG_ENGLISH         "Display Lethals and Tacticals."
+
+REFERENCE            ls_perks
+LANG_ENGLISH         "Perks"
+
+REFERENCE            ls_perks_desc
+LANG_ENGLISH         "Display Perks."
+
+REFERENCE            ls_player_operator
+LANG_ENGLISH         "Player Operator"
+
+REFERENCE            ls_player_operator_desc
+LANG_ENGLISH         "Display the player's Operator."
+
+REFERENCE            ls_player_specialist
+LANG_ENGLISH         "Player Rig"
+
+REFERENCE            ls_player_specialist_desc
+LANG_ENGLISH         "Display the Player Rig."
+
+REFERENCE            ls_primary_weapon
+LANG_ENGLISH         "Primary Weapon"
+
+REFERENCE            ls_primary_weapon_attachments
+LANG_ENGLISH         "Primary Weapon Attachments"
+
+REFERENCE            ls_primary_weapon_attachments_desc
+LANG_ENGLISH         "Display Primary Weapon Attachments."
+
+REFERENCE            ls_primary_weapon_desc
+LANG_ENGLISH         "Display Primary weapons."
+
+REFERENCE            ls_secondary_weapon
+LANG_ENGLISH         "Secondary Weapon"
+
+REFERENCE            ls_secondary_weapon_attachments
+LANG_ENGLISH         "Secondary Weapon Attachments"
+
+REFERENCE            ls_secondary_weapon_attachments_desc
+LANG_ENGLISH         "Display Secondary Weapon Attachments."
+
+REFERENCE            ls_secondary_weapon_desc
+LANG_ENGLISH         "Display Secondary weapons."
+
+REFERENCE            ls_specialist_weapon_ability
+LANG_ENGLISH         "Rig Payload and Trait"
+
+REFERENCE            ls_specialist_weapon_ability_desc
+LANG_ENGLISH         "Display Rig Payload and Trait."
+
+REFERENCE            ls_wildcards
+LANG_ENGLISH         "Wildcards"
+
+REFERENCE            ls_wildcards_desc
+LANG_ENGLISH         "Display the Wildcards."
+
+REFERENCE            minimap_full_view
+LANG_ENGLISH         "Full View"
+
+REFERENCE            minimap_standard
+LANG_ENGLISH         "Standard"
+
+REFERENCE            misc_settings_caps
+LANG_ENGLISH         "MISC"
+
+REFERENCE            move_back_desc
+LANG_ENGLISH         "Hold to ^5Move Backward^7 while using the Free Camera or the Aerial Camera."
+
+REFERENCE            move_down
+LANG_ENGLISH         "Move down"
+
+REFERENCE            move_forward_desc
+LANG_ENGLISH         "Hold to ^5Move Forward^7 while using the Free Camera or the Aerial Camera."
+
+REFERENCE            move_left_desc
+LANG_ENGLISH         "Hold to ^5Move Left^7 while using the Free Camera or the Aerial Camera."
+
+REFERENCE            move_right_desc
+LANG_ENGLISH         "Hold to ^5Move Right^7 while using the Free Camera or the Aerial Camera."
+
+REFERENCE            move_up
+LANG_ENGLISH         "Move up"
+
+REFERENCE            perks_alwayson
+LANG_ENGLISH         "Always On"
+
+REFERENCE            perks_onspawn
+LANG_ENGLISH         "On Spawn"
+
+REFERENCE            player_numbers
+LANG_ENGLISH         "Player Numbers"
+
+REFERENCE            player_numbers_desc
+LANG_ENGLISH         "Display or hide ^5Player Numbers^7 on the ^5Portrait List^7."
+
+REFERENCE            player_numbers_type
+LANG_ENGLISH         "Player Number Type"
+
+REFERENCE            player_numbers_type_default
+LANG_ENGLISH         "Default Player Numbers"
+
+REFERENCE            player_numbers_type_desc
+LANG_ENGLISH         "Display either ^5Default Player Numbers^7 or replace them with ^5Jersey Player Numbers^7."
+
+REFERENCE            player_numbers_type_jersey
+LANG_ENGLISH         "Jersey Player Numbers"
+
+REFERENCE            player_order
+LANG_ENGLISH         "Player Order"
+
+REFERENCE            player_order_desc
+LANG_ENGLISH         "Manage the player order which will be used when CODcasting."
+
+REFERENCE            playerlist_toggle
+LANG_ENGLISH         "Player List"
+
+REFERENCE            portraitlist_toggle
+LANG_ENGLISH         "Portrait List"
+
+REFERENCE            qs_listen_in
+LANG_ENGLISH         "Listen In"
+
+REFERENCE            qs_listen_in_hint
+LANG_ENGLISH         "Listen in to the team of the spectated player."
+
+REFERENCE            qs_player_card
+LANG_ENGLISH         "Player Card"
+
+REFERENCE            qs_player_card_hint
+LANG_ENGLISH         "Display or hide the ^5Player Card^7.
+
+This widget displays the player name, operator, team logo, equipped weapon and ammo."
+
+REFERENCE            qs_player_card_hud
+LANG_ENGLISH         "QS Player Card Hud"
+
+REFERENCE            qs_player_hud
+LANG_ENGLISH         "Player HUD"
+
+REFERENCE            qs_player_hud_hint
+LANG_ENGLISH         "Display the in-game player HUD as configured in Settings."
+
+REFERENCE            qs_player_list
+LANG_ENGLISH         "Team List Type"
+
+REFERENCE            qs_player_list_hint
+LANG_ENGLISH         "Display either the ^5Portrait List^7 or the ^5Player List^7 in the ^5Team List^7.
+
+The ^5Portrait List^7 displays operator portraits.
+The ^5Player List^7 displays brief player stats."
+
+REFERENCE            qs_playernameplates
+LANG_ENGLISH         "Player Nameplates"
+
+REFERENCE            qs_playernameplates_desc
+LANG_ENGLISH         "Display or hide ^5Player Names^7 over in-game operators."
+
+REFERENCE            qs_playernameplates_hint
+LANG_ENGLISH         "QS Player Name Plates Hint"
+
+REFERENCE            qs_score_panel
+LANG_ENGLISH         "Score Header"
+
+REFERENCE            qs_score_panel_hint
+LANG_ENGLISH         "Display or hide the ^5Score Header^7 which hosts team scores, game and objective clocks, and the information panel."
+
+REFERENCE            qs_screen_border
+LANG_ENGLISH         "Screen Border"
+
+REFERENCE            qs_screen_border_hint
+LANG_ENGLISH         "Briefly display a team colored border around the screen when switching players."
+
+REFERENCE            qs_team_list
+LANG_ENGLISH         "Team List"
+
+REFERENCE            qs_team_list_desc
+LANG_ENGLISH         "Display or hide the ^5Team List^7.
+
+When Enabled, this widget displays the ^5Portrait List^7 or the ^5Player List^7.
+The displayed list can be set using the ^5Team List Type^7 option."
+
+REFERENCE            qs_third_person
+LANG_ENGLISH         "Third Person"
+
+REFERENCE            qs_third_person_hint
+LANG_ENGLISH         "Puts camera in 3rd person perspective."
+
+REFERENCE            qs_xray
+LANG_ENGLISH         "XRAY"
+
+REFERENCE            qs_xray_desc
+LANG_ENGLISH         "Toggle XRAY for players and objectives. XRAY type can be changed in the Display Settings sub-category."
+
+REFERENCE            qs_xray_hint
+LANG_ENGLISH         "Display or hide ^5XRAY^7 outlines for players and objectives.
+
+XRAY Type can be changed using the ^5XRAY Type^7 setting below."
+
+REFERENCE            quick_settings
+LANG_ENGLISH         "Quick Settings"
+
+REFERENCE            quick_settings_caps
+LANG_ENGLISH         "QUICK SETTINGS"
+
+REFERENCE            quick_settings_desc
+LANG_ENGLISH         "Control which Quick Settings are enabled by default when CODcasting."
+
+REFERENCE            reorder_lobby
+LANG_ENGLISH         "Reorder lobby"
+
+REFERENCE            reorder_lobby_tool_tip
+LANG_ENGLISH         "Automatically reorder lobby from order specified in broadcast files"
+
+REFERENCE            select_player
+LANG_ENGLISH         "Select Player"
+
+REFERENCE            selected_logo
+LANG_ENGLISH         "Selected Logo"
+
+REFERENCE            settings
+LANG_ENGLISH         "Settings"
+
+REFERENCE            show_followers
+LANG_ENGLISH         "Show followers"
+
+REFERENCE            slow_down
+LANG_ENGLISH         "Slow Down"
+
+REFERENCE            slow_down_desc
+LANG_ENGLISH         "Hold to use a ^5slower movement speed^7 in Free Camera.
+Release to return to normal Free Camera movement speed."
+
+REFERENCE            spectating
+LANG_ENGLISH         "Spectating"
+
+REFERENCE            speed_up
+LANG_ENGLISH         "Speed Up"
+
+REFERENCE            speed_up_desc
+LANG_ENGLISH         "Hold to use a ^5faster movement speed^7 in Free Camera.
+Release to return to normal Free Camera movement speed."
+
+REFERENCE            starting_camera
+LANG_ENGLISH         "Starting Camera"
+
+REFERENCE            starting_camera_desc
+LANG_ENGLISH         "Choose whether the match starts using the ^5Default Camera^7, the ^5Free Camera^7 or the ^5Aerial Camera^7."
+
+REFERENCE            stats_damage
+LANG_ENGLISH         "DMG"
+
+REFERENCE            swap_teams
+LANG_ENGLISH         "Swap Teams Settings"
+
+REFERENCE            swap_teams_desc
+LANG_ENGLISH         "Swap the name, icon and color of both teams."
+
+REFERENCE            team1
+LANG_ENGLISH         "Team 1"
+
+REFERENCE            team1_color
+LANG_ENGLISH         "Team 1 Color"
+
+REFERENCE            team1_color_desc
+LANG_ENGLISH         "Change Team 1's color."
+
+REFERENCE            team1_logo
+LANG_ENGLISH         "Team 1 Logo"
+
+REFERENCE            team1_logo_desc
+LANG_ENGLISH         "Change Team 1's logo."
+
+REFERENCE            team1_name
+LANG_ENGLISH         "Team 1 Name"
+
+REFERENCE            team1_name_desc
+LANG_ENGLISH         "Change Team 1's name."
+
+REFERENCE            team1_num_alive
+LANG_ENGLISH         "$(scoreboard.team2.numAlive) Alive"
+
+REFERENCE            team1_settings
+LANG_ENGLISH         "Team 1 Settings"
+
+REFERENCE            team1_settings_desc
+LANG_ENGLISH         "Modify the name, icon and color for Team 1."
+
+REFERENCE            team2
+LANG_ENGLISH         "Team 2"
+
+REFERENCE            team2_color
+LANG_ENGLISH         "Team 2 Color"
+
+REFERENCE            team2_color_desc
+LANG_ENGLISH         "Change Team 2's color."
+
+REFERENCE            team2_logo
+LANG_ENGLISH         "Team 2 Logo"
+
+REFERENCE            team2_logo_desc
+LANG_ENGLISH         "Change Team 2's logo."
+
+REFERENCE            team2_name
+LANG_ENGLISH         "Team 2 Name"
+
+REFERENCE            team2_name_desc
+LANG_ENGLISH         "Change Team 2's name."
+
+REFERENCE            team2_num_alive
+LANG_ENGLISH         "$(scoreboard.team3.numAlive) Alive"
+
+REFERENCE            team2_settings
+LANG_ENGLISH         "Team 2 Settings"
+
+REFERENCE            team2_settings_desc
+LANG_ENGLISH         "Modify the name, icon and color for Team 2."
+
+REFERENCE            team_01
+LANG_ENGLISH         "Team Wolf"
+
+REFERENCE            team_02
+LANG_ENGLISH         "Team Snake"
+
+REFERENCE            team_03
+LANG_ENGLISH         "Team Spider"
+
+REFERENCE            team_04
+LANG_ENGLISH         "Team Reaper"
+
+REFERENCE            team_05
+LANG_ENGLISH         "Team King"
+
+REFERENCE            team_caps
+LANG_ENGLISH         "TEAM"
+
+REFERENCE            team_color_colon
+LANG_ENGLISH         "Color:"
+
+REFERENCE            team_color_preview
+LANG_ENGLISH         "Color Preview"
+
+REFERENCE            team_identity
+LANG_ENGLISH         "Team Identity"
+
+REFERENCE            team_identity_custom
+LANG_ENGLISH         "Custom"
+
+REFERENCE            team_identity_desc
+LANG_ENGLISH         "Choose default ^5Factions^7 team identities or use ^5Custom^7 team logos, names and colors."
+
+REFERENCE            team_identity_factions
+LANG_ENGLISH         "Factions"
+
+REFERENCE            team_logo_colon
+LANG_ENGLISH         "Logo:"
+
+REFERENCE            team_name
+LANG_ENGLISH         "Team Name"
+
+REFERENCE            team_name_100_thieves
+LANG_ENGLISH         "100 Thieves"
+
+REFERENCE            team_name_100_thieves_short
+LANG_ENGLISH         "100T"
+
+REFERENCE            team_name_colon
+LANG_ENGLISH         "Name:"
+
+REFERENCE            team_name_team_envy
+LANG_ENGLISH         "Team Envy"
+
+REFERENCE            team_name_team_envy_short
+LANG_ENGLISH         "Envy"
+
+REFERENCE            team_primary_color_colon
+LANG_ENGLISH         "Primary Color:"
+
+REFERENCE            team_secondary_color_colon
+LANG_ENGLISH         "Secondary Color:"
+
+REFERENCE            team_settings
+LANG_ENGLISH         "Team Settings"
+
+REFERENCE            team_settings_caps
+LANG_ENGLISH         "TEAM SETTINGS"
+
+REFERENCE            team_settings_tips_desc
+LANG_ENGLISH         "- Team names allow up to 30 characters in length.
+
+- Primary colors are the main colors used to identify teams on various CoDCaster elements. This includes the Portrait List, Player Card, Score Header, XRAYS, Announcements, Minimap arrows and more.
+
+- Secondary colors are used on detailing elements including Player Names the Team List and the Player Card, on Announcements and Objective Waypoints letters.
+
+- Pick primary and secondary colors that have good contrast between them.
+
+- Avoid color combinations that are unfriendly for colorblind viewers such as using red and green."
+
+REFERENCE            team_settings_tips_title
+LANG_ENGLISH         "Team Settings Tips"
+
+REFERENCE            ticker_space
+LANG_ENGLISH         "Bottom Elements Offset"
+
+REFERENCE            ticker_space_desc
+LANG_ENGLISH         "Offset the ^5bottom CoDCaster elements^7 toward the top of the screen.
+
+This allows CoDCasters to display their own overlays at the bottom of the screen without the need to hide CoDCaster elements."
+
+REFERENCE            time_to_beat_ctf_ended_game
+LANG_ENGLISH         "&&1 WAS FASTEST TO CAPTURE THE FLAG"
+
+REFERENCE            time_to_beat_uplink_ended_game
+LANG_ENGLISH         "&&1 WAS FASTEST TO UPLINK"
+
+REFERENCE            visual_settings
+LANG_ENGLISH         "Visual Settings"
+
+REFERENCE            visual_settings_caps
+LANG_ENGLISH         "VISUAL SETTINGS"
+
+REFERENCE            voice_settings
+LANG_ENGLISH         "Voice Settings"
+
+REFERENCE            voice_settings_caps
+LANG_ENGLISH         "VOICE SETTINGS"
+
+REFERENCE            xray_both
+LANG_ENGLISH         "Both"
+
+REFERENCE            xray_enemy
+LANG_ENGLISH         "Enemy"
+
+REFERENCE            xray_friendly
+LANG_ENGLISH         "Allied"
+
+REFERENCE            xray_none
+LANG_ENGLISH         "None"
+
+
+ENDMARKER

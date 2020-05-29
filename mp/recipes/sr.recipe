@@ -1,0 +1,42 @@
+gametype = sr
+commonOption.timeLimit = 120
+commonOption.scoreLimit = 1
+commonOption.roundLimit = 0
+commonOption.winLimit = 6
+commonOption.roundSwitch = 3
+commonOption.winByTwoEnabled = 0
+commonOption.winByTwoMaxRounds = 8
+commonOption.matchStartTime = 15
+commonOption.roundStartTime = 10
+
+bombData.bombTimer = 45
+bombData.defuseTime = 5.00000
+bombData.plantTime = 5.00000
+bombData.multiBomb = 0
+bombData.silentPlant = 0
+commonOption.dogTags = 0
+commonOption.numLives = 1
+
+commonOption.allowKillstreaks = 1
+commonOption.allowPerks = 1
+commonOption.allowSupers = 1
+commonOption.superFastChargeRate = 1
+commonOption.superPointsMod = 1
+commonOption.forceRespawn = 1
+commonOption.showKillcam = 1
+commonOption.healthRegen = 5.000000
+commonOption.maxHealth = 100.000000
+commonOption.spectateModeAllowed = 1
+commonOption.codcasterEnabled = 1
+commonOption.ffPunishLimit = 2
+commonOption.spectate3rdAllowed = 1
+commonOption.teamAssignmentAllowed = 1
+commonOption.tacticalMode = 0
+commonOption.equipmentMSProtect = 5.000000
+
+commonOption.lastStand = 1
+commonOption.lastStandHealth = 40
+commonOption.lastStandReviveHealth = 50
+commonOption.lastStandTimer = 10.00000
+commonOption.lastStandReviveTimer = 2.00000
+commonOption.lastStandSuicideTimer = 1

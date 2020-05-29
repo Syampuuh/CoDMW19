@@ -1,0 +1,6 @@
+???alias,min_height,max_height,min_arrival_yaw,max_arrival_yaw,__END__,
+step_up,,42,,,,
+mantle_up,42,80,,,,
+jump_mantle_up,80,,,,,
+default,,,,,,
+__END__,,,,,,

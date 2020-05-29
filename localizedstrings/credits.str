@@ -1,0 +1,277 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            atvi_copyright1
+LANG_ENGLISH         "2019 Activision Publishing Inc. ACTIVISION, CALL OF DUTY,"
+
+REFERENCE            atvi_copyright2
+LANG_ENGLISH         "and MODERN WARFARE are trademarks of Activision Publishing, Inc."
+
+REFERENCE            atvi_copyright3
+LANG_ENGLISH         "All other trademarks and trade names are property of"
+
+REFERENCE            atvi_copyright4
+LANG_ENGLISH         "their respective owners"
+
+REFERENCE            dept_addsupport
+LANG_ENGLISH         "Additional Support"
+
+REFERENCE            dept_addvoice
+LANG_ENGLISH         "Additional Voice"
+
+REFERENCE            dept_admin
+LANG_ENGLISH         "Admin"
+
+REFERENCE            dept_animation
+LANG_ENGLISH         "Animation"
+
+REFERENCE            dept_art
+LANG_ENGLISH         "Art"
+
+REFERENCE            dept_audio
+LANG_ENGLISH         "Audio"
+
+REFERENCE            dept_bizdev
+LANG_ENGLISH         "Business Development"
+
+REFERENCE            dept_cast
+LANG_ENGLISH         "Cast"
+
+REFERENCE            dept_casting
+LANG_ENGLISH         "Casting"
+
+REFERENCE            dept_codbusiness
+LANG_ENGLISH         "Call of Duty International Business Unit"
+
+REFERENCE            dept_codprodman
+LANG_ENGLISH         "Call of Duty Product Management"
+
+REFERENCE            dept_community
+LANG_ENGLISH         "Community"
+
+REFERENCE            dept_conmarketing
+LANG_ENGLISH         "Consumer Marketing"
+
+REFERENCE            dept_conproducts
+LANG_ENGLISH         "Consumer Products"
+
+REFERENCE            dept_consultants
+LANG_ENGLISH         "Consultants"
+
+REFERENCE            dept_contech
+LANG_ENGLISH         "Consumer Technology"
+
+REFERENCE            dept_creative
+LANG_ENGLISH         "Creative Marketing"
+
+REFERENCE            dept_crewservices
+LANG_ENGLISH         "Crew Services"
+
+REFERENCE            dept_crmmarketing
+LANG_ENGLISH         "CRM Strategy Marketing"
+
+REFERENCE            dept_cstudio
+LANG_ENGLISH         "Central Studios"
+
+REFERENCE            dept_ct
+LANG_ENGLISH         "Central Technology"
+
+REFERENCE            dept_design
+LANG_ENGLISH         "Design"
+
+REFERENCE            dept_devsupport
+LANG_ENGLISH         "Developer Support / Integration"
+
+REFERENCE            dept_digitalmarketing
+LANG_ENGLISH         "Digital Marketing"
+
+REFERENCE            dept_engineering
+LANG_ENGLISH         "Engineering"
+
+REFERENCE            dept_exec
+LANG_ENGLISH         "Executive Team"
+
+REFERENCE            dept_externalsupport
+LANG_ENGLISH         "External Support"
+
+REFERENCE            dept_facialstudios
+LANG_ENGLISH         "Facial Animation Studios"
+
+REFERENCE            dept_financeop
+LANG_ENGLISH         "Finance and Operations"
+
+REFERENCE            dept_ganalytics
+LANG_ENGLISH         "Global Analytics"
+
+REFERENCE            dept_gemarketing
+LANG_ENGLISH         "Global Experiential Marketing"
+
+REFERENCE            dept_git
+LANG_ENGLISH         "Global IT"
+
+REFERENCE            dept_globaldigital
+LANG_ENGLISH         "Global Digital and Mobile Commerce"
+
+REFERENCE            dept_gplayerinsights
+LANG_ENGLISH         "Global Player Insights"
+
+REFERENCE            dept_gsupply
+LANG_ENGLISH         "Global Supply Chain"
+
+REFERENCE            dept_hr
+LANG_ENGLISH         "Human Resources"
+
+REFERENCE            dept_intcomms
+LANG_ENGLISH         "International Communications and Insight Team"
+
+REFERENCE            dept_integration
+LANG_ENGLISH         "Integration"
+
+REFERENCE            dept_intpr
+LANG_ENGLISH         "International Public Relations"
+
+REFERENCE            dept_it
+LANG_ENGLISH         "IT"
+
+REFERENCE            dept_legal
+LANG_ENGLISH         "Legal"
+
+REFERENCE            dept_marketing
+LANG_ENGLISH         "Marketing"
+
+REFERENCE            dept_mediamarketing
+LANG_ENGLISH         "Media Marketing"
+
+REFERENCE            dept_mocap
+LANG_ENGLISH         "Mocap"
+
+REFERENCE            dept_motiongraphics
+LANG_ENGLISH         "Mission Briefing Motion Graphics"
+
+REFERENCE            dept_music
+LANG_ENGLISH         "Music"
+
+REFERENCE            dept_narrative
+LANG_ENGLISH         "Narrative"
+
+REFERENCE            dept_platstrat
+LANG_ENGLISH         "Platform Strategy & Partnerships"
+
+REFERENCE            dept_playersupport
+LANG_ENGLISH         "Player Support "
+
+REFERENCE            dept_pmg
+LANG_ENGLISH         "Production Management Group"
+
+REFERENCE            dept_prodbabies
+LANG_ENGLISH         "Production Babies"
+
+REFERENCE            dept_prodliveservices
+LANG_ENGLISH         "Product Management - Live Services"
+
+REFERENCE            dept_prodservices
+LANG_ENGLISH         "Production Services"
+
+REFERENCE            dept_prodservices_locs
+LANG_ENGLISH         "Production Services & Localisation"
+
+REFERENCE            dept_production
+LANG_ENGLISH         "Production"
+
+REFERENCE            dept_qa
+LANG_ENGLISH         "QA"
+
+REFERENCE            dept_recordingstudio
+LANG_ENGLISH         "Audio Recording"
+
+REFERENCE            dept_specialthanks_uscustoms
+LANG_ENGLISH         "You've Arrived Video courtesy of US Customs and Border Protection"
+
+REFERENCE            dept_studioheads
+LANG_ENGLISH         "Studio Heads"
+
+REFERENCE            dept_studioop
+LANG_ENGLISH         "Studio Operations"
+
+REFERENCE            dept_talentacq
+LANG_ENGLISH         "Talent Acquisition"
+
+REFERENCE            dept_translation
+LANG_ENGLISH         "Translation and Dialect Services"
+
+REFERENCE            dept_ui
+LANG_ENGLISH         "UI"
+
+REFERENCE            dept_vocalperformed
+LANG_ENGLISH         "Vocals Performed By"
+
+REFERENCE            dolby1
+LANG_ENGLISH         "Dolby, Dolby Audio, and the double-D symbol"
+
+REFERENCE            dolby2
+LANG_ENGLISH         "are trademarks of Dolby Laboratories."
+
+REFERENCE            external_vendors
+LANG_ENGLISH         "External Vendors"
+
+REFERENCE            externalpartners
+LANG_ENGLISH         "External Partners"
+
+REFERENCE            havok1
+LANG_ENGLISH         "Call of Duty: Modern Warfare uses Havok??
+"
+
+REFERENCE            havok2
+LANG_ENGLISH         "Copyright ?? 1999-2019 Havok.com Inc. (and its Licensors).
+"
+
+REFERENCE            havok3
+LANG_ENGLISH         "All Rights Reserved. See www.havok.com for details."
+
+REFERENCE            iw_specialthanks_airwing
+LANG_ENGLISH         "Director, 3rd Marine Aircraft Wing Communication Strategy Office"
+
+REFERENCE            iw_specialthanks_usmc1
+LANG_ENGLISH         "Mr. Bert Thielen, USMC retired, and his colleagues at the"
+
+REFERENCE            iw_specialthanks_usmc2
+LANG_ENGLISH         "Infantry Immersion Trainer, Camp Pendleton, California"
+
+REFERENCE            outsourcepartners
+LANG_ENGLISH         "Outsource Partners"
+
+REFERENCE            rad_game1
+LANG_ENGLISH         "Uses Bink Video. Copyright?? 1997-2019
+"
+
+REFERENCE            rad_game2
+LANG_ENGLISH         "by RAD Game Tools, Inc."
+
+REFERENCE            rad_game3
+LANG_ENGLISH         "Uses Oodle. Copyright ?? 2008-2019"
+
+REFERENCE            rad_game4
+LANG_ENGLISH         "by RAD Game Tools, Inc."
+
+REFERENCE            shanghai
+LANG_ENGLISH         "Shanghai"
+
+REFERENCE            specialthanks
+LANG_ENGLISH         "Special Thanks"
+
+REFERENCE            specialthanks_engineering
+LANG_ENGLISH         "Engineering Special Thanks"
+
+REFERENCE            umbra1
+LANG_ENGLISH         "Uses Umbra. Copyright ?? 2006 - 2019
+"
+
+REFERENCE            umbra2
+LANG_ENGLISH         "See umbra3d.com for details"
+
+REFERENCE            writtenby
+LANG_ENGLISH         "Written By"
+
+
+ENDMARKER

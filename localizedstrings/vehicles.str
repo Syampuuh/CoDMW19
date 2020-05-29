@@ -1,0 +1,132 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            vehicle_select
+LANG_ENGLISH         "Vehicle Select"
+
+REFERENCE            vehicle_customization_disable
+LANG_ENGLISH         "Vehicle Customization Disabled"
+
+REFERENCE            vehicle_customization_desc
+LANG_ENGLISH         "Personalize the appearance of your Vehicles."
+
+REFERENCE            vehicle_customization
+LANG_ENGLISH         "Vehicle Customization"
+
+REFERENCE            van
+LANG_ENGLISH         "Van"
+
+REFERENCE            technical
+LANG_ENGLISH         "Technical Truck"
+
+REFERENCE            tac_rover_desc
+LANG_ENGLISH         "The pinnacle of ultra-light tactical off-road vehicles, allowing rapid personnel deployment for squads of up to four. Go deep and hard in the most rugged and austere environments with world-class mobility and versatility."
+
+REFERENCE            tac_rover_camo_12_flavor
+LANG_ENGLISH         "Hunt down your marque with the From the Pit Tac Rover Skin."
+
+REFERENCE            tac_rover
+LANG_ENGLISH         "Tac Rover"
+
+REFERENCE            skins_locked
+LANG_ENGLISH         "Earn a skin for the ^5&&1 ^7to unlock this category"
+
+REFERENCE            seat_switch_too_soon
+LANG_ENGLISH         "Too Soon To Switch Seats"
+
+REFERENCE            seat_switch_occupied
+LANG_ENGLISH         "All Seats Are Occupied"
+
+REFERENCE            pickup_truck
+LANG_ENGLISH         "Pickup Truck"
+
+REFERENCE            med_transport
+LANG_ENGLISH         "Medical Transport"
+
+REFERENCE            loot_chopper
+LANG_ENGLISH         "Attack Chopper"
+
+REFERENCE            little_bird_desc
+LANG_ENGLISH         "An extremely capable helicopter equipped with a personnel platform for quick troop insertion and extraction scenarios. Available countermeasure flares for incoming surface-to-air or air-to-air missiles, combined with a very survivable design, make this a highly sought-after aircraft."
+
+REFERENCE            little_bird_camo_017
+LANG_ENGLISH         "LITTLE_BIRD_CAMO_017"
+
+REFERENCE            little_bird_camo_01
+LANG_ENGLISH         "They will be green with envy when they see your Goblin Vehicle Skin."
+
+REFERENCE            little_bird
+LANG_ENGLISH         "Heli"
+
+REFERENCE            light_tank_west
+LANG_ENGLISH         "IAV (Coalition)"
+
+REFERENCE            light_tank_east
+LANG_ENGLISH         "IAV (Allegiance)"
+
+REFERENCE            light_tank_desc
+LANG_ENGLISH         "A two-man crew can go on the attack with the Infantry Assault Vehicle, rout enemies with its 30mm cannon or engage enemy armor with Anti-Tank Missile. A second crew member can man the light machine gun from the top firing position."
+
+REFERENCE            light_tank
+LANG_ENGLISH         "Light Tank"
+
+REFERENCE            large_transport
+LANG_ENGLISH         "Personel Transport"
+
+REFERENCE            jeep_desc
+LANG_ENGLISH         "Built and designed without compromise, a spacious interior allows for crew transportation to even the most remote corners of the map. Confident on- or off-road, with the durability to tackle the most extreme of challenges, the SUV can take a beating and keep on ticking."
+
+REFERENCE            jeep_camo_08_flavor
+LANG_ENGLISH         "Where you're headed, there are no roads. The Warzone Express SUV Skin."
+
+REFERENCE            jeep
+LANG_ENGLISH         "SUV"
+
+REFERENCE            hoopty_truck
+LANG_ENGLISH         "Box Truck"
+
+REFERENCE            hoopty
+LANG_ENGLISH         "Hoopty"
+
+REFERENCE            customize_name
+LANG_ENGLISH         "Customize &&1"
+
+REFERENCE            cop_car
+LANG_ENGLISH         "Police Car"
+
+REFERENCE            cargo_truck_desc
+LANG_ENGLISH         "Durable and reliable with tried and true components, the 6x6 cargo truck is provisioned with horsepower for days. Ensuring you and your precious cargo can perform at a top level for every mission thrown your way. Free-roaming capability for the troops in the cargo bed means you can bring the fight with you wherever you go."
+
+REFERENCE            cargo_truck_camo_11_flavor
+LANG_ENGLISH         "Shift your squad. Or run theirs over. This is the Blue Ridge Racer Vehicle Skin."
+
+REFERENCE            cargo_truck
+LANG_ENGLISH         "Cargo Truck"
+
+REFERENCE            cannot_exit
+LANG_ENGLISH         "Cannot Exit Here"
+
+REFERENCE            big_bird
+LANG_ENGLISH         "Big Bird"
+
+REFERENCE            atv_desc
+LANG_ENGLISH         "Take Charge with rough and ready capability delivered with plenty of low-rpm torque and power. Top-tier rack capacity offers an impressive payload capability: hold 'er wide and send it."
+
+REFERENCE            atv_camo_20_flavor
+LANG_ENGLISH         "They'll be cruisin' for a bruisin' when you roll with the Big Sky Country ATV Skin."
+
+REFERENCE            atv
+LANG_ENGLISH         "ATV"
+
+REFERENCE            apc_rus
+LANG_ENGLISH         "APC"
+
+REFERENCE            apc_desc
+LANG_ENGLISH         "Equipped with a 6x6 drivetrain and the ability to haul up to 6 soldiers across the battlefield. This Armored Personnel Carrier comes with a 25mm cannon firing explosive rounds. Rapid availability to replenish troops in an ever-evolving ground war makes this vehicle the tactical choice for taking your objective."
+
+REFERENCE            apc
+LANG_ENGLISH         "APC"
+
+
+ENDMARKER

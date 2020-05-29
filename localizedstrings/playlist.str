@@ -1,0 +1,2652 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            hc_crash_24_7
+LANG_ENGLISH         "HC Crash 24/7"
+
+REFERENCE            hc_cranked_name
+LANG_ENGLISH         "HC Cranked"
+
+REFERENCE            hc_conf_tdm_name
+LANG_ENGLISH         "HC Kill Confirmed"
+
+REFERENCE            hc_conf_tdm_abbrv
+LANG_ENGLISH         "HC RIC KC"
+
+REFERENCE            hc_br_name
+LANG_ENGLISH         "Hardcore Battle Royale"
+
+REFERENCE            hc_10v10_moshpit
+LANG_ENGLISH         "HC 10v10 Mosh Pit"
+
+REFERENCE            hardpoint_test_missions_name
+LANG_ENGLISH         "Hardpoint Missions"
+
+REFERENCE            brtrios_gulag
+LANG_ENGLISH         "BR Trios INFINITE GULAG"
+
+REFERENCE            brtriojugg_name2
+LANG_ENGLISH         "BR Juggernaut Trios"
+
+REFERENCE            bldmnyduos_name
+LANG_ENGLISH         "Blood Money Duos"
+
+REFERENCE            bldmny_name
+LANG_ENGLISH         "Blood Money"
+
+REFERENCE            arena_3v3_name
+LANG_ENGLISH         "Gunfight 3v3"
+
+REFERENCE            arena_1v1_vlntn
+LANG_ENGLISH         "Blind Date"
+
+REFERENCE            hc_conf_tdm_desc
+LANG_ENGLISH         "Hardcore Kill Confirmed. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            april_fools_infect_name
+LANG_ENGLISH         "Sickness"
+
+REFERENCE            april_fools_r_and_r_moshpit
+LANG_ENGLISH         "New Shit"
+
+REFERENCE            hc_shootship_247
+LANG_ENGLISH         "HC Shoot House and Shipment"
+
+REFERENCE            hc_season7_mosh
+LANG_ENGLISH         "HC Season Seven Mosh Pit"
+
+REFERENCE            hc_season4_mosh
+LANG_ENGLISH         "HC Season Four Mosh Pit"
+
+REFERENCE            hc_season3_mosh
+LANG_ENGLISH         "HC Season Three Mosh Pit"
+
+REFERENCE            hc_season2_mosh
+LANG_ENGLISH         "HC Season Two Mosh Pit"
+
+REFERENCE            hc_sd_name
+LANG_ENGLISH         "HC Search and Destroy"
+
+REFERENCE            hc_sab_name
+LANG_ENGLISH         "HC Sabotage"
+
+REFERENCE            hc_osp_desc
+LANG_ENGLISH         "HC Gunfight: OSP"
+
+REFERENCE            hc_nvg_mosh
+LANG_ENGLISH         "HC Night Mosh Pit"
+
+REFERENCE            hc_merc_name
+LANG_ENGLISH         "HC Mercenary Mosh Pit"
+
+REFERENCE            hc_hq_name
+LANG_ENGLISH         "HC Headquarters"
+
+REFERENCE            hc_hq_desc
+LANG_ENGLISH         "Hardcore Headquarters. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            hc_hq_abbrv
+LANG_ENGLISH         "HC RIC HQ"
+
+REFERENCE            hc_dom_name
+LANG_ENGLISH         "HC Domination"
+
+REFERENCE            hc_dom_desc
+LANG_ENGLISH         "Hardcore Domination. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            hc_seasonone_name
+LANG_ENGLISH         "HC Season One Mosh Pit"
+
+REFERENCE            hc_plnd_name
+LANG_ENGLISH         "Hardcore Plunder"
+
+REFERENCE            hc_demo_name
+LANG_ENGLISH         "HC Demolition"
+
+REFERENCE            hc_cyber_name
+LANG_ENGLISH         "HC Cyber Attack"
+
+REFERENCE            hc_ctf_name
+LANG_ENGLISH         "HC CTF"
+
+REFERENCE            hc_ctf_desc
+LANG_ENGLISH         "Hardcore Capture the Flag. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            hc_dom_abbrv
+LANG_ENGLISH         "HC RIC DOM"
+
+REFERENCE            zmbfnf_name
+LANG_ENGLISH         "^3Friday Night Frights!^7"
+
+REFERENCE            yotr_name
+LANG_ENGLISH         "2020 Year of the Rat"
+
+REFERENCE            wzmosh_name
+LANG_ENGLISH         "Warzone Mosh Pit"
+
+REFERENCE            wzltm_name3
+LANG_ENGLISH         "Weekend Warzone"
+
+REFERENCE            wzltm_name2
+LANG_ENGLISH         "Limited Time Modes"
+
+REFERENCE            winter_osp_name
+LANG_ENGLISH         "Winter Gunfight: OSP"
+
+REFERENCE            winter_arena_name
+LANG_ENGLISH         "Winter Gunfight"
+
+REFERENCE            wfh_name3
+LANG_ENGLISH         "Stir-Crazy"
+
+REFERENCE            wfh_name2
+LANG_ENGLISH         "Cabin Fever"
+
+REFERENCE            wfh_name1
+LANG_ENGLISH         "Working from Home"
+
+REFERENCE            warzone_name
+LANG_ENGLISH         "Warzone"
+
+REFERENCE            warzone_desc
+LANG_ENGLISH         "Survive. Last team alive wins."
+
+REFERENCE            wallcomosh_name
+LANG_ENGLISH         "Clean up on Aisle 9"
+
+REFERENCE            vip_name
+LANG_ENGLISH         "VIP"
+
+REFERENCE            vip_abbrv
+LANG_ENGLISH         "VIP"
+
+REFERENCE            village3_name
+LANG_ENGLISH         "Village Persons"
+
+REFERENCE            village2_name
+LANG_ENGLISH         "It takes a Village"
+
+REFERENCE            village247_name
+LANG_ENGLISH         "Hovec Sawmill 24/7"
+
+REFERENCE            vacship_247_name
+LANG_ENGLISH         "Shipment and Vacant 24/7"
+
+REFERENCE            vacant_24_7
+LANG_ENGLISH         "Vacant 24/7"
+
+REFERENCE            uplink_name
+LANG_ENGLISH         "Uplink"
+
+REFERENCE            uplink_abbrv
+LANG_ENGLISH         "Uplink"
+
+REFERENCE            trios_name
+LANG_ENGLISH         "TRIOS"
+
+REFERENCE            tmbuildex_name
+LANG_ENGLISH         "Team Building Exercise"
+
+REFERENCE            therock_tdm_name
+LANG_ENGLISH         "Therock TDM"
+
+REFERENCE            therock_tdm_desc
+LANG_ENGLISH         "Therock TDM"
+
+REFERENCE            teamtac_name
+LANG_ENGLISH         "Team Tactical"
+
+REFERENCE            tdm_test_missions_name
+LANG_ENGLISH         "TDM Missions"
+
+REFERENCE            tdm_test_missions_desc
+LANG_ENGLISH         "Team Deathmatch Missions"
+
+REFERENCE            tdm_tac_desc_8
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  Completely revamped movement and health balance."
+
+REFERENCE            tdm_tac_desc_7
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  Completely revamped movement, health and weapon balance."
+
+REFERENCE            tdm_tac_desc_6
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  Weapon adjustments, low health, no boost jump, No wallrun, adjusted movement speeds and much more."
+
+REFERENCE            tdm_tac_desc_5
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  Low health, no boost jump, no wallrun, adjusted movement speeds and much more."
+
+REFERENCE            tdm_tac_desc_4
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  Weapon Adjustments, high health, no boost jump, no wallrun, adjusted movement speeds and much more."
+
+REFERENCE            tdm_tac_desc_3
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  High Health, no boost jump, no wallrun, adjusted movement speeds and much more."
+
+REFERENCE            tdm_tac_desc_2
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  Weapon adjustments, no boost jump, no wallrun, adjusted movement speeds and much more."
+
+REFERENCE            tdm_tac_desc_1
+LANG_ENGLISH         "Team Deathmatch with a new tactical rule set.  No boost jump, no wallrun, adjusted movement speeds and much more."
+
+REFERENCE            tdm_tac
+LANG_ENGLISH         "Tactical Team Deathmatch"
+
+REFERENCE            tdm_name
+LANG_ENGLISH         "Team Deathmatch"
+
+REFERENCE            tdm_mix
+LANG_ENGLISH         "Team Deathmatch using 6v6 and 10v10 maps. Kill players on the opposing team. The first team to reach the score limit wins! "
+
+REFERENCE            tdm_hyper_name
+LANG_ENGLISH         "Hyper Team Deathmatch"
+
+REFERENCE            tdm_hyper_desc
+LANG_ENGLISH         "Team Deathmatch with reduced cool-down on payloads."
+
+REFERENCE            tdm_hyper_abbrv
+LANG_ENGLISH         "Hyper TDM"
+
+REFERENCE            tdm_big_name
+LANG_ENGLISH         "Team Deathmatch 10v10"
+
+REFERENCE            tdm_abbrv
+LANG_ENGLISH         "Team Deathmatch"
+
+REFERENCE            tdef_name
+LANG_ENGLISH         "Defender"
+
+REFERENCE            tdef_hc_desc
+LANG_ENGLISH         "Hardcore Defender. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            tdef_abbrv
+LANG_ENGLISH         "Defender"
+
+REFERENCE            tac_moshpit_desc
+LANG_ENGLISH         "Favorite modes with a new tactical rule set.  Completely revamped movement, health and weapon balance."
+
+REFERENCE            tac_moshpit
+LANG_ENGLISH         "Tactical Moshpit"
+
+REFERENCE            survival_desc
+LANG_ENGLISH         "Assemble your team and defend yourselves against waves of increasingly difficult threats, earning the experience and equipment to outlast the enemy."
+
+REFERENCE            stpat_name2
+LANG_ENGLISH         "St Patrick's Day"
+
+REFERENCE            stpat_name
+LANG_ENGLISH         "St Patrick's Day Mosh Pit"
+
+REFERENCE            storage_tdm_name
+LANG_ENGLISH         "Storage TDM"
+
+REFERENCE            storage_tdm_desc
+LANG_ENGLISH         "Storage TDM"
+
+REFERENCE            sticks_name
+LANG_ENGLISH         "Sticks and Stones"
+
+REFERENCE            stdnt_ln_name
+LANG_ENGLISH         "Student Loan Payments"
+
+REFERENCE            standard_name
+LANG_ENGLISH         "Standard"
+
+REFERENCE            standard_desc
+LANG_ENGLISH         "Standard Playlists"
+
+REFERENCE            sr_name
+LANG_ENGLISH         "Search and Rescue"
+
+REFERENCE            sr_abbrv
+LANG_ENGLISH         "S&R"
+
+REFERENCE            speedhideout_247
+LANG_ENGLISH         "Outhouse 24/7"
+
+REFERENCE            speed_24_7
+LANG_ENGLISH         "Shoot House 24/7"
+
+REFERENCE            specops_name
+LANG_ENGLISH         "Special Ops"
+
+REFERENCE            specops_desc
+LANG_ENGLISH         "Special Ops playlist description."
+
+REFERENCE            spd_house_rust_name
+LANG_ENGLISH         "Dirty Old Houseboat"
+
+REFERENCE            sp_sh_ru_name3
+LANG_ENGLISH         "Leaky Old Houseboat"
+
+REFERENCE            sp_sh_ru_name2
+LANG_ENGLISH         "Leaky Houseboat "
+
+REFERENCE            sp_sh_ru_name
+LANG_ENGLISH         "Rust, Shipment, and Shoot House"
+
+REFERENCE            sp_dtng_name
+LANG_ENGLISH         "Speed Dating"
+
+REFERENCE            sotf_name
+LANG_ENGLISH         "Hunted"
+
+REFERENCE            sotf_ffa_name
+LANG_ENGLISH         "Hunted Free-for-all"
+
+REFERENCE            sotf_ffa_abbrv
+LANG_ENGLISH         "Hunted FFA"
+
+REFERENCE            sotf_abbrv
+LANG_ENGLISH         "Hunted"
+
+REFERENCE            solos_name
+LANG_ENGLISH         "SOLOS"
+
+REFERENCE            snowfight_name
+LANG_ENGLISH         "Snowfight"
+
+REFERENCE            smuggler_name
+LANG_ENGLISH         "Operation Harbinger"
+
+REFERENCE            smuggler_desc
+LANG_ENGLISH         "Gather intel on the whereabouts of local informant MAGE and verify his reports of a "major shipment" leaving Verdansk."
+
+REFERENCE            smuggler_2_name
+LANG_ENGLISH         "Operation Brimstone"
+
+REFERENCE            smuggler_2_desc
+LANG_ENGLISH         "El Traficante's train has left the quarry carrying explosives. Fight your way to the railyard, recall the train, and rig it for detonation."
+
+REFERENCE            skyway247_name
+LANG_ENGLISH         "Terminal 24/7"
+
+REFERENCE            skyway247_desc
+LANG_ENGLISH         "Fan favorite map Terminal, all day, every day."
+
+REFERENCE            skyinf_name
+LANG_ENGLISH         "Skydiving Infected"
+
+REFERENCE            siege_name
+LANG_ENGLISH         "Reinforce"
+
+REFERENCE            siege_desc
+LANG_ENGLISH         "Capture points to revive fallen teammates. Taking all points or eliminating the enemy team will win the round."
+
+REFERENCE            siege_abbrv
+LANG_ENGLISH         "Reinforce"
+
+REFERENCE            siege_10v10_name
+LANG_ENGLISH         "Reinforce 10v10"
+
+REFERENCE            shsnp_name5
+LANG_ENGLISH         "Near/Far"
+
+REFERENCE            shsnp_name4
+LANG_ENGLISH         "Close Yet Far"
+
+REFERENCE            shsnp_name3
+LANG_ENGLISH         "Scopes and Scatter Guns"
+
+REFERENCE            shsnp_name2
+LANG_ENGLISH         "Shotty Snipers"
+
+REFERENCE            shootship_name
+LANG_ENGLISH         "Shoot the Ship"
+
+REFERENCE            shootship_247_name
+LANG_ENGLISH         "Shoot House and Shipment Mosh Pit"
+
+REFERENCE            shipment_24_7
+LANG_ENGLISH         "Shipment 24/7"
+
+REFERENCE            ship_name
+LANG_ENGLISH         "Extinction"
+
+REFERENCE            ship_assault_name
+LANG_ENGLISH         "Ship Assault"
+
+REFERENCE            ship_assault_desc
+LANG_ENGLISH         ""
+
+REFERENCE            shidehout
+LANG_ENGLISH         "Shidehout 24/7"
+
+REFERENCE            season_two_moshpit
+LANG_ENGLISH         "Season Two Mosh Pit"
+
+REFERENCE            season_three_moshpit
+LANG_ENGLISH         "Season Three Mosh Pit"
+
+REFERENCE            season_six_moshpit
+LANG_ENGLISH         "Season Six Mosh Pit"
+
+REFERENCE            season_one_moshpit
+LANG_ENGLISH         "Season One Mosh Pit"
+
+REFERENCE            season_four_moshpit
+LANG_ENGLISH         "Season Four Mosh Pit"
+
+REFERENCE            season_five_moshpit
+LANG_ENGLISH         "Season Five Mosh Pit"
+
+REFERENCE            seas1_desc
+LANG_ENGLISH         "Mixed modes in Crash, Vacant, Shipment, and Shoot House"
+
+REFERENCE            sd_vlntn_name
+LANG_ENGLISH         "Looking for the one"
+
+REFERENCE            sd_test_missions_name
+LANG_ENGLISH         "S&D Missions"
+
+REFERENCE            sd_test_missions_desc
+LANG_ENGLISH         "Search and Destroy Missions"
+
+REFERENCE            sd_name
+LANG_ENGLISH         "Search and Destroy"
+
+REFERENCE            sd_hc_desc
+LANG_ENGLISH         "Hardcore Search and Destroy. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            sd_big_name
+LANG_ENGLISH         "Search and Destroy 10v10"
+
+REFERENCE            sd_abbrv
+LANG_ENGLISH         "S&D"
+
+REFERENCE            rustspeed_name
+LANG_ENGLISH         "Rust and Shoot House 24/7"
+
+REFERENCE            rustship_247_name2
+LANG_ENGLISH         "Flotation Oxidation"
+
+REFERENCE            rustship_247_name
+LANG_ENGLISH         "Rust and Shipment 24/7"
+
+REFERENCE            rust_emporium_247
+LANG_ENGLISH         "Rust and Atlas Superstore 24/7"
+
+REFERENCE            rust_apr1_name
+LANG_ENGLISH         "I have tRust Issues"
+
+REFERENCE            rust_247_b
+LANG_ENGLISH         "Rust Issues"
+
+REFERENCE            rust_247
+LANG_ENGLISH         "I have Rust Issues"
+
+REFERENCE            rust_1v1
+LANG_ENGLISH         "1v1 Me Bro"
+
+REFERENCE            rurumb_name
+LANG_ENGLISH         "Rural Rumble"
+
+REFERENCE            rugby_name5
+LANG_ENGLISH         "Incursion"
+
+REFERENCE            rugby_name4
+LANG_ENGLISH         "Breach"
+
+REFERENCE            rugby_name3
+LANG_ENGLISH         "Assault"
+
+REFERENCE            rugby_name2
+LANG_ENGLISH         "Invasion"
+
+REFERENCE            rugby_name1
+LANG_ENGLISH         "Jugg of War"
+
+REFERENCE            riot_tdm_name
+LANG_ENGLISH         "Riot TDM"
+
+REFERENCE            riot_tdm_desc
+LANG_ENGLISH         "Riot TDM"
+
+REFERENCE            riot_dom_name
+LANG_ENGLISH         "Riot DOM"
+
+REFERENCE            riot_dom_desc
+LANG_ENGLISH         "Riot DOM"
+
+REFERENCE            riot_conf_name
+LANG_ENGLISH         "Riot CONF"
+
+REFERENCE            riot_conf_desc
+LANG_ENGLISH         "Riot CONF"
+
+REFERENCE            realnvg_name2
+LANG_ENGLISH         "Realism Night Mosh Pit"
+
+REFERENCE            realnvg_name
+LANG_ENGLISH         "NVG Realism Mosh Pit"
+
+REFERENCE            realism_tdm
+LANG_ENGLISH         "Realism TDM"
+
+REFERENCE            realism_sr
+LANG_ENGLISH         "Realism Search and Rescue"
+
+REFERENCE            realism_sd
+LANG_ENGLISH         "Realism Search and Destroy"
+
+REFERENCE            realism_sabotage
+LANG_ENGLISH         "Realism Sabotage"
+
+REFERENCE            realism_reinforce
+LANG_ENGLISH         "Realism Reinforce"
+
+REFERENCE            realism_obj_name
+LANG_ENGLISH         "REALISM OBJECTIVES"
+
+REFERENCE            realism_obj_desc
+LANG_ENGLISH         "Objective modes including Cyber Attack and Search and Destroy using Realism settings. "
+
+REFERENCE            realism_name
+LANG_ENGLISH         "Realism"
+
+REFERENCE            realism_moshpit_name
+LANG_ENGLISH         "Realism Mosh Pit "
+
+REFERENCE            realism_moshpit_desc
+LANG_ENGLISH         "Realism objective modes with minimal HUD, standard health, and increased headshot damage."
+
+REFERENCE            realism_moshpit_10v10
+LANG_ENGLISH         "Realism Mosh Pit 10v10"
+
+REFERENCE            realism_kc
+LANG_ENGLISH         "Realism Kill Confirmed"
+
+REFERENCE            realism_hq
+LANG_ENGLISH         "Realism Headquarters"
+
+REFERENCE            realism_hardpoint
+LANG_ENGLISH         "Realism Hardpoint"
+
+REFERENCE            realism_gw
+LANG_ENGLISH         "Realism Ground War"
+
+REFERENCE            realism_ffa
+LANG_ENGLISH         "Realism FFA"
+
+REFERENCE            realism_dom
+LANG_ENGLISH         "Realism Domination"
+
+REFERENCE            realism_desc
+LANG_ENGLISH         "Minimal HUD with standard health and increased headshot damage."
+
+REFERENCE            realism_demolition
+LANG_ENGLISH         "Realism Demolition"
+
+REFERENCE            realism_cyber
+LANG_ENGLISH         "Realism Cyber Attack"
+
+REFERENCE            realism_ctf
+LANG_ENGLISH         "Realism Capture the Flag"
+
+REFERENCE            realism_10v10_name
+LANG_ENGLISH         "Realism 10v10 Mosh Pit"
+
+REFERENCE            realgun_reloaded
+LANG_ENGLISH         "Realism Gun Game Reloaded"
+
+REFERENCE            realgun_name
+LANG_ENGLISH         "Realism Gun Game"
+
+REFERENCE            realcrank_name
+LANG_ENGLISH         "Realism Cranked"
+
+REFERENCE            realarena_name
+LANG_ENGLISH         "Realism Gunfight"
+
+REFERENCE            realarena3v3_name
+LANG_ENGLISH         "Realism Gunfight 3v3"
+
+REFERENCE            rave_devs_desc
+LANG_ENGLISH         "cp_rave playlist for devs"
+
+REFERENCE            ratrace_name
+LANG_ENGLISH         "Rat Race"
+
+REFERENCE            r_and_r_moshpit_desc
+LANG_ENGLISH         "Realism objective modes with minimal HUD,standard health and increased headshot damage."
+
+REFERENCE            r_and_r_moshpit
+LANG_ENGLISH         "R&R Moshpit"
+
+REFERENCE            quads_name
+LANG_ENGLISH         "QUADS"
+
+REFERENCE            qa_parkour_name
+LANG_ENGLISH         "QA Parkour"
+
+REFERENCE            qa_parkour_desc
+LANG_ENGLISH         "QA Parkour"
+
+REFERENCE            pybck_name
+LANG_ENGLISH         "Payback"
+
+REFERENCE            pulsenew_name5
+LANG_ENGLISH         "MW Free Access"
+
+REFERENCE            pulsenew_name4
+LANG_ENGLISH         "MP Free Weekend"
+
+REFERENCE            pulsenew_name3
+LANG_ENGLISH         "MP Free Access"
+
+REFERENCE            pulsenew_name2
+LANG_ENGLISH         "Modern Warfare MP"
+
+REFERENCE            pulsenew_name1
+LANG_ENGLISH         "Modern Warfare Multiplayer"
+
+REFERENCE            plunquad_name
+LANG_ENGLISH         "Plunder Quads"
+
+REFERENCE            plunderqa_name
+LANG_ENGLISH         "Plunder QA"
+
+REFERENCE            plnrob_name
+LANG_ENGLISH         "Plunder: Robbery"
+
+REFERENCE            plnpay_name2
+LANG_ENGLISH         "Plunder Payback"
+
+REFERENCE            plnpay_name
+LANG_ENGLISH         "Plunder: Payback"
+
+REFERENCE            plnhit_name
+LANG_ENGLISH         "Plunder: Hitman"
+
+REFERENCE            plnhired_name
+LANG_ENGLISH         "Plunder: Hired Gun"
+
+REFERENCE            plnduo_name
+LANG_ENGLISH         "Plunder Duos"
+
+REFERENCE            plndtrios_name
+LANG_ENGLISH         "Plunder Trios"
+
+REFERENCE            plndstc_name
+LANG_ENGLISH         "Plunderstruck"
+
+REFERENCE            plndsolo_name
+LANG_ENGLISH         "Plunder Solos"
+
+REFERENCE            plnd_real_name
+LANG_ENGLISH         "Realism Plunder"
+
+REFERENCE            plnd_cntrct_name
+LANG_ENGLISH         "Contractual Obligation"
+
+REFERENCE            plncrim_name
+LANG_ENGLISH         "Plunder: Crime Pays"
+
+REFERENCE            plncontract_name
+LANG_ENGLISH         "Plunder: Contract Killer"
+
+REFERENCE            plnbld_name
+LANG_ENGLISH         "Plunder: Blood Money"
+
+REFERENCE            plnasn_name
+LANG_ENGLISH         "Plunder: Assassin"
+
+REFERENCE            plbldmny_name
+LANG_ENGLISH         "PL Blood Money"
+
+REFERENCE            playtest_name
+LANG_ENGLISH         "Company Playtest"
+
+REFERENCE            playtest_desc
+LANG_ENGLISH         "Come checkout the latest MP!"
+
+REFERENCE            playtest_4_30_name
+LANG_ENGLISH         "4:30 Playtest"
+
+REFERENCE            playtest_4_30_desc
+LANG_ENGLISH         "4:30 Playtest - Quarry, Maxwell, Desert"
+
+REFERENCE            playtest_3_30_name
+LANG_ENGLISH         "3:30 Playtest"
+
+REFERENCE            playtest_3_30_desc
+LANG_ENGLISH         "3:30 Playtest - Quarry, Maxwell, Desert"
+
+REFERENCE            playtest_11_name
+LANG_ENGLISH         "11:00 Playtest"
+
+REFERENCE            playtest_11_desc
+LANG_ENGLISH         "11:00 Playtest - "
+
+REFERENCE            player_match_name
+LANG_ENGLISH         "Player Match Playlists"
+
+REFERENCE            play_desc
+LANG_ENGLISH         "Find a game using the filtered list below."
+
+REFERENCE            play
+LANG_ENGLISH         "<<<PLAY>>>"
+
+REFERENCE            pipeline_tdm_name
+LANG_ENGLISH         "Pipeline TDM"
+
+REFERENCE            pipeline_tdm_desc
+LANG_ENGLISH         "Pipeline TDM"
+
+REFERENCE            pewpew_name
+LANG_ENGLISH         "Pew Pew"
+
+REFERENCE            parainf_name2
+LANG_ENGLISH         "Parainfected"
+
+REFERENCE            parainf_name
+LANG_ENGLISH         "Parachuting Infected"
+
+REFERENCE            osp_snow_name
+LANG_ENGLISH         "Snowball Gunfight: OSP"
+
+REFERENCE            oneshot_desc
+LANG_ENGLISH         "One Shot"
+
+REFERENCE            oic_name
+LANG_ENGLISH         "One in the Chamber"
+
+REFERENCE            oic_desc
+LANG_ENGLISH         "Gain Ammo by eliminating enemies. Highest score wins. ^3Kills, Deaths, Win/Loss are not affected.^7"
+
+REFERENCE            obj_mosh_name
+LANG_ENGLISH         "Objective Mode Mix"
+
+REFERENCE            nxtdy_name
+LANG_ENGLISH         "Next Day Delivery"
+
+REFERENCE            nvgmosh_name2
+LANG_ENGLISH         "NVG Mosh Pit"
+
+REFERENCE            nvginfctd_name5
+LANG_ENGLISH         "Not if I see you first"
+
+REFERENCE            nvginfctd_name4
+LANG_ENGLISH         "I SEE YOU"
+
+REFERENCE            nvginfctd_name3
+LANG_ENGLISH         "Better with the Lights Off"
+
+REFERENCE            nvginfctd_name2
+LANG_ENGLISH         "Blind Fire"
+
+REFERENCE            nvginfctd_name1
+LANG_ENGLISH         "Shot in the Dark"
+
+REFERENCE            nvginf5_name
+LANG_ENGLISH         "Afraid of the dark?"
+
+REFERENCE            nvg_infect_name2
+LANG_ENGLISH         "Lights Out"
+
+REFERENCE            nvg_infect_name
+LANG_ENGLISH         "NVG Infected"
+
+REFERENCE            nightmosh_name
+LANG_ENGLISH         "Night Vision Mosh Pit"
+
+REFERENCE            night_tdm_name
+LANG_ENGLISH         "NVG Team Deathmatch"
+
+REFERENCE            night_tdm_desc
+LANG_ENGLISH         "Team Deathmatch in Night settings."
+
+REFERENCE            night_siege_name
+LANG_ENGLISH         "NVG Reinforce"
+
+REFERENCE            night_sd_name
+LANG_ENGLISH         "NVG Search and Destroy"
+
+REFERENCE            night_realism_desc
+LANG_ENGLISH         "Night time maps with realism rules: Night vision, minimal HUD with standard health and increased headshot damage."
+
+REFERENCE            night_obj_name
+LANG_ENGLISH         "NVG Objective Modes"
+
+REFERENCE            night_koth_name
+LANG_ENGLISH         "NVG Hardpoint"
+
+REFERENCE            night_hq_name
+LANG_ENGLISH         "NVG Headquarters"
+
+REFERENCE            night_desc
+LANG_ENGLISH         "Night time maps with night vision in mixed game modes."
+
+REFERENCE            night_cyber_name
+LANG_ENGLISH         "NVG Cyber Attack"
+
+REFERENCE            new_player_eval_2_desc
+LANG_ENGLISH         "Tier 2: 3 players + 3 bots per team, autofill
+__________
+Players: 2-6"
+
+REFERENCE            new_player_eval_1_name
+LANG_ENGLISH         "New player evaluation Tier 1"
+
+REFERENCE            new_player_eval_1_desc
+LANG_ENGLISH         "Tier 1: players vs bots, autofill
+__________
+Players: 2-6"
+
+REFERENCE            mw_summer_name
+LANG_ENGLISH         "Modern Warfare Summer Games"
+
+REFERENCE            multi_trial2
+LANG_ENGLISH         "MP Trial"
+
+REFERENCE            multi_trial1
+LANG_ENGLISH         "Multiplayer Trial"
+
+REFERENCE            mrktcrash_name
+LANG_ENGLISH         "Market Crash"
+
+REFERENCE            mpwknd_name
+LANG_ENGLISH         "Weekend Warfare"
+
+REFERENCE            mptrial_mosh
+LANG_ENGLISH         "MP Trial Mosh Pit"
+
+REFERENCE            mpobj_name
+LANG_ENGLISH         "Objective Mosh Pit"
+
+REFERENCE            mpmwmosh_name
+LANG_ENGLISH         "MW Mosh Pit"
+
+REFERENCE            mpmid_name2
+LANG_ENGLISH         "Mid-Season Mosh Pit"
+
+REFERENCE            mpmid_name
+LANG_ENGLISH         "Midseason Mosh Pit"
+
+REFERENCE            mpmeet_name
+LANG_ENGLISH         "Meet the Neighbors"
+
+REFERENCE            mpfree_desc
+LANG_ENGLISH         "Free Multiplayer Weekend"
+
+REFERENCE            mpaltmodes_name2
+LANG_ENGLISH         "MW Party Playlist"
+
+REFERENCE            mpaltmodes_name
+LANG_ENGLISH         "Modern Warcade"
+
+REFERENCE            mosh_vlntn_name2
+LANG_ENGLISH         "Ready to Mingle"
+
+REFERENCE            mosh_vlntn_name
+LANG_ENGLISH         "Playing the Field"
+
+REFERENCE            mosh_pit_name
+LANG_ENGLISH         "Mosh Pit"
+
+REFERENCE            mosh_pit_desc
+LANG_ENGLISH         "An assortment of objective game modes."
+
+REFERENCE            mod_vet_smuggler_name
+LANG_ENGLISH         "Harbinger - Modified Veteran"
+
+REFERENCE            mod_vet_smuggler2_name
+LANG_ENGLISH         "Brimstone - Modified Veteran"
+
+REFERENCE            mod_vet_launderer_2_name
+LANG_ENGLISH         "Strongbox - Modified Veteran"
+
+REFERENCE            mod_vet_launder_name
+LANG_ENGLISH         "Just Reward - Modified Veteran"
+
+REFERENCE            mod_vet_landlord2_name
+LANG_ENGLISH         "Kuvalda - Modified Veteran"
+
+REFERENCE            mod_vet_dealer_name
+LANG_ENGLISH         "Paladin - Modified Veteran"
+
+REFERENCE            mod_vet_dealer2_name
+LANG_ENGLISH         "Crosswind - Modified Veteran"
+
+REFERENCE            mod_reg_smuggler_name
+LANG_ENGLISH         "Harbinger - Modified"
+
+REFERENCE            mod_reg_smuggler2_name
+LANG_ENGLISH         "Brimstone - Modified"
+
+REFERENCE            mod_reg_launderer_2_name
+LANG_ENGLISH         "Strongbox - Modified"
+
+REFERENCE            mod_reg_launder_name
+LANG_ENGLISH         "Just Reward - Modified"
+
+REFERENCE            mod_reg_landlord_name
+LANG_ENGLISH         "Headhunter - Modified"
+
+REFERENCE            mod_reg_landlord2_name
+LANG_ENGLISH         "Kuvalda - Modified"
+
+REFERENCE            mod_reg_dealer_name
+LANG_ENGLISH         "Paladin - Modified"
+
+REFERENCE            mod_reg_dealer2_name
+LANG_ENGLISH         "Crosswind - Modified"
+
+REFERENCE            mm_test_desc
+LANG_ENGLISH         "4 player max for MM testing."
+
+REFERENCE            mm_test
+LANG_ENGLISH         "Matchmaking Test"
+
+REFERENCE            mlg_tdm_name
+LANG_ENGLISH         "Team Deathmatch eSports"
+
+REFERENCE            mlg_tdm_abbrv
+LANG_ENGLISH         "TDM eSports"
+
+REFERENCE            mlg_tdef_name
+LANG_ENGLISH         "Defender Competitive"
+
+REFERENCE            mlg_tdef_abbrv
+LANG_ENGLISH         "Defender Competitive"
+
+REFERENCE            mlg_sr_name
+LANG_ENGLISH         "Search and Rescue eSports"
+
+REFERENCE            mlg_sr_abbrv
+LANG_ENGLISH         "S&R eSports"
+
+REFERENCE            mlg_sd_name
+LANG_ENGLISH         "Search and Destroy Competitive"
+
+REFERENCE            mlg_sd_abbrv
+LANG_ENGLISH         "S&D Competitive"
+
+REFERENCE            mlg_koth_name
+LANG_ENGLISH         "Hardpoint Competitive"
+
+REFERENCE            mlg_hardpoint_abbrv
+LANG_ENGLISH         "Hardpoint Competitive"
+
+REFERENCE            wrkfrmhm_desc
+LANG_ENGLISH         "Work from Home"
+
+REFERENCE            arena_1v1_sniper
+LANG_ENGLISH         "Gunfight 1v1 - Snipers Only"
+
+REFERENCE            arena3v3_snipers
+LANG_ENGLISH         "Gunfight 3v3 - Snipers Only"
+
+REFERENCE            april_fools_tdm_name
+LANG_ENGLISH         "Sweaty Tryhards"
+
+REFERENCE            wzltm_name
+LANG_ENGLISH         "Warzone LTM"
+
+REFERENCE            night_obj_desc
+LANG_ENGLISH         "A mix of objective game modes on night maps. "
+
+REFERENCE            night_name
+LANG_ENGLISH         "NVG"
+
+REFERENCE            night_hcmosh_name
+LANG_ENGLISH         "Hardcore Mosh Pit using Night maps."
+
+REFERENCE            night_dom_name1
+LANG_ENGLISH         "NVG Domination"
+
+REFERENCE            night_dom_name
+LANG_ENGLISH         "NVG Domination"
+
+REFERENCE            newref
+LANG_ENGLISH         "It's Raining Dead"
+
+REFERENCE            new_player_eval_2_name
+LANG_ENGLISH         "New player evaluation Tier 2"
+
+REFERENCE            mod_vet_landlord_name
+LANG_ENGLISH         "Headhunter - Modified Veteran"
+
+REFERENCE            mlg_dom_name
+LANG_ENGLISH         "Domination eSports"
+
+REFERENCE            mlg_dom_abbrv
+LANG_ENGLISH         "DOM eSports"
+
+REFERENCE            mlg_ctf_name
+LANG_ENGLISH         "Capture the Flag Competitive"
+
+REFERENCE            mlg_ctf_abbrv
+LANG_ENGLISH         "CTF Competitive"
+
+REFERENCE            mlg_blitz_name
+LANG_ENGLISH         "Blitz eSports"
+
+REFERENCE            merc_mosh_name
+LANG_ENGLISH         "Mercenary Mosh Pit"
+
+REFERENCE            melee_name2
+LANG_ENGLISH         "Close Shave"
+
+REFERENCE            mayhem_mosh_name
+LANG_ENGLISH         "Mayhem Moshpit"
+
+REFERENCE            mayhem_desc
+LANG_ENGLISH         "Team Deathmatch with Persistent Streaks enabled. Scorestreak progress doesn't reset on death."
+
+REFERENCE            mayhem_abbrv
+LANG_ENGLISH         "Mayhem"
+
+REFERENCE            mayhem
+LANG_ENGLISH         "Mayhem"
+
+REFERENCE            mapname_petrograd
+LANG_ENGLISH         "St. Petrograd Survival"
+
+REFERENCE            lny_name
+LANG_ENGLISH         "Lunar New Year"
+
+REFERENCE            lny_kc_name2
+LANG_ENGLISH         "LNY Kill Confirmed"
+
+REFERENCE            lny_kc_name
+LANG_ENGLISH         "Lunar New Year KC"
+
+REFERENCE            lny_2020_name
+LANG_ENGLISH         "Lunar New Year 2020"
+
+REFERENCE            leggun_name
+LANG_ENGLISH         "Legendary Gun Game"
+
+REFERENCE            legacy_levels_name
+LANG_ENGLISH         "Legacy Levels"
+
+REFERENCE            legacy_levels_desc
+LANG_ENGLISH         "IW6 Legacy Levels"
+
+REFERENCE            launderer_2_name
+LANG_ENGLISH         "Operation Strongbox"
+
+REFERENCE            horde_name
+LANG_ENGLISH         "Safeguard"
+
+REFERENCE            horde_abbrv
+LANG_ENGLISH         "Safeguard"
+
+REFERENCE            hitman_name
+LANG_ENGLISH         "Hit Man"
+
+REFERENCE            hired_name
+LANG_ENGLISH         "Hired Gun"
+
+REFERENCE            highbr_desc2
+LANG_ENGLISH         "High Action"
+
+REFERENCE            hideout_247_name
+LANG_ENGLISH         "Khandor Hideout 24/7"
+
+REFERENCE            hi_br_desc
+LANG_ENGLISH         "High Action BR"
+
+REFERENCE            hcoic_name
+LANG_ENGLISH         "HC One in the Chamber"
+
+REFERENCE            hchideout_name
+LANG_ENGLISH         "HC Khandor Hideout"
+
+REFERENCE            hcgrind_name
+LANG_ENGLISH         "HC Grind"
+
+REFERENCE            hcdr2dr_name
+LANG_ENGLISH         "HC Door to Door Delivery"
+
+REFERENCE            hcdomtdm_name
+LANG_ENGLISH         "HC Deathmatch Domination"
+
+REFERENCE            hccabin_name
+LANG_ENGLISH         "HC Cabin Fever"
+
+REFERENCE            hcaon_name
+LANG_ENGLISH         "HC All or Nothing"
+
+REFERENCE            hc_vacship247_name
+LANG_ENGLISH         "HC Shipment and Vacant 24/7"
+
+REFERENCE            hc_vacant_24_7
+LANG_ENGLISH         "HC Vacant 24/7"
+
+REFERENCE            hc_teamtac_name
+LANG_ENGLISH         "HC Team Tactical"
+
+REFERENCE            hc_tdm_name
+LANG_ENGLISH         "HC Team Deathmatch"
+
+REFERENCE            hc_tdm_desc
+LANG_ENGLISH         "Hardcore Team Deathmatch. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            hc_tdm_abbrv
+LANG_ENGLISH         "HC RIC TDM"
+
+REFERENCE            hc_summer_name
+LANG_ENGLISH         "HC Summer Games"
+
+REFERENCE            hc_sr_name
+LANG_ENGLISH         "HC Search and Rescue"
+
+REFERENCE            hc_sr_desc
+LANG_ENGLISH         "Hardcore Search and Rescue. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            hc_speedhide_desc
+LANG_ENGLISH         "HC Outhouse 24/7"
+
+REFERENCE            hc_speed_247
+LANG_ENGLISH         "HC Shoot House 24/7"
+
+REFERENCE            hc_sp_sh_ru_name
+LANG_ENGLISH         "HC Dirty Old Houseboat"
+
+REFERENCE            hc_shpmnt_247
+LANG_ENGLISH         "HC Shipment 24/7"
+
+REFERENCE            hc_shootship_name
+LANG_ENGLISH         "HC Shoot the Ship"
+
+REFERENCE            hc_season6_mosh
+LANG_ENGLISH         "HC Season Six Mosh Pit"
+
+REFERENCE            hc_season5_mosh
+LANG_ENGLISH         "HC Season Five Mosh Pit"
+
+REFERENCE            hc_hardpoint_name
+LANG_ENGLISH         "HC Hardpoint"
+
+REFERENCE            hc_hardpoint_desc
+LANG_ENGLISH         "Hardcore Hardpoint. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            hc_gw_name2
+LANG_ENGLISH         "Hardcore Ground War"
+
+REFERENCE            hc_gw_name
+LANG_ENGLISH         "HC Ground War"
+
+REFERENCE            hc_ffa_name
+LANG_ENGLISH         "HC Free-for-All"
+
+REFERENCE            hc_ffa_desc
+LANG_ENGLISH         "Hardcore Free-for-all. Limited HUD, low Health, and much more."
+
+REFERENCE            hc_emporium_name
+LANG_ENGLISH         "HC Doorbuster"
+
+REFERENCE            hc_arena_desc
+LANG_ENGLISH         "HC Gunfight"
+
+REFERENCE            hardpoint_test_missions_desc
+LANG_ENGLISH         "Hardpoint Missions"
+
+REFERENCE            hardpoint_name
+LANG_ENGLISH         "Hardpoint"
+
+REFERENCE            hardpoint_big_name
+LANG_ENGLISH         "Hardpoint 10v10"
+
+REFERENCE            hardpoint_abbrv
+LANG_ENGLISH         "Hardpoint"
+
+REFERENCE            hardhat247hc_name
+LANG_ENGLISH         "HC Hardhat 24/7"
+
+REFERENCE            hardhat247_name5
+LANG_ENGLISH         "Difficult Fedora"
+
+REFERENCE            hardhat247_name4
+LANG_ENGLISH         "A Little DIY"
+
+REFERENCE            hardhat247_name3
+LANG_ENGLISH         "Difficult Head Covering"
+
+REFERENCE            hardhat247_name2
+LANG_ENGLISH         "Protect Your Neck"
+
+REFERENCE            hardhat247_name
+LANG_ENGLISH         "Hardhat 24/7"
+
+REFERENCE            hardcore_name
+LANG_ENGLISH         "Hardcore"
+
+REFERENCE            hardcore_desc
+LANG_ENGLISH         "Hardcore Playlists featuring Hardcore game mode variants. No HUD. Limited Health."
+
+REFERENCE            gwinf_name5
+LANG_ENGLISH         "Reinfected"
+
+REFERENCE            gwinf_name4
+LANG_ENGLISH         "Reinfected Ground War"
+
+REFERENCE            gwinf_name3
+LANG_ENGLISH         "Ground War Infected"
+
+REFERENCE            gw_tdm_name
+LANG_ENGLISH         "Ground War TDM"
+
+REFERENCE            gw_tdm_desc
+LANG_ENGLISH         "64 Player Squad-Based Team Deathmatch"
+
+REFERENCE            gw_siege_name
+LANG_ENGLISH         "Ground War Reinforce"
+
+REFERENCE            gw_realism_name2
+LANG_ENGLISH         "Realism Ground War"
+
+REFERENCE            gw_realism_name
+LANG_ENGLISH         "Ground War Realism"
+
+REFERENCE            gw_quarry_name
+LANG_ENGLISH         "GW Karst River Quarry"
+
+REFERENCE            gw_notanks_name
+LANG_ENGLISH         "Tanks for the Memories"
+
+REFERENCE            gw_mix
+LANG_ENGLISH         "Placeholder"
+
+REFERENCE            gw_infantry_name
+LANG_ENGLISH         "Boots on the Ground War"
+
+REFERENCE            gw_farms2_name
+LANG_ENGLISH         "GW Krovnik Farmland"
+
+REFERENCE            gw_downtown_name1
+LANG_ENGLISH         "GW Tavorsk District"
+
+REFERENCE            gw_downtown_name
+LANG_ENGLISH         "GW Varskaya District"
+
+REFERENCE            gw_botg_name
+LANG_ENGLISH         "Ground War - Boots on the Ground"
+
+REFERENCE            gw_aniyah_name
+LANG_ENGLISH         "GW Aniyah Palace"
+
+REFERENCE            gununload_name
+LANG_ENGLISH         "Gun Game Unloaded"
+
+REFERENCE            gunrechamber_name
+LANG_ENGLISH         "Gun Game Rechambered"
+
+REFERENCE            gunfight_pro_name
+LANG_ENGLISH         "Gunfight Pro"
+
+REFERENCE            gunfight_osp_snipers
+LANG_ENGLISH         "Gunfight: OSP - Snipers Only"
+
+REFERENCE            gunfight_osp_name
+LANG_ENGLISH         "Gunfight: OSP"
+
+REFERENCE            gunfight_osp_desc
+LANG_ENGLISH         "Start with nothing and find your weapons."
+
+REFERENCE            gunfight_osp_3v3
+LANG_ENGLISH         "Gunfight 3v3: OSP"
+
+REFERENCE            gunfight_osp_1v1
+LANG_ENGLISH         "Gunfight 1v1: OSP"
+
+REFERENCE            gunfight_basedefend
+LANG_ENGLISH         "Gunfight: Base Defend"
+
+REFERENCE            gunblue_desc
+LANG_ENGLISH         "Be the first player to score a kill with each of the provided Weapon Blueprints. ^3Kills, Deaths, Win/Loss are not affected.^7"
+
+REFERENCE            gun_reloaded
+LANG_ENGLISH         "Gun Game Reloaded"
+
+REFERENCE            gun_name_v2
+LANG_ENGLISH         "Gun Game V2"
+
+REFERENCE            gun_name_epic
+LANG_ENGLISH         "Epic Gun Game"
+
+REFERENCE            gun_name
+LANG_ENGLISH         "Gun Game"
+
+REFERENCE            gun_game_desc
+LANG_ENGLISH         "Be the first player to score a kill with each one of the provided weapons. ^3Kills, Deaths, Win/Loss are not affected.^7"
+
+REFERENCE            gun_abbrv
+LANG_ENGLISH         "Gun Game"
+
+REFERENCE            ground_war_name
+LANG_ENGLISH         "Ground War"
+
+REFERENCE            ground_war_desc
+LANG_ENGLISH         "Large-scale conflict featuring vehicles. Capture and hold objectives to score. Captured objectives open forward spawning locations for your team."
+
+REFERENCE            grnd_variant_desc
+LANG_ENGLISH         "Hold the Drop Zone to earn points and Prototype Drone Packages."
+
+REFERENCE            grnd_name_variant
+LANG_ENGLISH         "Prototype Drop Zone"
+
+REFERENCE            grnd_name
+LANG_ENGLISH         "Drop Zone"
+
+REFERENCE            grnd_big_name
+LANG_ENGLISH         "Drop Zone 10v10"
+
+REFERENCE            grnd_abbrv
+LANG_ENGLISH         "Drop Zone"
+
+REFERENCE            grind_name
+LANG_ENGLISH         "Grind"
+
+REFERENCE            grind_big_name
+LANG_ENGLISH         "Grind 10v10"
+
+REFERENCE            grind_abbrv
+LANG_ENGLISH         "Grind"
+
+REFERENCE            grind_2v2
+LANG_ENGLISH         "Grind 2V2"
+
+REFERENCE            gf_osp_3v3_sniper
+LANG_ENGLISH         "Gunfight 3v3: OSP - Snipers Only"
+
+REFERENCE            gf_osp_1v1_sniper
+LANG_ENGLISH         "Gunfight 1v1: OSP - Snipers Only"
+
+REFERENCE            frontier_tdm_name
+LANG_ENGLISH         "Frontier TDM"
+
+REFERENCE            frontier_tdm_desc
+LANG_ENGLISH         "Frontier TDM"
+
+REFERENCE            frontier_dom_name
+LANG_ENGLISH         "Frontier DOM"
+
+REFERENCE            frontier_dom_desc
+LANG_ENGLISH         "Frontier DOM"
+
+REFERENCE            fnf_veteran_name
+LANG_ENGLISH         "FNF! - Veteran"
+
+REFERENCE            fnf_veteran_desc
+LANG_ENGLISH         "Fright Night Fights"
+
+REFERENCE            fnf_name
+LANG_ENGLISH         "Friday Night Fights"
+
+REFERENCE            fnf_casual_name
+LANG_ENGLISH         "FNF! - Casual"
+
+REFERENCE            fnf_casual_desc
+LANG_ENGLISH         "Fright Night Fights"
+
+REFERENCE            flyinf_name
+LANG_ENGLISH         "They can fly??"
+
+REFERENCE            fl_tdm_name
+LANG_ENGLISH         "Frontline"
+
+REFERENCE            fl_tdm_abbrv
+LANG_ENGLISH         "Frontline"
+
+REFERENCE            firesale_desc
+LANG_ENGLISH         "Fire Sale"
+
+REFERENCE            filtered_name
+LANG_ENGLISH         "Filtered"
+
+REFERENCE            fiesta_test_missions_name
+LANG_ENGLISH         "Mission Fiesta"
+
+REFERENCE            fiesta_test_missions_desc
+LANG_ENGLISH         "??Fiesta de misi??n!"
+
+REFERENCE            ffa_vlntn_name2
+LANG_ENGLISH         "Hot Singles in your area"
+
+REFERENCE            ffa_vlntn_name
+LANG_ENGLISH         "Singles Appreciation Day"
+
+REFERENCE            ffa_name
+LANG_ENGLISH         "Free-for-all"
+
+REFERENCE            ffa_bots_name
+LANG_ENGLISH         "Free-for-all with autofill"
+
+REFERENCE            ffa_bots_desc
+LANG_ENGLISH         "Every man for himself, bots autofill.  Kill everyone.
+__________
+Players: 1-8
+^;No Parties^7"
+
+REFERENCE            ffa_abbrv
+LANG_ENGLISH         "Free-for-all"
+
+REFERENCE            fallinf_name
+LANG_ENGLISH         "Falling Infected"
+
+REFERENCE            faceoff_tdm
+LANG_ENGLISH         "Face Off Team Deathmatch"
+
+REFERENCE            faceoff_kc
+LANG_ENGLISH         "Face Off Kill Confirmed"
+
+REFERENCE            faceoff_grind
+LANG_ENGLISH         "Face Off Grind"
+
+REFERENCE            face_off_name
+LANG_ENGLISH         "Face Off"
+
+REFERENCE            epicgun_name
+LANG_ENGLISH         "Epic Gun Game"
+
+REFERENCE            empspd_name
+LANG_ENGLISH         "Stocked Up, Locked Down"
+
+REFERENCE            emporium_247_name3
+LANG_ENGLISH         "Blue-Light Special"
+
+REFERENCE            emporium_247_name2
+LANG_ENGLISH         "Doorbuster"
+
+REFERENCE            emporium_247_name
+LANG_ENGLISH         "Atlas Superstore 24/7"
+
+REFERENCE            econstim_name
+LANG_ENGLISH         "Economic Stimulus"
+
+REFERENCE            duos_name
+LANG_ENGLISH         "DUOS"
+
+REFERENCE            duo_desc
+LANG_ENGLISH         "Duo Die"
+
+REFERENCE            dropinf_name2
+LANG_ENGLISH         "Drop Dead"
+
+REFERENCE            dropinf_name
+LANG_ENGLISH         "Dead Drop"
+
+REFERENCE            dr2dr_name
+LANG_ENGLISH         "Door to Door Delivery"
+
+REFERENCE            domtdm_name
+LANG_ENGLISH         "Deathmatch Domination"
+
+REFERENCE            dome_dusk_247_name
+LANG_ENGLISH         "Genesis Holiday 24/7"
+
+REFERENCE            dome_2_man_name
+LANG_ENGLISH         "2-man Frontier Only"
+
+REFERENCE            dome_2_man_desc
+LANG_ENGLISH         "Frontier Only
+__________
+Players: 2-18"
+
+REFERENCE            dome_18_man_bots_name
+LANG_ENGLISH         "18-man with autofill"
+
+REFERENCE            dome_18_man_bots_desc
+LANG_ENGLISH         "Bots only autofill
+__________
+Players: 2-18"
+
+REFERENCE            dom_vlntn_name
+LANG_ENGLISH         "Dominatrices"
+
+REFERENCE            dom_vlntn3
+LANG_ENGLISH         "Punish Me"
+
+REFERENCE            dom_vlntn2
+LANG_ENGLISH         "Hurts So Good"
+
+REFERENCE            dom_test_missions_name
+LANG_ENGLISH         "DOM Missions"
+
+REFERENCE            dom_test_missions_desc
+LANG_ENGLISH         "Domination Missions"
+
+REFERENCE            dom_name
+LANG_ENGLISH         "Domination"
+
+REFERENCE            dom_mix
+LANG_ENGLISH         "Domination using a mix of 6v6 and 10v10 maps. Capture and defend the designated positions to gain points."
+
+REFERENCE            dom_big_name
+LANG_ENGLISH         "Domination 10v10"
+
+REFERENCE            dom_abbrv
+LANG_ENGLISH         "Domination"
+
+REFERENCE            dmz_name
+LANG_ENGLISH         "DMZ"
+
+REFERENCE            dlc2_tdm_name
+LANG_ENGLISH         "Continuum TDM"
+
+REFERENCE            dlc2_tdm_desc
+LANG_ENGLISH         "Kill players on the opposing team with the new Continuum maps. The first team to reach the score limit wins!"
+
+REFERENCE            dlc2_moshpit_hc_name
+LANG_ENGLISH         "HC Continuum Moshpit"
+
+REFERENCE            dlc2_moshpit_hc_desc
+LANG_ENGLISH         "Play a mix of Hardcore game modes with the new Continuum maps."
+
+REFERENCE            dlc2_moshpit_desc
+LANG_ENGLISH         "Play a mix of game modes with the new Continuum maps."
+
+REFERENCE            dlc2_moshpit
+LANG_ENGLISH         "Continuum Moshpit"
+
+REFERENCE            dlc1_tdm_name
+LANG_ENGLISH         "Sabotage TDM"
+
+REFERENCE            dlc1_tdm_desc
+LANG_ENGLISH         "Kill players on the opposing team with the new Sabotage maps. The first team to reach the score limit wins!"
+
+REFERENCE            dlc1_moshpit_hc_name
+LANG_ENGLISH         "HC Sabotage Moshpit"
+
+REFERENCE            dlc1_moshpit_hc_desc
+LANG_ENGLISH         "Play a mix of Hardcore game modes with the new Sabotage maps."
+
+REFERENCE            dlc1_moshpit_desc
+LANG_ENGLISH         "Play a mix of game modes with the new Sabotage maps."
+
+REFERENCE            dlc1_moshpit
+LANG_ENGLISH         "Sabotage Moshpit"
+
+REFERENCE            dlc
+LANG_ENGLISH         "DLC"
+
+REFERENCE            dev_quad_xp_name
+LANG_ENGLISH         "IW6 Dev & Quad XP"
+
+REFERENCE            dev_quad_xp_desc
+LANG_ENGLISH         "Frontier-only playlist with more flexible number of players.
+For QA testing, this playlist gives Quad XP.
+__________
+Players: 2-18"
+
+REFERENCE            dev_name
+LANG_ENGLISH         "Dev"
+
+REFERENCE            dev_desc
+LANG_ENGLISH         "Dev Playlists"
+
+REFERENCE            dev_24_man_name
+LANG_ENGLISH         "IW7 Dev 24-man"
+
+REFERENCE            dev_24_man_desc
+LANG_ENGLISH         "IW7 Dev 24-man"
+
+REFERENCE            dev_24_man_2p_start_name
+LANG_ENGLISH         "IW7 Dev 24-man - 2 Player Start"
+
+REFERENCE            dev_24_man_2p_start_desc
+LANG_ENGLISH         "IW7 Dev 24-man"
+
+REFERENCE            demo_name
+LANG_ENGLISH         "Demolition"
+
+REFERENCE            demo_abbrv
+LANG_ENGLISH         "Demolition"
+
+REFERENCE            dealer_name
+LANG_ENGLISH         "Operation Paladin"
+
+REFERENCE            dealer_desc
+LANG_ENGLISH         "Go behind enemy lines, extract Dr. Linda Morales, and use her intel to hunt "Mr Z"- benefactor and source of AQ's new arsenal."
+
+REFERENCE            dealer2_name
+LANG_ENGLISH         "Operation Crosswind"
+
+REFERENCE            dealer2_desc
+LANG_ENGLISH         "Infiltrate the AQ-occupied Verdansk Airport, board the hijacked 747, and recover its deadly cargo."
+
+REFERENCE            cyber_vlntn_name
+LANG_ENGLISH         "Virtual Rendezvous"
+
+REFERENCE            cyber_vlntn2
+LANG_ENGLISH         "Wanna Cyber?"
+
+REFERENCE            cyber_pro_name
+LANG_ENGLISH         "Cyber Attack Pro"
+
+REFERENCE            cyber_name
+LANG_ENGLISH         "Cyber Attack"
+
+REFERENCE            cyber_hc_desc
+LANG_ENGLISH         "Hardcore Cyber Attack. Limited HUD, low Health, friendly fire enabled and much more."
+
+REFERENCE            cyber_big_name
+LANG_ENGLISH         "Cyber Attack 10v10"
+
+REFERENCE            ctf_name
+LANG_ENGLISH         "Capture the Flag"
+
+REFERENCE            ctf_abbrv
+LANG_ENGLISH         "Capture the Flag"
+
+REFERENCE            ctdm_test_missions_name
+LANG_ENGLISH         "CTDM Missions"
+
+REFERENCE            ctdm_test_missions_desc
+LANG_ENGLISH         "Casual Team Deathmatch Missions"
+
+REFERENCE            cshadv_name
+LANG_ENGLISH         "Cash Advance"
+
+REFERENCE            crnkgrnd_name21
+LANG_ENGLISH         "Cranked Bankers"
+
+REFERENCE            crnkgrnd_name2
+LANG_ENGLISH         "Same Day Delivery"
+
+REFERENCE            crnkgrnd_name
+LANG_ENGLISH         "Drop Zone and Cranked"
+
+REFERENCE            crnkdomtdm_name
+LANG_ENGLISH         "Cranked Deathmatch Domination"
+
+REFERENCE            crnkarena3v3_name
+LANG_ENGLISH         "Cranked Gunfight 3v3"
+
+REFERENCE            crashhouse_247
+LANG_ENGLISH         "Crash and Shoot House 24/7"
+
+REFERENCE            crash_24_7
+LANG_ENGLISH         "Crash 24/7"
+
+REFERENCE            crankgrind_name
+LANG_ENGLISH         "Cranked and Banked"
+
+REFERENCE            crankedgun_name
+LANG_ENGLISH         "Cranked Gun Game"
+
+REFERENCE            cranked_name
+LANG_ENGLISH         "Cranked"
+
+REFERENCE            cranked_koth_name
+LANG_ENGLISH         "Cranked Hardpoint"
+
+REFERENCE            cranked_kc_name
+LANG_ENGLISH         "Cranked Kill Confirmed"
+
+REFERENCE            cranked_infected_name
+LANG_ENGLISH         "Cranked Infected"
+
+REFERENCE            cranked_hq_name
+LANG_ENGLISH         "Cranked Headquarters"
+
+REFERENCE            cranked_dom_name
+LANG_ENGLISH         "Cranked Domination"
+
+REFERENCE            cranked_desc
+LANG_ENGLISH         "Kills give you speed perks and activate a bomb countdown on your character. Chain kills to refresh your countdown and earn 2x scoring for your team."
+
+REFERENCE            cranked_big_name
+LANG_ENGLISH         "Cranked 10v10"
+
+REFERENCE            cranked_abbrv
+LANG_ENGLISH         "Cranked"
+
+REFERENCE            crankarena_name
+LANG_ENGLISH         "Cranked Gunfight"
+
+REFERENCE            cr_kc_name
+LANG_ENGLISH         "Cranked Confirmed"
+
+REFERENCE            cqb_name
+LANG_ENGLISH         "CQB Mosh Pit"
+
+REFERENCE            cp_zmb_qa_desc
+LANG_ENGLISH         "cp_zmb playlist for QA
+__________
+Players: 4"
+
+REFERENCE            cp_zmb_devs_desc
+LANG_ENGLISH         "cp_zmb playlist for devs
+__________
+Players: 4"
+
+REFERENCE            cp_tvstation_name
+LANG_ENGLISH         "CP_TVSTATION"
+
+REFERENCE            cp_trainyard_name
+LANG_ENGLISH         "CP_TRAINYARD"
+
+REFERENCE            cp_torez_name
+LANG_ENGLISH         "CP_TOREZ"
+
+REFERENCE            cp_titan_name
+LANG_ENGLISH         "^3CP Titan^7"
+
+REFERENCE            cp_titan_desc
+LANG_ENGLISH         "Base Building Gameplay on cp_titan
+__________
+Players: 3-4
+
+DLC: Devastation Exclusive"
+
+REFERENCE            cp_sv_speed_name
+LANG_ENGLISH         "Shoot House"
+
+REFERENCE            cp_sv_speed_desc
+LANG_ENGLISH         "Wave Survival in Shoot House."
+
+REFERENCE            cp_sv_raid_name
+LANG_ENGLISH         "Raid Survival"
+
+REFERENCE            cp_sv_raid_desc
+LANG_ENGLISH         "Wave Survival in Grazna Raid."
+
+REFERENCE            cp_sv_piccadilly_desc
+LANG_ENGLISH         "Wave Survival in Piccadilly."
+
+REFERENCE            cp_sv_petrograd_name
+LANG_ENGLISH         "St. Petrograd"
+
+REFERENCE            cp_sv_petrograd_desc
+LANG_ENGLISH         "Wave Survival in Petrograd."
+
+REFERENCE            cp_sv_crash_desc
+LANG_ENGLISH         "Wave Survival in Crash."
+
+REFERENCE            cp_sv_cave_pm_name
+LANG_ENGLISH         "Azhir Cave"
+
+REFERENCE            cp_sv_cave_pm
+LANG_ENGLISH         "Wave Survival in Azhir Cave"
+
+REFERENCE            cp_sv_aniyah_name
+LANG_ENGLISH         "Aniyah Survival"
+
+REFERENCE            cp_sv_aniyah_desc
+LANG_ENGLISH         "Wave Survival in Aniyah Palace."
+
+REFERENCE            cp_survive_desc
+LANG_ENGLISH         "Reach the Farm and locate the secret weapon."
+
+REFERENCE            cp_survival_mode
+LANG_ENGLISH         "Survival"
+
+REFERENCE            cp_suburbs09_a_name
+LANG_ENGLISH         "CP_SUBURBS09_A"
+
+REFERENCE            cp_strike_mode
+LANG_ENGLISH         "Rescue the Hostage"
+
+REFERENCE            cp_stk_hackney_name
+LANG_ENGLISH         "Hackney"
+
+REFERENCE            cp_stk_faridah_name
+LANG_ENGLISH         "Faridah"
+
+REFERENCE            cp_stk_embassy_name
+LANG_ENGLISH         "Embassy"
+
+REFERENCE            cp_stk_desc
+LANG_ENGLISH         "Locate and rescue the HVT, then reach the exfil."
+
+REFERENCE            cp_sos_map_name
+LANG_ENGLISH         "No Man's Land"
+
+REFERENCE            cp_smuggler_name
+LANG_ENGLISH         "North Verdansk"
+
+REFERENCE            cp_ship_assault_name
+LANG_ENGLISH         "^3Ship Assault^7"
+
+REFERENCE            cp_ship_assault_desc
+LANG_ENGLISH         "Co-op Ship Assault mission on cp_jackal_ass - for Devs
+__________
+Players: 3-4
+
+DLC: Devastation Exclusive"
+
+REFERENCE            cp_scaletest_name
+LANG_ENGLISH         "Scaletest"
+
+REFERENCE            cp_rion_strike_name
+LANG_ENGLISH         "CP_RION_STRIKE"
+
+REFERENCE            cp_recording_desc
+LANG_ENGLISH         "Use this playlist to capture footage.
+5p min players."
+
+REFERENCE            cp_rave_qa_name
+LANG_ENGLISH         "Rave in the Redwoods"
+
+REFERENCE            cp_raid_pt_2_name
+LANG_ENGLISH         "Raid Part 2"
+
+REFERENCE            cp_raid_pt_1_name
+LANG_ENGLISH         "Raid Part 1"
+
+REFERENCE            cp_raid_phase1_name
+LANG_ENGLISH         "CP_RAID_PHASE1"
+
+REFERENCE            cp_quarry2_name
+LANG_ENGLISH         "CP_QUARRY2"
+
+REFERENCE            cp_pvpvz_desc
+LANG_ENGLISH         "Kill all enemy teams. Find equipment in the world. Kill the boss for the wonder weapon. Gunfire alerts infected and players."
+
+REFERENCE            cp_pvpve_mode
+LANG_ENGLISH         "Team Stay Alive"
+
+REFERENCE            cp_pvpve_farm_name
+LANG_ENGLISH         "The Farm"
+
+REFERENCE            cp_proto_desc
+LANG_ENGLISH         "Escape Prototype Game Mode"
+
+REFERENCE            cp_proto
+LANG_ENGLISH         "Escape Proto"
+
+REFERENCE            cp_prison
+LANG_ENGLISH         "CP_PRISON"
+
+REFERENCE            cp_piccadilly_name
+LANG_ENGLISH         "Piccadilly Survival"
+
+REFERENCE            cp_milbase_name
+LANG_ENGLISH         "CP_MILBASE"
+
+REFERENCE            cp_layover_name
+LANG_ENGLISH         "CP_LAYOVER"
+
+REFERENCE            cp_landlord_name
+LANG_ENGLISH         "East Verdansk"
+
+REFERENCE            cp_landlord_2_name
+LANG_ENGLISH         "North-East Verdansk"
+
+REFERENCE            cp_lab_name
+LANG_ENGLISH         "Lab"
+
+REFERENCE            cp_jorgetest_name
+LANG_ENGLISH         "CP_JORGETEST"
+
+REFERENCE            cp_gulag_name
+LANG_ENGLISH         "CP_GULAG"
+
+REFERENCE            cp_firingrange_name
+LANG_ENGLISH         "Firing Range"
+
+REFERENCE            cp_dwn_twn_name
+LANG_ENGLISH         "CP_DWN_TWN"
+
+REFERENCE            cp_dwn_twn_2_name
+LANG_ENGLISH         "Downtown Verdansk"
+
+REFERENCE            cp_donetsk_name
+LANG_ENGLISH         "Donetsk"
+
+REFERENCE            cp_disco_qa_name
+LANG_ENGLISH         "Shaolin Shuffle"
+
+REFERENCE            cp_chase_name
+LANG_ENGLISH         "CP_CHASE"
+
+REFERENCE            cp_br_syrk_name
+LANG_ENGLISH         "SYRK"
+
+REFERENCE            cp_bomb_test_name
+LANG_ENGLISH         "CP_BOMB_TEST"
+
+REFERENCE            cp_blockade_name
+LANG_ENGLISH         "CP_BLOCKADE"
+
+REFERENCE            cp_armsrace_name
+LANG_ENGLISH         "CP_ARMSRACE"
+
+REFERENCE            cp_arms_dealer_name
+LANG_ENGLISH         "West Verdansk"
+
+REFERENCE            cp_apmaint_name
+LANG_ENGLISH         "CP_APMAINT"
+
+REFERENCE            cp_ai_check_name
+LANG_ENGLISH         "AI Check"
+
+REFERENCE            conquest_name
+LANG_ENGLISH         "Conquest"
+
+REFERENCE            conquest_desc
+LANG_ENGLISH         "Conquest playlist featuring common game modes."
+
+REFERENCE            conkill_name
+LANG_ENGLISH         "Contract Killer"
+
+REFERENCE            conf_test_missions_name
+LANG_ENGLISH         "CONF Missions"
+
+REFERENCE            conf_test_missions_desc
+LANG_ENGLISH         "Kill Confirmed Missions"
+
+REFERENCE            conf_name
+LANG_ENGLISH         "Kill Confirmed"
+
+REFERENCE            conf_abbrv
+LANG_ENGLISH         "Kill Confirmed"
+
+REFERENCE            competition_moshpit_desc
+LANG_ENGLISH         "Moshpit featuring Hardpoint, Uplink and Search & Destroy game modes. -Competitive Rules"
+
+REFERENCE            competition_moshpit
+LANG_ENGLISH         "Competition Moshpit"
+
+REFERENCE            competition
+LANG_ENGLISH         "Competition"
+
+REFERENCE            cod_summer_name
+LANG_ENGLISH         "Call of Duty Summer Games"
+
+REFERENCE            co_op_name
+LANG_ENGLISH         "Co-Op"
+
+REFERENCE            co_op_desc
+LANG_ENGLISH         "Chapter 1"
+
+REFERENCE            cntrct_clr_name
+LANG_ENGLISH         "Contract Closer"
+
+REFERENCE            classic_so_desc
+LANG_ENGLISH         "A replayable, curated experience where your proficiency with specific weapons, killstreaks, and other tools will be tested."
+
+REFERENCE            classic_so
+LANG_ENGLISH         "Classic Special Ops"
+
+REFERENCE            class_so_highway_name
+LANG_ENGLISH         "Safeguard"
+
+REFERENCE            class_so_highway_desc
+LANG_ENGLISH         "Classic Special Ops: Safeguard"
+
+REFERENCE            clan_objectives_name
+LANG_ENGLISH         "Clan Objectives"
+
+REFERENCE            clan_objectives_desc
+LANG_ENGLISH         "4v4 Clan Objective Modes.
+#CODeSports Rules
+__________
+Players: 8"
+
+REFERENCE            chaos_moshpit_desc
+LANG_ENGLISH         "Small maps with a variety of game modes"
+
+REFERENCE            chaos_moshpit
+LANG_ENGLISH         "Chaos Moshpit"
+
+REFERENCE            cdl_sd_name
+LANG_ENGLISH         "CDL Search and Destroy"
+
+REFERENCE            cdl_koth_name
+LANG_ENGLISH         "CDL Hardpoint"
+
+REFERENCE            cdl_dom_name
+LANG_ENGLISH         "CDL Domination"
+
+REFERENCE            cagematch_name
+LANG_ENGLISH         "Cage Match"
+
+REFERENCE            brtroopers_name
+LANG_ENGLISH         "BR Troopers"
+
+REFERENCE            brtriostim_name2
+LANG_ENGLISH         "BR Stimulus Trios"
+
+REFERENCE            brtriostim_name
+LANG_ENGLISH         "BR Trios Stimulus"
+
+REFERENCE            brtrioshsnp_name
+LANG_ENGLISH         "BR Trios Scopes and Scatter Guns"
+
+REFERENCE            brtriosand_name2
+LANG_ENGLISH         "BR Sandbox Trios"
+
+REFERENCE            brtriosand_name
+LANG_ENGLISH         "BR Trios Sandbox"
+
+REFERENCE            brtrios_name
+LANG_ENGLISH         "BR Trios"
+
+REFERENCE            brtriojugg_name
+LANG_ENGLISH         "BR Trios Juggernaut"
+
+REFERENCE            brtdm_name
+LANG_ENGLISH         "TDM Anywhere"
+
+REFERENCE            brstim_name
+LANG_ENGLISH         "BR Stimulus"
+
+REFERENCE            brsolostim_name2
+LANG_ENGLISH         "BR Stimulus Solos"
+
+REFERENCE            brsolostim_name
+LANG_ENGLISH         "BR Solos Stimulus"
+
+REFERENCE            brsoloshsnp_name
+LANG_ENGLISH         "BR Solos Scopes and Scatter Guns"
+
+REFERENCE            brsolosand_name2
+LANG_ENGLISH         "BR Sandbox Solos"
+
+REFERENCE            brsolosand_name
+LANG_ENGLISH         "BR Solos Sandbox"
+
+REFERENCE            brsoloone_name
+LANG_ENGLISH         "BR Solos One Shot"
+
+REFERENCE            brsolojugg_name2
+LANG_ENGLISH         "BR Juggernaut Solos"
+
+REFERENCE            brsolojugg_name
+LANG_ENGLISH         "BR Solo Juggernaut"
+
+REFERENCE            brsolo_name
+LANG_ENGLISH         "BR Solos"
+
+REFERENCE            brsolo_gulag
+LANG_ENGLISH         "BR Solos INFINITE GULAG"
+
+REFERENCE            brsolo_fastname
+LANG_ENGLISH         "BR Solos Fast Collapse"
+
+REFERENCE            brshsnp_name
+LANG_ENGLISH         "BR Scopes and Scatter Guns"
+
+REFERENCE            brshsnp2_name
+LANG_ENGLISH         "BR Shotty Snipers"
+
+REFERENCE            brsand_name
+LANG_ENGLISH         "BR Sandbox"
+
+REFERENCE            brrlh4_name
+LANG_ENGLISH         "BR Quads Run Like Hell"
+
+REFERENCE            brrlh3_name
+LANG_ENGLISH         "BR Trios Run Like Hell"
+
+REFERENCE            brrlh2_name
+LANG_ENGLISH         "BR Duos Run Like Hell"
+
+REFERENCE            brrlh1_name
+LANG_ENGLISH         "BR Solos Run Like Hell"
+
+REFERENCE            brquadstim_name2
+LANG_ENGLISH         "BR Stimulus Quads"
+
+REFERENCE            brquadstim_name
+LANG_ENGLISH         "BR Quads Stimulus"
+
+REFERENCE            brquadshsnp_name
+LANG_ENGLISH         "BR Quads Scopes and Scatter Guns"
+
+REFERENCE            brquadsand_name2
+LANG_ENGLISH         "BR Sandbox Quads"
+
+REFERENCE            brquadsand_name
+LANG_ENGLISH         "BR Quads Sandbox"
+
+REFERENCE            brquads_name
+LANG_ENGLISH         "BR Quads"
+
+REFERENCE            brquadone_name
+LANG_ENGLISH         "BR Quads One Shot"
+
+REFERENCE            brquadjugg_name2
+LANG_ENGLISH         "BR Juggernaut Quads"
+
+REFERENCE            brquadjugg_name
+LANG_ENGLISH         "BR Quads Juggernaut"
+
+REFERENCE            brquad_gulag
+LANG_ENGLISH         "BR Quads INFINITE GULAG"
+
+REFERENCE            brpewpew4_name
+LANG_ENGLISH         "BR Quads Pew Pew"
+
+REFERENCE            brpewpew3_name
+LANG_ENGLISH         "BR Trios Pew Pew"
+
+REFERENCE            brpewpew2_name
+LANG_ENGLISH         "BR Duos Pew Pew"
+
+REFERENCE            brpewpew1_name
+LANG_ENGLISH         "BR Solos Pew Pew"
+
+REFERENCE            broneshottrios_desc
+LANG_ENGLISH         "BR Trios One Shot"
+
+REFERENCE            broneshot_desc
+LANG_ENGLISH         "BR One Shot"
+
+REFERENCE            brnonstop4_name
+LANG_ENGLISH         "BR Quads Nonstop"
+
+REFERENCE            brnonstop3_name
+LANG_ENGLISH         "BR Trios Nonstop"
+
+REFERENCE            brnonstop2_name
+LANG_ENGLISH         "BR Duos Nonstop"
+
+REFERENCE            brnonstop1_name
+LANG_ENGLISH         "BR Solos Nonstop"
+
+REFERENCE            brmw_name
+LANG_ENGLISH         "BR Most Wanted"
+
+REFERENCE            brmw4_name
+LANG_ENGLISH         "BR Quads Most Wanted"
+
+REFERENCE            brmw3_name
+LANG_ENGLISH         "BR Trios Most Wanted"
+
+REFERENCE            brmw2_name
+LANG_ENGLISH         "BR Duos Most Wanted"
+
+REFERENCE            brmw1_name
+LANG_ENGLISH         "BR Solos Most Wanted"
+
+REFERENCE            brlifeins_name
+LANG_ENGLISH         "BR Life Insurance"
+
+REFERENCE            brjugg_name3
+LANG_ENGLISH         "Juggernaut"
+
+REFERENCE            brjugg_name2
+LANG_ENGLISH         "Juggernaut BR"
+
+REFERENCE            brjugg_name
+LANG_ENGLISH         "BR Juggernaut"
+
+REFERENCE            brinflation_name
+LANG_ENGLISH         "BR Inflation"
+
+REFERENCE            brinfgulag4_name
+LANG_ENGLISH         "BR Quads Infinite Gulag"
+
+REFERENCE            brinfgulag3_name
+LANG_ENGLISH         "BR Trios Infinite Gulag"
+
+REFERENCE            brinfgulag2_name
+LANG_ENGLISH         "BR Duos Infinite Gulag"
+
+REFERENCE            brinfgulag1_name
+LANG_ENGLISH         "BR Solos Infinite Gulag"
+
+REFERENCE            brinfgul_name
+LANG_ENGLISH         "BR INFINITE GULAG"
+
+REFERENCE            brinf_name
+LANG_ENGLISH         "BR Inflation"
+
+REFERENCE            brinf4_name
+LANG_ENGLISH         "BR Quads Bottom Line"
+
+REFERENCE            brinf3_name
+LANG_ENGLISH         "BR Trios Bottom Line"
+
+REFERENCE            brinf2_name
+LANG_ENGLISH         "BR Duos Bottom Line"
+
+REFERENCE            brinf1_name
+LANG_ENGLISH         "BR Solos Bottom Line"
+
+REFERENCE            brhired_name
+LANG_ENGLISH         "BR Hired Gun"
+
+REFERENCE            brhi_name2
+LANG_ENGLISH         "BR-ly Legal"
+
+REFERENCE            brhedfun_name
+LANG_ENGLISH         "BR Hedge Fund"
+
+REFERENCE            brfast_name2
+LANG_ENGLISH         "Run Like Hell"
+
+REFERENCE            brduostim_name2
+LANG_ENGLISH         "BR Stimulus Duos"
+
+REFERENCE            brduostim_name
+LANG_ENGLISH         "BR Duos Stimulus"
+
+REFERENCE            brduosone_name
+LANG_ENGLISH         "BR Duos One Shot"
+
+REFERENCE            brduoshsnp_name
+LANG_ENGLISH         "BR Duos Scopes and Scatter Guns"
+
+REFERENCE            brduosand_name2
+LANG_ENGLISH         "BR Sandbox Duos"
+
+REFERENCE            brduosand_name
+LANG_ENGLISH         "BR Duos Sandbox"
+
+REFERENCE            brduos_name
+LANG_ENGLISH         "BR Duos"
+
+REFERENCE            brduojugg_name2
+LANG_ENGLISH         "BR Juggernaut Duos"
+
+REFERENCE            brduojugg_name
+LANG_ENGLISH         "BR Duos Juggernaut"
+
+REFERENCE            brduo_gulag
+LANG_ENGLISH         "BR Duos INFINITE GULAG"
+
+REFERENCE            brclaust_desc
+LANG_ENGLISH         "BR CLAUSTROPHOBIA"
+
+REFERENCE            brclassic4_name
+LANG_ENGLISH         "BR Quads Classic"
+
+REFERENCE            brclassic3_name
+LANG_ENGLISH         "BR Trios Classic"
+
+REFERENCE            brclassic2_name
+LANG_ENGLISH         "BR Duos Classic"
+
+REFERENCE            brclassic1_name
+LANG_ENGLISH         "BR Solos Classic"
+
+REFERENCE            brbyol4_name
+LANG_ENGLISH         "BR Quads BYOL"
+
+REFERENCE            brbyol3_name
+LANG_ENGLISH         "BR Trios BYOL"
+
+REFERENCE            brbyol2_name
+LANG_ENGLISH         "BR Duos BYOL"
+
+REFERENCE            brbyol1_name
+LANG_ENGLISH         "BR Solos BYOL"
+
+REFERENCE            br_trios
+LANG_ENGLISH         "Battle Royale Trios"
+
+REFERENCE            br_solos
+LANG_ENGLISH         "Battle Royale Solos"
+
+REFERENCE            br_real_name
+LANG_ENGLISH         "Realism Battle Royale"
+
+REFERENCE            br_rags_name
+LANG_ENGLISH         "Rags to Riches"
+
+REFERENCE            br_quads
+LANG_ENGLISH         "Battle Royale Quads"
+
+REFERENCE            br_qa_name
+LANG_ENGLISH         "BR QA"
+
+REFERENCE            br_onesht_name
+LANG_ENGLISH         "Pistolero"
+
+REFERENCE            br_name
+LANG_ENGLISH         "Last Stand"
+
+REFERENCE            br_hi_desc
+LANG_ENGLISH         "BR High Action"
+
+REFERENCE            br_fast_name
+LANG_ENGLISH         "Claustrophobia"
+
+REFERENCE            br_fast3
+LANG_ENGLISH         "Constriction"
+
+REFERENCE            br_duos
+LANG_ENGLISH         "Battle Royale Duos"
+
+REFERENCE            br_cont_name
+LANG_ENGLISH         "BR Contract Killer"
+
+REFERENCE            br_cheese_name
+LANG_ENGLISH         "Battle Royale... with Cheese"
+
+REFERENCE            br_abbrv
+LANG_ENGLISH         "Last Stand"
+
+REFERENCE            bots_dev_name
+LANG_ENGLISH         "MP Bots Dev"
+
+REFERENCE            bots_dev_desc
+LANG_ENGLISH         "MP Bots Development Playlists"
+
+REFERENCE            bluearena_name2
+LANG_ENGLISH         "Gunfight 3v3 - Blueprint"
+
+REFERENCE            bluearena_name1
+LANG_ENGLISH         "Blueprint Gunfight 3v3"
+
+REFERENCE            blprntgf_name2
+LANG_ENGLISH         "Gunfight - Blueprint"
+
+REFERENCE            blprntgf_name
+LANG_ENGLISH         "Blueprint Gunfight"
+
+REFERENCE            bloodmoney_name
+LANG_ENGLISH         "Plunder"
+
+REFERENCE            blitz_name
+LANG_ENGLISH         "Blitz"
+
+REFERENCE            blitz_abbrv
+LANG_ENGLISH         "Blitz"
+
+REFERENCE            bldmnytrio_name
+LANG_ENGLISH         "Blood Money Trios"
+
+REFERENCE            bldmnyquad_name
+LANG_ENGLISH         "Blood Money Quads"
+
+REFERENCE            big_moshpit
+LANG_ENGLISH         "10v10 Mosh Pit"
+
+REFERENCE            big_infect_name
+LANG_ENGLISH         "Giant Infection"
+
+REFERENCE            big_infect_alt3
+LANG_ENGLISH         "Infestation"
+
+REFERENCE            big_infect_alt2
+LANG_ENGLISH         "That looks Infected"
+
+REFERENCE            big_infect_alt
+LANG_ENGLISH         "Outbreak"
+
+REFERENCE            battle_royale
+LANG_ENGLISH         "Battle Royale"
+
+REFERENCE            base_building_name
+LANG_ENGLISH         "Base Building"
+
+REFERENCE            base_building_desc
+LANG_ENGLISH         ""
+
+REFERENCE            backlot247_name
+LANG_ENGLISH         "Talsik Backlot 24/7"
+
+REFERENCE            arm_valntn_name
+LANG_ENGLISH         "Friends with Benefits"
+
+REFERENCE            arenavip_name
+LANG_ENGLISH         "Gunfight VIP"
+
+REFERENCE            arenagun_name
+LANG_ENGLISH         "Gunfight Gun Game"
+
+REFERENCE            arenachamber_name
+LANG_ENGLISH         "Gunfight Rechambered"
+
+REFERENCE            arenablue_name3
+LANG_ENGLISH         "Gunfight Blueprints"
+
+REFERENCE            arena_vlntn_name2
+LANG_ENGLISH         "Couples Retreat"
+
+REFERENCE            arena_vlntn_name
+LANG_ENGLISH         "Double Date"
+
+REFERENCE            arena_snow_name
+LANG_ENGLISH         "Snowball Gunfight"
+
+REFERENCE            arena_snipers
+LANG_ENGLISH         "Gunfight - Snipers Only"
+
+REFERENCE            arena_reloaded
+LANG_ENGLISH         "Gunfight Reloaded"
+
+REFERENCE            arena_regen_name
+LANG_ENGLISH         "Gunfight: Regeneration"
+
+REFERENCE            arena_name
+LANG_ENGLISH         "Gunfight"
+
+REFERENCE            arena_knives
+LANG_ENGLISH         "Gunfight - Knives Only"
+
+REFERENCE            arena_custom_name
+LANG_ENGLISH         "Gunfight Custom"
+
+REFERENCE            arena_abbrv
+LANG_ENGLISH         "Gunfight"
+
+REFERENCE            arena_3v3_vlntn2
+LANG_ENGLISH         "Three's a Crowd"
+
+REFERENCE            arena_3v3_vlntn
+LANG_ENGLISH         "Third Wheel"
+
+REFERENCE            arena_3v3_sniper
+LANG_ENGLISH         "Gunfight 3v3 - Snipers Only"
+
+REFERENCE            arena_3v3_osp
+LANG_ENGLISH         "Gunfight OSP 3v3"
+
+REFERENCE            arena_1v1_name
+LANG_ENGLISH         "Gunfight 1v1"
+
+REFERENCE            arena3v3_knives
+LANG_ENGLISH         "Gunfight 3v3 - Knives Only"
+
+REFERENCE            april_fools_tdef_name
+LANG_ENGLISH         "I can haz ball?"
+
+REFERENCE            april_fools_sd_name
+LANG_ENGLISH         "YOLO"
+
+REFERENCE            april_fools_hardpoint_name
+LANG_ENGLISH         "STAY OFF MY LAWN!"
+
+REFERENCE            april_fools_gun_name
+LANG_ENGLISH         "All the guns"
+
+REFERENCE            april_fools_ground_war_name
+LANG_ENGLISH         "Bigly War"
+
+REFERENCE            april_fools_fl_tdm_name
+LANG_ENGLISH         "n00b central"
+
+REFERENCE            april_fools_ffa_name
+LANG_ENGLISH         "Me to Me: 'You got this'"
+
+REFERENCE            april_fools_dom_name
+LANG_ENGLISH         "Bro, do you even cap?"
+
+REFERENCE            april_fools_conf_name
+LANG_ENGLISH         "Tags or it didn't happen"
+
+REFERENCE            apr1_boys_name2
+LANG_ENGLISH         "They only want one thing..."
+
+REFERENCE            apr1_boys_name
+LANG_ENGLISH         "COD Players only want one thing..."
+
+REFERENCE            aon_name
+LANG_ENGLISH         "All or Nothing"
+
+REFERENCE            aon_desc
+LANG_ENGLISH         "Spawn with a custom pistol, throwing knife and no starting ammo. Extra perks are gained on kills, but you lose everything on death."
+
+REFERENCE            aon_abbrv
+LANG_ENGLISH         "AON"
+
+REFERENCE            aniyahtac247_name
+LANG_ENGLISH         "Aniyah Incursion 24/7"
+
+REFERENCE            aniyah_48_tdm
+LANG_ENGLISH         "Aniyah Palace TDM"
+
+REFERENCE            aniyah_48_moshpit
+LANG_ENGLISH         "Aniyah Palace Mosh Pit"
+
+REFERENCE            alt_game_desc
+LANG_ENGLISH         "Cranked, Grind, and Drop Zone"
+
+REFERENCE            aliens_name
+LANG_ENGLISH         "Extinction"
+
+REFERENCE            3v3knife_name
+LANG_ENGLISH         "3v3 Knife Fight"
+
+REFERENCE            3v3crankarena_name
+LANG_ENGLISH         "3v3 Cranked Gunfight"
+
+REFERENCE            10v10_shipment
+LANG_ENGLISH         "10v10 Shipment"
+
+REFERENCE            10v10_ship_name
+LANG_ENGLISH         "10v10 Shipment"
+
+REFERENCE            hc_sr_abbrv
+LANG_ENGLISH         "HC RIC S&R"
+
+REFERENCE            infect_pistol_abbrv
+LANG_ENGLISH         "Pistols vs Knives"
+
+REFERENCE            infect_shotgun_abbrv
+LANG_ENGLISH         "Shotguns vs Knives"
+
+REFERENCE            infect_smg_abbrv
+LANG_ENGLISH         "SMGs vs Knives"
+
+REFERENCE            infect_sniper_abbrv
+LANG_ENGLISH         "Snipers vs Knives"
+
+REFERENCE            infect_supers_abbrv
+LANG_ENGLISH         "Payloads Enabled"
+
+REFERENCE            infected_desc
+LANG_ENGLISH         "Eliminated Survivors become Infected.  Infect everyone, or survive the game to win. ^3Kills, Deaths, Win/Loss are not affected.^7"
+
+REFERENCE            infected_gw
+LANG_ENGLISH         "Infected with way more players. There are more infected from the start, so find a hiding place fast. ^3Kills, Deaths, Win/Loss are not affected.^7"
+
+REFERENCE            inflat_name
+LANG_ENGLISH         "Inflation"
+
+REFERENCE            infrev_br_name
+LANG_ENGLISH         "Mo' Gulag, Mo' Problems"
+
+REFERENCE            iw_summer_name
+LANG_ENGLISH         "Infinity Ward Summer Games"
+
+REFERENCE            kc_and_frontline
+LANG_ENGLISH         "Kill Confirmed / Frontline"
+
+REFERENCE            kc_and_frontline_desc
+LANG_ENGLISH         "Playlist featuring Kill Confirmed and Frontline game modes."
+
+REFERENCE            kc_big_name
+LANG_ENGLISH         "Kill Confirmed 10v10"
+
+REFERENCE            kc_test_missions_desc
+LANG_ENGLISH         "Kill Confirmed Missions"
+
+REFERENCE            kc_test_missions_name
+LANG_ENGLISH         "KC Missions"
+
+REFERENCE            kc_vlntn_name
+LANG_ENGLISH         "Got the Digits"
+
+REFERENCE            knife_name
+LANG_ENGLISH         "Knife Fight"
+
+REFERENCE            knives_name
+LANG_ENGLISH         "Shanks for the Memories"
+
+REFERENCE            koth_and_tdef
+LANG_ENGLISH         "Hardpoint / Defender"
+
+REFERENCE            koth_and_tdef_desc
+LANG_ENGLISH         "Playlist featuring Hardpoint and Defender game modes."
+
+REFERENCE            koth_vlntn_name
+LANG_ENGLISH         "HeartPoint"
+
+REFERENCE            landlord2_desc
+LANG_ENGLISH         "Assault Almalik's base of operations and mark his weapons for airstrike, spiking the AQ foothold in Verdansk."
+
+REFERENCE            landlord2_name
+LANG_ENGLISH         "Operation Kuvalda"
+
+REFERENCE            landlord_desc
+LANG_ENGLISH         "Infiltrate, expose, and eliminate the terrorist network of Almalik- AQ's slumlord-in-chief."
+
+REFERENCE            landlord_name
+LANG_ENGLISH         "Operation Headhunter"
+
+REFERENCE            launder_desc
+LANG_ENGLISH         "Cut off AQ's money supply in Verdansk and target the head of their financial operation- the Banker."
+
+REFERENCE            launder_name
+LANG_ENGLISH         "Operation Just Reward"
+
+REFERENCE            launderer_2_desc
+LANG_ENGLISH         "Push into the Verdansk Bank, cut open the vault, and find the key to AQ's financial network. If the Banker is there, capture or kill."
+
+REFERENCE            melee_name
+LANG_ENGLISH         "Up Close and Personal"
+
+REFERENCE            merc_obj_name
+LANG_ENGLISH         "Mercenary Objective Mix"
+
+REFERENCE            merc_tdm_name
+LANG_ENGLISH         "Mercenary Team Deathmatch"
+
+REFERENCE            midmayhem_name
+LANG_ENGLISH         "Mid-season Mayhem"
+
+REFERENCE            mlg_ball_abbrv
+LANG_ENGLISH         "Uplink Competitive"
+
+REFERENCE            mlg_ball_name
+LANG_ENGLISH         "Uplink Competitive"
+
+REFERENCE            mlg_blitz_abbrv
+LANG_ENGLISH         "Blitz eSports"
+
+REFERENCE            hcgrnd_name
+LANG_ENGLISH         "HC Drop Zone"
+
+REFERENCE            hcgun_name
+LANG_ENGLISH         "HC Gun Game"
+
+REFERENCE            hcstocked_name
+LANG_ENGLISH         "HC Stocked and Locked"
+
+REFERENCE            headquarters_name
+LANG_ENGLISH         "Headquarters"
+
+REFERENCE            hotinf_name
+LANG_ENGLISH         "Hot Spot"
+
+REFERENCE            hp_vlntn_name
+LANG_ENGLISH         "Love Hotel"
+
+REFERENCE            hq_big_name
+LANG_ENGLISH         "Headquarters 10v10"
+
+REFERENCE            hq_mix
+LANG_ENGLISH         "Headquarters using a mix of 6v6 and 10v10 maps. Capture and hold the headquarters to earn points for your team. The team that holds the HQ doesn't respawn. "
+
+REFERENCE            hstle_tkovr_name
+LANG_ENGLISH         "Hostile Takeover"
+
+REFERENCE            infect_abbrv
+LANG_ENGLISH         "Infected"
+
+REFERENCE            infect_ar_abbrv
+LANG_ENGLISH         "ARS vs Knives"
+
+REFERENCE            infect_name
+LANG_ENGLISH         "Infected"
+
+
+ENDMARKER

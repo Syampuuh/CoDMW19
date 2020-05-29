@@ -1,0 +1,1717 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            10000_cp_title_long
+LANG_ENGLISH         "10,000 (+3,000 Bonus) Call of Duty?? Points"
+
+REFERENCE            10000_cp_title_short
+LANG_ENGLISH         "10,000 (+3,000 Bonus) Call of Duty?? Points"
+
+REFERENCE            1000_cp_title_long
+LANG_ENGLISH         "1,000 (+100 Bonus) Call of Duty?? Points"
+
+REFERENCE            1000_cp_title_short
+LANG_ENGLISH         "1,000 (+100 Bonus) Call of Duty?? Points"
+
+REFERENCE            2000_cp_title_long
+LANG_ENGLISH         "2,000 (+400 Bonus) Call of Duty?? Points"
+
+REFERENCE            2000_cp_title_short
+LANG_ENGLISH         "2,000 (+400 Bonus) Call of Duty?? Points"
+
+REFERENCE            200_cp_title_long
+LANG_ENGLISH         "200 Call of Duty?? Points"
+
+REFERENCE            200_cp_title_short
+LANG_ENGLISH         "200 Call of Duty?? Points"
+
+REFERENCE            4000_cp_title_long
+LANG_ENGLISH         "4,000 (+1,000 Bonus) Call of Duty?? Points"
+
+REFERENCE            4000_cp_title_short
+LANG_ENGLISH         "4,000 (+1,000 Bonus) Call of Duty?? Points"
+
+REFERENCE            7500_cp_title_long
+LANG_ENGLISH         "7,500 (+2,000 Bonus) Call of Duty?? Points"
+
+REFERENCE            7500_cp_title_short
+LANG_ENGLISH         "7,500 (+2,000 Bonus) Call of Duty?? Points"
+
+REFERENCE            a10_cannon_fire
+LANG_ENGLISH         "^3[{+attack}]^7 Fire Cannon"
+
+REFERENCE            a10_rocket_fire
+LANG_ENGLISH         "^3[{+speed_throw,+toggleads_throw}]^7 Fire Missiles"
+
+REFERENCE            accept_invite
+LANG_ENGLISH         "Accept"
+
+REFERENCE            account_locked
+LANG_ENGLISH         "Account locked."
+
+REFERENCE            account_perm_ban
+LANG_ENGLISH         "Account permanently banned."
+
+REFERENCE            account_temp_ban
+LANG_ENGLISH         "Account temporarily banned."
+
+REFERENCE            account_underage
+LANG_ENGLISH         "This game is not available at your age.
+
+Error Code: &&1"
+
+REFERENCE            ads_high_zoom_stick_sensitivity_multiplier
+LANG_ENGLISH         "ADS Sensitivity Multiplier (High Zoom)"
+
+REFERENCE            ads_low_zoom_stick_sensitivity_multiplier
+LANG_ENGLISH         "ADS Sensitivity Multiplier (Low Zoom)"
+
+REFERENCE            ads_stick_sensitivity
+LANG_ENGLISH         "ADS Stick Sensitivity"
+
+REFERENCE            ads_stick_sensitivity_desc
+LANG_ENGLISH         "Further customize the stick sensitivity while ^5Aiming Down Sights^7.
+
+Setting this value to 1.00 will keep the default ADS sensitivity."
+
+REFERENCE            ads_stick_sensitivity_multiplier_highzoom_description
+LANG_ENGLISH         "Further customize the stick sensitivity while ^5Aiming Down Sights^7. Only applies to ^5high^7 magnification levels (3.25x or more).
+
+Setting this value to 1.00 will keep the default ADS sensitivity."
+
+REFERENCE            ads_stick_sensitivity_multiplier_lowzoom_description
+LANG_ENGLISH         "Further customize the stick sensitivity while ^5Aiming Down Sights^7. Only applies to ^5low^7 magnification levels (less than 3.25x).
+
+Setting this value to 1.00 will keep the default ADS sensitivity."
+
+REFERENCE            aim_response_curve_type_desc
+LANG_ENGLISH         "^5Standard:^7 Simple power curve map from aim stick to aim rate.
+
+^5Linear:^7 Aim stick maps directly to aim rate.
+
+^5Dynamic:^7 Reverse S-curve mapping for fine aim rate control."
+
+REFERENCE            back
+LANG_ENGLISH         "[{ui_secondary}] Back"
+
+REFERENCE            back_button
+LANG_ENGLISH         "^2ESC^7"
+
+REFERENCE            back_caps
+LANG_ENGLISH         "Back ^2ESC^7"
+
+REFERENCE            back_shortcut
+LANG_ENGLISH         "Back ^2ESC^7"
+
+REFERENCE            beta_licence_bnet
+LANG_ENGLISH         "The PC Open Beta will run from September 21 at 10AM PDT until September 23 at 10AM PDT.  Those that pre-purchase on Battle.net or receive a Battle.net code via a Beta promotion can begin playing the PC Beta on September 19 at 10AM PDT.  For more information, check out https://support.activision.com/modernwarfare."
+
+REFERENCE            bnet_server_queue_msg
+LANG_ENGLISH         "Battle.net servers are under heavy load. You have been entered into the queue and will be joined to the game shortly."
+
+REFERENCE            bottom_shortcut
+LANG_ENGLISH         "Bottom ^2END^7"
+
+REFERENCE            challenge_blade_button
+LANG_ENGLISH         "^3F1^7"
+
+REFERENCE            challenges_shortcut
+LANG_ENGLISH         "Challenges ^2F1^7"
+
+REFERENCE            change_filter_caps
+LANG_ENGLISH         "CHANGE FILTER"
+
+REFERENCE            change_profile_caps
+LANG_ENGLISH         "CHANGE PROFILE"
+
+REFERENCE            change_zoom
+LANG_ENGLISH         "Click ^3&&1^7 Change Zoom"
+
+REFERENCE            change_zoom_kbm
+LANG_ENGLISH         "^3&&1^7 Change Zoom"
+
+REFERENCE            clear_button
+LANG_ENGLISH         "X"
+
+REFERENCE            clear_killstreaks
+LANG_ENGLISH         "Clear Killstreaks ^2X^7"
+
+REFERENCE            clipin_gamepad_caps
+LANG_ENGLISH         "Hold "
+
+REFERENCE            close_caps
+LANG_ENGLISH         "CLOSE"
+
+REFERENCE            continue_caps
+LANG_ENGLISH         "CONTINUE"
+
+REFERENCE            controller_disconnected
+LANG_ENGLISH         "Please reconnect your controller."
+
+REFERENCE            controller_disconnected_ingame
+LANG_ENGLISH         "Please reconnect your controller or switch to the Keyboard & Mouse control scheme."
+
+REFERENCE            controller_disconnected_ingame_noswap
+LANG_ENGLISH         "Please reconnect your controller or go to main menu to change for Keyboard & Mouse."
+
+REFERENCE            controller_initial
+LANG_ENGLISH         "You have a Controller attached.  Would you like to switch to the Controller control scheme?"
+
+REFERENCE            controller_pairing_confirm
+LANG_ENGLISH         "The previously active controller has been disconnected or has become inactive. In order to continue please sign the user out from the system with any controller or re-activate the original controller."
+
+REFERENCE            controller_sound
+LANG_ENGLISH         "Mute Controller Sound"
+
+REFERENCE            controller_sound_caps
+LANG_ENGLISH         "CONTROLLER SOUND"
+
+REFERENCE            controller_sound_desc
+LANG_ENGLISH         "Enable or disable sounds playing from your controller."
+
+REFERENCE            controller_vibration
+LANG_ENGLISH         "Vibration"
+
+REFERENCE            controller_vibration_caps
+LANG_ENGLISH         "VIBRATION"
+
+REFERENCE            coop_requires_dlc
+LANG_ENGLISH         "This coop host requires a map pack that you do not have. You can download map packs from Steam."
+
+REFERENCE            coop_requires_dlc_xboxlive
+LANG_ENGLISH         "This coop host requires a map pack that you do not have. You can download map packs from Xbox Store."
+
+REFERENCE            decline_invite
+LANG_ENGLISH         "Decline"
+
+REFERENCE            delete_character
+LANG_ENGLISH         "^3 &&1 ^7 Delete"
+
+REFERENCE            demo_clear_all_segments
+LANG_ENGLISH         "CLEAR ALL SEGMENTS"
+
+REFERENCE            demo_control_options
+LANG_ENGLISH         "Theater Controls"
+
+REFERENCE            demo_controls_decrease_playback_speed
+LANG_ENGLISH         "Speed - 0.1x"
+
+REFERENCE            demo_controls_decrease_playback_speed_key
+LANG_ENGLISH         "^3Down Arrow^7"
+
+REFERENCE            demo_controls_increase_playback_speed
+LANG_ENGLISH         "Speed + 0.1x"
+
+REFERENCE            demo_controls_increase_playback_speed_key
+LANG_ENGLISH         "^3Up Arrow^7"
+
+REFERENCE            demo_controls_jump_back
+LANG_ENGLISH         "Jump Back"
+
+REFERENCE            demo_controls_jump_back_key
+LANG_ENGLISH         "^3Left Arrow^7"
+
+REFERENCE            demo_controls_jump_forward
+LANG_ENGLISH         "Jump Forward"
+
+REFERENCE            demo_controls_jump_forward_key
+LANG_ENGLISH         "^3Right Arrow^7"
+
+REFERENCE            demo_controls_next_player
+LANG_ENGLISH         "Next Player"
+
+REFERENCE            demo_controls_next_player_key
+LANG_ENGLISH         "^3Right Click^7"
+
+REFERENCE            demo_controls_play
+LANG_ENGLISH         "Play / Pause"
+
+REFERENCE            demo_controls_play_key
+LANG_ENGLISH         "^3Space^7"
+
+REFERENCE            demo_controls_previous_player
+LANG_ENGLISH         "Previous Player"
+
+REFERENCE            demo_controls_previous_player_key
+LANG_ENGLISH         "^3Left Click^7"
+
+REFERENCE            demo_controls_record
+LANG_ENGLISH         "Start/Stop Record"
+
+REFERENCE            demo_controls_record_key
+LANG_ENGLISH         "^3R^7"
+
+REFERENCE            demo_controls_screenshot
+LANG_ENGLISH         "Take Screenshot"
+
+REFERENCE            demo_controls_screenshot_key
+LANG_ENGLISH         "^3F3^7"
+
+REFERENCE            demo_controls_speed_1x
+LANG_ENGLISH         "Speed + 1.0x"
+
+REFERENCE            demo_controls_speed_1x_key
+LANG_ENGLISH         "^3F5^7"
+
+REFERENCE            demo_controls_speed_neg1x
+LANG_ENGLISH         "Speed - 1.0x"
+
+REFERENCE            demo_controls_speed_neg1x_key
+LANG_ENGLISH         "^3F4^7"
+
+REFERENCE            demo_controls_switch_camera
+LANG_ENGLISH         "Switch Camera"
+
+REFERENCE            demo_controls_switch_camera_key
+LANG_ENGLISH         "^3F2^7"
+
+REFERENCE            demo_delete_segment
+LANG_ENGLISH         "DELETE SEGMENT"
+
+REFERENCE            demo_dvr_change_camera
+LANG_ENGLISH         "^3F2^7"
+
+REFERENCE            demo_dvr_fast_motion
+LANG_ENGLISH         "^3UP^7"
+
+REFERENCE            demo_dvr_freecamera_change_height
+LANG_ENGLISH         "&&1 \ &&2 Change Height"
+
+REFERENCE            demo_dvr_jump_back
+LANG_ENGLISH         "^3LA^7"
+
+REFERENCE            demo_dvr_jump_forward
+LANG_ENGLISH         "^3RA^7"
+
+REFERENCE            demo_dvr_play
+LANG_ENGLISH         "^3SPACE^7"
+
+REFERENCE            demo_dvr_record
+LANG_ENGLISH         "^3R^7"
+
+REFERENCE            demo_dvr_slow_motion
+LANG_ENGLISH         "^3DN^7"
+
+REFERENCE            demo_dvr_switch_player_next
+LANG_ENGLISH         "^3R-Click^7"
+
+REFERENCE            demo_dvr_switch_player_prev
+LANG_ENGLISH         "^3L-Click^7"
+
+REFERENCE            demo_dvr_switch_players
+LANG_ENGLISH         "&&1 \ &&2 Switch Player"
+
+REFERENCE            demo_dvr_take_screenshot
+LANG_ENGLISH         "^3F3^7"
+
+REFERENCE            demo_dvr_toggle_controls_hud
+LANG_ENGLISH         "^3F1^7 Toggle Controls"
+
+REFERENCE            demo_move_segment_left
+LANG_ENGLISH         "MOVE SEGMENT LEFT"
+
+REFERENCE            demo_move_segment_right
+LANG_ENGLISH         "MOVE SEGMENT RIGHT"
+
+REFERENCE            demo_place_segment
+LANG_ENGLISH         "PLACE SEGMENT"
+
+REFERENCE            demo_preview_clip
+LANG_ENGLISH         "PREVIEW CLIP"
+
+REFERENCE            demo_preview_segment
+LANG_ENGLISH         "PREVIEW SEGMENT"
+
+REFERENCE            desc_find_game
+LANG_ENGLISH         "Pick a game mode and join a match online."
+
+REFERENCE            desc_find_game_locked
+LANG_ENGLISH         "Only the party host can find games."
+
+REFERENCE            detonate
+LANG_ENGLISH         "[{+activate}] Detonate"
+
+REFERENCE            disconnected_from_server
+LANG_ENGLISH         "Disconnected from server"
+
+REFERENCE            disconnected_from_server_with_code
+LANG_ENGLISH         "Connection to the Blizzard game server has been lost. Please exit and try again.
+
+Error Code:  &&1"
+
+REFERENCE            dlc_go_to_store
+LANG_ENGLISH         "Launch the Store to purchase new game content?"
+
+REFERENCE            dlcsearch_button
+LANG_ENGLISH         "G"
+
+REFERENCE            dlcsearch_toggle_off
+LANG_ENGLISH         "Enable DLC ^2F1^7"
+
+REFERENCE            dlcsearch_toggle_on
+LANG_ENGLISH         "Disable DLC ^2F1^7"
+
+REFERENCE            downloaddisconnected
+LANG_ENGLISH         "Client dropped to download files."
+
+REFERENCE            dyk_iw5_msg1
+LANG_ENGLISH         "Field Orders have to be finished during your current life, and can't be completed by using Killstreaks."
+
+REFERENCE            dyk_iw5_msg10
+LANG_ENGLISH         "Change the Patches and Backgrounds you've earned in Character Customization."
+
+REFERENCE            dyk_iw5_msg11
+LANG_ENGLISH         "Scroll left and right on the Match Summary for more detailed info."
+
+REFERENCE            dyk_iw5_msg12
+LANG_ENGLISH         "Planting multiple SAT COMs at the same time increases your team's awareness of enemy movements."
+
+REFERENCE            dyk_iw5_msg13
+LANG_ENGLISH         "Leaving or shutting down mid-game will cause you to lose your Match Bonus."
+
+REFERENCE            dyk_iw5_msg14
+LANG_ENGLISH         "Earn Care Package airdrops by completing Field Orders. Care Packages award a random killstreak."
+
+REFERENCE            dyk_iw5_msg15
+LANG_ENGLISH         "In Infected mode, use Tactical Insertions as an Infected to mark where your next respawn will be."
+
+REFERENCE            dyk_iw5_msg16
+LANG_ENGLISH         "You can Neutralize an enemy controlled flag in Domination by reaching the halfway mark when capturing it."
+
+REFERENCE            dyk_iw5_msg17
+LANG_ENGLISH         "Complete Operations to earn bonus Patches, XP, Squad Points, and Character Customization gear."
+
+REFERENCE            dyk_iw5_msg18
+LANG_ENGLISH         "In Blitz, enter the enemy objective zone while it is active to score for your team."
+
+REFERENCE            dyk_iw5_msg19
+LANG_ENGLISH         "In Blitz, the enemy objective zone has a cool down period after each score; don't stay out in the open."
+
+REFERENCE            dyk_iw5_msg2
+LANG_ENGLISH         "Get Assault and Specialist Killstreak Rewards by getting consecutive kills without dying."
+
+REFERENCE            dyk_iw5_msg20
+LANG_ENGLISH         "The Muzzle Brake attachment increases your weapon's maximum effective range."
+
+REFERENCE            dyk_iw5_msg21
+LANG_ENGLISH         "The Off the Grid Perk makes you invisible to SAT COMs and radar pings."
+
+REFERENCE            dyk_iw5_msg22
+LANG_ENGLISH         "The Takedown Perk lets you kill enemies without revealing their death locations to their teammates."
+
+REFERENCE            dyk_iw5_msg23
+LANG_ENGLISH         "Bridge the gap between infantry and sniper with a Marksman Rifle."
+
+REFERENCE            dyk_iw5_msg24
+LANG_ENGLISH         "Contextual Lean can be disabled in the options menu if you prefer a more classic style of play."
+
+REFERENCE            dyk_iw5_msg25
+LANG_ENGLISH         "You can't outrun a Maniac."
+
+REFERENCE            dyk_iw5_msg26
+LANG_ENGLISH         "Holding crouch while sprinting initiates a tactical slide to help you get to cover."
+
+REFERENCE            dyk_iw5_msg27
+LANG_ENGLISH         "Fully charge a 9-Bang to create an EMP effect that temporarily disables Sentry Guns and other automated equipment."
+
+REFERENCE            dyk_iw5_msg28
+LANG_ENGLISH         "Want more control of your killstreak helicopter? Hop into the cockpit of an AAS-72X as a Helo Pilot."
+
+REFERENCE            dyk_iw5_msg29
+LANG_ENGLISH         "Use the Incog perk to stay hidden from enemy targeting, Thermal and Tracker sights, and Motion Sensors."
+
+REFERENCE            dyk_iw5_msg3
+LANG_ENGLISH         "Cranked is a fast-paced game mode where chaining kills gives you speed perks, 2x scoring, and keeps you alive."
+
+REFERENCE            dyk_iw5_msg30
+LANG_ENGLISH         "Some maps have special killstreak rewards when calling in Field Order Care Packages."
+
+REFERENCE            dyk_iw5_msg31
+LANG_ENGLISH         "In Search and Rescue, recover Dog Tags to respawn friendlies and deny enemy respawns."
+
+REFERENCE            dyk_iw5_msg32
+LANG_ENGLISH         "Check out the Squads playlists to see how your custom Squad stacks up against the competition."
+
+REFERENCE            dyk_iw5_msg33
+LANG_ENGLISH         "Assault and Marksman Rifle select fire types can be adjusted in the attachments menu."
+
+REFERENCE            dyk_iw5_msg34
+LANG_ENGLISH         "Provide tactical support from the sky with the Helo Scout killstreak."
+
+REFERENCE            dyk_iw5_msg35
+LANG_ENGLISH         "The Tracker Sight outlines enemy targets and can be flipped down on the fly for a wider field of view."
+
+REFERENCE            dyk_iw5_msg36
+LANG_ENGLISH         "The Honey Badger, VKS and K7 have integrated silencer attachments."
+
+REFERENCE            dyk_iw5_msg37
+LANG_ENGLISH         "The Night Owl drone follows you, detects enemies in close proximity and actively destroys incoming explosives."
+
+REFERENCE            dyk_iw5_msg38
+LANG_ENGLISH         "Killstreak Rewards attained from airdrop crates do not count towards your killstreak count."
+
+REFERENCE            dyk_iw5_msg39
+LANG_ENGLISH         "Akimbo weapons give you more firepower but restrict your ability to Aim Down Sight."
+
+REFERENCE            dyk_iw5_msg4
+LANG_ENGLISH         "Some killstreak rewards are controllable but leave you vulnerable on the ground."
+
+REFERENCE            dyk_iw5_msg40
+LANG_ENGLISH         "Combat Exclusion Rules lifted! Customize the look and gender of your Squad Member."
+
+REFERENCE            dyk_iw5_msg41
+LANG_ENGLISH         "Customize each Squad Member with its own Strike Package to be ready for any situation that might be thrown at you."
+
+REFERENCE            dyk_iw5_msg42
+LANG_ENGLISH         "Assault Strike Package items will chain kills to earn the next one."
+
+REFERENCE            dyk_iw5_msg43
+LANG_ENGLISH         "The Flash Suppressor attachment reduces muzzle flash for better accuracy, while maintaining full weapon damage."
+
+REFERENCE            dyk_iw5_msg44
+LANG_ENGLISH         "Armor Piercing rounds can penetrate Ballistic Vests, Juggernaut Armor and deal extra damage to killstreaks."
+
+REFERENCE            dyk_iw5_msg45
+LANG_ENGLISH         "The Wiretap Perk gives you access to active enemy SAT COMs on the field and stacks with your team's SAT COMs as well."
+
+REFERENCE            dyk_iw5_msg46
+LANG_ENGLISH         "Check out the Squads playlists to see how your custom Squad stacks up against the competition."
+
+REFERENCE            dyk_iw5_msg47
+LANG_ENGLISH         "The Specialist Strike Package lets you earn additional Perks as you kill, with a larger bonus at the end of your chain."
+
+REFERENCE            dyk_iw5_msg48
+LANG_ENGLISH         "Strike Packages give you the choice of supporting your team, being on the offensive, or being more of a lone gun."
+
+REFERENCE            dyk_iw5_msg49
+LANG_ENGLISH         "The Blind Eye Perk makes you undetectable by AI targeting systems of all kinds including air support and sentries."
+
+REFERENCE            dyk_iw5_msg5
+LANG_ENGLISH         "Track your Leaderboard position in the Barracks."
+
+REFERENCE            dyk_iw5_msg50
+LANG_ENGLISH         "The Vulture drone is a flying sentry gun that covers your six."
+
+REFERENCE            dyk_iw5_msg51
+LANG_ENGLISH         "The Trinity Rocket lets you control a missile from above that can fire off additional smart drone projectiles."
+
+REFERENCE            dyk_iw5_msg52
+LANG_ENGLISH         "The Support Strike Package doesn't reset your killstreak kills when you die."
+
+REFERENCE            dyk_iw5_msg53
+LANG_ENGLISH         "In a match, you have three killstreak slots with one extra slot to store any killstreaks you get by other means."
+
+REFERENCE            dyk_iw5_msg54
+LANG_ENGLISH         "Your extra killstreak slot stacks, so you don't need to worry about losing earned killstreaks when changing loadouts."
+
+REFERENCE            dyk_iw5_msg55
+LANG_ENGLISH         "Scroll up and down through your killstreaks and use the one that you want right now."
+
+REFERENCE            dyk_iw5_msg6
+LANG_ENGLISH         "One SAT COM activates 'Eyes On', marking enemies you see to the minimap. Place more SAT COMs to get a full radar sweep."
+
+REFERENCE            dyk_iw5_msg7
+LANG_ENGLISH         "Swap out Frag Grenades for Throwing Knives, Canister Bombs and other Lethal equipment."
+
+REFERENCE            dyk_iw5_msg8
+LANG_ENGLISH         "Your Guard Dog is your best friend. He alerts you to nearby enemies, protects you and avenges your death."
+
+REFERENCE            dyk_iw5_msg9
+LANG_ENGLISH         "Aiming Down Sights near the edge of an object, vehicle or building activates Contextual Lean."
+
+REFERENCE            eog_press_esc
+LANG_ENGLISH         "^3ESC^7 to^2 Create a Class ^7and more"
+
+REFERENCE            eula_1
+LANG_ENGLISH         "IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION
+AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. 
+
+SOFTWARE LICENSE AND SERVICE AGREEMENT
+
+USE OF THIS SOFTWARE PROGRAM (AND ANY UPDATES), ANY ONLINE SERVICES, OR DOWNLOADS ASSOCIATED HEREWITH, THE SOFTWARE (INCLUDING FIRMWARE) FOR ANY RELATED PERIPHERALS (collectively, ???Peripheral???), THE ASSOCIATED MEDIA, PRINTED MATERIALS, AND DOCUMENTATION (collectively, ???Program???) IS SUBJECT TO THIS SOFTWARE LICENSE AND SERVICE AGREEMENT (???Agreement???). IF YOU ARE UNDER THE AGE OF MAJORITY IN YOUR JURISDICTION OR EIGHTEEN (18) YEARS OF AGE, WHICHEVER IS OLDER, PLEASE ASK YOUR PARENT OR GUARDIAN TO READ AND ACCEPT THIS AGREEMENT ON YOUR BEHALF BEFORE YOU USE THE PROGRAM. BY OPENING THIS PACKAGE, DOWNLOADING, INSTALLING, OR USING THE PROGRAM OR ???CLICKING TO ACCEPT,??? YOU ACCEPT THE TERMS OF THIS AGREEMENT WITH THE ACTIVISION CORPORATE ENTITY SET OUT IN SECTION 17 ("Activision") DEPENDING ON WHERE YOU ACQUIRED AND USE THE PROGRAM. IF YOU DO NOT AGREE TO THESE TERMS, YOU ARE NOT PERMITTED TO INSTALL, COPY, OR USE THE PROGRAM. TO REJECT THESE TERMS, YOU MUST NOT ???CLICK TO ACCEPT??? THESE TERMS OR INSTALL, COPY, OR USE THE PROGRAM.    
+
+FOR RESIDENTS IN NORTH AMERICA ONLY: IF YOU REJECT THIS AGREEMENT, YOU CAN RETURN YOUR PERIPHERAL AND THE PROGRAM AND REQUEST A REFUND FOR YOUR PERIPHERAL AND THE PROGRAM WITHIN THIRTY (30) DAYS AFTER THE DATE OF YOUR PURCHASE, BY VISITING http://support.activision.com. ACTIVISION???S PRIVACY POLICY AVAILABLE AT http://www.activision.com/legal/privacy-policy SHALL BE DEEMED TO BE PART OF THE ???AGREEMENT??? ACCEPTED AND AGREED TO BY YOU AND THE TERMS OF SUCH ARE INCORPORATED HEREIN BY REFERENCE.  
+
+FOR RESIDENTS OUTSIDE NORTH AMERICA: IF YOU (OR, IF APPLICABLE, YOUR PARENT OR GUARDIAN) DO NOT AGREE TO THIS AGREEMENT, THEN YOU MUST NOT USE OR ACCESS THE PROGRAM OR ANY PART THEREOF.  BY ???CLICKING TO ACCEPT,??? YOU REPRESENT AND WARRANT THAT YOU ARE A ???NATURAL PERSON??? WHO IS OVER THE AGE OF EIGHTEEN (18) OR WHOSE LEGAL GUARDIAN HAS ACCEPTED AND AGREED TO THIS AGREEMENT.  IF YOU REJECT THIS AGREEMENT, YOUR RETURN RIGHTS IN RELATION TO THE PROGRAM ARE GOVERNED BY YOUR STATUTORY RIGHTS IN THE COUNTRY WHERE YOU BOUGHT THE PROGRAM. PLEASE VISIT http://support.activision.com. NOTHING IN THIS PARAGRAPH SHALL AFFECT YOUR STATUTORY RIGHTS. PLEASE NOTE THAT YOUR RIGHTS IN RESPECT OF ONLINE SERVICES AND SERVICE PROVIDED CONTENT ARE COVERED IN SECTIONS 12 AND 13.  YOUR USE OF THE PROGRAM SHALL BE SUBJECT TO THE TERMS OF ACTIVISION???S PRIVACY POLICY AVAILABLE AT http://www.activision.com/legal/privacy-policy.  
+
+EXCEPT FOR SECTION 16 (ARBITRATION AND CLASS ACTION WAIVER), ACTIVISION RESERVES THE RIGHT TO MODIFY THIS AGREEMENT AT ANY TIME BY ANY MEANS, INCLUDING WITHOUT LIMITATION BY (1) POSTING THE MODIFICATIONS TO http://support.activision.com/license AND/OR (2) REQUIRING YOU TO ???CLICK TO ACCEPT??? THE AGREEMENT, AND YOUR CONTINUED USE OF THE PROGRAM CONSTITUTES YOUR ACCEPTANCE OF THE MODIFICATIONS. IF ANY FUTURE MODIFICATIONS TO THE AGREEMENT ARE UNACCEPTABLE TO YOU OR CAUSE YOU TO NO LONGER BE IN COMPLIANCE WITH THIS AGREEMENT, YOU MUST TERMINATE, AND IMMEDIATELY STOP USING, THE PROGRAM. IF ANY FUTURE MODIFICATIONS ARE IMPLEMENTED AS A ???CLICK TO ACCEPT??? AGREEMENT, YOU MAY NOT BE ABLE TO CONTINUE USING THE PROGRAM UNLESS YOU AFFIRMATIVELY ACCEPT THE MODIFIED AGREEMENT.
+
+1.	SERVICES AND ADDITIONAL TERMS OF SERVICE:  USE OF CERTAIN FEATURES OF THE PROGRAM, INCLUDING ONLINE OR MULTIPLAYER COMPONENTS, OR UPDATED FEATURES, MAY REQUIRE ASSENT TO ADDITIONAL TERMS OF SERVICE.  YOU WILL BE PROVIDED WITH THESE ADDITIONAL TERMS OF SERVICE AT THE TIME THE APPLICABLE FEATURES ARE MADE AVAILABLE TO YOU.  IF YOU DO NOT ASSENT TO THE ADDITIONAL TERMS OF SERVICE, YOU MAY NOT BE ABLE TO ACCESS OR USE THE ADDITIONAL FEATURES THAT ARE SUBJECT TO THE ADDITIONAL TERMS OF SERVICE."
+
+REFERENCE            eula_2
+LANG_ENGLISH         "2.	LIMITED USE LICENSE: Subject to any system requirements, Activision grants you the non-exclusive, non-transferable, limited right and license to install and use one copy of the software component(s) of the Program solely for your personal use. All rights not specifically granted are reserved by Activision. The Program is licensed, not sold, for your use. Your license confers no title or ownership in the Program, and should not be construed as a sale of any rights in the Program.  This Agreement shall also apply to patches or updates you may obtain for the Program, unless that patch or update is accompanied by additional terms.  YOU ACKNOWLEDGE AND AGREE THAT, OTHER THAN LICENSE GRANTED TO YOU BY THIS AGREEMENT, YOU SHALL HAVE NO OWNERSHIP OR PROPERTY INTEREST IN ANY PRODUCT OR SERVICE PROVIDED CONTENT (AS DEFINED BELOW), INCLUDING, WITHOUT LIMITATION, ONLINE ACCOUNTS, ANY VIRTUAL CURRENCY OR GOODS, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ALL RIGHTS IN AND TO SUCH PRODUCTS AND SERVICE PROVIDED CONTENT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION.
+
+FOR RESIDENTS OUTSIDE NORTH AMERICA: For the avoidance of doubt, nothing in Section 2 shall limit your right to sell and transfer the physical media containing the Program which you have rightfully purchased.
+
+3.	LICENSE CONDITIONS: This license is subject to the following limitations ("License Limitations"). Any use of the Program in violation of the License Limitations will result in an immediate termination of your license, and continued use of the Program will be an infringement of Activision's copyrights and other rights in and to the Program. 
+
+You agree that you will not do, or allow, any of the following: (1) exploit the Program commercially; (2) subject to any system requirements, use the Program on more than one system at the same time; (3) make copies of the Program, in whole or in part; (4) without limiting the foregoing clause (3), copy the Program onto a hard drive or other storage device unless the Program itself makes a copy during installation, or unless you are downloading the Program from an authorized Activision online retailer; (5) use the Program in a network, multi-user arrangement, or remote access arrangement, including any online use except as included in the Program functionality; (6) sell, rent, lease, license, distribute, or otherwise transfer the Program; (7) subject to applicable laws, reverse engineer, derive source code, modify, decompile, disassemble, or create derivative works of the software and other proprietary technology in the Program, in whole or in part; (8) create, develop, modify, distribute, or use any unauthorized software programs to gain advantage in any offline, online or multiplayer game modes, such behavior will be subject to sanction at Activision???s discretion; (9) remove, disable, or circumvent any proprietary notices or labels contained on or within the Program; or (10) export or re-export the Program in violation of any applicable laws or regulations of the United States government. 
+
+Unless expressly permitted by Activision and subject to applicable local laws, YOU AGREE NOT TO PERMIT THE SOFTWARE IN THE PERIPHERAL OR ANY PART OF IT TO BE COMBINED WITH, BECOME INCORPORATED IN, OR USED WITH ANY SOFTWARE PRODUCT OTHER THAN THE PROGRAM. ALL RIGHTS GRANTED TO YOU UNDER THIS AGREEMENT (INCLUDING YOUR USE OF THE SOFTWARE IN THE PERIPHERAL) WILL TERMINATE IMMEDIATELY IN THE EVENT THAT YOU ARE IN BREACH OF ANY OF THE TERMS, THIS PARAGRAPH OR DO ANYTHING WITH ANY SOFTWARE IN THE PERIPHERAL THAT IS NOT EXPRESSLY PERMITTED BY THIS AGREEMENT.   
+
+You agree not to do any of the following actions while using the Program:  (A) harass, threaten, embarrass or cause distress or discomfort upon another participant, user, or other individual or entity; (B) transmit any UGC (as defined in Section 14) that Activision considers to be disruptive, unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, hateful, or racially, sexually, ethnically or otherwise objectionable; (C) impersonate any person or entity, including but not limited to Activision; (D) disrupt normal Program functionality, or otherwise act in a manner that negatively affects other participants and/or the overall Program experience; (E) post or transmit any unsolicited advertising, promotional materials, or any other forms of solicitation; (F) intentionally or unintentionally violate any applicable law, regulation or treaty while using or accessing the Program; (G) post multiple posts of the same content (i.e., ???spam???);  or (H) invade the privacy or violate or infringe any right of any person or entity, including, without limitation, any intellectual property right.
+
+Parents and guardians of children under the age of majority in their jurisdiction or 18 years of age, whichever is older, agree that you will be responsible for all uses of the Program by your child whether or not such uses were authorized by you."
+
+REFERENCE            eula_3
+LANG_ENGLISH         "4.	OWNERSHIP: All title, ownership rights, and intellectual property rights in and to the Program are owned by Activision, affiliates of Activision, or Activision???s licensors. The Program is protected by the copyright laws of the United States of America, international copyright treaties, conventions and other laws. The Program may contain certain licensed materials, and Activision???s licensors may protect their rights in the event of any violation of this Agreement. NOTWITHSTANDING ANYTHING TO THE CONTRARY, YOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN ANY ACCOUNT STORED OR HOSTED ON AN ACTIVISION SYSTEM, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT ALL RIGHTS IN AND TO THESE ACCOUNTS ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION. ACTIVISION MAY SUSPEND, TERMINATE, MODIFY OR DELETE ANY OF THESE ACCOUNTS AT ANY TIME FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE TO YOU. 
+
+5.	PATCHES AND UPDATES:  Activision may deploy or provide mandatory patches, updates, and modifications to the Program that must be installed for you to continue to use the Program. Activision may update the Program remotely without notifying you, and you hereby grant to Activision consent to deploy and apply such patches, updates, and modifications. Broadband internet is required for such patches, updates, and modifications. You are responsible for any and all broadband access and usage fees.   
+
+6.	LIMITED HARDWARE WARRANTY (RESIDENTS IN NORTH AMERICA AND AUSTRALIA ONLY): 
+
+6(A)  Activision warrants to the original consumer purchaser of this Program that the physical media on which this Program is stored and any physical accessories (together the ???Goods???) will be free from defects in material and workmanship for 90 days from the date of purchase. If the Goods are found defective within 90 days of original purchase, Activision agrees to replace, free of charge, the applicable defective Goods within the applicable 90 day period, upon its receipt of the Program (postage paid, with proof of the date of purchase) so long as the Goods are still being manufactured by Activision. If the Goods are no longer available, Activision retains the right to substitute similar goods of equal or greater value. This warranty is limited to the Goods, as originally provided by Activision, and is not applicable to normal wear and tear. This warranty shall not be applicable, and shall be void, if the defect has arisen through abuse, mistreatment, or neglect. Any implied warranties prescribed by statute are expressly limited to the 90-day period described above.  EXCEPT AS SET FORTH HEREIN, THIS WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED.
+
+For residents in North America: For information about warranty replacement, or other customer service inquires, visit http://support.activision.com.  If a replacement is appropriate you will need to return: (1) the original Goods; (2) a copy of your dated sales receipt; (3) your name and return address; (4) a description of the defect and the problem(s) you are encountering; and (5) the incident/RMA number given to you by Customer Support.  In the United States, send to: Warranty Replacements, Activision Publishing, Inc., 100 N. Sepulveda Blvd. Suite 900, El Segundo, CA 90245; outside of the United States please visit http://support.activision.com.
+
+For residents of Australia: This warranty is provided in addition to other rights and remedies you may have regarding the Goods provided to you in this game bundle, under the Australian Consumer Law. The Goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the Goods repaired or replaced if the Goods fail to be of acceptable quality and the failure does not amount to a major failure. Please contact Activision on 1300 748 995 or email ausupport@activision.com or mail PO Box 544 Pyrmont NSW 2009 Australia  if you have an issue with the Goods provided to you in this game bundle. If a replacement or repair is required Activision will instruct you on the process. As part of the process you may be asked to send: (1) the physical media (for example, CD-ROM/DVD/Blu-ray Disc/cartridge (not including manual or case)) in protective packaging; (2) the accessory; (3) photocopy of your dated sales receipt; (4) your name and return address typed or clearly printed; (5) a brief note describing the defect, the problem(s) you are encountering, and the system on which you are running the software; and (6) the incident number given to you by Customer Support. You may be required to also send a cheque or money order but if your claim is determined to be valid you may be entitled to a refund of this amount. Unless otherwise directed by Customer Support, please send items to be replaced (registered mail recommended) to Limited Physical Media/Peripheral Warranty Replacements, Activision Blizzard Australia Pty Ltd, PO Box 544 Pyrmont NSW 2009 Australia . The provisions of the Limitation of Damages clause below apply only to the extent permitted by the Competition and Consumer Act 2010 (Cth).
+
+6(B).  LIMITED HARDWARE WARRANTY (RESIDENTS OF ALL COUNTRIES OTHER THAN NORTH AMERICA AND AUSTRALIA ONLY):  The warranty for the Program is provided in accordance with your statutory rights as a consumer which will always prevail.  For information about Activision's procedures on replacements of the Program in the European Union and other countries outside of North America and Australia, or other customer service inquires please check:  http://support.activision.com."
+
+REFERENCE            eula_4
+LANG_ENGLISH         "7.	LIMITATION OF DAMAGES 
+
+7(A) FOR RESIDENTS IN NORTH AMERICA: 
+
+ACTIVISION SHALL NOT BE LIABLE FOR SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM POSSESSION, USE, OR MALFUNCTION OF THE PROGRAM, INCLUDING DAMAGES TO PROPERTY, COMPUTER FAILURE OR MALFUNCTION AND, TO THE EXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF ACTIVISION HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES. ACTIVISION???S LIABILITY SHALL NOT EXCEED THE ACTUAL PRICE PAID FOR THE LICENSE TO USE THE PROGRAM. SOME STATES/COUNTRIES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS AND/OR THE EXCLUSION OR LIMITATION OF DAMAGES, SO THE ABOVE LIMITATIONS AND/OR EXCLUSIONS MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.
+
+7(B) FOR RESIDENTS OUTSIDE NORTH AMERICA: 
+
+NOTHING IN THIS AGREEMENT SHALL LIMIT OR EXCLUDE ACTIVISION'S LIABILITY TO YOU:
+??	FOR DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE;
+??	FOR FRAUDULENT MISREPRESENTATION; OR
+??	FOR ANY OTHER LIABILITY THAT MAY NOT, UNDER THE LAWS OF THE JURISDICTION WHERE YOU RESIDE, BE LIMITED OR EXCLUDED.
+SUBJECT TO THIS, IN NO EVENT SHALL ACTIVISION BE LIABLE TO YOU FOR ANY BUSINESS LOSSES AND ANY LIABILITY ACTIVISION DOES HAVE FOR LOSSES YOU SUFFER IS STRICTLY LIMITED TO LOSSES THAT WERE REASONABLY FORESEEABLE AND SHALL NOT, IN AGGREGATE, EXCEED THE GREATER OF THE FOLLOWING: THE TOTAL PRICE PAID BY YOU FOR THE PROGRAM (PLUS ANY PAID-FOR SERVICE PROVIDED CONTENT) OVER THE PREVIOUS 12-MONTHS FROM THE DATE ON WHICH THE LIABILITY ARISES; OR THE SUM OF GBP??500 OR EQUIVALENT AMOUNT UNDER THE CURRENT FOREIGN EXCHANGE RATE.
+
+8.	TERMINATION: Without prejudice to any other rights of Activision, this Agreement will terminate automatically if you fail to comply with its terms and conditions. In the event of termination for this reason, you must destroy all copies of the Program and all of its component parts.  You may also terminate the Agreement at any time by permanently deleting any installation of the Program, and destroying all copies of the Program in your possession or control. The following provisions shall survive termination of this agreement: LICENSE CONDITIONS (SECTION 3), OWNERSHIP (SECTION 4), LIMITED HARDWARE WARRANTY (SECTIONS 6A AND 6B), LIMITATION OF DAMAGES (SECTIONS 7A AND 7B), TERMINATION (SECTION 8), INDEMNITY (SECTION 10), SERVICE PROVIDED CONTENT (SECTION 11), AVAILABILITY (SECTION 12), ACCESS (SECTION 13), BINDING ARBITRATION AND CLASS ACTION WAIVER (SECTION 16), JURISDICTION AND APPLICABLE LAW (SECTION 17), AND MISCELLANEOUS (SECTION 18).
+
+9.	For residents in North America-- U.S. GOVERNMENT RESTRICTED RIGHTS: The Program has been developed entirely at private expense and are provided as "Commercial Computer Software" or "restricted computer software." Use, duplication or disclosure by the U.S. Government or a U.S. Government subcontractor is subject to the restrictions set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clauses in DFARS 252.227-7013 or as set forth in subparagraph (c)(1) and (2) of the Commercial Computer Software Restricted Rights clauses at FAR 52.227-19, as applicable. The Contractor/Manufacturer is Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, California 90405.
+
+10.	For residents in North America-- INDEMNITY: You agree to indemnify, defend, and hold Activision, its partners, affiliates, licensors, contractors, officers, directors, employees, and agents harmless from all damages, losses and expenses arising directly or indirectly from your breach of this Agreement and/or your acts and omissions in using the Program pursuant to the terms of this Agreement. 
+
+11.	SERVICE PROVIDED CONTENT:  ???Service Provided Content" consists of all virtual materials, information and content provided to you (e.g., unlockable content, accounts, stats, virtual assets, virtual currencies, codes, achievements, virtual rewards, credits, access, shows, tokens, coins, power-ups, and customizations) in connection with your use of the Program, including the Online Services, which you need to "earn", "grind", "buy" and/or "purchase" in order to obtain additional content. 
+
+While the Program may allow you to ???earn,??? ???grind,??? "buy," or "purchase" Service Provided Content within or in connection with gameplay, you do not in fact own or have any property interest in the Service Provided Content and the price of any Service Provided Content does not refer to any credit balance of real currency or its equivalent.  Unless otherwise specified in writing, any Service Provided Content that you receive is licensed to you as set forth herein, and you shall have no ownership right thereto in any Service Provided Content. You may not, sell, lend, rent, trade, or otherwise transfer any Service Provided Content, except for other Service Provided Content where applicable.  Any sale of Service Provided Content, including, but not limited to, virtual currency for ???real??? money or exchange of those items or virtual currency for value outside of the Program is prohibited.   Service Provided Content may be altered, removed, deleted, or discontinued by Activision (e.g., upon termination of this Agreement and/or cessation of online support for the Program as set out in Section 8) even if you have not ???used??? or ???consumed??? the Service Provided Content prior to alteration, removal, deletion, or discontinuation.  Without limiting the above, Service Provided Content may include virtual coins, points or other virtual currencies (???Virtual Currency???). 
+
+By purchasing or otherwise acquiring Virtual Currency, you obtain a limited license (which is revocable by Activision at any time unless otherwise required by applicable laws) to access and select from other Service Provided Content. Virtual Currency has no monetary value and does not constitute currency or property of any type. Virtual Currency may be redeemed for other Service Provided Content only, if at all. Subject to applicable local law, Virtual Currency is non-refundable. You are not entitled to a refund or any other compensation such as Service Provided Content for any unused Virtual Currency and unused Virtual Currency is non-exchangeable.  Activision may revise the pricing for the Service Provided Content and Virtual Currency offered through the Program at any time.  Activision may limit the total amount of Service Provided Content or Virtual Currency that may be purchased at any one time, and/or limit the total amount of Service Provided Content or Virtual Currency that may be held in your account in the aggregate.  You are only allowed to purchase Service Provided Content or Virtual Currency from Activision or our authorized partners through the Program, and not in any other way.  Activision reserves the right to refuse your request(s) to acquire Service Provided Content and/or Virtual Currency.  You agree that you will be solely responsible for paying any applicable taxes related to the acquisition of, use of or access to Service Provided Content and/or Virtual Currency.
+
+There may be Service Provided Content (should you choose to purchase it) which will require you to make a payment with real money, the amount of which will be set out in the Program. All Service Provided Content will be made available immediately when you purchase it with real money and you acknowledge that this is the case and that you will have no right to change your mind and cancel (sometimes known as a 'cooling off' right) once your purchase is complete.  Depending on your platform, any Service Provided Content purchased, will be purchased from your platform provider and such purchase will be subject to their respective Terms of Service and User Agreement. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game."
+
+REFERENCE            eula_5
+LANG_ENGLISH         "12.	AVAILABILITY: 
+
+12(A) For residents in North America:  Activision does not guarantee that any online services, play or features associated with the Program (collectively, ???Online Services???) or Service Provided Content will be available at all times or at any given time or that Activision will continue to offer Online Services or Service Provided Content for any particular length of time. Activision may change and update Online Services or Service Provided Content without notice to you. Activision makes no warranty or representation regarding the availability of Online Services and reserves the right to modify or discontinue Online Services in its sole discretion without notice, including for example, ceasing an Online Service for economic reasons due to a limited number of users continuing to make use of the Online Service over time. NOTWITHSTANDING ANYTHING TO THE CONTRARY, YOU ACKNOWLEDGE AND AGREE THAT ONLINE SERVICES MAY BE TERMINATED IN WHOLE OR IN PART AT ACTIVISION???S SOLE DISCRETION WITHOUT NOTICE TO YOU, AND IN CONNECTION WITH ONLINE SERVICES??? TERMINATION, ANY AND ALL SERVICE PROVIDED CONTENT LICENSED TO YOU MAY BE TERMINATED. YOU ASSUME ANY AND ALL RISK OF LOSS ASSOCIATED WITH THE TERMINATION OF ONLINE SERVICES AND ANY LOSS OF SERVICE PROVIDED CONTENT OR OTHERWISE.  
+
+12(B) For residents outside North America: Subject to the next sentence, Activision does not guarantee that any Online Services or Service Provided Content will be available or error-free at all times or at any given time. Activision warrants that the Program, in addition to any Service Provided Content which has been paid-for with real money, will substantially comply with the description provided by it at the point of purchase and be of satisfactory quality  (in addition any related services provided through them will be provided with reasonable care and skill).  Activision may change and update Online Services or Service Provided Content without notice to you (provided always that any such changes do not result in material degradation in the functionality of the Program or any Service Provided Content which has been paid-for with real money). Activision makes no warranty or representation regarding the availability of Online Services and/or Service Provided Content which are free (i.e. not paid-for with real money) and reserves the right to modify or discontinue them in its sole discretion without notice to you, including for example, for economic reasons due to a limited number of users continuing to make use of them over time. Activision is not liable or responsible for any failure to perform, or delay in performance of, any of its obligations that is caused by events outside its reasonable control. If such circumstances result in material degradation in the functionality of the Program or Service Provided Content then your obligation to make any payment to download, use or access them will be suspended for the duration of such period. Activision is entitled to modify or discontinue Online Services and/or Service Provided Content which are paid-for with real money in its sole discretion upon reasonable notice to you. The warranty for such Online Services and/or Service Provided Content is provided in accordance with your statutory rights as a consumer which will always prevail. Please see Section 7 in respect of Activision's limitation on damages, but nothing in this paragraph shall affect your statutory rights. 
+
+13.	ACCESS:  YOU ARE SOLELY RESPONSIBLE FOR ANY THIRD PARTY COSTS YOU INCUR TO USE THE PROGRAM AND SERVICES.  You acknowledge and agree that you will provide at your own cost and expense the equipment, Internet, or other connection charges required to access and use the Program. Activision makes no warranty that the Program can be accessed or used on all systems, controllers, or devices, by means of any specific Internet or other connection provider, or in all territories. The Program may integrate, be integrated into, or be provided in connection with third-party services and content.  Activision does not control those third-party services and content.  You should read the terms of use agreements and privacy policies that apply to such third-party services and content. 
+
+14.	USER GENERATED CONTENT: The Program may include means by which you and other users may share user generated content (???UGC???).  To the fullest extent permitted by applicable law, by submitting any UGC you automatically grant (or represent and warrant that the owner of such rights has expressly granted) Activision a perpetual, worldwide, royalty-free, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, sub-license, create derivative works from and distribute such UGC or incorporate such UGC content into any form, medium, or technology now known or later developed throughout the universe, and agree that Activision shall be entitled to unrestricted use of the UGC for any purpose whatsoever, commercial or otherwise, without compensation (but subject to applicable local legislation), notice or attribution.  You waive and agree not to assert against Activision or any of its partners, affiliates, subsidiaries or licensees, any moral or similar rights you may have in any of your UGC.  To the extent the Program permits other users to access and use your UGC, you also grant such users the right to use, copy, modify, display, perform, create derivative works from, and otherwise communicate and distribute your UGC on or through the Program without further notice, attribution or compensation to you. You may only upload your own UGC to the Program; do not upload anyone else???s UGC.  Activision reserves the right (but has no obligation) to remove, block, edit, move, or disable UGC for any reason in Activision???s sole discretion.  Activision is not responsible for, and does not endorse or guarantee, the opinions, views, advice or recommendations posted or sent by other users. 
+
+For residents of all countries outside North America: Users of the Program create, upload, download and use UGC at their own risk. If you upload or make available to other users your UGC via our Program, we do not control, monitor, endorse or own your UGC, and you are commissioning us to host and make available such UGC subject to the above license. 
+
+Complaints about the content of any UGC must be sent to legalaffairs@activision.com and must contain details of the specific UGC giving rise to the complaint.
+
+15.	For residents in North America-- COPYRIGHT NOTICE:
+
+If you believe that any content appearing in the Program and/or UGC has been copied in a way that constitutes copyright infringement, please forward the following information to the copyright agent named below.  Your copyright infringement notification must comply with the Digital Millennium Copyright Act ("DMCA"). You are encouraged to review 17 U.S.C. ?? 512(c)(3) or consult with an attorney prior to sending a notice hereunder.  To file a copyright infringement notice, you will need to send a written communication that includes the following to the address listed below: (a) your name, address, telephone number, and email address; (b) a description of the copyrighted work that you claim has been infringed; (c) the exact URL or a description of where the alleged infringing material is located; (d) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; (e) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; and (f) a statement by you, under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+
+Copyright Agent
+Activision Publishing, Inc.
+3100 Ocean Park Boulevard
+Santa Monica, California 90405
+Attn: Activision Business and Legal Affairs 
+Fax: (310) 255-2152 
+E-Mail: legalaffairs@activision.com
+
+Please note that the DMCA provides that you may be liable for damages (including costs and attorney fees) if you knowingly misrepresent that material or activity is infringing. Please also note that the information provided in your copyright infringement notice may be provided to the person responsible for the allegedly infringing material."
+
+REFERENCE            eula_6
+LANG_ENGLISH         "16.	For residents in North America-- BINDING ARBITRATION AND CLASS ACTION WAIVER:
+
+READ THIS SECTION CAREFULLY.  IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+
+These BINDING ARBITRATION AND CLASS ACTION WAIVER provisions apply to you if you are domiciled in and/or acquired and use the Program in the United States. These provisions may also apply to you if you are domiciled in and/or acquired and use the Program from outside the United States. See JURISDICTION AND APPLICABLE LAW below for details.
+
+Initial Dispute Resolution:  Activision's Customer Support department is available at https://support.activision.com/ to address any concerns you may have regarding the Program. Most concerns are quickly resolved in this manner to our customers' satisfaction. The parties shall use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations which shall be a precondition to either party initiating a lawsuit or arbitration.
+
+Binding Arbitration:  If the parties do not reach an agreed upon solution within a period of 30 days from the time informal dispute resolution is pursued pursuant to the paragraph above, then either party may initiate binding arbitration as the sole means to formally resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to this Agreement (including its interpretation, formation, performance and breach), the parties' relationship with each other and/or your use of the Program shall be finally settled by binding arbitration administered by JAMS in accordance with the provisions of its Comprehensive Arbitration Rules or Streamlined Arbitrations Rules, as appropriate, excluding any rules or procedures governing or permitting class actions. This arbitration provision is made pursuant to a transaction involving interstate commerce, and the Federal Arbitration Act (the "FAA") shall apply to the interpretation, applicability, enforceability and formation of this Agreement notwithstanding any other choice of law provision contained in this Agreement.  The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this Agreement, including without limitation any claim that all or any part of this Agreement is void or voidable, or whether a claim is subject to arbitration. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction. 
+
+The JAMS Rules governing the arbitration may be accessed at http://www.jamsadr.com/ or by calling JAMS at (800) 352-5267. Your arbitration fees and your share of arbitrator compensation shall be governed by the JAMS Comprehensive Arbitration Rules, but shall not incorporate the JAMS Class Action Procedures, and, to the extent applicable, the Consumer Minimum Standards, including the then-current limit on arbitration filing fees. To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Activision will pay the additional cost. The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial.  They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+Location:  If you are a resident of the United States, arbitration will take place at any reasonable location within the United States convenient for you. For residents outside the United States, arbitration shall be initiated in Los Angeles County, California, and you and Activision agree to submit to the personal jurisdiction of any federal or state court in Los Angeles County, California, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
+ 
+Class Action Waiver:  The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND ACTIVISION AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+Exception - Litigation of Intellectual Property and Small Claims Court Claims: Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court that only asserts claims for patent infringement or invalidity, copyright infringement, moral rights violations, trademark infringement, and/or trade secret misappropriation, but not, for clarity, claims related to the license granted to you for the Program under this Agreement. Either party may also seek relief in a small claims court for disputes or claims within the scope of that court's jurisdiction.
+
+30 Day Right to Opt Out:  You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in the "Binding Arbitration," "Location," and "Class Action Waiver" paragraphs above by sending written notice of your decision to opt-out to the following address: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032, Attn: Legal. The notice must be sent within 30 days of purchasing the Program (or if no purchase was made, then within 30 days of the date on which you first access or use the Program and agree to these terms); otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Activision also will not be bound by them. 
+
+Changes to this Section:  Activision will provide 60-days??? notice of any changes to this Section. Changes will become effective on the 60th day and will apply prospectively only to any claims arising after the 60th day."
+
+REFERENCE            eula_7
+LANG_ENGLISH         "17.	JURISDICTION AND APPLICABLE LAW 
+The Program is made available subject to the terms of this Agreement.  If you acquired and use the Program from:
+A. For residents in the United States, Mexico, or Canada, then you are contracting with Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032 and any claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) will be subject to the laws of the State of Delaware, without reference to conflict of laws principles. If any court or arbitrator determines that the ???Class Action Waiver??? paragraph set forth above is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then any and all claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) shall be decided under the laws of the state where you were a citizen at the time you obtained or bought the Program that was subject to this Agreement. In addition, you and we irrevocably consent to the exclusive jurisdiction and venue of state or federal courts in Los Angeles County, California to resolve any claims that are subject to exceptions to the arbitration agreement described in BINDING ARBITRATION AND CLASS ACTION WAIVER above, or otherwise determined not to be arbitrable.
+B. For residents in the European Union, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands and the laws of England and Wales govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the European Union country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Program. In addition, with respect to jurisdiction, you may choose either the courts of the country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Program, or in the alternative the courts of England and Wales or other court as applicable under the Brussels Regulation EC 44/2001. 
+C. For residents in Australia or Japan, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands and the laws of Australia govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the country in which you acquired and use the Program (being either Australia or Japan). To the extent permitted by applicable law, you agree to the jurisdiction of the courts of New South Wales, Australia. 
+D. For residents in the Rest of the World, If you acquired and use this Program from countries other than those listed in sections A, B and C above, then you do so on your own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable, and you expressly indemnify and hold harmless Activision from any and all claims, loss, injury, damage, or costs arising from your use of the Program to the extent permitted by applicable law. No warranty or representation is made by Activision that the Program or any use of the Program outside of the countries listed in sections A, B and C above complies with any applicable local law. Further your use of the Program and all claims arising out of or related to the Program or this Agreement will, to the extent permitted under applicable law, be subject to the laws of England and Wales, without reference to conflict of laws principles and you consent to the jurisdiction of the courts of England and Wales.
+To the fullest extent permitted by applicable law, if any user outside of the United States is entitled to commence and/or participate in legal proceedings within the United States, then that user agrees to be bound by the BINDING ARBITRATION AND CLASS ACTION WAIVER provisions above.
+ 
+18.	MISCELLANEOUS: This Agreement is the complete agreement concerning this license between the parties and supersedes all prior agreements and representations between them. If any provision of this Agreement is held to be unenforceable, the applicable provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this Agreement shall not be affected, except as otherwise expressly provided herein."
+
+REFERENCE            eula_8
+LANG_ENGLISH         "19.	SUPPLEMENTAL TERMS??? GERMANY
+
+The following Sections below supersede and replace the corresponding Sections above for residents in Germany:
+ 
+Modification of Terms: From time to time, Activision may need to amend this Agreement, for example to reflect or include new products or services, to enhance security for users or because of changes in the law. If Activision makes such a change to this Agreement we will inform you of the particular changes in advance no later than thirty (30) calendar days before such changes come into force and you shall be deemed to have accepted these changes (i) unless you have notified us of your objection to such changes within thirty (30) calendar days from the moment of receipt of notification from us, or (ii) if you use the Program after the changes have entered into force. In the notification, we will inform you of your right to object, of the applicable notice period and the legal consequences of a failure to object.
+
+The latest version of this Agreement will always be available on our website, so we recommend that you check for updates to this Agreement each time you use the Program. Changes to the Agreement shall not affect your accrued rights, shall not substantially disrupt the contractual balance between you and us under this Agreement and shall not have retroactive effect.
+
+Service Provided Content: In addition to the above, the following Right of Withdrawal shall apply to German residents.
+
+If you are a consumer (i.e. a natural person who enters into a legal transaction for purposes that predominantly are outside his trade, business or profession), then you shall have a right of withdrawal as set out hereafter.
+
+Information concerning the exercise of the right of withdrawal
+
+Right of Withdrawal
+
+You have the right to withdraw from any Purchase Contract within 14 calendar days without giving any reason. The withdrawal period will expire after 14 calendar days from the day of the conclusion of the Purchase Contract. To exercise the right of withdrawal, you must inform us (Activision Blizzard International B.V. of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands contact details available at www.support.activision.com  of your decision to withdraw from a Purchase Contract by an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the model withdrawal form attached hereafter, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+Effects of withdrawal
+
+If you withdraw from the Purchase Contract, we shall reimburse to you all payments received from you under this Purchase Contract, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 calendar days from the day on which we are informed about your decision to withdraw from this Purchase Contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
+
+If you requested to begin the performance of services under a Purchase Contract during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from that Purchase Contract, in comparison with the full coverage of these services under the Purchase Contract.
+
+End of the information concerning the exercise of the right of withdrawal
+
+You lose your right of withdrawal, insofar as the Purchase Contract is a service contract, after the service has been fully performed and if the performance has begun with your prior express consent, and with the acknowledgement that you will lose your right of withdrawal once the service has been fully performed by us.
+
+You lose your right of withdrawal insofar as the Purchase Contract comprises the supply of digital content which is not supplied on a tangible medium if the performance has begun with your prior express consent and your acknowledgment that you thereby lose your right of withdrawal.
+
+Based on the aforesaid you understand that by purchasing Service Provided Content, you consent that we make available these Service Provided Content to you directly after we have accepted your order. You will lose your right of withdrawal once the Service Provided Content have been made fully available to you by us. However, your right of withdrawal is not lost if you purchase Virtual Goods that are granted to you for a certain period of time (e.g. time-limited premium memberships). 
+****
+
+Model withdrawal Form
+
+Please complete and return this withdrawal form if you wish to withdraw from a contract with us.
+
+-	-	To: [Activision Blizzard International B.V. of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands, 
+-	I/We hereby give notice that I/We withdraw from my/our contract for the purchase of the following goods/ the provision of the following services:*
+-	Ordered/ received on*:
+-	Name of consumer(s):	
+-	Address of consumer(s):
+-	Signature of consumer(s): (only required if this form is notified on paper)
+-	Date: 
+
+(*) Delete where appropriate."
+
+REFERENCE            extinction_casual_notice
+LANG_ENGLISH         "Posting to the leaderboards and some achievements are disabled in casual mode."
+
+REFERENCE            facebook_legal2
+LANG_ENGLISH         "By logging into your Facebook account, you agree that Activision may link and display your Call of Duty??: Modern Warfare?? information, including your Steam username, with your Facebook account information, including your name."
+
+REFERENCE            fb_next_page
+LANG_ENGLISH         "Next Page"
+
+REFERENCE            fb_next_page_button
+LANG_ENGLISH         ""
+
+REFERENCE            fb_prev_page
+LANG_ENGLISH         "Previous Page"
+
+REFERENCE            fb_prev_page_button
+LANG_ENGLISH         ""
+
+REFERENCE            filter
+LANG_ENGLISH         "Filter"
+
+REFERENCE            filter_shortcut
+LANG_ENGLISH         "Filter ^2F1^7"
+
+REFERENCE            find_game
+LANG_ENGLISH         "Find Game"
+
+REFERENCE            find_game_caps
+LANG_ENGLISH         "FIND GAME"
+
+REFERENCE            firstperson
+LANG_ENGLISH         "^3[{+melee_zoom}]^7 - First Person"
+
+REFERENCE            firstperson_gamepad
+LANG_ENGLISH         " First Person"
+
+REFERENCE            firstperson_helmet
+LANG_ENGLISH         " Helmet Cam"
+
+REFERENCE            flip_movement_look_sticks
+LANG_ENGLISH         "Flip Movement / Look sticks"
+
+REFERENCE            flying_vehicle_stick_sensitivity_desc
+LANG_ENGLISH         "Defines your rotation speed on the sticks while using ^5air vehicles^7."
+
+REFERENCE            follow_loading
+LANG_ENGLISH         "Loading next player..."
+
+REFERENCE            follow_loading_gamepad
+LANG_ENGLISH         "Loading next player..."
+
+REFERENCE            follownextplayer
+LANG_ENGLISH         "&&1 Next"
+
+REFERENCE            follownextplayer_gamepad
+LANG_ENGLISH         " Next"
+
+REFERENCE            follownextplayer_gamepad_bumper_ping
+LANG_ENGLISH         " Next"
+
+REFERENCE            followprevplayer
+LANG_ENGLISH         "Previous &&1"
+
+REFERENCE            followprevplayer_gamepad
+LANG_ENGLISH         "Previous "
+
+REFERENCE            followprevplayer_gamepad_bumper_ping
+LANG_ENGLISH         "Previous "
+
+REFERENCE            followstop
+LANG_ENGLISH         "^3[{+melee_zoom}]^7 - Stop following"
+
+REFERENCE            followstop_gamepad
+LANG_ENGLISH         " Stop following"
+
+REFERENCE            friends_button
+LANG_ENGLISH         "F"
+
+REFERENCE            friends_online_vault_browse
+LANG_ENGLISH         "View Friend's Online Vault"
+
+REFERENCE            friends_shortcut
+LANG_ENGLISH         "Friends ^2F^7"
+
+REFERENCE            game_summary_caps
+LANG_ENGLISH         "MATCH SUMMARY ^0- ^3F1^7"
+
+REFERENCE            gamebattles_first_time_lobby
+LANG_ENGLISH         "You're all set for Call of Duty League??? GameBattles tournament and ladder matches! Download the GameBattles app on your smart device or head over to mlg.tv/cdlgamebattles to sign up for upcoming Call of Duty League??? competitions. 
+ 
+Once you're registered, you will be able to play all of your Call of Duty League??? GameBattles matches here. 
+ 
+Use of GameBattles is subject to the Major League Gaming Terms of Service and Privacy Policy."
+
+REFERENCE            gamebattles_register_popup
+LANG_ENGLISH         "Here you can play official Call of Duty League??? GameBattles tournament and ladder matches. Register now and you'll be on your way to going pro! 
+ 
+To register, download the GameBattles app on your smart device or visit mlg.tv/register. After you log in, visit mlg.tv to link your account. Once you've linked your accounts, you'll be able to play your Call of Duty League??? GameBattles matches here and receive this GameBattles animated calling card! 
+ 
+Use of GameBattles is subject to the Major League Gaming Terms of Service and Privacy Policy."
+
+REFERENCE            gamepad
+LANG_ENGLISH         "Controller"
+
+REFERENCE            gamepad_vibration
+LANG_ENGLISH         "Controller Vibration"
+
+REFERENCE            gamepad_vibration_desc
+LANG_ENGLISH         "^5Disabled:^7 The vibration function of your controller is deactivated.
+
+^5Enabled:^7 Specific gameplay events make your controller vibrate."
+
+REFERENCE            gamertag
+LANG_ENGLISH         "Player"
+
+REFERENCE            gamesummary_shortcut
+LANG_ENGLISH         "Match Summary ^2G^7"
+
+REFERENCE            general_sub_input_caps
+LANG_ENGLISH         "IN-GAME CONTROLLER"
+
+REFERENCE            get_auto_shot
+LANG_ENGLISH         "[{+activate}]Auto_Shot"
+
+REFERENCE            get_kit
+LANG_ENGLISH         "[{+activate}] New kit"
+
+REFERENCE            get_sentry
+LANG_ENGLISH         "[{+activate}]Sentry"
+
+REFERENCE            get_thumper
+LANG_ENGLISH         "[{+activate}]Thumper"
+
+REFERENCE            hbao
+LANG_ENGLISH         "HBAO+"
+
+REFERENCE            heli_pilot_fire
+LANG_ENGLISH         "^3[{+attack}]^7 Fire"
+
+REFERENCE            heli_pilot_pop_flare
+LANG_ENGLISH         "^3[{+smoke}]^7 Flare"
+
+REFERENCE            heli_pilot_zoom
+LANG_ENGLISH         "^3[{+speed_throw,+toggleads_throw}]^7 Zoom"
+
+REFERENCE            high_quality
+LANG_ENGLISH         "High"
+
+REFERENCE            hint_move
+LANG_ENGLISH         "[{+forward}], [{+back}], [{+moveleft}], or [{+moveright}] to move."
+
+REFERENCE            hint_moveontruck
+LANG_ENGLISH         "Press movement keys to move on truck."
+
+REFERENCE            hold_breath
+LANG_ENGLISH         "Hold ^3&&1^7 Steady Aim"
+
+REFERENCE            hybrid_toggle
+LANG_ENGLISH         "&&1 Toggle hybrid"
+
+REFERENCE            input_method_desc
+LANG_ENGLISH         "Determines whether a Controller or Keyboard & Mouse is ^5active during gameplay.^7"
+
+REFERENCE            invalid_auth
+LANG_ENGLISH         "Invalid login credentials. Please always start the game using the Battle.net App.
+
+Error Code: &&1"
+
+REFERENCE            invert_stick_veh_desc
+LANG_ENGLISH         "Camera movements on the ^5horizontal^7 axis will be inverted. This will apply only when driving or piloting ^5vehicles^7."
+
+REFERENCE            invite
+LANG_ENGLISH         "Send Invite"
+
+REFERENCE            invite_not_connected
+LANG_ENGLISH         "Not connected to Matchmaking Server."
+
+REFERENCE            invite_system_error
+LANG_ENGLISH         "Failed to send game invite."
+
+REFERENCE            invite_to_game
+LANG_ENGLISH         "Invite to game"
+
+REFERENCE            invite_to_party
+LANG_ENGLISH         "Invite to party"
+
+REFERENCE            join
+LANG_ENGLISH         "Join Player"
+
+REFERENCE            join_friend_failed
+LANG_ENGLISH         "Failed to join friend's game."
+
+REFERENCE            join_session_lost
+LANG_ENGLISH         "The game session you were invited to is no longer valid."
+
+REFERENCE            join_wrong_exe_mp
+LANG_ENGLISH         "This friend is currently playing multiplayer. You must start the multiplayer game mode to join this player."
+
+REFERENCE            join_wrong_exe_sp
+LANG_ENGLISH         "This friend is currently playing single-player. You must return to the main menu to join this player."
+
+REFERENCE            kb_alt1_button
+LANG_ENGLISH         "F2"
+
+REFERENCE            kb_alt2_button
+LANG_ENGLISH         "F1"
+
+REFERENCE            kb_back_button
+LANG_ENGLISH         "TAB"
+
+REFERENCE            kb_del_button
+LANG_ENGLISH         "DEL"
+
+REFERENCE            kb_dpad_down_button
+LANG_ENGLISH         "DOWN"
+
+REFERENCE            kb_dpad_left_button
+LANG_ENGLISH         "LEFT"
+
+REFERENCE            kb_dpad_right_button
+LANG_ENGLISH         "RIGHT"
+
+REFERENCE            kb_dpad_up_button
+LANG_ENGLISH         "UP"
+
+REFERENCE            kb_f_button
+LANG_ENGLISH         "F"
+
+REFERENCE            kb_home_button
+LANG_ENGLISH         "HOME"
+
+REFERENCE            kb_ins_button
+LANG_ENGLISH         "INS"
+
+REFERENCE            kb_left_shoulder_button
+LANG_ENGLISH         "A"
+
+REFERENCE            kb_left_stick
+LANG_ENGLISH         "Arrow Keys"
+
+REFERENCE            kb_left_trigger_button
+LANG_ENGLISH         "Q"
+
+REFERENCE            kb_page_down_button
+LANG_ENGLISH         "PGDN"
+
+REFERENCE            kb_page_up_button
+LANG_ENGLISH         "PGUP"
+
+REFERENCE            kb_primary_button
+LANG_ENGLISH         "ENTER"
+
+REFERENCE            kb_right_shoulder_button
+LANG_ENGLISH         "D"
+
+REFERENCE            kb_right_stick
+LANG_ENGLISH         "Wheel Up/Down"
+
+REFERENCE            kb_right_trigger_button
+LANG_ENGLISH         "E"
+
+REFERENCE            kb_secondary_button
+LANG_ENGLISH         "ESC"
+
+REFERENCE            kb_start_button
+LANG_ENGLISH         "SPACE"
+
+REFERENCE            kbm_disconnected_ingame
+LANG_ENGLISH         "Please reconnect your Keyboard & Mouse or switch to the controller control scheme."
+
+REFERENCE            kbm_disconnected_ingame_noswap
+LANG_ENGLISH         "Please reconnect your Keyboard & Mouse or go to main menu to change for controller."
+
+REFERENCE            kickedfromparty
+LANG_ENGLISH         "You were kicked from the party."
+
+REFERENCE            leaderboards_shortcut
+LANG_ENGLISH         "Leaderboards ^2Right Mouse^7/^2F1^7"
+
+REFERENCE            left_stick
+LANG_ENGLISH         "[{ui_left_stick}]"
+
+REFERENCE            left_stick_noswap
+LANG_ENGLISH         "[{ui_left_stick}]"
+
+REFERENCE            locsel_dir_controls
+LANG_ENGLISH         "Hold [Right Mouse] to set direction"
+
+REFERENCE            locsel_position_controls
+LANG_ENGLISH         "Use the mouse to select a target"
+
+REFERENCE            look_horz_sensitivity
+LANG_ENGLISH         "Horizontal Stick Sensitivity"
+
+REFERENCE            look_horz_sensitivity_desc
+LANG_ENGLISH         "Defines how much stick movement affects ^5in-game^7 aim. This affects ^5horizontal^7 axis only."
+
+REFERENCE            look_inversion_desc
+LANG_ENGLISH         "^5Disabled:^7 The camera moves in the same direction as the analog stick.
+
+^5Airplanes Only:^7 Camera movements on the ^5vertical^7 axis will be inverted. This will only apply in airborne vehicles.
+
+^5Enabled:^7 Camera movements on the ^5vertical^7 axis will always be inverted. "
+
+REFERENCE            look_vert_sensitivity
+LANG_ENGLISH         "Vertical Stick Sensitivity"
+
+REFERENCE            look_vert_sensitivity_desc
+LANG_ENGLISH         "Defines how much stick movement affects ^5in-game^7 aim. This affects ^5vertical^7 axis only."
+
+REFERENCE            low_ammo_no_reload
+LANG_ENGLISH         "Low Ammo"
+
+REFERENCE            low_ammo_no_reload_caps
+LANG_ENGLISH         "LOW AMMO"
+
+REFERENCE            low_quality
+LANG_ENGLISH         "Low"
+
+REFERENCE            mantle
+LANG_ENGLISH         "[{+gostand}] to [{mantle}]"
+
+REFERENCE            melee_execution
+LANG_ENGLISH         "Execute"
+
+REFERENCE            meleezoom
+LANG_ENGLISH         "Melee"
+
+REFERENCE            missing_premium_content
+LANG_ENGLISH         "Missing install content. Please update the game through the Battle.Net App.
+
+Error Code:  &&1"
+
+REFERENCE            missingmap
+LANG_ENGLISH         "You do not have this map or it is damaged.  Visit Steam to see if this map is available for download."
+
+REFERENCE            missingmap_xboxlive
+LANG_ENGLISH         "You do not have this map or it is damaged.  Visit the Xbox Store to see if this map is available for download."
+
+REFERENCE            mlg_gamebattles_desc
+LANG_ENGLISH         "Compete against friends and rivals in official GameBattles events, including ladders and tournaments."
+
+REFERENCE            mount_hint
+LANG_ENGLISH         "^3&&1^7 Mount"
+
+REFERENCE            mount_hint_double
+LANG_ENGLISH         "Double-tap &&1 to mount."
+
+REFERENCE            mount_hint_hold
+LANG_ENGLISH         "&&1 Mount"
+
+REFERENCE            mouse_horz_sensitivity_desc
+LANG_ENGLISH         "Defines how much mouse movement affects aim ^5during gameplay^7. This setting affects both horizontal and vertical sensitivity.
+
+(Raw mouse input is taken directly and is not related to framerate.)
+
+^5Menu^7 mouse sensitivity is independent from this option and instead reflects your operating system's settings."
+
+REFERENCE            mp_open_menu
+LANG_ENGLISH         "^3&&1^7 - Menu
+"
+
+REFERENCE            mp_open_menu_gamepad
+LANG_ENGLISH         "&&1 Menu
+"
+
+REFERENCE            mute_menu_button
+LANG_ENGLISH         "M"
+
+REFERENCE            mute_shortcut
+LANG_ENGLISH         "Mute ^2M^7"
+
+REFERENCE            mw3_back
+LANG_ENGLISH         "Back ^0- ^3ESC^7"
+
+REFERENCE            navbar_button_focused_selectbutton
+LANG_ENGLISH         " "
+
+REFERENCE            no
+LANG_ENGLISH         "No"
+
+REFERENCE            no_ammo_caps
+LANG_ENGLISH         "NO AMMO"
+
+REFERENCE            no_controller_initial
+LANG_ENGLISH         "You do not have a Controller attached.  Would you like to switch to the Mouse and Keyboard control scheme?"
+
+REFERENCE            no_demonware
+LANG_ENGLISH         "Still connecting to the matchmaking server, please wait a few seconds."
+
+REFERENCE            no_friends
+LANG_ENGLISH         "You have no Battle.net friends"
+
+REFERENCE            no_friends_crossplay
+LANG_ENGLISH         "You have no friends across platforms."
+
+REFERENCE            no_friends_xboxlive
+LANG_ENGLISH         "You have no Xbox Live friends."
+
+REFERENCE            no_plan
+LANG_ENGLISH         "This account does not own Call of Duty??: Modern Warfare??.
+
+Error Code: &&1"
+
+REFERENCE            no_token_debug
+LANG_ENGLISH         "No credentials found. Launch the game using the Blizzard App or have Token Refresher running.
+
+Error Code:  &&1"
+
+REFERENCE            no_upcoming_match
+LANG_ENGLISH         "You currently have no scheduled matches.
+
+Please visit GameBattles.com to join a ladder or tournament to get started."
+
+REFERENCE            noguest
+LANG_ENGLISH         "Guest accounts are not supported for Lan Party games in Call of Duty??: Modern Warfare??."
+
+REFERENCE            nomotd
+LANG_ENGLISH         "Go online to get Call of Duty??: Modern Warfare?? news and updates."
+
+REFERENCE            notsignedintoprofile
+LANG_ENGLISH         "You have not chosen a profile yet."
+
+REFERENCE            odin_airdrop
+LANG_ENGLISH         "Care Package ^3[{+smoke}]^7"
+
+REFERENCE            odin_juggernaut
+LANG_ENGLISH         "^3[{+frag}]^7 Juggernaut"
+
+REFERENCE            odin_juggernaut_move
+LANG_ENGLISH         "^3[{+frag}]^7 Move Here"
+
+REFERENCE            odin_large_rod
+LANG_ENGLISH         "^3[{+attack}]^7 Large Rod"
+
+REFERENCE            odin_marking
+LANG_ENGLISH         "^3[{+attack}]^7 Flash/Mark"
+
+REFERENCE            odin_small_rod
+LANG_ENGLISH         "Small Rod ^3[{+speed_throw,+toggleads_throw}]^7"
+
+REFERENCE            odin_smoke
+LANG_ENGLISH         "Smoke ^3[{+speed_throw,+toggleads_throw}]^7"
+
+REFERENCE            odin_struggle_fail
+LANG_ENGLISH         "Use  to aim and [{+attack}] to shoot."
+
+REFERENCE            odin_struggle_fail_alt
+LANG_ENGLISH         "Use  to aim and [{+attack}] to shoot."
+
+REFERENCE            offensive_no_panelty
+LANG_ENGLISH         "(You will not be penalized in terms of game completion.)"
+
+REFERENCE            online_timeout
+LANG_ENGLISH         "Unable to access online services."
+
+REFERENCE            onlinevault_mustlogin
+LANG_ENGLISH         "You must be connected to the internet to view the Online Vault."
+
+REFERENCE            opsmap_tutorial
+LANG_ENGLISH         "Use Wheel Up/Down to zoom and [{ui_primary}] to select a mission."
+
+REFERENCE            opsmap_tutorial_gamepad
+LANG_ENGLISH         "Use [{ui_right_stick}] to zoom and [{ui_primary}] to select a mission"
+
+REFERENCE            options_color_blind_assist_desc
+LANG_ENGLISH         "Enable or disable Color Blind Assist for player names."
+
+REFERENCE            options_effects_volume_desc
+LANG_ENGLISH         "Adjust the volume of ^5in-game effects.^7"
+
+REFERENCE            options_game_volume_desc
+LANG_ENGLISH         "Adjust the ^5global^7 volume."
+
+REFERENCE            options_hold_sprint_desc
+LANG_ENGLISH         "Toggle Hold to Sprint"
+
+REFERENCE            options_horz_sensitivity_desc
+LANG_ENGLISH         "Adjust the horizontal sensitivity of your controller's sticks."
+
+REFERENCE            options_horz_sensitivity_mouse_desc
+LANG_ENGLISH         "Defines how much mouse movement affects aim ^3during gameplay^7. This setting affects both horizontal and vertical sensitivity.
+
+(Raw mouse input is taken directly and is not related to framerate.)
+
+^3Menu^7 mouse sensitivity is independent from this option and instead reflects your operating system's settings."
+
+REFERENCE            options_look_inversion_desc
+LANG_ENGLISH         "If enabled, camera movements on the ^5vertical^7 axis will always be inverted."
+
+REFERENCE            options_music_playlist_desc
+LANG_ENGLISH         "Adjust the volume of the music playlist."
+
+REFERENCE            options_music_volume_desc
+LANG_ENGLISH         "Adjust the volume of ^5in-game music.^7"
+
+REFERENCE            options_sprint_cancels_reload_desc
+LANG_ENGLISH         "Enable or disable sprint reload cancel."
+
+REFERENCE            options_stick_layout_desc
+LANG_ENGLISH         "Adjust your stick layout."
+
+REFERENCE            options_subtitles_desc
+LANG_ENGLISH         "^5Disabled:^7 Subtitles won't be displayed.
+
+^5Enabled:^7 Subtitles are displayed when possible."
+
+REFERENCE            options_target_assist_desc
+LANG_ENGLISH         "^5Disabled:^7 The camera does not slow down when the crosshair is about to move over an enemy.
+
+^5Enabled:^7 The camera slows down when the crosshair is about to move over an enemy.
+
+^3This option is only available in Campaign mode.^7"
+
+REFERENCE            options_vert_sensitivity_desc
+LANG_ENGLISH         "Adjust the vertical sensitivity of your controller's sticks."
+
+REFERENCE            options_vert_sensitivity_mouse_desc
+LANG_ENGLISH         "Adjust the vertical sensitivity of your mouse."
+
+REFERENCE            options_voice_volume_desc
+LANG_ENGLISH         "Adjust the volume of ^5voice-over audio.^7"
+
+REFERENCE            p2pauth_bad_client
+LANG_ENGLISH         "Disconnected due to bad client."
+
+REFERENCE            p2pauth_bad_host
+LANG_ENGLISH         "Disconnected due to bad host."
+
+REFERENCE            p2pauth_bad_self
+LANG_ENGLISH         "Disconnected due to VAC timeout."
+
+REFERENCE            p2pauth_bad_self_invalid_ticket
+LANG_ENGLISH         "Disconnected due to VAC."
+
+REFERENCE            p2pauth_host_auth_fail
+LANG_ENGLISH         "Unable to verify VAC status."
+
+REFERENCE            p2pauth_invalid_player
+LANG_ENGLISH         "Your account is VAC banned and cannot play online."
+
+REFERENCE            p2pauth_logged_elsewhere
+LANG_ENGLISH         "Your Steam account is logged in elsewhere."
+
+REFERENCE            p2pauth_no_license
+LANG_ENGLISH         "Your Steam account does not contain a valid license for this game."
+
+REFERENCE            p2pauth_not_connected_steam
+LANG_ENGLISH         "You are currently not conncected to Steam."
+
+REFERENCE            p2pauth_publisher_banned
+LANG_ENGLISH         "Your account is banned and cannot play online."
+
+REFERENCE            page_buttons
+LANG_ENGLISH         ""
+
+REFERENCE            page_down
+LANG_ENGLISH         "Page Down"
+
+REFERENCE            page_down_caps
+LANG_ENGLISH         "PGDN"
+
+REFERENCE            page_down_shortcut
+LANG_ENGLISH         "Page Down ^2PGDN^7"
+
+REFERENCE            page_up
+LANG_ENGLISH         "Page Up"
+
+REFERENCE            page_up_caps
+LANG_ENGLISH         "PGUP"
+
+REFERENCE            page_up_shortcut
+LANG_ENGLISH         "Page Up ^2PGUP^7"
+
+REFERENCE            parental_restrictions_disconnect
+LANG_ENGLISH         "Access to this account is currently restricted by parental controls."
+
+REFERENCE            pc
+LANG_ENGLISH         "PC"
+
+REFERENCE            pick_up_double_tap
+LANG_ENGLISH         "^3&&1^7 Pick up Double Tap"
+
+REFERENCE            pick_up_juggernaut
+LANG_ENGLISH         "^3&&1^7 Pick up Juggernaut"
+
+REFERENCE            pick_up_last_stand
+LANG_ENGLISH         "Press^3 &&1 ^7to pick up Last Stand"
+
+REFERENCE            pick_up_martyrdom
+LANG_ENGLISH         "Press^3 &&1 ^7to pick up Martyrdom"
+
+REFERENCE            pick_up_sleight_of_hand
+LANG_ENGLISH         "Press^3 &&1 ^7to pick up Sleight of Hand"
+
+REFERENCE            pick_up_stopping_power
+LANG_ENGLISH         "^3&&1^7 Pick up Stopping Power"
+
+REFERENCE            pickupnewweapon
+LANG_ENGLISH         "^3&&1^7 Pick up &&2"
+
+REFERENCE            pickupnewweapongamepad
+LANG_ENGLISH         "Hold &&1 to pick up &&2"
+
+REFERENCE            pickupnewweapongamepadheavy
+LANG_ENGLISH         "Hold &&1 to pick up heavy weapon &&2"
+
+REFERENCE            pickupnewweaponheavy
+LANG_ENGLISH         "^3&&1^7 Pick up heavy weapon &&2"
+
+REFERENCE            play_online
+LANG_ENGLISH         "Play Online"
+
+REFERENCE            play_online_caps
+LANG_ENGLISH         "ONLINE PLAY"
+
+REFERENCE            play_online_desc
+LANG_ENGLISH         "Play online in Call of Duty??: Modern Warfare?? Multiplayer."
+
+REFERENCE            play_online_squads_caps
+LANG_ENGLISH         "ONLINE SQUADS PLAY"
+
+REFERENCE            play_online_squads_desc
+LANG_ENGLISH         "Play Squads online in Call of Duty??: Modern Warfare?? Multiplayer."
+
+REFERENCE            playlist_requires_dlc
+LANG_ENGLISH         "This playlist requires a map pack that you do not have. You can download map packs from Steam."
+
+REFERENCE            playlist_requires_dlc_xboxlive
+LANG_ENGLISH         "This playlist requires a map pack that you do not have. You can download map packs from Xbox Store."
+
+REFERENCE            popup_connection
+LANG_ENGLISH         "Connecting to Online Services"
+
+REFERENCE            predator_missile_aim
+LANG_ENGLISH         "Steer"
+
+REFERENCE            predator_missile_boost
+LANG_ENGLISH         "[{+attack}] Boost"
+
+REFERENCE            predator_missile_fire
+LANG_ENGLISH         "[{+attack}] Fire"
+
+REFERENCE            press_button_to_confirm_target
+LANG_ENGLISH         "Press ^3[Left Mouse]^7 to confirm target"
+
+REFERENCE            press_button_to_confirm_target_gamepad
+LANG_ENGLISH         "[{ui_primary}] Confirm target"
+
+REFERENCE            press_to_copycat
+LANG_ENGLISH         "Press^3 [{weapnext}] ^7 Steal their class!"
+
+REFERENCE            press_to_drop
+LANG_ENGLISH         "^3[{+activate}]^7 Drop"
+
+REFERENCE            press_to_orb_dep_respawn
+LANG_ENGLISH         " Respawn or ^3 [{+attack}] to respawn using Orbital Deployment^7"
+
+REFERENCE            press_to_safespawn
+LANG_ENGLISH         "[{+frag}] Safe Spawn"
+
+REFERENCE            press_to_set_airstrike
+LANG_ENGLISH         "Press Fire to set Air Strike location"
+
+REFERENCE            private_match
+LANG_ENGLISH         "Custom Game"
+
+REFERENCE            private_match_cp_desc
+LANG_ENGLISH         "Play a custom match."
+
+REFERENCE            private_match_desc
+LANG_ENGLISH         "Play a match with custom rules."
+
+REFERENCE            private_match_gamebattles_desc
+LANG_ENGLISH         "Play custom Online or Offline matches, and GameBattles matches."
+
+REFERENCE            private_match_gamebattles_trials_desc
+LANG_ENGLISH         "Play custom Online or Offline matches, Trials, and GameBattles matches."
+
+REFERENCE            private_match_trials_desc
+LANG_ENGLISH         "Play custom matches and Trials."
+
+REFERENCE            profile_pairing_confirm
+LANG_ENGLISH         "Your controller has been paired to another profile, would you like to continue using the previous profile? Selecting No will sign out the previous profile."
+
+REFERENCE            ps4
+LANG_ENGLISH         "PlayStation??4 system"
+
+REFERENCE            quit
+LANG_ENGLISH         "Quit"
+
+REFERENCE            rank
+LANG_ENGLISH         "Rank"
+
+REFERENCE            reading_save_device
+LANG_ENGLISH         "READING HDD"
+
+REFERENCE            refresh_shortcut
+LANG_ENGLISH         "Refresh ^2F1^7"
+
+REFERENCE            reload
+LANG_ENGLISH         "[{+reload}] reload"
+
+REFERENCE            reload_gamepad
+LANG_ENGLISH         " Reload"
+
+REFERENCE            reload_gamepad_caps
+LANG_ENGLISH         " RELOAD"
+
+REFERENCE            remote_uav_ascend
+LANG_ENGLISH         "^3[{+gostand}]^7 Ascend"
+
+REFERENCE            remote_uav_descend
+LANG_ENGLISH         "Descend ^3[{+sprint}]^7"
+
+REFERENCE            removelastgun_shortcut
+LANG_ENGLISH         "Remove Last Gun ^2F1^7"
+
+REFERENCE            rename_character
+LANG_ENGLISH         "^3 &&1 ^7 Rename"
+
+REFERENCE            restrict_shortcut
+LANG_ENGLISH         "Restrict ^2Right Mouse^7/^2F1^7"
+
+REFERENCE            resupply
+LANG_ENGLISH         "[{+activate}] Resupply"
+
+REFERENCE            right_stick
+LANG_ENGLISH         "[{ui_right_stick}]"
+
+REFERENCE            right_stick_noswap
+LANG_ENGLISH         "[{ui_right_stick}]"
+
+REFERENCE            rules_toggle_rotation_off
+LANG_ENGLISH         "Disable Map Rotation ^2F1^7"
+
+REFERENCE            rules_toggle_rotation_on
+LANG_ENGLISH         "Enable Map Rotation ^2F1^7"
+
+REFERENCE            save_and_quit
+LANG_ENGLISH         "Save and Quit"
+
+REFERENCE            savesettings_shortcut
+LANG_ENGLISH         "Save Settings ^2F1^7"
+
+REFERENCE            savetovault_shortcut
+LANG_ENGLISH         "Save to Vault ^2Right Mouse^7/^2F1^7"
+
+REFERENCE            score
+LANG_ENGLISH         "Score"
+
+REFERENCE            scoreboard
+LANG_ENGLISH         "^3&&1^7 - Score
+"
+
+REFERENCE            scoreboard_gamepad
+LANG_ENGLISH         "&&1 Score
+"
+
+REFERENCE            season_pass_legal
+LANG_ENGLISH         "* Based on suggested retail prices; actual saving may vary.  Download Season Pass content from the Modern Warfare?? in-game store.  Season Pass purchasers should not purchase map packs separately, as additional charges will apply.  Availability, pricing, and release dates may vary by platform and territory.  Season Pass content may be sold separately.  Game required. Sold separately. Cancellations and refunds are unavailable except where required by law. Please see associated game release date for Season Pass availability.  Season Pass content and delivery frequency to be determined by publisher. 
+
+?? 2016 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and CALL OF DUTY MODERN WARFARE are trademarks of Activision Publishing, Inc."
+
+REFERENCE            season_pass_title_long
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? - Season Pass"
+
+REFERENCE            season_pass_title_short
+LANG_ENGLISH         "Call of Duty??: Modern Warfare?? - Season Pass"
+
+REFERENCE            select
+LANG_ENGLISH         "[{ui_primary}] Select"
+
+REFERENCE            session_duplicate
+LANG_ENGLISH         "Disconnected from the Blizzard game servers because your account has been signed in at another location.
+
+Error Code:  &&1"
+
+REFERENCE            shader_precache_question
+LANG_ENGLISH         "Delete shader cache and restart installation from the beginning? This can take a few minutes."
+
+REFERENCE            shader_precache_question_title
+LANG_ENGLISH         "Restart Shader Installation"
+
+REFERENCE            shader_precache_restart
+LANG_ENGLISH         "Restart"
+
+REFERENCE            shader_precache_resume
+LANG_ENGLISH         "Resume"
+
+REFERENCE            show_scores_options_desc
+LANG_ENGLISH         "Use to ^5display the match's scoreboard.^7 Button behavior (Toggle/Hold) can be set in the ^5Behaviors section^7 above.
+
+^3This action is only available in Multiplayer and Co-op modes.^7"
+
+REFERENCE            ssao
+LANG_ENGLISH         "Screen Space Ambient Occlusion"
+
+REFERENCE            stancehint_crouch
+LANG_ENGLISH         "^3&&1^7 Crouch"
+
+REFERENCE            stancehint_jump
+LANG_ENGLISH         "^3&&1^7 Jump"
+
+REFERENCE            stancehint_prone
+LANG_ENGLISH         "^3&&1^7 Go prone"
+
+REFERENCE            stancehint_stand
+LANG_ENGLISH         "^3&&1^7 Stand"
+
+REFERENCE            statsreaderror
+LANG_ENGLISH         "An error occurred while reading the stats data. Your stats have been reset."
+
+REFERENCE            steam_auth_denied
+LANG_ENGLISH         "Steam authorization failed."
+
+REFERENCE            steam_connect_fail
+LANG_ENGLISH         "Steam connect failed."
+
+REFERENCE            steam_disconnected
+LANG_ENGLISH         "Disconnected from Steam."
+
+REFERENCE            steam_join_fail
+LANG_ENGLISH         "Failed to join Steam lobby."
+
+REFERENCE            steam_kick_cheat
+LANG_ENGLISH         "Cheat detected."
+
+REFERENCE            steam_offline
+LANG_ENGLISH         "Must be signed in to Steam in Online mode to play."
+
+REFERENCE            steering_vehicle_stick_sensitivity
+LANG_ENGLISH         "Ground Vehicles Sensitivity Multiplier"
+
+REFERENCE            steering_vehicle_stick_sensitivity_desc
+LANG_ENGLISH         "Defines your rotation speed on the sticks while using ^5driving vehicles^7."
+
+REFERENCE            stick_acceleration
+LANG_ENGLISH         "Stick Acceleration"
+
+REFERENCE            stick_acceleration_desc
+LANG_ENGLISH         "Determines how quickly the stick rotation reaches its full rotation speed.
+
+A low value reduces stick acceleration, resulting in a faster transition to full stick rotation speed.
+
+A high value increases stick acceleration, resulting in a slower and smoother transition to full stick rotation speed."
+
+REFERENCE            stick_flight_inversion_desc
+LANG_ENGLISH         "^5Disabled:^7 The camera moves in the same direction as the analog stick.
+
+^5Enabled:^7 Camera movements on the ^5vertical^7 axis will be inverted. This will only apply in ^5airborne vehicles^7."
+
+REFERENCE            stick_layout
+LANG_ENGLISH         "Stick Layout"
+
+REFERENCE            stick_layout_cap
+LANG_ENGLISH         "STICK LAYOUT"
+
+REFERENCE            store_desc
+LANG_ENGLISH         "Purchase downloadable game content."
+
+REFERENCE            summary_button
+LANG_ENGLISH         "G"
+
+REFERENCE            swapweapons
+LANG_ENGLISH         "^3&&1^7 Swap for &&2"
+
+REFERENCE            swapweaponsgamepad
+LANG_ENGLISH         "Hold &&1 for &&2"
+
+REFERENCE            swapweaponsgamepadheavy
+LANG_ENGLISH         "Hold &&1 for heavy weapon &&2"
+
+REFERENCE            swapweaponsheavy
+LANG_ENGLISH         "^3&&1^7 Swap for heavy weapon &&2"
+
+REFERENCE            switch_to_controller
+LANG_ENGLISH         "Switch to controller"
+
+REFERENCE            system_error
+LANG_ENGLISH         "System Error"
+
+REFERENCE            system_link_caps
+LANG_ENGLISH         "LAN PARTY"
+
+REFERENCE            system_link_desc
+LANG_ENGLISH         "Private matches over a local network."
+
+REFERENCE            system_link_title
+LANG_ENGLISH         "Local Games"
+
+REFERENCE            tablet_stick_sensitivity_multiplier_desc
+LANG_ENGLISH         "Defines your rotation speed on the sticks while using the ^5cursor on the tablet^7."
+
+REFERENCE            theater_recording
+LANG_ENGLISH         "Theater Recording"
+
+REFERENCE            theater_recording_desc
+LANG_ENGLISH         "Enable or disable theater demo recording."
+
+REFERENCE            thermal_toggle
+LANG_ENGLISH         "&&1 Toggle Thermal"
+
+REFERENCE            thirdperson
+LANG_ENGLISH         "^3[{+melee_zoom}]^7 - Third Person"
+
+REFERENCE            thirdperson_gamepad
+LANG_ENGLISH         " Third Person"
+
+REFERENCE            throwbackgrenade
+LANG_ENGLISH         "Throw back"
+
+REFERENCE            throwbackgrenadeheavy
+LANG_ENGLISH         "^3&&1 ^7Throw back"
+
+REFERENCE            thumbstick_layout
+LANG_ENGLISH         "Stick Layout Preset"
+
+REFERENCE            thumbstick_layout_caps
+LANG_ENGLISH         "STICK LAYOUT"
+
+REFERENCE            top
+LANG_ENGLISH         "Top"
+
+REFERENCE            top_of_list_caps
+LANG_ENGLISH         "TOP OF LIST"
+
+REFERENCE            top_shortcut
+LANG_ENGLISH         "Top ^2HOME^7"
+
+REFERENCE            tu_required
+LANG_ENGLISH         "An update is required. You must be signed in to Battle.net and accept the update to play Call of Duty??."
+
+REFERENCE            underbarrel_toggle
+LANG_ENGLISH         "Hold [{ui_alt2}]"
+
+REFERENCE            underbarrel_toggle_mkb
+LANG_ENGLISH         "Hold [{toggleweapalt,ui_alt2}] to"
+
+REFERENCE            unexpecteddownloadmessage
+LANG_ENGLISH         "Unexpected www download message."
+
+REFERENCE            unlock_killstreak
+LANG_ENGLISH         "Click to unlock killstreak."
+
+REFERENCE            uplink_practice_slot3
+LANG_ENGLISH         "^3[{+actionslot 3}]^7 Call Satellite Drone to your position"
+
+REFERENCE            uplink_practice_slot7
+LANG_ENGLISH         "^3[{+actionslot 7}]^7 Call Satellite Drone to your position"
+
+REFERENCE            use_buttonlook_to_aim
+LANG_ENGLISH         "Hold ^3[Right Mouse]^7 to aim"
+
+REFERENCE            use_buttonlook_to_aim_gamepad
+LANG_ENGLISH         "Use  to aim"
+
+REFERENCE            use_buttonmove_to_position
+LANG_ENGLISH         "Use the mouse to position"
+
+REFERENCE            use_buttonmove_to_position_gamepad
+LANG_ENGLISH         "Use  to position"
+
+REFERENCE            useaion30cal
+LANG_ENGLISH         "^3&&1^7 Commandeer .30 cal"
+
+REFERENCE            veh_boost
+LANG_ENGLISH         "[Space] Boost"
+
+REFERENCE            veh_brake
+LANG_ENGLISH         "[S] Reverse"
+
+REFERENCE            veh_fire
+LANG_ENGLISH         "[Left Mouse] Fire"
+
+REFERENCE            veh_throttle
+LANG_ENGLISH         "[W] Throttle"
+
+REFERENCE            view_challenge_details
+LANG_ENGLISH         "^3F2^0-^7 Challenge Details"
+
+REFERENCE            view_challenges
+LANG_ENGLISH         "^3F2^0-^7 View Challenges"
+
+REFERENCE            view_objectives_desc
+LANG_ENGLISH         "Use to ^5display the objectives.^7 Button behavior (Toggle/Hold) can be set in the ^5Behaviors section^7 above.
+
+^3This action is only available in Campaign mode.^7"
+
+REFERENCE            vote_no
+LANG_ENGLISH         "Vote No"
+
+REFERENCE            vote_yes
+LANG_ENGLISH         "Vote Yes"
+
+REFERENCE            warning_autosave
+LANG_ENGLISH         "This game saves data automatically at certain points. Do not turn off the power when the 'Checkpoint reached.' message appears."
+
+REFERENCE            y_button
+LANG_ENGLISH         "^3F1^7"
+
+REFERENCE            yes
+LANG_ENGLISH         "Yes"
+
+
+ENDMARKER

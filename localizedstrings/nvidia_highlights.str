@@ -1,0 +1,24 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            br_death
+LANG_ENGLISH         "Warzone Death"
+
+REFERENCE            br_down
+LANG_ENGLISH         "Warzone Down"
+
+REFERENCE            br_elim
+LANG_ENGLISH         "Warzone Elimination"
+
+REFERENCE            br_win
+LANG_ENGLISH         "Warzone Win"
+
+REFERENCE            nvidia_mp_highlight
+LANG_ENGLISH         "Multiplayer Highlight"
+
+REFERENCE            tactical_nuke
+LANG_ENGLISH         "Tactical Nuke"
+
+
+ENDMARKER

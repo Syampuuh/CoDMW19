@@ -1,0 +1,156 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            activate_sat
+LANG_ENGLISH         "Start the transmission"
+
+REFERENCE            activated_sat
+LANG_ENGLISH         "Receiving transmission"
+
+REFERENCE            active_sat_reactivate
+LANG_ENGLISH         "^1Transmission Error^7"
+
+REFERENCE            checkpoint_title
+LANG_ENGLISH         "Checkpoint resets in:"
+
+REFERENCE            chopper_boss
+LANG_ENGLISH         "Chopper Boss"
+
+REFERENCE            current_checkpoint
+LANG_ENGLISH         "Current checkpoint:"
+
+REFERENCE            defuse_bomb
+LANG_ENGLISH         "Defuse the bombs"
+
+REFERENCE            defuse_bomb_vests
+LANG_ENGLISH         "Defuse the bomb vests"
+
+REFERENCE            destroy_enemy_gate
+LANG_ENGLISH         "Destroy the gate to the enemy bunker"
+
+REFERENCE            enter_numbers
+LANG_ENGLISH         "Breaching the Silo"
+
+REFERENCE            enter_vehicles
+LANG_ENGLISH         "Enter vehicles in the convoy"
+
+REFERENCE            escape_maze
+LANG_ENGLISH         "Find a way to Escape"
+
+REFERENCE            escape_silo
+LANG_ENGLISH         "Escape the Silo"
+
+REFERENCE            explore_complex
+LANG_ENGLISH         "Explore the Complex"
+
+REFERENCE            find_waste
+LANG_ENGLISH         "Find the Exhaust Waste Disposal Room"
+
+REFERENCE            findpower
+LANG_ENGLISH         "Investigate the Area"
+
+REFERENCE            freight_lift
+LANG_ENGLISH         "Freight Lift"
+
+REFERENCE            gates
+LANG_ENGLISH         "Gates"
+
+REFERENCE            infiltrate
+LANG_ENGLISH         "Infiltrate the TV Stations"
+
+REFERENCE            intro_desc
+LANG_ENGLISH         "Enter the Complex"
+
+REFERENCE            leave_cave
+LANG_ENGLISH         "Leave cave"
+
+REFERENCE            mine_caves
+LANG_ENGLISH         "Mine Caves"
+
+REFERENCE            no_current_checkpoint
+LANG_ENGLISH         "No current checkpoint"
+
+REFERENCE            nuke_vault
+LANG_ENGLISH         "Nuclear Storage Vault"
+
+REFERENCE            num_countdown
+LANG_ENGLISH         "Receiving Cypher &&1"
+
+REFERENCE            num_display
+LANG_ENGLISH         "Displaying Cypher &&1"
+
+REFERENCE            obj_keycode
+LANG_ENGLISH         "Open the Silo Gate"
+
+REFERENCE            objective_desc
+LANG_ENGLISH         "Find the exit"
+
+REFERENCE            pipe_room_start
+LANG_ENGLISH         "Find an Exit"
+
+REFERENCE            protect_hvi
+LANG_ENGLISH         "Make sure the HVI stays alive"
+
+REFERENCE            reach_icbm
+LANG_ENGLISH         "Find the ICBM Launch Room"
+
+REFERENCE            reach_pipes
+LANG_ENGLISH         "Reach the Exhaust Pipe Room"
+
+REFERENCE            reach_wind
+LANG_ENGLISH         "Reach the Wind Turbines Room"
+
+REFERENCE            ready_for_seq
+LANG_ENGLISH         "Waiting for Sequence"
+
+REFERENCE            rooftop_raid
+LANG_ENGLISH         "Rooftop Raid"
+
+REFERENCE            sat_ararry
+LANG_ENGLISH         "Satellite Array"
+
+REFERENCE            search_intel
+LANG_ENGLISH         "Search enemy bunker for intel"
+
+REFERENCE            silo_elevator
+LANG_ENGLISH         "Descend into complex"
+
+REFERENCE            silo_elevator_debug
+LANG_ENGLISH         "Silo Elevator Down"
+
+REFERENCE            silo_jump
+LANG_ENGLISH         "Find a way down the missile silo"
+
+REFERENCE            silo_jump_title
+LANG_ENGLISH         "Silo Traverse"
+
+REFERENCE            silo_thrust
+LANG_ENGLISH         "Find a way across"
+
+REFERENCE            silo_thrust_title
+LANG_ENGLISH         "Silo Thrust"
+
+REFERENCE            stabilize_fuel
+LANG_ENGLISH         "Stabilize the Fuel Gauges"
+
+REFERENCE            stabilize_pressure
+LANG_ENGLISH         "Release the Pressure before Critical Mass is reached"
+
+REFERENCE            start_pipe_room
+LANG_ENGLISH         "Start Pipe Room"
+
+REFERENCE            take_drive_to_safehouse
+LANG_ENGLISH         "Take the server drive to CIA safe house"
+
+REFERENCE            trap_room
+LANG_ENGLISH         "Trap Room"
+
+REFERENCE            unlock_silo
+LANG_ENGLISH         "Unlock the ICBM Silo's Exhaust Room"
+
+REFERENCE            waitelevator
+LANG_ENGLISH         "Wait for the Silo Elevator to Arrive"
+
+
+ENDMARKER

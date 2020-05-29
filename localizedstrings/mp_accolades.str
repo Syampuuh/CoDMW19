@@ -1,0 +1,942 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            adskills
+LANG_ENGLISH         "Hairtrigger"
+
+REFERENCE            adskills_desc
+LANG_ENGLISH         "Most ADS Kills"
+
+REFERENCE            ammoboxused
+LANG_ENGLISH         "Death Dealer"
+
+REFERENCE            ammoboxused_desc
+LANG_ENGLISH         "Most weapon drops used"
+
+REFERENCE            ardeaths
+LANG_ENGLISH         "Assaulted"
+
+REFERENCE            ardeaths_desc
+LANG_ENGLISH         "Most assault rifle deaths"
+
+REFERENCE            arheadshots
+LANG_ENGLISH         "AR Expert"
+
+REFERENCE            arheadshots_desc
+LANG_ENGLISH         "Most assault rifle headshots"
+
+REFERENCE            arkills
+LANG_ENGLISH         "AR Specialist"
+
+REFERENCE            arkills_desc
+LANG_ENGLISH         "Most assault rifle kills"
+
+REFERENCE            assaults
+LANG_ENGLISH         "Offense"
+
+REFERENCE            assaults_desc
+LANG_ENGLISH         "Most assault kills"
+
+REFERENCE            avengerkills
+LANG_ENGLISH         "Avenger"
+
+REFERENCE            avengerkills_desc
+LANG_ENGLISH         "Most avenger kills"
+
+REFERENCE            bombdefused
+LANG_ENGLISH         "Defuser"
+
+REFERENCE            bombdefused_desc
+LANG_ENGLISH         "Most defuses"
+
+REFERENCE            bombdetonated
+LANG_ENGLISH         "Destroyer"
+
+REFERENCE            bombdetonated_desc
+LANG_ENGLISH         "Most targets destroyed"
+
+REFERENCE            bombplanted
+LANG_ENGLISH         "Bomb Expert"
+
+REFERENCE            bombplanted_desc
+LANG_ENGLISH         "Most plants"
+
+REFERENCE            c4lethalkills
+LANG_ENGLISH         "Handle With Care"
+
+REFERENCE            c4lethalkills_desc
+LANG_ENGLISH         "Most C4 kills"
+
+REFERENCE            captures
+LANG_ENGLISH         "Captured"
+
+REFERENCE            captures_desc
+LANG_ENGLISH         "Most captures"
+
+REFERENCE            carepackagescaptured
+LANG_ENGLISH         "Hoarder"
+
+REFERENCE            carepackagescaptured_desc
+LANG_ENGLISH         "Most care packages captured"
+
+REFERENCE            carrierkills
+LANG_ENGLISH         "Carrier"
+
+REFERENCE            carrierkills_desc
+LANG_ENGLISH         "Most kills as carrier"
+
+REFERENCE            classchanges
+LANG_ENGLISH         "Evolver"
+
+REFERENCE            classchanges_desc
+LANG_ENGLISH         "Most classes changed"
+
+REFERENCE            claymorekills
+LANG_ENGLISH         "Ambusher"
+
+REFERENCE            claymorekills_desc
+LANG_ENGLISH         "Most claymore kills"
+
+REFERENCE            clutch
+LANG_ENGLISH         "Clutched"
+
+REFERENCE            clutch_desc
+LANG_ENGLISH         "Most kills as the last alive"
+
+REFERENCE            clutchrevives
+LANG_ENGLISH         "Miracle"
+
+REFERENCE            clutchrevives_desc
+LANG_ENGLISH         "Most revives as the last alive"
+
+REFERENCE            comebackkills
+LANG_ENGLISH         "Rally"
+
+REFERENCE            comebackkills_desc
+LANG_ENGLISH         "Most comebacks"
+
+REFERENCE            damagedealt
+LANG_ENGLISH         "Steamroller"
+
+REFERENCE            damagedealt_desc
+LANG_ENGLISH         "Most damage dealt"
+
+REFERENCE            damagetaken
+LANG_ENGLISH         "Target Dummy"
+
+REFERENCE            damagetaken_desc
+LANG_ENGLISH         "Most damage taken"
+
+REFERENCE            deadsilencekills
+LANG_ENGLISH         "Silent But Deadly"
+
+REFERENCE            deadsilencekills_desc
+LANG_ENGLISH         "Most kills with dead silence active"
+
+REFERENCE            deathsfrombehind
+LANG_ENGLISH         "Blindsided"
+
+REFERENCE            deathsfrombehind_desc
+LANG_ENGLISH         "Most deaths from behind"
+
+REFERENCE            decoyhits
+LANG_ENGLISH         "Made You Look"
+
+REFERENCE            decoyhits_desc
+LANG_ENGLISH         "Most decoy grenade hits"
+
+REFERENCE            defenderkills
+LANG_ENGLISH         "Savior"
+
+REFERENCE            defenderkills_desc
+LANG_ENGLISH         "Most teammates saved"
+
+REFERENCE            defends
+LANG_ENGLISH         "Defense"
+
+REFERENCE            defends_desc
+LANG_ENGLISH         "Most defend kills"
+
+REFERENCE            deployablecoverused
+LANG_ENGLISH         "Combat Engineer"
+
+REFERENCE            deployablecoverused_desc
+LANG_ENGLISH         "Most deployable covers used"
+
+REFERENCE            destroyedkillstreaks
+LANG_ENGLISH         "Scrap Metal"
+
+REFERENCE            destroyedkillstreaks_desc
+LANG_ENGLISH         "Most killstreaks destroyed"
+
+REFERENCE            distancetraveledinvehicle
+LANG_ENGLISH         "Cross Country"
+
+REFERENCE            distancetraveledinvehicle_desc
+LANG_ENGLISH         "Longest distance travelled in a vehicle"
+
+REFERENCE            distancetravelled
+LANG_ENGLISH         "Nomad"
+
+REFERENCE            distancetravelled_desc
+LANG_ENGLISH         "Longest distance traveled"
+
+REFERENCE            empdronehits
+LANG_ENGLISH         "Short Circuit"
+
+REFERENCE            empdronehits_desc
+LANG_ENGLISH         "Most hits with EMP drone"
+
+REFERENCE            executionkills
+LANG_ENGLISH         "Executioner"
+
+REFERENCE            executionkills_desc
+LANG_ENGLISH         "Most finishing move kills"
+
+REFERENCE            explosionssurvived
+LANG_ENGLISH         "Shell Shocked"
+
+REFERENCE            explosionssurvived_desc
+LANG_ENGLISH         "Most explosions survived"
+
+REFERENCE            firstinfected
+LANG_ENGLISH         "Patient Zero"
+
+REFERENCE            firstinfected_desc
+LANG_ENGLISH         "First infected"
+
+REFERENCE            flashbanghits
+LANG_ENGLISH         "Blinder"
+
+REFERENCE            flashbanghits_desc
+LANG_ENGLISH         "Most flashbang hits"
+
+REFERENCE            fragkills
+LANG_ENGLISH         "Fragger"
+
+REFERENCE            fragkills_desc
+LANG_ENGLISH         "Most frag grenade kills"
+
+REFERENCE            gashits
+LANG_ENGLISH         "Gaseous"
+
+REFERENCE            gashits_desc
+LANG_ENGLISH         "Most gas grenade hits"
+
+REFERENCE            headshots
+LANG_ENGLISH         "Sharpshooter"
+
+REFERENCE            headshots_desc
+LANG_ENGLISH         "Most headshots"
+
+REFERENCE            higherrankedkills
+LANG_ENGLISH         "Upriser"
+
+REFERENCE            higherrankedkills_desc
+LANG_ENGLISH         "Most kills on higher ranked scoreboard players"
+
+REFERENCE            highestavgaltitude
+LANG_ENGLISH         "High Command"
+
+REFERENCE            highestavgaltitude_desc
+LANG_ENGLISH         "Highest average altitude"
+
+REFERENCE            highestmultikill
+LANG_ENGLISH         "Devastation"
+
+REFERENCE            highestmultikill_desc
+LANG_ENGLISH         "Highest multikill"
+
+REFERENCE            highestrankedkills
+LANG_ENGLISH         "Regicide"
+
+REFERENCE            highestrankedkills_desc
+LANG_ENGLISH         "Most kills on the highest ranked scoreboard players"
+
+REFERENCE            hipfirekills
+LANG_ENGLISH         "Sprayer"
+
+REFERENCE            hipfirekills_desc
+LANG_ENGLISH         "Most hipfire kills"
+
+REFERENCE            infectedkills
+LANG_ENGLISH         "Contagion"
+
+REFERENCE            infectedkills_desc
+LANG_ENGLISH         "Most kills as infected"
+
+REFERENCE            killenemyteam
+LANG_ENGLISH         "None Spared"
+
+REFERENCE            killenemyteam_desc
+LANG_ENGLISH         "Killed entire enemy team"
+
+REFERENCE            kills10nodeaths
+LANG_ENGLISH         "The Show"
+
+REFERENCE            kills10nodeaths_desc
+LANG_ENGLISH         "10 or more kills and no deaths"
+
+REFERENCE            killsfrombehind
+LANG_ENGLISH         "Flanker"
+
+REFERENCE            killsfrombehind_desc
+LANG_ENGLISH         "Most kills from behind"
+
+REFERENCE            killstreakairkills
+LANG_ENGLISH         "Air Superiority"
+
+REFERENCE            killstreakairkills_desc
+LANG_ENGLISH         "Most aerial killstreak kills"
+
+REFERENCE            killstreakairstrikekills
+LANG_ENGLISH         "Thunderstruck"
+
+REFERENCE            killstreakairstrikekills_desc
+LANG_ENGLISH         "Most precision airstrike kills"
+
+REFERENCE            killstreakauavassists
+LANG_ENGLISH         "Target Rich Environment"
+
+REFERENCE            killstreakauavassists_desc
+LANG_ENGLISH         "Most advanced UAV assists"
+
+REFERENCE            killstreakcarepackageused
+LANG_ENGLISH         "Helping Hand"
+
+REFERENCE            killstreakcarepackageused_desc
+LANG_ENGLISH         "Most care packages called in"
+
+REFERENCE            killstreakchoppergunnerkills
+LANG_ENGLISH         "Hunter"
+
+REFERENCE            killstreakchoppergunnerkills_desc
+LANG_ENGLISH         "Most chopper gunner kills"
+
+REFERENCE            killstreakchoppersupportkills
+LANG_ENGLISH         "Twin Cannons"
+
+REFERENCE            killstreakchoppersupportkills_desc
+LANG_ENGLISH         "Most support helo kills"
+
+REFERENCE            killstreakcluserstrikekills
+LANG_ENGLISH         "Shelled"
+
+REFERENCE            killstreakcluserstrikekills_desc
+LANG_ENGLISH         "Most cluster strike kills"
+
+REFERENCE            killstreakcruisemissilekills
+LANG_ENGLISH         "Cruise Control"
+
+REFERENCE            killstreakcruisemissilekills_desc
+LANG_ENGLISH         "Most cruise missile kills"
+
+REFERENCE            killstreakcuavassists
+LANG_ENGLISH         "Jammed"
+
+REFERENCE            killstreakcuavassists_desc
+LANG_ENGLISH         "Most assists with scrambler drones"
+
+REFERENCE            killstreakemergencyairdropused
+LANG_ENGLISH         "Well Provisioned"
+
+REFERENCE            killstreakemergencyairdropused_desc
+LANG_ENGLISH         "Most emergency airdrops called in"
+
+REFERENCE            killstreakgroundkills
+LANG_ENGLISH         "Ground Control"
+
+REFERENCE            killstreakgroundkills_desc
+LANG_ENGLISH         "Most ground based killstreak kills"
+
+REFERENCE            killstreakgunshipkills
+LANG_ENGLISH         "Death From Above"
+
+REFERENCE            killstreakgunshipkills_desc
+LANG_ENGLISH         "Most gunship kills"
+
+REFERENCE            killstreakjuggernautkills
+LANG_ENGLISH         "Heavy Metal"
+
+REFERENCE            killstreakjuggernautkills_desc
+LANG_ENGLISH         "Most juggernaut kills"
+
+REFERENCE            killstreakkills
+LANG_ENGLISH         "Streaker"
+
+REFERENCE            killstreakkills_desc
+LANG_ENGLISH         "Most killstreak kills"
+
+REFERENCE            killstreakpersonaluavkills
+LANG_ENGLISH         "Nothing Personal"
+
+REFERENCE            killstreakpersonaluavkills_desc
+LANG_ENGLISH         "Most kills with a personal radar active"
+
+REFERENCE            killstreaksentrygunkills
+LANG_ENGLISH         "Proxy Kill"
+
+REFERENCE            killstreaksentrygunkills_desc
+LANG_ENGLISH         "Most sentry gun kills"
+
+REFERENCE            killstreakshieldturretkills
+LANG_ENGLISH         "Shielded"
+
+REFERENCE            killstreakshieldturretkills_desc
+LANG_ENGLISH         "Most shield turret kills"
+
+REFERENCE            killstreaktankkills
+LANG_ENGLISH         "Bulldozer"
+
+REFERENCE            killstreaktankkills_desc
+LANG_ENGLISH         "Most infantry assault vehicle kills"
+
+REFERENCE            killstreakuavassists
+LANG_ENGLISH         "Map Awareness"
+
+REFERENCE            killstreakuavassists_desc
+LANG_ENGLISH         "Most assists with UAVs"
+
+REFERENCE            killstreakvtoljetkills
+LANG_ENGLISH         "Guard Dog"
+
+REFERENCE            killstreakvtoljetkills_desc
+LANG_ENGLISH         "Most VTOL Jet kills"
+
+REFERENCE            killstreakwheelsonkills
+LANG_ENGLISH         "Roll Out"
+
+REFERENCE            killstreakwheelsonkills_desc
+LANG_ENGLISH         "Most wheelson kills"
+
+REFERENCE            killstreakwhitephosphorouskillsassists
+LANG_ENGLISH         "Burnout"
+
+REFERENCE            killstreakwhitephosphorouskillsassists_desc
+LANG_ENGLISH         "Most kills and assists with white phosphorous"
+
+REFERENCE            lastsurvivor
+LANG_ENGLISH         "Last Man Standing"
+
+REFERENCE            lastsurvivor_desc
+LANG_ENGLISH         "Last survivor"
+
+REFERENCE            launcherdeaths
+LANG_ENGLISH         "Fubar"
+
+REFERENCE            launcherdeaths_desc
+LANG_ENGLISH         "Most launcher deaths"
+
+REFERENCE            launcherheadshots
+LANG_ENGLISH         "Heads Up"
+
+REFERENCE            launcherheadshots_desc
+LANG_ENGLISH         "Most launcher headshots"
+
+REFERENCE            launcherkills
+LANG_ENGLISH         "Explosivo"
+
+REFERENCE            launcherkills_desc
+LANG_ENGLISH         "Most launcher kills"
+
+REFERENCE            leastassists
+LANG_ENGLISH         "Selfish"
+
+REFERENCE            leastassists_desc
+LANG_ENGLISH         "Fewest assists"
+
+REFERENCE            leastdeaths
+LANG_ENGLISH         "Juggernaut"
+
+REFERENCE            leastdeaths_desc
+LANG_ENGLISH         "Fewest deaths"
+
+REFERENCE            leastkills
+LANG_ENGLISH         "The Fearful"
+
+REFERENCE            leastkills_desc
+LANG_ENGLISH         "Fewest kills"
+
+REFERENCE            lmgdeaths
+LANG_ENGLISH         "Target Practice"
+
+REFERENCE            lmgdeaths_desc
+LANG_ENGLISH         "Most LMG deaths"
+
+REFERENCE            lmgheadshots
+LANG_ENGLISH         "LMG Expert"
+
+REFERENCE            lmgheadshots_desc
+LANG_ENGLISH         "Most LMG headshots"
+
+REFERENCE            lmgkills
+LANG_ENGLISH         "7.62mm"
+
+REFERENCE            lmgkills_desc
+LANG_ENGLISH         "Most LMG kills"
+
+REFERENCE            longestlife
+LANG_ENGLISH         "Lifer"
+
+REFERENCE            longestlife_desc
+LANG_ENGLISH         "Longest life"
+
+REFERENCE            longeststreak
+LANG_ENGLISH         "Unstoppable"
+
+REFERENCE            longeststreak_desc
+LANG_ENGLISH         "Longest killstreak"
+
+REFERENCE            longesttimespentonweapon
+LANG_ENGLISH         "Eternity"
+
+REFERENCE            longesttimespentonweapon_desc
+LANG_ENGLISH         "Longest time spent on a single weapon"
+
+REFERENCE            longshotkills
+LANG_ENGLISH         "Marksman"
+
+REFERENCE            longshotkills_desc
+LANG_ENGLISH         "Most longshots"
+
+REFERENCE            lowerrankedkills
+LANG_ENGLISH         "Alpha"
+
+REFERENCE            lowerrankedkills_desc
+LANG_ENGLISH         "Most kills on lower ranked scoreboard players"
+
+REFERENCE            lowestavgaltitude
+LANG_ENGLISH         "Low Profile"
+
+REFERENCE            lowestavgaltitude_desc
+LANG_ENGLISH         "Lowest average altitude"
+
+REFERENCE            meleedeaths
+LANG_ENGLISH         "Knocked Out"
+
+REFERENCE            meleedeaths_desc
+LANG_ENGLISH         "Most melee deaths"
+
+REFERENCE            meleekills
+LANG_ENGLISH         "Brawler"
+
+REFERENCE            meleekills_desc
+LANG_ENGLISH         "Most melee kills"
+
+REFERENCE            molotovkills
+LANG_ENGLISH         "Arsonist"
+
+REFERENCE            molotovkills_desc
+LANG_ENGLISH         "Most molotov kills"
+
+REFERENCE            mostassists
+LANG_ENGLISH         "Wingman"
+
+REFERENCE            mostassists_desc
+LANG_ENGLISH         "Most assists"
+
+REFERENCE            mostdeaths
+LANG_ENGLISH         "Ragdoll"
+
+REFERENCE            mostdeaths_desc
+LANG_ENGLISH         "Most deaths"
+
+REFERENCE            mostkills
+LANG_ENGLISH         "The Feared"
+
+REFERENCE            mostkills_desc
+LANG_ENGLISH         "Most kills"
+
+REFERENCE            mostkillsleastdeaths
+LANG_ENGLISH         "MVP"
+
+REFERENCE            mostkillsleastdeaths_desc
+LANG_ENGLISH         "Most kills and fewest deaths"
+
+REFERENCE            mostkillslongeststreak
+LANG_ENGLISH         "Grim Reaper"
+
+REFERENCE            mostkillslongeststreak_desc
+LANG_ENGLISH         "Most kills and longest killstreak"
+
+REFERENCE            mostkillsmostheadshots
+LANG_ENGLISH         "Overkill"
+
+REFERENCE            mostkillsmostheadshots_desc
+LANG_ENGLISH         "Most kills and most headshots"
+
+REFERENCE            mostmultikills
+LANG_ENGLISH         "Genocidal"
+
+REFERENCE            mostmultikills_desc
+LANG_ENGLISH         "Most multikills"
+
+REFERENCE            munitionsboxused
+LANG_ENGLISH         "Provider"
+
+REFERENCE            munitionsboxused_desc
+LANG_ENGLISH         "Most munitions boxes used"
+
+REFERENCE            nodeathsfrombehind
+LANG_ENGLISH         "Sixth Sense"
+
+REFERENCE            nodeathsfrombehind_desc
+LANG_ENGLISH         "No deaths from behind"
+
+REFERENCE            nokill10deaths
+LANG_ENGLISH         "Mission Failed"
+
+REFERENCE            nokill10deaths_desc
+LANG_ENGLISH         "No kills and at least 10 deaths"
+
+REFERENCE            nokillnodeath
+LANG_ENGLISH         "AFK"
+
+REFERENCE            nokillnodeath_desc
+LANG_ENGLISH         "No kills and no deaths"
+
+REFERENCE            nokillswithdeath
+LANG_ENGLISH         "Participant"
+
+REFERENCE            nokillswithdeath_desc
+LANG_ENGLISH         "No kills with at least 1 death"
+
+REFERENCE            oneshotonekills
+LANG_ENGLISH         "One Shot Kill"
+
+REFERENCE            oneshotonekills_desc
+LANG_ENGLISH         "Most one shot kills"
+
+REFERENCE            penetrationkills
+LANG_ENGLISH         "Blindfire"
+
+REFERENCE            penetrationkills_desc
+LANG_ENGLISH         "Most bullet penetration kills"
+
+REFERENCE            pickups
+LANG_ENGLISH         "Flag Runner"
+
+REFERENCE            pickups_desc
+LANG_ENGLISH         "Most flags carried"
+
+REFERENCE            pistolheadshots
+LANG_ENGLISH         "Smoking Gun"
+
+REFERENCE            pistolheadshots_desc
+LANG_ENGLISH         "Most pistol headshots"
+
+REFERENCE            pistolkills
+LANG_ENGLISH         "Hard Boiled"
+
+REFERENCE            pistolkills_desc
+LANG_ENGLISH         "Most pistol kills"
+
+REFERENCE            pistolpeaths
+LANG_ENGLISH         "Hands Up"
+
+REFERENCE            pistolpeaths_desc
+LANG_ENGLISH         "Most pistol deaths"
+
+REFERENCE            pointblankkills
+LANG_ENGLISH         "Personal Space"
+
+REFERENCE            pointblankkills_desc
+LANG_ENGLISH         "Most point blank kills"
+
+REFERENCE            proximityminekills
+LANG_ENGLISH         "Trapper"
+
+REFERENCE            proximityminekills_desc
+LANG_ENGLISH         "Most proximity mine kills"
+
+REFERENCE            recondronemarks
+LANG_ENGLISH         "Fly On The Wall"
+
+REFERENCE            recondronemarks_desc
+LANG_ENGLISH         "Most targets marked with recon drone"
+
+REFERENCE            reloads
+LANG_ENGLISH         "Lock & Load"
+
+REFERENCE            reloads_desc
+LANG_ENGLISH         "Most reloads"
+
+REFERENCE            returns
+LANG_ENGLISH         "Flag Returner"
+
+REFERENCE            returns_desc
+LANG_ENGLISH         "Most flags returned"
+
+REFERENCE            revengekills
+LANG_ENGLISH         "Payback"
+
+REFERENCE            revengekills_desc
+LANG_ENGLISH         "Most revenge kills"
+
+REFERENCE            revives
+LANG_ENGLISH         "Revival"
+
+REFERENCE            revives_desc
+LANG_ENGLISH         "Most revives"
+
+REFERENCE            riotshielddamageabsorbed
+LANG_ENGLISH         "Guardian"
+
+REFERENCE            riotshielddamageabsorbed_desc
+LANG_ENGLISH         "Most damage absorbed with riot shield"
+
+REFERENCE            semtexkills
+LANG_ENGLISH         "Sticky"
+
+REFERENCE            semtexkills_desc
+LANG_ENGLISH         "Most semtex kills"
+
+REFERENCE            setbacks
+LANG_ENGLISH         "Demoted"
+
+REFERENCE            setbacks_desc
+LANG_ENGLISH         "Most setbacks"
+
+REFERENCE            shortestlife
+LANG_ENGLISH         "Terminal"
+
+REFERENCE            shortestlife_desc
+LANG_ENGLISH         "Shortest life"
+
+REFERENCE            shotgundeaths
+LANG_ENGLISH         "Clay Pigeon"
+
+REFERENCE            shotgundeaths_desc
+LANG_ENGLISH         "Most shotgun deaths"
+
+REFERENCE            shotgunheadshots
+LANG_ENGLISH         "Boomstick"
+
+REFERENCE            shotgunheadshots_desc
+LANG_ENGLISH         "Most shotgun headshots"
+
+REFERENCE            shotgunkills
+LANG_ENGLISH         "Buckshot"
+
+REFERENCE            shotgunkills_desc
+LANG_ENGLISH         "Most shotgun kills"
+
+REFERENCE            shotsfired
+LANG_ENGLISH         "Trigger Happy"
+
+REFERENCE            shotsfired_desc
+LANG_ENGLISH         "Most shots fired"
+
+REFERENCE            skippedkillcams
+LANG_ENGLISH         "Starter"
+
+REFERENCE            skippedkillcams_desc
+LANG_ENGLISH         "Most killcams skipped"
+
+REFERENCE            smgdeaths
+LANG_ENGLISH         "Run and Gunned"
+
+REFERENCE            smgdeaths_desc
+LANG_ENGLISH         "Most SMG deaths"
+
+REFERENCE            smgheadshots
+LANG_ENGLISH         "SMG Expert"
+
+REFERENCE            smgheadshots_desc
+LANG_ENGLISH         "Most SMG headshots"
+
+REFERENCE            smgkills
+LANG_ENGLISH         "CQB"
+
+REFERENCE            smgkills_desc
+LANG_ENGLISH         "Most SMG kills"
+
+REFERENCE            smokesused
+LANG_ENGLISH         "Chimney"
+
+REFERENCE            smokesused_desc
+LANG_ENGLISH         "Most smoke grenades used"
+
+REFERENCE            snapshothits
+LANG_ENGLISH         "Photographer"
+
+REFERENCE            snapshothits_desc
+LANG_ENGLISH         "Most snapshot grenade hits"
+
+REFERENCE            sniperdeaths
+LANG_ENGLISH         "Zeroed In"
+
+REFERENCE            sniperdeaths_desc
+LANG_ENGLISH         "Most sniper deaths"
+
+REFERENCE            sniperheadshots
+LANG_ENGLISH         "Dead Aim"
+
+REFERENCE            sniperheadshots_desc
+LANG_ENGLISH         "Most sniper headshots"
+
+REFERENCE            sniperkills
+LANG_ENGLISH         "Sniper"
+
+REFERENCE            sniperkills_desc
+LANG_ENGLISH         "Most sniper kills"
+
+REFERENCE            spawnselectbase
+LANG_ENGLISH         "Home Base"
+
+REFERENCE            spawnselectbase_desc
+LANG_ENGLISH         "Most base spawns"
+
+REFERENCE            spawnselectflag
+LANG_ENGLISH         "Objective Focused"
+
+REFERENCE            spawnselectflag_desc
+LANG_ENGLISH         "Most FOB spawns"
+
+REFERENCE            spawnselectsquad
+LANG_ENGLISH         "Squad Goals"
+
+REFERENCE            spawnselectsquad_desc
+LANG_ENGLISH         "Most squadmate spawns"
+
+REFERENCE            spawnselectvehicle
+LANG_ENGLISH         "Oscar Mike"
+
+REFERENCE            spawnselectvehicle_desc
+LANG_ENGLISH         "Most vehicle spawns"
+
+REFERENCE            stimdamagehealed
+LANG_ENGLISH         "Not Today"
+
+REFERENCE            stimdamagehealed_desc
+LANG_ENGLISH         "Most healing from stim"
+
+REFERENCE            stoppingpowerkills
+LANG_ENGLISH         "Overpowered"
+
+REFERENCE            stoppingpowerkills_desc
+LANG_ENGLISH         "Most stopping power kills"
+
+REFERENCE            stunhits
+LANG_ENGLISH         "Stunner"
+
+REFERENCE            stunhits_desc
+LANG_ENGLISH         "Most stun grenade hits"
+
+REFERENCE            suicides
+LANG_ENGLISH         "Accident Prone"
+
+REFERENCE            suicides_desc
+LANG_ENGLISH         "Most suicides"
+
+REFERENCE            survivorkills
+LANG_ENGLISH         "Survivalist"
+
+REFERENCE            survivorkills_desc
+LANG_ENGLISH         "Most kills as survivor"
+
+REFERENCE            tacticalinsertionspawns
+LANG_ENGLISH         "Revenant"
+
+REFERENCE            tacticalinsertionspawns_desc
+LANG_ENGLISH         "Most tactical insertions used"
+
+REFERENCE            tagscaptured
+LANG_ENGLISH         "Confirmed Kills"
+
+REFERENCE            tagscaptured_desc
+LANG_ENGLISH         "Collected the most tags"
+
+REFERENCE            tagsdenied
+LANG_ENGLISH         "Denied"
+
+REFERENCE            tagsdenied_desc
+LANG_ENGLISH         "Denied the most tags"
+
+REFERENCE            tagslargestbank
+LANG_ENGLISH         "Bank Account"
+
+REFERENCE            tagslargestbank_desc
+LANG_ENGLISH         "Largest bank"
+
+REFERENCE            tagsmegabanked
+LANG_ENGLISH         "Megabank"
+
+REFERENCE            tagsmegabanked_desc
+LANG_ENGLISH         "Megabanked Tags"
+
+REFERENCE            thermitekills
+LANG_ENGLISH         "Red Iron"
+
+REFERENCE            thermitekills_desc
+LANG_ENGLISH         "Most thermite kills"
+
+REFERENCE            throwingknifekills
+LANG_ENGLISH         "Butcher"
+
+REFERENCE            throwingknifekills_desc
+LANG_ENGLISH         "Most throwing knife kills"
+
+REFERENCE            timecrouched
+LANG_ENGLISH         "Sneaker"
+
+REFERENCE            timecrouched_desc
+LANG_ENGLISH         "Most time spent crouched"
+
+REFERENCE            timeonpoint
+LANG_ENGLISH         "King of the Hill"
+
+REFERENCE            timeonpoint_desc
+LANG_ENGLISH         "Most time spent on the objective"
+
+REFERENCE            timeprone
+LANG_ENGLISH         "Grassy Knoll"
+
+REFERENCE            timeprone_desc
+LANG_ENGLISH         "Most time spent prone"
+
+REFERENCE            timespentasdriver
+LANG_ENGLISH         "Driver"
+
+REFERENCE            timespentasdriver_desc
+LANG_ENGLISH         "Most time spent driving"
+
+REFERENCE            timespentaspassenger
+LANG_ENGLISH         "Navigator"
+
+REFERENCE            timespentaspassenger_desc
+LANG_ENGLISH         "Most time spent as a passenger"
+
+REFERENCE            timesselectedassquadleader
+LANG_ENGLISH         "Anchor"
+
+REFERENCE            timesselectedassquadleader_desc
+LANG_ENGLISH         "Most spawned on"
+
+REFERENCE            timewatchingkillcams
+LANG_ENGLISH         "Spy Game"
+
+REFERENCE            timewatchingkillcams_desc
+LANG_ENGLISH         "Most time watching killcams"
+
+REFERENCE            todo
+LANG_ENGLISH         "TODO!"
+
+REFERENCE            todo_desc
+LANG_ENGLISH         "TODO DESC!"
+
+REFERENCE            trophysystemhits
+LANG_ENGLISH         "No Thanks"
+
+REFERENCE            trophysystemhits_desc
+LANG_ENGLISH         "Most trophy system intercepts"
+
+REFERENCE            weaponpickups
+LANG_ENGLISH         "Loaner"
+
+REFERENCE            weaponpickups_desc
+LANG_ENGLISH         "Most kills with picked up weapons"
+
+
+ENDMARKER

@@ -1,0 +1,252 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ret_01
+LANG_ENGLISH         "Downward Curve"
+
+REFERENCE            ret_02
+LANG_ENGLISH         "Carrot"
+
+REFERENCE            ret_03
+LANG_ENGLISH         "Add Point"
+
+REFERENCE            ret_04
+LANG_ENGLISH         "Sunspot"
+
+REFERENCE            ret_05
+LANG_ENGLISH         "Golden Bell"
+
+REFERENCE            ret_06
+LANG_ENGLISH         "Standard fare"
+
+REFERENCE            ret_cat_thermal
+LANG_ENGLISH         "Thermal"
+
+REFERENCE            ret_cat_holo
+LANG_ENGLISH         "Holo"
+
+REFERENCE            ret_cat_reflex
+LANG_ENGLISH         "Reflex"
+
+REFERENCE            ret_cat_hybrid
+LANG_ENGLISH         "Hybrid"
+
+REFERENCE            ret_07
+LANG_ENGLISH         "Witch"
+
+REFERENCE            ret_08
+LANG_ENGLISH         "Perfect Balance"
+
+REFERENCE            ret_09
+LANG_ENGLISH         "Division"
+
+REFERENCE            ret_10
+LANG_ENGLISH         "Flare"
+
+REFERENCE            ret_11
+LANG_ENGLISH         "Islet"
+
+REFERENCE            ret_12
+LANG_ENGLISH         "Summoner"
+
+REFERENCE            ret_13
+LANG_ENGLISH         "Orbit"
+
+REFERENCE            ret_14
+LANG_ENGLISH         "Cross Dot"
+
+REFERENCE            ret_15
+LANG_ENGLISH         "Angle Eye"
+
+REFERENCE            ret_16
+LANG_ENGLISH         "T Pose"
+
+REFERENCE            ret_17
+LANG_ENGLISH         "Double Cross"
+
+REFERENCE            ret_18
+LANG_ENGLISH         "Green Cross"
+
+REFERENCE            ret_19
+LANG_ENGLISH         "Weave"
+
+REFERENCE            ret_20
+LANG_ENGLISH         "Drop Pad"
+
+REFERENCE            ret_21
+LANG_ENGLISH         "Redeye"
+
+REFERENCE            ret_22
+LANG_ENGLISH         "Blue V"
+
+REFERENCE            ret_23
+LANG_ENGLISH         "Close Quarters"
+
+REFERENCE            ret_24
+LANG_ENGLISH         "Green V"
+
+REFERENCE            ret_25
+LANG_ENGLISH         "Sunrise"
+
+REFERENCE            ret_26
+LANG_ENGLISH         "Evil Eye"
+
+REFERENCE            ret_27
+LANG_ENGLISH         "Cerberus"
+
+REFERENCE            ret_28
+LANG_ENGLISH         "Zip Pad"
+
+REFERENCE            ret_29
+LANG_ENGLISH         "Wright Sight"
+
+REFERENCE            ret_30
+LANG_ENGLISH         "Optical Illusion"
+
+REFERENCE            ret_31
+LANG_ENGLISH         "Beasts of Prey"
+
+REFERENCE            ret_32
+LANG_ENGLISH         "Chevron Tactical"
+
+REFERENCE            ret_34
+LANG_ENGLISH         "Heroic"
+
+REFERENCE            ret_35
+LANG_ENGLISH         "Apotheosis"
+
+REFERENCE            ret_36
+LANG_ENGLISH         "Central Focus"
+
+REFERENCE            ret_37
+LANG_ENGLISH         "Target Line"
+
+REFERENCE            ret_38
+LANG_ENGLISH         "Elegance"
+
+REFERENCE            ret_39
+LANG_ENGLISH         "Dark Horizon"
+
+REFERENCE            ret_40
+LANG_ENGLISH         "Stealth Bomber"
+
+REFERENCE            ret_41
+LANG_ENGLISH         "Spectre"
+
+REFERENCE            ret_42
+LANG_ENGLISH         "Tracker"
+
+REFERENCE            ret_43
+LANG_ENGLISH         "Quadrants"
+
+REFERENCE            ret_44
+LANG_ENGLISH         "All-Seeing"
+
+REFERENCE            ret_45
+LANG_ENGLISH         "Pearl"
+
+REFERENCE            ret_46
+LANG_ENGLISH         "Blue Dot"
+
+REFERENCE            ret_47
+LANG_ENGLISH         "Blue Dot"
+
+REFERENCE            ret_48
+LANG_ENGLISH         "Reverence"
+
+REFERENCE            ret_49
+LANG_ENGLISH         "Blood Splatter"
+
+REFERENCE            ret_50
+LANG_ENGLISH         "Blood Splatter"
+
+REFERENCE            ret_cat_acog
+LANG_ENGLISH         "ACOG"
+
+REFERENCE            ret_cat_thermal_hybrid
+LANG_ENGLISH         "Thermal Hybrid"
+
+REFERENCE            ret_cat_vzscope
+LANG_ENGLISH         "Sniper"
+
+REFERENCE            retsnpr_01
+LANG_ENGLISH         "Crossthread"
+
+REFERENCE            retsnpr_02
+LANG_ENGLISH         "Pinpoint"
+
+REFERENCE            retsnpr_03
+LANG_ENGLISH         "One Breath"
+
+REFERENCE            retsnpr_04
+LANG_ENGLISH         "Hangman"
+
+REFERENCE            retsnpr_05
+LANG_ENGLISH         "Drop Angle"
+
+REFERENCE            retsnpr_06
+LANG_ENGLISH         "Circle Pit"
+
+REFERENCE            retsnpr_07
+LANG_ENGLISH         "Cover Shot"
+
+REFERENCE            retsnpr_09
+LANG_ENGLISH         "Marksman"
+
+REFERENCE            retsnpr_10
+LANG_ENGLISH         "Grid Line"
+
+REFERENCE            retsnpr_11
+LANG_ENGLISH         "Critical"
+
+REFERENCE            retsnpr_12
+LANG_ENGLISH         "Cross"
+
+REFERENCE            retsnpr_13
+LANG_ENGLISH         "Old School"
+
+REFERENCE            retsnpr_14
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_16
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_20
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_22
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_23
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_24
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            ret_33
+LANG_ENGLISH         "Confine"
+
+REFERENCE            retsnpr_08
+LANG_ENGLISH         "Top Notch"
+
+REFERENCE            retsnpr_15
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_17
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_18
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_19
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_21
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_25
+LANG_ENGLISH         "Fiber Optic"
+
+
+ENDMARKER

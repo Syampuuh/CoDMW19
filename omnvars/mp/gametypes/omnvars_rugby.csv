@@ -1,0 +1,5 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,,
+ui_rugby_jugg_client,1,,g,e,,,,
+ui_rugby_jugg_health,1,,g,f,0,0,1,
+ui_rugby_jugg_progress,1,,c,f,0,0,1,
+ui_rugby_jugg_friendly,1,,c,i,-1,-1,1,

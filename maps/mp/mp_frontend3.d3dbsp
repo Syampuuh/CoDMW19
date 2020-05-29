@@ -1,0 +1,4312 @@
+{
+2703 "11 0 0 0"
+2498 "_e0"
+72 "0.0"
+212 "worldspawn"
+20376 "1"
+453 "1"
+25224 "1"
+32059 "0"
+692 "90"
+39993 "1"
+39994 "0.5"
+41035 "3"
+967 "0.82 0.89 0.94"
+968 "-45 0 0"
+50163 "0"
+969 "0"
+54237 "0"
+}
+{
+80 "0 225 0"
+212 "info_player_start"
+709 "128 3200 88"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-8048 -10256 32"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-8096 -10256 32"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-8064 -10208 32"
+}
+{
+80 "0 48 0"
+212 "mp_global_intermission"
+20186 "default"
+709 "-8384 -10560 480"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-4528 -5712 592"
+1072 "minimap_corner"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-5632 -5216 688"
+1072 "airstrikeheight"
+}
+{
+80 "6.19998 90 -4.67171e-07"
+212 "script_origin"
+20186 "default"
+709 "3072 2775.5 78"
+1072 "char_store"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "3072 3072 0"
+1072 "charroom_fx_store"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "3082 2878 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*1"
+709 "3079 3370 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*2"
+709 "3079 3408 90"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*3"
+709 "3079 3370 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*4"
+709 "3079 3370 0"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "6149.75 -170 62.5"
+1072 "char_west_b"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "6155.07 21.299 0"
+1072 "charroom_char_west_b"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "6140 -81 58"
+1072 "char_west_b_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "6144 0 0"
+1072 "charroom_fx_west_b"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "6186 -99.5 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "6124 44 0"
+1072 "charroom_char_west_b_dog"
+}
+{
+35292 "1"
+80 "0 345 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire1"
+709 "6219.75 90 99.5"
+41154 "1"
+925 "8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*5"
+709 "6147 38 58"
+}
+{
+35292 "1"
+80 "0 337.996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire2"
+709 "6210 44 88"
+41154 "1"
+925 "8"
+}
+{
+35292 "1"
+80 "0 21.9996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire3"
+709 "6098 52 94"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_back"
+709 "6168 -48 0"
+41154 "1"
+1072 "pf8_auto1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*6"
+709 "6187 149 58"
+}
+{
+35292 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02"
+709 "6168 -48 0"
+41154 "1"
+925 "8"
+1070 "pf8_auto1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*7"
+709 "6207 -25 0"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-3096 3072 112"
+1072 "gunsmith_fx"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+575 "0"
+31843 "128"
+601 "1"
+652 "test_gunsmith_blackbackground"
+709 "-2944 3072 0"
+41154 "1"
+}
+{
+80 "0 89.9999 0"
+212 "script_model"
+20186 "default"
+575 "0"
+31843 "128"
+601 "2"
+652 "test_gunsmith_blackbackground"
+709 "-3104 3072 0"
+41154 "1"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-3008 3074 58"
+845 "55"
+1072 "dev_warp_loc"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3061.5 116.5"
+1072 "camera_mp_gunsmith_preview_laser"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3072 3071 110"
+1072 "camera_mp_gunsmith_preview_magazine"
+}
+{
+80 "0 129.644 0"
+212 "script_origin"
+20186 "default"
+709 "-3080 3031 115"
+1072 "camera_mp_gunsmith_preview_muzzle"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3089.5 3095.5 117.5"
+1072 "camera_mp_gunsmith_preview_optic"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3075.5 3078 111"
+1072 "camera_mp_gunsmith_preview_reargrip"
+}
+{
+80 "0.999971 203 9.56471e-08"
+212 "script_origin"
+20186 "default"
+709 "-3057 3098 115"
+1072 "camera_mp_gunsmith_preview_stock"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3053 112"
+1072 "camera_mp_gunsmith_preview_underbarrel"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3073 3074.5 111.5"
+1072 "camera_mp_gunsmith_preview_large_reargrip"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3115 3072 118"
+1072 "camera_mp_gunsmith_preview_small_laser"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 3077 113"
+1072 "camera_mp_gunsmith_preview_small_magazine"
+}
+{
+80 "0 134.907 0"
+212 "script_origin"
+20186 "default"
+709 "-3081 3047 117"
+1072 "camera_mp_gunsmith_preview_small_muzzle"
+}
+{
+80 "2.99991 250.462 -1.78727e-07"
+212 "script_origin"
+20186 "default"
+709 "-3087.51 3091.43 119"
+1072 "camera_mp_gunsmith_preview_small_optic"
+}
+{
+80 "0 201.841 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 3083 115"
+1072 "camera_mp_gunsmith_preview_small_reargrip"
+}
+{
+80 "0.999971 193 7.44999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3059.5 3085.5 116"
+1072 "camera_mp_gunsmith_preview_small_stock"
+}
+{
+80 "0 164 0"
+212 "script_origin"
+20186 "default"
+709 "-3084 3071.5 116"
+1072 "camera_mp_gunsmith_preview_small_trigger"
+}
+{
+80 "2.99995 165 -8.76438e-07"
+212 "script_origin"
+20186 "default"
+709 "-3075 3064.5 118"
+1072 "camera_mp_gunsmith_preview_small_barrel"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3063 111"
+1072 "camera_mp_gunsmith_preview_large_magazine"
+}
+{
+80 "0 120.5 0"
+212 "script_origin"
+20186 "default"
+709 "-3084 3013 115"
+1072 "camera_mp_gunsmith_preview_large_muzzle"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3087 3098.5 118.5"
+1072 "camera_mp_gunsmith_preview_large_optic"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3040 3074 113"
+1072 "camera_mp_gunsmith_preview"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "weapon_wm_ar_mike4_brprop"
+709 "-3096 3070 114"
+41154 "1"
+1072 "weapon_loc_preview"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3028 3065 113"
+1072 "camera_mp_gunsmith_preview_large"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3060 3077 117"
+1072 "camera_mp_gunsmith_preview_secondary"
+}
+{
+80 "2.99991 164.96 -1.08957e-06"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3053 116.5"
+1072 "camera_mp_gunsmith_preview_barrel"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3074.5 3078 111.5"
+1072 "camera_mp_gunsmith_preview_large_reargrip_alt1"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3062 3112.5 115"
+1072 "camera_mp_gunsmith_preview_large_stock"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3063.5 3047.5 112"
+1072 "camera_mp_gunsmith_preview_large_underbarrel"
+}
+{
+80 "2.99991 140.96 8.93635e-08"
+212 "script_origin"
+20186 "default"
+709 "-3066 3014 116"
+1072 "camera_mp_gunsmith_preview_large_barrel"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-2944 3070 105"
+1072 "camera_mp_gunsmith_preview_riot"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3075.5 3072 111"
+1072 "camera_mp_gunsmith_preview_reargrip_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3071 3076 109"
+1072 "camera_mp_gunsmith_preview_magazine_alt1"
+}
+{
+80 "2.99991 164.96 -1.08957e-06"
+212 "script_origin"
+20186 "default"
+709 "-3050.5 3038.5 116.5"
+1072 "camera_mp_gunsmith_preview_barrel_alt1"
+}
+{
+80 "0 129.644 0"
+212 "script_origin"
+20186 "default"
+709 "-3081 3022 115"
+1072 "camera_mp_gunsmith_preview_muzzle_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3066 116.5"
+1072 "camera_mp_gunsmith_preview_laser_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3070.5 116.5"
+1072 "camera_mp_gunsmith_preview_laser_alt2"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3089.5 3089.5 117.5"
+1072 "camera_mp_gunsmith_preview_optic_alt1"
+}
+{
+80 "0 200 0"
+212 "script_origin"
+20186 "default"
+709 "-3069 3084 115"
+1072 "camera_mp_gunsmith_preview_magazine_alt2"
+}
+{
+80 "0.999971 203 9.56471e-08"
+212 "script_origin"
+20186 "default"
+709 "-3057 3090 115"
+1072 "camera_mp_gunsmith_preview_stock_alt1"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3037 112"
+1072 "camera_mp_gunsmith_preview_large_underbarrel_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3051 116.5"
+1072 "camera_mp_gunsmith_preview_large_laser"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3072.5 3083 113"
+1072 "camera_mp_gunsmith_preview_reargrip_alt2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3065 115"
+1072 "camera_mp_gunsmith_preview_large_magazine_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3075 110"
+1072 "camera_mp_gunsmith_preview_large_magazine_alt2"
+}
+{
+80 "0 120.5 0"
+212 "script_origin"
+20186 "default"
+709 "-3085 3002 115"
+1072 "camera_mp_gunsmith_preview_large_muzzle_alt1"
+}
+{
+80 "1.99998 135 5.33284e-08"
+212 "script_origin"
+20186 "default"
+709 "-3067 2998 116"
+1072 "camera_mp_gunsmith_preview_large_barrel_alt1"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3062 3118.5 115"
+1072 "camera_mp_gunsmith_preview_stock_alt2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 3074 116.5"
+1072 "camera_mp_gunsmith_preview_small_magazine_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3080 3067.5 112.5"
+1072 "camera_mp_gunsmith_preview_watch"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3089.49 114"
+1072 "camera_mp_gunsmith_preview_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3087.5 3091.49 113.5"
+1072 "camera_mp_gunsmith_preview_large_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3089 3089.49 116.5"
+1072 "camera_mp_gunsmith_preview_small_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3084.99 115.5"
+1072 "camera_mp_gunsmith_preview_charm_alt1"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3087.99 113.5"
+1072 "camera_mp_gunsmith_preview_large_charm_alt1"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3095.99 114.5"
+1072 "camera_mp_gunsmith_preview_charm_alt2"
+}
+{
+80 "5.00002 245 -2.08353e-06"
+212 "script_origin"
+20186 "default"
+709 "-3088 3087.99 116.5"
+1072 "camera_mp_gunsmith_preview_large_charm_alt2"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3091.99 115"
+1072 "camera_mp_gunsmith_preview_charm_alt3"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3082 128"
+1072 "camera_mp_gunsmith_preview_sticker"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3076 128"
+1072 "camera_mp_gunsmith_preview_large_sticker"
+}
+{
+80 "20 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3075 3081 123"
+1072 "camera_mp_gunsmith_preview_small_sticker"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3087 125"
+1072 "camera_mp_gunsmith_preview_sticker_alt1"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3080 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt2"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3084 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt3"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064 3079.5 130"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt1"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3072 128"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt2"
+}
+{
+80 "27 197 2.99995"
+212 "script_origin"
+20186 "default"
+709 "-3063.5 3084 127.5"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt3"
+}
+{
+80 "30 190 5.00002"
+212 "script_origin"
+20186 "default"
+709 "-3068 3089 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt4"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3087 3077.99 115"
+1072 "camera_mp_gunsmith_preview_charm_alt4"
+}
+{
+80 "25 165 -5.05149e-06"
+212 "script_origin"
+20186 "default"
+709 "-3046 3037.5 139"
+1072 "camera_mp_gunsmith_preview_barrel_alt2"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3059 3109.5 115"
+1072 "camera_mp_gunsmith_preview_large_stock_alt1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*8"
+709 "-3136 3034 116"
+1072 "weapRarity01"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*9"
+709 "-3136 3034 116"
+1072 "weapRarity02"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*10"
+709 "-3136 3034 116"
+1072 "weapRarity03"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*11"
+709 "-3136 3034 116"
+1072 "weapRarity04"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*12"
+709 "-3136 3034 116"
+1072 "weapRarity05"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3188 3022.5 115.5"
+1072 "weapRarityWatch"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3148 3029 116"
+1072 "weapRarityMedium"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3136 3020 116"
+1072 "weapRarityLarge"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3168 3032 120"
+1072 "weapRaritySmall"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "test_gunsmith_blackbackground_character"
+709 "-3072 0 -2"
+925 "8"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+709 "-3060.93 21.299 0"
+1072 "charroom_char_preview"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "-3066.25 -170 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "-3066.25 -170 62.5"
+1072 "char_preview"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 -81 58"
+1072 "char_preview_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-3072 0 0"
+1072 "charroom_fx_preview"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+709 "0 0 0"
+1072 "charroom_char_tango_west"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+709 "0 0 0"
+1072 "charroom_char_tango_east"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "12 -196 4"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "354.32 89.9995 -9.23884e-07"
+212 "script_origin"
+20186 "default"
+709 "8 -197 42"
+1072 "char_tango"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "0 0 0"
+1072 "charroom_fx_tango"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_03"
+709 "3065 45 0"
+41154 "1"
+}
+{
+35292 "1"
+80 "0 345 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire1"
+709 "3117.25 237.75 114.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_02"
+709 "3065 45 -0.5"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_04"
+709 "3064.25 45 0"
+41154 "1"
+}
+{
+35292 "1"
+80 "10.0136 247.996 -1.78146e-06"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire2"
+709 "3161.5 86.5 91.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_01"
+709 "3065 45 0"
+41154 "1"
+925 "8"
+}
+{
+35292 "1"
+80 "0 21.9996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire3"
+709 "3033 225.25 108.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 339.596 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_02_b"
+709 "3094 107 57.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "3083.07 21.299 0"
+1072 "charroom_char_east_a_dog"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "3083.07 21.299 0"
+1072 "charroom_char_east_a"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "3077.75 -170 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "3077.75 -170 62.5"
+1072 "char_east_a"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "3068 -81 58"
+1072 "char_east_a_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "3072 0 0"
+1072 "charroom_fx_east_a"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*13"
+709 "-8416 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip8x8x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*14"
+709 "-8128 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player8x8x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*15"
+709 "-8320 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*16"
+709 "-8512 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip32x32x32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*17"
+709 "-8160 -7968 264"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderMetal264"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*18"
+709 "-8448 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*19"
+709 "-8576 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*20"
+709 "-8320 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*21"
+709 "-8512 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*22"
+709 "-8704 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*23"
+709 "-8384 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip256x256x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*24"
+709 "-8224 -7968 192"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderWood192"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*25"
+709 "-8640 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*26"
+709 "-8512 -7424 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip512x512x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*27"
+709 "-8224 -8032 192"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderMetal192"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*28"
+709 "-7840 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*29"
+709 "-7712 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*30"
+709 "-7632 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*31"
+709 "-8064 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*32"
+709 "-8160 -8032 264"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderWood264"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*33"
+709 "-8128 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "nosight256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*34"
+709 "-8064 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "nosight128x128x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*35"
+709 "-8224 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mountCorner128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*36"
+709 "-8064 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*37"
+709 "-7840 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*38"
+709 "-7712 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*39"
+709 "-7632 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*40"
+709 "-7872 -8064 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "stairsHalfFlight128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*41"
+709 "-7680 -8064 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "stairsFullFlight128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*42"
+709 "-8320 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip32x32x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*43"
+709 "-8224 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player32x32x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*44"
+709 "-7872 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*45"
+709 "-8000 -7424 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player512x512x8"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "6144 3072 0"
+1072 "charroom_fx_quartermaster"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "6144 2776 0"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*46"
+709 "6151 3370 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*47"
+709 "6151 3408 90"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*48"
+709 "6151 3370 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*49"
+709 "6151 3370 0"
+}
+{
+80 "0.99997 89.9999 -1.35091e-07"
+212 "script_origin"
+20186 "default"
+709 "6144 2924 42"
+1072 "char_quartermaster"
+}
+{
+80 "0 0 0"
+212 "script_origin"
+20186 "default"
+652 "carepackage_base"
+709 "6144 3248 0"
+1072 "quartermaster_crate_1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_3"
+709 "6192 3016.25 90.25"
+1072 "quartermaster_target_3"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_2"
+709 "6144 3016.25 90.25"
+1072 "quartermaster_target_2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_1"
+709 "6096 3016.25 90.25"
+1072 "quartermaster_target_1"
+}
+{
+80 "3.99997 90 -2.76443e-07"
+212 "script_origin"
+20186 "default"
+709 "6144 2775.5 54"
+1072 "char_quartermaster_detail"
+}
+{
+80 "8.54994 89.9999 3.7235e-07"
+212 "script_origin"
+20186 "default"
+709 "3082 -3266 68"
+1072 "char_blackcell"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+709 "3083.07 -3050.7 0"
+1072 "charroom_char_blackcell"
+}
+{
+80 "1.99998 79.9999 -2.9796e-08"
+212 "script_origin"
+20186 "default"
+709 "3066 -3165 58"
+1072 "char_blackcell_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "3072 -3072 0"
+1072 "charroom_fx_blackcell"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "3082 -3266 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "8.54994 89.9999 3.7235e-07"
+212 "script_origin"
+20186 "default"
+709 "6154 -3266 68"
+1072 "char_worldmap"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+709 "6155.07 -3050.7 0"
+1072 "charroom_char_worldmap"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "6144 -3072 0"
+1072 "charroom_fx_worldmap"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "6154 -3266 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "0 152 0"
+212 "script_struct"
+20186 "default"
+709 "68 3032 8"
+845 "55"
+1072 "dev_warp_loc"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*50"
+709 "-2 3075 -17"
+}
+{
+35292 "1"
+80 "0 73.4639 0"
+212 "script_model"
+20186 "default"
+652 "military_gunsmith_a"
+34215 "0.85"
+709 "-2.99998 3070 15.5"
+41154 "1"
+925 "8"
+}
+{
+80 "0 90 0"
+212 "script_origin"
+20186 "default"
+709 "2.28882e-05 3074 48"
+1072 "gunbench_fx"
+}
+{
+80 "41 145 0"
+212 "script_origin"
+20186 "default"
+709 "19.3213 3060.79 63.6841"
+1072 "camera_mp_gunsmith_alt_s"
+}
+{
+80 "0 251.062 88"
+212 "script_origin"
+20186 "default"
+652 "weapon_wm_pi_decho_brprop"
+709 "7.46541 3064.21 47.25"
+1072 "weapon_loc_hq2"
+}
+{
+80 "40.459 150.859 -4.24094e-06"
+212 "script_origin"
+20186 "default"
+709 "44.3645 3031.73 95.5989"
+1072 "camera_mp_gunsmith_alt_o_large"
+}
+{
+80 "18 173 -5.27661e-06"
+212 "script_origin"
+20186 "default"
+709 "24 3079.5 59"
+1072 "camera_mp_gunsmith_alt_l"
+}
+{
+80 "27.0343 131.669 1.74725"
+212 "script_origin"
+20186 "default"
+709 "17.572 3086.52 58.776"
+1072 "camera_mp_gunsmith_alt_z"
+}
+{
+80 "51.9999 151.315 -2.12347e-05"
+212 "script_origin"
+20186 "default"
+709 "18 3087 63"
+1072 "camera_mp_gunsmith_alt_y"
+}
+{
+80 "11.9999 157.5 -1.71255e-06"
+212 "script_origin"
+20186 "default"
+709 "77.5 3034.5 73"
+1072 "camera_mp_gunsmith_overview"
+}
+{
+80 "360 50.247 76.9975"
+212 "script_origin"
+20186 "default"
+652 "parts_wristwear_mp_watch_a_wm"
+709 "1.25002 3078 50.5"
+41154 "1"
+1072 "weapon_loc_watch"
+}
+{
+80 "40.686 145.185 -1.46529e-05"
+212 "script_origin"
+20186 "default"
+709 "31.2539 3041.73 80.4955"
+1072 "camera_mp_gunsmith_alt_o"
+}
+{
+80 "37.253 162.878 -8.26912e-06"
+212 "script_origin"
+20186 "default"
+709 "39.6111 3059.5 93.5726"
+1072 "camera_mp_gunsmith_alt_p_large"
+}
+{
+80 "22 164 -1.91897e-06"
+212 "script_origin"
+20186 "default"
+709 "33.5 3084 61"
+1072 "camera_mp_gunsmith_alt_perks"
+}
+{
+80 "38 167 -1.80825e-06"
+212 "script_origin"
+20186 "default"
+709 "23.5 3092.5 58.5"
+1072 "camera_mp_gunsmith_alt_specialist"
+}
+{
+80 "22 156 -1.91897e-06"
+212 "script_origin"
+20186 "default"
+709 "8.50002 3072 54.5"
+1072 "camera_mp_gunsmith_alt_watch"
+}
+{
+80 "53 178.5 -2.07065e-05"
+212 "script_origin"
+20186 "default"
+709 "36.5 3073 103"
+1072 "camera_mp_gunsmith_armory"
+}
+{
+80 "6.91981 277.29 77.0516"
+212 "script_origin"
+20186 "default"
+652 "military_prop_ar_akilo47"
+709 "-7.49997 3081 50.5"
+41154 "1"
+1072 "weapon_loc_hq1"
+}
+{
+80 "21 150.977 -4.28351e-06"
+212 "script_origin"
+20186 "default"
+709 "15 3085 58.5"
+1072 "camera_mp_gunsmith_alt_t"
+}
+{
+80 "37.834 162.737 -3.14211e-06"
+212 "script_origin"
+20186 "default"
+709 "24.5454 3066.5 80.6292"
+1072 "camera_mp_gunsmith_alt_p"
+}
+{
+80 "34 144 1.41562e-06"
+212 "script_origin"
+20186 "default"
+709 "58 3018.5 107.25"
+1072 "camera_mp_gunsmith"
+}
+{
+80 "51.9999 162.999 -1.34556e-06"
+212 "script_origin"
+20186 "default"
+709 "20 3083 63"
+1072 "camera_mp_gunsmith_alt_x"
+}
+{
+80 "1.54062 270.06 2.22477"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "272 -7132 11.9035"
+43887 "mp_lobby_floor_02"
+845 "lurk"
+1072 "lobby_teaser"
+}
+{
+80 "0 1.00993 0"
+212 "script_model"
+20186 "default"
+652 "decor_roof_vent_concrete_01"
+709 "211.437 -6817.34 1.75"
+845 "box2steam1"
+1072 "floor_02_clutter"
+}
+{
+80 "1.06722e-07 211.956 3.81402"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "188 -5840 1.56828"
+43887 "mp_lobby_floor_01"
+845 "lean"
+1072 "lobby_teaser"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "232 -6545.6 97.28"
+41154 "1"
+845 "wall2steam2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "-210 -7544 79"
+41154 "1"
+845 "wall2steam1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "232 -6545.6 61.28"
+41154 "1"
+845 "wall2steam3"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "232 -3985.6 97.28"
+41154 "1"
+845 "wall1steam1"
+1072 "floor_01_clutter"
+}
+{
+80 "1.84244 0 0.0602531"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76.1222 -4512.75 -0.997645"
+41154 "1"
+845 "floor1steam2"
+1072 "floor_01_clutter"
+}
+{
+80 "357.566 0 0.0602531"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76.4178 -5152.75 -2.50814"
+41154 "1"
+845 "floor1steam1"
+1072 "floor_01_clutter"
+}
+{
+80 "1.84244 0 0.0602531"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76.1222 -7072.75 -0.997645"
+41154 "1"
+845 "floor2steam1"
+1072 "floor_02_clutter"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "0 -6144 0"
+1072 "charroom_char_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-16 -6076 0"
+1072 "tourroom_charslot_left_05"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-44 -6060 0"
+1072 "tourroom_charslot_left_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "96 -6080 0"
+1072 "tourroom_charslot_right_05"
+}
+{
+80 "0 85 0"
+212 "script_origin"
+20186 "default"
+709 "-8 -6400 48"
+1072 "char_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "128 -6068 0"
+1072 "tourroom_charslot_right_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "44 -6164 0"
+1072 "lobby_charslot_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "-32 -6132 0"
+1072 "lobby_charslot_03_dog"
+}
+{
+80 "1.99998 79.9999 -2.9796e-08"
+212 "script_origin"
+20186 "default"
+709 "-2 -6280 58"
+1072 "char_lobby_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "0 -6144 0"
+1072 "charroom_fx_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "92 -6148 0"
+1072 "lobby_charslot_02_dog"
+}
+{
+80 "0 85 0"
+212 "script_struct"
+20186 "default"
+709 "4 -6400 8"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "132 -6128 0"
+1072 "lobby_charslot_04_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "4 -6084 0"
+1072 "lobby_charslot_08"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-8 -6146 0"
+1072 "lobby_charslot_03"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "44 -6108 0"
+1072 "lobby_charslot_05"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "-20 -6168 0"
+1072 "tourroom_charslot_left_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "110 -6082 0"
+1072 "lobby_charslot_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "20 -6180 0"
+1072 "lobby_charslot_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "76 -6004 0"
+1072 "lobby_charslot_11"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "68 -6154 0"
+1072 "lobby_charslot_02"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "-64 -6160 0"
+1072 "tourroom_charslot_left_02_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "110 -6124 0"
+1072 "lobby_charslot_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "78 -6052 0"
+1072 "lobby_charslot_07"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "20 -6030 0"
+1072 "lobby_charslot_10"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-26 -6040 0"
+1072 "lobby_charslot_09"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "106 -5982 0"
+1072 "lobby_charslot_12"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "84 -6168 0"
+1072 "tourroom_charslot_right_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-62 -6112 0"
+1072 "tourroom_charslot_left_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-40 -6152 0"
+1072 "tourroom_charslot_left_02"
+}
+{
+80 "0 85 0"
+212 "script_origin"
+20186 "default"
+709 "4 -6400 48"
+1072 "char_tournament_overcam"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-24 -6120 0"
+1072 "tourroom_charslot_left_03"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "fullbody_dog_c"
+709 "128 -6160 0"
+1072 "tourroom_charslot_right_02_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "0 -6160 0"
+1072 "tourroom_charslot_left_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "64 -6160 0"
+1072 "tourroom_charslot_right_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "136 -6112 0"
+1072 "tourroom_charslot_right_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "104 -6152 0"
+1072 "tourroom_charslot_right_02"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "96 -6120 0"
+1072 "tourroom_charslot_right_03"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*51"
+709 "0 -5888 0"
+1072 "mp_lobby_floor_01"
+}
+{
+80 "0 359.466 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-159.005 -5416.5 1.5"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "282.25 -6787.5 109.25"
+41154 "1"
+925 "8"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_03_frontend"
+709 "-210 -6880 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*52"
+709 "0 -8448 0"
+1072 "mp_lobby_floor_02"
+}
+{
+80 "0 273.67 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "231.551 -6155.77 3"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "-242 -6880 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -8576 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_02_frontend"
+709 "-362 -6920 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "shell_casings_ar_08"
+34215 "1"
+709 "52.25 -5665.5 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "shell_casings_ar_08"
+34215 "1"
+709 "20.25 -5778.25 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_128_double"
+709 "-123.5 -7402.25 3.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 95.4981 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored"
+709 "222.919 -7831.62 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 1.00993 0"
+212 "script_model"
+20186 "default"
+652 "decor_roof_vent_concrete_01"
+709 "211.437 -6817.34 1.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "232 -6545.6 97.28"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -7488 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -7104 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "34 -5811.25 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 264.399 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-140.75 -6749 51.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 44.9994 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored"
+709 "161.748 -6665.51 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "237 -6529.75 2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90.298 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "-205.179 -6926.94 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "-1.25 -5115.25 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-141.25 -6750.75 3.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 166.697 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "-146.604 -5118.2 3"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270.298 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "-180.821 -7648.56 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180.298 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "-161.056 -6885.18 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 269.872 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-141.145 -5929.5 3.75"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 183.67 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "181.485 -6112.55 3"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -6848 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180.298 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "182.444 -5670.18 2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 237.713 0"
+212 "script_model"
+20186 "default"
+652 "military_crate_large_stackable_01_dummy"
+709 "268.61 -7262.46 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "military_crate_large_stackable_01_dummy"
+709 "248.5 -5745.5 4.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_03_frontend"
+709 "336 -8288 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 44.7028 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "215.888 -6261.54 18"
+1072 "floor_01_clutter"
+}
+{
+80 "0 42.7019 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_array_mp_round_closed_01_frontend"
+709 "231.001 -7670.94 4.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 228.752 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored"
+709 "-96.3027 -6287.98 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "22.25 -4795.25 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_03_frontend"
+709 "-210 -7776 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "-306 -7776 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "electrical_street_box_02"
+709 "-200 -7285 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 269.999 0"
+212 "script_model"
+20186 "default"
+32390 "10"
+652 "lm_window_frame_metal_01_a_glass"
+709 "344 -7222 224"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "ee_light_mounted_exterior_industrial_caged_02"
+709 "240 -6528 272"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_02_frontend"
+709 "-362 -7736 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "electrical_street_box_02"
+709 "-200 -7425 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128_dark"
+709 "230 -6169.75 4"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "-402 -7424 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "-402 -6976 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "-402 -7232 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "-402 -7360 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "-402 -7296 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 221.065 0"
+212 "script_model"
+20186 "default"
+652 "military_hq_crate_01_frontend"
+709 "225.827 -5459.96 3.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 159.661 0"
+212 "script_model"
+20186 "default"
+652 "decor_rope_thick_pile_01"
+709 "188.212 -6187.82 4"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128_dark"
+709 "231.25 -5945.5 4"
+1072 "floor_01_clutter"
+}
+{
+80 "0 273.378 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "246.295 -5722.49 0.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 358.482 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "194.5 -5660.01 2.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "242.5 -7161.75 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "306.75 -7388 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "355 -7562.75 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "59.75 -7072.75 -0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_64"
+709 "281.25 -6883.5 114.75"
+41154 "1"
+925 "8"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "-210 -7544 79"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 210.552 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "211.986 -6253.95 3.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 120.552 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "239.304 -5345.24 3.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_utility_pole_street_light_merged_lm"
+709 "-152 -5260 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_utility_pole_street_light_merged_lm"
+709 "-152 -6529 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 344.441 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "-142.754 -6172.51 3.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_door_stpete_metal_01_two_sided_red"
+709 "233 -7218.25 3.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 336.309 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "210.024 -6892.33 33.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 248.899 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "186.774 -7729.82 3.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "-12.75 -6083 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "shell_casings_ar_08"
+34215 "1"
+709 "38.5 -6334.25 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 30.2779 0"
+212 "script_model"
+20186 "default"
+652 "military_deployable_satellite"
+709 "222.877 -7690.28 12"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "-9.5 -6497.5 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "20.75 -5969.75 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "-4 -5383.75 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_128_double"
+709 "172 -7070 3.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_left_damaged"
+709 "178 -7003 3.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_right"
+709 "177.75 -7381.25 3.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_128_double"
+709 "171.75 -7314.25 3.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_right"
+709 "178 -7137 3.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_left_damaged"
+709 "177.75 -7247.25 3.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_128_double"
+709 "-123.5 -7274.25 3.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_left_damaged"
+709 "-129.5 -7469.25 3.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_right"
+709 "-129.5 -7207.25 3.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 189.512 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+34215 "1"
+709 "170.502 -6125.53 -2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_live_wires"
+709 "252.5 -7231.5 60"
+1072 "floor_02_clutter"
+}
+{
+80 "0 210.865 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "189.813 -7338.7 3.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "232 -6545.6 61.28"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "284 -7105.75 109"
+41154 "1"
+925 "8"
+1072 "floor_02_clutter"
+}
+{
+80 "0 183.378 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-154.239 -6267.04 2.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 212.417 0"
+212 "script_model"
+20186 "default"
+652 "military_crate_large_stackable_01_dummy"
+709 "428.381 -7617.18 4.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 69.6609 0"
+212 "script_model"
+20186 "default"
+652 "decor_rope_thick_pile_01"
+709 "-134.571 -5993.96 4"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128_dark"
+709 "-189.5 -6934 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-197 -7646 1.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 176.88 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-148.003 -7606.71 1.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-210.75 -7730 -0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_live_wires"
+709 "-190 -7544.75 45.75"
+1072 "floor_02_clutter"
+}
+{
+35292 "1"
+80 "0 41.37 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+34215 "1"
+709 "-183.74 -7141.68 3.5"
+41154 "1"
+925 "8"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "336 -8640.5 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "282.25 -4227.5 109.25"
+41154 "1"
+925 "8"
+1072 "floor_01_clutter"
+}
+{
+80 "0 1.00993 0"
+212 "script_model"
+20186 "default"
+652 "decor_roof_vent_concrete_01"
+709 "211.437 -4257.34 1.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "232 -3985.6 97.28"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -4544 -12"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-141.75 -4189 51.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 44.9994 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored"
+709 "161.748 -4105.51 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "311.25 -8956.75 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-141.25 -4190.75 3.75"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 161.497 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "-147.16 -4269.16 3"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -4288 -12"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 42.7019 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_array_mp_round_closed_01_frontend"
+709 "231.001 -5234.94 4.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "368 -8288 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "13.0289 334.966 63.0931"
+212 "script_model"
+20186 "default"
+652 "military_prop_la_rpapa7"
+709 "196.333 -8203.45 22.0023"
+1072 "floor_02_clutter"
+}
+{
+80 "0 269.999 0"
+212 "script_model"
+20186 "default"
+32390 "10"
+652 "lm_window_frame_metal_01_a_glass"
+709 "344 -4662 224"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "ee_light_mounted_exterior_industrial_caged_02"
+709 "240 -3968 272"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "13.0289 334.966 63.0931"
+212 "script_model"
+20186 "default"
+652 "military_prop_la_rpapa7"
+709 "177.333 -7705.45 22.0023"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "-210 -4032 -12"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "242.5 -4601.75 2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "306.75 -4914 2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "291.75 -5048.5 2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "59.75 -4512.75 -0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_64"
+709 "281.25 -4323.5 114.75"
+41154 "1"
+925 "8"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "444.75 -7897.75 3.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_utility_pole_street_light_merged_lm"
+709 "-152 -3969 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_door_stpete_metal_01_two_sided_red"
+709 "233 -4658.25 3.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 336.309 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "210.024 -4332.33 33.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 248.899 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "207.024 -4775.57 2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "-210 -8896 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 30.2779 0"
+212 "script_model"
+20186 "default"
+652 "military_deployable_satellite"
+709 "222.877 -5254.28 12"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "-9.5 -9057.5 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "18.5 -6330 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "447.25 -7844.75 3.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_128_double"
+709 "172 -4510 3.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_left_damaged"
+709 "178 -4443 3.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_right"
+709 "177.75 -4821.25 3.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_128_double"
+709 "171.75 -4754.25 3.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_right"
+709 "178 -4577 3.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "cs_barrier_handrail_double_end_left_damaged"
+709 "177.75 -4687.25 3.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_02_frontend"
+709 "488 -8248 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_03_frontend"
+709 "336 -7520 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_live_wires"
+709 "252.5 -4671.5 60"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_live_wires"
+709 "232 -3993 20"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "lm_vent_wall_stadium_01"
+709 "232 -3985.6 61.28"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "284 -4545.75 109"
+41154 "1"
+925 "8"
+1072 "floor_01_clutter"
+}
+{
+80 "0 246.309 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "-155.965 -4616.95 3"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "432 -7520 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+35292 "1"
+80 "0 41.37 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+34215 "1"
+709 "-183.74 -4581.68 3.5"
+41154 "1"
+925 "8"
+1072 "floor_01_clutter"
+}
+{
+80 "0 179.999 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_high_voltage"
+34215 "1"
+709 "232.25 -4595.5 60"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "ee_light_mounted_exterior_industrial_caged_02"
+709 "240 -4608 272"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 179.999 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_high_voltage"
+34215 "1"
+709 "232.25 -7155.5 60"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "ee_light_mounted_exterior_industrial_caged_02"
+709 "240 -7168 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_street_box_02"
+709 "402 -7233.75 16.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_street_box_02"
+709 "402 -4673.75 16.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 269.999 0"
+212 "script_model"
+20186 "default"
+32390 "10"
+652 "lm_window_frame_metal_01_a_glass"
+709 "344 -4022 224"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_machinery_industrial_mount"
+34215 "1"
+709 "385 -7231.5 109.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 269.999 0"
+212 "script_model"
+20186 "default"
+32390 "10"
+652 "lm_window_frame_metal_01_a_glass"
+709 "344 -6582 224"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_street_box_02"
+709 "402 -6588 17.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_machinery_industrial_mount"
+34215 "1"
+709 "389.5 -6591.5 110"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_street_box_02"
+709 "394 -4028 17.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "282.25 -4419 109.25"
+41154 "1"
+925 "8"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "282.25 -4099 109.25"
+41154 "1"
+925 "8"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "124 -4512 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-12 -4512 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "1.84244 0 0.0602531"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76.1222 -4512.75 -0.997645"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0.902381 180 7.88854e-08"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "123.94 -4364 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "59.75 -4364.75 -0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-12 -4364 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "3.68471 180 3.21906e-07"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76.2544 -4364 -1.75328"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "124 -4212 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 -0.445075"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "59.75 -4212.75 -0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-12.25 -4212.75 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76 -4212 -1"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "358.66 180 -1.17135e-07"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "124.09 -4064 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "59.75 -4064.75 -0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-12 -4064 -0.25"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "358.024 180 -1.7272e-07"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-75.8648 -4064 -1.00664"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "85 -8689 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_02_frontend"
+709 "488 -7560 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "528 -7872 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "528 -8192 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "528 -7936 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 68.899 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "237.73 -7951.93 3"
+1072 "floor_02_clutter"
+}
+{
+80 "0 359.466 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-172.505 -5532.25 0.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 359.466 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-171.005 -5254.5 1.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "military_crate_large_stackable_01_dummy"
+709 "-156.75 -5645.75 4"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_crate_large_stackable_01_dummy"
+709 "-156.75 -5600.25 4"
+1072 "floor_01_clutter"
+}
+{
+80 "0 300.552 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "-146.554 -5543.26 3.5"
+1072 "floor_01_clutter"
+}
+{
+80 "354.28 307.622 97.3633"
+212 "script_model"
+20186 "default"
+652 "military_prop_la_rpapa7"
+709 "-163.441 -5411.89 23.6382"
+1072 "floor_01_clutter"
+}
+{
+80 "358.849 237.348 100.876"
+212 "script_model"
+20186 "default"
+652 "military_prop_la_rpapa7"
+709 "-163.383 -5400.54 23.622"
+1072 "floor_01_clutter"
+}
+{
+80 "2.12165 305.965 105.97"
+212 "script_model"
+20186 "default"
+652 "military_prop_la_rpapa7"
+709 "-163.178 -5371.57 23.6787"
+1072 "floor_01_clutter"
+}
+{
+80 "358.849 237.348 100.876"
+212 "script_model"
+20186 "default"
+652 "military_prop_la_rpapa7"
+709 "-163.383 -8069.54 23.622"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "282.25 -6979 109.25"
+41154 "1"
+925 "8"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "124 -7412 -0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "59.75 -7412.75 -0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-12.25 -7412.75 -0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "357.264 180 -2.391e-07"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-75.812 -7412 -2.25954"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "358.66 180 -1.17135e-07"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "124.09 -7264 -0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "359.214 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "59.75 -7264.75 -0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "359.841 180 -1.39047e-08"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-12 -7264 -0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76 -7264 -1"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "electrical_wires_jumbled_b_128"
+709 "282.25 -6659 109.25"
+41154 "1"
+925 "8"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "124 -7072 -0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-12 -7072 -0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "1.84244 0 0.0602531"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_01"
+36148 "0"
+709 "-76.1222 -7072.75 -0.997645"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "-210 -7808 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "-210 -8064 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -9152 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "shell_casings_ar_08"
+34215 "1"
+709 "52.25 -8225.5 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "shell_casings_ar_08"
+34215 "1"
+709 "20.25 -8338.25 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_03_frontend"
+709 "-210 -8352 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 295.74 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-182.41 -8482.04 49.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "336 -8896 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "34 -8371.25 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 3.88882 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "297.497 -8420.2 1.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 3.88882 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "234.997 -5242.95 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 237.006 0"
+212 "script_model"
+20186 "default"
+652 "military_hq_crate_01_frontend"
+709 "355.899 -7819.15 3.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 183.889 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "290.503 -8623.8 1.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_64_01_frontend"
+709 "-338 -8448 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "40.75 -7991.25 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 356.123 0"
+212 "script_model"
+20186 "default"
+652 "military_hq_crate_01_frontend"
+709 "-168.156 -8126.81 3.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_02_frontend"
+709 "-298 -8392 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 205.741 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-154.265 -8476.52 3.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 25.7399 0"
+212 "script_model"
+20186 "default"
+652 "cosecho_barrier_02"
+36148 "1"
+709 "-202.142 -8493.49 3.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 282.502 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored"
+709 "-137.427 -8099.95 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_02_frontend"
+709 "-298 -8568 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 188.698 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "200.351 -8159.59 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_corner_03_frontend"
+709 "-210 -8608 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 237.713 0"
+212 "script_model"
+20186 "default"
+652 "military_crate_large_stackable_01_dummy"
+709 "268.61 -4702.46 4"
+1072 "floor_01_clutter"
+}
+{
+80 "0 42.7927 0"
+212 "script_model"
+20186 "default"
+652 "military_deployable_satellite"
+709 "234.105 -8681.76 3"
+1072 "floor_02_clutter"
+}
+{
+80 "2.12165 305.965 105.97"
+212 "script_model"
+20186 "default"
+652 "military_prop_la_rpapa7"
+709 "-163.178 -8040.57 23.6787"
+1072 "floor_02_clutter"
+}
+{
+80 "0 237.713 0"
+212 "script_model"
+20186 "default"
+652 "military_crate_large_stackable_01_dummy"
+709 "268.61 -4702.46 24.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-184.5 -8053.75 -0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 41.0945 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "215.539 -8842.44 18"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-167.5 -8224.75 -0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_array_mp_round_closed_01_frontend"
+709 "229 -8680.25 3.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 293.04 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored"
+709 "160.606 -8595.5 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "-11.75 -7887.25 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 8.08933 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "301.481 -8825.41 2"
+1072 "floor_02_clutter"
+}
+{
+80 "0 68.899 0"
+212 "script_model"
+20186 "default"
+652 "military_radio_crate_01"
+709 "-158.77 -7989.93 3"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_dam_piece_road_bord_256_01_frontend"
+709 "-210 -8640 -12"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 159.661 0"
+212 "script_model"
+20186 "default"
+652 "decor_rope_thick_pile_01"
+709 "186.212 -8779.82 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128_dark"
+709 "235.25 -8291.5 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 191.777 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "297.736 -8244.91 0.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 6.88122 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "210.792 -8147.77 2.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 206.944 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "212.122 -8834.62 3.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_utility_pole_street_light_merged_lm"
+709 "-152 -7820 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 344.441 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "-142.754 -8732.51 3.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "shell_casings_ar_08"
+34215 "1"
+709 "38.5 -8894.25 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "-28.25 -8158.5 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 178.265 0"
+212 "script_model"
+20186 "default"
+652 "military_medical_crate_stackable_01"
+709 "214.797 -4741.73 3.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 273.378 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-203.955 -8515.49 3.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 183.378 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-154.239 -8827.04 2.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 183.378 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-167.989 -8995.54 2.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 69.6609 0"
+212 "script_model"
+20186 "default"
+652 "decor_rope_thick_pile_01"
+709 "-136.571 -8537.96 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 183.378 0"
+212 "script_model"
+20186 "default"
+652 "terrain_dirt_pile_03"
+709 "-172.239 -8686.04 2.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "debris_leaf_scatter_02"
+709 "18.5 -8890 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 168.264 0"
+212 "script_model"
+20186 "default"
+652 "me_military_propane_cannon_01"
+709 "253.534 -5834.03 3.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180.298 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "173.444 -5046.68 1.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270.298 0"
+212 "script_model"
+20186 "default"
+652 "sandbag_wall_pieces_arrey_mp_long_01_frontend"
+709 "226.179 -5087.56 2"
+1072 "floor_01_clutter"
+}
+{
+80 "0 208.881 0"
+212 "script_model"
+20186 "default"
+652 "me_military_propane_cannon_01"
+709 "249.967 -5004.23 3.75"
+1072 "floor_01_clutter"
+}

@@ -1,0 +1,1206 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            cos_391
+LANG_ENGLISH         "COS_391"
+
+REFERENCE            cos_393
+LANG_ENGLISH         "COS_393"
+
+REFERENCE            cos_396
+LANG_ENGLISH         "COS_396"
+
+REFERENCE            cos_398
+LANG_ENGLISH         "COS_398"
+
+REFERENCE            cos_381
+LANG_ENGLISH         "COS_381"
+
+REFERENCE            cos_386
+LANG_ENGLISH         "COS_386"
+
+REFERENCE            cos_400
+LANG_ENGLISH         "COS_400"
+
+REFERENCE            cos_249
+LANG_ENGLISH         "Shades"
+
+REFERENCE            cos_378
+LANG_ENGLISH         "COS_378"
+
+REFERENCE            cos_377
+LANG_ENGLISH         "COS_377"
+
+REFERENCE            cos_376
+LANG_ENGLISH         "COS_376"
+
+REFERENCE            cos_375
+LANG_ENGLISH         "COS_375"
+
+REFERENCE            cos_374
+LANG_ENGLISH         "COS_374"
+
+REFERENCE            cos_373
+LANG_ENGLISH         "COS_373"
+
+REFERENCE            cos_372
+LANG_ENGLISH         "COS_372"
+
+REFERENCE            cos_371
+LANG_ENGLISH         "COS_371"
+
+REFERENCE            cos_370
+LANG_ENGLISH         "COS_370"
+
+REFERENCE            cos_369
+LANG_ENGLISH         "COS_369"
+
+REFERENCE            cos_368
+LANG_ENGLISH         "COS_368"
+
+REFERENCE            cos_367
+LANG_ENGLISH         "COS_367"
+
+REFERENCE            cos_366
+LANG_ENGLISH         "COS_366"
+
+REFERENCE            cos_365
+LANG_ENGLISH         "COS_365"
+
+REFERENCE            cos_364
+LANG_ENGLISH         "COS_364"
+
+REFERENCE            cos_363
+LANG_ENGLISH         "COS_363"
+
+REFERENCE            cos_362
+LANG_ENGLISH         "COS_362"
+
+REFERENCE            cos_361
+LANG_ENGLISH         "COS_361"
+
+REFERENCE            cos_379
+LANG_ENGLISH         "COS_379"
+
+REFERENCE            cos_380
+LANG_ENGLISH         "COS_380"
+
+REFERENCE            cos_382
+LANG_ENGLISH         "COS_382"
+
+REFERENCE            cos_383
+LANG_ENGLISH         "COS_383"
+
+REFERENCE            cos_385
+LANG_ENGLISH         "COS_385"
+
+REFERENCE            cos_387
+LANG_ENGLISH         "COS_387"
+
+REFERENCE            cos_388
+LANG_ENGLISH         "COS_388"
+
+REFERENCE            cos_390
+LANG_ENGLISH         "COS_390"
+
+REFERENCE            cos_392
+LANG_ENGLISH         "COS_392"
+
+REFERENCE            cos_394
+LANG_ENGLISH         "COS_394"
+
+REFERENCE            cos_395
+LANG_ENGLISH         "COS_395"
+
+REFERENCE            cos_397
+LANG_ENGLISH         "COS_397"
+
+REFERENCE            cos_399
+LANG_ENGLISH         "COS_399"
+
+REFERENCE            cos_001
+LANG_ENGLISH         "50 Cal"
+
+REFERENCE            cos_002
+LANG_ENGLISH         "Horned Up"
+
+REFERENCE            cos_003
+LANG_ENGLISH         "Stone Cross"
+
+REFERENCE            cos_004
+LANG_ENGLISH         "Holy Grail"
+
+REFERENCE            cos_005
+LANG_ENGLISH         "Cherry on Top"
+
+REFERENCE            cos_006
+LANG_ENGLISH         "More Cowbell"
+
+REFERENCE            cos_007
+LANG_ENGLISH         "Reclawed"
+
+REFERENCE            cos_008
+LANG_ENGLISH         "Saddled"
+
+REFERENCE            cos_009
+LANG_ENGLISH         "Bone Dry"
+
+REFERENCE            cos_010
+LANG_ENGLISH         "Ruby Red"
+
+REFERENCE            cos_011
+LANG_ENGLISH         "Hood Ornament"
+
+REFERENCE            cos_012
+LANG_ENGLISH         "Good Luck"
+
+REFERENCE            cos_013
+LANG_ENGLISH         "Sit Down!"
+
+REFERENCE            cos_014
+LANG_ENGLISH         "Pot Head"
+
+REFERENCE            cos_015
+LANG_ENGLISH         "Diamond Jim"
+
+REFERENCE            cos_016
+LANG_ENGLISH         "Frag Out!"
+
+REFERENCE            cos_017
+LANG_ENGLISH         "Stick 'Em"
+
+REFERENCE            cos_018
+LANG_ENGLISH         "Click Click Boom"
+
+REFERENCE            cos_019
+LANG_ENGLISH         "Flashed"
+
+REFERENCE            cos_020
+LANG_ENGLISH         "Smoke in My Eyes"
+
+REFERENCE            cos_021
+LANG_ENGLISH         "Burger Town"
+
+REFERENCE            cos_022
+LANG_ENGLISH         "Firewater"
+
+REFERENCE            cos_023
+LANG_ENGLISH         "Mine over Matter"
+
+REFERENCE            cos_024
+LANG_ENGLISH         "Bombs Away"
+
+REFERENCE            cos_025
+LANG_ENGLISH         "Wall Hacks"
+
+REFERENCE            cos_026
+LANG_ENGLISH         "Ghosty"
+
+REFERENCE            cos_027
+LANG_ENGLISH         "Mister Ginger"
+
+REFERENCE            cos_028
+LANG_ENGLISH         "Second Chance"
+
+REFERENCE            cos_029
+LANG_ENGLISH         "IED"
+
+REFERENCE            cos_030
+LANG_ENGLISH         "Bad Luck Buddy"
+
+REFERENCE            cos_031
+LANG_ENGLISH         "Explosive Surprise"
+
+REFERENCE            cos_032
+LANG_ENGLISH         "Have A Heart"
+
+REFERENCE            cos_033
+LANG_ENGLISH         "9 Lives"
+
+REFERENCE            cos_034
+LANG_ENGLISH         "Dream Catchin"
+
+REFERENCE            cos_035
+LANG_ENGLISH         "Key Rex"
+
+REFERENCE            cos_036
+LANG_ENGLISH         "Valhalla"
+
+REFERENCE            cos_037
+LANG_ENGLISH         "Jurassic Claw"
+
+REFERENCE            cos_038
+LANG_ENGLISH         "Wolf Pup"
+
+REFERENCE            cos_039
+LANG_ENGLISH         "Gas This!"
+
+REFERENCE            cos_040
+LANG_ENGLISH         "Cowboy Up"
+
+REFERENCE            cos_041
+LANG_ENGLISH         "Viking Guard"
+
+REFERENCE            cos_042
+LANG_ENGLISH         "Head of the Table"
+
+REFERENCE            cos_043
+LANG_ENGLISH         "Tablet"
+
+REFERENCE            cos_044
+LANG_ENGLISH         "Sunny Disposition"
+
+REFERENCE            cos_045
+LANG_ENGLISH         "Set to Blow"
+
+REFERENCE            cos_046
+LANG_ENGLISH         "Stone Cold"
+
+REFERENCE            cos_047
+LANG_ENGLISH         "The Chalice"
+
+REFERENCE            cos_048
+LANG_ENGLISH         "Monkey Paw"
+
+REFERENCE            cos_049
+LANG_ENGLISH         "Ancient Royal"
+
+REFERENCE            cos_050
+LANG_ENGLISH         "Saddle Up"
+
+REFERENCE            cos_051
+LANG_ENGLISH         "Boots on the Ground"
+
+REFERENCE            cos_052
+LANG_ENGLISH         "Bull by the Horns"
+
+REFERENCE            cos_053
+LANG_ENGLISH         "Right in the Kisser"
+
+REFERENCE            cos_054
+LANG_ENGLISH         "Roadtripper"
+
+REFERENCE            cos_055
+LANG_ENGLISH         "Bloodiest Diamond"
+
+REFERENCE            cos_056
+LANG_ENGLISH         "Lady Luck"
+
+REFERENCE            cos_057
+LANG_ENGLISH         "Re-up"
+
+REFERENCE            cos_058
+LANG_ENGLISH         "H8"
+
+REFERENCE            cos_059
+LANG_ENGLISH         "Zipes!"
+
+REFERENCE            cos_060
+LANG_ENGLISH         "The Big A"
+
+REFERENCE            cos_061
+LANG_ENGLISH         "Honor the Call"
+
+REFERENCE            cos_062
+LANG_ENGLISH         "Rank Up"
+
+REFERENCE            cos_063
+LANG_ENGLISH         "Blade of Valor"
+
+REFERENCE            cos_064
+LANG_ENGLISH         "Dope Scope"
+
+REFERENCE            cos_065
+LANG_ENGLISH         "Seasoned Veteran"
+
+REFERENCE            cos_066
+LANG_ENGLISH         "Talent Show"
+
+REFERENCE            cos_067
+LANG_ENGLISH         "Golden Heirloom"
+
+REFERENCE            cos_068
+LANG_ENGLISH         "Black Label"
+
+REFERENCE            cos_069
+LANG_ENGLISH         "Atlanta FaZe"
+
+REFERENCE            cos_070
+LANG_ENGLISH         "Florida Mutineers"
+
+REFERENCE            cos_071
+LANG_ENGLISH         "London Royal Ravens"
+
+REFERENCE            cos_072
+LANG_ENGLISH         "Los Angeles Guerrillas"
+
+REFERENCE            cos_073
+LANG_ENGLISH         "Minnesota R??KKR"
+
+REFERENCE            cos_074
+LANG_ENGLISH         "New York Subliners"
+
+REFERENCE            cos_075
+LANG_ENGLISH         "OpTic Gaming Los Angeles"
+
+REFERENCE            cos_076
+LANG_ENGLISH         "Paris Legion"
+
+REFERENCE            cos_077
+LANG_ENGLISH         "Toronto Ultra"
+
+REFERENCE            cos_078
+LANG_ENGLISH         "CDL"
+
+REFERENCE            cos_079
+LANG_ENGLISH         "Prestige 5"
+
+REFERENCE            cos_080
+LANG_ENGLISH         "Death Wheel"
+
+REFERENCE            cos_081
+LANG_ENGLISH         "Emerald Heart"
+
+REFERENCE            cos_082
+LANG_ENGLISH         "Winged Terror"
+
+REFERENCE            cos_083
+LANG_ENGLISH         "Freedom Incarnate"
+
+REFERENCE            cos_084
+LANG_ENGLISH         "King Slayer"
+
+REFERENCE            cos_085
+LANG_ENGLISH         "5 by 5"
+
+REFERENCE            cos_086
+LANG_ENGLISH         "Ballistic Bubbly"
+
+REFERENCE            cos_087
+LANG_ENGLISH         "English Breakfast"
+
+REFERENCE            cos_088
+LANG_ENGLISH         "Top Dog"
+
+REFERENCE            cos_089
+LANG_ENGLISH         "Over the Rainbow"
+
+REFERENCE            cos_090
+LANG_ENGLISH         "Tags Denied"
+
+REFERENCE            cos_091
+LANG_ENGLISH         "Charming"
+
+REFERENCE            cos_092
+LANG_ENGLISH         "Stay Frosty"
+
+REFERENCE            cos_093
+LANG_ENGLISH         "Alley Cat"
+
+REFERENCE            cos_094
+LANG_ENGLISH         "Cold Ones"
+
+REFERENCE            cos_095
+LANG_ENGLISH         "Head Gear"
+
+REFERENCE            cos_096
+LANG_ENGLISH         "Skin Free"
+
+REFERENCE            cos_097
+LANG_ENGLISH         "Reap This"
+
+REFERENCE            cos_098
+LANG_ENGLISH         "Rodent Trap"
+
+REFERENCE            cos_099
+LANG_ENGLISH         "Sharp Dresser"
+
+REFERENCE            cos_100
+LANG_ENGLISH         "Knuckle Up"
+
+REFERENCE            cos_101
+LANG_ENGLISH         "Safety First"
+
+REFERENCE            cos_102
+LANG_ENGLISH         "True North"
+
+REFERENCE            cos_103
+LANG_ENGLISH         "80s Cell"
+
+REFERENCE            cos_104
+LANG_ENGLISH         "Freshen Up"
+
+REFERENCE            cos_105
+LANG_ENGLISH         "Armor On"
+
+REFERENCE            cos_106
+LANG_ENGLISH         "Whiskey Tango Foxtrot"
+
+REFERENCE            cos_107
+LANG_ENGLISH         "Going Dark"
+
+REFERENCE            cos_108
+LANG_ENGLISH         "Toy Soldier"
+
+REFERENCE            cos_109
+LANG_ENGLISH         "Juggernaut"
+
+REFERENCE            cos_110
+LANG_ENGLISH         "Sergeant"
+
+REFERENCE            cos_111
+LANG_ENGLISH         "Crawdaddy"
+
+REFERENCE            cos_112
+LANG_ENGLISH         "Old School"
+
+REFERENCE            cos_113
+LANG_ENGLISH         "Bestfriend"
+
+REFERENCE            cos_114
+LANG_ENGLISH         "Roach"
+
+REFERENCE            cos_115
+LANG_ENGLISH         "An Odd Name"
+
+REFERENCE            cos_116
+LANG_ENGLISH         "Helpful Doge"
+
+REFERENCE            cos_117
+LANG_ENGLISH         "Supreme Slice"
+
+REFERENCE            cos_118
+LANG_ENGLISH         "Sharky"
+
+REFERENCE            cos_119
+LANG_ENGLISH         "Salmon & Tuna"
+
+REFERENCE            cos_120
+LANG_ENGLISH         "Taco Tuesdays"
+
+REFERENCE            cos_121
+LANG_ENGLISH         "Woolie"
+
+REFERENCE            cos_122
+LANG_ENGLISH         "It's A Celebration!"
+
+REFERENCE            cos_123
+LANG_ENGLISH         "Rubber Neckin'"
+
+REFERENCE            cos_124
+LANG_ENGLISH         "Worlds Greatest"
+
+REFERENCE            cos_125
+LANG_ENGLISH         "Mini Dump"
+
+REFERENCE            cos_126
+LANG_ENGLISH         "Misfortune Cookie"
+
+REFERENCE            cos_127
+LANG_ENGLISH         "Relish It"
+
+REFERENCE            cos_128
+LANG_ENGLISH         "Light Speed"
+
+REFERENCE            cos_129
+LANG_ENGLISH         "Eye in the Sky"
+
+REFERENCE            cos_130
+LANG_ENGLISH         "Nice Kicks"
+
+REFERENCE            cos_131
+LANG_ENGLISH         "Cerveza"
+
+REFERENCE            cos_132
+LANG_ENGLISH         "Tasty Treat"
+
+REFERENCE            cos_133
+LANG_ENGLISH         "Making Bank"
+
+REFERENCE            cos_134
+LANG_ENGLISH         "Golden Pair"
+
+REFERENCE            cos_135
+LANG_ENGLISH         "Ramen-tic"
+
+REFERENCE            cos_136
+LANG_ENGLISH         "Spart Farkles"
+
+REFERENCE            cos_137
+LANG_ENGLISH         "High Sodium"
+
+REFERENCE            cos_138
+LANG_ENGLISH         "On a Roll"
+
+REFERENCE            cos_139
+LANG_ENGLISH         "Lethal Tender"
+
+REFERENCE            cos_140
+LANG_ENGLISH         "COS_140"
+
+REFERENCE            cos_141
+LANG_ENGLISH         "Getting Paid"
+
+REFERENCE            cos_142
+LANG_ENGLISH         "COS_142"
+
+REFERENCE            cos_143
+LANG_ENGLISH         "The Sparks"
+
+REFERENCE            cos_144
+LANG_ENGLISH         "Carotene"
+
+REFERENCE            cos_145
+LANG_ENGLISH         "COS_145"
+
+REFERENCE            cos_146
+LANG_ENGLISH         "Night Light"
+
+REFERENCE            cos_147
+LANG_ENGLISH         "Cthulhu's Judgement"
+
+REFERENCE            cos_148
+LANG_ENGLISH         "Death Comes"
+
+REFERENCE            cos_149
+LANG_ENGLISH         "Heritage"
+
+REFERENCE            cos_150
+LANG_ENGLISH         "Lil' Flame"
+
+REFERENCE            cos_151
+LANG_ENGLISH         "Fishbones"
+
+REFERENCE            cos_152
+LANG_ENGLISH         "Snow Survivor"
+
+REFERENCE            cos_153
+LANG_ENGLISH         "COS_153"
+
+REFERENCE            cos_154
+LANG_ENGLISH         "Pink Bones"
+
+REFERENCE            cos_155
+LANG_ENGLISH         "Auspicious"
+
+REFERENCE            cos_156
+LANG_ENGLISH         "Koala"
+
+REFERENCE            cos_157
+LANG_ENGLISH         "COS_157"
+
+REFERENCE            cos_158
+LANG_ENGLISH         "Pallid Oni"
+
+REFERENCE            cos_159
+LANG_ENGLISH         "Orizuru"
+
+REFERENCE            cos_160
+LANG_ENGLISH         "COS_160"
+
+REFERENCE            cos_161
+LANG_ENGLISH         "Brain Invader"
+
+REFERENCE            cos_162
+LANG_ENGLISH         "Hippy"
+
+REFERENCE            cos_163
+LANG_ENGLISH         "Winged Pork"
+
+REFERENCE            cos_164
+LANG_ENGLISH         "COS_164"
+
+REFERENCE            cos_165
+LANG_ENGLISH         "COS_165"
+
+REFERENCE            cos_166
+LANG_ENGLISH         "Scarab"
+
+REFERENCE            cos_167
+LANG_ENGLISH         "Decked Out"
+
+REFERENCE            cos_168
+LANG_ENGLISH         "Turbocharged"
+
+REFERENCE            cos_169
+LANG_ENGLISH         "Air Power"
+
+REFERENCE            cos_170
+LANG_ENGLISH         "Code Monkey"
+
+REFERENCE            cos_171
+LANG_ENGLISH         "COS_171"
+
+REFERENCE            cos_172
+LANG_ENGLISH         "Chess Moves"
+
+REFERENCE            cos_173
+LANG_ENGLISH         "Empty Calories"
+
+REFERENCE            cos_174
+LANG_ENGLISH         "Festive"
+
+REFERENCE            cos_177
+LANG_ENGLISH         "MACK8"
+
+REFERENCE            cos_178
+LANG_ENGLISH         "COS_178"
+
+REFERENCE            cos_179
+LANG_ENGLISH         "Aquanaut"
+
+REFERENCE            cos_180
+LANG_ENGLISH         "Kettle's On"
+
+REFERENCE            cos_181
+LANG_ENGLISH         "COS_181"
+
+REFERENCE            cos_182
+LANG_ENGLISH         "COS_182"
+
+REFERENCE            cos_183
+LANG_ENGLISH         "OPYNXE"
+
+REFERENCE            cos_184
+LANG_ENGLISH         "COS_184"
+
+REFERENCE            cos_185
+LANG_ENGLISH         "COS_185"
+
+REFERENCE            cos_186
+LANG_ENGLISH         "COS_186"
+
+REFERENCE            cos_187
+LANG_ENGLISH         "COS_187"
+
+REFERENCE            cos_188
+LANG_ENGLISH         "COS_188"
+
+REFERENCE            cos_189
+LANG_ENGLISH         "COS_189"
+
+REFERENCE            cos_190
+LANG_ENGLISH         "COS_190"
+
+REFERENCE            cos_191
+LANG_ENGLISH         "COS_191"
+
+REFERENCE            cos_192
+LANG_ENGLISH         "COS_192"
+
+REFERENCE            cos_193
+LANG_ENGLISH         "COS_193"
+
+REFERENCE            cos_194
+LANG_ENGLISH         "Tempus"
+
+REFERENCE            cos_195
+LANG_ENGLISH         "COS_195"
+
+REFERENCE            cos_196
+LANG_ENGLISH         "ZLR"
+
+REFERENCE            cos_197
+LANG_ENGLISH         "Gun Run"
+
+REFERENCE            cos_198
+LANG_ENGLISH         "COS_198"
+
+REFERENCE            cos_199
+LANG_ENGLISH         "Backup Plan"
+
+REFERENCE            cos_200
+LANG_ENGLISH         "COS_200"
+
+REFERENCE            cos_201
+LANG_ENGLISH         "COS_201"
+
+REFERENCE            cos_202
+LANG_ENGLISH         "Haymaker"
+
+REFERENCE            cos_203
+LANG_ENGLISH         "COS_203"
+
+REFERENCE            cos_204
+LANG_ENGLISH         "Chain Gun"
+
+REFERENCE            cos_205
+LANG_ENGLISH         "Gold AX-50"
+
+REFERENCE            cos_206
+LANG_ENGLISH         "COS_206"
+
+REFERENCE            cos_207
+LANG_ENGLISH         "COS_207"
+
+REFERENCE            cos_208
+LANG_ENGLISH         "Scoutin'"
+
+REFERENCE            cos_209
+LANG_ENGLISH         "Luna"
+
+REFERENCE            cos_210
+LANG_ENGLISH         "Space Race"
+
+REFERENCE            cos_211
+LANG_ENGLISH         "Shredded"
+
+REFERENCE            cos_212
+LANG_ENGLISH         "Matryoshka"
+
+REFERENCE            cos_213
+LANG_ENGLISH         "Chopping Wood"
+
+REFERENCE            cos_214
+LANG_ENGLISH         "Arachnophobia"
+
+REFERENCE            cos_215
+LANG_ENGLISH         "Cymbalism"
+
+REFERENCE            cos_216
+LANG_ENGLISH         "Statuesque"
+
+REFERENCE            cos_217
+LANG_ENGLISH         "Pain Train"
+
+REFERENCE            cos_218
+LANG_ENGLISH         "COS_218"
+
+REFERENCE            cos_219
+LANG_ENGLISH         "Tankman"
+
+REFERENCE            cos_220
+LANG_ENGLISH         "Zombie Metal"
+
+REFERENCE            cos_221
+LANG_ENGLISH         "COS_221"
+
+REFERENCE            cos_222
+LANG_ENGLISH         "Fill 'Er Up"
+
+REFERENCE            cos_223
+LANG_ENGLISH         "Green Skull"
+
+REFERENCE            cos_224
+LANG_ENGLISH         "Sgt. Smuggypuss"
+
+REFERENCE            cos_225
+LANG_ENGLISH         "Fowl Play"
+
+REFERENCE            cos_226
+LANG_ENGLISH         "Black Jack"
+
+REFERENCE            cos_227
+LANG_ENGLISH         "Folktale"
+
+REFERENCE            cos_228
+LANG_ENGLISH         "Gloves Off"
+
+REFERENCE            cos_229
+LANG_ENGLISH         "Second Decree"
+
+REFERENCE            cos_230
+LANG_ENGLISH         "Bad Command"
+
+REFERENCE            cos_231
+LANG_ENGLISH         "DualShock"
+
+REFERENCE            cos_232
+LANG_ENGLISH         "Dragon Eye"
+
+REFERENCE            cos_233
+LANG_ENGLISH         "Handcuff"
+
+REFERENCE            cos_234
+LANG_ENGLISH         "Jabberwock"
+
+REFERENCE            cos_235
+LANG_ENGLISH         "Centipede"
+
+REFERENCE            cos_236
+LANG_ENGLISH         "Ghost Town"
+
+REFERENCE            cos_237
+LANG_ENGLISH         "Vacuum Sealed"
+
+REFERENCE            cos_238
+LANG_ENGLISH         "Star of Night"
+
+REFERENCE            cos_239
+LANG_ENGLISH         "Time Piece"
+
+REFERENCE            cos_240
+LANG_ENGLISH         "The Widow"
+
+REFERENCE            cos_241
+LANG_ENGLISH         "Care Package"
+
+REFERENCE            cos_242
+LANG_ENGLISH         "Nice Supplies"
+
+REFERENCE            cos_243
+LANG_ENGLISH         "Red Envelope"
+
+REFERENCE            cos_244
+LANG_ENGLISH         "Peppermint"
+
+REFERENCE            cos_245
+LANG_ENGLISH         "COS_245"
+
+REFERENCE            cos_246
+LANG_ENGLISH         "Chicago Huntsmen"
+
+REFERENCE            cos_247
+LANG_ENGLISH         "Dallas Empire"
+
+REFERENCE            cos_248
+LANG_ENGLISH         "Seattle Surge"
+
+REFERENCE            cos_250
+LANG_ENGLISH         "Good Boy"
+
+REFERENCE            cos_251
+LANG_ENGLISH         "Free Dive"
+
+REFERENCE            cos_252
+LANG_ENGLISH         "Bear Trap"
+
+REFERENCE            cos_253
+LANG_ENGLISH         "Year of the Rat"
+
+REFERENCE            cos_254
+LANG_ENGLISH         "COS_254"
+
+REFERENCE            cos_255
+LANG_ENGLISH         "Hibiscus"
+
+REFERENCE            cos_256
+LANG_ENGLISH         "Gilded Afterlife"
+
+REFERENCE            cos_257
+LANG_ENGLISH         "COS_257"
+
+REFERENCE            cos_258
+LANG_ENGLISH         "Boomerang"
+
+REFERENCE            cos_259
+LANG_ENGLISH         "Death Rattle"
+
+REFERENCE            cos_260
+LANG_ENGLISH         "COS_260"
+
+REFERENCE            cos_261
+LANG_ENGLISH         "Watch Your Step"
+
+REFERENCE            cos_262
+LANG_ENGLISH         "COS_262"
+
+REFERENCE            cos_263
+LANG_ENGLISH         "Eat Crow"
+
+REFERENCE            cos_264
+LANG_ENGLISH         "Double Dip"
+
+REFERENCE            cos_265
+LANG_ENGLISH         "cos_265"
+
+REFERENCE            cos_266
+LANG_ENGLISH         "Spider Buddy"
+
+REFERENCE            cos_267
+LANG_ENGLISH         "Containment"
+
+REFERENCE            cos_268
+LANG_ENGLISH         "Sandal"
+
+REFERENCE            cos_269
+LANG_ENGLISH         "Pestilence"
+
+REFERENCE            cos_270
+LANG_ENGLISH         "Heat Seeker"
+
+REFERENCE            cos_271
+LANG_ENGLISH         "COS_271"
+
+REFERENCE            cos_272
+LANG_ENGLISH         "COS_272"
+
+REFERENCE            cos_273
+LANG_ENGLISH         "Skull Comms"
+
+REFERENCE            cos_274
+LANG_ENGLISH         "COS_274"
+
+REFERENCE            cos_275
+LANG_ENGLISH         "Livewire"
+
+REFERENCE            cos_276
+LANG_ENGLISH         "The One-Four-One"
+
+REFERENCE            cos_277
+LANG_ENGLISH         "Rookie Move"
+
+REFERENCE            cos_278
+LANG_ENGLISH         "Blackshot"
+
+REFERENCE            cos_279
+LANG_ENGLISH         "COS_279"
+
+REFERENCE            cos_280
+LANG_ENGLISH         "Loyal Specter"
+
+REFERENCE            cos_281
+LANG_ENGLISH         "Bottle Opener"
+
+REFERENCE            cos_282
+LANG_ENGLISH         "Knock Knock"
+
+REFERENCE            cos_283
+LANG_ENGLISH         "COS_283"
+
+REFERENCE            cos_284
+LANG_ENGLISH         "Razor Blade"
+
+REFERENCE            cos_285
+LANG_ENGLISH         "Toothache"
+
+REFERENCE            cos_286
+LANG_ENGLISH         "Lovestruck"
+
+REFERENCE            cos_287
+LANG_ENGLISH         "COS_287"
+
+REFERENCE            cos_288
+LANG_ENGLISH         "Scorpion"
+
+REFERENCE            cos_289
+LANG_ENGLISH         "COS_289"
+
+REFERENCE            cos_290
+LANG_ENGLISH         "Kickflip"
+
+REFERENCE            cos_291
+LANG_ENGLISH         "Leprechaun"
+
+REFERENCE            cos_292
+LANG_ENGLISH         "Pot of Gold"
+
+REFERENCE            cos_293
+LANG_ENGLISH         "Stout"
+
+REFERENCE            cos_294
+LANG_ENGLISH         "COS_294"
+
+REFERENCE            cos_295
+LANG_ENGLISH         "COS_295"
+
+REFERENCE            cos_296
+LANG_ENGLISH         "COS_296"
+
+REFERENCE            cos_297
+LANG_ENGLISH         "COS_297"
+
+REFERENCE            cos_298
+LANG_ENGLISH         "COS_298"
+
+REFERENCE            cos_299
+LANG_ENGLISH         "Love Bomb"
+
+REFERENCE            cos_300
+LANG_ENGLISH         "Wirecutter"
+
+REFERENCE            cos_301
+LANG_ENGLISH         "Bear Necessities"
+
+REFERENCE            cos_302
+LANG_ENGLISH         "Chibi Killer"
+
+REFERENCE            cos_303
+LANG_ENGLISH         "Chibi Machine Gunner"
+
+REFERENCE            cos_304
+LANG_ENGLISH         "Knuckle Break"
+
+REFERENCE            cos_305
+LANG_ENGLISH         "COS_305"
+
+REFERENCE            cos_306
+LANG_ENGLISH         "I See All"
+
+REFERENCE            cos_307
+LANG_ENGLISH         "COS_307"
+
+REFERENCE            cos_308
+LANG_ENGLISH         "Loyal Boy"
+
+REFERENCE            cos_309
+LANG_ENGLISH         "Lil' Jug"
+
+REFERENCE            cos_310
+LANG_ENGLISH         "Bear Necessities"
+
+REFERENCE            cos_311
+LANG_ENGLISH         "Faithful Companion"
+
+REFERENCE            cos_312
+LANG_ENGLISH         "Bravocado"
+
+REFERENCE            cos_313
+LANG_ENGLISH         "COS_313"
+
+REFERENCE            cos_314
+LANG_ENGLISH         "Green Snowmobile"
+
+REFERENCE            cos_315
+LANG_ENGLISH         "Babe"
+
+REFERENCE            cos_316
+LANG_ENGLISH         "Hangman"
+
+REFERENCE            cos_317
+LANG_ENGLISH         "Big Kitty"
+
+REFERENCE            cos_318
+LANG_ENGLISH         "Stabby Crabby"
+
+REFERENCE            cos_319
+LANG_ENGLISH         "COS_319"
+
+REFERENCE            cos_320
+LANG_ENGLISH         "Orange Boonie"
+
+REFERENCE            cos_321
+LANG_ENGLISH         "Style Points"
+
+REFERENCE            cos_322
+LANG_ENGLISH         "COS_322"
+
+REFERENCE            cos_323
+LANG_ENGLISH         "COS_323"
+
+REFERENCE            cos_324
+LANG_ENGLISH         "COS_324"
+
+REFERENCE            cos_325
+LANG_ENGLISH         "COS_325"
+
+REFERENCE            cos_326
+LANG_ENGLISH         "COS_326"
+
+REFERENCE            cos_327
+LANG_ENGLISH         "COS_327"
+
+REFERENCE            cos_328
+LANG_ENGLISH         "COS_328"
+
+REFERENCE            cos_329
+LANG_ENGLISH         "COS_329"
+
+REFERENCE            cos_330
+LANG_ENGLISH         "COS_330"
+
+REFERENCE            cos_331
+LANG_ENGLISH         "COS_331"
+
+REFERENCE            cos_332
+LANG_ENGLISH         "COS_332"
+
+REFERENCE            cos_333
+LANG_ENGLISH         "COS_333"
+
+REFERENCE            cos_334
+LANG_ENGLISH         "COS_334"
+
+REFERENCE            cos_335
+LANG_ENGLISH         "COS_335"
+
+REFERENCE            cos_336
+LANG_ENGLISH         "COS_336"
+
+REFERENCE            cos_337
+LANG_ENGLISH         "COS_337"
+
+REFERENCE            cos_338
+LANG_ENGLISH         "COS_338"
+
+REFERENCE            cos_339
+LANG_ENGLISH         "COS_339"
+
+REFERENCE            cos_340
+LANG_ENGLISH         "COS_340"
+
+REFERENCE            cos_341
+LANG_ENGLISH         "COS_341"
+
+REFERENCE            cos_342
+LANG_ENGLISH         "COS_342"
+
+REFERENCE            cos_343
+LANG_ENGLISH         "COS_343"
+
+REFERENCE            cos_344
+LANG_ENGLISH         "COS_344"
+
+REFERENCE            cos_345
+LANG_ENGLISH         "COS_345"
+
+REFERENCE            cos_346
+LANG_ENGLISH         "COS_346"
+
+REFERENCE            cos_347
+LANG_ENGLISH         "COS_347"
+
+REFERENCE            cos_348
+LANG_ENGLISH         "COS_348"
+
+REFERENCE            cos_349
+LANG_ENGLISH         "COS_349"
+
+REFERENCE            cos_350
+LANG_ENGLISH         "COS_350"
+
+REFERENCE            cos_351
+LANG_ENGLISH         "COS_351"
+
+REFERENCE            cos_352
+LANG_ENGLISH         "COS_352"
+
+REFERENCE            cos_353
+LANG_ENGLISH         "COS_353"
+
+REFERENCE            cos_354
+LANG_ENGLISH         "COS_354"
+
+REFERENCE            cos_355
+LANG_ENGLISH         "COS_355"
+
+REFERENCE            cos_356
+LANG_ENGLISH         "COS_356"
+
+REFERENCE            cos_357
+LANG_ENGLISH         "COS_357"
+
+REFERENCE            cos_358
+LANG_ENGLISH         "COS_358"
+
+REFERENCE            cos_359
+LANG_ENGLISH         "COS_359"
+
+REFERENCE            cos_360
+LANG_ENGLISH         "COS_360"
+
+REFERENCE            cos_389
+LANG_ENGLISH         "COS_389"
+
+REFERENCE            cos_384
+LANG_ENGLISH         "COS_384"
+
+REFERENCE            cos_176
+LANG_ENGLISH         "COS_176"
+
+REFERENCE            cos_175
+LANG_ENGLISH         "Chibi Operator"
+
+
+ENDMARKER

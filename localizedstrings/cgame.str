@@ -1,0 +1,179 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            complaintdismissed
+LANG_ENGLISH         "Complaint dismissed"
+
+REFERENCE            complaintfiled
+LANG_ENGLISH         "Your complaint has been filed"
+
+REFERENCE            complaintserverhost
+LANG_ENGLISH         "Server Host cannot be complained against"
+
+REFERENCE            complaintteamkillfile
+LANG_ENGLISH         "File complaint against &&1 for team-killing?"
+
+REFERENCE            connection_interrupted
+LANG_ENGLISH         "Connection Interrupted"
+
+REFERENCE            continue_saving
+LANG_ENGLISH         "Save and Quit"
+
+REFERENCE            crush
+LANG_ENGLISH         "crush"
+
+REFERENCE            died
+LANG_ENGLISH         "died"
+
+REFERENCE            drown
+LANG_ENGLISH         "drown"
+
+REFERENCE            falling
+LANG_ENGLISH         "falling"
+
+REFERENCE            following
+LANG_ENGLISH         "SPECTATING"
+
+REFERENCE            for
+LANG_ENGLISH         "for"
+
+REFERENCE            head_shot
+LANG_ENGLISH         "head shot"
+
+REFERENCE            health
+LANG_ENGLISH         "Health"
+
+REFERENCE            melee
+LANG_ENGLISH         "melee"
+
+REFERENCE            missionobjectives
+LANG_ENGLISH         "MISSION OBJECTIVES"
+
+REFERENCE            no
+LANG_ENGLISH         "NO"
+
+REFERENCE            nospectatorvoicechat
+LANG_ENGLISH         "Can't voice chat as a spectator."
+
+REFERENCE            now_saving
+LANG_ENGLISH         "Saving..."
+
+REFERENCE            objective_above
+LANG_ENGLISH         "Objective Above"
+
+REFERENCE            objective_below
+LANG_ENGLISH         "Objective Below"
+
+REFERENCE            objective_followtext_default
+LANG_ENGLISH         "Follow"
+
+REFERENCE            paused
+LANG_ENGLISH         "Paused"
+
+REFERENCE            playerrenames
+LANG_ENGLISH         "renamed to"
+
+REFERENCE            pressyesno
+LANG_ENGLISH         "Press '&&1' for YES, or '&&2' for No"
+
+REFERENCE            prone_blocked
+LANG_ENGLISH         "Prone blocked."
+
+REFERENCE            prone_blocked_weapon
+LANG_ENGLISH         "You can't go prone with this weapon."
+
+REFERENCE            prone_blocks_use
+LANG_ENGLISH         "Can't use while prone."
+
+REFERENCE            restart_warning
+LANG_ENGLISH         "If you restart now, you will lose 
+any progress that you have made 
+in this mission
+
+Continue restart?"
+
+REFERENCE            save_victory
+LANG_ENGLISH         "Would you like to save your game progress?"
+
+REFERENCE            save_warning
+LANG_ENGLISH         "If you quit now, you will lose any progress 
+since your last checkpoint. 
+
+Are you sure?"
+
+REFERENCE            savingreplay
+LANG_ENGLISH         "&&1 saving replay at
+ &&2 -> &&3"
+
+REFERENCE            sb_assists
+LANG_ENGLISH         "Assists"
+
+REFERENCE            sb_deaths
+LANG_ENGLISH         "Deaths"
+
+REFERENCE            sb_kills
+LANG_ENGLISH         "Kills"
+
+REFERENCE            sb_ping
+LANG_ENGLISH         "Ping"
+
+REFERENCE            sb_player
+LANG_ENGLISH         "&&1"
+
+REFERENCE            sb_players
+LANG_ENGLISH         "&&1"
+
+REFERENCE            sb_score
+LANG_ENGLISH         "Score"
+
+REFERENCE            sb_tags
+LANG_ENGLISH         "Tags"
+
+REFERENCE            serverhostteamkilled
+LANG_ENGLISH         "You were team-killed by the Server Host"
+
+REFERENCE            slime
+LANG_ENGLISH         "slime"
+
+REFERENCE            spectator
+LANG_ENGLISH         "SPECTATOR"
+
+REFERENCE            spectators
+LANG_ENGLISH         "Spectators"
+
+REFERENCE            suicide
+LANG_ENGLISH         "suicide"
+
+REFERENCE            teammate
+LANG_ENGLISH         "TEAMMATE"
+
+REFERENCE            this_weapon_has_no_alternate
+LANG_ENGLISH         "This weapon has no alternate mode to switch to."
+
+REFERENCE            turret_blocked
+LANG_ENGLISH         "Turret Movement Blocked"
+
+REFERENCE            unknown
+LANG_ENGLISH         "unknown"
+
+REFERENCE            victim
+LANG_ENGLISH         "Victim: &&1"
+
+REFERENCE            vote
+LANG_ENGLISH         "VOTE"
+
+REFERENCE            waitingforserverload
+LANG_ENGLISH         "Waiting for server to load new map"
+
+REFERENCE            yes
+LANG_ENGLISH         "YES"
+
+REFERENCE            youkilled
+LANG_ENGLISH         "You killed &&1"
+
+REFERENCE            youwerekilled
+LANG_ENGLISH         "Killed by: &&1"
+
+
+ENDMARKER

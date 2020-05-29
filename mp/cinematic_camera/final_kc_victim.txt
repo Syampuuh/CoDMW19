@@ -1,0 +1,55 @@
+//==================================================================
+// Final KillCam
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//
+// In Final KC, you are viewing from the attacker's point of view
+// the "leading actor" is the victim and the "supporting actor" is the attacker
+//==========================================================================
+
+// update the version only when parser has changed
+<version> 4
+
+// 1. Pan in front of victim
+<cut>
+<movement> pan
+<orientation> attached
+<tag> j_spine4
+<tag_pitch> 90
+<tag_range> 10
+<pan_distance> 15
+<pan_focus_range> 30
+<pan_focus_supporting_actor> 1
+<pan_mounted_to_actor> 1
+<time> 0.5
+
+// 2. Look straight down, pulling camera up
+<cut>
+<movement> rotate 
+<orientation> target
+<tag> j_mainroot
+<angles_pitch> 80
+<angles_range_start> 25
+<angles_range_end> 150
+<rotate_degrees_yaw> 30
+<collision> 0
+<time> 2
+
+
+<fov>
+<fov_start_time> 0
+<fov_value> 85
+
+
+// blur when pulling camera aways
+<dof>
+<dof_start_time> 0
+<dof_blend_duration> 7500
+<dof_far_start> 25
+<dof_far_end> 75
+<dof_far_blur> 3.5
+
+
+<vision>
+<vision_start_time> 1.4
+<vision_name> "mpoutro"
+<vision_blend_duration> 500

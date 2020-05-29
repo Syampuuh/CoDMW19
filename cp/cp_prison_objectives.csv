@@ -1,0 +1,5 @@
+0,meet_with_informant,CP_PRISON_OBJECTIVES/MEET_THE_INFORMANT,,1,,icon_waypoint_objective_general,,0,,,,,,,,666,,,
+1,go_to_the_prison,CP_PRISON_OBJECTIVES/GO_TO_PRISON,,1,primary,icon_waypoint_objective_general,3153,0,60,0,,,,,,,,666,,,
+2,checkin_weapons,CP_PRISON_OBJECTIVES/CHECKIN_YOUR_WEAPONS,,0,primary,icon_waypoint_objective_general,gun_checkin,script_noteworthy,0,30,15,5,,,,,666,,1,
+3,find_hvi,CP_PRISON_OBJECTIVES/FIND_HVI,,0,primary,,,0,,,,,,,,666,,,
+4,breakout,CP_PRISON_OBJECTIVES/ESCORT_HVI,,0,primary,icon_waypoint_objective_general,breakout_exfil,targetname,0,,,,,,,,666,,,

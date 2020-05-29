@@ -1,0 +1,102 @@
+{
+  "_comments": [
+    "Controls for script memory for server and client script. Core mode values and gametype values (mp only) are supported.",
+    "Note: The gametype should be added as a sub object to the core mode; it will override the core mode values.",
+    "Note: The minimum is used to define how much memory is needed to load the animations at match start; acts as a clamp.",
+    "VARIABLELIST_PARENT_SIZE - number of parent variables - max: 262144, including per-player",
+    "VARIABLELIST_CHILD_SIZE - number of child variables - max: 655360, including per-player",
+	"VARIABLELIST_PARENT_SIZE_PER_PLAYER - per-player multiplier to add parent variables. Mimimum is an absolute number, not multiplier.",
+	"VARIABLELIST_CHILD_SIZE_PER_PLAYER - per-player multiplier to add child variables. Mimimum is an absolute number, not multiplier.",
+    "SCR_DEBUG_FUNCTION_COUNT - number of functions allowed - min: 1",
+    "SCR_DEBUG_FUNCTION_BUFFER_SIZE - size of function buffer - min: 1"
+  ],
+
+  "server": {
+    "sp": {
+      "VARIABLELIST_PARENT_SIZE": 70016,
+      "VARIABLELIST_CHILD_SIZE": 163840,
+      "SCR_DEBUG_FUNCTION_COUNT": 16384,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 393216
+    },
+    "cp": {
+      "VARIABLELIST_PARENT_SIZE": 97366,
+      "VARIABLELIST_CHILD_SIZE": 227840,
+      "SCR_DEBUG_FUNCTION_COUNT": 19584,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 521216
+    },
+    "mp": {
+      "VARIABLELIST_PARENT_SIZE": 59776,
+      "VARIABLELIST_CHILD_SIZE": 143360,
+      "VARIABLELIST_PARENT_SIZE_PER_PLAYER": 512,
+      "VARIABLELIST_CHILD_SIZE_PER_PLAYER": 1024,
+      "SCR_DEBUG_FUNCTION_COUNT": 20480,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 521216,
+      "arm": {
+        "VARIABLELIST_PARENT_SIZE": 66776,
+        "VARIABLELIST_CHILD_SIZE": 143360,
+        "VARIABLELIST_PARENT_SIZE_PER_PLAYER": 600,
+        "VARIABLELIST_CHILD_SIZE_PER_PLAYER": 2348,
+        "SCR_DEBUG_FUNCTION_COUNT": 20480,
+        "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 521216
+      }
+      "br": {
+        "VARIABLELIST_PARENT_SIZE": 59776,
+        "VARIABLELIST_CHILD_SIZE": 346400,
+        "VARIABLELIST_PARENT_SIZE_PER_PLAYER": 512,
+        "VARIABLELIST_CHILD_SIZE_PER_PLAYER": 1024,
+        "SCR_DEBUG_FUNCTION_COUNT": 20480,
+        "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 521216
+      }
+    }
+  },
+
+  "client": {
+    "sp": {
+      "VARIABLELIST_PARENT_SIZE": 70016,
+      "VARIABLELIST_CHILD_SIZE": 163840,
+      "SCR_DEBUG_FUNCTION_COUNT": 16384,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 393216
+    },
+    "cp": {
+      "VARIABLELIST_PARENT_SIZE": 70016,
+      "VARIABLELIST_CHILD_SIZE": 163840,
+      "SCR_DEBUG_FUNCTION_COUNT": 16384,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 393216
+    },
+    "mp": {
+      "VARIABLELIST_PARENT_SIZE": 70016,
+      "VARIABLELIST_CHILD_SIZE": 163840,
+      "SCR_DEBUG_FUNCTION_COUNT": 16384,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 393216,
+      "br": {
+        "VARIABLELIST_PARENT_SIZE": 70016,
+        "VARIABLELIST_CHILD_SIZE": 163840,
+        "SCR_DEBUG_FUNCTION_COUNT": 16384,
+        "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 393216
+      }
+    }
+  },
+
+  "minimum": {
+    "sp": {
+      "VARIABLELIST_PARENT_SIZE": 60,
+      "VARIABLELIST_CHILD_SIZE": 3600,
+      "SCR_DEBUG_FUNCTION_COUNT": 1,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 1
+    },
+    "cp": {
+      "VARIABLELIST_PARENT_SIZE": 500,
+      "VARIABLELIST_CHILD_SIZE": 10500,
+      "SCR_DEBUG_FUNCTION_COUNT": 1,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 1
+    },
+    "mp": {
+      "VARIABLELIST_PARENT_SIZE": 160,
+      "VARIABLELIST_CHILD_SIZE": 5600,
+      "VARIABLELIST_PARENT_SIZE_PER_PLAYER": 10240,
+      "VARIABLELIST_CHILD_SIZE_PER_PLAYER": 20480,
+      "SCR_DEBUG_FUNCTION_COUNT": 1,
+      "SCR_DEBUG_FUNCTION_BUFFER_SIZE": 1
+    }
+  }
+}

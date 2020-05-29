@@ -1,0 +1,28 @@
+//==========================================================================
+// Over_Shoulder
+// over shoulder style camera similar to gears
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when parser has changed
+<version> 3
+
+<cut>
+<movement> fixed
+<orientation> attached
+<tag> j_neck
+<tag_range> 45
+<tag_pitch> 15
+<tag_yaw> 25
+<time> 0
+
+// flash into this cam
+<vision>
+<vision_start_time> 0
+<vision_name> "coup_sunblind"
+<vision_blend_duration> 100
+
+<vision>
+<vision_start_time> 0.1
+<vision_name> ""
+<vision_blend_duration> 100

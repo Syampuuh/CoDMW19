@@ -1,0 +1,360 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            xp
+LANG_ENGLISH         "XP"
+
+REFERENCE            weapon_blueprint
+LANG_ENGLISH         "Weapon Blueprint"
+
+REFERENCE            watch
+LANG_ENGLISH         "Watch"
+
+REFERENCE            sticker
+LANG_ENGLISH         "Sticker"
+
+REFERENCE            sprays
+LANG_ENGLISH         "Spray"
+
+REFERENCE            role
+LANG_ENGLISH         "Co-Op Role"
+
+REFERENCE            reticle
+LANG_ENGLISH         "Reticle"
+
+REFERENCE            quality_uncommon
+LANG_ENGLISH         "Uncommon"
+
+REFERENCE            quality_player
+LANG_ENGLISH         "Player"
+
+REFERENCE            quality_4
+LANG_ENGLISH         "Legendary"
+
+REFERENCE            quality_3
+LANG_ENGLISH         "Epic"
+
+REFERENCE            quality_2
+LANG_ENGLISH         "Rare"
+
+REFERENCE            quality_1
+LANG_ENGLISH         "Common"
+
+REFERENCE            quality_0
+LANG_ENGLISH         "Base"
+
+REFERENCE            player_xp
+LANG_ENGLISH         "Player XP"
+
+REFERENCE            placeholder_desc
+LANG_ENGLISH         "This is an example description of the loot item type."
+
+REFERENCE            perk
+LANG_ENGLISH         "Perk"
+
+REFERENCE            operator_taunt
+LANG_ENGLISH         "Operator Taunt"
+
+REFERENCE            operator_skin
+LANG_ENGLISH         "Operator Skin"
+
+REFERENCE            operator_quip
+LANG_ENGLISH         "Operator Quip"
+
+REFERENCE            operator_name_skin
+LANG_ENGLISH         "&&1 Skin"
+
+REFERENCE            operator_name_quip
+LANG_ENGLISH         "&&1 Quip"
+
+REFERENCE            operator_name_execution
+LANG_ENGLISH         "&&1 Finishing Move"
+
+REFERENCE            operator_intro
+LANG_ENGLISH         "Operator Intro"
+
+REFERENCE            operator_execution
+LANG_ENGLISH         "Finishing Move"
+
+REFERENCE            operator
+LANG_ENGLISH         "Operator"
+
+REFERENCE            mission
+LANG_ENGLISH         "Mission"
+
+REFERENCE            loot
+LANG_ENGLISH         "Loot"
+
+REFERENCE            item_type_weapon
+LANG_ENGLISH         "Weapon"
+
+REFERENCE            item_type_tactical
+LANG_ENGLISH         "Tactical"
+
+REFERENCE            item_type_plunder
+LANG_ENGLISH         "Cash"
+
+REFERENCE            item_type_offhand
+LANG_ENGLISH         "Offhand"
+
+REFERENCE            item_type_lethal
+LANG_ENGLISH         "Lethal"
+
+REFERENCE            item_type_health
+LANG_ENGLISH         "Health"
+
+REFERENCE            item_type_attachment
+LANG_ENGLISH         "Attachment"
+
+REFERENCE            item_type_armor
+LANG_ENGLISH         "Armor"
+
+REFERENCE            item_type_ammo
+LANG_ENGLISH         "Ammo"
+
+REFERENCE            item_take
+LANG_ENGLISH         "Take"
+
+REFERENCE            gestures
+LANG_ENGLISH         "Gestures"
+
+REFERENCE            final_reward
+LANG_ENGLISH         "Final Reward"
+
+REFERENCE            field_upgrade
+LANG_ENGLISH         "Field Upgrade"
+
+REFERENCE            feature
+LANG_ENGLISH         "Feature"
+
+REFERENCE            equipment
+LANG_ENGLISH         "Lethal/Tactical Equipment"
+
+REFERENCE            emblem
+LANG_ENGLISH         "Emblem"
+
+REFERENCE            cp
+LANG_ENGLISH         "CP"
+
+REFERENCE            consumable
+LANG_ENGLISH         "Consumable"
+
+REFERENCE            cod_points_bp
+LANG_ENGLISH         "100 COD Points"
+
+REFERENCE            cod_points
+LANG_ENGLISH         "Cod Points"
+
+REFERENCE            charm
+LANG_ENGLISH         "Charm"
+
+REFERENCE            camo
+LANG_ENGLISH         "Camo"
+
+REFERENCE            calling_card
+LANG_ENGLISH         "Calling Card"
+
+REFERENCE            battle_pass
+LANG_ENGLISH         "Battle Pass"
+
+REFERENCE            attachment
+LANG_ENGLISH         "Attachment"
+
+REFERENCE            vehicle_skin
+LANG_ENGLISH         "Vehicle Skin"
+
+REFERENCE            swap_weapon
+LANG_ENGLISH         "Swap Weapon"
+
+REFERENCE            swap_tactical
+LANG_ENGLISH         "Swap Tactical"
+
+REFERENCE            attachment
+LANG_ENGLISH         "Attachment"
+
+REFERENCE            battle_pass
+LANG_ENGLISH         "Battle Pass"
+
+REFERENCE            calling_card
+LANG_ENGLISH         "Calling Card"
+
+REFERENCE            camo
+LANG_ENGLISH         "Camo"
+
+REFERENCE            charm
+LANG_ENGLISH         "Charm"
+
+REFERENCE            cod_points
+LANG_ENGLISH         "Cod Points"
+
+REFERENCE            cod_points_bp
+LANG_ENGLISH         "100 COD Points"
+
+REFERENCE            consumable
+LANG_ENGLISH         "Consumable"
+
+REFERENCE            cp
+LANG_ENGLISH         "CP"
+
+REFERENCE            emblem
+LANG_ENGLISH         "Emblem"
+
+REFERENCE            equipment
+LANG_ENGLISH         "Lethal/Tactical Equipment"
+
+REFERENCE            feature
+LANG_ENGLISH         "Feature"
+
+REFERENCE            field_upgrade
+LANG_ENGLISH         "Field Upgrade"
+
+REFERENCE            final_reward
+LANG_ENGLISH         "Final Reward"
+
+REFERENCE            gestures
+LANG_ENGLISH         "Gestures"
+
+REFERENCE            item_take
+LANG_ENGLISH         "Take"
+
+REFERENCE            item_type_ammo
+LANG_ENGLISH         "Ammo"
+
+REFERENCE            item_type_armor
+LANG_ENGLISH         "Armor"
+
+REFERENCE            item_type_attachment
+LANG_ENGLISH         "Attachment"
+
+REFERENCE            item_type_health
+LANG_ENGLISH         "Health"
+
+REFERENCE            item_type_lethal
+LANG_ENGLISH         "Lethal"
+
+REFERENCE            item_type_offhand
+LANG_ENGLISH         "Offhand"
+
+REFERENCE            item_type_plunder
+LANG_ENGLISH         "Cash"
+
+REFERENCE            item_type_tactical
+LANG_ENGLISH         "Tactical"
+
+REFERENCE            item_type_weapon
+LANG_ENGLISH         "Weapon"
+
+REFERENCE            loot
+LANG_ENGLISH         "Loot"
+
+REFERENCE            mission
+LANG_ENGLISH         "Mission"
+
+REFERENCE            operator
+LANG_ENGLISH         "Operator"
+
+REFERENCE            operator_execution
+LANG_ENGLISH         "Finishing Move"
+
+REFERENCE            operator_intro
+LANG_ENGLISH         "Operator Intro"
+
+REFERENCE            operator_name_execution
+LANG_ENGLISH         "&&1 Finishing Move"
+
+REFERENCE            operator_name_quip
+LANG_ENGLISH         "&&1 Quip"
+
+REFERENCE            operator_name_skin
+LANG_ENGLISH         "&&1 Skin"
+
+REFERENCE            operator_quip
+LANG_ENGLISH         "Operator Quip"
+
+REFERENCE            operator_skin
+LANG_ENGLISH         "Operator Skin"
+
+REFERENCE            operator_taunt
+LANG_ENGLISH         "Operator Taunt"
+
+REFERENCE            perk
+LANG_ENGLISH         "Perk"
+
+REFERENCE            placeholder_desc
+LANG_ENGLISH         "This is an example description of the loot item type."
+
+REFERENCE            player_xp
+LANG_ENGLISH         "Player XP"
+
+REFERENCE            quality_0
+LANG_ENGLISH         "Base"
+
+REFERENCE            quality_1
+LANG_ENGLISH         "Common"
+
+REFERENCE            quality_2
+LANG_ENGLISH         "Rare"
+
+REFERENCE            quality_3
+LANG_ENGLISH         "Epic"
+
+REFERENCE            quality_4
+LANG_ENGLISH         "Legendary"
+
+REFERENCE            quality_player
+LANG_ENGLISH         "Player"
+
+REFERENCE            quality_uncommon
+LANG_ENGLISH         "Uncommon"
+
+REFERENCE            reticle
+LANG_ENGLISH         "Reticle"
+
+REFERENCE            role
+LANG_ENGLISH         "Co-Op Role"
+
+REFERENCE            sprays
+LANG_ENGLISH         "Spray"
+
+REFERENCE            sticker
+LANG_ENGLISH         "Sticker"
+
+REFERENCE            streak
+LANG_ENGLISH         "Killstreak"
+
+REFERENCE            swap_healing
+LANG_ENGLISH         "Swap Healing"
+
+REFERENCE            swap_lethal
+LANG_ENGLISH         "Swap Lethal"
+
+REFERENCE            swap_tactical
+LANG_ENGLISH         "Swap Tactical"
+
+REFERENCE            swap_weapon
+LANG_ENGLISH         "Swap Weapon"
+
+REFERENCE            vehicle_skin
+LANG_ENGLISH         "Vehicle Skin"
+
+REFERENCE            watch
+LANG_ENGLISH         "Watch"
+
+REFERENCE            weapon_blueprint
+LANG_ENGLISH         "Weapon Blueprint"
+
+REFERENCE            xp
+LANG_ENGLISH         "XP"
+
+REFERENCE            streak
+LANG_ENGLISH         "Killstreak"
+
+REFERENCE            swap_healing
+LANG_ENGLISH         "Swap Healing"
+
+REFERENCE            swap_lethal
+LANG_ENGLISH         "Swap Lethal"
+
+
+ENDMARKER

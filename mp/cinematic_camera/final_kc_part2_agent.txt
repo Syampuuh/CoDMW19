@@ -1,0 +1,24 @@
+//==========================================================================
+// Killcam_agent
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+////////////////////////////////////////////
+// CUTS
+
+// 1. hold over the shoulder until killcam ends
+<cut>
+<movement> fixed
+<orientation> attached
+<tag> j_neck
+<tag_range> 45
+<tag_pitch> 15
+<tag_yaw> 25
+<time> 0
+<lerp> 0.35
+
+// END CUTS
+////////////////////////////////////////////

@@ -1,0 +1,24 @@
+gametype = assault
+commonOption.allowKillstreaks = 1
+commonOption.allowPerks = 1
+commonOption.allowSupers = 1
+commonOption.forceRespawn = 1
+commonOption.showKillcam = 1
+commonOption.healthRegen = 5.000000
+commonOption.maxHealth = 100.000000
+commonOption.timeLimit = 2.000000
+commonOption.numLives = 1
+commonOption.scoreLimit = 4
+commonOption.spectateModeAllowed = 1
+commonOption.codcasterEnabled = 1
+commonOption.ffPunishLimit = 2
+commonOption.spectate3rdAllowed = 1
+commonOption.teamAssignmentAllowed = 1
+
+assaultData.bombTimer = 45
+assaultData.roundSwitch = 1
+assaultData.defuseTime = 5.00000
+assaultData.plantTime = 5.00000
+assaultData.roundLength = 2.00000
+assaultData.multiBomb = 0
+assaultData.bombResetTimer = 30.00000

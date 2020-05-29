@@ -1,0 +1,145 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            access_denied_for_game_type
+LANG_ENGLISH         "You do not have access to this content."
+
+REFERENCE            already_in_game_or_party
+LANG_ENGLISH         "This user is already in your game or party"
+
+REFERENCE            cant_invite_closed_party
+LANG_ENGLISH         "You can't invite because your party privacy is closed."
+
+REFERENCE            cant_invite_join_not_member_of_regiment
+LANG_ENGLISH         "This user is not a member of the regiment"
+
+REFERENCE            cant_invite_join_regiment_not_active
+LANG_ENGLISH         "Regiment not active"
+
+REFERENCE            cant_invite_join_user_in_block_list
+LANG_ENGLISH         "This user is in your blocklist"
+
+REFERENCE            cant_invite_no_online_services
+LANG_ENGLISH         "Online services not available to invite users"
+
+REFERENCE            cant_invite_no_presence
+LANG_ENGLISH         "This user is not playing Call of Duty??: Modern Warfare??."
+
+REFERENCE            cant_invite_not_member_of_regiment
+LANG_ENGLISH         "This user is not a member of the regiment"
+
+REFERENCE            cant_invite_platform_permissions
+LANG_ENGLISH         "This user has blocked invites"
+
+REFERENCE            cant_invite_regiment_not_active
+LANG_ENGLISH         "Regiment not active"
+
+REFERENCE            cant_invite_uninvitable_area
+LANG_ENGLISH         "You cannot invite users to this game mode"
+
+REFERENCE            cant_join_no_online_services
+LANG_ENGLISH         "Online services not available to join users
+"
+
+REFERENCE            cant_join_you_are_blocked
+LANG_ENGLISH         "Join failed because this user has blocked you"
+
+REFERENCE            crossplay_party_join_failed_host_has_no_permissions
+LANG_ENGLISH         "You are trying to join a cross play party, but the host does not have permissions to cross play."
+
+REFERENCE            crossplay_party_join_failed_no_permissions
+LANG_ENGLISH         "You are trying to join a cross play party, but you don't have permissions to cross play. "
+
+REFERENCE            exit_party_crossplay_disabled
+LANG_ENGLISH         "You have left the crossplay party due to disabling your crossplay setting."
+
+REFERENCE            external_account_change
+LANG_ENGLISH         "You have been disconnected because your Call of Duty?? account information has changed.  This is most likely because of an update on the Call of Duty?? website.  If you believe this to be in error please visit www.callofduty.com."
+
+REFERENCE            external_unlink
+LANG_ENGLISH         "You have been disconnected because your Call of Duty?? account has been unlinked.  This is most likely because of an update on the Call of Duty?? website.  If you believe this to be in error please visit www.callofduty.com."
+
+REFERENCE            f2p_users_not_permitted
+LANG_ENGLISH         "This content is only available in the full game."
+
+REFERENCE            favorite_friend_add_fail_no_xuid
+LANG_ENGLISH         "This user does not have enough information to be added as favorite"
+
+REFERENCE            favorite_friend_does_not_exist
+LANG_ENGLISH         "This player has not been added to the list of favorites"
+
+REFERENCE            favorite_friend_exists
+LANG_ENGLISH         "This player has already been added to the list of favorites"
+
+REFERENCE            favorite_friend_list_full
+LANG_ENGLISH         "Your favorite friend list is full"
+
+REFERENCE            favorite_friend_not_initialized
+LANG_ENGLISH         "System initializing"
+
+REFERENCE            favorite_friend_not_linked
+LANG_ENGLISH         "Refreshing user"
+
+REFERENCE            favorite_friend_remove_fail_no_xuid
+LANG_ENGLISH         "Invalid user"
+
+REFERENCE            invalid_friend_index
+LANG_ENGLISH         "This user is not found in your platform friend's list"
+
+REFERENCE            invite_disabled_user_is_f2p
+LANG_ENGLISH         "This is a free to play user and cannot access this content"
+
+REFERENCE            invite_privilege_missing_warning
+LANG_ENGLISH         "You do not have permissions to play with users on other platforms. Please go to the Xbox Live User Settings and enable "You can play with people outside of Xbox Live".  After that come back here and press the "Try Again" button"
+
+REFERENCE            invite_spam_backoff
+LANG_ENGLISH         "Wait a few seconds before inviting this user"
+
+REFERENCE            join_disabled_user_in_f2p_restricted_area
+LANG_ENGLISH         "This user is in an area that restricts free to play users"
+
+REFERENCE            join_failed_not_in_inviters_tournament_team
+LANG_ENGLISH         "Unable to join because you are not in the user's tournament team"
+
+REFERENCE            join_session_closed
+LANG_ENGLISH         "This player's game or party session is closed and cannot be joined."
+
+REFERENCE            local_live_party_member
+LANG_ENGLISH         "This party member is a local user"
+
+REFERENCE            local_user_crossplay_permissions_missing
+LANG_ENGLISH         "You dont have permissions to play crossplay"
+
+REFERENCE            login_queue_closed
+LANG_ENGLISH         "Login Servers are currently undergoing maintenance."
+
+REFERENCE            not_in_live_party
+LANG_ENGLISH         "This user is not present in the live party"
+
+REFERENCE            online_services_error
+LANG_ENGLISH         "Unable to access online services."
+
+REFERENCE            playlist_invite_disabled
+LANG_ENGLISH         "One or more of the game modes you are searching for does not allow inviting players"
+
+REFERENCE            playlist_join_disabled
+LANG_ENGLISH         "This user is searching for one or more game modes that does not allow players to join"
+
+REFERENCE            remote_user_crossplay_permissions_missing
+LANG_ENGLISH         "This user has opted out of crossplay"
+
+REFERENCE            splitscreen_not_supported_in_current_gamemode
+LANG_ENGLISH         "You are trying to join a game mode that does not support splitscreen, and you have a splitscreen user active in your party"
+
+REFERENCE            unable_to_play_tournament
+LANG_ENGLISH         "You can't play in a tournament right now."
+
+REFERENCE            user_in_hosts_blocklist
+LANG_ENGLISH         "Join failed because you are in the host's blocklist"
+
+REFERENCE            user_is_local
+LANG_ENGLISH         "This user is local"
+
+
+ENDMARKER

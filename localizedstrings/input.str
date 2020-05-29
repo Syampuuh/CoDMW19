@@ -1,0 +1,78 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            kb_alt1_button
+LANG_ENGLISH         "[{menu_action1}]"
+
+REFERENCE            kb_alt2_button
+LANG_ENGLISH         "[{menu_action2}]"
+
+REFERENCE            kb_back_button
+LANG_ENGLISH         "[{menu_action6}]"
+
+REFERENCE            kb_del_button
+LANG_ENGLISH         "^< DEL ^>"
+
+REFERENCE            kb_dpad_down_button
+LANG_ENGLISH         "[{menu_nav_down}]"
+
+REFERENCE            kb_dpad_left_button
+LANG_ENGLISH         "[{menu_nav_left}]"
+
+REFERENCE            kb_dpad_right_button
+LANG_ENGLISH         "[{menu_nav_right}]"
+
+REFERENCE            kb_dpad_up_button
+LANG_ENGLISH         "[{menu_nav_up}]"
+
+REFERENCE            kb_home_button
+LANG_ENGLISH         "^< HOME ^>"
+
+REFERENCE            kb_ins_button
+LANG_ENGLISH         "^< INS ^>"
+
+REFERENCE            kb_l3_button
+LANG_ENGLISH         "[{menu_action5}]"
+
+REFERENCE            kb_left_shoulder_button
+LANG_ENGLISH         "[{menu_previous_tab}]"
+
+REFERENCE            kb_left_stick
+LANG_ENGLISH         "[{menu_nav_up}][{menu_nav_down}][{menu_nav_left}][{menu_nav_right}]"
+
+REFERENCE            kb_left_trigger_button
+LANG_ENGLISH         "[{menu_action3}]"
+
+REFERENCE            kb_page_down_button
+LANG_ENGLISH         "^< PGDN ^>"
+
+REFERENCE            kb_page_up_button
+LANG_ENGLISH         "^< PGUP ^>"
+
+REFERENCE            kb_primary_button
+LANG_ENGLISH         "[{menu_confirm}]"
+
+REFERENCE            kb_r3_button
+LANG_ENGLISH         "[{menu_action8}]"
+
+REFERENCE            kb_right_shoulder_button
+LANG_ENGLISH         "[{menu_next_tab}]"
+
+REFERENCE            kb_right_stick
+LANG_ENGLISH         "??"
+
+REFERENCE            kb_right_trigger_button
+LANG_ENGLISH         "[{menu_action4}]"
+
+REFERENCE            kb_secondary_button
+LANG_ENGLISH         "[{menu_back}]"
+
+REFERENCE            kb_start_button
+LANG_ENGLISH         "[{menu_action7}]"
+
+REFERENCE            mwheel_up_down
+LANG_ENGLISH         "??"
+
+
+ENDMARKER

@@ -1,0 +1,3373 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            acog_attachment
+LANG_ENGLISH         "Scout"
+
+REFERENCE            acog_attachment_br
+LANG_ENGLISH         "ACOG"
+
+REFERENCE            adrenaline_mist
+LANG_ENGLISH         "Adrenaline Mist"
+
+REFERENCE            advanced_attachment
+LANG_ENGLISH         "Advanced"
+
+REFERENCE            air_support_strobe
+LANG_ENGLISH         "Air Support Marker"
+
+REFERENCE            airburst_hint
+LANG_ENGLISH         "Click &&1 to mark distance"
+
+REFERENCE            airdrop_juggernaut_marker
+LANG_ENGLISH         "Juggernaut Airdrop Marker"
+
+REFERENCE            airdrop_juggernaut_recon_marker
+LANG_ENGLISH         "Juggernaut Recon Airdrop Marker"
+
+REFERENCE            airdrop_maniac_marker
+LANG_ENGLISH         "Maniac Airdrop Marker"
+
+REFERENCE            airdrop_marker
+LANG_ENGLISH         "Care Package Marker"
+
+REFERENCE            airdrop_mega_marker
+LANG_ENGLISH         "Emergency Airdrop Marker"
+
+REFERENCE            airdrop_sentry_marker
+LANG_ENGLISH         "Sentry Airdrop Marker"
+
+REFERENCE            airdrop_tank_marker
+LANG_ENGLISH         "Assault Drone Airdrop Marker"
+
+REFERENCE            ak47
+LANG_ENGLISH         "AK-47"
+
+REFERENCE            ake
+LANG_ENGLISH         "Volk"
+
+REFERENCE            ake_gold
+LANG_ENGLISH         "Volk Gold"
+
+REFERENCE            akimbo_attachment
+LANG_ENGLISH         "Akimbo"
+
+REFERENCE            akimbo_blades
+LANG_ENGLISH         "Akimbo Blades"
+
+REFERENCE            akimbo_blunt
+LANG_ENGLISH         "Akimbo Batons"
+
+REFERENCE            alien_drill
+LANG_ENGLISH         "Laser Drill"
+
+REFERENCE            aliendeployable_vest_marker
+LANG_ENGLISH         "Deployable Supplies"
+
+REFERENCE            ameli
+LANG_ENGLISH         "Ameli"
+
+REFERENCE            ammo_10_mm
+LANG_ENGLISH         "10mm Auto"
+
+REFERENCE            ammo_12_7_x_108_mm
+LANG_ENGLISH         "12.7??108mm"
+
+REFERENCE            ammo_12_7_x_55_mm
+LANG_ENGLISH         "12.7??55mm"
+
+REFERENCE            ammo_12_gauge
+LANG_ENGLISH         "12 Gauge"
+
+REFERENCE            ammo_300_subsonic
+LANG_ENGLISH         ".300 Blackout"
+
+REFERENCE            ammo_338
+LANG_ENGLISH         ".338 Lapua Magnum"
+
+REFERENCE            ammo_357_pist
+LANG_ENGLISH         ".357 Magnum"
+
+REFERENCE            ammo_38_snakeshot
+LANG_ENGLISH         ".38 Snakeshot"
+
+REFERENCE            ammo_40_mm_conc
+LANG_ENGLISH         "40mm Concussive Grenade"
+
+REFERENCE            ammo_40_mm_flash
+LANG_ENGLISH         "40mm Flash Grenade"
+
+REFERENCE            ammo_40_mm_gas
+LANG_ENGLISH         "40mm Gas Grenade"
+
+REFERENCE            ammo_40_mm_incendiary
+LANG_ENGLISH         "40mm Incendiary Grenade"
+
+REFERENCE            ammo_40_mm_semtex
+LANG_ENGLISH         "40mm Semtex Grenade"
+
+REFERENCE            ammo_40_mm_smoke
+LANG_ENGLISH         "40mm Smoke Grenade"
+
+REFERENCE            ammo_40_mm_snapshot
+LANG_ENGLISH         "40mm Snapshot Grenade"
+
+REFERENCE            ammo_40_x_46_mm_sr
+LANG_ENGLISH         "40??46mm SR Grenade"
+
+REFERENCE            ammo_41_sub
+LANG_ENGLISH         ".41 AE"
+
+REFERENCE            ammo_458
+LANG_ENGLISH         ".458 SOCOM"
+
+REFERENCE            ammo_45_70_gvt
+LANG_ENGLISH         ".45-70 Government"
+
+REFERENCE            ammo_45_hollow
+LANG_ENGLISH         ".45 ACP Hollow Point"
+
+REFERENCE            ammo_45_pist
+LANG_ENGLISH         ".45 ACP"
+
+REFERENCE            ammo_4_6_x_30_mm
+LANG_ENGLISH         "4.6??30mm"
+
+REFERENCE            ammo_50_pist
+LANG_ENGLISH         ".50 pistol"
+
+REFERENCE            ammo_50_snpr
+LANG_ENGLISH         ".50 BMG"
+
+REFERENCE            ammo_5_45_x_39_mm
+LANG_ENGLISH         "5.45??39mm"
+
+REFERENCE            ammo_5_56_nato
+LANG_ENGLISH         "5.56 NATO"
+
+REFERENCE            ammo_5_7_x_28_mm
+LANG_ENGLISH         "5.7??28mm"
+
+REFERENCE            ammo_7_62_m67
+LANG_ENGLISH         "7.62 M67"
+
+REFERENCE            ammo_7_62_nato
+LANG_ENGLISH         "7.62 NATO"
+
+REFERENCE            ammo_7_62_soviet
+LANG_ENGLISH         "7.62 Soviet"
+
+REFERENCE            ammo_7_62_x_54_dmb
+LANG_ENGLISH         "7.62??54mm HEI"
+
+REFERENCE            ammo_7_62_x_54_mm
+LANG_ENGLISH         "7.62??54mmR"
+
+REFERENCE            ammo_7_92_mm
+LANG_ENGLISH         "7.92 Mauser"
+
+REFERENCE            ammo_9_mm_mak
+LANG_ENGLISH         "9mm Makarov"
+
+REFERENCE            ammo_9_mm_para
+LANG_ENGLISH         "9mm Parabellum"
+
+REFERENCE            ammo_bolt
+LANG_ENGLISH         "20.0" Bolt"
+
+REFERENCE            ammo_bolt_carbon
+LANG_ENGLISH         "Carbon Tipped Bolt"
+
+REFERENCE            ammo_bolt_explo
+LANG_ENGLISH         "Explosive Bolt"
+
+REFERENCE            ammo_bolt_fire
+LANG_ENGLISH         "Thermite Bolt"
+
+REFERENCE            ammo_bolt_stun
+LANG_ENGLISH         "Tear Gas Bolt"
+
+REFERENCE            ammo_box
+LANG_ENGLISH         "Ammo Crate"
+
+REFERENCE            ammo_db
+LANG_ENGLISH         "Dragon's Breath"
+
+REFERENCE            ammo_gromeo
+LANG_ENGLISH         "9M342"
+
+REFERENCE            ammo_juliet
+LANG_ENGLISH         "FGM-148F"
+
+REFERENCE            ammo_kgolf
+LANG_ENGLISH         "FFV441"
+
+REFERENCE            ammo_mike32
+LANG_ENGLISH         "M406 High-Explosive"
+
+REFERENCE            ammo_null
+LANG_ENGLISH         ""
+
+REFERENCE            ammo_rpapa7
+LANG_ENGLISH         "OG-7V"
+
+REFERENCE            ammo_slug_attachment
+LANG_ENGLISH         "Slug"
+
+REFERENCE            ammo_slugs
+LANG_ENGLISH         "12 Gauge Slugs"
+
+REFERENCE            ammo_slugs_dmb
+LANG_ENGLISH         "12 Gauge HE"
+
+REFERENCE            ammo_vog25
+LANG_ENGLISH         "VOG-25 Grenade"
+
+REFERENCE            ar57
+LANG_ENGLISH         "KBAR-32"
+
+REFERENCE            ar57noairmagboots
+LANG_ENGLISH         "AR-57"
+
+REFERENCE            ar_akilo12
+LANG_ENGLISH         "AK-12"
+
+REFERENCE            ar_akilo47
+LANG_ENGLISH         "AK-47"
+
+REFERENCE            ar_akilo47_v10
+LANG_ENGLISH         "Golden Dragon"
+
+REFERENCE            ar_akilo47_v11
+LANG_ENGLISH         "Dusk Ripper"
+
+REFERENCE            ar_akilo47_v12
+LANG_ENGLISH         "Black Bear"
+
+REFERENCE            ar_akilo47_v13
+LANG_ENGLISH         "The Noble"
+
+REFERENCE            ar_akilo47_v14
+LANG_ENGLISH         "Upper Hand"
+
+REFERENCE            ar_akilo47_v15
+LANG_ENGLISH         "AR_AKILO47_V15"
+
+REFERENCE            ar_akilo47_v16
+LANG_ENGLISH         "Trophy Mount"
+
+REFERENCE            ar_akilo47_v17
+LANG_ENGLISH         "War Saw"
+
+REFERENCE            ar_akilo47_v18
+LANG_ENGLISH         "AR_AKILO47_V18"
+
+REFERENCE            ar_akilo47_v19
+LANG_ENGLISH         "AR_AKILO47_V19"
+
+REFERENCE            ar_akilo47_v2
+LANG_ENGLISH         "Revolution"
+
+REFERENCE            ar_akilo47_v20
+LANG_ENGLISH         "AR_AKILO47_V20"
+
+REFERENCE            ar_akilo47_v3
+LANG_ENGLISH         "Pink Perforator"
+
+REFERENCE            ar_akilo47_v4
+LANG_ENGLISH         "Steel Curtain"
+
+REFERENCE            ar_akilo47_v5
+LANG_ENGLISH         "Wendigo"
+
+REFERENCE            ar_akilo47_v6
+LANG_ENGLISH         "Freedom Fighter"
+
+REFERENCE            ar_akilo47_v7
+LANG_ENGLISH         "RPK"
+
+REFERENCE            ar_akilo47_v8
+LANG_ENGLISH         "Sand Sweeper"
+
+REFERENCE            ar_akilo47_v9
+LANG_ENGLISH         "Duly Devoted"
+
+REFERENCE            ar_asierra12
+LANG_ENGLISH         "Oden"
+
+REFERENCE            ar_asierra12_v10
+LANG_ENGLISH         "Krampus"
+
+REFERENCE            ar_asierra12_v11
+LANG_ENGLISH         "Devourer"
+
+REFERENCE            ar_asierra12_v12
+LANG_ENGLISH         "Deep Pockets"
+
+REFERENCE            ar_asierra12_v13
+LANG_ENGLISH         "AR_ASIERRA12_V13"
+
+REFERENCE            ar_asierra12_v14
+LANG_ENGLISH         "AR_ASIERRA12_V14"
+
+REFERENCE            ar_asierra12_v15
+LANG_ENGLISH         "Half Dying"
+
+REFERENCE            ar_asierra12_v16
+LANG_ENGLISH         "AR_ASIERRA12_V16"
+
+REFERENCE            ar_asierra12_v2
+LANG_ENGLISH         "Carbon Bear"
+
+REFERENCE            ar_asierra12_v3
+LANG_ENGLISH         "The Liar"
+
+REFERENCE            ar_asierra12_v4
+LANG_ENGLISH         "Dream Killer"
+
+REFERENCE            ar_asierra12_v5
+LANG_ENGLISH         "Bronze Dragon"
+
+REFERENCE            ar_asierra12_v6
+LANG_ENGLISH         "Blue Bayou"
+
+REFERENCE            ar_asierra12_v7
+LANG_ENGLISH         "Black Asp"
+
+REFERENCE            ar_asierra12_v8
+LANG_ENGLISH         "Serpent Shot"
+
+REFERENCE            ar_asierra12_v9
+LANG_ENGLISH         "Ground Splitter"
+
+REFERENCE            ar_falima
+LANG_ENGLISH         "FAL"
+
+REFERENCE            ar_falima_v10
+LANG_ENGLISH         "Refractor"
+
+REFERENCE            ar_falima_v11
+LANG_ENGLISH         "Acid Spit"
+
+REFERENCE            ar_falima_v12
+LANG_ENGLISH         "Dirty Work"
+
+REFERENCE            ar_falima_v13
+LANG_ENGLISH         "AR_FALIMA_V13"
+
+REFERENCE            ar_falima_v14
+LANG_ENGLISH         "AR_FALIMA_V14"
+
+REFERENCE            ar_falima_v15
+LANG_ENGLISH         "AR_FALIMA_V15"
+
+REFERENCE            ar_falima_v16
+LANG_ENGLISH         "AR_FALIMA_V16"
+
+REFERENCE            ar_falima_v2
+LANG_ENGLISH         "Smooth Dominator"
+
+REFERENCE            ar_falima_v3
+LANG_ENGLISH         "Forest Shadows"
+
+REFERENCE            ar_falima_v4
+LANG_ENGLISH         "The Aristocrat"
+
+REFERENCE            ar_falima_v5
+LANG_ENGLISH         "Retro Grade"
+
+REFERENCE            ar_falima_v6
+LANG_ENGLISH         "Stormcloud"
+
+REFERENCE            ar_falima_v7
+LANG_ENGLISH         "Khemical"
+
+REFERENCE            ar_falima_v8
+LANG_ENGLISH         "Skull Shot"
+
+REFERENCE            ar_falima_v9
+LANG_ENGLISH         "Beefeater"
+
+REFERENCE            ar_falpha
+LANG_ENGLISH         "FR 5.56"
+
+REFERENCE            ar_falpha_v10
+LANG_ENGLISH         "Jerboa"
+
+REFERENCE            ar_falpha_v11
+LANG_ENGLISH         "Insurgency"
+
+REFERENCE            ar_falpha_v12
+LANG_ENGLISH         "AR_FALPHA_V12"
+
+REFERENCE            ar_falpha_v2
+LANG_ENGLISH         "Anomaly"
+
+REFERENCE            ar_falpha_v3
+LANG_ENGLISH         "Desert Rat"
+
+REFERENCE            ar_falpha_v4
+LANG_ENGLISH         "Fractured Forces"
+
+REFERENCE            ar_falpha_v5
+LANG_ENGLISH         "Bubble Burster"
+
+REFERENCE            ar_falpha_v6
+LANG_ENGLISH         "Patchwork"
+
+REFERENCE            ar_falpha_v7
+LANG_ENGLISH         "Code Breaker"
+
+REFERENCE            ar_falpha_v8
+LANG_ENGLISH         "The Artisan"
+
+REFERENCE            ar_falpha_v9
+LANG_ENGLISH         "Heed These Words"
+
+REFERENCE            ar_galima
+LANG_ENGLISH         "AR_GALIMA"
+
+REFERENCE            ar_galima_v2
+LANG_ENGLISH         "AR_GALIMA_V2"
+
+REFERENCE            ar_galima_v3
+LANG_ENGLISH         "AR_GALIMA_V3"
+
+REFERENCE            ar_galima_v4
+LANG_ENGLISH         "AR_GALIMA_V4"
+
+REFERENCE            ar_galima_v5
+LANG_ENGLISH         "AR_GALIMA_V5"
+
+REFERENCE            ar_kilo433
+LANG_ENGLISH         "Kilo 141"
+
+REFERENCE            ar_kilo433_v10
+LANG_ENGLISH         "Battle Tested"
+
+REFERENCE            ar_kilo433_v11
+LANG_ENGLISH         "Fieldguide"
+
+REFERENCE            ar_kilo433_v12
+LANG_ENGLISH         "Grand Marshal"
+
+REFERENCE            ar_kilo433_v13
+LANG_ENGLISH         "Web Weaver"
+
+REFERENCE            ar_kilo433_v14
+LANG_ENGLISH         "Striking Tiger"
+
+REFERENCE            ar_kilo433_v15
+LANG_ENGLISH         "Ghostly Premonitions"
+
+REFERENCE            ar_kilo433_v16
+LANG_ENGLISH         "Dying Light"
+
+REFERENCE            ar_kilo433_v17
+LANG_ENGLISH         "Grub"
+
+REFERENCE            ar_kilo433_v18
+LANG_ENGLISH         "Gir"
+
+REFERENCE            ar_kilo433_v19
+LANG_ENGLISH         "Cupronickel"
+
+REFERENCE            ar_kilo433_v2
+LANG_ENGLISH         "Union Black"
+
+REFERENCE            ar_kilo433_v20
+LANG_ENGLISH         "Silent Stalker"
+
+REFERENCE            ar_kilo433_v3
+LANG_ENGLISH         "Regal Retribution"
+
+REFERENCE            ar_kilo433_v4
+LANG_ENGLISH         "Fatal Freeze"
+
+REFERENCE            ar_kilo433_v5
+LANG_ENGLISH         "Brass Tacks"
+
+REFERENCE            ar_kilo433_v6
+LANG_ENGLISH         "Kilobite"
+
+REFERENCE            ar_kilo433_v7
+LANG_ENGLISH         "Berliner"
+
+REFERENCE            ar_kilo433_v8
+LANG_ENGLISH         "Ursa Major"
+
+REFERENCE            ar_kilo433_v9
+LANG_ENGLISH         "Cerulean"
+
+REFERENCE            ar_mcharlie
+LANG_ENGLISH         "M13"
+
+REFERENCE            ar_mcharlie_v10
+LANG_ENGLISH         "Jubilee"
+
+REFERENCE            ar_mcharlie_v11
+LANG_ENGLISH         "Cagefighter"
+
+REFERENCE            ar_mcharlie_v12
+LANG_ENGLISH         "Forgotten Oasis"
+
+REFERENCE            ar_mcharlie_v13
+LANG_ENGLISH         "Gold Flakes"
+
+REFERENCE            ar_mcharlie_v14
+LANG_ENGLISH         "Sheet Lightning"
+
+REFERENCE            ar_mcharlie_v15
+LANG_ENGLISH         "AR_MCHARLIE_V15"
+
+REFERENCE            ar_mcharlie_v16
+LANG_ENGLISH         "AR_MCHARLIE_V16"
+
+REFERENCE            ar_mcharlie_v2
+LANG_ENGLISH         "Short Stuff"
+
+REFERENCE            ar_mcharlie_v3
+LANG_ENGLISH         "Sandblaster"
+
+REFERENCE            ar_mcharlie_v4
+LANG_ENGLISH         "Radioactive"
+
+REFERENCE            ar_mcharlie_v5
+LANG_ENGLISH         "Silver Bullet"
+
+REFERENCE            ar_mcharlie_v6
+LANG_ENGLISH         "Die Cast"
+
+REFERENCE            ar_mcharlie_v7
+LANG_ENGLISH         "The Brave"
+
+REFERENCE            ar_mcharlie_v8
+LANG_ENGLISH         "Cold Forge"
+
+REFERENCE            ar_mcharlie_v9
+LANG_ENGLISH         "Tank"
+
+REFERENCE            ar_mike4
+LANG_ENGLISH         "M4A1"
+
+REFERENCE            ar_mike4_v10
+LANG_ENGLISH         "The Breakup"
+
+REFERENCE            ar_mike4_v11
+LANG_ENGLISH         "The Mind of the Beast"
+
+REFERENCE            ar_mike4_v12
+LANG_ENGLISH         "Jumping Spider"
+
+REFERENCE            ar_mike4_v13
+LANG_ENGLISH         "Florin"
+
+REFERENCE            ar_mike4_v14
+LANG_ENGLISH         "White Noise"
+
+REFERENCE            ar_mike4_v15
+LANG_ENGLISH         "Task Force"
+
+REFERENCE            ar_mike4_v16
+LANG_ENGLISH         "Kingly Splendor"
+
+REFERENCE            ar_mike4_v17
+LANG_ENGLISH         "Nonconformist"
+
+REFERENCE            ar_mike4_v18
+LANG_ENGLISH         "Shadow"
+
+REFERENCE            ar_mike4_v19
+LANG_ENGLISH         "Soulful Wanderer"
+
+REFERENCE            ar_mike4_v2
+LANG_ENGLISH         "Zip Tie"
+
+REFERENCE            ar_mike4_v20
+LANG_ENGLISH         "AR_MIKE4_V20"
+
+REFERENCE            ar_mike4_v21
+LANG_ENGLISH         "AR_MIKE4_V21"
+
+REFERENCE            ar_mike4_v22
+LANG_ENGLISH         "AR_MIKE4_V22"
+
+REFERENCE            ar_mike4_v23
+LANG_ENGLISH         "Monkey Business"
+
+REFERENCE            ar_mike4_v24
+LANG_ENGLISH         "For The Cause"
+
+REFERENCE            ar_mike4_v25
+LANG_ENGLISH         "AR_MIKE4_V25"
+
+REFERENCE            ar_mike4_v26
+LANG_ENGLISH         "AR_MIKE4_V26"
+
+REFERENCE            ar_mike4_v27
+LANG_ENGLISH         "AR_MIKE4_V27"
+
+REFERENCE            ar_mike4_v28
+LANG_ENGLISH         "AR_MIKE4_V28"
+
+REFERENCE            ar_mike4_v29
+LANG_ENGLISH         "AR_MIKE4_V29"
+
+REFERENCE            ar_mike4_v3
+LANG_ENGLISH         "The Purist"
+
+REFERENCE            ar_mike4_v30
+LANG_ENGLISH         "AR_MIKE4_V30"
+
+REFERENCE            ar_mike4_v31
+LANG_ENGLISH         "AR_MIKE4_V31"
+
+REFERENCE            ar_mike4_v32
+LANG_ENGLISH         "AR_MIKE4_V32"
+
+REFERENCE            ar_mike4_v4
+LANG_ENGLISH         "OG"
+
+REFERENCE            ar_mike4_v5
+LANG_ENGLISH         "Calibrutal"
+
+REFERENCE            ar_mike4_v6
+LANG_ENGLISH         "Short Stop"
+
+REFERENCE            ar_mike4_v7
+LANG_ENGLISH         "XRK M4"
+
+REFERENCE            ar_mike4_v8
+LANG_ENGLISH         "Oscar Mike"
+
+REFERENCE            ar_mike4_v9
+LANG_ENGLISH         "Polytope"
+
+REFERENCE            ar_scharlie
+LANG_ENGLISH         "FN Scar 17"
+
+REFERENCE            ar_scharlie_v10
+LANG_ENGLISH         "Acid Bath"
+
+REFERENCE            ar_scharlie_v11
+LANG_ENGLISH         "Eagle's Talon"
+
+REFERENCE            ar_scharlie_v12
+LANG_ENGLISH         "Cerise"
+
+REFERENCE            ar_scharlie_v13
+LANG_ENGLISH         "Mack Daddy"
+
+REFERENCE            ar_scharlie_v14
+LANG_ENGLISH         "AR_SCHARLIE_V14"
+
+REFERENCE            ar_scharlie_v15
+LANG_ENGLISH         "Death Mask"
+
+REFERENCE            ar_scharlie_v16
+LANG_ENGLISH         "New text"
+
+REFERENCE            ar_scharlie_v2
+LANG_ENGLISH         "The Traitor"
+
+REFERENCE            ar_scharlie_v3
+LANG_ENGLISH         "Fugitive"
+
+REFERENCE            ar_scharlie_v4
+LANG_ENGLISH         "Jack Frosty"
+
+REFERENCE            ar_scharlie_v5
+LANG_ENGLISH         "Snow Owl"
+
+REFERENCE            ar_scharlie_v6
+LANG_ENGLISH         "Tiger's Eye"
+
+REFERENCE            ar_scharlie_v7
+LANG_ENGLISH         "Sludge"
+
+REFERENCE            ar_scharlie_v8
+LANG_ENGLISH         "The Red Curtain"
+
+REFERENCE            ar_scharlie_v9
+LANG_ENGLISH         "Widower"
+
+REFERENCE            ar_sierra552
+LANG_ENGLISH         "Grau 5.56"
+
+REFERENCE            ar_sierra552_v10
+LANG_ENGLISH         "AR_SIERRA552_V10"
+
+REFERENCE            ar_sierra552_v11
+LANG_ENGLISH         "AR_SIERRA552_V11"
+
+REFERENCE            ar_sierra552_v12
+LANG_ENGLISH         "AR_SIERRA552_V12"
+
+REFERENCE            ar_sierra552_v13
+LANG_ENGLISH         "AR_SIERRA552_V13"
+
+REFERENCE            ar_sierra552_v14
+LANG_ENGLISH         "AR_SIERRA552_V14"
+
+REFERENCE            ar_sierra552_v15
+LANG_ENGLISH         "AR_SIERRA552_V15"
+
+REFERENCE            ar_sierra552_v16
+LANG_ENGLISH         "AR_SIERRA552_V16"
+
+REFERENCE            ar_sierra552_v2
+LANG_ENGLISH         "AR_SIERRA552_V2"
+
+REFERENCE            ar_sierra552_v3
+LANG_ENGLISH         "Shadowsight"
+
+REFERENCE            ar_sierra552_v4
+LANG_ENGLISH         "Downtown"
+
+REFERENCE            ar_sierra552_v5
+LANG_ENGLISH         "Drawn and Quartered"
+
+REFERENCE            ar_sierra552_v6
+LANG_ENGLISH         "Prototype: Alpha"
+
+REFERENCE            ar_sierra552_v7
+LANG_ENGLISH         "AR_SIERRA552_V7"
+
+REFERENCE            ar_sierra552_v8
+LANG_ENGLISH         "AR_SIERRA552_V8"
+
+REFERENCE            ar_sierra552_v9
+LANG_ENGLISH         "Toasted"
+
+REFERENCE            ar_tango21
+LANG_ENGLISH         "RAM-7"
+
+REFERENCE            ar_tango21_v10
+LANG_ENGLISH         "AR_TANGO21_V10"
+
+REFERENCE            ar_tango21_v11
+LANG_ENGLISH         "AR_TANGO21_V11"
+
+REFERENCE            ar_tango21_v12
+LANG_ENGLISH         "AR_TANGO21_V12"
+
+REFERENCE            ar_tango21_v2
+LANG_ENGLISH         "Ambush"
+
+REFERENCE            ar_tango21_v3
+LANG_ENGLISH         "Sandstorm"
+
+REFERENCE            ar_tango21_v4
+LANG_ENGLISH         "Subterfuge"
+
+REFERENCE            ar_tango21_v5
+LANG_ENGLISH         "Corrupter"
+
+REFERENCE            ar_tango21_v6
+LANG_ENGLISH         "Neurotoxin"
+
+REFERENCE            ar_tango21_v7
+LANG_ENGLISH         "Glitchy Trigger"
+
+REFERENCE            ar_tango21_v8
+LANG_ENGLISH         "Snap Dragon"
+
+REFERENCE            ar_tango21_v9
+LANG_ENGLISH         "AR_TANGO21_V9"
+
+REFERENCE            aracc
+LANG_ENGLISH         "Venom"
+
+REFERENCE            arc_grenade
+LANG_ENGLISH         "Arc Grenade"
+
+REFERENCE            arclassic
+LANG_ENGLISH         "OSA"
+
+REFERENCE            arm2
+LANG_ENGLISH         "ARM-2"
+
+REFERENCE            atomizer
+LANG_ENGLISH         "Eraser"
+
+REFERENCE            axe
+LANG_ENGLISH         "Axe"
+
+REFERENCE            barrel_bored_attachment
+LANG_ENGLISH         "Chrome Lined"
+
+REFERENCE            barrel_bored_energy_attachment
+LANG_ENGLISH         "Magnified"
+
+REFERENCE            barrel_range_attachment
+LANG_ENGLISH         "Rifled"
+
+REFERENCE            barrel_range_energy_attachment
+LANG_ENGLISH         "Amped"
+
+REFERENCE            barrel_range_sonic_attachment
+LANG_ENGLISH         "Amped"
+
+REFERENCE            blackhat
+LANG_ENGLISH         "Blackhat"
+
+REFERENCE            blackholegun
+LANG_ENGLISH         "Gravity Vortex Gun"
+
+REFERENCE            blackout_grenade
+LANG_ENGLISH         "Blackout Grenade"
+
+REFERENCE            bulletstorm_device
+LANG_ENGLISH         "Bulletstorm Shield"
+
+REFERENCE            c4
+LANG_ENGLISH         "C4"
+
+REFERENCE            cache_heavy_weapon_hint
+LANG_ENGLISH         "You cannot refill Heavy Weapons from ammo crates."
+
+REFERENCE            cache_use_controller_hint
+LANG_ENGLISH         "Refill ammo"
+
+REFERENCE            cache_use_hint
+LANG_ENGLISH         "Refill ammo"
+
+REFERENCE            calcust_augolf
+LANG_ENGLISH         "5.56 NATO"
+
+REFERENCE            calcust_mike4
+LANG_ENGLISH         " .458 SOCOM"
+
+REFERENCE            calcust_mpapa5
+LANG_ENGLISH         "10mm"
+
+REFERENCE            calcust_slugs
+LANG_ENGLISH         "12 Gauge Slugs"
+
+REFERENCE            calsmg_akilo47
+LANG_ENGLISH         "5.45x39mm"
+
+REFERENCE            calsmg_mike4
+LANG_ENGLISH         "9mm Parabellum"
+
+REFERENCE            case_bomb
+LANG_ENGLISH         "Case Bomb"
+
+REFERENCE            charge
+LANG_ENGLISH         "Charge"
+
+REFERENCE            chargeshot
+LANG_ENGLISH         "P-LAW"
+
+REFERENCE            cheytac
+LANG_ENGLISH         "Widowmaker"
+
+REFERENCE            cheytac_classic
+LANG_ENGLISH         "TF-141"
+
+REFERENCE            cinderblock
+LANG_ENGLISH         ""
+
+REFERENCE            claw
+LANG_ENGLISH         "Claw"
+
+REFERENCE            claymore_pickup
+LANG_ENGLISH         "^3&&1^7 Pickup Claymore Mines"
+
+REFERENCE            comparison
+LANG_ENGLISH         "Stats compared to &&1"
+
+REFERENCE            concussion_grenade
+LANG_ENGLISH         "Concussion Grenade"
+
+REFERENCE            counterweight
+LANG_ENGLISH         "FHR40 Counterweight"
+
+REFERENCE            counterweight_desc
+LANG_ENGLISH         "Modified FHR40 scanned in Geneva which has built-in reduced recoil. "
+
+REFERENCE            counterweight_feature
+LANG_ENGLISH         "Reduced Recoil"
+
+REFERENCE            cpu
+LANG_ENGLISH         "CPU"
+
+REFERENCE            crb
+LANG_ENGLISH         "Karma-45"
+
+REFERENCE            crdb
+LANG_ENGLISH         "VPR"
+
+REFERENCE            custom_attachment
+LANG_ENGLISH         "&&1 Custom"
+
+REFERENCE            cyberemp
+LANG_ENGLISH         "BOMB"
+
+REFERENCE            defaultweapon
+LANG_ENGLISH         "Default Weapon"
+
+REFERENCE            defibrillator
+LANG_ENGLISH         "Defibrillator"
+
+REFERENCE            deployable_vest_marker
+LANG_ENGLISH         "Ballistic Vest Duffel Bag"
+
+REFERENCE            devastator
+LANG_ENGLISH         "Reaver"
+
+REFERENCE            eclan_attachment
+LANG_ENGLISH         "ECLAN"
+
+REFERENCE            elephantgun
+LANG_ENGLISH         "Elephantgun"
+
+REFERENCE            elo_attachment
+LANG_ENGLISH         "ELO"
+
+REFERENCE            emc
+LANG_ENGLISH         "EMC"
+
+REFERENCE            emp_grenade
+LANG_ENGLISH         "Shock Grenade"
+
+REFERENCE            empty_attachment
+LANG_ENGLISH         ""
+
+REFERENCE            enter_preview_mode
+LANG_ENGLISH         "Play Preview Animation"
+
+REFERENCE            erad
+LANG_ENGLISH         "Erad"
+
+REFERENCE            eradnoairmagboots
+LANG_ENGLISH         "ERAD"
+
+REFERENCE            fastaim_attachment
+LANG_ENGLISH         "Quickdraw"
+
+REFERENCE            feature_atomizer
+LANG_ENGLISH         "Slowly Recharges Ammo"
+
+REFERENCE            feature_chargeshot
+LANG_ENGLISH         "Proximity Detonation"
+
+REFERENCE            feature_crb
+LANG_ENGLISH         "Dual-Loaded Magazines "
+
+REFERENCE            feature_erad
+LANG_ENGLISH         "Side-mounted Shotgun"
+
+REFERENCE            feature_fmg
+LANG_ENGLISH         "Splits into Akimbo SMGs"
+
+REFERENCE            feature_gambit
+LANG_ENGLISH         "Extra Attachment"
+
+REFERENCE            feature_lockon
+LANG_ENGLISH         "Lock-On Guidance"
+
+REFERENCE            feature_m8
+LANG_ENGLISH         "Assault Rifle Alt. Mode"
+
+REFERENCE            feature_nrg
+LANG_ENGLISH         "Full Auto Increasing Fire Rate"
+
+REFERENCE            feature_penetrationrail
+LANG_ENGLISH         "Rounds Penetrate Thick Walls"
+
+REFERENCE            feature_repeater
+LANG_ENGLISH         "Auto-Reload on Headshots"
+
+REFERENCE            feature_ripper
+LANG_ENGLISH         "2-in-1 SMG and AR"
+
+REFERENCE            feature_sdfshotty
+LANG_ENGLISH         "Fully Automatic"
+
+REFERENCE            feature_sonic
+LANG_ENGLISH         "Deafens Soldiers"
+
+REFERENCE            feature_stasis
+LANG_ENGLISH         "Steady Aim"
+
+REFERENCE            feature_steeldragon
+LANG_ENGLISH         "Continual Energy Beam"
+
+REFERENCE            fhr
+LANG_ENGLISH         "FHR-40"
+
+REFERENCE            fire_type_akimbo
+LANG_ENGLISH         "Akimbo"
+
+REFERENCE            fire_type_auto_attachment
+LANG_ENGLISH         "Full-Auto"
+
+REFERENCE            fire_type_auto_energy_attachment
+LANG_ENGLISH         "Automatic"
+
+REFERENCE            fire_type_beam
+LANG_ENGLISH         "Beam"
+
+REFERENCE            fire_type_bolt_attachment
+LANG_ENGLISH         "Bolt Action"
+
+REFERENCE            fire_type_burst_attachment
+LANG_ENGLISH         "Burst Fire"
+
+REFERENCE            fire_type_burst_attachment_2_round
+LANG_ENGLISH         "2 Round Burst"
+
+REFERENCE            fire_type_burst_attachment_2_round_auto
+LANG_ENGLISH         "2 Round Burst Auto"
+
+REFERENCE            fire_type_burst_attachment_3_round
+LANG_ENGLISH         "3 Round Burst"
+
+REFERENCE            fire_type_burst_attachment_3_round_auto
+LANG_ENGLISH         "3 Round Burst Auto"
+
+REFERENCE            fire_type_burst_attachment_4_round
+LANG_ENGLISH         "4 Round Burst"
+
+REFERENCE            fire_type_burst_attachment_4_round_auto
+LANG_ENGLISH         "4 Round Burst Auto"
+
+REFERENCE            fire_type_burst_attachment_7_round
+LANG_ENGLISH         "7 Round Burst"
+
+REFERENCE            fire_type_burst_attachment_7_round_auto
+LANG_ENGLISH         "7 Round Burst Auto"
+
+REFERENCE            fire_type_burst_attachment_auto
+LANG_ENGLISH         "Burst Auto"
+
+REFERENCE            fire_type_melee
+LANG_ENGLISH         "Melee"
+
+REFERENCE            fire_type_pump
+LANG_ENGLISH         "Pump Action"
+
+REFERENCE            fire_type_semi_auto_attachment
+LANG_ENGLISH         "Semi Auto"
+
+REFERENCE            fire_type_single_attachment
+LANG_ENGLISH         "Semi-Auto"
+
+REFERENCE            fists
+LANG_ENGLISH         "Fists"
+
+REFERENCE            flare
+LANG_ENGLISH         "Tactical Insertion"
+
+REFERENCE            flash_grenade
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            fmg
+LANG_ENGLISH         "Type-2"
+
+REFERENCE            fmj_attachment
+LANG_ENGLISH         "FMJ"
+
+REFERENCE            freerunner
+LANG_ENGLISH         "No Weapon Available"
+
+REFERENCE            freeze_semtex
+LANG_ENGLISH         "Cryo Bomb"
+
+REFERENCE            g18
+LANG_ENGLISH         "Kendall 44"
+
+REFERENCE            g18_aon
+LANG_ENGLISH         "Box-Of-Demons"
+
+REFERENCE            g18_classic
+LANG_ENGLISH         "Hornet"
+
+REFERENCE            g18_gold
+LANG_ENGLISH         "KB45 Gold"
+
+REFERENCE            g18_sp
+LANG_ENGLISH         "KB45"
+
+REFERENCE            gambit
+LANG_ENGLISH         "R3K Gambit"
+
+REFERENCE            gl
+LANG_ENGLISH         "40mm"
+
+REFERENCE            gl_flash
+LANG_ENGLISH         "40mm Flash"
+
+REFERENCE            gl_gp25
+LANG_ENGLISH         "GP25"
+
+REFERENCE            gl_gp25_flash
+LANG_ENGLISH         "GP25 Flash"
+
+REFERENCE            gl_gp25_incendiary
+LANG_ENGLISH         "GP25 Incendiary"
+
+REFERENCE            gl_gp25_recon
+LANG_ENGLISH         "GP25 Recon"
+
+REFERENCE            gl_gp25_smoke
+LANG_ENGLISH         "GP25 Smoke"
+
+REFERENCE            gl_gp25_stun
+LANG_ENGLISH         "GP25 Stun"
+
+REFERENCE            gl_incendiary
+LANG_ENGLISH         "40mm Incendiary"
+
+REFERENCE            gl_m203
+LANG_ENGLISH         "M203"
+
+REFERENCE            gl_m203_flash
+LANG_ENGLISH         "M203 Flash"
+
+REFERENCE            gl_m203_incendiary
+LANG_ENGLISH         "M203 Incendiary"
+
+REFERENCE            gl_m203_recon
+LANG_ENGLISH         "M203 Recon"
+
+REFERENCE            gl_m203_smoke
+LANG_ENGLISH         "M203 Smoke"
+
+REFERENCE            gl_m203_stun
+LANG_ENGLISH         "M203 Stun"
+
+REFERENCE            gl_recon
+LANG_ENGLISH         "40mm Recon"
+
+REFERENCE            gl_smoke
+LANG_ENGLISH         "40mm Smoke"
+
+REFERENCE            gl_stun
+LANG_ENGLISH         "40mm Stun"
+
+REFERENCE            glprox
+LANG_ENGLISH         "Howitzer"
+
+REFERENCE            golf_club
+LANG_ENGLISH         "Golf Club"
+
+REFERENCE            golf_club_pap1
+LANG_ENGLISH         "Bogey Down"
+
+REFERENCE            golf_club_pap2
+LANG_ENGLISH         "Eagle"
+
+REFERENCE            grav_gun
+LANG_ENGLISH         "Grav Gun"
+
+REFERENCE            green_beam
+LANG_ENGLISH         "Artillery Marker"
+
+REFERENCE            green_beam_sp
+LANG_ENGLISH         "Target Designator"
+
+REFERENCE            grip_attachment
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            gunless
+LANG_ENGLISH         ""
+
+REFERENCE            harpoon
+LANG_ENGLISH         "Vlad"
+
+REFERENCE            harpoon1
+LANG_ENGLISH         "Acid Rain"
+
+REFERENCE            harpoon2
+LANG_ENGLISH         "Ben Franklin"
+
+REFERENCE            harpoon3
+LANG_ENGLISH         "Trap - O - Matic"
+
+REFERENCE            harpoon4
+LANG_ENGLISH         "Whirlwind EF-5"
+
+REFERENCE            high_caliber_attachment
+LANG_ENGLISH         "Hollow Point"
+
+REFERENCE            high_caliber_energy_attachment
+LANG_ENGLISH         "Slug"
+
+REFERENCE            hipaim_attachment
+LANG_ENGLISH         "Laser"
+
+REFERENCE            holo_attachment
+LANG_ENGLISH         "Holo"
+
+REFERENCE            holstered
+LANG_ENGLISH         ""
+
+REFERENCE            hybrid_attachment
+LANG_ENGLISH         "Hybrid"
+
+REFERENCE            hybrid_thermal_attachment
+LANG_ENGLISH         "Hybrid Thermal"
+
+REFERENCE            ied
+LANG_ENGLISH         "IED"
+
+REFERENCE            incendiary_attachment
+LANG_ENGLISH         "Incendiary"
+
+REFERENCE            iw8_glock
+LANG_ENGLISH         "Glock 17"
+
+REFERENCE            iw8_honeybadger
+LANG_ENGLISH         "Honey Badger"
+
+REFERENCE            iw8_intervention
+LANG_ENGLISH         "Intervention"
+
+REFERENCE            iw8_spas
+LANG_ENGLISH         "SPAS-12"
+
+REFERENCE            iw8_ump45
+LANG_ENGLISH         "UMP .45"
+
+REFERENCE            kbs
+LANG_ENGLISH         "KBS Longbow"
+
+REFERENCE            knife
+LANG_ENGLISH         "Combat Knife"
+
+REFERENCE            knife_aon
+LANG_ENGLISH         "20-0"
+
+REFERENCE            knife_only
+LANG_ENGLISH         "Combat Knife"
+
+REFERENCE            knife_v10
+LANG_ENGLISH         "Icicle"
+
+REFERENCE            knife_v11
+LANG_ENGLISH         "Stone Carver"
+
+REFERENCE            knife_v12
+LANG_ENGLISH         "Boxcutter"
+
+REFERENCE            knife_v13
+LANG_ENGLISH         "Negotiation"
+
+REFERENCE            knife_v14
+LANG_ENGLISH         "Blood Letter"
+
+REFERENCE            knife_v15
+LANG_ENGLISH         "Conquistador"
+
+REFERENCE            knife_v16
+LANG_ENGLISH         "KNIFE_V16"
+
+REFERENCE            knife_v17
+LANG_ENGLISH         "Sandfly"
+
+REFERENCE            knife_v18
+LANG_ENGLISH         "KNIFE_V18"
+
+REFERENCE            knife_v19
+LANG_ENGLISH         "The Quiet"
+
+REFERENCE            knife_v2
+LANG_ENGLISH         "Blackspike"
+
+REFERENCE            knife_v20
+LANG_ENGLISH         "Scythe"
+
+REFERENCE            knife_v21
+LANG_ENGLISH         "Dainsleif"
+
+REFERENCE            knife_v22
+LANG_ENGLISH         "Espionage"
+
+REFERENCE            knife_v23
+LANG_ENGLISH         "Ghost Dance"
+
+REFERENCE            knife_v24
+LANG_ENGLISH         "Rasp"
+
+REFERENCE            knife_v25
+LANG_ENGLISH         "Unspoken Oath"
+
+REFERENCE            knife_v26
+LANG_ENGLISH         "KNIFE_V26"
+
+REFERENCE            knife_v27
+LANG_ENGLISH         "Skullblade"
+
+REFERENCE            knife_v28
+LANG_ENGLISH         "Sidesplitter"
+
+REFERENCE            knife_v29
+LANG_ENGLISH         "Ol' Cobber"
+
+REFERENCE            knife_v3
+LANG_ENGLISH         "Blue Silence"
+
+REFERENCE            knife_v30
+LANG_ENGLISH         "Preeminence"
+
+REFERENCE            knife_v31
+LANG_ENGLISH         "Grassclipper"
+
+REFERENCE            knife_v32
+LANG_ENGLISH         "Toothpick"
+
+REFERENCE            knife_v33
+LANG_ENGLISH         "Blood Oath"
+
+REFERENCE            knife_v34
+LANG_ENGLISH         "Night Light"
+
+REFERENCE            knife_v35
+LANG_ENGLISH         "KNIFE_V35"
+
+REFERENCE            knife_v36
+LANG_ENGLISH         "No Masters"
+
+REFERENCE            knife_v37
+LANG_ENGLISH         "Sword"
+
+REFERENCE            knife_v38
+LANG_ENGLISH         "KNIFE_V38"
+
+REFERENCE            knife_v39
+LANG_ENGLISH         "Sacrifice"
+
+REFERENCE            knife_v4
+LANG_ENGLISH         "Ashen Sliver"
+
+REFERENCE            knife_v40
+LANG_ENGLISH         "KNIFE_V40"
+
+REFERENCE            knife_v41
+LANG_ENGLISH         "Coffin Nail"
+
+REFERENCE            knife_v42
+LANG_ENGLISH         "Heat Treat"
+
+REFERENCE            knife_v43
+LANG_ENGLISH         "Foxy Lady"
+
+REFERENCE            knife_v44
+LANG_ENGLISH         "KNIFE_V44"
+
+REFERENCE            knife_v45
+LANG_ENGLISH         "Stinging Nettle"
+
+REFERENCE            knife_v46
+LANG_ENGLISH         "Pitiful"
+
+REFERENCE            knife_v47
+LANG_ENGLISH         "Beamish"
+
+REFERENCE            knife_v48
+LANG_ENGLISH         "KNIFE_V48"
+
+REFERENCE            knife_v49
+LANG_ENGLISH         "KNIFE_V49"
+
+REFERENCE            knife_v5
+LANG_ENGLISH         "Dive Knife"
+
+REFERENCE            knife_v50
+LANG_ENGLISH         "Tall Tale"
+
+REFERENCE            knife_v51
+LANG_ENGLISH         "KNIFE_V51"
+
+REFERENCE            knife_v52
+LANG_ENGLISH         "KNIFE_V52"
+
+REFERENCE            knife_v53
+LANG_ENGLISH         "KNIFE_V53"
+
+REFERENCE            knife_v54
+LANG_ENGLISH         "KNIFE_V54"
+
+REFERENCE            knife_v55
+LANG_ENGLISH         "KNIFE_V55"
+
+REFERENCE            knife_v56
+LANG_ENGLISH         "KNIFE_V56"
+
+REFERENCE            knife_v57
+LANG_ENGLISH         "KNIFE_V57"
+
+REFERENCE            knife_v58
+LANG_ENGLISH         "KNIFE_V58"
+
+REFERENCE            knife_v59
+LANG_ENGLISH         "KNIFE_V59"
+
+REFERENCE            knife_v6
+LANG_ENGLISH         "Hold Up"
+
+REFERENCE            knife_v60
+LANG_ENGLISH         "KNIFE_V60"
+
+REFERENCE            knife_v7
+LANG_ENGLISH         "Atom Splitter"
+
+REFERENCE            knife_v8
+LANG_ENGLISH         "New Steel"
+
+REFERENCE            knife_v9
+LANG_ENGLISH         "Arterial"
+
+REFERENCE            la_gromeo
+LANG_ENGLISH         "PILA"
+
+REFERENCE            la_juliet
+LANG_ENGLISH         "JOKR"
+
+REFERENCE            la_kgolf
+LANG_ENGLISH         "Strela-P"
+
+REFERENCE            la_lalpha
+LANG_ENGLISH         "SA-24 Grinch infrared SAM"
+
+REFERENCE            la_mike32
+LANG_ENGLISH         "MGL-32 Grenade Launcher"
+
+REFERENCE            la_mike32_incendiary
+LANG_ENGLISH         "MGL-32 Incendiary Launcher"
+
+REFERENCE            la_romeo
+LANG_ENGLISH         "RAMBO"
+
+REFERENCE            la_rpapa7
+LANG_ENGLISH         "RPG-7"
+
+REFERENCE            label_detonate
+LANG_ENGLISH         "^1Detonate"
+
+REFERENCE            label_molotov
+LANG_ENGLISH         "Molotov"
+
+REFERENCE            lawn_mower
+LANG_ENGLISH         "Lawn Mower"
+
+REFERENCE            linear_shaped_charge
+LANG_ENGLISH         "Linear Shaped Charge"
+
+REFERENCE            lm_dblmg
+LANG_ENGLISH         "Minigun"
+
+REFERENCE            lm_kilo121
+LANG_ENGLISH         "M91"
+
+REFERENCE            lm_kilo121_v10
+LANG_ENGLISH         "Foxglove"
+
+REFERENCE            lm_kilo121_v11
+LANG_ENGLISH         "Parallax"
+
+REFERENCE            lm_kilo121_v12
+LANG_ENGLISH         "LM_KILO121_V12"
+
+REFERENCE            lm_kilo121_v13
+LANG_ENGLISH         "River Styx"
+
+REFERENCE            lm_kilo121_v14
+LANG_ENGLISH         "Saw Blade"
+
+REFERENCE            lm_kilo121_v15
+LANG_ENGLISH         "LM_KILO121_V15"
+
+REFERENCE            lm_kilo121_v16
+LANG_ENGLISH         "LM_KILO121_V16"
+
+REFERENCE            lm_kilo121_v2
+LANG_ENGLISH         "Mighty Moe"
+
+REFERENCE            lm_kilo121_v3
+LANG_ENGLISH         "Hazard"
+
+REFERENCE            lm_kilo121_v4
+LANG_ENGLISH         "Warhead"
+
+REFERENCE            lm_kilo121_v5
+LANG_ENGLISH         "Old Wounds"
+
+REFERENCE            lm_kilo121_v6
+LANG_ENGLISH         "Dusk"
+
+REFERENCE            lm_kilo121_v7
+LANG_ENGLISH         "Chupacabra"
+
+REFERENCE            lm_kilo121_v8
+LANG_ENGLISH         "Rapidfire"
+
+REFERENCE            lm_kilo121_v9
+LANG_ENGLISH         "Condenser"
+
+REFERENCE            lm_lima86
+LANG_ENGLISH         "SA87"
+
+REFERENCE            lm_lima86_v10
+LANG_ENGLISH         "Survivalist"
+
+REFERENCE            lm_lima86_v11
+LANG_ENGLISH         "Prism"
+
+REFERENCE            lm_lima86_v12
+LANG_ENGLISH         "LM_LIMA86_V12"
+
+REFERENCE            lm_lima86_v13
+LANG_ENGLISH         "LM_LIMA86_V13"
+
+REFERENCE            lm_lima86_v14
+LANG_ENGLISH         "LM_LIMA86_V14"
+
+REFERENCE            lm_lima86_v15
+LANG_ENGLISH         "LM_LIMA86_V15"
+
+REFERENCE            lm_lima86_v16
+LANG_ENGLISH         "LM_LIMA86_V16"
+
+REFERENCE            lm_lima86_v2
+LANG_ENGLISH         "Stratagem"
+
+REFERENCE            lm_lima86_v3
+LANG_ENGLISH         "Ironed Out"
+
+REFERENCE            lm_lima86_v4
+LANG_ENGLISH         "The Kraken"
+
+REFERENCE            lm_lima86_v5
+LANG_ENGLISH         "Buzzsaw"
+
+REFERENCE            lm_lima86_v6
+LANG_ENGLISH         "Stone Cutter"
+
+REFERENCE            lm_lima86_v7
+LANG_ENGLISH         "Abyss Walker"
+
+REFERENCE            lm_lima86_v8
+LANG_ENGLISH         "Toxicity"
+
+REFERENCE            lm_lima86_v9
+LANG_ENGLISH         "Wolf-Charmer"
+
+REFERENCE            lm_mgolf34
+LANG_ENGLISH         "MG34"
+
+REFERENCE            lm_mgolf34_v10
+LANG_ENGLISH         "Plankwalker"
+
+REFERENCE            lm_mgolf34_v11
+LANG_ENGLISH         "LM_MGOLF34_V11"
+
+REFERENCE            lm_mgolf34_v12
+LANG_ENGLISH         "LM_MGOLF34_V12"
+
+REFERENCE            lm_mgolf34_v2
+LANG_ENGLISH         "BLOWtorch"
+
+REFERENCE            lm_mgolf34_v3
+LANG_ENGLISH         "Buster"
+
+REFERENCE            lm_mgolf34_v4
+LANG_ENGLISH         "Buzzkill"
+
+REFERENCE            lm_mgolf34_v5
+LANG_ENGLISH         "Lucky Strike"
+
+REFERENCE            lm_mgolf34_v6
+LANG_ENGLISH         "Snake Beckons"
+
+REFERENCE            lm_mgolf34_v7
+LANG_ENGLISH         "Rockwall"
+
+REFERENCE            lm_mgolf34_v8
+LANG_ENGLISH         "Grounded"
+
+REFERENCE            lm_mgolf34_v9
+LANG_ENGLISH         "Copper Spray"
+
+REFERENCE            lm_mgolf36
+LANG_ENGLISH         "Holger-26"
+
+REFERENCE            lm_mgolf36_v10
+LANG_ENGLISH         "LM_MGOLF36_V10"
+
+REFERENCE            lm_mgolf36_v2
+LANG_ENGLISH         "Necrosis"
+
+REFERENCE            lm_mgolf36_v3
+LANG_ENGLISH         "Xerocole"
+
+REFERENCE            lm_mgolf36_v4
+LANG_ENGLISH         "Chainbreaker"
+
+REFERENCE            lm_mgolf36_v5
+LANG_ENGLISH         "Gilded"
+
+REFERENCE            lm_mgolf36_v6
+LANG_ENGLISH         "Dream Maker"
+
+REFERENCE            lm_mgolf36_v7
+LANG_ENGLISH         "Blues and Twos"
+
+REFERENCE            lm_mgolf36_v8
+LANG_ENGLISH         "LM_MGOLF36_V8"
+
+REFERENCE            lm_mgolf36_v9
+LANG_ENGLISH         "LM_MGOLF36_V9"
+
+REFERENCE            lm_mkilo3
+LANG_ENGLISH         "Bruen Mk9"
+
+REFERENCE            lm_mkilo3_v10
+LANG_ENGLISH         "LM_MKILO3_V10"
+
+REFERENCE            lm_mkilo3_v2
+LANG_ENGLISH         "The Glitch"
+
+REFERENCE            lm_mkilo3_v3
+LANG_ENGLISH         "LM_MKILO3_V3"
+
+REFERENCE            lm_mkilo3_v4
+LANG_ENGLISH         "LM_MKILO3_V4"
+
+REFERENCE            lm_mkilo3_v5
+LANG_ENGLISH         "LM_MKILO3_V5"
+
+REFERENCE            lm_mkilo3_v6
+LANG_ENGLISH         "LM_MKILO3_V6"
+
+REFERENCE            lm_mkilo3_v7
+LANG_ENGLISH         "LM_MKILO3_V7"
+
+REFERENCE            lm_mkilo3_v8
+LANG_ENGLISH         "LM_MKILO3_V8"
+
+REFERENCE            lm_mkilo3_v9
+LANG_ENGLISH         "LM_MKILO3_V9"
+
+REFERENCE            lm_pkilo
+LANG_ENGLISH         "PKM"
+
+REFERENCE            lm_pkilo_v10
+LANG_ENGLISH         "Forester"
+
+REFERENCE            lm_pkilo_v11
+LANG_ENGLISH         "Bludgeoner"
+
+REFERENCE            lm_pkilo_v12
+LANG_ENGLISH         "LM_PKILO_V12"
+
+REFERENCE            lm_pkilo_v13
+LANG_ENGLISH         "Conductor"
+
+REFERENCE            lm_pkilo_v14
+LANG_ENGLISH         "LM_PKILO_V14"
+
+REFERENCE            lm_pkilo_v15
+LANG_ENGLISH         "Vulgar"
+
+REFERENCE            lm_pkilo_v16
+LANG_ENGLISH         "LM_PKILO_V16"
+
+REFERENCE            lm_pkilo_v2
+LANG_ENGLISH         "Standard Issue"
+
+REFERENCE            lm_pkilo_v3
+LANG_ENGLISH         "Old Country"
+
+REFERENCE            lm_pkilo_v4
+LANG_ENGLISH         "Baddie"
+
+REFERENCE            lm_pkilo_v5
+LANG_ENGLISH         "Wrong Turn"
+
+REFERENCE            lm_pkilo_v6
+LANG_ENGLISH         "Usurper"
+
+REFERENCE            lm_pkilo_v7
+LANG_ENGLISH         "The Uprising"
+
+REFERENCE            lm_pkilo_v8
+LANG_ENGLISH         "Fire Hose"
+
+REFERENCE            lm_pkilo_v9
+LANG_ENGLISH         "Vortex"
+
+REFERENCE            lmg03
+LANG_ENGLISH         "Titan"
+
+REFERENCE            lockon
+LANG_ENGLISH         "Spartan SA3"
+
+REFERENCE            lockon_required
+LANG_ENGLISH         "Lock-On Required"
+
+REFERENCE            long_barrel_attachment_br
+LANG_ENGLISH         "Long Barrel"
+
+REFERENCE            m1
+LANG_ENGLISH         "DMR-1"
+
+REFERENCE            m1_classic
+LANG_ENGLISH         "M1"
+
+REFERENCE            m2fraggrenade
+LANG_ENGLISH         "Frag Grenade"
+
+REFERENCE            m320_attachment
+LANG_ENGLISH         "M320"
+
+REFERENCE            m4
+LANG_ENGLISH         "NV4"
+
+REFERENCE            m67fraggrenade
+LANG_ENGLISH         "M67 Frag Grenade"
+
+REFERENCE            m8
+LANG_ENGLISH         "EBR-800"
+
+REFERENCE            machete
+LANG_ENGLISH         "Machete"
+
+REFERENCE            machete_pap1
+LANG_ENGLISH         "Carver"
+
+REFERENCE            machete_pap2
+LANG_ENGLISH         "Slice 'n Dice"
+
+REFERENCE            mauler
+LANG_ENGLISH         "Mauler"
+
+REFERENCE            me_riotshield
+LANG_ENGLISH         "Riot Shield"
+
+REFERENCE            me_tacknife_v2
+LANG_ENGLISH         "ME_TACKNIFE_V2"
+
+REFERENCE            mike79
+LANG_ENGLISH         "M79"
+
+REFERENCE            minilmg
+LANG_ENGLISH         "Auger"
+
+REFERENCE            mobile_radar
+LANG_ENGLISH         "Mobile Radar"
+
+REFERENCE            motion_sensor
+LANG_ENGLISH         "Motion Sensor"
+
+REFERENCE            mp28
+LANG_ENGLISH         "Trencher"
+
+REFERENCE            no_ammo
+LANG_ENGLISH         "No Ammo"
+
+REFERENCE            no_grenade
+LANG_ENGLISH         "No Equipment"
+
+REFERENCE            no_special_grenade
+LANG_ENGLISH         "Tactical out of Ammo"
+
+REFERENCE            no_special_offhand_ammo
+LANG_ENGLISH         "Field Upgrade Not Ready"
+
+REFERENCE            no_weapon_ammo
+LANG_ENGLISH         "No &&1 ammo remaining."
+
+REFERENCE            no_weapon_ammo_mp
+LANG_ENGLISH         "Lethal out of Ammo"
+
+REFERENCE            nrg
+LANG_ENGLISH         "Oni"
+
+REFERENCE            oscope_attachment
+LANG_ENGLISH         "Tracking"
+
+REFERENCE            overclock_attachment
+LANG_ENGLISH         "Overclock"
+
+REFERENCE            penetrationrail
+LANG_ENGLISH         "Ballista EM3"
+
+REFERENCE            phase_attachment
+LANG_ENGLISH         "Trojan"
+
+REFERENCE            pi_cpapa
+LANG_ENGLISH         ".357"
+
+REFERENCE            pi_cpapa_v10
+LANG_ENGLISH         "Steeled Nerve"
+
+REFERENCE            pi_cpapa_v11
+LANG_ENGLISH         "Tycoon"
+
+REFERENCE            pi_cpapa_v12
+LANG_ENGLISH         "Top o' the Mornin'"
+
+REFERENCE            pi_cpapa_v13
+LANG_ENGLISH         "Keepsake"
+
+REFERENCE            pi_cpapa_v14
+LANG_ENGLISH         "Black Fang"
+
+REFERENCE            pi_cpapa_v15
+LANG_ENGLISH         "Ol' Faithful"
+
+REFERENCE            pi_cpapa_v16
+LANG_ENGLISH         "Good Company"
+
+REFERENCE            pi_cpapa_v2
+LANG_ENGLISH         "Enforcer"
+
+REFERENCE            pi_cpapa_v3
+LANG_ENGLISH         "Defender"
+
+REFERENCE            pi_cpapa_v4
+LANG_ENGLISH         "High Noon"
+
+REFERENCE            pi_cpapa_v5
+LANG_ENGLISH         "Callahan"
+
+REFERENCE            pi_cpapa_v6
+LANG_ENGLISH         "XRK .357"
+
+REFERENCE            pi_cpapa_v7
+LANG_ENGLISH         "Volatile"
+
+REFERENCE            pi_cpapa_v8
+LANG_ENGLISH         "Hole Punch"
+
+REFERENCE            pi_cpapa_v9
+LANG_ENGLISH         "Winged Steel"
+
+REFERENCE            pi_decho
+LANG_ENGLISH         ".50 GS"
+
+REFERENCE            pi_decho_v10
+LANG_ENGLISH         "PI_DECHO_V10"
+
+REFERENCE            pi_decho_v11
+LANG_ENGLISH         "Asunder"
+
+REFERENCE            pi_decho_v12
+LANG_ENGLISH         "Wiretap"
+
+REFERENCE            pi_decho_v13
+LANG_ENGLISH         "Gangrene"
+
+REFERENCE            pi_decho_v14
+LANG_ENGLISH         "Binary Stars"
+
+REFERENCE            pi_decho_v15
+LANG_ENGLISH         "The Alchemist's Dream"
+
+REFERENCE            pi_decho_v16
+LANG_ENGLISH         "Cerastes"
+
+REFERENCE            pi_decho_v17
+LANG_ENGLISH         "Heresy"
+
+REFERENCE            pi_decho_v18
+LANG_ENGLISH         "PI_DECHO_V18"
+
+REFERENCE            pi_decho_v19
+LANG_ENGLISH         "PI_DECHO_V19"
+
+REFERENCE            pi_decho_v2
+LANG_ENGLISH         "Monochromatic"
+
+REFERENCE            pi_decho_v20
+LANG_ENGLISH         "PI_DECHO_V20"
+
+REFERENCE            pi_decho_v3
+LANG_ENGLISH         "Hammer and Sickle"
+
+REFERENCE            pi_decho_v4
+LANG_ENGLISH         "Royal Decree"
+
+REFERENCE            pi_decho_v5
+LANG_ENGLISH         "Endbringer"
+
+REFERENCE            pi_decho_v6
+LANG_ENGLISH         "Pixie Cutter"
+
+REFERENCE            pi_decho_v7
+LANG_ENGLISH         "PI_DECHO_V7"
+
+REFERENCE            pi_decho_v8
+LANG_ENGLISH         "Victory Lap"
+
+REFERENCE            pi_decho_v9
+LANG_ENGLISH         "Hot Nugget"
+
+REFERENCE            pi_golf21
+LANG_ENGLISH         "X16"
+
+REFERENCE            pi_golf21_v10
+LANG_ENGLISH         "Charmer"
+
+REFERENCE            pi_golf21_v11
+LANG_ENGLISH         "Cherry Blossom"
+
+REFERENCE            pi_golf21_v12
+LANG_ENGLISH         "Gemcutter"
+
+REFERENCE            pi_golf21_v13
+LANG_ENGLISH         "Blue Carbon"
+
+REFERENCE            pi_golf21_v14
+LANG_ENGLISH         "Draugr"
+
+REFERENCE            pi_golf21_v15
+LANG_ENGLISH         "PI_GOLF21_V15"
+
+REFERENCE            pi_golf21_v16
+LANG_ENGLISH         "Peace and Tranquility"
+
+REFERENCE            pi_golf21_v17
+LANG_ENGLISH         "Necromancer"
+
+REFERENCE            pi_golf21_v18
+LANG_ENGLISH         "Guac My World"
+
+REFERENCE            pi_golf21_v19
+LANG_ENGLISH         "PI_GOLF21_V19"
+
+REFERENCE            pi_golf21_v2
+LANG_ENGLISH         "Urban Defiler"
+
+REFERENCE            pi_golf21_v20
+LANG_ENGLISH         "PI_GOLF21_V20"
+
+REFERENCE            pi_golf21_v3
+LANG_ENGLISH         "Impossible Task"
+
+REFERENCE            pi_golf21_v4
+LANG_ENGLISH         "The Howler"
+
+REFERENCE            pi_golf21_v5
+LANG_ENGLISH         "Pegasus"
+
+REFERENCE            pi_golf21_v6
+LANG_ENGLISH         "El Dorado"
+
+REFERENCE            pi_golf21_v7
+LANG_ENGLISH         "Chisel"
+
+REFERENCE            pi_golf21_v8
+LANG_ENGLISH         "Quick Hit"
+
+REFERENCE            pi_golf21_v9
+LANG_ENGLISH         "Greenback"
+
+REFERENCE            pi_magnum
+LANG_ENGLISH         ".44 Magnum"
+
+REFERENCE            pi_mike1911
+LANG_ENGLISH         "1911"
+
+REFERENCE            pi_mike1911_v10
+LANG_ENGLISH         "Fisticuffs"
+
+REFERENCE            pi_mike1911_v11
+LANG_ENGLISH         "The Executioner"
+
+REFERENCE            pi_mike1911_v12
+LANG_ENGLISH         "Bear Trap"
+
+REFERENCE            pi_mike1911_v13
+LANG_ENGLISH         "Isotoper"
+
+REFERENCE            pi_mike1911_v14
+LANG_ENGLISH         "Button Masher"
+
+REFERENCE            pi_mike1911_v15
+LANG_ENGLISH         "Carbide"
+
+REFERENCE            pi_mike1911_v16
+LANG_ENGLISH         "Elk Rut"
+
+REFERENCE            pi_mike1911_v17
+LANG_ENGLISH         "One For One"
+
+REFERENCE            pi_mike1911_v2
+LANG_ENGLISH         "Corax"
+
+REFERENCE            pi_mike1911_v3
+LANG_ENGLISH         "Riptide"
+
+REFERENCE            pi_mike1911_v4
+LANG_ENGLISH         "The Invader"
+
+REFERENCE            pi_mike1911_v5
+LANG_ENGLISH         "Javelina"
+
+REFERENCE            pi_mike1911_v6
+LANG_ENGLISH         "Obsidian Carat"
+
+REFERENCE            pi_mike1911_v7
+LANG_ENGLISH         "Bite Strength"
+
+REFERENCE            pi_mike1911_v8
+LANG_ENGLISH         "Sulfuric"
+
+REFERENCE            pi_mike1911_v9
+LANG_ENGLISH         "Blue Dwarf"
+
+REFERENCE            pi_mike9
+LANG_ENGLISH         "Renetti"
+
+REFERENCE            pi_mike9_burst
+LANG_ENGLISH         "Renetti Mk3"
+
+REFERENCE            pi_mike9_v2
+LANG_ENGLISH         "Guard One"
+
+REFERENCE            pi_mike9_v3
+LANG_ENGLISH         "Viceroy"
+
+REFERENCE            pi_mike9_v4
+LANG_ENGLISH         "Delirium Trigger"
+
+REFERENCE            pi_mike9_v5
+LANG_ENGLISH         "Cybernetic"
+
+REFERENCE            pi_papa320
+LANG_ENGLISH         "M19"
+
+REFERENCE            pi_papa320_v10
+LANG_ENGLISH         "Moneymaker"
+
+REFERENCE            pi_papa320_v11
+LANG_ENGLISH         "Privet"
+
+REFERENCE            pi_papa320_v12
+LANG_ENGLISH         "Utilitarian"
+
+REFERENCE            pi_papa320_v13
+LANG_ENGLISH         "Blood Shot"
+
+REFERENCE            pi_papa320_v14
+LANG_ENGLISH         "Pea Shooter"
+
+REFERENCE            pi_papa320_v15
+LANG_ENGLISH         "Mint Chip"
+
+REFERENCE            pi_papa320_v16
+LANG_ENGLISH         "PI_PAPA320_V16"
+
+REFERENCE            pi_papa320_v17
+LANG_ENGLISH         "Goodbye, Stranger"
+
+REFERENCE            pi_papa320_v2
+LANG_ENGLISH         "Slick Steel"
+
+REFERENCE            pi_papa320_v20
+LANG_ENGLISH         "PI_PAPA320_V20"
+
+REFERENCE            pi_papa320_v3
+LANG_ENGLISH         "Dirty Business"
+
+REFERENCE            pi_papa320_v4
+LANG_ENGLISH         "High Roller"
+
+REFERENCE            pi_papa320_v5
+LANG_ENGLISH         "Severance"
+
+REFERENCE            pi_papa320_v6
+LANG_ENGLISH         "Aspirator"
+
+REFERENCE            pi_papa320_v7
+LANG_ENGLISH         "Two-Tone"
+
+REFERENCE            pi_papa320_v8
+LANG_ENGLISH         "White Out"
+
+REFERENCE            pi_papa320_v9
+LANG_ENGLISH         "Red Dwarf"
+
+REFERENCE            pi_usierra45
+LANG_ENGLISH         "USP 45"
+
+REFERENCE            pickup_axe
+LANG_ENGLISH         "^3&&1^7 Pick up Axe"
+
+REFERENCE            portal_generator
+LANG_ENGLISH         "Portal Generator"
+
+REFERENCE            proximity_explosive_pickup
+LANG_ENGLISH         "^3&&1^7 Pickup I.E.D."
+
+REFERENCE            pulse_grenade
+LANG_ENGLISH         "Pulse Grenade"
+
+REFERENCE            railgun
+LANG_ENGLISH         "Ballista EM3"
+
+REFERENCE            rapidfire_attachment
+LANG_ENGLISH         "Rapid Fire"
+
+REFERENCE            rappel_knife
+LANG_ENGLISH         "Knife"
+
+REFERENCE            reaperblade
+LANG_ENGLISH         "Reaper Attack"
+
+REFERENCE            reflect_attachment
+LANG_ENGLISH         "Ram Servo"
+
+REFERENCE            reflex_attachment
+LANG_ENGLISH         "Reflex"
+
+REFERENCE            repeater
+LANG_ENGLISH         "R.A.W. Repeater"
+
+REFERENCE            repeater_desc
+LANG_ENGLISH         "Modified R.A.W. with an increased ammo capacity. Headshot kills will refill the clip."
+
+REFERENCE            revolver
+LANG_ENGLISH         "Hailstorm"
+
+REFERENCE            riotshield
+LANG_ENGLISH         "Riot Shield"
+
+REFERENCE            riotshield_radar_attachment
+LANG_ENGLISH         "Radar"
+
+REFERENCE            riotshield_scrambler_attachment
+LANG_ENGLISH         "Scrambler"
+
+REFERENCE            riotshield_speed_attachment
+LANG_ENGLISH         "Titanium"
+
+REFERENCE            riotshield_spikes_attachment
+LANG_ENGLISH         "Titanium Frame"
+
+REFERENCE            ripper
+LANG_ENGLISH         "RPR Evo"
+
+REFERENCE            rocket_multi
+LANG_ENGLISH         "Rocket Spread"
+
+REFERENCE            rvn
+LANG_ENGLISH         "R-VN"
+
+REFERENCE            satcom
+LANG_ENGLISH         "SAT COM"
+
+REFERENCE            scavenger_bag
+LANG_ENGLISH         "Scavenger"
+
+REFERENCE            scope_attachment
+LANG_ENGLISH         ""
+
+REFERENCE            sdfar
+LANG_ENGLISH         "R3K"
+
+REFERENCE            sdflmg
+LANG_ENGLISH         "R.A.W."
+
+REFERENCE            sdfshotty
+LANG_ENGLISH         "DCM-8"
+
+REFERENCE            select_fire_type
+LANG_ENGLISH         "Select &&1"
+
+REFERENCE            semtex
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            sh_charlie725
+LANG_ENGLISH         "725"
+
+REFERENCE            sh_charlie725_v10
+LANG_ENGLISH         "CQBoom"
+
+REFERENCE            sh_charlie725_v11
+LANG_ENGLISH         "Muskeg"
+
+REFERENCE            sh_charlie725_v12
+LANG_ENGLISH         "Green Horn"
+
+REFERENCE            sh_charlie725_v13
+LANG_ENGLISH         "Ice Storm"
+
+REFERENCE            sh_charlie725_v14
+LANG_ENGLISH         "Ghastly"
+
+REFERENCE            sh_charlie725_v15
+LANG_ENGLISH         "Old Faithful"
+
+REFERENCE            sh_charlie725_v16
+LANG_ENGLISH         "Loggerhead"
+
+REFERENCE            sh_charlie725_v2
+LANG_ENGLISH         "Judgment"
+
+REFERENCE            sh_charlie725_v3
+LANG_ENGLISH         "Stumpy"
+
+REFERENCE            sh_charlie725_v4
+LANG_ENGLISH         "Outback"
+
+REFERENCE            sh_charlie725_v5
+LANG_ENGLISH         "Rail Splitter"
+
+REFERENCE            sh_charlie725_v6
+LANG_ENGLISH         "Hammer"
+
+REFERENCE            sh_charlie725_v7
+LANG_ENGLISH         "Dread"
+
+REFERENCE            sh_charlie725_v8
+LANG_ENGLISH         "Ruin Seeker"
+
+REFERENCE            sh_charlie725_v9
+LANG_ENGLISH         "Ivory Tower"
+
+REFERENCE            sh_dpapa12
+LANG_ENGLISH         "R9-0 Shotgun"
+
+REFERENCE            sh_dpapa12_incendiary
+LANG_ENGLISH         "DP-12 Incendiary"
+
+REFERENCE            sh_dpapa12_v10
+LANG_ENGLISH         "Mongoose"
+
+REFERENCE            sh_dpapa12_v11
+LANG_ENGLISH         "Skull Hammer"
+
+REFERENCE            sh_dpapa12_v12
+LANG_ENGLISH         "In The Tall Grass"
+
+REFERENCE            sh_dpapa12_v2
+LANG_ENGLISH         "Smoothbore"
+
+REFERENCE            sh_dpapa12_v3
+LANG_ENGLISH         "Collateral Damage"
+
+REFERENCE            sh_dpapa12_v4
+LANG_ENGLISH         "Tenderizer"
+
+REFERENCE            sh_dpapa12_v5
+LANG_ENGLISH         "Hardhat"
+
+REFERENCE            sh_dpapa12_v6
+LANG_ENGLISH         "Restrictor"
+
+REFERENCE            sh_dpapa12_v7
+LANG_ENGLISH         "Death's Voice"
+
+REFERENCE            sh_dpapa12_v8
+LANG_ENGLISH         "Bloodhound"
+
+REFERENCE            sh_dpapa12_v9
+LANG_ENGLISH         "Doubloon"
+
+REFERENCE            sh_mike26
+LANG_ENGLISH         "VLK Rogue"
+
+REFERENCE            sh_mike26_v2
+LANG_ENGLISH         "Pipeline"
+
+REFERENCE            sh_mike26_v3
+LANG_ENGLISH         "First Horseman"
+
+REFERENCE            sh_mike26_v4
+LANG_ENGLISH         "Caldera"
+
+REFERENCE            sh_mike26_v5
+LANG_ENGLISH         "Oracle"
+
+REFERENCE            sh_oscar12
+LANG_ENGLISH         "Origin 12 Shotgun"
+
+REFERENCE            sh_oscar12_v10
+LANG_ENGLISH         "Sleeping Dragon"
+
+REFERENCE            sh_oscar12_v11
+LANG_ENGLISH         "Bankroll"
+
+REFERENCE            sh_oscar12_v12
+LANG_ENGLISH         "Hunter"
+
+REFERENCE            sh_oscar12_v13
+LANG_ENGLISH         "Prison Sentence"
+
+REFERENCE            sh_oscar12_v2
+LANG_ENGLISH         "Stealth Action"
+
+REFERENCE            sh_oscar12_v3
+LANG_ENGLISH         "Final Reprieve"
+
+REFERENCE            sh_oscar12_v4
+LANG_ENGLISH         "Pastel Death"
+
+REFERENCE            sh_oscar12_v5
+LANG_ENGLISH         "Morning Glory"
+
+REFERENCE            sh_oscar12_v6
+LANG_ENGLISH         "Demon Eyes"
+
+REFERENCE            sh_oscar12_v7
+LANG_ENGLISH         "Stalker"
+
+REFERENCE            sh_oscar12_v8
+LANG_ENGLISH         "Slizen"
+
+REFERENCE            sh_oscar12_v9
+LANG_ENGLISH         "Dark Matter"
+
+REFERENCE            sh_romeo870
+LANG_ENGLISH         "Model 680"
+
+REFERENCE            sh_romeo870_v10
+LANG_ENGLISH         "Gulf Stalker"
+
+REFERENCE            sh_romeo870_v11
+LANG_ENGLISH         "Imperatorium"
+
+REFERENCE            sh_romeo870_v12
+LANG_ENGLISH         "Outrunner"
+
+REFERENCE            sh_romeo870_v13
+LANG_ENGLISH         "Firedrake"
+
+REFERENCE            sh_romeo870_v14
+LANG_ENGLISH         "Raincheck"
+
+REFERENCE            sh_romeo870_v15
+LANG_ENGLISH         "Permafrost"
+
+REFERENCE            sh_romeo870_v16
+LANG_ENGLISH         "Splash Guard"
+
+REFERENCE            sh_romeo870_v17
+LANG_ENGLISH         "99 Days"
+
+REFERENCE            sh_romeo870_v18
+LANG_ENGLISH         "Puff Adder"
+
+REFERENCE            sh_romeo870_v19
+LANG_ENGLISH         "sh_romeo870_v19"
+
+REFERENCE            sh_romeo870_v2
+LANG_ENGLISH         "The Ejector"
+
+REFERENCE            sh_romeo870_v20
+LANG_ENGLISH         "SH_ROMEO870_V20"
+
+REFERENCE            sh_romeo870_v3
+LANG_ENGLISH         "Muck and Mire"
+
+REFERENCE            sh_romeo870_v4
+LANG_ENGLISH         "Hush"
+
+REFERENCE            sh_romeo870_v5
+LANG_ENGLISH         "1337 Skeet"
+
+REFERENCE            sh_romeo870_v6
+LANG_ENGLISH         "Showstopper"
+
+REFERENCE            sh_romeo870_v7
+LANG_ENGLISH         "Cuteness Reload"
+
+REFERENCE            sh_romeo870_v8
+LANG_ENGLISH         "Black Betty"
+
+REFERENCE            sh_romeo870_v9
+LANG_ENGLISH         "Corner Clear"
+
+REFERENCE            shard_ball
+LANG_ENGLISH         "Shard Ball"
+
+REFERENCE            shockwave
+LANG_ENGLISH         "Shockwave"
+
+REFERENCE            shotgun_attachment
+LANG_ENGLISH         "w/ Shotgun"
+
+REFERENCE            shroud_attachment
+LANG_ENGLISH         "Shroud"
+
+REFERENCE            silencer_attachment
+LANG_ENGLISH         "Suppressed"
+
+REFERENCE            silencer_energy_attachment
+LANG_ENGLISH         "Suppressed"
+
+REFERENCE            silencer_sonic_attachment
+LANG_ENGLISH         "Suppressed"
+
+REFERENCE            slasher_saw
+LANG_ENGLISH         "Smiley"
+
+REFERENCE            sm_akilo74
+LANG_ENGLISH         "AK-74"
+
+REFERENCE            sm_augolf
+LANG_ENGLISH         "AUG"
+
+REFERENCE            sm_augolf_v10
+LANG_ENGLISH         "Leecher"
+
+REFERENCE            sm_augolf_v11
+LANG_ENGLISH         "Affluenza"
+
+REFERENCE            sm_augolf_v12
+LANG_ENGLISH         "Antivenom"
+
+REFERENCE            sm_augolf_v13
+LANG_ENGLISH         "Vice grip"
+
+REFERENCE            sm_augolf_v14
+LANG_ENGLISH         "By the Toe"
+
+REFERENCE            sm_augolf_v15
+LANG_ENGLISH         "Territorial"
+
+REFERENCE            sm_augolf_v16
+LANG_ENGLISH         "Abstract"
+
+REFERENCE            sm_augolf_v17
+LANG_ENGLISH         "Run It Back"
+
+REFERENCE            sm_augolf_v18
+LANG_ENGLISH         "On the Volley"
+
+REFERENCE            sm_augolf_v19
+LANG_ENGLISH         "SM_AUGOLF_V19"
+
+REFERENCE            sm_augolf_v2
+LANG_ENGLISH         "Gremlin"
+
+REFERENCE            sm_augolf_v20
+LANG_ENGLISH         "SM_AUGOLF_V20"
+
+REFERENCE            sm_augolf_v3
+LANG_ENGLISH         "Airshot"
+
+REFERENCE            sm_augolf_v4
+LANG_ENGLISH         "High Octane"
+
+REFERENCE            sm_augolf_v5
+LANG_ENGLISH         "Trust Fund"
+
+REFERENCE            sm_augolf_v6
+LANG_ENGLISH         "Night Raid"
+
+REFERENCE            sm_augolf_v7
+LANG_ENGLISH         "Dame Fortuna"
+
+REFERENCE            sm_augolf_v8
+LANG_ENGLISH         "Breach Beast"
+
+REFERENCE            sm_augolf_v9
+LANG_ENGLISH         "Silverstar"
+
+REFERENCE            sm_beta
+LANG_ENGLISH         "PP19 Bizon"
+
+REFERENCE            sm_beta_v10
+LANG_ENGLISH         "Chuckwalla"
+
+REFERENCE            sm_beta_v11
+LANG_ENGLISH         "Snowblower"
+
+REFERENCE            sm_beta_v12
+LANG_ENGLISH         "Ravager"
+
+REFERENCE            sm_beta_v13
+LANG_ENGLISH         "SM_BETA_V13"
+
+REFERENCE            sm_beta_v14
+LANG_ENGLISH         "SM_BETA_V14"
+
+REFERENCE            sm_beta_v15
+LANG_ENGLISH         "SM_BETA_V15"
+
+REFERENCE            sm_beta_v16
+LANG_ENGLISH         "SM_BETA_V16"
+
+REFERENCE            sm_beta_v2
+LANG_ENGLISH         "Moral Argument"
+
+REFERENCE            sm_beta_v3
+LANG_ENGLISH         "Zebra"
+
+REFERENCE            sm_beta_v4
+LANG_ENGLISH         "Last Warrior"
+
+REFERENCE            sm_beta_v5
+LANG_ENGLISH         "Nursing Death"
+
+REFERENCE            sm_beta_v6
+LANG_ENGLISH         "Purple Rain"
+
+REFERENCE            sm_beta_v7
+LANG_ENGLISH         "Toxic Remains"
+
+REFERENCE            sm_beta_v8
+LANG_ENGLISH         "Wolf's Bite"
+
+REFERENCE            sm_beta_v9
+LANG_ENGLISH         "Relentless"
+
+REFERENCE            sm_charlie9
+LANG_ENGLISH         "SM_CHARLIE9"
+
+REFERENCE            sm_charlie9_v2
+LANG_ENGLISH         "SM_CHARLIE9_V2"
+
+REFERENCE            sm_charlie9_v3
+LANG_ENGLISH         "SM_CHARLIE9_V3"
+
+REFERENCE            sm_charlie9_v4
+LANG_ENGLISH         "SM_CHARLIE9_V4"
+
+REFERENCE            sm_charlie9_v5
+LANG_ENGLISH         "SM_CHARLIE9_V5"
+
+REFERENCE            sm_mpapa5
+LANG_ENGLISH         "MP5"
+
+REFERENCE            sm_mpapa5_v10
+LANG_ENGLISH         "Rampage"
+
+REFERENCE            sm_mpapa5_v11
+LANG_ENGLISH         "Girnar"
+
+REFERENCE            sm_mpapa5_v12
+LANG_ENGLISH         "Blue Blaze"
+
+REFERENCE            sm_mpapa5_v13
+LANG_ENGLISH         "Ducat"
+
+REFERENCE            sm_mpapa5_v14
+LANG_ENGLISH         "Milkweed"
+
+REFERENCE            sm_mpapa5_v15
+LANG_ENGLISH         "Sunburnt"
+
+REFERENCE            sm_mpapa5_v16
+LANG_ENGLISH         "Show of Force"
+
+REFERENCE            sm_mpapa5_v17
+LANG_ENGLISH         "Mot"
+
+REFERENCE            sm_mpapa5_v18
+LANG_ENGLISH         "SM_MPAPA5_V18
+"
+
+REFERENCE            sm_mpapa5_v19
+LANG_ENGLISH         "SM_MPAPA5_V19"
+
+REFERENCE            sm_mpapa5_v2
+LANG_ENGLISH         "Strapped"
+
+REFERENCE            sm_mpapa5_v20
+LANG_ENGLISH         "SM_MPAPA5_V20"
+
+REFERENCE            sm_mpapa5_v21
+LANG_ENGLISH         "SM_MPAPA5_V21"
+
+REFERENCE            sm_mpapa5_v3
+LANG_ENGLISH         "Admiral's Pride"
+
+REFERENCE            sm_mpapa5_v4
+LANG_ENGLISH         "Feeling Rusty"
+
+REFERENCE            sm_mpapa5_v5
+LANG_ENGLISH         "Sand Snake"
+
+REFERENCE            sm_mpapa5_v6
+LANG_ENGLISH         "Flood"
+
+REFERENCE            sm_mpapa5_v7
+LANG_ENGLISH         "The Cover Up"
+
+REFERENCE            sm_mpapa5_v8
+LANG_ENGLISH         "Heat Cycle"
+
+REFERENCE            sm_mpapa5_v9
+LANG_ENGLISH         "Point Blank"
+
+REFERENCE            sm_mpapa5k
+LANG_ENGLISH         "MP5K"
+
+REFERENCE            sm_mpapa7
+LANG_ENGLISH         "MP7"
+
+REFERENCE            sm_mpapa7_v10
+LANG_ENGLISH         "Bug Spray"
+
+REFERENCE            sm_mpapa7_v11
+LANG_ENGLISH         "Reverence"
+
+REFERENCE            sm_mpapa7_v12
+LANG_ENGLISH         "Hardwired"
+
+REFERENCE            sm_mpapa7_v13
+LANG_ENGLISH         "SM_MPAPA7_V13"
+
+REFERENCE            sm_mpapa7_v14
+LANG_ENGLISH         "Prototype: Omega"
+
+REFERENCE            sm_mpapa7_v15
+LANG_ENGLISH         "Mud Drauber"
+
+REFERENCE            sm_mpapa7_v16
+LANG_ENGLISH         "New text"
+
+REFERENCE            sm_mpapa7_v2
+LANG_ENGLISH         "Piercer"
+
+REFERENCE            sm_mpapa7_v3
+LANG_ENGLISH         "Sands of Time"
+
+REFERENCE            sm_mpapa7_v4
+LANG_ENGLISH         "Cataclysmic"
+
+REFERENCE            sm_mpapa7_v5
+LANG_ENGLISH         "Corinthian"
+
+REFERENCE            sm_mpapa7_v6
+LANG_ENGLISH         "Riptide"
+
+REFERENCE            sm_mpapa7_v7
+LANG_ENGLISH         "Smelter"
+
+REFERENCE            sm_mpapa7_v8
+LANG_ENGLISH         "Vespertine"
+
+REFERENCE            sm_mpapa7_v9
+LANG_ENGLISH         "Bengal"
+
+REFERENCE            sm_papa90
+LANG_ENGLISH         "P90"
+
+REFERENCE            sm_papa90_v10
+LANG_ENGLISH         "Corrosion"
+
+REFERENCE            sm_papa90_v11
+LANG_ENGLISH         "Mowed Down"
+
+REFERENCE            sm_papa90_v12
+LANG_ENGLISH         "Casanova"
+
+REFERENCE            sm_papa90_v13
+LANG_ENGLISH         "The Neutralizer"
+
+REFERENCE            sm_papa90_v14
+LANG_ENGLISH         "SM_PAPA90_V14"
+
+REFERENCE            sm_papa90_v15
+LANG_ENGLISH         "SM_PAPA90_V15"
+
+REFERENCE            sm_papa90_v16
+LANG_ENGLISH         "The Smoke Show"
+
+REFERENCE            sm_papa90_v2
+LANG_ENGLISH         "Stygian"
+
+REFERENCE            sm_papa90_v3
+LANG_ENGLISH         "Ruby Rampage"
+
+REFERENCE            sm_papa90_v4
+LANG_ENGLISH         "Area 51"
+
+REFERENCE            sm_papa90_v5
+LANG_ENGLISH         "Blizzard Warfare"
+
+REFERENCE            sm_papa90_v6
+LANG_ENGLISH         "X-PaNZer"
+
+REFERENCE            sm_papa90_v7
+LANG_ENGLISH         "Dry Heat"
+
+REFERENCE            sm_papa90_v8
+LANG_ENGLISH         "The Dark"
+
+REFERENCE            sm_papa90_v9
+LANG_ENGLISH         "Original Sin"
+
+REFERENCE            sm_smgolf45
+LANG_ENGLISH         "Striker 45"
+
+REFERENCE            sm_smgolf45_v10
+LANG_ENGLISH         "SM_SMGOLF45_V10"
+
+REFERENCE            sm_smgolf45_v2
+LANG_ENGLISH         "Undertaker"
+
+REFERENCE            sm_smgolf45_v3
+LANG_ENGLISH         "Turbulence"
+
+REFERENCE            sm_smgolf45_v4
+LANG_ENGLISH         "The Reckoning"
+
+REFERENCE            sm_smgolf45_v5
+LANG_ENGLISH         "Garrote"
+
+REFERENCE            sm_smgolf45_v6
+LANG_ENGLISH         "SM_SMGOLF45_V6"
+
+REFERENCE            sm_smgolf45_v7
+LANG_ENGLISH         "SM_SMGOLF45_V7"
+
+REFERENCE            sm_smgolf45_v8
+LANG_ENGLISH         "SM_SMGOLF45_V8"
+
+REFERENCE            sm_smgolf45_v9
+LANG_ENGLISH         "SM_SMGOLF45_V9"
+
+REFERENCE            sm_uzulu
+LANG_ENGLISH         "Uzi"
+
+REFERENCE            sm_uzulu_v10
+LANG_ENGLISH         "All That Glitters"
+
+REFERENCE            sm_uzulu_v11
+LANG_ENGLISH         "Mach-5"
+
+REFERENCE            sm_uzulu_v12
+LANG_ENGLISH         "J-Pop Pop"
+
+REFERENCE            sm_uzulu_v13
+LANG_ENGLISH         "Freight Train"
+
+REFERENCE            sm_uzulu_v14
+LANG_ENGLISH         "Pocketed Malice"
+
+REFERENCE            sm_uzulu_v15
+LANG_ENGLISH         "SM_UZULU_V15"
+
+REFERENCE            sm_uzulu_v16
+LANG_ENGLISH         "SM_UZULU_V16"
+
+REFERENCE            sm_uzulu_v2
+LANG_ENGLISH         "Blowback"
+
+REFERENCE            sm_uzulu_v3
+LANG_ENGLISH         "Chromatic"
+
+REFERENCE            sm_uzulu_v4
+LANG_ENGLISH         "Infiltrator"
+
+REFERENCE            sm_uzulu_v5
+LANG_ENGLISH         "Cartel"
+
+REFERENCE            sm_uzulu_v6
+LANG_ENGLISH         "Meltdown"
+
+REFERENCE            sm_uzulu_v7
+LANG_ENGLISH         "Speed Run"
+
+REFERENCE            sm_uzulu_v8
+LANG_ENGLISH         "Quick Snap"
+
+REFERENCE            sm_uzulu_v9
+LANG_ENGLISH         "Golden Rule"
+
+REFERENCE            sm_victor
+LANG_ENGLISH         "Fennec"
+
+REFERENCE            sm_victor_v2
+LANG_ENGLISH         "SM_VICTOR_V2"
+
+REFERENCE            sm_victor_v3
+LANG_ENGLISH         "SM_VICTOR_V3"
+
+REFERENCE            sm_victor_v4
+LANG_ENGLISH         "SM_VICTOR_V4"
+
+REFERENCE            sm_victor_v5
+LANG_ENGLISH         "SM_VICTOR_V5"
+
+REFERENCE            smart_attachment
+LANG_ENGLISH         "Smart Shot"
+
+REFERENCE            smoke_grenade
+LANG_ENGLISH         "Smoke Grenade"
+
+REFERENCE            smokegrenade
+LANG_ENGLISH         "Smoke Grenade"
+
+REFERENCE            sn_alpha50
+LANG_ENGLISH         "AX-50"
+
+REFERENCE            sn_alpha50_v10
+LANG_ENGLISH         "Sunspot"
+
+REFERENCE            sn_alpha50_v11
+LANG_ENGLISH         "Boomslang"
+
+REFERENCE            sn_alpha50_v12
+LANG_ENGLISH         "Lonely Lagoon"
+
+REFERENCE            sn_alpha50_v13
+LANG_ENGLISH         "Flawless Technique"
+
+REFERENCE            sn_alpha50_v14
+LANG_ENGLISH         "SN_ALPHA50_V14"
+
+REFERENCE            sn_alpha50_v15
+LANG_ENGLISH         "SN_ALPHA50_V15"
+
+REFERENCE            sn_alpha50_v16
+LANG_ENGLISH         "SN_ALPHA50_V16"
+
+REFERENCE            sn_alpha50_v2
+LANG_ENGLISH         "Corpse Maker"
+
+REFERENCE            sn_alpha50_v3
+LANG_ENGLISH         "Suffering's End"
+
+REFERENCE            sn_alpha50_v4
+LANG_ENGLISH         "Last Chance"
+
+REFERENCE            sn_alpha50_v5
+LANG_ENGLISH         "Ragnarok"
+
+REFERENCE            sn_alpha50_v6
+LANG_ENGLISH         "Trebuchet"
+
+REFERENCE            sn_alpha50_v7
+LANG_ENGLISH         "Big Game"
+
+REFERENCE            sn_alpha50_v8
+LANG_ENGLISH         "Witching Hour"
+
+REFERENCE            sn_alpha50_v9
+LANG_ENGLISH         "Fuelrod"
+
+REFERENCE            sn_crossbow
+LANG_ENGLISH         "Crossbow"
+
+REFERENCE            sn_crossbow_v2
+LANG_ENGLISH         "SN_CROSSBOW_V2"
+
+REFERENCE            sn_crossbow_v3
+LANG_ENGLISH         "Watchful Eye"
+
+REFERENCE            sn_crossbow_v4
+LANG_ENGLISH         "SN_CROSSBOW_V4"
+
+REFERENCE            sn_crossbow_v5
+LANG_ENGLISH         "Ice Lance"
+
+REFERENCE            sn_delta
+LANG_ENGLISH         "Dragunov"
+
+REFERENCE            sn_delta_v10
+LANG_ENGLISH         "Meltdown"
+
+REFERENCE            sn_delta_v11
+LANG_ENGLISH         "SN_DELTA_V11"
+
+REFERENCE            sn_delta_v12
+LANG_ENGLISH         "SN_DELTA_V12"
+
+REFERENCE            sn_delta_v13
+LANG_ENGLISH         "SN_DELTA_V13"
+
+REFERENCE            sn_delta_v2
+LANG_ENGLISH         "Plague Sore"
+
+REFERENCE            sn_delta_v3
+LANG_ENGLISH         "Chroma"
+
+REFERENCE            sn_delta_v4
+LANG_ENGLISH         "Semi-God"
+
+REFERENCE            sn_delta_v5
+LANG_ENGLISH         "Siberian Tiger"
+
+REFERENCE            sn_delta_v6
+LANG_ENGLISH         "Crimson Ursa"
+
+REFERENCE            sn_delta_v7
+LANG_ENGLISH         "Tusk"
+
+REFERENCE            sn_delta_v8
+LANG_ENGLISH         "Sell High"
+
+REFERENCE            sn_delta_v9
+LANG_ENGLISH         "Stone Cold"
+
+REFERENCE            sn_hadir
+LANG_ENGLISH         "Hadir's Sniper Rifle"
+
+REFERENCE            sn_hdromeo
+LANG_ENGLISH         "HDR"
+
+REFERENCE            sn_hdromeo_v10
+LANG_ENGLISH         "End State"
+
+REFERENCE            sn_hdromeo_v11
+LANG_ENGLISH         "The Frontier"
+
+REFERENCE            sn_hdromeo_v12
+LANG_ENGLISH         "SN_HDROMEO_V12"
+
+REFERENCE            sn_hdromeo_v13
+LANG_ENGLISH         "SN_HDROMEO_V13"
+
+REFERENCE            sn_hdromeo_v14
+LANG_ENGLISH         "SN_HDROMEO_V14"
+
+REFERENCE            sn_hdromeo_v15
+LANG_ENGLISH         "SN_HDROMEO_V15"
+
+REFERENCE            sn_hdromeo_v16
+LANG_ENGLISH         "SN_HDROMEO_V16"
+
+REFERENCE            sn_hdromeo_v2
+LANG_ENGLISH         "Hadir's Right Hand"
+
+REFERENCE            sn_hdromeo_v3
+LANG_ENGLISH         "Grassy Knoll"
+
+REFERENCE            sn_hdromeo_v4
+LANG_ENGLISH         "The Oceanographer"
+
+REFERENCE            sn_hdromeo_v5
+LANG_ENGLISH         "Perfect Storm"
+
+REFERENCE            sn_hdromeo_v6
+LANG_ENGLISH         "Scorpionem"
+
+REFERENCE            sn_hdromeo_v7
+LANG_ENGLISH         "The Alpha"
+
+REFERENCE            sn_hdromeo_v8
+LANG_ENGLISH         "Great White"
+
+REFERENCE            sn_hdromeo_v9
+LANG_ENGLISH         "Early Riser"
+
+REFERENCE            sn_kilo98
+LANG_ENGLISH         "Kar98k"
+
+REFERENCE            sn_kilo98_v10
+LANG_ENGLISH         "Black Diamond"
+
+REFERENCE            sn_kilo98_v11
+LANG_ENGLISH         "The Guillotine"
+
+REFERENCE            sn_kilo98_v12
+LANG_ENGLISH         "SN_KILO98_V12"
+
+REFERENCE            sn_kilo98_v13
+LANG_ENGLISH         "SN_KILO98_V13"
+
+REFERENCE            sn_kilo98_v14
+LANG_ENGLISH         "SN_KILO98_V14"
+
+REFERENCE            sn_kilo98_v15
+LANG_ENGLISH         "SN_KILO98_V15"
+
+REFERENCE            sn_kilo98_v16
+LANG_ENGLISH         "SN_KILO98_V16"
+
+REFERENCE            sn_kilo98_v17
+LANG_ENGLISH         "Open Season"
+
+REFERENCE            sn_kilo98_v2
+LANG_ENGLISH         "Ol' Dusty"
+
+REFERENCE            sn_kilo98_v3
+LANG_ENGLISH         "Sand Scorpion"
+
+REFERENCE            sn_kilo98_v4
+LANG_ENGLISH         "Butterfly Kisses"
+
+REFERENCE            sn_kilo98_v5
+LANG_ENGLISH         "Dust Devil"
+
+REFERENCE            sn_kilo98_v6
+LANG_ENGLISH         "Long Arm"
+
+REFERENCE            sn_kilo98_v7
+LANG_ENGLISH         "Heart Of The Beast"
+
+REFERENCE            sn_kilo98_v8
+LANG_ENGLISH         "Sterling"
+
+REFERENCE            sn_kilo98_v9
+LANG_ENGLISH         "Incisor"
+
+REFERENCE            sn_mike14
+LANG_ENGLISH         "EBR-14"
+
+REFERENCE            sn_mike142
+LANG_ENGLISH         "TEST M14"
+
+REFERENCE            sn_mike14_v10
+LANG_ENGLISH         "Line Breaker"
+
+REFERENCE            sn_mike14_v11
+LANG_ENGLISH         "Rip Current"
+
+REFERENCE            sn_mike14_v12
+LANG_ENGLISH         "SN_MIKE14_V12"
+
+REFERENCE            sn_mike14_v13
+LANG_ENGLISH         "SN_MIKE14_V13"
+
+REFERENCE            sn_mike14_v14
+LANG_ENGLISH         "Cottonmouth"
+
+REFERENCE            sn_mike14_v15
+LANG_ENGLISH         "Icebreaker"
+
+REFERENCE            sn_mike14_v16
+LANG_ENGLISH         "SN_MIKE14_V16"
+
+REFERENCE            sn_mike14_v2
+LANG_ENGLISH         "Stay Frosty"
+
+REFERENCE            sn_mike14_v3
+LANG_ENGLISH         "Swamp Weed"
+
+REFERENCE            sn_mike14_v4
+LANG_ENGLISH         "Stiff Arm"
+
+REFERENCE            sn_mike14_v5
+LANG_ENGLISH         "Messenger"
+
+REFERENCE            sn_mike14_v6
+LANG_ENGLISH         "Flesh Wound"
+
+REFERENCE            sn_mike14_v7
+LANG_ENGLISH         "Eradication"
+
+REFERENCE            sn_mike14_v8
+LANG_ENGLISH         "ZLR Special"
+
+REFERENCE            sn_mike14_v9
+LANG_ENGLISH         "Moonphase"
+
+REFERENCE            sn_sbeta
+LANG_ENGLISH         "MK2 Carbine"
+
+REFERENCE            sn_sbeta_v10
+LANG_ENGLISH         "Fashion Killer"
+
+REFERENCE            sn_sbeta_v11
+LANG_ENGLISH         "Torn"
+
+REFERENCE            sn_sbeta_v12
+LANG_ENGLISH         "Wish Me Luck"
+
+REFERENCE            sn_sbeta_v13
+LANG_ENGLISH         "Lost Relic"
+
+REFERENCE            sn_sbeta_v14
+LANG_ENGLISH         "Bamboo Shoot"
+
+REFERENCE            sn_sbeta_v15
+LANG_ENGLISH         "Gentlemen's Agreement"
+
+REFERENCE            sn_sbeta_v16
+LANG_ENGLISH         "Stratus"
+
+REFERENCE            sn_sbeta_v2
+LANG_ENGLISH         "Ending Misery"
+
+REFERENCE            sn_sbeta_v3
+LANG_ENGLISH         "Heartthrob"
+
+REFERENCE            sn_sbeta_v4
+LANG_ENGLISH         "The Warden"
+
+REFERENCE            sn_sbeta_v5
+LANG_ENGLISH         "Dusty Trail"
+
+REFERENCE            sn_sbeta_v6
+LANG_ENGLISH         "Snowy Crag"
+
+REFERENCE            sn_sbeta_v7
+LANG_ENGLISH         "Brushstroke"
+
+REFERENCE            sn_sbeta_v8
+LANG_ENGLISH         "Golden Age"
+
+REFERENCE            sn_sbeta_v9
+LANG_ENGLISH         "Walking Stick"
+
+REFERENCE            sn_sksierra
+LANG_ENGLISH         "SKS"
+
+REFERENCE            sn_sksierra_v10
+LANG_ENGLISH         "SN_SKSIERRA_V10"
+
+REFERENCE            sn_sksierra_v2
+LANG_ENGLISH         "Utility Tool"
+
+REFERENCE            sn_sksierra_v3
+LANG_ENGLISH         "SN_SKSIERRA_V3"
+
+REFERENCE            sn_sksierra_v4
+LANG_ENGLISH         "Confetti Killer"
+
+REFERENCE            sn_sksierra_v5
+LANG_ENGLISH         "SN_SKSIERRA_V5"
+
+REFERENCE            sn_sksierra_v6
+LANG_ENGLISH         "SN_SKSIERRA_V6"
+
+REFERENCE            sn_sksierra_v7
+LANG_ENGLISH         "SN_SKSIERRA_V7"
+
+REFERENCE            sn_sksierra_v8
+LANG_ENGLISH         "SN_SKSIERRA_V8"
+
+REFERENCE            sn_sksierra_v9
+LANG_ENGLISH         "SN_SKSIERRA_V9"
+
+REFERENCE            sn_xmike109
+LANG_ENGLISH         "Rytec AMR"
+
+REFERENCE            snprscope_kar98_attachment
+LANG_ENGLISH         "Scoped"
+
+REFERENCE            sonic
+LANG_ENGLISH         "Banshee"
+
+REFERENCE            spas
+LANG_ENGLISH         "Rack-9"
+
+REFERENCE            spas_classic
+LANG_ENGLISH         "S-Ravage"
+
+REFERENCE            speed_strip
+LANG_ENGLISH         "V.E.F."
+
+REFERENCE            spiked_bat
+LANG_ENGLISH         "Spiked Bat"
+
+REFERENCE            spiked_bat_pap1
+LANG_ENGLISH         "Homer"
+
+REFERENCE            spiked_bat_pap2
+LANG_ENGLISH         "Grand Slam"
+
+REFERENCE            splash_grenade
+LANG_ENGLISH         "Plasma Grenade"
+
+REFERENCE            spoon_shiv
+LANG_ENGLISH         "Shiv"
+
+REFERENCE            spotter_scope
+LANG_ENGLISH         "Airstrike Marker"
+
+REFERENCE            stasis
+LANG_ENGLISH         "KBS Stasis"
+
+REFERENCE            stasis_desc
+LANG_ENGLISH         "Modified KBS that has reduced ADS Sway."
+
+REFERENCE            steeldragon
+LANG_ENGLISH         "F-SpAr Torch"
+
+REFERENCE            steeldragon_mp
+LANG_ENGLISH         "Steel Dragon"
+
+REFERENCE            stock_attachment
+LANG_ENGLISH         "Stock"
+
+REFERENCE            strike_marker
+LANG_ENGLISH         "Strike Marker"
+
+REFERENCE            subclass
+LANG_ENGLISH         "&&1 &&2"
+
+REFERENCE            subclass_id_1
+LANG_ENGLISH         "Alpha"
+
+REFERENCE            subclass_id_10
+LANG_ENGLISH         "Juliet"
+
+REFERENCE            subclass_id_11
+LANG_ENGLISH         "Kilo"
+
+REFERENCE            subclass_id_12
+LANG_ENGLISH         "Lima"
+
+REFERENCE            subclass_id_13
+LANG_ENGLISH         "Mike"
+
+REFERENCE            subclass_id_14
+LANG_ENGLISH         "November"
+
+REFERENCE            subclass_id_15
+LANG_ENGLISH         "Oscar"
+
+REFERENCE            subclass_id_16
+LANG_ENGLISH         "Papa"
+
+REFERENCE            subclass_id_17
+LANG_ENGLISH         "Quebec"
+
+REFERENCE            subclass_id_18
+LANG_ENGLISH         "Romeo"
+
+REFERENCE            subclass_id_19
+LANG_ENGLISH         "Sierra"
+
+REFERENCE            subclass_id_2
+LANG_ENGLISH         "Bravo"
+
+REFERENCE            subclass_id_20
+LANG_ENGLISH         "Tango"
+
+REFERENCE            subclass_id_21
+LANG_ENGLISH         "Uniform"
+
+REFERENCE            subclass_id_22
+LANG_ENGLISH         "Victor"
+
+REFERENCE            subclass_id_23
+LANG_ENGLISH         "Whiskey"
+
+REFERENCE            subclass_id_24
+LANG_ENGLISH         "Xray"
+
+REFERENCE            subclass_id_25
+LANG_ENGLISH         "Yankee"
+
+REFERENCE            subclass_id_26
+LANG_ENGLISH         "Zulu"
+
+REFERENCE            subclass_id_3
+LANG_ENGLISH         "Charlie"
+
+REFERENCE            subclass_id_4
+LANG_ENGLISH         "Delta"
+
+REFERENCE            subclass_id_5
+LANG_ENGLISH         "Echo"
+
+REFERENCE            subclass_id_6
+LANG_ENGLISH         "Foxtrot"
+
+REFERENCE            subclass_id_7
+LANG_ENGLISH         "Golf"
+
+REFERENCE            subclass_id_8
+LANG_ENGLISH         "Hotel"
+
+REFERENCE            subclass_id_9
+LANG_ENGLISH         "India"
+
+REFERENCE            suppressor_l_attachment
+LANG_ENGLISH         "Suppressor (Long)"
+
+REFERENCE            suppressor_s_attachment
+LANG_ENGLISH         "Suppressor (Short)"
+
+REFERENCE            swim_attachment
+LANG_ENGLISH         ""
+
+REFERENCE            tactical_attachment
+LANG_ENGLISH         "Tactical Knife"
+
+REFERENCE            target_not_enough_clearance
+LANG_ENGLISH         "Not Enough Room To Fire"
+
+REFERENCE            target_too_close
+LANG_ENGLISH         "Too Close to Target"
+
+REFERENCE            teargas
+LANG_ENGLISH         "Tear Gas"
+
+REFERENCE            thermal_attachment
+LANG_ENGLISH         "Thermal"
+
+REFERENCE            thermal_sniper_attachment
+LANG_ENGLISH         "Thermal"
+
+REFERENCE            thermite
+LANG_ENGLISH         "Thermite Detonator"
+
+REFERENCE            thermobaric_grenade_mp
+LANG_ENGLISH         "Thermobaric Grenade"
+
+REFERENCE            throwing_axe
+LANG_ENGLISH         "Throwing Axe"
+
+REFERENCE            trophy
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            two_headed_axe
+LANG_ENGLISH         "Two-Headed Axe"
+
+REFERENCE            two_headed_axe_pap1
+LANG_ENGLISH         "Berserker"
+
+REFERENCE            two_headed_axe_pap2
+LANG_ENGLISH         "Janus"
+
+REFERENCE            uav_3dping
+LANG_ENGLISH         "Oracle"
+
+REFERENCE            uav_strike
+LANG_ENGLISH         "NZ3 Designator"
+
+REFERENCE            ubshtgn
+LANG_ENGLISH         "Deputy"
+
+REFERENCE            udm45
+LANG_ENGLISH         "UDM"
+
+REFERENCE            ump45
+LANG_ENGLISH         "HVR"
+
+REFERENCE            ump45_classic
+LANG_ENGLISH         "MacTav-45"
+
+REFERENCE            ump45_sp
+LANG_ENGLISH         "HVR"
+
+REFERENCE            vgrip_attachment
+LANG_ENGLISH         "Vert Grip"
+
+REFERENCE            virus_grenade
+LANG_ENGLISH         "Virus Grenade"
+
+REFERENCE            vr
+LANG_ENGLISH         "X-Eon"
+
+REFERENCE            vzscope_attachment
+LANG_ENGLISH         "Variable Zoom"
+
+REFERENCE            weapondrop_marker
+LANG_ENGLISH         "Weapon Drop Marker"
+
+REFERENCE            xmags_attachment
+LANG_ENGLISH         "Extended Mags"
+
+REFERENCE            xmags_attachment_br
+LANG_ENGLISH         "ExMags"
+
+REFERENCE            xmags_drum_attachment
+LANG_ENGLISH         "Drum Mag"
+
+REFERENCE            xmags_energy_attachment
+LANG_ENGLISH         "Recharge"
+
+REFERENCE            xmags_large_attachment
+LANG_ENGLISH         "High Capacity Mags"
+
+REFERENCE            xmags_sonic_attachment
+LANG_ENGLISH         "Recharge"
+
+
+ENDMARKER

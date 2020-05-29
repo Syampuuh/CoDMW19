@@ -1,0 +1,51 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            day
+LANG_ENGLISH         "day"
+
+REFERENCE            day_minimal
+LANG_ENGLISH         "d"
+
+REFERENCE            day_plural
+LANG_ENGLISH         "days"
+
+REFERENCE            hour
+LANG_ENGLISH         "hour"
+
+REFERENCE            hour_minimal
+LANG_ENGLISH         "h"
+
+REFERENCE            hour_plural
+LANG_ENGLISH         "hours"
+
+REFERENCE            millisecond
+LANG_ENGLISH         "millisecond"
+
+REFERENCE            millisecond_minimal
+LANG_ENGLISH         "ms"
+
+REFERENCE            millisecond_plural
+LANG_ENGLISH         "milliseconds"
+
+REFERENCE            minute
+LANG_ENGLISH         "minute"
+
+REFERENCE            minute_minimal
+LANG_ENGLISH         "m"
+
+REFERENCE            minute_plural
+LANG_ENGLISH         "minutes"
+
+REFERENCE            second
+LANG_ENGLISH         "second"
+
+REFERENCE            second_minimal
+LANG_ENGLISH         "s"
+
+REFERENCE            second_plural
+LANG_ENGLISH         "seconds"
+
+
+ENDMARKER
