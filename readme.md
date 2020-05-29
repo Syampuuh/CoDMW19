@@ -1,14 +1,14 @@
-#Call of Duty: Modern Warfare 2019 client tracking
+# Call of Duty: Modern Warfare 2019 client tracking
 
 Tracking for changes to MW19. Files are extracted idling in Multiplayer menu immediately after booting the game for consistency, unless otherwise noted.
 
 ---
 
-##*!assets* folder
+## *!assets* folder
 
 Replication of Greyhound's output file structure with empty dummy files (because the full output is ~70gb) for tracking file additions. Changes will still be tracked locally by myself even if they don't show up on GitHub.
 
-##What's up with the Lua scripts?
+## What's up with the Lua scripts?
 
 Seems to be an extraction limitation right now, only strings come through properly. That's fine though because just the strings alone already plenty of information.
 
