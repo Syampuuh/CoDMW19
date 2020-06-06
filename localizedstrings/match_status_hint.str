@@ -2,134 +2,134 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            sync_squad_brm
-LANG_ENGLISH         "Sync up with your squad."
-
-REFERENCE            secure_vip
-LANG_ENGLISH         "Secure the VIP"
-
-REFERENCE            secure_extract
-LANG_ENGLISH         "Secure an extraction point"
-
-REFERENCE            revive_teammates
-LANG_ENGLISH         "Revive teammates"
-
-REFERENCE            return_flag
-LANG_ENGLISH         "Return the Flag"
-
-REFERENCE            prevent_extract
-LANG_ENGLISH         "Prevent the VIP from being extracted"
-
-REFERENCE            plant_bombs
-LANG_ENGLISH         "Plant bombs to destroy the weapons caches"
-
-REFERENCE            plant_bomb
-LANG_ENGLISH         "Plant the bomb at A or B bomb site"
-
-REFERENCE            pickup_bomb
-LANG_ENGLISH         "Pick up the bomb"
-
-REFERENCE            kill_collect_tags
-LANG_ENGLISH         "Confirm kills by collecting dog tags"
-
-REFERENCE            infect_survive
-LANG_ENGLISH         "Survive"
-
-REFERENCE            infect_infect
-LANG_ENGLISH         "Infect all survivors"
-
-REFERENCE            get_obj_brm
-LANG_ENGLISH         "Locate an objective with the tac map."
-
-REFERENCE            exfil_run_to_extract
-LANG_ENGLISH         "Get to the extraction choppers"
-
-REFERENCE            exfil_prevent_extract
-LANG_ENGLISH         "Prevent hostiles from extracting"
-
-REFERENCE            escort_vip
-LANG_ENGLISH         "Escort the VIP to an extraction point"
-
-REFERENCE            escort_bomb
-LANG_ENGLISH         "Protect the bomb carrier"
-
-REFERENCE            destroy_hq
-LANG_ENGLISH         "Destroy the headquarters"
-
-REFERENCE            defuse_bomb
-LANG_ENGLISH         "Defuse the bomb"
-
-REFERENCE            defend_vip
-LANG_ENGLISH         "Defend the VIP"
-
-REFERENCE            defend_sites
-LANG_ENGLISH         "Defend the A and B bomb sites"
-
-REFERENCE            defend_hq
-LANG_ENGLISH         "Defend the Headquarters"
-
-REFERENCE            defend_flag
-LANG_ENGLISH         "Defend the Flag"
-
-REFERENCE            defend_bomb
-LANG_ENGLISH         "Defend the bomb"
-
-REFERENCE            cyber_emp_plant
-LANG_ENGLISH         "Plant the bomb"
-
-REFERENCE            cyber_emp_pickup
-LANG_ENGLISH         "Get the bomb"
-
-REFERENCE            cyber_emp_defuse
-LANG_ENGLISH         "Defuse the bomb"
-
-REFERENCE            cyber_emp_defend
-LANG_ENGLISH         "Defend the bomb"
-
-REFERENCE            cyber_defend_data
-LANG_ENGLISH         "Defend the Data Center"
-
-REFERENCE            cyber_carrier_defend
-LANG_ENGLISH         "Protect the bomb carrier"
-
-REFERENCE            control_hardpoint
-LANG_ENGLISH         "Control the Hardpoint Area"
-
-REFERENCE            control_dz
-LANG_ENGLISH         "Control the drop zone area"
-
-REFERENCE            common_kill
-LANG_ENGLISH         "Eliminate enemy combatants"
-
-REFERENCE            collect_bank_tags
-LANG_ENGLISH         "Collect dog tags and take them to the banks"
-
-REFERENCE            carry_vip
-LANG_ENGLISH         "Carry the VIP to an extraction point"
-
-REFERENCE            capture_obj_brm
-LANG_ENGLISH         "Capture the marked objective."
-
-REFERENCE            capture_nuke
-LANG_ENGLISH         "Capture the nuke"
-
-REFERENCE            capture_jugg
-LANG_ENGLISH         "Capture the Juggernaut armor"
-
-REFERENCE            capture_hq
-LANG_ENGLISH         "Capture the Headquarters"
-
-REFERENCE            capture_hardpoint
-LANG_ENGLISH         "Capture and defend the Hardpoint"
-
-REFERENCE            capture_flag
-LANG_ENGLISH         "Capture the Flag"
+REFERENCE            capture_defend_flags
+LANG_ENGLISH         "Capture and defend the flags"
 
 REFERENCE            capture_dz
 LANG_ENGLISH         "Capture and defend the drop zone"
 
-REFERENCE            capture_defend_flags
-LANG_ENGLISH         "Capture and defend the flags"
+REFERENCE            capture_flag
+LANG_ENGLISH         "Capture the Flag"
+
+REFERENCE            capture_hardpoint
+LANG_ENGLISH         "Capture and defend the Hardpoint"
+
+REFERENCE            capture_hq
+LANG_ENGLISH         "Capture the Headquarters"
+
+REFERENCE            capture_jugg
+LANG_ENGLISH         "Capture the Juggernaut armor"
+
+REFERENCE            capture_nuke
+LANG_ENGLISH         "Capture the nuke"
+
+REFERENCE            capture_obj_brm
+LANG_ENGLISH         "Capture the marked objective."
+
+REFERENCE            carry_vip
+LANG_ENGLISH         "Carry the VIP to an extraction point"
+
+REFERENCE            collect_bank_tags
+LANG_ENGLISH         "Collect dog tags and take them to the banks"
+
+REFERENCE            common_kill
+LANG_ENGLISH         "Eliminate enemy combatants"
+
+REFERENCE            control_dz
+LANG_ENGLISH         "Control the drop zone area"
+
+REFERENCE            control_hardpoint
+LANG_ENGLISH         "Control the Hardpoint Area"
+
+REFERENCE            cyber_carrier_defend
+LANG_ENGLISH         "Protect the bomb carrier"
+
+REFERENCE            cyber_defend_data
+LANG_ENGLISH         "Defend the Data Center"
+
+REFERENCE            cyber_emp_defend
+LANG_ENGLISH         "Defend the bomb"
+
+REFERENCE            cyber_emp_defuse
+LANG_ENGLISH         "Defuse the bomb"
+
+REFERENCE            cyber_emp_pickup
+LANG_ENGLISH         "Get the bomb"
+
+REFERENCE            cyber_emp_plant
+LANG_ENGLISH         "Plant the bomb"
+
+REFERENCE            defend_bomb
+LANG_ENGLISH         "Defend the bomb"
+
+REFERENCE            defend_flag
+LANG_ENGLISH         "Defend the Flag"
+
+REFERENCE            defend_hq
+LANG_ENGLISH         "Defend the Headquarters"
+
+REFERENCE            defend_sites
+LANG_ENGLISH         "Defend the A and B bomb sites"
+
+REFERENCE            defend_vip
+LANG_ENGLISH         "Defend the VIP"
+
+REFERENCE            defuse_bomb
+LANG_ENGLISH         "Defuse the bomb"
+
+REFERENCE            destroy_hq
+LANG_ENGLISH         "Destroy the headquarters"
+
+REFERENCE            escort_bomb
+LANG_ENGLISH         "Protect the bomb carrier"
+
+REFERENCE            escort_vip
+LANG_ENGLISH         "Escort the VIP to an extraction point"
+
+REFERENCE            exfil_prevent_extract
+LANG_ENGLISH         "Prevent hostiles from extracting"
+
+REFERENCE            exfil_run_to_extract
+LANG_ENGLISH         "Get to the extraction choppers"
+
+REFERENCE            get_obj_brm
+LANG_ENGLISH         "Locate an objective with the tac map."
+
+REFERENCE            infect_infect
+LANG_ENGLISH         "Infect all survivors"
+
+REFERENCE            infect_survive
+LANG_ENGLISH         "Survive"
+
+REFERENCE            kill_collect_tags
+LANG_ENGLISH         "Confirm kills by collecting dog tags"
+
+REFERENCE            pickup_bomb
+LANG_ENGLISH         "Pick up the bomb"
+
+REFERENCE            plant_bomb
+LANG_ENGLISH         "Plant the bomb at A or B bomb site"
+
+REFERENCE            plant_bombs
+LANG_ENGLISH         "Plant bombs to destroy the weapons caches"
+
+REFERENCE            prevent_extract
+LANG_ENGLISH         "Prevent the VIP from being extracted"
+
+REFERENCE            return_flag
+LANG_ENGLISH         "Return the Flag"
+
+REFERENCE            revive_teammates
+LANG_ENGLISH         "Revive teammates"
+
+REFERENCE            secure_extract
+LANG_ENGLISH         "Secure an extraction point"
+
+REFERENCE            secure_vip
+LANG_ENGLISH         "Secure the VIP"
+
+REFERENCE            sync_squad_brm
+LANG_ENGLISH         "Sync up with your squad."
 
 
 ENDMARKER

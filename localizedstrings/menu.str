@@ -712,6 +712,20 @@ LANG_ENGLISH         "Extra primary weapon attachment."
 REFERENCE            bling_secondary_desc
 LANG_ENGLISH         "Extra secondary weapon attachment."
 
+REFERENCE            blm
+LANG_ENGLISH         "Black Lives Matter"
+
+REFERENCE            blm_desc
+LANG_ENGLISH         "Our community is hurting.
+The systemic inequalities our community experiences are once again center stage.
+Call of Duty and Infinity Ward stand for equality and inclusion. We stand against the racism and injustice our Black community endures.
+Until change happens and Black Lives Matter, we will never truly be the community we strive to be."
+
+REFERENCE            blm_vertical
+LANG_ENGLISH         "Black
+Lives
+Matter"
+
 REFERENCE            bnet_friend_request_more_infos
 LANG_ENGLISH         "Entering an email results in a Battle.net Real ID friend request.
 Entering a BattleTag results in a Battle.net default friend request."

@@ -2,845 +2,845 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            weapon_splash_title
-LANG_ENGLISH         "&&1 Weapon Earned"
-
-REFERENCE            vs
-LANG_ENGLISH         "VS"
-
-REFERENCE            use_mortar
-LANG_ENGLISH         "Use Mortar"
-
-REFERENCE            uplink_ball
-LANG_ENGLISH         "Drone"
-
-REFERENCE            testjumptext2
-LANG_ENGLISH         "[{+smoke}] + [{+gostand}] Jump without squad"
-
-REFERENCE            testjumptext
-LANG_ENGLISH         "[{+smoke}] + [{+gostand}] Jump Solo"
-
-REFERENCE            teamscore_notify_9
-LANG_ENGLISH         "+9 Team Score"
-
-REFERENCE            teamscore_notify_8
-LANG_ENGLISH         "+8 Team Score"
-
-REFERENCE            teamscore_notify_7
-LANG_ENGLISH         "+7 Team Score"
-
-REFERENCE            teamscore_notify_6
-LANG_ENGLISH         "+6 Team Score"
-
-REFERENCE            teamscore_notify_5
-LANG_ENGLISH         "+5 Team Score"
-
-REFERENCE            teamscore_notify_4
-LANG_ENGLISH         "+4 Team Score"
-
-REFERENCE            teamscore_notify_3
-LANG_ENGLISH         "+3 Team Score"
-
-REFERENCE            teamscore_notify_25
-LANG_ENGLISH         "+25 Team Score"
-
-REFERENCE            teamscore_notify_20
-LANG_ENGLISH         "+20 Team Score"
-
-REFERENCE            teamscore_notify_2
-LANG_ENGLISH         "+2 Team Score"
-
-REFERENCE            teamscore_notify_15
-LANG_ENGLISH         "+15 Team Score"
-
-REFERENCE            teamscore_notify_10
-LANG_ENGLISH         "+10 Team Score"
-
-REFERENCE            teamscore_notify_1
-LANG_ENGLISH         "+1 Team Score"
-
-REFERENCE            target_hacked
-LANG_ENGLISH         "Target Hacked"
-
-REFERENCE            system_reboot
-LANG_ENGLISH         "System Reboot"
-
-REFERENCE            supply_crate_caps
-LANG_ENGLISH         "SUPPLY CRATE"
-
-REFERENCE            super_points_feed
-LANG_ENGLISH         "+ &&1   &&2"
-
-REFERENCE            splashes_beta_max_rank_desc
-LANG_ENGLISH         "Current Max Beta Rank Achieved"
-
-REFERENCE            splashes_beta_max_rank
-LANG_ENGLISH         "Max Rank!"
-
-REFERENCE            spawn_beacon
-LANG_ENGLISH         "Tac Beacon"
-
-REFERENCE            snowball_fight
-LANG_ENGLISH         "Snowball Fight!!!"
-
-REFERENCE            snatch_max_clues
-LANG_ENGLISH         "/ 3"
-
-REFERENCE            snatch_hunt_text
-LANG_ENGLISH         "FIND INTEL"
-
-REFERENCE            snatch_grab_box_steal
-LANG_ENGLISH         "STEAL"
-
-REFERENCE            snatch_grab_box_pick_up
-LANG_ENGLISH         "PICK UP"
-
-REFERENCE            snatch_grab_box_escort
-LANG_ENGLISH         "ESCORT"
-
-REFERENCE            snatch_clues
-LANG_ENGLISH         "INTEL:"
-
-REFERENCE            snatch_arsenal_breach
-LANG_ENGLISH         "Arsenal Breach"
-
-REFERENCE            select_loadout_to_spawn
-LANG_ENGLISH         "You must select a loadout to spawn."
-
-REFERENCE            searching_body
-LANG_ENGLISH         "Searching Body..."
-
-REFERENCE            safe
-LANG_ENGLISH         "Should be safe in here..."
-
-REFERENCE            rps_win
-LANG_ENGLISH         "Winner!"
-
-REFERENCE            rps_too_late
-LANG_ENGLISH         "This is no time for games"
-
-REFERENCE            rps_start
-LANG_ENGLISH         "1...2...3...Shoot"
-
-REFERENCE            rps_lose
-LANG_ENGLISH         "Better luck next time..."
-
-REFERENCE            rps_draw
-LANG_ENGLISH         "Draw!"
-
-REFERENCE            reticle_splash_title
-LANG_ENGLISH         "&&1 Reticle Earned"
-
-REFERENCE            refill_ammo
-LANG_ENGLISH         "Refill Ammo"
-
-REFERENCE            practice_round
-LANG_ENGLISH         "Warm up round. Stats are not affected."
-
-REFERENCE            players_required
-LANG_ENGLISH         "PLAYERS REQUIRED:"
-
-REFERENCE            pillage_depot_open
-LANG_ENGLISH         "DEPOT OPEN"
-
-REFERENCE            pillage_depot_closing
-LANG_ENGLISH         "DEPOT CLOSING"
-
-REFERENCE            pickup_trophy_system
-LANG_ENGLISH         "Trophy System"
-
-REFERENCE            pickup_tknife_fire
-LANG_ENGLISH         "Flaming Throwing Knife"
-
-REFERENCE            pickup_tknife
-LANG_ENGLISH         "Throwing Knife"
-
-REFERENCE            pickup_thermite
-LANG_ENGLISH         "Thermite"
-
-REFERENCE            pickup_stun
-LANG_ENGLISH         "Stun Grenade"
-
-REFERENCE            pickup_stim
-LANG_ENGLISH         "Stim"
-
-REFERENCE            pickup_snowball
-LANG_ENGLISH         "Snowball"
-
-REFERENCE            pickup_snapshot
-LANG_ENGLISH         "Snapshot Grenade"
-
-REFERENCE            pickup_smoke
-LANG_ENGLISH         "Smoke Grenade"
-
-REFERENCE            pickup_semtex
-LANG_ENGLISH         "Semtex"
-
-REFERENCE            pickup_pball
-LANG_ENGLISH         "^3Snowball^7"
-
-REFERENCE            pickup_molotov
-LANG_ENGLISH         "Molotov Cocktail"
-
-REFERENCE            pickup_frag
-LANG_ENGLISH         "Frag Grenade"
-
-REFERENCE            pickup_flash
-LANG_ENGLISH         "Flash Grenade"
-
-REFERENCE            pickup_decoy
-LANG_ENGLISH         "Decoy Grenade"
-
-REFERENCE            pickup_claymore
-LANG_ENGLISH         "Claymore"
-
-REFERENCE            pickup_c4
-LANG_ENGLISH         "C4"
-
-REFERENCE            pickup_atmine
-LANG_ENGLISH         "Proximity Mine"
-
-REFERENCE            overtime_flag_spawned
-LANG_ENGLISH         "Capture the flag to win!"
-
-REFERENCE            objective_points
-LANG_ENGLISH         "Objective"
-
-REFERENCE            obj_unlocks_in
-LANG_ENGLISH         "Objective Unlocks In:"
-
-REFERENCE            obj_timeout
-LANG_ENGLISH         "Objective Timeout:"
-
-REFERENCE            obj_target_caps
-LANG_ENGLISH         "TARGET"
-
-REFERENCE            obj_taking_caps
-LANG_ENGLISH         "TAKING"
-
-REFERENCE            obj_take_caps
-LANG_ENGLISH         "TAKE"
-
-REFERENCE            obj_stopping_exfil_caps
-LANG_ENGLISH         "BLOCKING EXFIL"
-
-REFERENCE            obj_securing_caps_n
-LANG_ENGLISH         "SECURING &&1"
-
-REFERENCE            obj_securing_caps
-LANG_ENGLISH         "SECURING"
-
-REFERENCE            obj_scoring_caps
-LANG_ENGLISH         "SCORING"
-
-REFERENCE            obj_returning_caps
-LANG_ENGLISH         "RETURNING"
-
-REFERENCE            obj_retreat_caps
-LANG_ENGLISH         "RETREAT"
-
-REFERENCE            obj_resetting_caps
-LANG_ENGLISH         "RESETTING"
-
-REFERENCE            obj_reset_caps
-LANG_ENGLISH         "RESET"
-
-REFERENCE            obj_recover_caps
-LANG_ENGLISH         "RECOVER"
-
-REFERENCE            obj_planting_caps
-LANG_ENGLISH         "PLANTING"
-
-REFERENCE            obj_plant_caps
-LANG_ENGLISH         "PLANT BOMB"
-
-REFERENCE            obj_pickup_defend_caps
-LANG_ENGLISH         "PICKUP / DEFEND"
-
-REFERENCE            obj_pickup_caps
-LANG_ENGLISH         "PICKUP"
-
-REFERENCE            obj_otflagloc_caps
-LANG_ENGLISH         "OVERTIME FLAG"
-
-REFERENCE            obj_neutralizing_caps_n
-LANG_ENGLISH         "NEUTRALIZING &&1"
-
-REFERENCE            obj_nemesis_caps
-LANG_ENGLISH         "NEMESIS"
-
-REFERENCE            obj_losing_caps_n
-LANG_ENGLISH         "LOSING &&1"
-
-REFERENCE            obj_losing_caps
-LANG_ENGLISH         "LOSING"
-
-REFERENCE            obj_locked_caps
-LANG_ENGLISH         "LOCKED"
-
-REFERENCE            obj_kill_caps
-LANG_ENGLISH         "KILL"
-
-REFERENCE            obj_hvt_friend_caps
-LANG_ENGLISH         "DEFEND"
-
-REFERENCE            obj_hvt_caps_9
-LANG_ENGLISH         "HVT 9"
-
-REFERENCE            obj_hvt_caps_8
-LANG_ENGLISH         "HVT 8"
-
-REFERENCE            obj_hvt_caps_7
-LANG_ENGLISH         "HVT 7"
-
-REFERENCE            obj_hvt_caps_6
-LANG_ENGLISH         "HVT 6"
-
-REFERENCE            obj_hvt_caps_50
-LANG_ENGLISH         "HVT 50"
-
-REFERENCE            obj_hvt_caps_5
-LANG_ENGLISH         "HVT 5"
-
-REFERENCE            obj_hvt_caps_49
-LANG_ENGLISH         "HVT 49"
-
-REFERENCE            obj_hvt_caps_48
-LANG_ENGLISH         "HVT 48"
-
-REFERENCE            obj_hvt_caps_47
-LANG_ENGLISH         "HVT 47"
-
-REFERENCE            obj_hvt_caps_46
-LANG_ENGLISH         "HVT 46"
-
-REFERENCE            obj_hvt_caps_45
-LANG_ENGLISH         "HVT 45"
-
-REFERENCE            obj_hvt_caps_44
-LANG_ENGLISH         "HVT 44"
-
-REFERENCE            obj_hvt_caps_43
-LANG_ENGLISH         "HVT 43"
-
-REFERENCE            obj_hvt_caps_42
-LANG_ENGLISH         "HVT 42"
-
-REFERENCE            obj_hvt_caps_41
-LANG_ENGLISH         "HVT 41"
-
-REFERENCE            obj_hvt_caps_40
-LANG_ENGLISH         "HVT 40"
-
-REFERENCE            obj_hvt_caps_4
-LANG_ENGLISH         "HVT 4"
-
-REFERENCE            obj_hvt_caps_39
-LANG_ENGLISH         "HVT 39"
-
-REFERENCE            obj_hvt_caps_38
-LANG_ENGLISH         "HVT 38"
-
-REFERENCE            obj_hvt_caps_37
-LANG_ENGLISH         "HVT 37"
-
-REFERENCE            obj_hvt_caps_36
-LANG_ENGLISH         "HVT 36"
-
-REFERENCE            obj_hvt_caps_35
-LANG_ENGLISH         "HVT 35"
-
-REFERENCE            obj_hvt_caps_34
-LANG_ENGLISH         "HVT 34"
-
-REFERENCE            obj_hvt_caps_33
-LANG_ENGLISH         "HVT 33"
-
-REFERENCE            obj_hvt_caps_32
-LANG_ENGLISH         "HVT 32"
-
-REFERENCE            obj_hvt_caps_31
-LANG_ENGLISH         "HVT 31"
-
-REFERENCE            obj_hvt_caps_30
-LANG_ENGLISH         "HVT 30"
-
-REFERENCE            obj_hvt_caps_3
-LANG_ENGLISH         "HVT 3"
-
-REFERENCE            obj_hvt_caps_29
-LANG_ENGLISH         "HVT 29"
-
-REFERENCE            obj_hvt_caps_28
-LANG_ENGLISH         "HVT 28"
-
-REFERENCE            obj_hvt_caps_27
-LANG_ENGLISH         "HVT 27"
-
-REFERENCE            obj_hvt_caps_26
-LANG_ENGLISH         "HVT 26"
-
-REFERENCE            obj_hvt_caps_25
-LANG_ENGLISH         "HVT 25"
-
-REFERENCE            obj_hvt_caps_24
-LANG_ENGLISH         "HVT 24"
-
-REFERENCE            obj_hvt_caps_23
-LANG_ENGLISH         "HVT 23"
-
-REFERENCE            obj_hvt_caps_22
-LANG_ENGLISH         "HVT 22"
-
-REFERENCE            obj_hvt_caps_21
-LANG_ENGLISH         "HVT 21"
-
-REFERENCE            obj_hvt_caps_20
-LANG_ENGLISH         "HVT 20"
-
-REFERENCE            obj_hvt_caps_2
-LANG_ENGLISH         "HVT 2"
-
-REFERENCE            obj_hvt_caps_19
-LANG_ENGLISH         "HVT 19"
-
-REFERENCE            obj_hvt_caps_17
-LANG_ENGLISH         "HVT 17"
-
-REFERENCE            obj_hvt_caps_16
-LANG_ENGLISH         "HVT 16"
-
-REFERENCE            obj_hvt_caps_15
-LANG_ENGLISH         "HVT 15"
-
-REFERENCE            obj_hvt_caps_14
-LANG_ENGLISH         "HVT 14"
-
-REFERENCE            obj_hvt_caps_13
-LANG_ENGLISH         "HVT 13"
-
-REFERENCE            obj_hvt_caps_12
-LANG_ENGLISH         "HVT 12"
-
-REFERENCE            obj_hvt_caps_11
-LANG_ENGLISH         "HVT 11"
-
-REFERENCE            obj_hvt_caps_10
-LANG_ENGLISH         "HVT 10"
-
-REFERENCE            obj_hvt_caps_1
-LANG_ENGLISH         "HVT 1"
-
-REFERENCE            obj_hvt_caps
-LANG_ENGLISH         "TARGET"
-
-REFERENCE            obj_extract_caps
-LANG_ENGLISH         "EXTRACT"
-
-REFERENCE            obj_exfil_notactive_caps
-LANG_ENGLISH         "EXFIL INCOMING"
-
-REFERENCE            obj_exfil_active_caps
-LANG_ENGLISH         "EXFIL LEAVING"
-
-REFERENCE            obj_escort_caps
-LANG_ENGLISH         "ESCORT"
-
-REFERENCE            obj_enemy_caps
-LANG_ENGLISH         "ENEMY"
-
-REFERENCE            obj_emp_caps
-LANG_ENGLISH         "BOMB"
-
-REFERENCE            obj_destroying_caps_n
-LANG_ENGLISH         "DISABLING &&1"
-
-REFERENCE            obj_destroying_caps
-LANG_ENGLISH         "DISABLING"
-
-REFERENCE            obj_destroy_caps
-LANG_ENGLISH         "DISABLE"
-
-REFERENCE            obj_defusing_caps
-LANG_ENGLISH         "DEFUSING"
-
-REFERENCE            obj_defuse_caps
-LANG_ENGLISH         "DEFUSE"
-
-REFERENCE            obj_defending_caps_n
-LANG_ENGLISH         "DEFENDING &&1"
-
-REFERENCE            obj_defending_caps
-LANG_ENGLISH         "DEFENDING"
-
-REFERENCE            obj_defend_caps_n
-LANG_ENGLISH         "DEFEND &&1"
-
-REFERENCE            obj_defend_caps
-LANG_ENGLISH         "DEFEND"
-
-REFERENCE            obj_contested_caps
-LANG_ENGLISH         "CONTESTED"
-
-REFERENCE            obj_contest_caps
-LANG_ENGLISH         "CONTEST"
-
-REFERENCE            obj_clearing_caps
-LANG_ENGLISH         "CLEARING"
-
-REFERENCE            obj_capture_caps
-LANG_ENGLISH         "CAPTURE"
-
-REFERENCE            obj_calling_exfil_caps
-LANG_ENGLISH         "CALLING EXFIL"
-
-REFERENCE            obj_bomb_caps
-LANG_ENGLISH         "BOMB"
-
-REFERENCE            obj_blocking_caps
-LANG_ENGLISH         "BLOCKING"
-
-REFERENCE            obj_blocked_caps
-LANG_ENGLISH         "BLOCKED"
-
-REFERENCE            obj_block_exfil_caps
-LANG_ENGLISH         "PREVENT EXFIL"
-
-REFERENCE            obj_bank_caps
-LANG_ENGLISH         "BANK"
-
-REFERENCE            obj_attack_caps
-LANG_ENGLISH         "ATTACK"
-
-REFERENCE            obj_advance_caps
-LANG_ENGLISH         "ADVANCE"
-
-REFERENCE            nvg_tutorial
-LANG_ENGLISH         "[{+actionslot 1 }] Toggle your NVG"
-
-REFERENCE            nuke_crate_incoming
-LANG_ENGLISH         "CRATE INCOMING"
-
-REFERENCE            next_obj_in
-LANG_ENGLISH         "Next Objective In:"
-
-REFERENCE            neutralizing_c
-LANG_ENGLISH         "Neutralizing C"
-
-REFERENCE            neutralizing_b
-LANG_ENGLISH         "Neutralizing B"
-
-REFERENCE            neutralizing_a
-LANG_ENGLISH         "Neutralizing A"
-
-REFERENCE            missing_string
-LANG_ENGLISH         "MISSING STRING"
-
-REFERENCE            low_battery
-LANG_ENGLISH         "Low Battery"
-
-REFERENCE            loadout_tab_default
-LANG_ENGLISH         "Default"
-
-REFERENCE            loadout_tab_custom
-LANG_ENGLISH         "Custom"
-
-REFERENCE            killed_juggernaut
-LANG_ENGLISH         "Killed Juggernaut"
-
-REFERENCE            juggernaut_kill
-LANG_ENGLISH         "Juggernaut Kill"
-
-REFERENCE            jugg_killed_jugg
-LANG_ENGLISH         "Juggernaut Takedown"
-
-REFERENCE            infect_super_tac_hint
-LANG_ENGLISH         "Use Tactical Insertion Field Upgrade to Skydive"
-
-REFERENCE            incoming_obj_caps
-LANG_ENGLISH         "INCOMING"
-
-REFERENCE            hq_time_remaining
-LANG_ENGLISH         "HQ offline in:"
-
-REFERENCE            hq_reinforcements_in
-LANG_ENGLISH         "Reinforcements in:"
-
-REFERENCE            hq_no_respawn
-LANG_ENGLISH         "Respawn disabled"
-
-REFERENCE            hq_next_in
-LANG_ENGLISH         "Next HQ spawns in:"
-
-REFERENCE            hq_despawn_in
-LANG_ENGLISH         "HQ despawns in:"
-
-REFERENCE            hq_capture
-LANG_ENGLISH         "Capture the HQ"
-
-REFERENCE            hq_available_in
-LANG_ENGLISH         "HQ available in:"
-
-REFERENCE            hp_unlocks_in
-LANG_ENGLISH         "Hardpoint unlocks in:"
-
-REFERENCE            hp_time_remaining
-LANG_ENGLISH         "Next Hardpoint selection:"
-
-REFERENCE            hp_next_in
-LANG_ENGLISH         "Next Hardpoint:"
-
-REFERENCE            hp_current
-LANG_ENGLISH         "Current Hardpoint:"
-
-REFERENCE            hold_to_start_game
-LANG_ENGLISH         "Hold to Start Game"
-
-REFERENCE            head_earned
-LANG_ENGLISH         "&&1 Head Earned"
-
-REFERENCE            hackterminal
-LANG_ENGLISH         ">Terminal_J4"
-
-REFERENCE            hackexe
-LANG_ENGLISH         "hack.exe"
-
-REFERENCE            hack_target
-LANG_ENGLISH         "Hack Target"
-
-REFERENCE            hack_command
-LANG_ENGLISH         "I:\Hack\Command>"
-
-REFERENCE            get_on_chopper
-LANG_ENGLISH         "Get on the chopper!"
-
-REFERENCE            game_force_started
-LANG_ENGLISH         "Force game start initiated. Game starting shortly."
-
-REFERENCE            flag_despawn_in
-LANG_ENGLISH         "Flag despawns in:"
-
-REFERENCE            flag_available_in
-LANG_ENGLISH         "Flag available in:"
-
-REFERENCE            field_upgrade_used
-LANG_ENGLISH         "USED"
-
-REFERENCE            escape_timer_text
-LANG_ENGLISH         "ESCAPE"
-
-REFERENCE            equipment_maxed
-LANG_ENGLISH         "Already holding max equipment of this type."
-
-REFERENCE            dz_time_remaining
-LANG_ENGLISH         "Drop Zone time remaining:"
-
-REFERENCE            dz_next_in
-LANG_ENGLISH         "Next Drop Zone spawns in:"
-
-REFERENCE            dz_capture
-LANG_ENGLISH         "Capture the Drop Zone"
-
-REFERENCE            dz_available_in
-LANG_ENGLISH         "Drop Zone available in:"
-
-REFERENCE            drop_bag_caps
-LANG_ENGLISH         "LOADOUT DROP"
-
-REFERENCE            defcon_pts_90
-LANG_ENGLISH         "90 PTS"
-
-REFERENCE            defcon_pts_80
-LANG_ENGLISH         "80 PTS"
-
-REFERENCE            defcon_pts_70
-LANG_ENGLISH         "70 PTS"
-
-REFERENCE            defcon_pts_60
-LANG_ENGLISH         "60 PTS"
-
-REFERENCE            defcon_pts_50
-LANG_ENGLISH         "50 PTS"
-
-REFERENCE            defcon_pts_40
-LANG_ENGLISH         "40 PTS"
-
-REFERENCE            defcon_pts_30
-LANG_ENGLISH         "30 PTS"
-
-REFERENCE            defcon_pts_200
-LANG_ENGLISH         "200 PTS"
-
-REFERENCE            defcon_pts_20
-LANG_ENGLISH         "20 PTS"
-
-REFERENCE            defcon_pts_190
-LANG_ENGLISH         "190 PTS"
-
-REFERENCE            defcon_pts_180
-LANG_ENGLISH         "180 PTS"
-
-REFERENCE            defcon_pts_170
-LANG_ENGLISH         "170 PTS"
-
-REFERENCE            defcon_pts_160
-LANG_ENGLISH         "160 PTS"
-
-REFERENCE            defcon_pts_150
-LANG_ENGLISH         "150 PTS"
-
-REFERENCE            defcon_pts_140
-LANG_ENGLISH         "140 PTS"
-
-REFERENCE            defcon_pts_130
-LANG_ENGLISH         "130 PTS"
-
-REFERENCE            defcon_pts_120
-LANG_ENGLISH         "120 PTS"
-
-REFERENCE            defcon_pts_110
-LANG_ENGLISH         "110 PTS"
-
-REFERENCE            defcon_pts_100
-LANG_ENGLISH         "100 PTS"
-
-REFERENCE            defcon_pts_10
-LANG_ENGLISH         "10 PTS"
-
-REFERENCE            defcon_points_feed
-LANG_ENGLISH         "+ &&1   &&2"
-
-REFERENCE            defcon_caps
-LANG_ENGLISH         "DEFCON"
-
-REFERENCE            default_class_prefix
-LANG_ENGLISH         "DEFAULT: &&1"
-
-REFERENCE            default_class_name_9_dev
-LANG_ENGLISH         "Loadout 9"
-
-REFERENCE            default_class_name_9
-LANG_ENGLISH         "M4"
-
-REFERENCE            default_class_name_8_dev
-LANG_ENGLISH         "Loadout 8"
-
-REFERENCE            default_class_name_8
-LANG_ENGLISH         "AK-47 SMG"
-
-REFERENCE            default_class_name_7_dev
-LANG_ENGLISH         "Weapons Pro"
-
-REFERENCE            default_class_name_7
-LANG_ENGLISH         "Weapons Pro"
-
-REFERENCE            default_class_name_6_dev
-LANG_ENGLISH         "Stealth"
-
-REFERENCE            default_class_name_6
-LANG_ENGLISH         "Stealth"
-
-REFERENCE            default_class_name_5_dev
-LANG_ENGLISH         "Striker HollowP/Akimbo X16"
-
-REFERENCE            default_class_name_5
-LANG_ENGLISH         "Sniper"
-
-REFERENCE            default_class_name_4_dev
-LANG_ENGLISH         "VLK Rogue/Akimbo .357 Snake"
-
-REFERENCE            default_class_name_4
-LANG_ENGLISH         "Demolition"
-
-REFERENCE            default_class_name_3_dev
-LANG_ENGLISH         "Uzi .41 AE/Akimbo .357"
-
-REFERENCE            default_class_name_3
-LANG_ENGLISH         "Heavy Support"
-
-REFERENCE            default_class_name_2_dev
-LANG_ENGLISH         "Striker/Akimbo 1911"
-
-REFERENCE            default_class_name_2
-LANG_ENGLISH         "Ghost"
-
-REFERENCE            default_class_name_1_dev
-LANG_ENGLISH         "Grau 5.56/Akimbo .50 GS"
-
-REFERENCE            default_class_name_11_dev
-LANG_ENGLISH         "Loadout 11"
-
-REFERENCE            default_class_name_10_dev
-LANG_ENGLISH         "Loadout 10"
-
-REFERENCE            default_class_name_10
-LANG_ENGLISH         "MP5 / DP-12"
-
-REFERENCE            default_class_name_1
-LANG_ENGLISH         "Assault"
-
-REFERENCE            death_details_overflow
-LANG_ENGLISH         "&&1+"
-
-REFERENCE            death_detail_enemy_health_label
-LANG_ENGLISH         "Enemy Health:"
-
-REFERENCE            danger_precision_airstrike
-LANG_ENGLISH         "Precision Airstrike Incoming"
-
-REFERENCE            danger_cluster_strike
-LANG_ENGLISH         "Cluster Strike Incoming"
-
-REFERENCE            chopper_leaving_soon
-LANG_ENGLISH         "Exfil leaving soon."
-
-REFERENCE            capture_vip
-LANG_ENGLISH         "Recover VIP"
-
-REFERENCE            camo_splash_title
-LANG_ENGLISH         "&&1 Camo Earned"
-
-REFERENCE            broshot_title
-LANG_ENGLISH         "Winners' Circle"
-
-REFERENCE            broshot_taunt
-LANG_ENGLISH         "[{+actionslot 4}]"
-
-REFERENCE            broshot_option_b_btn
-LANG_ENGLISH         "[{+speed_throw}] Capture"
-
-REFERENCE            broshot_option_b
-LANG_ENGLISH         "Capture"
-
-REFERENCE            broshot_option_a_btn
-LANG_ENGLISH         "[{+attack}] Kill"
-
-REFERENCE            broshot_option_a
-LANG_ENGLISH         "Kill"
-
-REFERENCE            broshot_key_taunt
-LANG_ENGLISH         "&&1 &&2"
-
-REFERENCE            broshot_instructions
-LANG_ENGLISH         "Make your selection"
-
-REFERENCE            broshot_confirmed
-LANG_ENGLISH         "&&1 Confirmed"
-
-REFERENCE            body_earned
-LANG_ENGLISH         "&&1 Uniform Earned"
-
-REFERENCE            awaiting_orders
-LANG_ENGLISH         "Eliminate Hostiles"
-
-REFERENCE            ammo_restock_stock_full
-LANG_ENGLISH         "Ammo reserves already full."
+REFERENCE            all_optic_reticle_splash
+LANG_ENGLISH         "Optic Reticle Earned"
 
 REFERENCE            all_weapon_camo_earned
 LANG_ENGLISH         "Weapon Camo Earned"
 
-REFERENCE            all_optic_reticle_splash
-LANG_ENGLISH         "Optic Reticle Earned"
+REFERENCE            ammo_restock_stock_full
+LANG_ENGLISH         "Ammo reserves already full."
+
+REFERENCE            awaiting_orders
+LANG_ENGLISH         "Eliminate Hostiles"
+
+REFERENCE            body_earned
+LANG_ENGLISH         "&&1 Uniform Earned"
+
+REFERENCE            broshot_confirmed
+LANG_ENGLISH         "&&1 Confirmed"
+
+REFERENCE            broshot_instructions
+LANG_ENGLISH         "Make your selection"
+
+REFERENCE            broshot_key_taunt
+LANG_ENGLISH         "&&1 &&2"
+
+REFERENCE            broshot_option_a
+LANG_ENGLISH         "Kill"
+
+REFERENCE            broshot_option_a_btn
+LANG_ENGLISH         "[{+attack}] Kill"
+
+REFERENCE            broshot_option_b
+LANG_ENGLISH         "Capture"
+
+REFERENCE            broshot_option_b_btn
+LANG_ENGLISH         "[{+speed_throw}] Capture"
+
+REFERENCE            broshot_taunt
+LANG_ENGLISH         "[{+actionslot 4}]"
+
+REFERENCE            broshot_title
+LANG_ENGLISH         "Winners' Circle"
+
+REFERENCE            camo_splash_title
+LANG_ENGLISH         "&&1 Camo Earned"
+
+REFERENCE            capture_vip
+LANG_ENGLISH         "Recover VIP"
+
+REFERENCE            chopper_leaving_soon
+LANG_ENGLISH         "Exfil leaving soon."
+
+REFERENCE            danger_cluster_strike
+LANG_ENGLISH         "Cluster Strike Incoming"
+
+REFERENCE            danger_precision_airstrike
+LANG_ENGLISH         "Precision Airstrike Incoming"
+
+REFERENCE            death_detail_enemy_health_label
+LANG_ENGLISH         "Enemy Health:"
+
+REFERENCE            death_details_overflow
+LANG_ENGLISH         "&&1+"
+
+REFERENCE            default_class_name_1
+LANG_ENGLISH         "Assault"
+
+REFERENCE            default_class_name_10
+LANG_ENGLISH         "MP5 / DP-12"
+
+REFERENCE            default_class_name_10_dev
+LANG_ENGLISH         "Loadout 10"
+
+REFERENCE            default_class_name_11_dev
+LANG_ENGLISH         "Loadout 11"
+
+REFERENCE            default_class_name_1_dev
+LANG_ENGLISH         "Grau 5.56/Akimbo .50 GS"
+
+REFERENCE            default_class_name_2
+LANG_ENGLISH         "Ghost"
+
+REFERENCE            default_class_name_2_dev
+LANG_ENGLISH         "Striker/Akimbo 1911"
+
+REFERENCE            default_class_name_3
+LANG_ENGLISH         "Heavy Support"
+
+REFERENCE            default_class_name_3_dev
+LANG_ENGLISH         "Uzi .41 AE/Akimbo .357"
+
+REFERENCE            default_class_name_4
+LANG_ENGLISH         "Demolition"
+
+REFERENCE            default_class_name_4_dev
+LANG_ENGLISH         "VLK Rogue/Akimbo .357 Snake"
+
+REFERENCE            default_class_name_5
+LANG_ENGLISH         "Sniper"
+
+REFERENCE            default_class_name_5_dev
+LANG_ENGLISH         "Striker HollowP/Akimbo X16"
+
+REFERENCE            default_class_name_6
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            default_class_name_6_dev
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            default_class_name_7
+LANG_ENGLISH         "Weapons Pro"
+
+REFERENCE            default_class_name_7_dev
+LANG_ENGLISH         "Weapons Pro"
+
+REFERENCE            default_class_name_8
+LANG_ENGLISH         "AK-47 SMG"
+
+REFERENCE            default_class_name_8_dev
+LANG_ENGLISH         "Loadout 8"
+
+REFERENCE            default_class_name_9
+LANG_ENGLISH         "M4"
+
+REFERENCE            default_class_name_9_dev
+LANG_ENGLISH         "Loadout 9"
+
+REFERENCE            default_class_prefix
+LANG_ENGLISH         "DEFAULT: &&1"
+
+REFERENCE            defcon_caps
+LANG_ENGLISH         "DEFCON"
+
+REFERENCE            defcon_points_feed
+LANG_ENGLISH         "+ &&1   &&2"
+
+REFERENCE            defcon_pts_10
+LANG_ENGLISH         "10 PTS"
+
+REFERENCE            defcon_pts_100
+LANG_ENGLISH         "100 PTS"
+
+REFERENCE            defcon_pts_110
+LANG_ENGLISH         "110 PTS"
+
+REFERENCE            defcon_pts_120
+LANG_ENGLISH         "120 PTS"
+
+REFERENCE            defcon_pts_130
+LANG_ENGLISH         "130 PTS"
+
+REFERENCE            defcon_pts_140
+LANG_ENGLISH         "140 PTS"
+
+REFERENCE            defcon_pts_150
+LANG_ENGLISH         "150 PTS"
+
+REFERENCE            defcon_pts_160
+LANG_ENGLISH         "160 PTS"
+
+REFERENCE            defcon_pts_170
+LANG_ENGLISH         "170 PTS"
+
+REFERENCE            defcon_pts_180
+LANG_ENGLISH         "180 PTS"
+
+REFERENCE            defcon_pts_190
+LANG_ENGLISH         "190 PTS"
+
+REFERENCE            defcon_pts_20
+LANG_ENGLISH         "20 PTS"
+
+REFERENCE            defcon_pts_200
+LANG_ENGLISH         "200 PTS"
+
+REFERENCE            defcon_pts_30
+LANG_ENGLISH         "30 PTS"
+
+REFERENCE            defcon_pts_40
+LANG_ENGLISH         "40 PTS"
+
+REFERENCE            defcon_pts_50
+LANG_ENGLISH         "50 PTS"
+
+REFERENCE            defcon_pts_60
+LANG_ENGLISH         "60 PTS"
+
+REFERENCE            defcon_pts_70
+LANG_ENGLISH         "70 PTS"
+
+REFERENCE            defcon_pts_80
+LANG_ENGLISH         "80 PTS"
+
+REFERENCE            defcon_pts_90
+LANG_ENGLISH         "90 PTS"
+
+REFERENCE            drop_bag_caps
+LANG_ENGLISH         "LOADOUT DROP"
+
+REFERENCE            dz_available_in
+LANG_ENGLISH         "Drop Zone available in:"
+
+REFERENCE            dz_capture
+LANG_ENGLISH         "Capture the Drop Zone"
+
+REFERENCE            dz_next_in
+LANG_ENGLISH         "Next Drop Zone spawns in:"
+
+REFERENCE            dz_time_remaining
+LANG_ENGLISH         "Drop Zone time remaining:"
+
+REFERENCE            equipment_maxed
+LANG_ENGLISH         "Already holding max equipment of this type."
+
+REFERENCE            escape_timer_text
+LANG_ENGLISH         "ESCAPE"
+
+REFERENCE            field_upgrade_used
+LANG_ENGLISH         "USED"
+
+REFERENCE            flag_available_in
+LANG_ENGLISH         "Flag available in:"
+
+REFERENCE            flag_despawn_in
+LANG_ENGLISH         "Flag despawns in:"
+
+REFERENCE            game_force_started
+LANG_ENGLISH         "Force game start initiated. Game starting shortly."
+
+REFERENCE            get_on_chopper
+LANG_ENGLISH         "Get on the chopper!"
+
+REFERENCE            hack_command
+LANG_ENGLISH         "I:\Hack\Command>"
+
+REFERENCE            hack_target
+LANG_ENGLISH         "Hack Target"
+
+REFERENCE            hackexe
+LANG_ENGLISH         "hack.exe"
+
+REFERENCE            hackterminal
+LANG_ENGLISH         ">Terminal_J4"
+
+REFERENCE            head_earned
+LANG_ENGLISH         "&&1 Head Earned"
+
+REFERENCE            hold_to_start_game
+LANG_ENGLISH         "Hold to Start Game"
+
+REFERENCE            hp_current
+LANG_ENGLISH         "Current Hardpoint:"
+
+REFERENCE            hp_next_in
+LANG_ENGLISH         "Next Hardpoint:"
+
+REFERENCE            hp_time_remaining
+LANG_ENGLISH         "Next Hardpoint selection:"
+
+REFERENCE            hp_unlocks_in
+LANG_ENGLISH         "Hardpoint unlocks in:"
+
+REFERENCE            hq_available_in
+LANG_ENGLISH         "HQ available in:"
+
+REFERENCE            hq_capture
+LANG_ENGLISH         "Capture the HQ"
+
+REFERENCE            hq_despawn_in
+LANG_ENGLISH         "HQ despawns in:"
+
+REFERENCE            hq_next_in
+LANG_ENGLISH         "Next HQ spawns in:"
+
+REFERENCE            hq_no_respawn
+LANG_ENGLISH         "Respawn disabled"
+
+REFERENCE            hq_reinforcements_in
+LANG_ENGLISH         "Reinforcements in:"
+
+REFERENCE            hq_time_remaining
+LANG_ENGLISH         "HQ offline in:"
+
+REFERENCE            incoming_obj_caps
+LANG_ENGLISH         "INCOMING"
+
+REFERENCE            infect_super_tac_hint
+LANG_ENGLISH         "Use Tactical Insertion Field Upgrade to Skydive"
+
+REFERENCE            jugg_killed_jugg
+LANG_ENGLISH         "Juggernaut Takedown"
+
+REFERENCE            juggernaut_kill
+LANG_ENGLISH         "Juggernaut Kill"
+
+REFERENCE            killed_juggernaut
+LANG_ENGLISH         "Killed Juggernaut"
+
+REFERENCE            loadout_tab_custom
+LANG_ENGLISH         "Custom"
+
+REFERENCE            loadout_tab_default
+LANG_ENGLISH         "Default"
+
+REFERENCE            low_battery
+LANG_ENGLISH         "Low Battery"
+
+REFERENCE            missing_string
+LANG_ENGLISH         "MISSING STRING"
+
+REFERENCE            neutralizing_a
+LANG_ENGLISH         "Neutralizing A"
+
+REFERENCE            neutralizing_b
+LANG_ENGLISH         "Neutralizing B"
+
+REFERENCE            neutralizing_c
+LANG_ENGLISH         "Neutralizing C"
+
+REFERENCE            next_obj_in
+LANG_ENGLISH         "Next Objective In:"
+
+REFERENCE            nuke_crate_incoming
+LANG_ENGLISH         "CRATE INCOMING"
+
+REFERENCE            nvg_tutorial
+LANG_ENGLISH         "[{+actionslot 1 }] Toggle your NVG"
+
+REFERENCE            obj_advance_caps
+LANG_ENGLISH         "ADVANCE"
+
+REFERENCE            obj_attack_caps
+LANG_ENGLISH         "ATTACK"
+
+REFERENCE            obj_bank_caps
+LANG_ENGLISH         "BANK"
+
+REFERENCE            obj_block_exfil_caps
+LANG_ENGLISH         "PREVENT EXFIL"
+
+REFERENCE            obj_blocked_caps
+LANG_ENGLISH         "BLOCKED"
+
+REFERENCE            obj_blocking_caps
+LANG_ENGLISH         "BLOCKING"
+
+REFERENCE            obj_bomb_caps
+LANG_ENGLISH         "BOMB"
+
+REFERENCE            obj_calling_exfil_caps
+LANG_ENGLISH         "CALLING EXFIL"
+
+REFERENCE            obj_capture_caps
+LANG_ENGLISH         "CAPTURE"
+
+REFERENCE            obj_clearing_caps
+LANG_ENGLISH         "CLEARING"
+
+REFERENCE            obj_contest_caps
+LANG_ENGLISH         "CONTEST"
+
+REFERENCE            obj_contested_caps
+LANG_ENGLISH         "CONTESTED"
+
+REFERENCE            obj_defend_caps
+LANG_ENGLISH         "DEFEND"
+
+REFERENCE            obj_defend_caps_n
+LANG_ENGLISH         "DEFEND &&1"
+
+REFERENCE            obj_defending_caps
+LANG_ENGLISH         "DEFENDING"
+
+REFERENCE            obj_defending_caps_n
+LANG_ENGLISH         "DEFENDING &&1"
+
+REFERENCE            obj_defuse_caps
+LANG_ENGLISH         "DEFUSE"
+
+REFERENCE            obj_defusing_caps
+LANG_ENGLISH         "DEFUSING"
+
+REFERENCE            obj_destroy_caps
+LANG_ENGLISH         "DISABLE"
+
+REFERENCE            obj_destroying_caps
+LANG_ENGLISH         "DISABLING"
+
+REFERENCE            obj_destroying_caps_n
+LANG_ENGLISH         "DISABLING &&1"
+
+REFERENCE            obj_emp_caps
+LANG_ENGLISH         "BOMB"
+
+REFERENCE            obj_enemy_caps
+LANG_ENGLISH         "ENEMY"
+
+REFERENCE            obj_escort_caps
+LANG_ENGLISH         "ESCORT"
+
+REFERENCE            obj_exfil_active_caps
+LANG_ENGLISH         "EXFIL LEAVING"
+
+REFERENCE            obj_exfil_notactive_caps
+LANG_ENGLISH         "EXFIL INCOMING"
+
+REFERENCE            obj_extract_caps
+LANG_ENGLISH         "EXTRACT"
+
+REFERENCE            obj_hvt_caps
+LANG_ENGLISH         "TARGET"
+
+REFERENCE            obj_hvt_caps_1
+LANG_ENGLISH         "HVT 1"
+
+REFERENCE            obj_hvt_caps_10
+LANG_ENGLISH         "HVT 10"
+
+REFERENCE            obj_hvt_caps_11
+LANG_ENGLISH         "HVT 11"
+
+REFERENCE            obj_hvt_caps_12
+LANG_ENGLISH         "HVT 12"
+
+REFERENCE            obj_hvt_caps_13
+LANG_ENGLISH         "HVT 13"
+
+REFERENCE            obj_hvt_caps_14
+LANG_ENGLISH         "HVT 14"
+
+REFERENCE            obj_hvt_caps_15
+LANG_ENGLISH         "HVT 15"
+
+REFERENCE            obj_hvt_caps_16
+LANG_ENGLISH         "HVT 16"
+
+REFERENCE            obj_hvt_caps_17
+LANG_ENGLISH         "HVT 17"
+
+REFERENCE            obj_hvt_caps_19
+LANG_ENGLISH         "HVT 19"
+
+REFERENCE            obj_hvt_caps_2
+LANG_ENGLISH         "HVT 2"
+
+REFERENCE            obj_hvt_caps_20
+LANG_ENGLISH         "HVT 20"
+
+REFERENCE            obj_hvt_caps_21
+LANG_ENGLISH         "HVT 21"
+
+REFERENCE            obj_hvt_caps_22
+LANG_ENGLISH         "HVT 22"
+
+REFERENCE            obj_hvt_caps_23
+LANG_ENGLISH         "HVT 23"
+
+REFERENCE            obj_hvt_caps_24
+LANG_ENGLISH         "HVT 24"
+
+REFERENCE            obj_hvt_caps_25
+LANG_ENGLISH         "HVT 25"
+
+REFERENCE            obj_hvt_caps_26
+LANG_ENGLISH         "HVT 26"
+
+REFERENCE            obj_hvt_caps_27
+LANG_ENGLISH         "HVT 27"
+
+REFERENCE            obj_hvt_caps_28
+LANG_ENGLISH         "HVT 28"
+
+REFERENCE            obj_hvt_caps_29
+LANG_ENGLISH         "HVT 29"
+
+REFERENCE            obj_hvt_caps_3
+LANG_ENGLISH         "HVT 3"
+
+REFERENCE            obj_hvt_caps_30
+LANG_ENGLISH         "HVT 30"
+
+REFERENCE            obj_hvt_caps_31
+LANG_ENGLISH         "HVT 31"
+
+REFERENCE            obj_hvt_caps_32
+LANG_ENGLISH         "HVT 32"
+
+REFERENCE            obj_hvt_caps_33
+LANG_ENGLISH         "HVT 33"
+
+REFERENCE            obj_hvt_caps_34
+LANG_ENGLISH         "HVT 34"
+
+REFERENCE            obj_hvt_caps_35
+LANG_ENGLISH         "HVT 35"
+
+REFERENCE            obj_hvt_caps_36
+LANG_ENGLISH         "HVT 36"
+
+REFERENCE            obj_hvt_caps_37
+LANG_ENGLISH         "HVT 37"
+
+REFERENCE            obj_hvt_caps_38
+LANG_ENGLISH         "HVT 38"
+
+REFERENCE            obj_hvt_caps_39
+LANG_ENGLISH         "HVT 39"
+
+REFERENCE            obj_hvt_caps_4
+LANG_ENGLISH         "HVT 4"
+
+REFERENCE            obj_hvt_caps_40
+LANG_ENGLISH         "HVT 40"
+
+REFERENCE            obj_hvt_caps_41
+LANG_ENGLISH         "HVT 41"
+
+REFERENCE            obj_hvt_caps_42
+LANG_ENGLISH         "HVT 42"
+
+REFERENCE            obj_hvt_caps_43
+LANG_ENGLISH         "HVT 43"
+
+REFERENCE            obj_hvt_caps_44
+LANG_ENGLISH         "HVT 44"
+
+REFERENCE            obj_hvt_caps_45
+LANG_ENGLISH         "HVT 45"
+
+REFERENCE            obj_hvt_caps_46
+LANG_ENGLISH         "HVT 46"
+
+REFERENCE            obj_hvt_caps_47
+LANG_ENGLISH         "HVT 47"
+
+REFERENCE            obj_hvt_caps_48
+LANG_ENGLISH         "HVT 48"
+
+REFERENCE            obj_hvt_caps_49
+LANG_ENGLISH         "HVT 49"
+
+REFERENCE            obj_hvt_caps_5
+LANG_ENGLISH         "HVT 5"
+
+REFERENCE            obj_hvt_caps_50
+LANG_ENGLISH         "HVT 50"
+
+REFERENCE            obj_hvt_caps_6
+LANG_ENGLISH         "HVT 6"
+
+REFERENCE            obj_hvt_caps_7
+LANG_ENGLISH         "HVT 7"
+
+REFERENCE            obj_hvt_caps_8
+LANG_ENGLISH         "HVT 8"
+
+REFERENCE            obj_hvt_caps_9
+LANG_ENGLISH         "HVT 9"
+
+REFERENCE            obj_hvt_friend_caps
+LANG_ENGLISH         "DEFEND"
+
+REFERENCE            obj_kill_caps
+LANG_ENGLISH         "KILL"
+
+REFERENCE            obj_locked_caps
+LANG_ENGLISH         "LOCKED"
+
+REFERENCE            obj_losing_caps
+LANG_ENGLISH         "LOSING"
+
+REFERENCE            obj_losing_caps_n
+LANG_ENGLISH         "LOSING &&1"
+
+REFERENCE            obj_nemesis_caps
+LANG_ENGLISH         "NEMESIS"
+
+REFERENCE            obj_neutralizing_caps_n
+LANG_ENGLISH         "NEUTRALIZING &&1"
+
+REFERENCE            obj_otflagloc_caps
+LANG_ENGLISH         "OVERTIME FLAG"
+
+REFERENCE            obj_pickup_caps
+LANG_ENGLISH         "PICKUP"
+
+REFERENCE            obj_pickup_defend_caps
+LANG_ENGLISH         "PICKUP / DEFEND"
+
+REFERENCE            obj_plant_caps
+LANG_ENGLISH         "PLANT BOMB"
+
+REFERENCE            obj_planting_caps
+LANG_ENGLISH         "PLANTING"
+
+REFERENCE            obj_recover_caps
+LANG_ENGLISH         "RECOVER"
+
+REFERENCE            obj_reset_caps
+LANG_ENGLISH         "RESET"
+
+REFERENCE            obj_resetting_caps
+LANG_ENGLISH         "RESETTING"
+
+REFERENCE            obj_retreat_caps
+LANG_ENGLISH         "RETREAT"
+
+REFERENCE            obj_returning_caps
+LANG_ENGLISH         "RETURNING"
+
+REFERENCE            obj_scoring_caps
+LANG_ENGLISH         "SCORING"
+
+REFERENCE            obj_securing_caps
+LANG_ENGLISH         "SECURING"
+
+REFERENCE            obj_securing_caps_n
+LANG_ENGLISH         "SECURING &&1"
+
+REFERENCE            obj_stopping_exfil_caps
+LANG_ENGLISH         "BLOCKING EXFIL"
+
+REFERENCE            obj_take_caps
+LANG_ENGLISH         "TAKE"
+
+REFERENCE            obj_taking_caps
+LANG_ENGLISH         "TAKING"
+
+REFERENCE            obj_target_caps
+LANG_ENGLISH         "TARGET"
+
+REFERENCE            obj_timeout
+LANG_ENGLISH         "Objective Timeout:"
+
+REFERENCE            obj_unlocks_in
+LANG_ENGLISH         "Objective Unlocks In:"
+
+REFERENCE            objective_points
+LANG_ENGLISH         "Objective"
+
+REFERENCE            overtime_flag_spawned
+LANG_ENGLISH         "Capture the flag to win!"
+
+REFERENCE            pickup_atmine
+LANG_ENGLISH         "Proximity Mine"
+
+REFERENCE            pickup_c4
+LANG_ENGLISH         "C4"
+
+REFERENCE            pickup_claymore
+LANG_ENGLISH         "Claymore"
+
+REFERENCE            pickup_decoy
+LANG_ENGLISH         "Decoy Grenade"
+
+REFERENCE            pickup_flash
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            pickup_frag
+LANG_ENGLISH         "Frag Grenade"
+
+REFERENCE            pickup_molotov
+LANG_ENGLISH         "Molotov Cocktail"
+
+REFERENCE            pickup_pball
+LANG_ENGLISH         "^3Snowball^7"
+
+REFERENCE            pickup_semtex
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            pickup_smoke
+LANG_ENGLISH         "Smoke Grenade"
+
+REFERENCE            pickup_snapshot
+LANG_ENGLISH         "Snapshot Grenade"
+
+REFERENCE            pickup_snowball
+LANG_ENGLISH         "Snowball"
+
+REFERENCE            pickup_stim
+LANG_ENGLISH         "Stim"
+
+REFERENCE            pickup_stun
+LANG_ENGLISH         "Stun Grenade"
+
+REFERENCE            pickup_thermite
+LANG_ENGLISH         "Thermite"
+
+REFERENCE            pickup_tknife
+LANG_ENGLISH         "Throwing Knife"
+
+REFERENCE            pickup_tknife_fire
+LANG_ENGLISH         "Flaming Throwing Knife"
+
+REFERENCE            pickup_trophy_system
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            pillage_depot_closing
+LANG_ENGLISH         "DEPOT CLOSING"
+
+REFERENCE            pillage_depot_open
+LANG_ENGLISH         "DEPOT OPEN"
+
+REFERENCE            players_required
+LANG_ENGLISH         "PLAYERS REQUIRED:"
+
+REFERENCE            practice_round
+LANG_ENGLISH         "Warm up round. Stats are not affected."
+
+REFERENCE            refill_ammo
+LANG_ENGLISH         "Refill Ammo"
+
+REFERENCE            reticle_splash_title
+LANG_ENGLISH         "&&1 Reticle Earned"
+
+REFERENCE            rps_draw
+LANG_ENGLISH         "Draw!"
+
+REFERENCE            rps_lose
+LANG_ENGLISH         "Better luck next time..."
+
+REFERENCE            rps_start
+LANG_ENGLISH         "1...2...3...Shoot"
+
+REFERENCE            rps_too_late
+LANG_ENGLISH         "This is no time for games"
+
+REFERENCE            rps_win
+LANG_ENGLISH         "Winner!"
+
+REFERENCE            safe
+LANG_ENGLISH         "Should be safe in here..."
+
+REFERENCE            searching_body
+LANG_ENGLISH         "Searching Body..."
+
+REFERENCE            select_loadout_to_spawn
+LANG_ENGLISH         "You must select a loadout to spawn."
+
+REFERENCE            snatch_arsenal_breach
+LANG_ENGLISH         "Arsenal Breach"
+
+REFERENCE            snatch_clues
+LANG_ENGLISH         "INTEL:"
+
+REFERENCE            snatch_grab_box_escort
+LANG_ENGLISH         "ESCORT"
+
+REFERENCE            snatch_grab_box_pick_up
+LANG_ENGLISH         "PICK UP"
+
+REFERENCE            snatch_grab_box_steal
+LANG_ENGLISH         "STEAL"
+
+REFERENCE            snatch_hunt_text
+LANG_ENGLISH         "FIND INTEL"
+
+REFERENCE            snatch_max_clues
+LANG_ENGLISH         "/ 3"
+
+REFERENCE            snowball_fight
+LANG_ENGLISH         "Snowball Fight!!!"
+
+REFERENCE            spawn_beacon
+LANG_ENGLISH         "Tac Beacon"
+
+REFERENCE            splashes_beta_max_rank
+LANG_ENGLISH         "Max Rank!"
+
+REFERENCE            splashes_beta_max_rank_desc
+LANG_ENGLISH         "Current Max Beta Rank Achieved"
+
+REFERENCE            super_points_feed
+LANG_ENGLISH         "+ &&1   &&2"
+
+REFERENCE            supply_crate_caps
+LANG_ENGLISH         "SUPPLY CRATE"
+
+REFERENCE            system_reboot
+LANG_ENGLISH         "System Reboot"
+
+REFERENCE            target_hacked
+LANG_ENGLISH         "Target Hacked"
+
+REFERENCE            teamscore_notify_1
+LANG_ENGLISH         "+1 Team Score"
+
+REFERENCE            teamscore_notify_10
+LANG_ENGLISH         "+10 Team Score"
+
+REFERENCE            teamscore_notify_15
+LANG_ENGLISH         "+15 Team Score"
+
+REFERENCE            teamscore_notify_2
+LANG_ENGLISH         "+2 Team Score"
+
+REFERENCE            teamscore_notify_20
+LANG_ENGLISH         "+20 Team Score"
+
+REFERENCE            teamscore_notify_25
+LANG_ENGLISH         "+25 Team Score"
+
+REFERENCE            teamscore_notify_3
+LANG_ENGLISH         "+3 Team Score"
+
+REFERENCE            teamscore_notify_4
+LANG_ENGLISH         "+4 Team Score"
+
+REFERENCE            teamscore_notify_5
+LANG_ENGLISH         "+5 Team Score"
+
+REFERENCE            teamscore_notify_6
+LANG_ENGLISH         "+6 Team Score"
+
+REFERENCE            teamscore_notify_7
+LANG_ENGLISH         "+7 Team Score"
+
+REFERENCE            teamscore_notify_8
+LANG_ENGLISH         "+8 Team Score"
+
+REFERENCE            teamscore_notify_9
+LANG_ENGLISH         "+9 Team Score"
+
+REFERENCE            testjumptext
+LANG_ENGLISH         "[{+smoke}] + [{+gostand}] Jump Solo"
+
+REFERENCE            testjumptext2
+LANG_ENGLISH         "[{+smoke}] + [{+gostand}] Jump without squad"
+
+REFERENCE            uplink_ball
+LANG_ENGLISH         "Drone"
+
+REFERENCE            use_mortar
+LANG_ENGLISH         "Use Mortar"
+
+REFERENCE            vs
+LANG_ENGLISH         "VS"
+
+REFERENCE            weapon_splash_title
+LANG_ENGLISH         "&&1 Weapon Earned"
 
 
 ENDMARKER

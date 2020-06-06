@@ -20,18 +20,6 @@ LANG_ENGLISH         "Golden Bell"
 REFERENCE            ret_06
 LANG_ENGLISH         "Standard fare"
 
-REFERENCE            ret_cat_thermal
-LANG_ENGLISH         "Thermal"
-
-REFERENCE            ret_cat_holo
-LANG_ENGLISH         "Holo"
-
-REFERENCE            ret_cat_reflex
-LANG_ENGLISH         "Reflex"
-
-REFERENCE            ret_cat_hybrid
-LANG_ENGLISH         "Hybrid"
-
 REFERENCE            ret_07
 LANG_ENGLISH         "Witch"
 
@@ -110,6 +98,9 @@ LANG_ENGLISH         "Beasts of Prey"
 REFERENCE            ret_32
 LANG_ENGLISH         "Chevron Tactical"
 
+REFERENCE            ret_33
+LANG_ENGLISH         "Confine"
+
 REFERENCE            ret_34
 LANG_ENGLISH         "Heroic"
 
@@ -164,6 +155,18 @@ LANG_ENGLISH         "Blood Splatter"
 REFERENCE            ret_cat_acog
 LANG_ENGLISH         "ACOG"
 
+REFERENCE            ret_cat_holo
+LANG_ENGLISH         "Holo"
+
+REFERENCE            ret_cat_hybrid
+LANG_ENGLISH         "Hybrid"
+
+REFERENCE            ret_cat_reflex
+LANG_ENGLISH         "Reflex"
+
+REFERENCE            ret_cat_thermal
+LANG_ENGLISH         "Thermal"
+
 REFERENCE            ret_cat_thermal_hybrid
 LANG_ENGLISH         "Thermal Hybrid"
 
@@ -191,6 +194,9 @@ LANG_ENGLISH         "Circle Pit"
 REFERENCE            retsnpr_07
 LANG_ENGLISH         "Cover Shot"
 
+REFERENCE            retsnpr_08
+LANG_ENGLISH         "Top Notch"
+
 REFERENCE            retsnpr_09
 LANG_ENGLISH         "Marksman"
 
@@ -209,28 +215,10 @@ LANG_ENGLISH         "Old School"
 REFERENCE            retsnpr_14
 LANG_ENGLISH         "Fiber Optic"
 
-REFERENCE            retsnpr_16
-LANG_ENGLISH         "Fiber Optic"
-
-REFERENCE            retsnpr_20
-LANG_ENGLISH         "Fiber Optic"
-
-REFERENCE            retsnpr_22
-LANG_ENGLISH         "Fiber Optic"
-
-REFERENCE            retsnpr_23
-LANG_ENGLISH         "Fiber Optic"
-
-REFERENCE            retsnpr_24
-LANG_ENGLISH         "Fiber Optic"
-
-REFERENCE            ret_33
-LANG_ENGLISH         "Confine"
-
-REFERENCE            retsnpr_08
-LANG_ENGLISH         "Top Notch"
-
 REFERENCE            retsnpr_15
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_16
 LANG_ENGLISH         "Fiber Optic"
 
 REFERENCE            retsnpr_17
@@ -242,7 +230,19 @@ LANG_ENGLISH         "Fiber Optic"
 REFERENCE            retsnpr_19
 LANG_ENGLISH         "Fiber Optic"
 
+REFERENCE            retsnpr_20
+LANG_ENGLISH         "Fiber Optic"
+
 REFERENCE            retsnpr_21
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_22
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_23
+LANG_ENGLISH         "Fiber Optic"
+
+REFERENCE            retsnpr_24
 LANG_ENGLISH         "Fiber Optic"
 
 REFERENCE            retsnpr_25

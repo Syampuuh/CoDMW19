@@ -2,6 +2,156 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            alex_1
+LANG_ENGLISH         ""Kiss my ass.""
+
+REFERENCE            alex_10
+LANG_ENGLISH         ""Sleep tight asshole.""
+
+REFERENCE            alex_2
+LANG_ENGLISH         ""Suck on that.""
+
+REFERENCE            alex_3
+LANG_ENGLISH         "ALEX_3"
+
+REFERENCE            alex_4
+LANG_ENGLISH         ""All or nothing.""
+
+REFERENCE            alex_5
+LANG_ENGLISH         ""Rest in piss.""
+
+REFERENCE            alex_6
+LANG_ENGLISH         ""See you in hell.""
+
+REFERENCE            alex_7
+LANG_ENGLISH         ""Out like a light.""
+
+REFERENCE            alex_8
+LANG_ENGLISH         ""Meet your maker.""
+
+REFERENCE            alex_9
+LANG_ENGLISH         ""Karma's a bitch.""
+
+REFERENCE            alice_1
+LANG_ENGLISH         ""Pinche cabr??n!""
+
+REFERENCE            alice_10
+LANG_ENGLISH         ""Sorry-ass FNG...""
+
+REFERENCE            alice_2
+LANG_ENGLISH         ""Good game, buddy...""
+
+REFERENCE            alice_3
+LANG_ENGLISH         ""Goodbye...""
+
+REFERENCE            alice_4
+LANG_ENGLISH         ""Gotta check your six...""
+
+REFERENCE            alice_5
+LANG_ENGLISH         ""Tag 'em...""
+
+REFERENCE            alice_6
+LANG_ENGLISH         ""Cancel that medevac...""
+
+REFERENCE            alice_7
+LANG_ENGLISH         ""Bitch...""
+
+REFERENCE            alice_8
+LANG_ENGLISH         ""Stand down...""
+
+REFERENCE            alice_9
+LANG_ENGLISH         ""Lights out...""
+
+REFERENCE            azur_1
+LANG_ENGLISH         ""No room for fools.""
+
+REFERENCE            azur_10
+LANG_ENGLISH         ""So glad you could join us.""
+
+REFERENCE            azur_2
+LANG_ENGLISH         ""Over too quickly.""
+
+REFERENCE            azur_3
+LANG_ENGLISH         ""So easily distracted...""
+
+REFERENCE            azur_4
+LANG_ENGLISH         ""You should be more careful.""
+
+REFERENCE            azur_5
+LANG_ENGLISH         ""One step at a time...""
+
+REFERENCE            azur_6
+LANG_ENGLISH         ""Another piece removed.""
+
+REFERENCE            azur_7
+LANG_ENGLISH         ""Out of the way, please.""
+
+REFERENCE            azur_8
+LANG_ENGLISH         ""Azur sends his love.""
+
+REFERENCE            azur_9
+LANG_ENGLISH         ""Bloody business...""
+
+REFERENCE            bale_1
+LANG_ENGLISH         ""Amateur.""
+
+REFERENCE            bale_10
+LANG_ENGLISH         ""Be Still.""
+
+REFERENCE            bale_2
+LANG_ENGLISH         ""Finished.""
+
+REFERENCE            bale_3
+LANG_ENGLISH         ""Heh. Sleep.""
+
+REFERENCE            bale_4
+LANG_ENGLISH         ""Ha. Good one.""
+
+REFERENCE            bale_5
+LANG_ENGLISH         ""Better.""
+
+REFERENCE            bale_6
+LANG_ENGLISH         ""Hmm. Slow.""
+
+REFERENCE            bale_7
+LANG_ENGLISH         ""It is settled""
+
+REFERENCE            bale_8
+LANG_ENGLISH         ""Broken.""
+
+REFERENCE            bale_9
+LANG_ENGLISH         ""Dropped your guard.""
+
+REFERENCE            charly_1
+LANG_ENGLISH         ""That's it for you.""
+
+REFERENCE            charly_10
+LANG_ENGLISH         ""You, stay there.""
+
+REFERENCE            charly_2
+LANG_ENGLISH         ""Take a seat.""
+
+REFERENCE            charly_3
+LANG_ENGLISH         ""No gettin' up from that.""
+
+REFERENCE            charly_4
+LANG_ENGLISH         ""That's better.""
+
+REFERENCE            charly_5
+LANG_ENGLISH         ""Right. Enough of them.""
+
+REFERENCE            charly_6
+LANG_ENGLISH         ""Aagh! Okay then.""
+
+REFERENCE            charly_7
+LANG_ENGLISH         ""There, that's done it.""
+
+REFERENCE            charly_8
+LANG_ENGLISH         ""See? Calm as you like.""
+
+REFERENCE            charly_9
+LANG_ENGLISH         ""Alright! Work to do.""
+
 REFERENCE            crowfoot_1
 LANG_ENGLISH         ""Later.""
 
@@ -146,6 +296,9 @@ LANG_ENGLISH         ""That is the end of you.""
 REFERENCE            grinch_5
 LANG_ENGLISH         ""Go join the others.""
 
+REFERENCE            grinch_6
+LANG_ENGLISH         ""Be at peace.""
+
 REFERENCE            grinch_7
 LANG_ENGLISH         ""There. You can let go.""
 
@@ -215,6 +368,9 @@ LANG_ENGLISH         ""You see? Better.""
 REFERENCE            lynch_1
 LANG_ENGLISH         ""Yup. Done with it...""
 
+REFERENCE            lynch_10
+LANG_ENGLISH         ""Hard way to go...""
+
 REFERENCE            lynch_2
 LANG_ENGLISH         ""Damn shame...""
 
@@ -229,6 +385,12 @@ LANG_ENGLISH         ""Just wasn't your day...""
 
 REFERENCE            lynch_6
 LANG_ENGLISH         ""Respect...""
+
+REFERENCE            lynch_7
+LANG_ENGLISH         ""So long, soldier...""
+
+REFERENCE            lynch_8
+LANG_ENGLISH         ""Not bad, not good enough...""
 
 REFERENCE            lynch_9
 LANG_ENGLISH         ""Maybe I'll see you again...""
@@ -247,6 +409,9 @@ LANG_ENGLISH         ""They make it too easy.""
 
 REFERENCE            mace_4
 LANG_ENGLISH         ""Enough outta you.""
+
+REFERENCE            mace_5
+LANG_ENGLISH         ""I can do this all day.""
 
 REFERENCE            mace_6
 LANG_ENGLISH         ""Easy kill.""
@@ -395,6 +560,9 @@ LANG_ENGLISH         ""That's enough outta you.""
 REFERENCE            rodion_6
 LANG_ENGLISH         ""Pleasant dreams.""
 
+REFERENCE            rodion_7
+LANG_ENGLISH         ""Anyone else?""
+
 REFERENCE            rodion_8
 LANG_ENGLISH         ""Goodbye, good riddance.""
 
@@ -536,6 +704,36 @@ LANG_ENGLISH         ""Too much?""
 REFERENCE            yegor_4
 LANG_ENGLISH         ""You rest now.""
 
+REFERENCE            yegor_5
+LANG_ENGLISH         ""Stay there!""
+
+REFERENCE            yegor_6
+LANG_ENGLISH         ""Okay. Where was I?""
+
+REFERENCE            yegor_7
+LANG_ENGLISH         ""I feel better.""
+
+REFERENCE            yegor_8
+LANG_ENGLISH         ""Aaagh! I'm fine.""
+
+REFERENCE            yegor_9
+LANG_ENGLISH         ""Needed that.""
+
+REFERENCE            zane_1
+LANG_ENGLISH         ""Stay down!""
+
+REFERENCE            zane_10
+LANG_ENGLISH         ""Aagh! Gotta keep moving...""
+
+REFERENCE            zane_2
+LANG_ENGLISH         ""Enough!""
+
+REFERENCE            zane_3
+LANG_ENGLISH         ""It's over!""
+
+REFERENCE            zane_4
+LANG_ENGLISH         ""You should not have come.""
+
 REFERENCE            zane_5
 LANG_ENGLISH         ""Threat removed.""
 
@@ -580,204 +778,6 @@ LANG_ENGLISH         ""Now for their friends...""
 
 REFERENCE            zedra_9
 LANG_ENGLISH         ""They bleed easy...""
-
-REFERENCE            alex_10
-LANG_ENGLISH         ""Sleep tight asshole.""
-
-REFERENCE            alex_1
-LANG_ENGLISH         ""Kiss my ass.""
-
-REFERENCE            lynch_8
-LANG_ENGLISH         ""Not bad, not good enough...""
-
-REFERENCE            lynch_7
-LANG_ENGLISH         ""So long, soldier...""
-
-REFERENCE            mace_5
-LANG_ENGLISH         ""I can do this all day.""
-
-REFERENCE            grinch_6
-LANG_ENGLISH         ""Be at peace.""
-
-REFERENCE            lynch_10
-LANG_ENGLISH         ""Hard way to go...""
-
-REFERENCE            charly_9
-LANG_ENGLISH         ""Alright! Work to do.""
-
-REFERENCE            charly_8
-LANG_ENGLISH         ""See? Calm as you like.""
-
-REFERENCE            charly_7
-LANG_ENGLISH         ""There, that's done it.""
-
-REFERENCE            charly_6
-LANG_ENGLISH         ""Aagh! Okay then.""
-
-REFERENCE            charly_5
-LANG_ENGLISH         ""Right. Enough of them.""
-
-REFERENCE            charly_4
-LANG_ENGLISH         ""That's better.""
-
-REFERENCE            charly_3
-LANG_ENGLISH         ""No gettin' up from that.""
-
-REFERENCE            charly_2
-LANG_ENGLISH         ""Take a seat.""
-
-REFERENCE            charly_10
-LANG_ENGLISH         ""You, stay there.""
-
-REFERENCE            charly_1
-LANG_ENGLISH         ""That's it for you.""
-
-REFERENCE            bale_9
-LANG_ENGLISH         ""Dropped your guard.""
-
-REFERENCE            bale_8
-LANG_ENGLISH         ""Broken.""
-
-REFERENCE            bale_7
-LANG_ENGLISH         ""It is settled""
-
-REFERENCE            bale_6
-LANG_ENGLISH         ""Hmm. Slow.""
-
-REFERENCE            bale_5
-LANG_ENGLISH         ""Better.""
-
-REFERENCE            bale_4
-LANG_ENGLISH         ""Ha. Good one.""
-
-REFERENCE            bale_3
-LANG_ENGLISH         ""Heh. Sleep.""
-
-REFERENCE            bale_2
-LANG_ENGLISH         ""Finished.""
-
-REFERENCE            bale_10
-LANG_ENGLISH         ""Be Still.""
-
-REFERENCE            bale_1
-LANG_ENGLISH         ""Amateur.""
-
-REFERENCE            azur_9
-LANG_ENGLISH         ""Bloody business...""
-
-REFERENCE            azur_8
-LANG_ENGLISH         ""Azur sends his love.""
-
-REFERENCE            azur_7
-LANG_ENGLISH         ""Out of the way, please.""
-
-REFERENCE            azur_6
-LANG_ENGLISH         ""Another piece removed.""
-
-REFERENCE            azur_5
-LANG_ENGLISH         ""One step at a time...""
-
-REFERENCE            azur_4
-LANG_ENGLISH         ""You should be more careful.""
-
-REFERENCE            azur_3
-LANG_ENGLISH         ""So easily distracted...""
-
-REFERENCE            azur_2
-LANG_ENGLISH         ""Over too quickly.""
-
-REFERENCE            azur_10
-LANG_ENGLISH         ""So glad you could join us.""
-
-REFERENCE            azur_1
-LANG_ENGLISH         ""No room for fools.""
-
-REFERENCE            alice_9
-LANG_ENGLISH         ""Lights out...""
-
-REFERENCE            alice_8
-LANG_ENGLISH         ""Stand down...""
-
-REFERENCE            alice_7
-LANG_ENGLISH         ""Bitch...""
-
-REFERENCE            alice_6
-LANG_ENGLISH         ""Cancel that medevac...""
-
-REFERENCE            zane_4
-LANG_ENGLISH         ""You should not have come.""
-
-REFERENCE            zane_3
-LANG_ENGLISH         ""It's over!""
-
-REFERENCE            zane_2
-LANG_ENGLISH         ""Enough!""
-
-REFERENCE            zane_10
-LANG_ENGLISH         ""Aagh! Gotta keep moving...""
-
-REFERENCE            zane_1
-LANG_ENGLISH         ""Stay down!""
-
-REFERENCE            yegor_9
-LANG_ENGLISH         ""Needed that.""
-
-REFERENCE            yegor_8
-LANG_ENGLISH         ""Aaagh! I'm fine.""
-
-REFERENCE            yegor_7
-LANG_ENGLISH         ""I feel better.""
-
-REFERENCE            yegor_6
-LANG_ENGLISH         ""Okay. Where was I?""
-
-REFERENCE            yegor_5
-LANG_ENGLISH         ""Stay there!""
-
-REFERENCE            rodion_7
-LANG_ENGLISH         ""Anyone else?""
-
-REFERENCE            alice_5
-LANG_ENGLISH         ""Tag 'em...""
-
-REFERENCE            alice_4
-LANG_ENGLISH         ""Gotta check your six...""
-
-REFERENCE            alice_3
-LANG_ENGLISH         ""Goodbye...""
-
-REFERENCE            alice_2
-LANG_ENGLISH         ""Good game, buddy...""
-
-REFERENCE            alice_10
-LANG_ENGLISH         ""Sorry-ass FNG...""
-
-REFERENCE            alice_1
-LANG_ENGLISH         ""Pinche cabr??n!""
-
-REFERENCE            alex_9
-LANG_ENGLISH         ""Karma's a bitch.""
-
-REFERENCE            alex_8
-LANG_ENGLISH         ""Meet your maker.""
-
-REFERENCE            alex_7
-LANG_ENGLISH         ""Out like a light.""
-
-REFERENCE            alex_6
-LANG_ENGLISH         ""See you in hell.""
-
-REFERENCE            alex_5
-LANG_ENGLISH         ""Rest in piss.""
-
-REFERENCE            alex_4
-LANG_ENGLISH         ""All or nothing.""
-
-REFERENCE            alex_3
-LANG_ENGLISH         "ALEX_3"
-
-REFERENCE            alex_2
-LANG_ENGLISH         ""Suck on that.""
 
 
 ENDMARKER

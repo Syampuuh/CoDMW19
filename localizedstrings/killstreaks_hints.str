@@ -2,280 +2,280 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            uav_reroll
-LANG_ENGLISH         "UAV.
-Double tap ^3[{+activate}]^7 to reroll."
+REFERENCE            bradley_capture
+LANG_ENGLISH         "Capture Infantry Assault Vehicle"
 
-REFERENCE            uav_pickup_gl
-LANG_ENGLISH         "Hold for a UAV"
+REFERENCE            bradley_driver_enter
+LANG_ENGLISH         "Enter Infantry Assault Vehicle"
 
-REFERENCE            uav_pickup
-LANG_ENGLISH         "UAV"
-
-REFERENCE            turret_place
-LANG_ENGLISH         "^3[{+attack}]^7 Place Turret"
-
-REFERENCE            turret_cannot_place
-LANG_ENGLISH         "Move the turret to a valid location."
-
-REFERENCE            toma_strike_pickup
-LANG_ENGLISH         "For a Cluster Strike"
-
-REFERENCE            tank_reload
-LANG_ENGLISH         "Reloading"
-
-REFERENCE            steer_button_text_gamepad
-LANG_ENGLISH         "[{left_stick_centered}]"
-
-REFERENCE            splash_hint_keyboard
-LANG_ENGLISH         "Press [{killstreak_wheel}] to use or hold to change"
-
-REFERENCE            splash_hint_gamepad
-LANG_ENGLISH         "Press [{+actionslot 4}] to use or hold to change"
-
-REFERENCE            smoke
-LANG_ENGLISH         "[{+smoke}]"
-
-REFERENCE            sentry_use_gl
-LANG_ENGLISH         "Use Turret"
-
-REFERENCE            sentry_use
-LANG_ENGLISH         "Pick up Sentry Gun"
-
-REFERENCE            sentry_place
-LANG_ENGLISH         "[{+attack}] Place"
-
-REFERENCE            sentry_owner_use
-LANG_ENGLISH         "Press to use, Hold to pick up"
-
-REFERENCE            sentry_other_use
-LANG_ENGLISH         "Use"
-
-REFERENCE            sentry_gun_place
-LANG_ENGLISH         "[{+attack}] place
-"
-
-REFERENCE            sentry_dismantle
-LANG_ENGLISH         "Dismantle turret"
-
-REFERENCE            scrambler_drone_pickup
-LANG_ENGLISH         "Scrambler Drone"
-
-REFERENCE            rsd_guard
-LANG_ENGLISH         "^3[{+activate}]^7 Set RSD to Guard Mode"
-
-REFERENCE            rsd_follow
-LANG_ENGLISH         "^3[{+activate}]^7 Set RSD to Follow Mode"
-
-REFERENCE            recon_search
-LANG_ENGLISH         "Search For Targets"
-
-REFERENCE            recon_out_of_range
-LANG_ENGLISH         "Target out of range"
-
-REFERENCE            recon_no_mark
-LANG_ENGLISH         "Target Resistant to Marking"
-
-REFERENCE            recon
-LANG_ENGLISH         "Drone Online"
-
-REFERENCE            rcd_radar
-LANG_ENGLISH         "^3[{+activate}]^7 Set RCD to Radar Mode"
-
-REFERENCE            rcd_manual
-LANG_ENGLISH         "^3[{+activate}]^7 Set RCD to Recon Mode"
-
-REFERENCE            radar_drone_recon_pickup
-LANG_ENGLISH         "Radar Drone Recon"
-
-REFERENCE            radar_drone_escort_pickup
-LANG_ENGLISH         "Radar Drone Escort"
-
-REFERENCE            precision_airstrike_reroll
-LANG_ENGLISH         "Hold for an Airstrike.
-Double tap ^3[{+activate}]^7 to reroll."
-
-REFERENCE            precision_airstrike_pickup
-LANG_ENGLISH         "Hold for an Airstrike"
-
-REFERENCE            pac_sentry_pickup
-LANG_ENGLISH         "Drone Sentry"
-
-REFERENCE            pac_sentry_mount
-LANG_ENGLISH         "^3[{+activate}]^7 Ride"
-
-REFERENCE            multi_airstrike_pickup
-LANG_ENGLISH         "Hold for a Multi Airstrike"
-
-REFERENCE            move_button_text_gamepad
-LANG_ENGLISH         "[{right_stick_centered}]"
-
-REFERENCE            manual_turret_pickup
-LANG_ENGLISH         "Mobile Turret"
-
-REFERENCE            juggernaut_pickup_gl
-LANG_ENGLISH         "Juggernaut"
-
-REFERENCE            juggernaut_pickup
-LANG_ENGLISH         "^3[{+activate}]^7 for a Juggernaut"
-
-REFERENCE            jugg_crate_pickup
-LANG_ENGLISH         "Equip Juggernaut gear"
-
-REFERENCE            instruction_zoom
-LANG_ENGLISH         "Zoom"
-
-REFERENCE            instruction_toggle_music
-LANG_ENGLISH         "Toggle Music"
-
-REFERENCE            instruction_thermal
-LANG_ENGLISH         "Thermal"
-
-REFERENCE            instruction_switch_seats
-LANG_ENGLISH         "Switch Seats"
-
-REFERENCE            instruction_steer
-LANG_ENGLISH         "Steer"
-
-REFERENCE            instruction_reverse
-LANG_ENGLISH         "Reverse"
-
-REFERENCE            instruction_move
-LANG_ENGLISH         "Move"
-
-REFERENCE            instruction_missiles
-LANG_ENGLISH         "Missiles"
-
-REFERENCE            instruction_lr
-LANG_ENGLISH         "Left/right [{right_stick_centered}]"
-
-REFERENCE            instruction_lean_forward
-LANG_ENGLISH         "Lean Forward"
-
-REFERENCE            instruction_lean_backward
-LANG_ENGLISH         "Lean Backward"
-
-REFERENCE            instruction_horn
-LANG_ENGLISH         "Horn"
-
-REFERENCE            instruction_handbrake
-LANG_ENGLISH         "Handbrake"
-
-REFERENCE            instruction_fwback
-LANG_ENGLISH         "Forward/back [{left_stick_centered}]"
-
-REFERENCE            instruction_flare
-LANG_ENGLISH         "Flare"
-
-REFERENCE            instruction_fire
-LANG_ENGLISH         "Fire"
-
-REFERENCE            instruction_exit
-LANG_ENGLISH         "Exit"
-
-REFERENCE            instruction_detonate
-LANG_ENGLISH         "Detonate"
-
-REFERENCE            instruction_descend
-LANG_ENGLISH         "Descend"
-
-REFERENCE            instruction_decelerate
-LANG_ENGLISH         "Decelerate"
-
-REFERENCE            instruction_change_weapon
-LANG_ENGLISH         "Change Weapon"
-
-REFERENCE            instruction_change_view
-LANG_ENGLISH         "Change View"
-
-REFERENCE            instruction_boost
-LANG_ENGLISH         "Boost"
-
-REFERENCE            instruction_ascend
-LANG_ENGLISH         "Ascend"
-
-REFERENCE            instruction_aim_button_text_gamepad
-LANG_ENGLISH         "[{right_stick_centered}]"
-
-REFERENCE            instruction_aim
-LANG_ENGLISH         "Aim"
-
-REFERENCE            instruction_accelerate
-LANG_ENGLISH         "Accelerate"
-
-REFERENCE            hover_jet_guard
-LANG_ENGLISH         "Have your VTOL Jet guard this location"
-
-REFERENCE            gunner_fire
-LANG_ENGLISH         "Fire"
-
-REFERENCE            gunner_aim
-LANG_ENGLISH         "ADS"
-
-REFERENCE            getting_supplies
-LANG_ENGLISH         "Refilling Supplies..."
-
-REFERENCE            generic_pickup
-LANG_ENGLISH         "^3[{+activate}]^7 Pick up crate"
-
-REFERENCE            fuel_airstrike_pickup
-LANG_ENGLISH         "Fuel Bomb Airstrike"
-
-REFERENCE            frag
+REFERENCE            bradley_missile
 LANG_ENGLISH         "[{+frag}]"
 
-REFERENCE            flare_cooldown
-LANG_ENGLISH         "Flare Cooldown"
+REFERENCE            bradley_smoke
+LANG_ENGLISH         "[{+smoke}]"
 
-REFERENCE            exit_tank
-LANG_ENGLISH         "Exit [{+reload;+activate}]"
+REFERENCE            button_accelerate
+LANG_ENGLISH         "[{ui_trigger_right}]"
 
-REFERENCE            emp_pickup
-LANG_ENGLISH         "Hold for an EMP"
+REFERENCE            button_reverse
+LANG_ENGLISH         "[{ui_trigger_left}]"
 
-REFERENCE            directional_uav_reroll
-LANG_ENGLISH         "Hold for an Overseer.
-Double tap ^3[{+activate}]^7 to reroll."
+REFERENCE            chopper_gunner_pickup
+LANG_ENGLISH         "Chopper"
 
-REFERENCE            directional_uav_pickup
-LANG_ENGLISH         "Hold for an Overseer"
-
-REFERENCE            cruise_predator_pickup_gl
-LANG_ENGLISH         "Cruise Missile"
-
-REFERENCE            cruise_predator_pickup
-LANG_ENGLISH         "For a Cruise Missile"
-
-REFERENCE            crate_pickup
-LANG_ENGLISH         "Pick up killstreak"
+REFERENCE            counter_uav_pickup
+LANG_ENGLISH         "Hold for a Counter UAV"
 
 REFERENCE            counter_uav_reroll
 LANG_ENGLISH         "Hold for a Counter UAV.
 Double tap ^3[{+activate}]^7 to reroll."
 
-REFERENCE            counter_uav_pickup
-LANG_ENGLISH         "Hold for a Counter UAV"
+REFERENCE            crate_pickup
+LANG_ENGLISH         "Pick up killstreak"
 
-REFERENCE            chopper_gunner_pickup
-LANG_ENGLISH         "Chopper"
+REFERENCE            cruise_predator_pickup
+LANG_ENGLISH         "For a Cruise Missile"
 
-REFERENCE            button_reverse
-LANG_ENGLISH         "[{ui_trigger_left}]"
+REFERENCE            cruise_predator_pickup_gl
+LANG_ENGLISH         "Cruise Missile"
 
-REFERENCE            button_accelerate
-LANG_ENGLISH         "[{ui_trigger_right}]"
+REFERENCE            directional_uav_pickup
+LANG_ENGLISH         "Hold for an Overseer"
 
-REFERENCE            bradley_smoke
-LANG_ENGLISH         "[{+smoke}]"
+REFERENCE            directional_uav_reroll
+LANG_ENGLISH         "Hold for an Overseer.
+Double tap ^3[{+activate}]^7 to reroll."
 
-REFERENCE            bradley_missile
+REFERENCE            emp_pickup
+LANG_ENGLISH         "Hold for an EMP"
+
+REFERENCE            exit_tank
+LANG_ENGLISH         "Exit [{+reload;+activate}]"
+
+REFERENCE            flare_cooldown
+LANG_ENGLISH         "Flare Cooldown"
+
+REFERENCE            frag
 LANG_ENGLISH         "[{+frag}]"
 
-REFERENCE            bradley_driver_enter
-LANG_ENGLISH         "Enter Infantry Assault Vehicle"
+REFERENCE            fuel_airstrike_pickup
+LANG_ENGLISH         "Fuel Bomb Airstrike"
 
-REFERENCE            bradley_capture
-LANG_ENGLISH         "Capture Infantry Assault Vehicle"
+REFERENCE            generic_pickup
+LANG_ENGLISH         "^3[{+activate}]^7 Pick up crate"
+
+REFERENCE            getting_supplies
+LANG_ENGLISH         "Refilling Supplies..."
+
+REFERENCE            gunner_aim
+LANG_ENGLISH         "ADS"
+
+REFERENCE            gunner_fire
+LANG_ENGLISH         "Fire"
+
+REFERENCE            hover_jet_guard
+LANG_ENGLISH         "Have your VTOL Jet guard this location"
+
+REFERENCE            instruction_accelerate
+LANG_ENGLISH         "Accelerate"
+
+REFERENCE            instruction_aim
+LANG_ENGLISH         "Aim"
+
+REFERENCE            instruction_aim_button_text_gamepad
+LANG_ENGLISH         "[{right_stick_centered}]"
+
+REFERENCE            instruction_ascend
+LANG_ENGLISH         "Ascend"
+
+REFERENCE            instruction_boost
+LANG_ENGLISH         "Boost"
+
+REFERENCE            instruction_change_view
+LANG_ENGLISH         "Change View"
+
+REFERENCE            instruction_change_weapon
+LANG_ENGLISH         "Change Weapon"
+
+REFERENCE            instruction_decelerate
+LANG_ENGLISH         "Decelerate"
+
+REFERENCE            instruction_descend
+LANG_ENGLISH         "Descend"
+
+REFERENCE            instruction_detonate
+LANG_ENGLISH         "Detonate"
+
+REFERENCE            instruction_exit
+LANG_ENGLISH         "Exit"
+
+REFERENCE            instruction_fire
+LANG_ENGLISH         "Fire"
+
+REFERENCE            instruction_flare
+LANG_ENGLISH         "Flare"
+
+REFERENCE            instruction_fwback
+LANG_ENGLISH         "Forward/back [{left_stick_centered}]"
+
+REFERENCE            instruction_handbrake
+LANG_ENGLISH         "Handbrake"
+
+REFERENCE            instruction_horn
+LANG_ENGLISH         "Horn"
+
+REFERENCE            instruction_lean_backward
+LANG_ENGLISH         "Lean Backward"
+
+REFERENCE            instruction_lean_forward
+LANG_ENGLISH         "Lean Forward"
+
+REFERENCE            instruction_lr
+LANG_ENGLISH         "Left/right [{right_stick_centered}]"
+
+REFERENCE            instruction_missiles
+LANG_ENGLISH         "Missiles"
+
+REFERENCE            instruction_move
+LANG_ENGLISH         "Move"
+
+REFERENCE            instruction_reverse
+LANG_ENGLISH         "Reverse"
+
+REFERENCE            instruction_steer
+LANG_ENGLISH         "Steer"
+
+REFERENCE            instruction_switch_seats
+LANG_ENGLISH         "Switch Seats"
+
+REFERENCE            instruction_thermal
+LANG_ENGLISH         "Thermal"
+
+REFERENCE            instruction_toggle_music
+LANG_ENGLISH         "Toggle Music"
+
+REFERENCE            instruction_zoom
+LANG_ENGLISH         "Zoom"
+
+REFERENCE            jugg_crate_pickup
+LANG_ENGLISH         "Equip Juggernaut gear"
+
+REFERENCE            juggernaut_pickup
+LANG_ENGLISH         "^3[{+activate}]^7 for a Juggernaut"
+
+REFERENCE            juggernaut_pickup_gl
+LANG_ENGLISH         "Juggernaut"
+
+REFERENCE            manual_turret_pickup
+LANG_ENGLISH         "Mobile Turret"
+
+REFERENCE            move_button_text_gamepad
+LANG_ENGLISH         "[{right_stick_centered}]"
+
+REFERENCE            multi_airstrike_pickup
+LANG_ENGLISH         "Hold for a Multi Airstrike"
+
+REFERENCE            pac_sentry_mount
+LANG_ENGLISH         "^3[{+activate}]^7 Ride"
+
+REFERENCE            pac_sentry_pickup
+LANG_ENGLISH         "Drone Sentry"
+
+REFERENCE            precision_airstrike_pickup
+LANG_ENGLISH         "Hold for an Airstrike"
+
+REFERENCE            precision_airstrike_reroll
+LANG_ENGLISH         "Hold for an Airstrike.
+Double tap ^3[{+activate}]^7 to reroll."
+
+REFERENCE            radar_drone_escort_pickup
+LANG_ENGLISH         "Radar Drone Escort"
+
+REFERENCE            radar_drone_recon_pickup
+LANG_ENGLISH         "Radar Drone Recon"
+
+REFERENCE            rcd_manual
+LANG_ENGLISH         "^3[{+activate}]^7 Set RCD to Recon Mode"
+
+REFERENCE            rcd_radar
+LANG_ENGLISH         "^3[{+activate}]^7 Set RCD to Radar Mode"
+
+REFERENCE            recon
+LANG_ENGLISH         "Drone Online"
+
+REFERENCE            recon_no_mark
+LANG_ENGLISH         "Target Resistant to Marking"
+
+REFERENCE            recon_out_of_range
+LANG_ENGLISH         "Target out of range"
+
+REFERENCE            recon_search
+LANG_ENGLISH         "Search For Targets"
+
+REFERENCE            rsd_follow
+LANG_ENGLISH         "^3[{+activate}]^7 Set RSD to Follow Mode"
+
+REFERENCE            rsd_guard
+LANG_ENGLISH         "^3[{+activate}]^7 Set RSD to Guard Mode"
+
+REFERENCE            scrambler_drone_pickup
+LANG_ENGLISH         "Scrambler Drone"
+
+REFERENCE            sentry_dismantle
+LANG_ENGLISH         "Dismantle turret"
+
+REFERENCE            sentry_gun_place
+LANG_ENGLISH         "[{+attack}] place
+"
+
+REFERENCE            sentry_other_use
+LANG_ENGLISH         "Use"
+
+REFERENCE            sentry_owner_use
+LANG_ENGLISH         "Press to use, Hold to pick up"
+
+REFERENCE            sentry_place
+LANG_ENGLISH         "[{+attack}] Place"
+
+REFERENCE            sentry_use
+LANG_ENGLISH         "Pick up Sentry Gun"
+
+REFERENCE            sentry_use_gl
+LANG_ENGLISH         "Use Turret"
+
+REFERENCE            smoke
+LANG_ENGLISH         "[{+smoke}]"
+
+REFERENCE            splash_hint_gamepad
+LANG_ENGLISH         "Press [{+actionslot 4}] to use or hold to change"
+
+REFERENCE            splash_hint_keyboard
+LANG_ENGLISH         "Press [{killstreak_wheel}] to use or hold to change"
+
+REFERENCE            steer_button_text_gamepad
+LANG_ENGLISH         "[{left_stick_centered}]"
+
+REFERENCE            tank_reload
+LANG_ENGLISH         "Reloading"
+
+REFERENCE            toma_strike_pickup
+LANG_ENGLISH         "For a Cluster Strike"
+
+REFERENCE            turret_cannot_place
+LANG_ENGLISH         "Move the turret to a valid location."
+
+REFERENCE            turret_place
+LANG_ENGLISH         "^3[{+attack}]^7 Place Turret"
+
+REFERENCE            uav_pickup
+LANG_ENGLISH         "UAV"
+
+REFERENCE            uav_pickup_gl
+LANG_ENGLISH         "Hold for a UAV"
+
+REFERENCE            uav_reroll
+LANG_ENGLISH         "UAV.
+Double tap ^3[{+activate}]^7 to reroll."
 
 
 ENDMARKER

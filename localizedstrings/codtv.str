@@ -2,64 +2,64 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            vod
-LANG_ENGLISH         "Videos On Demand"
+REFERENCE            autoplay
+LANG_ENGLISH         "Autoplay : &&1"
 
-REFERENCE            views
-LANG_ENGLISH         "&&1 Views"
+REFERENCE            button_desc
+LANG_ENGLISH         "Watch MLG.tv live streams and videos on demand."
 
-REFERENCE            viewers
-LANG_ENGLISH         "&&1 Viewers"
+REFERENCE            cod_on_mlgtv
+LANG_ENGLISH         "Call of Duty?? on [{mlg_tv}]"
 
-REFERENCE            show_menu
-LANG_ENGLISH         "Show Menu"
+REFERENCE            cod_on_mlgtv_text
+LANG_ENGLISH         "Call of Duty?? on MLG.tv"
 
-REFERENCE            replay_video
-LANG_ENGLISH         "Press [{ui_primary}] to replay the video.
-"
+REFERENCE            error_msg
+LANG_ENGLISH         "An error has occurred. Please try again later."
 
-REFERENCE            rebroadcast
-LANG_ENGLISH         "Replay"
+REFERENCE            fence_text
+LANG_ENGLISH         "Connecting to MLG.TV"
 
-REFERENCE            now_playing
-LANG_ENGLISH         "Now playing"
+REFERENCE            fullscreen_toggle
+LANG_ENGLISH         "Toggle Fullscreen"
 
-REFERENCE            no_vods
-LANG_ENGLISH         "No videos on demand available at the moment."
+REFERENCE            live
+LANG_ENGLISH         "Live"
+
+REFERENCE            mlgtv_logo
+LANG_ENGLISH         "[{mlg_tv}]"
+
+REFERENCE            no_description
+LANG_ENGLISH         "No description available"
 
 REFERENCE            no_streams
 LANG_ENGLISH         "No streams available at the moment. 
 Check back later for MLG.tv content."
 
-REFERENCE            no_description
-LANG_ENGLISH         "No description available"
+REFERENCE            no_vods
+LANG_ENGLISH         "No videos on demand available at the moment."
 
-REFERENCE            mlgtv_logo
-LANG_ENGLISH         "[{mlg_tv}]"
+REFERENCE            now_playing
+LANG_ENGLISH         "Now playing"
 
-REFERENCE            live
-LANG_ENGLISH         "Live"
+REFERENCE            rebroadcast
+LANG_ENGLISH         "Replay"
 
-REFERENCE            fullscreen_toggle
-LANG_ENGLISH         "Toggle Fullscreen"
+REFERENCE            replay_video
+LANG_ENGLISH         "Press [{ui_primary}] to replay the video.
+"
 
-REFERENCE            fence_text
-LANG_ENGLISH         "Connecting to MLG.TV"
+REFERENCE            show_menu
+LANG_ENGLISH         "Show Menu"
 
-REFERENCE            error_msg
-LANG_ENGLISH         "An error has occurred. Please try again later."
+REFERENCE            viewers
+LANG_ENGLISH         "&&1 Viewers"
 
-REFERENCE            cod_on_mlgtv_text
-LANG_ENGLISH         "Call of Duty?? on MLG.tv"
+REFERENCE            views
+LANG_ENGLISH         "&&1 Views"
 
-REFERENCE            cod_on_mlgtv
-LANG_ENGLISH         "Call of Duty?? on [{mlg_tv}]"
-
-REFERENCE            button_desc
-LANG_ENGLISH         "Watch MLG.tv live streams and videos on demand."
-
-REFERENCE            autoplay
-LANG_ENGLISH         "Autoplay : &&1"
+REFERENCE            vod
+LANG_ENGLISH         "Videos On Demand"
 
 
 ENDMARKER

@@ -2,35 +2,258 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            heavy_package_2
-LANG_ENGLISH         "Bull Charge + Man-at-Arms"
+REFERENCE            1st_primary
+LANG_ENGLISH         "1ST PRIMARY"
 
-REFERENCE            loadout_select_start
-LANG_ENGLISH         "Loadout Select Starting in &&1"
+REFERENCE            2nd_primary
+LANG_ENGLISH         "2ND PRIMARY"
 
-REFERENCE            markii
-LANG_ENGLISH         "Mark II"
+REFERENCE            2xp_btn
+LANG_ENGLISH         "Double my XP"
 
-REFERENCE            migratinghosts
-LANG_ENGLISH         "Finding the best host"
+REFERENCE            2xp_message
+LANG_ENGLISH         "Do you wish to use a 2XP token to double your last games XP?"
 
-REFERENCE            mission_team_rank
-LANG_ENGLISH         "Mission Team Rank"
+REFERENCE            2xp_token
+LANG_ENGLISH         "Available Tokens"
 
-REFERENCE            mission_team_stats_header
-LANG_ENGLISH         "Mission Team Stats"
+REFERENCE            all_but_c6
+LANG_ENGLISH         "Human"
 
-REFERENCE            missions_completed_caps
-LANG_ENGLISH         "MISSIONS COMPLETED:  &&1"
+REFERENCE            another_player_drafted
+LANG_ENGLISH         "Another player has drafted this item."
 
-REFERENCE            mkii
-LANG_ENGLISH         "MKII"
+REFERENCE            assassin_package_1
+LANG_ENGLISH         "Eraser + Supercharge"
 
-REFERENCE            mt_commander_rank
-LANG_ENGLISH         "Commander"
+REFERENCE            assassin_package_1_desc
+LANG_ENGLISH         "Payload: Eraser - Devastating energy handgun
+Trait: Supercharge - Kills drop Payload cooldown packs"
 
-REFERENCE            unlocked_via_supply_drop
-LANG_ENGLISH         "Only available from supply drops."
+REFERENCE            assassin_package_2
+LANG_ENGLISH         "FTL Jump + Perception"
+
+REFERENCE            assassin_package_2_desc
+LANG_ENGLISH         "Payload: FTL Jump - Quickly move a short distance forward
+Trait: Perception - Receive alerts when enemies are targeting you"
+
+REFERENCE            assassin_package_3
+LANG_ENGLISH         "Phase Shift + Power Slide"
+
+REFERENCE            assassin_package_3_desc
+LANG_ENGLISH         "Payload: Phase Shift - Enter an alternate phase state to avoid damage
+Trait: Power Slide - Increased sliding capabilities"
+
+REFERENCE            available_full_game
+LANG_ENGLISH         "Available in Full Game"
+
+REFERENCE            axe_unlock
+LANG_ENGLISH         "Only available from supply drops"
+
+REFERENCE            beta
+LANG_ENGLISH         "Beta"
+
+REFERENCE            beta_playercard1
+LANG_ENGLISH         "Negative"
+
+REFERENCE            beta_playercard10
+LANG_ENGLISH         "Innocence"
+
+REFERENCE            beta_playercard11
+LANG_ENGLISH         "Necessity"
+
+REFERENCE            beta_playercard12
+LANG_ENGLISH         "Possessed"
+
+REFERENCE            beta_playercard13
+LANG_ENGLISH         "Pride"
+
+REFERENCE            beta_playercard14
+LANG_ENGLISH         "Passport"
+
+REFERENCE            beta_playercard15
+LANG_ENGLISH         "Private Jet"
+
+REFERENCE            beta_playercard16
+LANG_ENGLISH         "Yacht"
+
+REFERENCE            beta_playercard2
+LANG_ENGLISH         "Equalized"
+
+REFERENCE            beta_playercard3
+LANG_ENGLISH         "Eagle Eye"
+
+REFERENCE            beta_playercard4
+LANG_ENGLISH         "Hot Fire"
+
+REFERENCE            beta_playercard5
+LANG_ENGLISH         "Mystic"
+
+REFERENCE            beta_playercard6
+LANG_ENGLISH         "The Window"
+
+REFERENCE            beta_playercard7
+LANG_ENGLISH         "It Calls"
+
+REFERENCE            beta_playercard8
+LANG_ENGLISH         "Battleground"
+
+REFERENCE            beta_playercard9
+LANG_ENGLISH         "Exposure"
+
+REFERENCE            bonus_cod_points
+LANG_ENGLISH         "&&1 Bonus!"
+
+REFERENCE            bonus_cod_points_percentage
+LANG_ENGLISH         "&&1% Bonus!"
+
+REFERENCE            calculating_salvage
+LANG_ENGLISH         "Calculating Duplicate Salvage"
+
+REFERENCE            calling_card_prestige_1
+LANG_ENGLISH         "Prestige I"
+
+REFERENCE            calling_card_prestige_10
+LANG_ENGLISH         "Prestige X"
+
+REFERENCE            calling_card_prestige_2
+LANG_ENGLISH         "Prestige II"
+
+REFERENCE            calling_card_prestige_3
+LANG_ENGLISH         "Prestige III"
+
+REFERENCE            calling_card_prestige_4
+LANG_ENGLISH         "Prestige IV"
+
+REFERENCE            calling_card_prestige_5
+LANG_ENGLISH         "Prestige V"
+
+REFERENCE            calling_card_prestige_6
+LANG_ENGLISH         "Prestige VI"
+
+REFERENCE            calling_card_prestige_7
+LANG_ENGLISH         "Prestige VII"
+
+REFERENCE            calling_card_prestige_8
+LANG_ENGLISH         "Prestige VIII"
+
+REFERENCE            calling_card_prestige_9
+LANG_ENGLISH         "Prestige IX"
+
+REFERENCE            camo_any_weapon
+LANG_ENGLISH         "All Weapons - Camouflage"
+
+REFERENCE            cdl_rules
+LANG_ENGLISH         "Call of Duty League??? Rules: ^3&&1^7"
+
+REFERENCE            cdl_rules_version
+LANG_ENGLISH         "Call of Duty League??? Rules v&&1"
+
+REFERENCE            classic_weapon_already_unlocked
+LANG_ENGLISH         "^3&&1^7 is already unlocked."
+
+REFERENCE            classic_weapon_unlock_failure
+LANG_ENGLISH         "You don't have any Classic Weapon Tokens available. Increase your Prestige Rank to gain tokens."
+
+REFERENCE            classic_weapon_unlock_success
+LANG_ENGLISH         "You have unlocked the ^3&&1"
+
+REFERENCE            classic_weapon_unlock_title
+LANG_ENGLISH         "Classic Weapon Unlock"
+
+REFERENCE            classic_weapons
+LANG_ENGLISH         "Classic Weapons"
+
+REFERENCE            commander_rank_caps
+LANG_ENGLISH         "COMMANDER RANK:  &&1"
+
+REFERENCE            crafting_error
+LANG_ENGLISH         "There was a problem while attempting to craft a weapon. Please wait and try again."
+
+REFERENCE            current_position
+LANG_ENGLISH         "Current Position: &&1"
+
+REFERENCE            cwl_draft
+LANG_ENGLISH         "Draft: ^3&&1^7"
+
+REFERENCE            dlc_assault_diamond
+LANG_ENGLISH         "Earn the Gold camo for all Assault Rifles, including this weapon"
+
+REFERENCE            dlc_lmg_diamond
+LANG_ENGLISH         "Earn the Gold camo for all LMGs, including this weapon"
+
+REFERENCE            dlc_melee_diamond
+LANG_ENGLISH         "Earn the Gold camo for all non-classic secondary weapons, including this weapon"
+
+REFERENCE            dlc_melee_solar
+LANG_ENGLISH         "Earn the Diamond camo for all non-classic weapons, including this weapon"
+
+REFERENCE            dlc_melee_uber_camo
+LANG_ENGLISH         "Earn the Solar camo for this weapon and the Classic Diamond camo"
+
+REFERENCE            dlc_pistol_diamond
+LANG_ENGLISH         "Earn the Gold camo for all Handguns, including this weapon"
+
+REFERENCE            dlc_smg_diamond
+LANG_ENGLISH         "Earn the Gold camo for all SMGs, including this weapon"
+
+REFERENCE            dlc_solar
+LANG_ENGLISH         "Earn the Diamond camo for all non-classic weapons, including this weapon"
+
+REFERENCE            dlc_uber_camo
+LANG_ENGLISH         "Earn the Solar camo for this weapon and the Classic Diamond camo"
+
+REFERENCE            dlc_weapon_unlock
+LANG_ENGLISH         "Unlocked via challenge, Quartermaster, or Season Pass"
+
+REFERENCE            draft
+LANG_ENGLISH         "Draft"
+
+REFERENCE            draft_failed
+LANG_ENGLISH         "Another player has already drafted this item."
+
+REFERENCE            draft_splitscreen
+LANG_ENGLISH         "Please remove all splitscreen players before starting the match."
+
+REFERENCE            drafting
+LANG_ENGLISH         "Drafting item..."
+
+REFERENCE            engineer_package_1
+LANG_ENGLISH         "Gravity Vortex Gun + Relay"
+
+REFERENCE            engineer_package_1_desc
+LANG_ENGLISH         "Payload: Gravity Vortex Gun - Gravity distortion launcher
+Trait: Relay - Placed equipment detects enemies"
+
+REFERENCE            engineer_package_2
+LANG_ENGLISH         "Micro Turret + Trophy Drone"
+
+REFERENCE            engineer_package_2_desc
+LANG_ENGLISH         "Payload: Micro Turret - Compact deployable turret
+Trait: Trophy Drone - Portable trophy system"
+
+REFERENCE            engineer_package_3
+LANG_ENGLISH         "Centurion + Hardened"
+
+REFERENCE            engineer_package_3_desc
+LANG_ENGLISH         "Payload: Centurion - Stationary EM field emitter
+Trait: Hardened - Tougher placed equipment"
+
+REFERENCE            equip
+LANG_ENGLISH         "[{ui_primary}] Equip"
+
+REFERENCE            estimated_wait
+LANG_ENGLISH         "Estimated Wait: &&1 hours &&2 minutes &&3 seconds"
+
+REFERENCE            ghost_package_1
+LANG_ENGLISH         "Ballista EM3 + Marked Target"
+
+REFERENCE            ghost_package_1_desc
+LANG_ENGLISH         "Payload: Ballista EM3 - Accurate EM projectile launcher 
+Trait: Marked Target - Mark enemies and prevent health regen"
+
+REFERENCE            ghost_package_2
+LANG_ENGLISH         "Pulsar + Rearguard"
 
 REFERENCE            ghost_package_2_desc
 LANG_ENGLISH         "Payload: Pulsar - Detect enemies through walls
@@ -49,6 +272,9 @@ LANG_ENGLISH         "Steel Dragon + Infusion"
 REFERENCE            heavy_package_1_desc
 LANG_ENGLISH         "Payload: Steel Dragon - Heavy beam weapon
 Trait: Infusion - Regenerate health faster"
+
+REFERENCE            heavy_package_2
+LANG_ENGLISH         "Bull Charge + Man-at-Arms"
 
 REFERENCE            heavy_package_2_desc
 LANG_ENGLISH         "Payload: Bull Charge - Use a shield to charge enemies
@@ -78,6 +304,30 @@ LANG_ENGLISH         "This item has been base banned."
 
 REFERENCE            itemcard_bonus_salvage
 LANG_ENGLISH         "Bonus ^3+&&1^7 Salvage"
+
+REFERENCE            loadout_select_start
+LANG_ENGLISH         "Loadout Select Starting in &&1"
+
+REFERENCE            markii
+LANG_ENGLISH         "Mark II"
+
+REFERENCE            migratinghosts
+LANG_ENGLISH         "Finding the best host"
+
+REFERENCE            mission_team_rank
+LANG_ENGLISH         "Mission Team Rank"
+
+REFERENCE            mission_team_stats_header
+LANG_ENGLISH         "Mission Team Stats"
+
+REFERENCE            missions_completed_caps
+LANG_ENGLISH         "MISSIONS COMPLETED:  &&1"
+
+REFERENCE            mkii
+LANG_ENGLISH         "MKII"
+
+REFERENCE            mt_commander_rank
+LANG_ENGLISH         "Commander"
 
 REFERENCE            no_super_selected
 LANG_ENGLISH         "NO PAYLOAD SELECTED"
@@ -161,6 +411,9 @@ LANG_ENGLISH         "Available after &&1 is unlocked"
 REFERENCE            rig_draft_caps
 LANG_ENGLISH         "RIG DRAFT"
 
+REFERENCE            rig_draft_start
+LANG_ENGLISH         "Rig Draft Starting in &&1"
+
 REFERENCE            rig_package_desc
 LANG_ENGLISH         "Rig packages are a combination of a Payload and a Trait specified by the manufacturer"
 
@@ -188,102 +441,101 @@ LANG_ENGLISH         "The ammount of team score awarded for each kill outside of
 REFERENCE            scoped
 LANG_ENGLISH         "Scoped"
 
-REFERENCE            you_have_not_drafted
-LANG_ENGLISH         "You have not drafted this item."
+REFERENCE            scout_package_1
+LANG_ENGLISH         "Equalizer + Combat Burst"
 
-REFERENCE            you_have_drafted
-LANG_ENGLISH         "You have already drafted this item."
+REFERENCE            scout_package_1_desc
+LANG_ENGLISH         "Payload: Equalizer - Dual machine guns
+Trait: Combat Burst - Gain movement speed after kill"
 
-REFERENCE            winners_circle_taunt
-LANG_ENGLISH         "&&1 TAUNTS"
+REFERENCE            scout_package_2
+LANG_ENGLISH         "Rewind + Propulsion"
 
-REFERENCE            win_streak
-LANG_ENGLISH         "Current Win Streak"
+REFERENCE            scout_package_2_desc
+LANG_ENGLISH         "Payload: Rewind - Rewind your position
+Trait: Propulsion - Faster thruster recovery"
 
-REFERENCE            weaponcategory_weaponitem
-LANG_ENGLISH         "&&1 - &&2"
+REFERENCE            scout_package_3
+LANG_ENGLISH         "Reaper + Rushdown"
 
-REFERENCE            weapon_draft_start
-LANG_ENGLISH         "Weapon Draft Starting in &&1"
+REFERENCE            scout_package_3_desc
+LANG_ENGLISH         "Payload: Reaper - Rapid melee combat mode
+Trait: Rushdown - Quickly move in any direction"
 
-REFERENCE            weapon_draft_caps
-LANG_ENGLISH         "WEAPON DRAFT"
+REFERENCE            sp1
+LANG_ENGLISH         "Single Player 1"
 
-REFERENCE            warfighter_package_3_desc
-LANG_ENGLISH         "Payload: Overdrive - Temporary speed increase
-Trait: Resupply - Pick up lethals and tacticals from fallen enemies"
+REFERENCE            sp10
+LANG_ENGLISH         "Single Player 10"
 
-REFERENCE            warfighter_package_3
-LANG_ENGLISH         "Overdrive + Resupply"
+REFERENCE            sp11
+LANG_ENGLISH         "Single Player 11"
 
-REFERENCE            warfighter_package_2_desc
-LANG_ENGLISH         "Payload: Combat Focus - Activate for extra streak points
-Trait: Persistence - Scorestreaks don't reset on death"
+REFERENCE            sp12
+LANG_ENGLISH         "Single Player 12"
 
-REFERENCE            warfighter_package_2
-LANG_ENGLISH         "Combat Focus + Persistence"
+REFERENCE            sp13
+LANG_ENGLISH         "Single Player 13"
 
-REFERENCE            warfighter_package_1_desc
-LANG_ENGLISH         "Payload: Claw - Rapid fire spread shot firearm
-Trait: Ping - Kills ping enemies on the minimap"
+REFERENCE            sp2
+LANG_ENGLISH         "Single Player 2"
 
-REFERENCE            warfighter_package_1
-LANG_ENGLISH         "Claw + Ping"
+REFERENCE            sp3
+LANG_ENGLISH         "Single Player 3"
 
-REFERENCE            waiting_for_dedicated_server
-LANG_ENGLISH         "Waiting for dedicated server"
+REFERENCE            sp4
+LANG_ENGLISH         "Single Player 4"
 
-REFERENCE            updating_playlists
-LANG_ENGLISH         "Updating Playlists"
+REFERENCE            sp5
+LANG_ENGLISH         "Single Player 5"
 
-REFERENCE            unlocked_with_weapon_token
-LANG_ENGLISH         "Unlocked at Prestige Ranks with a Classic Weapon Token"
+REFERENCE            sp6
+LANG_ENGLISH         "Single Player 6"
 
-REFERENCE            unlocked_via_mission_teams
-LANG_ENGLISH         "Unlocked from Mission Teams"
+REFERENCE            sp7
+LANG_ENGLISH         "Single Player 7"
 
-REFERENCE            unlocked_via_challenge
-LANG_ENGLISH         "Unlocked by completing challenge"
+REFERENCE            sp8
+LANG_ENGLISH         "Single Player 8"
 
-REFERENCE            unlocked_at_weapon_prestige
-LANG_ENGLISH         "Unlocked at Weapon Prestige level &&1"
+REFERENCE            sp9
+LANG_ENGLISH         "Single Player 9"
 
-REFERENCE            udm_unlock
-LANG_ENGLISH         "Unlocked via challenge or supply drops"
+REFERENCE            ss_available_full_game
+LANG_ENGLISH         "Splitscreen Available in Full Game"
 
-REFERENCE            tutorial_popup_title
-LANG_ENGLISH         "Supply Drops from the Quartermaster"
+REFERENCE            standard
+LANG_ENGLISH         "Standard"
 
-REFERENCE            tutorial_popup_keys_desc_no_points
-LANG_ENGLISH         "You will earn ^5Keys^7 by playing in any Public Match. "
+REFERENCE            stat_absorbed
+LANG_ENGLISH         "Absorbed"
 
-REFERENCE            tutorial_popup_keys_desc
-LANG_ENGLISH         "You will earn ^5Keys^7 by playing in any Public Match. 
- 
+REFERENCE            stat_saves
+LANG_ENGLISH         "Saves"
 
-You can also purchase ^5COD Points^7 from the Quartermaster or from the Multiplayer Store."
+REFERENCE            store_unavailable
+LANG_ENGLISH         "The store is currently unavailable."
 
-REFERENCE            tutorial_popup_keys
-LANG_ENGLISH         "EARNING KEYS"
+REFERENCE            store_unavailable_error
+LANG_ENGLISH         "An error occurred while retrieving store information. Code: &&1"
 
-REFERENCE            tutorial_popup_drops_desc_no_points
-LANG_ENGLISH         "Purchase ^5Supply Drops^7 for new Prototype Weapons, Combat Rig items, and other personalization items! 
- 
+REFERENCE            store_unavailable_pc
+LANG_ENGLISH         "There are no products available for purchase."
 
-^5Supply Drops^7 can be purchased with Keys. 
-"
+REFERENCE            streak_proto_lab
+LANG_ENGLISH         "SCORESTREAK LAB"
 
-REFERENCE            tutorial_popup_drops_desc
-LANG_ENGLISH         "Purchase ^5Supply Drops^7 for new Prototype Weapons, Combat Rig items, and other personalization items! 
- 
+REFERENCE            supply_drop
+LANG_ENGLISH         "Supply Drop"
 
-^5Common Supply Drops^7 can be purchased with Keys. 
- 
+REFERENCE            trial_period_complete
+LANG_ENGLISH         "You have completed the trial of Call of Duty??: Modern Warfare??."
 
-^5Rare Supply Drops^7 can be purchased with Keys or COD Points."
+REFERENCE            trial_period_expired
+LANG_ENGLISH         "Your trial period has expired. Thank you for trying Call of Duty??: Modern Warfare??!"
 
-REFERENCE            tutorial_popup_drops
-LANG_ENGLISH         "SUPPLY DROPS"
+REFERENCE            tutorial_popup_crafting
+LANG_ENGLISH         "CRAFTING"
 
 REFERENCE            tutorial_popup_crafting_desc
 LANG_ENGLISH         "Craft new Prototype Weapons and Scorestreaks in the Armory using ^5Salvage^7! 
@@ -294,357 +546,105 @@ Whenever you receive a duplicate item, it will be turned into Salvage.
 
 Salvage can also be earned directly from Supply Drops or by ranking up in Mission Teams."
 
-REFERENCE            tutorial_popup_crafting
-LANG_ENGLISH         "CRAFTING"
+REFERENCE            tutorial_popup_drops
+LANG_ENGLISH         "SUPPLY DROPS"
 
-REFERENCE            trial_period_expired
-LANG_ENGLISH         "Your trial period has expired. Thank you for trying Call of Duty??: Modern Warfare??!"
+REFERENCE            tutorial_popup_drops_desc
+LANG_ENGLISH         "Purchase ^5Supply Drops^7 for new Prototype Weapons, Combat Rig items, and other personalization items! 
+ 
 
-REFERENCE            trial_period_complete
-LANG_ENGLISH         "You have completed the trial of Call of Duty??: Modern Warfare??."
+^5Common Supply Drops^7 can be purchased with Keys. 
+ 
 
-REFERENCE            supply_drop
-LANG_ENGLISH         "Supply Drop"
+^5Rare Supply Drops^7 can be purchased with Keys or COD Points."
 
-REFERENCE            streak_proto_lab
-LANG_ENGLISH         "SCORESTREAK LAB"
+REFERENCE            tutorial_popup_drops_desc_no_points
+LANG_ENGLISH         "Purchase ^5Supply Drops^7 for new Prototype Weapons, Combat Rig items, and other personalization items! 
+ 
 
-REFERENCE            store_unavailable_pc
-LANG_ENGLISH         "There are no products available for purchase."
+^5Supply Drops^7 can be purchased with Keys. 
+"
 
-REFERENCE            store_unavailable_error
-LANG_ENGLISH         "An error occurred while retrieving store information. Code: &&1"
+REFERENCE            tutorial_popup_keys
+LANG_ENGLISH         "EARNING KEYS"
 
-REFERENCE            store_unavailable
-LANG_ENGLISH         "The store is currently unavailable."
+REFERENCE            tutorial_popup_keys_desc
+LANG_ENGLISH         "You will earn ^5Keys^7 by playing in any Public Match. 
+ 
 
-REFERENCE            stat_saves
-LANG_ENGLISH         "Saves"
+You can also purchase ^5COD Points^7 from the Quartermaster or from the Multiplayer Store."
 
-REFERENCE            stat_absorbed
-LANG_ENGLISH         "Absorbed"
+REFERENCE            tutorial_popup_keys_desc_no_points
+LANG_ENGLISH         "You will earn ^5Keys^7 by playing in any Public Match. "
 
-REFERENCE            standard
-LANG_ENGLISH         "Standard"
+REFERENCE            tutorial_popup_title
+LANG_ENGLISH         "Supply Drops from the Quartermaster"
 
-REFERENCE            ss_available_full_game
-LANG_ENGLISH         "Splitscreen Available in Full Game"
+REFERENCE            udm_unlock
+LANG_ENGLISH         "Unlocked via challenge or supply drops"
 
-REFERENCE            sp9
-LANG_ENGLISH         "Single Player 9"
+REFERENCE            unlocked_at_weapon_prestige
+LANG_ENGLISH         "Unlocked at Weapon Prestige level &&1"
 
-REFERENCE            sp8
-LANG_ENGLISH         "Single Player 8"
+REFERENCE            unlocked_via_challenge
+LANG_ENGLISH         "Unlocked by completing challenge"
 
-REFERENCE            sp7
-LANG_ENGLISH         "Single Player 7"
+REFERENCE            unlocked_via_mission_teams
+LANG_ENGLISH         "Unlocked from Mission Teams"
 
-REFERENCE            sp6
-LANG_ENGLISH         "Single Player 6"
+REFERENCE            unlocked_via_supply_drop
+LANG_ENGLISH         "Only available from supply drops."
 
-REFERENCE            sp5
-LANG_ENGLISH         "Single Player 5"
+REFERENCE            unlocked_with_weapon_token
+LANG_ENGLISH         "Unlocked at Prestige Ranks with a Classic Weapon Token"
 
-REFERENCE            sp4
-LANG_ENGLISH         "Single Player 4"
+REFERENCE            updating_playlists
+LANG_ENGLISH         "Updating Playlists"
 
-REFERENCE            sp3
-LANG_ENGLISH         "Single Player 3"
+REFERENCE            waiting_for_dedicated_server
+LANG_ENGLISH         "Waiting for dedicated server"
 
-REFERENCE            sp2
-LANG_ENGLISH         "Single Player 2"
+REFERENCE            warfighter_package_1
+LANG_ENGLISH         "Claw + Ping"
 
-REFERENCE            sp13
-LANG_ENGLISH         "Single Player 13"
+REFERENCE            warfighter_package_1_desc
+LANG_ENGLISH         "Payload: Claw - Rapid fire spread shot firearm
+Trait: Ping - Kills ping enemies on the minimap"
 
-REFERENCE            sp12
-LANG_ENGLISH         "Single Player 12"
+REFERENCE            warfighter_package_2
+LANG_ENGLISH         "Combat Focus + Persistence"
 
-REFERENCE            sp11
-LANG_ENGLISH         "Single Player 11"
+REFERENCE            warfighter_package_2_desc
+LANG_ENGLISH         "Payload: Combat Focus - Activate for extra streak points
+Trait: Persistence - Scorestreaks don't reset on death"
 
-REFERENCE            sp10
-LANG_ENGLISH         "Single Player 10"
+REFERENCE            warfighter_package_3
+LANG_ENGLISH         "Overdrive + Resupply"
 
-REFERENCE            sp1
-LANG_ENGLISH         "Single Player 1"
+REFERENCE            warfighter_package_3_desc
+LANG_ENGLISH         "Payload: Overdrive - Temporary speed increase
+Trait: Resupply - Pick up lethals and tacticals from fallen enemies"
 
-REFERENCE            scout_package_3_desc
-LANG_ENGLISH         "Payload: Reaper - Rapid melee combat mode
-Trait: Rushdown - Quickly move in any direction"
+REFERENCE            weapon_draft_caps
+LANG_ENGLISH         "WEAPON DRAFT"
 
-REFERENCE            scout_package_3
-LANG_ENGLISH         "Reaper + Rushdown"
+REFERENCE            weapon_draft_start
+LANG_ENGLISH         "Weapon Draft Starting in &&1"
 
-REFERENCE            scout_package_2_desc
-LANG_ENGLISH         "Payload: Rewind - Rewind your position
-Trait: Propulsion - Faster thruster recovery"
+REFERENCE            weaponcategory_weaponitem
+LANG_ENGLISH         "&&1 - &&2"
 
-REFERENCE            scout_package_2
-LANG_ENGLISH         "Rewind + Propulsion"
+REFERENCE            win_streak
+LANG_ENGLISH         "Current Win Streak"
 
-REFERENCE            scout_package_1_desc
-LANG_ENGLISH         "Payload: Equalizer - Dual machine guns
-Trait: Combat Burst - Gain movement speed after kill"
+REFERENCE            winners_circle_taunt
+LANG_ENGLISH         "&&1 TAUNTS"
 
-REFERENCE            scout_package_1
-LANG_ENGLISH         "Equalizer + Combat Burst"
+REFERENCE            you_have_drafted
+LANG_ENGLISH         "You have already drafted this item."
 
-REFERENCE            ghost_package_2
-LANG_ENGLISH         "Pulsar + Rearguard"
-
-REFERENCE            ghost_package_1_desc
-LANG_ENGLISH         "Payload: Ballista EM3 - Accurate EM projectile launcher 
-Trait: Marked Target - Mark enemies and prevent health regen"
-
-REFERENCE            ghost_package_1
-LANG_ENGLISH         "Ballista EM3 + Marked Target"
-
-REFERENCE            estimated_wait
-LANG_ENGLISH         "Estimated Wait: &&1 hours &&2 minutes &&3 seconds"
-
-REFERENCE            equip
-LANG_ENGLISH         "[{ui_primary}] Equip"
-
-REFERENCE            engineer_package_3_desc
-LANG_ENGLISH         "Payload: Centurion - Stationary EM field emitter
-Trait: Hardened - Tougher placed equipment"
-
-REFERENCE            engineer_package_3
-LANG_ENGLISH         "Centurion + Hardened"
-
-REFERENCE            engineer_package_2_desc
-LANG_ENGLISH         "Payload: Micro Turret - Compact deployable turret
-Trait: Trophy Drone - Portable trophy system"
-
-REFERENCE            engineer_package_2
-LANG_ENGLISH         "Micro Turret + Trophy Drone"
-
-REFERENCE            engineer_package_1_desc
-LANG_ENGLISH         "Payload: Gravity Vortex Gun - Gravity distortion launcher
-Trait: Relay - Placed equipment detects enemies"
-
-REFERENCE            engineer_package_1
-LANG_ENGLISH         "Gravity Vortex Gun + Relay"
-
-REFERENCE            drafting
-LANG_ENGLISH         "Drafting item..."
-
-REFERENCE            draft_splitscreen
-LANG_ENGLISH         "Please remove all splitscreen players before starting the match."
-
-REFERENCE            draft_failed
-LANG_ENGLISH         "Another player has already drafted this item."
-
-REFERENCE            draft
-LANG_ENGLISH         "Draft"
-
-REFERENCE            dlc_weapon_unlock
-LANG_ENGLISH         "Unlocked via challenge, Quartermaster, or Season Pass"
-
-REFERENCE            dlc_uber_camo
-LANG_ENGLISH         "Earn the Solar camo for this weapon and the Classic Diamond camo"
-
-REFERENCE            dlc_solar
-LANG_ENGLISH         "Earn the Diamond camo for all non-classic weapons, including this weapon"
-
-REFERENCE            dlc_smg_diamond
-LANG_ENGLISH         "Earn the Gold camo for all SMGs, including this weapon"
-
-REFERENCE            dlc_pistol_diamond
-LANG_ENGLISH         "Earn the Gold camo for all Handguns, including this weapon"
-
-REFERENCE            dlc_melee_uber_camo
-LANG_ENGLISH         "Earn the Solar camo for this weapon and the Classic Diamond camo"
-
-REFERENCE            dlc_melee_solar
-LANG_ENGLISH         "Earn the Diamond camo for all non-classic weapons, including this weapon"
-
-REFERENCE            dlc_melee_diamond
-LANG_ENGLISH         "Earn the Gold camo for all non-classic secondary weapons, including this weapon"
-
-REFERENCE            dlc_lmg_diamond
-LANG_ENGLISH         "Earn the Gold camo for all LMGs, including this weapon"
-
-REFERENCE            dlc_assault_diamond
-LANG_ENGLISH         "Earn the Gold camo for all Assault Rifles, including this weapon"
-
-REFERENCE            cwl_draft
-LANG_ENGLISH         "Draft: ^3&&1^7"
-
-REFERENCE            current_position
-LANG_ENGLISH         "Current Position: &&1"
-
-REFERENCE            crafting_error
-LANG_ENGLISH         "There was a problem while attempting to craft a weapon. Please wait and try again."
-
-REFERENCE            commander_rank_caps
-LANG_ENGLISH         "COMMANDER RANK:  &&1"
-
-REFERENCE            classic_weapons
-LANG_ENGLISH         "Classic Weapons"
-
-REFERENCE            classic_weapon_unlock_title
-LANG_ENGLISH         "Classic Weapon Unlock"
-
-REFERENCE            classic_weapon_unlock_success
-LANG_ENGLISH         "You have unlocked the ^3&&1"
-
-REFERENCE            classic_weapon_unlock_failure
-LANG_ENGLISH         "You don't have any Classic Weapon Tokens available. Increase your Prestige Rank to gain tokens."
-
-REFERENCE            classic_weapon_already_unlocked
-LANG_ENGLISH         "^3&&1^7 is already unlocked."
-
-REFERENCE            cdl_rules_version
-LANG_ENGLISH         "Call of Duty League??? Rules v&&1"
-
-REFERENCE            cdl_rules
-LANG_ENGLISH         "Call of Duty League??? Rules: ^3&&1^7"
-
-REFERENCE            camo_any_weapon
-LANG_ENGLISH         "All Weapons - Camouflage"
-
-REFERENCE            calling_card_prestige_9
-LANG_ENGLISH         "Prestige IX"
-
-REFERENCE            calling_card_prestige_8
-LANG_ENGLISH         "Prestige VIII"
-
-REFERENCE            calling_card_prestige_7
-LANG_ENGLISH         "Prestige VII"
-
-REFERENCE            calling_card_prestige_6
-LANG_ENGLISH         "Prestige VI"
-
-REFERENCE            calling_card_prestige_5
-LANG_ENGLISH         "Prestige V"
-
-REFERENCE            calling_card_prestige_4
-LANG_ENGLISH         "Prestige IV"
-
-REFERENCE            calling_card_prestige_3
-LANG_ENGLISH         "Prestige III"
-
-REFERENCE            calling_card_prestige_2
-LANG_ENGLISH         "Prestige II"
-
-REFERENCE            calling_card_prestige_10
-LANG_ENGLISH         "Prestige X"
-
-REFERENCE            calling_card_prestige_1
-LANG_ENGLISH         "Prestige I"
-
-REFERENCE            calculating_salvage
-LANG_ENGLISH         "Calculating Duplicate Salvage"
-
-REFERENCE            bonus_cod_points_percentage
-LANG_ENGLISH         "&&1% Bonus!"
-
-REFERENCE            bonus_cod_points
-LANG_ENGLISH         "&&1 Bonus!"
-
-REFERENCE            beta_playercard9
-LANG_ENGLISH         "Exposure"
-
-REFERENCE            beta_playercard8
-LANG_ENGLISH         "Battleground"
-
-REFERENCE            beta_playercard7
-LANG_ENGLISH         "It Calls"
-
-REFERENCE            beta_playercard6
-LANG_ENGLISH         "The Window"
-
-REFERENCE            beta_playercard5
-LANG_ENGLISH         "Mystic"
-
-REFERENCE            beta_playercard4
-LANG_ENGLISH         "Hot Fire"
-
-REFERENCE            beta_playercard3
-LANG_ENGLISH         "Eagle Eye"
-
-REFERENCE            beta_playercard2
-LANG_ENGLISH         "Equalized"
-
-REFERENCE            beta_playercard16
-LANG_ENGLISH         "Yacht"
-
-REFERENCE            beta_playercard15
-LANG_ENGLISH         "Private Jet"
-
-REFERENCE            beta_playercard14
-LANG_ENGLISH         "Passport"
-
-REFERENCE            beta_playercard13
-LANG_ENGLISH         "Pride"
-
-REFERENCE            beta_playercard12
-LANG_ENGLISH         "Possessed"
-
-REFERENCE            beta_playercard11
-LANG_ENGLISH         "Necessity"
-
-REFERENCE            beta_playercard10
-LANG_ENGLISH         "Innocence"
-
-REFERENCE            beta_playercard1
-LANG_ENGLISH         "Negative"
-
-REFERENCE            beta
-LANG_ENGLISH         "Beta"
-
-REFERENCE            axe_unlock
-LANG_ENGLISH         "Only available from supply drops"
-
-REFERENCE            available_full_game
-LANG_ENGLISH         "Available in Full Game"
-
-REFERENCE            assassin_package_3_desc
-LANG_ENGLISH         "Payload: Phase Shift - Enter an alternate phase state to avoid damage
-Trait: Power Slide - Increased sliding capabilities"
-
-REFERENCE            assassin_package_3
-LANG_ENGLISH         "Phase Shift + Power Slide"
-
-REFERENCE            assassin_package_2_desc
-LANG_ENGLISH         "Payload: FTL Jump - Quickly move a short distance forward
-Trait: Perception - Receive alerts when enemies are targeting you"
-
-REFERENCE            assassin_package_2
-LANG_ENGLISH         "FTL Jump + Perception"
-
-REFERENCE            assassin_package_1_desc
-LANG_ENGLISH         "Payload: Eraser - Devastating energy handgun
-Trait: Supercharge - Kills drop Payload cooldown packs"
-
-REFERENCE            assassin_package_1
-LANG_ENGLISH         "Eraser + Supercharge"
-
-REFERENCE            another_player_drafted
-LANG_ENGLISH         "Another player has drafted this item."
-
-REFERENCE            all_but_c6
-LANG_ENGLISH         "Human"
-
-REFERENCE            2xp_token
-LANG_ENGLISH         "Available Tokens"
-
-REFERENCE            2xp_message
-LANG_ENGLISH         "Do you wish to use a 2XP token to double your last games XP?"
-
-REFERENCE            2xp_btn
-LANG_ENGLISH         "Double my XP"
-
-REFERENCE            2nd_primary
-LANG_ENGLISH         "2ND PRIMARY"
-
-REFERENCE            1st_primary
-LANG_ENGLISH         "1ST PRIMARY"
-
-REFERENCE            rig_draft_start
-LANG_ENGLISH         "Rig Draft Starting in &&1"
+REFERENCE            you_have_not_drafted
+LANG_ENGLISH         "You have not drafted this item."
 
 
 ENDMARKER

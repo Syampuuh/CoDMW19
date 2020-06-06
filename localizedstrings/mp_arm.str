@@ -2,167 +2,167 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            rally_point_truck
-LANG_ENGLISH         "Truck"
+REFERENCE            a_lane_lost
+LANG_ENGLISH         "MISSION ZONE "A" LOST - New Orders Incoming"
 
-REFERENCE            rally_point_heli
-LANG_ENGLISH         "Helicopter"
+REFERENCE            a_lane_won
+LANG_ENGLISH         "MISSION ZONE "A" WON - New Orders Incoming"
 
-REFERENCE            rally_point_apc
-LANG_ENGLISH         "APC"
+REFERENCE            b_lane_lost
+LANG_ENGLISH         "MISSION ZONE "B" LOST - New Orders Incoming"
 
-REFERENCE            obj_won_c
-LANG_ENGLISH         "Objective C Taken - Troops Pushing Forward"
+REFERENCE            b_lane_won
+LANG_ENGLISH         "MISSION ZONE "B" WON - New Orders Incoming"
 
-REFERENCE            obj_won_b
-LANG_ENGLISH         "Objective B Taken - Troops Pushing Forward"
+REFERENCE            c_lane_lost
+LANG_ENGLISH         "MISSION ZONE "C" LOST - New Orders Incoming"
 
-REFERENCE            obj_won_a
-LANG_ENGLISH         "Objective A Taken - Troops Pushing Forward"
+REFERENCE            c_lane_won
+LANG_ENGLISH         "MISSION ZONE "C" WON - New Orders Incoming"
 
-REFERENCE            obj_won
-LANG_ENGLISH         "Objective Won - Push Forward"
+REFERENCE            fob
+LANG_ENGLISH         "FOB"
 
-REFERENCE            obj_lost_c
-LANG_ENGLISH         "Objective C Lost - Troops Falling Back"
+REFERENCE            hq
+LANG_ENGLISH         "Main HQ"
 
-REFERENCE            obj_lost_b
-LANG_ENGLISH         "Objective B Lost - Troops Falling Back"
-
-REFERENCE            obj_lost_a
-LANG_ENGLISH         "Objective A Lost - Troops Falling Back"
-
-REFERENCE            obj_lost
-LANG_ENGLISH         "Objective Lost - Fall Back"
-
-REFERENCE            nukeinbound
-LANG_ENGLISH         "DEFCON Nuke Inbound"
-
-REFERENCE            nukearmed
-LANG_ENGLISH         "DEFCON Protocol"
-
-REFERENCE            mission_won
-LANG_ENGLISH         "Mission Won - DEFCON INCREASED"
-
-REFERENCE            mission_lost
-LANG_ENGLISH         "Mission Lost - ENEMY DEFCON INCREASED"
-
-REFERENCE            mercynukecaution
-LANG_ENGLISH         "CAUTION"
-
-REFERENCE            mercynuke_winning
-LANG_ENGLISH         "WE HOLD ALL FLAGS"
-
-REFERENCE            mercynuke_losing
-LANG_ENGLISH         "ENEMY HOLDS ALL FLAGS"
-
-REFERENCE            mercynuke_defcon
-LANG_ENGLISH         "DEFCON"
-
-REFERENCE            lane03_9
-LANG_ENGLISH         "Donetsk Railway"
-
-REFERENCE            lane03_8
-LANG_ENGLISH         "Donetsk Railway"
-
-REFERENCE            lane03_7
-LANG_ENGLISH         "Donetsk Railway"
-
-REFERENCE            lane03_6
-LANG_ENGLISH         "Optyne District"
-
-REFERENCE            lane03_5
-LANG_ENGLISH         "Optyne District"
-
-REFERENCE            lane03_4
-LANG_ENGLISH         "Optyne District"
-
-REFERENCE            lane03_3
-LANG_ENGLISH         "Factory Zone"
-
-REFERENCE            lane03_2
-LANG_ENGLISH         "Factory Zone"
-
-REFERENCE            lane03_1
-LANG_ENGLISH         "Factory Zone"
-
-REFERENCE            lane02_9
-LANG_ENGLISH         "Spartak Village"
-
-REFERENCE            lane02_8
-LANG_ENGLISH         "Spartak Village"
-
-REFERENCE            lane02_7
-LANG_ENGLISH         "Spartak Village"
-
-REFERENCE            lane02_6
-LANG_ENGLISH         "The Block"
-
-REFERENCE            lane02_5
-LANG_ENGLISH         "The Block"
-
-REFERENCE            lane02_4
-LANG_ENGLISH         "The Block"
-
-REFERENCE            lane02_3
-LANG_ENGLISH         "Putilovsky District"
-
-REFERENCE            lane02_2
-LANG_ENGLISH         "Putilovsky District"
-
-REFERENCE            lane02_1
-LANG_ENGLISH         "Putilovsky District"
-
-REFERENCE            lane01_9
-LANG_ENGLISH         "Zlitna Village"
-
-REFERENCE            lane01_8
-LANG_ENGLISH         "Zlitna Village"
-
-REFERENCE            lane01_7
-LANG_ENGLISH         "Zlitna Village"
-
-REFERENCE            lane01_6
-LANG_ENGLISH         "Metro Distribution"
-
-REFERENCE            lane01_5
-LANG_ENGLISH         "Metro Distribution"
-
-REFERENCE            lane01_4
-LANG_ENGLISH         "Metro Distribution"
-
-REFERENCE            lane01_3
+REFERENCE            lane01_1
 LANG_ENGLISH         "Repair Yard"
 
 REFERENCE            lane01_2
 LANG_ENGLISH         "Repair Yard"
 
-REFERENCE            lane01_1
+REFERENCE            lane01_3
 LANG_ENGLISH         "Repair Yard"
 
-REFERENCE            hq
-LANG_ENGLISH         "Main HQ"
+REFERENCE            lane01_4
+LANG_ENGLISH         "Metro Distribution"
 
-REFERENCE            fob
-LANG_ENGLISH         "FOB"
+REFERENCE            lane01_5
+LANG_ENGLISH         "Metro Distribution"
 
-REFERENCE            c_lane_won
-LANG_ENGLISH         "MISSION ZONE "C" WON - New Orders Incoming"
+REFERENCE            lane01_6
+LANG_ENGLISH         "Metro Distribution"
 
-REFERENCE            c_lane_lost
-LANG_ENGLISH         "MISSION ZONE "C" LOST - New Orders Incoming"
+REFERENCE            lane01_7
+LANG_ENGLISH         "Zlitna Village"
 
-REFERENCE            b_lane_won
-LANG_ENGLISH         "MISSION ZONE "B" WON - New Orders Incoming"
+REFERENCE            lane01_8
+LANG_ENGLISH         "Zlitna Village"
 
-REFERENCE            b_lane_lost
-LANG_ENGLISH         "MISSION ZONE "B" LOST - New Orders Incoming"
+REFERENCE            lane01_9
+LANG_ENGLISH         "Zlitna Village"
 
-REFERENCE            a_lane_won
-LANG_ENGLISH         "MISSION ZONE "A" WON - New Orders Incoming"
+REFERENCE            lane02_1
+LANG_ENGLISH         "Putilovsky District"
 
-REFERENCE            a_lane_lost
-LANG_ENGLISH         "MISSION ZONE "A" LOST - New Orders Incoming"
+REFERENCE            lane02_2
+LANG_ENGLISH         "Putilovsky District"
+
+REFERENCE            lane02_3
+LANG_ENGLISH         "Putilovsky District"
+
+REFERENCE            lane02_4
+LANG_ENGLISH         "The Block"
+
+REFERENCE            lane02_5
+LANG_ENGLISH         "The Block"
+
+REFERENCE            lane02_6
+LANG_ENGLISH         "The Block"
+
+REFERENCE            lane02_7
+LANG_ENGLISH         "Spartak Village"
+
+REFERENCE            lane02_8
+LANG_ENGLISH         "Spartak Village"
+
+REFERENCE            lane02_9
+LANG_ENGLISH         "Spartak Village"
+
+REFERENCE            lane03_1
+LANG_ENGLISH         "Factory Zone"
+
+REFERENCE            lane03_2
+LANG_ENGLISH         "Factory Zone"
+
+REFERENCE            lane03_3
+LANG_ENGLISH         "Factory Zone"
+
+REFERENCE            lane03_4
+LANG_ENGLISH         "Optyne District"
+
+REFERENCE            lane03_5
+LANG_ENGLISH         "Optyne District"
+
+REFERENCE            lane03_6
+LANG_ENGLISH         "Optyne District"
+
+REFERENCE            lane03_7
+LANG_ENGLISH         "Donetsk Railway"
+
+REFERENCE            lane03_8
+LANG_ENGLISH         "Donetsk Railway"
+
+REFERENCE            lane03_9
+LANG_ENGLISH         "Donetsk Railway"
+
+REFERENCE            mercynuke_defcon
+LANG_ENGLISH         "DEFCON"
+
+REFERENCE            mercynuke_losing
+LANG_ENGLISH         "ENEMY HOLDS ALL FLAGS"
+
+REFERENCE            mercynuke_winning
+LANG_ENGLISH         "WE HOLD ALL FLAGS"
+
+REFERENCE            mercynukecaution
+LANG_ENGLISH         "CAUTION"
+
+REFERENCE            mission_lost
+LANG_ENGLISH         "Mission Lost - ENEMY DEFCON INCREASED"
+
+REFERENCE            mission_won
+LANG_ENGLISH         "Mission Won - DEFCON INCREASED"
+
+REFERENCE            nukearmed
+LANG_ENGLISH         "DEFCON Protocol"
+
+REFERENCE            nukeinbound
+LANG_ENGLISH         "DEFCON Nuke Inbound"
+
+REFERENCE            obj_lost
+LANG_ENGLISH         "Objective Lost - Fall Back"
+
+REFERENCE            obj_lost_a
+LANG_ENGLISH         "Objective A Lost - Troops Falling Back"
+
+REFERENCE            obj_lost_b
+LANG_ENGLISH         "Objective B Lost - Troops Falling Back"
+
+REFERENCE            obj_lost_c
+LANG_ENGLISH         "Objective C Lost - Troops Falling Back"
+
+REFERENCE            obj_won
+LANG_ENGLISH         "Objective Won - Push Forward"
+
+REFERENCE            obj_won_a
+LANG_ENGLISH         "Objective A Taken - Troops Pushing Forward"
+
+REFERENCE            obj_won_b
+LANG_ENGLISH         "Objective B Taken - Troops Pushing Forward"
+
+REFERENCE            obj_won_c
+LANG_ENGLISH         "Objective C Taken - Troops Pushing Forward"
+
+REFERENCE            rally_point_apc
+LANG_ENGLISH         "APC"
+
+REFERENCE            rally_point_heli
+LANG_ENGLISH         "Helicopter"
+
+REFERENCE            rally_point_truck
+LANG_ENGLISH         "Truck"
 
 
 ENDMARKER

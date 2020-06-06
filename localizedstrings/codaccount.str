@@ -2,158 +2,128 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            account_updated
+LANG_ENGLISH         "Activision account updated."
+
+REFERENCE            activision_id
+LANG_ENGLISH         "Activision ID"
+
+REFERENCE            add_crossplay_friends_msg
+LANG_ENGLISH         "For friends to add you to their friends list, they will need your unique Activision ID."
+
+REFERENCE            anonymous_account_settings
+LANG_ENGLISH         "Account Settings"
+
+REFERENCE            associated_email
+LANG_ENGLISH         "Associated Email"
+
+REFERENCE            basic_info
+LANG_ENGLISH         "Basic Info"
+
 REFERENCE            busy
 LANG_ENGLISH         "Account system is currently busy handling another task."
 
 REFERENCE            change_email
 LANG_ENGLISH         "Change Email"
 
-REFERENCE            basic_info
-LANG_ENGLISH         "Basic Info"
-
-REFERENCE            associated_email
-LANG_ENGLISH         "Associated Email"
-
-REFERENCE            add_crossplay_friends_msg
-LANG_ENGLISH         "For friends to add you to their friends list, they will need your unique Activision ID."
+REFERENCE            change_name
+LANG_ENGLISH         "Change Display Name"
 
 REFERENCE            coda_country_at
 LANG_ENGLISH         "Austria"
 
-REFERENCE            coda_country_br
-LANG_ENGLISH         "Brazil"
+REFERENCE            coda_country_au
+LANG_ENGLISH         "Australia"
 
 REFERENCE            coda_country_be
 LANG_ENGLISH         "Belgium"
 
-REFERENCE            coda_country_au
-LANG_ENGLISH         "Australia"
+REFERENCE            coda_country_br
+LANG_ENGLISH         "Brazil"
 
-REFERENCE            no_thanks
-LANG_ENGLISH         "[DEV_ONLY] No Thanks"
+REFERENCE            coda_country_ca
+LANG_ENGLISH         "Canada"
 
-REFERENCE            password
-LANG_ENGLISH         "Password"
+REFERENCE            coda_country_ch
+LANG_ENGLISH         "Switzerland"
 
-REFERENCE            login_title
-LANG_ENGLISH         "Login to an Activision Account"
+REFERENCE            coda_country_cz
+LANG_ENGLISH         "Czech Republic"
 
-REFERENCE            marketing_opt_in
-LANG_ENGLISH         "By checking the box, you agree to receive news, updates, promotions and exclusive content by email from Activision. You agree to the use of pixel tags in the emails to measure open, click through and read rates and allow us to enhance the content and better understand your interests. You can unsubscribe from receiving news, updates, promotions and exclusive content from Activision at any time by CONTACTING US. You must be 18 years of age or older to agree.
-To contact us, you can send us an email at privacy@activision.com, or write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405, ATTN: Privacy Team/Privacy Policy."
+REFERENCE            coda_country_de
+LANG_ENGLISH         "Germany"
 
-REFERENCE            marketing_opt_in_alt_de_pt
-LANG_ENGLISH         "By checking the box, you agree to receive news, updates, promotions and exclusive content by email from Activision. You agree to the use of pixel tags in the emails to measure open, click through and read rates and allow us to enhance the content and better understand your interests. You consent to the use of your email address so as to receive tailored ads. You can unsubscribe from receiving news, updates, promotions and exclusive content from Activision at any time by CONTACTING US. You must be 18 years of age or older to agree.
-To contact us, you can send us an email at privacy@activision.com, or write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405, ATTN: Privacy Team/Privacy Policy."
+REFERENCE            coda_country_dk
+LANG_ENGLISH         "Denmark"
 
-REFERENCE            mw_display_name
-LANG_ENGLISH         "Modern Warfare?? Display Name"
+REFERENCE            coda_country_es
+LANG_ENGLISH         "Spain"
 
-REFERENCE            merge_conflict
-LANG_ENGLISH         "Account could not be linked because that Activision account is already linked to a different account of the same type.  If you believe this is in error please visit https://s.activision.com/activision/ to view the account."
+REFERENCE            coda_country_fi
+LANG_ENGLISH         "Finland"
 
-REFERENCE            last_name
-LANG_ENGLISH         "Last Name"
+REFERENCE            coda_country_fr
+LANG_ENGLISH         "France"
 
-REFERENCE            login
-LANG_ENGLISH         "Login"
+REFERENCE            coda_country_gb
+LANG_ENGLISH         "Great Britain"
 
-REFERENCE            logging_in
-LANG_ENGLISH         "Logging in to Activision Account"
+REFERENCE            coda_country_gr
+LANG_ENGLISH         "Greece"
 
-REFERENCE            eula_b_004
-LANG_ENGLISH         "12. Your California Privacy Rights 
+REFERENCE            coda_country_hk
+LANG_ENGLISH         "Hong Kong"
 
-Without being discriminated against for exercising these rights, California residents have the right to request that we disclose what personal information we collect from you, to delete that information, and to opt-out of the sale of your personal information, subject to certain restrictions. You also have the right to designate an agent to exercise these rights on your behalf. This section describes how to exercise those rights and our process for handling those requests. 
+REFERENCE            coda_country_hu
+LANG_ENGLISH         "Hungary"
 
-Right to Request Access to Your Personal Information
-California residents have the right to request, up to two times in a 12-month period, that we disclose what categories of your personal information that we collect, use, and share. You may also request the specific pieces of personal information that we have collected from you. Please note that certain information may be exempt from such requests under California law.
+REFERENCE            coda_country_ie
+LANG_ENGLISH         "Ireland"
 
-Right to Request Deletion of Your Personal Information
-You may also request that we delete personal information that we collected from you. Some information may be exempt from such requests under California law. For example, we need certain types of information so that we can provide our Properties to you. If you ask us to delete it, you may no longer be able to access or use our Properties.
+REFERENCE            coda_country_it
+LANG_ENGLISH         "Italy"
 
-How to Exercise Your Access and Deletion Rights
-California residents may exercise their California privacy rights by submitting your request to us here (https://support.activision.com/gdpr) or sending an email to ccparequests@activision.com.
+REFERENCE            coda_country_jp
+LANG_ENGLISH         "Japan"
 
-For security purposes, we will verify your identity ??? including requesting information from you -- when you request to exercise your California privacy rights. If you have an online account you use to interact with Activision, logging into your account will serve to verify your identity and request. We may request additional information if we believe your account has been compromised. If you do not have an account with us, or if we have reason to suspect that the security of your account is compromised, then we will request additional information from you to match with our existing records to verify your identity, depending on the nature of the request and the sensitivity of the information sought.
+REFERENCE            coda_country_kr
+LANG_ENGLISH         "Korea"
 
-Once we have verified your identity (and your agent, as applicable), we will respond to your request as appropriate. If we are unable to complete your requests, we will provide you information about the reasons that we could not comply with your request.
+REFERENCE            coda_country_mx
+LANG_ENGLISH         "Mexico"
 
-Right to Nondiscrimination
-We will not deny, charge different prices for, or provide a different level of quality of goods or services if you choose to exercise these rights. 
+REFERENCE            coda_country_nl
+LANG_ENGLISH         "Netherlands"
 
-Sale of Personal Information
-California residents may opt out of the ???sale??? of their personal information, as defined by the CCPA. We have not sold personal information about you in the last 12 months, unless you have played Activision???s mobile games.  California law broadly defines ???sale??? in a way that may include when we allow third parties to receive certain information about mobile game use, such as Cookies, IP address, and/or browsing behavior, to deliver targeted advertising on the Properties or other services.  Advertising, including targeted advertising, enables us to provide you certain content for free and allows us to provide you offers relevant to you.  For mobile targeted advertising purposes this information includes: demographic and statistical information, user-generated content, device information and identifiers, connection and usage data, geolocation, and social media information.  To opt out of the use of your data for advertising purposes please see the Mobile Advertising section above. If you would like to opt out of Activision???s use of your information for purposes that may be considered a ???sale??? under California law, you may do so here (https://support.activision.com/gdpr).  You can also submit a sale opt-out request by emailing us ccparequests@activsion.com.    You may also opt out through the settings page of Activision mobile applications that may share your data for these purposes.  Please note that we do not knowingly sell the personal information of minors under 16 years of age without legally-required affirmative authorization.
+REFERENCE            coda_country_no
+LANG_ENGLISH         "Norway"
 
-Authorized Agents
-You may also designate an agent to make requests to exercise your rights under the CCPA as described above. We will take steps both to verify the identity of the person seeking to exercise their rights as listed above, and to verify that your agent has been authorized to make a request on your behalf through providing us with a signed written authorization or a copy of a power of attorney.
+REFERENCE            coda_country_nz
+LANG_ENGLISH         "New Zealand"
 
-California Shine the Light Law
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an email to privacy@activision.com, or write us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy. We will be happy to honor your request.
+REFERENCE            coda_country_pl
+LANG_ENGLISH         "Poland"
 
-California Privacy Rights for Minor Users
-Since January 1, 2015, California Business and Professions Code Section 22581 permits you, if you are a California resident under the age of 18, to view, correct, or remove Information provided by you or publicly posted by you, by accessing your Activision account through https://www.activision.com/ or another product or service as applicable and editing/removing your Information. You will need your password to access your personal account. You may also send us an email asking us to remove certain posted content at privacy@activision.com. In the alternative, you may write to us at Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy.
-We will be happy to review, update or remove Information and/or content as appropriate. Residual copies of Information and/or content that have been removed from your account and/or the Properties may remain in our backup systems for approximately one month. We may still retain your Information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose.
-Do Not Track
-California Business and Professions Code Section 22575(b) (as amended effective January 1, 2014) permits our customers who are California residents to be informed as to how Activision responds to Web browser "Do Not Track" settings. As Do Not Track is a standard that is currently being developed, Activision does not take actions to respond to Do Not Track settings, and instead we adhere to the standards set out in this Privacy Policy.   
-If you would like to find out more about Do Not Track you may find the following link useful: http://www.allaboutdnt.com/.
+REFERENCE            coda_country_pt
+LANG_ENGLISH         "Portugal"
 
-13.  Privacy Information for Nevada Residents
+REFERENCE            coda_country_ru
+LANG_ENGLISH         "Russian Federation"
 
-Under Nevada law, Nevada residents who have purchased goods or services from us may opt out of the ???sale??? of ???covered information??? (as such terms are defined under Nevada law) for monetary consideration to a person for that person to license or sell such information to additional persons. ???Covered information??? includes first and last name, address, email address, and phone number, or an identifier that allows a specific person to be contacted either physically or online.  As discussed above, we share your information with certain third parties that we believe can provide you with offers and promotions for products and service of interest to you and in the other ways described above. We do not believe that our sharing in this regard would qualify as a sale under Nevada law. Nonetheless, if you are a Nevada resident who has purchased goods or services from us, you may submit a request to record your preference to opt out by emailing us at individualrights@activision.com. Please note we may take reasonable steps to verify your identity and the authenticity of the request.
+REFERENCE            coda_country_sa
+LANG_ENGLISH         "Saudi Arabia"
 
-14. Users in the EEA
+REFERENCE            coda_country_se
+LANG_ENGLISH         "Sweden"
 
-As set out in more detail below, we only process or transfer your personal information where we can rely on legal grounds and appropriate safeguards to do so. You also have additional rights regarding your personal information if you are located in the European Economic Area (???EEA???). 
+REFERENCE            coda_country_sg
+LANG_ENGLISH         "Singapore"
 
-Legal Basis for Processing Your Personal Information
-We only process your personal information where we can rely on legal grounds to do so. We process your personal information for the purposes set out below.
+REFERENCE            coda_country_tw
+LANG_ENGLISH         "Taiwan"
 
-Performance of the Services
-We process your personal information for the performance of our services, to provide or support of our products, or for any other feature you request or enable. This includes, for example, using your personal information to: 
-administer your Activision Account; 
-provide contests or promotions in which you have enrolled; 
-support purchases you make; 
-support game functionality; 
-provide global customer service; or
-provide a fair gaming experience by using anti-fraud technologies such as bans or blocks of accounts. 
-
-Consent
-We process your personal information based on your consent. This includes, for example, providing:
-newsletters, direct e-mails and surveys about our Properties; 
-targeted ads in our mobile games; and 
-certain other marketing features.
-
-Legitimate Interest
-We process your personal information where we have a legitimate interest to do so. This includes, for example, processing:
-to provide you with requested customer service or technical support;
-to debug and improve our current and future Properties;
-in order to give you exclusive content, personalize your online experience with us and contact you in accordance with applicable marketing preferences; and
-for the establishment, exercise or defense of legal claims or whenever courts are acting in their judicial capacity.
-
-Legal Obligation
-We process your personal information for compliance with a legal obligation to which we are subject.  
-
-Your Rights to Your Personal Information
-You have the following rights in addition to your rights to view, correct, update, or request the deletion of your personal information as set out in detail in the Accessing Information section above. To access or delete your personal information, you can also make a request here (https://support.activision.com/gdpr?uil=en). 
-
-You may object to the processing of your personal information based on a legitimate interest on grounds relating to your particular situation. You may, in particular, control the extent to which we market to you and you have the right to request that we stop sending you marketing messages at any time. You can use the methods described in the Accessing Information section above.
-
-In certain circumstances, you can request that we transfer personal information that you have provided to us. You can send your request to us here (https://support.activision.com/gdpr?uil=en).
-
-Where we rely on your consent in order to process your personal information, you have the right to withdraw such consent to further use of your personal information at any time. You can use the methods described in the Accessing Information section above to update your marketing preferences.
-
-For each of the rights described above, you can also send your request to us by using the contact details set out in the Contacting Us section above. 
-
-We hope that we can satisfy queries you may have about the way we process your personal information. However, if you have unresolved concerns you also have the right to complain to data protection authorities. You can bring the complaint in your member state of residence, place of work or where an alleged infringement of data protection law occurred.
-
-International Transfers
-Your personal information will be transferred to and processed in the United States where many of our central databases operate or other countries where Activision group companies or vendors maintain facilities or business operations. We use European Commission approved contract clauses to protect your personal information. If you have questions, please contact us using the contact details set out in the Contacting Us section above.
-
-15. Disclosure to Users Outside the US and the EEA 
-
-In addition, if you are a visitor to our websites or other online products and services from outside the U.S., the personal information you provide will be collected, processed and stored directly on, or transferred to, servers in the United States or other countries where Activision group companies or our other partners or vendors maintain facilities or business operations. 
-No matter where the Information is located, Activision takes commercially reasonable measures to safeguard your privacy rights in accordance with this Privacy Policy. If you do not agree to the collection, processing, storage and transfer of your Information, please do not provide your Information when requested and stop using our websites and other online products and services."
+REFERENCE            coda_country_us
+LANG_ENGLISH         "United States"
 
 REFERENCE            coda_error_generic
 LANG_ENGLISH         "There was a problem with your Activision Account. Please try again.
@@ -163,83 +133,139 @@ Error: &&1"
 REFERENCE            confirm
 LANG_ENGLISH         "Confirm"
 
-REFERENCE            eula_a_005
-LANG_ENGLISH         "18. RISK OF LOSS
+REFERENCE            creation_cancelled
+LANG_ENGLISH         "Account Creation Cancelled"
 
-You bear all risk of loss for accessing or completing the download of any Product and for any loss of any Product that you have accessed or downloaded, including any loss due to a file corruption or Device crash.
+REFERENCE            display_name
+LANG_ENGLISH         "Display Name"
 
-Any Product may be available for limited periods of time, and/or subject to other access restrictions (including for example, possession of other specific Product(s) for access or use). Products may become unavailable due to potential content provider licensing restrictions or other reasons; Activision will not be liable to you if any Product is or becomes unavailable for download or access, for any reason, to the fullest extent permitted by applicable law.
+REFERENCE            email
+LANG_ENGLISH         "Email"
 
-19. AVAILABILITY
+REFERENCE            email_error_x
+LANG_ENGLISH         "Email: &&1"
 
-Except as otherwise set forth herein, Activision does not guarantee that any particular Product or Service Provided Content will be available at all times or at any given time or that Activision will continue to offer the Product or Service Provided Content for any particular length of time. Activision may change and update the Product or Service Provided Content without notice to you. Activision makes no warranty or representation regarding the availability of online Product features and reserves the right to modify or discontinue online Product features in its discretion without notice, including for example, ceasing an online service for economic reasons due to a limited number of users continuing to make use of the online service over time.
+REFERENCE            email_exists
+LANG_ENGLISH         "Account could not be created because the email you entered is already in use by another Activision account.  Please enter another email or go to https://s.activision.com/activision/ to recover your account.
 
-In addition, Products that may be accessed from, displayed on or linked to from a Device are not available in all languages or in all countries. To the fullest extent permitted by applicable law (i) Activision, and its licensors, reserve the right to change, suspend, remove, or disable access to any Product at any time without notice, and (ii) Activision will not be liable for the removal of or disabling of access to any Product.
+"
 
-20. OWNERSHIP
+REFERENCE            email_req_length
+LANG_ENGLISH         "Must be &&1-&&2 characters long."
 
-All title, ownership, and intellectual property rights in and to the Product (including, but not limited to, any titles, trademarks, service marks, and trade names, computer code, themes, objects, characters, character names, stories, dialog, catch phrases, locations, concepts, artwork, animations, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, and any related documentation) are owned by Activision and/or Activision's licensor(s). The Product is licensed, not sold, for your use. Your license confers no title or ownership in this Product and should not be construed as a sale of any rights in the Product.
+REFERENCE            email_req_symbols
+LANG_ENGLISH         "Must contain symbols &&1"
 
-YOU ACKNOWLEDGE AND AGREE THAT, OTHER THAN LICENSE GRANTED TO YOU BY THIS AGREEMENT, YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN ANY PRODUCT OR SERVICE PROVIDED CONTENT (INCLUDING WITHOUT LIMITATION ANY VIRTUAL GOODS), AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ALL RIGHTS IN AND TO SUCH PRODUCTS AND SERVICE PROVIDED CONTENT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION AND ITS LICENSORS.
+REFERENCE            email_signup
+LANG_ENGLISH         "Email Sign Up"
 
-You agree that all Products and Third Party Materials contain proprietary content, information and material that are protected by applicable intellectual property and other laws, including but not limited to copyright, and that you will not use such proprietary content, information or materials in any way whatsoever except for permitted use. No portion of the Products or Third Party Materials may be reproduced in any form or by any means other than as permitted under applicable license.
+REFERENCE            error_change_username
+LANG_ENGLISH         "An error occurred while attempting to change your display name."
 
-21. PAYMENT
+REFERENCE            eula_a_001
+LANG_ENGLISH         "January 6, 2017
 
-YOU AGREE TO PAY ALL FEES AND APPLICABLE TAXES INCURRED BY YOU OR ANYONE USING A PRODUCT FROM YOUR DEVICE.
+IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 4
 
-A.    Payment Options / Third Party Billing Partners. You may pay for certain Products and Service Provided Content using the methods made available to you, and you agree to the terms and conditions applicable to each payment method you choose. Payment methods may vary by console, platform, system or Device that you use to access the Product or Service Provided Content.
+PRODUCT LICENSE AND SERVICE AGREEMENT (the "Agreement")
 
-B.    By paying for a Product or Service Provided Content you (i) represent that you are authorized to use the payment method you have selected and that any payment information you provide is true and accurate; (ii) authorize the party charging you for the Product or Service Provided Content to take payment from you for the Product or Service Provided Content, using the payment method you have selected.
+You agree that your use of this Activision website, application ("App"), account, product, service or other property (including Service and/or Service Provided Content as defined below), including any patches, updates, and downloadable content associated with any App or other software (collectively "Product" or "Products"), shall be subject to the terms of this Agreement.
 
-22. CHANGES TO THE AGREEMENT
+All rights not expressly granted to you are reserved by Activision and its licensors.
 
-Except for Section 4 (Binding Arbitration and Class Action Waiver), Activision reserves the right, at its sole and absolute discretion, to change, modify, add to, supplement or delete any of the terms and conditions of this Agreement at any time, effective with or without prior notice, and by any means, including without limitation by posting notification on any Product website, by email, through a patch process, pop-up screen or in-Product notice. Your continued use of the Product following any revision to this Agreement constitutes your acceptance of any such changes. Additionally, you may be asked to affirmatively accept updates to this Agreement from time to time. Note that if you do not accept affirmatively indicate your acceptance when requested, you may not be able to continue to use the Product or Service Provided Content. In relation to Products and Service Provided Content you have paid for, if you do not wish to accept a change to the Agreement, please stop using the Product or Service Provided Content and contact Activision for refund options.
+Use of the Product is also subject to acceptance of Activision's Privacy Policy available at https://www.activision.com/legal/privacy-policy.
 
-23. DRM
+Please read and review both this Agreement and the Privacy Policy before using this Product. If you do not agree with or wish to accept the terms of either this Agreement or the Privacy Policy then please do not use the Product. By using this Product or otherwise accepting this Agreement and the Privacy Policy, you agree to be bound by this Agreement and the Privacy Policy and represent you satisfy all of the eligibility requirements below.
 
-If you access content protected with Digital Rights Management (DRM), the software may automatically request media usage rights from a rights server online and download and install DRM updates so that you can play the content.
+1. ELIGIBILITY
 
-24. GENERAL
+A.   In order to use certain Products you may be required to:
+meet minimum age requirements - see Sections 1 and 10
+agree to Third Party Terms - see Section 15
+open an account operated and provided by Activision - see Section 10
 
-A.    Severability
+B.   Subject to any applicable Product age ratings, restrictions and Account requirements, Products are made available to individuals aged 13 or older. If you are aged 13 but under 18 years of age, you and your parent or guardian must review this Agreement and the Privacy Policy together. Parents/ guardians are jointly and severally liable for all acts (including purchases and payments for Service Provided Content) and omissions of their children aged under 18 years when using a Product. Activision recommends that parents and guardians familiarize themselves with parental controls available on Devices they provide to their child and accompany their child if aged under 13 years of age, or the applicable age in your jurisdiction, when online.
 
-If any provision of this Agreement shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from this Agreement and shall not affect the validity and enforceability of any remaining provisions.
+2. ACCESS AND COSTS
 
-B.    Survival
+You acknowledge and agree that you will provide at your own cost and expense the equipment, Internet or other connection charges, required to access and use the Product. Activision makes no warranty that the Product can be accessed on all personal computers, games consoles, smartphones, tablets or other devices (each, a "Device", or in the plural, "Devices"), by means of any specific Internet or other connection provider, or in all countries.
 
-SECTIONS 4, 5, 8, 12, 14 to 24 inclusive, and, those other sections that by their terms apply after this Agreement ends, and the Privacy Policy, will survive any termination or cancellation of this Agreement.
+YOU ARE SOLELY RESPONSIBLE FOR ANY THIRD PARTY COSTS YOU INCUR TO USE THE PRODUCT.
 
-C.    Assignment and Transfer
+3. LICENSE
 
-We may assign this Agreement, in whole or in part, at any time without notice to you. You may not assign this agreement or transfer any rights to use the services.
+A.   Activision grants you a personal, limited, non-exclusive license to use the Product for your non-commercial use. To the fullest extent permitted by applicable law, this license granted to use the Product is non-transferable. You may not rent, lease, lend, sell, redistribute or sublicense the Product. You may not copy (except as expressly permitted by this license and any other applicable terms, conditions, or usage rules), decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Product, any updates, or any part thereof (except as and only to the extent allowed by applicable law or to the extent as may be permitted by the licensing terms governing use of any open sourced components included with the licensed application). You may not remove or alter Activision's or its licensors trademarks or logos, or legal notices included in the Product or related assets. Any attempt to use the Product in breach of the terms of this Agreement is a violation of the rights of Activision and its licensors. The terms of this Agreement will govern any upgrades provided by Activision that replace and/or supplement the Product, unless such upgrade is accompanied by a separate (and/or updated) agreement in which case the terms of that agreement will govern.
 
-D.    Notices
+B.   If the Product is an App then unless expressly authorized by Activision in writing installation and use is restricted to an authorized Device; and you are prohibited from making a copy of the App available on a network where it could be used or downloaded by multiple users.
 
-You consent to Activision providing you notifications about the Product or information the law requires us to provide via email to any address that you specified if you were required to register for the Product. Notices emailed to you will be deemed given and received when the email is sent. If you don't consent to receive notices electronically, you must stop using the Product. For Products that do not require you to register or provide an email address, notices and other information may be made available in updates to this Agreement.
+C.   The license rights granted to you herein are also subject to the limitations set forth below. Any use of the Product in violation of these limitations is a material breach of the Agreement, subjects you to immediate revocation of your license, and will be regarded as an infringement of Activision's copyrights and other rights in and to the Product. You agree that you will not, under any circumstances:
 
-E.    Force Majeure
+i.    use, develop, host or distribute cheats, automation software (bots), modded lobbies, hacks, mods or any other unauthorized third-party software in connection with the Product, or engage in any form of cheating, boosting, or booting;
 
-Activision shall not be liable for any delay or failure to perform resulting from causes outside Activision's reasonable control, including without limitation any failure to perform hereunder due to unforeseen circumstances or cause beyond Activision's control such as acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes, or shortages of transportation facilities, fuel, energy, labor or materials.
+ii.    exploit or reverse engineer the Product (or any of its parts), for any commercial purpose, including without limitation (a) to enable use at a cyber cafe, computer gaming center or any other location-based site without the express written consent of Activision; (b) for gathering in-game currency, items or resources for sale outside the Product; (c) performing in-game services in exchange for payment outside the Product, e.g., power-leveling; or (d) the sale of accounts, log-in information, or other Product materials, access, or rights;
 
-F.    Equitable Remedies
+iii.    use any unauthorized third-party software that intercepts, "mines", or otherwise collects information from or through the Product;
 
-In the event that you breach this Agreement, you hereby agree that Activision would be irreparably damaged if this Agreement were not specifically enforced, and therefore you agree that Activision shall be entitled, without bond, other security, or proof of damages, to appropriate equitable remedies with respect to breaches of this Agreement, in addition to such other remedies as Activision may otherwise have available to it under applicable laws.
+iv.    except as authorized by Activision in writing, host, provide or develop matchmaking services for the Product, or intercept, emulate or redirect the communication protocols used by Activision in any way, for any purpose, including without limitation unauthorized play over the internet, network play, or as part of content aggregation networks;
 
-G.    Export and Commercial Items
+v.    facilitate, create or maintain any unauthorized connection to the Product, including without limitation (a) any connection to any unauthorized server that emulates, or attempts to emulate, the Product; and (b) any connection using programs or tools not expressly approved by Activision in writing;
 
-You may not use or otherwise export or re-export the Product except as authorized by United States law and, if applicable, the laws of the jurisdiction in which the Product was obtained. In particular, but without limitation, the Product may not be exported, re-exported, or downloaded into (or transferred to a resident of) (a) North Korea, Iran, Syria, Sudan, any U.S. embargoed countries or any country against which the U.S. Government maintains comprehensive economic sanctions, or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals and Blocked Persons or the U.S.
+vi.    violate any applicable law or regulation in connection with your use of Product;
 
-Department of Commerce Denied Person's List or Entity List. By using the Product, you represent and warrant that you are not located in, under the control of, or a resident of any such country, or on any such list. You also agree that you will not use these Products for any purposes prohibited by United States law, including, without limitation, the development, design, manufacture or production of nuclear, missiles, or chemical or biological weapons.
+vii.    disrupt or assist in the disruption of: (i) any computer, device or server used to support the Product; or (ii) any other player's use of a Product;
 
-The Product and related documentation are "Commercial Items", as that term is defined at 48 C.F.R. 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation", as such terms are used in 48 C.F.R. 12.212 or 48 C.F.R. 227.7202, as applicable. Consistent with 48 C.F.R. 12.212 or 48 C.F.R. 227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished-rights reserved under the copyright laws of the United States.
+viii.    interfere or attempt to interfere with the operation of the Product in any way through any means or device including, but not limited to, launching a denial of service attack, spamming, hacking, or uploading computer viruses or time bombs; or
 
-H.    Entire Agreement
+ix.    reproduce, distribute, display, transfer or use any part of the Product except as expressly authorized by Activision; or
 
-This Agreement constitutes the entire agreement and understanding between you and Activision, and supersedes any prior or contemporaneous agreements or understandings, whether written or oral, relating to the matters contained herein."
+x.    scrape, copy, aggregate, redistribute, alter, reproduce or re-use any user's (whether specific to any particular user or as an aggregation) information accessible through the Product. You understand that access to the Product may result in access to other user's names, screen names, email addresses and other information as set out in the Privacy Policy available at https://www.activision.com/legal/privacy-policy ("Personal Information") which is protected by applicable data protection and privacy laws and regulations. You understand, acknowledge and agree that any Personal Information from other users constitute the confidential information of Activision.
 
-REFERENCE            eula_a_decline_message
-LANG_ENGLISH         "In order to create an account, you must accept the Terms Of Use"
+
+"
+
+REFERENCE            eula_a_002
+LANG_ENGLISH         "4. BINDING ARBITRATION AND CLASS ACTION WAIVER
+
+READ THIS SECTION CAREFULLY. IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+
+These BINDING ARBITRATION AND CLASS ACTION WAIVER provisions apply to you if you are domiciled in and/or acquired and use the Product in the United States. These provisions may also apply to you if you are domiciled in and/or acquired and use the Product from outside the United States. See JURISDICTION AND APPLICABLE LAW below for details.
+
+Initial Dispute Resolution: Activision's Customer Support department is available by phone ((310) 255-2050) or on the web https://support.activision.com/ to address any concerns you may have regarding the Product. Most concerns are quickly resolved in this manner to our customers' satisfaction. The parties shall use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations which shall be a precondition to either party initiating a lawsuit or arbitration.
+
+Binding Arbitration: If the parties do not reach an agreed upon solution within a period of 30 days from the time informal dispute resolution is pursued pursuant to the paragraph above, then either party may initiate binding arbitration as the sole means to formally resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to this Agreement (including its interpretation, formation, performance and breach), the parties' relationship with each other and/or your use of the Product shall be finally settled by binding arbitration administered by JAMS in accordance with the provisions of its Comprehensive Arbitration Rules or Streamlined Arbitrations Rules, as appropriate, excluding any rules or procedures governing or permitting class actions. This arbitration provision is made pursuant to a transaction involving interstate commerce, and the Federal Arbitration Act (the "FAA") shall apply to the interpretation, applicability, enforceability and formation of this Agreement notwithstanding any other choice of law provision contained in this Agreement. The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this Agreement, including without limitation any claim that all or any part of this Agreement is void or voidable, or whether a claim is subject to arbitration. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
+
+The JAMS Rules governing the arbitration may be accessed at http://www.jamsadr.com/ or by calling JAMS at (800) 352-5267. Your arbitration fees and your share of arbitrator compensation shall be governed by the JAMS Comprehensive Arbitration Rules, but shall not incorporate the JAMS Class Action Procedures, and, to the extent applicable, the Consumer Minimum Standards, including the then-current limit on arbitration filing fees. To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Activision will pay the additional cost. The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial. They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+Location: If you are a resident of the United States, arbitration will take place at any reasonable location within the United States convenient for you. For residents outside the United States, arbitration shall be initiated in Los Angeles County, California, and you and Activision agree to submit to the personal jurisdiction of any federal or state court in Los Angeles County, California, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
+
+Class Action Waiver: The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND ACTIVISION AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+Exception - Litigation of Intellectual Property and Small Claims Court Claims: Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court that only asserts claims for patent infringement or invalidity, copyright infringement, moral rights violations, trademark infringement, and/or trade secret misappropriation, but not, for clarity, claims related to the license granted to you for the Product under this Agreement. Either party may also seek relief in a small claims court for disputes or claims within the scope of that court's jurisdiction.
+
+30 Day Right to Opt Out: You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in the "Binding Arbitration", "Location", and "Class Action Waiver" paragraphs above by sending written notice of your decision to opt-out to the following address: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032, Attn: Legal. The notice must be sent within 30 days of purchasing the Product (or if no purchase was made, then within 30 days of the date on which you first access or use the Product and agree to these terms); otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Activision also will not be bound by them.
+
+Changes to this Section: Activision will provide 60-days??? notice of any changes to this Section. Changes will become effective on the 60th day and will apply prospectively only to any claims arising after the 60th day.
+
+5. JURISDICTION AND APPLICABLE LAW
+
+The Product is made available subject to the terms of this Agreement. If you acquired and use the Product from:
+
+A.   For residents in the United States, Mexico or Canada, then you are contracting with Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032 and any claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) will be subject to the laws of the State of Delaware, without reference to conflict of laws principles. If any court or arbitrator determines that the "Class Action Waiver" paragraph set forth above is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then any and all claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) shall be decided under the laws of the state where you were a citizen at the time you obtained or bought the Product that was subject to this Agreement. In addition, you and we irrevocably consent to the exclusive jurisdiction and venue of state or federal courts in Los Angeles County, California to resolve any claims that are subject to exceptions to the arbitration agreement described in BINDING ARBITRATION AND CLASS ACTION WAIVER above, or otherwise determined not to be arbitrable.
+
+B.   For residents in the European Union, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131-D, 1119RB Schiphol-Rijk, Netherlands and the laws of England and Wales govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the European Union country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Product. In addition, with respect to jurisdiction, you may choose either the courts of the country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Product, or in the alternative the courts of England and Wales or other court as applicable under the Brussels Regulation EC 44/2001.
+
+C.   For residents in Australia or Japan, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131-D, 1119RB Schiphol-Rijk, Netherlands and the laws of Australia govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the country in which you acquired and use the Product (being either Australia or Japan). To the extent permitted by applicable law, you agree to the jurisdiction of the courts of New South Wales, Australia.
+
+D.   For residents in the Rest of the World, If you acquired and use this Product from countries other than those listed in sections A, B and C above, then you do so on your own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable, and you expressly indemnify and hold harmless Activision from any and all claims, loss, injury, damage, or costs arising from your use of the Product to the extent permitted by applicable law. No warranty or representation is made by Activision that the Product or any use of the Product outside of the countries listed in sections A, B and C above complies with any applicable local law. Further your use of the Product and all claims arising out of or related to the Product or this Agreement will, to the extent permitted under applicable law, be subject to the laws of England and Wales, without reference to conflict of laws principles and you consent to the jurisdiction of the courts of England and Wales.
+
+To the fullest extent permitted by applicable law, if any user outside of the United States is entitled to commence and/or participate in legal proceedings within the United States, then that user agrees to be bound by the BINDING ARBITRATION AND CLASS ACTION WAIVER provisions above.
+
+6. SERVICES
+
+Separate from any license to use the intellectual property of Activision or its licensors set out in Section 3 above, some Products also contain game features or content that are only accessible through online hosting and/or other online services and functionality provided by Activision ("Services"). As detailed in Section 2, you will provide Internet access necessary to use these services at your own cost and expenses. All such Services are provided to you by Activision on a personal, non-commercial and non-transferable basis. All such Services are provided subject to the terms of this Agreement and Activision's Privacy Policy, and such additional terms, if any, as may be applicable to such Services.
+
+
+"
 
 REFERENCE            eula_a_003
 LANG_ENGLISH         "7. USE OF DATA
@@ -338,50 +364,6 @@ E.    SOCIAL MEDIA
 If you are a registered user of social media sites you may be able to connect your social media account and your Activision account (if your applicable Activision account has this functionality enabled). Your social media accounts are subject to their own Third Party Terms. You acknowledge and agree that your social media account provider is not responsible for your Activision account, including for any liability connected to your use of your Activision account, and that irrespective of whether you use an anonymous gamer tag or username, once you connect your Activision account to your social media account, your real name will be available and viewable by your social media "friends". Please also see Activision's Privacy Policy available at https://www.activision.com/legal/privacy-policy for additional information on social networks.
 "
 
-REFERENCE            eula_a_002
-LANG_ENGLISH         "4. BINDING ARBITRATION AND CLASS ACTION WAIVER
-
-READ THIS SECTION CAREFULLY. IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
-
-These BINDING ARBITRATION AND CLASS ACTION WAIVER provisions apply to you if you are domiciled in and/or acquired and use the Product in the United States. These provisions may also apply to you if you are domiciled in and/or acquired and use the Product from outside the United States. See JURISDICTION AND APPLICABLE LAW below for details.
-
-Initial Dispute Resolution: Activision's Customer Support department is available by phone ((310) 255-2050) or on the web https://support.activision.com/ to address any concerns you may have regarding the Product. Most concerns are quickly resolved in this manner to our customers' satisfaction. The parties shall use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations which shall be a precondition to either party initiating a lawsuit or arbitration.
-
-Binding Arbitration: If the parties do not reach an agreed upon solution within a period of 30 days from the time informal dispute resolution is pursued pursuant to the paragraph above, then either party may initiate binding arbitration as the sole means to formally resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to this Agreement (including its interpretation, formation, performance and breach), the parties' relationship with each other and/or your use of the Product shall be finally settled by binding arbitration administered by JAMS in accordance with the provisions of its Comprehensive Arbitration Rules or Streamlined Arbitrations Rules, as appropriate, excluding any rules or procedures governing or permitting class actions. This arbitration provision is made pursuant to a transaction involving interstate commerce, and the Federal Arbitration Act (the "FAA") shall apply to the interpretation, applicability, enforceability and formation of this Agreement notwithstanding any other choice of law provision contained in this Agreement. The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this Agreement, including without limitation any claim that all or any part of this Agreement is void or voidable, or whether a claim is subject to arbitration. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
-
-The JAMS Rules governing the arbitration may be accessed at http://www.jamsadr.com/ or by calling JAMS at (800) 352-5267. Your arbitration fees and your share of arbitrator compensation shall be governed by the JAMS Comprehensive Arbitration Rules, but shall not incorporate the JAMS Class Action Procedures, and, to the extent applicable, the Consumer Minimum Standards, including the then-current limit on arbitration filing fees. To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Activision will pay the additional cost. The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial. They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
-
-Location: If you are a resident of the United States, arbitration will take place at any reasonable location within the United States convenient for you. For residents outside the United States, arbitration shall be initiated in Los Angeles County, California, and you and Activision agree to submit to the personal jurisdiction of any federal or state court in Los Angeles County, California, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
-
-Class Action Waiver: The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND ACTIVISION AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
-
-Exception - Litigation of Intellectual Property and Small Claims Court Claims: Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court that only asserts claims for patent infringement or invalidity, copyright infringement, moral rights violations, trademark infringement, and/or trade secret misappropriation, but not, for clarity, claims related to the license granted to you for the Product under this Agreement. Either party may also seek relief in a small claims court for disputes or claims within the scope of that court's jurisdiction.
-
-30 Day Right to Opt Out: You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in the "Binding Arbitration", "Location", and "Class Action Waiver" paragraphs above by sending written notice of your decision to opt-out to the following address: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032, Attn: Legal. The notice must be sent within 30 days of purchasing the Product (or if no purchase was made, then within 30 days of the date on which you first access or use the Product and agree to these terms); otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Activision also will not be bound by them.
-
-Changes to this Section: Activision will provide 60-days??? notice of any changes to this Section. Changes will become effective on the 60th day and will apply prospectively only to any claims arising after the 60th day.
-
-5. JURISDICTION AND APPLICABLE LAW
-
-The Product is made available subject to the terms of this Agreement. If you acquired and use the Product from:
-
-A.   For residents in the United States, Mexico or Canada, then you are contracting with Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032 and any claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) will be subject to the laws of the State of Delaware, without reference to conflict of laws principles. If any court or arbitrator determines that the "Class Action Waiver" paragraph set forth above is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then any and all claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) shall be decided under the laws of the state where you were a citizen at the time you obtained or bought the Product that was subject to this Agreement. In addition, you and we irrevocably consent to the exclusive jurisdiction and venue of state or federal courts in Los Angeles County, California to resolve any claims that are subject to exceptions to the arbitration agreement described in BINDING ARBITRATION AND CLASS ACTION WAIVER above, or otherwise determined not to be arbitrable.
-
-B.   For residents in the European Union, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131-D, 1119RB Schiphol-Rijk, Netherlands and the laws of England and Wales govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the European Union country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Product. In addition, with respect to jurisdiction, you may choose either the courts of the country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Product, or in the alternative the courts of England and Wales or other court as applicable under the Brussels Regulation EC 44/2001.
-
-C.   For residents in Australia or Japan, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131-D, 1119RB Schiphol-Rijk, Netherlands and the laws of Australia govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the country in which you acquired and use the Product (being either Australia or Japan). To the extent permitted by applicable law, you agree to the jurisdiction of the courts of New South Wales, Australia.
-
-D.   For residents in the Rest of the World, If you acquired and use this Product from countries other than those listed in sections A, B and C above, then you do so on your own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable, and you expressly indemnify and hold harmless Activision from any and all claims, loss, injury, damage, or costs arising from your use of the Product to the extent permitted by applicable law. No warranty or representation is made by Activision that the Product or any use of the Product outside of the countries listed in sections A, B and C above complies with any applicable local law. Further your use of the Product and all claims arising out of or related to the Product or this Agreement will, to the extent permitted under applicable law, be subject to the laws of England and Wales, without reference to conflict of laws principles and you consent to the jurisdiction of the courts of England and Wales.
-
-To the fullest extent permitted by applicable law, if any user outside of the United States is entitled to commence and/or participate in legal proceedings within the United States, then that user agrees to be bound by the BINDING ARBITRATION AND CLASS ACTION WAIVER provisions above.
-
-6. SERVICES
-
-Separate from any license to use the intellectual property of Activision or its licensors set out in Section 3 above, some Products also contain game features or content that are only accessible through online hosting and/or other online services and functionality provided by Activision ("Services"). As detailed in Section 2, you will provide Internet access necessary to use these services at your own cost and expenses. All such Services are provided to you by Activision on a personal, non-commercial and non-transferable basis. All such Services are provided subject to the terms of this Agreement and Activision's Privacy Policy, and such additional terms, if any, as may be applicable to such Services.
-
-
-"
-
 REFERENCE            eula_a_004
 LANG_ENGLISH         "F.    USERNAMES AND GROUP DESIGNATIONS:
 
@@ -468,177 +450,86 @@ Activision reserves the right, at its own expense, to assume the exclusive defen
 
 "
 
-REFERENCE            eula_a_001
-LANG_ENGLISH         "January 6, 2017
+REFERENCE            eula_a_005
+LANG_ENGLISH         "18. RISK OF LOSS
 
-IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 4
+You bear all risk of loss for accessing or completing the download of any Product and for any loss of any Product that you have accessed or downloaded, including any loss due to a file corruption or Device crash.
 
-PRODUCT LICENSE AND SERVICE AGREEMENT (the "Agreement")
+Any Product may be available for limited periods of time, and/or subject to other access restrictions (including for example, possession of other specific Product(s) for access or use). Products may become unavailable due to potential content provider licensing restrictions or other reasons; Activision will not be liable to you if any Product is or becomes unavailable for download or access, for any reason, to the fullest extent permitted by applicable law.
 
-You agree that your use of this Activision website, application ("App"), account, product, service or other property (including Service and/or Service Provided Content as defined below), including any patches, updates, and downloadable content associated with any App or other software (collectively "Product" or "Products"), shall be subject to the terms of this Agreement.
+19. AVAILABILITY
 
-All rights not expressly granted to you are reserved by Activision and its licensors.
+Except as otherwise set forth herein, Activision does not guarantee that any particular Product or Service Provided Content will be available at all times or at any given time or that Activision will continue to offer the Product or Service Provided Content for any particular length of time. Activision may change and update the Product or Service Provided Content without notice to you. Activision makes no warranty or representation regarding the availability of online Product features and reserves the right to modify or discontinue online Product features in its discretion without notice, including for example, ceasing an online service for economic reasons due to a limited number of users continuing to make use of the online service over time.
 
-Use of the Product is also subject to acceptance of Activision's Privacy Policy available at https://www.activision.com/legal/privacy-policy.
+In addition, Products that may be accessed from, displayed on or linked to from a Device are not available in all languages or in all countries. To the fullest extent permitted by applicable law (i) Activision, and its licensors, reserve the right to change, suspend, remove, or disable access to any Product at any time without notice, and (ii) Activision will not be liable for the removal of or disabling of access to any Product.
 
-Please read and review both this Agreement and the Privacy Policy before using this Product. If you do not agree with or wish to accept the terms of either this Agreement or the Privacy Policy then please do not use the Product. By using this Product or otherwise accepting this Agreement and the Privacy Policy, you agree to be bound by this Agreement and the Privacy Policy and represent you satisfy all of the eligibility requirements below.
+20. OWNERSHIP
 
-1. ELIGIBILITY
+All title, ownership, and intellectual property rights in and to the Product (including, but not limited to, any titles, trademarks, service marks, and trade names, computer code, themes, objects, characters, character names, stories, dialog, catch phrases, locations, concepts, artwork, animations, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, and any related documentation) are owned by Activision and/or Activision's licensor(s). The Product is licensed, not sold, for your use. Your license confers no title or ownership in this Product and should not be construed as a sale of any rights in the Product.
 
-A.   In order to use certain Products you may be required to:
-meet minimum age requirements - see Sections 1 and 10
-agree to Third Party Terms - see Section 15
-open an account operated and provided by Activision - see Section 10
+YOU ACKNOWLEDGE AND AGREE THAT, OTHER THAN LICENSE GRANTED TO YOU BY THIS AGREEMENT, YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN ANY PRODUCT OR SERVICE PROVIDED CONTENT (INCLUDING WITHOUT LIMITATION ANY VIRTUAL GOODS), AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ALL RIGHTS IN AND TO SUCH PRODUCTS AND SERVICE PROVIDED CONTENT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION AND ITS LICENSORS.
 
-B.   Subject to any applicable Product age ratings, restrictions and Account requirements, Products are made available to individuals aged 13 or older. If you are aged 13 but under 18 years of age, you and your parent or guardian must review this Agreement and the Privacy Policy together. Parents/ guardians are jointly and severally liable for all acts (including purchases and payments for Service Provided Content) and omissions of their children aged under 18 years when using a Product. Activision recommends that parents and guardians familiarize themselves with parental controls available on Devices they provide to their child and accompany their child if aged under 13 years of age, or the applicable age in your jurisdiction, when online.
+You agree that all Products and Third Party Materials contain proprietary content, information and material that are protected by applicable intellectual property and other laws, including but not limited to copyright, and that you will not use such proprietary content, information or materials in any way whatsoever except for permitted use. No portion of the Products or Third Party Materials may be reproduced in any form or by any means other than as permitted under applicable license.
 
-2. ACCESS AND COSTS
+21. PAYMENT
 
-You acknowledge and agree that you will provide at your own cost and expense the equipment, Internet or other connection charges, required to access and use the Product. Activision makes no warranty that the Product can be accessed on all personal computers, games consoles, smartphones, tablets or other devices (each, a "Device", or in the plural, "Devices"), by means of any specific Internet or other connection provider, or in all countries.
+YOU AGREE TO PAY ALL FEES AND APPLICABLE TAXES INCURRED BY YOU OR ANYONE USING A PRODUCT FROM YOUR DEVICE.
 
-YOU ARE SOLELY RESPONSIBLE FOR ANY THIRD PARTY COSTS YOU INCUR TO USE THE PRODUCT.
+A.    Payment Options / Third Party Billing Partners. You may pay for certain Products and Service Provided Content using the methods made available to you, and you agree to the terms and conditions applicable to each payment method you choose. Payment methods may vary by console, platform, system or Device that you use to access the Product or Service Provided Content.
 
-3. LICENSE
+B.    By paying for a Product or Service Provided Content you (i) represent that you are authorized to use the payment method you have selected and that any payment information you provide is true and accurate; (ii) authorize the party charging you for the Product or Service Provided Content to take payment from you for the Product or Service Provided Content, using the payment method you have selected.
 
-A.   Activision grants you a personal, limited, non-exclusive license to use the Product for your non-commercial use. To the fullest extent permitted by applicable law, this license granted to use the Product is non-transferable. You may not rent, lease, lend, sell, redistribute or sublicense the Product. You may not copy (except as expressly permitted by this license and any other applicable terms, conditions, or usage rules), decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Product, any updates, or any part thereof (except as and only to the extent allowed by applicable law or to the extent as may be permitted by the licensing terms governing use of any open sourced components included with the licensed application). You may not remove or alter Activision's or its licensors trademarks or logos, or legal notices included in the Product or related assets. Any attempt to use the Product in breach of the terms of this Agreement is a violation of the rights of Activision and its licensors. The terms of this Agreement will govern any upgrades provided by Activision that replace and/or supplement the Product, unless such upgrade is accompanied by a separate (and/or updated) agreement in which case the terms of that agreement will govern.
+22. CHANGES TO THE AGREEMENT
 
-B.   If the Product is an App then unless expressly authorized by Activision in writing installation and use is restricted to an authorized Device; and you are prohibited from making a copy of the App available on a network where it could be used or downloaded by multiple users.
+Except for Section 4 (Binding Arbitration and Class Action Waiver), Activision reserves the right, at its sole and absolute discretion, to change, modify, add to, supplement or delete any of the terms and conditions of this Agreement at any time, effective with or without prior notice, and by any means, including without limitation by posting notification on any Product website, by email, through a patch process, pop-up screen or in-Product notice. Your continued use of the Product following any revision to this Agreement constitutes your acceptance of any such changes. Additionally, you may be asked to affirmatively accept updates to this Agreement from time to time. Note that if you do not accept affirmatively indicate your acceptance when requested, you may not be able to continue to use the Product or Service Provided Content. In relation to Products and Service Provided Content you have paid for, if you do not wish to accept a change to the Agreement, please stop using the Product or Service Provided Content and contact Activision for refund options.
 
-C.   The license rights granted to you herein are also subject to the limitations set forth below. Any use of the Product in violation of these limitations is a material breach of the Agreement, subjects you to immediate revocation of your license, and will be regarded as an infringement of Activision's copyrights and other rights in and to the Product. You agree that you will not, under any circumstances:
+23. DRM
 
-i.    use, develop, host or distribute cheats, automation software (bots), modded lobbies, hacks, mods or any other unauthorized third-party software in connection with the Product, or engage in any form of cheating, boosting, or booting;
+If you access content protected with Digital Rights Management (DRM), the software may automatically request media usage rights from a rights server online and download and install DRM updates so that you can play the content.
 
-ii.    exploit or reverse engineer the Product (or any of its parts), for any commercial purpose, including without limitation (a) to enable use at a cyber cafe, computer gaming center or any other location-based site without the express written consent of Activision; (b) for gathering in-game currency, items or resources for sale outside the Product; (c) performing in-game services in exchange for payment outside the Product, e.g., power-leveling; or (d) the sale of accounts, log-in information, or other Product materials, access, or rights;
+24. GENERAL
 
-iii.    use any unauthorized third-party software that intercepts, "mines", or otherwise collects information from or through the Product;
+A.    Severability
 
-iv.    except as authorized by Activision in writing, host, provide or develop matchmaking services for the Product, or intercept, emulate or redirect the communication protocols used by Activision in any way, for any purpose, including without limitation unauthorized play over the internet, network play, or as part of content aggregation networks;
+If any provision of this Agreement shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from this Agreement and shall not affect the validity and enforceability of any remaining provisions.
 
-v.    facilitate, create or maintain any unauthorized connection to the Product, including without limitation (a) any connection to any unauthorized server that emulates, or attempts to emulate, the Product; and (b) any connection using programs or tools not expressly approved by Activision in writing;
+B.    Survival
 
-vi.    violate any applicable law or regulation in connection with your use of Product;
+SECTIONS 4, 5, 8, 12, 14 to 24 inclusive, and, those other sections that by their terms apply after this Agreement ends, and the Privacy Policy, will survive any termination or cancellation of this Agreement.
 
-vii.    disrupt or assist in the disruption of: (i) any computer, device or server used to support the Product; or (ii) any other player's use of a Product;
+C.    Assignment and Transfer
 
-viii.    interfere or attempt to interfere with the operation of the Product in any way through any means or device including, but not limited to, launching a denial of service attack, spamming, hacking, or uploading computer viruses or time bombs; or
+We may assign this Agreement, in whole or in part, at any time without notice to you. You may not assign this agreement or transfer any rights to use the services.
 
-ix.    reproduce, distribute, display, transfer or use any part of the Product except as expressly authorized by Activision; or
+D.    Notices
 
-x.    scrape, copy, aggregate, redistribute, alter, reproduce or re-use any user's (whether specific to any particular user or as an aggregation) information accessible through the Product. You understand that access to the Product may result in access to other user's names, screen names, email addresses and other information as set out in the Privacy Policy available at https://www.activision.com/legal/privacy-policy ("Personal Information") which is protected by applicable data protection and privacy laws and regulations. You understand, acknowledge and agree that any Personal Information from other users constitute the confidential information of Activision.
+You consent to Activision providing you notifications about the Product or information the law requires us to provide via email to any address that you specified if you were required to register for the Product. Notices emailed to you will be deemed given and received when the email is sent. If you don't consent to receive notices electronically, you must stop using the Product. For Products that do not require you to register or provide an email address, notices and other information may be made available in updates to this Agreement.
 
+E.    Force Majeure
 
-"
+Activision shall not be liable for any delay or failure to perform resulting from causes outside Activision's reasonable control, including without limitation any failure to perform hereunder due to unforeseen circumstances or cause beyond Activision's control such as acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes, or shortages of transportation facilities, fuel, energy, labor or materials.
 
-REFERENCE            login_error_title
-LANG_ENGLISH         "Account Login Error"
+F.    Equitable Remedies
 
-REFERENCE            kr_privacy_regulation
-LANG_ENGLISH         "Activision Publishing, Inc. ("Activision", located in the United States, contact: privacy@activision.com) collects and uses below information to provide cross-play, social-networking services. Activision transfers collected personal data overseas upon your usage of services by online transmission. You may refuse to enter your personal information, however, Activision???s cross-play service shall be restricted."
+In the event that you breach this Agreement, you hereby agree that Activision would be irreparably damaged if this Agreement were not specifically enforced, and therefore you agree that Activision shall be entitled, without bond, other security, or proof of damages, to appropriate equitable remedies with respect to breaches of this Agreement, in addition to such other remedies as Activision may otherwise have available to it under applicable laws.
 
-REFERENCE            kr_marketing_opt_in
-LANG_ENGLISH         "I agree to receive news, updates, promotions and exclusive content by email from Activision. If we share this email info with 3rd parties(this 3rd party includes vendors who distributes emails on behalf of Activision), we need to disclose the entity name/country/contact info/purpose/retention period. ex. ???Your email address will be shared with and handled by ABC company (located in U.S. privacy@abc.com ) to send emails until you opt out or service ends.???"
+G.    Export and Commercial Items
 
-REFERENCE            forgot_password_url
-LANG_ENGLISH         "https://s.activision.com/activision/forgotPassword"
+You may not use or otherwise export or re-export the Product except as authorized by United States law and, if applicable, the laws of the jurisdiction in which the Product was obtained. In particular, but without limitation, the Product may not be exported, re-exported, or downloaded into (or transferred to a resident of) (a) North Korea, Iran, Syria, Sudan, any U.S. embargoed countries or any country against which the U.S. Government maintains comprehensive economic sanctions, or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals and Blocked Persons or the U.S.
 
-REFERENCE            password_invalid
-LANG_ENGLISH         "Account could not be created due to an invalid password.  Please try again with a different password."
+Department of Commerce Denied Person's List or Entity List. By using the Product, you represent and warrant that you are not located in, under the control of, or a resident of any such country, or on any such list. You also agree that you will not use these Products for any purposes prohibited by United States law, including, without limitation, the development, design, manufacture or production of nuclear, missiles, or chemical or biological weapons.
 
-REFERENCE            guest_account
-LANG_ENGLISH         "You cannot take this action with a guest account."
+The Product and related documentation are "Commercial Items", as that term is defined at 48 C.F.R. 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation", as such terms are used in 48 C.F.R. 12.212 or 48 C.F.R. 227.7202, as applicable. Consistent with 48 C.F.R. 12.212 or 48 C.F.R. 227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished-rights reserved under the copyright laws of the United States.
 
-REFERENCE            password_error_x
-LANG_ENGLISH         "Password: &&1"
+H.    Entire Agreement
+
+This Agreement constitutes the entire agreement and understanding between you and Activision, and supersedes any prior or contemporaneous agreements or understandings, whether written or oral, relating to the matters contained herein."
+
+REFERENCE            eula_a_decline_message
+LANG_ENGLISH         "In order to create an account, you must accept the Terms Of Use"
 
 REFERENCE            eula_a_title
 LANG_ENGLISH         "Terms Of Use"
-
-REFERENCE            eula_b_002
-LANG_ENGLISH         "G. Buy Activision Products or Services Online
-Activision collects no credit card and/or billing information when you purchase products or services (such as digital content) online. However, you may have to provide credit card and/or billing information to one of our third-party vendors to complete a purchase. We encourage you to review the privacy policy of our third-party vendors before providing them with your personal information, as their privacy practices may vary from ours. At the time of purchase, in specific cases, you also have the option to provide Information (such as your email address) to Activision to send you additional information or offers.
-
-H. Social Media 
-You can interact with some Properties through social networking sites (or social media plug-ins and applications) ("Social Media"). When you interact with Activision and/or the Properties through Social Media you acknowledge that we access your Information, solely under your Social Media privacy settings, and use it to tailor content, marketing, and improve and adjust user experience relating to Activision Properties, and (1) give you exclusive content; (2) personalize your online experience with us within and outside our Properties; and (3) contact you under applicable marketing preferences through Social Media, including through providing tailored marketing, or directly by sending you the latest news, special offerings, and rewards. 
-
-When you post personal information publicly through the Properties, or on Social Media, it will be viewable by other users of these sites and we cannot prevent further use of the personal information by third parties. For more information about how your Social Media uses and protects your personal information, please refer to their privacy policies and terms of use. 
-
-Information Provided by Other Sources 
-We may also obtain Information, such as contact details (for example, name and email address), country, IP address, purchase histories, marketing preferences, cookie information, hardware and software information and other technical information about you from other sources, such as our affiliates, Social Media, our vendors (for example, event ticket providers and merchandise vendors), or partners (for example, advertisers, media partners or platform providers), and combine that Information with Information we have collected from or about you. We only collect Information from other sources where they have confirmed to us they are legally entitled to share it with us.
-
-We use Cookies to provide and support our Properties and each of the uses outlined and described above. Please see our Cookie Policy (https://www.activision.com/legal/cookie-policy) for more information.
-
-4. Children and Parents 
-
-Activision does not knowingly collect or store any personal information from children under 13 in the US or under the relevant age threshold in other jurisdictions where the child is located. However, we may collect technical information required for delivering the service and for the support of our internal operations from all users of our Properties. If parents believe that we have unintentionally collected their children???s other personal information or otherwise used their children???s personal information for another purpose, they may contact us via the Contacting Us section below.
-
-We recognize a special need to protect the personal information of children. We urge parents to instruct their children to never give out their real names, addresses, phone numbers, or other personal information without parental permission, when online. Activision also recommends that parents familiarize themselves with parental controls available on consoles, mobile telephones, tablets and other devices they provide to their child and accompany their child when online. Parents should contact Activision immediately if they have any concerns. Please see the Contacting Us section below for further details.
-
-5.  Your Choices 
-
-You have choices over the Information provided by you and by other sources, and how that Information is used by Activision. You can exercise your choices by updating your preferences at any time and also by managing your settings on your devices and third party accounts. 
-Your Choices About Information Provided by You 
-If you do not want to provide Activision with personal information, then you can choose not to provide it. If you choose not to provide us with personal information, we may not always be able to provide you with the Activision product or service you want. For example, without providing an email address, you cannot create an Activision account.
-
-Your Choices About Information Provided by Third Parties
-You may be able to control how third parties collect and share your Information by changing your preferences or opting out of collection directly with those third parties. Before disclosing Information to third parties, we recommend you check their respective privacy policies for further details.
-
-Your Choices About Activision Using Your Information
-You can exercise choices over how Activision uses your personal information and update your preferences at any time:
-
-to remove yourself from individual contests or promotions, or from receiving email marketing or newsletters from Activision, simply click the unsubscribe link in the email or access your account from https://www.activision.com/ and edit your email marketing preferences. You will need your password to access your account;
-
-to disable selected Cookies from collecting information relating to the effectiveness of advertising campaigns or analytics data and from serving you with personalized advertising on our Properties or third party properties please see our Cookie Policy (https://www.activision.com/legal/cookie-policy). 
-
-If you opt-out of receiving email marketing communications from us, please note we may still contact you occasionally about the status of your account, such as to inform you that your account may be expiring, or for other service related information.
-
-If you are a user in the European Economic Area (???EEA???) and would like to know more about your rights in connection with your personal information, please see the Users in the EEA section below.
-
-6. Sharing Information: 
-
-As set out below in more detail, Activision shares Information:
-
-with the various Activision group companies for the purposes described in this Privacy Policy;
-with vendors and partners engaged by Activision to provide you with goods or services you have requested or online advertising selected by us;
-if required to do so by applicable law, regulation or legal process;
-if necessary to exercise, establish or defend our legal rights; 
-if necessary to protect the rights, property or safety of any person; and
-in connection with the sale of our business or assets.
-
-Any information, including personal information you reveal in a bulletin board, message board, chat room or other public forum is publicly viewable.
-
-Vendors and Partners
-Vendors and partners provide goods and services (for example, platform providers, media partners, event ticket providers, merchandise vendors, survey providers, billing, consumer services support, consultancy, information technology hardware and software) to Activision to support, operate and develop the Properties and to deliver marketing communications on our behalf. Vendors use your Information to execute, deliver and/or occasionally improve the services they provide. We do not share Information with vendors to use for their own direct marketing purposes or any other purpose other than those set out in this section without your consent.
-
-Law
-We will disclose your Information in the good faith belief we must do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. 
-
-This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
-
-Legal Rights
-We will disclose your Information where necessary for the purpose of exercising, establishing or defending our legal rights.  For example, we will review your gameplay, communications, and other account information to investigate allegations of cheating, hacking or any other breach or alleged breach of any applicable Terms of Use or this Privacy Policy and disclose your personal information, including communications, to our legal advisors, consultants and law enforcement or other government officials.
-
-Protecting Others
-We disclose your Information with third parties where we believe this is necessary to protect the rights, property or safety of any person. For example, we disclose Information relating to an online account if we in good faith believe the user of that account is using it in ways that are harmful to others (e.g. making inappropriate contact with minors). 
-
-Sale of Our Business or Assets
-Separately, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Activision's customer information including Information and communications may be transferred to our successor or assign.
-
-7.  Security
-
-Activision takes a range of security measures ???as set out in detail below ??? designed to help protect your Information. However, complete online and offline security can never be guaranteed, so you should always take care when sharing your information online.
-
-Activision takes a range of security measures designed to protect your personal information and keep it confidential (unless it is non-confidential by nature, for example, publicly-available information like user generated content, leaderboard rankings, and scores, etc.).  We also take steps to ensure that the personal information collected is protected from misuse and alteration. In addition, we request vendors who process personal information on our behalf to themselves take a range of security measures designed to help protect your personal information. However, the Internet by its nature is not a secure environment and the nature of security risks is constantly evolving, as are the technical and organizational industry standards relating to management of those risks. The complete security of any personal information collected, stored or used by us or our vendors cannot therefore be guaranteed.
-
-8.  Accessing Information and Retention Period
-
-As set out in more detail below, you can view, correct, update, or request the deletion of your personal information in any of your Activision accounts at any time. 
-
-If for any reason you wish to view, correct, or update personal information collected about you, or if you want to deactivate your Activision account, simply access your Activision account through https://www.activision.com/ or another product or service as applicable and edit your personal information. You will need your password to access your personal account. You may also send us an email asking us to deactivate your account at privacy@activision.com. 
-
-If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, you can send your request to us using the contact details set out in the Contacting Us section below. 
-
-Retention Period
-We delete your personal information which we process for the performance of the contract or based on your consent in case you terminate your contract with us, deactivate your Activision account, withdraw your consent or where you request us to delete your personal information in accordance with this Privacy Policy. As an exception, we will not delete your personal information where we still have a legitimate interest to use your personal information. For example, we may still retain your Information to resolve disputes, enforce our Terms of Use or other user agreements, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose. In any case, we will not retain or use your personal information longer than necessary for the purposes outlined in this Privacy Policy. Due to technical reasons, residual copies of Information that has been removed from your account and/or the Properties may remain in our backup systems for approximately one month."
 
 REFERENCE            eula_b_001
 LANG_ENGLISH         "Welcome to Activision's Privacy Policy. This Privacy Policy was last updated on January 1, 2020.
@@ -744,17 +635,92 @@ You can review your options to manage and opt-out of mobile advertising by (1) v
 
 Please note: adjusting your preferences as described in this section does not mean you will no longer receive advertisements, it only means the ads you do see will be less relevant to your interests. We will also still use your device???s advertising ID to serve you with ads that may be less relevant to you; for example, we may use this for frequency capping (in other words, to control the maximum number of times you see the same ad from us)."
 
-REFERENCE            password_req_char_number
-LANG_ENGLISH         "Contains at least 1 character and 1 number"
+REFERENCE            eula_b_002
+LANG_ENGLISH         "G. Buy Activision Products or Services Online
+Activision collects no credit card and/or billing information when you purchase products or services (such as digital content) online. However, you may have to provide credit card and/or billing information to one of our third-party vendors to complete a purchase. We encourage you to review the privacy policy of our third-party vendors before providing them with your personal information, as their privacy practices may vary from ours. At the time of purchase, in specific cases, you also have the option to provide Information (such as your email address) to Activision to send you additional information or offers.
 
-REFERENCE            marketplace_error
-LANG_ENGLISH         "Could not rename your account because there was an error with the marketplace."
+H. Social Media 
+You can interact with some Properties through social networking sites (or social media plug-ins and applications) ("Social Media"). When you interact with Activision and/or the Properties through Social Media you acknowledge that we access your Information, solely under your Social Media privacy settings, and use it to tailor content, marketing, and improve and adjust user experience relating to Activision Properties, and (1) give you exclusive content; (2) personalize your online experience with us within and outside our Properties; and (3) contact you under applicable marketing preferences through Social Media, including through providing tailored marketing, or directly by sending you the latest news, special offerings, and rewards. 
 
-REFERENCE            no_rename_token
-LANG_ENGLISH         "Could not rename your account because you do not currently have a rename token available."
+When you post personal information publicly through the Properties, or on Social Media, it will be viewable by other users of these sites and we cannot prevent further use of the personal information by third parties. For more information about how your Social Media uses and protects your personal information, please refer to their privacy policies and terms of use. 
 
-REFERENCE            coda_country_ru
-LANG_ENGLISH         "Russian Federation"
+Information Provided by Other Sources 
+We may also obtain Information, such as contact details (for example, name and email address), country, IP address, purchase histories, marketing preferences, cookie information, hardware and software information and other technical information about you from other sources, such as our affiliates, Social Media, our vendors (for example, event ticket providers and merchandise vendors), or partners (for example, advertisers, media partners or platform providers), and combine that Information with Information we have collected from or about you. We only collect Information from other sources where they have confirmed to us they are legally entitled to share it with us.
+
+We use Cookies to provide and support our Properties and each of the uses outlined and described above. Please see our Cookie Policy (https://www.activision.com/legal/cookie-policy) for more information.
+
+4. Children and Parents 
+
+Activision does not knowingly collect or store any personal information from children under 13 in the US or under the relevant age threshold in other jurisdictions where the child is located. However, we may collect technical information required for delivering the service and for the support of our internal operations from all users of our Properties. If parents believe that we have unintentionally collected their children???s other personal information or otherwise used their children???s personal information for another purpose, they may contact us via the Contacting Us section below.
+
+We recognize a special need to protect the personal information of children. We urge parents to instruct their children to never give out their real names, addresses, phone numbers, or other personal information without parental permission, when online. Activision also recommends that parents familiarize themselves with parental controls available on consoles, mobile telephones, tablets and other devices they provide to their child and accompany their child when online. Parents should contact Activision immediately if they have any concerns. Please see the Contacting Us section below for further details.
+
+5.  Your Choices 
+
+You have choices over the Information provided by you and by other sources, and how that Information is used by Activision. You can exercise your choices by updating your preferences at any time and also by managing your settings on your devices and third party accounts. 
+Your Choices About Information Provided by You 
+If you do not want to provide Activision with personal information, then you can choose not to provide it. If you choose not to provide us with personal information, we may not always be able to provide you with the Activision product or service you want. For example, without providing an email address, you cannot create an Activision account.
+
+Your Choices About Information Provided by Third Parties
+You may be able to control how third parties collect and share your Information by changing your preferences or opting out of collection directly with those third parties. Before disclosing Information to third parties, we recommend you check their respective privacy policies for further details.
+
+Your Choices About Activision Using Your Information
+You can exercise choices over how Activision uses your personal information and update your preferences at any time:
+
+to remove yourself from individual contests or promotions, or from receiving email marketing or newsletters from Activision, simply click the unsubscribe link in the email or access your account from https://www.activision.com/ and edit your email marketing preferences. You will need your password to access your account;
+
+to disable selected Cookies from collecting information relating to the effectiveness of advertising campaigns or analytics data and from serving you with personalized advertising on our Properties or third party properties please see our Cookie Policy (https://www.activision.com/legal/cookie-policy). 
+
+If you opt-out of receiving email marketing communications from us, please note we may still contact you occasionally about the status of your account, such as to inform you that your account may be expiring, or for other service related information.
+
+If you are a user in the European Economic Area (???EEA???) and would like to know more about your rights in connection with your personal information, please see the Users in the EEA section below.
+
+6. Sharing Information: 
+
+As set out below in more detail, Activision shares Information:
+
+with the various Activision group companies for the purposes described in this Privacy Policy;
+with vendors and partners engaged by Activision to provide you with goods or services you have requested or online advertising selected by us;
+if required to do so by applicable law, regulation or legal process;
+if necessary to exercise, establish or defend our legal rights; 
+if necessary to protect the rights, property or safety of any person; and
+in connection with the sale of our business or assets.
+
+Any information, including personal information you reveal in a bulletin board, message board, chat room or other public forum is publicly viewable.
+
+Vendors and Partners
+Vendors and partners provide goods and services (for example, platform providers, media partners, event ticket providers, merchandise vendors, survey providers, billing, consumer services support, consultancy, information technology hardware and software) to Activision to support, operate and develop the Properties and to deliver marketing communications on our behalf. Vendors use your Information to execute, deliver and/or occasionally improve the services they provide. We do not share Information with vendors to use for their own direct marketing purposes or any other purpose other than those set out in this section without your consent.
+
+Law
+We will disclose your Information in the good faith belief we must do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. 
+
+This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+
+Legal Rights
+We will disclose your Information where necessary for the purpose of exercising, establishing or defending our legal rights.  For example, we will review your gameplay, communications, and other account information to investigate allegations of cheating, hacking or any other breach or alleged breach of any applicable Terms of Use or this Privacy Policy and disclose your personal information, including communications, to our legal advisors, consultants and law enforcement or other government officials.
+
+Protecting Others
+We disclose your Information with third parties where we believe this is necessary to protect the rights, property or safety of any person. For example, we disclose Information relating to an online account if we in good faith believe the user of that account is using it in ways that are harmful to others (e.g. making inappropriate contact with minors). 
+
+Sale of Our Business or Assets
+Separately, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Activision's customer information including Information and communications may be transferred to our successor or assign.
+
+7.  Security
+
+Activision takes a range of security measures ???as set out in detail below ??? designed to help protect your Information. However, complete online and offline security can never be guaranteed, so you should always take care when sharing your information online.
+
+Activision takes a range of security measures designed to protect your personal information and keep it confidential (unless it is non-confidential by nature, for example, publicly-available information like user generated content, leaderboard rankings, and scores, etc.).  We also take steps to ensure that the personal information collected is protected from misuse and alteration. In addition, we request vendors who process personal information on our behalf to themselves take a range of security measures designed to help protect your personal information. However, the Internet by its nature is not a secure environment and the nature of security risks is constantly evolving, as are the technical and organizational industry standards relating to management of those risks. The complete security of any personal information collected, stored or used by us or our vendors cannot therefore be guaranteed.
+
+8.  Accessing Information and Retention Period
+
+As set out in more detail below, you can view, correct, update, or request the deletion of your personal information in any of your Activision accounts at any time. 
+
+If for any reason you wish to view, correct, or update personal information collected about you, or if you want to deactivate your Activision account, simply access your Activision account through https://www.activision.com/ or another product or service as applicable and edit your personal information. You will need your password to access your personal account. You may also send us an email asking us to deactivate your account at privacy@activision.com. 
+
+If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, you can send your request to us using the contact details set out in the Contacting Us section below. 
+
+Retention Period
+We delete your personal information which we process for the performance of the contract or based on your consent in case you terminate your contract with us, deactivate your Activision account, withdraw your consent or where you request us to delete your personal information in accordance with this Privacy Policy. As an exception, we will not delete your personal information where we still have a legitimate interest to use your personal information. For example, we may still retain your Information to resolve disputes, enforce our Terms of Use or other user agreements, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose. In any case, we will not retain or use your personal information longer than necessary for the purposes outlined in this Privacy Policy. Due to technical reasons, residual copies of Information that has been removed from your account and/or the Properties may remain in our backup systems for approximately one month."
 
 REFERENCE            eula_b_003
 LANG_ENGLISH         "9.  Contacting Us
@@ -920,11 +886,99 @@ if necessary to exercise, establish or defend our legal rights;
 if necessary to protect the vital interests of any person; and 
 in connection with the sale of our business or assets."
 
-REFERENCE            coda_country_gr
-LANG_ENGLISH         "Greece"
+REFERENCE            eula_b_004
+LANG_ENGLISH         "12. Your California Privacy Rights 
 
-REFERENCE            coda_country_hu
-LANG_ENGLISH         "Hungary"
+Without being discriminated against for exercising these rights, California residents have the right to request that we disclose what personal information we collect from you, to delete that information, and to opt-out of the sale of your personal information, subject to certain restrictions. You also have the right to designate an agent to exercise these rights on your behalf. This section describes how to exercise those rights and our process for handling those requests. 
+
+Right to Request Access to Your Personal Information
+California residents have the right to request, up to two times in a 12-month period, that we disclose what categories of your personal information that we collect, use, and share. You may also request the specific pieces of personal information that we have collected from you. Please note that certain information may be exempt from such requests under California law.
+
+Right to Request Deletion of Your Personal Information
+You may also request that we delete personal information that we collected from you. Some information may be exempt from such requests under California law. For example, we need certain types of information so that we can provide our Properties to you. If you ask us to delete it, you may no longer be able to access or use our Properties.
+
+How to Exercise Your Access and Deletion Rights
+California residents may exercise their California privacy rights by submitting your request to us here (https://support.activision.com/gdpr) or sending an email to ccparequests@activision.com.
+
+For security purposes, we will verify your identity ??? including requesting information from you -- when you request to exercise your California privacy rights. If you have an online account you use to interact with Activision, logging into your account will serve to verify your identity and request. We may request additional information if we believe your account has been compromised. If you do not have an account with us, or if we have reason to suspect that the security of your account is compromised, then we will request additional information from you to match with our existing records to verify your identity, depending on the nature of the request and the sensitivity of the information sought.
+
+Once we have verified your identity (and your agent, as applicable), we will respond to your request as appropriate. If we are unable to complete your requests, we will provide you information about the reasons that we could not comply with your request.
+
+Right to Nondiscrimination
+We will not deny, charge different prices for, or provide a different level of quality of goods or services if you choose to exercise these rights. 
+
+Sale of Personal Information
+California residents may opt out of the ???sale??? of their personal information, as defined by the CCPA. We have not sold personal information about you in the last 12 months, unless you have played Activision???s mobile games.  California law broadly defines ???sale??? in a way that may include when we allow third parties to receive certain information about mobile game use, such as Cookies, IP address, and/or browsing behavior, to deliver targeted advertising on the Properties or other services.  Advertising, including targeted advertising, enables us to provide you certain content for free and allows us to provide you offers relevant to you.  For mobile targeted advertising purposes this information includes: demographic and statistical information, user-generated content, device information and identifiers, connection and usage data, geolocation, and social media information.  To opt out of the use of your data for advertising purposes please see the Mobile Advertising section above. If you would like to opt out of Activision???s use of your information for purposes that may be considered a ???sale??? under California law, you may do so here (https://support.activision.com/gdpr).  You can also submit a sale opt-out request by emailing us ccparequests@activsion.com.    You may also opt out through the settings page of Activision mobile applications that may share your data for these purposes.  Please note that we do not knowingly sell the personal information of minors under 16 years of age without legally-required affirmative authorization.
+
+Authorized Agents
+You may also designate an agent to make requests to exercise your rights under the CCPA as described above. We will take steps both to verify the identity of the person seeking to exercise their rights as listed above, and to verify that your agent has been authorized to make a request on your behalf through providing us with a signed written authorization or a copy of a power of attorney.
+
+California Shine the Light Law
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an email to privacy@activision.com, or write us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy. We will be happy to honor your request.
+
+California Privacy Rights for Minor Users
+Since January 1, 2015, California Business and Professions Code Section 22581 permits you, if you are a California resident under the age of 18, to view, correct, or remove Information provided by you or publicly posted by you, by accessing your Activision account through https://www.activision.com/ or another product or service as applicable and editing/removing your Information. You will need your password to access your personal account. You may also send us an email asking us to remove certain posted content at privacy@activision.com. In the alternative, you may write to us at Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405 USA, ATTN: Privacy Team/Privacy Policy.
+We will be happy to review, update or remove Information and/or content as appropriate. Residual copies of Information and/or content that have been removed from your account and/or the Properties may remain in our backup systems for approximately one month. We may still retain your Information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose.
+Do Not Track
+California Business and Professions Code Section 22575(b) (as amended effective January 1, 2014) permits our customers who are California residents to be informed as to how Activision responds to Web browser "Do Not Track" settings. As Do Not Track is a standard that is currently being developed, Activision does not take actions to respond to Do Not Track settings, and instead we adhere to the standards set out in this Privacy Policy.   
+If you would like to find out more about Do Not Track you may find the following link useful: http://www.allaboutdnt.com/.
+
+13.  Privacy Information for Nevada Residents
+
+Under Nevada law, Nevada residents who have purchased goods or services from us may opt out of the ???sale??? of ???covered information??? (as such terms are defined under Nevada law) for monetary consideration to a person for that person to license or sell such information to additional persons. ???Covered information??? includes first and last name, address, email address, and phone number, or an identifier that allows a specific person to be contacted either physically or online.  As discussed above, we share your information with certain third parties that we believe can provide you with offers and promotions for products and service of interest to you and in the other ways described above. We do not believe that our sharing in this regard would qualify as a sale under Nevada law. Nonetheless, if you are a Nevada resident who has purchased goods or services from us, you may submit a request to record your preference to opt out by emailing us at individualrights@activision.com. Please note we may take reasonable steps to verify your identity and the authenticity of the request.
+
+14. Users in the EEA
+
+As set out in more detail below, we only process or transfer your personal information where we can rely on legal grounds and appropriate safeguards to do so. You also have additional rights regarding your personal information if you are located in the European Economic Area (???EEA???). 
+
+Legal Basis for Processing Your Personal Information
+We only process your personal information where we can rely on legal grounds to do so. We process your personal information for the purposes set out below.
+
+Performance of the Services
+We process your personal information for the performance of our services, to provide or support of our products, or for any other feature you request or enable. This includes, for example, using your personal information to: 
+administer your Activision Account; 
+provide contests or promotions in which you have enrolled; 
+support purchases you make; 
+support game functionality; 
+provide global customer service; or
+provide a fair gaming experience by using anti-fraud technologies such as bans or blocks of accounts. 
+
+Consent
+We process your personal information based on your consent. This includes, for example, providing:
+newsletters, direct e-mails and surveys about our Properties; 
+targeted ads in our mobile games; and 
+certain other marketing features.
+
+Legitimate Interest
+We process your personal information where we have a legitimate interest to do so. This includes, for example, processing:
+to provide you with requested customer service or technical support;
+to debug and improve our current and future Properties;
+in order to give you exclusive content, personalize your online experience with us and contact you in accordance with applicable marketing preferences; and
+for the establishment, exercise or defense of legal claims or whenever courts are acting in their judicial capacity.
+
+Legal Obligation
+We process your personal information for compliance with a legal obligation to which we are subject.  
+
+Your Rights to Your Personal Information
+You have the following rights in addition to your rights to view, correct, update, or request the deletion of your personal information as set out in detail in the Accessing Information section above. To access or delete your personal information, you can also make a request here (https://support.activision.com/gdpr?uil=en). 
+
+You may object to the processing of your personal information based on a legitimate interest on grounds relating to your particular situation. You may, in particular, control the extent to which we market to you and you have the right to request that we stop sending you marketing messages at any time. You can use the methods described in the Accessing Information section above.
+
+In certain circumstances, you can request that we transfer personal information that you have provided to us. You can send your request to us here (https://support.activision.com/gdpr?uil=en).
+
+Where we rely on your consent in order to process your personal information, you have the right to withdraw such consent to further use of your personal information at any time. You can use the methods described in the Accessing Information section above to update your marketing preferences.
+
+For each of the rights described above, you can also send your request to us by using the contact details set out in the Contacting Us section above. 
+
+We hope that we can satisfy queries you may have about the way we process your personal information. However, if you have unresolved concerns you also have the right to complain to data protection authorities. You can bring the complaint in your member state of residence, place of work or where an alleged infringement of data protection law occurred.
+
+International Transfers
+Your personal information will be transferred to and processed in the United States where many of our central databases operate or other countries where Activision group companies or vendors maintain facilities or business operations. We use European Commission approved contract clauses to protect your personal information. If you have questions, please contact us using the contact details set out in the Contacting Us section above.
+
+15. Disclosure to Users Outside the US and the EEA 
+
+In addition, if you are a visitor to our websites or other online products and services from outside the U.S., the personal information you provide will be collected, processed and stored directly on, or transferred to, servers in the United States or other countries where Activision group companies or our other partners or vendors maintain facilities or business operations. 
+No matter where the Information is located, Activision takes commercially reasonable measures to safeguard your privacy rights in accordance with this Privacy Policy. If you do not agree to the collection, processing, storage and transfer of your Information, please do not provide your Information when requested and stop using our websites and other online products and services."
 
 REFERENCE            eula_b_decline_message
 LANG_ENGLISH         "In order to create an account, you must accept the Privacy Policy"
@@ -938,11 +992,82 @@ LANG_ENGLISH         "First Name"
 REFERENCE            forgot_password
 LANG_ENGLISH         "Forgot Password"
 
+REFERENCE            forgot_password_url
+LANG_ENGLISH         "https://s.activision.com/activision/forgotPassword"
+
+REFERENCE            game_details
+LANG_ENGLISH         "Game Details"
+
+REFERENCE            generic_field_invalid
+LANG_ENGLISH         "Account could not be created due to an invalid field.  Please check your details and try again."
+
+REFERENCE            greeting
+LANG_ENGLISH         "Play With An Activision Account"
+
 REFERENCE            greeting_crossplay
 LANG_ENGLISH         "To play Call of Duty??: Modern Warfare?? you will need to login with an Activision account or sign up for a new one. Linking an Activision account enables crossplay and grants exclusive rewards. "
 
 REFERENCE            greeting_crossplay_korea
 LANG_ENGLISH         "To play Call of Duty??: Modern Warfare?? you will need to login with an Activision account or sign up for a new one. Linking an Activision account enables crossplay and grants exclusive rewards. You can still play within your current platform if you don???t sign up or log in Activision account. Your progress, character and inventory are bound by platform even if you play cross-play."
+
+REFERENCE            guest_account
+LANG_ENGLISH         "You cannot take this action with a guest account."
+
+REFERENCE            kr_marketing_opt_in
+LANG_ENGLISH         "I agree to receive news, updates, promotions and exclusive content by email from Activision. If we share this email info with 3rd parties(this 3rd party includes vendors who distributes emails on behalf of Activision), we need to disclose the entity name/country/contact info/purpose/retention period. ex. ???Your email address will be shared with and handled by ABC company (located in U.S. privacy@abc.com ) to send emails until you opt out or service ends.???"
+
+REFERENCE            kr_privacy_regulation
+LANG_ENGLISH         "Activision Publishing, Inc. ("Activision", located in the United States, contact: privacy@activision.com) collects and uses below information to provide cross-play, social-networking services. Activision transfers collected personal data overseas upon your usage of services by online transmission. You may refuse to enter your personal information, however, Activision???s cross-play service shall be restricted."
+
+REFERENCE            last_name
+LANG_ENGLISH         "Last Name"
+
+REFERENCE            logging_in
+LANG_ENGLISH         "Logging in to Activision Account"
+
+REFERENCE            login
+LANG_ENGLISH         "Login"
+
+REFERENCE            login_error_title
+LANG_ENGLISH         "Account Login Error"
+
+REFERENCE            login_title
+LANG_ENGLISH         "Login to an Activision Account"
+
+REFERENCE            marketing_opt_in
+LANG_ENGLISH         "By checking the box, you agree to receive news, updates, promotions and exclusive content by email from Activision. You agree to the use of pixel tags in the emails to measure open, click through and read rates and allow us to enhance the content and better understand your interests. You can unsubscribe from receiving news, updates, promotions and exclusive content from Activision at any time by CONTACTING US. You must be 18 years of age or older to agree.
+To contact us, you can send us an email at privacy@activision.com, or write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405, ATTN: Privacy Team/Privacy Policy."
+
+REFERENCE            marketing_opt_in_alt_de_pt
+LANG_ENGLISH         "By checking the box, you agree to receive news, updates, promotions and exclusive content by email from Activision. You agree to the use of pixel tags in the emails to measure open, click through and read rates and allow us to enhance the content and better understand your interests. You consent to the use of your email address so as to receive tailored ads. You can unsubscribe from receiving news, updates, promotions and exclusive content from Activision at any time by CONTACTING US. You must be 18 years of age or older to agree.
+To contact us, you can send us an email at privacy@activision.com, or write to us at: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405, ATTN: Privacy Team/Privacy Policy."
+
+REFERENCE            marketplace_error
+LANG_ENGLISH         "Could not rename your account because there was an error with the marketplace."
+
+REFERENCE            merge_conflict
+LANG_ENGLISH         "Account could not be linked because that Activision account is already linked to a different account of the same type.  If you believe this is in error please visit https://s.activision.com/activision/ to view the account."
+
+REFERENCE            mw_display_name
+LANG_ENGLISH         "Modern Warfare?? Display Name"
+
+REFERENCE            no_rename_token
+LANG_ENGLISH         "Could not rename your account because you do not currently have a rename token available."
+
+REFERENCE            no_thanks
+LANG_ENGLISH         "[DEV_ONLY] No Thanks"
+
+REFERENCE            password
+LANG_ENGLISH         "Password"
+
+REFERENCE            password_error_x
+LANG_ENGLISH         "Password: &&1"
+
+REFERENCE            password_invalid
+LANG_ENGLISH         "Account could not be created due to an invalid password.  Please try again with a different password."
+
+REFERENCE            password_req_char_number
+LANG_ENGLISH         "Contains at least 1 character and 1 number"
 
 REFERENCE            password_req_consecutive
 LANG_ENGLISH         "May not repeat the same character (e.g. aaa)"
@@ -1010,140 +1135,11 @@ LANG_ENGLISH         "Terms Of Use: https://www.activision.com/legal/terms-of-us
 REFERENCE            tokens_remaining
 LANG_ENGLISH         "Tokens remaining: &&1"
 
-REFERENCE            unlink_battlenet
-LANG_ENGLISH         "To unlink your Activision account from your BattleTag, please contact Activision Support by visiting https://www.callofduty.com/unlink. Please note, having a linked account is required for online play in Call of Duty??: Modern Warfare??."
-
-REFERENCE            unlink_xbox
-LANG_ENGLISH         "To unlink your Activision account from your Microsoft account, please contact Activision Support by visiting https://www.callofduty.com/unlink. Please note, having a linked account is required for online play in Call of Duty??: Modern Warfare??."
-
-REFERENCE            username_profanity
-LANG_ENGLISH         "Account could not be created because your username is inappropriate.  Please change your username.
-"
-
-REFERENCE            account_updated
-LANG_ENGLISH         "Activision account updated."
-
-REFERENCE            activision_id
-LANG_ENGLISH         "Activision ID"
-
-REFERENCE            anonymous_account_settings
-LANG_ENGLISH         "Account Settings"
-
-REFERENCE            change_name
-LANG_ENGLISH         "Change Display Name"
-
-REFERENCE            coda_country_ch
-LANG_ENGLISH         "Switzerland"
-
-REFERENCE            coda_country_cz
-LANG_ENGLISH         "Czech Republic"
-
-REFERENCE            coda_country_de
-LANG_ENGLISH         "Germany"
-
-REFERENCE            coda_country_dk
-LANG_ENGLISH         "Denmark"
-
-REFERENCE            coda_country_es
-LANG_ENGLISH         "Spain"
-
-REFERENCE            coda_country_fi
-LANG_ENGLISH         "Finland"
-
-REFERENCE            coda_country_fr
-LANG_ENGLISH         "France"
-
-REFERENCE            coda_country_gb
-LANG_ENGLISH         "Great Britain"
-
-REFERENCE            coda_country_hk
-LANG_ENGLISH         "Hong Kong"
-
-REFERENCE            coda_country_ie
-LANG_ENGLISH         "Ireland"
-
-REFERENCE            coda_country_it
-LANG_ENGLISH         "Italy"
-
-REFERENCE            coda_country_jp
-LANG_ENGLISH         "Japan"
-
-REFERENCE            coda_country_kr
-LANG_ENGLISH         "Korea"
-
-REFERENCE            coda_country_mx
-LANG_ENGLISH         "Mexico"
-
-REFERENCE            coda_country_nl
-LANG_ENGLISH         "Netherlands"
-
-REFERENCE            coda_country_no
-LANG_ENGLISH         "Norway"
-
-REFERENCE            coda_country_nz
-LANG_ENGLISH         "New Zealand"
-
-REFERENCE            coda_country_pl
-LANG_ENGLISH         "Poland"
-
-REFERENCE            coda_country_pt
-LANG_ENGLISH         "Portugal"
-
-REFERENCE            coda_country_sa
-LANG_ENGLISH         "Saudi Arabia"
-
-REFERENCE            coda_country_se
-LANG_ENGLISH         "Sweden"
-
-REFERENCE            coda_country_sg
-LANG_ENGLISH         "Singapore"
-
-REFERENCE            coda_country_tw
-LANG_ENGLISH         "Taiwan"
-
-REFERENCE            coda_country_us
-LANG_ENGLISH         "United States"
-
-REFERENCE            creation_cancelled
-LANG_ENGLISH         "Account Creation Cancelled"
-
-REFERENCE            display_name
-LANG_ENGLISH         "Display Name"
-
-REFERENCE            email
-LANG_ENGLISH         "Email"
-
-REFERENCE            email_error_x
-LANG_ENGLISH         "Email: &&1"
-
-REFERENCE            email_exists
-LANG_ENGLISH         "Account could not be created because the email you entered is already in use by another Activision account.  Please enter another email or go to https://s.activision.com/activision/ to recover your account.
-
-"
-
-REFERENCE            email_req_length
-LANG_ENGLISH         "Must be &&1-&&2 characters long."
-
-REFERENCE            email_req_symbols
-LANG_ENGLISH         "Must contain symbols &&1"
-
-REFERENCE            email_signup
-LANG_ENGLISH         "Email Sign Up"
-
-REFERENCE            error_change_username
-LANG_ENGLISH         "An error occurred while attempting to change your display name."
-
-REFERENCE            game_details
-LANG_ENGLISH         "Game Details"
-
-REFERENCE            generic_field_invalid
-LANG_ENGLISH         "Account could not be created due to an invalid field.  Please check your details and try again."
-
-REFERENCE            greeting
-LANG_ENGLISH         "Play With An Activision Account"
-
 REFERENCE            unauthorized_access
 LANG_ENGLISH         "Could not login to your Activision account because your password is incorrect.  Please renter your password and try again or visit https://s.activision.com/activision/ to recover your account."
+
+REFERENCE            unlink_battlenet
+LANG_ENGLISH         "To unlink your Activision account from your BattleTag, please contact Activision Support by visiting https://www.callofduty.com/unlink. Please note, having a linked account is required for online play in Call of Duty??: Modern Warfare??."
 
 REFERENCE            unlink_link
 LANG_ENGLISH         "To unlink your account, please visit: https://profile.callofduty.com/"
@@ -1151,11 +1147,18 @@ LANG_ENGLISH         "To unlink your account, please visit: https://profile.call
 REFERENCE            unlink_psn
 LANG_ENGLISH         "To unlink your Activision account from your account for PlayStation???Network, please contact Activision Support by visiting https://www.callofduty.com/unlink. Please note, having a linked account is required for online play in Call of Duty??: Modern Warfare??."
 
+REFERENCE            unlink_xbox
+LANG_ENGLISH         "To unlink your Activision account from your Microsoft account, please contact Activision Support by visiting https://www.callofduty.com/unlink. Please note, having a linked account is required for online play in Call of Duty??: Modern Warfare??."
+
 REFERENCE            use_keyboard
 LANG_ENGLISH         "Recommendation: if you have a keyboard available you can use it to enter the details below."
 
 REFERENCE            username_invalid
 LANG_ENGLISH         "Account could not be created due to an invalid username.  Please try again with a different username."
+
+REFERENCE            username_profanity
+LANG_ENGLISH         "Account could not be created because your username is inappropriate.  Please change your username.
+"
 
 REFERENCE            username_req_illegal_chars
 LANG_ENGLISH         "Cannot contain &&1"
@@ -1165,9 +1168,6 @@ LANG_ENGLISH         "Must contain &&1-&&2 characters"
 
 REFERENCE            username_req_single_glyph_limit
 LANG_ENGLISH         "Contains invalid glyph"
-
-REFERENCE            coda_country_ca
-LANG_ENGLISH         "Canada"
 
 
 ENDMARKER

@@ -2,98 +2,98 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            van_enter
-LANG_ENGLISH         "Enter Van"
-
-REFERENCE            van_driver_enter
-LANG_ENGLISH         "Drive Van"
-
-REFERENCE            technical_enter
-LANG_ENGLISH         "Enter Technical Truck"
-
-REFERENCE            technical_driver_enter
-LANG_ENGLISH         "Drive Technical Truck"
-
-REFERENCE            tac_rover_enter
-LANG_ENGLISH         "Enter Tactical Rover"
-
-REFERENCE            tac_rover_driver_enter
-LANG_ENGLISH         "Drive Tactical Rover"
-
-REFERENCE            pickup_truck_enter
-LANG_ENGLISH         "Enter Pickup Truck"
-
-REFERENCE            pickup_truck_driver_enter
-LANG_ENGLISH         "Drive Pickup Truck"
-
-REFERENCE            med_transport_enter
-LANG_ENGLISH         "Enter Medical Transport"
-
-REFERENCE            med_transport_driver_enter
-LANG_ENGLISH         "Drive Medical Transport"
-
-REFERENCE            little_bird_pilot_enter
-LANG_ENGLISH         "Pilot Heli"
-
-REFERENCE            little_bird_gunner_enter
-LANG_ENGLISH         "Gun for Heli"
-
-REFERENCE            little_bird_enter
-LANG_ENGLISH         "Enter Heli"
-
-REFERENCE            large_transport_enter
-LANG_ENGLISH         "Enter Personel Transport"
-
-REFERENCE            large_transport_driver_enter
-LANG_ENGLISH         "Drive Personel Transport"
-
-REFERENCE            jeep_enter
-LANG_ENGLISH         "Enter SUV"
-
-REFERENCE            jeep_driver_enter
-LANG_ENGLISH         "Drive SUV"
-
-REFERENCE            hoopty_truck_enter
-LANG_ENGLISH         "Enter Box Truck"
-
-REFERENCE            hoopty_truck_driver_enter
-LANG_ENGLISH         "Drive Box Truck"
-
-REFERENCE            hoopty_enter
-LANG_ENGLISH         "Enter Hoopty"
-
-REFERENCE            hoopty_driver_enter
-LANG_ENGLISH         "Drive Hoopty"
-
-REFERENCE            cop_car_enter
-LANG_ENGLISH         "Enter Police Car"
-
-REFERENCE            cop_car_driver_enter
-LANG_ENGLISH         "Drive Police Car"
-
-REFERENCE            cargo_truck_enter
-LANG_ENGLISH         "Enter Cargo Truck"
-
-REFERENCE            cargo_truck_driver_enter
-LANG_ENGLISH         "Drive Cargo Truck"
-
-REFERENCE            big_bird_pilot_enter
-LANG_ENGLISH         "Pilot Bit Bird"
-
-REFERENCE            big_bird_enter
-LANG_ENGLISH         "Enter Big Bird"
-
-REFERENCE            atv_enter
-LANG_ENGLISH         "Enter ATV"
-
-REFERENCE            atv_driver_enter
-LANG_ENGLISH         "Drive ATV"
+REFERENCE            apc_rus_driver_enter
+LANG_ENGLISH         "Drive APC"
 
 REFERENCE            apc_rus_enter
 LANG_ENGLISH         "Enter APC"
 
-REFERENCE            apc_rus_driver_enter
-LANG_ENGLISH         "Drive APC"
+REFERENCE            atv_driver_enter
+LANG_ENGLISH         "Drive ATV"
+
+REFERENCE            atv_enter
+LANG_ENGLISH         "Enter ATV"
+
+REFERENCE            big_bird_enter
+LANG_ENGLISH         "Enter Big Bird"
+
+REFERENCE            big_bird_pilot_enter
+LANG_ENGLISH         "Pilot Bit Bird"
+
+REFERENCE            cargo_truck_driver_enter
+LANG_ENGLISH         "Drive Cargo Truck"
+
+REFERENCE            cargo_truck_enter
+LANG_ENGLISH         "Enter Cargo Truck"
+
+REFERENCE            cop_car_driver_enter
+LANG_ENGLISH         "Drive Police Car"
+
+REFERENCE            cop_car_enter
+LANG_ENGLISH         "Enter Police Car"
+
+REFERENCE            hoopty_driver_enter
+LANG_ENGLISH         "Drive Hoopty"
+
+REFERENCE            hoopty_enter
+LANG_ENGLISH         "Enter Hoopty"
+
+REFERENCE            hoopty_truck_driver_enter
+LANG_ENGLISH         "Drive Box Truck"
+
+REFERENCE            hoopty_truck_enter
+LANG_ENGLISH         "Enter Box Truck"
+
+REFERENCE            jeep_driver_enter
+LANG_ENGLISH         "Drive SUV"
+
+REFERENCE            jeep_enter
+LANG_ENGLISH         "Enter SUV"
+
+REFERENCE            large_transport_driver_enter
+LANG_ENGLISH         "Drive Personel Transport"
+
+REFERENCE            large_transport_enter
+LANG_ENGLISH         "Enter Personel Transport"
+
+REFERENCE            little_bird_enter
+LANG_ENGLISH         "Enter Heli"
+
+REFERENCE            little_bird_gunner_enter
+LANG_ENGLISH         "Gun for Heli"
+
+REFERENCE            little_bird_pilot_enter
+LANG_ENGLISH         "Pilot Heli"
+
+REFERENCE            med_transport_driver_enter
+LANG_ENGLISH         "Drive Medical Transport"
+
+REFERENCE            med_transport_enter
+LANG_ENGLISH         "Enter Medical Transport"
+
+REFERENCE            pickup_truck_driver_enter
+LANG_ENGLISH         "Drive Pickup Truck"
+
+REFERENCE            pickup_truck_enter
+LANG_ENGLISH         "Enter Pickup Truck"
+
+REFERENCE            tac_rover_driver_enter
+LANG_ENGLISH         "Drive Tactical Rover"
+
+REFERENCE            tac_rover_enter
+LANG_ENGLISH         "Enter Tactical Rover"
+
+REFERENCE            technical_driver_enter
+LANG_ENGLISH         "Drive Technical Truck"
+
+REFERENCE            technical_enter
+LANG_ENGLISH         "Enter Technical Truck"
+
+REFERENCE            van_driver_enter
+LANG_ENGLISH         "Drive Van"
+
+REFERENCE            van_enter
+LANG_ENGLISH         "Enter Van"
 
 
 ENDMARKER

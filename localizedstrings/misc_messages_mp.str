@@ -2,252 +2,252 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            to_axis_wmd_start_1
-LANG_ENGLISH         "Spring the trap and finish them!"
+REFERENCE            alerted
+LANG_ENGLISH         "Alerted"
 
-REFERENCE            to_axis_wmd_pre_1
-LANG_ENGLISH         "They have forced our hand.  Prepare to release the gas."
+REFERENCE            axe
+LANG_ENGLISH         "Axe Pickup"
 
-REFERENCE            to_axis_sam_start_1
-LANG_ENGLISH         "Fire at will! Defend the base at all cost!"
+REFERENCE            buddy_boost_end
+LANG_ENGLISH         "- Buddy Boost"
 
-REFERENCE            to_axis_sam_pre_1
-LANG_ENGLISH         "We are turning our SAMs towards the city, prepare for target acquisition."
+REFERENCE            buddy_boost_start
+LANG_ENGLISH         "+ Buddy Boost"
 
-REFERENCE            to_axis_hstg_start_1a
-LANG_ENGLISH         "Infidels on the move - intercept them and grab Fayad!"
+REFERENCE            healing_players
+LANG_ENGLISH         "Healing Players"
 
-REFERENCE            to_axis_hstg_pre_1b
-LANG_ENGLISH         "We've been holding prisoners from the local militia in the hospital."
+REFERENCE            in_healing_range
+LANG_ENGLISH         "In Healing Range"
 
-REFERENCE            to_axis_hstg_pre_1
-LANG_ENGLISH         "We've been holding prisoners from the local militia in the hospital."
+REFERENCE            no_healing_players
+LANG_ENGLISH         "No Longer Healing Players"
 
-REFERENCE            to_axis_hstg_end_2b
-LANG_ENGLISH         "The traitors have paid the ultimate price.  Thank you."
+REFERENCE            out_of_healing_range
+LANG_ENGLISH         "Out of Healing Range"
 
-REFERENCE            to_axis_hstg_end_2a
-LANG_ENGLISH         "You failed to execute all the traitors.  Stand by."
+REFERENCE            scavenger
+LANG_ENGLISH         "Ammo Pickup"
 
-REFERENCE            to_axis_hstg_defend_1
-LANG_ENGLISH         "Destroy the Helicopter before it escapes!"
+REFERENCE            scavenger_equipment
+LANG_ENGLISH         "Equipment Pickup"
 
-REFERENCE            to_axis_dd_start_1
-LANG_ENGLISH         "We're sending reinforcements - defend Fayad's safehouse until it arrives!"
+REFERENCE            spotted
+LANG_ENGLISH         "Spotted"
 
-REFERENCE            to_axis_dd_pre_1
-LANG_ENGLISH         "Western forces spotted outside the city - our chemist Fayad must be their target!"
+REFERENCE            throwing_knife
+LANG_ENGLISH         "Knife Pickup"
 
-REFERENCE            to_axis_dd_mid_2
-LANG_ENGLISH         "Fayad is exposed, protect him!"
+REFERENCE            to_ally_air_end_1a
+LANG_ENGLISH         "Forward base established, nice work."
 
-REFERENCE            to_axis_dd_mid_1
-LANG_ENGLISH         "They blew the doors off the wrong safehouse!  Don't let them hit the other one."
+REFERENCE            to_ally_air_end_1b
+LANG_ENGLISH         "Hawk is down! Repeat: Hawk is down!"
 
-REFERENCE            to_axis_dd_escape_2
-LANG_ENGLISH         "Minister Fayad is moving to the helo - protect him!"
+REFERENCE            to_ally_air_pre_1
+LANG_ENGLISH         "Prepare to evac Fayad - stand by for coordinates."
 
-REFERENCE            to_axis_dd_escape_1
-LANG_ENGLISH         "Helo approaching the safehouse.  Prepare Fayad for extraction."
+REFERENCE            to_ally_air_start_1
+LANG_ENGLISH         "The birds have arrived.  Use them to push through the blockades."
 
-REFERENCE            to_axis_dd_end_1c
-LANG_ENGLISH         "Fall back to the hospital.  We'll teach the infidels to stay out of our city."
+REFERENCE            to_ally_bhd_pre_1
+LANG_ENGLISH         "Pilot: Mayday..shot down in city square...sole survivor....need extraction."
 
-REFERENCE            to_axis_dd_end_1b
-LANG_ENGLISH         "Fayad made it out alive!  That will show those dogs."
+REFERENCE            to_ally_bhd_start_1
+LANG_ENGLISH         "Get the pilot out before the enemy gets him!"
 
-REFERENCE            to_axis_dd_end_1a
-LANG_ENGLISH         "They got Fayad - fall back and regroup!"
+REFERENCE            to_ally_blitz_pre_1
+LANG_ENGLISH         "Armored reinforcements en route, get ready to move!"
 
-REFERENCE            to_axis_blitz_start_1
-LANG_ENGLISH         "Scouts are reporting heavy armor!"
+REFERENCE            to_ally_blitz_start_1
+LANG_ENGLISH         "Break through with the Tanks, you have to succeed this time!"
 
-REFERENCE            to_axis_blitz_pre_1
-LANG_ENGLISH         "We have the advantage - keep them contained!"
+REFERENCE            to_ally_dd_end_1a
+LANG_ENGLISH         "We have Fayad in custody - good job."
 
-REFERENCE            to_axis_bhd_start_1
-LANG_ENGLISH         "Grab the pilot and extract him!"
+REFERENCE            to_ally_dd_end_1b
+LANG_ENGLISH         "Fayad has escaped - revising mission paramaters.  Stand by."
 
-REFERENCE            to_axis_bhd_pre_1
-LANG_ENGLISH         "Informant: Someone is moving at the crash site - it looks like the pilot."
+REFERENCE            to_ally_dd_end_1c
+LANG_ENGLISH         "Enemies converging on the hospital - we think they are holding ally militia prisoners there."
 
-REFERENCE            to_axis_air_start_1
-LANG_ENGLISH         "Those damn helicopters are here.  Get to the RPG stashes and shoot them down!"
+REFERENCE            to_ally_dd_escape_1
+LANG_ENGLISH         "Enemy helicopter spotted - they are going to airlift him out!"
 
-REFERENCE            to_axis_air_pre_1
-LANG_ENGLISH         "We have to stop them from leaving the city with our chemist."
+REFERENCE            to_ally_dd_escape_2
+LANG_ENGLISH         "Fayad is on the move - don't let him escape!"
 
-REFERENCE            to_axis_air_end_1b
-LANG_ENGLISH         "Enemy air support has been grounded."
+REFERENCE            to_ally_dd_mid_1
+LANG_ENGLISH         "Fayad wasn't in that safehouse.  Get to the other one!"
 
-REFERENCE            to_axis_air_end_1a
-LANG_ENGLISH         "They got through, fall back!"
+REFERENCE            to_ally_dd_mid_2
+LANG_ENGLISH         "We located Fayad, take him out!"
 
-REFERENCE            to_ally_wmd_start_1
-LANG_ENGLISH         "Be advised, enemy has bio weapon capability!"
+REFERENCE            to_ally_dd_pre_1
+LANG_ENGLISH         "Fayad the Chemist will be in the safehouse - stand by."
 
-REFERENCE            to_ally_wmd_pre_1
-LANG_ENGLISH         "That was easy - maybe too easy."
+REFERENCE            to_ally_dd_start_1
+LANG_ENGLISH         "Safehouse found - two entrances identified.  Blow the door and get him out."
 
-REFERENCE            to_ally_sam_start_1
-LANG_ENGLISH         "Take out those SAM launchers!"
+REFERENCE            to_ally_hstg_defend_1
+LANG_ENGLISH         "Defend the Helicopter until it extracts Fayad!"
 
-REFERENCE            to_ally_sam_pre_1
-LANG_ENGLISH         "Artillery incoming!"
+REFERENCE            to_ally_hstg_end_2a
+LANG_ENGLISH         "We evacuated some survivors - nice work. They are already sharing intel."
 
-REFERENCE            to_ally_role_stealth_2
-LANG_ENGLISH         "You move silently and are invisible to enemy UAVs and SIGINT operators."
+REFERENCE            to_ally_hstg_end_2b
+LANG_ENGLISH         "The hostages are dead. Stand by."
 
-REFERENCE            to_ally_role_stealth_1
-LANG_ENGLISH         "Stealth Operator confirmed."
+REFERENCE            to_ally_hstg_pre_1
+LANG_ENGLISH         "Hostages confirmed in the hospital - they're going to kill them in retaliation."
 
-REFERENCE            to_ally_role_sigint_3
-LANG_ENGLISH         "You may also request UAV intelligence reports."
+REFERENCE            to_ally_hstg_start_1a
+LANG_ENGLISH         "Take the Chemist to the LZ - we'll send in chopper extraction."
 
-REFERENCE            to_ally_role_sigint_2
-LANG_ENGLISH         "When you locate an enemy his position will be relayed to your teammates."
+REFERENCE            to_ally_role_air_1
+LANG_ENGLISH         "You are now authorized as your squad???s Air Support operator."
 
-REFERENCE            to_ally_role_sigint_1
-LANG_ENGLISH         "You are now authorized as your squad???s SIGINT operator."
+REFERENCE            to_ally_role_air_2
+LANG_ENGLISH         "You may request Apache air support as it becomes available."
 
-REFERENCE            to_ally_role_medic_2
-LANG_ENGLISH         "You now instantly revive downed teammates, and can distribute supply kits."
+REFERENCE            to_ally_role_artillery_1
+LANG_ENGLISH         "You are now authorized as your squad???s Field Artillery operator."
 
-REFERENCE            to_ally_role_medic_1
-LANG_ENGLISH         "You are now authorized as your squad's Medic."
+REFERENCE            to_ally_role_artillery_2
+LANG_ENGLISH         "You may deploy cruise missile as they become available."
 
-REFERENCE            to_ally_role_jugg_2
-LANG_ENGLISH         "You may equip Juggernaut suits as they become available."
+REFERENCE            to_ally_role_command_1
+LANG_ENGLISH         "Your role has been acknowledged Commander  - you are now authorized to activate Tactical Deployment Beacons."
 
-REFERENCE            to_ally_role_jugg_1
-LANG_ENGLISH         "You are now authorized as your squad???s Ordinance Disposal expert."
+REFERENCE            to_ally_role_command_2
+LANG_ENGLISH         "When you place a Tactical Deployment Beacon reinforcements can spawn on them."
+
+REFERENCE            to_ally_role_engineer_1
+LANG_ENGLISH         "You are now authorized as your squad???s Combat Engineer."
 
 REFERENCE            to_ally_role_engineer_2
 LANG_ENGLISH         "You may deploy Mounted Turret Defenses as they becomes available.
 "
 
-REFERENCE            to_ally_role_engineer_1
-LANG_ENGLISH         "You are now authorized as your squad???s Combat Engineer."
+REFERENCE            to_ally_role_jugg_1
+LANG_ENGLISH         "You are now authorized as your squad???s Ordinance Disposal expert."
 
-REFERENCE            to_ally_role_command_2
-LANG_ENGLISH         "When you place a Tactical Deployment Beacon reinforcements can spawn on them."
+REFERENCE            to_ally_role_jugg_2
+LANG_ENGLISH         "You may equip Juggernaut suits as they become available."
 
-REFERENCE            to_ally_role_command_1
-LANG_ENGLISH         "Your role has been acknowledged Commander  - you are now authorized to activate Tactical Deployment Beacons."
+REFERENCE            to_ally_role_medic_1
+LANG_ENGLISH         "You are now authorized as your squad's Medic."
 
-REFERENCE            to_ally_role_artillery_2
-LANG_ENGLISH         "You may deploy cruise missile as they become available."
+REFERENCE            to_ally_role_medic_2
+LANG_ENGLISH         "You now instantly revive downed teammates, and can distribute supply kits."
 
-REFERENCE            to_ally_role_artillery_1
-LANG_ENGLISH         "You are now authorized as your squad???s Field Artillery operator."
+REFERENCE            to_ally_role_sigint_1
+LANG_ENGLISH         "You are now authorized as your squad???s SIGINT operator."
 
-REFERENCE            to_ally_role_air_2
-LANG_ENGLISH         "You may request Apache air support as it becomes available."
+REFERENCE            to_ally_role_sigint_2
+LANG_ENGLISH         "When you locate an enemy his position will be relayed to your teammates."
 
-REFERENCE            to_ally_role_air_1
-LANG_ENGLISH         "You are now authorized as your squad???s Air Support operator."
+REFERENCE            to_ally_role_sigint_3
+LANG_ENGLISH         "You may also request UAV intelligence reports."
 
-REFERENCE            to_ally_hstg_start_1a
-LANG_ENGLISH         "Take the Chemist to the LZ - we'll send in chopper extraction."
+REFERENCE            to_ally_role_stealth_1
+LANG_ENGLISH         "Stealth Operator confirmed."
 
-REFERENCE            to_ally_hstg_pre_1
-LANG_ENGLISH         "Hostages confirmed in the hospital - they're going to kill them in retaliation."
+REFERENCE            to_ally_role_stealth_2
+LANG_ENGLISH         "You move silently and are invisible to enemy UAVs and SIGINT operators."
 
-REFERENCE            to_ally_hstg_end_2b
-LANG_ENGLISH         "The hostages are dead. Stand by."
+REFERENCE            to_ally_sam_pre_1
+LANG_ENGLISH         "Artillery incoming!"
 
-REFERENCE            to_ally_hstg_end_2a
-LANG_ENGLISH         "We evacuated some survivors - nice work. They are already sharing intel."
+REFERENCE            to_ally_sam_start_1
+LANG_ENGLISH         "Take out those SAM launchers!"
 
-REFERENCE            to_ally_hstg_defend_1
-LANG_ENGLISH         "Defend the Helicopter until it extracts Fayad!"
+REFERENCE            to_ally_wmd_pre_1
+LANG_ENGLISH         "That was easy - maybe too easy."
 
-REFERENCE            to_ally_dd_start_1
-LANG_ENGLISH         "Safehouse found - two entrances identified.  Blow the door and get him out."
+REFERENCE            to_ally_wmd_start_1
+LANG_ENGLISH         "Be advised, enemy has bio weapon capability!"
 
-REFERENCE            to_ally_dd_pre_1
-LANG_ENGLISH         "Fayad the Chemist will be in the safehouse - stand by."
+REFERENCE            to_axis_air_end_1a
+LANG_ENGLISH         "They got through, fall back!"
 
-REFERENCE            to_ally_dd_mid_2
-LANG_ENGLISH         "We located Fayad, take him out!"
+REFERENCE            to_axis_air_end_1b
+LANG_ENGLISH         "Enemy air support has been grounded."
 
-REFERENCE            to_ally_dd_mid_1
-LANG_ENGLISH         "Fayad wasn't in that safehouse.  Get to the other one!"
+REFERENCE            to_axis_air_pre_1
+LANG_ENGLISH         "We have to stop them from leaving the city with our chemist."
 
-REFERENCE            to_ally_dd_escape_2
-LANG_ENGLISH         "Fayad is on the move - don't let him escape!"
+REFERENCE            to_axis_air_start_1
+LANG_ENGLISH         "Those damn helicopters are here.  Get to the RPG stashes and shoot them down!"
 
-REFERENCE            to_ally_dd_escape_1
-LANG_ENGLISH         "Enemy helicopter spotted - they are going to airlift him out!"
+REFERENCE            to_axis_bhd_pre_1
+LANG_ENGLISH         "Informant: Someone is moving at the crash site - it looks like the pilot."
 
-REFERENCE            to_ally_dd_end_1c
-LANG_ENGLISH         "Enemies converging on the hospital - we think they are holding ally militia prisoners there."
+REFERENCE            to_axis_bhd_start_1
+LANG_ENGLISH         "Grab the pilot and extract him!"
 
-REFERENCE            to_ally_dd_end_1b
-LANG_ENGLISH         "Fayad has escaped - revising mission paramaters.  Stand by."
+REFERENCE            to_axis_blitz_pre_1
+LANG_ENGLISH         "We have the advantage - keep them contained!"
 
-REFERENCE            to_ally_dd_end_1a
-LANG_ENGLISH         "We have Fayad in custody - good job."
+REFERENCE            to_axis_blitz_start_1
+LANG_ENGLISH         "Scouts are reporting heavy armor!"
 
-REFERENCE            to_ally_blitz_start_1
-LANG_ENGLISH         "Break through with the Tanks, you have to succeed this time!"
+REFERENCE            to_axis_dd_end_1a
+LANG_ENGLISH         "They got Fayad - fall back and regroup!"
 
-REFERENCE            to_ally_blitz_pre_1
-LANG_ENGLISH         "Armored reinforcements en route, get ready to move!"
+REFERENCE            to_axis_dd_end_1b
+LANG_ENGLISH         "Fayad made it out alive!  That will show those dogs."
 
-REFERENCE            to_ally_bhd_start_1
-LANG_ENGLISH         "Get the pilot out before the enemy gets him!"
+REFERENCE            to_axis_dd_end_1c
+LANG_ENGLISH         "Fall back to the hospital.  We'll teach the infidels to stay out of our city."
 
-REFERENCE            to_ally_bhd_pre_1
-LANG_ENGLISH         "Pilot: Mayday..shot down in city square...sole survivor....need extraction."
+REFERENCE            to_axis_dd_escape_1
+LANG_ENGLISH         "Helo approaching the safehouse.  Prepare Fayad for extraction."
 
-REFERENCE            to_ally_air_start_1
-LANG_ENGLISH         "The birds have arrived.  Use them to push through the blockades."
+REFERENCE            to_axis_dd_escape_2
+LANG_ENGLISH         "Minister Fayad is moving to the helo - protect him!"
 
-REFERENCE            to_ally_air_pre_1
-LANG_ENGLISH         "Prepare to evac Fayad - stand by for coordinates."
+REFERENCE            to_axis_dd_mid_1
+LANG_ENGLISH         "They blew the doors off the wrong safehouse!  Don't let them hit the other one."
 
-REFERENCE            to_ally_air_end_1b
-LANG_ENGLISH         "Hawk is down! Repeat: Hawk is down!"
+REFERENCE            to_axis_dd_mid_2
+LANG_ENGLISH         "Fayad is exposed, protect him!"
 
-REFERENCE            to_ally_air_end_1a
-LANG_ENGLISH         "Forward base established, nice work."
+REFERENCE            to_axis_dd_pre_1
+LANG_ENGLISH         "Western forces spotted outside the city - our chemist Fayad must be their target!"
 
-REFERENCE            throwing_knife
-LANG_ENGLISH         "Knife Pickup"
+REFERENCE            to_axis_dd_start_1
+LANG_ENGLISH         "We're sending reinforcements - defend Fayad's safehouse until it arrives!"
 
-REFERENCE            spotted
-LANG_ENGLISH         "Spotted"
+REFERENCE            to_axis_hstg_defend_1
+LANG_ENGLISH         "Destroy the Helicopter before it escapes!"
 
-REFERENCE            scavenger_equipment
-LANG_ENGLISH         "Equipment Pickup"
+REFERENCE            to_axis_hstg_end_2a
+LANG_ENGLISH         "You failed to execute all the traitors.  Stand by."
 
-REFERENCE            scavenger
-LANG_ENGLISH         "Ammo Pickup"
+REFERENCE            to_axis_hstg_end_2b
+LANG_ENGLISH         "The traitors have paid the ultimate price.  Thank you."
 
-REFERENCE            out_of_healing_range
-LANG_ENGLISH         "Out of Healing Range"
+REFERENCE            to_axis_hstg_pre_1
+LANG_ENGLISH         "We've been holding prisoners from the local militia in the hospital."
 
-REFERENCE            no_healing_players
-LANG_ENGLISH         "No Longer Healing Players"
+REFERENCE            to_axis_hstg_pre_1b
+LANG_ENGLISH         "We've been holding prisoners from the local militia in the hospital."
 
-REFERENCE            in_healing_range
-LANG_ENGLISH         "In Healing Range"
+REFERENCE            to_axis_hstg_start_1a
+LANG_ENGLISH         "Infidels on the move - intercept them and grab Fayad!"
 
-REFERENCE            healing_players
-LANG_ENGLISH         "Healing Players"
+REFERENCE            to_axis_sam_pre_1
+LANG_ENGLISH         "We are turning our SAMs towards the city, prepare for target acquisition."
 
-REFERENCE            buddy_boost_start
-LANG_ENGLISH         "+ Buddy Boost"
+REFERENCE            to_axis_sam_start_1
+LANG_ENGLISH         "Fire at will! Defend the base at all cost!"
 
-REFERENCE            buddy_boost_end
-LANG_ENGLISH         "- Buddy Boost"
+REFERENCE            to_axis_wmd_pre_1
+LANG_ENGLISH         "They have forced our hand.  Prepare to release the gas."
 
-REFERENCE            axe
-LANG_ENGLISH         "Axe Pickup"
-
-REFERENCE            alerted
-LANG_ENGLISH         "Alerted"
+REFERENCE            to_axis_wmd_start_1
+LANG_ENGLISH         "Spring the trap and finish them!"
 
 
 ENDMARKER

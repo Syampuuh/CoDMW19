@@ -2,98 +2,98 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            review_cod_point_options
-LANG_ENGLISH         "Review your Call of Duty Points options below."
-
-REFERENCE            bundle_items_included_weapon_charm
-LANG_ENGLISH         "&&1x Weapon Charm(s)"
-
-REFERENCE            bundle_items_included_weapon
-LANG_ENGLISH         "&&1x Weapon(s)"
-
-REFERENCE            bundle_items_included_vehicle_sticker
-LANG_ENGLISH         "&&1x Vehicle Sticker(s)"
-
-REFERENCE            bundle_items_included_vehicle_camo
-LANG_ENGLISH         "&&1x Vehicle Skin(s)"
-
-REFERENCE            bundle_items_included_super
-LANG_ENGLISH         "&&1x Super(s)"
-
-REFERENCE            bundle_items_included_sticker
-LANG_ENGLISH         "&&1x Sticker(s)"
-
-REFERENCE            bundle_items_included_spray
-LANG_ENGLISH         "&&1x Spray(s)"
-
-REFERENCE            bundle_items_included_special
-LANG_ENGLISH         "&&1x Special(s)"
-
-REFERENCE            bundle_items_included_role
-LANG_ENGLISH         "&&1x Role(s)"
-
-REFERENCE            bundle_items_included_reticle
-LANG_ENGLISH         "&&1x Reticle(s)"
-
-REFERENCE            bundle_items_included_playercard
-LANG_ENGLISH         "&&1x Calling Card(s)"
-
-REFERENCE            bundle_items_included_perk
-LANG_ENGLISH         "&&1x Perk(s)"
-
-REFERENCE            bundle_items_included_operator_skin
-LANG_ENGLISH         "&&1x Operator Skin(s)"
-
-REFERENCE            bundle_items_included_operator_quip
-LANG_ENGLISH         "&&1x Operator Quip(s)"
-
-REFERENCE            bundle_items_included_operator
-LANG_ENGLISH         "&&1x Operator(s)"
-
-REFERENCE            bundle_items_included_mission
-LANG_ENGLISH         "&&1x Mission(s)"
-
-REFERENCE            bundle_items_included_killstreak
-LANG_ENGLISH         "&&1x Killstreak(s)"
-
-REFERENCE            bundle_items_included_intro
-LANG_ENGLISH         "&&1x Intro(s)"
-
-REFERENCE            bundle_items_included_gesture
-LANG_ENGLISH         "&&1x Gesture(s)"
-
-REFERENCE            bundle_items_included_firstpartylicence
-LANG_ENGLISH         "&&1x First Party Licence(s)"
-
-REFERENCE            bundle_items_included_feature
-LANG_ENGLISH         "&&1x Feature(s)"
-
-REFERENCE            bundle_items_included_execution
-LANG_ENGLISH         "&&1x Execution(s)"
-
-REFERENCE            bundle_items_included_equipment
-LANG_ENGLISH         "&&1x Equipment(s)"
-
-REFERENCE            bundle_items_included_emblem
-LANG_ENGLISH         "&&1x Emblem(s)"
-
-REFERENCE            bundle_items_included_consumable
-LANG_ENGLISH         "&&1x Consumable(s)"
-
-REFERENCE            bundle_items_included_camo
-LANG_ENGLISH         "&&1x Camo(s)"
-
-REFERENCE            bundle_items_included_bundle
-LANG_ENGLISH         "&&1x Bundle(s)"
-
-REFERENCE            bundle_items_included_battlepass
-LANG_ENGLISH         "&&1x Battle Pass"
+REFERENCE            bundle_items_included_accessory
+LANG_ENGLISH         "&&1x Accessory(s)"
 
 REFERENCE            bundle_items_included_attachment
 LANG_ENGLISH         "&&1x Attachment(s)"
 
-REFERENCE            bundle_items_included_accessory
-LANG_ENGLISH         "&&1x Accessory(s)"
+REFERENCE            bundle_items_included_battlepass
+LANG_ENGLISH         "&&1x Battle Pass"
+
+REFERENCE            bundle_items_included_bundle
+LANG_ENGLISH         "&&1x Bundle(s)"
+
+REFERENCE            bundle_items_included_camo
+LANG_ENGLISH         "&&1x Camo(s)"
+
+REFERENCE            bundle_items_included_consumable
+LANG_ENGLISH         "&&1x Consumable(s)"
+
+REFERENCE            bundle_items_included_emblem
+LANG_ENGLISH         "&&1x Emblem(s)"
+
+REFERENCE            bundle_items_included_equipment
+LANG_ENGLISH         "&&1x Equipment(s)"
+
+REFERENCE            bundle_items_included_execution
+LANG_ENGLISH         "&&1x Execution(s)"
+
+REFERENCE            bundle_items_included_feature
+LANG_ENGLISH         "&&1x Feature(s)"
+
+REFERENCE            bundle_items_included_firstpartylicence
+LANG_ENGLISH         "&&1x First Party Licence(s)"
+
+REFERENCE            bundle_items_included_gesture
+LANG_ENGLISH         "&&1x Gesture(s)"
+
+REFERENCE            bundle_items_included_intro
+LANG_ENGLISH         "&&1x Intro(s)"
+
+REFERENCE            bundle_items_included_killstreak
+LANG_ENGLISH         "&&1x Killstreak(s)"
+
+REFERENCE            bundle_items_included_mission
+LANG_ENGLISH         "&&1x Mission(s)"
+
+REFERENCE            bundle_items_included_operator
+LANG_ENGLISH         "&&1x Operator(s)"
+
+REFERENCE            bundle_items_included_operator_quip
+LANG_ENGLISH         "&&1x Operator Quip(s)"
+
+REFERENCE            bundle_items_included_operator_skin
+LANG_ENGLISH         "&&1x Operator Skin(s)"
+
+REFERENCE            bundle_items_included_perk
+LANG_ENGLISH         "&&1x Perk(s)"
+
+REFERENCE            bundle_items_included_playercard
+LANG_ENGLISH         "&&1x Calling Card(s)"
+
+REFERENCE            bundle_items_included_reticle
+LANG_ENGLISH         "&&1x Reticle(s)"
+
+REFERENCE            bundle_items_included_role
+LANG_ENGLISH         "&&1x Role(s)"
+
+REFERENCE            bundle_items_included_special
+LANG_ENGLISH         "&&1x Special(s)"
+
+REFERENCE            bundle_items_included_spray
+LANG_ENGLISH         "&&1x Spray(s)"
+
+REFERENCE            bundle_items_included_sticker
+LANG_ENGLISH         "&&1x Sticker(s)"
+
+REFERENCE            bundle_items_included_super
+LANG_ENGLISH         "&&1x Super(s)"
+
+REFERENCE            bundle_items_included_vehicle_camo
+LANG_ENGLISH         "&&1x Vehicle Skin(s)"
+
+REFERENCE            bundle_items_included_vehicle_sticker
+LANG_ENGLISH         "&&1x Vehicle Sticker(s)"
+
+REFERENCE            bundle_items_included_weapon
+LANG_ENGLISH         "&&1x Weapon(s)"
+
+REFERENCE            bundle_items_included_weapon_charm
+LANG_ENGLISH         "&&1x Weapon Charm(s)"
+
+REFERENCE            review_cod_point_options
+LANG_ENGLISH         "Review your Call of Duty Points options below."
 
 
 ENDMARKER

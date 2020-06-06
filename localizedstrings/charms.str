@@ -2,123 +2,6 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            cos_391
-LANG_ENGLISH         "COS_391"
-
-REFERENCE            cos_393
-LANG_ENGLISH         "COS_393"
-
-REFERENCE            cos_396
-LANG_ENGLISH         "COS_396"
-
-REFERENCE            cos_398
-LANG_ENGLISH         "COS_398"
-
-REFERENCE            cos_381
-LANG_ENGLISH         "COS_381"
-
-REFERENCE            cos_386
-LANG_ENGLISH         "COS_386"
-
-REFERENCE            cos_400
-LANG_ENGLISH         "COS_400"
-
-REFERENCE            cos_249
-LANG_ENGLISH         "Shades"
-
-REFERENCE            cos_378
-LANG_ENGLISH         "COS_378"
-
-REFERENCE            cos_377
-LANG_ENGLISH         "COS_377"
-
-REFERENCE            cos_376
-LANG_ENGLISH         "COS_376"
-
-REFERENCE            cos_375
-LANG_ENGLISH         "COS_375"
-
-REFERENCE            cos_374
-LANG_ENGLISH         "COS_374"
-
-REFERENCE            cos_373
-LANG_ENGLISH         "COS_373"
-
-REFERENCE            cos_372
-LANG_ENGLISH         "COS_372"
-
-REFERENCE            cos_371
-LANG_ENGLISH         "COS_371"
-
-REFERENCE            cos_370
-LANG_ENGLISH         "COS_370"
-
-REFERENCE            cos_369
-LANG_ENGLISH         "COS_369"
-
-REFERENCE            cos_368
-LANG_ENGLISH         "COS_368"
-
-REFERENCE            cos_367
-LANG_ENGLISH         "COS_367"
-
-REFERENCE            cos_366
-LANG_ENGLISH         "COS_366"
-
-REFERENCE            cos_365
-LANG_ENGLISH         "COS_365"
-
-REFERENCE            cos_364
-LANG_ENGLISH         "COS_364"
-
-REFERENCE            cos_363
-LANG_ENGLISH         "COS_363"
-
-REFERENCE            cos_362
-LANG_ENGLISH         "COS_362"
-
-REFERENCE            cos_361
-LANG_ENGLISH         "COS_361"
-
-REFERENCE            cos_379
-LANG_ENGLISH         "COS_379"
-
-REFERENCE            cos_380
-LANG_ENGLISH         "COS_380"
-
-REFERENCE            cos_382
-LANG_ENGLISH         "COS_382"
-
-REFERENCE            cos_383
-LANG_ENGLISH         "COS_383"
-
-REFERENCE            cos_385
-LANG_ENGLISH         "COS_385"
-
-REFERENCE            cos_387
-LANG_ENGLISH         "COS_387"
-
-REFERENCE            cos_388
-LANG_ENGLISH         "COS_388"
-
-REFERENCE            cos_390
-LANG_ENGLISH         "COS_390"
-
-REFERENCE            cos_392
-LANG_ENGLISH         "COS_392"
-
-REFERENCE            cos_394
-LANG_ENGLISH         "COS_394"
-
-REFERENCE            cos_395
-LANG_ENGLISH         "COS_395"
-
-REFERENCE            cos_397
-LANG_ENGLISH         "COS_397"
-
-REFERENCE            cos_399
-LANG_ENGLISH         "COS_399"
-
 REFERENCE            cos_001
 LANG_ENGLISH         "50 Cal"
 
@@ -641,6 +524,12 @@ LANG_ENGLISH         "Empty Calories"
 REFERENCE            cos_174
 LANG_ENGLISH         "Festive"
 
+REFERENCE            cos_175
+LANG_ENGLISH         "Chibi Operator"
+
+REFERENCE            cos_176
+LANG_ENGLISH         "COS_176"
+
 REFERENCE            cos_177
 LANG_ENGLISH         "MACK8"
 
@@ -856,6 +745,9 @@ LANG_ENGLISH         "Dallas Empire"
 
 REFERENCE            cos_248
 LANG_ENGLISH         "Seattle Surge"
+
+REFERENCE            cos_249
+LANG_ENGLISH         "Shades"
 
 REFERENCE            cos_250
 LANG_ENGLISH         "Good Boy"
@@ -1190,17 +1082,125 @@ LANG_ENGLISH         "COS_359"
 REFERENCE            cos_360
 LANG_ENGLISH         "COS_360"
 
-REFERENCE            cos_389
-LANG_ENGLISH         "COS_389"
+REFERENCE            cos_361
+LANG_ENGLISH         "COS_361"
+
+REFERENCE            cos_362
+LANG_ENGLISH         "COS_362"
+
+REFERENCE            cos_363
+LANG_ENGLISH         "COS_363"
+
+REFERENCE            cos_364
+LANG_ENGLISH         "COS_364"
+
+REFERENCE            cos_365
+LANG_ENGLISH         "COS_365"
+
+REFERENCE            cos_366
+LANG_ENGLISH         "COS_366"
+
+REFERENCE            cos_367
+LANG_ENGLISH         "COS_367"
+
+REFERENCE            cos_368
+LANG_ENGLISH         "COS_368"
+
+REFERENCE            cos_369
+LANG_ENGLISH         "COS_369"
+
+REFERENCE            cos_370
+LANG_ENGLISH         "COS_370"
+
+REFERENCE            cos_371
+LANG_ENGLISH         "COS_371"
+
+REFERENCE            cos_372
+LANG_ENGLISH         "COS_372"
+
+REFERENCE            cos_373
+LANG_ENGLISH         "COS_373"
+
+REFERENCE            cos_374
+LANG_ENGLISH         "COS_374"
+
+REFERENCE            cos_375
+LANG_ENGLISH         "COS_375"
+
+REFERENCE            cos_376
+LANG_ENGLISH         "COS_376"
+
+REFERENCE            cos_377
+LANG_ENGLISH         "COS_377"
+
+REFERENCE            cos_378
+LANG_ENGLISH         "COS_378"
+
+REFERENCE            cos_379
+LANG_ENGLISH         "COS_379"
+
+REFERENCE            cos_380
+LANG_ENGLISH         "COS_380"
+
+REFERENCE            cos_381
+LANG_ENGLISH         "COS_381"
+
+REFERENCE            cos_382
+LANG_ENGLISH         "COS_382"
+
+REFERENCE            cos_383
+LANG_ENGLISH         "COS_383"
 
 REFERENCE            cos_384
 LANG_ENGLISH         "COS_384"
 
-REFERENCE            cos_176
-LANG_ENGLISH         "COS_176"
+REFERENCE            cos_385
+LANG_ENGLISH         "COS_385"
 
-REFERENCE            cos_175
-LANG_ENGLISH         "Chibi Operator"
+REFERENCE            cos_386
+LANG_ENGLISH         "COS_386"
+
+REFERENCE            cos_387
+LANG_ENGLISH         "COS_387"
+
+REFERENCE            cos_388
+LANG_ENGLISH         "COS_388"
+
+REFERENCE            cos_389
+LANG_ENGLISH         "COS_389"
+
+REFERENCE            cos_390
+LANG_ENGLISH         "COS_390"
+
+REFERENCE            cos_391
+LANG_ENGLISH         "COS_391"
+
+REFERENCE            cos_392
+LANG_ENGLISH         "COS_392"
+
+REFERENCE            cos_393
+LANG_ENGLISH         "COS_393"
+
+REFERENCE            cos_394
+LANG_ENGLISH         "COS_394"
+
+REFERENCE            cos_395
+LANG_ENGLISH         "COS_395"
+
+REFERENCE            cos_396
+LANG_ENGLISH         "COS_396"
+
+REFERENCE            cos_397
+LANG_ENGLISH         "COS_397"
+
+REFERENCE            cos_398
+LANG_ENGLISH         "COS_398"
+
+REFERENCE            cos_399
+LANG_ENGLISH         "COS_399"
+
+REFERENCE            cos_400
+LANG_ENGLISH         "COS_400"
 
 
 ENDMARKER

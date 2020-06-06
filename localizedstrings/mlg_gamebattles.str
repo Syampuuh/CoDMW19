@@ -2,349 +2,187 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            welcome
-LANG_ENGLISH         "Welcome to MLG GameBattles!"
+REFERENCE            active_match
+LANG_ENGLISH         "[Active]"
 
-REFERENCE            terms_of_service
-LANG_ENGLISH         "Terms of Service"
+REFERENCE            best_x_out_of_y
+LANG_ENGLISH         "Best of &&1"
 
-REFERENCE            team_members_partial
-LANG_ENGLISH         "This team is missing players."
+REFERENCE            cannot_connect
+LANG_ENGLISH         "There was an error connecting to GameBattles."
 
-REFERENCE            team_members_full
-LANG_ENGLISH         "This team has all of its players."
+REFERENCE            cannot_host_game
+LANG_ENGLISH         "You are not permitted to host the GameBattles match lobby because you have a Strict NAT.  You may join the lobby after another player has hosted it."
 
-REFERENCE            team_members_empty
-LANG_ENGLISH         "This team is not currently in the match."
+REFERENCE            cannot_join_game
+LANG_ENGLISH         "The GameBattles match could not be joined at this time. Please try again."
 
-REFERENCE            team_codcasters_name
-LANG_ENGLISH         "CODCASTERS"
+REFERENCE            caps
+LANG_ENGLISH         "GAMEBATTLES"
 
-REFERENCE            status_prematch
-LANG_ENGLISH         "Time before match: &&1"
+REFERENCE            codcasters_empty
+LANG_ENGLISH         "CODCASTERS absent"
 
-REFERENCE            status_noshow
-LANG_ENGLISH         "Match countdown: &&1"
+REFERENCE            codcasters_full
+LANG_ENGLISH         "All CODCASTERS present"
 
-REFERENCE            splitscreen_warning
-LANG_ENGLISH         "All split screen players must be removed in order to participate in GameBattles matches."
+REFERENCE            codcasters_none
+LANG_ENGLISH         "None expected"
 
-REFERENCE            set_match_id
-LANG_ENGLISH         "Set match ID &&1 as your active match?"
+REFERENCE            codcasters_partial
+LANG_ENGLISH         "Missing Codcasters"
 
-REFERENCE            set_as_current
-LANG_ENGLISH         "SET AS ACTIVE"
+REFERENCE            confirm_back_out
+LANG_ENGLISH         "Your match is about to start. Are you sure you want to leave?"
 
-REFERENCE            seconds_short
-LANG_ENGLISH         "Secs"
+REFERENCE            countdown
+LANG_ENGLISH         "COUNTDOWN"
 
-REFERENCE            schedule_refresh_prompt
-LANG_ENGLISH         "[{ui_alt1}] Refresh matches"
+REFERENCE            countdown_game_launch
+LANG_ENGLISH         "Game &&1 Launch"
 
-REFERENCE            schedule_refresh_desc
-LANG_ENGLISH         "Refresh your match list to get your newest matches and information."
+REFERENCE            countdown_game_number
+LANG_ENGLISH         "Game &&1"
 
-REFERENCE            schedule_refresh
-LANG_ENGLISH         "Refresh Matches"
+REFERENCE            countdown_next_match
+LANG_ENGLISH         "Upcoming Match"
 
-REFERENCE            schedule_map_number
-LANG_ENGLISH         "Map &&1"
+REFERENCE            countdown_time_string
+LANG_ENGLISH         "In &&1 hours &&2 minutes &&3 seconds"
 
-REFERENCE            schedule_button_desc
-LANG_ENGLISH         "View all of your upcoming GameBattles matches or change your active match."
+REFERENCE            current_match_id
+LANG_ENGLISH         "GameBattles Match ID"
 
-REFERENCE            premium
-LANG_ENGLISH         "PREMIUM"
+REFERENCE            current_position
+LANG_ENGLISH         "CURRENT POSITION"
 
-REFERENCE            popup_plug_input
-LANG_ENGLISH         "Please plug in a controller that matches the input device set for this match."
+REFERENCE            data_error
+LANG_ENGLISH         "There was an error saving game results for GameBattles match (&&1). Please report the results manually via GameBattles if the match is not automatically reported upon completion."
 
-REFERENCE            players_numbers
-LANG_ENGLISH         "&&1 Player(s)"
+REFERENCE            data_host_sending
+LANG_ENGLISH         "Game results for GameBattles match (&&1) have been reported successfully."
 
-REFERENCE            pause_team_victory
-LANG_ENGLISH         "&&1 won 1 game"
+REFERENCE            data_sent
+LANG_ENGLISH         "Game results for GameBattles match (&&1) have been reported successfully."
 
-REFERENCE            pause_team_victories
-LANG_ENGLISH         "&&1 won &&2 games"
+REFERENCE            days_short
+LANG_ENGLISH         "Days"
 
-REFERENCE            pause_match_id
-LANG_ENGLISH         "GameBattles Match ID &&1"
+REFERENCE            disband_party
+LANG_ENGLISH         "Disband party and enter GameBattles?"
 
-REFERENCE            pause_game_progress
-LANG_ENGLISH         "Currently playing game &&1 of &&2"
+REFERENCE            fence_mlgaccount
+LANG_ENGLISH         "Fetching MLG account information..."
 
-REFERENCE            out_of_lobby
-LANG_ENGLISH         "The GameBattles lobby host has left."
+REFERENCE            fence_mlgschedule
+LANG_ENGLISH         "Fetching GameBattles matches..."
 
-REFERENCE            no_upcoming_match
-LANG_ENGLISH         "No scheduled match available.
-
-Please visit GameBattles.com to schedule your next match."
-
-REFERENCE            no_social_privileges
-LANG_ENGLISH         "The current profile's social network privacy settings do not allow it to enter MLG GameBattles."
-
-REFERENCE            no_show_countdown_time_string
-LANG_ENGLISH         "No Show: In &&1 minutes &&2 seconds"
-
-REFERENCE            no_scheduled_match
-LANG_ENGLISH         "NO MATCH"
-
-REFERENCE            no_dedicated_server
-LANG_ENGLISH         "Match ID &&1 can not be played due to a dedicated server not being available."
-
-REFERENCE            next_match_lower
-LANG_ENGLISH         "Next Match"
-
-REFERENCE            next_match
-LANG_ENGLISH         "NEXT MATCH"
-
-REFERENCE            months_short
-LANG_ENGLISH         "Months"
-
-REFERENCE            mlgtos_title
-LANG_ENGLISH         "Major League Gaming Privacy Policy"
-
-REFERENCE            mlgtos_button
-LANG_ENGLISH         "Privacy Policy"
-
-REFERENCE            mlgtos_agreement_text_036
-LANG_ENGLISH         "12. Disclosure to Users Outside the US 
+REFERENCE            forfeit_team_absent
+LANG_ENGLISH         "Your opponent ( &&1 ) has not shown up to play their match ( &&2 ).
  
-In addition, if you are a visitor to our websites or other online products and services from outside the U.S., the personal information you provide may be collected, processed and stored directly on, or transferred to, servers in the United States or other countries where MLG, Activision Blizzard group companies or vendors maintain facilities or business operations. 
- 
-No matter where the Information is located, MLG takes all commercially reasonable measures to safeguard your privacy rights in accordance with this Privacy Policy. If you do not agree to the collection, processing, storage and transfer of your information, please do not provide your information when requested and stop using our websites and other online products and services."
+A report will be sent automatically to GameBattles.
+You can take a screenshot of this message as a security. If there's an issue with the result of the forfeit, please submit a ticket for your match with the screenshot of this message."
 
-REFERENCE            mlgtos_agreement_text_035
-LANG_ENGLISH         "California Privacy Rights for Minor Users 
- 
-Since January 1, 2015, California Business and Professions Code Section 22581 permits you, if you are a California resident under the age of 18, to view, correct, or delete information provided by you or publicly posted by you. You may do this by simply accessing your MLG account through http://www.majorleaguegaming.com/ or other product or service as applicable and editing/deleting your Information. You will need your password to access your personal account. You may also send us an email asking us to delete certain posted content at privacy@majorleaguegaming.com. In the alternative, you may write to us at Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. 
- 
-We will be happy to review, update or remove information and/or content as appropriate. Residual copies of information and/or content that have been deleted from your account and/or the Properties may remain in our backup systems for approximately one month. We may still retain your information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose."
+REFERENCE            game_joined
+LANG_ENGLISH         "GAME JOINED"
 
-REFERENCE            mlgtos_agreement_text_034
-LANG_ENGLISH         "11. California Privacy Rights 
- 
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an email to privacy@majorleaguegaming.com, or write us at:  Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. We will be happy to honor your request."
+REFERENCE            game_won_line
+LANG_ENGLISH         "Map &&1 of &&2 has been won by:"
 
-REFERENCE            mlgtos_agreement_text_033
-LANG_ENGLISH         "10.  Important Notice 
- 
-For privacy related information applicable to users who are California residents or based outside the US please see below. 
- 
-Please note your use of this MLG website, product or service is also subject to the terms of the MLG Terms of Service."
+REFERENCE            gamebattles_tournament_list
+LANG_ENGLISH         "Sony Tournament List"
 
-REFERENCE            mlgtos_agreement_text_032
-LANG_ENGLISH         "9.  Contacting Us 
- 
-This Privacy Policy applies between you and Major League Gaming, Inc. You can contact us at privacy@majorleaguegaming.com, or write to us at:  Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. 
- 
-You may also contact ESRB Privacy Certified if you have a question or complaint that has not been resolved to your satisfaction. Please see the ESRB Privacy Certified Program section at the top of this Privacy Policy for further details."
+REFERENCE            games_played
+LANG_ENGLISH         "&&1 games out of &&2 have been played."
 
-REFERENCE            mlgtos_agreement_text_031
-LANG_ENGLISH         "If you have any questions about the Information we process about you, or if you wish to view, update or delete your personal information, you can send your request to privacy@majorleaguegaming.com. Alternatively, you may write to us at: Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. We will be happy to review, update or remove Information as appropriate. 
- 
-We will retain your personal information for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Residual copies of Information that has been deleted from your account may remain in our backup systems for approximately one month. We may still retain your Information to resolve disputes, enforce our Terms of Service or other user agreements, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose."
+REFERENCE            hours_short
+LANG_ENGLISH         "Hours"
 
-REFERENCE            mlgtos_agreement_text_030
-LANG_ENGLISH         "8.  Accessing Information 
- 
-You can access, update or delete your personal information in your MLG account at any time. 
- 
-If for any reason you wish to view, correct, update or delete personal information collected about you, simply access your MLG account through http://www.majorleaguegaming.com/ and edit/delete your personal information. You will need your password to access your personal account. You may also send us an email asking us to delete your account at privacy@majorleaguegaming.com."
+REFERENCE            intermission_countdown_time_string
+LANG_ENGLISH         "Intermission: &&1 minutes &&2 seconds"
 
-REFERENCE            mlgtos_agreement_text_029
-LANG_ENGLISH         "7.  Security 
- 
-MLG takes a range of security measures designed to help protect your Information. However, complete online and offline security can never be guaranteed, so you should always take care when sharing your information online. 
- 
-MLG takes a range of security measures designed to protect your personal information and keep it confidential (unless it is non-confidential by nature, for example, publicly-available information like user generated content, competition rankings and scores, etc.).  We also take steps to ensure that the personal information collected is protected from misuse and alteration. In addition, we request vendors who process personal information on our behalf to themselves take a range of security measures designed to help protect your personal information. However, the Internet by its nature is not a secure environment and the nature of security risks is constantly evolving, as are the technical and organizational industry standards relating to management of those risks. The complete security of any personal information collected, stored or used by us or our vendors cannot therefore be guaranteed."
+REFERENCE            join_by_id_button
+LANG_ENGLISH         "JOIN MATCH BY ID"
 
-REFERENCE            mlgtos_agreement_text_028
-LANG_ENGLISH         "Vital Interests 
- 
-We may disclose your Information with third parties where we believe this is necessary to protect the vital interests of any person.  For example, we may disclose Information relating to an online account if we in good faith believe the user of that account is using it in ways that are harmful to others (e.g. making inappropriate contact with minors). 
- 
-Sale of Our Business or Assets 
- 
-Separately, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, MLG's customer information including Information and communications may be transferred to our successor or assign."
+REFERENCE            join_match
+LANG_ENGLISH         "JOIN MATCH"
 
-REFERENCE            mlgtos_agreement_text_027
-LANG_ENGLISH         "Legal Rights 
- 
-We may disclose your Information where necessary for the purpose of exercising, establishing or defending our legal rights.  For example, we may review your communications and other account information in order to investigate allegations of hacking or any other breach or alleged breach of any applicable Terms of Service or this Privacy Policy and disclose your personal information, including communications, to our legal advisors, consultants and law enforcement or other government officials."
+REFERENCE            joining_game
+LANG_ENGLISH         "JOINING GAMEBATTLES GAME"
 
-REFERENCE            mlgtos_agreement_text_026
-LANG_ENGLISH         "Law 
- 
-We may disclose your Information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. 
- 
-This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards."
+REFERENCE            leave_game_desc
+LANG_ENGLISH         "Are you sure you want to leave your GameBattles match?"
 
-REFERENCE            mlgtos_agreement_text_025
-LANG_ENGLISH         "Vendors 
- 
-Vendors provide goods and services (for example, billing, consumer services support, consultancy, information technology hardware and software) to MLG in order to support, operate and develop the Properties and to deliver marketing communications on our behalf. We do not share Information with vendors to use for their own direct marketing purposes or any other purpose without your consent, except those outlined above and to execute, deliver and/or improve the services they provide. 
- 
-Third Parties 
- 
-Other third parties may need your Information in order to provide goods and/or services you have requested, for example, to deliver MLG products that you have purchased through our Properties."
+REFERENCE            leave_match
+LANG_ENGLISH         "LEAVE MATCH"
 
-REFERENCE            mlgtos_agreement_text_024
-LANG_ENGLISH         "6. Sharing Information: 
- 
-MLG may share Information: 
- 
-- with the various Activision Blizzard group companies for the purposes described in this Privacy Policy;
-- with vendors and partners engaged by MLG in order to provide you with goods or services you have requested or online advertising selected by us;
-- if required to do so by applicable law or regulation;
-- if necessary to exercise, establish or defend our legal rights;
-- if necessary to protect the vital interests of any person; and
-- in connection with the sale of our business or assets. 
- 
-Please note that any information, including personal information that you reveal in a bulletin board, message board, chat room or other public forum is publicly viewable."
+REFERENCE            leave_match_lobby
+LANG_ENGLISH         "Leave match?"
 
-REFERENCE            mlgtos_agreement_text_023
-LANG_ENGLISH         "- to remove yourself from receiving email marketing or newsletters from MLG, simply click the unsubscribe link in the email or access your account from http://www.majorleaguegaming.com/ and edit your email marketing preferences. You will need your password to access your account; 
-- to disable selected Cookies from collecting information relating to the effectiveness of advertising campaigns or analytics data and from serving you with personalized advertising on our Properties or third party properties please see our Cookie Policy. 
- 
-If you opt-out of receiving email marketing communications from us, please note we may still contact you occasionally about the status of your account, such as to inform you that your account may be expiring, or for other service related information."
+REFERENCE            leave_menu
+LANG_ENGLISH         "Leave GameBattles?"
 
-REFERENCE            mlgtos_agreement_text_022
-LANG_ENGLISH         "Your Choices About Information Provided by Third Parties 
- 
-You may be able to control how third parties collect and share your Information by changing your preferences or opting out of collection directly with those third parties. Before disclosing Information to third parties, we recommend you check their respective privacy policies for further details.
- 
-Your Choices About MLG Using Your Information 
- 
-You can exercise choices over how MLG uses your personal information and update your preferences at any time:"
+REFERENCE            legal_agreement_caption
+LANG_ENGLISH         "By clicking ???Continue??? and using GameBattles, you agree to the sharing of your personal information with Major League Gaming Corp."
 
-REFERENCE            mlgtos_agreement_text_021
-LANG_ENGLISH         "5.  Your Choices 
- 
-You have choices over the Information provided by you and by other sources, and how that Information is used by MLG. You can exercise your choices by updating your preferences at any time and also by managing your settings on your devices and third party accounts. 
- 
-Your Choices About Information Provided by You  
- 
-If you do not want to provide MLG with personal information, then you can choose not to provide it. Please note that if you choose not to provide us with personal information, we may not be able to provide you with the relevant MLG product or service that you want. For example, without providing personal information, you may not be able to use the Properties and/or create an MLG account."
+REFERENCE            match_expired
+LANG_ENGLISH         "Your match ( &&1 ) has expired."
 
-REFERENCE            mlgtos_agreement_text_020
-LANG_ENGLISH         "4. Children and Parents 
- 
-MLG does not knowingly collect or store any personal information from children under 13. 
- 
-We recognize a special need to protect the personal information of children. We urge parents to instruct their children to never give out their real names, addresses, phone numbers, or other personal information without parental permission, when online. MLG also recommends that parents familiarize themselves with parental controls available on consoles, mobile telephones, tablets and other devices they provide to their child and accompany their child if aged under 13 years of age when online. Parents should contact MLG immediately if they have any concerns. Please see the Contacting Us section below for further details."
+REFERENCE            match_history_fail
+LANG_ENGLISH         "Loading match history failed. Please try again later."
 
-REFERENCE            mlgtos_agreement_text_019
-LANG_ENGLISH         "Information Provided by Other Sources 
- 
-We may also obtain Information about you from other sources, such as Social Media, our vendors, partners, and network advertising companies, and combine that Information with Information we have collected from or about you. We only collect Information from other sources where they have confirmed to us they are legally entitled to share it with us. 
- 
-We use Cookies to provide and support our Properties and each of the uses outlined and described above. Please see our Cookie Policy  for more information."
+REFERENCE            match_id
+LANG_ENGLISH         "Enter your GameBattles Match ID"
 
-REFERENCE            mlgtos_agreement_text_018
-LANG_ENGLISH         "H. Social Media 
- 
-You can interact with some Properties through social networking sites, such as Facebook and Twitter (or social media plug-ins and applications) ("Social Media"). When you interact with MLG and/or the Properties through Social Media you acknowledge that we may access your Information, solely in accordance with your Social Media privacy settings, and use it to (1) create an MLG account, or link your Social Media account to your MLG account; (2) give you exclusive content; (2) personalize your online experience with us within and outside our Properties; and (3) contact you in accordance with applicable marketing preferences through Social Media or directly by sending you the latest news, special offerings, and rewards. 
- 
-When you post personal information publicly through the Properties (e.g., on your MLG public profile or using publicly accessible forums and community tools), or on Social Media, it may be viewable by other users of these sites and we cannot prevent further use of the personal information by third parties. For more information about how your Social Media uses and protects your personal information, please refer to their privacy policies and terms of use."
+REFERENCE            match_id_label
+LANG_ENGLISH         "Match ID"
 
-REFERENCE            mlgtos_agreement_text_017
-LANG_ENGLISH         "G. Chat rooms, Message Boards and Forums 
- 
-From time to time, MLG may make chat rooms, message boards, forums, blogs, news groups and other publicly accessible forums and community tools available to you. From time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Properties, including, without limitation, these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. Accordingly, you should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may use publicly posted information."
+REFERENCE            match_id_prompt
+LANG_ENGLISH         "Please enter your GameBattles Match ID"
 
-REFERENCE            mlgtos_agreement_text_016
-LANG_ENGLISH         "F. Buy MLG Products or Services Online 
- 
-MLG does not collect any credit card and/or billing information when you purchase products or services online, or when you participate in certain services (e.g., Gamebattles). However, you may be required to provide credit card and/or billing information to one of our third-party vendors in order to complete a purchase or receive a prize. We encourage you to review the privacy policy of our third-party vendors before providing them with your personal information, as their privacy practices may vary from ours."
+REFERENCE            match_in_progress
+LANG_ENGLISH         "In progress"
 
-REFERENCE            mlgtos_agreement_text_015
-LANG_ENGLISH         "E. Receive Newsletters on Products and Services, Receive Marketing Emails, and/or Surveys 
- 
-MLG may offer you the ability to receive newsletters periodically by email about our products and services. At any time, you can manage your preferences from your account settings and stop receiving further newsletters or marketing emails by unsubscribing from the link in the footer of each email we send to you. 
- 
-We may, from time to time, send you surveys in order to improve consumer experience with our services."
+REFERENCE            match_info
+LANG_ENGLISH         "MATCH INFO"
 
-REFERENCE            mlgtos_agreement_text_014
-LANG_ENGLISH         "D. Interact with Customer Service 
- 
-In order to provide you with customer service and assist you with resolving any issues you may have, MLG may collect Information from you including your contact details, together with details of your customer service issue and its resolution."
+REFERENCE            match_name_label
+LANG_ENGLISH         "Match Name"
 
-REFERENCE            mlgtos_agreement_text_013
-LANG_ENGLISH         "C. Sweepstakes, Contests, and Promotions 
- 
-When MLG runs contests or promotions on our Properties, we may collect certain Information from participants such as their name, address, postal code, email address, phone number, age and/or date of birth, or other information or content submitted by you. We may also need to collect additional information in order for you to claim a prize. That Information may be combined with other account information and will be used and shared in accordance with this Privacy Policy."
+REFERENCE            match_result_additional_information
+LANG_ENGLISH         "A report will be sent automatically to GameBattles."
 
-REFERENCE            mlgtos_agreement_text_012
-LANG_ENGLISH         "B. Use of Our Properties 
- 
-When you visit or use our Properties we may collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, gameplay data, purchase histories, and Social Media data. We may use Cookies and/or similar technologies (collectively referred to as ???Cookies???) to do this.  In addition, we or our partners may also use Cookies to serve ads in our Properties. Please see our Cookie Policy  for more details. 
- 
-MLG may collect, process, and combine data such as your age, gender, interests, name, email address, video game console, marketing preferences, customer service, and device-related information."
+REFERENCE            match_time_label
+LANG_ENGLISH         "Match Time"
 
-REFERENCE            mlgtos_agreement_text_011
-LANG_ENGLISH         "When you create an MLG account, a public profile is also created for your account. This public profile will show your username and the date you created your MLG account. You also have the option to customize your profile and publicly share certain Information, which may include your name, age, date of birth, gender, online contact information, third party account information (e.g., social media account information) and information about what video games you play and what video game consoles you own. If you choose to link certain third party accounts to your MLG account, additional information may be required to be shown publicly (e.g., if you link your XBOX Live or PlayStation Network account, the username associated with that account will be shown on the public profile associated with your MLG account). 
- 
-Unfortunately, we no longer offer MLG accounts to Russian based consumers."
+REFERENCE            match_time_with_time
+LANG_ENGLISH         "Match Time - &&1"
 
-REFERENCE            mlgtos_agreement_text_010
-LANG_ENGLISH         "A. Creation of an MLG Account 
- 
-MLG may collect certain Information from you when you create an MLG account, such as your first and last name, date of birth, address, postal code, email address and MLG user name, as well as information about your interests in and use of various products, programs and services and marketing preferences. Additionally, we may collect Information when you link a third party account (e.g., XBOX Live, PlayStation Network, Nintendo, Steam, and Battle.net) to your MLG account, and the use of certain Properties may require you to link a third party account to your MLG account. With an MLG account you may enjoy a tailored service and support across the Properties such as the forums, email newsletters and the services you love and enjoy."
+REFERENCE            match_won
+LANG_ENGLISH         "Match has been won with &&1 map wins by:"
 
-REFERENCE            mlgtos_agreement_text_009
-LANG_ENGLISH         "3. Information We Collect and How We Use It 
- 
-MLG may collect Information from you and other sources. We use and may combine that Information to operate, tailor content, personalize, adjust and improve our Properties, and to send you messages or personalized information about our services, new features and more, including for marketing and promotional purposes. 
- 
-Information Provided by You 
- 
-MLG may collect Information from you when you: (A) create an MLG account; (B) use our Properties; (C) participate in sweepstakes, contests and promotions; (D) use MLG customer service; (E) choose to receive newsletters on products and services, receive marketing emails, and/or participate in surveys; (F) buy MLG services or products online; (G) participate in chat rooms, message boards, or forums; or (H) use your Facebook account with MLG or allow sharing through Social Media."
+REFERENCE            match_won_single
+LANG_ENGLISH         "&&1 won the match with &&2 victory!
+"
 
-REFERENCE            mlgtos_agreement_text_008
-LANG_ENGLISH         "If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact the ESRB at: www.esrb.org/privacy/contact.aspx 
- 
-ESRB
-Attn: Privacy Certified Program
-420 Lexington Ave, Suite 2024
-New York, NY 10170
-privacy@esrb.org"
+REFERENCE            minutes_short
+LANG_ENGLISH         "Mins"
 
-REFERENCE            mlgtos_agreement_text_007
-LANG_ENGLISH         "Whether a company uses cookies, tracks IP addresses or uses other passive means to collect information;
-Which pieces of personal information, if any, are collected from you;
-Who, if anyone, is collecting your personal information and how will it be used;
-With whom, if anyone, will your personal information be shared;
-What choices you have with regard to the use of your personal information;
-How you can access and, if necessary, change the personal information a company collects and maintains;
-Whether and how information is collected from children under 13;
-How a company ensures data security, quality, and integrity;
-Where and how to ask questions or file complaints."
+REFERENCE            mlgtos_accept
+LANG_ENGLISH         "CONTINUE"
 
-REFERENCE            mlgtos_agreement_text_006
-LANG_ENGLISH         "2. ESRB Privacy Certified Program 
+REFERENCE            mlgtos_agreement_text_001
+LANG_ENGLISH         "Welcome to MLG's Privacy Policy. This Privacy Policy was last updated on November 8, 2016. 
  
-This Privacy Policy and the ESRB certification seals shown on our Properties confirm that MLG is a valid licensee and participating member in the Entertainment Software Rating Board's ("ESRB") Privacy Certified Program. To protect your privacy, we have voluntarily undertaken this privacy initiative and ESRB Privacy Certified has reviewed and certified that we meet established online information collection and use practices on all Properties where this Privacy Policy is posted. 
+Every day, millions of people worldwide use and enjoy MLG websites, products and services. We appreciate your trust in our products and services. In order to provide you with great services and make them better, MLG may collect both personal information and non-personal information (collectively, "Information"). We take care of how your Information is processed and used. 
  
-As part of the ESRB Privacy Certified Program, we are subject to frequent audits of our Properties and other enforcement and accountability mechanisms administered independently by the ESRB. 
+This Privacy Policy: 
  
-Whenever you visit a website that displays the ESRB Privacy Certified certification seal, you may request information about:"
+explains how MLG collects, stores, uses may transfer
+applies to all MLG websites, products and services (???Properties")."
 
-REFERENCE            mlgtos_agreement_text_005
-LANG_ENGLISH         "This Privacy Policy does not apply to third party websites or online properties to which our Properties may link, and you accept MLG is not responsible for the security or privacy practices of any such third party websites or properties. 
- 
-This Privacy Policy does not cover Information provided when you apply for a job at MLG."
-
-REFERENCE            mlgtos_agreement_text_004
-LANG_ENGLISH         "1. Summary and Scope of MLG Privacy Policy 
- 
-This Privacy Policy applies to all Properties, including: 
- 
-MLG websites, online products and services; and
-MLG mobile applications.
-Whenever you use a Property we may collect, process, and combine Information; contact you from time to time; and provide you with customer service and other services you have requested. We may, from time to time, also disclose Information to Activision Blizzard group companies, and/or share Information with suppliers and partners, in order to provide you with goods or services you have requested or online advertising selected by us."
+REFERENCE            mlgtos_agreement_text_002
+LANG_ENGLISH         "MLG reserves the right to make changes to this Privacy Policy at any time by posting a modified version online at accounts.majorleaguegaming.com/privacy_policy, so please review it frequently to ensure you are aware of any changes. If MLG makes a material change to this Privacy Policy, we will provide notice to you in our Privacy Policy as posted and on our home page."
 
 REFERENCE            mlgtos_agreement_text_003
 LANG_ENGLISH         "Table of Contents 
@@ -362,187 +200,349 @@ LANG_ENGLISH         "Table of Contents
 11. California Privacy Rights
 12. Disclosure to Users Outside the US"
 
-REFERENCE            mlgtos_agreement_text_002
-LANG_ENGLISH         "MLG reserves the right to make changes to this Privacy Policy at any time by posting a modified version online at accounts.majorleaguegaming.com/privacy_policy, so please review it frequently to ensure you are aware of any changes. If MLG makes a material change to this Privacy Policy, we will provide notice to you in our Privacy Policy as posted and on our home page."
-
-REFERENCE            mlgtos_agreement_text_001
-LANG_ENGLISH         "Welcome to MLG's Privacy Policy. This Privacy Policy was last updated on November 8, 2016. 
+REFERENCE            mlgtos_agreement_text_004
+LANG_ENGLISH         "1. Summary and Scope of MLG Privacy Policy 
  
-Every day, millions of people worldwide use and enjoy MLG websites, products and services. We appreciate your trust in our products and services. In order to provide you with great services and make them better, MLG may collect both personal information and non-personal information (collectively, "Information"). We take care of how your Information is processed and used. 
+This Privacy Policy applies to all Properties, including: 
  
-This Privacy Policy: 
+MLG websites, online products and services; and
+MLG mobile applications.
+Whenever you use a Property we may collect, process, and combine Information; contact you from time to time; and provide you with customer service and other services you have requested. We may, from time to time, also disclose Information to Activision Blizzard group companies, and/or share Information with suppliers and partners, in order to provide you with goods or services you have requested or online advertising selected by us."
+
+REFERENCE            mlgtos_agreement_text_005
+LANG_ENGLISH         "This Privacy Policy does not apply to third party websites or online properties to which our Properties may link, and you accept MLG is not responsible for the security or privacy practices of any such third party websites or properties. 
  
-explains how MLG collects, stores, uses may transfer
-applies to all MLG websites, products and services (???Properties")."
+This Privacy Policy does not cover Information provided when you apply for a job at MLG."
 
-REFERENCE            mlgtos_accept
-LANG_ENGLISH         "CONTINUE"
-
-REFERENCE            minutes_short
-LANG_ENGLISH         "Mins"
-
-REFERENCE            match_won_single
-LANG_ENGLISH         "&&1 won the match with &&2 victory!
-"
-
-REFERENCE            match_won
-LANG_ENGLISH         "Match has been won with &&1 map wins by:"
-
-REFERENCE            match_time_with_time
-LANG_ENGLISH         "Match Time - &&1"
-
-REFERENCE            match_time_label
-LANG_ENGLISH         "Match Time"
-
-REFERENCE            match_result_additional_information
-LANG_ENGLISH         "A report will be sent automatically to GameBattles."
-
-REFERENCE            match_name_label
-LANG_ENGLISH         "Match Name"
-
-REFERENCE            match_info
-LANG_ENGLISH         "MATCH INFO"
-
-REFERENCE            match_in_progress
-LANG_ENGLISH         "In progress"
-
-REFERENCE            match_id_prompt
-LANG_ENGLISH         "Please enter your GameBattles Match ID"
-
-REFERENCE            match_id_label
-LANG_ENGLISH         "Match ID"
-
-REFERENCE            match_id
-LANG_ENGLISH         "Enter your GameBattles Match ID"
-
-REFERENCE            match_history_fail
-LANG_ENGLISH         "Loading match history failed. Please try again later."
-
-REFERENCE            match_expired
-LANG_ENGLISH         "Your match ( &&1 ) has expired."
-
-REFERENCE            legal_agreement_caption
-LANG_ENGLISH         "By clicking ???Continue??? and using GameBattles, you agree to the sharing of your personal information with Major League Gaming Corp."
-
-REFERENCE            leave_menu
-LANG_ENGLISH         "Leave GameBattles?"
-
-REFERENCE            leave_match_lobby
-LANG_ENGLISH         "Leave match?"
-
-REFERENCE            leave_match
-LANG_ENGLISH         "LEAVE MATCH"
-
-REFERENCE            leave_game_desc
-LANG_ENGLISH         "Are you sure you want to leave your GameBattles match?"
-
-REFERENCE            joining_game
-LANG_ENGLISH         "JOINING GAMEBATTLES GAME"
-
-REFERENCE            join_match
-LANG_ENGLISH         "JOIN MATCH"
-
-REFERENCE            join_by_id_button
-LANG_ENGLISH         "JOIN MATCH BY ID"
-
-REFERENCE            intermission_countdown_time_string
-LANG_ENGLISH         "Intermission: &&1 minutes &&2 seconds"
-
-REFERENCE            hours_short
-LANG_ENGLISH         "Hours"
-
-REFERENCE            games_played
-LANG_ENGLISH         "&&1 games out of &&2 have been played."
-
-REFERENCE            gamebattles_tournament_list
-LANG_ENGLISH         "Sony Tournament List"
-
-REFERENCE            game_won_line
-LANG_ENGLISH         "Map &&1 of &&2 has been won by:"
-
-REFERENCE            game_joined
-LANG_ENGLISH         "GAME JOINED"
-
-REFERENCE            forfeit_team_absent
-LANG_ENGLISH         "Your opponent ( &&1 ) has not shown up to play their match ( &&2 ).
+REFERENCE            mlgtos_agreement_text_006
+LANG_ENGLISH         "2. ESRB Privacy Certified Program 
  
-A report will be sent automatically to GameBattles.
-You can take a screenshot of this message as a security. If there's an issue with the result of the forfeit, please submit a ticket for your match with the screenshot of this message."
+This Privacy Policy and the ESRB certification seals shown on our Properties confirm that MLG is a valid licensee and participating member in the Entertainment Software Rating Board's ("ESRB") Privacy Certified Program. To protect your privacy, we have voluntarily undertaken this privacy initiative and ESRB Privacy Certified has reviewed and certified that we meet established online information collection and use practices on all Properties where this Privacy Policy is posted. 
+ 
+As part of the ESRB Privacy Certified Program, we are subject to frequent audits of our Properties and other enforcement and accountability mechanisms administered independently by the ESRB. 
+ 
+Whenever you visit a website that displays the ESRB Privacy Certified certification seal, you may request information about:"
 
-REFERENCE            fence_mlgschedule
-LANG_ENGLISH         "Fetching GameBattles matches..."
+REFERENCE            mlgtos_agreement_text_007
+LANG_ENGLISH         "Whether a company uses cookies, tracks IP addresses or uses other passive means to collect information;
+Which pieces of personal information, if any, are collected from you;
+Who, if anyone, is collecting your personal information and how will it be used;
+With whom, if anyone, will your personal information be shared;
+What choices you have with regard to the use of your personal information;
+How you can access and, if necessary, change the personal information a company collects and maintains;
+Whether and how information is collected from children under 13;
+How a company ensures data security, quality, and integrity;
+Where and how to ask questions or file complaints."
 
-REFERENCE            fence_mlgaccount
-LANG_ENGLISH         "Fetching MLG account information..."
+REFERENCE            mlgtos_agreement_text_008
+LANG_ENGLISH         "If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact the ESRB at: www.esrb.org/privacy/contact.aspx 
+ 
+ESRB
+Attn: Privacy Certified Program
+420 Lexington Ave, Suite 2024
+New York, NY 10170
+privacy@esrb.org"
 
-REFERENCE            disband_party
-LANG_ENGLISH         "Disband party and enter GameBattles?"
+REFERENCE            mlgtos_agreement_text_009
+LANG_ENGLISH         "3. Information We Collect and How We Use It 
+ 
+MLG may collect Information from you and other sources. We use and may combine that Information to operate, tailor content, personalize, adjust and improve our Properties, and to send you messages or personalized information about our services, new features and more, including for marketing and promotional purposes. 
+ 
+Information Provided by You 
+ 
+MLG may collect Information from you when you: (A) create an MLG account; (B) use our Properties; (C) participate in sweepstakes, contests and promotions; (D) use MLG customer service; (E) choose to receive newsletters on products and services, receive marketing emails, and/or participate in surveys; (F) buy MLG services or products online; (G) participate in chat rooms, message boards, or forums; or (H) use your Facebook account with MLG or allow sharing through Social Media."
 
-REFERENCE            days_short
-LANG_ENGLISH         "Days"
+REFERENCE            mlgtos_agreement_text_010
+LANG_ENGLISH         "A. Creation of an MLG Account 
+ 
+MLG may collect certain Information from you when you create an MLG account, such as your first and last name, date of birth, address, postal code, email address and MLG user name, as well as information about your interests in and use of various products, programs and services and marketing preferences. Additionally, we may collect Information when you link a third party account (e.g., XBOX Live, PlayStation Network, Nintendo, Steam, and Battle.net) to your MLG account, and the use of certain Properties may require you to link a third party account to your MLG account. With an MLG account you may enjoy a tailored service and support across the Properties such as the forums, email newsletters and the services you love and enjoy."
 
-REFERENCE            data_sent
-LANG_ENGLISH         "Game results for GameBattles match (&&1) have been reported successfully."
+REFERENCE            mlgtos_agreement_text_011
+LANG_ENGLISH         "When you create an MLG account, a public profile is also created for your account. This public profile will show your username and the date you created your MLG account. You also have the option to customize your profile and publicly share certain Information, which may include your name, age, date of birth, gender, online contact information, third party account information (e.g., social media account information) and information about what video games you play and what video game consoles you own. If you choose to link certain third party accounts to your MLG account, additional information may be required to be shown publicly (e.g., if you link your XBOX Live or PlayStation Network account, the username associated with that account will be shown on the public profile associated with your MLG account). 
+ 
+Unfortunately, we no longer offer MLG accounts to Russian based consumers."
 
-REFERENCE            data_host_sending
-LANG_ENGLISH         "Game results for GameBattles match (&&1) have been reported successfully."
+REFERENCE            mlgtos_agreement_text_012
+LANG_ENGLISH         "B. Use of Our Properties 
+ 
+When you visit or use our Properties we may collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, gameplay data, purchase histories, and Social Media data. We may use Cookies and/or similar technologies (collectively referred to as ???Cookies???) to do this.  In addition, we or our partners may also use Cookies to serve ads in our Properties. Please see our Cookie Policy  for more details. 
+ 
+MLG may collect, process, and combine data such as your age, gender, interests, name, email address, video game console, marketing preferences, customer service, and device-related information."
 
-REFERENCE            data_error
-LANG_ENGLISH         "There was an error saving game results for GameBattles match (&&1). Please report the results manually via GameBattles if the match is not automatically reported upon completion."
+REFERENCE            mlgtos_agreement_text_013
+LANG_ENGLISH         "C. Sweepstakes, Contests, and Promotions 
+ 
+When MLG runs contests or promotions on our Properties, we may collect certain Information from participants such as their name, address, postal code, email address, phone number, age and/or date of birth, or other information or content submitted by you. We may also need to collect additional information in order for you to claim a prize. That Information may be combined with other account information and will be used and shared in accordance with this Privacy Policy."
 
-REFERENCE            current_position
-LANG_ENGLISH         "CURRENT POSITION"
+REFERENCE            mlgtos_agreement_text_014
+LANG_ENGLISH         "D. Interact with Customer Service 
+ 
+In order to provide you with customer service and assist you with resolving any issues you may have, MLG may collect Information from you including your contact details, together with details of your customer service issue and its resolution."
 
-REFERENCE            current_match_id
-LANG_ENGLISH         "GameBattles Match ID"
+REFERENCE            mlgtos_agreement_text_015
+LANG_ENGLISH         "E. Receive Newsletters on Products and Services, Receive Marketing Emails, and/or Surveys 
+ 
+MLG may offer you the ability to receive newsletters periodically by email about our products and services. At any time, you can manage your preferences from your account settings and stop receiving further newsletters or marketing emails by unsubscribing from the link in the footer of each email we send to you. 
+ 
+We may, from time to time, send you surveys in order to improve consumer experience with our services."
 
-REFERENCE            countdown_time_string
-LANG_ENGLISH         "In &&1 hours &&2 minutes &&3 seconds"
+REFERENCE            mlgtos_agreement_text_016
+LANG_ENGLISH         "F. Buy MLG Products or Services Online 
+ 
+MLG does not collect any credit card and/or billing information when you purchase products or services online, or when you participate in certain services (e.g., Gamebattles). However, you may be required to provide credit card and/or billing information to one of our third-party vendors in order to complete a purchase or receive a prize. We encourage you to review the privacy policy of our third-party vendors before providing them with your personal information, as their privacy practices may vary from ours."
 
-REFERENCE            countdown_next_match
-LANG_ENGLISH         "Upcoming Match"
+REFERENCE            mlgtos_agreement_text_017
+LANG_ENGLISH         "G. Chat rooms, Message Boards and Forums 
+ 
+From time to time, MLG may make chat rooms, message boards, forums, blogs, news groups and other publicly accessible forums and community tools available to you. From time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Properties, including, without limitation, these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. Accordingly, you should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may use publicly posted information."
 
-REFERENCE            countdown_game_number
-LANG_ENGLISH         "Game &&1"
+REFERENCE            mlgtos_agreement_text_018
+LANG_ENGLISH         "H. Social Media 
+ 
+You can interact with some Properties through social networking sites, such as Facebook and Twitter (or social media plug-ins and applications) ("Social Media"). When you interact with MLG and/or the Properties through Social Media you acknowledge that we may access your Information, solely in accordance with your Social Media privacy settings, and use it to (1) create an MLG account, or link your Social Media account to your MLG account; (2) give you exclusive content; (2) personalize your online experience with us within and outside our Properties; and (3) contact you in accordance with applicable marketing preferences through Social Media or directly by sending you the latest news, special offerings, and rewards. 
+ 
+When you post personal information publicly through the Properties (e.g., on your MLG public profile or using publicly accessible forums and community tools), or on Social Media, it may be viewable by other users of these sites and we cannot prevent further use of the personal information by third parties. For more information about how your Social Media uses and protects your personal information, please refer to their privacy policies and terms of use."
 
-REFERENCE            countdown_game_launch
-LANG_ENGLISH         "Game &&1 Launch"
+REFERENCE            mlgtos_agreement_text_019
+LANG_ENGLISH         "Information Provided by Other Sources 
+ 
+We may also obtain Information about you from other sources, such as Social Media, our vendors, partners, and network advertising companies, and combine that Information with Information we have collected from or about you. We only collect Information from other sources where they have confirmed to us they are legally entitled to share it with us. 
+ 
+We use Cookies to provide and support our Properties and each of the uses outlined and described above. Please see our Cookie Policy  for more information."
 
-REFERENCE            countdown
-LANG_ENGLISH         "COUNTDOWN"
+REFERENCE            mlgtos_agreement_text_020
+LANG_ENGLISH         "4. Children and Parents 
+ 
+MLG does not knowingly collect or store any personal information from children under 13. 
+ 
+We recognize a special need to protect the personal information of children. We urge parents to instruct their children to never give out their real names, addresses, phone numbers, or other personal information without parental permission, when online. MLG also recommends that parents familiarize themselves with parental controls available on consoles, mobile telephones, tablets and other devices they provide to their child and accompany their child if aged under 13 years of age when online. Parents should contact MLG immediately if they have any concerns. Please see the Contacting Us section below for further details."
 
-REFERENCE            confirm_back_out
-LANG_ENGLISH         "Your match is about to start. Are you sure you want to leave?"
+REFERENCE            mlgtos_agreement_text_021
+LANG_ENGLISH         "5.  Your Choices 
+ 
+You have choices over the Information provided by you and by other sources, and how that Information is used by MLG. You can exercise your choices by updating your preferences at any time and also by managing your settings on your devices and third party accounts. 
+ 
+Your Choices About Information Provided by You  
+ 
+If you do not want to provide MLG with personal information, then you can choose not to provide it. Please note that if you choose not to provide us with personal information, we may not be able to provide you with the relevant MLG product or service that you want. For example, without providing personal information, you may not be able to use the Properties and/or create an MLG account."
 
-REFERENCE            codcasters_partial
-LANG_ENGLISH         "Missing Codcasters"
+REFERENCE            mlgtos_agreement_text_022
+LANG_ENGLISH         "Your Choices About Information Provided by Third Parties 
+ 
+You may be able to control how third parties collect and share your Information by changing your preferences or opting out of collection directly with those third parties. Before disclosing Information to third parties, we recommend you check their respective privacy policies for further details.
+ 
+Your Choices About MLG Using Your Information 
+ 
+You can exercise choices over how MLG uses your personal information and update your preferences at any time:"
 
-REFERENCE            codcasters_none
-LANG_ENGLISH         "None expected"
+REFERENCE            mlgtos_agreement_text_023
+LANG_ENGLISH         "- to remove yourself from receiving email marketing or newsletters from MLG, simply click the unsubscribe link in the email or access your account from http://www.majorleaguegaming.com/ and edit your email marketing preferences. You will need your password to access your account; 
+- to disable selected Cookies from collecting information relating to the effectiveness of advertising campaigns or analytics data and from serving you with personalized advertising on our Properties or third party properties please see our Cookie Policy. 
+ 
+If you opt-out of receiving email marketing communications from us, please note we may still contact you occasionally about the status of your account, such as to inform you that your account may be expiring, or for other service related information."
 
-REFERENCE            codcasters_full
-LANG_ENGLISH         "All CODCASTERS present"
+REFERENCE            mlgtos_agreement_text_024
+LANG_ENGLISH         "6. Sharing Information: 
+ 
+MLG may share Information: 
+ 
+- with the various Activision Blizzard group companies for the purposes described in this Privacy Policy;
+- with vendors and partners engaged by MLG in order to provide you with goods or services you have requested or online advertising selected by us;
+- if required to do so by applicable law or regulation;
+- if necessary to exercise, establish or defend our legal rights;
+- if necessary to protect the vital interests of any person; and
+- in connection with the sale of our business or assets. 
+ 
+Please note that any information, including personal information that you reveal in a bulletin board, message board, chat room or other public forum is publicly viewable."
 
-REFERENCE            codcasters_empty
-LANG_ENGLISH         "CODCASTERS absent"
+REFERENCE            mlgtos_agreement_text_025
+LANG_ENGLISH         "Vendors 
+ 
+Vendors provide goods and services (for example, billing, consumer services support, consultancy, information technology hardware and software) to MLG in order to support, operate and develop the Properties and to deliver marketing communications on our behalf. We do not share Information with vendors to use for their own direct marketing purposes or any other purpose without your consent, except those outlined above and to execute, deliver and/or improve the services they provide. 
+ 
+Third Parties 
+ 
+Other third parties may need your Information in order to provide goods and/or services you have requested, for example, to deliver MLG products that you have purchased through our Properties."
 
-REFERENCE            caps
-LANG_ENGLISH         "GAMEBATTLES"
+REFERENCE            mlgtos_agreement_text_026
+LANG_ENGLISH         "Law 
+ 
+We may disclose your Information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. 
+ 
+This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards."
 
-REFERENCE            cannot_join_game
-LANG_ENGLISH         "The GameBattles match could not be joined at this time. Please try again."
+REFERENCE            mlgtos_agreement_text_027
+LANG_ENGLISH         "Legal Rights 
+ 
+We may disclose your Information where necessary for the purpose of exercising, establishing or defending our legal rights.  For example, we may review your communications and other account information in order to investigate allegations of hacking or any other breach or alleged breach of any applicable Terms of Service or this Privacy Policy and disclose your personal information, including communications, to our legal advisors, consultants and law enforcement or other government officials."
 
-REFERENCE            cannot_host_game
-LANG_ENGLISH         "You are not permitted to host the GameBattles match lobby because you have a Strict NAT.  You may join the lobby after another player has hosted it."
+REFERENCE            mlgtos_agreement_text_028
+LANG_ENGLISH         "Vital Interests 
+ 
+We may disclose your Information with third parties where we believe this is necessary to protect the vital interests of any person.  For example, we may disclose Information relating to an online account if we in good faith believe the user of that account is using it in ways that are harmful to others (e.g. making inappropriate contact with minors). 
+ 
+Sale of Our Business or Assets 
+ 
+Separately, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, MLG's customer information including Information and communications may be transferred to our successor or assign."
 
-REFERENCE            cannot_connect
-LANG_ENGLISH         "There was an error connecting to GameBattles."
+REFERENCE            mlgtos_agreement_text_029
+LANG_ENGLISH         "7.  Security 
+ 
+MLG takes a range of security measures designed to help protect your Information. However, complete online and offline security can never be guaranteed, so you should always take care when sharing your information online. 
+ 
+MLG takes a range of security measures designed to protect your personal information and keep it confidential (unless it is non-confidential by nature, for example, publicly-available information like user generated content, competition rankings and scores, etc.).  We also take steps to ensure that the personal information collected is protected from misuse and alteration. In addition, we request vendors who process personal information on our behalf to themselves take a range of security measures designed to help protect your personal information. However, the Internet by its nature is not a secure environment and the nature of security risks is constantly evolving, as are the technical and organizational industry standards relating to management of those risks. The complete security of any personal information collected, stored or used by us or our vendors cannot therefore be guaranteed."
 
-REFERENCE            best_x_out_of_y
-LANG_ENGLISH         "Best of &&1"
+REFERENCE            mlgtos_agreement_text_030
+LANG_ENGLISH         "8.  Accessing Information 
+ 
+You can access, update or delete your personal information in your MLG account at any time. 
+ 
+If for any reason you wish to view, correct, update or delete personal information collected about you, simply access your MLG account through http://www.majorleaguegaming.com/ and edit/delete your personal information. You will need your password to access your personal account. You may also send us an email asking us to delete your account at privacy@majorleaguegaming.com."
 
-REFERENCE            active_match
-LANG_ENGLISH         "[Active]"
+REFERENCE            mlgtos_agreement_text_031
+LANG_ENGLISH         "If you have any questions about the Information we process about you, or if you wish to view, update or delete your personal information, you can send your request to privacy@majorleaguegaming.com. Alternatively, you may write to us at: Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. We will be happy to review, update or remove Information as appropriate. 
+ 
+We will retain your personal information for the length of time needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Residual copies of Information that has been deleted from your account may remain in our backup systems for approximately one month. We may still retain your Information to resolve disputes, enforce our Terms of Service or other user agreements, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose."
+
+REFERENCE            mlgtos_agreement_text_032
+LANG_ENGLISH         "9.  Contacting Us 
+ 
+This Privacy Policy applies between you and Major League Gaming, Inc. You can contact us at privacy@majorleaguegaming.com, or write to us at:  Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. 
+ 
+You may also contact ESRB Privacy Certified if you have a question or complaint that has not been resolved to your satisfaction. Please see the ESRB Privacy Certified Program section at the top of this Privacy Policy for further details."
+
+REFERENCE            mlgtos_agreement_text_033
+LANG_ENGLISH         "10.  Important Notice 
+ 
+For privacy related information applicable to users who are California residents or based outside the US please see below. 
+ 
+Please note your use of this MLG website, product or service is also subject to the terms of the MLG Terms of Service."
+
+REFERENCE            mlgtos_agreement_text_034
+LANG_ENGLISH         "11. California Privacy Rights 
+ 
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an email to privacy@majorleaguegaming.com, or write us at:  Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. We will be happy to honor your request."
+
+REFERENCE            mlgtos_agreement_text_035
+LANG_ENGLISH         "California Privacy Rights for Minor Users 
+ 
+Since January 1, 2015, California Business and Professions Code Section 22581 permits you, if you are a California resident under the age of 18, to view, correct, or delete information provided by you or publicly posted by you. You may do this by simply accessing your MLG account through http://www.majorleaguegaming.com/ or other product or service as applicable and editing/deleting your Information. You will need your password to access your personal account. You may also send us an email asking us to delete certain posted content at privacy@majorleaguegaming.com. In the alternative, you may write to us at Major League Gaming, 3 Park Avenue, 32nd Floor, New York, NY 10016, ATTN: Privacy. 
+ 
+We will be happy to review, update or remove information and/or content as appropriate. Residual copies of information and/or content that have been deleted from your account and/or the Properties may remain in our backup systems for approximately one month. We may still retain your information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose."
+
+REFERENCE            mlgtos_agreement_text_036
+LANG_ENGLISH         "12. Disclosure to Users Outside the US 
+ 
+In addition, if you are a visitor to our websites or other online products and services from outside the U.S., the personal information you provide may be collected, processed and stored directly on, or transferred to, servers in the United States or other countries where MLG, Activision Blizzard group companies or vendors maintain facilities or business operations. 
+ 
+No matter where the Information is located, MLG takes all commercially reasonable measures to safeguard your privacy rights in accordance with this Privacy Policy. If you do not agree to the collection, processing, storage and transfer of your information, please do not provide your information when requested and stop using our websites and other online products and services."
+
+REFERENCE            mlgtos_button
+LANG_ENGLISH         "Privacy Policy"
+
+REFERENCE            mlgtos_title
+LANG_ENGLISH         "Major League Gaming Privacy Policy"
+
+REFERENCE            months_short
+LANG_ENGLISH         "Months"
+
+REFERENCE            next_match
+LANG_ENGLISH         "NEXT MATCH"
+
+REFERENCE            next_match_lower
+LANG_ENGLISH         "Next Match"
+
+REFERENCE            no_dedicated_server
+LANG_ENGLISH         "Match ID &&1 can not be played due to a dedicated server not being available."
+
+REFERENCE            no_scheduled_match
+LANG_ENGLISH         "NO MATCH"
+
+REFERENCE            no_show_countdown_time_string
+LANG_ENGLISH         "No Show: In &&1 minutes &&2 seconds"
+
+REFERENCE            no_social_privileges
+LANG_ENGLISH         "The current profile's social network privacy settings do not allow it to enter MLG GameBattles."
+
+REFERENCE            no_upcoming_match
+LANG_ENGLISH         "No scheduled match available.
+
+Please visit GameBattles.com to schedule your next match."
+
+REFERENCE            out_of_lobby
+LANG_ENGLISH         "The GameBattles lobby host has left."
+
+REFERENCE            pause_game_progress
+LANG_ENGLISH         "Currently playing game &&1 of &&2"
+
+REFERENCE            pause_match_id
+LANG_ENGLISH         "GameBattles Match ID &&1"
+
+REFERENCE            pause_team_victories
+LANG_ENGLISH         "&&1 won &&2 games"
+
+REFERENCE            pause_team_victory
+LANG_ENGLISH         "&&1 won 1 game"
+
+REFERENCE            players_numbers
+LANG_ENGLISH         "&&1 Player(s)"
+
+REFERENCE            popup_plug_input
+LANG_ENGLISH         "Please plug in a controller that matches the input device set for this match."
+
+REFERENCE            premium
+LANG_ENGLISH         "PREMIUM"
+
+REFERENCE            schedule_button_desc
+LANG_ENGLISH         "View all of your upcoming GameBattles matches or change your active match."
+
+REFERENCE            schedule_map_number
+LANG_ENGLISH         "Map &&1"
+
+REFERENCE            schedule_refresh
+LANG_ENGLISH         "Refresh Matches"
+
+REFERENCE            schedule_refresh_desc
+LANG_ENGLISH         "Refresh your match list to get your newest matches and information."
+
+REFERENCE            schedule_refresh_prompt
+LANG_ENGLISH         "[{ui_alt1}] Refresh matches"
+
+REFERENCE            seconds_short
+LANG_ENGLISH         "Secs"
+
+REFERENCE            set_as_current
+LANG_ENGLISH         "SET AS ACTIVE"
+
+REFERENCE            set_match_id
+LANG_ENGLISH         "Set match ID &&1 as your active match?"
+
+REFERENCE            splitscreen_warning
+LANG_ENGLISH         "All split screen players must be removed in order to participate in GameBattles matches."
+
+REFERENCE            status_noshow
+LANG_ENGLISH         "Match countdown: &&1"
+
+REFERENCE            status_prematch
+LANG_ENGLISH         "Time before match: &&1"
+
+REFERENCE            team_codcasters_name
+LANG_ENGLISH         "CODCASTERS"
+
+REFERENCE            team_members_empty
+LANG_ENGLISH         "This team is not currently in the match."
+
+REFERENCE            team_members_full
+LANG_ENGLISH         "This team has all of its players."
+
+REFERENCE            team_members_partial
+LANG_ENGLISH         "This team is missing players."
+
+REFERENCE            terms_of_service
+LANG_ENGLISH         "Terms of Service"
+
+REFERENCE            welcome
+LANG_ENGLISH         "Welcome to MLG GameBattles!"
 
 
 ENDMARKER

@@ -2,116 +2,116 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            season3_drop5_name
-LANG_ENGLISH         "The Lost Team"
-
-REFERENCE            season3_drop4_step5_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP5_DESCRIPTION"
-
-REFERENCE            season3_drop4_step4_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP4_DESCRIPTION"
-
-REFERENCE            season3_drop4_step3_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP3_DESCRIPTION"
-
-REFERENCE            season3_drop4_step2_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP2_DESCRIPTION"
-
-REFERENCE            season3_drop4_step1_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP1_DESCRIPTION"
-
-REFERENCE            season3_drop4_name
-LANG_ENGLISH         "New Perspectives"
-
-REFERENCE            season3_drop4_global
-LANG_ENGLISH         "Uncover the truth behind the FOB attack."
-
-REFERENCE            season3_drop3_step6_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP6_DESCRIPTION"
-
-REFERENCE            season3_drop3_step5_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP5_DESCRIPTION"
-
-REFERENCE            season3_drop3_step4_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP4_DESCRIPTION"
-
-REFERENCE            season3_drop3_step3_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP3_DESCRIPTION"
-
-REFERENCE            season3_drop3_step2_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP2_DESCRIPTION"
-
-REFERENCE            season3_drop3_step1_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP1_DESCRIPTION"
-
-REFERENCE            season3_drop3_name
-LANG_ENGLISH         "Hidden Cargo"
-
-REFERENCE            season3_drop3_global
-LANG_ENGLISH         "Discover what is contained in the missing shipments."
-
-REFERENCE            season3_drop2_step7_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP7_DESCRIPTION"
-
-REFERENCE            season3_drop2_step6_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP6_DESCRIPTION"
-
-REFERENCE            season3_drop2_step5_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP5_DESCRIPTION"
-
-REFERENCE            season3_drop2_step4_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP4_DESCRIPTION"
-
-REFERENCE            season3_drop2_step3_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP3_DESCRIPTION"
-
-REFERENCE            season3_drop2_step2_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP2_DESCRIPTION"
-
-REFERENCE            season3_drop2_step1_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP1_DESCRIPTION"
-
-REFERENCE            season3_drop2_name
-LANG_ENGLISH         "Hunting the Enemy"
-
-REFERENCE            season3_drop2_global
-LANG_ENGLISH         "Begin the the hunt for Zakhaev."
-
-REFERENCE            season3_drop1_step6_description
-LANG_ENGLISH         "Signals Intelligence decrypted a message after the attack."
-
-REFERENCE            season3_drop1_step5_description
-LANG_ENGLISH         "A downed airliner tried to contact Arklov Air Force base..."
-
-REFERENCE            season3_drop1_step4_description
-LANG_ENGLISH         "Verdansk ATC reported a transponder went offline..."
-
-REFERENCE            season3_drop1_step3_description
-LANG_ENGLISH         "Communications went down before the attack. Follow the trail..."
-
-REFERENCE            season3_drop1_step2_description
-LANG_ENGLISH         "Evacuations were underway..."
-
-REFERENCE            season3_drop1_step1_description
-LANG_ENGLISH         "Find the location in the message Ghost sent you."
-
-REFERENCE            season3_drop1_name
-LANG_ENGLISH         "Fractured"
-
-REFERENCE            season3_drop1_global
-LANG_ENGLISH         "Learn who is behind the Armistice FOB attack."
-
-REFERENCE            medals_generic_desc
-LANG_ENGLISH         "Medals"
-
-REFERENCE            kills_short_desc
-LANG_ENGLISH         "&&1 Kills"
+REFERENCE            intel_splash_body
+LANG_ENGLISH         "View new Intel in the Missions menu."
 
 REFERENCE            intel_splash_header
 LANG_ENGLISH         "/Intel Collected"
 
-REFERENCE            intel_splash_body
-LANG_ENGLISH         "View new Intel in the Missions menu."
+REFERENCE            kills_short_desc
+LANG_ENGLISH         "&&1 Kills"
+
+REFERENCE            medals_generic_desc
+LANG_ENGLISH         "Medals"
+
+REFERENCE            season3_drop1_global
+LANG_ENGLISH         "Learn who is behind the Armistice FOB attack."
+
+REFERENCE            season3_drop1_name
+LANG_ENGLISH         "Fractured"
+
+REFERENCE            season3_drop1_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            season3_drop1_step2_description
+LANG_ENGLISH         "Evacuations were underway..."
+
+REFERENCE            season3_drop1_step3_description
+LANG_ENGLISH         "Communications went down before the attack. Follow the trail..."
+
+REFERENCE            season3_drop1_step4_description
+LANG_ENGLISH         "Verdansk ATC reported a transponder went offline..."
+
+REFERENCE            season3_drop1_step5_description
+LANG_ENGLISH         "A downed airliner tried to contact Arklov Air Force base..."
+
+REFERENCE            season3_drop1_step6_description
+LANG_ENGLISH         "Signals Intelligence decrypted a message after the attack."
+
+REFERENCE            season3_drop2_global
+LANG_ENGLISH         "Begin the the hunt for Zakhaev."
+
+REFERENCE            season3_drop2_name
+LANG_ENGLISH         "Hunting the Enemy"
+
+REFERENCE            season3_drop2_step1_description
+LANG_ENGLISH         "SEASON3_DROP2_STEP1_DESCRIPTION"
+
+REFERENCE            season3_drop2_step2_description
+LANG_ENGLISH         "SEASON3_DROP2_STEP2_DESCRIPTION"
+
+REFERENCE            season3_drop2_step3_description
+LANG_ENGLISH         "SEASON3_DROP2_STEP3_DESCRIPTION"
+
+REFERENCE            season3_drop2_step4_description
+LANG_ENGLISH         "SEASON3_DROP2_STEP4_DESCRIPTION"
+
+REFERENCE            season3_drop2_step5_description
+LANG_ENGLISH         "SEASON3_DROP2_STEP5_DESCRIPTION"
+
+REFERENCE            season3_drop2_step6_description
+LANG_ENGLISH         "SEASON3_DROP2_STEP6_DESCRIPTION"
+
+REFERENCE            season3_drop2_step7_description
+LANG_ENGLISH         "SEASON3_DROP2_STEP7_DESCRIPTION"
+
+REFERENCE            season3_drop3_global
+LANG_ENGLISH         "Discover what is contained in the missing shipments."
+
+REFERENCE            season3_drop3_name
+LANG_ENGLISH         "Hidden Cargo"
+
+REFERENCE            season3_drop3_step1_description
+LANG_ENGLISH         "SEASON3_DROP3_STEP1_DESCRIPTION"
+
+REFERENCE            season3_drop3_step2_description
+LANG_ENGLISH         "SEASON3_DROP3_STEP2_DESCRIPTION"
+
+REFERENCE            season3_drop3_step3_description
+LANG_ENGLISH         "SEASON3_DROP3_STEP3_DESCRIPTION"
+
+REFERENCE            season3_drop3_step4_description
+LANG_ENGLISH         "SEASON3_DROP3_STEP4_DESCRIPTION"
+
+REFERENCE            season3_drop3_step5_description
+LANG_ENGLISH         "SEASON3_DROP3_STEP5_DESCRIPTION"
+
+REFERENCE            season3_drop3_step6_description
+LANG_ENGLISH         "SEASON3_DROP3_STEP6_DESCRIPTION"
+
+REFERENCE            season3_drop4_global
+LANG_ENGLISH         "Uncover the truth behind the FOB attack."
+
+REFERENCE            season3_drop4_name
+LANG_ENGLISH         "New Perspectives"
+
+REFERENCE            season3_drop4_step1_description
+LANG_ENGLISH         "SEASON3_DROP4_STEP1_DESCRIPTION"
+
+REFERENCE            season3_drop4_step2_description
+LANG_ENGLISH         "SEASON3_DROP4_STEP2_DESCRIPTION"
+
+REFERENCE            season3_drop4_step3_description
+LANG_ENGLISH         "SEASON3_DROP4_STEP3_DESCRIPTION"
+
+REFERENCE            season3_drop4_step4_description
+LANG_ENGLISH         "SEASON3_DROP4_STEP4_DESCRIPTION"
+
+REFERENCE            season3_drop4_step5_description
+LANG_ENGLISH         "SEASON3_DROP4_STEP5_DESCRIPTION"
+
+REFERENCE            season3_drop5_name
+LANG_ENGLISH         "The Lost Team"
 
 
 ENDMARKER
