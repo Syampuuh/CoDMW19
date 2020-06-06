@@ -14,7 +14,7 @@ Seems to be an extraction limitation right now, only strings come through proper
 
 ## What's with all the strings that are just moving around!?
 
-I have no idea. I don't know if it's an issue with the extractor, an issue with IW's compiler, or just a way for IW developers to trick management into thinking they're working. I have no idea! The only thing I do know is that it seems to happen with literally every patch and is extremely annoying to dig through, because occasionally legitimate changes can get bureied amidst it all.  
+I have no idea. I don't know if it's an issue with the extractor, an issue with IW's compiler, or just a way for IW developers to trick management into thinking they're working. I have no idea! The only thing I do know is that it seems to happen with literally every patch and is extremely annoying to dig through, because occasionally legitimate changes can get buried amidst it all.  
 While WinMerge can smartly identify moved lines and ignore them for me, GitHub unfortunately cannot so they'll still show up in the commit. Nothing I can really do about this.
 
 ---
