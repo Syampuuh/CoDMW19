@@ -833,6 +833,9 @@ LANG_ENGLISH         "Riot Shield"
 REFERENCE            br_type_pi
 LANG_ENGLISH         "Pistol"
 
+REFERENCE            br_type_pi_burst
+LANG_ENGLISH         "Burst Pistol"
+
 REFERENCE            br_type_pi_handcannon
 LANG_ENGLISH         "Hand Cannon"
 
@@ -863,6 +866,9 @@ LANG_ENGLISH         "Slug Shotgun"
 REFERENCE            br_type_sm
 LANG_ENGLISH         "Submachine Gun"
 
+REFERENCE            br_type_sm_hc
+LANG_ENGLISH         "High Capacity SMG"
+
 REFERENCE            br_type_sm_range
 LANG_ENGLISH         "Long Range SMG"
 
@@ -871,6 +877,9 @@ LANG_ENGLISH         "Thermal Silenced SMG"
 
 REFERENCE            br_type_sm_silenced
 LANG_ENGLISH         "Silenced SMG"
+
+REFERENCE            br_type_sn
+LANG_ENGLISH         "Sniper Rifle"
 
 REFERENCE            br_type_sn_50cal
 LANG_ENGLISH         ".50 Cal Sniper"
@@ -901,6 +910,9 @@ LANG_ENGLISH         "Semi Auto Rifle"
 
 REFERENCE            br_type_sn_sil
 LANG_ENGLISH         "Silenced Sniper"
+
+REFERENCE            br_type_sn_sil_rifle
+LANG_ENGLISH         "Silenced Rifle"
 
 REFERENCE            br_use_exfil_chopper
 LANG_ENGLISH         "Board Exfil Chopper"
@@ -1647,6 +1659,9 @@ LANG_ENGLISH         "No Respawning"
 REFERENCE            nogoodhost
 LANG_ENGLISH         "Could not migrate host."
 
+REFERENCE            normal
+LANG_ENGLISH         "Normal"
+
 REFERENCE            nuke_deployed
 LANG_ENGLISH         "DEPLOYED"
 
@@ -2108,6 +2123,9 @@ LANG_ENGLISH         "Your team is in the lead!"
 REFERENCE            teleport_failed
 LANG_ENGLISH         "FTL Jump Failed"
 
+REFERENCE            thermal
+LANG_ENGLISH         "Thermal"
+
 REFERENCE            third_kill
 LANG_ENGLISH         "&&1rd KILL"
 
@@ -2248,6 +2266,12 @@ LANG_ENGLISH         "You Killed"
 
 REFERENCE            zipline_use
 LANG_ENGLISH         "Use Line"
+
+REFERENCE            zoom_x1
+LANG_ENGLISH         "Zoom X1"
+
+REFERENCE            zoom_x8
+LANG_ENGLISH         "Zoom X8"
 
 
 ENDMARKER

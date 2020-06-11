@@ -63,3 +63,4 @@
 64,Radar_drone,veh8_mil_air_mquebec8_small_br,hud_icon_killstreak_radardrone_overwatch,EQUIPMENT_RADARDRONE_BR,brloot_killstreak_radardrone,1,2,,,MP_BR_RADARDRONE,equip_radardrone,1,1,equip,2,hud_icon_killstreak_radardrone_overwatch,12,2,
 65,Shield_turret,weapon_vm_mg_mobile_turret_br,hud_icon_killstreak_turret,EQUIPMENT_SHIELDTURRET_BR,brloot_killstreak_shieldturret,1,2,,,MP_BR_SHIELDTURRET,equip_shieldturret,1,1,equip,2,hud_icon_killstreak_turret,12,2,
 66,Respawn_token,zmb_coin_space,ui_mp_br_loot_icon_respawn_token,MP_BR_INGAME/RESPAWN_TOKEN,brloot_respawn_token,1,4,,,MP_BR_INGAME/PICK_UP_RESPAWN_TOKEN,Respawn_token,1,1,token,2,ui_mp_br_loot_icon_respawn_token,12,,
+67,Binoculars,offhand_wm_spotter_scope_br,hud_icon_equipment_spotter_scope,EQUIPMENT/BINOCULARS,brloot_offhand_binoculars,1,2,,,MP_BR_BINOCULARS,equip_binoculars,1,1,equip,2,hud_icon_equipment_spotter_scope,12,2,

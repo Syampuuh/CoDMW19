@@ -114,6 +114,7 @@ item,brloot_offhand_thermite,lethal,1,1,,,,equip_thermite,,,,EQUIPMENT/THERMITE_
 item,brloot_offhand_throwingknife,lethal,0,1,,,,equip_throwing_knife,,,,EQUIPMENT/THROWING_KNIFE_BR,EQUIPMENT/THROWING_KNIFE_DESC,ui_mp_br_loot_icon_equipment_throwingknife,,,2,2,,,,,,1,,,,,,,,,
 item,brloot_offhand_throwingknife_fire,lethal,0,1,,,,equip_throwing_knife_fire,,,,EQUIPMENT/THROWING_KNIFE_BR,EQUIPMENT/THROWING_KNIFE_DESC,ui_mp_br_loot_icon_equipment_throwingknife,,,2,2,,,,,,1,,,,,,,,,
 item,brloot_health_adrenaline,tactical,0,1,,,,equip_adrenaline,,,,EQUIPMENT/ADRENALINE_BR,EQUIPMENT/ADRENALINE_DESC_BR,ui_mp_br_loot_icon_health_stim,,,2,2,,,,,,1,,,,,,,,,
+item,brloot_offhand_binoculars,tactical,1,1,,,,equip_binoculars,,,,EQUIPMENT/BINOCULARS,EQUIPMENT/BINOCULARS_DESC,hud_icon_equipment_spotter_scope,,2,2,1,,,,,,,,,,,,,,,
 item,brloot_offhand_concussion,tactical,1,1,,,,equip_concussion,,,,EQUIPMENT/CONCUSSION_BR,EQUIPMENT/CONCUSSION_DESC,ui_mp_br_loot_icon_equipment_concussion,,,2,2,,,,,,1,,,,,,,,,
 item,brloot_offhand_decoy,tactical,0,1,,,,equip_decoy,,,,EQUIPMENT/DECOY_BR,EQUIPMENT/DECOY_DESC,ui_mp_br_loot_icon_equipment_decoy,,,2,2,,,,,,1,,,,,,,,,
 item,brloot_offhand_flash,tactical,1,1,,,,equip_flash,,,,EQUIPMENT/FLASH_BR,EQUIPMENT/FLASH_DESC,ui_mp_br_loot_icon_equipment_flash,br_pickup_gren_tactical,,2,2,,,,,,1,,,,,,,,,

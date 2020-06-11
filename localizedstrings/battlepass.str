@@ -164,6 +164,9 @@ LANG_ENGLISH         "Denies Bonus"
 REFERENCE            discount_percent
 LANG_ENGLISH         "&&1% Extra Value"
 
+REFERENCE            error_already_own
+LANG_ENGLISH         "You already own the Battle Pass."
+
 REFERENCE            extra_tiers
 LANG_ENGLISH         "+&&1 Tiers"
 

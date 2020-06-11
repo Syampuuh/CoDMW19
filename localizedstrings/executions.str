@@ -245,6 +245,12 @@ LANG_ENGLISH         "KREUGER_VARIANT_1_DESC"
 REFERENCE            kreuger_variant_2
 LANG_ENGLISH         "Knife To Meet You"
 
+REFERENCE            kyle_default
+LANG_ENGLISH         "Ice To Meet You"
+
+REFERENCE            kyle_default_desc
+LANG_ENGLISH         "KYLE_DEFAULT_DESC"
+
 REFERENCE            lynch_default
 LANG_ENGLISH         "LYNCH_DEFAULT"
 
@@ -316,6 +322,18 @@ LANG_ENGLISH         "OTTER_VARIANT_1_DESC"
 
 REFERENCE            otter_variant_2
 LANG_ENGLISH         "Ice Breaker"
+
+REFERENCE            price_default
+LANG_ENGLISH         "Staying Frosty"
+
+REFERENCE            price_default_desc
+LANG_ENGLISH         "PRICE_DEFAULT_DESC"
+
+REFERENCE            price_variant_1
+LANG_ENGLISH         "Enlightened"
+
+REFERENCE            price_variant_1_desc
+LANG_ENGLISH         "PRICE_VARIANT_1_DESC"
 
 REFERENCE            quin_default
 LANG_ENGLISH         "QUIN_DEFAULT"
@@ -483,10 +501,10 @@ REFERENCE            universal_variant_09_desc
 LANG_ENGLISH         "UNIVERSAL_VARIANT_09_DESC"
 
 REFERENCE            universal_variant_10
-LANG_ENGLISH         "UNIVERSAL_VARIANT_10"
+LANG_ENGLISH         "Bush League"
 
 REFERENCE            universal_variant_10_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_10_DESC"
+LANG_ENGLISH         "Didn't see you there"
 
 REFERENCE            universal_variant_11
 LANG_ENGLISH         "UNIVERSAL_VARIANT_11"
@@ -529,6 +547,18 @@ LANG_ENGLISH         "Bag 'Em"
 
 REFERENCE            universal_variant_17_desc
 LANG_ENGLISH         "UNIVERSAL_VARIANT_17_DESC"
+
+REFERENCE            universal_variant_18
+LANG_ENGLISH         "Sasquatch"
+
+REFERENCE            universal_variant_18_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_18_DESC"
+
+REFERENCE            universal_variant_19
+LANG_ENGLISH         "Sputnik"
+
+REFERENCE            universal_variant_19_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_19_DESC"
 
 REFERENCE            wyatt_default
 LANG_ENGLISH         "Achilles Heel"

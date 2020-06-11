@@ -928,6 +928,14 @@ LANG_ENGLISH         "Juliet Team"
 REFERENCE            tournament_unable_to_connect_to_lobby
 LANG_ENGLISH         "Unable to connect to game lobby.  Canceling tournament."
 
+REFERENCE            trial_airborne_desc_tavorsk
+LANG_ENGLISH         "M.O.U.T. exercise in Tavorsk District. Drop into the A.O. and clear out points full of targets. Flank and destroy defensive turrets.
+
+3 attempts."
+
+REFERENCE            trial_airborne_name
+LANG_ENGLISH         "Airborne Insertion"
+
 REFERENCE            trial_available_tickets
 LANG_ENGLISH         "Available Tickets [{ui_killhouse_ticket}] x&&1"
 
@@ -948,6 +956,12 @@ REFERENCE            trial_behind_enemy_line_desc_cqb_nvg
 LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
 
 Loadout: ^3CQB weapons^7 + ^2Night-vision goggles^7
+3 attempts"
+
+REFERENCE            trial_behind_enemy_line_desc_demol
+LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
+
+Loadout: ^3Demolition Weapons^7
 3 attempts"
 
 REFERENCE            trial_behind_enemy_line_desc_heavy
@@ -1068,6 +1082,12 @@ LANG_ENGLISH         "Sharpen your decision making skills while engaging waves o
 Loadout: ^31911^7
 3 attempts"
 
+REFERENCE            trial_gunslinger_desc_fal
+LANG_ENGLISH         "Sharpen your decision making skills while engaging waves of mixed enemies and civilian targets.
+
+Loadout: ^3FAL^7
+3 attempts"
+
 REFERENCE            trial_gunslinger_desc_mk2
 LANG_ENGLISH         "Sharpen your decision making skills while engaging waves of mixed enemies and civilian targets.
 
@@ -1076,6 +1096,14 @@ Loadout: ^3MK2 Carbine^7
 
 REFERENCE            trial_gunslinger_name
 LANG_ENGLISH         "Price's Alley"
+
+REFERENCE            trial_helirace_desc_simple
+LANG_ENGLISH         "Race through ring gates and finish the course as quickly as possible.
+
+3 attempts"
+
+REFERENCE            trial_helirace_name
+LANG_ENGLISH         "Helicopter Race"
 
 REFERENCE            trial_how_many_stars
 LANG_ENGLISH         "Get at least ^5&&1 Star ^7to win the reward."
@@ -1105,6 +1133,13 @@ LANG_ENGLISH         "Move through each checkpoint and finish the course as quic
 
 Loadout: ^3.50 GS^7
 3 attempts"
+
+REFERENCE            trial_lava_desc_dogtags
+LANG_ENGLISH         "Collect all Dogtags to finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
+
+Loadout: ^3Combat Knife^7
+3 attempts
+"
 
 REFERENCE            trial_lava_desc_knife
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
@@ -1256,6 +1291,11 @@ REFERENCE            trial_quadrace_desc
 LANG_ENGLISH         "Finish the race as quickly as possible. Race through flare gates and finish the course as quickly as possible.
 
 Loadout: ^3ATV^7
+3 attempts"
+
+REFERENCE            trial_quadrace_desc_dogtags
+LANG_ENGLISH         "Race through flare gates and finish the course as quickly as possible. Each lap, a new set of dogtags will appear along the track. Collect them to improve your time.
+
 3 attempts"
 
 REFERENCE            trial_quadrace_desc_simple

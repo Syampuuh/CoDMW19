@@ -8,6 +8,13 @@ LANG_ENGLISH         "All"
 REFERENCE            both
 LANG_ENGLISH         "Both"
 
+REFERENCE            compass_cardinal_direction_style
+LANG_ENGLISH         "Compass Cardinal Direction Text"
+
+REFERENCE            compass_cardinal_direction_style_desc
+LANG_ENGLISH         "Choose between ^5letters^7 or ^5numbers^7 for the compass cardinal direction text.
+"
+
 REFERENCE            deuteranope
 LANG_ENGLISH         "Deuteranomaly / Deuteranopia"
 
@@ -16,6 +23,9 @@ LANG_ENGLISH         "Improve the experience for players having weakness/blindne
 
 REFERENCE            interface
 LANG_ENGLISH         "Interface"
+
+REFERENCE            letters
+LANG_ENGLISH         "Letters"
 
 REFERENCE            minimap_circle
 LANG_ENGLISH         "Round"
@@ -42,6 +52,9 @@ LANG_ENGLISH         "None"
 
 REFERENCE            none_desc
 LANG_ENGLISH         ""
+
+REFERENCE            numbers
+LANG_ENGLISH         "Numbers"
 
 REFERENCE            planeonly
 LANG_ENGLISH         "Airplanes Only"

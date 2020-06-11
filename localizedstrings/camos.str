@@ -5,8 +5,17 @@ FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 REFERENCE            apc_camo_020
 LANG_ENGLISH         "Queen Anne's Revenge"
 
+REFERENCE            atv_camo_001
+LANG_ENGLISH         "Sevral"
+
+REFERENCE            atv_camo_005
+LANG_ENGLISH         "Sportsman"
+
 REFERENCE            atv_camo_009
 LANG_ENGLISH         "Best Summer"
+
+REFERENCE            atv_camo_017
+LANG_ENGLISH         "Pit Stop"
 
 REFERENCE            atv_camo_018
 LANG_ENGLISH         "Stuntman"
@@ -392,17 +401,26 @@ LANG_ENGLISH         "Unlock the Gold camo for every weapon of this class."
 REFERENCE            camo_gold_unlock_text
 LANG_ENGLISH         "Complete all camo challenges for this weapon."
 
+REFERENCE            cargo_truck_camo_004
+LANG_ENGLISH         "Ambush Alley"
+
 REFERENCE            cargo_truck_camo_011
 LANG_ENGLISH         "Blue Ridge Racer"
 
 REFERENCE            cargo_truck_camo_015
 LANG_ENGLISH         "Bachelor's Delight"
 
+REFERENCE            cargo_truck_camo_018
+LANG_ENGLISH         "Orange Crush"
+
 REFERENCE            cargo_truck_camo_019
-LANG_ENGLISH         "Senpai"
+LANG_ENGLISH         "Entomb"
 
 REFERENCE            cargo_truck_camo_020
 LANG_ENGLISH         "Senpai"
+
+REFERENCE            cargo_truck_camo_026
+LANG_ENGLISH         "Orange Crush"
 
 REFERENCE            category_completion
 LANG_ENGLISH         "Completionist"
@@ -449,17 +467,41 @@ LANG_ENGLISH         "The Warzone Express"
 REFERENCE            jeep_camo_012
 LANG_ENGLISH         "Lovecraft"
 
+REFERENCE            jeep_camo_018
+LANG_ENGLISH         "Luster"
+
+REFERENCE            jeep_camo_019
+LANG_ENGLISH         "Eagle Rock"
+
 REFERENCE            jeep_camo_020
 LANG_ENGLISH         "Fancy"
+
+REFERENCE            jeep_camo_028
+LANG_ENGLISH         "Luster"
 
 REFERENCE            little_bird_camo_001
 LANG_ENGLISH         "Goblin"
 
+REFERENCE            little_bird_camo_012
+LANG_ENGLISH         "Sundance"
+
+REFERENCE            little_bird_camo_016
+LANG_ENGLISH         "Aegean Tide"
+
 REFERENCE            little_bird_camo_017
 LANG_ENGLISH         "Savagery"
 
+REFERENCE            little_bird_camo_018
+LANG_ENGLISH         "From the Ashes"
+
+REFERENCE            little_bird_camo_019
+LANG_ENGLISH         "Forrest Canopy"
+
 REFERENCE            little_bird_camo_020
 LANG_ENGLISH         "Whydah"
+
+REFERENCE            tac_rover_camo_001
+LANG_ENGLISH         "Kaiju"
 
 REFERENCE            tac_rover_camo_006
 LANG_ENGLISH         "Track Star"
@@ -472,6 +514,12 @@ LANG_ENGLISH         "From the Pit"
 
 REFERENCE            tac_rover_camo_018
 LANG_ENGLISH         "Pollocks"
+
+REFERENCE            tac_rover_camo_019
+LANG_ENGLISH         "The Green Monster"
+
+REFERENCE            tac_rover_camo_020
+LANG_ENGLISH         "Chicane"
 
 REFERENCE            tank_east_camo_016
 LANG_ENGLISH         "Golden Hind"

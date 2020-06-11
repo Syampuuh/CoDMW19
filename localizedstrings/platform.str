@@ -50,6 +50,18 @@ LANG_ENGLISH         "Accept"
 REFERENCE            account_locked
 LANG_ENGLISH         "Account locked."
 
+REFERENCE            account_number_already_used
+LANG_ENGLISH         "The phone number for this account is already being used by another account.
+Please visit the Blizzard Account Settings page to add a new phone number.
+
+Error Code: &&1"
+
+REFERENCE            account_number_required
+LANG_ENGLISH         "You need to add a phone number to this account in order to connect to the game servers.
+Please visit the Blizzard Account Settings page to add a phone number.
+
+Error Code: &&1"
+
 REFERENCE            account_perm_ban
 LANG_ENGLISH         "Account permanently banned."
 
@@ -1611,6 +1623,9 @@ LANG_ENGLISH         "Enable or disable theater demo recording."
 
 REFERENCE            thermal_toggle
 LANG_ENGLISH         "&&1 Toggle Thermal"
+
+REFERENCE            thermal_toggle_specific
+LANG_ENGLISH         "[{+melee_zoom}] Toggle Thermal"
 
 REFERENCE            thirdperson
 LANG_ENGLISH         "^3[{+melee_zoom}]^7 - Third Person"

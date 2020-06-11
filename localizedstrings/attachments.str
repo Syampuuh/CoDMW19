@@ -285,7 +285,7 @@ REFERENCE            barlong4_falpha
 LANG_ENGLISH         "FR 24.4" Sniper"
 
 REFERENCE            barlong4_galima
-LANG_ENGLISH         "XRK Equinox S440"
+LANG_ENGLISH         "XRK Zodiac S440"
 
 REFERENCE            barlong4_hdromeo
 LANG_ENGLISH         "26.9" HDR Pro"
@@ -698,6 +698,9 @@ LANG_ENGLISH         "Custom dimpled large bore barrel reduces weight for improv
 
 REFERENCE            desc_barlight1_falpha
 LANG_ENGLISH         "Fluted barrel with a wider bore reduces weight for improved handling at the cost of muzzle velocity. "
+
+REFERENCE            desc_barlight1_galima
+LANG_ENGLISH         "Lightweight shroud and large bore barrel reduce weight for improved handling at the cost of muzzle velocity. "
 
 REFERENCE            desc_barlight1_mgolf34
 LANG_ENGLISH         "Lightweight barrel with precision-machined dimples and a wider bore removes excess weight for improved handling with a lower muzzle velocity."
@@ -1531,6 +1534,9 @@ LANG_ENGLISH         "Smooth and granulated tape for a relaxed and controlled gr
 REFERENCE            desc_pistolgrip01_02_sierra552
 LANG_ENGLISH         "Textured polymer with an adjustable palm shelf keeps the weapon incredibly stable while aiming."
 
+REFERENCE            desc_pistolgrip01_galima
+LANG_ENGLISH         "Textured polymer wrap with a finger groove for a relaxed and controlled grip.  Keeps you steady and on target."
+
 REFERENCE            desc_pistolgrip01_mike14
 LANG_ENGLISH         "Molded grip keeps the weapon in control during maneuvers.  Not as steady as a standard grip.  Heavy duty back end provides a more stable sight picture."
 
@@ -1546,11 +1552,17 @@ LANG_ENGLISH         "Skeletonized grip for the ultimate in high speed maneuveri
 REFERENCE            desc_pistolgrip02_02_smgolf45
 LANG_ENGLISH         "Skeletonized grip with Paracord wrap for the ultimate in high speed maneuvering."
 
+REFERENCE            desc_pistolgrip02_galima
+LANG_ENGLISH         "Stippled pistol grip wrap maintains control when performing high-speed maneuvers. Less stable but very agile."
+
 REFERENCE            desc_pistolgrip02_mike14
 LANG_ENGLISH         "Synthetic stock streamlined for close quarters combat.  Gets you on target faster.  Balanced backend for greater stability."
 
 REFERENCE            desc_pistolgrip03
 LANG_ENGLISH         "Rubberized grip keeps gun tight in hand.  Less steady, but helps control recoil."
+
+REFERENCE            desc_pistolgrip03_galima
+LANG_ENGLISH         "Rubberized grip wrap keeps gun tight in hand.  Less steady, but helps control recoil."
 
 REFERENCE            desc_pistolgrip03_mike14
 LANG_ENGLISH         "Pistol grip shape keeps gun tight in hand.  Less steady, but helps control recoil.  Balanced backend provides greater stability."
@@ -2164,7 +2176,7 @@ REFERENCE            desc_xmags_uzulu
 LANG_ENGLISH         "Extended magazines hold ^240 rounds^7 of 9mm Parabellum ammunition with a slight weight increase."
 
 REFERENCE            desc_xmags_victor
-LANG_ENGLISH         "Drum magazines hold ^245 rounds^7 of .41 APC ammunition, maximizing ammo capacity at the expense of mobility."
+LANG_ENGLISH         "Drum magazines hold ^240 rounds^7 of .45 APC ammunition, maximizing ammo capacity at the expense of mobility."
 
 REFERENCE            desc_xmagslrg
 LANG_ENGLISH         "High capacity magazines hold significantly more ammunition with a moderate weight increase."
@@ -2983,6 +2995,9 @@ LANG_ENGLISH         "Granulated Grip Tape"
 REFERENCE            pistolgrip01_02_sierra552
 LANG_ENGLISH         "Cronen Sniper Elite"
 
+REFERENCE            pistolgrip01_galima
+LANG_ENGLISH         "XRK CR-56 Granulated Wrap"
+
 REFERENCE            pistolgrip01_mike14
 LANG_ENGLISH         "Lightweight Gunstock"
 
@@ -2998,11 +3013,17 @@ LANG_ENGLISH         "XRK Void II"
 REFERENCE            pistolgrip02_02_smgolf45
 LANG_ENGLISH         "FTAC G-5 EXO"
 
+REFERENCE            pistolgrip02_galima
+LANG_ENGLISH         "XRK CR-56 Stippled Wrap"
+
 REFERENCE            pistolgrip02_mike14
 LANG_ENGLISH         "Steady Gunstock"
 
 REFERENCE            pistolgrip03
 LANG_ENGLISH         "Rubberized Grip Tape"
+
+REFERENCE            pistolgrip03_galima
+LANG_ENGLISH         "XRK CR-56 Rubberized Wrap"
 
 REFERENCE            pistolgrip03_mike14
 LANG_ENGLISH         "CQB Gunstock"

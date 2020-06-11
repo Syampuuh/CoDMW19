@@ -1,5 +1,5 @@
 0,iw8_sh_mike26_variant_0,iw8_sh_mike26,,,,,,,,,,,,,,,WEAPON/SH_MIKE26,ui_loot_weapon_sh_mike26,
 1,iw8_sh_mike26_variant_1,iw8_sh_mike26,,rec|1 gripdefault|1,,barshort|1,laserrange|4,,,smags|1,pistolgrip02|1,stockno|1,,,,,WEAPON/SH_MIKE26_V2,ui_loot_weapon_sh_mike26_v2,
-2,iw8_sh_mike26_variant_2,iw8_sh_mike26,,rec|2,choke|1,barmid|1,,gripvert|1,,xmags|1,,stockl|1,,,,,WEAPON/SH_MIKE26_V3,ui_loot_weapon_sh_mike26_v3,
-3,iw8_sh_mike26_variant_3,iw8_sh_mike26,,rec|3 front|3 back|3 mag|3 gripdefault|2,melee|3,barlong|1,laserrange|5,,reflexmini3|3,calcust|1,,,,,,,WEAPON/SH_MIKE26_V4,ui_loot_weapon_sh_mike26_v4,
-4,iw8_sh_mike26_variant_4,iw8_sh_mike26,,rec|1 front|1 back|1 mag|1 gripdefault|1,,,,,,,,,,,,,WEAPON/SH_MIKE26_V5,ui_loot_weapon_sh_mike26_v5,
+2,iw8_sh_mike26_variant_2,iw8_sh_mike26,,rec|2 front|2 back|2 mag|2 gripdefault|2,choke|1,barmid|1,,gripvert|1,,xmags|1,,stockl|1,,,,,WEAPON/SH_MIKE26_V3,ui_loot_weapon_sh_mike26_v3,
+3,iw8_sh_mike26_variant_3,iw8_sh_mike26,,rec|3 front|3 back|3 mag|3 gripdefault|3,melee|3,barlong|1,laserrange|5,,reflexmini3|3,calcust|1,,,,,,,WEAPON/SH_MIKE26_V4,ui_loot_weapon_sh_mike26_v4,
+4,iw8_sh_mike26_variant_4,iw8_sh_mike26,,rec|4 front|4 back|4 mag|4 gripdefault|4,choke|2,barlong|2,,,,calcust2|1,,,,,,,WEAPON/SH_MIKE26_V5,ui_loot_weapon_sh_mike26_v5,

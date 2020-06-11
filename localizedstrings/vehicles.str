@@ -41,11 +41,20 @@ LANG_ENGLISH         "Police Car"
 REFERENCE            customize_name
 LANG_ENGLISH         "Customize &&1"
 
+REFERENCE            equipped_horn
+LANG_ENGLISH         "Horn: &&1"
+
+REFERENCE            equipped_skin
+LANG_ENGLISH         "Skin: &&1"
+
 REFERENCE            hoopty
 LANG_ENGLISH         "Hoopty"
 
 REFERENCE            hoopty_truck
 LANG_ENGLISH         "Box Truck"
+
+REFERENCE            horns
+LANG_ENGLISH         "Horns"
 
 REFERENCE            jeep
 LANG_ENGLISH         "SUV"
@@ -83,6 +92,9 @@ LANG_ENGLISH         "LITTLE_BIRD_CAMO_017"
 REFERENCE            little_bird_desc
 LANG_ENGLISH         "An extremely capable helicopter equipped with a personnel platform for quick troop insertion and extraction scenarios. Available countermeasure flares for incoming surface-to-air or air-to-air missiles, combined with a very survivable design, make this a highly sought-after aircraft."
 
+REFERENCE            locked_text
+LANG_ENGLISH         "Earn loot for the ^5&&1 ^7to unlock this category"
+
 REFERENCE            loot_chopper
 LANG_ENGLISH         "Attack Chopper"
 
@@ -115,6 +127,27 @@ LANG_ENGLISH         "Technical Truck"
 
 REFERENCE            van
 LANG_ENGLISH         "Van"
+
+REFERENCE            veh_horn_charge
+LANG_ENGLISH         "Charge!"
+
+REFERENCE            veh_horn_default
+LANG_ENGLISH         "Default"
+
+REFERENCE            veh_horn_la_cucaracha
+LANG_ENGLISH         "La Cucaracha"
+
+REFERENCE            veh_horn_locked
+LANG_ENGLISH         "Locked"
+
+REFERENCE            veh_horn_race_countdown
+LANG_ENGLISH         "Start Your Engines"
+
+REFERENCE            veh_horn_ride_of_the_valkyries
+LANG_ENGLISH         "Ride of the Valkyries"
+
+REFERENCE            veh_horn_start_your_engines
+LANG_ENGLISH         "Start Your Engines"
 
 REFERENCE            vehicle_customization
 LANG_ENGLISH         "Vehicle Customization"

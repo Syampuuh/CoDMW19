@@ -552,9 +552,6 @@ LANG_ENGLISH         "Server killed."
 REFERENCE            servermessageoverflow
 LANG_ENGLISH         "Server message overflow"
 
-REFERENCE            serverquit
-LANG_ENGLISH         "Server quit"
-
 REFERENCE            serverrestartmisc
 LANG_ENGLISH         "Restarting server due to &&1 wrapping."
 

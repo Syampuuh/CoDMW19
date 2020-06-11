@@ -167,6 +167,9 @@ LANG_ENGLISH         "Base Building"
 REFERENCE            battle_royale
 LANG_ENGLISH         "Battle Royale"
 
+REFERENCE            bftdm_name
+LANG_ENGLISH         "BFTDM"
+
 REFERENCE            big_infect_alt
 LANG_ENGLISH         "Outbreak"
 
@@ -181,6 +184,15 @@ LANG_ENGLISH         "Giant Infection"
 
 REFERENCE            big_moshpit
 LANG_ENGLISH         "10v10 Mosh Pit"
+
+REFERENCE            bigtdm_name
+LANG_ENGLISH         "Big TDM"
+
+REFERENCE            bigwartdm_name
+LANG_ENGLISH         "Warzone: Big Team Deathmatch"
+
+REFERENCE            bigwartdm_name2
+LANG_ENGLISH         "Warzone Big Team Deathmatch"
 
 REFERENCE            bldmny_name
 LANG_ENGLISH         "Blood Money"
@@ -214,6 +226,18 @@ LANG_ENGLISH         "Blueprint Gunfight 3v3"
 
 REFERENCE            bluearena_name2
 LANG_ENGLISH         "Gunfight 3v3 - Blueprint"
+
+REFERENCE            bobj_desc
+LANG_ENGLISH         "Objective mosh pit for Search and Destroy and Cyber Attack."
+
+REFERENCE            bobjcybdd_desc
+LANG_ENGLISH         "Objective mosh pit for Cyber Attack and Demolition."
+
+REFERENCE            bobjsr_desc
+LANG_ENGLISH         "Objective mosh pit for Search and Destroy and Search and Rescue."
+
+REFERENCE            bombobj_name
+LANG_ENGLISH         "Bomb Objectives Mosh Pit"
 
 REFERENCE            bots_dev_desc
 LANG_ENGLISH         "MP Bots Development Playlists"
@@ -302,6 +326,9 @@ LANG_ENGLISH         "BR Duos Juggernaut"
 REFERENCE            brduojugg_name2
 LANG_ENGLISH         "BR Juggernaut Duos"
 
+REFERENCE            brduojugr_name
+LANG_ENGLISH         "Juggernaut Royale Duos"
+
 REFERENCE            brduos_name
 LANG_ENGLISH         "BR Duos"
 
@@ -377,6 +404,9 @@ LANG_ENGLISH         "Juggernaut BR"
 REFERENCE            brjugg_name3
 LANG_ENGLISH         "Juggernaut"
 
+REFERENCE            brjugr_name
+LANG_ENGLISH         "Juggernaut Royale"
+
 REFERENCE            brlifeins_name
 LANG_ENGLISH         "BR Life Insurance"
 
@@ -433,6 +463,9 @@ LANG_ENGLISH         "BR Quads Juggernaut"
 
 REFERENCE            brquadjugg_name2
 LANG_ENGLISH         "BR Juggernaut Quads"
+
+REFERENCE            brquadjugr_name
+LANG_ENGLISH         "Juggernaut Royale Quads"
 
 REFERENCE            brquadone_name
 LANG_ENGLISH         "BR Quads One Shot"
@@ -491,6 +524,9 @@ LANG_ENGLISH         "BR Solo Juggernaut"
 REFERENCE            brsolojugg_name2
 LANG_ENGLISH         "BR Juggernaut Solos"
 
+REFERENCE            brsolojugr_name
+LANG_ENGLISH         "Juggernaut Royale Solos"
+
 REFERENCE            brsoloone_name
 LANG_ENGLISH         "BR Solos One Shot"
 
@@ -520,6 +556,9 @@ LANG_ENGLISH         "BR Trios Juggernaut"
 
 REFERENCE            brtriojugg_name2
 LANG_ENGLISH         "BR Juggernaut Trios"
+
+REFERENCE            brtriojugr_name
+LANG_ENGLISH         "Juggernaut Royale Trios"
 
 REFERENCE            brtrios_gulag
 LANG_ENGLISH         "BR Trios INFINITE GULAG"
@@ -1114,6 +1153,15 @@ LANG_ENGLISH         "Face Off Kill Confirmed"
 REFERENCE            faceoff_tdm
 LANG_ENGLISH         "Face Off Team Deathmatch"
 
+REFERENCE            faceoffm1v1_desc
+LANG_ENGLISH         "Mosh Pit game modes played 1v1 on Gunfight maps. No Killstreaks and no Field Upgrades."
+
+REFERENCE            faceoffm2v2_desc
+LANG_ENGLISH         "Mosh Pit game modes played 2v2 on Gunfight maps. No Killstreaks and no Field Upgrades."
+
+REFERENCE            faceoffm3v3_desc
+LANG_ENGLISH         "Mosh Pit game modes played 3v3 on Gunfight maps. No Killstreaks and no Field Upgrades."
+
 REFERENCE            fallinf_name
 LANG_ENGLISH         "Falling Infected"
 
@@ -1219,17 +1267,32 @@ LANG_ENGLISH         "Prototype Drop Zone"
 REFERENCE            grnd_variant_desc
 LANG_ENGLISH         "Hold the Drop Zone to earn points and Prototype Drone Packages."
 
+REFERENCE            grnddomtdm_name
+LANG_ENGLISH         "Deathmatch Domination and Drop Zone"
+
 REFERENCE            ground_war_desc
 LANG_ENGLISH         "Large-scale conflict featuring vehicles. Capture and hold objectives to score. Captured objectives open forward spawning locations for your team."
 
 REFERENCE            ground_war_name
 LANG_ENGLISH         "Ground War"
 
+REFERENCE            gulagmp_name
+LANG_ENGLISH         "Gulag Aficionados Club"
+
 REFERENCE            gun_abbrv
 LANG_ENGLISH         "Gun Game"
 
 REFERENCE            gun_game_desc
 LANG_ENGLISH         "Be the first player to score a kill with each one of the provided weapons. ^3Kills, Deaths, Win/Loss are not affected.^7"
+
+REFERENCE            gun_mini
+LANG_ENGLISH         "Gun Game Mini"
+
+REFERENCE            gun_mini2
+LANG_ENGLISH         "Gun Game CQB"
+
+REFERENCE            gun_mini3
+LANG_ENGLISH         "Mini Gun Game"
 
 REFERENCE            gun_name
 LANG_ENGLISH         "Gun Game"
@@ -1362,6 +1425,9 @@ LANG_ENGLISH         "Hardpoint Missions"
 
 REFERENCE            hardpoint_test_missions_name
 LANG_ENGLISH         "Hardpoint Missions"
+
+REFERENCE            hardyard247_name
+LANG_ENGLISH         "Hard Yard 24/7"
 
 REFERENCE            hc_10v10_moshpit
 LANG_ENGLISH         "HC 10v10 Mosh Pit"
@@ -1552,6 +1618,12 @@ LANG_ENGLISH         "HC Khandor Hideout"
 REFERENCE            hcoic_name
 LANG_ENGLISH         "HC One in the Chamber"
 
+REFERENCE            hcscrap247_name
+LANG_ENGLISH         "HC Scrapyard 24/7"
+
+REFERENCE            hcscrpht247_name
+LANG_ENGLISH         "HC Hardhat and Scrapyard 24/7"
+
 REFERENCE            hcstocked_name
 LANG_ENGLISH         "HC Stocked and Locked"
 
@@ -1658,10 +1730,10 @@ REFERENCE            knives_name
 LANG_ENGLISH         "Shanks for the Memories"
 
 REFERENCE            koth_and_tdef
-LANG_ENGLISH         "Hardpoint / Defender"
+LANG_ENGLISH         "Hardpoint / Team Defender"
 
 REFERENCE            koth_and_tdef_desc
-LANG_ENGLISH         "Playlist featuring Hardpoint and Defender game modes."
+LANG_ENGLISH         "Playlist featuring Hardpoint and Team Defender game modes."
 
 REFERENCE            koth_vlntn_name
 LANG_ENGLISH         "HeartPoint"
@@ -1787,10 +1859,10 @@ REFERENCE            mlg_sr_name
 LANG_ENGLISH         "Search and Rescue eSports"
 
 REFERENCE            mlg_tdef_abbrv
-LANG_ENGLISH         "Defender Competitive"
+LANG_ENGLISH         "Team Defender Competitive"
 
 REFERENCE            mlg_tdef_name
-LANG_ENGLISH         "Defender Competitive"
+LANG_ENGLISH         "Team Defender Competitive"
 
 REFERENCE            mlg_tdm_abbrv
 LANG_ENGLISH         "TDM eSports"
@@ -1870,6 +1942,18 @@ LANG_ENGLISH         "Modern Warcade"
 REFERENCE            mpaltmodes_name2
 LANG_ENGLISH         "MW Party Playlist"
 
+REFERENCE            mparena_name
+LANG_ENGLISH         "Multiplayer Gunfight"
+
+REFERENCE            mparena_name2
+LANG_ENGLISH         "MP Gunfight"
+
+REFERENCE            mparenatr_name
+LANG_ENGLISH         "Gunfight Trial"
+
+REFERENCE            mparenatrial_name2
+LANG_ENGLISH         "MP Gunfight Trial"
+
 REFERENCE            mpfree_desc
 LANG_ENGLISH         "Free Multiplayer Weekend"
 
@@ -1905,6 +1989,18 @@ LANG_ENGLISH         "MP Trial"
 
 REFERENCE            mw_summer_name
 LANG_ENGLISH         "Modern Warfare Summer Games"
+
+REFERENCE            mwarena_name
+LANG_ENGLISH         "Modern Warfare Gunfight"
+
+REFERENCE            mwarena_name2
+LANG_ENGLISH         "MW Gunfight"
+
+REFERENCE            mwarenatrial_name
+LANG_ENGLISH         "Modern Warfare Gunfight Trial"
+
+REFERENCE            mwarenatrial_name2
+LANG_ENGLISH         "MW Gunfight Trial"
 
 REFERENCE            new_player_eval_1_desc
 LANG_ENGLISH         "Tier 1: players vs bots, autofill
@@ -2015,6 +2111,15 @@ LANG_ENGLISH         "One in the Chamber"
 REFERENCE            oneshot_desc
 LANG_ENGLISH         "One Shot"
 
+REFERENCE            onslaught_name
+LANG_ENGLISH         "Onslaught"
+
+REFERENCE            onslaughttdm_name
+LANG_ENGLISH         "Warzone: Onslaught"
+
+REFERENCE            onslaughttdm_name2
+LANG_ENGLISH         "Warzone Onslaught"
+
 REFERENCE            osp_snow_name
 LANG_ENGLISH         "Snowball Gunfight: OSP"
 
@@ -2023,6 +2128,12 @@ LANG_ENGLISH         "Parachuting Infected"
 
 REFERENCE            parainf_name2
 LANG_ENGLISH         "Parainfected"
+
+REFERENCE            party_caps
+LANG_ENGLISH         "PARTY MODES"
+
+REFERENCE            party_desc
+LANG_ENGLISH         "Free-for-All variant mosh pit featuring Gun Game Reloaded, One in the Chamber, and All or Nothing."
 
 REFERENCE            pewpew_name
 LANG_ENGLISH         "Pew Pew"
@@ -2264,6 +2375,15 @@ LANG_ENGLISH         "Riot TDM"
 REFERENCE            riot_tdm_name
 LANG_ENGLISH         "Riot TDM"
 
+REFERENCE            rmbl_name
+LANG_ENGLISH         "Warzone Rumble"
+
+REFERENCE            rmblryl_name
+LANG_ENGLISH         "Rumble Royale"
+
+REFERENCE            rmbltdm_name
+LANG_ENGLISH         "Rumble Deathmatch"
+
 REFERENCE            rugby_name1
 LANG_ENGLISH         "Jugg of War"
 
@@ -2278,6 +2398,9 @@ LANG_ENGLISH         "Breach"
 
 REFERENCE            rugby_name5
 LANG_ENGLISH         "Incursion"
+
+REFERENCE            rumble_name
+LANG_ENGLISH         "Rumble"
 
 REFERENCE            rurumb_name
 LANG_ENGLISH         "Rural Rumble"
@@ -2305,6 +2428,24 @@ LANG_ENGLISH         "Flotation Oxidation"
 
 REFERENCE            rustspeed_name
 LANG_ENGLISH         "Rust and Shoot House 24/7"
+
+REFERENCE            rylrmbl_name
+LANG_ENGLISH         "Royale Rumble"
+
+REFERENCE            scrap247_desc
+LANG_ENGLISH         "Mosh pit game modes on Scrapyard"
+
+REFERENCE            scrap247_name
+LANG_ENGLISH         "Scrapyard 24/7"
+
+REFERENCE            scraphat247_desc
+LANG_ENGLISH         "Mosh Pit game modes in Hardhat and Scrapyard"
+
+REFERENCE            scraphat247_name
+LANG_ENGLISH         "Scrap Hat 24/7"
+
+REFERENCE            scyrdhh247_name
+LANG_ENGLISH         "Hardhat and Scrapyard 24/7"
 
 REFERENCE            sd_abbrv
 LANG_ENGLISH         "S&D"
@@ -2499,13 +2640,13 @@ REFERENCE            tac_moshpit_desc
 LANG_ENGLISH         "Favorite modes with a new tactical rule set.  Completely revamped movement, health and weapon balance."
 
 REFERENCE            tdef_abbrv
-LANG_ENGLISH         "Defender"
+LANG_ENGLISH         "Team Defender"
 
 REFERENCE            tdef_hc_desc
-LANG_ENGLISH         "Hardcore Defender. Limited HUD, low Health, friendly fire enabled and much more."
+LANG_ENGLISH         "Hardcore Team Defender. Limited HUD, low Health, friendly fire enabled and much more."
 
 REFERENCE            tdef_name
-LANG_ENGLISH         "Defender"
+LANG_ENGLISH         "Team Defender"
 
 REFERENCE            tdm_abbrv
 LANG_ENGLISH         "Team Deathmatch"
@@ -2561,6 +2702,12 @@ LANG_ENGLISH         "Team Deathmatch Missions"
 REFERENCE            tdm_test_missions_name
 LANG_ENGLISH         "TDM Missions"
 
+REFERENCE            tdmfaction_name
+LANG_ENGLISH         "Faction War"
+
+REFERENCE            tdmrumble_name
+LANG_ENGLISH         "TDM Rumble"
+
 REFERENCE            teamtac_name
 LANG_ENGLISH         "Team Tactical"
 
@@ -2572,6 +2719,12 @@ LANG_ENGLISH         "Therock TDM"
 
 REFERENCE            tmbuildex_name
 LANG_ENGLISH         "Team Building Exercise"
+
+REFERENCE            trenchfo_name
+LANG_ENGLISH         "Face Off - Trench"
+
+REFERENCE            trenchfo_name2
+LANG_ENGLISH         "Trench Mosh Pit"
 
 REFERENCE            trios_name
 LANG_ENGLISH         "TRIOS"
@@ -2606,6 +2759,18 @@ LANG_ENGLISH         "VIP"
 REFERENCE            wallcomosh_name
 LANG_ENGLISH         "Clean up on Aisle 9"
 
+REFERENCE            warfaction_name
+LANG_ENGLISH         "Warzone: Faction War"
+
+REFERENCE            warfaction_name2
+LANG_ENGLISH         "Warzone Faction War"
+
+REFERENCE            wartdm_name
+LANG_ENGLISH         "Warzone: TDM"
+
+REFERENCE            wartdm_name2
+LANG_ENGLISH         "Warzone TDM"
+
 REFERENCE            warzone_desc
 LANG_ENGLISH         "Survive. Last team alive wins."
 
@@ -2630,6 +2795,18 @@ LANG_ENGLISH         "Winter Gunfight: OSP"
 REFERENCE            wrkfrmhm_desc
 LANG_ENGLISH         "Work from Home"
 
+REFERENCE            wzbloodltm_name
+LANG_ENGLISH         "Blood Money and Limited Time Modes"
+
+REFERENCE            wzbootsground_name
+LANG_ENGLISH         "Boots on the Ground Warzone"
+
+REFERENCE            wzfifty_name
+LANG_ENGLISH         "50v50"
+
+REFERENCE            wzground_name
+LANG_ENGLISH         "Ground Warzone"
+
 REFERENCE            wzltm_name
 LANG_ENGLISH         "Warzone LTM"
 
@@ -2641,6 +2818,39 @@ LANG_ENGLISH         "Weekend Warzone"
 
 REFERENCE            wzmosh_name
 LANG_ENGLISH         "Warzone Mosh Pit"
+
+REFERENCE            wzplltm_name
+LANG_ENGLISH         "Plunder and Limited Time Modes"
+
+REFERENCE            wzrumble_name
+LANG_ENGLISH         "Warzone Rumble"
+
+REFERENCE            wzsoblood_name
+LANG_ENGLISH         "BR Solos and Blood Money"
+
+REFERENCE            wzsolopl_name
+LANG_ENGLISH         "BR Solos and Plunder"
+
+REFERENCE            wzsoltm_name
+LANG_ENGLISH         "BR Solos and Limited Time Modes"
+
+REFERENCE            wztdm2_desc2
+LANG_ENGLISH         "One hundred player Team Deathmatch in areas around Verdansk."
+
+REFERENCE            wztdm_desc
+LANG_ENGLISH         "50v50 Team Deathmatch in areas around Verdansk."
+
+REFERENCE            wztdm_name
+LANG_ENGLISH         "Warzone TDM"
+
+REFERENCE            wzteam_desc
+LANG_ENGLISH         "Large-scale Team Deathmatch in areas around Verdansk."
+
+REFERENCE            wzteamdm_name
+LANG_ENGLISH         "Warzone Team Deathmatch"
+
+REFERENCE            wztmrmbl_name
+LANG_ENGLISH         "Warzone Rumble"
 
 REFERENCE            yotr_name
 LANG_ENGLISH         "2020 Year of the Rat"

@@ -1,0 +1,5 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,,
+ui_hardpoint_timer,1,,g,t,0,,,
+ui_ctf_flag_carrier,1,,c,b,0,0,1,
+ui_ctf_flag_allies,1,,g,i,-1,-2,31,
+ui_ctf_flag_axis,1,,g,i,-1,-2,31,

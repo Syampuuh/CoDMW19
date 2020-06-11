@@ -2,6 +2,9 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            500cp
+LANG_ENGLISH         "500 CP"
+
 REFERENCE            bundle_includes
 LANG_ENGLISH         "Bundle Includes"
 
@@ -134,7 +137,7 @@ LANG_ENGLISH         "Call of Duty??: Modern Warfare?? -  C.O.D.E. Fearless Pack
 REFERENCE            product_codepack_2_desc
 LANG_ENGLISH         "Defend those who defended our freedom! Support civilian careers for veterans through your purchase of the Call of Duty Endowment (C.O.D.E.) Fearless Pack for Modern Warfare??! We heard from the fans, so our biggest Endowment cosmetic content pack ever is back. It includes The For The Cause cosmetic weapon variant, weapon camo, watch, a weapon charm, a weapon sticker, environment spray, 2 emblems, and 2 calling cards!
 
-100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
+100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high-quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
 
 
 ?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
@@ -142,7 +145,7 @@ LANG_ENGLISH         "Defend those who defended our freedom! Support civilian ca
 REFERENCE            product_codepack_desc
 LANG_ENGLISH         "Defend those who defended our freedom! Support civilian careers for veterans through your purchase of the Call of Duty Endowment (C.O.D.E.) Defender Pack for Modern Warfare??! We heard from the fans, so our biggest Endowment cosmetic content pack ever is back. It includes The Defender Pistol cosmetic weapon variant, weapon camo, watch, weapon charm, weapon sticker, 2 environment sprays, 3 emblems, and a calling card!
 
-100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
+100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high-quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
 
 
 ?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
@@ -299,21 +302,20 @@ REFERENCE            product_head_start_pack
 LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Three)"
 
 REFERENCE            product_head_start_pack_2
-LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack"
+LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Four)"
 
 REFERENCE            product_head_start_pack_2_desc
-LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by the mountains of Verdansk.
+LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by Verdansk???s Stadium.
 
 This pack includes:
 
-- Epic Operator Skin for Wyatt
-- Legendary Marksman Rifle Blueprint
-- Epic Pistol Blueprint
-- Epic Tactical Knife
+- Epic Operator Skin for Zane
+- Epic SMG Weapon Blueprint
+- Epic Cosmetic Watch
 - Epic Weapon Charm
-- Epic Animated Calling Card
-- Rare Spray
-- 60-minute 2x Weapon XP Token
+- Epic Calling Card
+- Epic Emblem
+- 60-minute 2XP Token
 
 Timed exclusive for PlayStation??Plus members until October 1, 2020.
 
@@ -379,10 +381,28 @@ REFERENCE            product_standard_edition_desc
 LANG_ENGLISH         "The Standard Edition includes a Custom In-Game Tactical Knife and the XRK Weapons Pack."
 
 REFERENCE            starter_pack_desc
-LANG_ENGLISH         "Starter Pack contains..."
+LANG_ENGLISH         "Purchase this limited-time bundle of content for Modern Warfare?? and Warzone. This Starter Pack includes 500 Call of Duty?? Points (a $4.99 value), PLUS a new Operator Skin, a Shotgun Blueprint with five attachments, and MORE!
+
+Pack includes:
+
+- 500 Call of Duty Points* ($4.99 value)
+- Epic Operator Skin for Kreuger
+- Legendary Shotgun Blueprint
+- Epic Calling Card
+- Epic Emblem
+- 60-Minute Double XP Token
+- 60-Minute Double Battle Pass Tier XP Token
+
+Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare to obtain in-game content for use in Multiplayer, Special Ops and Warzone game modes.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Modern Warfare?? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+Call of Duty??: Modern Warfare?? or Call of Duty??: Warzone required (Sold/downloaded separately).
+
+?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
 
 REFERENCE            starterpack_title
-LANG_ENGLISH         "Starter Pack"
+LANG_ENGLISH         "Call of Duty??: Warzone - Starter Pack"
 
 REFERENCE            upsell_daily
 LANG_ENGLISH         "All daily challenges available in the full game."

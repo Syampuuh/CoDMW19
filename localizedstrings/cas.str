@@ -110,6 +110,9 @@ LANG_ENGLISH         "&&1 - &&2"
 REFERENCE            blueprint_attachment
 LANG_ENGLISH         "Gunsmith Customs"
 
+REFERENCE            blueprint_store
+LANG_ENGLISH         "Blueprint Store"
+
 REFERENCE            blueprint_warning_body
 LANG_ENGLISH         "Creating a blueprint uses an available blueprint slot and
 resets your upgrade tree with new sights, perks and attachments.
@@ -261,6 +264,12 @@ LANG_ENGLISH         "Weapon Level: &&1"
 
 REFERENCE            gunsmith_criteria
 LANG_ENGLISH         "Gain &&1 XP using adjacent attachments to unlock."
+
+REFERENCE            gunsmith_custom
+LANG_ENGLISH         "Gunsmith Custom"
+
+REFERENCE            gunsmith_custom_prompt
+LANG_ENGLISH         "[{ui_l3}] Gunsmith Custom"
 
 REFERENCE            gunsmith_preview
 LANG_ENGLISH         "&&1 Gunsmith Preview"

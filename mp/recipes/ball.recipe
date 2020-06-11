@@ -37,8 +37,6 @@ ballData.practiceMode = 0
 
 ballCommonData.possessionResetCondition = 0
 ballCommonData.possessionResetTime = 0
-ballCommonData.explodeOnExpire = 0
-ballCommonData.armorMod = 1
 
 carryData.showEnemyCarrier = 5
 carryData.idleResetTime = 15.000000

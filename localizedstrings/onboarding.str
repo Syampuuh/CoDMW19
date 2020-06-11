@@ -20,6 +20,15 @@ attachments and custom cosmetics. Blueprints can be
 purchased in the ^5Store ^7, via the ^5Battle Pass^7, or unlocked in ^5Missions & Challenges^7.
 Blueprints will be shown in the armory and can be taken into Gunsmith for modification."
 
+REFERENCE            blueprint_store
+LANG_ENGLISH         "Store Blueprints"
+
+REFERENCE            blueprint_store_1
+LANG_ENGLISH         "Edit loadout has been updated to show available blueprints that you can obtain from the ^5Store^7 to build out your blueprint collection. "
+
+REFERENCE            blueprint_store_2
+LANG_ENGLISH         "Blueprints obtainable through the ^5Store ^7are marked with a ^5Blueprint Tag^7. Find these blueprints in the ^5Blueprint Store ^7menu or the ^5Armory ^7menu."
+
 REFERENCE            br_classic_hint_header_1
 LANG_ENGLISH         "Loot"
 
@@ -260,6 +269,9 @@ LANG_ENGLISH         "Custom Mods track stats, so your weapon will build a histo
 REFERENCE            mods
 LANG_ENGLISH         "Custom Modification"
 
+REFERENCE            moshpit_trials
+LANG_ENGLISH         "Moshpit Trial"
+
 REFERENCE            moshpit_trials_1
 LANG_ENGLISH         "For a limited time, hop into Modern Warfare's multiplayer mode to rank up, level your guns and complete challenges."
 
@@ -419,6 +431,27 @@ LANG_ENGLISH         "Kill enemies to score"
 REFERENCE            tdm_3
 LANG_ENGLISH         "Be the first team to the score limit OR highest score when the clock runs out"
 
+REFERENCE            tdm_anywhere
+LANG_ENGLISH         "Warzone Rumble"
+
+REFERENCE            tdm_anywhere_desc_1
+LANG_ENGLISH         "Large-scale Team Deathmatch in areas around Verdansk."
+
+REFERENCE            tdm_anywhere_desc_2
+LANG_ENGLISH         "Eliminate the enemy team. If you get eliminated, don't worry! You will respawn and parachute back into the Warzone."
+
+REFERENCE            tdm_anywhere_desc_3
+LANG_ENGLISH         "Kill players on the opposing team. The first team to reach the score limit wins!"
+
+REFERENCE            tdm_anywhere_heading_1
+LANG_ENGLISH         "New Warzone"
+
+REFERENCE            tdm_anywhere_heading_2
+LANG_ENGLISH         "How To Play"
+
+REFERENCE            tdm_anywhere_heading_3
+LANG_ENGLISH         "How To Win"
+
 REFERENCE            tutorial_plunder_1_header
 LANG_ENGLISH         "Team With the Most Cash Wins"
 
@@ -465,6 +498,27 @@ REFERENCE            vehicle_camos_3
 LANG_ENGLISH         "When available, Vehicle Skins can be purchased in
 bundles from the ^5Store ^7or unlocked via the ^5Battle Pass^7.
 "
+
+REFERENCE            vehicle_horn
+LANG_ENGLISH         "Vehicle Horns"
+
+REFERENCE            vehicle_horn_desc_1
+LANG_ENGLISH         "Unlock Vehicle Horns by earning them in the Battle Pass or purchasing them in the Store."
+
+REFERENCE            vehicle_horn_desc_2
+LANG_ENGLISH         "Equip them in the Horns menu within the Vehicle Customization option in the Weapons tab."
+
+REFERENCE            vehicle_horn_desc_3
+LANG_ENGLISH         "Hop into your vehicle and get the attention you deserve."
+
+REFERENCE            weapon_mastery
+LANG_ENGLISH         "Weapon Mastery Challenges"
+
+REFERENCE            weapon_mastery_1
+LANG_ENGLISH         "The new obsidian camo is now available on all weapons. Unlock the camo by completing the obsidian challenge for each weapon."
+
+REFERENCE            weapon_mastery_2
+LANG_ENGLISH         "Master each weapon and unlock exclusive rewards by completing various challenges types. Weapon mastery challenges become available after obtaining a weapons gold camo"
 
 REFERENCE            wz_congratulation_popup_desc_1
 LANG_ENGLISH         "Congratulations on completing the Warzone training. Replay it anytime by accessing it from the play menu."

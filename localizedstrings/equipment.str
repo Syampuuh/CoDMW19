@@ -65,6 +65,12 @@ LANG_ENGLISH         "Small Medical Kit"
 REFERENCE            bandages_desc_br
 LANG_ENGLISH         "Heals for 20% of maximum health over 5 seconds."
 
+REFERENCE            binoculars
+LANG_ENGLISH         "Spotter Scope"
+
+REFERENCE            binoculars_desc
+LANG_ENGLISH         "Spot and mark enemies from a distance"
+
 REFERENCE            bouncing_betty
 LANG_ENGLISH         "Bouncing Betty"
 

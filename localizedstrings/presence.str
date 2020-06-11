@@ -80,6 +80,9 @@ LANG_ENGLISH         "Operation Bomb Squad"
 REFERENCE            cp_sv_aniyah
 LANG_ENGLISH         "Aniyah Palace"
 
+REFERENCE            cp_sv_backlot
+LANG_ENGLISH         "Talsik Backlot"
+
 REFERENCE            cp_sv_bigstore
 LANG_ENGLISH         "Atlas Superstore"
 
@@ -308,6 +311,9 @@ LANG_ENGLISH         "Speedball"
 REFERENCE            mp_m_stack
 LANG_ENGLISH         "Stack"
 
+REFERENCE            mp_m_trench
+LANG_ENGLISH         "Trench"
+
 REFERENCE            mp_m_wallco2
 LANG_ENGLISH         "Aisle 9"
 
@@ -335,6 +341,9 @@ LANG_ENGLISH         "Port of Verdansk"
 REFERENCE            mp_prime
 LANG_ENGLISH         "Noir"
 
+REFERENCE            mp_promenade_gw
+LANG_ENGLISH         "Promenade"
+
 REFERENCE            mp_proto
 LANG_ENGLISH         "Frost"
 
@@ -361,6 +370,9 @@ LANG_ENGLISH         "Gun Runner (Night)"
 
 REFERENCE            mp_rust
 LANG_ENGLISH         "Rust"
+
+REFERENCE            mp_scrapyard
+LANG_ENGLISH         "Scrapyard"
 
 REFERENCE            mp_shipment
 LANG_ENGLISH         "Shipment"
@@ -645,7 +657,7 @@ REFERENCE            tac_ops
 LANG_ENGLISH         "Special Ops"
 
 REFERENCE            tdef
-LANG_ENGLISH         "Defender"
+LANG_ENGLISH         "Team Defender"
 
 REFERENCE            tjugg
 LANG_ENGLISH         ""

@@ -1,0 +1,1041 @@
+[
+  {
+    "name": "MainLockoutMenu",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EULAPopup",
+    "connections": [
+      {
+        "name": "BootBrightness",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BootBrightness",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "popup_connecting_error",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "popup_getting_data_error",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "popup_signin_error",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "bootcheck_corrupt_savedata_error_popup",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OutdatedPlaylists",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "strict_nat_warning",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "screen",
+    "comment": "This is a notice saying patch files may be corrupted, clear cache and re-download?",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MainMenu",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "CampaignMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "MPMainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "CPMainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_RIGHT" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "ChooseLocalPlay",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_RIGHT" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_RIGHT" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_RIGHT" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "BRMainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MainMenuOffline",
+    "connections": [
+      {
+        "name": "MainLockoutMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "CampaignMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "ChooseLocalPlay",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "MPMainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CampaignMenu",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "LevelSelectMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MPMainMenu",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          }
+        ],
+        "comment": "The last DPAD_LEFT input is to restore the previous menu to its default state when backing out"
+      },
+      {
+        "name": "Missions",
+        "inputs": [
+          {
+            "delay": 2.0,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ],
+      },
+      {
+        "name": "PrivateMatchLobby",
+        "inputs": [
+          {
+            "delay": 1.0,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 1.0,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "SocialMenu",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_Y" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CPMainMenu",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          }
+        ],
+        "comment": "The DPAD_UP inputs are to restore the previous menu to its default state when backing out"
+      },
+      {
+        "name": "CPPlaylistMenu",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ChooseLocalPlay",
+    "comment": "When you enter local play, a dialog asks whether to play MP or CP"
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_LEFT" ]
+          }
+        ],
+        "comment": "The DPAD_UP inputs are to restore the previous menu to its default state when backing out"
+      },
+      {
+        "name": "SystemLinkMenu",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "SystemLinkMenu_CP",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LevelSelectMenu",
+    "connections": [
+      {
+        "name": "CampaignMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          }
+        ],
+        "comment": "The DPAD_UP inputs are to restore the previous menu to its default state when backing out"
+      },
+      {
+        "name": "SPDefault",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SystemLinkMenu",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "SystemLinkLobby_Host",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "SystemLinkLobby_Join",
+        "comment": "Wait 5, hit refresh button, move to host list, select hosted game",
+        "inputs": [
+          { "delay": 5 },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_X" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SystemLinkMenu_CP",
+    "screen": "SystemLinkMenu",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SystemLinkLobby_Host",
+    "screen": "SystemLinkLobby",
+    "connections": [
+      {
+        "name": "SystemLinkMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          }
+        ]
+      },
+      {
+        "name": "SystemLink_HostStart",
+        "comment": "Wait 10s for someone to join, hit start",
+        "inputs": [
+          {
+            "delay": 10,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SystemLinkLobby_Join",
+    "screen": "SystemLinkLobby",
+    "connections": [
+      {
+        "name": "SystemLinkMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SystemLink_HostStart",
+    "comment": "Screen doesn't exist, destination will never be reached.  For cyclic tests, enter match, return to front-end, repeat"
+  },
+  {
+    "name": "SPDefault",
+    "comment": "Screen doesn't exist, destination will never be reached.  Clear using ui_nav_clear console command."
+  },
+  {
+    "name": "CPPlaylistMenu",
+    "connections": [
+      {
+        "name": "CPMainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "CPPublicMatchMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CPPublicMatchMenu",
+    "connections": [
+      {
+        "name": "CPPlaylistMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 1.0,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Missions",
+    "splitscreenjoin": "true",
+    "connections": [
+      {
+        "name": "MPMainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "PlaylistMenu",
+        "comment": "Delay below is to allow split-screen players to join if signed in",
+        "inputs": [
+          {
+            "delay": 3.0,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "Soldier",
+        "inputs": [
+          {
+            "delay": 1.0,
+            "hold": 0.1,
+            "keys": [ "DPAD_DOWN" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PrivateMatchLobby",
+    "connections": [
+      {
+        "name": "Missions",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          }
+        ],
+        "comment": "The last DPAD_UP inputs are to restore the previous menu to its default state when backing out"
+      }
+    ]
+  },
+  {
+    "name": "PlaylistMenu",
+    "connections": [
+      {
+        "name": "Missions",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "LobbyMission",
+        "comment": "Use playercount 100 playlist",
+        "target": [
+          {
+            "button": "PLAYERCOUNT TEST 100",
+            "tab": "DEV"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Soldier",
+    "connections": [
+      {
+        "name": "Missions",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          }
+        ]
+      },
+      {
+        "name": "LoadoutSelect",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LoadoutSelect",
+    "connections": [
+      {
+        "name": "Soldier",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LobbyMission",
+    "connections": [
+      {
+        "name": "Missions",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          },
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "DPAD_UP" ]
+          },
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      },
+      {
+        "name": "Soldier2",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Soldier2",
+    "screen": "Soldier",
+    "comment": "This duplication is necessary where the same named screen appears in the UI graph - each screen node must be unique",
+    "connections": [
+      {
+        "name": "LobbyMission",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      },
+      {
+        "name": "LoadoutSelect2",
+        "inputs": [
+          {
+            "delay": 0.5,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LoadoutSelect2",
+    "screen": "LoadoutSelect",
+    "connections": [
+      {
+        "name": "Soldier2",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SocialMenu",
+    "connections": [
+      {
+        "name": "MPMainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BRMainMenu",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_B" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SeasonUnlocksPopup",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          {
+            "delay": 1,
+            "hold": 0.1,
+            "keys": [ "BUTTON_A" ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MagmaDailyPopup",
+    "connections": [
+      {
+        "name": "MainMenu",
+        "inputs": [
+          { "delay": 1, "hold": 0.1, "keys": [ "BUTTON_A"]}
+        ]
+      }
+    ]
+  }
+]
+
+

@@ -11,6 +11,7 @@ main_clientcharacter
 	chr_menu_female_idle_02_AR
 	chr_menu_female_intro_01_AR
 	chr_menu_dog_idle_01
+	chr_menu_hyena_idle_01
 	chr_menu_male_idle_01_AR
 	chr_menu_male_idle_02_AR
 	chr_menu_male_intro_01_AR
@@ -56,6 +57,7 @@ main_clientcharacter
 	chr_menu_edit_male_turn_r_03
 	chr_menu_edit_male_turn_r_04
 	chr_menu_mp_squad_dog_01
+	chr_menu_mp_squad_hyena_01
 	chr_menu_mp_squad_male_01
 	chr_menu_mp_squad_male_02
 	chr_menu_mp_squad_male_03
@@ -107,6 +109,7 @@ main_clientcharacter
 	fe_operator_select_confirm_ronin_01
 	fe_operator_select_confirm_iskra_01
 	fe_operator_select_confirm_kyle_01
+	fe_operator_select_confirm_price_01
 	
 
 	// Quartermaster Crate
@@ -211,6 +214,12 @@ main_clientcharacter
 		mp_fingers_sm_smgolf45_gripang_l
 		mp_fingers_sm_smgolf45_gripvert_l	
 		mp_fingers_sm_smgolf45_gripvertpro_l
+		
+		mp_fingers_sm_victor_l
+		mp_fingers_sm_victor_gripang_l
+		mp_fingers_sm_victor_gripvert_l	
+		mp_fingers_sm_victor_gripvertpro_l
+		mp_fingers_sm_victor_griphip_l
 		
 //IW8 - ARs
 
@@ -467,6 +476,9 @@ main_clientcharacter
 		mp_fingers_sm_smgolf45_r
 		mp_fingers_sm_smgolf45_r_safe
 		
+		mp_fingers_sm_victor_r
+		mp_fingers_sm_victor_r_safe
+		
 //IW8 - ARs
 
 		mp_fingers_ar_mike4_r
@@ -648,6 +660,7 @@ main_clientcharacter
 		fe_gunsmith_weapon_placement_mike9
 		fe_gunsmith_weapon_placement_sksierra
 		fe_gunsmith_weapon_placement_mkilo3
+		fe_gunsmith_weapon_placement_galima
 	}
 }
 

@@ -59,6 +59,12 @@ LANG_ENGLISH         "Gear up, locate objectives to gain killstreaks for your sq
 REFERENCE            brm_hint
 LANG_ENGLISH         "Complete Contracts with your squad to gather resources for your team."
 
+REFERENCE            brtdm_hint
+LANG_ENGLISH         "Eliminate the enemy at all costs."
+
+REFERENCE            brtdm_score
+LANG_ENGLISH         "Gain points by eliminating enemy players.  First team to &&1 points wins."
+
 REFERENCE            btm_hint
 LANG_ENGLISH         "Eliminate enemies, capture HQ's and extract VIPs to earn score for your team."
 
@@ -429,13 +435,13 @@ REFERENCE            tdef
 LANG_ENGLISH         "Capture and hold the drone at all costs. Score increases with time held."
 
 REFERENCE            tdef_attacker_hint
-LANG_ENGLISH         "Capture and hold the drone at all costs. Score increases with time held."
+LANG_ENGLISH         "Capture and hold the flag. Team score per kill increases when your team hold the flag"
 
 REFERENCE            tdef_hint
-LANG_ENGLISH         "Capture and hold the drone at all costs."
+LANG_ENGLISH         "Capture and hold the flag at all costs."
 
 REFERENCE            tdef_score
-LANG_ENGLISH         "Capture and hold the drone to score.  First team to &&1 wins."
+LANG_ENGLISH         "Capture and hold the flag to score extra points per kill.  First team to &&1 wins."
 
 REFERENCE            tjugg
 LANG_ENGLISH         "Defend your Juggernaut to become Juggernaut."

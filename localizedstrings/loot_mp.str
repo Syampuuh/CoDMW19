@@ -167,6 +167,9 @@ LANG_ENGLISH         "Swap Tactical"
 REFERENCE            swap_weapon
 LANG_ENGLISH         "Swap Weapon"
 
+REFERENCE            vehicle_horn
+LANG_ENGLISH         "Vehicle Horn"
+
 REFERENCE            vehicle_skin
 LANG_ENGLISH         "Vehicle Skin"
 
@@ -343,6 +346,9 @@ LANG_ENGLISH         "Swap Tactical"
 
 REFERENCE            swap_weapon
 LANG_ENGLISH         "Swap Weapon"
+
+REFERENCE            vehicle_horn
+LANG_ENGLISH         "Vehicle Horn"
 
 REFERENCE            vehicle_skin
 LANG_ENGLISH         "Vehicle Skin"

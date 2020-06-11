@@ -15,7 +15,7 @@ REFERENCE            medals_generic_desc
 LANG_ENGLISH         "Medals"
 
 REFERENCE            season3_drop1_global
-LANG_ENGLISH         "Learn who is behind the Armistice FOB attack."
+LANG_ENGLISH         "Find the cause of the airport attack."
 
 REFERENCE            season3_drop1_name
 LANG_ENGLISH         "Fractured"
@@ -45,25 +45,25 @@ REFERENCE            season3_drop2_name
 LANG_ENGLISH         "Hunting the Enemy"
 
 REFERENCE            season3_drop2_step1_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP1_DESCRIPTION"
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
 
 REFERENCE            season3_drop2_step2_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP2_DESCRIPTION"
+LANG_ENGLISH         "SIGINT was relayed from Airport military wing..."
 
 REFERENCE            season3_drop2_step3_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP3_DESCRIPTION"
+LANG_ENGLISH         "Communication interference tracked to Western bunker..."
 
 REFERENCE            season3_drop2_step4_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP4_DESCRIPTION"
+LANG_ENGLISH         "An enemy laptop could supply intel..."
 
 REFERENCE            season3_drop2_step5_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP5_DESCRIPTION"
+LANG_ENGLISH         "A meeting took place downtown..."
 
 REFERENCE            season3_drop2_step6_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP6_DESCRIPTION"
+LANG_ENGLISH         "The enemy wants to catch a train..."
 
 REFERENCE            season3_drop2_step7_description
-LANG_ENGLISH         "SEASON3_DROP2_STEP7_DESCRIPTION"
+LANG_ENGLISH         "Learn the status of the 19:30 Express."
 
 REFERENCE            season3_drop3_global
 LANG_ENGLISH         "Discover what is contained in the missing shipments."
@@ -90,7 +90,7 @@ REFERENCE            season3_drop3_step6_description
 LANG_ENGLISH         "SEASON3_DROP3_STEP6_DESCRIPTION"
 
 REFERENCE            season3_drop4_global
-LANG_ENGLISH         "Uncover the truth behind the FOB attack."
+LANG_ENGLISH         "Uncover the truth behind the airport attack."
 
 REFERENCE            season3_drop4_name
 LANG_ENGLISH         "New Perspectives"
@@ -110,8 +110,29 @@ LANG_ENGLISH         "SEASON3_DROP4_STEP4_DESCRIPTION"
 REFERENCE            season3_drop4_step5_description
 LANG_ENGLISH         "SEASON3_DROP4_STEP5_DESCRIPTION"
 
+REFERENCE            season3_drop5_global
+LANG_ENGLISH         "SEASON3_DROP5_GLOBAL"
+
 REFERENCE            season3_drop5_name
 LANG_ENGLISH         "The Lost Team"
+
+REFERENCE            season3_drop5_step1_description
+LANG_ENGLISH         "SEASON3_DROP5_STEP1_DESCRIPTION"
+
+REFERENCE            season3_drop5_step2_description
+LANG_ENGLISH         "SEASON3_DROP5_STEP2_DESCRIPTION"
+
+REFERENCE            season3_drop5_step3_description
+LANG_ENGLISH         "SEASON3_DROP5_STEP3_DESCRIPTION"
+
+REFERENCE            season3_drop5_step4_description
+LANG_ENGLISH         "SEASON3_DROP5_STEP4_DESCRIPTION"
+
+REFERENCE            season3_drop5_step5_description
+LANG_ENGLISH         "SEASON3_DROP5_STEP5_DESCRIPTION"
+
+REFERENCE            season3_drop5_step6_description
+LANG_ENGLISH         "SEASON3_DROP5_STEP6_DESCRIPTION"
 
 
 ENDMARKER

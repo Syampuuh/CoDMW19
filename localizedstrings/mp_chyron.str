@@ -161,6 +161,30 @@ LANG_ENGLISH         "2 km outside of El Nadaar, Urzikstan"
 REFERENCE            mp_bigmap_locale_17_axis_4
 LANG_ENGLISH         "Jackals - Squadron 7"
 
+REFERENCE            mp_bigmap_locale_18_allies_1
+LANG_ENGLISH         "Operation: Barakett Promenade"
+
+REFERENCE            mp_bigmap_locale_18_allies_2
+LANG_ENGLISH         "Day 107 2:05:"
+
+REFERENCE            mp_bigmap_locale_18_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_18_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_bigmap_locale_18_axis_1
+LANG_ENGLISH         "Operation: Barakett Promenade"
+
+REFERENCE            mp_bigmap_locale_18_axis_2
+LANG_ENGLISH         "Day 107 2:05:"
+
+REFERENCE            mp_bigmap_locale_18_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_bigmap_locale_18_axis_4
+LANG_ENGLISH         "Chimera - Unit 1"
+
 REFERENCE            mp_bigmap_locale_3_allies_1
 LANG_ENGLISH         "'Operation Lifeboat'"
 
@@ -868,6 +892,30 @@ LANG_ENGLISH         "Classified"
 
 REFERENCE            mp_rust_axis_4
 LANG_ENGLISH         "Jackals - Expedition Unit"
+
+REFERENCE            mp_scrapyard_allies_1
+LANG_ENGLISH         "Operation: Zhokov Scrapyard"
+
+REFERENCE            mp_scrapyard_allies_2
+LANG_ENGLISH         "Day 118 2:10:"
+
+REFERENCE            mp_scrapyard_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_scrapyard_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_scrapyard_axis_1
+LANG_ENGLISH         "Operation: Zhokov Scrapyard"
+
+REFERENCE            mp_scrapyard_axis_2
+LANG_ENGLISH         "Day 118 2:10:"
+
+REFERENCE            mp_scrapyard_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_scrapyard_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
 
 REFERENCE            mp_shipment_allies_1
 LANG_ENGLISH         "Operation: Shipment"

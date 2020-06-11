@@ -2,6 +2,9 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            cap_def_tdef_flag
+LANG_ENGLISH         "Capture and defend the flag"
+
 REFERENCE            capture_defend_flags
 LANG_ENGLISH         "Capture and defend the flags"
 

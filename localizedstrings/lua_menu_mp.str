@@ -430,6 +430,30 @@ LANG_ENGLISH         "Back to Store"
 REFERENCE            backlot_desc
 LANG_ENGLISH         "Talsik Backlot in Mosh Pit game modes."
 
+REFERENCE            backlot_four_players
+LANG_ENGLISH         "Talsik Backlot - Four Players"
+
+REFERENCE            backlot_four_players_desc
+LANG_ENGLISH         "Talsik Backlot Leaderboard - Four Players"
+
+REFERENCE            backlot_solo
+LANG_ENGLISH         "Talsik Backlot - Solo"
+
+REFERENCE            backlot_solo_desc
+LANG_ENGLISH         "Talsik Backlot Leaderboard - Solo"
+
+REFERENCE            backlot_three_players
+LANG_ENGLISH         "Talsik Backlot - Three Players"
+
+REFERENCE            backlot_three_players_desc
+LANG_ENGLISH         "Talsik Backlot Leaderboard - Three Players"
+
+REFERENCE            backlot_two_players
+LANG_ENGLISH         "Talsik Backlot - Two Players"
+
+REFERENCE            backlot_two_players_desc
+LANG_ENGLISH         "Talsik Backlot Leaderboard - Two Players"
+
 REFERENCE            backpack
 LANG_ENGLISH         "BACKPACK"
 
@@ -565,6 +589,9 @@ LANG_ENGLISH         "Your team's objective is to secure 1 million in cash. Comp
 
 REFERENCE            bomb_planted_at
 LANG_ENGLISH         "Bomb planted at:"
+
+REFERENCE            bombobj_desc
+LANG_ENGLISH         "Objective mosh pit for Search and Destroy, Cyber Attack, and Demolition."
 
 REFERENCE            bounty_level
 LANG_ENGLISH         "Bounty"
@@ -771,10 +798,10 @@ REFERENCE            brinflation_desc
 LANG_ENGLISH         "When a player is knocked out, they will parachute back into the fight after a delay if they have enough cash on them. The Gulag is disabled."
 
 REFERENCE            brjugg
-LANG_ENGLISH         "BR Juggernaut"
+LANG_ENGLISH         "Juggernaut Royale"
 
 REFERENCE            brjugg_desc
-LANG_ENGLISH         "Fight over Juggernaut crates and be the last team standing."
+LANG_ENGLISH         "Fight over Juggernaut armor drops and be the last team standing."
 
 REFERENCE            brm
 LANG_ENGLISH         "BR Missions"
@@ -1612,7 +1639,7 @@ REFERENCE            desc_leaderboard_sr
 LANG_ENGLISH         "Search and Rescue Leaderboard."
 
 REFERENCE            desc_leaderboard_tdef
-LANG_ENGLISH         "Defender Leaderboard."
+LANG_ENGLISH         "Team Defender Leaderboard."
 
 REFERENCE            desc_leaderboard_trial
 LANG_ENGLISH         "Trial"
@@ -1965,6 +1992,9 @@ LANG_ENGLISH         "Helicopter Extraction"
 REFERENCE            extraction
 LANG_ENGLISH         "Extraction"
 
+REFERENCE            f2pmosh_desc
+LANG_ENGLISH         "Mosh Pit game modes on Hardhat, Shoot House, Shipment, Scrapyard, and Rust."
+
 REFERENCE            face_off_desc
 LANG_ENGLISH         "2v2 TDM, Kill Confirmed, and Grind in smaller maps."
 
@@ -2198,6 +2228,12 @@ LANG_ENGLISH         "First team to 10 wins. Guns rotate every 3 rounds."
 
 REFERENCE            gunfightpro_osp_desc
 LANG_ENGLISH         "OSP Rules. First team to 10 wins. Guns rotate every 3 rounds."
+
+REFERENCE            gunmini_desc
+LANG_ENGLISH         "Gun Game on Gunfight maps. Be the first player to score a kill with each one of the provided weapons."
+
+REFERENCE            gunmini_desc2
+LANG_ENGLISH         "Gun Game on Gunfight maps."
 
 REFERENCE            gw_hc_desc
 LANG_ENGLISH         "Large-scale conflict featuring vehicles using Hardcore settings. Capture and hold objectives to score. Captured objectives open forward spawning locations for your team."
@@ -3613,7 +3649,7 @@ REFERENCE            mission_team_xp_needed
 LANG_ENGLISH         "Mission Team XP Needed"
 
 REFERENCE            mission_timedrun_1_title
-LANG_ENGLISH         "SEIZE"
+LANG_ENGLISH         "SUPPLY RUN"
 
 REFERENCE            mission_vip_1_title
 LANG_ENGLISH         "MOST WANTED"
@@ -3693,6 +3729,9 @@ LANG_ENGLISH         "Skip Voting"
 REFERENCE            motd_voting_title
 LANG_ENGLISH         "COMMUNITY VOTE"
 
+REFERENCE            mp3v3_desc
+LANG_ENGLISH         "3v3 Gunfights in small maps against Warzone players. Be careful - they get lots of Gulag practice."
+
 REFERENCE            mtmc
 LANG_ENGLISH         "Multiteam Musical Chairs"
 
@@ -3719,6 +3758,21 @@ LANG_ENGLISH         "x4"
 
 REFERENCE            multiplier_5
 LANG_ENGLISH         "x5"
+
+REFERENCE            mwarena2v2_desc
+LANG_ENGLISH         "2v2 Gunfights in small maps. Time to put that Gulag practice to good use."
+
+REFERENCE            mwarena3v3_desc
+LANG_ENGLISH         "3v3 Gunfights in small maps. Time to put that Gulag practice to good use."
+
+REFERENCE            mwarena3v3_desc3
+LANG_ENGLISH         "3v3 Gunfights in small maps. Good thing you got all that Gulag practice."
+
+REFERENCE            mwarena_desc2
+LANG_ENGLISH         "Small team, multi-round cage matches. Time to put that Gulag practice to good use."
+
+REFERENCE            mwgf3v3_desc2
+LANG_ENGLISH         "3v3 multi-round cage matches. Time to put that Gulag practice to good use."
 
 REFERENCE            n_used
 LANG_ENGLISH         "&&1 USED"
@@ -5023,18 +5077,6 @@ LANG_ENGLISH         "Health"
 REFERENCE            rules_arena_win_condition_lives
 LANG_ENGLISH         "Lives"
 
-REFERENCE            rules_armor_mod
-LANG_ENGLISH         "Carrier Armor"
-
-REFERENCE            rules_armor_mod_desc
-LANG_ENGLISH         "Amount of additional damage the drone carrier receives. Resets on every possession."
-
-REFERENCE            rules_ball_activation_delay
-LANG_ENGLISH         "Drone Activation Delay"
-
-REFERENCE            rules_ball_activation_delay_desc
-LANG_ENGLISH         "The amount of time before the drone respawns after it resets."
-
 REFERENCE            rules_bank_capture
 LANG_ENGLISH         "Bank Capture"
 
@@ -5485,12 +5527,6 @@ LANG_ENGLISH         "The amount of time players have to extract during the post
 REFERENCE            rules_exfil_keep_weapons
 LANG_ENGLISH         "Keep weapons"
 
-REFERENCE            rules_explode_on_expire
-LANG_ENGLISH         "Explode on Timeout"
-
-REFERENCE            rules_explode_on_expire_desc
-LANG_ENGLISH         "The drone collapses into a singularity when the drone times out."
-
 REFERENCE            rules_extra_time
 LANG_ENGLISH         "Extra Time"
 
@@ -5532,6 +5568,12 @@ LANG_ENGLISH         "Initial Activation Delay Time"
 
 REFERENCE            rules_first_zone_activation_delay_desc
 LANG_ENGLISH         "Amount of time before the first zone can be captured."
+
+REFERENCE            rules_flag_activation_delay
+LANG_ENGLISH         "Flag Activation Delay:"
+
+REFERENCE            rules_flag_activation_delay_desc
+LANG_ENGLISH         "Amount of time before the flag is able to be picked up at match start."
 
 REFERENCE            rules_flag_capture_time
 LANG_ENGLISH         "Time to capture zone"
@@ -6508,16 +6550,16 @@ REFERENCE            rules_points_per_ks_kill_desc
 LANG_ENGLISH         "The amount of additional team score awarded for each killstreak kill."
 
 REFERENCE            rules_possession_reset_condition
-LANG_ENGLISH         "Drone Reset Condition"
+LANG_ENGLISH         "Flag Reset Condition"
 
 REFERENCE            rules_possession_reset_condition_desc
-LANG_ENGLISH         "Determines when the drone will be reset back to its starting position."
+LANG_ENGLISH         "Determines when the Flag will be reset back to its starting position."
 
 REFERENCE            rules_possession_reset_time
-LANG_ENGLISH         "Drone Reset Timeout"
+LANG_ENGLISH         "Flag Reset Timeout"
 
 REFERENCE            rules_possession_reset_time_desc
-LANG_ENGLISH         "Time before the drone resets back to its starting position."
+LANG_ENGLISH         "Time before the Flag resets back to its starting position."
 
 REFERENCE            rules_post_game_exfil
 LANG_ENGLISH         "Post Match Exfil"
@@ -7058,6 +7100,24 @@ LANG_ENGLISH         "Fixed"
 
 REFERENCE            rules_target_player_cycle_random
 LANG_ENGLISH         "Random"
+
+REFERENCE            rules_tdef_ppk_flag_carrier
+LANG_ENGLISH         "Kill flag carrier points"
+
+REFERENCE            rules_tdef_ppk_flag_carrier_desc
+LANG_ENGLISH         "The amount of team score awarded when eliminating the flag carrier."
+
+REFERENCE            rules_tdef_ppk_no_flag
+LANG_ENGLISH         "Kill without flag points"
+
+REFERENCE            rules_tdef_ppk_no_flag_desc
+LANG_ENGLISH         "The amount of team score awarded for each kill when your team does not hold the flag."
+
+REFERENCE            rules_tdef_ppk_team_with_flag
+LANG_ENGLISH         "Kill with flag points"
+
+REFERENCE            rules_tdef_ppk_team_with_flag_desc
+LANG_ENGLISH         "The amount of team score awarded for each kill when your team holds the flag."
 
 REFERENCE            rules_team_assignment
 LANG_ENGLISH         "Team Assignment"
@@ -8187,22 +8247,22 @@ REFERENCE            taunt_wraith_02
 LANG_ENGLISH         "Showdown"
 
 REFERENCE            tdef
-LANG_ENGLISH         "Defender"
+LANG_ENGLISH         "Team Defender"
 
 REFERENCE            tdef_c_desc
 LANG_ENGLISH         "Capture the drone and hold it to upload data and earn points for your team. -Competitive Rules"
 
 REFERENCE            tdef_caps
-LANG_ENGLISH         "DEFENDER"
+LANG_ENGLISH         "TEAM DEFENDER"
 
 REFERENCE            tdef_desc
-LANG_ENGLISH         "Capture the drone and hold it to upload data and earn points for your team."
+LANG_ENGLISH         "Capture the flag and hold it to earn extra points on kills for your team."
 
 REFERENCE            tdef_recipe_desc
-LANG_ENGLISH         "Recipe based on the Defender game mode"
+LANG_ENGLISH         "Recipe based on the Team Defender game mode"
 
 REFERENCE            tdef_recipe_name
-LANG_ENGLISH         "Defender Recipe"
+LANG_ENGLISH         "Team Defender Recipe"
 
 REFERENCE            team_contract
 LANG_ENGLISH         "&&1 TEAM CONTRACT"
@@ -8306,6 +8366,9 @@ LANG_ENGLISH         "OUT OF RANGE"
 
 REFERENCE            transponder_range_label
 LANG_ENGLISH         "TRANSPONDER RANGE"
+
+REFERENCE            trenchmosh_desc
+LANG_ENGLISH         "Mosh Pit modes on the new Gunfight map, Trench"
 
 REFERENCE            trial
 LANG_ENGLISH         "Trial"

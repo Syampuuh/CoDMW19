@@ -7930,6 +7930,9 @@ mp_trainyard_gateL_open
 mp_trainyard_gateR_close
 mp_trainyard_gateR_open
 
+// mp_oilrig drill bit
+mp_oilrig_drill_machinery
+
 //mi8 pilot & copilot idles and deaths
 vh_mindia8_pilot_idle
 vh_mindia8_copilot_idle
@@ -8480,6 +8483,8 @@ cp_raid_trap_room_target_idle_up
 cp_raid_trap_room_target_idle_up_forward
 cp_raid_trap_room_target_idle_up_backward
 cp_raid_accordion_gate_open
+cp_trap_console_off_prop
+cp_trap_console_off_player
 
 // BR ENDING - START
 
@@ -8644,8 +8649,22 @@ br_teaser_bagcqb_bag02
 br_teaser_bagcqb_bag03
 br_teaser_car_guy02
 br_teaser_car_decho
+br_teaser_car_follow_tag
 br_teaser_car_static_guy02
 br_teaser_car_static_decho
+sdr_mp_execution_094_attacker_stand
+sdr_mp_execution_094_victim_stand
+s4_gnet_alex_scharlie_01
+S4_gnet_alex_grau_01
+s4_gnet_ghost_hdromeo_01
+s4_gnet_ghost_hdromeo_02
+s4_gnet_ghost_hdromeo_03
+S4_gnet_ghost_smgolf45_01
+S4_gnet_ghost_smgolf45_02
+s4_gnet_kyle_victor_01
+s4_gnet_price_galima_01
+s4_gnet_price_galima_02
+s4_gnet_price_galima_03
 
 //non xcompositmodel versions for trailer
 br_teaser_bagpickup_nonexcomp_guy01

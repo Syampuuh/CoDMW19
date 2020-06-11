@@ -63,6 +63,12 @@ LANG_ENGLISH         "Adrenaline Mist"
 REFERENCE            ads_awareness
 LANG_ENGLISH         "Heightened Senses"
 
+REFERENCE            akimbo_blades_desc
+LANG_ENGLISH         "Hand forged carbon steel blades provide the sharpest edge possible for silently slicing through your enemies."
+
+REFERENCE            akimbo_blunt_desc
+LANG_ENGLISH         "Dual wielding batons allow operators to approach their targets with great agility.  Sturdy, lightweight design enables rapid attacks for zoning your enemies."
+
 REFERENCE            all
 LANG_ENGLISH         "Specialist Bonus Active"
 

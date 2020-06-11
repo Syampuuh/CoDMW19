@@ -69,11 +69,19 @@
                 "mp_donetsk\\.ff$",
                 "mp_donetsk\\.fp$",
                 "mp_donetsk\\.xpak$",
-                "mp_donetsk\\.sabs$"
+                "mp_donetsk\\.sabs$",
+                "mp_donetsk2_.*",
+                "mp_donetsk2\\.ff$",
+                "mp_donetsk2\\.fp$",
+                "mp_donetsk2\\.xpak$",
+                "mp_donetsk2\\.sabs$",
+                "^mp_amber_run.bik$"                
             ],
             "rename_files": [],
             "include_files": [
                 "mp_br_quarry_cg_ls_tr.ff",
+                "mp_boneyard_gw_cg_ls_tr.ff",
+                "mp_downtown_gw_cg_ls_tr.ff",
                 "^ModernWarfare.exe$",
                 "^BlizzardBrowser.exe$",
                 "^mp_donetsk_gulag_intro.bik$",
@@ -150,12 +158,19 @@
                 "mp_donetsk\\.ff$",
                 "mp_donetsk\\.fp$",
                 "mp_donetsk\\.xpak$",
-                "mp_donetsk\\.sabs$"
-                
+                "mp_donetsk\\.sabs$",
+                "mp_donetsk2_.*",
+                "mp_donetsk2\\.ff$",
+                "mp_donetsk2\\.fp$",
+                "mp_donetsk2\\.xpak$",
+                "mp_donetsk2\\.sabs$",
+                "^mp_amber_run.bik$"                
             ],
             "rename_files": [],
             "include_files": [
                 "mp_br_quarry_cg_ls_tr.ff",
+                "mp_boneyard_gw_cg_ls_tr.ff",
+                "mp_downtown_gw_cg_ls_tr.ff",
                 "^ModernWarfare.exe$",
                 "^ModernWarfare_CDL.exe$",
                 "^ModernWarfare_CDL_Online.exe$",
@@ -202,7 +217,8 @@
                 "^.*\\.gsml$",
                 ".*\\.arxinstmap",
                 "pak_ccs.xpak",
-                "0-game_ship.exe"
+                "0-game_ship.exe",
+                "^mp_amber_run.bik$"                
             ],
             "include_files": [
                 "game_steam_dx12_profile.exe",
@@ -288,7 +304,15 @@
                 "mp_donetsk\\.xpak$",
                 "mp_donetsk\\.sabs$",
                 "mp_donetsk\\.ffs$",
-                "mp_donetsk\\.xhash$"
+                "mp_donetsk\\.xhash$",
+                "mp_donetsk2_.*",
+                "mp_donetsk2\\.ff$",
+                "mp_donetsk2\\.fp$",
+                "mp_donetsk2\\.xpak$",
+                "mp_donetsk2\\.sabs$",
+                "mp_donetsk2\\.ffs$",
+                "mp_donetsk2\\.xhash$",
+                "^mp_amber_run.bik$"                
             ],
             "install_files": [
                 "fileSysCheck.cfg",
@@ -309,6 +333,8 @@
             ],
             "include_files": [
                 "mp_br_quarry_cg_ls_tr.ff",
+                "mp_boneyard_gw_cg_ls_tr.ff",
+                "mp_downtown_gw_cg_ls_tr.ff",
                 "^mp_donetsk_gulag_intro.bik$",
                 "^mp_donetsk_c130_intro.bik$",
                 "^mp_donetsk_gulag_outro.bik$"

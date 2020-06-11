@@ -40,4 +40,5 @@
 39,equip_snowball,EQUIPMENT/SNOWBALL,EQUIPMENT/NONE_DESC,hud_icon_equipment_snowball,hud_icon_equipment_snowball,snowball_mp,1,-1,,1,FALSE,,offhand_vm_snowball,,,,500,,
 40,equip_pball,EQUIPMENT/PBALL,EQUIPMENT/NONE_DESC,hud_icon_equipment_snowball_pball,hud_icon_equipment_snowball_pball,pball_mp,1,-1,,1,FALSE,,weapon_vm_snowball_urine,,,,500,,
 41,equip_throwing_knife_fire,EQUIPMENT/THROWING_KNIFE_FIRE,EQUIPMENT/THROWING_KNIFE_FIRE_DESC,hud_icon_equipment_throwing_knife_fire,icon_equipment_throwing_knife_fire,throwingknife_fire_mp,1,7,,1,FALSE,,weapon_vm_me_tactical_knife_v42_frontend,mp_equipment_tutorial_throwing_knife_fire,,icon_equipment_throwing_knife_fire,500,1,
-36,equip_armorbox,,,hud_icon_equipment_support_box,hud_icon_equipment_support_box,armor_box_mp,2,-1,,0,,,empty_model,,,placeholder_x,500,,
+42,equip_armorbox,,,hud_icon_equipment_support_box,hud_icon_equipment_support_box,armor_box_mp,2,-1,,0,,,empty_model,,,placeholder_x,500,,
+43,equip_binoculars,EQUIPMENT/BINOCULARS,EQUIPMENT/BINOCULARS_DESC,hud_icon_equipment_spotter_scope,hud_icon_equipment_spotter_scope,offhand_spotter_scope_mp,2,-1,,0,FALSE,,offhand_vm_spotter_scope_br,,,placeholder_x,500,,

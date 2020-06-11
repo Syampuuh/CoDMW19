@@ -11,3 +11,7 @@ lbravo_tailrotor_rpm_low,,vehicles\lbravo\iw8_lbravo_tailrotor_lowrpm.LL.85.4800
 lbravo_tailrotor_rpm_right_effort,,vehicles\lbravo\iw8_lbravo_tailrotor_right_effort.LL.85.48000.all,
 lbravo_turbine_high,,vehicles\lbravo\iw8_lbravo_turbine_highrpm.LL.85.48000.all,
 lbravo_turbine_low,,vehicles\lbravo\iw8_lbravo_turbine_lowrpm.LL.85.48000.all,
+veh_horn_lbravo_01,,vehicles\horns\lbird_klaxon_05b.LN.75.48000.all,
+veh_horn_lbravo_charge,,vehicles\horns\dlc\charge\horn_lbird_charge.LN.75.48000.all,
+veh_horn_lbravo_lacucaracha,,vehicles\horns\dlc\lacucaracha\horn_lbird_lacucaracha.LN.75.48000.all,
+veh_horn_lbravo_valkyries,,vehicles\horns\dlc\valkyries\horn_lbird_valkyries.LN.75.48000.all,

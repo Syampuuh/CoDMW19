@@ -71,6 +71,12 @@ LANG_ENGLISH         "Base Kill"
 REFERENCE            beacon_bonus
 LANG_ENGLISH         "Beacon Bonus"
 
+REFERENCE            binoculars_assist
+LANG_ENGLISH         "Spotter Scope Assist"
+
+REFERENCE            binoculars_enemy_marked
+LANG_ENGLISH         "Enemy Marked"
+
 REFERENCE            blackhat_hack
 LANG_ENGLISH         "Hacked Equipment!"
 
@@ -560,16 +566,16 @@ REFERENCE            br_mission_the_vip_survived_noplunder
 LANG_ENGLISH         "The Most Wanted Target Survived"
 
 REFERENCE            br_mission_timedrun_complete
-LANG_ENGLISH         "Seize Contract Complete!"
+LANG_ENGLISH         "Supply Run Contract Complete!"
 
 REFERENCE            br_mission_timedrun_expired
-LANG_ENGLISH         "Seize Expired"
+LANG_ENGLISH         "Supply Run Expired"
 
 REFERENCE            br_mission_timedrun_in_progress
-LANG_ENGLISH         "Seize Contract in Progress"
+LANG_ENGLISH         "Supply Run Contract in Progress"
 
 REFERENCE            br_mission_timedrun_mission_accepted
-LANG_ENGLISH         "Seize Contract Accepted"
+LANG_ENGLISH         "Supply Run Contract Accepted"
 
 REFERENCE            br_mission_timedrun_point_lost_to_circle
 LANG_ENGLISH         "Objective Lost to the Circle"
@@ -771,7 +777,7 @@ REFERENCE            brjugg_welcome
 LANG_ENGLISH         "BR Juggernaut"
 
 REFERENCE            brjugg_welcome_desc
-LANG_ENGLISH         "Fight over Juggernaut crates and be the last team standing."
+LANG_ENGLISH         "Fight over Juggernaut armor drops and be the last team standing."
 
 REFERENCE            buddy_boost
 LANG_ENGLISH         "Boosted!"
@@ -802,6 +808,9 @@ LANG_ENGLISH         "Captured HQ!"
 
 REFERENCE            captured_nuke
 LANG_ENGLISH         "Nuke Captured!"
+
+REFERENCE            carrier_bonus
+LANG_ENGLISH         "Carrier Bonus"
 
 REFERENCE            carrier_kill
 LANG_ENGLISH         "Carrier Kill"
@@ -1443,7 +1452,7 @@ REFERENCE            kill
 LANG_ENGLISH         "Kill"
 
 REFERENCE            kill_bonus
-LANG_ENGLISH         "Bonus Wager XP!"
+LANG_ENGLISH         "Kill Bonus"
 
 REFERENCE            kill_confirmed
 LANG_ENGLISH         "Kill Confirmed!"

@@ -714,6 +714,12 @@ LANG_ENGLISH         "SWAT"
 REFERENCE            relic_swat_desc
 LANG_ENGLISH         "Enemies can only be killed by headshots, melee, lethals, killstreaks, and vehicles."
 
+REFERENCE            relic_third_person
+LANG_ENGLISH         "Third Person"
+
+REFERENCE            relic_third_person_desc
+LANG_ENGLISH         "Play in 3rd person view"
+
 REFERENCE            relic_trex
 LANG_ENGLISH         "T-Rex"
 
