@@ -128,17 +128,44 @@ LANG_ENGLISH         "Show your support for the Toronto Ultra! Pack includes 2 o
 
 ?? 2019 Activision Publishing, Inc. CALL OF DUTY, MODERN WARFARE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc.  The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
 
+REFERENCE            product_cdlpack_champs_2020
+LANG_ENGLISH         "CDL Champs 2020 Pack"
+
+REFERENCE            product_cdlpack_champs_2020_desc
+LANG_ENGLISH         "The CDL Champs 2020 are here! Play like a pro with 3 CDL blueprints with pro-approved attachments and many more items to celebrate Champs! Pack contains: M4/HDR/M19 Blueprints, 2 charms, 55 player signatures (from 11 teams), 3 calling cards, 3 emblems, and 3 sprays."
+
+REFERENCE            product_cdlpack_team_supporter
+LANG_ENGLISH         "CDL Team Supporter Pack"
+
+REFERENCE            product_cdlpack_team_supporter_desc
+LANG_ENGLISH         "Support all 12 Call of Duty League teams with this pack, featuring community & player themed items. Pack contains: 12 calling cards, 12 emblems, and 12 sprays."
+
 REFERENCE            product_codepack
 LANG_ENGLISH         "Call of Duty??: Modern Warfare?? -  C.O.D.E. Defender Pack"
 
 REFERENCE            product_codepack_2
-LANG_ENGLISH         "Call of Duty??: Modern Warfare?? -  C.O.D.E. Fearless Pack"
+LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Fearless Pack"
 
 REFERENCE            product_codepack_2_desc
-LANG_ENGLISH         "Defend those who defended our freedom! Support civilian careers for veterans through your purchase of the Call of Duty Endowment (C.O.D.E.) Fearless Pack for Modern Warfare??! We heard from the fans, so our biggest Endowment cosmetic content pack ever is back. It includes The For The Cause cosmetic weapon variant, weapon camo, watch, a weapon charm, a weapon sticker, environment spray, 2 emblems, and 2 calling cards!
+LANG_ENGLISH         "Support our military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Fearless Pack for Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone, created in partnership with and inspired by the combat service of Medal of Honor recipient CPT Florent 'Flo' Groberg.
 
-100% of proceeds received by the Call of Duty Endowment go directly to helping veterans in the US and UK find high-quality civilian jobs. This is a limited time offer that will end April 27th 2020 or once $3 million has been raised for the cause, whichever comes first.
+The Endowment provides grants to not-for-profits in the US* and registered UK charities which place veterans in the US and UK into high quality civilian jobs. By purchasing this pack, you will directly contribute to the Endowment???s mission.
 
+The full purchase price for this special item, less VAT, will be donated to the Call of Duty Endowment (EIN: 37-1589072)*. This is a limited time offer and this special item will be withdrawn from sale once $3 million has been raised globally for the cause.
+
+Pack includes:
+
+- 1 Operator
+- 1 Assault Rifle Blueprint
+- 1 Camo
+- 1 Watch
+- 1 Charm
+- 1 Spray
+- 2 Calling Cards
+- 2 Emblems
+
+
+*For more information please see https://www.callofdutyendowment.org/partners.
 
 ?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
 
@@ -268,6 +295,12 @@ LANG_ENGLISH         "Special Ops Pack 2"
 REFERENCE            product_dlc_cp3_desc
 LANG_ENGLISH         "Special Ops Pack 2 is required to play Special Ops"
 
+REFERENCE            product_dlc_dp1
+LANG_ENGLISH         "Data Pack 1"
+
+REFERENCE            product_dlc_dp1_desc
+LANG_ENGLISH         "This pack is required for access to Campaign, Multiplayer, and Special Ops."
+
 REFERENCE            product_dlc_mp1
 LANG_ENGLISH         "Multiplayer Pack"
 
@@ -281,10 +314,10 @@ REFERENCE            product_dlc_mp2_desc
 LANG_ENGLISH         "Multiplayer Pack 2 is required to play Multiplayer"
 
 REFERENCE            product_dlc_mp3
-LANG_ENGLISH         "Data Pack 1"
+LANG_ENGLISH         "Multiplayer Pack 3"
 
 REFERENCE            product_dlc_mp3_desc
-LANG_ENGLISH         "This pack is required for access to Campaign, Multiplayer, and Special Ops."
+LANG_ENGLISH         "Multiplayer Pack 3 is required to play Multiplayer"
 
 REFERENCE            product_dlc_sp1
 LANG_ENGLISH         "Campaign Pack 1"
@@ -324,6 +357,18 @@ Call of Duty??: Modern Warfare?? (or free-to-play Warzone) required. Sold separa
 For more information, please visit www.callofduty.com.
 
 ?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and MODERN WARFARE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            product_head_start_pack_3
+LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Five)"
+
+REFERENCE            product_head_start_pack_3_desc
+LANG_ENGLISH         "This pack includes..."
+
+REFERENCE            product_head_start_pack_4
+LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Six)"
+
+REFERENCE            product_head_start_pack_4_desc
+LANG_ENGLISH         "This pack includes..."
 
 REFERENCE            product_head_start_pack_desc
 LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by the mountains of Verdansk.
@@ -390,7 +435,7 @@ Pack includes:
 - Legendary Shotgun Blueprint
 - Epic Calling Card
 - Epic Emblem
-- 60-Minute Double XP Token
+- 60-Minute Double Weapon XP Token
 - 60-Minute Double Battle Pass Tier XP Token
 
 Call of Duty?? Points (CP) are the in-game currency that can be used in Modern Warfare to obtain in-game content for use in Multiplayer, Special Ops and Warzone game modes.

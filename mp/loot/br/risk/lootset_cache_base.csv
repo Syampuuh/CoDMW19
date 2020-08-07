@@ -1,0 +1,4 @@
+inherit,mp/loot/br/risk/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,1,,# 1 uncommon weapon+,
+req,,,1,,,2,,# 1 item of any type, any rarity,
+req,,,1,,,,,# 1 item of any type, any rarity,

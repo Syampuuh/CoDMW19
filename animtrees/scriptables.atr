@@ -771,3 +771,10 @@ me_machinery_oil_pumpjack_01_rom
 
 //mp_village
 ee_decor_graveyard_bells_01_anim
+
+//mp_oilrig
+mp_oilrig_drill_machinery
+
+// Fourth of July frontend flag
+frontend_flag_mount_usa
+frontend_flag_mount_usa_subd

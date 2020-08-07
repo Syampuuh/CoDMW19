@@ -113,6 +113,9 @@ LANG_ENGLISH         "Operator Taunt"
 REFERENCE            perk
 LANG_ENGLISH         "Perk"
 
+REFERENCE            placeholder
+LANG_ENGLISH         "loot item name."
+
 REFERENCE            placeholder_desc
 LANG_ENGLISH         "This is an example description of the loot item type."
 
@@ -172,6 +175,9 @@ LANG_ENGLISH         "Vehicle Horn"
 
 REFERENCE            vehicle_skin
 LANG_ENGLISH         "Vehicle Skin"
+
+REFERENCE            vehicle_track
+LANG_ENGLISH         "Vehicle Track"
 
 REFERENCE            watch
 LANG_ENGLISH         "Watch"
@@ -293,6 +299,9 @@ LANG_ENGLISH         "Operator Taunt"
 REFERENCE            perk
 LANG_ENGLISH         "Perk"
 
+REFERENCE            placeholder
+LANG_ENGLISH         "loot item name."
+
 REFERENCE            placeholder_desc
 LANG_ENGLISH         "This is an example description of the loot item type."
 
@@ -352,6 +361,9 @@ LANG_ENGLISH         "Vehicle Horn"
 
 REFERENCE            vehicle_skin
 LANG_ENGLISH         "Vehicle Skin"
+
+REFERENCE            vehicle_track
+LANG_ENGLISH         "Vehicle Track"
 
 REFERENCE            watch
 LANG_ENGLISH         "Watch"

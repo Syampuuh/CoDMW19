@@ -251,6 +251,12 @@ LANG_ENGLISH         "Ice To Meet You"
 REFERENCE            kyle_default_desc
 LANG_ENGLISH         "KYLE_DEFAULT_DESC"
 
+REFERENCE            lerch_default
+LANG_ENGLISH         "Brick by Brick"
+
+REFERENCE            lerch_default_desc
+LANG_ENGLISH         "LERCH_DEFAULT_DESC"
+
 REFERENCE            lynch_default
 LANG_ENGLISH         "LYNCH_DEFAULT"
 
@@ -471,7 +477,7 @@ REFERENCE            universal_variant_04_desc
 LANG_ENGLISH         "UNIVERSAL_VARIANT_04_DESC"
 
 REFERENCE            universal_variant_05
-LANG_ENGLISH         "Top Dog"
+LANG_ENGLISH         "Riley"
 
 REFERENCE            universal_variant_05_desc
 LANG_ENGLISH         "UNIVERSAL_VARIANT_05_DESC"
@@ -495,7 +501,7 @@ REFERENCE            universal_variant_08_desc
 LANG_ENGLISH         "UNIVERSAL_VARIANT_08_DESC"
 
 REFERENCE            universal_variant_09
-LANG_ENGLISH         "UNIVERSAL_VARIANT_09"
+LANG_ENGLISH         "Pew Pew Pew"
 
 REFERENCE            universal_variant_09_desc
 LANG_ENGLISH         "UNIVERSAL_VARIANT_09_DESC"
@@ -559,6 +565,21 @@ LANG_ENGLISH         "Sputnik"
 
 REFERENCE            universal_variant_19_desc
 LANG_ENGLISH         "UNIVERSAL_VARIANT_19_DESC"
+
+REFERENCE            universal_variant_20
+LANG_ENGLISH         "Snafu"
+
+REFERENCE            universal_variant_20_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_20_DESC"
+
+REFERENCE            universal_variant_21
+LANG_ENGLISH         "Nevermore"
+
+REFERENCE            velikan_default
+LANG_ENGLISH         "Take a Bow"
+
+REFERENCE            velikan_default_desc
+LANG_ENGLISH         "VELIKAN_DEFAULT_DESC"
 
 REFERENCE            wyatt_default
 LANG_ENGLISH         "Achilles Heel"
@@ -630,7 +651,7 @@ REFERENCE            zedra_variant_1_desc
 LANG_ENGLISH         "ZEDRA_VARIANT_1_DESC"
 
 REFERENCE            zedra_variant_2
-LANG_ENGLISH         "Gravel Voiced"
+LANG_ENGLISH         "Queen of Spades"
 
 
 ENDMARKER

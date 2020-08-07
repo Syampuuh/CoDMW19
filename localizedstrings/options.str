@@ -78,5 +78,26 @@ LANG_ENGLISH         "UI"
 REFERENCE            world
 LANG_ENGLISH         "World"
 
+REFERENCE            xbox_one_uninstall_dlc_1
+LANG_ENGLISH         "Press the ^5Xbox ^7button"
+
+REFERENCE            xbox_one_uninstall_dlc_2
+LANG_ENGLISH         "Select ^5My Games & Apps^7 within the ^5Home Menu"
+
+REFERENCE            xbox_one_uninstall_dlc_3
+LANG_ENGLISH         "Select ^5See All"
+
+REFERENCE            xbox_one_uninstall_dlc_4
+LANG_ENGLISH         "Select ^5Call of Duty: Modern Warfare ^7and press the ^5Menu ^7button"
+
+REFERENCE            xbox_one_uninstall_dlc_5
+LANG_ENGLISH         "Scroll to, and select, ^5Manage Game & Add-Ons"
+
+REFERENCE            xbox_one_uninstall_dlc_6
+LANG_ENGLISH         "Navigate to the ^5DLC ^7you wish to remove, select, and uninstall"
+
+REFERENCE            xbox_one_uninstall_header
+LANG_ENGLISH         "How To Uninstall"
+
 
 ENDMARKER

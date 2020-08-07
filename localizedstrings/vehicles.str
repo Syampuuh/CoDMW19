@@ -18,7 +18,10 @@ REFERENCE            atv_camo_20_flavor
 LANG_ENGLISH         "They'll be cruisin' for a bruisin' when you roll with the Big Sky Country ATV Skin."
 
 REFERENCE            atv_desc
-LANG_ENGLISH         "Take Charge with rough and ready capability delivered with plenty of low-rpm torque and power. Top-tier rack capacity offers an impressive payload capability: hold 'er wide and send it."
+LANG_ENGLISH         "Take charge with rough and ready capability delivered with plenty of low-rpm torque and power. Top-tier rack capacity offers an impressive payload capability: hold 'er wide and send it."
+
+REFERENCE            battle_tracks
+LANG_ENGLISH         "War Tracks"
 
 REFERENCE            big_bird
 LANG_ENGLISH         "Big Bird"
@@ -41,11 +44,20 @@ LANG_ENGLISH         "Police Car"
 REFERENCE            customize_name
 LANG_ENGLISH         "Customize &&1"
 
+REFERENCE            equipped_battle_track
+LANG_ENGLISH         "War track:"
+
 REFERENCE            equipped_horn
 LANG_ENGLISH         "Horn: &&1"
 
+REFERENCE            equipped_horn1
+LANG_ENGLISH         "Horn:"
+
 REFERENCE            equipped_skin
 LANG_ENGLISH         "Skin: &&1"
+
+REFERENCE            equipped_skin1
+LANG_ENGLISH         "Skin:"
 
 REFERENCE            hoopty
 LANG_ENGLISH         "Hoopty"
@@ -64,6 +76,9 @@ LANG_ENGLISH         "Where you're headed, there are no roads. The Warzone Expre
 
 REFERENCE            jeep_desc
 LANG_ENGLISH         "Built and designed without compromise, a spacious interior allows for crew transportation to even the most remote corners of the map. Confident on- or off-road, with the durability to tackle the most extreme of challenges, the SUV can take a beating and keep on ticking."
+
+REFERENCE            juggernaut_pack
+LANG_ENGLISH         "Juggernaut pack"
 
 REFERENCE            large_transport
 LANG_ENGLISH         "Personel Transport"
@@ -125,14 +140,68 @@ LANG_ENGLISH         "The pinnacle of ultra-light tactical off-road vehicles, al
 REFERENCE            technical
 LANG_ENGLISH         "Technical Truck"
 
+REFERENCE            toggle_off_track
+LANG_ENGLISH         "Stop"
+
+REFERENCE            toggle_off_track_name
+LANG_ENGLISH         "Stop: &&1"
+
+REFERENCE            toggle_on_track
+LANG_ENGLISH         "Play"
+
+REFERENCE            toggle_on_track_name
+LANG_ENGLISH         "Play: &&1"
+
 REFERENCE            van
 LANG_ENGLISH         "Van"
+
+REFERENCE            veh_bt_cargo_truck_track_1
+LANG_ENGLISH         "Cargo Truck Track 1"
+
+REFERENCE            veh_bt_cargo_truck_track_2
+LANG_ENGLISH         "Cargo Truck Track 2"
+
+REFERENCE            veh_bt_cargo_truck_track_3
+LANG_ENGLISH         "Cargo Truck Track 3"
+
+REFERENCE            veh_bt_jeep_track_1
+LANG_ENGLISH         "Jeep Track 1"
+
+REFERENCE            veh_bt_jeep_track_2
+LANG_ENGLISH         "Jeep Track 2"
+
+REFERENCE            veh_bt_jeep_track_3
+LANG_ENGLISH         "Jeep Track 3"
+
+REFERENCE            veh_bt_little_bird_track_1
+LANG_ENGLISH         "Little Bird Track 1"
+
+REFERENCE            veh_bt_little_bird_track_2
+LANG_ENGLISH         "Little Bird Track 2"
+
+REFERENCE            veh_bt_little_bird_track_3
+LANG_ENGLISH         "Little Bird Track 3"
+
+REFERENCE            veh_bt_tac_rover_track_1
+LANG_ENGLISH         "Tac Rover Track 1"
+
+REFERENCE            veh_bt_tac_rover_track_2
+LANG_ENGLISH         "Tac Rover Track 2"
+
+REFERENCE            veh_bt_tac_rover_track_3
+LANG_ENGLISH         "Tac Rover Track 3"
 
 REFERENCE            veh_horn_charge
 LANG_ENGLISH         "Charge!"
 
+REFERENCE            veh_horn_clown
+LANG_ENGLISH         "Clowning Around"
+
 REFERENCE            veh_horn_default
 LANG_ENGLISH         "Default"
+
+REFERENCE            veh_horn_hockeygoal
+LANG_ENGLISH         "He Shoots, He Scores!"
 
 REFERENCE            veh_horn_la_cucaracha
 LANG_ENGLISH         "La Cucaracha"
@@ -146,17 +215,50 @@ LANG_ENGLISH         "Start Your Engines"
 REFERENCE            veh_horn_ride_of_the_valkyries
 LANG_ENGLISH         "Ride of the Valkyries"
 
+REFERENCE            veh_horn_stars_and_stripes
+LANG_ENGLISH         "Stars and Stripes Forever"
+
 REFERENCE            veh_horn_start_your_engines
 LANG_ENGLISH         "Start Your Engines"
+
+REFERENCE            veh_track_001
+LANG_ENGLISH         "Sepulchre"
+
+REFERENCE            veh_track_002
+LANG_ENGLISH         "Brass Crown"
+
+REFERENCE            veh_track_003
+LANG_ENGLISH         "Heavy Weaponry"
 
 REFERENCE            vehicle_customization
 LANG_ENGLISH         "Vehicle Customization"
 
 REFERENCE            vehicle_customization_desc
-LANG_ENGLISH         "Personalize the appearance of your Vehicles."
+LANG_ENGLISH         "Personalize your Vehicles."
 
 REFERENCE            vehicle_customization_disable
 LANG_ENGLISH         "Vehicle Customization Disabled"
+
+REFERENCE            vehicle_horn_1812_overture
+LANG_ENGLISH         "1812 Overture"
+
+REFERENCE            vehicle_horn_baldmountain
+LANG_ENGLISH         "Night on Bald Mountain"
+
+REFERENCE            vehicle_horn_entertainer
+LANG_ENGLISH         "The Entertainer"
+
+REFERENCE            vehicle_horn_mars
+LANG_ENGLISH         "Mars"
+
+REFERENCE            vehicle_horn_mountainking
+LANG_ENGLISH         "In the Hall of the Mountain King"
+
+REFERENCE            vehicle_horn_symphonyno5
+LANG_ENGLISH         "Symphony No. 5"
+
+REFERENCE            vehicle_horn_toccata
+LANG_ENGLISH         "Toccata and Fugue in D minor"
 
 REFERENCE            vehicle_select
 LANG_ENGLISH         "Vehicle Select"

@@ -83,14 +83,47 @@ LANG_ENGLISH         "&&1x Super(s)"
 REFERENCE            bundle_items_included_vehicle_camo
 LANG_ENGLISH         "&&1x Vehicle Skin(s)"
 
+REFERENCE            bundle_items_included_vehicle_horn
+LANG_ENGLISH         "&&1x Vehicle Horn(s)"
+
 REFERENCE            bundle_items_included_vehicle_sticker
 LANG_ENGLISH         "&&1x Vehicle Sticker(s)"
+
+REFERENCE            bundle_items_included_vehicle_track
+LANG_ENGLISH         "&&1x Vehicle Track(s)"
 
 REFERENCE            bundle_items_included_weapon
 LANG_ENGLISH         "&&1x Weapon(s)"
 
 REFERENCE            bundle_items_included_weapon_charm
 LANG_ENGLISH         "&&1x Weapon Charm(s)"
+
+REFERENCE            collections_charms_tomogunchi_turbo
+LANG_ENGLISH         "Tomogunchi Charms x14"
+
+REFERENCE            collections_charms_tomogunchi_turbo_desc
+LANG_ENGLISH         "Charms are unlocked via in-game challenges."
+
+REFERENCE            collections_emblems_cdl_champ
+LANG_ENGLISH         "Champs Emblems x3"
+
+REFERENCE            collections_emblems_cdl_collab
+LANG_ENGLISH         "Team Emblems x12"
+
+REFERENCE            collections_playercards_cdl_champ
+LANG_ENGLISH         "Champs Calling Cards x3"
+
+REFERENCE            collections_playercards_cdl_collab
+LANG_ENGLISH         "Team Calling Cards x12"
+
+REFERENCE            collections_sprays_cdl_champ
+LANG_ENGLISH         "Champs Sprays x3"
+
+REFERENCE            collections_sprays_cdl_collab
+LANG_ENGLISH         "Team Sprays x12"
+
+REFERENCE            collections_stickers_cdl_champ
+LANG_ENGLISH         "Signature Stickers x55"
 
 REFERENCE            review_cod_point_options
 LANG_ENGLISH         "Review your Call of Duty Points options below."

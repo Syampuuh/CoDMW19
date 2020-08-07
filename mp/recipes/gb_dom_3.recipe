@@ -36,7 +36,6 @@ commonOption.RadarAlwaysOn = 0
 commonOption.RadarHideShots = 2
 commonOption.CompassHidePings = 2
 commonOption.ForceRespawn = 1
-commonOption.allowMercy = 1
 commonOption.spectateModeAllowed = 1
 commonOption.inputSwapEnabled = 1
 commonOption.codcasterEnabled = 1

@@ -33,7 +33,7 @@ commonOption.codcasterEnabled = 1
 commonOption.ffPunishLimit = 2
 commonOption.spectate3rdAllowed = 1
 commonOption.tacticalMode = 0
-commonOption.magCount = 3
+commonOption.magCount = 7
 commonOption.infilSkip = 1
 
 infectData.numInitialInfected = 1

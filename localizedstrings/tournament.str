@@ -92,6 +92,12 @@ LANG_ENGLISH         "Leave party and cancel your tournament registration?"
 REFERENCE            leave_tournament
 LANG_ENGLISH         "Leave tournament?  You will receive a penalty."
 
+REFERENCE            map_round
+LANG_ENGLISH         "Map Round &&1"
+
+REFERENCE            map_round_desc
+LANG_ENGLISH         "Choose map for round &&1."
+
 REFERENCE            match_num
 LANG_ENGLISH         "Match &&1"
 
@@ -165,6 +171,9 @@ LANG_ENGLISH         "Quarter Finalists"
 REFERENCE            quarter_finals
 LANG_ENGLISH         "Quarter Finals"
 
+REFERENCE            random_map
+LANG_ENGLISH         "Random"
+
 REFERENCE            ready_all_players
 LANG_ENGLISH         "Automatically readying all players"
 
@@ -224,6 +233,9 @@ LANG_ENGLISH         "Round Results"
 
 REFERENCE            runner_up
 LANG_ENGLISH         "RUNNER UP"
+
+REFERENCE            runner_up_lower_case
+LANG_ENGLISH         "Runner Up"
 
 REFERENCE            second
 LANG_ENGLISH         "2nd"

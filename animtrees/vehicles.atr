@@ -632,6 +632,22 @@ bombing_drone
 	//cine_ac130
 	cine_ac130_s0010_ac130_door
 	
+	//SEASON 5 INTRO
+	//cine_stad_int
+	cine_stadium_s0010_lb
+	cine_stadium_s0020_lb
+	cine_stadium_s0020_lb_gs
+	cine_stadium_s0030_lb
+	cine_stadium_s0030_lb_gs	
+	cine_stadium_s0060_lb
+	cine_stadium_s0060_lb_gs
+	cine_stadium_s0070_lb
+	cine_stadium_s0070_lb_gs
+	cine_stadium_s0080_lb
+	cine_stadium_s0090_lb
+	cine_stadium_s0100_lb
+	cine_stadium_s0110_lb
+	cine_stadium_s0120_lb
 
 // iw7 vehicles -----------------------------------------
 dropship

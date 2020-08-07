@@ -1,0 +1,6 @@
+inherit,mp/loot/br/mini/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,2,3,# 1 Rare Weapon,
+req,,lethal,1,,,0,,# Chance 1 Lethal,
+req,,tactical,1,,,0,,# Chance 1 Tactical,
+req,,ammo,2,,,0,,# 2 Ammo,
+req,,health,2,,,0,,# 1-2 Armor Plates,

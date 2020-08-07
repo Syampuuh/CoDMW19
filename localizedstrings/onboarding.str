@@ -20,6 +20,18 @@ attachments and custom cosmetics. Blueprints can be
 purchased in the ^5Store ^7, via the ^5Battle Pass^7, or unlocked in ^5Missions & Challenges^7.
 Blueprints will be shown in the armory and can be taken into Gunsmith for modification."
 
+REFERENCE            battle_tracks
+LANG_ENGLISH         "War Tracks"
+
+REFERENCE            battle_tracks_desc_1
+LANG_ENGLISH         "Unlock War Tracks by earning them in the Battle Pass or purchasing them in the Store."
+
+REFERENCE            battle_tracks_desc_2
+LANG_ENGLISH         "Equip War Tracks in the Vehicle Customization menu in the Weapons tab."
+
+REFERENCE            battle_tracks_desc_3
+LANG_ENGLISH         "Hop into the vehicle you equipped your War Track on and use [{ui_secondary}] to turn it on and off.."
+
 REFERENCE            blueprint_store
 LANG_ENGLISH         "Store Blueprints"
 
@@ -89,6 +101,14 @@ LANG_ENGLISH         "Play Call of Duty League??? Maps and Game Modes with Leagu
 
 REFERENCE            cdl_rules_3
 LANG_ENGLISH         "In the Call of Duty League??? playlists, your Private Match Loadouts are used and all items are unlocked. Restricted items will be replaced."
+
+REFERENCE            classified_challenge
+LANG_ENGLISH         "Classified Challenge Unlocked."
+
+REFERENCE            classified_challenges_desc
+LANG_ENGLISH         "Grind for the ultimate bragging rights in Call of Duty history. Complete all ^5282 ^7weapon master challenges for all ^547 ^7 weapons in the game and be awarded this one-of-a-kind calling card.
+
+Note: Kill and Headshot challenges count as one classified challenge progress."
 
 REFERENCE            editdropkit
 LANG_ENGLISH         "Edit Loadout"
@@ -224,6 +244,12 @@ LANG_ENGLISH         "Primary and Secondary weapons form the base of your class.
 
 REFERENCE            loadout_3
 LANG_ENGLISH         "You may create and name multiple loadouts for various gameplay situations. Be sure to experiment with new combinations as you level up and unlock new functionality. You can set your favorite loadout to see it on the gun bench and in the hands of your Operator in the menus."
+
+REFERENCE            master_challenges
+LANG_ENGLISH         "Mastery Challenges"
+
+REFERENCE            master_challenges_1
+LANG_ENGLISH         "Work your way through different skill-based challenges to unlock unique mastery calling cards."
 
 REFERENCE            mature_content_cancel
 LANG_ENGLISH         "Return to main menu"
@@ -386,6 +412,24 @@ LANG_ENGLISH         "Represent your regiment with gold clan tags! Get your gold
 REFERENCE            regiments
 LANG_ENGLISH         "Regiments"
 
+REFERENCE            risk_hint_header_1
+LANG_ENGLISH         "Capture Plates"
+
+REFERENCE            risk_hint_header_2
+LANG_ENGLISH         "Collect Intel Tokens"
+
+REFERENCE            risk_hint_header_3
+LANG_ENGLISH         "Hunt Token Leaders"
+
+REFERENCE            risk_hint_text_1
+LANG_ENGLISH         "10 plates spawn at once. Capture plates to spawn an Intel Token. New plate locations spawn at intervals."
+
+REFERENCE            risk_hint_text_2
+LANG_ENGLISH         "Collect and hold 10 Intel Tokens to win. Spread tokens among teammates to avoid losing them all at once."
+
+REFERENCE            risk_hint_text_3
+LANG_ENGLISH         "Check the Tac Map to find players with high Token counts and steal them."
+
 REFERENCE            role_1
 LANG_ENGLISH         "A Role is defined by the combination of an activated ability and a passive ability."
 
@@ -415,6 +459,18 @@ LANG_ENGLISH         "Specialist Mode Info"
 
 REFERENCE            specialist_warning
 LANG_ENGLISH         "*Killstreaks are disabled when this mode is active"
+
+REFERENCE            sprays
+LANG_ENGLISH         "Gestures & Sprays"
+
+REFERENCE            sprays_desc_1
+LANG_ENGLISH         "Equip and preview both gestures and sprays here in the Barracks tab."
+
+REFERENCE            sprays_desc_2
+LANG_ENGLISH         "Press and hold [{ui_dpad_up}] to bring up the Gestures & Sprays menu in-game."
+
+REFERENCE            sprays_desc_3
+LANG_ENGLISH         "Use [{ui_r3}] to highlight a gesture or spray then release [{ui_dpad_up}] to use it."
 
 REFERENCE            store
 LANG_ENGLISH         "Store"
@@ -451,6 +507,18 @@ LANG_ENGLISH         "How To Play"
 
 REFERENCE            tdm_anywhere_heading_3
 LANG_ENGLISH         "How To Win"
+
+REFERENCE            trial_event
+LANG_ENGLISH         "Games of Summer"
+
+REFERENCE            trial_event_desc_1
+LANG_ENGLISH         "Compete in the current Trial and try to score bronze, silver, and gold medals."
+
+REFERENCE            trial_event_desc_2
+LANG_ENGLISH         "Earn rewards for each Trial."
+
+REFERENCE            trial_event_desc_3
+LANG_ENGLISH         "Unlock all five gold medals to earn a unique reward."
 
 REFERENCE            tutorial_plunder_1_header
 LANG_ENGLISH         "Team With the Most Cash Wins"
@@ -518,7 +586,7 @@ REFERENCE            weapon_mastery_1
 LANG_ENGLISH         "The new obsidian camo is now available on all weapons. Unlock the camo by completing the obsidian challenge for each weapon."
 
 REFERENCE            weapon_mastery_2
-LANG_ENGLISH         "Master each weapon and unlock exclusive rewards by completing various challenges types. Weapon mastery challenges become available after obtaining a weapons gold camo"
+LANG_ENGLISH         "Master each weapon and unlock exclusive rewards by completing various challenge types. Weapon mastery challenges become available after obtaining a weapon's gold camo."
 
 REFERENCE            wz_congratulation_popup_desc_1
 LANG_ENGLISH         "Congratulations on completing the Warzone training. Replay it anytime by accessing it from the play menu."

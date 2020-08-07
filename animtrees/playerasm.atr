@@ -3184,6 +3184,15 @@ playerasm
 		sdr_mp_me_strafe_slide_kalisticks_7
 	}
 	
+	slide_forward_swords: blendspace1d( range="-180.000,180", blend_time="0",
+	coords="-45,0,45",
+	value=[strafeangle] ) nonloopsync complete
+	{
+		sdr_mp_me_strafe_slide_swords_9
+		sdr_mp_me_strafe_slide_swords_8
+		sdr_mp_me_strafe_slide_swords_7
+	}
+	
 	slide_forward_la_rpapa7: blendspace1d( range="-180.000,180", blend_time="0",
 	coords="-45,0,45",
 	value=[strafeangle] ) nonloopsync complete
@@ -3430,6 +3439,40 @@ playerasm
 		sdr_mp_strafe_prone_fast_me_kalisticks_start_4@1
 		sdr_mp_strafe_prone_fast_me_kalisticks_start_1@1
 		sdr_mp_strafe_prone_fast_me_kalisticks_start_2@3
+	}
+	
+	start_prone_swords: blendspace2d( rangex="-180,180", rangey="0,50", blend_time="0",
+	coords="{135,29},{180,30},{-180,30},{-135,29},{90,32},{-90,32},{45,34},{0,34},{-45,34},{45,2},{180,2},{-180,2},{-45,2},{90,2},{-90,2},{135,2},{0,2},{-135,2},{-178,40},{-133,40},{-89,40},{-43,40},{1,40},{44,40},{91,40},{134,40},{180,40}",
+	edges="{1,10,15},{2,11,17},{8,12,16},{5,12,14},{3,14,17},{5,8,12},{3,5,14},{2,3,17},{7,8,16},{6,9,16},{6,7,16},{4,9,13},{0,13,15},{4,6,9},{0,4,13},{0,1,15},{2,3,18},{3,18,19},{3,5,19},{5,19,20},{5,8,20},{8,20,21},{7,8,21},{7,21,22},{6,7,23},{7,22,23},{4,6,24},{0,1,26},{0,4,25},{0,25,26},{4,24,25},{6,23,24}",
+	valuex=[strafeangle], valuey=[speed] ) nonloopsync
+	{
+		sdr_mp_strafe_prone_fast_me_swords_start_1
+		sdr_mp_strafe_prone_fast_me_swords_start_2
+		sdr_mp_strafe_prone_fast_me_swords_start_2@1
+		sdr_mp_strafe_prone_fast_me_swords_start_3
+		sdr_mp_strafe_prone_fast_me_swords_start_4
+		sdr_mp_strafe_prone_fast_me_swords_start_6
+		sdr_mp_strafe_prone_fast_me_swords_start_7
+		sdr_mp_strafe_prone_fast_me_swords_start_8
+		sdr_mp_strafe_prone_fast_me_swords_start_9
+		sdr_mp_strafe_prone_in_place_me_swords_start_7
+		sdr_mp_strafe_prone_in_place_me_swords_start_2
+		sdr_mp_strafe_prone_in_place_me_swords_start_2@1
+		sdr_mp_strafe_prone_in_place_me_swords_start_9
+		sdr_mp_strafe_prone_in_place_me_swords_start_4
+		sdr_mp_strafe_prone_in_place_me_swords_start_6
+		sdr_mp_strafe_prone_in_place_me_swords_start_1
+		sdr_mp_strafe_prone_in_place_me_swords_start_8
+		sdr_mp_strafe_prone_in_place_me_swords_start_3
+		sdr_mp_strafe_prone_fast_me_swords_start_2@2
+		sdr_mp_strafe_prone_fast_me_swords_start_3@1
+		sdr_mp_strafe_prone_fast_me_swords_start_6@1
+		sdr_mp_strafe_prone_fast_me_swords_start_9@1
+		sdr_mp_strafe_prone_fast_me_swords_start_8@1
+		sdr_mp_strafe_prone_fast_me_swords_start_7@1
+		sdr_mp_strafe_prone_fast_me_swords_start_4@1
+		sdr_mp_strafe_prone_fast_me_swords_start_1@1
+		sdr_mp_strafe_prone_fast_me_swords_start_2@3
 	}
 	
 	start_prone_akimbo: blendspace2d( rangex="-180,180", rangey="0,50", blend_time="0",
@@ -3768,6 +3811,20 @@ playerasm
 		sdr_mp_strafe_sprint_pistol_jump_takeoff_8@2
 		sdr_mp_strafe_sprint_pistol_jump_takeoff_7@1
 		sdr_mp_strafe_sprint_pistol_jump_takeoff_9@1
+	}
+	
+	jump_takeoff_sprint_kalisticks: blendspace2d( rangex="-180,180", rangey="0,315", blend_time="0",
+	coords="{0,247},{-45,220},{45,220},{0,220},{0,315},{45,300},{-45,300}",
+	edges="{0,1,3},{0,2,3},{0,4,5},{0,4,6},{0,1,6},{0,2,5}",
+	valuex=[strafeangle], valuey=[speed] ) nonloopsync 2
+	{
+		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_8
+		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_9
+		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_7
+		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_8@1
+		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_8@2
+		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_7@1
+		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_9@1
 	}
 	
 	jump_takeoff_sprint_akimbo: blendspace2d( rangex="-180,180", rangey="0,315", blend_time="0",
@@ -5001,6 +5058,103 @@ playerasm
 		sdr_mp_me_mantle_on_right_weapon_up_far_high_c
 	}
 	
+	bs_mantle_on_weapon_up_swords: blendspace2d( rangex="18,85", rangey="18,72", blend_time="0",
+	coords="{18,18},{18,24},{85,18},{85,24},{18,58},{18,40},{18,25},{85,58},{85,40},{85,25},{18,72},{85,72}",
+	edges="{0,1,3},{0,2,3},{5,6,8},{6,8,9},{4,5,7},{5,7,8},{4,7,11},{4,10,11}",
+	valueX=[bsparam_mantle_distance], valueY=[bsparam_mantle_height] ) nonloopsync
+	{
+		sdr_mp_me_mantle_on_weapon_up_close_low_a_swords
+		sdr_mp_me_mantle_on_weapon_up_close_low_b_swords
+		sdr_mp_me_mantle_on_weapon_up_far_low_a_swords
+		sdr_mp_me_mantle_on_weapon_up_far_low_b_swords
+		sdr_mp_me_mantle_on_weapon_up_close_high_a_swords
+		sdr_mp_me_mantle_on_weapon_up_close_high_b_swords
+		sdr_mp_me_mantle_on_weapon_up_close_high_c_swords
+		sdr_mp_me_mantle_on_weapon_up_far_high_a_swords
+		sdr_mp_me_mantle_on_weapon_up_far_high_b_swords
+		sdr_mp_me_mantle_on_weapon_up_far_high_c_swords
+		sdr_mp_me_mantle_on_weapon_up_close_high_d_swords
+		sdr_mp_me_mantle_on_weapon_up_far_high_d_swords
+	}
+	
+	bs_mantle_over_weapon_up_swords: blendspace2d( rangex="76,143", rangey="18,72", blend_time="0",
+	coords="{76,18},{76,24},{143,18},{143,24},{76,58},{76,25},{143,58},{143,25},{76,40},{99,58},{122,58},{143,40},{122,40},{122,25},{99,40},{99,25},{143,72},{76,72},{99,72},{122,72}",
+	edges="{0,1,3},{0,2,3},{4,8,9},{8,9,14},{9,10,14},{10,12,14},{6,10,12},{6,11,12},{5,8,14},{5,14,15},{12,14,15},{12,13,15},{11,12,13},{7,11,13},{6,10,16},{10,16,19},{9,10,19},{9,18,19},{4,9,18},{4,17,18}",
+	valueX=[bsparam_mantle_distance], valueY=[bsparam_mantle_height] ) nonloopsync
+	{
+		sdr_mp_me_mantle_over_weapon_up_close_low_a_swords
+		sdr_mp_me_mantle_over_weapon_up_close_low_b_swords
+		sdr_mp_me_mantle_over_weapon_up_far_low_a_swords
+		sdr_mp_me_mantle_over_weapon_up_far_low_b_swords
+		sdr_mp_me_mantle_over_weapon_up_close_high_a_swords
+		sdr_mp_me_mantle_over_weapon_up_close_high_c_swords
+		sdr_mp_me_mantle_over_weapon_up_far_high_a_swords
+		sdr_mp_me_mantle_over_weapon_up_far_high_c_swords
+		sdr_mp_me_mantle_over_weapon_up_close_high_b_swords
+		sdr_mp_me_mantle_over_weapon_up_close_medium_high_a_swords
+		sdr_mp_me_mantle_over_weapon_up_far_medium_high_a_swords
+		sdr_mp_me_mantle_over_weapon_up_far_high_b_swords
+		sdr_mp_me_mantle_over_weapon_up_far_medium_high_b_swords
+		sdr_mp_me_mantle_over_weapon_up_far_medium_high_c_swords
+		sdr_mp_me_mantle_over_weapon_up_close_medium_high_b_swords
+		sdr_mp_me_mantle_over_weapon_up_close_medium_high_c_swords
+		sdr_mp_me_mantle_over_weapon_up_far_high_d_swords
+		sdr_mp_me_mantle_over_weapon_up_close_high_d_swords
+		sdr_mp_me_mantle_over_weapon_up_close_medium_high_d_swords
+		sdr_mp_me_mantle_over_weapon_up_far_medium_high_d_swords
+	}
+	
+	bs_mantle_on_left_weapon_up_swords: blendspace2d( rangex="18,35", rangey="18,49", blend_time="0",
+	coords="{18,18},{18,24},{35,18},{35,24},{18,49},{18,36},{18,25},{35,49},{35,36},{35,25}",
+	edges="{0,1,3},{0,2,3},{5,6,8},{6,8,9},{4,5,7},{5,7,8}",
+	valueX=[bsparam_mantle_distance], valueY=[bsparam_mantle_height] ) nonloopsync
+	{
+		sdr_mp_me_mantle_on_left_weapon_up_close_low_a_swords
+		sdr_mp_me_mantle_on_left_weapon_up_close_low_b_swords
+		sdr_mp_me_mantle_on_left_weapon_up_far_low_a_swords
+		sdr_mp_me_mantle_on_left_weapon_up_far_low_b_swords
+		sdr_mp_me_mantle_on_left_weapon_up_close_high_a_swords
+		sdr_mp_me_mantle_on_left_weapon_up_close_high_b_swords
+		sdr_mp_me_mantle_on_left_weapon_up_close_high_c_swords
+		sdr_mp_me_mantle_on_left_weapon_up_far_high_a_swords
+		sdr_mp_me_mantle_on_left_weapon_up_far_high_b_swords
+		sdr_mp_me_mantle_on_left_weapon_up_far_high_c_swords
+	}
+		
+	bs_mantle_on_back_weapon_up_swords: blendspace2d( rangex="18,35", rangey="18,49", blend_time="0",
+	coords="{18,49},{18,36},{18,25},{35,49},{35,36},{35,25},{18,24},{35,24},{18,18},{35,18}",
+	edges="{1,2,4},{2,4,5},{0,1,3},{1,3,4},{7,8,9},{6,7,8}",
+	valueX=[bsparam_mantle_distance], valueY=[bsparam_mantle_height] ) nonloopsync
+	{
+		sdr_mp_me_mantle_on_back_weapon_up_close_high_a_swords
+		sdr_mp_me_mantle_on_back_weapon_up_close_high_b_swords
+		sdr_mp_me_mantle_on_back_weapon_up_close_high_c_swords
+		sdr_mp_me_mantle_on_back_weapon_up_far_high_a_swords
+		sdr_mp_me_mantle_on_back_weapon_up_far_high_b_swords
+		sdr_mp_me_mantle_on_back_weapon_up_far_high_c_swords
+		sdr_mp_me_mantle_on_back_weapon_up_close_low_a_swords
+		sdr_mp_me_mantle_on_back_weapon_up_far_low_a_swords
+		sdr_mp_me_mantle_on_back_weapon_up_close_low_b_swords
+		sdr_mp_me_mantle_on_back_weapon_up_far_low_b_swords
+	}
+	
+	bs_mantle_on_right_weapon_up_swords: blendspace2d( rangex="18,35", rangey="18,49", blend_time="0",
+	coords="{18,18},{18,24},{35,18},{35,24},{18,49},{18,36},{18,25},{35,49},{35,36},{35,25}",
+	edges="{0,1,3},{0,2,3},{5,6,8},{6,8,9},{4,5,7},{5,7,8}",
+	valueX=[bsparam_mantle_distance], valueY=[bsparam_mantle_height] ) nonloopsync
+	{
+		sdr_mp_me_mantle_on_right_weapon_up_close_low_a_swords
+		sdr_mp_me_mantle_on_right_weapon_up_close_low_b_swords
+		sdr_mp_me_mantle_on_right_weapon_up_far_low_a_swords
+		sdr_mp_me_mantle_on_right_weapon_up_far_low_b_swords
+		sdr_mp_me_mantle_on_right_weapon_up_close_high_a_swords
+		sdr_mp_me_mantle_on_right_weapon_up_close_high_b_swords
+		sdr_mp_me_mantle_on_right_weapon_up_close_high_c_swords
+		sdr_mp_me_mantle_on_right_weapon_up_far_high_a_swords
+		sdr_mp_me_mantle_on_right_weapon_up_far_high_b_swords
+		sdr_mp_me_mantle_on_right_weapon_up_far_high_c_swords
+	}
+	
 	bs_mantle_on_weapon_up_kalisticks: blendspace2d( rangex="18,85", rangey="18,72", blend_time="0",
 	coords="{18,18},{18,24},{85,18},{85,24},{18,58},{18,40},{18,25},{85,58},{85,40},{85,25},{18,72},{85,72}",
 	edges="{0,1,3},{0,2,3},{5,6,8},{6,8,9},{4,5,7},{5,7,8},{4,7,11},{4,10,11}",
@@ -5727,6 +5881,44 @@ playerasm
 //		}
 	}	
 	
+	bs_lbravo_mg_passenger_s01:
+ 	{
+		bs_lbravo_mg_s01_yaw : scrub1d( timerange="0,360", timevalue=[bsparam_vehicle_aim_yaw], autoselfclear="true" ) complete
+		{
+			bs_lbravo_mg_s01_pitch : blendspace1d( range="-27,42", coords="-27,0,42", value=[bsparam_vehicle_aim_pitch] ) complete
+			{
+				sdr_mp_veh_lbravo_mg_seat_1_scrub_up
+				sdr_mp_veh_lbravo_mg_seat_1_scrub_neutral
+				sdr_mp_veh_lbravo_mg_seat_1_scrub_down
+			}
+			
+		}
+		bs_lbravo_mg_s01_yaw_melee : scrub1d( timerange="0,360", timevalue=[bsparam_vehicle_aim_yaw], autoselfclear="true" ) complete
+		{
+			bs_lbravo_mg_s01_pitch_melee : blendspace1d( range="-27,42", coords="-27,0,42", value=[bsparam_vehicle_aim_pitch] ) complete
+			{
+				sdr_mp_me_veh_lbravo_mg_seat_1_scrub_up
+				sdr_mp_me_veh_lbravo_mg_seat_1_scrub_neutral
+				sdr_mp_me_veh_lbravo_mg_seat_1_scrub_down
+			}
+			
+		}
+	}
+	
+	bs_lbravo_mg_passenger_s06:
+ 	{
+		bs_lbravo_mg_s06_yaw : scrub1d( timerange="0,360", timevalue=[bsparam_vehicle_aim_yaw], autoselfclear="true" ) complete
+		{
+			bs_lbravo_mg_s06_pitch : blendspace1d( range="-27,42", coords="-27,0,42", value=[bsparam_vehicle_aim_pitch] ) complete
+			{
+				sdr_mp_veh_lbravo_mg_seat_6_scrub_up
+				sdr_mp_veh_lbravo_mg_seat_6_scrub_neutral
+				sdr_mp_veh_lbravo_mg_seat_6_scrub_down
+			}
+			
+		}
+	}
+	
 	
 	bs_mounted_ik_in_place: blendspace1d( range="-20,38", blend_time="0",
 	coords="-20,38",
@@ -5970,6 +6162,8 @@ playerasm
 			sdr_mp_facial_iskra_aim_1
 			sdr_mp_facial_price_aim_1
 			sdr_mp_facial_kyle_aim_1
+			sdr_mp_facial_roze_aim_1
+			sdr_mp_facial_lerch_aim_1
 		}
 		
 		facial_angry: random( blendtime="0.05", restart="false", seed=[random_seed] ) complete lod_cull(0)
@@ -6004,6 +6198,9 @@ playerasm
 				sdr_mp_facial_iskra_angry_1
 				sdr_mp_facial_price_angry_1
 				sdr_mp_facial_kyle_angry_1
+				sdr_mp_facial_roze_angry_1
+				sdr_mp_facial_lerch_angry_1
+				
 			}
 			facial_angry_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6035,6 +6232,9 @@ playerasm
 				sdr_mp_facial_iskra_angry_2
 				sdr_mp_facial_price_angry_2
 				sdr_mp_facial_kyle_angry_2
+				sdr_mp_facial_roze_angry_2
+				sdr_mp_facial_lerch_angry_2
+				
 			}
 			facial_angry_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6066,6 +6266,8 @@ playerasm
 				sdr_mp_facial_iskra_angry_3
 				sdr_mp_facial_price_angry_3
 				sdr_mp_facial_kyle_angry_3
+				sdr_mp_facial_roze_angry_3
+				sdr_mp_facial_lerch_angry_3
 			}
 		}
 		
@@ -6099,6 +6301,8 @@ playerasm
 			sdr_mp_facial_iskra_angry_1@1
 			sdr_mp_facial_price_angry_1@1
 			sdr_mp_facial_kyle_angry_1@1
+			sdr_mp_facial_roze_angry_1@1
+			sdr_mp_facial_lerch_angry_1@1
 		}
 		
 		facial_fire_ads: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
@@ -6131,6 +6335,8 @@ playerasm
 			sdr_mp_facial_iskra_fire_ads_1
 			sdr_mp_facial_price_fire_ads_1
 			sdr_mp_facial_kyle_fire_ads_1
+			sdr_mp_facial_roze_fire_ads_1
+			sdr_mp_facial_lerch_fire_ads_1
 		}
 		
 		facial_death: random( blendtime="0.05", restart="false", seed=[random_seed] ) complete lod_cull(0)
@@ -6165,6 +6371,8 @@ playerasm
 				sdr_mp_facial_iskra_death_1
 				sdr_mp_facial_price_death_1
 				sdr_mp_facial_kyle_death_1
+				sdr_mp_facial_roze_death_1
+				sdr_mp_facial_lerch_death_1
 			}
 			facial_death_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6196,6 +6404,8 @@ playerasm
 				sdr_mp_facial_iskra_death_2
 				sdr_mp_facial_price_death_2
 				sdr_mp_facial_kyle_death_2
+				sdr_mp_facial_roze_death_2
+				sdr_mp_facial_lerch_death_2
 			}
 			facial_death_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6227,6 +6437,8 @@ playerasm
 				sdr_mp_facial_iskra_death_3
 				sdr_mp_facial_price_death_3
 				sdr_mp_facial_kyle_death_3
+				sdr_mp_facial_roze_death_3
+				sdr_mp_facial_lerch_death_3
 			}
 		}
 		facial_idle: random( blendtime="0.05", restart="false", seed=[random_seed] ) complete lod_cull(0)
@@ -6261,6 +6473,8 @@ playerasm
 				sdr_mp_facial_iskra_idle_1
 				sdr_mp_facial_price_idle_1
 				sdr_mp_facial_kyle_idle_1
+				sdr_mp_facial_roze_idle_1
+				sdr_mp_facial_lerch_idle_1
 			}
 			facial_idle_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6292,6 +6506,8 @@ playerasm
 				sdr_mp_facial_iskra_idle_2
 				sdr_mp_facial_price_idle_2
 				sdr_mp_facial_kyle_idle_2
+				sdr_mp_facial_roze_idle_2
+				sdr_mp_facial_lerch_idle_2
 			}
 			facial_idle_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6323,6 +6539,8 @@ playerasm
 				sdr_mp_facial_iskra_idle_3
 				sdr_mp_facial_price_idle_3
 				sdr_mp_facial_kyle_idle_3
+				sdr_mp_facial_roze_idle_3
+				sdr_mp_facial_lerch_idle_3
 			}
 		}
 		
@@ -6358,6 +6576,8 @@ playerasm
 				sdr_mp_facial_iskra_pain_1
 				sdr_mp_facial_price_pain_1
 				sdr_mp_facial_kyle_pain_1
+				sdr_mp_facial_roze_pain_1
+				sdr_mp_facial_lerch_pain_1
 			}
 			facial_pain_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6389,6 +6609,8 @@ playerasm
 				sdr_mp_facial_iskra_pain_2
 				sdr_mp_facial_price_pain_2
 				sdr_mp_facial_kyle_pain_2
+				sdr_mp_facial_roze_pain_2
+				sdr_mp_facial_lerch_pain_2
 			}
 			facial_pain_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6420,6 +6642,8 @@ playerasm
 				sdr_mp_facial_iskra_pain_3
 				sdr_mp_facial_price_pain_3
 				sdr_mp_facial_kyle_pain_3
+				sdr_mp_facial_roze_pain_3
+				sdr_mp_facial_lerch_pain_3
 			}
 		}
 		
@@ -6453,6 +6677,8 @@ playerasm
 				sdr_mp_facial_iskra_gunlesspain_1
 				sdr_mp_facial_price_gunlesspain_1
 				sdr_mp_facial_kyle_gunlesspain_1
+				sdr_mp_facial_roze_gunlesspain_1
+				sdr_mp_facial_lerch_gunlesspain_1
 		}
 		
 		
@@ -6486,6 +6712,8 @@ playerasm
 			sdr_mp_facial_iskra_reload_1
 			sdr_mp_facial_price_reload_1
 			sdr_mp_facial_kyle_reload_1
+			sdr_mp_facial_roze_reload_1
+			sdr_mp_facial_lerch_reload_1
 		}
 		
 		facial_run: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
@@ -6518,6 +6746,8 @@ playerasm
 			sdr_mp_facial_iskra_run_1
 			sdr_mp_facial_price_run_1
 			sdr_mp_facial_kyle_run_1
+			sdr_mp_facial_roze_run_1
+			sdr_mp_facial_lerch_run_1
 		}
 	}
 
@@ -6529,6 +6759,11 @@ playerasm
     reload: overlay nonloopsync
 	{
 		#reload_anim_slot
+	}
+	
+	inspect: overlay nonloopsync
+	{
+		#inspect_anim_slot
 	}
 	
 	reload_segmented: overlay

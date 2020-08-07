@@ -56,6 +56,18 @@ LANG_ENGLISH         "Akimbo"
 REFERENCE            akimbo_blades
 LANG_ENGLISH         "Dual Kodachis"
 
+REFERENCE            akimbo_blades_v2
+LANG_ENGLISH         "Aomi"
+
+REFERENCE            akimbo_blades_v3
+LANG_ENGLISH         "Daimyo"
+
+REFERENCE            akimbo_blades_v4
+LANG_ENGLISH         "AKIMBO_BLADES_V4"
+
+REFERENCE            akimbo_blades_v5
+LANG_ENGLISH         "AKIMBO_BLADES_V5"
+
 REFERENCE            akimbo_blunt
 LANG_ENGLISH         "Kali Sticks"
 
@@ -67,6 +79,9 @@ LANG_ENGLISH         "Ram Jam"
 
 REFERENCE            akimbo_blunt_v4
 LANG_ENGLISH         "AKIMBO_BLUNT_V4"
+
+REFERENCE            akimbo_blunt_v5
+LANG_ENGLISH         "AKIMBO_BLUNT_V5"
 
 REFERENCE            alien_drill
 LANG_ENGLISH         "Laser Drill"
@@ -279,13 +294,13 @@ REFERENCE            ar_akilo47_v18
 LANG_ENGLISH         "Temhota"
 
 REFERENCE            ar_akilo47_v19
-LANG_ENGLISH         "AR_AKILO47_V19"
+LANG_ENGLISH         "Last Rites"
 
 REFERENCE            ar_akilo47_v2
 LANG_ENGLISH         "Revolution"
 
 REFERENCE            ar_akilo47_v20
-LANG_ENGLISH         "AR_AKILO47_V20"
+LANG_ENGLISH         "Black Cat"
 
 REFERENCE            ar_akilo47_v3
 LANG_ENGLISH         "Pink Perforator"
@@ -308,6 +323,24 @@ LANG_ENGLISH         "Sand Sweeper"
 REFERENCE            ar_akilo47_v9
 LANG_ENGLISH         "Duly Devoted"
 
+REFERENCE            ar_anovember94
+LANG_ENGLISH         "AN-94"
+
+REFERENCE            ar_anovember94_v1
+LANG_ENGLISH         "AR_ANOVEMBER94_V1"
+
+REFERENCE            ar_anovember94_v2
+LANG_ENGLISH         "The Company's Might"
+
+REFERENCE            ar_anovember94_v3
+LANG_ENGLISH         "AR_ANOVEMBER94_V3"
+
+REFERENCE            ar_anovember94_v4
+LANG_ENGLISH         "AR_ANOVEMBER94_V4"
+
+REFERENCE            ar_anovember94_v5
+LANG_ENGLISH         "AR_ANOVEMBER94_V5"
+
 REFERENCE            ar_asierra12
 LANG_ENGLISH         "Oden"
 
@@ -324,13 +357,16 @@ REFERENCE            ar_asierra12_v13
 LANG_ENGLISH         "Lake of Fire"
 
 REFERENCE            ar_asierra12_v14
-LANG_ENGLISH         "AR_ASIERRA12_V14"
+LANG_ENGLISH         "Invincible Arsenal"
 
 REFERENCE            ar_asierra12_v15
 LANG_ENGLISH         "Half Dying"
 
 REFERENCE            ar_asierra12_v16
 LANG_ENGLISH         "AR_ASIERRA12_V16"
+
+REFERENCE            ar_asierra12_v17
+LANG_ENGLISH         "Johnny On The Spot"
 
 REFERENCE            ar_asierra12_v2
 LANG_ENGLISH         "Carbon Bear"
@@ -447,13 +483,16 @@ REFERENCE            ar_galima_v2
 LANG_ENGLISH         "Emissary"
 
 REFERENCE            ar_galima_v3
-LANG_ENGLISH         "AR_GALIMA_V3"
+LANG_ENGLISH         "The Divide"
 
 REFERENCE            ar_galima_v4
-LANG_ENGLISH         "AR_GALIMA_V4"
+LANG_ENGLISH         "Enigma"
 
 REFERENCE            ar_galima_v5
-LANG_ENGLISH         "AR_GALIMA_V5"
+LANG_ENGLISH         "Shadow Realm"
+
+REFERENCE            ar_galima_v6
+LANG_ENGLISH         "Ravenous"
 
 REFERENCE            ar_kilo433
 LANG_ENGLISH         "Kilo 141"
@@ -497,6 +536,15 @@ LANG_ENGLISH         "Silent Stalker"
 REFERENCE            ar_kilo433_v21
 LANG_ENGLISH         "Sandbar"
 
+REFERENCE            ar_kilo433_v22
+LANG_ENGLISH         "Fiorentino"
+
+REFERENCE            ar_kilo433_v23
+LANG_ENGLISH         "AR_KILO433_V23"
+
+REFERENCE            ar_kilo433_v24
+LANG_ENGLISH         "AR_KILO433_V24"
+
 REFERENCE            ar_kilo433_v3
 LANG_ENGLISH         "Regal Retribution"
 
@@ -531,7 +579,7 @@ REFERENCE            ar_mcharlie_v12
 LANG_ENGLISH         "Forgotten Oasis"
 
 REFERENCE            ar_mcharlie_v13
-LANG_ENGLISH         "Gold Flakes"
+LANG_ENGLISH         "King's Highway"
 
 REFERENCE            ar_mcharlie_v14
 LANG_ENGLISH         "Sheet Lightning"
@@ -541,6 +589,15 @@ LANG_ENGLISH         "Blue Jay"
 
 REFERENCE            ar_mcharlie_v16
 LANG_ENGLISH         "Old Chestnut"
+
+REFERENCE            ar_mcharlie_v17
+LANG_ENGLISH         "Slaying Moon"
+
+REFERENCE            ar_mcharlie_v18
+LANG_ENGLISH         "Thames"
+
+REFERENCE            ar_mcharlie_v19
+LANG_ENGLISH         "Galapagos"
 
 REFERENCE            ar_mcharlie_v2
 LANG_ENGLISH         "Short Stuff"
@@ -621,28 +678,28 @@ REFERENCE            ar_mike4_v25
 LANG_ENGLISH         "Moonshadow"
 
 REFERENCE            ar_mike4_v26
-LANG_ENGLISH         "AR_MIKE4_V26"
+LANG_ENGLISH         "1776"
 
 REFERENCE            ar_mike4_v27
 LANG_ENGLISH         "Thunderclap"
 
 REFERENCE            ar_mike4_v28
-LANG_ENGLISH         "AR_MIKE4_V28"
+LANG_ENGLISH         "CDL Champs 2020 M4"
 
 REFERENCE            ar_mike4_v29
-LANG_ENGLISH         "AR_MIKE4_V29"
+LANG_ENGLISH         "Grail Quest"
 
 REFERENCE            ar_mike4_v3
 LANG_ENGLISH         "The Purist"
 
 REFERENCE            ar_mike4_v30
-LANG_ENGLISH         "AR_MIKE4_V30"
+LANG_ENGLISH         "Ghostly Recollection"
 
 REFERENCE            ar_mike4_v31
 LANG_ENGLISH         "AR_MIKE4_V31"
 
 REFERENCE            ar_mike4_v32
-LANG_ENGLISH         "AR_MIKE4_V32"
+LANG_ENGLISH         "Spanish Moss"
 
 REFERENCE            ar_mike4_v4
 LANG_ENGLISH         "OG"
@@ -651,7 +708,7 @@ REFERENCE            ar_mike4_v5
 LANG_ENGLISH         "Calibrutal"
 
 REFERENCE            ar_mike4_v6
-LANG_ENGLISH         "Short Stop"
+LANG_ENGLISH         "Grand Rapids"
 
 REFERENCE            ar_mike4_v7
 LANG_ENGLISH         "XRK M4"
@@ -686,6 +743,12 @@ LANG_ENGLISH         "Death Mask"
 REFERENCE            ar_scharlie_v16
 LANG_ENGLISH         "Psychosis"
 
+REFERENCE            ar_scharlie_v17
+LANG_ENGLISH         "Diplomatic Relations"
+
+REFERENCE            ar_scharlie_v18
+LANG_ENGLISH         "Black Adder"
+
 REFERENCE            ar_scharlie_v2
 LANG_ENGLISH         "The Traitor"
 
@@ -717,22 +780,25 @@ REFERENCE            ar_sierra552_v10
 LANG_ENGLISH         "Rocker Box"
 
 REFERENCE            ar_sierra552_v11
-LANG_ENGLISH         "AR_SIERRA552_V11"
+LANG_ENGLISH         "Alabaster"
 
 REFERENCE            ar_sierra552_v12
 LANG_ENGLISH         "Noir"
 
 REFERENCE            ar_sierra552_v13
-LANG_ENGLISH         "Insolence"
+LANG_ENGLISH         "Mortal coil"
 
 REFERENCE            ar_sierra552_v14
-LANG_ENGLISH         "AR_SIERRA552_V14"
+LANG_ENGLISH         "Vizsla"
 
 REFERENCE            ar_sierra552_v15
 LANG_ENGLISH         "AR_SIERRA552_V15"
 
 REFERENCE            ar_sierra552_v16
 LANG_ENGLISH         "AR_SIERRA552_V16"
+
+REFERENCE            ar_sierra552_v18
+LANG_ENGLISH         "Mother Lode"
 
 REFERENCE            ar_sierra552_v2
 LANG_ENGLISH         "AR_SIERRA552_V2"
@@ -762,13 +828,16 @@ REFERENCE            ar_tango21
 LANG_ENGLISH         "RAM-7"
 
 REFERENCE            ar_tango21_v10
-LANG_ENGLISH         "AR_TANGO21_V10"
+LANG_ENGLISH         "Mockingbird"
 
 REFERENCE            ar_tango21_v11
-LANG_ENGLISH         "AR_TANGO21_V11"
+LANG_ENGLISH         "Red Crown"
 
 REFERENCE            ar_tango21_v12
 LANG_ENGLISH         "Hellspawn"
+
+REFERENCE            ar_tango21_v13
+LANG_ENGLISH         "Good Luck Charm"
 
 REFERENCE            ar_tango21_v2
 LANG_ENGLISH         "Ambush"
@@ -917,6 +986,9 @@ LANG_ENGLISH         "Karma-45"
 REFERENCE            crdb
 LANG_ENGLISH         "VPR"
 
+REFERENCE            cryo_dismemberment
+LANG_ENGLISH         "Cryo-Dismemberment"
+
 REFERENCE            custom_attachment
 LANG_ENGLISH         "&&1 Custom"
 
@@ -934,6 +1006,12 @@ LANG_ENGLISH         "Ballistic Vest Duffel Bag"
 
 REFERENCE            devastator
 LANG_ENGLISH         "Reaver"
+
+REFERENCE            dismemberment
+LANG_ENGLISH         "Dismemberment"
+
+REFERENCE            dismemberment_gold
+LANG_ENGLISH         "Midas Shot"
 
 REFERENCE            eclan_attachment
 LANG_ENGLISH         "ECLAN"
@@ -1265,8 +1343,56 @@ LANG_ENGLISH         "Combat Knife"
 REFERENCE            knife_v10
 LANG_ENGLISH         "Icicle"
 
+REFERENCE            knife_v100
+LANG_ENGLISH         "KNIFE_V100"
+
+REFERENCE            knife_v101
+LANG_ENGLISH         "Golden Hew"
+
+REFERENCE            knife_v102
+LANG_ENGLISH         "KNIFE_V102"
+
+REFERENCE            knife_v103
+LANG_ENGLISH         "KNIFE_V103"
+
+REFERENCE            knife_v104
+LANG_ENGLISH         "KNIFE_V104"
+
+REFERENCE            knife_v105
+LANG_ENGLISH         "KNIFE_V105"
+
+REFERENCE            knife_v106
+LANG_ENGLISH         "KNIFE_V106"
+
+REFERENCE            knife_v107
+LANG_ENGLISH         "KNIFE_V107"
+
+REFERENCE            knife_v108
+LANG_ENGLISH         "KNIFE_V108"
+
+REFERENCE            knife_v109
+LANG_ENGLISH         "KNIFE_V109"
+
 REFERENCE            knife_v11
 LANG_ENGLISH         "Stone Carver"
+
+REFERENCE            knife_v110
+LANG_ENGLISH         "KNIFE_V110"
+
+REFERENCE            knife_v111
+LANG_ENGLISH         "KNIFE_V111"
+
+REFERENCE            knife_v112
+LANG_ENGLISH         "KNIFE_V112"
+
+REFERENCE            knife_v113
+LANG_ENGLISH         "KNIFE_V113"
+
+REFERENCE            knife_v114
+LANG_ENGLISH         "Riddle of Steel"
+
+REFERENCE            knife_v115
+LANG_ENGLISH         "KNIFE_V114"
 
 REFERENCE            knife_v12
 LANG_ENGLISH         "Boxcutter"
@@ -1350,7 +1476,7 @@ REFERENCE            knife_v36
 LANG_ENGLISH         "No Masters"
 
 REFERENCE            knife_v37
-LANG_ENGLISH         "Sword"
+LANG_ENGLISH         "Close Shave"
 
 REFERENCE            knife_v38
 LANG_ENGLISH         "KNIFE_V38"
@@ -1386,7 +1512,7 @@ REFERENCE            knife_v47
 LANG_ENGLISH         "Beamish"
 
 REFERENCE            knife_v48
-LANG_ENGLISH         "KNIFE_V48"
+LANG_ENGLISH         "Firecracker"
 
 REFERENCE            knife_v49
 LANG_ENGLISH         "KNIFE_V49"
@@ -1404,7 +1530,7 @@ REFERENCE            knife_v52
 LANG_ENGLISH         "KNIFE_V52"
 
 REFERENCE            knife_v53
-LANG_ENGLISH         "KNIFE_V53"
+LANG_ENGLISH         "Golden Hew"
 
 REFERENCE            knife_v54
 LANG_ENGLISH         "KNIFE_V54"
@@ -1430,14 +1556,131 @@ LANG_ENGLISH         "Hold Up"
 REFERENCE            knife_v60
 LANG_ENGLISH         "KNIFE_V60"
 
+REFERENCE            knife_v61
+LANG_ENGLISH         "Summer Solstice"
+
+REFERENCE            knife_v62
+LANG_ENGLISH         "Box Cutter"
+
+REFERENCE            knife_v63
+LANG_ENGLISH         "Night Sky"
+
+REFERENCE            knife_v64
+LANG_ENGLISH         "Old Sins"
+
+REFERENCE            knife_v65
+LANG_ENGLISH         "KNIFE_V65"
+
+REFERENCE            knife_v66
+LANG_ENGLISH         "KNIFE_V66"
+
+REFERENCE            knife_v67
+LANG_ENGLISH         "Riddle Of Steel"
+
+REFERENCE            knife_v68
+LANG_ENGLISH         "KNIFE_V68"
+
+REFERENCE            knife_v69
+LANG_ENGLISH         "KNIFE_V69"
+
 REFERENCE            knife_v7
 LANG_ENGLISH         "Atom Splitter"
+
+REFERENCE            knife_v70
+LANG_ENGLISH         "KNIFE_V70"
+
+REFERENCE            knife_v71
+LANG_ENGLISH         "KNIFE_V71"
+
+REFERENCE            knife_v72
+LANG_ENGLISH         "KNIFE_V72"
+
+REFERENCE            knife_v73
+LANG_ENGLISH         "KNIFE_V73"
+
+REFERENCE            knife_v74
+LANG_ENGLISH         "KNIFE_V74"
+
+REFERENCE            knife_v75
+LANG_ENGLISH         "KNIFE_V75"
+
+REFERENCE            knife_v76
+LANG_ENGLISH         "KNIFE_V76"
+
+REFERENCE            knife_v77
+LANG_ENGLISH         "KNIFE_V77"
+
+REFERENCE            knife_v78
+LANG_ENGLISH         "KNIFE_V78"
+
+REFERENCE            knife_v79
+LANG_ENGLISH         "KNIFE_V79"
 
 REFERENCE            knife_v8
 LANG_ENGLISH         "New Steel"
 
+REFERENCE            knife_v80
+LANG_ENGLISH         "KNIFE_V80"
+
+REFERENCE            knife_v81
+LANG_ENGLISH         "KNIFE_V81"
+
+REFERENCE            knife_v82
+LANG_ENGLISH         "KNIFE_V82"
+
+REFERENCE            knife_v83
+LANG_ENGLISH         "KNIFE_V83"
+
+REFERENCE            knife_v84
+LANG_ENGLISH         "KNIFE_V84"
+
+REFERENCE            knife_v85
+LANG_ENGLISH         "KNIFE_V85"
+
+REFERENCE            knife_v86
+LANG_ENGLISH         "KNIFE_V86"
+
+REFERENCE            knife_v87
+LANG_ENGLISH         "KNIFE_V87"
+
+REFERENCE            knife_v88
+LANG_ENGLISH         "KNIFE_V88"
+
+REFERENCE            knife_v89
+LANG_ENGLISH         "KNIFE_V89"
+
 REFERENCE            knife_v9
 LANG_ENGLISH         "Arterial"
+
+REFERENCE            knife_v90
+LANG_ENGLISH         "KNIFE_V90"
+
+REFERENCE            knife_v91
+LANG_ENGLISH         "KNIFE_V91"
+
+REFERENCE            knife_v92
+LANG_ENGLISH         "KNIFE_V92"
+
+REFERENCE            knife_v93
+LANG_ENGLISH         "KNIFE_V93"
+
+REFERENCE            knife_v94
+LANG_ENGLISH         "KNIFE_V94"
+
+REFERENCE            knife_v95
+LANG_ENGLISH         "KNIFE_V95"
+
+REFERENCE            knife_v96
+LANG_ENGLISH         "KNIFE_V96"
+
+REFERENCE            knife_v97
+LANG_ENGLISH         "KNIFE_V97"
+
+REFERENCE            knife_v98
+LANG_ENGLISH         "KNIFE_V98"
+
+REFERENCE            knife_v99
+LANG_ENGLISH         "KNIFE_V99"
 
 REFERENCE            la_gromeo
 LANG_ENGLISH         "PILA"
@@ -1548,13 +1791,55 @@ REFERENCE            lm_lima86_v15
 LANG_ENGLISH         "LM_LIMA86_V15"
 
 REFERENCE            lm_lima86_v16
-LANG_ENGLISH         "LM_LIMA86_V16"
+LANG_ENGLISH         "Fishbone"
+
+REFERENCE            lm_lima86_v17
+LANG_ENGLISH         "Cover of Night"
+
+REFERENCE            lm_lima86_v18
+LANG_ENGLISH         "LM_LIMA86_V18"
+
+REFERENCE            lm_lima86_v19
+LANG_ENGLISH         "LM_LIMA86_V19"
 
 REFERENCE            lm_lima86_v2
 LANG_ENGLISH         "Stratagem"
 
+REFERENCE            lm_lima86_v20
+LANG_ENGLISH         "LM_LIMA86_V20"
+
+REFERENCE            lm_lima86_v21
+LANG_ENGLISH         "LM_LIMA86_V21"
+
+REFERENCE            lm_lima86_v22
+LANG_ENGLISH         "LM_LIMA86_V22"
+
+REFERENCE            lm_lima86_v23
+LANG_ENGLISH         "LM_LIMA86_V23"
+
+REFERENCE            lm_lima86_v24
+LANG_ENGLISH         "LM_LIMA86_V24"
+
+REFERENCE            lm_lima86_v25
+LANG_ENGLISH         "LM_LIMA86_V25"
+
+REFERENCE            lm_lima86_v26
+LANG_ENGLISH         "LM_LIMA86_V26"
+
+REFERENCE            lm_lima86_v27
+LANG_ENGLISH         "LM_LIMA86_V27"
+
+REFERENCE            lm_lima86_v28
+LANG_ENGLISH         "LM_LIMA86_V28"
+
+REFERENCE            lm_lima86_v29
+LANG_ENGLISH         "LM_LIMA86_V29"
+
 REFERENCE            lm_lima86_v3
 LANG_ENGLISH         "Ironed Out"
+
+REFERENCE            lm_lima86_v30
+LANG_ENGLISH         "LM_LIMA86_V30"
 
 REFERENCE            lm_lima86_v4
 LANG_ENGLISH         "The Kraken"
@@ -1586,8 +1871,32 @@ LANG_ENGLISH         "LM_MGOLF34_V11"
 REFERENCE            lm_mgolf34_v12
 LANG_ENGLISH         "LM_MGOLF34_V12"
 
+REFERENCE            lm_mgolf34_v13
+LANG_ENGLISH         "The Grind"
+
+REFERENCE            lm_mgolf34_v14
+LANG_ENGLISH         "LM_MGOLF34_V14"
+
+REFERENCE            lm_mgolf34_v15
+LANG_ENGLISH         "Cipher"
+
+REFERENCE            lm_mgolf34_v16
+LANG_ENGLISH         "Iridescent"
+
+REFERENCE            lm_mgolf34_v17
+LANG_ENGLISH         "LM_MGOLF34_V17"
+
+REFERENCE            lm_mgolf34_v18
+LANG_ENGLISH         "LM_MGOLF34_V18"
+
+REFERENCE            lm_mgolf34_v19
+LANG_ENGLISH         "LM_MGOLF34_V19"
+
 REFERENCE            lm_mgolf34_v2
 LANG_ENGLISH         "BLOWtorch"
+
+REFERENCE            lm_mgolf34_v20
+LANG_ENGLISH         "LM_MGOLF34_V20"
 
 REFERENCE            lm_mgolf34_v3
 LANG_ENGLISH         "Buster"
@@ -1614,13 +1923,25 @@ REFERENCE            lm_mgolf36
 LANG_ENGLISH         "Holger-26"
 
 REFERENCE            lm_mgolf36_v10
-LANG_ENGLISH         "LM_MGOLF36_V10"
+LANG_ENGLISH         "Hunting Blind"
+
+REFERENCE            lm_mgolf36_v11
+LANG_ENGLISH         "The Catacombs"
 
 REFERENCE            lm_mgolf36_v12
 LANG_ENGLISH         "Dynatron"
 
 REFERENCE            lm_mgolf36_v13
 LANG_ENGLISH         "Surgical"
+
+REFERENCE            lm_mgolf36_v14
+LANG_ENGLISH         "Colonial Standard"
+
+REFERENCE            lm_mgolf36_v15
+LANG_ENGLISH         "Tarpon"
+
+REFERENCE            lm_mgolf36_v16
+LANG_ENGLISH         "LM_MGOLF36_V16"
 
 REFERENCE            lm_mgolf36_v2
 LANG_ENGLISH         "Necrosis"
@@ -1641,7 +1962,7 @@ REFERENCE            lm_mgolf36_v7
 LANG_ENGLISH         "Blues and Twos"
 
 REFERENCE            lm_mgolf36_v8
-LANG_ENGLISH         "LM_MGOLF36_V8"
+LANG_ENGLISH         "Palliser"
 
 REFERENCE            lm_mgolf36_v9
 LANG_ENGLISH         "Soul of the Beast"
@@ -1662,7 +1983,7 @@ REFERENCE            lm_mkilo3_v4
 LANG_ENGLISH         "Phoenix Ignition "
 
 REFERENCE            lm_mkilo3_v5
-LANG_ENGLISH         "LM_MKILO3_V5"
+LANG_ENGLISH         "Trencher"
 
 REFERENCE            lm_mkilo3_v6
 LANG_ENGLISH         "LM_MKILO3_V6"
@@ -1692,13 +2013,19 @@ REFERENCE            lm_pkilo_v13
 LANG_ENGLISH         "Conductor"
 
 REFERENCE            lm_pkilo_v14
-LANG_ENGLISH         "LM_PKILO_V14"
+LANG_ENGLISH         "Boru"
 
 REFERENCE            lm_pkilo_v15
 LANG_ENGLISH         "Slaughterhouse"
 
 REFERENCE            lm_pkilo_v16
 LANG_ENGLISH         "LM_PKILO_V16"
+
+REFERENCE            lm_pkilo_v17
+LANG_ENGLISH         "Game Over"
+
+REFERENCE            lm_pkilo_v18
+LANG_ENGLISH         "Bloodlust"
 
 REFERENCE            lm_pkilo_v2
 LANG_ENGLISH         "Standard Issue"
@@ -1772,6 +2099,15 @@ LANG_ENGLISH         "Mauler"
 REFERENCE            me_riotshield
 LANG_ENGLISH         "Riot Shield"
 
+REFERENCE            me_riotshield_v10
+LANG_ENGLISH         "ME_RIOTSHIELD_V10"
+
+REFERENCE            me_riotshield_v11
+LANG_ENGLISH         "ME_RIOTSHIELD_V11"
+
+REFERENCE            me_riotshield_v12
+LANG_ENGLISH         "ME_RIOTSHIELD_V12"
+
 REFERENCE            me_riotshield_v2
 LANG_ENGLISH         "Rampart"
 
@@ -1780,6 +2116,21 @@ LANG_ENGLISH         "ME_RIOTSHIELD_V3"
 
 REFERENCE            me_riotshield_v4
 LANG_ENGLISH         "Carapace"
+
+REFERENCE            me_riotshield_v5
+LANG_ENGLISH         "Cheater's Bane"
+
+REFERENCE            me_riotshield_v6
+LANG_ENGLISH         "Shogun"
+
+REFERENCE            me_riotshield_v7
+LANG_ENGLISH         "ME_RIOTSHIELD_V7"
+
+REFERENCE            me_riotshield_v8
+LANG_ENGLISH         "ME_RIOTSHIELD_V8"
+
+REFERENCE            me_riotshield_v9
+LANG_ENGLISH         "ME_RIOTSHIELD_V9"
 
 REFERENCE            me_tacknife_v2
 LANG_ENGLISH         "ME_TACKNIFE_V2"
@@ -1856,8 +2207,32 @@ LANG_ENGLISH         "Ol' Faithful"
 REFERENCE            pi_cpapa_v16
 LANG_ENGLISH         "Good Company"
 
+REFERENCE            pi_cpapa_v17
+LANG_ENGLISH         "PI_CPAPA_V17"
+
+REFERENCE            pi_cpapa_v18
+LANG_ENGLISH         "PI_CPAPA_V18"
+
+REFERENCE            pi_cpapa_v19
+LANG_ENGLISH         "PI_CPAPA_V19"
+
 REFERENCE            pi_cpapa_v2
 LANG_ENGLISH         "Enforcer"
+
+REFERENCE            pi_cpapa_v20
+LANG_ENGLISH         "PI_CPAPA_V20"
+
+REFERENCE            pi_cpapa_v21
+LANG_ENGLISH         "Token Gesture"
+
+REFERENCE            pi_cpapa_v22
+LANG_ENGLISH         "High Plains Drifter"
+
+REFERENCE            pi_cpapa_v23
+LANG_ENGLISH         "PI_CPAPA_V23"
+
+REFERENCE            pi_cpapa_v24
+LANG_ENGLISH         "PI_CPAPA_V24"
 
 REFERENCE            pi_cpapa_v3
 LANG_ENGLISH         "Defender"
@@ -1908,7 +2283,7 @@ REFERENCE            pi_decho_v17
 LANG_ENGLISH         "Heresy"
 
 REFERENCE            pi_decho_v18
-LANG_ENGLISH         "PI_DECHO_V18"
+LANG_ENGLISH         "Pompadour"
 
 REFERENCE            pi_decho_v19
 LANG_ENGLISH         "PI_DECHO_V19"
@@ -1918,6 +2293,9 @@ LANG_ENGLISH         "Monochromatic"
 
 REFERENCE            pi_decho_v20
 LANG_ENGLISH         "PI_DECHO_V20"
+
+REFERENCE            pi_decho_v21
+LANG_ENGLISH         "Old Fuss and Feathers"
 
 REFERENCE            pi_decho_v3
 LANG_ENGLISH         "Hammer and Sickle"
@@ -1977,7 +2355,10 @@ REFERENCE            pi_golf21_v2
 LANG_ENGLISH         "Urban Defiler"
 
 REFERENCE            pi_golf21_v20
-LANG_ENGLISH         "PI_GOLF21_V20"
+LANG_ENGLISH         "Silver Plume"
+
+REFERENCE            pi_golf21_v21
+LANG_ENGLISH         "Spectra"
 
 REFERENCE            pi_golf21_v3
 LANG_ENGLISH         "Impossible Task"
@@ -2030,11 +2411,29 @@ LANG_ENGLISH         "Elk Rut"
 REFERENCE            pi_mike1911_v17
 LANG_ENGLISH         "One For One"
 
+REFERENCE            pi_mike1911_v18
+LANG_ENGLISH         "PI_MIKE1911_V18"
+
+REFERENCE            pi_mike1911_v19
+LANG_ENGLISH         "PI_MIKE1911_V19"
+
 REFERENCE            pi_mike1911_v2
 LANG_ENGLISH         "Corax"
 
 REFERENCE            pi_mike1911_v20
 LANG_ENGLISH         "Callous"
+
+REFERENCE            pi_mike1911_v21
+LANG_ENGLISH         "PI_MIKE1911_V21"
+
+REFERENCE            pi_mike1911_v22
+LANG_ENGLISH         "The Old Road"
+
+REFERENCE            pi_mike1911_v23
+LANG_ENGLISH         "PI_MIKE1911_V23"
+
+REFERENCE            pi_mike1911_v24
+LANG_ENGLISH         "PI_MIKE1911_V24"
 
 REFERENCE            pi_mike1911_v3
 LANG_ENGLISH         "Riptide"
@@ -2063,6 +2462,15 @@ LANG_ENGLISH         "Renetti"
 REFERENCE            pi_mike9_burst
 LANG_ENGLISH         "Renetti Mk3"
 
+REFERENCE            pi_mike9_v10
+LANG_ENGLISH         "Badger Sett"
+
+REFERENCE            pi_mike9_v11
+LANG_ENGLISH         "Phantom Limb"
+
+REFERENCE            pi_mike9_v12
+LANG_ENGLISH         "Remus"
+
 REFERENCE            pi_mike9_v2
 LANG_ENGLISH         "Guard One"
 
@@ -2070,13 +2478,22 @@ REFERENCE            pi_mike9_v3
 LANG_ENGLISH         "Viceroy"
 
 REFERENCE            pi_mike9_v4
-LANG_ENGLISH         "Delirium Trigger"
+LANG_ENGLISH         "Veins of Gold"
 
 REFERENCE            pi_mike9_v5
 LANG_ENGLISH         "Cybernetic"
 
 REFERENCE            pi_mike9_v6
 LANG_ENGLISH         "Tis But A Scratch"
+
+REFERENCE            pi_mike9_v7
+LANG_ENGLISH         "Web of Lies"
+
+REFERENCE            pi_mike9_v8
+LANG_ENGLISH         "Apple Pie"
+
+REFERENCE            pi_mike9_v9
+LANG_ENGLISH         "Callisto"
 
 REFERENCE            pi_papa320
 LANG_ENGLISH         "M19"
@@ -2109,13 +2526,25 @@ REFERENCE            pi_papa320_v18
 LANG_ENGLISH         "Winner's Circle"
 
 REFERENCE            pi_papa320_v19
-LANG_ENGLISH         "PI_PAPA320_V19"
+LANG_ENGLISH         "Meltwater"
 
 REFERENCE            pi_papa320_v2
 LANG_ENGLISH         "Slick Steel"
 
 REFERENCE            pi_papa320_v20
 LANG_ENGLISH         "PI_PAPA320_V20"
+
+REFERENCE            pi_papa320_v21
+LANG_ENGLISH         "CDL Champs 2020 M19"
+
+REFERENCE            pi_papa320_v22
+LANG_ENGLISH         "Parley"
+
+REFERENCE            pi_papa320_v23
+LANG_ENGLISH         "PI_PAPA320_V23"
+
+REFERENCE            pi_papa320_v24
+LANG_ENGLISH         "Yellow Belly"
 
 REFERENCE            pi_papa320_v3
 LANG_ENGLISH         "Dirty Business"
@@ -2247,7 +2676,7 @@ REFERENCE            sh_charlie725_v13
 LANG_ENGLISH         "Ice Storm"
 
 REFERENCE            sh_charlie725_v14
-LANG_ENGLISH         "Ghastly"
+LANG_ENGLISH         "Confection"
 
 REFERENCE            sh_charlie725_v15
 LANG_ENGLISH         "Old Faithful"
@@ -2255,14 +2684,53 @@ LANG_ENGLISH         "Old Faithful"
 REFERENCE            sh_charlie725_v16
 LANG_ENGLISH         "Loggerhead"
 
+REFERENCE            sh_charlie725_v17
+LANG_ENGLISH         "Off the Top"
+
 REFERENCE            sh_charlie725_v18
 LANG_ENGLISH         "Crimson Pools"
+
+REFERENCE            sh_charlie725_v19
+LANG_ENGLISH         "Apodora"
 
 REFERENCE            sh_charlie725_v2
 LANG_ENGLISH         "Judgement"
 
+REFERENCE            sh_charlie725_v20
+LANG_ENGLISH         "SH_CHARLIE725_V20"
+
+REFERENCE            sh_charlie725_v21
+LANG_ENGLISH         "SH_CHARLIE725_V21"
+
+REFERENCE            sh_charlie725_v22
+LANG_ENGLISH         "SH_CHARLIE725_V22"
+
+REFERENCE            sh_charlie725_v23
+LANG_ENGLISH         "SH_CHARLIE725_V23"
+
+REFERENCE            sh_charlie725_v24
+LANG_ENGLISH         "SH_CHARLIE725_V24"
+
+REFERENCE            sh_charlie725_v25
+LANG_ENGLISH         "SH_CHARLIE725_V25"
+
+REFERENCE            sh_charlie725_v26
+LANG_ENGLISH         "SH_CHARLIE725_V26"
+
+REFERENCE            sh_charlie725_v27
+LANG_ENGLISH         "SH_CHARLIE725_V27"
+
+REFERENCE            sh_charlie725_v28
+LANG_ENGLISH         "SH_CHARLIE725_V28"
+
+REFERENCE            sh_charlie725_v29
+LANG_ENGLISH         "SH_CHARLIE725_V29"
+
 REFERENCE            sh_charlie725_v3
 LANG_ENGLISH         "Stumpy"
+
+REFERENCE            sh_charlie725_v30
+LANG_ENGLISH         "SH_CHARLIE725_V30"
 
 REFERENCE            sh_charlie725_v4
 LANG_ENGLISH         "Outback"
@@ -2300,6 +2768,15 @@ LANG_ENGLISH         "In The Tall Grass"
 REFERENCE            sh_dpapa12_v13
 LANG_ENGLISH         "Gold Dredge"
 
+REFERENCE            sh_dpapa12_v14
+LANG_ENGLISH         "SH_DPAPA12_V14"
+
+REFERENCE            sh_dpapa12_v15
+LANG_ENGLISH         "Feeding Frenzy"
+
+REFERENCE            sh_dpapa12_v16
+LANG_ENGLISH         "Quiver"
+
 REFERENCE            sh_dpapa12_v2
 LANG_ENGLISH         "Smoothbore"
 
@@ -2327,6 +2804,24 @@ LANG_ENGLISH         "Doubloon"
 REFERENCE            sh_mike26
 LANG_ENGLISH         "VLK Rogue"
 
+REFERENCE            sh_mike26_v10
+LANG_ENGLISH         "SH_MIKE26_V10"
+
+REFERENCE            sh_mike26_v11
+LANG_ENGLISH         "SH_MIKE26_V11"
+
+REFERENCE            sh_mike26_v12
+LANG_ENGLISH         "SH_MIKE26_V12"
+
+REFERENCE            sh_mike26_v13
+LANG_ENGLISH         "SH_MIKE26_V13"
+
+REFERENCE            sh_mike26_v14
+LANG_ENGLISH         "SH_MIKE26_V14"
+
+REFERENCE            sh_mike26_v15
+LANG_ENGLISH         "SH_MIKE26_V15"
+
 REFERENCE            sh_mike26_v2
 LANG_ENGLISH         "Pipeline"
 
@@ -2339,6 +2834,18 @@ LANG_ENGLISH         "Caldera"
 REFERENCE            sh_mike26_v5
 LANG_ENGLISH         "One Inch Punch"
 
+REFERENCE            sh_mike26_v6
+LANG_ENGLISH         "Sicariid"
+
+REFERENCE            sh_mike26_v7
+LANG_ENGLISH         "SH_MIKE26_V7"
+
+REFERENCE            sh_mike26_v8
+LANG_ENGLISH         "SH_MIKE26_V8"
+
+REFERENCE            sh_mike26_v9
+LANG_ENGLISH         "SH_MIKE26_V9"
+
 REFERENCE            sh_oscar12
 LANG_ENGLISH         "Origin 12 Shotgun"
 
@@ -2349,7 +2856,7 @@ REFERENCE            sh_oscar12_v11
 LANG_ENGLISH         "Bankroll"
 
 REFERENCE            sh_oscar12_v12
-LANG_ENGLISH         "Hunter"
+LANG_ENGLISH         "Chemical Burn"
 
 REFERENCE            sh_oscar12_v13
 LANG_ENGLISH         "Prison Sentence"
@@ -2357,17 +2864,65 @@ LANG_ENGLISH         "Prison Sentence"
 REFERENCE            sh_oscar12_v14
 LANG_ENGLISH         "Bloodlines"
 
+REFERENCE            sh_oscar12_v15
+LANG_ENGLISH         "SH_OSCAR12_V15"
+
+REFERENCE            sh_oscar12_v16
+LANG_ENGLISH         "SH_OSCAR12_V16"
+
+REFERENCE            sh_oscar12_v17
+LANG_ENGLISH         "Engraven"
+
+REFERENCE            sh_oscar12_v18
+LANG_ENGLISH         "SH_OSCAR12_V18"
+
+REFERENCE            sh_oscar12_v19
+LANG_ENGLISH         "SH_OSCAR12_V19"
+
 REFERENCE            sh_oscar12_v2
 LANG_ENGLISH         "Stealth Action"
 
+REFERENCE            sh_oscar12_v20
+LANG_ENGLISH         "SH_OSCAR12_V20"
+
+REFERENCE            sh_oscar12_v21
+LANG_ENGLISH         "SH_OSCAR12_V21"
+
+REFERENCE            sh_oscar12_v22
+LANG_ENGLISH         "SH_OSCAR12_V22"
+
+REFERENCE            sh_oscar12_v23
+LANG_ENGLISH         "SH_OSCAR12_V23"
+
+REFERENCE            sh_oscar12_v24
+LANG_ENGLISH         "SH_OSCAR12_V24"
+
+REFERENCE            sh_oscar12_v25
+LANG_ENGLISH         "SH_OSCAR12_V25"
+
+REFERENCE            sh_oscar12_v26
+LANG_ENGLISH         "SH_OSCAR12_V26"
+
+REFERENCE            sh_oscar12_v27
+LANG_ENGLISH         "SH_OSCAR12_V27"
+
+REFERENCE            sh_oscar12_v28
+LANG_ENGLISH         "SH_OSCAR12_V28"
+
+REFERENCE            sh_oscar12_v29
+LANG_ENGLISH         "SH_OSCAR12_V29"
+
 REFERENCE            sh_oscar12_v3
 LANG_ENGLISH         "Final Reprieve"
+
+REFERENCE            sh_oscar12_v30
+LANG_ENGLISH         "SH_OSCAR12_V30"
 
 REFERENCE            sh_oscar12_v4
 LANG_ENGLISH         "Pastel Death"
 
 REFERENCE            sh_oscar12_v5
-LANG_ENGLISH         "Morning Glory"
+LANG_ENGLISH         "Backyard BBQ"
 
 REFERENCE            sh_oscar12_v6
 LANG_ENGLISH         "Demon Eyes"
@@ -2397,7 +2952,7 @@ REFERENCE            sh_romeo870_v13
 LANG_ENGLISH         "Firedrake"
 
 REFERENCE            sh_romeo870_v14
-LANG_ENGLISH         "Raincheck"
+LANG_ENGLISH         "Big Red"
 
 REFERENCE            sh_romeo870_v15
 LANG_ENGLISH         "Permafrost"
@@ -2412,16 +2967,46 @@ REFERENCE            sh_romeo870_v18
 LANG_ENGLISH         "Puff Adder"
 
 REFERENCE            sh_romeo870_v19
-LANG_ENGLISH         "sh_romeo870_v19"
+LANG_ENGLISH         "The Undead"
 
 REFERENCE            sh_romeo870_v2
 LANG_ENGLISH         "The Ejector"
 
 REFERENCE            sh_romeo870_v20
-LANG_ENGLISH         "SH_ROMEO870_V20"
+LANG_ENGLISH         "Excavator"
+
+REFERENCE            sh_romeo870_v21
+LANG_ENGLISH         "Apex Predator"
+
+REFERENCE            sh_romeo870_v22
+LANG_ENGLISH         "SH_ROMEO870_V22"
+
+REFERENCE            sh_romeo870_v23
+LANG_ENGLISH         "SH_ROMEO870_V23"
+
+REFERENCE            sh_romeo870_v24
+LANG_ENGLISH         "SH_ROMEO870_V24"
+
+REFERENCE            sh_romeo870_v25
+LANG_ENGLISH         "SH_ROMEO870_V25"
+
+REFERENCE            sh_romeo870_v26
+LANG_ENGLISH         "SH_ROMEO870_V26"
+
+REFERENCE            sh_romeo870_v27
+LANG_ENGLISH         "SH_ROMEO870_V27"
+
+REFERENCE            sh_romeo870_v28
+LANG_ENGLISH         "SH_ROMEO870_V28"
+
+REFERENCE            sh_romeo870_v29
+LANG_ENGLISH         "SH_ROMEO870_V29"
 
 REFERENCE            sh_romeo870_v3
 LANG_ENGLISH         "Muck and Mire"
+
+REFERENCE            sh_romeo870_v30
+LANG_ENGLISH         "SH_ROMEO870_V30"
 
 REFERENCE            sh_romeo870_v4
 LANG_ENGLISH         "Hush"
@@ -2481,7 +3066,7 @@ REFERENCE            sm_augolf_v12
 LANG_ENGLISH         "Antivenom"
 
 REFERENCE            sm_augolf_v13
-LANG_ENGLISH         "Vice grip"
+LANG_ENGLISH         "Sweet Spot"
 
 REFERENCE            sm_augolf_v14
 LANG_ENGLISH         "By the Toe"
@@ -2499,7 +3084,7 @@ REFERENCE            sm_augolf_v18
 LANG_ENGLISH         "On the Volley"
 
 REFERENCE            sm_augolf_v19
-LANG_ENGLISH         "SM_AUGOLF_V19"
+LANG_ENGLISH         "Ticket to Paradise"
 
 REFERENCE            sm_augolf_v2
 LANG_ENGLISH         "Gremlin"
@@ -2509,6 +3094,15 @@ LANG_ENGLISH         "SM_AUGOLF_V20"
 
 REFERENCE            sm_augolf_v21
 LANG_ENGLISH         "Lizard King"
+
+REFERENCE            sm_augolf_v22
+LANG_ENGLISH         "The Gallows"
+
+REFERENCE            sm_augolf_v23
+LANG_ENGLISH         "SM_AUGOLF_V23"
+
+REFERENCE            sm_augolf_v24
+LANG_ENGLISH         "Death Roll"
 
 REFERENCE            sm_augolf_v3
 LANG_ENGLISH         "Airshot"
@@ -2544,13 +3138,13 @@ REFERENCE            sm_beta_v12
 LANG_ENGLISH         "Ravager"
 
 REFERENCE            sm_beta_v13
-LANG_ENGLISH         "SM_BETA_V13"
+LANG_ENGLISH         "More Killing. More Doing."
 
 REFERENCE            sm_beta_v14
 LANG_ENGLISH         "SM_BETA_V14"
 
 REFERENCE            sm_beta_v15
-LANG_ENGLISH         "SM_BETA_V15"
+LANG_ENGLISH         "Insolence"
 
 REFERENCE            sm_beta_v16
 LANG_ENGLISH         "SM_BETA_V16"
@@ -2580,7 +3174,7 @@ REFERENCE            sm_beta_v9
 LANG_ENGLISH         "Relentless"
 
 REFERENCE            sm_charlie9
-LANG_ENGLISH         "SM_CHARLIE9"
+LANG_ENGLISH         "ISO"
 
 REFERENCE            sm_charlie9_v2
 LANG_ENGLISH         "SM_CHARLIE9_V2"
@@ -2589,7 +3183,7 @@ REFERENCE            sm_charlie9_v3
 LANG_ENGLISH         "SM_CHARLIE9_V3"
 
 REFERENCE            sm_charlie9_v4
-LANG_ENGLISH         "SM_CHARLIE9_V4"
+LANG_ENGLISH         "The Conduit"
 
 REFERENCE            sm_charlie9_v5
 LANG_ENGLISH         "SM_CHARLIE9_V5"
@@ -2622,7 +3216,7 @@ REFERENCE            sm_mpapa5_v17
 LANG_ENGLISH         "Mot"
 
 REFERENCE            sm_mpapa5_v18
-LANG_ENGLISH         "SM_MPAPA5_V18
+LANG_ENGLISH         "Ashen Skies
 "
 
 REFERENCE            sm_mpapa5_v19
@@ -2632,13 +3226,40 @@ REFERENCE            sm_mpapa5_v2
 LANG_ENGLISH         "Strapped"
 
 REFERENCE            sm_mpapa5_v20
-LANG_ENGLISH         "SM_MPAPA5_V20"
+LANG_ENGLISH         "Anole"
 
 REFERENCE            sm_mpapa5_v21
-LANG_ENGLISH         "SM_MPAPA5_V21"
+LANG_ENGLISH         "Razorwire"
+
+REFERENCE            sm_mpapa5_v22
+LANG_ENGLISH         "Banisher"
+
+REFERENCE            sm_mpapa5_v23
+LANG_ENGLISH         "SM_MPAPA5_V23"
+
+REFERENCE            sm_mpapa5_v24
+LANG_ENGLISH         "SM_MPAPA5_V24"
+
+REFERENCE            sm_mpapa5_v25
+LANG_ENGLISH         "SM_MPAPA5_V25"
+
+REFERENCE            sm_mpapa5_v26
+LANG_ENGLISH         "SM_MPAPA5_V26"
+
+REFERENCE            sm_mpapa5_v27
+LANG_ENGLISH         "SM_MPAPA5_V27"
+
+REFERENCE            sm_mpapa5_v28
+LANG_ENGLISH         "SM_MPAPA5_V28"
+
+REFERENCE            sm_mpapa5_v29
+LANG_ENGLISH         "SM_MPAPA5_V29"
 
 REFERENCE            sm_mpapa5_v3
 LANG_ENGLISH         "Admiral's Pride"
+
+REFERENCE            sm_mpapa5_v30
+LANG_ENGLISH         "SM_MPAPA5_V30"
 
 REFERENCE            sm_mpapa5_v4
 LANG_ENGLISH         "Feeling Rusty"
@@ -2674,7 +3295,7 @@ REFERENCE            sm_mpapa7_v12
 LANG_ENGLISH         "Hardwired"
 
 REFERENCE            sm_mpapa7_v13
-LANG_ENGLISH         "SM_MPAPA7_V13"
+LANG_ENGLISH         "Silver Lining"
 
 REFERENCE            sm_mpapa7_v14
 LANG_ENGLISH         "Prototype: Omega"
@@ -2683,13 +3304,37 @@ REFERENCE            sm_mpapa7_v15
 LANG_ENGLISH         "Mud Drauber"
 
 REFERENCE            sm_mpapa7_v16
-LANG_ENGLISH         "SM_MPAPA7_V16"
+LANG_ENGLISH         "Copper Still"
 
 REFERENCE            sm_mpapa7_v17
 LANG_ENGLISH         "Rippling"
 
+REFERENCE            sm_mpapa7_v18
+LANG_ENGLISH         "SM_MPAPA7_V18"
+
+REFERENCE            sm_mpapa7_v19
+LANG_ENGLISH         "Ring Hollow"
+
 REFERENCE            sm_mpapa7_v2
 LANG_ENGLISH         "Piercer"
+
+REFERENCE            sm_mpapa7_v20
+LANG_ENGLISH         "SM_MPAPA7_V20"
+
+REFERENCE            sm_mpapa7_v21
+LANG_ENGLISH         "SM_MPAPA7_V21"
+
+REFERENCE            sm_mpapa7_v22
+LANG_ENGLISH         "SM_MPAPA7_V22"
+
+REFERENCE            sm_mpapa7_v23
+LANG_ENGLISH         "SM_MPAPA7_V23"
+
+REFERENCE            sm_mpapa7_v24
+LANG_ENGLISH         "SM_MPAPA7_V24"
+
+REFERENCE            sm_mpapa7_v25
+LANG_ENGLISH         "SM_MPAPA7_V25"
 
 REFERENCE            sm_mpapa7_v3
 LANG_ENGLISH         "Sands of Time"
@@ -2731,7 +3376,7 @@ REFERENCE            sm_papa90_v14
 LANG_ENGLISH         "Underbrush"
 
 REFERENCE            sm_papa90_v15
-LANG_ENGLISH         "SM_PAPA90_V15"
+LANG_ENGLISH         "Sworn Anemone"
 
 REFERENCE            sm_papa90_v16
 LANG_ENGLISH         "The Smoke Show"
@@ -2739,8 +3384,29 @@ LANG_ENGLISH         "The Smoke Show"
 REFERENCE            sm_papa90_v17
 LANG_ENGLISH         "Delivery Boy"
 
+REFERENCE            sm_papa90_v18
+LANG_ENGLISH         "Dream No More"
+
+REFERENCE            sm_papa90_v19
+LANG_ENGLISH         "SM_PAPA90_V19"
+
 REFERENCE            sm_papa90_v2
 LANG_ENGLISH         "Stygian"
+
+REFERENCE            sm_papa90_v20
+LANG_ENGLISH         "SM_PAPA90_V20"
+
+REFERENCE            sm_papa90_v21
+LANG_ENGLISH         "SM_PAPA90_V21"
+
+REFERENCE            sm_papa90_v22
+LANG_ENGLISH         "SM_PAPA90_V22"
+
+REFERENCE            sm_papa90_v23
+LANG_ENGLISH         "SM_PAPA90_V23"
+
+REFERENCE            sm_papa90_v24
+LANG_ENGLISH         "SM_PAPA90_v24"
 
 REFERENCE            sm_papa90_v3
 LANG_ENGLISH         "Ruby Rampage"
@@ -2767,7 +3433,7 @@ REFERENCE            sm_smgolf45
 LANG_ENGLISH         "Striker 45"
 
 REFERENCE            sm_smgolf45_v10
-LANG_ENGLISH         "SM_SMGOLF45_V10"
+LANG_ENGLISH         "Halcyon Days"
 
 REFERENCE            sm_smgolf45_v2
 LANG_ENGLISH         "Undertaker"
@@ -2815,16 +3481,37 @@ REFERENCE            sm_uzulu_v15
 LANG_ENGLISH         "Glacial Polish"
 
 REFERENCE            sm_uzulu_v16
-LANG_ENGLISH         "SM_UZULU_V16"
+LANG_ENGLISH         "Thin Ice"
 
 REFERENCE            sm_uzulu_v17
 LANG_ENGLISH         "Blood Rights"
 
+REFERENCE            sm_uzulu_v18
+LANG_ENGLISH         "SM_UZULU_V18"
+
+REFERENCE            sm_uzulu_v19
+LANG_ENGLISH         "Canyonlands"
+
 REFERENCE            sm_uzulu_v2
 LANG_ENGLISH         "Blowback"
 
+REFERENCE            sm_uzulu_v20
+LANG_ENGLISH         "SM_UZULU_V20"
+
+REFERENCE            sm_uzulu_v21
+LANG_ENGLISH         "Penny Arcade"
+
+REFERENCE            sm_uzulu_v22
+LANG_ENGLISH         "SM_UZULU_V22"
+
+REFERENCE            sm_uzulu_v23
+LANG_ENGLISH         "SM_UZULU_V23"
+
+REFERENCE            sm_uzulu_v24
+LANG_ENGLISH         "SM_UZULU_V24"
+
 REFERENCE            sm_uzulu_v3
-LANG_ENGLISH         "Chromatic"
+LANG_ENGLISH         "Sparkler"
 
 REFERENCE            sm_uzulu_v4
 LANG_ENGLISH         "Infiltrator"
@@ -2851,13 +3538,13 @@ REFERENCE            sm_victor_v2
 LANG_ENGLISH         "Silver Fox"
 
 REFERENCE            sm_victor_v3
-LANG_ENGLISH         "SM_VICTOR_V3"
+LANG_ENGLISH         "Royal Coffer"
 
 REFERENCE            sm_victor_v4
-LANG_ENGLISH         "SM_VICTOR_V4"
+LANG_ENGLISH         "Hoser"
 
 REFERENCE            sm_victor_v5
-LANG_ENGLISH         "SM_VICTOR_V5"
+LANG_ENGLISH         "Dawn to Dusk"
 
 REFERENCE            smart_attachment
 LANG_ENGLISH         "Smart Shot"
@@ -2890,10 +3577,10 @@ REFERENCE            sn_alpha50_v14
 LANG_ENGLISH         "SN_ALPHA50_V14"
 
 REFERENCE            sn_alpha50_v15
-LANG_ENGLISH         "SN_ALPHA50_V15"
+LANG_ENGLISH         "White Light"
 
 REFERENCE            sn_alpha50_v16
-LANG_ENGLISH         "SN_ALPHA50_V16"
+LANG_ENGLISH         "Cult Classic"
 
 REFERENCE            sn_alpha50_v2
 LANG_ENGLISH         "Corpse Maker"
@@ -2922,6 +3609,27 @@ LANG_ENGLISH         "Fuelrod"
 REFERENCE            sn_crossbow
 LANG_ENGLISH         "Crossbow"
 
+REFERENCE            sn_crossbow_v1
+LANG_ENGLISH         "SN_CROSSBOW_V1"
+
+REFERENCE            sn_crossbow_v10
+LANG_ENGLISH         "SN_CROSSBOW_V10"
+
+REFERENCE            sn_crossbow_v11
+LANG_ENGLISH         "SN_CROSSBOW_V11"
+
+REFERENCE            sn_crossbow_v12
+LANG_ENGLISH         "SN_CROSSBOW_V12"
+
+REFERENCE            sn_crossbow_v13
+LANG_ENGLISH         "SN_CROSSBOW_V13"
+
+REFERENCE            sn_crossbow_v14
+LANG_ENGLISH         "SN_CROSSBOW_V14"
+
+REFERENCE            sn_crossbow_v15
+LANG_ENGLISH         "SN_CROSSBOW_V15"
+
 REFERENCE            sn_crossbow_v2
 LANG_ENGLISH         "SN_CROSSBOW_V2"
 
@@ -2934,8 +3642,23 @@ LANG_ENGLISH         "SN_CROSSBOW_V4"
 REFERENCE            sn_crossbow_v5
 LANG_ENGLISH         "Ice Lance"
 
+REFERENCE            sn_crossbow_v6
+LANG_ENGLISH         "Spellbound"
+
+REFERENCE            sn_crossbow_v7
+LANG_ENGLISH         "SN_CROSSBOW_V7"
+
+REFERENCE            sn_crossbow_v8
+LANG_ENGLISH         "SN_CROSSBOW_V8"
+
+REFERENCE            sn_crossbow_v9
+LANG_ENGLISH         "SN_CROSSBOW_V9"
+
 REFERENCE            sn_delta
 LANG_ENGLISH         "Dragunov"
+
+REFERENCE            sn_delta_v1
+LANG_ENGLISH         "SN_DELTA_V1"
 
 REFERENCE            sn_delta_v10
 LANG_ENGLISH         "Meltdown"
@@ -2949,8 +3672,29 @@ LANG_ENGLISH         "SN_DELTA_V12"
 REFERENCE            sn_delta_v13
 LANG_ENGLISH         "SN_DELTA_V13"
 
+REFERENCE            sn_delta_v14
+LANG_ENGLISH         "SN_DELTA_V14"
+
+REFERENCE            sn_delta_v15
+LANG_ENGLISH         "SN_DELTA_V15"
+
+REFERENCE            sn_delta_v16
+LANG_ENGLISH         "SN_DELTA_V16"
+
+REFERENCE            sn_delta_v17
+LANG_ENGLISH         "SN_DELTA_V17"
+
+REFERENCE            sn_delta_v18
+LANG_ENGLISH         "SN_DELTA_V18"
+
+REFERENCE            sn_delta_v19
+LANG_ENGLISH         "SN_DELTA_V19"
+
 REFERENCE            sn_delta_v2
 LANG_ENGLISH         "Plague Sore"
+
+REFERENCE            sn_delta_v20
+LANG_ENGLISH         "SN_DELTA_V20"
 
 REFERENCE            sn_delta_v3
 LANG_ENGLISH         "Chroma"
@@ -2979,6 +3723,9 @@ LANG_ENGLISH         "Hadir's Sniper Rifle"
 REFERENCE            sn_hdromeo
 LANG_ENGLISH         "HDR"
 
+REFERENCE            sn_hdromeo_v1
+LANG_ENGLISH         "SN_HDROMEO_V1"
+
 REFERENCE            sn_hdromeo_v10
 LANG_ENGLISH         "End State"
 
@@ -2995,13 +3742,40 @@ REFERENCE            sn_hdromeo_v14
 LANG_ENGLISH         "SN_HDROMEO_V14"
 
 REFERENCE            sn_hdromeo_v15
-LANG_ENGLISH         "SN_HDROMEO_V15"
+LANG_ENGLISH         "CDL Champs 2020 HDR"
 
 REFERENCE            sn_hdromeo_v16
-LANG_ENGLISH         "SN_HDROMEO_V16"
+LANG_ENGLISH         "Fracas"
+
+REFERENCE            sn_hdromeo_v17
+LANG_ENGLISH         "Comstock"
+
+REFERENCE            sn_hdromeo_v18
+LANG_ENGLISH         "SN_HDROMEO_V18"
+
+REFERENCE            sn_hdromeo_v19
+LANG_ENGLISH         "SN_HDROMEO_V19"
 
 REFERENCE            sn_hdromeo_v2
 LANG_ENGLISH         "Hadir's Right Hand"
+
+REFERENCE            sn_hdromeo_v20
+LANG_ENGLISH         "SN_HDROMEO_V20"
+
+REFERENCE            sn_hdromeo_v21
+LANG_ENGLISH         "SN_HDROMEO_V21"
+
+REFERENCE            sn_hdromeo_v22
+LANG_ENGLISH         "SN_HDROMEO_V22"
+
+REFERENCE            sn_hdromeo_v23
+LANG_ENGLISH         "SN_HDROMEO_V23"
+
+REFERENCE            sn_hdromeo_v24
+LANG_ENGLISH         "SN_HDROMEO_V24"
+
+REFERENCE            sn_hdromeo_v25
+LANG_ENGLISH         "SN_HDROMEO_V25"
 
 REFERENCE            sn_hdromeo_v3
 LANG_ENGLISH         "Grassy Knoll"
@@ -3037,13 +3811,13 @@ REFERENCE            sn_kilo98_v12
 LANG_ENGLISH         "Saddle Horn"
 
 REFERENCE            sn_kilo98_v13
-LANG_ENGLISH         "SN_KILO98_V13"
+LANG_ENGLISH         "The Tower"
 
 REFERENCE            sn_kilo98_v14
 LANG_ENGLISH         "SN_KILO98_V14"
 
 REFERENCE            sn_kilo98_v15
-LANG_ENGLISH         "SN_KILO98_V15"
+LANG_ENGLISH         "Caustic Companion"
 
 REFERENCE            sn_kilo98_v16
 LANG_ENGLISH         "SN_KILO98_V16"
@@ -3052,7 +3826,7 @@ REFERENCE            sn_kilo98_v17
 LANG_ENGLISH         "Open Season"
 
 REFERENCE            sn_kilo98_v18
-LANG_ENGLISH         "SN_KILO98_V18"
+LANG_ENGLISH         "Black Tie Affair"
 
 REFERENCE            sn_kilo98_v19
 LANG_ENGLISH         "Old Growth"
@@ -3060,8 +3834,42 @@ LANG_ENGLISH         "Old Growth"
 REFERENCE            sn_kilo98_v2
 LANG_ENGLISH         "Ol' Dusty"
 
+REFERENCE            sn_kilo98_v20
+LANG_ENGLISH         "SN_KILO98_V20"
+
+REFERENCE            sn_kilo98_v21
+LANG_ENGLISH         "SN_KILO98_V21"
+
+REFERENCE            sn_kilo98_v22
+LANG_ENGLISH         "SN_KILO98_V22"
+
+REFERENCE            sn_kilo98_v23
+LANG_ENGLISH         "SN_KILO98_V23"
+
+REFERENCE            sn_kilo98_v24
+LANG_ENGLISH         "SN_KILO98_V24"
+
+REFERENCE            sn_kilo98_v25
+LANG_ENGLISH         "SN_KILO98_V25
+"
+
+REFERENCE            sn_kilo98_v26
+LANG_ENGLISH         "SN_KILO98_V26"
+
+REFERENCE            sn_kilo98_v27
+LANG_ENGLISH         "SN_KILO98_V27"
+
+REFERENCE            sn_kilo98_v28
+LANG_ENGLISH         "SN_KILO98_V28"
+
+REFERENCE            sn_kilo98_v29
+LANG_ENGLISH         "SN_KILO98_V29"
+
 REFERENCE            sn_kilo98_v3
 LANG_ENGLISH         "Sand Scorpion"
+
+REFERENCE            sn_kilo98_v30
+LANG_ENGLISH         "SN_KILO98_V30"
 
 REFERENCE            sn_kilo98_v4
 LANG_ENGLISH         "Butterfly Kisses"
@@ -3094,10 +3902,10 @@ REFERENCE            sn_mike14_v11
 LANG_ENGLISH         "Rip Current"
 
 REFERENCE            sn_mike14_v12
-LANG_ENGLISH         "SN_MIKE14_V12"
+LANG_ENGLISH         "Karbonite"
 
 REFERENCE            sn_mike14_v13
-LANG_ENGLISH         "SN_MIKE14_V13"
+LANG_ENGLISH         "Class Clown"
 
 REFERENCE            sn_mike14_v14
 LANG_ENGLISH         "Cottonmouth"
@@ -3108,14 +3916,53 @@ LANG_ENGLISH         "Icebreaker"
 REFERENCE            sn_mike14_v16
 LANG_ENGLISH         "Lead the Pack"
 
+REFERENCE            sn_mike14_v17
+LANG_ENGLISH         "War Horse"
+
 REFERENCE            sn_mike14_v18
 LANG_ENGLISH         "Muckrake"
+
+REFERENCE            sn_mike14_v19
+LANG_ENGLISH         "Romulus"
 
 REFERENCE            sn_mike14_v2
 LANG_ENGLISH         "Stay Frosty"
 
+REFERENCE            sn_mike14_v20
+LANG_ENGLISH         "SN_MIKE14_V20"
+
+REFERENCE            sn_mike14_v21
+LANG_ENGLISH         "SN_MIKE14_V21"
+
+REFERENCE            sn_mike14_v22
+LANG_ENGLISH         "SN_MIKE14_V22"
+
+REFERENCE            sn_mike14_v23
+LANG_ENGLISH         "SN_MIKE14_V23"
+
+REFERENCE            sn_mike14_v24
+LANG_ENGLISH         "SN_MIKE14_V24"
+
+REFERENCE            sn_mike14_v25
+LANG_ENGLISH         "SN_MIKE14_V25"
+
+REFERENCE            sn_mike14_v26
+LANG_ENGLISH         "SN_MIKE14_V26"
+
+REFERENCE            sn_mike14_v27
+LANG_ENGLISH         "SN_MIKE14_V27"
+
+REFERENCE            sn_mike14_v28
+LANG_ENGLISH         "SN_MIKE14_V28"
+
+REFERENCE            sn_mike14_v29
+LANG_ENGLISH         "SN_MIKE14_V29"
+
 REFERENCE            sn_mike14_v3
 LANG_ENGLISH         "Swamp Weed"
+
+REFERENCE            sn_mike14_v30
+LANG_ENGLISH         "SN_MIKE14_V30"
 
 REFERENCE            sn_mike14_v4
 LANG_ENGLISH         "Stiff Arm"
@@ -3159,11 +4006,53 @@ LANG_ENGLISH         "Gentlemen's Agreement"
 REFERENCE            sn_sbeta_v16
 LANG_ENGLISH         "Stratus"
 
+REFERENCE            sn_sbeta_v17
+LANG_ENGLISH         "SN_SBETA_V17"
+
+REFERENCE            sn_sbeta_v18
+LANG_ENGLISH         "SN_SBETA_V18"
+
+REFERENCE            sn_sbeta_v19
+LANG_ENGLISH         "SN_SBETA_V19"
+
 REFERENCE            sn_sbeta_v2
 LANG_ENGLISH         "Ending Misery"
 
+REFERENCE            sn_sbeta_v20
+LANG_ENGLISH         "SN_SBETA_V20"
+
+REFERENCE            sn_sbeta_v21
+LANG_ENGLISH         "SN_SBETA_V21"
+
+REFERENCE            sn_sbeta_v22
+LANG_ENGLISH         "SN_SBETA_V22"
+
+REFERENCE            sn_sbeta_v23
+LANG_ENGLISH         "SN_SBETA_V23"
+
+REFERENCE            sn_sbeta_v24
+LANG_ENGLISH         "SN_SBETA_V24"
+
+REFERENCE            sn_sbeta_v25
+LANG_ENGLISH         "SN_SBETA_V25"
+
+REFERENCE            sn_sbeta_v26
+LANG_ENGLISH         "SN_SBETA_V26"
+
+REFERENCE            sn_sbeta_v27
+LANG_ENGLISH         "SN_SBETA_V27"
+
+REFERENCE            sn_sbeta_v28
+LANG_ENGLISH         "SN_SBETA_V28"
+
+REFERENCE            sn_sbeta_v29
+LANG_ENGLISH         "SN_SBETA_V28"
+
 REFERENCE            sn_sbeta_v3
 LANG_ENGLISH         "Heartthrob"
+
+REFERENCE            sn_sbeta_v30
+LANG_ENGLISH         "SN_SBETA_V30"
 
 REFERENCE            sn_sbeta_v4
 LANG_ENGLISH         "The Warden"
@@ -3186,14 +4075,47 @@ LANG_ENGLISH         "Walking Stick"
 REFERENCE            sn_sksierra
 LANG_ENGLISH         "SKS"
 
+REFERENCE            sn_sksierra_v1
+LANG_ENGLISH         "SN_SKSIERRA_V1"
+
 REFERENCE            sn_sksierra_v10
 LANG_ENGLISH         "SN_SKSIERRA_V10"
+
+REFERENCE            sn_sksierra_v11
+LANG_ENGLISH         "SN_SKSIERRA_V11"
+
+REFERENCE            sn_sksierra_v12
+LANG_ENGLISH         "SN_SKSIERRA_V12"
+
+REFERENCE            sn_sksierra_v13
+LANG_ENGLISH         "SN_SKSIERRA_V13"
+
+REFERENCE            sn_sksierra_v14
+LANG_ENGLISH         "SN_SKSIERRA_V14"
+
+REFERENCE            sn_sksierra_v15
+LANG_ENGLISH         "SN_SKSIERRA_V15"
+
+REFERENCE            sn_sksierra_v16
+LANG_ENGLISH         "SN_SKSIERRA_V16"
+
+REFERENCE            sn_sksierra_v17
+LANG_ENGLISH         "SN_SKSIERRA_V17"
+
+REFERENCE            sn_sksierra_v18
+LANG_ENGLISH         "SN_SKSIERRA_V18"
+
+REFERENCE            sn_sksierra_v19
+LANG_ENGLISH         "SN_SKSIERRA_V19"
 
 REFERENCE            sn_sksierra_v2
 LANG_ENGLISH         "Utility Tool"
 
+REFERENCE            sn_sksierra_v20
+LANG_ENGLISH         "SN_SKSIERRA_V20"
+
 REFERENCE            sn_sksierra_v3
-LANG_ENGLISH         "SN_SKSIERRA_V3"
+LANG_ENGLISH         "Crow's Nest"
 
 REFERENCE            sn_sksierra_v4
 LANG_ENGLISH         "Confetti Killer"
@@ -3208,16 +4130,43 @@ REFERENCE            sn_sksierra_v7
 LANG_ENGLISH         "SN_SKSIERRA_V7"
 
 REFERENCE            sn_sksierra_v8
-LANG_ENGLISH         "SN_SKSIERRA_V8"
+LANG_ENGLISH         "Bay of Pigs"
 
 REFERENCE            sn_sksierra_v9
 LANG_ENGLISH         "SN_SKSIERRA_V9"
 
 REFERENCE            sn_xmike109
-LANG_ENGLISH         "Rytec AMS"
+LANG_ENGLISH         "Rytec AMR"
 
 REFERENCE            sn_xmike109_calcust
 LANG_ENGLISH         "Rytec AMR"
+
+REFERENCE            sn_xmike109_v10
+LANG_ENGLISH         "SN_XMIKE109_V10"
+
+REFERENCE            sn_xmike109_v2
+LANG_ENGLISH         "Damnation"
+
+REFERENCE            sn_xmike109_v3
+LANG_ENGLISH         "Main Battery"
+
+REFERENCE            sn_xmike109_v4
+LANG_ENGLISH         "SN_XMIKE109_V4"
+
+REFERENCE            sn_xmike109_v5
+LANG_ENGLISH         "SN_XMIKE109_V5"
+
+REFERENCE            sn_xmike109_v6
+LANG_ENGLISH         "SN_XMIKE109_V6"
+
+REFERENCE            sn_xmike109_v7
+LANG_ENGLISH         "SN_XMIKE109_V7"
+
+REFERENCE            sn_xmike109_v8
+LANG_ENGLISH         "SN_XMIKE109_V8"
+
+REFERENCE            sn_xmike109_v9
+LANG_ENGLISH         "SN_XMIKE109_V9"
 
 REFERENCE            snprscope_kar98_attachment
 LANG_ENGLISH         "Scoped"

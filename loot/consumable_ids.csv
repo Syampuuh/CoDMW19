@@ -43,5 +43,5 @@
 200042,uno_rename,0,0,0,0,,,,white,2,,
 200043,battle_xp_token,1,0,0,0,1000041,activate_battle_xp_token,LUA_MENU_MP/DOUBLE_BATTLE_XP_TOKEN,icon_double_battle_xp_token_common,0,LUA_MENU/XP_TOKEN_COMMON,
 200044,battle_xp_token_rare,2,0,0,0,1000042,activate_battle_xp_token_rare,LUA_MENU_MP/DOUBLE_BATTLE_XP_TOKEN,icon_double_battle_xp_token_rare,0,LUA_MENU/XP_TOKEN_RARE,
-200045,battle_xp_token_epic,3,0,0,0,1000043,activate_battle_xp_token_epic,LUA_MENU_MP/DOUBLE_BATTLE_XP_TOKEN,icon_double_battle_xp_token_legendary,0,LUA_MENU/XP_TOKEN_LEGENDARY,
-200046,battle_xp_token_legendary,4,0,0,0,1000044,activate_battle_xp_token_legendary,LUA_MENU_MP/DOUBLE_BATTLE_XP_TOKEN,icon_double_battle_xp_token_epic,0,LUA_MENU/XP_TOKEN_EPIC,
+200045,battle_xp_token_epic,4,0,0,0,1000043,activate_battle_xp_token_epic,LUA_MENU_MP/DOUBLE_BATTLE_XP_TOKEN,icon_double_battle_xp_token_legendary,0,LUA_MENU/XP_TOKEN_LEGENDARY,
+200046,battle_xp_token_legendary,3,0,0,0,1000044,activate_battle_xp_token_legendary,LUA_MENU_MP/DOUBLE_BATTLE_XP_TOKEN,icon_double_battle_xp_token_epic,0,LUA_MENU/XP_TOKEN_EPIC,

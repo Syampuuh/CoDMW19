@@ -247,8 +247,14 @@ LANG_ENGLISH         "You can go to the store to purchase game content and Elite
 REFERENCE            dlc_installed
 LANG_ENGLISH         "Installed"
 
+REFERENCE            dlc_installing
+LANG_ENGLISH         "Installing..."
+
 REFERENCE            dlc_no_elite
 LANG_ENGLISH         "Trial has Ended"
+
+REFERENCE            dlc_not_installed
+LANG_ENGLISH         "Not Installed"
 
 REFERENCE            done_caps
 LANG_ENGLISH         "DONE"
@@ -1147,6 +1153,11 @@ LANG_ENGLISH         "Move through each checkpoint and finish the course as quic
 Loadout: ^3Combat Knife^7
 3 attempts"
 
+REFERENCE            trial_lava_desc_nvg
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
+
+Loadout: ^2Night-vision goggles^7"
+
 REFERENCE            trial_lava_desc_riot_shield
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
 
@@ -1248,6 +1259,11 @@ LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. 
 Loadout: ^3AX-50^7
 3 attempts"
 
+REFERENCE            trial_marksman_desc_crossbow
+LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
+
+Loadout: ^3Crossbow^7"
+
 REFERENCE            trial_marksman_desc_decho
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
 
@@ -1259,6 +1275,11 @@ LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. 
 
 Loadout: ^3Dragunov^7
 3 attempts"
+
+REFERENCE            trial_marksman_desc_hdr
+LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
+
+Loadout: ^3HDR^7"
 
 REFERENCE            trial_marksman_desc_scoped
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
@@ -1282,6 +1303,12 @@ REFERENCE            trial_pitcher_desc_frag_round
 LANG_ENGLISH         "Practice your throwing skills with lethal equipment and hit as many indicated targets in each round before time runs out.
 
 Loadout: ^3Frag Grenade^7
+3 attempts"
+
+REFERENCE            trial_pitcher_desc_knife_round
+LANG_ENGLISH         "Practice your throwing skills with lethal equipment and hit as many indicated targets in each round before time runs out.
+
+Loadout: ^3Throwing Knife^7
 3 attempts"
 
 REFERENCE            trial_pitcher_name

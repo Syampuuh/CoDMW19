@@ -1,0 +1,5 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,3,,# 1 weapon epic+,
+req,,ammo,1,,,0,,# 1 Ammo,
+req,,health,2,,,0,,# 2 Armor Plates,
+req,,plunder,1,,,,,# 1 plunder,

@@ -50,6 +50,9 @@ LANG_ENGLISH         "All objectives have been completed."
 REFERENCE            ar_kills
 LANG_ENGLISH         "Get ^5&&1^7 kills with any Assault Rifle"
 
+REFERENCE            ar_sierra552_attachment_unlock_1
+LANG_ENGLISH         "Get ^53^7 Point Blank Kills in ^5&&1^7 different matches"
+
 REFERENCE            assists
 LANG_ENGLISH         "Get ^5&&1^7 assists"
 
@@ -560,6 +563,150 @@ LANG_ENGLISH         "Get ^5&&1^7 Point Blank kills while using Mil-Sim as your 
 REFERENCE            bp_s3_quest_9_step_4
 LANG_ENGLISH         "Complete ^5&&1^7 match while using Mil-Sim as your Coalition Operator"
 
+REFERENCE            bp_s5_quest_10_step_1
+LANG_ENGLISH         "Get ^5&&1^7 kills using a weapon with ^52^7 attachments with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_10_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Sniper or Marksman Rifle with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_10_step_3
+LANG_ENGLISH         "Activate the UAV Killstreak ^5&&1^7 times with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_10_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using the Battle Hardened Perk with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_11_step_1
+LANG_ENGLISH         "Get ^5&&1^7 kills using the Throwing Knife with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_11_step_2
+LANG_ENGLISH         "Activate the Cluster Strike killstreak ^5&&1^7 times with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_11_step_3
+LANG_ENGLISH         "Deploy the Munitions Box Field Upgrade ^5&&1^7 times with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_11_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_1
+LANG_ENGLISH         "Blind Enemies ^5&&1^7 times using a Flash Grenade with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_2
+LANG_ENGLISH         "In Warzone, pick up ^5&&1^7 weapons with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_3
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_4
+LANG_ENGLISH         "Deploy ^5&&1^7 Field Upgrades with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a gun with ^53^7 Attachments with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_2
+LANG_ENGLISH         "In Warzone, Survive inside of the gas for ^5&&1^7 seconds with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_3
+LANG_ENGLISH         "Activate the Dead Silence Field Upgrade ^5&&1^7 times with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_4
+LANG_ENGLISH         "Stun enemies ^5&&1^7 times using a Stun Grenade with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_1
+LANG_ENGLISH         "Call in ^5&&1^7 Precision Airstrike Killstreaks with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_2
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_4
+LANG_ENGLISH         "Activate ^5&&1^7 Killstreaks with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills using an LMG with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_3_step_2
+LANG_ENGLISH         "Get ^53^7 Kills without dying ^5&&1^7 times with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_3_step_3
+LANG_ENGLISH         "Get ^5&&1^7 kills using Lethal Equipment with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_3_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Ghost perk with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_4_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills using an SMG with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_4_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Longshot kills with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_4_step_3
+LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_4_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Pistol with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_5_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Quick Fix perk with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_5_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the EOD perk with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_5_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Longshot kills with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_5_step_4
+LANG_ENGLISH         "Revive a Teammate in Warzone from the shop ^5&&1^7 time with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_3
+LANG_ENGLISH         "In Warzone, Drive Vehicles for ^5&&1^7 minutes with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_4
+LANG_ENGLISH         "Revive a teammate in a Warzone match using the Buy Station ^5&&1^7 time with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_7_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_7_step_2
+LANG_ENGLISH         "Get ^5&&1^7 headshot kills with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_7_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Amped perk with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_7_step_4
+LANG_ENGLISH         "Survive for ^5&&1^7 seconds in the gas on Warzone with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_8_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills with an LMG weapon with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_8_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using an Assault Rifle with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_8_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_8_step_4
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_9_step_1
+LANG_ENGLISH         "Activate ^5&&1^7 Field Upgrades with Syd as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_9_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Headshot Kills with Syd as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_9_step_3
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Syd as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_9_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Double Time Perk with Syd as your Allegiance Operator"
+
 REFERENCE            br
 LANG_ENGLISH         "BR Challenge"
 
@@ -915,7 +1062,7 @@ REFERENCE            br_season_2_quest_2_step_6
 LANG_ENGLISH         "Kill ^5&&1^7 downed enemies"
 
 REFERENCE            br_season_2_quest_2_step_7
-LANG_ENGLISH         "Earn top 15 placement with your team ^5&&1^7 time(s)"
+LANG_ENGLISH         "Earn top ^515^7 placement with your team ^5&&1^7 time(s)"
 
 REFERENCE            br_season_2_quest_3_name
 LANG_ENGLISH         "Boats and Trains"
@@ -1140,6 +1287,42 @@ LANG_ENGLISH         "Cornerstone Royale"
 REFERENCE            br_season_4_quest_05_name
 LANG_ENGLISH         "Demonstrator Royale"
 
+REFERENCE            br_season_5_quest_1_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Gora Dam in the North West."
+
+REFERENCE            br_season_5_quest_1_name
+LANG_ENGLISH         "Maximum Damage"
+
+REFERENCE            br_season_5_quest_2_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Verdansk Port in the South East."
+
+REFERENCE            br_season_5_quest_2_name
+LANG_ENGLISH         "Port Pandemonium"
+
+REFERENCE            br_season_5_quest_3_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Krovnik Farmland in the South East."
+
+REFERENCE            br_season_5_quest_3_name
+LANG_ENGLISH         "Countryside Chaos"
+
+REFERENCE            br_season_5_quest_4_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Gorengard Lumber Yard in the East."
+
+REFERENCE            br_season_5_quest_4_name
+LANG_ENGLISH         "Hardwood Havoc"
+
+REFERENCE            br_season_5_quest_5_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Verdansk Airport in the near North West."
+
+REFERENCE            br_season_5_quest_5_name
+LANG_ENGLISH         "Terminal Violence"
+
+REFERENCE            br_season_5_quest_6_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Zordaya Prison Complex in the far South East."
+
+REFERENCE            br_season_5_quest_6_name
+LANG_ENGLISH         "Penal Pistolwhip"
+
 REFERENCE            br_weekly
 LANG_ENGLISH         "BR Weekly Challenge"
 
@@ -1295,6 +1478,22 @@ LANG_ENGLISH         "Kill 3 enemies without dying"
 
 REFERENCE            challenge_available_with_full_game
 LANG_ENGLISH         "Challenge available with the full game"
+
+REFERENCE            classified_challenge
+LANG_ENGLISH         "Classified Challenge"
+
+REFERENCE            classified_challenge_desc
+LANG_ENGLISH         "Complete ^5&&1^7 weapon master challenges.
+Note: Kill and Headshot challenges count as one classified challenge progress"
+
+REFERENCE            classified_challenge_desc_no_note
+LANG_ENGLISH         "Complete ^5&&1^7 weapon master challenges."
+
+REFERENCE            classified_challenge_full_desc
+LANG_ENGLISH         "Complete all master challenges for all weapons to unlock the reward"
+
+REFERENCE            classified_challenge_info
+LANG_ENGLISH         "Note: Kill and Headshot challenges count as one classified challenge progress"
 
 REFERENCE            community
 LANG_ENGLISH         "Community Challenge"
@@ -1456,7 +1655,7 @@ REFERENCE            daily_attachment_grip_soh_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Granulated Grip Tape attachment and Sleight of Hand weapon perk equipped"
 
 REFERENCE            daily_attachment_holo_barrel_desc
-LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Holo optic and an unsupressed Barrel attachment equipped"
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Holo optic and an unsuppressed Barrel attachment equipped"
 
 REFERENCE            daily_attachment_holo_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Holo Optic equipped"
@@ -1539,6 +1738,12 @@ LANG_ENGLISH         "Bounty Hunter"
 REFERENCE            daily_c4
 LANG_ENGLISH         "C4"
 
+REFERENCE            daily_c4_cso
+LANG_ENGLISH         "C4 Kills - Classic Spec Ops"
+
+REFERENCE            daily_c4_cso_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills using C4 in any Classic Special Ops Operation"
+
 REFERENCE            daily_c4_desc
 LANG_ENGLISH         "Get ^5&&1^7 C4 Kills"
 
@@ -1601,6 +1806,12 @@ LANG_ENGLISH         "Cruise Missile"
 
 REFERENCE            daily_cruise_missile_desc
 LANG_ENGLISH         "Get ^5&&1^7 kills with a Cruise Missile"
+
+REFERENCE            daily_cruise_missile_wsv
+LANG_ENGLISH         "Cruise Missile - Wave Survival"
+
+REFERENCE            daily_cruise_missile_wsv_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills with the Cruise Missile in any Wave Survival Operation"
 
 REFERENCE            daily_cyber_attack_wins
 LANG_ENGLISH         "Cyber Attack Wins"
@@ -1684,7 +1895,7 @@ REFERENCE            daily_focused
 LANG_ENGLISH         "Focused"
 
 REFERENCE            daily_focused_desc
-LANG_ENGLISH         "Kill the enemy that blinded or stunned you with a Flashbang or Concussion Grenade ^5&&1^7 time(s)"
+LANG_ENGLISH         "Kill the enemy that blinded or stunned you with a Flashbang or Stun Grenade ^5&&1^7 time(s)"
 
 REFERENCE            daily_four_leaf_clover
 LANG_ENGLISH         "Four Leaf Clover"
@@ -1806,6 +2017,12 @@ LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks"
 REFERENCE            daily_juggernaut
 LANG_ENGLISH         "Juggernaut"
 
+REFERENCE            daily_juggernaut_cso
+LANG_ENGLISH         "Kill Juggernauts - Classic Spec Ops"
+
+REFERENCE            daily_juggernaut_cso_desc
+LANG_ENGLISH         "Kill ^5&&1^7 Juggernauts in any Classic Special Ops Operation"
+
 REFERENCE            daily_juggernaut_desc
 LANG_ENGLISH         "Get ^5&&1^7 kills as a Juggernaut"
 
@@ -1846,7 +2063,7 @@ REFERENCE            daily_lm_gun_1_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using the PKM"
 
 REFERENCE            daily_lm_kills_matches_desc
-LANG_ENGLISH         "Get ^53^7 Kills with an Light Machine Gun in ^5&&1^7 matches"
+LANG_ENGLISH         "Get ^53^7 Kills with a Light Machine Gun in ^5&&1^7 matches"
 
 REFERENCE            daily_lmg_kills
 LANG_ENGLISH         "LMG Kills"
@@ -1877,6 +2094,12 @@ LANG_ENGLISH         "Molotov Cocktail"
 
 REFERENCE            daily_molotov_cocktail_desc
 LANG_ENGLISH         "Get ^5&&1^7 Molotov Kills"
+
+REFERENCE            daily_molotov_cso
+LANG_ENGLISH         "Molotov Kills - Classic Spec Ops"
+
+REFERENCE            daily_molotov_cso_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills using Molotovs in any Classic Special Ops Operation"
 
 REFERENCE            daily_munitions
 LANG_ENGLISH         "Munitions"
@@ -1919,6 +2142,12 @@ LANG_ENGLISH         "Pistol Kills Headshots"
 
 REFERENCE            daily_pistol_kills_headshots_desc
 LANG_ENGLISH         "Get ^5&&1^7 Headshots with Pistols"
+
+REFERENCE            daily_pistol_kills_headshots_wsv
+LANG_ENGLISH         "Pistol Kills Headshots - Wave Survival"
+
+REFERENCE            daily_pistol_kills_headshots_wsv_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshots with Pistols in any Wave Survival Operation"
 
 REFERENCE            daily_pistol_weapon_change_kill
 LANG_ENGLISH         "Get a kill within ^52^7 seconds of switching to a Pistol ^5&&1^7 time(s)"
@@ -2083,7 +2312,7 @@ REFERENCE            daily_smoke_grenade_desc
 LANG_ENGLISH         "Kill ^5&&1^7 Enemies in proximity to a Smoke Grenade"
 
 REFERENCE            daily_sn_gun_1
-LANG_ENGLISH         "Dragonov Kills"
+LANG_ENGLISH         "Dragunov Kills"
 
 REFERENCE            daily_sn_gun_1_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using the Dragunov"
@@ -2235,6 +2464,12 @@ LANG_ENGLISH         "Warhead"
 REFERENCE            daily_warhead_desc
 LANG_ENGLISH         "Get ^5&&1^7 kills with Rocket Launchers while using the Amped Perk"
 
+REFERENCE            daily_waves_wsv
+LANG_ENGLISH         "Survive Waves - Wave Survival Mode"
+
+REFERENCE            daily_waves_wsv_desc
+LANG_ENGLISH         "Survive at least ^5&&1^7 waves in any Wave Survival Operation"
+
 REFERENCE            daily_weapon_drop
 LANG_ENGLISH         "Weapon Drop"
 
@@ -2251,7 +2486,7 @@ REFERENCE            daily_wheelson
 LANG_ENGLISH         "Wheelson"
 
 REFERENCE            daily_wheelson_desc
-LANG_ENGLISH         "Get ^5&&1^7 kills with a Wheelson"
+LANG_ENGLISH         "Get ^5&&1^7 kill(s) with a Wheelson"
 
 REFERENCE            daily_white_phosphorus
 LANG_ENGLISH         "White Phosphorus"
@@ -2286,7 +2521,7 @@ REFERENCE            dev_error_activation
 LANG_ENGLISH         "Could not ^5&&1^7 mission with ID: ^5&&2^7."
 
 REFERENCE            elder
-LANG_ENGLISH         "Elder Challenge"
+LANG_ENGLISH         "Officer Challenges"
 
 REFERENCE            elder1_ac130kills
 LANG_ENGLISH         "Gunship"
@@ -2466,7 +2701,7 @@ REFERENCE            elder1_focused
 LANG_ENGLISH         "Focused"
 
 REFERENCE            elder1_focused_desc
-LANG_ENGLISH         "Kill the enemy that has impaired you with a Flashbang or Concussion Grenade ^5&&1^7 time(s)"
+LANG_ENGLISH         "Kill the enemy that has impaired you with a Flashbang or Stun Grenade ^5&&1^7 time(s)"
 
 REFERENCE            elder1_fourattach
 LANG_ENGLISH         "Four Leaf Clover"
@@ -4047,7 +4282,7 @@ REFERENCE            elder_s2_chal_089_name
 LANG_ENGLISH         "Recon Drone"
 
 REFERENCE            elder_s2_chal_090_desc
-LANG_ENGLISH         "Kill an enemy while impaired by a Flashbang or Concussion Grenade ^5&&1^7 time(s)"
+LANG_ENGLISH         "Kill an enemy while impaired by a Flashbang or Stun Grenade ^5&&1^7 time(s)"
 
 REFERENCE            elder_s2_chal_090_name
 LANG_ENGLISH         "Focused"
@@ -4467,7 +4702,7 @@ REFERENCE            elder_s4_chal_059_name
 LANG_ENGLISH         "Ammo Drop"
 
 REFERENCE            elder_s4_chal_060_desc
-LANG_ENGLISH         "Get &&1 Quad Feeds(4 uniterrupted kills in the kill feed)"
+LANG_ENGLISH         "Get &&1 Quad Feeds(4 uninterrupted kills in the kill feed)"
 
 REFERENCE            elder_s4_chal_060_name
 LANG_ENGLISH         "Four Piece Dinner I"
@@ -4521,7 +4756,7 @@ REFERENCE            elder_s4_chal_068_name
 LANG_ENGLISH         "Three Cheers"
 
 REFERENCE            elder_s4_chal_069_desc
-LANG_ENGLISH         "Stun &&1 Enemies using the Concussion Grenade"
+LANG_ENGLISH         "Stun &&1 Enemies using the Stun Grenade"
 
 REFERENCE            elder_s4_chal_069_name
 LANG_ENGLISH         "Stun Grenade"
@@ -4712,6 +4947,606 @@ LANG_ENGLISH         "Get 2 Hipfire Kills within 60 seconds of each other &&1 ti
 REFERENCE            elder_s4_chal_100_name
 LANG_ENGLISH         "Sprayer"
 
+REFERENCE            elder_s5_chal_001_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Rocket Launchers"
+
+REFERENCE            elder_s5_chal_001_name
+LANG_ENGLISH         "Launcher Kills"
+
+REFERENCE            elder_s5_chal_002_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Ghost perk"
+
+REFERENCE            elder_s5_chal_002_name
+LANG_ENGLISH         "Ghost"
+
+REFERENCE            elder_s5_chal_003_desc
+LANG_ENGLISH         "In Warzone, Purchase the Armor Plate Box from the Kiosk ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_003_name
+LANG_ENGLISH         "Armor Plate Shopper"
+
+REFERENCE            elder_s5_chal_004_desc
+LANG_ENGLISH         "Deploy the Trophy System Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_004_name
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            elder_s5_chal_005_desc
+LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_005_name
+LANG_ENGLISH         "UAV"
+
+REFERENCE            elder_s5_chal_006_desc
+LANG_ENGLISH         "In Warzone, Revive a teammate ^5&&1^7 times from using the Kiosk"
+
+REFERENCE            elder_s5_chal_006_name
+LANG_ENGLISH         "Revive"
+
+REFERENCE            elder_s5_chal_007_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using a weapon with 0 attachments"
+
+REFERENCE            elder_s5_chal_007_name
+LANG_ENGLISH         "Zero To Hero"
+
+REFERENCE            elder_s5_chal_008_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^53^7 attachments"
+
+REFERENCE            elder_s5_chal_008_name
+LANG_ENGLISH         "Three To Play"
+
+REFERENCE            elder_s5_chal_009_desc
+LANG_ENGLISH         "In Warzone, Purchase ^5&&1^7 Killstreaks"
+
+REFERENCE            elder_s5_chal_009_name
+LANG_ENGLISH         "Streak Shopper"
+
+REFERENCE            elder_s5_chal_010_desc
+LANG_ENGLISH         "In Warzone, Use ^5&&1^7 Armor Plates"
+
+REFERENCE            elder_s5_chal_010_name
+LANG_ENGLISH         "Armor Plates"
+
+REFERENCE            elder_s5_chal_011_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Shotguns"
+
+REFERENCE            elder_s5_chal_011_name
+LANG_ENGLISH         "Shotgun Kills"
+
+REFERENCE            elder_s5_chal_012_desc
+LANG_ENGLISH         "In Warzone, win your Gulag match ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_012_name
+LANG_ENGLISH         "Gulag Brawler"
+
+REFERENCE            elder_s5_chal_013_desc
+LANG_ENGLISH         "In Warzone, Collect your loadout ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_013_name
+LANG_ENGLISH         "Loadout Retriever"
+
+REFERENCE            elder_s5_chal_014_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with weapons from other players"
+
+REFERENCE            elder_s5_chal_014_name
+LANG_ENGLISH         "Weapon Pickup"
+
+REFERENCE            elder_s5_chal_015_desc
+LANG_ENGLISH         "In Warzone, Finish in the top 30% ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_015_name
+LANG_ENGLISH         "Warzone Performer"
+
+REFERENCE            elder_s5_chal_016_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Assault Rifles"
+
+REFERENCE            elder_s5_chal_016_name
+LANG_ENGLISH         "Assault Rifle Headshots"
+
+REFERENCE            elder_s5_chal_017_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills using Pistols"
+
+REFERENCE            elder_s5_chal_017_name
+LANG_ENGLISH         "Pistol Kills"
+
+REFERENCE            elder_s5_chal_018_desc
+LANG_ENGLISH         "In Warzone, survive in the gas for ^5&&1^7 seconds"
+
+REFERENCE            elder_s5_chal_018_name
+LANG_ENGLISH         "Gas Mask"
+
+REFERENCE            elder_s5_chal_019_desc
+LANG_ENGLISH         "In Warzone, survive without being downed for ^5&&1^7 minutes"
+
+REFERENCE            elder_s5_chal_019_name
+LANG_ENGLISH         "Survivalist"
+
+REFERENCE            elder_s5_chal_020_desc
+LANG_ENGLISH         "Get ^5&&1^7 Marksman or Sniper Rifle Kills"
+
+REFERENCE            elder_s5_chal_020_name
+LANG_ENGLISH         "Sniper Kills"
+
+REFERENCE            elder_s5_chal_021_desc
+LANG_ENGLISH         "Get ^52^7 Headshots within 60 seconds of each other ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_021_name
+LANG_ENGLISH         "Speed Headshots"
+
+REFERENCE            elder_s5_chal_022_desc
+LANG_ENGLISH         "In Warzone, start Contracts in the Downtown area ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_022_name
+LANG_ENGLISH         "Contract Specialist - Downtown"
+
+REFERENCE            elder_s5_chal_023_desc
+LANG_ENGLISH         "Get ^5&&1^7 Quad Feeds(4 uninterrupted kills in the kill feed)"
+
+REFERENCE            elder_s5_chal_023_name
+LANG_ENGLISH         "Quad Killer"
+
+REFERENCE            elder_s5_chal_024_desc
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills"
+
+REFERENCE            elder_s5_chal_024_name
+LANG_ENGLISH         "Hipfire"
+
+REFERENCE            elder_s5_chal_025_desc
+LANG_ENGLISH         "In Warzone, Pick up ^5&&1^7 weapons"
+
+REFERENCE            elder_s5_chal_025_name
+LANG_ENGLISH         "Weapon Collector"
+
+REFERENCE            elder_s5_chal_026_desc
+LANG_ENGLISH         "Get ^5&&1^7 One-Shot kills"
+
+REFERENCE            elder_s5_chal_026_name
+LANG_ENGLISH         "One Shot"
+
+REFERENCE            elder_s5_chal_027_desc
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks"
+
+REFERENCE            elder_s5_chal_027_name
+LANG_ENGLISH         "Streaker"
+
+REFERENCE            elder_s5_chal_028_desc
+LANG_ENGLISH         "In Battle Royale, Purchase a Munitions Box from the Kiosk ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_028_name
+LANG_ENGLISH         "Ammo Box Shopper"
+
+REFERENCE            elder_s5_chal_029_desc
+LANG_ENGLISH         "Use the Munitions Box Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_029_name
+LANG_ENGLISH         "Munitions"
+
+REFERENCE            elder_s5_chal_030_desc
+LANG_ENGLISH         "Get ^5&&1^7 Melee Kills"
+
+REFERENCE            elder_s5_chal_030_name
+LANG_ENGLISH         "Pummeler"
+
+REFERENCE            elder_s5_chal_031_desc
+LANG_ENGLISH         "Kill ^5&&1^7 enemies using Killstreaks"
+
+REFERENCE            elder_s5_chal_031_name
+LANG_ENGLISH         "Remote Favor"
+
+REFERENCE            elder_s5_chal_032_desc
+LANG_ENGLISH         "In Warzone, complete ^5&&1^7 Contracts"
+
+REFERENCE            elder_s5_chal_032_name
+LANG_ENGLISH         "Mercenary"
+
+REFERENCE            elder_s5_chal_033_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^52^7 attachments"
+
+REFERENCE            elder_s5_chal_033_name
+LANG_ENGLISH         "Two To Tango"
+
+REFERENCE            elder_s5_chal_034_desc
+LANG_ENGLISH         "In Warzone, drive vehicles for ^5&&1^7 minutes"
+
+REFERENCE            elder_s5_chal_034_name
+LANG_ENGLISH         "Driver"
+
+REFERENCE            elder_s5_chal_035_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using SMGs"
+
+REFERENCE            elder_s5_chal_035_name
+LANG_ENGLISH         "SMG Kills"
+
+REFERENCE            elder_s5_chal_036_desc
+LANG_ENGLISH         "Kill ^5&&1^7 Enemies while near smoke"
+
+REFERENCE            elder_s5_chal_036_name
+LANG_ENGLISH         "Smoke Detector"
+
+REFERENCE            elder_s5_chal_037_desc
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing moves"
+
+REFERENCE            elder_s5_chal_037_name
+LANG_ENGLISH         "Finisher"
+
+REFERENCE            elder_s5_chal_038_desc
+LANG_ENGLISH         "Get ^5&&1^7 Quickscope kills"
+
+REFERENCE            elder_s5_chal_038_name
+LANG_ENGLISH         "Quickscopes"
+
+REFERENCE            elder_s5_chal_039_desc
+LANG_ENGLISH         "Activate the Dead Silence Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_039_name
+LANG_ENGLISH         "Dead Silence"
+
+REFERENCE            elder_s5_chal_040_desc
+LANG_ENGLISH         "In Warzone, start Contracts in the Gulag area ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_040_name
+LANG_ENGLISH         "Contract Specialist - Gulag"
+
+REFERENCE            elder_s5_chal_041_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot Kills using Shotguns"
+
+REFERENCE            elder_s5_chal_041_name
+LANG_ENGLISH         "Shotgun Headshots"
+
+REFERENCE            elder_s5_chal_042_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using your Secondary Weapon"
+
+REFERENCE            elder_s5_chal_042_name
+LANG_ENGLISH         "Secondary Weapon Kills"
+
+REFERENCE            elder_s5_chal_043_desc
+LANG_ENGLISH         "Mark ^5&&1^7 Enemies using the Recon Drone Field Upgrade"
+
+REFERENCE            elder_s5_chal_043_name
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            elder_s5_chal_044_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Assault Rifles"
+
+REFERENCE            elder_s5_chal_044_name
+LANG_ENGLISH         "Assault Rifle Kills"
+
+REFERENCE            elder_s5_chal_045_desc
+LANG_ENGLISH         "Get ^5&&1^7 Assists"
+
+REFERENCE            elder_s5_chal_045_name
+LANG_ENGLISH         "Assister"
+
+REFERENCE            elder_s5_chal_046_desc
+LANG_ENGLISH         "Recover ^5&&1^7 Health by using the Stim Tactical"
+
+REFERENCE            elder_s5_chal_046_name
+LANG_ENGLISH         "Stim"
+
+REFERENCE            elder_s5_chal_047_desc
+LANG_ENGLISH         "Get ^5&&1^7 Multi Kills using Rocket Launchers"
+
+REFERENCE            elder_s5_chal_047_name
+LANG_ENGLISH         "Launcher Popcorn"
+
+REFERENCE            elder_s5_chal_048_desc
+LANG_ENGLISH         "Get ^52^7 Longshot kills within 60 seconds of each other ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_048_name
+LANG_ENGLISH         "Speed Longshots"
+
+REFERENCE            elder_s5_chal_049_desc
+LANG_ENGLISH         "Blind ^5&&1^7 Enemies using a Flash Grenade"
+
+REFERENCE            elder_s5_chal_049_name
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            elder_s5_chal_050_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with weapons with ^55^7 attachments"
+
+REFERENCE            elder_s5_chal_050_name
+LANG_ENGLISH         "High Five"
+
+REFERENCE            elder_s5_chal_051_desc
+LANG_ENGLISH         "Get ^55^7 Kills without dying ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_051_name
+LANG_ENGLISH         "Bloodthirsty Killer"
+
+REFERENCE            elder_s5_chal_052_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while sliding"
+
+REFERENCE            elder_s5_chal_052_name
+LANG_ENGLISH         "Sliding"
+
+REFERENCE            elder_s5_chal_053_desc
+LANG_ENGLISH         "Get ^5&&1^7 Molotov Kills"
+
+REFERENCE            elder_s5_chal_053_name
+LANG_ENGLISH         "Molotov"
+
+REFERENCE            elder_s5_chal_054_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using the Battle Hardened Perk"
+
+REFERENCE            elder_s5_chal_054_name
+LANG_ENGLISH         "Battle Hardened"
+
+REFERENCE            elder_s5_chal_055_desc
+LANG_ENGLISH         "Call in the Precision Airstrike killstreak ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_055_name
+LANG_ENGLISH         "Precision Airstrike"
+
+REFERENCE            elder_s5_chal_056_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with Proxy Mines"
+
+REFERENCE            elder_s5_chal_056_name
+LANG_ENGLISH         "Mine"
+
+REFERENCE            elder_s5_chal_057_desc
+LANG_ENGLISH         "Get ^5&&1^7 Point Blank Kills"
+
+REFERENCE            elder_s5_chal_057_name
+LANG_ENGLISH         "Point Blank"
+
+REFERENCE            elder_s5_chal_058_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using High Alert"
+
+REFERENCE            elder_s5_chal_058_name
+LANG_ENGLISH         "High Alert"
+
+REFERENCE            elder_s5_chal_059_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using the Frag Grenade"
+
+REFERENCE            elder_s5_chal_059_name
+LANG_ENGLISH         "Frag"
+
+REFERENCE            elder_s5_chal_060_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Thermite"
+
+REFERENCE            elder_s5_chal_060_name
+LANG_ENGLISH         "Thermite"
+
+REFERENCE            elder_s5_chal_061_desc
+LANG_ENGLISH         "Get ^5&&1^7 Triple Kills (3 rapid kills)"
+
+REFERENCE            elder_s5_chal_061_name
+LANG_ENGLISH         "Triple Kills"
+
+REFERENCE            elder_s5_chal_062_desc
+LANG_ENGLISH         "Destroy ^5&&1^7 pieces of enemy equipment"
+
+REFERENCE            elder_s5_chal_062_name
+LANG_ENGLISH         "Equipment Dismantler"
+
+REFERENCE            elder_s5_chal_063_desc
+LANG_ENGLISH         "Use the Deployable Cover Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_063_name
+LANG_ENGLISH         "Deployable Cover"
+
+REFERENCE            elder_s5_chal_064_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with Claymores"
+
+REFERENCE            elder_s5_chal_064_name
+LANG_ENGLISH         "Claymore"
+
+REFERENCE            elder_s5_chal_065_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with C4"
+
+REFERENCE            elder_s5_chal_065_name
+LANG_ENGLISH         "C4"
+
+REFERENCE            elder_s5_chal_066_desc
+LANG_ENGLISH         "Equip the Spotter Perk and Destroy a total of ^5&&1^7 Enemy Killstreaks, Equipment and Vehicles"
+
+REFERENCE            elder_s5_chal_066_name
+LANG_ENGLISH         "Spotter"
+
+REFERENCE            elder_s5_chal_067_desc
+LANG_ENGLISH         "Get ^510^7 kills without dying ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_067_name
+LANG_ENGLISH         "Merciless"
+
+REFERENCE            elder_s5_chal_068_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills using SMGs"
+
+REFERENCE            elder_s5_chal_068_name
+LANG_ENGLISH         "SMG Headshots"
+
+REFERENCE            elder_s5_chal_069_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills while crouching"
+
+REFERENCE            elder_s5_chal_069_name
+LANG_ENGLISH         "Crouching Kills"
+
+REFERENCE            elder_s5_chal_070_desc
+LANG_ENGLISH         "Use the Stopping Power Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_070_name
+LANG_ENGLISH         "Stopping Power"
+
+REFERENCE            elder_s5_chal_071_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^54^7 attachments"
+
+REFERENCE            elder_s5_chal_071_name
+LANG_ENGLISH         "Four Leaf Clover"
+
+REFERENCE            elder_s5_chal_072_desc
+LANG_ENGLISH         "Run over ^5&&1^7 Enemies with Vehicles"
+
+REFERENCE            elder_s5_chal_072_name
+LANG_ENGLISH         "Vehicle Crusher"
+
+REFERENCE            elder_s5_chal_073_desc
+LANG_ENGLISH         "Get ^5&&1^7 Double Kills(2 rapid kills)"
+
+REFERENCE            elder_s5_chal_073_name
+LANG_ENGLISH         "Double Kills"
+
+REFERENCE            elder_s5_chal_074_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Semtex"
+
+REFERENCE            elder_s5_chal_074_name
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            elder_s5_chal_075_desc
+LANG_ENGLISH         "Get ^5&&1^7 Long Shot Kills"
+
+REFERENCE            elder_s5_chal_075_name
+LANG_ENGLISH         "Longshot"
+
+REFERENCE            elder_s5_chal_076_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using LMGs"
+
+REFERENCE            elder_s5_chal_076_name
+LANG_ENGLISH         "LMG Kills"
+
+REFERENCE            elder_s5_chal_077_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills"
+
+REFERENCE            elder_s5_chal_077_name
+LANG_ENGLISH         "Headshots"
+
+REFERENCE            elder_s5_chal_078_desc
+LANG_ENGLISH         "Get ^53^7 Kills without dying ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_078_name
+LANG_ENGLISH         "Tri Streak"
+
+REFERENCE            elder_s5_chal_079_desc
+LANG_ENGLISH         "Call in ^55^7 Killstreaks in a match ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_079_name
+LANG_ENGLISH         "Remote Assistance"
+
+REFERENCE            elder_s5_chal_080_desc
+LANG_ENGLISH         "Stun ^5&&1^7 Enemies using the Stun Grenade"
+
+REFERENCE            elder_s5_chal_080_name
+LANG_ENGLISH         "Stun Grenade"
+
+REFERENCE            elder_s5_chal_081_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Cold-Blooded Perk"
+
+REFERENCE            elder_s5_chal_081_name
+LANG_ENGLISH         "Cold-Blooded"
+
+REFERENCE            elder_s5_chal_082_desc
+LANG_ENGLISH         "Kill ^5&&1^7 Enemies"
+
+REFERENCE            elder_s5_chal_082_name
+LANG_ENGLISH         "Killer"
+
+REFERENCE            elder_s5_chal_083_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Pistol"
+
+REFERENCE            elder_s5_chal_083_name
+LANG_ENGLISH         "Pistol Kills"
+
+REFERENCE            elder_s5_chal_084_desc
+LANG_ENGLISH         "Call in the Cluster Strike killstreak ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_084_name
+LANG_ENGLISH         "Cluster Strike"
+
+REFERENCE            elder_s5_chal_085_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using the Throwing Knife"
+
+REFERENCE            elder_s5_chal_085_name
+LANG_ENGLISH         "Throwing Knife"
+
+REFERENCE            elder_s5_chal_086_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills while using your Secondary Weapon"
+
+REFERENCE            elder_s5_chal_086_name
+LANG_ENGLISH         "Secondary Headshots"
+
+REFERENCE            elder_s5_chal_087_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills using LMGs"
+
+REFERENCE            elder_s5_chal_087_name
+LANG_ENGLISH         "LMG Headshots"
+
+REFERENCE            elder_s5_chal_088_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^51^7 attachment"
+
+REFERENCE            elder_s5_chal_088_name
+LANG_ENGLISH         "Single Attachment"
+
+REFERENCE            elder_s5_chal_089_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment"
+
+REFERENCE            elder_s5_chal_089_name
+LANG_ENGLISH         "Lethal Killer"
+
+REFERENCE            elder_s5_chal_090_desc
+LANG_ENGLISH         "Get ^52^7 Hipfire Kills within 60 seconds of each other ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_090_name
+LANG_ENGLISH         "Speedster Hipfire"
+
+REFERENCE            elder_s5_chal_091_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while Aiming Down Sights"
+
+REFERENCE            elder_s5_chal_091_name
+LANG_ENGLISH         "ADS Kills"
+
+REFERENCE            elder_s5_chal_092_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while injured"
+
+REFERENCE            elder_s5_chal_092_name
+LANG_ENGLISH         "Injured Kills"
+
+REFERENCE            elder_s5_chal_093_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshots using Sniper or Marksman Rifles"
+
+REFERENCE            elder_s5_chal_093_name
+LANG_ENGLISH         "Sniper Headshots"
+
+REFERENCE            elder_s5_chal_094_desc
+LANG_ENGLISH         "Get ^5&&1^7 Fury Kills (4 rapid kills)"
+
+REFERENCE            elder_s5_chal_094_name
+LANG_ENGLISH         "Fury Killer"
+
+REFERENCE            elder_s5_chal_095_desc
+LANG_ENGLISH         "Destroy ^5&&1^7 Vehicles"
+
+REFERENCE            elder_s5_chal_095_name
+LANG_ENGLISH         "Vehicle Destroyer"
+
+REFERENCE            elder_s5_chal_096_desc
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire kills with your Secondary"
+
+REFERENCE            elder_s5_chal_096_name
+LANG_ENGLISH         "Secondary Hipfire"
+
+REFERENCE            elder_s5_chal_097_desc
+LANG_ENGLISH         "Get ^5&&1^7 Lethal Equipment Kills while using the Shrapnel perk"
+
+REFERENCE            elder_s5_chal_097_name
+LANG_ENGLISH         "Shrapnel"
+
+REFERENCE            elder_s5_chal_098_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills that are Longshot"
+
+REFERENCE            elder_s5_chal_098_name
+LANG_ENGLISH         "Longshot Headshots"
+
+REFERENCE            elder_s5_chal_099_desc
+LANG_ENGLISH         "Deploy your Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_099_name
+LANG_ENGLISH         "Tune Up"
+
+REFERENCE            elder_s5_chal_100_desc
+LANG_ENGLISH         "Kill ^52^7 or more enemies with a single piece of lethal equipment ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_100_name
+LANG_ENGLISH         "Popcorn"
+
 REFERENCE            equip
 LANG_ENGLISH         "[{ui_primary}] Equip"
 
@@ -4726,6 +5561,9 @@ LANG_ENGLISH         "Kill Enemies"
 
 REFERENCE            gun_unlock
 LANG_ENGLISH         "Weapon Challenge"
+
+REFERENCE            gun_unlock_ar_galima
+LANG_ENGLISH         "Get ^53^7 Gunbutt kills while using in Assault Rifle in ^5&&1^7 different matches"
 
 REFERENCE            gun_unlock_crossbow
 LANG_ENGLISH         "Using a Marksman Rifle with a Reflex optic, get ^55^7 kills in ^5&&1^7 different matches"
@@ -4754,11 +5592,17 @@ LANG_ENGLISH         "Get ^55^7 kills in a minute when using an Assault Rifle ^5
 REFERENCE            gun_unlock_sksierra
 LANG_ENGLISH         "Using a Sniper or Marksman Rifle, Get ^52^7 Longshot Kills that are Headshots in ^5&&1^7 different matches"
 
+REFERENCE            gun_unlock_sm_victor
+LANG_ENGLISH         "Get ^55^7 kills while using an SMG with the Solozero Optics Mini Reflex and Ranger Foregrip in ^5&&1^7 different matches"
+
 REFERENCE            gun_unlock_smgolf45
 LANG_ENGLISH         "Get ^52^7 kills while Sliding when using an SMG in ^5&&1^7 different matches"
 
 REFERENCE            gun_unlock_tango
 LANG_ENGLISH         "Get ^52^7 Headshots using Assault Rifles in ^5&&1^7 different matches."
+
+REFERENCE            gun_unlock_xmike109
+LANG_ENGLISH         "Get ^53^7 Quickscope Kills using Sniper or Marksman Rifles in ^5&&1^7 different matches."
 
 REFERENCE            gunsmith
 LANG_ENGLISH         "Gunsmith Challenge"
@@ -4771,6 +5615,30 @@ LANG_ENGLISH         "Hide Completed Challenges"
 
 REFERENCE            in_progress
 LANG_ENGLISH         "Challenge In Progress"
+
+REFERENCE            intel_drop6_global
+LANG_ENGLISH         "INTEL_DROP6_GLOBAL"
+
+REFERENCE            intel_drop6_name
+LANG_ENGLISH         "INTEL_DROP6_NAME"
+
+REFERENCE            intel_drop6_step1_description
+LANG_ENGLISH         "INTEL_DROP6_STEP1_DESCRIPTION"
+
+REFERENCE            intel_drop6_step2_description
+LANG_ENGLISH         "INTEL_DROP6_STEP2_DESCRIPTION"
+
+REFERENCE            intel_drop6_step3_description
+LANG_ENGLISH         "INTEL_DROP6_STEP3_DESCRIPTION"
+
+REFERENCE            intel_drop6_step4_description
+LANG_ENGLISH         "INTEL_DROP6_STEP4_DESCRIPTION"
+
+REFERENCE            intel_drop6_step5_description
+LANG_ENGLISH         "INTEL_DROP6_STEP5_DESCRIPTION"
+
+REFERENCE            intel_drop6_step6_description
+LANG_ENGLISH         "INTEL_DROP6_STEP6_DESCRIPTION"
 
 REFERENCE            intel_mission_n
 LANG_ENGLISH         "Recommended Intel - &&1"
@@ -5168,23 +6036,32 @@ LANG_ENGLISH         "Get ^5&&1^7 win(s) in Cyber Attack"
 REFERENCE            locked_battlepass_mission
 LANG_ENGLISH         "Mission unlocked at Battle Pass tier ^5&&1^7"
 
+REFERENCE            master
+LANG_ENGLISH         "Master Challenge"
+
+REFERENCE            master_challenge_category_complete
+LANG_ENGLISH         "&&1/&&2 Complete"
+
+REFERENCE            master_challenge_completed
+LANG_ENGLISH         "Mastery Challenge Completed"
+
 REFERENCE            master_challenge_completion
-LANG_ENGLISH         "&&1 / &&2 Master Challenges complete."
+LANG_ENGLISH         "&&1 / &&2 Mastery Challenges complete."
 
 REFERENCE            master_challenge_text
 LANG_ENGLISH         "Complete all week &&1 challenges to receive weekly rewards."
 
 REFERENCE            master_challenges
-LANG_ENGLISH         "Master Challenges"
+LANG_ENGLISH         "Mastery Challenges"
 
 REFERENCE            master_challenges_desc
-LANG_ENGLISH         "View master challenge progress"
+LANG_ENGLISH         "View mastery challenge progress"
 
 REFERENCE            master_challenges_locked
-LANG_ENGLISH         "Reach officer ranks [ Level 55 ] to unlock master challenges."
+LANG_ENGLISH         "Reach officer ranks [ Level 55 ] to unlock mastery challenges."
 
 REFERENCE            master_challenges_title
-LANG_ENGLISH         "Master Challenges"
+LANG_ENGLISH         "Mastery Challenges"
 
 REFERENCE            mastery_all_guns
 LANG_ENGLISH         "Complete All The Gun Mastery Challenges On Every Weapon"
@@ -5239,6 +6116,9 @@ LANG_ENGLISH         "Get ^5&&1^7 Kills while in smoke"
 
 REFERENCE            mastery_emblem_damascus_sn_desc
 LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills"
+
+REFERENCE            mastery_emblem_gold_anovember_desc
+LANG_ENGLISH         "Get ^5&&1^7 Aiming Down Sight kills with the Folded Stock selected"
 
 REFERENCE            mastery_emblem_gold_desc
 LANG_ENGLISH         "Get ^5&&1^7 Aiming Down Sight kills with the No Stock attachment option selected"
@@ -5418,13 +6298,16 @@ REFERENCE            operator_unlock_grinch
 LANG_ENGLISH         "Get ^5100^7 Headshots in Multiplayer or acquire a skin for this operator."
 
 REFERENCE            operator_unlock_iskra
-LANG_ENGLISH         "Unlock by purchasing the "Iskra Operator Bundle" in the Store or acquiring a skin for this operator."
+LANG_ENGLISH         "Unlock by purchasing the "H.E. Tracer Pack: Iskra Operator Bundle" in the Store or acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_kreuger
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Moves or acquire a skin for this operator"
 
 REFERENCE            operator_unlock_kyle
-LANG_ENGLISH         "Unlock by purchasing the "Kyle Operator Bundle" in the Store "
+LANG_ENGLISH         "Unlock by purchasing the "Gaz Operator Bundle" in the Store "
+
+REFERENCE            operator_unlock_lerch
+LANG_ENGLISH         "Unlocked by purchasing the Season 5 Battlepass or by acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_mace
 LANG_ENGLISH         "Unlock by purchasing "Mace Operator Bundle" in the Store, or acquiring a skin for this operator."
@@ -5450,11 +6333,20 @@ LANG_ENGLISH         "Complete Operation: Paladin in Western Verdansk or acquire
 REFERENCE            operator_unlock_ronin
 LANG_ENGLISH         "Unlock by purchasing "Ronin Operator Pack" in the Store, or acquiring a skin for this operator."
 
+REFERENCE            operator_unlock_roze
+LANG_ENGLISH         "Unlocked by purchasing the Roze Operator Bundle or by acquiring a skin for this operator."
+
 REFERENCE            operator_unlock_spetsnaz
 LANG_ENGLISH         "Unlock by purchasing the "Nikto Operator Bundle" in the Store or acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_syd
 LANG_ENGLISH         "Kill ^55^7 Juggernauts in any single Co-Op Mission or acquire a skin for this operator."
+
+REFERENCE            operator_unlock_velikan
+LANG_ENGLISH         "Unlocked by purchasing the Velikan Operator Bundle or by acquiring a skin for this operator."
+
+REFERENCE            operator_unlock_woods
+LANG_ENGLISH         "Unlocked by purchasing the Woods Operator Bundle or by acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_wyatt
 LANG_ENGLISH         "Complete The Wolf's Den Campaign Mission or acquire a skin for this operator."
@@ -5467,6 +6359,9 @@ LANG_ENGLISH         "Complete CO-Op Operation Headhunter, Kuvalda, Paladin, and
 
 REFERENCE            operator_unlock_zedra
 LANG_ENGLISH         "Unlocked in the Season 1 Battle Pass or by acquiring a skin for this operator."
+
+REFERENCE            preview_master_challenge_loot
+LANG_ENGLISH         "[{ui_alt2}] Preview"
 
 REFERENCE            progression
 LANG_ENGLISH         "Progression Challenge"
@@ -5559,7 +6454,7 @@ REFERENCE            reticle_hybridthermal_02
 LANG_ENGLISH         "Get ^5&&1^7 Headshots using the ^5&&2^7"
 
 REFERENCE            reticle_hybridthermal_03
-LANG_ENGLISH         "Get ^5&&1^7 Double Kills with using the ^5&&2^7"
+LANG_ENGLISH         "Get ^5&&1^7 Double Kills using the ^5&&2^7"
 
 REFERENCE            reticle_hybridthermal_04
 LANG_ENGLISH         "Get ^5&&1^7 Mounted Kills using the ^5&&2^7"
@@ -5673,169 +6568,169 @@ REFERENCE            romeo870_attachment_unlock_4
 LANG_ENGLISH         "Get ^53^7 Longshot Kills in ^5&&1^7 different matches while using the Scout optic class"
 
 REFERENCE            s2_bp_quest_10_name
-LANG_ENGLISH         "Operator Mission - Zane"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Zane"
 
 REFERENCE            s2_bp_quest_10_name_desc
 LANG_ENGLISH         "All challenges require Zane to be a selected Operator"
 
 REFERENCE            s2_bp_quest_11_name
-LANG_ENGLISH         "Operator Mission - Minotaur"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Minotaur"
 
 REFERENCE            s2_bp_quest_11_name_desc
 LANG_ENGLISH         "All challenges require Minotaur to be a selected Operator"
 
 REFERENCE            s2_bp_quest_12_name
-LANG_ENGLISH         "Operator Mission - Ghost"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Ghost 2"
 
 REFERENCE            s2_bp_quest_12_name_desc
 LANG_ENGLISH         "All challenges require Ghost to be a selected Operator"
 
 REFERENCE            s2_bp_quest_1_name
-LANG_ENGLISH         "Operator Mission - Ghost"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Ghost"
 
 REFERENCE            s2_bp_quest_1_name_desc
 LANG_ENGLISH         "All challenges require Ghost to be a selected Operator"
 
 REFERENCE            s2_bp_quest_2_name
-LANG_ENGLISH         "Operator Mission - Thorne"
+LANG_ENGLISH         "Season Battle Pass Mission - Thorne"
 
 REFERENCE            s2_bp_quest_2_name_desc
 LANG_ENGLISH         "All challenges require Thorne to be a selected Operator"
 
 REFERENCE            s2_bp_quest_3_name
-LANG_ENGLISH         "Operator Mission - Otter"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Otter"
 
 REFERENCE            s2_bp_quest_3_name_desc
 LANG_ENGLISH         "All challenges require Otter to be a selected Operator"
 
 REFERENCE            s2_bp_quest_4_name
-LANG_ENGLISH         "Operator Mission - Raines"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Raines"
 
 REFERENCE            s2_bp_quest_4_name_desc
 LANG_ENGLISH         "All challenges require Raines to be a selected Operator"
 
 REFERENCE            s2_bp_quest_5_name
-LANG_ENGLISH         "Operator Mission - Wyatt"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Wyatt"
 
 REFERENCE            s2_bp_quest_5_name_desc
 LANG_ENGLISH         "All challenges require Wyatt to be a selected Operator"
 
 REFERENCE            s2_bp_quest_6_name
-LANG_ENGLISH         "Operator Mission - D-Day"
+LANG_ENGLISH         "Season Two Battle Pass Mission - D-Day"
 
 REFERENCE            s2_bp_quest_6_name_desc
 LANG_ENGLISH         "All challenges require D-Day to be a selected Operator"
 
 REFERENCE            s2_bp_quest_7_name
-LANG_ENGLISH         "Operator Mission - Golem"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Golem"
 
 REFERENCE            s2_bp_quest_7_name_desc
 LANG_ENGLISH         "All challenges require Golem to be a selected Operator"
 
 REFERENCE            s2_bp_quest_8_name
-LANG_ENGLISH         "Operator Mission - Yegor"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Yegor"
 
 REFERENCE            s2_bp_quest_8_name_desc
 LANG_ENGLISH         "All challenges require Yegor to be a selected Operator"
 
 REFERENCE            s2_bp_quest_9_name
-LANG_ENGLISH         "Operator Mission - Azur"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Azur"
 
 REFERENCE            s2_bp_quest_9_name_desc
 LANG_ENGLISH         "All challenges require Azur to be a selected Operator"
 
 REFERENCE            s3_bp_quest_10_name
-LANG_ENGLISH         "Season 3 Battle Pass Talon Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Talon"
 
 REFERENCE            s3_bp_quest_10_name_desc
 LANG_ENGLISH         "All challenges must have Talon equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_11_name
-LANG_ENGLISH         "Season 3 Battle Pass Mara Challenges"
+LANG_ENGLISH         "Season Three Battle Mission - Mara"
 
 REFERENCE            s3_bp_quest_11_name_desc
 LANG_ENGLISH         "All challenges must have Mara equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_12_name
-LANG_ENGLISH         "Season 3 Battle Pass Alex 2 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Alex 2"
 
 REFERENCE            s3_bp_quest_12_name_desc
 LANG_ENGLISH         "All challenges must have Alex equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_1_name
-LANG_ENGLISH         "Season 3 Battle Pass Alex Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Alex"
 
 REFERENCE            s3_bp_quest_1_name_desc
 LANG_ENGLISH         "All challenges must have Alex equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_2_name
-LANG_ENGLISH         "Season 3 Battle Pass Yegor Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Yegor"
 
 REFERENCE            s3_bp_quest_2_name_desc
 LANG_ENGLISH         "All challenges must have Yegor equipped as your Allegiance Operator"
 
 REFERENCE            s3_bp_quest_3_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 1 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - US Expeditionary Force Mil-Sim"
 
 REFERENCE            s3_bp_quest_3_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_4_name
-LANG_ENGLISH         "Season 3 Battle Pass Thorne Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Thorne"
 
 REFERENCE            s3_bp_quest_4_name_desc
 LANG_ENGLISH         "All challenges must have Thorne equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_5_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 2 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - SKSF Mil-Sim"
 
 REFERENCE            s3_bp_quest_5_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_6_name
-LANG_ENGLISH         "Season 3 Battle Pass D-Day Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - D-Day"
 
 REFERENCE            s3_bp_quest_6_name_desc
 LANG_ENGLISH         "All challenges must have D-Day equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_7_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 3 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Pararescue Mil-Sim"
 
 REFERENCE            s3_bp_quest_7_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_8_name
-LANG_ENGLISH         "Season 3 Battle Pass Rodion Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Rodion"
 
 REFERENCE            s3_bp_quest_8_name_desc
 LANG_ENGLISH         "All challenges must have Rodion equipped as your Allegiance Operator"
 
 REFERENCE            s3_bp_quest_9_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 4 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - CTSPF Mil-Sim"
 
 REFERENCE            s3_bp_quest_9_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bundle_quest_1_name
-LANG_ENGLISH         "Nikto Bundle Challenges"
+LANG_ENGLISH         "Nikto Operator Bundle Mission"
 
 REFERENCE            s3_bundle_quest_1_name_desc
 LANG_ENGLISH         "All challenges must have Nikto equipped as your Allegiance Operator"
 
 REFERENCE            s3_bundle_quest_2_name
-LANG_ENGLISH         "Talon Bundle Challenges"
+LANG_ENGLISH         "Talon Operator Bundle Mission"
 
 REFERENCE            s3_bundle_quest_2_name_desc
 LANG_ENGLISH         "All challenges must have Talon equipped as your Coalition Operator"
 
 REFERENCE            s3_bundle_quest_3_name
-LANG_ENGLISH         "Mace Bundle Challenges"
+LANG_ENGLISH         "Mace Operator Bundle Mission"
 
 REFERENCE            s3_bundle_quest_3_name_desc
 LANG_ENGLISH         "All challenges must have Mace equipped as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_10_name
-LANG_ENGLISH         "Season Four Raines Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Raines"
 
 REFERENCE            s4_bp_quest_10_name_desc
 LANG_ENGLISH         "All challenges require Raines to be selected as your Coalition Operator"
@@ -5853,7 +6748,7 @@ REFERENCE            s4_bp_quest_10_step_4
 LANG_ENGLISH         "Deploy the Munitions Box Field Upgrade ^5&&1^7 times with Raines as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_11_name
-LANG_ENGLISH         "Season Four Iskra Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Iskra"
 
 REFERENCE            s4_bp_quest_11_name_desc
 LANG_ENGLISH         "All challenges require Iskra to be selected as your Allegiance Operator"
@@ -5871,7 +6766,7 @@ REFERENCE            s4_bp_quest_11_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment with Iskra as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_12_name
-LANG_ENGLISH         "Season Four Price Operator Mission 2"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Price 2"
 
 REFERENCE            s4_bp_quest_12_name_desc
 LANG_ENGLISH         "All challenges require Price to be selected as your Coalition Operator"
@@ -5889,7 +6784,7 @@ REFERENCE            s4_bp_quest_12_step_4
 LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times with Price as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_1_name
-LANG_ENGLISH         "Season Four Price Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Price "
 
 REFERENCE            s4_bp_quest_1_name_desc
 LANG_ENGLISH         "All challenges require Price selected as your Coalition Operator to complete"
@@ -5907,7 +6802,7 @@ REFERENCE            s4_bp_quest_1_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Double Time Perk with Price as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_2_name
-LANG_ENGLISH         "Season Four Rodion Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Rodion"
 
 REFERENCE            s4_bp_quest_2_name_desc
 LANG_ENGLISH         "All challenges require Rodion selected as your Allegiance Operator to complete"
@@ -5925,7 +6820,7 @@ REFERENCE            s4_bp_quest_2_step_4
 LANG_ENGLISH         "Activate the Dead Silence Field Upgrade ^5&&1^7 times with Rodion as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_3_name
-LANG_ENGLISH         "Season Four Mil-Sim Allegiance Mission 1"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Urzikstan SSG Mil-Sim"
 
 REFERENCE            s4_bp_quest_3_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Allegiance Operator to complete"
@@ -5943,7 +6838,7 @@ REFERENCE            s4_bp_quest_3_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills while using the Battle Hardened Perk with Mil-Sim selected as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_4_name
-LANG_ENGLISH         "Season Four Talon Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Talon"
 
 REFERENCE            s4_bp_quest_4_name_desc
 LANG_ENGLISH         "All challenges require Talon selected as your Coalition Operator to complete"
@@ -5961,7 +6856,7 @@ REFERENCE            s4_bp_quest_4_step_4
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Talon as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_5_name
-LANG_ENGLISH         "Season Four Mil-Sim Coalition Mission 1"
+LANG_ENGLISH         "Season Four Battle Pass Mission - USMC Raider Mil-Sim"
 
 REFERENCE            s4_bp_quest_5_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Coalition Operator to complete"
@@ -5979,7 +6874,7 @@ REFERENCE            s4_bp_quest_5_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the EOD perk with Mil-Sim selected as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_6_name
-LANG_ENGLISH         "Season Four Azur Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Azur"
 
 REFERENCE            s4_bp_quest_6_name_desc
 LANG_ENGLISH         "All challenges require Azur selected as your Allegiance Operator to complete"
@@ -5997,7 +6892,7 @@ REFERENCE            s4_bp_quest_6_step_4
 LANG_ENGLISH         "Get ^5&&1^7 kills using the Throwing Knife with Azur as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_7_name
-LANG_ENGLISH         "Season Four Mil-Sim Coalition Mission 2"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Lagunari Mil-Sim"
 
 REFERENCE            s4_bp_quest_7_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Coalition Operator to complete"
@@ -6012,10 +6907,10 @@ REFERENCE            s4_bp_quest_7_step_3
 LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Mil-Sim selected as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_7_step_4
-LANG_ENGLISH         "Stun enemies ^5&&1^7 times using a Concussion Grenade with Mil-Sim selected as your Coalition Operator"
+LANG_ENGLISH         "Stun enemies ^5&&1^7 times using a Stun Grenade with Mil-Sim selected as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_8_name
-LANG_ENGLISH         "Season Four Alice Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Alice"
 
 REFERENCE            s4_bp_quest_8_name_desc
 LANG_ENGLISH         "All challenges require Alice to be selected as your Coalition Operator"
@@ -6033,7 +6928,7 @@ REFERENCE            s4_bp_quest_8_step_4
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Alice as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_9_name
-LANG_ENGLISH         "Season Four Mil-Sim Allegiance Mission 2"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Russian FGF Mil-Sim"
 
 REFERENCE            s4_bp_quest_9_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Allegiance Operator to complete"
@@ -6049,6 +6944,78 @@ LANG_ENGLISH         "Get ^53^7 Kills without dying ^5&&1^7 times with Mil-Sim s
 
 REFERENCE            s4_bp_quest_9_step_4
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_10_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Talon"
+
+REFERENCE            s5_bp_quest_10_name_desc
+LANG_ENGLISH         "All challenges require Talon selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_11_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Iskra"
+
+REFERENCE            s5_bp_quest_11_name_desc
+LANG_ENGLISH         "All challenges require Iskra selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_12_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Roze"
+
+REFERENCE            s5_bp_quest_12_name_desc
+LANG_ENGLISH         "All challenges require Roze selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_1_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Lerch"
+
+REFERENCE            s5_bp_quest_1_name_desc
+LANG_ENGLISH         "All challenges require Lerch selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_2_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Rodion"
+
+REFERENCE            s5_bp_quest_2_name_desc
+LANG_ENGLISH         "All challenges require Rodion selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_3_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Otter"
+
+REFERENCE            s5_bp_quest_3_name_desc
+LANG_ENGLISH         "All challenges require Otter selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_4_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Mil Sim"
+
+REFERENCE            s5_bp_quest_4_name_desc
+LANG_ENGLISH         "All challenges require Mil Sim selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_5_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Domino"
+
+REFERENCE            s5_bp_quest_5_name_desc
+LANG_ENGLISH         "All challenges require Domino selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_6_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Mil Sim"
+
+REFERENCE            s5_bp_quest_6_name_desc
+LANG_ENGLISH         "All challenges require Mil Sim selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_7_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Yegor"
+
+REFERENCE            s5_bp_quest_7_name_desc
+LANG_ENGLISH         "All challenges require Yegor selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_8_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Wyatt"
+
+REFERENCE            s5_bp_quest_8_name_desc
+LANG_ENGLISH         "All challenges require Wyatt selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_9_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Syd"
+
+REFERENCE            s5_bp_quest_9_name_desc
+LANG_ENGLISH         "All challenges require Syd selected as your Allegiance Operator"
 
 REFERENCE            season4_cornerstoneryl_armorbox
 LANG_ENGLISH         "Resupply Armor ^5&&1^7 times with the Armor Box"
@@ -6396,25 +7363,25 @@ REFERENCE            season_3_quest_4_step_7
 LANG_ENGLISH         "Use Killstreaks / Munitions ^5&&1^7 times in any Co-Op Operation"
 
 REFERENCE            season_4_bundle_quest_kyle_name
-LANG_ENGLISH         "S4 Kyle Operator Mission"
+LANG_ENGLISH         "Gaz Operator Bundle Mission"
 
 REFERENCE            season_4_bundle_quest_kyle_name_desc
-LANG_ENGLISH         "All challenges require Kyle to be selected as your Coalition Operator"
+LANG_ENGLISH         "All challenges require Gaz to be selected as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_1
-LANG_ENGLISH         "In Warzone, Win your Gulag fight ^5&&1^7 times with Kyle as your Coalition Operator"
+LANG_ENGLISH         "In Warzone, Win your Gulag fight ^5&&1^7 times with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_2
-LANG_ENGLISH         "In Warzone, Get ^5&&1^7 Kills using a Legendary Weapon with Kyle as your Coalition Operator"
+LANG_ENGLISH         "In Warzone, Get ^5&&1^7 Kills using a Legendary Weapon with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_3
-LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks with Kyle as your Coalition Operator"
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_4
-LANG_ENGLISH         "In Warzone, Successfully complete ^5&&1^7 Contracts with Kyle as your Coalition Operator"
+LANG_ENGLISH         "In Warzone, Successfully complete ^5&&1^7 Contracts with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_quest_1_name
-LANG_ENGLISH         "Provactive Assault"
+LANG_ENGLISH         "Proactive Assault"
 
 REFERENCE            season_4_quest_1_name_desc
 LANG_ENGLISH         "Start blasting your enemies with Shotguns and become the server favorite with these challenges"
@@ -6432,7 +7399,7 @@ REFERENCE            season_4_quest_1_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Point Blank Kills using a Shotgun"
 
 REFERENCE            season_4_quest_1_step_5
-LANG_ENGLISH         "Get ^5&&1^7 Buzzkills (Kill an enemy one kill from a Killstreak)"
+LANG_ENGLISH         "Get ^5&&1^7 Buzzkills (Kill an enemy one kill from a Killstreak) using a Shotgun"
 
 REFERENCE            season_4_quest_1_step_6
 LANG_ENGLISH         "Get ^55^7 Kills without dying while using a Shotgun ^5&&1^7 times"
@@ -6509,6 +7476,175 @@ LANG_ENGLISH         "Get ^5&&1^7 Kingslayer Kills (Enemy in First Place on scor
 REFERENCE            season_4_quest_4_step_6
 LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks"
 
+REFERENCE            season_5_quest_1_name
+LANG_ENGLISH         "Team Player"
+
+REFERENCE            season_5_quest_1_name_desc
+LANG_ENGLISH         "Focus on playing the objective and being a team player with these challenges"
+
+REFERENCE            season_5_quest_1_step_1
+LANG_ENGLISH         "Capture ^5&&1^7 Objectives"
+
+REFERENCE            season_5_quest_1_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Headshot Attacker kills"
+
+REFERENCE            season_5_quest_1_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Point Blank Defender kills"
+
+REFERENCE            season_5_quest_1_step_4
+LANG_ENGLISH         "Plant or Defuse a bomb ^5&&1^7 times"
+
+REFERENCE            season_5_quest_1_step_5
+LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times"
+
+REFERENCE            season_5_quest_2_name
+LANG_ENGLISH         "Arcane Secret Loadout"
+
+REFERENCE            season_5_quest_2_name_desc
+LANG_ENGLISH         "All these challenges require a combination of attachments or loadout perks that must be discovered through Gunsmith experimentation"
+
+REFERENCE            season_5_quest_2_step_1
+LANG_ENGLISH         "Get &&1 Quickscope kills with your secondary weapon"
+
+REFERENCE            season_5_quest_2_step_2
+LANG_ENGLISH         "Get &&1 Kills using a weapon with the No Stock option, A Drum Magazine and an Underbarrel Shotgun"
+
+REFERENCE            season_5_quest_2_step_3
+LANG_ENGLISH         "Get &&1 Kills using the FMJ weapon perk and the Match Grade Trigger attachment"
+
+REFERENCE            season_5_quest_2_step_4
+LANG_ENGLISH         "Get &&1 Kills using an Integral Hybrid optic, Bipod attachment and the Focus weapon perk"
+
+REFERENCE            season_5_quest_2_step_5
+LANG_ENGLISH         "Get &&1 Kills using a Commando Foregrip, the No Stock option, and Breacher Device"
+
+REFERENCE            season_5_quest_3_name
+LANG_ENGLISH         "Playing it Bogart"
+
+REFERENCE            season_5_quest_3_name_desc
+LANG_ENGLISH         "Defeat Enemies in style while supporting your teammates in these Co-Op Focused Challenges"
+
+REFERENCE            season_5_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Multikills with Molotovs in any Classic Special Ops Operation"
+
+REFERENCE            season_5_quest_3_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Multikills with C4 in any Classic Special Ops Operation"
+
+REFERENCE            season_5_quest_3_step_3
+LANG_ENGLISH         "Kill ^5&&1^7 Juggernauts in any Classic Special Ops Operation"
+
+REFERENCE            season_5_quest_3_step_4
+LANG_ENGLISH         "Use Deployable Cover ^5&&1^7 times in any Co-Op Operation"
+
+REFERENCE            season_5_quest_3_step_5
+LANG_ENGLISH         "Stop ^5&&1^7 projectiles using the Trophy System in any Co-Op Operation"
+
+REFERENCE            season_5_quest_3_step_6
+LANG_ENGLISH         "Deploy Ammo/Armor/Grenade Crates ^5&&1^7 times in any Co-Op Operation"
+
+REFERENCE            season_5_quest_3_step_7
+LANG_ENGLISH         "Execute ^52^7 Finishing Moves in a minute ^5&&1^7 times"
+
+REFERENCE            season_5_quest_4_name
+LANG_ENGLISH         "Crisis Control"
+
+REFERENCE            season_5_quest_4_name_desc
+LANG_ENGLISH         "Utilize your entire arsenal to clear these challenges."
+
+REFERENCE            season_5_quest_4_step_1
+LANG_ENGLISH         "Destroy &&1 Enemy Killstreaks, Vehicles or Equipment"
+
+REFERENCE            season_5_quest_4_step_2
+LANG_ENGLISH         "Get ^52^7 Headshots without dying &&1 times"
+
+REFERENCE            season_5_quest_4_step_3
+LANG_ENGLISH         "Get &&1 Longshots while using a Pistol"
+
+REFERENCE            season_5_quest_4_step_4
+LANG_ENGLISH         "Play and complete &&1 Matches of Domination"
+
+REFERENCE            season_5_quest_4_step_5
+LANG_ENGLISH         "Get &&1 Kills using Lethal Equipment"
+
+REFERENCE            season_5_quest_4_step_6
+LANG_ENGLISH         "Call in ^55^7 Killstreaks in a single match"
+
+REFERENCE            season_6_quest_1_name
+LANG_ENGLISH         "Specialist Spectacle"
+
+REFERENCE            season_6_quest_1_name_desc
+LANG_ENGLISH         "Utilize the Specialist Perk and inflict a Fury of thunder on your opponents with a full perk powered operator"
+
+REFERENCE            season_6_quest_1_step_1
+LANG_ENGLISH         "Reach the 1st Specialist Perk Bonus &&1 times"
+
+REFERENCE            season_6_quest_1_step_2
+LANG_ENGLISH         "Reach the 2nd Specialist Perk Bonus &&1 times"
+
+REFERENCE            season_6_quest_1_step_3
+LANG_ENGLISH         "Get the 2nd Specialist Perk Bonus ^53^7 times in a match &&1 times"
+
+REFERENCE            season_6_quest_1_step_4
+LANG_ENGLISH         "Reach the 3rd Specialist Perk Bonus &&1 times"
+
+REFERENCE            season_6_quest_1_step_5
+LANG_ENGLISH         "Earn the complete Specialist Bonus &&1 times"
+
+REFERENCE            season_6_quest_3_name
+LANG_ENGLISH         "Necessary Bulwarks"
+
+REFERENCE            season_6_quest_3_name_desc
+LANG_ENGLISH         "Demonstrate your ability as a complete soldier within the curated Classic Special Operations with these challenges"
+
+REFERENCE            season_6_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Multikills using Rocket Launchers in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Suicide Bomber kills in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_3
+LANG_ENGLISH         "Get ^5&&1^7 kills using Claymores in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_4
+LANG_ENGLISH         "Call Cluster Strike ^5&&1^7 times in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_5
+LANG_ENGLISH         "Call Cruise Missile ^5&&1^7 times in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_6
+LANG_ENGLISH         "Use Sentry Gun ^5&&1^7 times in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_7
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Pistol in any Classic Special Ops Operation"
+
+REFERENCE            season_7_quest_3_name
+LANG_ENGLISH         "Darwin's Code"
+
+REFERENCE            season_7_quest_3_name_desc
+LANG_ENGLISH         "Grab those Survival Kits and dominate when SHTF in these Wave Survival Focused Challenges"
+
+REFERENCE            season_7_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 throwing knife kills in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_2
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Sniper/Marksman Rifle in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_3
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Shield Turret in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_4
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Sentry Gun in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_5
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Chopper Gunner in any Wave Survival Operation
+"
+
+REFERENCE            season_7_quest_3_step_6
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Gunship in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_7
+LANG_ENGLISH         "Survive at least ^5&&1^7 waves within a single game in any Wave Survival Operation"
+
 REFERENCE            season_ends
 LANG_ENGLISH         "Season Ends: ^5&&1^7"
 
@@ -6524,6 +7660,84 @@ LANG_ENGLISH         "Show Completed Challenges"
 REFERENCE            stealth
 LANG_ENGLISH         "Get ^5&&1^7 kills with the Stealth perk equipped"
 
+REFERENCE            sticker_book_br_c4_vehicle_multikill_desc
+LANG_ENGLISH         "Kill three or more enemies at once with C4 that is attached to a moving vehicle"
+
+REFERENCE            sticker_book_br_c4_vehicle_multikill_name
+LANG_ENGLISH         "C4 Vehicle Multi-Kill"
+
+REFERENCE            sticker_book_br_five_contracts_desc
+LANG_ENGLISH         "Complete your fifth Contract in a single match with all team members still alive"
+
+REFERENCE            sticker_book_br_five_contracts_name
+LANG_ENGLISH         "Immortal Contract Squad"
+
+REFERENCE            sticker_book_br_ghost_ride_whip_desc
+LANG_ENGLISH         "Kill three or more enemies within a few seconds of leaving a moving vehicle???s driver seat"
+
+REFERENCE            sticker_book_br_ghost_ride_whip_name
+LANG_ENGLISH         "Ghostride the Whip"
+
+REFERENCE            sticker_book_br_point_blank_streak_kill_desc
+LANG_ENGLISH         "Kill ^53^7 or more enemies with an air strike or cluster strike targeted within ten meters of yourself, and survive"
+
+REFERENCE            sticker_book_br_point_blank_streak_kill_name
+LANG_ENGLISH         "Broken Arrow"
+
+REFERENCE            sticker_book_br_round_kill_execute_desc
+LANG_ENGLISH         "Score the match ending kill with an execution"
+
+REFERENCE            sticker_book_br_round_kill_execute_name
+LANG_ENGLISH         "Superhero Kill"
+
+REFERENCE            sticker_book_br_wins_desc
+LANG_ENGLISH         "Get ^5&&1^7 Victories playing Warzone Battle Royale"
+
+REFERENCE            sticker_book_br_wins_name
+LANG_ENGLISH         "Battle Royale Victories"
+
+REFERENCE            sticker_book_drone_achievement_desc
+LANG_ENGLISH         "Get a Round or Game Ending kill with a C4 or Claymore attached to a Recon Drone. Note: Both the Drone operator and the explosives provider will receive credit"
+
+REFERENCE            sticker_book_drone_achievement_name
+LANG_ENGLISH         "Special Delivery"
+
+REFERENCE            sticker_book_hs_desc
+LANG_ENGLISH         "Get ^510^7 Headshots without dying"
+
+REFERENCE            sticker_book_hs_name
+LANG_ENGLISH         "Deadeye Headshot"
+
+REFERENCE            sticker_book_lethal_achievement_desc
+LANG_ENGLISH         "Get a kill with ^56^7 different types of Lethal Equipment in a single match"
+
+REFERENCE            sticker_book_lethal_achievement_name
+LANG_ENGLISH         "Lethal Litany"
+
+REFERENCE            sticker_book_objective_player_desc
+LANG_ENGLISH         "Get a combined ^530^7 Objective Attacker and Defender kills in a single match. Note: On Shipment and Shoothouse, this number is increased to ^650^7 ;)"
+
+REFERENCE            sticker_book_objective_player_name
+LANG_ENGLISH         "Objective Player"
+
+REFERENCE            sticker_book_plunder_wins_desc
+LANG_ENGLISH         "Get ^5&&1^7 Victory playing Warzone Plunder"
+
+REFERENCE            sticker_book_plunder_wins_name
+LANG_ENGLISH         "Plunder Victories"
+
+REFERENCE            sticker_book_throwingknife_desc
+LANG_ENGLISH         "Get a ^550^7 M Longshot with a Throwing Knife"
+
+REFERENCE            sticker_book_throwingknife_name
+LANG_ENGLISH         "Going Long!"
+
+REFERENCE            sticker_book_warzone_wins_desc
+LANG_ENGLISH         "Get ^5&&1^7 Victories playing any Warzone mode"
+
+REFERENCE            sticker_book_warzone_wins_name
+LANG_ENGLISH         "Warzone Victories"
+
 REFERENCE            tdm
 LANG_ENGLISH         "Get ^5&&1^7 kills whilst playing Team Deathmatch"
 
@@ -6532,6 +7746,9 @@ LANG_ENGLISH         "Tier &&1 Reward"
 
 REFERENCE            ultimate_challenge
 LANG_ENGLISH         "Ultimate Challenge"
+
+REFERENCE            victories
+LANG_ENGLISH         "Victories"
 
 REFERENCE            view_all_prompt
 LANG_ENGLISH         "View Challenges"
@@ -6579,7 +7796,7 @@ REFERENCE            week_n
 LANG_ENGLISH         "Week ^5&&1^7"
 
 REFERENCE            week_n_master_challenge
-LANG_ENGLISH         "Week &&1 Master Challenge"
+LANG_ENGLISH         "Week &&1 Mastery Challenge"
 
 REFERENCE            weekly
 LANG_ENGLISH         "Weekly Challenges"
@@ -7425,7 +8642,7 @@ REFERENCE            weekly_s3_w6_chal_10_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using the Cruise Missile"
 
 REFERENCE            weekly_s3_w6_chal_10_name
-LANG_ENGLISH         "Cruisin"
+LANG_ENGLISH         "Cruisin'"
 
 REFERENCE            weekly_s3_w7_chal_01_desc
 LANG_ENGLISH         "Win ^5&&1^7 Headquarters matches"
@@ -7536,7 +8753,7 @@ REFERENCE            weekly_s3_w8_chal_08_name
 LANG_ENGLISH         "Warhead"
 
 REFERENCE            weekly_s3_w8_chal_09_desc
-LANG_ENGLISH         "Stun Enemies ^5&&1^7 times with Concussion Grenades"
+LANG_ENGLISH         "Stun Enemies ^5&&1^7 times with Stun Grenades"
 
 REFERENCE            weekly_s3_w8_chal_09_name
 LANG_ENGLISH         "Distraction"
@@ -7668,7 +8885,7 @@ REFERENCE            weekly_s4_w2_chal_10_name
 LANG_ENGLISH         "Dead Silence"
 
 REFERENCE            weekly_s4_w3_chal_01_desc
-LANG_ENGLISH         "Get ^5&&1^7 Buzzkills(Kills when the enemy is 1 away from a killstreak)"
+LANG_ENGLISH         "Get ^5&&1^7 Buzzkills(Kills when the enemy is 1 away from a Killstreak)"
 
 REFERENCE            weekly_s4_w3_chal_01_name
 LANG_ENGLISH         "Buzzkills"
@@ -7710,7 +8927,7 @@ REFERENCE            weekly_s4_w3_chal_07_name
 LANG_ENGLISH         "Speed Headshots"
 
 REFERENCE            weekly_s4_w3_chal_08_desc
-LANG_ENGLISH         "Play ^5&&1^7 Matches of Team Deathmatch with Rodion as your Allegiance operator"
+LANG_ENGLISH         "Play ^5&&1^7 Matches of Team Deathmatch with Rodion as your Allegiance Operator"
 
 REFERENCE            weekly_s4_w3_chal_08_name
 LANG_ENGLISH         "Rodion TDM"
@@ -7878,7 +9095,7 @@ REFERENCE            weekly_s4_w6_chal_05_name
 LANG_ENGLISH         "Melee Backstab"
 
 REFERENCE            weekly_s4_w6_chal_06_desc
-LANG_ENGLISH         "Deploy the Manual Turret Killstreak ^5&&1^7 times"
+LANG_ENGLISH         "Deploy the Shield Turret Killstreak ^5&&1^7 times"
 
 REFERENCE            weekly_s4_w6_chal_06_name
 LANG_ENGLISH         "Manual Turret"
@@ -7944,7 +9161,7 @@ REFERENCE            weekly_s4_w7_chal_06_name
 LANG_ENGLISH         "Secondary Weapon Kills"
 
 REFERENCE            weekly_s4_w7_chal_07_desc
-LANG_ENGLISH         "Complete ^5&&1^7 Matches with Grinch as your Allegiance operator"
+LANG_ENGLISH         "Complete ^5&&1^7 Matches with Grinch as your Allegiance Operator"
 
 REFERENCE            weekly_s4_w7_chal_07_name
 LANG_ENGLISH         "Grinch Matches"
@@ -7956,10 +9173,10 @@ REFERENCE            weekly_s4_w7_chal_08_name
 LANG_ENGLISH         "Tactical Insert"
 
 REFERENCE            weekly_s4_w7_chal_09_desc
-LANG_ENGLISH         "Stun ^5&&1^7 Enemies using the Concussion Grenade"
+LANG_ENGLISH         "Stun ^5&&1^7 Enemies using the Stun Grenade"
 
 REFERENCE            weekly_s4_w7_chal_09_name
-LANG_ENGLISH         "Concussion Grenades"
+LANG_ENGLISH         "Stun Grenades"
 
 REFERENCE            weekly_s4_w7_chal_10_desc
 LANG_ENGLISH         "Get ^5&&1^7 Headshot kills while using Sub Machine Guns"
@@ -8026,6 +9243,486 @@ LANG_ENGLISH         "Complete ^5&&1^7 Matches of Ground War"
 
 REFERENCE            weekly_s4_w8_chal_10_name
 LANG_ENGLISH         "Ground War"
+
+REFERENCE            weekly_s5_w1_chal_01_desc
+LANG_ENGLISH         "Play &&1 matches with Wyatt and your Coalition Operator"
+
+REFERENCE            weekly_s5_w1_chal_01_name
+LANG_ENGLISH         "Wyatt Matches"
+
+REFERENCE            weekly_s5_w1_chal_02_desc
+LANG_ENGLISH         "Play &&1 Free-For-All matches"
+
+REFERENCE            weekly_s5_w1_chal_02_name
+LANG_ENGLISH         "Free-For-All"
+
+REFERENCE            weekly_s5_w1_chal_03_desc
+LANG_ENGLISH         "Kill &&1 Enemies with weapons you picked up off the ground"
+
+REFERENCE            weekly_s5_w1_chal_03_name
+LANG_ENGLISH         "Pickup Weapon Kills"
+
+REFERENCE            weekly_s5_w1_chal_04_desc
+LANG_ENGLISH         "Get &&1 Headshot Kills that are Longshots"
+
+REFERENCE            weekly_s5_w1_chal_04_name
+LANG_ENGLISH         "Headshot Longshots"
+
+REFERENCE            weekly_s5_w1_chal_05_desc
+LANG_ENGLISH         "Get &&1 Kills using a Sniper or Marksman Rifle"
+
+REFERENCE            weekly_s5_w1_chal_05_name
+LANG_ENGLISH         "Sniper/Marksman Kills"
+
+REFERENCE            weekly_s5_w1_chal_06_desc
+LANG_ENGLISH         "Call in the Personal UAV Killstreak &&1 Times"
+
+REFERENCE            weekly_s5_w1_chal_06_name
+LANG_ENGLISH         "Personal UAV"
+
+REFERENCE            weekly_s5_w1_chal_07_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Tracker perk"
+
+REFERENCE            weekly_s5_w1_chal_07_name
+LANG_ENGLISH         "Tracker Kills"
+
+REFERENCE            weekly_s5_w1_chal_08_desc
+LANG_ENGLISH         "Get &&1 Headshots using Assault Rifles"
+
+REFERENCE            weekly_s5_w1_chal_08_name
+LANG_ENGLISH         "Assault Rifle Headshots"
+
+REFERENCE            weekly_s5_w1_chal_09_desc
+LANG_ENGLISH         "Get &&1 Kills using C4"
+
+REFERENCE            weekly_s5_w1_chal_09_name
+LANG_ENGLISH         "C4 Kills"
+
+REFERENCE            weekly_s5_w1_chal_10_desc
+LANG_ENGLISH         "Deploy the Recon Drone Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w1_chal_10_name
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            weekly_s5_w2_chal_01_desc
+LANG_ENGLISH         "Play &&1 Matches of Gun Fight"
+
+REFERENCE            weekly_s5_w2_chal_01_name
+LANG_ENGLISH         "Gun Fight Matches"
+
+REFERENCE            weekly_s5_w2_chal_02_desc
+LANG_ENGLISH         "Get &&1 Headshots using Shotguns"
+
+REFERENCE            weekly_s5_w2_chal_02_name
+LANG_ENGLISH         "Shotgun Headshots"
+
+REFERENCE            weekly_s5_w2_chal_03_desc
+LANG_ENGLISH         "Deploy the EMP Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w2_chal_03_name
+LANG_ENGLISH         "EMP"
+
+REFERENCE            weekly_s5_w2_chal_04_desc
+LANG_ENGLISH         "Get &&1 One Shot kills"
+
+REFERENCE            weekly_s5_w2_chal_04_name
+LANG_ENGLISH         "One Shot Kills"
+
+REFERENCE            weekly_s5_w2_chal_05_desc
+LANG_ENGLISH         "Stun &&1 Enemies using Stun Grenades"
+
+REFERENCE            weekly_s5_w2_chal_05_name
+LANG_ENGLISH         "Concussion Stuns"
+
+REFERENCE            weekly_s5_w2_chal_06_desc
+LANG_ENGLISH         "Get &&1 Hipfire Kills"
+
+REFERENCE            weekly_s5_w2_chal_06_name
+LANG_ENGLISH         "Hipfire Kills"
+
+REFERENCE            weekly_s5_w2_chal_07_desc
+LANG_ENGLISH         "Call in the Cluster Strike Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w2_chal_07_name
+LANG_ENGLISH         "Cluster Strike"
+
+REFERENCE            weekly_s5_w2_chal_08_desc
+LANG_ENGLISH         "Play &&1 Matches while using Azur as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w2_chal_08_name
+LANG_ENGLISH         "Azur Wins"
+
+REFERENCE            weekly_s5_w2_chal_09_desc
+LANG_ENGLISH         "Get &&1 Kills while using an Assault Rifle"
+
+REFERENCE            weekly_s5_w2_chal_09_name
+LANG_ENGLISH         "Assault Rifle Kills"
+
+REFERENCE            weekly_s5_w2_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Battle Hardened Perk"
+
+REFERENCE            weekly_s5_w2_chal_10_name
+LANG_ENGLISH         "Battle Hardened Kills"
+
+REFERENCE            weekly_s5_w3_chal_01_desc
+LANG_ENGLISH         "Deploy the Trophy System Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w3_chal_01_name
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            weekly_s5_w3_chal_02_desc
+LANG_ENGLISH         "Complete &&1 Matches of Headquarters"
+
+REFERENCE            weekly_s5_w3_chal_02_name
+LANG_ENGLISH         "Headquarters Matches"
+
+REFERENCE            weekly_s5_w3_chal_03_desc
+LANG_ENGLISH         "Use Launchers to Kill &&1 players or destroy Killstreaks"
+
+REFERENCE            weekly_s5_w3_chal_03_name
+LANG_ENGLISH         "Launcher Kills"
+
+REFERENCE            weekly_s5_w3_chal_04_desc
+LANG_ENGLISH         "Get &&1 Headshots while using Pistols"
+
+REFERENCE            weekly_s5_w3_chal_04_name
+LANG_ENGLISH         "Pistol Headshots"
+
+REFERENCE            weekly_s5_w3_chal_05_desc
+LANG_ENGLISH         "Get &&1 Longshot Kills"
+
+REFERENCE            weekly_s5_w3_chal_05_name
+LANG_ENGLISH         "Longshot Kills"
+
+REFERENCE            weekly_s5_w3_chal_06_desc
+LANG_ENGLISH         "Get &&1 Kills while using the High Alert Perk"
+
+REFERENCE            weekly_s5_w3_chal_06_name
+LANG_ENGLISH         "High Alert Kills"
+
+REFERENCE            weekly_s5_w3_chal_07_desc
+LANG_ENGLISH         "Complete &&1 Matches while using Otter as your Coalition Operator"
+
+REFERENCE            weekly_s5_w3_chal_07_name
+LANG_ENGLISH         "Otter Matches"
+
+REFERENCE            weekly_s5_w3_chal_08_desc
+LANG_ENGLISH         "Call in the Wheelson Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w3_chal_08_name
+LANG_ENGLISH         "Wheelson"
+
+REFERENCE            weekly_s5_w3_chal_09_desc
+LANG_ENGLISH         "Execute &&1 Finishing Moves"
+
+REFERENCE            weekly_s5_w3_chal_09_name
+LANG_ENGLISH         "Finishing Moves"
+
+REFERENCE            weekly_s5_w3_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Proximity Mine"
+
+REFERENCE            weekly_s5_w3_chal_10_name
+LANG_ENGLISH         "Proximity Mine"
+
+REFERENCE            weekly_s5_w4_chal_01_desc
+LANG_ENGLISH         "Play &&1 Matches of Infected"
+
+REFERENCE            weekly_s5_w4_chal_01_name
+LANG_ENGLISH         "Infected Matches"
+
+REFERENCE            weekly_s5_w4_chal_02_desc
+LANG_ENGLISH         "Activate the Dead Silence Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w4_chal_02_name
+LANG_ENGLISH         "Dead Silence"
+
+REFERENCE            weekly_s5_w4_chal_03_desc
+LANG_ENGLISH         "Call in the UAV Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w4_chal_03_name
+LANG_ENGLISH         "UAV"
+
+REFERENCE            weekly_s5_w4_chal_04_desc
+LANG_ENGLISH         "Get &&1 Kills while using Shotguns"
+
+REFERENCE            weekly_s5_w4_chal_04_name
+LANG_ENGLISH         "Shotgun Kills"
+
+REFERENCE            weekly_s5_w4_chal_05_desc
+LANG_ENGLISH         "Complete &&1 matches while using Golem as your Coalition Operator"
+
+REFERENCE            weekly_s5_w4_chal_05_name
+LANG_ENGLISH         "Golem Matches"
+
+REFERENCE            weekly_s5_w4_chal_06_desc
+LANG_ENGLISH         "Get &&1 Kills while near Smoke"
+
+REFERENCE            weekly_s5_w4_chal_06_name
+LANG_ENGLISH         "Smoke Kills"
+
+REFERENCE            weekly_s5_w4_chal_07_desc
+LANG_ENGLISH         "Get &&1 Double Kills"
+
+REFERENCE            weekly_s5_w4_chal_07_name
+LANG_ENGLISH         "Double Kills"
+
+REFERENCE            weekly_s5_w4_chal_08_desc
+LANG_ENGLISH         "Get &&1 Headshots while using Light Machine Guns"
+
+REFERENCE            weekly_s5_w4_chal_08_name
+LANG_ENGLISH         "LMG Headshots"
+
+REFERENCE            weekly_s5_w4_chal_09_desc
+LANG_ENGLISH         "Get &&1 Throwing Knife Kills"
+
+REFERENCE            weekly_s5_w4_chal_09_name
+LANG_ENGLISH         "Throwing Knife Kills"
+
+REFERENCE            weekly_s5_w4_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Shrapnel Perk"
+
+REFERENCE            weekly_s5_w4_chal_10_name
+LANG_ENGLISH         "Shrapnel Kills"
+
+REFERENCE            weekly_s5_w5_chal_01_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Spotter Perk"
+
+REFERENCE            weekly_s5_w5_chal_01_name
+LANG_ENGLISH         "Spotter Kills"
+
+REFERENCE            weekly_s5_w5_chal_02_desc
+LANG_ENGLISH         "Complete &&1 Matches of Hardpoint"
+
+REFERENCE            weekly_s5_w5_chal_02_name
+LANG_ENGLISH         "Hardpoint Matches"
+
+REFERENCE            weekly_s5_w5_chal_03_desc
+LANG_ENGLISH         "Deploy the Counter UAV Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w5_chal_03_name
+LANG_ENGLISH         "Counter UAV"
+
+REFERENCE            weekly_s5_w5_chal_04_desc
+LANG_ENGLISH         "Get &&1 Headshots while using Sub Machine Guns"
+
+REFERENCE            weekly_s5_w5_chal_04_name
+LANG_ENGLISH         "Sub Machine Gun Headshots"
+
+REFERENCE            weekly_s5_w5_chal_05_desc
+LANG_ENGLISH         "Get &&1 Melee Kills"
+
+REFERENCE            weekly_s5_w5_chal_05_name
+LANG_ENGLISH         "Melee Kills"
+
+REFERENCE            weekly_s5_w5_chal_06_desc
+LANG_ENGLISH         "Get &&1 Quickscope Kills"
+
+REFERENCE            weekly_s5_w5_chal_06_name
+LANG_ENGLISH         "Quickscope Kills"
+
+REFERENCE            weekly_s5_w5_chal_07_desc
+LANG_ENGLISH         "Get &&1 Kills using Frag Grenades"
+
+REFERENCE            weekly_s5_w5_chal_07_name
+LANG_ENGLISH         "Frag Grenade Kills"
+
+REFERENCE            weekly_s5_w5_chal_08_desc
+LANG_ENGLISH         "Get &&1 Revenge Kills(Kill the enemy that last killed you)"
+
+REFERENCE            weekly_s5_w5_chal_08_name
+LANG_ENGLISH         "Revenge Kills"
+
+REFERENCE            weekly_s5_w5_chal_09_desc
+LANG_ENGLISH         "Deploy the Weapon Drop Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w5_chal_09_name
+LANG_ENGLISH         "Weapon Drop"
+
+REFERENCE            weekly_s5_w5_chal_10_desc
+LANG_ENGLISH         "Win &&1 matches while using Charly as your Coalition Operator"
+
+REFERENCE            weekly_s5_w5_chal_10_name
+LANG_ENGLISH         "Charly Wins"
+
+REFERENCE            weekly_s5_w6_chal_01_desc
+LANG_ENGLISH         "Get &&1 Double Kills while using a Launcher"
+
+REFERENCE            weekly_s5_w6_chal_01_name
+LANG_ENGLISH         "Launcher Double Kills"
+
+REFERENCE            weekly_s5_w6_chal_02_desc
+LANG_ENGLISH         "Complete &&1 matches of Team Deathmatch"
+
+REFERENCE            weekly_s5_w6_chal_02_name
+LANG_ENGLISH         "Team Deathmatch"
+
+REFERENCE            weekly_s5_w6_chal_03_desc
+LANG_ENGLISH         "Complete &&1 matches using Bale as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w6_chal_03_name
+LANG_ENGLISH         "Bale Matches"
+
+REFERENCE            weekly_s5_w6_chal_04_desc
+LANG_ENGLISH         "Call in the Precision Airstrike Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w6_chal_04_name
+LANG_ENGLISH         "Precision Airstrike"
+
+REFERENCE            weekly_s5_w6_chal_05_desc
+LANG_ENGLISH         "Get &&1 Point Blank kills"
+
+REFERENCE            weekly_s5_w6_chal_05_name
+LANG_ENGLISH         "Point Blank Kills"
+
+REFERENCE            weekly_s5_w6_chal_06_desc
+LANG_ENGLISH         "Get &&1 Headshots with your Secondary Weapon"
+
+REFERENCE            weekly_s5_w6_chal_06_name
+LANG_ENGLISH         "Secondary Weapon Headshots"
+
+REFERENCE            weekly_s5_w6_chal_07_desc
+LANG_ENGLISH         "Use the Tactical Insertion Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w6_chal_07_name
+LANG_ENGLISH         "Tactical Insertion"
+
+REFERENCE            weekly_s5_w6_chal_08_desc
+LANG_ENGLISH         "Blind &&1 enemies using Flash Grenades"
+
+REFERENCE            weekly_s5_w6_chal_08_name
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            weekly_s5_w6_chal_09_desc
+LANG_ENGLISH         "Get &&1 Kills using Sub Machine Guns"
+
+REFERENCE            weekly_s5_w6_chal_09_name
+LANG_ENGLISH         "Sub Machine Gun Kills"
+
+REFERENCE            weekly_s5_w6_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the EOD Perk"
+
+REFERENCE            weekly_s5_w6_chal_10_name
+LANG_ENGLISH         "EOD Kills"
+
+REFERENCE            weekly_s5_w7_chal_01_desc
+LANG_ENGLISH         "Get &&1 Kills using a Semtex Grenade"
+
+REFERENCE            weekly_s5_w7_chal_01_name
+LANG_ENGLISH         "Semtex Kills"
+
+REFERENCE            weekly_s5_w7_chal_02_desc
+LANG_ENGLISH         "Activate the Stopping Power Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w7_chal_02_name
+LANG_ENGLISH         "Stopping Power"
+
+REFERENCE            weekly_s5_w7_chal_03_desc
+LANG_ENGLISH         "Complete &&1 Matches while using Kreuger as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w7_chal_03_name
+LANG_ENGLISH         "Kreuger Matches"
+
+REFERENCE            weekly_s5_w7_chal_04_desc
+LANG_ENGLISH         "Get &&1 Kills using Light Machine Guns"
+
+REFERENCE            weekly_s5_w7_chal_04_name
+LANG_ENGLISH         "Light Machine Gun Kills"
+
+REFERENCE            weekly_s5_w7_chal_05_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Quick Fix Perk"
+
+REFERENCE            weekly_s5_w7_chal_05_name
+LANG_ENGLISH         "Quick Fix Kills"
+
+REFERENCE            weekly_s5_w7_chal_06_desc
+LANG_ENGLISH         "Kill an Enemy with their own weapon &&1 times"
+
+REFERENCE            weekly_s5_w7_chal_06_name
+LANG_ENGLISH         "Enemy Weapon Kills"
+
+REFERENCE            weekly_s5_w7_chal_07_desc
+LANG_ENGLISH         "Complete &&1 Matches of Search and Destroy"
+
+REFERENCE            weekly_s5_w7_chal_07_name
+LANG_ENGLISH         "Search And Destroy"
+
+REFERENCE            weekly_s5_w7_chal_08_desc
+LANG_ENGLISH         "Get &&1 Defender Kills in Objective based game modes"
+
+REFERENCE            weekly_s5_w7_chal_08_name
+LANG_ENGLISH         "Defender Kills"
+
+REFERENCE            weekly_s5_w7_chal_09_desc
+LANG_ENGLISH         "Get &&1 Double Kills using a Melee weapon"
+
+REFERENCE            weekly_s5_w7_chal_09_name
+LANG_ENGLISH         "Melee Double Kills"
+
+REFERENCE            weekly_s5_w7_chal_10_desc
+LANG_ENGLISH         "Deploy the Shield Turret Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w7_chal_10_name
+LANG_ENGLISH         "Shield Turret"
+
+REFERENCE            weekly_s5_w8_chal_01_desc
+LANG_ENGLISH         "Get &&1 Attacker kills in Objective based game modes"
+
+REFERENCE            weekly_s5_w8_chal_01_name
+LANG_ENGLISH         "Attacker Kills"
+
+REFERENCE            weekly_s5_w8_chal_02_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Cold-Blooded Perk"
+
+REFERENCE            weekly_s5_w8_chal_02_name
+LANG_ENGLISH         "Cold Blooded Kills"
+
+REFERENCE            weekly_s5_w8_chal_03_desc
+LANG_ENGLISH         "Get &&1 Kills while using Pistols"
+
+REFERENCE            weekly_s5_w8_chal_03_name
+LANG_ENGLISH         "Pistol Kills"
+
+REFERENCE            weekly_s5_w8_chal_04_desc
+LANG_ENGLISH         "Regain &&1 Health from using the Stim equipment"
+
+REFERENCE            weekly_s5_w8_chal_04_name
+LANG_ENGLISH         "Stim"
+
+REFERENCE            weekly_s5_w8_chal_05_desc
+LANG_ENGLISH         "Complete &&1 Matches of Domination"
+
+REFERENCE            weekly_s5_w8_chal_05_name
+LANG_ENGLISH         "Domination Matches"
+
+REFERENCE            weekly_s5_w8_chal_06_desc
+LANG_ENGLISH         "Get &&1 Headshots using Sniper or Marksman Rifles"
+
+REFERENCE            weekly_s5_w8_chal_06_name
+LANG_ENGLISH         "Sniper/Marksman Headshots"
+
+REFERENCE            weekly_s5_w8_chal_07_desc
+LANG_ENGLISH         "Get &&1 Kills while Sliding"
+
+REFERENCE            weekly_s5_w8_chal_07_name
+LANG_ENGLISH         "Sliding Kills"
+
+REFERENCE            weekly_s5_w8_chal_08_desc
+LANG_ENGLISH         "Win &&1 Matches while using Zane as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w8_chal_08_name
+LANG_ENGLISH         "Zane Wins"
+
+REFERENCE            weekly_s5_w8_chal_09_desc
+LANG_ENGLISH         "Deploy the Munition Box Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w8_chal_09_name
+LANG_ENGLISH         "Munitions Box"
+
+REFERENCE            weekly_s5_w8_chal_10_desc
+LANG_ENGLISH         "Call in the Care Package Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w8_chal_10_name
+LANG_ENGLISH         "Care Package"
 
 REFERENCE            x_dash_y
 LANG_ENGLISH         "&&1 - &&2"
@@ -8081,6 +9778,9 @@ LANG_ENGLISH         "All objectives have been completed."
 REFERENCE            ar_kills
 LANG_ENGLISH         "Get ^5&&1^7 kills with any Assault Rifle"
 
+REFERENCE            ar_sierra552_attachment_unlock_1
+LANG_ENGLISH         "Get ^53^7 Point Blank Kills in ^5&&1^7 different matches"
+
 REFERENCE            assists
 LANG_ENGLISH         "Get ^5&&1^7 assists"
 
@@ -8591,6 +10291,150 @@ LANG_ENGLISH         "Get ^5&&1^7 Point Blank kills while using Mil-Sim as your 
 REFERENCE            bp_s3_quest_9_step_4
 LANG_ENGLISH         "Complete ^5&&1^7 match while using Mil-Sim as your Coalition Operator"
 
+REFERENCE            bp_s5_quest_10_step_1
+LANG_ENGLISH         "Get ^5&&1^7 kills using a weapon with ^52^7 attachments with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_10_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Sniper or Marksman Rifle with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_10_step_3
+LANG_ENGLISH         "Activate the UAV Killstreak ^5&&1^7 times with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_10_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using the Battle Hardened Perk with Talon as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_11_step_1
+LANG_ENGLISH         "Get ^5&&1^7 kills using the Throwing Knife with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_11_step_2
+LANG_ENGLISH         "Activate the Cluster Strike killstreak ^5&&1^7 times with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_11_step_3
+LANG_ENGLISH         "Deploy the Munitions Box Field Upgrade ^5&&1^7 times with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_11_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Iskra as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_1
+LANG_ENGLISH         "Blind Enemies ^5&&1^7 times using a Flash Grenade with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_2
+LANG_ENGLISH         "In Warzone, pick up ^5&&1^7 weapons with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_3
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_12_step_4
+LANG_ENGLISH         "Deploy ^5&&1^7 Field Upgrades with Roze as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a gun with ^53^7 Attachments with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_2
+LANG_ENGLISH         "In Warzone, Survive inside of the gas for ^5&&1^7 seconds with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_3
+LANG_ENGLISH         "Activate the Dead Silence Field Upgrade ^5&&1^7 times with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_1_step_4
+LANG_ENGLISH         "Stun enemies ^5&&1^7 times using a Stun Grenade with Lerch as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_1
+LANG_ENGLISH         "Call in ^5&&1^7 Precision Airstrike Killstreaks with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_2
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_2_step_4
+LANG_ENGLISH         "Activate ^5&&1^7 Killstreaks with Rodion as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills using an LMG with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_3_step_2
+LANG_ENGLISH         "Get ^53^7 Kills without dying ^5&&1^7 times with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_3_step_3
+LANG_ENGLISH         "Get ^5&&1^7 kills using Lethal Equipment with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_3_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Ghost perk with Otter as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_4_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills using an SMG with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_4_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Longshot kills with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_4_step_3
+LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_4_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Pistol with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_5_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Quick Fix perk with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_5_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the EOD perk with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_5_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Longshot kills with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_5_step_4
+LANG_ENGLISH         "Revive a Teammate in Warzone from the shop ^5&&1^7 time with Domino as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_3
+LANG_ENGLISH         "In Warzone, Drive Vehicles for ^5&&1^7 minutes with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_6_step_4
+LANG_ENGLISH         "Revive a teammate in a Warzone match using the Buy Station ^5&&1^7 time with Mil-Sim selected as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_7_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_7_step_2
+LANG_ENGLISH         "Get ^5&&1^7 headshot kills with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_7_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Amped perk with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_7_step_4
+LANG_ENGLISH         "Survive for ^5&&1^7 seconds in the gas on Warzone with Yegor as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_8_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Kills with an LMG weapon with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_8_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using an Assault Rifle with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_8_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_8_step_4
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks with Wyatt as your Coalition Operator"
+
+REFERENCE            bp_s5_quest_9_step_1
+LANG_ENGLISH         "Activate ^5&&1^7 Field Upgrades with Syd as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_9_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Headshot Kills with Syd as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_9_step_3
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Syd as your Allegiance Operator"
+
+REFERENCE            bp_s5_quest_9_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Double Time Perk with Syd as your Allegiance Operator"
+
 REFERENCE            br
 LANG_ENGLISH         "BR Challenge"
 
@@ -8946,7 +10790,7 @@ REFERENCE            br_season_2_quest_2_step_6
 LANG_ENGLISH         "Kill ^5&&1^7 downed enemies"
 
 REFERENCE            br_season_2_quest_2_step_7
-LANG_ENGLISH         "Earn top 15 placement with your team ^5&&1^7 time(s)"
+LANG_ENGLISH         "Earn top ^515^7 placement with your team ^5&&1^7 time(s)"
 
 REFERENCE            br_season_2_quest_3_name
 LANG_ENGLISH         "Boats and Trains"
@@ -9171,6 +11015,42 @@ LANG_ENGLISH         "Cornerstone Royale"
 REFERENCE            br_season_4_quest_05_name
 LANG_ENGLISH         "Demonstrator Royale"
 
+REFERENCE            br_season_5_quest_1_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Gora Dam in the North West."
+
+REFERENCE            br_season_5_quest_1_name
+LANG_ENGLISH         "Maximum Damage"
+
+REFERENCE            br_season_5_quest_2_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Verdansk Port in the South East."
+
+REFERENCE            br_season_5_quest_2_name
+LANG_ENGLISH         "Port Pandemonium"
+
+REFERENCE            br_season_5_quest_3_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Krovnik Farmland in the South East."
+
+REFERENCE            br_season_5_quest_3_name
+LANG_ENGLISH         "Countryside Chaos"
+
+REFERENCE            br_season_5_quest_4_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Gorengard Lumber Yard in the East."
+
+REFERENCE            br_season_5_quest_4_name
+LANG_ENGLISH         "Hardwood Havoc"
+
+REFERENCE            br_season_5_quest_5_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Verdansk Airport in the near North West."
+
+REFERENCE            br_season_5_quest_5_name
+LANG_ENGLISH         "Terminal Violence"
+
+REFERENCE            br_season_5_quest_6_desc
+LANG_ENGLISH         "Engage in a series of combat and contract challenges across the Verdansk Warzone, starting with the Zordaya Prison Complex in the far South East."
+
+REFERENCE            br_season_5_quest_6_name
+LANG_ENGLISH         "Penal Pistolwhip"
+
 REFERENCE            br_weekly
 LANG_ENGLISH         "BR Weekly Challenge"
 
@@ -9326,6 +11206,22 @@ LANG_ENGLISH         "Kill 3 enemies without dying"
 
 REFERENCE            challenge_available_with_full_game
 LANG_ENGLISH         "Challenge available with the full game"
+
+REFERENCE            classified_challenge
+LANG_ENGLISH         "Classified Challenge"
+
+REFERENCE            classified_challenge_desc
+LANG_ENGLISH         "Complete ^5&&1^7 weapon master challenges.
+Note: Kill and Headshot challenges count as one classified challenge progress"
+
+REFERENCE            classified_challenge_desc_no_note
+LANG_ENGLISH         "Complete ^5&&1^7 weapon master challenges."
+
+REFERENCE            classified_challenge_full_desc
+LANG_ENGLISH         "Complete all master challenges for all weapons to unlock the reward"
+
+REFERENCE            classified_challenge_info
+LANG_ENGLISH         "Note: Kill and Headshot challenges count as one classified challenge progress"
 
 REFERENCE            community
 LANG_ENGLISH         "Community Challenge"
@@ -9487,7 +11383,7 @@ REFERENCE            daily_attachment_grip_soh_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Granulated Grip Tape attachment and Sleight of Hand weapon perk equipped"
 
 REFERENCE            daily_attachment_holo_barrel_desc
-LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Holo optic and an unsupressed Barrel attachment equipped"
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Holo optic and an unsuppressed Barrel attachment equipped"
 
 REFERENCE            daily_attachment_holo_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with a Holo Optic equipped"
@@ -9570,6 +11466,12 @@ LANG_ENGLISH         "Bounty Hunter"
 REFERENCE            daily_c4
 LANG_ENGLISH         "C4"
 
+REFERENCE            daily_c4_cso
+LANG_ENGLISH         "C4 Kills - Classic Spec Ops"
+
+REFERENCE            daily_c4_cso_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills using C4 in any Classic Special Ops Operation"
+
 REFERENCE            daily_c4_desc
 LANG_ENGLISH         "Get ^5&&1^7 C4 Kills"
 
@@ -9632,6 +11534,12 @@ LANG_ENGLISH         "Cruise Missile"
 
 REFERENCE            daily_cruise_missile_desc
 LANG_ENGLISH         "Get ^5&&1^7 kills with a Cruise Missile"
+
+REFERENCE            daily_cruise_missile_wsv
+LANG_ENGLISH         "Cruise Missile - Wave Survival"
+
+REFERENCE            daily_cruise_missile_wsv_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills with the Cruise Missile in any Wave Survival Operation"
 
 REFERENCE            daily_cyber_attack_wins
 LANG_ENGLISH         "Cyber Attack Wins"
@@ -9715,7 +11623,7 @@ REFERENCE            daily_focused
 LANG_ENGLISH         "Focused"
 
 REFERENCE            daily_focused_desc
-LANG_ENGLISH         "Kill the enemy that blinded or stunned you with a Flashbang or Concussion Grenade ^5&&1^7 time(s)"
+LANG_ENGLISH         "Kill the enemy that blinded or stunned you with a Flashbang or Stun Grenade ^5&&1^7 time(s)"
 
 REFERENCE            daily_four_leaf_clover
 LANG_ENGLISH         "Four Leaf Clover"
@@ -9837,6 +11745,12 @@ LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks"
 REFERENCE            daily_juggernaut
 LANG_ENGLISH         "Juggernaut"
 
+REFERENCE            daily_juggernaut_cso
+LANG_ENGLISH         "Kill Juggernauts - Classic Spec Ops"
+
+REFERENCE            daily_juggernaut_cso_desc
+LANG_ENGLISH         "Kill ^5&&1^7 Juggernauts in any Classic Special Ops Operation"
+
 REFERENCE            daily_juggernaut_desc
 LANG_ENGLISH         "Get ^5&&1^7 kills as a Juggernaut"
 
@@ -9877,7 +11791,7 @@ REFERENCE            daily_lm_gun_1_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using the PKM"
 
 REFERENCE            daily_lm_kills_matches_desc
-LANG_ENGLISH         "Get ^53^7 Kills with an Light Machine Gun in ^5&&1^7 matches"
+LANG_ENGLISH         "Get ^53^7 Kills with a Light Machine Gun in ^5&&1^7 matches"
 
 REFERENCE            daily_lmg_kills
 LANG_ENGLISH         "LMG Kills"
@@ -9908,6 +11822,12 @@ LANG_ENGLISH         "Molotov Cocktail"
 
 REFERENCE            daily_molotov_cocktail_desc
 LANG_ENGLISH         "Get ^5&&1^7 Molotov Kills"
+
+REFERENCE            daily_molotov_cso
+LANG_ENGLISH         "Molotov Kills - Classic Spec Ops"
+
+REFERENCE            daily_molotov_cso_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills using Molotovs in any Classic Special Ops Operation"
 
 REFERENCE            daily_munitions
 LANG_ENGLISH         "Munitions"
@@ -9950,6 +11870,12 @@ LANG_ENGLISH         "Pistol Kills Headshots"
 
 REFERENCE            daily_pistol_kills_headshots_desc
 LANG_ENGLISH         "Get ^5&&1^7 Headshots with Pistols"
+
+REFERENCE            daily_pistol_kills_headshots_wsv
+LANG_ENGLISH         "Pistol Kills Headshots - Wave Survival"
+
+REFERENCE            daily_pistol_kills_headshots_wsv_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshots with Pistols in any Wave Survival Operation"
 
 REFERENCE            daily_pistol_weapon_change_kill
 LANG_ENGLISH         "Get a kill within ^52^7 seconds of switching to a Pistol ^5&&1^7 time(s)"
@@ -10114,7 +12040,7 @@ REFERENCE            daily_smoke_grenade_desc
 LANG_ENGLISH         "Kill ^5&&1^7 Enemies in proximity to a Smoke Grenade"
 
 REFERENCE            daily_sn_gun_1
-LANG_ENGLISH         "Dragonov Kills"
+LANG_ENGLISH         "Dragunov Kills"
 
 REFERENCE            daily_sn_gun_1_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using the Dragunov"
@@ -10266,6 +12192,12 @@ LANG_ENGLISH         "Warhead"
 REFERENCE            daily_warhead_desc
 LANG_ENGLISH         "Get ^5&&1^7 kills with Rocket Launchers while using the Amped Perk"
 
+REFERENCE            daily_waves_wsv
+LANG_ENGLISH         "Survive Waves - Wave Survival Mode"
+
+REFERENCE            daily_waves_wsv_desc
+LANG_ENGLISH         "Survive at least ^5&&1^7 waves in any Wave Survival Operation"
+
 REFERENCE            daily_weapon_drop
 LANG_ENGLISH         "Weapon Drop"
 
@@ -10282,7 +12214,7 @@ REFERENCE            daily_wheelson
 LANG_ENGLISH         "Wheelson"
 
 REFERENCE            daily_wheelson_desc
-LANG_ENGLISH         "Get ^5&&1^7 kills with a Wheelson"
+LANG_ENGLISH         "Get ^5&&1^7 kill(s) with a Wheelson"
 
 REFERENCE            daily_white_phosphorus
 LANG_ENGLISH         "White Phosphorus"
@@ -10317,7 +12249,7 @@ REFERENCE            dev_error_activation
 LANG_ENGLISH         "Could not ^5&&1^7 mission with ID: ^5&&2^7."
 
 REFERENCE            elder
-LANG_ENGLISH         "Elder Challenge"
+LANG_ENGLISH         "Officer Challenges"
 
 REFERENCE            elder1_ac130kills
 LANG_ENGLISH         "Gunship"
@@ -10497,7 +12429,7 @@ REFERENCE            elder1_focused
 LANG_ENGLISH         "Focused"
 
 REFERENCE            elder1_focused_desc
-LANG_ENGLISH         "Kill the enemy that has impaired you with a Flashbang or Concussion Grenade ^5&&1^7 time(s)"
+LANG_ENGLISH         "Kill the enemy that has impaired you with a Flashbang or Stun Grenade ^5&&1^7 time(s)"
 
 REFERENCE            elder1_fourattach
 LANG_ENGLISH         "Four Leaf Clover"
@@ -12078,7 +14010,7 @@ REFERENCE            elder_s2_chal_089_name
 LANG_ENGLISH         "Recon Drone"
 
 REFERENCE            elder_s2_chal_090_desc
-LANG_ENGLISH         "Kill an enemy while impaired by a Flashbang or Concussion Grenade ^5&&1^7 time(s)"
+LANG_ENGLISH         "Kill an enemy while impaired by a Flashbang or Stun Grenade ^5&&1^7 time(s)"
 
 REFERENCE            elder_s2_chal_090_name
 LANG_ENGLISH         "Focused"
@@ -12498,7 +14430,7 @@ REFERENCE            elder_s4_chal_059_name
 LANG_ENGLISH         "Ammo Drop"
 
 REFERENCE            elder_s4_chal_060_desc
-LANG_ENGLISH         "Get &&1 Quad Feeds(4 uniterrupted kills in the kill feed)"
+LANG_ENGLISH         "Get &&1 Quad Feeds(4 uninterrupted kills in the kill feed)"
 
 REFERENCE            elder_s4_chal_060_name
 LANG_ENGLISH         "Four Piece Dinner I"
@@ -12552,7 +14484,7 @@ REFERENCE            elder_s4_chal_068_name
 LANG_ENGLISH         "Three Cheers"
 
 REFERENCE            elder_s4_chal_069_desc
-LANG_ENGLISH         "Stun &&1 Enemies using the Concussion Grenade"
+LANG_ENGLISH         "Stun &&1 Enemies using the Stun Grenade"
 
 REFERENCE            elder_s4_chal_069_name
 LANG_ENGLISH         "Stun Grenade"
@@ -12743,6 +14675,606 @@ LANG_ENGLISH         "Get 2 Hipfire Kills within 60 seconds of each other &&1 ti
 REFERENCE            elder_s4_chal_100_name
 LANG_ENGLISH         "Sprayer"
 
+REFERENCE            elder_s5_chal_001_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Rocket Launchers"
+
+REFERENCE            elder_s5_chal_001_name
+LANG_ENGLISH         "Launcher Kills"
+
+REFERENCE            elder_s5_chal_002_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Ghost perk"
+
+REFERENCE            elder_s5_chal_002_name
+LANG_ENGLISH         "Ghost"
+
+REFERENCE            elder_s5_chal_003_desc
+LANG_ENGLISH         "In Warzone, Purchase the Armor Plate Box from the Kiosk ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_003_name
+LANG_ENGLISH         "Armor Plate Shopper"
+
+REFERENCE            elder_s5_chal_004_desc
+LANG_ENGLISH         "Deploy the Trophy System Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_004_name
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            elder_s5_chal_005_desc
+LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_005_name
+LANG_ENGLISH         "UAV"
+
+REFERENCE            elder_s5_chal_006_desc
+LANG_ENGLISH         "In Warzone, Revive a teammate ^5&&1^7 times from using the Kiosk"
+
+REFERENCE            elder_s5_chal_006_name
+LANG_ENGLISH         "Revive"
+
+REFERENCE            elder_s5_chal_007_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using a weapon with 0 attachments"
+
+REFERENCE            elder_s5_chal_007_name
+LANG_ENGLISH         "Zero To Hero"
+
+REFERENCE            elder_s5_chal_008_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^53^7 attachments"
+
+REFERENCE            elder_s5_chal_008_name
+LANG_ENGLISH         "Three To Play"
+
+REFERENCE            elder_s5_chal_009_desc
+LANG_ENGLISH         "In Warzone, Purchase ^5&&1^7 Killstreaks"
+
+REFERENCE            elder_s5_chal_009_name
+LANG_ENGLISH         "Streak Shopper"
+
+REFERENCE            elder_s5_chal_010_desc
+LANG_ENGLISH         "In Warzone, Use ^5&&1^7 Armor Plates"
+
+REFERENCE            elder_s5_chal_010_name
+LANG_ENGLISH         "Armor Plates"
+
+REFERENCE            elder_s5_chal_011_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Shotguns"
+
+REFERENCE            elder_s5_chal_011_name
+LANG_ENGLISH         "Shotgun Kills"
+
+REFERENCE            elder_s5_chal_012_desc
+LANG_ENGLISH         "In Warzone, win your Gulag match ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_012_name
+LANG_ENGLISH         "Gulag Brawler"
+
+REFERENCE            elder_s5_chal_013_desc
+LANG_ENGLISH         "In Warzone, Collect your loadout ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_013_name
+LANG_ENGLISH         "Loadout Retriever"
+
+REFERENCE            elder_s5_chal_014_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with weapons from other players"
+
+REFERENCE            elder_s5_chal_014_name
+LANG_ENGLISH         "Weapon Pickup"
+
+REFERENCE            elder_s5_chal_015_desc
+LANG_ENGLISH         "In Warzone, Finish in the top 30% ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_015_name
+LANG_ENGLISH         "Warzone Performer"
+
+REFERENCE            elder_s5_chal_016_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Assault Rifles"
+
+REFERENCE            elder_s5_chal_016_name
+LANG_ENGLISH         "Assault Rifle Headshots"
+
+REFERENCE            elder_s5_chal_017_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills using Pistols"
+
+REFERENCE            elder_s5_chal_017_name
+LANG_ENGLISH         "Pistol Kills"
+
+REFERENCE            elder_s5_chal_018_desc
+LANG_ENGLISH         "In Warzone, survive in the gas for ^5&&1^7 seconds"
+
+REFERENCE            elder_s5_chal_018_name
+LANG_ENGLISH         "Gas Mask"
+
+REFERENCE            elder_s5_chal_019_desc
+LANG_ENGLISH         "In Warzone, survive without being downed for ^5&&1^7 minutes"
+
+REFERENCE            elder_s5_chal_019_name
+LANG_ENGLISH         "Survivalist"
+
+REFERENCE            elder_s5_chal_020_desc
+LANG_ENGLISH         "Get ^5&&1^7 Marksman or Sniper Rifle Kills"
+
+REFERENCE            elder_s5_chal_020_name
+LANG_ENGLISH         "Sniper Kills"
+
+REFERENCE            elder_s5_chal_021_desc
+LANG_ENGLISH         "Get ^52^7 Headshots within 60 seconds of each other ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_021_name
+LANG_ENGLISH         "Speed Headshots"
+
+REFERENCE            elder_s5_chal_022_desc
+LANG_ENGLISH         "In Warzone, start Contracts in the Downtown area ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_022_name
+LANG_ENGLISH         "Contract Specialist - Downtown"
+
+REFERENCE            elder_s5_chal_023_desc
+LANG_ENGLISH         "Get ^5&&1^7 Quad Feeds(4 uninterrupted kills in the kill feed)"
+
+REFERENCE            elder_s5_chal_023_name
+LANG_ENGLISH         "Quad Killer"
+
+REFERENCE            elder_s5_chal_024_desc
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills"
+
+REFERENCE            elder_s5_chal_024_name
+LANG_ENGLISH         "Hipfire"
+
+REFERENCE            elder_s5_chal_025_desc
+LANG_ENGLISH         "In Warzone, Pick up ^5&&1^7 weapons"
+
+REFERENCE            elder_s5_chal_025_name
+LANG_ENGLISH         "Weapon Collector"
+
+REFERENCE            elder_s5_chal_026_desc
+LANG_ENGLISH         "Get ^5&&1^7 One-Shot kills"
+
+REFERENCE            elder_s5_chal_026_name
+LANG_ENGLISH         "One Shot"
+
+REFERENCE            elder_s5_chal_027_desc
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks"
+
+REFERENCE            elder_s5_chal_027_name
+LANG_ENGLISH         "Streaker"
+
+REFERENCE            elder_s5_chal_028_desc
+LANG_ENGLISH         "In Battle Royale, Purchase a Munitions Box from the Kiosk ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_028_name
+LANG_ENGLISH         "Ammo Box Shopper"
+
+REFERENCE            elder_s5_chal_029_desc
+LANG_ENGLISH         "Use the Munitions Box Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_029_name
+LANG_ENGLISH         "Munitions"
+
+REFERENCE            elder_s5_chal_030_desc
+LANG_ENGLISH         "Get ^5&&1^7 Melee Kills"
+
+REFERENCE            elder_s5_chal_030_name
+LANG_ENGLISH         "Pummeler"
+
+REFERENCE            elder_s5_chal_031_desc
+LANG_ENGLISH         "Kill ^5&&1^7 enemies using Killstreaks"
+
+REFERENCE            elder_s5_chal_031_name
+LANG_ENGLISH         "Remote Favor"
+
+REFERENCE            elder_s5_chal_032_desc
+LANG_ENGLISH         "In Warzone, complete ^5&&1^7 Contracts"
+
+REFERENCE            elder_s5_chal_032_name
+LANG_ENGLISH         "Mercenary"
+
+REFERENCE            elder_s5_chal_033_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^52^7 attachments"
+
+REFERENCE            elder_s5_chal_033_name
+LANG_ENGLISH         "Two To Tango"
+
+REFERENCE            elder_s5_chal_034_desc
+LANG_ENGLISH         "In Warzone, drive vehicles for ^5&&1^7 minutes"
+
+REFERENCE            elder_s5_chal_034_name
+LANG_ENGLISH         "Driver"
+
+REFERENCE            elder_s5_chal_035_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using SMGs"
+
+REFERENCE            elder_s5_chal_035_name
+LANG_ENGLISH         "SMG Kills"
+
+REFERENCE            elder_s5_chal_036_desc
+LANG_ENGLISH         "Kill ^5&&1^7 Enemies while near smoke"
+
+REFERENCE            elder_s5_chal_036_name
+LANG_ENGLISH         "Smoke Detector"
+
+REFERENCE            elder_s5_chal_037_desc
+LANG_ENGLISH         "Execute ^5&&1^7 Finishing moves"
+
+REFERENCE            elder_s5_chal_037_name
+LANG_ENGLISH         "Finisher"
+
+REFERENCE            elder_s5_chal_038_desc
+LANG_ENGLISH         "Get ^5&&1^7 Quickscope kills"
+
+REFERENCE            elder_s5_chal_038_name
+LANG_ENGLISH         "Quickscopes"
+
+REFERENCE            elder_s5_chal_039_desc
+LANG_ENGLISH         "Activate the Dead Silence Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_039_name
+LANG_ENGLISH         "Dead Silence"
+
+REFERENCE            elder_s5_chal_040_desc
+LANG_ENGLISH         "In Warzone, start Contracts in the Gulag area ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_040_name
+LANG_ENGLISH         "Contract Specialist - Gulag"
+
+REFERENCE            elder_s5_chal_041_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot Kills using Shotguns"
+
+REFERENCE            elder_s5_chal_041_name
+LANG_ENGLISH         "Shotgun Headshots"
+
+REFERENCE            elder_s5_chal_042_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using your Secondary Weapon"
+
+REFERENCE            elder_s5_chal_042_name
+LANG_ENGLISH         "Secondary Weapon Kills"
+
+REFERENCE            elder_s5_chal_043_desc
+LANG_ENGLISH         "Mark ^5&&1^7 Enemies using the Recon Drone Field Upgrade"
+
+REFERENCE            elder_s5_chal_043_name
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            elder_s5_chal_044_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Assault Rifles"
+
+REFERENCE            elder_s5_chal_044_name
+LANG_ENGLISH         "Assault Rifle Kills"
+
+REFERENCE            elder_s5_chal_045_desc
+LANG_ENGLISH         "Get ^5&&1^7 Assists"
+
+REFERENCE            elder_s5_chal_045_name
+LANG_ENGLISH         "Assister"
+
+REFERENCE            elder_s5_chal_046_desc
+LANG_ENGLISH         "Recover ^5&&1^7 Health by using the Stim Tactical"
+
+REFERENCE            elder_s5_chal_046_name
+LANG_ENGLISH         "Stim"
+
+REFERENCE            elder_s5_chal_047_desc
+LANG_ENGLISH         "Get ^5&&1^7 Multi Kills using Rocket Launchers"
+
+REFERENCE            elder_s5_chal_047_name
+LANG_ENGLISH         "Launcher Popcorn"
+
+REFERENCE            elder_s5_chal_048_desc
+LANG_ENGLISH         "Get ^52^7 Longshot kills within 60 seconds of each other ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_048_name
+LANG_ENGLISH         "Speed Longshots"
+
+REFERENCE            elder_s5_chal_049_desc
+LANG_ENGLISH         "Blind ^5&&1^7 Enemies using a Flash Grenade"
+
+REFERENCE            elder_s5_chal_049_name
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            elder_s5_chal_050_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with weapons with ^55^7 attachments"
+
+REFERENCE            elder_s5_chal_050_name
+LANG_ENGLISH         "High Five"
+
+REFERENCE            elder_s5_chal_051_desc
+LANG_ENGLISH         "Get ^55^7 Kills without dying ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_051_name
+LANG_ENGLISH         "Bloodthirsty Killer"
+
+REFERENCE            elder_s5_chal_052_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while sliding"
+
+REFERENCE            elder_s5_chal_052_name
+LANG_ENGLISH         "Sliding"
+
+REFERENCE            elder_s5_chal_053_desc
+LANG_ENGLISH         "Get ^5&&1^7 Molotov Kills"
+
+REFERENCE            elder_s5_chal_053_name
+LANG_ENGLISH         "Molotov"
+
+REFERENCE            elder_s5_chal_054_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using the Battle Hardened Perk"
+
+REFERENCE            elder_s5_chal_054_name
+LANG_ENGLISH         "Battle Hardened"
+
+REFERENCE            elder_s5_chal_055_desc
+LANG_ENGLISH         "Call in the Precision Airstrike killstreak ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_055_name
+LANG_ENGLISH         "Precision Airstrike"
+
+REFERENCE            elder_s5_chal_056_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with Proxy Mines"
+
+REFERENCE            elder_s5_chal_056_name
+LANG_ENGLISH         "Mine"
+
+REFERENCE            elder_s5_chal_057_desc
+LANG_ENGLISH         "Get ^5&&1^7 Point Blank Kills"
+
+REFERENCE            elder_s5_chal_057_name
+LANG_ENGLISH         "Point Blank"
+
+REFERENCE            elder_s5_chal_058_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using High Alert"
+
+REFERENCE            elder_s5_chal_058_name
+LANG_ENGLISH         "High Alert"
+
+REFERENCE            elder_s5_chal_059_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using the Frag Grenade"
+
+REFERENCE            elder_s5_chal_059_name
+LANG_ENGLISH         "Frag"
+
+REFERENCE            elder_s5_chal_060_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Thermite"
+
+REFERENCE            elder_s5_chal_060_name
+LANG_ENGLISH         "Thermite"
+
+REFERENCE            elder_s5_chal_061_desc
+LANG_ENGLISH         "Get ^5&&1^7 Triple Kills (3 rapid kills)"
+
+REFERENCE            elder_s5_chal_061_name
+LANG_ENGLISH         "Triple Kills"
+
+REFERENCE            elder_s5_chal_062_desc
+LANG_ENGLISH         "Destroy ^5&&1^7 pieces of enemy equipment"
+
+REFERENCE            elder_s5_chal_062_name
+LANG_ENGLISH         "Equipment Dismantler"
+
+REFERENCE            elder_s5_chal_063_desc
+LANG_ENGLISH         "Use the Deployable Cover Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_063_name
+LANG_ENGLISH         "Deployable Cover"
+
+REFERENCE            elder_s5_chal_064_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with Claymores"
+
+REFERENCE            elder_s5_chal_064_name
+LANG_ENGLISH         "Claymore"
+
+REFERENCE            elder_s5_chal_065_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills with C4"
+
+REFERENCE            elder_s5_chal_065_name
+LANG_ENGLISH         "C4"
+
+REFERENCE            elder_s5_chal_066_desc
+LANG_ENGLISH         "Equip the Spotter Perk and Destroy a total of ^5&&1^7 Enemy Killstreaks, Equipment and Vehicles"
+
+REFERENCE            elder_s5_chal_066_name
+LANG_ENGLISH         "Spotter"
+
+REFERENCE            elder_s5_chal_067_desc
+LANG_ENGLISH         "Get ^510^7 kills without dying ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_067_name
+LANG_ENGLISH         "Merciless"
+
+REFERENCE            elder_s5_chal_068_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills using SMGs"
+
+REFERENCE            elder_s5_chal_068_name
+LANG_ENGLISH         "SMG Headshots"
+
+REFERENCE            elder_s5_chal_069_desc
+LANG_ENGLISH         "Get ^5&&1^7 kills while crouching"
+
+REFERENCE            elder_s5_chal_069_name
+LANG_ENGLISH         "Crouching Kills"
+
+REFERENCE            elder_s5_chal_070_desc
+LANG_ENGLISH         "Use the Stopping Power Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_070_name
+LANG_ENGLISH         "Stopping Power"
+
+REFERENCE            elder_s5_chal_071_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^54^7 attachments"
+
+REFERENCE            elder_s5_chal_071_name
+LANG_ENGLISH         "Four Leaf Clover"
+
+REFERENCE            elder_s5_chal_072_desc
+LANG_ENGLISH         "Run over ^5&&1^7 Enemies with Vehicles"
+
+REFERENCE            elder_s5_chal_072_name
+LANG_ENGLISH         "Vehicle Crusher"
+
+REFERENCE            elder_s5_chal_073_desc
+LANG_ENGLISH         "Get ^5&&1^7 Double Kills(2 rapid kills)"
+
+REFERENCE            elder_s5_chal_073_name
+LANG_ENGLISH         "Double Kills"
+
+REFERENCE            elder_s5_chal_074_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Semtex"
+
+REFERENCE            elder_s5_chal_074_name
+LANG_ENGLISH         "Semtex"
+
+REFERENCE            elder_s5_chal_075_desc
+LANG_ENGLISH         "Get ^5&&1^7 Long Shot Kills"
+
+REFERENCE            elder_s5_chal_075_name
+LANG_ENGLISH         "Longshot"
+
+REFERENCE            elder_s5_chal_076_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using LMGs"
+
+REFERENCE            elder_s5_chal_076_name
+LANG_ENGLISH         "LMG Kills"
+
+REFERENCE            elder_s5_chal_077_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills"
+
+REFERENCE            elder_s5_chal_077_name
+LANG_ENGLISH         "Headshots"
+
+REFERENCE            elder_s5_chal_078_desc
+LANG_ENGLISH         "Get ^53^7 Kills without dying ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_078_name
+LANG_ENGLISH         "Tri Streak"
+
+REFERENCE            elder_s5_chal_079_desc
+LANG_ENGLISH         "Call in ^55^7 Killstreaks in a match ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_079_name
+LANG_ENGLISH         "Remote Assistance"
+
+REFERENCE            elder_s5_chal_080_desc
+LANG_ENGLISH         "Stun ^5&&1^7 Enemies using the Stun Grenade"
+
+REFERENCE            elder_s5_chal_080_name
+LANG_ENGLISH         "Stun Grenade"
+
+REFERENCE            elder_s5_chal_081_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Cold-Blooded Perk"
+
+REFERENCE            elder_s5_chal_081_name
+LANG_ENGLISH         "Cold-Blooded"
+
+REFERENCE            elder_s5_chal_082_desc
+LANG_ENGLISH         "Kill ^5&&1^7 Enemies"
+
+REFERENCE            elder_s5_chal_082_name
+LANG_ENGLISH         "Killer"
+
+REFERENCE            elder_s5_chal_083_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Pistol"
+
+REFERENCE            elder_s5_chal_083_name
+LANG_ENGLISH         "Pistol Kills"
+
+REFERENCE            elder_s5_chal_084_desc
+LANG_ENGLISH         "Call in the Cluster Strike killstreak ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_084_name
+LANG_ENGLISH         "Cluster Strike"
+
+REFERENCE            elder_s5_chal_085_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using the Throwing Knife"
+
+REFERENCE            elder_s5_chal_085_name
+LANG_ENGLISH         "Throwing Knife"
+
+REFERENCE            elder_s5_chal_086_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills while using your Secondary Weapon"
+
+REFERENCE            elder_s5_chal_086_name
+LANG_ENGLISH         "Secondary Headshots"
+
+REFERENCE            elder_s5_chal_087_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills using LMGs"
+
+REFERENCE            elder_s5_chal_087_name
+LANG_ENGLISH         "LMG Headshots"
+
+REFERENCE            elder_s5_chal_088_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a weapon with ^51^7 attachment"
+
+REFERENCE            elder_s5_chal_088_name
+LANG_ENGLISH         "Single Attachment"
+
+REFERENCE            elder_s5_chal_089_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment"
+
+REFERENCE            elder_s5_chal_089_name
+LANG_ENGLISH         "Lethal Killer"
+
+REFERENCE            elder_s5_chal_090_desc
+LANG_ENGLISH         "Get ^52^7 Hipfire Kills within 60 seconds of each other ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_090_name
+LANG_ENGLISH         "Speedster Hipfire"
+
+REFERENCE            elder_s5_chal_091_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while Aiming Down Sights"
+
+REFERENCE            elder_s5_chal_091_name
+LANG_ENGLISH         "ADS Kills"
+
+REFERENCE            elder_s5_chal_092_desc
+LANG_ENGLISH         "Get ^5&&1^7 Kills while injured"
+
+REFERENCE            elder_s5_chal_092_name
+LANG_ENGLISH         "Injured Kills"
+
+REFERENCE            elder_s5_chal_093_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshots using Sniper or Marksman Rifles"
+
+REFERENCE            elder_s5_chal_093_name
+LANG_ENGLISH         "Sniper Headshots"
+
+REFERENCE            elder_s5_chal_094_desc
+LANG_ENGLISH         "Get ^5&&1^7 Fury Kills (4 rapid kills)"
+
+REFERENCE            elder_s5_chal_094_name
+LANG_ENGLISH         "Fury Killer"
+
+REFERENCE            elder_s5_chal_095_desc
+LANG_ENGLISH         "Destroy ^5&&1^7 Vehicles"
+
+REFERENCE            elder_s5_chal_095_name
+LANG_ENGLISH         "Vehicle Destroyer"
+
+REFERENCE            elder_s5_chal_096_desc
+LANG_ENGLISH         "Get ^5&&1^7 Hipfire kills with your Secondary"
+
+REFERENCE            elder_s5_chal_096_name
+LANG_ENGLISH         "Secondary Hipfire"
+
+REFERENCE            elder_s5_chal_097_desc
+LANG_ENGLISH         "Get ^5&&1^7 Lethal Equipment Kills while using the Shrapnel perk"
+
+REFERENCE            elder_s5_chal_097_name
+LANG_ENGLISH         "Shrapnel"
+
+REFERENCE            elder_s5_chal_098_desc
+LANG_ENGLISH         "Get ^5&&1^7 Headshot kills that are Longshot"
+
+REFERENCE            elder_s5_chal_098_name
+LANG_ENGLISH         "Longshot Headshots"
+
+REFERENCE            elder_s5_chal_099_desc
+LANG_ENGLISH         "Deploy your Field Upgrade ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_099_name
+LANG_ENGLISH         "Tune Up"
+
+REFERENCE            elder_s5_chal_100_desc
+LANG_ENGLISH         "Kill ^52^7 or more enemies with a single piece of lethal equipment ^5&&1^7 times"
+
+REFERENCE            elder_s5_chal_100_name
+LANG_ENGLISH         "Popcorn"
+
 REFERENCE            equip
 LANG_ENGLISH         "[{ui_primary}] Equip"
 
@@ -12757,6 +15289,9 @@ LANG_ENGLISH         "Kill Enemies"
 
 REFERENCE            gun_unlock
 LANG_ENGLISH         "Weapon Challenge"
+
+REFERENCE            gun_unlock_ar_galima
+LANG_ENGLISH         "Get ^53^7 Gunbutt kills while using in Assault Rifle in ^5&&1^7 different matches"
 
 REFERENCE            gun_unlock_crossbow
 LANG_ENGLISH         "Using a Marksman Rifle with a Reflex optic, get ^55^7 kills in ^5&&1^7 different matches"
@@ -12785,11 +15320,17 @@ LANG_ENGLISH         "Get ^55^7 kills in a minute when using an Assault Rifle ^5
 REFERENCE            gun_unlock_sksierra
 LANG_ENGLISH         "Using a Sniper or Marksman Rifle, Get ^52^7 Longshot Kills that are Headshots in ^5&&1^7 different matches"
 
+REFERENCE            gun_unlock_sm_victor
+LANG_ENGLISH         "Get ^55^7 kills while using an SMG with the Solozero Optics Mini Reflex and Ranger Foregrip in ^5&&1^7 different matches"
+
 REFERENCE            gun_unlock_smgolf45
 LANG_ENGLISH         "Get ^52^7 kills while Sliding when using an SMG in ^5&&1^7 different matches"
 
 REFERENCE            gun_unlock_tango
 LANG_ENGLISH         "Get ^52^7 Headshots using Assault Rifles in ^5&&1^7 different matches."
+
+REFERENCE            gun_unlock_xmike109
+LANG_ENGLISH         "Get ^53^7 Quickscope Kills using Sniper or Marksman Rifles in ^5&&1^7 different matches."
 
 REFERENCE            gunsmith
 LANG_ENGLISH         "Gunsmith Challenge"
@@ -12802,6 +15343,30 @@ LANG_ENGLISH         "Hide Completed Challenges"
 
 REFERENCE            in_progress
 LANG_ENGLISH         "Challenge In Progress"
+
+REFERENCE            intel_drop6_global
+LANG_ENGLISH         "INTEL_DROP6_GLOBAL"
+
+REFERENCE            intel_drop6_name
+LANG_ENGLISH         "INTEL_DROP6_NAME"
+
+REFERENCE            intel_drop6_step1_description
+LANG_ENGLISH         "INTEL_DROP6_STEP1_DESCRIPTION"
+
+REFERENCE            intel_drop6_step2_description
+LANG_ENGLISH         "INTEL_DROP6_STEP2_DESCRIPTION"
+
+REFERENCE            intel_drop6_step3_description
+LANG_ENGLISH         "INTEL_DROP6_STEP3_DESCRIPTION"
+
+REFERENCE            intel_drop6_step4_description
+LANG_ENGLISH         "INTEL_DROP6_STEP4_DESCRIPTION"
+
+REFERENCE            intel_drop6_step5_description
+LANG_ENGLISH         "INTEL_DROP6_STEP5_DESCRIPTION"
+
+REFERENCE            intel_drop6_step6_description
+LANG_ENGLISH         "INTEL_DROP6_STEP6_DESCRIPTION"
 
 REFERENCE            intel_mission_n
 LANG_ENGLISH         "Recommended Intel - &&1"
@@ -13199,23 +15764,32 @@ LANG_ENGLISH         "Get ^5&&1^7 win(s) in Cyber Attack"
 REFERENCE            locked_battlepass_mission
 LANG_ENGLISH         "Mission unlocked at Battle Pass tier ^5&&1^7"
 
+REFERENCE            master
+LANG_ENGLISH         "Master Challenge"
+
+REFERENCE            master_challenge_category_complete
+LANG_ENGLISH         "&&1/&&2 Complete"
+
+REFERENCE            master_challenge_completed
+LANG_ENGLISH         "Mastery Challenge Completed"
+
 REFERENCE            master_challenge_completion
-LANG_ENGLISH         "&&1 / &&2 Master Challenges complete."
+LANG_ENGLISH         "&&1 / &&2 Mastery Challenges complete."
 
 REFERENCE            master_challenge_text
 LANG_ENGLISH         "Complete all week &&1 challenges to receive weekly rewards."
 
 REFERENCE            master_challenges
-LANG_ENGLISH         "Master Challenges"
+LANG_ENGLISH         "Mastery Challenges"
 
 REFERENCE            master_challenges_desc
-LANG_ENGLISH         "View master challenge progress"
+LANG_ENGLISH         "View mastery challenge progress"
 
 REFERENCE            master_challenges_locked
-LANG_ENGLISH         "Reach officer ranks [ Level 55 ] to unlock master challenges."
+LANG_ENGLISH         "Reach officer ranks [ Level 55 ] to unlock mastery challenges."
 
 REFERENCE            master_challenges_title
-LANG_ENGLISH         "Master Challenges"
+LANG_ENGLISH         "Mastery Challenges"
 
 REFERENCE            mastery_all_guns
 LANG_ENGLISH         "Complete All The Gun Mastery Challenges On Every Weapon"
@@ -13270,6 +15844,9 @@ LANG_ENGLISH         "Get ^5&&1^7 Kills while in smoke"
 
 REFERENCE            mastery_emblem_damascus_sn_desc
 LANG_ENGLISH         "Get ^5&&1^7 Hipfire Kills"
+
+REFERENCE            mastery_emblem_gold_anovember_desc
+LANG_ENGLISH         "Get ^5&&1^7 Aiming Down Sight kills with the Folded Stock selected"
 
 REFERENCE            mastery_emblem_gold_desc
 LANG_ENGLISH         "Get ^5&&1^7 Aiming Down Sight kills with the No Stock attachment option selected"
@@ -13449,13 +16026,16 @@ REFERENCE            operator_unlock_grinch
 LANG_ENGLISH         "Get ^5100^7 Headshots in Multiplayer or acquire a skin for this operator."
 
 REFERENCE            operator_unlock_iskra
-LANG_ENGLISH         "Unlock by purchasing the "Iskra Operator Bundle" in the Store or acquiring a skin for this operator."
+LANG_ENGLISH         "Unlock by purchasing the "H.E. Tracer Pack: Iskra Operator Bundle" in the Store or acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_kreuger
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Moves or acquire a skin for this operator"
 
 REFERENCE            operator_unlock_kyle
-LANG_ENGLISH         "Unlock by purchasing the "Kyle Operator Bundle" in the Store "
+LANG_ENGLISH         "Unlock by purchasing the "Gaz Operator Bundle" in the Store "
+
+REFERENCE            operator_unlock_lerch
+LANG_ENGLISH         "Unlocked by purchasing the Season 5 Battlepass or by acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_mace
 LANG_ENGLISH         "Unlock by purchasing "Mace Operator Bundle" in the Store, or acquiring a skin for this operator."
@@ -13481,11 +16061,20 @@ LANG_ENGLISH         "Complete Operation: Paladin in Western Verdansk or acquire
 REFERENCE            operator_unlock_ronin
 LANG_ENGLISH         "Unlock by purchasing "Ronin Operator Pack" in the Store, or acquiring a skin for this operator."
 
+REFERENCE            operator_unlock_roze
+LANG_ENGLISH         "Unlocked by purchasing the Roze Operator Bundle or by acquiring a skin for this operator."
+
 REFERENCE            operator_unlock_spetsnaz
 LANG_ENGLISH         "Unlock by purchasing the "Nikto Operator Bundle" in the Store or acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_syd
 LANG_ENGLISH         "Kill ^55^7 Juggernauts in any single Co-Op Mission or acquire a skin for this operator."
+
+REFERENCE            operator_unlock_velikan
+LANG_ENGLISH         "Unlocked by purchasing the Velikan Operator Bundle or by acquiring a skin for this operator."
+
+REFERENCE            operator_unlock_woods
+LANG_ENGLISH         "Unlocked by purchasing the Woods Operator Bundle or by acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_wyatt
 LANG_ENGLISH         "Complete The Wolf's Den Campaign Mission or acquire a skin for this operator."
@@ -13498,6 +16087,9 @@ LANG_ENGLISH         "Complete CO-Op Operation Headhunter, Kuvalda, Paladin, and
 
 REFERENCE            operator_unlock_zedra
 LANG_ENGLISH         "Unlocked in the Season 1 Battle Pass or by acquiring a skin for this operator."
+
+REFERENCE            preview_master_challenge_loot
+LANG_ENGLISH         "[{ui_alt2}] Preview"
 
 REFERENCE            progression
 LANG_ENGLISH         "Progression Challenge"
@@ -13590,7 +16182,7 @@ REFERENCE            reticle_hybridthermal_02
 LANG_ENGLISH         "Get ^5&&1^7 Headshots using the ^5&&2^7"
 
 REFERENCE            reticle_hybridthermal_03
-LANG_ENGLISH         "Get ^5&&1^7 Double Kills with using the ^5&&2^7"
+LANG_ENGLISH         "Get ^5&&1^7 Double Kills using the ^5&&2^7"
 
 REFERENCE            reticle_hybridthermal_04
 LANG_ENGLISH         "Get ^5&&1^7 Mounted Kills using the ^5&&2^7"
@@ -13704,169 +16296,169 @@ REFERENCE            romeo870_attachment_unlock_4
 LANG_ENGLISH         "Get ^53^7 Longshot Kills in ^5&&1^7 different matches while using the Scout optic class"
 
 REFERENCE            s2_bp_quest_10_name
-LANG_ENGLISH         "Operator Mission - Zane"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Zane"
 
 REFERENCE            s2_bp_quest_10_name_desc
 LANG_ENGLISH         "All challenges require Zane to be a selected Operator"
 
 REFERENCE            s2_bp_quest_11_name
-LANG_ENGLISH         "Operator Mission - Minotaur"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Minotaur"
 
 REFERENCE            s2_bp_quest_11_name_desc
 LANG_ENGLISH         "All challenges require Minotaur to be a selected Operator"
 
 REFERENCE            s2_bp_quest_12_name
-LANG_ENGLISH         "Operator Mission - Ghost"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Ghost 2"
 
 REFERENCE            s2_bp_quest_12_name_desc
 LANG_ENGLISH         "All challenges require Ghost to be a selected Operator"
 
 REFERENCE            s2_bp_quest_1_name
-LANG_ENGLISH         "Operator Mission - Ghost"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Ghost"
 
 REFERENCE            s2_bp_quest_1_name_desc
 LANG_ENGLISH         "All challenges require Ghost to be a selected Operator"
 
 REFERENCE            s2_bp_quest_2_name
-LANG_ENGLISH         "Operator Mission - Thorne"
+LANG_ENGLISH         "Season Battle Pass Mission - Thorne"
 
 REFERENCE            s2_bp_quest_2_name_desc
 LANG_ENGLISH         "All challenges require Thorne to be a selected Operator"
 
 REFERENCE            s2_bp_quest_3_name
-LANG_ENGLISH         "Operator Mission - Otter"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Otter"
 
 REFERENCE            s2_bp_quest_3_name_desc
 LANG_ENGLISH         "All challenges require Otter to be a selected Operator"
 
 REFERENCE            s2_bp_quest_4_name
-LANG_ENGLISH         "Operator Mission - Raines"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Raines"
 
 REFERENCE            s2_bp_quest_4_name_desc
 LANG_ENGLISH         "All challenges require Raines to be a selected Operator"
 
 REFERENCE            s2_bp_quest_5_name
-LANG_ENGLISH         "Operator Mission - Wyatt"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Wyatt"
 
 REFERENCE            s2_bp_quest_5_name_desc
 LANG_ENGLISH         "All challenges require Wyatt to be a selected Operator"
 
 REFERENCE            s2_bp_quest_6_name
-LANG_ENGLISH         "Operator Mission - D-Day"
+LANG_ENGLISH         "Season Two Battle Pass Mission - D-Day"
 
 REFERENCE            s2_bp_quest_6_name_desc
 LANG_ENGLISH         "All challenges require D-Day to be a selected Operator"
 
 REFERENCE            s2_bp_quest_7_name
-LANG_ENGLISH         "Operator Mission - Golem"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Golem"
 
 REFERENCE            s2_bp_quest_7_name_desc
 LANG_ENGLISH         "All challenges require Golem to be a selected Operator"
 
 REFERENCE            s2_bp_quest_8_name
-LANG_ENGLISH         "Operator Mission - Yegor"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Yegor"
 
 REFERENCE            s2_bp_quest_8_name_desc
 LANG_ENGLISH         "All challenges require Yegor to be a selected Operator"
 
 REFERENCE            s2_bp_quest_9_name
-LANG_ENGLISH         "Operator Mission - Azur"
+LANG_ENGLISH         "Season Two Battle Pass Mission - Azur"
 
 REFERENCE            s2_bp_quest_9_name_desc
 LANG_ENGLISH         "All challenges require Azur to be a selected Operator"
 
 REFERENCE            s3_bp_quest_10_name
-LANG_ENGLISH         "Season 3 Battle Pass Talon Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Talon"
 
 REFERENCE            s3_bp_quest_10_name_desc
 LANG_ENGLISH         "All challenges must have Talon equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_11_name
-LANG_ENGLISH         "Season 3 Battle Pass Mara Challenges"
+LANG_ENGLISH         "Season Three Battle Mission - Mara"
 
 REFERENCE            s3_bp_quest_11_name_desc
 LANG_ENGLISH         "All challenges must have Mara equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_12_name
-LANG_ENGLISH         "Season 3 Battle Pass Alex 2 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Alex 2"
 
 REFERENCE            s3_bp_quest_12_name_desc
 LANG_ENGLISH         "All challenges must have Alex equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_1_name
-LANG_ENGLISH         "Season 3 Battle Pass Alex Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Alex"
 
 REFERENCE            s3_bp_quest_1_name_desc
 LANG_ENGLISH         "All challenges must have Alex equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_2_name
-LANG_ENGLISH         "Season 3 Battle Pass Yegor Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Yegor"
 
 REFERENCE            s3_bp_quest_2_name_desc
 LANG_ENGLISH         "All challenges must have Yegor equipped as your Allegiance Operator"
 
 REFERENCE            s3_bp_quest_3_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 1 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - US Expeditionary Force Mil-Sim"
 
 REFERENCE            s3_bp_quest_3_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_4_name
-LANG_ENGLISH         "Season 3 Battle Pass Thorne Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Thorne"
 
 REFERENCE            s3_bp_quest_4_name_desc
 LANG_ENGLISH         "All challenges must have Thorne equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_5_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 2 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - SKSF Mil-Sim"
 
 REFERENCE            s3_bp_quest_5_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_6_name
-LANG_ENGLISH         "Season 3 Battle Pass D-Day Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - D-Day"
 
 REFERENCE            s3_bp_quest_6_name_desc
 LANG_ENGLISH         "All challenges must have D-Day equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_7_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 3 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Pararescue Mil-Sim"
 
 REFERENCE            s3_bp_quest_7_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bp_quest_8_name
-LANG_ENGLISH         "Season 3 Battle Pass Rodion Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - Rodion"
 
 REFERENCE            s3_bp_quest_8_name_desc
 LANG_ENGLISH         "All challenges must have Rodion equipped as your Allegiance Operator"
 
 REFERENCE            s3_bp_quest_9_name
-LANG_ENGLISH         "Season 3 Battle Pass Mil-Sim 4 Challenges"
+LANG_ENGLISH         "Season Three Battle Pass Mission - CTSPF Mil-Sim"
 
 REFERENCE            s3_bp_quest_9_name_desc
 LANG_ENGLISH         "All challenges must have Mil-Sim equipped as your Coalition Operator"
 
 REFERENCE            s3_bundle_quest_1_name
-LANG_ENGLISH         "Nikto Bundle Challenges"
+LANG_ENGLISH         "Nikto Operator Bundle Mission"
 
 REFERENCE            s3_bundle_quest_1_name_desc
 LANG_ENGLISH         "All challenges must have Nikto equipped as your Allegiance Operator"
 
 REFERENCE            s3_bundle_quest_2_name
-LANG_ENGLISH         "Talon Bundle Challenges"
+LANG_ENGLISH         "Talon Operator Bundle Mission"
 
 REFERENCE            s3_bundle_quest_2_name_desc
 LANG_ENGLISH         "All challenges must have Talon equipped as your Coalition Operator"
 
 REFERENCE            s3_bundle_quest_3_name
-LANG_ENGLISH         "Mace Bundle Challenges"
+LANG_ENGLISH         "Mace Operator Bundle Mission"
 
 REFERENCE            s3_bundle_quest_3_name_desc
 LANG_ENGLISH         "All challenges must have Mace equipped as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_10_name
-LANG_ENGLISH         "Season Four Raines Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Raines"
 
 REFERENCE            s4_bp_quest_10_name_desc
 LANG_ENGLISH         "All challenges require Raines to be selected as your Coalition Operator"
@@ -13884,7 +16476,7 @@ REFERENCE            s4_bp_quest_10_step_4
 LANG_ENGLISH         "Deploy the Munitions Box Field Upgrade ^5&&1^7 times with Raines as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_11_name
-LANG_ENGLISH         "Season Four Iskra Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Iskra"
 
 REFERENCE            s4_bp_quest_11_name_desc
 LANG_ENGLISH         "All challenges require Iskra to be selected as your Allegiance Operator"
@@ -13902,7 +16494,7 @@ REFERENCE            s4_bp_quest_11_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills using Lethal Equipment with Iskra as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_12_name
-LANG_ENGLISH         "Season Four Price Operator Mission 2"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Price 2"
 
 REFERENCE            s4_bp_quest_12_name_desc
 LANG_ENGLISH         "All challenges require Price to be selected as your Coalition Operator"
@@ -13920,7 +16512,7 @@ REFERENCE            s4_bp_quest_12_step_4
 LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times with Price as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_1_name
-LANG_ENGLISH         "Season Four Price Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Price "
 
 REFERENCE            s4_bp_quest_1_name_desc
 LANG_ENGLISH         "All challenges require Price selected as your Coalition Operator to complete"
@@ -13938,7 +16530,7 @@ REFERENCE            s4_bp_quest_1_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the Double Time Perk with Price as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_2_name
-LANG_ENGLISH         "Season Four Rodion Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Rodion"
 
 REFERENCE            s4_bp_quest_2_name_desc
 LANG_ENGLISH         "All challenges require Rodion selected as your Allegiance Operator to complete"
@@ -13956,7 +16548,7 @@ REFERENCE            s4_bp_quest_2_step_4
 LANG_ENGLISH         "Activate the Dead Silence Field Upgrade ^5&&1^7 times with Rodion as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_3_name
-LANG_ENGLISH         "Season Four Mil-Sim Allegiance Mission 1"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Urzikstan SSG Mil-Sim"
 
 REFERENCE            s4_bp_quest_3_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Allegiance Operator to complete"
@@ -13974,7 +16566,7 @@ REFERENCE            s4_bp_quest_3_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills while using the Battle Hardened Perk with Mil-Sim selected as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_4_name
-LANG_ENGLISH         "Season Four Talon Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Talon"
 
 REFERENCE            s4_bp_quest_4_name_desc
 LANG_ENGLISH         "All challenges require Talon selected as your Coalition Operator to complete"
@@ -13992,7 +16584,7 @@ REFERENCE            s4_bp_quest_4_step_4
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Talon as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_5_name
-LANG_ENGLISH         "Season Four Mil-Sim Coalition Mission 1"
+LANG_ENGLISH         "Season Four Battle Pass Mission - USMC Raider Mil-Sim"
 
 REFERENCE            s4_bp_quest_5_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Coalition Operator to complete"
@@ -14010,7 +16602,7 @@ REFERENCE            s4_bp_quest_5_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Kills while equipped with the EOD perk with Mil-Sim selected as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_6_name
-LANG_ENGLISH         "Season Four Azur Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Azur"
 
 REFERENCE            s4_bp_quest_6_name_desc
 LANG_ENGLISH         "All challenges require Azur selected as your Allegiance Operator to complete"
@@ -14028,7 +16620,7 @@ REFERENCE            s4_bp_quest_6_step_4
 LANG_ENGLISH         "Get ^5&&1^7 kills using the Throwing Knife with Azur as your Allegiance Operator"
 
 REFERENCE            s4_bp_quest_7_name
-LANG_ENGLISH         "Season Four Mil-Sim Coalition Mission 2"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Lagunari Mil-Sim"
 
 REFERENCE            s4_bp_quest_7_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Coalition Operator to complete"
@@ -14043,10 +16635,10 @@ REFERENCE            s4_bp_quest_7_step_3
 LANG_ENGLISH         "Get ^5&&1^7 Headshot kills with Mil-Sim selected as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_7_step_4
-LANG_ENGLISH         "Stun enemies ^5&&1^7 times using a Concussion Grenade with Mil-Sim selected as your Coalition Operator"
+LANG_ENGLISH         "Stun enemies ^5&&1^7 times using a Stun Grenade with Mil-Sim selected as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_8_name
-LANG_ENGLISH         "Season Four Alice Operator Mission"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Alice"
 
 REFERENCE            s4_bp_quest_8_name_desc
 LANG_ENGLISH         "All challenges require Alice to be selected as your Coalition Operator"
@@ -14064,7 +16656,7 @@ REFERENCE            s4_bp_quest_8_step_4
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Alice as your Coalition Operator"
 
 REFERENCE            s4_bp_quest_9_name
-LANG_ENGLISH         "Season Four Mil-Sim Allegiance Mission 2"
+LANG_ENGLISH         "Season Four Battle Pass Mission - Russian FGF Mil-Sim"
 
 REFERENCE            s4_bp_quest_9_name_desc
 LANG_ENGLISH         "All challenges require Mil-Sim selected as your Allegiance Operator to complete"
@@ -14080,6 +16672,78 @@ LANG_ENGLISH         "Get ^53^7 Kills without dying ^5&&1^7 times with Mil-Sim s
 
 REFERENCE            s4_bp_quest_9_step_4
 LANG_ENGLISH         "Execute ^5&&1^7 Finishing Move with Mil-Sim selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_10_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Talon"
+
+REFERENCE            s5_bp_quest_10_name_desc
+LANG_ENGLISH         "All challenges require Talon selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_11_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Iskra"
+
+REFERENCE            s5_bp_quest_11_name_desc
+LANG_ENGLISH         "All challenges require Iskra selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_12_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Roze"
+
+REFERENCE            s5_bp_quest_12_name_desc
+LANG_ENGLISH         "All challenges require Roze selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_1_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Lerch"
+
+REFERENCE            s5_bp_quest_1_name_desc
+LANG_ENGLISH         "All challenges require Lerch selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_2_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Rodion"
+
+REFERENCE            s5_bp_quest_2_name_desc
+LANG_ENGLISH         "All challenges require Rodion selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_3_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Otter"
+
+REFERENCE            s5_bp_quest_3_name_desc
+LANG_ENGLISH         "All challenges require Otter selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_4_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Mil Sim"
+
+REFERENCE            s5_bp_quest_4_name_desc
+LANG_ENGLISH         "All challenges require Mil Sim selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_5_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Domino"
+
+REFERENCE            s5_bp_quest_5_name_desc
+LANG_ENGLISH         "All challenges require Domino selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_6_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Mil Sim"
+
+REFERENCE            s5_bp_quest_6_name_desc
+LANG_ENGLISH         "All challenges require Mil Sim selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_7_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Yegor"
+
+REFERENCE            s5_bp_quest_7_name_desc
+LANG_ENGLISH         "All challenges require Yegor selected as your Allegiance Operator"
+
+REFERENCE            s5_bp_quest_8_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Wyatt"
+
+REFERENCE            s5_bp_quest_8_name_desc
+LANG_ENGLISH         "All challenges require Wyatt selected as your Coalition Operator"
+
+REFERENCE            s5_bp_quest_9_name
+LANG_ENGLISH         "Season Five Battle Pass Mission - Syd"
+
+REFERENCE            s5_bp_quest_9_name_desc
+LANG_ENGLISH         "All challenges require Syd selected as your Allegiance Operator"
 
 REFERENCE            season4_cornerstoneryl_armorbox
 LANG_ENGLISH         "Resupply Armor ^5&&1^7 times with the Armor Box"
@@ -14427,25 +17091,25 @@ REFERENCE            season_3_quest_4_step_7
 LANG_ENGLISH         "Use Killstreaks / Munitions ^5&&1^7 times in any Co-Op Operation"
 
 REFERENCE            season_4_bundle_quest_kyle_name
-LANG_ENGLISH         "S4 Kyle Operator Mission"
+LANG_ENGLISH         "Gaz Operator Bundle Mission"
 
 REFERENCE            season_4_bundle_quest_kyle_name_desc
-LANG_ENGLISH         "All challenges require Kyle to be selected as your Coalition Operator"
+LANG_ENGLISH         "All challenges require Gaz to be selected as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_1
-LANG_ENGLISH         "In Warzone, Win your Gulag fight ^5&&1^7 times with Kyle as your Coalition Operator"
+LANG_ENGLISH         "In Warzone, Win your Gulag fight ^5&&1^7 times with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_2
-LANG_ENGLISH         "In Warzone, Get ^5&&1^7 Kills using a Legendary Weapon with Kyle as your Coalition Operator"
+LANG_ENGLISH         "In Warzone, Get ^5&&1^7 Kills using a Legendary Weapon with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_3
-LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks with Kyle as your Coalition Operator"
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_bundle_quest_kyle_step_4
-LANG_ENGLISH         "In Warzone, Successfully complete ^5&&1^7 Contracts with Kyle as your Coalition Operator"
+LANG_ENGLISH         "In Warzone, Successfully complete ^5&&1^7 Contracts with Gaz as your Coalition Operator"
 
 REFERENCE            season_4_quest_1_name
-LANG_ENGLISH         "Provactive Assault"
+LANG_ENGLISH         "Proactive Assault"
 
 REFERENCE            season_4_quest_1_name_desc
 LANG_ENGLISH         "Start blasting your enemies with Shotguns and become the server favorite with these challenges"
@@ -14463,7 +17127,7 @@ REFERENCE            season_4_quest_1_step_4
 LANG_ENGLISH         "Get ^5&&1^7 Point Blank Kills using a Shotgun"
 
 REFERENCE            season_4_quest_1_step_5
-LANG_ENGLISH         "Get ^5&&1^7 Buzzkills (Kill an enemy one kill from a Killstreak)"
+LANG_ENGLISH         "Get ^5&&1^7 Buzzkills (Kill an enemy one kill from a Killstreak) using a Shotgun"
 
 REFERENCE            season_4_quest_1_step_6
 LANG_ENGLISH         "Get ^55^7 Kills without dying while using a Shotgun ^5&&1^7 times"
@@ -14540,6 +17204,175 @@ LANG_ENGLISH         "Get ^5&&1^7 Kingslayer Kills (Enemy in First Place on scor
 REFERENCE            season_4_quest_4_step_6
 LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks"
 
+REFERENCE            season_5_quest_1_name
+LANG_ENGLISH         "Team Player"
+
+REFERENCE            season_5_quest_1_name_desc
+LANG_ENGLISH         "Focus on playing the objective and being a team player with these challenges"
+
+REFERENCE            season_5_quest_1_step_1
+LANG_ENGLISH         "Capture ^5&&1^7 Objectives"
+
+REFERENCE            season_5_quest_1_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Headshot Attacker kills"
+
+REFERENCE            season_5_quest_1_step_3
+LANG_ENGLISH         "Get ^5&&1^7 Point Blank Defender kills"
+
+REFERENCE            season_5_quest_1_step_4
+LANG_ENGLISH         "Plant or Defuse a bomb ^5&&1^7 times"
+
+REFERENCE            season_5_quest_1_step_5
+LANG_ENGLISH         "Call in the UAV Killstreak ^5&&1^7 times"
+
+REFERENCE            season_5_quest_2_name
+LANG_ENGLISH         "Arcane Secret Loadout"
+
+REFERENCE            season_5_quest_2_name_desc
+LANG_ENGLISH         "All these challenges require a combination of attachments or loadout perks that must be discovered through Gunsmith experimentation"
+
+REFERENCE            season_5_quest_2_step_1
+LANG_ENGLISH         "Get &&1 Quickscope kills with your secondary weapon"
+
+REFERENCE            season_5_quest_2_step_2
+LANG_ENGLISH         "Get &&1 Kills using a weapon with the No Stock option, A Drum Magazine and an Underbarrel Shotgun"
+
+REFERENCE            season_5_quest_2_step_3
+LANG_ENGLISH         "Get &&1 Kills using the FMJ weapon perk and the Match Grade Trigger attachment"
+
+REFERENCE            season_5_quest_2_step_4
+LANG_ENGLISH         "Get &&1 Kills using an Integral Hybrid optic, Bipod attachment and the Focus weapon perk"
+
+REFERENCE            season_5_quest_2_step_5
+LANG_ENGLISH         "Get &&1 Kills using a Commando Foregrip, the No Stock option, and Breacher Device"
+
+REFERENCE            season_5_quest_3_name
+LANG_ENGLISH         "Playing it Bogart"
+
+REFERENCE            season_5_quest_3_name_desc
+LANG_ENGLISH         "Defeat Enemies in style while supporting your teammates in these Co-Op Focused Challenges"
+
+REFERENCE            season_5_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Multikills with Molotovs in any Classic Special Ops Operation"
+
+REFERENCE            season_5_quest_3_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Multikills with C4 in any Classic Special Ops Operation"
+
+REFERENCE            season_5_quest_3_step_3
+LANG_ENGLISH         "Kill ^5&&1^7 Juggernauts in any Classic Special Ops Operation"
+
+REFERENCE            season_5_quest_3_step_4
+LANG_ENGLISH         "Use Deployable Cover ^5&&1^7 times in any Co-Op Operation"
+
+REFERENCE            season_5_quest_3_step_5
+LANG_ENGLISH         "Stop ^5&&1^7 projectiles using the Trophy System in any Co-Op Operation"
+
+REFERENCE            season_5_quest_3_step_6
+LANG_ENGLISH         "Deploy Ammo/Armor/Grenade Crates ^5&&1^7 times in any Co-Op Operation"
+
+REFERENCE            season_5_quest_3_step_7
+LANG_ENGLISH         "Execute ^52^7 Finishing Moves in a minute ^5&&1^7 times"
+
+REFERENCE            season_5_quest_4_name
+LANG_ENGLISH         "Crisis Control"
+
+REFERENCE            season_5_quest_4_name_desc
+LANG_ENGLISH         "Utilize your entire arsenal to clear these challenges."
+
+REFERENCE            season_5_quest_4_step_1
+LANG_ENGLISH         "Destroy &&1 Enemy Killstreaks, Vehicles or Equipment"
+
+REFERENCE            season_5_quest_4_step_2
+LANG_ENGLISH         "Get ^52^7 Headshots without dying &&1 times"
+
+REFERENCE            season_5_quest_4_step_3
+LANG_ENGLISH         "Get &&1 Longshots while using a Pistol"
+
+REFERENCE            season_5_quest_4_step_4
+LANG_ENGLISH         "Play and complete &&1 Matches of Domination"
+
+REFERENCE            season_5_quest_4_step_5
+LANG_ENGLISH         "Get &&1 Kills using Lethal Equipment"
+
+REFERENCE            season_5_quest_4_step_6
+LANG_ENGLISH         "Call in ^55^7 Killstreaks in a single match"
+
+REFERENCE            season_6_quest_1_name
+LANG_ENGLISH         "Specialist Spectacle"
+
+REFERENCE            season_6_quest_1_name_desc
+LANG_ENGLISH         "Utilize the Specialist Perk and inflict a Fury of thunder on your opponents with a full perk powered operator"
+
+REFERENCE            season_6_quest_1_step_1
+LANG_ENGLISH         "Reach the 1st Specialist Perk Bonus &&1 times"
+
+REFERENCE            season_6_quest_1_step_2
+LANG_ENGLISH         "Reach the 2nd Specialist Perk Bonus &&1 times"
+
+REFERENCE            season_6_quest_1_step_3
+LANG_ENGLISH         "Get the 2nd Specialist Perk Bonus ^53^7 times in a match &&1 times"
+
+REFERENCE            season_6_quest_1_step_4
+LANG_ENGLISH         "Reach the 3rd Specialist Perk Bonus &&1 times"
+
+REFERENCE            season_6_quest_1_step_5
+LANG_ENGLISH         "Earn the complete Specialist Bonus &&1 times"
+
+REFERENCE            season_6_quest_3_name
+LANG_ENGLISH         "Necessary Bulwarks"
+
+REFERENCE            season_6_quest_3_name_desc
+LANG_ENGLISH         "Demonstrate your ability as a complete soldier within the curated Classic Special Operations with these challenges"
+
+REFERENCE            season_6_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 Multikills using Rocket Launchers in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Suicide Bomber kills in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_3
+LANG_ENGLISH         "Get ^5&&1^7 kills using Claymores in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_4
+LANG_ENGLISH         "Call Cluster Strike ^5&&1^7 times in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_5
+LANG_ENGLISH         "Call Cruise Missile ^5&&1^7 times in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_6
+LANG_ENGLISH         "Use Sentry Gun ^5&&1^7 times in any Classic Special Ops Operation"
+
+REFERENCE            season_6_quest_3_step_7
+LANG_ENGLISH         "Get ^5&&1^7 Kills using a Pistol in any Classic Special Ops Operation"
+
+REFERENCE            season_7_quest_3_name
+LANG_ENGLISH         "Darwin's Code"
+
+REFERENCE            season_7_quest_3_name_desc
+LANG_ENGLISH         "Grab those Survival Kits and dominate when SHTF in these Wave Survival Focused Challenges"
+
+REFERENCE            season_7_quest_3_step_1
+LANG_ENGLISH         "Get ^5&&1^7 throwing knife kills in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_2
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Sniper/Marksman Rifle in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_3
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Shield Turret in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_4
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Sentry Gun in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_5
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Chopper Gunner in any Wave Survival Operation
+"
+
+REFERENCE            season_7_quest_3_step_6
+LANG_ENGLISH         "Get ^5&&1^7 kills with a Gunship in any Wave Survival Operation"
+
+REFERENCE            season_7_quest_3_step_7
+LANG_ENGLISH         "Survive at least ^5&&1^7 waves within a single game in any Wave Survival Operation"
+
 REFERENCE            season_ends
 LANG_ENGLISH         "Season Ends: ^5&&1^7"
 
@@ -14555,6 +17388,84 @@ LANG_ENGLISH         "Show Completed Challenges"
 REFERENCE            stealth
 LANG_ENGLISH         "Get ^5&&1^7 kills with the Stealth perk equipped"
 
+REFERENCE            sticker_book_br_c4_vehicle_multikill_desc
+LANG_ENGLISH         "Kill three or more enemies at once with C4 that is attached to a moving vehicle"
+
+REFERENCE            sticker_book_br_c4_vehicle_multikill_name
+LANG_ENGLISH         "C4 Vehicle Multi-Kill"
+
+REFERENCE            sticker_book_br_five_contracts_desc
+LANG_ENGLISH         "Complete your fifth Contract in a single match with all team members still alive"
+
+REFERENCE            sticker_book_br_five_contracts_name
+LANG_ENGLISH         "Immortal Contract Squad"
+
+REFERENCE            sticker_book_br_ghost_ride_whip_desc
+LANG_ENGLISH         "Kill three or more enemies within a few seconds of leaving a moving vehicle???s driver seat"
+
+REFERENCE            sticker_book_br_ghost_ride_whip_name
+LANG_ENGLISH         "Ghostride the Whip"
+
+REFERENCE            sticker_book_br_point_blank_streak_kill_desc
+LANG_ENGLISH         "Kill ^53^7 or more enemies with an air strike or cluster strike targeted within ten meters of yourself, and survive"
+
+REFERENCE            sticker_book_br_point_blank_streak_kill_name
+LANG_ENGLISH         "Broken Arrow"
+
+REFERENCE            sticker_book_br_round_kill_execute_desc
+LANG_ENGLISH         "Score the match ending kill with an execution"
+
+REFERENCE            sticker_book_br_round_kill_execute_name
+LANG_ENGLISH         "Superhero Kill"
+
+REFERENCE            sticker_book_br_wins_desc
+LANG_ENGLISH         "Get ^5&&1^7 Victories playing Warzone Battle Royale"
+
+REFERENCE            sticker_book_br_wins_name
+LANG_ENGLISH         "Battle Royale Victories"
+
+REFERENCE            sticker_book_drone_achievement_desc
+LANG_ENGLISH         "Get a Round or Game Ending kill with a C4 or Claymore attached to a Recon Drone. Note: Both the Drone operator and the explosives provider will receive credit"
+
+REFERENCE            sticker_book_drone_achievement_name
+LANG_ENGLISH         "Special Delivery"
+
+REFERENCE            sticker_book_hs_desc
+LANG_ENGLISH         "Get ^510^7 Headshots without dying"
+
+REFERENCE            sticker_book_hs_name
+LANG_ENGLISH         "Deadeye Headshot"
+
+REFERENCE            sticker_book_lethal_achievement_desc
+LANG_ENGLISH         "Get a kill with ^56^7 different types of Lethal Equipment in a single match"
+
+REFERENCE            sticker_book_lethal_achievement_name
+LANG_ENGLISH         "Lethal Litany"
+
+REFERENCE            sticker_book_objective_player_desc
+LANG_ENGLISH         "Get a combined ^530^7 Objective Attacker and Defender kills in a single match. Note: On Shipment and Shoothouse, this number is increased to ^650^7 ;)"
+
+REFERENCE            sticker_book_objective_player_name
+LANG_ENGLISH         "Objective Player"
+
+REFERENCE            sticker_book_plunder_wins_desc
+LANG_ENGLISH         "Get ^5&&1^7 Victory playing Warzone Plunder"
+
+REFERENCE            sticker_book_plunder_wins_name
+LANG_ENGLISH         "Plunder Victories"
+
+REFERENCE            sticker_book_throwingknife_desc
+LANG_ENGLISH         "Get a ^550^7 M Longshot with a Throwing Knife"
+
+REFERENCE            sticker_book_throwingknife_name
+LANG_ENGLISH         "Going Long!"
+
+REFERENCE            sticker_book_warzone_wins_desc
+LANG_ENGLISH         "Get ^5&&1^7 Victories playing any Warzone mode"
+
+REFERENCE            sticker_book_warzone_wins_name
+LANG_ENGLISH         "Warzone Victories"
+
 REFERENCE            tdm
 LANG_ENGLISH         "Get ^5&&1^7 kills whilst playing Team Deathmatch"
 
@@ -14563,6 +17474,9 @@ LANG_ENGLISH         "Tier &&1 Reward"
 
 REFERENCE            ultimate_challenge
 LANG_ENGLISH         "Ultimate Challenge"
+
+REFERENCE            victories
+LANG_ENGLISH         "Victories"
 
 REFERENCE            view_all_prompt
 LANG_ENGLISH         "View Challenges"
@@ -14610,7 +17524,7 @@ REFERENCE            week_n
 LANG_ENGLISH         "Week ^5&&1^7"
 
 REFERENCE            week_n_master_challenge
-LANG_ENGLISH         "Week &&1 Master Challenge"
+LANG_ENGLISH         "Week &&1 Mastery Challenge"
 
 REFERENCE            weekly
 LANG_ENGLISH         "Weekly Challenges"
@@ -15456,7 +18370,7 @@ REFERENCE            weekly_s3_w6_chal_10_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills using the Cruise Missile"
 
 REFERENCE            weekly_s3_w6_chal_10_name
-LANG_ENGLISH         "Cruisin"
+LANG_ENGLISH         "Cruisin'"
 
 REFERENCE            weekly_s3_w7_chal_01_desc
 LANG_ENGLISH         "Win ^5&&1^7 Headquarters matches"
@@ -15567,7 +18481,7 @@ REFERENCE            weekly_s3_w8_chal_08_name
 LANG_ENGLISH         "Warhead"
 
 REFERENCE            weekly_s3_w8_chal_09_desc
-LANG_ENGLISH         "Stun Enemies ^5&&1^7 times with Concussion Grenades"
+LANG_ENGLISH         "Stun Enemies ^5&&1^7 times with Stun Grenades"
 
 REFERENCE            weekly_s3_w8_chal_09_name
 LANG_ENGLISH         "Distraction"
@@ -15699,7 +18613,7 @@ REFERENCE            weekly_s4_w2_chal_10_name
 LANG_ENGLISH         "Dead Silence"
 
 REFERENCE            weekly_s4_w3_chal_01_desc
-LANG_ENGLISH         "Get ^5&&1^7 Buzzkills(Kills when the enemy is 1 away from a killstreak)"
+LANG_ENGLISH         "Get ^5&&1^7 Buzzkills(Kills when the enemy is 1 away from a Killstreak)"
 
 REFERENCE            weekly_s4_w3_chal_01_name
 LANG_ENGLISH         "Buzzkills"
@@ -15741,7 +18655,7 @@ REFERENCE            weekly_s4_w3_chal_07_name
 LANG_ENGLISH         "Speed Headshots"
 
 REFERENCE            weekly_s4_w3_chal_08_desc
-LANG_ENGLISH         "Play ^5&&1^7 Matches of Team Deathmatch with Rodion as your Allegiance operator"
+LANG_ENGLISH         "Play ^5&&1^7 Matches of Team Deathmatch with Rodion as your Allegiance Operator"
 
 REFERENCE            weekly_s4_w3_chal_08_name
 LANG_ENGLISH         "Rodion TDM"
@@ -15909,7 +18823,7 @@ REFERENCE            weekly_s4_w6_chal_05_name
 LANG_ENGLISH         "Melee Backstab"
 
 REFERENCE            weekly_s4_w6_chal_06_desc
-LANG_ENGLISH         "Deploy the Manual Turret Killstreak ^5&&1^7 times"
+LANG_ENGLISH         "Deploy the Shield Turret Killstreak ^5&&1^7 times"
 
 REFERENCE            weekly_s4_w6_chal_06_name
 LANG_ENGLISH         "Manual Turret"
@@ -15975,7 +18889,7 @@ REFERENCE            weekly_s4_w7_chal_06_name
 LANG_ENGLISH         "Secondary Weapon Kills"
 
 REFERENCE            weekly_s4_w7_chal_07_desc
-LANG_ENGLISH         "Complete ^5&&1^7 Matches with Grinch as your Allegiance operator"
+LANG_ENGLISH         "Complete ^5&&1^7 Matches with Grinch as your Allegiance Operator"
 
 REFERENCE            weekly_s4_w7_chal_07_name
 LANG_ENGLISH         "Grinch Matches"
@@ -15987,10 +18901,10 @@ REFERENCE            weekly_s4_w7_chal_08_name
 LANG_ENGLISH         "Tactical Insert"
 
 REFERENCE            weekly_s4_w7_chal_09_desc
-LANG_ENGLISH         "Stun ^5&&1^7 Enemies using the Concussion Grenade"
+LANG_ENGLISH         "Stun ^5&&1^7 Enemies using the Stun Grenade"
 
 REFERENCE            weekly_s4_w7_chal_09_name
-LANG_ENGLISH         "Concussion Grenades"
+LANG_ENGLISH         "Stun Grenades"
 
 REFERENCE            weekly_s4_w7_chal_10_desc
 LANG_ENGLISH         "Get ^5&&1^7 Headshot kills while using Sub Machine Guns"
@@ -16057,6 +18971,486 @@ LANG_ENGLISH         "Complete ^5&&1^7 Matches of Ground War"
 
 REFERENCE            weekly_s4_w8_chal_10_name
 LANG_ENGLISH         "Ground War"
+
+REFERENCE            weekly_s5_w1_chal_01_desc
+LANG_ENGLISH         "Play &&1 matches with Wyatt and your Coalition Operator"
+
+REFERENCE            weekly_s5_w1_chal_01_name
+LANG_ENGLISH         "Wyatt Matches"
+
+REFERENCE            weekly_s5_w1_chal_02_desc
+LANG_ENGLISH         "Play &&1 Free-For-All matches"
+
+REFERENCE            weekly_s5_w1_chal_02_name
+LANG_ENGLISH         "Free-For-All"
+
+REFERENCE            weekly_s5_w1_chal_03_desc
+LANG_ENGLISH         "Kill &&1 Enemies with weapons you picked up off the ground"
+
+REFERENCE            weekly_s5_w1_chal_03_name
+LANG_ENGLISH         "Pickup Weapon Kills"
+
+REFERENCE            weekly_s5_w1_chal_04_desc
+LANG_ENGLISH         "Get &&1 Headshot Kills that are Longshots"
+
+REFERENCE            weekly_s5_w1_chal_04_name
+LANG_ENGLISH         "Headshot Longshots"
+
+REFERENCE            weekly_s5_w1_chal_05_desc
+LANG_ENGLISH         "Get &&1 Kills using a Sniper or Marksman Rifle"
+
+REFERENCE            weekly_s5_w1_chal_05_name
+LANG_ENGLISH         "Sniper/Marksman Kills"
+
+REFERENCE            weekly_s5_w1_chal_06_desc
+LANG_ENGLISH         "Call in the Personal UAV Killstreak &&1 Times"
+
+REFERENCE            weekly_s5_w1_chal_06_name
+LANG_ENGLISH         "Personal UAV"
+
+REFERENCE            weekly_s5_w1_chal_07_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Tracker perk"
+
+REFERENCE            weekly_s5_w1_chal_07_name
+LANG_ENGLISH         "Tracker Kills"
+
+REFERENCE            weekly_s5_w1_chal_08_desc
+LANG_ENGLISH         "Get &&1 Headshots using Assault Rifles"
+
+REFERENCE            weekly_s5_w1_chal_08_name
+LANG_ENGLISH         "Assault Rifle Headshots"
+
+REFERENCE            weekly_s5_w1_chal_09_desc
+LANG_ENGLISH         "Get &&1 Kills using C4"
+
+REFERENCE            weekly_s5_w1_chal_09_name
+LANG_ENGLISH         "C4 Kills"
+
+REFERENCE            weekly_s5_w1_chal_10_desc
+LANG_ENGLISH         "Deploy the Recon Drone Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w1_chal_10_name
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            weekly_s5_w2_chal_01_desc
+LANG_ENGLISH         "Play &&1 Matches of Gun Fight"
+
+REFERENCE            weekly_s5_w2_chal_01_name
+LANG_ENGLISH         "Gun Fight Matches"
+
+REFERENCE            weekly_s5_w2_chal_02_desc
+LANG_ENGLISH         "Get &&1 Headshots using Shotguns"
+
+REFERENCE            weekly_s5_w2_chal_02_name
+LANG_ENGLISH         "Shotgun Headshots"
+
+REFERENCE            weekly_s5_w2_chal_03_desc
+LANG_ENGLISH         "Deploy the EMP Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w2_chal_03_name
+LANG_ENGLISH         "EMP"
+
+REFERENCE            weekly_s5_w2_chal_04_desc
+LANG_ENGLISH         "Get &&1 One Shot kills"
+
+REFERENCE            weekly_s5_w2_chal_04_name
+LANG_ENGLISH         "One Shot Kills"
+
+REFERENCE            weekly_s5_w2_chal_05_desc
+LANG_ENGLISH         "Stun &&1 Enemies using Stun Grenades"
+
+REFERENCE            weekly_s5_w2_chal_05_name
+LANG_ENGLISH         "Concussion Stuns"
+
+REFERENCE            weekly_s5_w2_chal_06_desc
+LANG_ENGLISH         "Get &&1 Hipfire Kills"
+
+REFERENCE            weekly_s5_w2_chal_06_name
+LANG_ENGLISH         "Hipfire Kills"
+
+REFERENCE            weekly_s5_w2_chal_07_desc
+LANG_ENGLISH         "Call in the Cluster Strike Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w2_chal_07_name
+LANG_ENGLISH         "Cluster Strike"
+
+REFERENCE            weekly_s5_w2_chal_08_desc
+LANG_ENGLISH         "Play &&1 Matches while using Azur as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w2_chal_08_name
+LANG_ENGLISH         "Azur Wins"
+
+REFERENCE            weekly_s5_w2_chal_09_desc
+LANG_ENGLISH         "Get &&1 Kills while using an Assault Rifle"
+
+REFERENCE            weekly_s5_w2_chal_09_name
+LANG_ENGLISH         "Assault Rifle Kills"
+
+REFERENCE            weekly_s5_w2_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Battle Hardened Perk"
+
+REFERENCE            weekly_s5_w2_chal_10_name
+LANG_ENGLISH         "Battle Hardened Kills"
+
+REFERENCE            weekly_s5_w3_chal_01_desc
+LANG_ENGLISH         "Deploy the Trophy System Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w3_chal_01_name
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            weekly_s5_w3_chal_02_desc
+LANG_ENGLISH         "Complete &&1 Matches of Headquarters"
+
+REFERENCE            weekly_s5_w3_chal_02_name
+LANG_ENGLISH         "Headquarters Matches"
+
+REFERENCE            weekly_s5_w3_chal_03_desc
+LANG_ENGLISH         "Use Launchers to Kill &&1 players or destroy Killstreaks"
+
+REFERENCE            weekly_s5_w3_chal_03_name
+LANG_ENGLISH         "Launcher Kills"
+
+REFERENCE            weekly_s5_w3_chal_04_desc
+LANG_ENGLISH         "Get &&1 Headshots while using Pistols"
+
+REFERENCE            weekly_s5_w3_chal_04_name
+LANG_ENGLISH         "Pistol Headshots"
+
+REFERENCE            weekly_s5_w3_chal_05_desc
+LANG_ENGLISH         "Get &&1 Longshot Kills"
+
+REFERENCE            weekly_s5_w3_chal_05_name
+LANG_ENGLISH         "Longshot Kills"
+
+REFERENCE            weekly_s5_w3_chal_06_desc
+LANG_ENGLISH         "Get &&1 Kills while using the High Alert Perk"
+
+REFERENCE            weekly_s5_w3_chal_06_name
+LANG_ENGLISH         "High Alert Kills"
+
+REFERENCE            weekly_s5_w3_chal_07_desc
+LANG_ENGLISH         "Complete &&1 Matches while using Otter as your Coalition Operator"
+
+REFERENCE            weekly_s5_w3_chal_07_name
+LANG_ENGLISH         "Otter Matches"
+
+REFERENCE            weekly_s5_w3_chal_08_desc
+LANG_ENGLISH         "Call in the Wheelson Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w3_chal_08_name
+LANG_ENGLISH         "Wheelson"
+
+REFERENCE            weekly_s5_w3_chal_09_desc
+LANG_ENGLISH         "Execute &&1 Finishing Moves"
+
+REFERENCE            weekly_s5_w3_chal_09_name
+LANG_ENGLISH         "Finishing Moves"
+
+REFERENCE            weekly_s5_w3_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Proximity Mine"
+
+REFERENCE            weekly_s5_w3_chal_10_name
+LANG_ENGLISH         "Proximity Mine"
+
+REFERENCE            weekly_s5_w4_chal_01_desc
+LANG_ENGLISH         "Play &&1 Matches of Infected"
+
+REFERENCE            weekly_s5_w4_chal_01_name
+LANG_ENGLISH         "Infected Matches"
+
+REFERENCE            weekly_s5_w4_chal_02_desc
+LANG_ENGLISH         "Activate the Dead Silence Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w4_chal_02_name
+LANG_ENGLISH         "Dead Silence"
+
+REFERENCE            weekly_s5_w4_chal_03_desc
+LANG_ENGLISH         "Call in the UAV Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w4_chal_03_name
+LANG_ENGLISH         "UAV"
+
+REFERENCE            weekly_s5_w4_chal_04_desc
+LANG_ENGLISH         "Get &&1 Kills while using Shotguns"
+
+REFERENCE            weekly_s5_w4_chal_04_name
+LANG_ENGLISH         "Shotgun Kills"
+
+REFERENCE            weekly_s5_w4_chal_05_desc
+LANG_ENGLISH         "Complete &&1 matches while using Golem as your Coalition Operator"
+
+REFERENCE            weekly_s5_w4_chal_05_name
+LANG_ENGLISH         "Golem Matches"
+
+REFERENCE            weekly_s5_w4_chal_06_desc
+LANG_ENGLISH         "Get &&1 Kills while near Smoke"
+
+REFERENCE            weekly_s5_w4_chal_06_name
+LANG_ENGLISH         "Smoke Kills"
+
+REFERENCE            weekly_s5_w4_chal_07_desc
+LANG_ENGLISH         "Get &&1 Double Kills"
+
+REFERENCE            weekly_s5_w4_chal_07_name
+LANG_ENGLISH         "Double Kills"
+
+REFERENCE            weekly_s5_w4_chal_08_desc
+LANG_ENGLISH         "Get &&1 Headshots while using Light Machine Guns"
+
+REFERENCE            weekly_s5_w4_chal_08_name
+LANG_ENGLISH         "LMG Headshots"
+
+REFERENCE            weekly_s5_w4_chal_09_desc
+LANG_ENGLISH         "Get &&1 Throwing Knife Kills"
+
+REFERENCE            weekly_s5_w4_chal_09_name
+LANG_ENGLISH         "Throwing Knife Kills"
+
+REFERENCE            weekly_s5_w4_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Shrapnel Perk"
+
+REFERENCE            weekly_s5_w4_chal_10_name
+LANG_ENGLISH         "Shrapnel Kills"
+
+REFERENCE            weekly_s5_w5_chal_01_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Spotter Perk"
+
+REFERENCE            weekly_s5_w5_chal_01_name
+LANG_ENGLISH         "Spotter Kills"
+
+REFERENCE            weekly_s5_w5_chal_02_desc
+LANG_ENGLISH         "Complete &&1 Matches of Hardpoint"
+
+REFERENCE            weekly_s5_w5_chal_02_name
+LANG_ENGLISH         "Hardpoint Matches"
+
+REFERENCE            weekly_s5_w5_chal_03_desc
+LANG_ENGLISH         "Deploy the Counter UAV Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w5_chal_03_name
+LANG_ENGLISH         "Counter UAV"
+
+REFERENCE            weekly_s5_w5_chal_04_desc
+LANG_ENGLISH         "Get &&1 Headshots while using Sub Machine Guns"
+
+REFERENCE            weekly_s5_w5_chal_04_name
+LANG_ENGLISH         "Sub Machine Gun Headshots"
+
+REFERENCE            weekly_s5_w5_chal_05_desc
+LANG_ENGLISH         "Get &&1 Melee Kills"
+
+REFERENCE            weekly_s5_w5_chal_05_name
+LANG_ENGLISH         "Melee Kills"
+
+REFERENCE            weekly_s5_w5_chal_06_desc
+LANG_ENGLISH         "Get &&1 Quickscope Kills"
+
+REFERENCE            weekly_s5_w5_chal_06_name
+LANG_ENGLISH         "Quickscope Kills"
+
+REFERENCE            weekly_s5_w5_chal_07_desc
+LANG_ENGLISH         "Get &&1 Kills using Frag Grenades"
+
+REFERENCE            weekly_s5_w5_chal_07_name
+LANG_ENGLISH         "Frag Grenade Kills"
+
+REFERENCE            weekly_s5_w5_chal_08_desc
+LANG_ENGLISH         "Get &&1 Revenge Kills(Kill the enemy that last killed you)"
+
+REFERENCE            weekly_s5_w5_chal_08_name
+LANG_ENGLISH         "Revenge Kills"
+
+REFERENCE            weekly_s5_w5_chal_09_desc
+LANG_ENGLISH         "Deploy the Weapon Drop Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w5_chal_09_name
+LANG_ENGLISH         "Weapon Drop"
+
+REFERENCE            weekly_s5_w5_chal_10_desc
+LANG_ENGLISH         "Win &&1 matches while using Charly as your Coalition Operator"
+
+REFERENCE            weekly_s5_w5_chal_10_name
+LANG_ENGLISH         "Charly Wins"
+
+REFERENCE            weekly_s5_w6_chal_01_desc
+LANG_ENGLISH         "Get &&1 Double Kills while using a Launcher"
+
+REFERENCE            weekly_s5_w6_chal_01_name
+LANG_ENGLISH         "Launcher Double Kills"
+
+REFERENCE            weekly_s5_w6_chal_02_desc
+LANG_ENGLISH         "Complete &&1 matches of Team Deathmatch"
+
+REFERENCE            weekly_s5_w6_chal_02_name
+LANG_ENGLISH         "Team Deathmatch"
+
+REFERENCE            weekly_s5_w6_chal_03_desc
+LANG_ENGLISH         "Complete &&1 matches using Bale as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w6_chal_03_name
+LANG_ENGLISH         "Bale Matches"
+
+REFERENCE            weekly_s5_w6_chal_04_desc
+LANG_ENGLISH         "Call in the Precision Airstrike Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w6_chal_04_name
+LANG_ENGLISH         "Precision Airstrike"
+
+REFERENCE            weekly_s5_w6_chal_05_desc
+LANG_ENGLISH         "Get &&1 Point Blank kills"
+
+REFERENCE            weekly_s5_w6_chal_05_name
+LANG_ENGLISH         "Point Blank Kills"
+
+REFERENCE            weekly_s5_w6_chal_06_desc
+LANG_ENGLISH         "Get &&1 Headshots with your Secondary Weapon"
+
+REFERENCE            weekly_s5_w6_chal_06_name
+LANG_ENGLISH         "Secondary Weapon Headshots"
+
+REFERENCE            weekly_s5_w6_chal_07_desc
+LANG_ENGLISH         "Use the Tactical Insertion Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w6_chal_07_name
+LANG_ENGLISH         "Tactical Insertion"
+
+REFERENCE            weekly_s5_w6_chal_08_desc
+LANG_ENGLISH         "Blind &&1 enemies using Flash Grenades"
+
+REFERENCE            weekly_s5_w6_chal_08_name
+LANG_ENGLISH         "Flash Grenade"
+
+REFERENCE            weekly_s5_w6_chal_09_desc
+LANG_ENGLISH         "Get &&1 Kills using Sub Machine Guns"
+
+REFERENCE            weekly_s5_w6_chal_09_name
+LANG_ENGLISH         "Sub Machine Gun Kills"
+
+REFERENCE            weekly_s5_w6_chal_10_desc
+LANG_ENGLISH         "Get &&1 Kills while using the EOD Perk"
+
+REFERENCE            weekly_s5_w6_chal_10_name
+LANG_ENGLISH         "EOD Kills"
+
+REFERENCE            weekly_s5_w7_chal_01_desc
+LANG_ENGLISH         "Get &&1 Kills using a Semtex Grenade"
+
+REFERENCE            weekly_s5_w7_chal_01_name
+LANG_ENGLISH         "Semtex Kills"
+
+REFERENCE            weekly_s5_w7_chal_02_desc
+LANG_ENGLISH         "Activate the Stopping Power Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w7_chal_02_name
+LANG_ENGLISH         "Stopping Power"
+
+REFERENCE            weekly_s5_w7_chal_03_desc
+LANG_ENGLISH         "Complete &&1 Matches while using Kreuger as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w7_chal_03_name
+LANG_ENGLISH         "Kreuger Matches"
+
+REFERENCE            weekly_s5_w7_chal_04_desc
+LANG_ENGLISH         "Get &&1 Kills using Light Machine Guns"
+
+REFERENCE            weekly_s5_w7_chal_04_name
+LANG_ENGLISH         "Light Machine Gun Kills"
+
+REFERENCE            weekly_s5_w7_chal_05_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Quick Fix Perk"
+
+REFERENCE            weekly_s5_w7_chal_05_name
+LANG_ENGLISH         "Quick Fix Kills"
+
+REFERENCE            weekly_s5_w7_chal_06_desc
+LANG_ENGLISH         "Kill an Enemy with their own weapon &&1 times"
+
+REFERENCE            weekly_s5_w7_chal_06_name
+LANG_ENGLISH         "Enemy Weapon Kills"
+
+REFERENCE            weekly_s5_w7_chal_07_desc
+LANG_ENGLISH         "Complete &&1 Matches of Search and Destroy"
+
+REFERENCE            weekly_s5_w7_chal_07_name
+LANG_ENGLISH         "Search And Destroy"
+
+REFERENCE            weekly_s5_w7_chal_08_desc
+LANG_ENGLISH         "Get &&1 Defender Kills in Objective based game modes"
+
+REFERENCE            weekly_s5_w7_chal_08_name
+LANG_ENGLISH         "Defender Kills"
+
+REFERENCE            weekly_s5_w7_chal_09_desc
+LANG_ENGLISH         "Get &&1 Double Kills using a Melee weapon"
+
+REFERENCE            weekly_s5_w7_chal_09_name
+LANG_ENGLISH         "Melee Double Kills"
+
+REFERENCE            weekly_s5_w7_chal_10_desc
+LANG_ENGLISH         "Deploy the Shield Turret Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w7_chal_10_name
+LANG_ENGLISH         "Shield Turret"
+
+REFERENCE            weekly_s5_w8_chal_01_desc
+LANG_ENGLISH         "Get &&1 Attacker kills in Objective based game modes"
+
+REFERENCE            weekly_s5_w8_chal_01_name
+LANG_ENGLISH         "Attacker Kills"
+
+REFERENCE            weekly_s5_w8_chal_02_desc
+LANG_ENGLISH         "Get &&1 Kills while using the Cold-Blooded Perk"
+
+REFERENCE            weekly_s5_w8_chal_02_name
+LANG_ENGLISH         "Cold Blooded Kills"
+
+REFERENCE            weekly_s5_w8_chal_03_desc
+LANG_ENGLISH         "Get &&1 Kills while using Pistols"
+
+REFERENCE            weekly_s5_w8_chal_03_name
+LANG_ENGLISH         "Pistol Kills"
+
+REFERENCE            weekly_s5_w8_chal_04_desc
+LANG_ENGLISH         "Regain &&1 Health from using the Stim equipment"
+
+REFERENCE            weekly_s5_w8_chal_04_name
+LANG_ENGLISH         "Stim"
+
+REFERENCE            weekly_s5_w8_chal_05_desc
+LANG_ENGLISH         "Complete &&1 Matches of Domination"
+
+REFERENCE            weekly_s5_w8_chal_05_name
+LANG_ENGLISH         "Domination Matches"
+
+REFERENCE            weekly_s5_w8_chal_06_desc
+LANG_ENGLISH         "Get &&1 Headshots using Sniper or Marksman Rifles"
+
+REFERENCE            weekly_s5_w8_chal_06_name
+LANG_ENGLISH         "Sniper/Marksman Headshots"
+
+REFERENCE            weekly_s5_w8_chal_07_desc
+LANG_ENGLISH         "Get &&1 Kills while Sliding"
+
+REFERENCE            weekly_s5_w8_chal_07_name
+LANG_ENGLISH         "Sliding Kills"
+
+REFERENCE            weekly_s5_w8_chal_08_desc
+LANG_ENGLISH         "Win &&1 Matches while using Zane as your Allegiance Operator"
+
+REFERENCE            weekly_s5_w8_chal_08_name
+LANG_ENGLISH         "Zane Wins"
+
+REFERENCE            weekly_s5_w8_chal_09_desc
+LANG_ENGLISH         "Deploy the Munition Box Field Upgrade &&1 times"
+
+REFERENCE            weekly_s5_w8_chal_09_name
+LANG_ENGLISH         "Munitions Box"
+
+REFERENCE            weekly_s5_w8_chal_10_desc
+LANG_ENGLISH         "Call in the Care Package Killstreak &&1 times"
+
+REFERENCE            weekly_s5_w8_chal_10_name
+LANG_ENGLISH         "Care Package"
 
 REFERENCE            x_dash_y
 LANG_ENGLISH         "&&1 - &&2"

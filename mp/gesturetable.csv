@@ -15,7 +15,7 @@ gesture013,iw8_ges_plyr_gesture013,LUA_MENU/GESTURE013,,ui_gesture_live,0,,,13,l
 gesture014,iw8_ges_plyr_gesture014,LUA_MENU/GESTURE014,,ui_gesture_kill,0,,,14,loot,,ui_gesture_kill,ui_loot_gesture_kill,0,
 gesture015,iw8_ges_plyr_gesture015,LUA_MENU/GESTURE015,,ui_gesture_sniper,0,,,15,loot,,ui_gesture_sniper,ui_loot_gesture_sniper,0,
 gesture016,iw8_ges_plyr_gesture016,LUA_MENU/GESTURE016,,ui_gesture_west_side,0,,,16,loot,,ui_gesture_west_side,ui_loot_gesture_west_side,0,
-gesture017,iw8_ges_plyr_gesture017,LUA_MENU/GESTURE017,,ui_gesture_ok,0,,,17,loot,,ui_gesture_ok,ui_loot_gesture_ok,0,
+gesture017,iw8_ges_plyr_gesture001,LUA_MENU/GESTURE042,,ui_gesture_crush,0,,,17,loot,,ui_gesture_crush,ui_loot_gesture_crush,0,
 gesture018,iw8_ges_plyr_gesture018,LUA_MENU/GESTURE018,,ui_gesture_lights_on,0,,,18,loot,,ui_gesture_lights_on,ui_loot_gesture_lights_on,0,
 gesture019,iw8_ges_plyr_gesture019,LUA_MENU/GESTURE019,,ui_gesture_lights_off,0,,,19,loot,,ui_gesture_lights_off,ui_loot_gesture_lights_off,0,
 gesture023,iw8_ges_plyr_gesture023,LUA_MENU/GESTURE023,,ui_gesture_watch_interact,0,,,20,loot,,ui_gesture_watch_interact,ui_loot_gesture_watch_interact,1,

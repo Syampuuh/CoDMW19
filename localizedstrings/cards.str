@@ -42,7 +42,7 @@ REFERENCE            st_card_10
 LANG_ENGLISH         "Scoped In"
 
 REFERENCE            st_card_100
-LANG_ENGLISH         "Card 100"
+LANG_ENGLISH         "ST_CARD_100"
 
 REFERENCE            st_card_1000
 LANG_ENGLISH         "Taking Cover"
@@ -135,7 +135,7 @@ REFERENCE            st_card_1027
 LANG_ENGLISH         "Grand Night Out"
 
 REFERENCE            st_card_1028
-LANG_ENGLISH         "ST CARD 1028"
+LANG_ENGLISH         "Ghost Town"
 
 REFERENCE            st_card_1029
 LANG_ENGLISH         "Harsh Landscape"
@@ -204,19 +204,19 @@ REFERENCE            st_card_1048
 LANG_ENGLISH         "Ready to Strike"
 
 REFERENCE            st_card_1049
-LANG_ENGLISH         "ST CARD 1049"
+LANG_ENGLISH         "Pack Leader"
 
 REFERENCE            st_card_105
 LANG_ENGLISH         "Heaven Sent"
 
 REFERENCE            st_card_1050
-LANG_ENGLISH         "ST CARD 1050"
+LANG_ENGLISH         "Anansi"
 
 REFERENCE            st_card_1051
-LANG_ENGLISH         "ST CARD 1051"
+LANG_ENGLISH         "Butterfly Kisses"
 
 REFERENCE            st_card_1052
-LANG_ENGLISH         "ST CARD 1052"
+LANG_ENGLISH         "Killing Field"
 
 REFERENCE            st_card_1053
 LANG_ENGLISH         "ST CARD 1053"
@@ -228,22 +228,22 @@ REFERENCE            st_card_1055
 LANG_ENGLISH         "ST CARD 1055"
 
 REFERENCE            st_card_1056
-LANG_ENGLISH         "ST CARD 1056"
+LANG_ENGLISH         "Butterfly Kisses"
 
 REFERENCE            st_card_1057
 LANG_ENGLISH         "ST CARD 1057"
 
 REFERENCE            st_card_1058
-LANG_ENGLISH         "ST CARD 1058"
+LANG_ENGLISH         "Ferocious"
 
 REFERENCE            st_card_1059
-LANG_ENGLISH         "ST CARD 1059"
+LANG_ENGLISH         "Jungle Prince"
 
 REFERENCE            st_card_106
 LANG_ENGLISH         "Decked to the Nines"
 
 REFERENCE            st_card_1060
-LANG_ENGLISH         "ST CARD 1060"
+LANG_ENGLISH         "Snapped Up"
 
 REFERENCE            st_card_1061
 LANG_ENGLISH         "ST CARD 1061"
@@ -252,22 +252,22 @@ REFERENCE            st_card_1062
 LANG_ENGLISH         "ST CARD 1062"
 
 REFERENCE            st_card_1063
-LANG_ENGLISH         "ST CARD 1063"
+LANG_ENGLISH         "Protein Diet"
 
 REFERENCE            st_card_1064
-LANG_ENGLISH         "ST CARD 1064"
+LANG_ENGLISH         "Deadlands"
 
 REFERENCE            st_card_1065
 LANG_ENGLISH         "ST CARD 1065"
 
 REFERENCE            st_card_1066
-LANG_ENGLISH         "ST CARD 1066"
+LANG_ENGLISH         "Under Your Skin"
 
 REFERENCE            st_card_1067
-LANG_ENGLISH         "ST CARD 1067"
+LANG_ENGLISH         "Arboreal Assault"
 
 REFERENCE            st_card_1068
-LANG_ENGLISH         "ST CARD 1068"
+LANG_ENGLISH         "Anansi"
 
 REFERENCE            st_card_1069
 LANG_ENGLISH         "ST CARD 1069"
@@ -285,13 +285,13 @@ REFERENCE            st_card_1072
 LANG_ENGLISH         "Lancer"
 
 REFERENCE            st_card_1073
-LANG_ENGLISH         "ST CARD 1073"
+LANG_ENGLISH         "Steel Jacket"
 
 REFERENCE            st_card_1074
-LANG_ENGLISH         "ST CARD 1074"
+LANG_ENGLISH         "Hunting Grounds"
 
 REFERENCE            st_card_1075
-LANG_ENGLISH         "ST CARD 1075"
+LANG_ENGLISH         "Steel Jacket"
 
 REFERENCE            st_card_1076
 LANG_ENGLISH         "ST CARD 1076"
@@ -312,7 +312,7 @@ REFERENCE            st_card_1080
 LANG_ENGLISH         "ST CARD 1080"
 
 REFERENCE            st_card_1081
-LANG_ENGLISH         "ST CARD 1081"
+LANG_ENGLISH         "The Pillager"
 
 REFERENCE            st_card_1082
 LANG_ENGLISH         "ST CARD 1082"
@@ -324,7 +324,7 @@ REFERENCE            st_card_1084
 LANG_ENGLISH         "ST CARD 1084"
 
 REFERENCE            st_card_1085
-LANG_ENGLISH         "ST CARD 1085"
+LANG_ENGLISH         "Hunting Grounds"
 
 REFERENCE            st_card_1086
 LANG_ENGLISH         "ST CARD 1086"
@@ -342,7 +342,7 @@ REFERENCE            st_card_109
 LANG_ENGLISH         "Online Dentist"
 
 REFERENCE            st_card_1090
-LANG_ENGLISH         "ST CARD 1090"
+LANG_ENGLISH         "Swashbuckler"
 
 REFERENCE            st_card_1091
 LANG_ENGLISH         "ST CARD 1091"
@@ -366,7 +366,7 @@ REFERENCE            st_card_1097
 LANG_ENGLISH         "ST CARD 1097"
 
 REFERENCE            st_card_1098
-LANG_ENGLISH         "ST CARD 1098"
+LANG_ENGLISH         "Royal Guard"
 
 REFERENCE            st_card_1099
 LANG_ENGLISH         "Hydra Hellfire"
@@ -384,7 +384,7 @@ REFERENCE            st_card_1101
 LANG_ENGLISH         "ST CARD 1101"
 
 REFERENCE            st_card_1102
-LANG_ENGLISH         "ST CARD 1102"
+LANG_ENGLISH         "Hell Awakened"
 
 REFERENCE            st_card_1103
 LANG_ENGLISH         "ST CARD 1103"
@@ -423,7 +423,7 @@ REFERENCE            st_card_1113
 LANG_ENGLISH         "ST CARD 1113"
 
 REFERENCE            st_card_1114
-LANG_ENGLISH         "ST CARD 1114"
+LANG_ENGLISH         "Get Over Here"
 
 REFERENCE            st_card_1115
 LANG_ENGLISH         "ST CARD 1115"
@@ -438,7 +438,7 @@ REFERENCE            st_card_1118
 LANG_ENGLISH         "ST CARD 1118"
 
 REFERENCE            st_card_1119
-LANG_ENGLISH         "ST CARD 1119"
+LANG_ENGLISH         "Off the Chain"
 
 REFERENCE            st_card_112
 LANG_ENGLISH         "Behind the Lines"
@@ -456,10 +456,10 @@ REFERENCE            st_card_1123
 LANG_ENGLISH         "ST CARD 1123"
 
 REFERENCE            st_card_1124
-LANG_ENGLISH         "ST CARD 1124"
+LANG_ENGLISH         "Dawn of the Machines"
 
 REFERENCE            st_card_1125
-LANG_ENGLISH         "ST CARD 1125"
+LANG_ENGLISH         "I Smell a Rat"
 
 REFERENCE            st_card_1126
 LANG_ENGLISH         "Psyched Out"
@@ -492,103 +492,103 @@ REFERENCE            st_card_1134
 LANG_ENGLISH         "SERE Kit: CQC Loadout"
 
 REFERENCE            st_card_1135
-LANG_ENGLISH         "ST CARD 1135"
+LANG_ENGLISH         "Atlanta Faze Supporter"
 
 REFERENCE            st_card_1136
-LANG_ENGLISH         "ST CARD 1136"
+LANG_ENGLISH         "Chicago Huntsmen Supporter"
 
 REFERENCE            st_card_1137
-LANG_ENGLISH         "ST CARD 1137"
+LANG_ENGLISH         "Dallas Empire Supporter"
 
 REFERENCE            st_card_1138
-LANG_ENGLISH         "ST CARD 1138"
+LANG_ENGLISH         "Florida Mutineers Supporter"
 
 REFERENCE            st_card_1139
-LANG_ENGLISH         "ST CARD 1139"
+LANG_ENGLISH         "Los Angeles Guerrillas Supporter"
 
 REFERENCE            st_card_114
 LANG_ENGLISH         "Ode to the Brave"
 
 REFERENCE            st_card_1140
-LANG_ENGLISH         "ST CARD 1140"
+LANG_ENGLISH         "OpTic Gaming Los Angeles Supporter"
 
 REFERENCE            st_card_1141
-LANG_ENGLISH         "ST CARD 1141"
+LANG_ENGLISH         "London Royal Ravens Supporter"
 
 REFERENCE            st_card_1142
-LANG_ENGLISH         "ST CARD 1142"
+LANG_ENGLISH         "Minnesota R??KKR Supporter"
 
 REFERENCE            st_card_1143
-LANG_ENGLISH         "ST CARD 1143"
+LANG_ENGLISH         "New York Subliners Supporter"
 
 REFERENCE            st_card_1144
-LANG_ENGLISH         "ST CARD 1144"
+LANG_ENGLISH         "Paris Legion Supporter"
 
 REFERENCE            st_card_1145
-LANG_ENGLISH         "ST CARD 1145"
+LANG_ENGLISH         "Seattle Surge Supporter"
 
 REFERENCE            st_card_1146
-LANG_ENGLISH         "ST CARD 1146"
+LANG_ENGLISH         "Toronto Ultra Supporter"
 
 REFERENCE            st_card_1147
-LANG_ENGLISH         "ST CARD 1147"
+LANG_ENGLISH         "Chalked"
 
 REFERENCE            st_card_1148
-LANG_ENGLISH         "ST CARD 1148"
+LANG_ENGLISH         "I'm Frying"
 
 REFERENCE            st_card_1149
-LANG_ENGLISH         "ST CARD 1149"
+LANG_ENGLISH         "2020 Champs"
 
 REFERENCE            st_card_115
 LANG_ENGLISH         "Unseen Strength"
 
 REFERENCE            st_card_1150
-LANG_ENGLISH         "ST CARD 1150"
+LANG_ENGLISH         "Bosnia and Herzegovina"
 
 REFERENCE            st_card_1151
-LANG_ENGLISH         "ST CARD 1151"
+LANG_ENGLISH         "Pride"
 
 REFERENCE            st_card_1152
-LANG_ENGLISH         "ST CARD 1152"
+LANG_ENGLISH         "Pride"
 
 REFERENCE            st_card_1153
-LANG_ENGLISH         "ST CARD 1153"
+LANG_ENGLISH         "Pride"
 
 REFERENCE            st_card_1154
-LANG_ENGLISH         "ST CARD 1154"
+LANG_ENGLISH         "Pride"
 
 REFERENCE            st_card_1155
-LANG_ENGLISH         "ST CARD 1155"
+LANG_ENGLISH         "Pride"
 
 REFERENCE            st_card_1156
-LANG_ENGLISH         "ST CARD 1156"
+LANG_ENGLISH         "ST_CARD_1156"
 
 REFERENCE            st_card_1157
-LANG_ENGLISH         "ST CARD 1157"
+LANG_ENGLISH         "Pride"
 
 REFERENCE            st_card_1158
-LANG_ENGLISH         "ST CARD 1158"
+LANG_ENGLISH         "Festival Fun"
 
 REFERENCE            st_card_1159
-LANG_ENGLISH         "ST CARD 1159"
+LANG_ENGLISH         "Road To Nowhere"
 
 REFERENCE            st_card_116
 LANG_ENGLISH         "Bird Incoming"
 
 REFERENCE            st_card_1160
-LANG_ENGLISH         "ST CARD 1160"
+LANG_ENGLISH         "Just Purrfect"
 
 REFERENCE            st_card_1161
-LANG_ENGLISH         "ST CARD 1161"
+LANG_ENGLISH         "War Eagle"
 
 REFERENCE            st_card_1162
-LANG_ENGLISH         "ST CARD 1162"
+LANG_ENGLISH         "SERE Kit: Plunder Player Loadout"
 
 REFERENCE            st_card_1163
-LANG_ENGLISH         "ST CARD 1163"
+LANG_ENGLISH         "Pro Pack: Rush Down Loadout"
 
 REFERENCE            st_card_1164
-LANG_ENGLISH         "ST CARD 1164"
+LANG_ENGLISH         "Pro Pack: Position Player Loadout"
 
 REFERENCE            st_card_1165
 LANG_ENGLISH         "ST CARD 1165"
@@ -612,85 +612,85 @@ REFERENCE            st_card_1170
 LANG_ENGLISH         "ST CARD 1170"
 
 REFERENCE            st_card_1171
-LANG_ENGLISH         "ST CARD 1171"
+LANG_ENGLISH         "Click Click Boom"
 
 REFERENCE            st_card_1172
 LANG_ENGLISH         "ST CARD 1172"
 
 REFERENCE            st_card_1173
-LANG_ENGLISH         "ST CARD 1173"
+LANG_ENGLISH         "Well Rounded"
 
 REFERENCE            st_card_1174
-LANG_ENGLISH         "ST CARD 1174"
+LANG_ENGLISH         "Candygram for Mongo"
 
 REFERENCE            st_card_1175
-LANG_ENGLISH         "ST CARD 1175"
+LANG_ENGLISH         "Moonshot"
 
 REFERENCE            st_card_1176
-LANG_ENGLISH         "ST CARD 1176"
+LANG_ENGLISH         "The Headhunt"
 
 REFERENCE            st_card_1177
-LANG_ENGLISH         "ST CARD 1177"
+LANG_ENGLISH         "To the Point"
 
 REFERENCE            st_card_1178
-LANG_ENGLISH         "ST CARD 1178"
+LANG_ENGLISH         "Party Pooper"
 
 REFERENCE            st_card_1179
-LANG_ENGLISH         "ST CARD 1179"
+LANG_ENGLISH         "Close to Home"
 
 REFERENCE            st_card_118
 LANG_ENGLISH         "Paid the Price"
 
 REFERENCE            st_card_1180
-LANG_ENGLISH         "ST CARD 1180"
+LANG_ENGLISH         "The Game Ends With You"
 
 REFERENCE            st_card_1181
-LANG_ENGLISH         "ST CARD 1181"
+LANG_ENGLISH         "The Party's Arrived"
 
 REFERENCE            st_card_1182
-LANG_ENGLISH         "ST CARD 1182"
+LANG_ENGLISH         "One For All"
 
 REFERENCE            st_card_1183
-LANG_ENGLISH         "ST CARD 1183"
+LANG_ENGLISH         "Glory Isn't Given"
 
 REFERENCE            st_card_1184
-LANG_ENGLISH         "ST CARD 1184"
+LANG_ENGLISH         "Atlanta Faze CDL Championship"
 
 REFERENCE            st_card_1185
-LANG_ENGLISH         "ST CARD 1185"
+LANG_ENGLISH         "Chicago Huntsmen CDL Championship"
 
 REFERENCE            st_card_1186
-LANG_ENGLISH         "ST CARD 1186"
+LANG_ENGLISH         "Dallas Empire CDL Championship"
 
 REFERENCE            st_card_1187
-LANG_ENGLISH         "ST CARD 1187"
+LANG_ENGLISH         "Florida Mutineers CDL Championship"
 
 REFERENCE            st_card_1188
-LANG_ENGLISH         "ST CARD 1188"
+LANG_ENGLISH         "Los Angeles Guerrillas CDL Championship"
 
 REFERENCE            st_card_1189
-LANG_ENGLISH         "ST CARD 1189"
+LANG_ENGLISH         "Optic Gaming Los Angeles CDL Championship"
 
 REFERENCE            st_card_119
 LANG_ENGLISH         "Kaleidoscope"
 
 REFERENCE            st_card_1190
-LANG_ENGLISH         "ST CARD 1190"
+LANG_ENGLISH         "London Royal Ravens CDL Championship"
 
 REFERENCE            st_card_1191
-LANG_ENGLISH         "ST CARD 1191"
+LANG_ENGLISH         "Minnesota R??kkr CDL Championship"
 
 REFERENCE            st_card_1192
-LANG_ENGLISH         "ST CARD 1192"
+LANG_ENGLISH         "New York Subliners CDL Championship"
 
 REFERENCE            st_card_1193
-LANG_ENGLISH         "ST CARD 1193"
+LANG_ENGLISH         "Paris Legion CDL Championship"
 
 REFERENCE            st_card_1194
-LANG_ENGLISH         "ST CARD 1194"
+LANG_ENGLISH         "Seattle Surge CDL Championship"
 
 REFERENCE            st_card_1195
-LANG_ENGLISH         "ST CARD 1195"
+LANG_ENGLISH         "Toronto Ultra CDL Championship"
 
 REFERENCE            st_card_1196
 LANG_ENGLISH         "ST CARD 1196"
@@ -732,10 +732,10 @@ REFERENCE            st_card_1206
 LANG_ENGLISH         "ST CARD 1206"
 
 REFERENCE            st_card_1207
-LANG_ENGLISH         "ST CARD 1207"
+LANG_ENGLISH         "Fields of the Fallen"
 
 REFERENCE            st_card_1208
-LANG_ENGLISH         "ST CARD 1208"
+LANG_ENGLISH         "Catch Your Death"
 
 REFERENCE            st_card_1209
 LANG_ENGLISH         "ST CARD 1209"
@@ -786,7 +786,7 @@ REFERENCE            st_card_1222
 LANG_ENGLISH         "ST CARD 1222"
 
 REFERENCE            st_card_1223
-LANG_ENGLISH         "ST CARD 1223"
+LANG_ENGLISH         "Grim Diadem"
 
 REFERENCE            st_card_1224
 LANG_ENGLISH         "ST CARD 1224"
@@ -813,13 +813,13 @@ REFERENCE            st_card_1230
 LANG_ENGLISH         "ST CARD 1230"
 
 REFERENCE            st_card_1231
-LANG_ENGLISH         "ST CARD 1231"
+LANG_ENGLISH         "Forever Loyal"
 
 REFERENCE            st_card_1232
 LANG_ENGLISH         "ST CARD 1232"
 
 REFERENCE            st_card_1233
-LANG_ENGLISH         "ST CARD 1233"
+LANG_ENGLISH         "Eyes On Target"
 
 REFERENCE            st_card_1234
 LANG_ENGLISH         "ST CARD 1234"
@@ -828,7 +828,7 @@ REFERENCE            st_card_1235
 LANG_ENGLISH         "ST CARD 1235"
 
 REFERENCE            st_card_1236
-LANG_ENGLISH         "ST CARD 1236"
+LANG_ENGLISH         "Unstoppable Force"
 
 REFERENCE            st_card_1237
 LANG_ENGLISH         "ST CARD 1237"
@@ -837,73 +837,73 @@ REFERENCE            st_card_1238
 LANG_ENGLISH         "ST CARD 1238"
 
 REFERENCE            st_card_1239
-LANG_ENGLISH         "ST CARD 1239"
+LANG_ENGLISH         "Company You Keep"
 
 REFERENCE            st_card_124
 LANG_ENGLISH         "My Collection"
 
 REFERENCE            st_card_1240
-LANG_ENGLISH         "ST CARD 1240"
+LANG_ENGLISH         "Lens Flare"
 
 REFERENCE            st_card_1241
-LANG_ENGLISH         "ST CARD 1241"
+LANG_ENGLISH         "Darkness Beckons"
 
 REFERENCE            st_card_1242
-LANG_ENGLISH         "ST CARD 1242"
+LANG_ENGLISH         "Shadow Dweller"
 
 REFERENCE            st_card_1243
 LANG_ENGLISH         "ST CARD 1243"
 
 REFERENCE            st_card_1244
-LANG_ENGLISH         "ST CARD 1244"
+LANG_ENGLISH         "Bad Company"
 
 REFERENCE            st_card_1245
-LANG_ENGLISH         "ST CARD 1245"
+LANG_ENGLISH         "In Good Company"
 
 REFERENCE            st_card_1246
-LANG_ENGLISH         "ST CARD 1246"
+LANG_ENGLISH         "Shop Smart"
 
 REFERENCE            st_card_1247
 LANG_ENGLISH         "ST CARD 1247"
 
 REFERENCE            st_card_1248
-LANG_ENGLISH         "ST CARD 1248"
+LANG_ENGLISH         "Shadow Ops: Lerch"
 
 REFERENCE            st_card_1249
-LANG_ENGLISH         "ST CARD 1249"
+LANG_ENGLISH         "Shadow Ops: Rodion"
 
 REFERENCE            st_card_125
 LANG_ENGLISH         "Arachnophobia"
 
 REFERENCE            st_card_1250
-LANG_ENGLISH         "ST CARD 1250"
+LANG_ENGLISH         "Shadow Ops: Otter"
 
 REFERENCE            st_card_1251
-LANG_ENGLISH         "ST CARD 1251"
+LANG_ENGLISH         "Shadow Ops: SC"
 
 REFERENCE            st_card_1252
-LANG_ENGLISH         "ST CARD 1252"
+LANG_ENGLISH         "Shadow Ops: Domino"
 
 REFERENCE            st_card_1253
-LANG_ENGLISH         "ST CARD 1253"
+LANG_ENGLISH         "Shadow Ops: JTF2"
 
 REFERENCE            st_card_1254
-LANG_ENGLISH         "ST CARD 1254"
+LANG_ENGLISH         "Shadow Ops: Yegor"
 
 REFERENCE            st_card_1255
-LANG_ENGLISH         "ST CARD 1255"
+LANG_ENGLISH         "Shadow Ops: Wyatt"
 
 REFERENCE            st_card_1256
-LANG_ENGLISH         "ST CARD 1256"
+LANG_ENGLISH         "Shadow Ops: Syd"
 
 REFERENCE            st_card_1257
-LANG_ENGLISH         "ST CARD 1257"
+LANG_ENGLISH         "Shadow Ops: Talon"
 
 REFERENCE            st_card_1258
-LANG_ENGLISH         "ST CARD 1258"
+LANG_ENGLISH         "Shadow Ops: Iskra"
 
 REFERENCE            st_card_1259
-LANG_ENGLISH         "ST CARD 1259"
+LANG_ENGLISH         "Shadow Ops: Roze"
 
 REFERENCE            st_card_126
 LANG_ENGLISH         "Smite Them"
@@ -1968,7 +1968,7 @@ REFERENCE            st_card_225
 LANG_ENGLISH         "Ready for More"
 
 REFERENCE            st_card_226
-LANG_ENGLISH         "Razzle Dazzle"
+LANG_ENGLISH         "Lightgun Trainer"
 
 REFERENCE            st_card_227
 LANG_ENGLISH         "Heart Breaker"
@@ -2070,7 +2070,7 @@ REFERENCE            st_card_256
 LANG_ENGLISH         "Empty Remains"
 
 REFERENCE            st_card_257
-LANG_ENGLISH         "Abandoned"
+LANG_ENGLISH         "Forlorn Hope"
 
 REFERENCE            st_card_258
 LANG_ENGLISH         "Drone"
@@ -2763,7 +2763,7 @@ REFERENCE            st_card_464
 LANG_ENGLISH         "Chopper Down"
 
 REFERENCE            st_card_465
-LANG_ENGLISH         "ST_CARD_465"
+LANG_ENGLISH         "Flying Low"
 
 REFERENCE            st_card_466
 LANG_ENGLISH         "ST_CARD_466"
@@ -3093,34 +3093,34 @@ REFERENCE            st_card_564
 LANG_ENGLISH         "Blue Tonight"
 
 REFERENCE            st_card_565
-LANG_ENGLISH         "ST_CARD_565"
+LANG_ENGLISH         "Take Your Pick"
 
 REFERENCE            st_card_566
 LANG_ENGLISH         "Heli Storm"
 
 REFERENCE            st_card_567
-LANG_ENGLISH         "ST_CARD_567"
+LANG_ENGLISH         "Sunset Crasher"
 
 REFERENCE            st_card_568
-LANG_ENGLISH         "ST_CARD_568"
+LANG_ENGLISH         "Boom Rush"
 
 REFERENCE            st_card_569
-LANG_ENGLISH         "ST_CARD_569"
+LANG_ENGLISH         "In-Flight Entertainment"
 
 REFERENCE            st_card_57
 LANG_ENGLISH         "Low Rider"
 
 REFERENCE            st_card_570
-LANG_ENGLISH         "ST_CARD_570"
+LANG_ENGLISH         "Patrol Guard"
 
 REFERENCE            st_card_571
-LANG_ENGLISH         "ST_CARD_571"
+LANG_ENGLISH         "Toss In The Dark"
 
 REFERENCE            st_card_572
-LANG_ENGLISH         "ST_CARD_572"
+LANG_ENGLISH         "Moonlight Firefight"
 
 REFERENCE            st_card_573
-LANG_ENGLISH         "ST_CARD_573"
+LANG_ENGLISH         "Up On Infrared"
 
 REFERENCE            st_card_574
 LANG_ENGLISH         "ST_CARD_574"
@@ -3153,19 +3153,19 @@ REFERENCE            st_card_582
 LANG_ENGLISH         "ST_CARD_582"
 
 REFERENCE            st_card_583
-LANG_ENGLISH         "ST_CARD_583"
+LANG_ENGLISH         "Tag Team"
 
 REFERENCE            st_card_584
-LANG_ENGLISH         "ST_CARD_584"
+LANG_ENGLISH         "Down The Barrel"
 
 REFERENCE            st_card_585
-LANG_ENGLISH         "ST_CARD_585"
+LANG_ENGLISH         "Chopper Dismount"
 
 REFERENCE            st_card_586
-LANG_ENGLISH         "ST_CARD_586"
+LANG_ENGLISH         "Down Wind"
 
 REFERENCE            st_card_587
-LANG_ENGLISH         "ST_CARD_587"
+LANG_ENGLISH         "Out for a Stroll"
 
 REFERENCE            st_card_588
 LANG_ENGLISH         "ST_CARD_588"
@@ -3264,7 +3264,7 @@ REFERENCE            st_card_615
 LANG_ENGLISH         "Wyvern's Firestorm"
 
 REFERENCE            st_card_616
-LANG_ENGLISH         "ST_CARD_616"
+LANG_ENGLISH         "Steel Will"
 
 REFERENCE            st_card_617
 LANG_ENGLISH         "ST_CARD_617"
@@ -3273,7 +3273,7 @@ REFERENCE            st_card_618
 LANG_ENGLISH         "ST_CARD_618"
 
 REFERENCE            st_card_619
-LANG_ENGLISH         "ST_CARD_619"
+LANG_ENGLISH         "Command Prompt"
 
 REFERENCE            st_card_62
 LANG_ENGLISH         "Rolling Horizon"
@@ -3282,10 +3282,10 @@ REFERENCE            st_card_620
 LANG_ENGLISH         "ST_CARD_620"
 
 REFERENCE            st_card_621
-LANG_ENGLISH         "ST_CARD_621"
+LANG_ENGLISH         "Firewall"
 
 REFERENCE            st_card_622
-LANG_ENGLISH         "ST_CARD_622"
+LANG_ENGLISH         "Total Deletion"
 
 REFERENCE            st_card_623
 LANG_ENGLISH         "Security Breach"
@@ -3300,7 +3300,7 @@ REFERENCE            st_card_626
 LANG_ENGLISH         "Uplinked"
 
 REFERENCE            st_card_627
-LANG_ENGLISH         "ST_CARD_627"
+LANG_ENGLISH         "Syntax Error"
 
 REFERENCE            st_card_628
 LANG_ENGLISH         "ST_CARD_628"
@@ -3330,7 +3330,7 @@ REFERENCE            st_card_635
 LANG_ENGLISH         "ST_CARD_635"
 
 REFERENCE            st_card_636
-LANG_ENGLISH         "ST_CARD_636"
+LANG_ENGLISH         "Interstellar Dreams"
 
 REFERENCE            st_card_637
 LANG_ENGLISH         "Nu-Disco"
@@ -3345,7 +3345,7 @@ REFERENCE            st_card_64
 LANG_ENGLISH         "On your Mind"
 
 REFERENCE            st_card_640
-LANG_ENGLISH         "ST_CARD_640"
+LANG_ENGLISH         "Do You Want Some More?"
 
 REFERENCE            st_card_641
 LANG_ENGLISH         "Mammoth Undertaking"
@@ -3360,13 +3360,13 @@ REFERENCE            st_card_644
 LANG_ENGLISH         "ST_CARD_644"
 
 REFERENCE            st_card_645
-LANG_ENGLISH         "ST_CARD_645"
+LANG_ENGLISH         "Light Runner"
 
 REFERENCE            st_card_646
 LANG_ENGLISH         "ST_CARD_646"
 
 REFERENCE            st_card_647
-LANG_ENGLISH         "ST_CARD_647"
+LANG_ENGLISH         "City Spinner"
 
 REFERENCE            st_card_648
 LANG_ENGLISH         "ST_CARD_648"
@@ -3387,7 +3387,7 @@ REFERENCE            st_card_652
 LANG_ENGLISH         "Goodbye, Cacti"
 
 REFERENCE            st_card_653
-LANG_ENGLISH         "ST_CARD_653"
+LANG_ENGLISH         "Adventures in Space"
 
 REFERENCE            st_card_654
 LANG_ENGLISH         "Headrush"
@@ -3435,7 +3435,7 @@ REFERENCE            st_card_667
 LANG_ENGLISH         "Kickin' It"
 
 REFERENCE            st_card_668
-LANG_ENGLISH         "ST_CARD_668"
+LANG_ENGLISH         "Action Hero"
 
 REFERENCE            st_card_669
 LANG_ENGLISH         "Lace Your Boots"
@@ -3444,55 +3444,55 @@ REFERENCE            st_card_67
 LANG_ENGLISH         "Take Flight"
 
 REFERENCE            st_card_670
-LANG_ENGLISH         "ST_CARD_670"
+LANG_ENGLISH         "Action Slide"
 
 REFERENCE            st_card_671
-LANG_ENGLISH         "ST_CARD_671"
+LANG_ENGLISH         "Safe At Home"
 
 REFERENCE            st_card_672
-LANG_ENGLISH         "ST_CARD_672"
+LANG_ENGLISH         "Caught Slipping"
 
 REFERENCE            st_card_673
 LANG_ENGLISH         "ST_CARD_673"
 
 REFERENCE            st_card_674
-LANG_ENGLISH         "ST_CARD_674"
+LANG_ENGLISH         "Let It Slide"
 
 REFERENCE            st_card_675
 LANG_ENGLISH         "ST_CARD_675"
 
 REFERENCE            st_card_676
-LANG_ENGLISH         "ST_CARD_676"
+LANG_ENGLISH         "Dark Corridor"
 
 REFERENCE            st_card_677
-LANG_ENGLISH         "ST_CARD_677"
+LANG_ENGLISH         "Abandoned Hangar"
 
 REFERENCE            st_card_678
-LANG_ENGLISH         "ST_CARD_678"
+LANG_ENGLISH         "Hidden Away"
 
 REFERENCE            st_card_679
-LANG_ENGLISH         "ST_CARD_679"
+LANG_ENGLISH         "Water Damage"
 
 REFERENCE            st_card_68
 LANG_ENGLISH         "Armored Corp"
 
 REFERENCE            st_card_680
-LANG_ENGLISH         "ST_CARD_680"
+LANG_ENGLISH         "Warehouse District"
 
 REFERENCE            st_card_681
 LANG_ENGLISH         "Drainage"
 
 REFERENCE            st_card_682
-LANG_ENGLISH         "ST_CARD_682"
+LANG_ENGLISH         "Rusted Over"
 
 REFERENCE            st_card_683
 LANG_ENGLISH         "ST_CARD_683"
 
 REFERENCE            st_card_684
-LANG_ENGLISH         "ST_CARD_684"
+LANG_ENGLISH         "Darkest Path"
 
 REFERENCE            st_card_685
-LANG_ENGLISH         "ST_CARD_685"
+LANG_ENGLISH         "To the Light"
 
 REFERENCE            st_card_686
 LANG_ENGLISH         "ST_CARD_686"
@@ -3501,28 +3501,28 @@ REFERENCE            st_card_687
 LANG_ENGLISH         "ST_CARD_687"
 
 REFERENCE            st_card_688
-LANG_ENGLISH         "ST_CARD_688"
+LANG_ENGLISH         "Under Construction"
 
 REFERENCE            st_card_689
-LANG_ENGLISH         "ST_CARD_689"
+LANG_ENGLISH         "Vaulted"
 
 REFERENCE            st_card_69
 LANG_ENGLISH         "Shadow of Death"
 
 REFERENCE            st_card_690
-LANG_ENGLISH         "ST_CARD_690"
+LANG_ENGLISH         "Catching Light"
 
 REFERENCE            st_card_691
-LANG_ENGLISH         "ST_CARD_691"
+LANG_ENGLISH         "Light Breaches"
 
 REFERENCE            st_card_692
-LANG_ENGLISH         "ST_CARD_692"
+LANG_ENGLISH         "Come On In"
 
 REFERENCE            st_card_693
-LANG_ENGLISH         "ST_CARD_693"
+LANG_ENGLISH         "Talk Is Cheap"
 
 REFERENCE            st_card_694
-LANG_ENGLISH         "ST_CARD_694"
+LANG_ENGLISH         "Trigger Happy"
 
 REFERENCE            st_card_695
 LANG_ENGLISH         "ST_CARD_695"
@@ -3534,10 +3534,10 @@ REFERENCE            st_card_697
 LANG_ENGLISH         "All Together Now"
 
 REFERENCE            st_card_698
-LANG_ENGLISH         "ST_CARD_698"
+LANG_ENGLISH         "Smoked Out"
 
 REFERENCE            st_card_699
-LANG_ENGLISH         "ST_CARD_699"
+LANG_ENGLISH         "High Fashion"
 
 REFERENCE            st_card_7
 LANG_ENGLISH         "Love Hurts"
@@ -3546,40 +3546,40 @@ REFERENCE            st_card_70
 LANG_ENGLISH         "Dry Heat"
 
 REFERENCE            st_card_700
-LANG_ENGLISH         "ST_CARD_700"
+LANG_ENGLISH         "Command Preformance"
 
 REFERENCE            st_card_701
-LANG_ENGLISH         "ST_CARD_701"
+LANG_ENGLISH         "Come Out Firing"
 
 REFERENCE            st_card_702
-LANG_ENGLISH         "ST_CARD_702"
+LANG_ENGLISH         "Boxed In"
 
 REFERENCE            st_card_703
 LANG_ENGLISH         "ST_CARD_703"
 
 REFERENCE            st_card_704
-LANG_ENGLISH         "ST_CARD_704"
+LANG_ENGLISH         "Red Maze"
 
 REFERENCE            st_card_705
-LANG_ENGLISH         "ST_CARD_705"
+LANG_ENGLISH         "Red Runs Deep"
 
 REFERENCE            st_card_706
-LANG_ENGLISH         "ST_CARD_706"
+LANG_ENGLISH         "We Out Here"
 
 REFERENCE            st_card_707
 LANG_ENGLISH         "ST_CARD_707"
 
 REFERENCE            st_card_708
-LANG_ENGLISH         "ST_CARD_708"
+LANG_ENGLISH         "Off The Rails"
 
 REFERENCE            st_card_709
-LANG_ENGLISH         "ST_CARD_709"
+LANG_ENGLISH         "Splinter Group"
 
 REFERENCE            st_card_71
 LANG_ENGLISH         "Airborne Man"
 
 REFERENCE            st_card_710
-LANG_ENGLISH         "ST_CARD_710"
+LANG_ENGLISH         "On The Ready"
 
 REFERENCE            st_card_711
 LANG_ENGLISH         "ST_CARD_711"
@@ -3588,31 +3588,31 @@ REFERENCE            st_card_712
 LANG_ENGLISH         "On Alert"
 
 REFERENCE            st_card_713
-LANG_ENGLISH         "ST_CARD_713"
+LANG_ENGLISH         "Moment's Notice"
 
 REFERENCE            st_card_714
 LANG_ENGLISH         "ST_CARD_714"
 
 REFERENCE            st_card_715
-LANG_ENGLISH         "ST_CARD_715"
+LANG_ENGLISH         "Fresh Clip"
 
 REFERENCE            st_card_716
 LANG_ENGLISH         "ST_CARD_716"
 
 REFERENCE            st_card_717
-LANG_ENGLISH         "ST_CARD_717"
+LANG_ENGLISH         "Walk Alone"
 
 REFERENCE            st_card_718
-LANG_ENGLISH         "ST_CARD_718"
+LANG_ENGLISH         "Fire Blast"
 
 REFERENCE            st_card_719
-LANG_ENGLISH         "ST_CARD_719"
+LANG_ENGLISH         "Death Proof"
 
 REFERENCE            st_card_72
 LANG_ENGLISH         "Into the Sunset"
 
 REFERENCE            st_card_720
-LANG_ENGLISH         "ST_CARD_720"
+LANG_ENGLISH         "Smell of Death"
 
 REFERENCE            st_card_721
 LANG_ENGLISH         "ST_CARD_721"
@@ -3639,25 +3639,25 @@ REFERENCE            st_card_728
 LANG_ENGLISH         "Still Alive"
 
 REFERENCE            st_card_729
-LANG_ENGLISH         "ST_CARD_729"
+LANG_ENGLISH         "Haunted Sky"
 
 REFERENCE            st_card_73
 LANG_ENGLISH         "Juiced Up"
 
 REFERENCE            st_card_730
-LANG_ENGLISH         "ST_CARD_730"
+LANG_ENGLISH         "The View From Here"
 
 REFERENCE            st_card_731
-LANG_ENGLISH         "ST_CARD_731"
+LANG_ENGLISH         "Through The Valley"
 
 REFERENCE            st_card_732
-LANG_ENGLISH         "ST_CARD_732"
+LANG_ENGLISH         "Hilltop"
 
 REFERENCE            st_card_733
 LANG_ENGLISH         "ST_CARD_733"
 
 REFERENCE            st_card_734
-LANG_ENGLISH         "ST_CARD_734"
+LANG_ENGLISH         "Dressed To Kill"
 
 REFERENCE            st_card_735
 LANG_ENGLISH         "ST_CARD_735"
@@ -3756,7 +3756,7 @@ REFERENCE            st_card_763
 LANG_ENGLISH         "Big Game"
 
 REFERENCE            st_card_764
-LANG_ENGLISH         "ST_CARD_764"
+LANG_ENGLISH         "Holy Mackerel"
 
 REFERENCE            st_card_765
 LANG_ENGLISH         "Split Order"
@@ -3765,7 +3765,7 @@ REFERENCE            st_card_766
 LANG_ENGLISH         "Successful Hunt"
 
 REFERENCE            st_card_767
-LANG_ENGLISH         "ST_CARD_767"
+LANG_ENGLISH         "Deep Sea Battle"
 
 REFERENCE            st_card_768
 LANG_ENGLISH         "ST_CARD_768"
@@ -3795,7 +3795,7 @@ REFERENCE            st_card_775
 LANG_ENGLISH         "Through The Flames"
 
 REFERENCE            st_card_776
-LANG_ENGLISH         "ST_CARD_776"
+LANG_ENGLISH         "Innocence Lost"
 
 REFERENCE            st_card_777
 LANG_ENGLISH         "Drone Swarm"
@@ -3819,34 +3819,34 @@ REFERENCE            st_card_782
 LANG_ENGLISH         "Over the Cliffs"
 
 REFERENCE            st_card_783
-LANG_ENGLISH         "ST_CARD_783"
+LANG_ENGLISH         "In Position"
 
 REFERENCE            st_card_784
-LANG_ENGLISH         "ST_CARD_784"
+LANG_ENGLISH         "Battle Tested"
 
 REFERENCE            st_card_785
 LANG_ENGLISH         "Seeing Green"
 
 REFERENCE            st_card_786
-LANG_ENGLISH         "ST_CARD_786"
+LANG_ENGLISH         "Watch The Horizon"
 
 REFERENCE            st_card_787
-LANG_ENGLISH         "ST_CARD_787"
+LANG_ENGLISH         "On My Go"
 
 REFERENCE            st_card_788
-LANG_ENGLISH         "ST_CARD_788"
+LANG_ENGLISH         "Close Combat"
 
 REFERENCE            st_card_789
-LANG_ENGLISH         "ST_CARD_789"
+LANG_ENGLISH         "We Ride Together"
 
 REFERENCE            st_card_79
 LANG_ENGLISH         "Valorous"
 
 REFERENCE            st_card_790
-LANG_ENGLISH         "ST_CARD_790"
+LANG_ENGLISH         "Ruin"
 
 REFERENCE            st_card_791
-LANG_ENGLISH         "ST_CARD_791"
+LANG_ENGLISH         "More Firepower"
 
 REFERENCE            st_card_792
 LANG_ENGLISH         "In My Sights"
@@ -3897,7 +3897,7 @@ REFERENCE            st_card_805
 LANG_ENGLISH         "ST_CARD_805"
 
 REFERENCE            st_card_806
-LANG_ENGLISH         "ST_CARD_806"
+LANG_ENGLISH         "Smoke Shroud"
 
 REFERENCE            st_card_807
 LANG_ENGLISH         "Breach"
@@ -4071,7 +4071,7 @@ REFERENCE            st_card_858
 LANG_ENGLISH         "ST CARD 858"
 
 REFERENCE            st_card_859
-LANG_ENGLISH         "ST CARD 859"
+LANG_ENGLISH         "Inkwell"
 
 REFERENCE            st_card_86
 LANG_ENGLISH         "All Star"
@@ -4092,10 +4092,10 @@ REFERENCE            st_card_864
 LANG_ENGLISH         "Bounty Hunters"
 
 REFERENCE            st_card_865
-LANG_ENGLISH         "ST CARD 865"
+LANG_ENGLISH         "Drone On and On"
 
 REFERENCE            st_card_866
-LANG_ENGLISH         "ST CARD 866"
+LANG_ENGLISH         "Spot On"
 
 REFERENCE            st_card_867
 LANG_ENGLISH         "ST CARD 867"
@@ -4131,7 +4131,7 @@ REFERENCE            st_card_876
 LANG_ENGLISH         "ST CARD 876"
 
 REFERENCE            st_card_877
-LANG_ENGLISH         "ST CARD 877"
+LANG_ENGLISH         "Big Bang"
 
 REFERENCE            st_card_878
 LANG_ENGLISH         "Swing Into Action"
@@ -4170,7 +4170,7 @@ REFERENCE            st_card_888
 LANG_ENGLISH         "Gas Cloud"
 
 REFERENCE            st_card_889
-LANG_ENGLISH         "ST CARD 889"
+LANG_ENGLISH         "One Smug Jugg"
 
 REFERENCE            st_card_89
 LANG_ENGLISH         "Up in Arms"
@@ -4185,7 +4185,7 @@ REFERENCE            st_card_892
 LANG_ENGLISH         "ST CARD 892"
 
 REFERENCE            st_card_893
-LANG_ENGLISH         "ST CARD 893"
+LANG_ENGLISH         "Deadly Stowaway"
 
 REFERENCE            st_card_894
 LANG_ENGLISH         "ST CARD 894"
@@ -4371,7 +4371,7 @@ REFERENCE            st_card_948
 LANG_ENGLISH         "ST CARD 948"
 
 REFERENCE            st_card_949
-LANG_ENGLISH         "ST CARD 949"
+LANG_ENGLISH         "Call Your Shot"
 
 REFERENCE            st_card_94_loc
 LANG_ENGLISH         "Blessed Excrement"
@@ -4440,7 +4440,7 @@ REFERENCE            st_card_967
 LANG_ENGLISH         "The City Below"
 
 REFERENCE            st_card_968
-LANG_ENGLISH         "ST CARD 968"
+LANG_ENGLISH         "Light 'Em Up"
 
 REFERENCE            st_card_969
 LANG_ENGLISH         "ST CARD 969"
@@ -4553,6 +4553,9 @@ LANG_ENGLISH         "Falling with Style"
 REFERENCE            st_card_mc_damascus_ar_akilo47
 LANG_ENGLISH         "AK-47 Master: Damascus"
 
+REFERENCE            st_card_mc_damascus_ar_anovember94
+LANG_ENGLISH         "AN-94 Master: Damascus"
+
 REFERENCE            st_card_mc_damascus_ar_asierra12
 LANG_ENGLISH         "Oden Master: Damascus"
 
@@ -4566,7 +4569,7 @@ REFERENCE            st_card_mc_damascus_ar_galima
 LANG_ENGLISH         "CR-56 AMAX Master: Damascus"
 
 REFERENCE            st_card_mc_damascus_ar_kilo433
-LANG_ENGLISH         "Kilo141 Master: Damascus"
+LANG_ENGLISH         "Kilo 141 Master: Damascus"
 
 REFERENCE            st_card_mc_damascus_ar_mcharlie
 LANG_ENGLISH         "M13 Master: Damascus"
@@ -4614,10 +4617,10 @@ REFERENCE            st_card_mc_damascus_lm_pkilo
 LANG_ENGLISH         "PKM Master: Damascus"
 
 REFERENCE            st_card_mc_damascus_me_akimboblades
-LANG_ENGLISH         "Kali Sticks Master: Damascus"
+LANG_ENGLISH         "Dual Kodachis Master: Damascus"
 
 REFERENCE            st_card_mc_damascus_me_akimboblunt
-LANG_ENGLISH         "Kali Sticks Master: Gold"
+LANG_ENGLISH         "Kali Sticks Master: Damascus"
 
 REFERENCE            st_card_mc_damascus_me_riotshield
 LANG_ENGLISH         "Riot Shield Master: Damascus"
@@ -4664,6 +4667,9 @@ LANG_ENGLISH         "AUG Master: Damascus"
 REFERENCE            st_card_mc_damascus_sm_beta
 LANG_ENGLISH         "PP19 Bizon Master: Damascus"
 
+REFERENCE            st_card_mc_damascus_sm_charlie9
+LANG_ENGLISH         "ISO Master: Damascus"
+
 REFERENCE            st_card_mc_damascus_sm_mpapa5
 LANG_ENGLISH         "MP5 Master: Damascus"
 
@@ -4706,8 +4712,14 @@ LANG_ENGLISH         "MK2 Carbine Master: Damascus"
 REFERENCE            st_card_mc_damascus_sn_sksierra
 LANG_ENGLISH         "SKS Master: Damascus"
 
+REFERENCE            st_card_mc_damascus_sn_xmike109
+LANG_ENGLISH         "Rytec AMR Master: Damascus"
+
 REFERENCE            st_card_mc_gold_ar_akilo47
 LANG_ENGLISH         "AK-47 Master: Gold"
+
+REFERENCE            st_card_mc_gold_ar_anovember94
+LANG_ENGLISH         "AN-94 Master: Gold"
 
 REFERENCE            st_card_mc_gold_ar_asierra12
 LANG_ENGLISH         "Oden Master: Gold"
@@ -4770,7 +4782,7 @@ REFERENCE            st_card_mc_gold_lm_pkilo
 LANG_ENGLISH         "PKM Master: Gold"
 
 REFERENCE            st_card_mc_gold_me_akimboblades
-LANG_ENGLISH         "ST CARD MC GOLD ME AKIMBOBLADES"
+LANG_ENGLISH         "Dual Kodachis Master: Gold"
 
 REFERENCE            st_card_mc_gold_me_akimboblunt
 LANG_ENGLISH         "Kali Sticks Master: Gold"
@@ -4820,6 +4832,9 @@ LANG_ENGLISH         "AUG Master: Gold"
 REFERENCE            st_card_mc_gold_sm_beta
 LANG_ENGLISH         "PP19 Bizon Master: Gold"
 
+REFERENCE            st_card_mc_gold_sm_charlie9
+LANG_ENGLISH         "ISO Master: Gold"
+
 REFERENCE            st_card_mc_gold_sm_mpapa5
 LANG_ENGLISH         "MP5 Master: Gold"
 
@@ -4862,8 +4877,14 @@ LANG_ENGLISH         "MK2 Carbine Master: Gold"
 REFERENCE            st_card_mc_gold_sn_sksierra
 LANG_ENGLISH         "SKS Master: Gold"
 
+REFERENCE            st_card_mc_gold_sn_xmike109
+LANG_ENGLISH         "Rytec AMR Master: Gold"
+
 REFERENCE            st_card_mc_obsidian_ar_akilo47
 LANG_ENGLISH         "AK-47 Master: Obsidian"
+
+REFERENCE            st_card_mc_obsidian_ar_anovember94
+LANG_ENGLISH         "AN-94 Master: Obsidian"
 
 REFERENCE            st_card_mc_obsidian_ar_asierra12
 LANG_ENGLISH         "Oden Master: Obsidian"
@@ -4887,7 +4908,7 @@ REFERENCE            st_card_mc_obsidian_ar_mike4
 LANG_ENGLISH         "M4A1 Master: Obsidian"
 
 REFERENCE            st_card_mc_obsidian_ar_scharlie
-LANG_ENGLISH         "FN SCar 17 Master: Obsidian"
+LANG_ENGLISH         "FN Scar 17 Master: Obsidian"
 
 REFERENCE            st_card_mc_obsidian_ar_sierra552
 LANG_ENGLISH         "Grau 5.56 Master: Obsidian"
@@ -4926,7 +4947,7 @@ REFERENCE            st_card_mc_obsidian_lm_pkilo
 LANG_ENGLISH         "PKM Master: Obsidian"
 
 REFERENCE            st_card_mc_obsidian_me_akimboblades
-LANG_ENGLISH         "ST CARD MC OBSIDIAN ME AKIMBOBLADES"
+LANG_ENGLISH         "Dual Kodachis Master: Obsidian"
 
 REFERENCE            st_card_mc_obsidian_me_akimboblunt
 LANG_ENGLISH         "Kali Sticks Master: Obsidian"
@@ -4976,6 +4997,9 @@ LANG_ENGLISH         "AUG Master: Obsidian"
 REFERENCE            st_card_mc_obsidian_sm_beta
 LANG_ENGLISH         "PP19 Bizon Master: Obsidian"
 
+REFERENCE            st_card_mc_obsidian_sm_charlie9
+LANG_ENGLISH         "ISO Master: Obsidian"
+
 REFERENCE            st_card_mc_obsidian_sm_mpapa5
 LANG_ENGLISH         "MP5 Master: Obsidian"
 
@@ -5018,8 +5042,14 @@ LANG_ENGLISH         "MK2 Carbine Master: Obsidian"
 REFERENCE            st_card_mc_obsidian_sn_sksierra
 LANG_ENGLISH         "SKS Master: Obsidian"
 
+REFERENCE            st_card_mc_obsidian_sn_xmike109
+LANG_ENGLISH         "Rytec AMR Master: Obsidian"
+
 REFERENCE            st_card_mc_platinum_ar_akilo47
 LANG_ENGLISH         "AK-47 Master: Platinum"
+
+REFERENCE            st_card_mc_platinum_ar_anovember94
+LANG_ENGLISH         "AN-94 Master: Platinum"
 
 REFERENCE            st_card_mc_platinum_ar_asierra12
 LANG_ENGLISH         "Oden Master: Platinum"
@@ -5082,7 +5112,7 @@ REFERENCE            st_card_mc_platinum_lm_pkilo
 LANG_ENGLISH         "PKM Master: Platinum"
 
 REFERENCE            st_card_mc_platinum_me_akimboblades
-LANG_ENGLISH         "ST CARD MC PLATINUM ME AKIMBOBLADES"
+LANG_ENGLISH         "Dual Kodachis Master: Platinum"
 
 REFERENCE            st_card_mc_platinum_me_akimboblunt
 LANG_ENGLISH         "Kali Sticks Master: Platinum"
@@ -5132,6 +5162,9 @@ LANG_ENGLISH         "AUG Master: Platinum"
 REFERENCE            st_card_mc_platinum_sm_beta
 LANG_ENGLISH         "PP19 Bizon Master: Platinum"
 
+REFERENCE            st_card_mc_platinum_sm_charlie9
+LANG_ENGLISH         "ISO Master: Platinum"
+
 REFERENCE            st_card_mc_platinum_sm_mpapa5
 LANG_ENGLISH         "MP5 Master: Platinum"
 
@@ -5173,6 +5206,9 @@ LANG_ENGLISH         "MK2 Carbine Master: Platinum"
 
 REFERENCE            st_card_mc_platinum_sn_sksierra
 LANG_ENGLISH         "SKS Master: Platinum"
+
+REFERENCE            st_card_mc_platinum_sn_xmike109
+LANG_ENGLISH         "Rytec AMR Master: Platinum"
 
 
 ENDMARKER

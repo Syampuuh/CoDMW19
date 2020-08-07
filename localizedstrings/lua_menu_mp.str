@@ -599,6 +599,9 @@ LANG_ENGLISH         "Bounty"
 REFERENCE            br
 LANG_ENGLISH         "Battle Royale"
 
+REFERENCE            br200_desc
+LANG_ENGLISH         "Loot and Kill with 200 Players. Last team standing wins."
+
 REFERENCE            br_credits_memoriam
 LANG_ENGLISH         "IN MEMORIAM"
 
@@ -803,6 +806,12 @@ LANG_ENGLISH         "Juggernaut Royale"
 REFERENCE            brjugg_desc
 LANG_ENGLISH         "Fight over Juggernaut armor drops and be the last team standing."
 
+REFERENCE            brking
+LANG_ENGLISH         "King Slayer"
+
+REFERENCE            brking_desc
+LANG_ENGLISH         "Fight for dominance over all other teams."
+
 REFERENCE            brm
 LANG_ENGLISH         "BR Missions"
 
@@ -814,6 +823,12 @@ LANG_ENGLISH         "Recipe based on the BR Missions mode"
 
 REFERENCE            brm_recipe_name
 LANG_ENGLISH         "BR Missions Recipe"
+
+REFERENCE            brmini
+LANG_ENGLISH         "Mini Royale"
+
+REFERENCE            brmini_desc
+LANG_ENGLISH         "Fight to the last team standing in a fast paced Battle Royale."
 
 REFERENCE            brmogulag_desc1
 LANG_ENGLISH         "Mo' Gulag, Mo' Problems. Dead players go to Gulag until the final 3 circles."
@@ -838,6 +853,12 @@ LANG_ENGLISH         "The Circle is faster than a running player. Vehicles will 
 
 REFERENCE            brself_desc
 LANG_ENGLISH         "BR with automatic Revives until late game when you have enough money upon death. Gulag is disabled"
+
+REFERENCE            brtruck
+LANG_ENGLISH         "Truck War"
+
+REFERENCE            brtruck_desc
+LANG_ENGLISH         "Protect your vehicle against all odds."
 
 REFERENCE            btm
 LANG_ENGLISH         "Fire Mission"
@@ -1179,11 +1200,38 @@ LANG_ENGLISH         "Grind and Cranked Mosh Pit."
 REFERENCE            crash_247_desc
 LANG_ENGLISH         "Fast-paced 6v6 MOSH PIT in Crash!"
 
+REFERENCE            crash_four_players
+LANG_ENGLISH         "Crash - Four Players"
+
+REFERENCE            crash_four_players_desc
+LANG_ENGLISH         "Crash Leaderboard - Four Players"
+
+REFERENCE            crash_solo
+LANG_ENGLISH         "Crash - Solo"
+
+REFERENCE            crash_solo_desc
+LANG_ENGLISH         "Crash Leaderboard - Solo"
+
+REFERENCE            crash_three_players
+LANG_ENGLISH         "Crash - Three Players"
+
+REFERENCE            crash_three_players_desc
+LANG_ENGLISH         "Crash Leaderboard - Three Players"
+
+REFERENCE            crash_two_players
+LANG_ENGLISH         "Crash - Two Players"
+
+REFERENCE            crash_two_players_desc
+LANG_ENGLISH         "Crash Leaderboard - Two Players"
+
 REFERENCE            crashhouse_247_desc
 LANG_ENGLISH         "Crash and Shoot House Moshpit"
 
 REFERENCE            crates_count
 LANG_ENGLISH         "x&&1"
+
+REFERENCE            creator_code_case_sensitive
+LANG_ENGLISH         "*Codes are case sensitive."
 
 REFERENCE            creator_codes
 LANG_ENGLISH         "Creator Codes"
@@ -1192,7 +1240,7 @@ REFERENCE            creator_codes_popup_desc
 LANG_ENGLISH         "Support your favorite Call of Duty creator with your in-game purchases. Creators will receive a portion of each purchase made using their code. This code will expire after 14 days. Enter the creator code below."
 
 REFERENCE            creator_not_found
-LANG_ENGLISH         "*Creator not found"
+LANG_ENGLISH         "*Creator not found. Codes are case sensitive."
 
 REFERENCE            critical_damage
 LANG_ENGLISH         "Critical Damage"
@@ -2583,6 +2631,12 @@ LANG_ENGLISH         "Kills Without Dying"
 REFERENCE            killstreak_exe
 LANG_ENGLISH         "killstreak.exe"
 
+REFERENCE            kingslayer_deaths
+LANG_ENGLISH         "Dethroned"
+
+REFERENCE            kingslayer_kills
+LANG_ENGLISH         "Kings Slain"
+
 REFERENCE            knife_fast_caps
 LANG_ENGLISH         "GOLD KNIFE"
 
@@ -3630,11 +3684,29 @@ LANG_ENGLISH         "RECON"
 REFERENCE            mission_extract_1_title
 LANG_ENGLISH         "CONTRABAND"
 
+REFERENCE            mission_history_desc
+LANG_ENGLISH         "Survey the sites"
+
+REFERENCE            mission_history_title
+LANG_ENGLISH         "KNOW YOUR HISTORY"
+
 REFERENCE            mission_participation
 LANG_ENGLISH         "Contracts"
 
 REFERENCE            mission_scavengerhunt_1_title
 LANG_ENGLISH         "SCAVENGER"
+
+REFERENCE            mission_secretstash_1_desc
+LANG_ENGLISH         "Find and Open the Hidden Cache"
+
+REFERENCE            mission_secretstash_1_title
+LANG_ENGLISH         "SAFE CRACKER"
+
+REFERENCE            mission_smokinggun_1_desc
+LANG_ENGLISH         "Complete the Cycle"
+
+REFERENCE            mission_smokinggun_1_title
+LANG_ENGLISH         "Smoking Gun"
 
 REFERENCE            mission_team_button_desc
 LANG_ENGLISH         "View Mission Team-exclusive Prototype Weapons."
@@ -3653,6 +3725,18 @@ LANG_ENGLISH         "SUPPLY RUN"
 
 REFERENCE            mission_vip_1_title
 LANG_ENGLISH         "MOST WANTED"
+
+REFERENCE            mission_x1fin_1_desc
+LANG_ENGLISH         "Find the "Woods""
+
+REFERENCE            mission_x1fin_1_title
+LANG_ENGLISH         "The Lost Woods"
+
+REFERENCE            mission_x1stash_desc
+LANG_ENGLISH         "Secure the Intel"
+
+REFERENCE            mission_x1stash_title
+LANG_ENGLISH         "SAFE CRACKER"
 
 REFERENCE            missionteam
 LANG_ENGLISH         "Mission Team"
@@ -4245,11 +4329,17 @@ LANG_ENGLISH         "[{ui_alt1}] Switch to: &&1"
 REFERENCE            playlist_type_kbm
 LANG_ENGLISH         "Playlist type: &&1"
 
+REFERENCE            plbldmny200_desc
+LANG_ENGLISH         "Plunder with a twist and 200 Players. Guaranteed cash drops on all kills. Bounty Contracts and Finishing Moves pay extra cash!"
+
 REFERENCE            plbldmny_desc
 LANG_ENGLISH         "Plunder with a twist. Guaranteed cash drops on all kills. Bounty Contracts and Finishing Moves pay extra cash!"
 
 REFERENCE            plbldmny_desc2
 LANG_ENGLISH         "Plunder with some tweaks. Guaranteed cash drops on all kills. Bounty Contracts and Finishing Moves pay extra cash!"
+
+REFERENCE            plnd_th_desc
+LANG_ENGLISH         "Collect as much cash as you can. Now with 200 Players."
 
 REFERENCE            plndduo_desc
 LANG_ENGLISH         "Teams of two. Collect as much cash as you can."
@@ -4839,6 +4929,18 @@ LANG_ENGLISH         "Shotguns"
 REFERENCE            riot
 LANG_ENGLISH         "Retaliation"
 
+REFERENCE            risk
+LANG_ENGLISH         "RISK"
+
+REFERENCE            risk_captures
+LANG_ENGLISH         "Captures"
+
+REFERENCE            risk_desc
+LANG_ENGLISH         "Capture plates to get tokens. Hold 10 tokens to win."
+
+REFERENCE            risk_tokens
+LANG_ENGLISH         "Tokens"
+
 REFERENCE            rivet
 LANG_ENGLISH         "Skydock"
 
@@ -4987,6 +5089,15 @@ LANG_ENGLISH         "Fan favorite ruleset: Custom pistol, throwing knife, no st
 REFERENCE            rules_aonftl
 LANG_ENGLISH         "???"
 
+REFERENCE            rules_arena_att_sn_scopes
+LANG_ENGLISH         "Add Sniper Scopes"
+
+REFERENCE            rules_arena_attachments
+LANG_ENGLISH         "OSP Attachments"
+
+REFERENCE            rules_arena_attachments_desc
+LANG_ENGLISH         "Add attachments to weapon pickups in OSP loadout ruleset."
+
 REFERENCE            rules_arena_bs_clamp
 LANG_ENGLISH         "Blast Shield damage clamp"
 
@@ -5019,6 +5130,9 @@ LANG_ENGLISH         "Loadouts"
 
 REFERENCE            rules_arena_loadouts_blueprint
 LANG_ENGLISH         "Random Blueprints"
+
+REFERENCE            rules_arena_loadouts_blueprint_custom
+LANG_ENGLISH         "Random Blueprint Custom"
 
 REFERENCE            rules_arena_loadouts_desc
 LANG_ENGLISH         "Determines which type of loadouts you can use."
@@ -7245,6 +7359,9 @@ LANG_ENGLISH         "Random"
 REFERENCE            rules_weapon_random_ar
 LANG_ENGLISH         "Random AR"
 
+REFERENCE            rules_weapon_random_dmr
+LANG_ENGLISH         "Random DMR"
+
 REFERENCE            rules_weapon_random_launcher
 LANG_ENGLISH         "Random Launcher"
 
@@ -7268,6 +7385,9 @@ LANG_ENGLISH         "Random SMG"
 
 REFERENCE            rules_weapon_random_sniper
 LANG_ENGLISH         "Random Sniper"
+
+REFERENCE            rules_weapon_random_sniperdmr
+LANG_ENGLISH         "Random Sniper / DMR"
 
 REFERENCE            rules_weapon_random_tactical
 LANG_ENGLISH         "Random Tactical"
@@ -7661,7 +7781,7 @@ REFERENCE            specops
 LANG_ENGLISH         "Special Ops"
 
 REFERENCE            speed_247_desc
-LANG_ENGLISH         "Fast-paced 6v6 MOSH PIT in the brand new Shoot House map. "
+LANG_ENGLISH         "Fast-paced 6v6 MOSH PIT in Shoot House"
 
 REFERENCE            split
 LANG_ENGLISH         "SPLIT"
@@ -7999,6 +8119,9 @@ LANG_ENGLISH         "Surplus Reward Level 2"
 
 REFERENCE            surplus_reward_level_3
 LANG_ENGLISH         "Surplus Reward Level 3"
+
+REFERENCE            survive
+LANG_ENGLISH         "Survive"
 
 REFERENCE            survivor_loadout
 LANG_ENGLISH         "Survivor Loadout"

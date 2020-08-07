@@ -2,6 +2,9 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            accessory089_flavor
+LANG_ENGLISH         "No snakes were harmed in the making of this timepiece. The Snakeskin Watch."
+
 REFERENCE            ar_akilo47_10_flavor
 LANG_ENGLISH         "Who needs nightvision when you have the Dusk Ripper Assault Rifle."
 
@@ -22,6 +25,12 @@ LANG_ENGLISH         "Polish them off with the War Saw Assault Rifle."
 
 REFERENCE            ar_akilo47_17_flavor
 LANG_ENGLISH         "Champion the motherland with the Temhota Assault Rifle."
+
+REFERENCE            ar_akilo47_18_flavor
+LANG_ENGLISH         "If your enemies are on the brink of death, the Last Rites Assault Rifle will help nudge them in the right direction."
+
+REFERENCE            ar_akilo47_19_flavor
+LANG_ENGLISH         "It's common knowledge that it is bad luck to cross paths with the Black Cat Assault Rifle."
 
 REFERENCE            ar_akilo47_1_flavor
 LANG_ENGLISH         "Farah Karim???s own assault rifle ???Revolution??? is a simple affair, whose Muzzle Brake, Skeleton Stock, and Mo??? Money Perk are all there in the interest of getting the job done."
@@ -50,6 +59,12 @@ LANG_ENGLISH         "They???ll be seeing red when you deploy with the Duly Devo
 REFERENCE            ar_akilo47_9_flavor
 LANG_ENGLISH         "The breath of the Golden Dragon assault rifle is delivered in a variety of flavors."
 
+REFERENCE            ar_anovember94_0_flavor
+LANG_ENGLISH         "Cutting edge 5.45x39mm Russian assault rifle with a unique ^3hyperburst^7 feature.  The initial shot from each trigger pull fires a rapid 2-round burst before perceived recoil is felt, creating a tightly grouped cluster with increased damage potential.  This mechanism is fed by a canted magazine, and a reciprocating receiver helps keep control of the recoil."
+
+REFERENCE            ar_anovember94_1_flavor
+LANG_ENGLISH         "Show them true strength with The Company's Might Assault Rifle, featuring a Shadowy ^1Tracer^7 Fire."
+
 REFERENCE            ar_asierra12_10_flavor
 LANG_ENGLISH         "Prowl the battlefield with the Devourer Assault Rifle."
 
@@ -59,8 +74,14 @@ LANG_ENGLISH         "Be a 'frags to riches' story with the Deep Pockets Assault
 REFERENCE            ar_asierra12_12_flavor
 LANG_ENGLISH         "If they can't stand the heat of your Lake of Fire Assault Rifle, that's their problem."
 
+REFERENCE            ar_asierra12_13_flavor
+LANG_ENGLISH         "The Invincible Arsenal Assault Rifle is a weapon that does not quit."
+
 REFERENCE            ar_asierra12_14_flavor
 LANG_ENGLISH         "Fade them to black with the Half Dying Assault Rifle."
+
+REFERENCE            ar_asierra12_16_flavor
+LANG_ENGLISH         "When they finally see your Johnny-On-The-Spot Assault rifle, it will be too late."
 
 REFERENCE            ar_asierra12_1_flavor
 LANG_ENGLISH         "Maul your enemies with the Carbon Bear Assault Rifle."
@@ -109,7 +130,7 @@ REFERENCE            ar_falima_3_flavor
 LANG_ENGLISH         "The Aristocrat is a thoroughbred semi-automatic assault rifle whose lineage was never in question due to it being furnished with a superlative roster of equipment: the Scout Combat Optic, an integrated Bipod, 30-Round Mags, and the Mo' Money Perk."
 
 REFERENCE            ar_falima_4_flavor
-LANG_ENGLISH         "The Retro Grade gets top marks as a semi-automatic assault rifle since it comes equipped with a Solozero NVG Enhanced scope, an XRK Marksman barrel, FORGE TAC Stalker stock attachment and the Fast Melee Perk."
+LANG_ENGLISH         "The Retro Grade gets top marks as a semi-automatic Assault Rifle since it comes equipped with a Solozero NVG Enhanced scope, an XRK Marksman barrel, FORGE TAC Stalker stock attachment and the Fast Melee Perk."
 
 REFERENCE            ar_falima_5_flavor
 LANG_ENGLISH         "Stormcloud is a semi-automatic assault rifle whose VLK 3.0x Optic, Muzzle Brake, XRK Marksman barrel, and Tac Laser will allow you to weather a torrent of incoming fire and return it with gusto."
@@ -165,6 +186,18 @@ LANG_ENGLISH         "This lightweight 7.62 x 39mm full auto assault rifle is co
 REFERENCE            ar_galima_1_flavor
 LANG_ENGLISH         "You've been sent on a mission, to kill. The Emissary Assault Rifle is going to help you complete that mission."
 
+REFERENCE            ar_galima_2_flavor
+LANG_ENGLISH         "Split up the enemy forces with The Divide Assault Rifle. Featuring ^1Dismemberment^7 rounds with blue ^1Tracer Fire^7."
+
+REFERENCE            ar_galima_3_flavor
+LANG_ENGLISH         "The Enigma Assault Rifle, you won't believe it 'till you see it."
+
+REFERENCE            ar_galima_4_flavor
+LANG_ENGLISH         "Strike unexpectedly with the Shadow Realm Assault Rifle, featuring a shadowy ^1Tracer^7 fire effect."
+
+REFERENCE            ar_galima_5_flavor
+LANG_ENGLISH         "The Ravenous Assault Rifle is hungry for kills, are you?"
+
 REFERENCE            ar_kilo433_10_flavor
 LANG_ENGLISH         "Have your enemies take a hike with the Fieldguide Assault Rifle."
 
@@ -201,6 +234,9 @@ LANG_ENGLISH         "Stay covert. Stay ahead. This is the Union Black Assault R
 REFERENCE            ar_kilo433_20_flavor
 LANG_ENGLISH         "Beach your enemies' plans with the Sandbar Assault Rifle."
 
+REFERENCE            ar_kilo433_21_flavor
+LANG_ENGLISH         "It's been said that Fiorentino Assault Rifle helped carve some of the Renaissance's most famous sculptures."
+
 REFERENCE            ar_kilo433_2_flavor
 LANG_ENGLISH         "The Regal Retribution is an assault rifle with a presence, both on and off the battlefield."
 
@@ -208,7 +244,7 @@ REFERENCE            ar_kilo433_3_flavor
 LANG_ENGLISH         "Take their chances of winning below zero with the Fatal Freeze Assault Rifle."
 
 REFERENCE            ar_kilo433_4_flavor
-LANG_ENGLISH         "The Brass Tacks assault rifle has been created in an effort to get back to basics, and the VLK 3.0x Optic, Flash Guard, Tactical Foregrip, and FSS Close Quarters Stock, are as reliable as they come."
+LANG_ENGLISH         "The Brass Tacks Assault Rifle has been created in an effort to get back to basics, and the VLK 3.0x Optic, Flash Guard, Tactical Foregrip, and FSS Close Quarters Stock, are as reliable as they come."
 
 REFERENCE            ar_kilo433_5_flavor
 LANG_ENGLISH         "While the name is only mildly amusing, the Kilobite Assault Rifle does however feature hilarious amounts of power and control."
@@ -225,17 +261,35 @@ LANG_ENGLISH         "Canted scope, blue tracers, and an ADS-activated laser. Wh
 REFERENCE            ar_kilo433_9_flavor
 LANG_ENGLISH         "This isn't your first rodeo. The Battle Tested Assault Rifle has been around the block a few times too."
 
+REFERENCE            ar_kilo433_v24
+LANG_ENGLISH         "AR_KILO433_V24"
+
 REFERENCE            ar_mcharlie_10_flavor
 LANG_ENGLISH         "Great for underground fights: unleash the Cagefighter Assault Rifle."
 
 REFERENCE            ar_mcharlie_11_flavor
 LANG_ENGLISH         "It's no illusion. It's the Forgotten Oasis Assault Rifle."
 
+REFERENCE            ar_mcharlie_12_flavor
+LANG_ENGLISH         "The King's Highway Assault Rifle, paved with gold and your enemies."
+
 REFERENCE            ar_mcharlie_13_flavor
 LANG_ENGLISH         "Death from above. And behind. This is the Sheet Lightning Assault Rifle."
 
 REFERENCE            ar_mcharlie_14_flavor
 LANG_ENGLISH         "Swoop in for the kill with the Blue Jay Assault Rifle."
+
+REFERENCE            ar_mcharlie_15_flavor
+LANG_ENGLISH         "Roast your enemies with the Old Chestnut Assault Rifle."
+
+REFERENCE            ar_mcharlie_16_flavor
+LANG_ENGLISH         "Reach for the stars, and then shoot them down with the Slaying Moon Assault Rifle."
+
+REFERENCE            ar_mcharlie_17_flavor
+LANG_ENGLISH         "Go with the flow when you use the Thames Assault Rifle."
+
+REFERENCE            ar_mcharlie_18_flavor
+LANG_ENGLISH         "Embrace the island life with the Galapagos Assault Rifle."
 
 REFERENCE            ar_mcharlie_1_flavor
 LANG_ENGLISH         "They say good things come in small packages and the Short Stuff Assault Rifle is no exception."
@@ -312,11 +366,26 @@ LANG_ENGLISH         "Fight for the greater good with the For The Cause Rifle."
 REFERENCE            ar_mike4_24_flavor
 LANG_ENGLISH         "The last thing they'll see is you emerging from the darkness with your Moonshadow Assault Rifle."
 
+REFERENCE            ar_mike4_25_flavor
+LANG_ENGLISH         "Take 'em back with the 1776 Assault Rifle,  featuring colored ^1Tracer Fire^7 that alternates between red, white, and blue."
+
 REFERENCE            ar_mike4_26_flavor
 LANG_ENGLISH         "Light them up with the Thunderclap Assault Rifle."
 
+REFERENCE            ar_mike4_27_flavor
+LANG_ENGLISH         "Play like the pros with the CDL Champs 2020 M4 Assault Rifle Blueprint."
+
+REFERENCE            ar_mike4_28_flavor
+LANG_ENGLISH         "Show them why you're always at the top with the Grail Quest Assault Rifle."
+
+REFERENCE            ar_mike4_29_flavor
+LANG_ENGLISH         "Haunt your enemies in their dreams with the Ghostly Recollection Assault Rifle."
+
 REFERENCE            ar_mike4_2_flavor
 LANG_ENGLISH         "No-frills fully automatic assault rifle from FORGE TAC is kitted out for rapid target acquisition and heavy firepower. For the no-nonsense soldier who???s ready to lay down lead on the move."
+
+REFERENCE            ar_mike4_31_flavor
+LANG_ENGLISH         "Creep up on 'em with the Spanish Moss Assault Rifle."
 
 REFERENCE            ar_mike4_3_bullet_1
 LANG_ENGLISH         "FSS 14.5" Tac Lite Compact Barrel"
@@ -334,7 +403,7 @@ REFERENCE            ar_mike4_4_flavor
 LANG_ENGLISH         "Calibrutal is a mean, powerhouse assault rifle that throws its weight around using these heavy-duty attachments: Corp Combat Holo Sight, FSS 14.5" Tac Lite barrel, FORGE TAC CQS stock, and .458 SOCOM 10-Round Mags."
 
 REFERENCE            ar_mike4_5_flavor
-LANG_ENGLISH         "Play hardball with the Short Stop Assault Rifle."
+LANG_ENGLISH         "Things can get dicey pretty quickly with the Grand Rapids Assault Rifle."
 
 REFERENCE            ar_mike4_6_flavor
 LANG_ENGLISH         "From the hip or down the sights, the XRK M4 Assault Rifle is downright deadly."
@@ -366,6 +435,12 @@ LANG_ENGLISH         "Wear it. Wield it. This is the Death Mask Assault Rifle."
 REFERENCE            ar_scharlie_15_flavor
 LANG_ENGLISH         "Lose your mind with the Psychosis Assault Rifle. Note: this weapon applies the ^1Cryo Dismemberment^7 effect."
 
+REFERENCE            ar_scharlie_16_flavor
+LANG_ENGLISH         "Keep things civil with the Diplomatic Relations Assault Rifle."
+
+REFERENCE            ar_scharlie_17_flavor
+LANG_ENGLISH         "Strike unexpectedly with the Black Adder Assault Rifle."
+
 REFERENCE            ar_scharlie_1_flavor
 LANG_ENGLISH         "This fully automatic assault rifle from Tempus Armament, with the longest barrel available, deals heavy damage to the furthest reaches of the warzone. Stippled grip tape helps control the additional weight, and frangible 7.62mm ammunition compromises targets who take non-lethal hits."
 
@@ -391,7 +466,7 @@ REFERENCE            ar_scharlie_4_flavor
 LANG_ENGLISH         "The red highlights on the otherwise white Snow Owl assault rifle won't help with camouflage, but will definitely win in style points."
 
 REFERENCE            ar_scharlie_5_flavor
-LANG_ENGLISH         "Featuring an integral Hybrid scope, Muzzle Brake, FTAC Hunter stock, 25-Round Mags, and the Frangible ??? Disabling Perk."
+LANG_ENGLISH         "Featuring an integral Hybrid scope, Muzzle Brake, FTAC Hunter stock, 25 Round Mags, and the Frangible ??? Disabling Perk."
 
 REFERENCE            ar_scharlie_6_flavor
 LANG_ENGLISH         "Leave plenty of indelible stains with the Sludge Assault Rifle."
@@ -408,8 +483,20 @@ LANG_ENGLISH         "Eat away at your enemy's convictions with the Acid Bath As
 REFERENCE            ar_sierra552_0_flavor
 LANG_ENGLISH         "This modular 5.56 weapon platform is lightweight and maneuverable, with exceptional range. Precision engineering and world-class aftermarket barrels give this weapon extreme potential."
 
+REFERENCE            ar_sierra552_10_flavor
+LANG_ENGLISH         "Polish off your enemies with the Alabaster Assault Rifle."
+
+REFERENCE            ar_sierra552_11_flavor
+LANG_ENGLISH         "The Noire Assault Rifle. As black as night and just as deadly. "
+
 REFERENCE            ar_sierra552_12_flavor
-LANG_ENGLISH         "Rise against tyranny with the Insolence Assault Rifle."
+LANG_ENGLISH         "While the Mortal Coil Assault Rifle doesn't have venom, its lead is just as deadly."
+
+REFERENCE            ar_sierra552_13_flavor
+LANG_ENGLISH         "Sniff them out with the Vizsla Assault Rifle."
+
+REFERENCE            ar_sierra552_17_flavor
+LANG_ENGLISH         "Strike it rich with the Mother Lode Assault Rifle, featuring gold ^1Tracer^7 fire and a ^1Golden Dismemberment^7 effect."
 
 REFERENCE            ar_sierra552_2_flavor
 LANG_ENGLISH         "Fill the mortal realm with the souls of the departed using the Shadowsight Assault Rifle."
@@ -421,7 +508,7 @@ REFERENCE            ar_sierra552_4_flavor
 LANG_ENGLISH         "Execute flawlessly with the Drawn and Quartered Assault Rifle."
 
 REFERENCE            ar_sierra552_5_flavor
-LANG_ENGLISH         "Bring your A-Game with the Prototype Alpha. Featuring purple tracer fire."
+LANG_ENGLISH         "Bring your A-game with the Prototype: Alpha, featuring purple ^1Tracer Fire^7."
 
 REFERENCE            ar_sierra552_6_flavor
 LANG_ENGLISH         "Don't let anyone know about your Contraband Assault Rifle, it's better for everyone."
@@ -438,8 +525,14 @@ LANG_ENGLISH         "Get intimate with the Rocker Box Assault Rifle."
 REFERENCE            ar_tango21_0_flavor
 LANG_ENGLISH         "A fully automatic bullpup 5.56mm assault rifle from XRK designed to dominate close quarters engagements.  Features an optional custom Cronen precision optic and good selection of barrels. The RAM-7 is the ideal rifle for aggressive and determined operators."
 
+REFERENCE            ar_tango21_10_flavor
+LANG_ENGLISH         "Draw them out with the Red Crown Assault Rifle."
+
 REFERENCE            ar_tango21_11_flavor
 LANG_ENGLISH         "Unleash your inner demons with the Hellspawn Assault Rifle."
+
+REFERENCE            ar_tango21_12_flavor
+LANG_ENGLISH         "Not that you need luck, but it's always good to have a backup plan."
 
 REFERENCE            ar_tango21_1_flavor
 LANG_ENGLISH         "A fully automatic bullpup 5.56mm assault rifle from XRK designed to dominate close quarters engagements.  Features an optional custom Cronen precision optic and good selection of barrels. The RAM-7 is the ideal rifle for aggressive and determined operators."
@@ -481,7 +574,10 @@ REFERENCE            ar_tango21_7_flavor
 LANG_ENGLISH         "Grant deathwishes with the Snap Dragon Assault Rifle."
 
 REFERENCE            ar_tango21_8_flavor
-LANG_ENGLISH         "The White Mountain Assault Rifle won???t just get you to the top, it???ll help you stay there."
+LANG_ENGLISH         "The White Mountains Assault Rifle won???t just get you to the top, it???ll help you stay there."
+
+REFERENCE            ar_tango21_9_flavor
+LANG_ENGLISH         "Do I have to repeat myself? It's the Mockingbird Assault Rifle."
 
 REFERENCE            lm_kilo121_10_flavor
 LANG_ENGLISH         "All routes point to victory with the Parallax LMG."
@@ -491,6 +587,9 @@ LANG_ENGLISH         "Take a toll on your enemies with the River Styx LMG."
 
 REFERENCE            lm_kilo121_13_flavor
 LANG_ENGLISH         "Show some teeth with the Saw Blade LMG."
+
+REFERENCE            lm_kilo121_14_flavor
+LANG_ENGLISH         "Use the Deep Blue LMG and take your enemies down with you."
 
 REFERENCE            lm_kilo121_1_flavor
 LANG_ENGLISH         "Unleash mo' damage with the Mighty Moe LMG."
@@ -525,6 +624,12 @@ LANG_ENGLISH         "They'll all be on your wavelength when you pull out the Pr
 REFERENCE            lm_lima86_12_flavor
 LANG_ENGLISH         "Punish your opponents with the Cruel Mistress LMG."
 
+REFERENCE            lm_lima86_15_flavor
+LANG_ENGLISH         "Leave nothing but bones with the Fishbone LMG."
+
+REFERENCE            lm_lima86_16_flavor
+LANG_ENGLISH         "They won't see you coming when you use the Cover of Night LMG."
+
 REFERENCE            lm_lima86_1_flavor
 LANG_ENGLISH         "When it comes to having a cunning plan, the Stratagem is first and last port of call. With its Muzzle Flash Guard, SA87 12.4" Factory Barrel, 50 Round Mags, SA87 Ultralight Hollow Stock, and Sleight of Hand Perk, it'll checkmate your opponent every time."
 
@@ -551,6 +656,15 @@ LANG_ENGLISH         "If you consort with the enemy, you'll need protection. Her
 
 REFERENCE            lm_lima86_9_flavor
 LANG_ENGLISH         "You'll be stockpiling kills in no time with the Survivalist LMG."
+
+REFERENCE            lm_mgolf34_12_flavor
+LANG_ENGLISH         "Your hard work has finally payed off, The Grind LMG!"
+
+REFERENCE            lm_mgolf34_14_flavor
+LANG_ENGLISH         "Protect sensitive information with the Cipher LMG."
+
+REFERENCE            lm_mgolf34_15_flavor
+LANG_ENGLISH         "The Iridescent LMG is the perfect pop of color in your armory."
 
 REFERENCE            lm_mgolf34_1_flavor
 LANG_ENGLISH         "Return fire with the BLOWtorch LMG."
@@ -582,11 +696,20 @@ LANG_ENGLISH         "Shiver some timbers with the Plankwalker LMG."
 REFERENCE            lm_mgolf36_0_flavor
 LANG_ENGLISH         "This versatile, fully automatic 5.56mm LMG developed by FORGE TAC is ideal for the gunsmith enthusiast. The Holger???s modular design is configurable for a broad range of engagements, making this weapon viable for any operation that comes your way."
 
+REFERENCE            lm_mgolf36_10_flavor
+LANG_ENGLISH         "The Catacombs LMG has a few skeletons in its closet. Go ahead and ask about 'em, It could always use more."
+
 REFERENCE            lm_mgolf36_11_flavor
 LANG_ENGLISH         "Time to wake up the city. This is the Dynatron LMG."
 
 REFERENCE            lm_mgolf36_12_flavor
 LANG_ENGLISH         "The Surgical LMG doesn't require a steady hand, but it helps."
+
+REFERENCE            lm_mgolf36_13_flavor
+LANG_ENGLISH         "The Colonial Standard is a standard issue LMG in the Earth Expeditionary Force, since you never know what you'll find out there."
+
+REFERENCE            lm_mgolf36_14_flavor
+LANG_ENGLISH         "Reel it in, it's the Tarpon LMG."
 
 REFERENCE            lm_mgolf36_1_flavor
 LANG_ENGLISH         "Let rot set in when you wield the Necrosis LMG."
@@ -624,8 +747,14 @@ LANG_ENGLISH         "Crush their spirits and dash their hopes with the Dream Ma
 REFERENCE            lm_mgolf36_6_flavor
 LANG_ENGLISH         "Sound the sirens with the Blues and Twos LMG."
 
+REFERENCE            lm_mgolf36_7_flavor
+LANG_ENGLISH         "Strike fear in their eyes with the Palliser LMG."
+
 REFERENCE            lm_mgolf36_8_flavor
 LANG_ENGLISH         "Rage out with the Soul of the Beast LMG."
+
+REFERENCE            lm_mgolf36_9_flavor
+LANG_ENGLISH         "Stay hidden with the Hunting Blind LMG."
 
 REFERENCE            lm_mkilo3_1_flavor
 LANG_ENGLISH         "The Glitch LMG isn't really cheating, but it comes close."
@@ -636,6 +765,9 @@ LANG_ENGLISH         "Have them questioning reality with the Synthetic Dreams LM
 REFERENCE            lm_mkilo3_3_flavor
 LANG_ENGLISH         "Unleash a blaze of bullets with the Phoenix Ignition LMG. Be careful not to burn your hands, this thing gets HOT."
 
+REFERENCE            lm_mkilo3_4_flavor
+LANG_ENGLISH         "Dig in deep with the Trencher LMG, which features the ^1Dismemberment^7 effect with shadowy ^1Tracer^7 fire."
+
 REFERENCE            lm_pkilo_10_flavor
 LANG_ENGLISH         "Break some bones with the Bludgeoner LMG - and ^1Dismember^7 them while you're at it!"
 
@@ -645,8 +777,17 @@ LANG_ENGLISH         "See your enemies in a whole new light with the Sunset Hue 
 REFERENCE            lm_pkilo_12_flavor
 LANG_ENGLISH         "Watt? You haven't tried the Conductor LMG?"
 
+REFERENCE            lm_pkilo_13_flavor
+LANG_ENGLISH         "Put an end to their reign with the Boru LMG."
+
 REFERENCE            lm_pkilo_14_flavor
 LANG_ENGLISH         "Lead the lambs in with the Slaughterhouse LMG."
+
+REFERENCE            lm_pkilo_16_flavor
+LANG_ENGLISH         "They're out of lives when you've got your Game Over LMG."
+
+REFERENCE            lm_pkilo_17_flavor
+LANG_ENGLISH         "Got a taste for blood? The Bloodlust LMG is for you!"
 
 REFERENCE            lm_pkilo_1_flavor
 LANG_ENGLISH         "You can often do your best work with the tools you???re given. The Standard Issue LMG."
@@ -709,7 +850,7 @@ REFERENCE            me_akimbo_blunt_2_flavor
 LANG_ENGLISH         "Beat them down with the Ram Jam Akimbo Melee Weapon."
 
 REFERENCE            me_riotshield_1_flavor
-LANG_ENGLISH         "Hold your ground with the Rampart Riotshield."
+LANG_ENGLISH         "Hold your ground with the Rampart Riot Shield."
 
 REFERENCE            me_riotshield_3_flavor
 LANG_ENGLISH         "Snap back at your opponents and retreat back to safety with the Carapace Riot Shield."
@@ -731,6 +872,12 @@ LANG_ENGLISH         "A gun you'll always want by your side???the Good Company P
 
 REFERENCE            pi_cpapa_1_flavor
 LANG_ENGLISH         "Silverfield Ordnance manufacture the .357 Barrel on the Enforcer pistol. It???s matched to Snake Shot shotgun pellets and the Mo' Money Perk for good measure."
+
+REFERENCE            pi_cpapa_20_flavor
+LANG_ENGLISH         "Don't let its plastic nature deceive you, the Token Gesture Pistol is deadly all the same."
+
+REFERENCE            pi_cpapa_21_flavor
+LANG_ENGLISH         "Go it alone with the High Plains Drifter Pistol."
 
 REFERENCE            pi_cpapa_2_flavor
 LANG_ENGLISH         "Hold your ground with the Defender Pistol."
@@ -777,8 +924,14 @@ LANG_ENGLISH         "Small, but full of deadly venom. This is the Cerastes Pist
 REFERENCE            pi_decho_16_flavor
 LANG_ENGLISH         "They'll think you're crazy for running the Heresy Pistol, show them you are with the included ^1Dismemberment^7 rounds."
 
+REFERENCE            pi_decho_17_flavor
+LANG_ENGLISH         "Lookin' good! The Pompadour Pistol."
+
 REFERENCE            pi_decho_1_flavor
 LANG_ENGLISH         "FORGE TAC .50 cal. hand cannon in plain black with a cold steel slide and heavy sanded matte finish. Rubberized grip tape will help kit out this bare-bones version of FORGE TAC???s most powerful handgun."
+
+REFERENCE            pi_decho_20_flavor
+LANG_ENGLISH         "Push their buttons with the Old Fuss and Feathers Pistol."
 
 REFERENCE            pi_decho_2_bullet_1
 LANG_ENGLISH         "Cold Steel Slide"
@@ -834,8 +987,14 @@ LANG_ENGLISH         "Spread them thin with the Guac My World Pistol."
 REFERENCE            pi_golf21_18_flavor
 LANG_ENGLISH         "Serve up the kills hot and fresh with the Order Up Pistol."
 
+REFERENCE            pi_golf21_19_flavor
+LANG_ENGLISH         "Unleash a flurry of bullets with the Silver Plume Pistol. Featuring ^1Dismemberment^7 rounds with blue ^1Tracer Fire^7"
+
 REFERENCE            pi_golf21_1_flavor
 LANG_ENGLISH         "Wash all the scum off the streets with the Urban Defiler Pistol."
+
+REFERENCE            pi_golf21_20_flavor
+LANG_ENGLISH         "Don't be afraid to take out the trash with the Spectra Pistol."
 
 REFERENCE            pi_golf21_2_flavor
 LANG_ENGLISH         "Custom .45 caliber handgun with a polygonal rifled barrel, custom machined slide, and constructed with lightweight durable polymer. The custom barrel extends effective range on this sidearm and bonus XP earned per kill will make any task pleasurable."
@@ -900,6 +1059,9 @@ LANG_ENGLISH         "The Callous Pistol doesn't care how you feel."
 REFERENCE            pi_mike1911_1_flavor
 LANG_ENGLISH         "Lose nevermore with the Corax Pistol."
 
+REFERENCE            pi_mike1911_21_flavor
+LANG_ENGLISH         "Take the path less traveled with The Old Road Pistol."
+
 REFERENCE            pi_mike1911_2_flavor
 LANG_ENGLISH         "Blindside your enemies with this tailor-made sidearm recovered and rebuilt from the wreckage of Barkov???s Gas Factory. A removable flash guard helps conceal your position and a polygonal rifled barrel increases your muzzle velocity as well as the effective range of this .45 pistol."
 
@@ -931,13 +1093,19 @@ REFERENCE            pi_mike1911_7_flavor
 LANG_ENGLISH         "When the smell of sulfur is in the air, look for the Sulfuric pistol with a Compensator, .45 Match Grade barrel, Rubberized Grip Tape, Tac Laser, and a Lightweight Trigger."
 
 REFERENCE            pi_mike1911_8_flavor
-LANG_ENGLISH         "The Blue Dwarf is a well-rounded and flashy pistol with blue tracer fire."
+LANG_ENGLISH         "The Blue Dwarf is a well-rounded and flashy pistol with blue ^1Tracer Fire^7."
 
 REFERENCE            pi_mike1911_9_flavor
 LANG_ENGLISH         "Go twelve rounds with the Fisticuffs Pistol."
 
 REFERENCE            pi_mike9_0_flavor
 LANG_ENGLISH         "Well rounded semi-auto 9mm pistol.  This unassuming sidearm excels in close range combat, and features gunsmithing capabilities unique to the pistol class that permit a variety of engagement strategies."
+
+REFERENCE            pi_mike9_10_flavor
+LANG_ENGLISH         "Haunt your enemies with the Phantom Limb Pistol."
+
+REFERENCE            pi_mike9_11_flavor
+LANG_ENGLISH         "Don't trust anyone, use the Remus Pistol."
 
 REFERENCE            pi_mike9_1_flavor
 LANG_ENGLISH         "When everything else goes south, the Guard One Pistol keeps on dropping tangos, like it???s going out of style."
@@ -946,13 +1114,28 @@ REFERENCE            pi_mike9_2_flavor
 LANG_ENGLISH         "Swarm your enemies with the Viceroy Pistol."
 
 REFERENCE            pi_mike9_3_flavor
-LANG_ENGLISH         "A single pull of the trigger has been said to drive a person mad. The Delirium Trigger Pistol."
+LANG_ENGLISH         "The Veins of Gold pistol will make anyone's blood run cold."
 
 REFERENCE            pi_mike9_4_flavor
 LANG_ENGLISH         "Bend the machines to your will with the Cybernetic Pistol."
 
 REFERENCE            pi_mike9_5_flavor
 LANG_ENGLISH         "You'll be fine with the Tis But A Scratch Pistol, your opponent... not so much."
+
+REFERENCE            pi_mike9_6_flavor
+LANG_ENGLISH         "Don't trust anyone, get the Web of Lies Pistol."
+
+REFERENCE            pi_mike9_7_flavor
+LANG_ENGLISH         "Doesn't get much better than the Apple Pie Pistol, featuring colored ^1Tracer Fire^7 that alternates between red, white, and blue."
+
+REFERENCE            pi_mike9_8_flavor
+LANG_ENGLISH         "Shift the tide with the Callisto Pistol."
+
+REFERENCE            pi_mike9_9_flavor
+LANG_ENGLISH         "The Badger Sett Pistol is perfect for making a quick escape."
+
+REFERENCE            pi_mike_9_8_flavor
+LANG_ENGLISH         "Contrary to popular belief, the moon actually got its name from the pistol. The Callisto."
 
 REFERENCE            pi_papa320_10_flavor
 LANG_ENGLISH         "Send them to the gulag with the Privet Pistol."
@@ -978,8 +1161,20 @@ LANG_ENGLISH         "Bid them adieu with the Goodbye, Stranger Pistol."
 REFERENCE            pi_papa320_17_flavor
 LANG_ENGLISH         "Victory is always in your sights with the Winner's Circle Pistol."
 
+REFERENCE            pi_papa320_18_flavor
+LANG_ENGLISH         "Watch their hopes of winning fade away when you use the Meltwater Pistol."
+
 REFERENCE            pi_papa320_1_flavor
 LANG_ENGLISH         "If you are looking for speed, efficiency and resiliency in a pistol, the Slick Steel, equipped with Solozero Optics Mini Reflex, Tac Laser, and the Frangible - Wounding Perk, fits the bill admirably."
+
+REFERENCE            pi_papa320_20_flavor
+LANG_ENGLISH         "Show off your skills using a sidearm with the CDL Champs 2020 M19 Pistol."
+
+REFERENCE            pi_papa320_21_flavor
+LANG_ENGLISH         "Discuss terms with the Parley Pistol."
+
+REFERENCE            pi_papa320_23_flavor
+LANG_ENGLISH         "They'll be belly up when you come at 'em with the Yellow Belly Pistol."
 
 REFERENCE            pi_papa320_2_flavor
 LANG_ENGLISH         "Someone???s got to do it, and if that someone is you, you???ll be glad you had the Dirty Business pistol with its Lightweight Trigger, 21 Round Mags, and Frangible - Wounding Perk."
@@ -1017,11 +1212,20 @@ LANG_ENGLISH         "Take out all the FNGs with the Green Horn Shotgun. You'll 
 REFERENCE            sh_charlie725_12_flavor
 LANG_ENGLISH         "More dangerous than an icepick. The Ice Storm Shotgun."
 
+REFERENCE            sh_charlie725_13_flavor
+LANG_ENGLISH         "Give 'em a cavity with the Confection SMG."
+
 REFERENCE            sh_charlie725_15_flavor
 LANG_ENGLISH         "Reached an impasse? Go head to head with your opponents using the Loggerhead Shotgun."
 
+REFERENCE            sh_charlie725_16_flavor
+LANG_ENGLISH         "You might take off a little more than they're used to. The Off the Top shotgun."
+
 REFERENCE            sh_charlie725_17_flavor
 LANG_ENGLISH         "Tell the squad to bring a mop. This is the Crimson Pools Shotgun. Note: this weapon applies ^1Dismemberment^7."
+
+REFERENCE            sh_charlie725_18_flavor
+LANG_ENGLISH         "Just two shots before reload, make 'em count! The Apodora Shotgun."
 
 REFERENCE            sh_charlie725_1_flavor
 LANG_ENGLISH         "Every call is the right call with the Judgement Shotgun."
@@ -1058,6 +1262,12 @@ LANG_ENGLISH         "Get out of the weeds with the In The Tall Grass Shotgun."
 
 REFERENCE            sh_dpapa12_12_flavor
 LANG_ENGLISH         "Make them think twice about entering that room with the Gold Dredge Shotgun."
+
+REFERENCE            sh_dpapa12_14_flavor
+LANG_ENGLISH         "Things might get a little bloody with this one, the Feeding Frenzy Shotgun."
+
+REFERENCE            sh_dpapa12_15_flavor
+LANG_ENGLISH         "Make them cower in fear with the Quiver Shotgun."
 
 REFERENCE            sh_dpapa12_1_flavor
 LANG_ENGLISH         "Go ballistic with the Smoothbore Shotgun."
@@ -1108,13 +1318,22 @@ REFERENCE            sh_mike26_3_flavor
 LANG_ENGLISH         "Burn them to the ground with the Caldera Shotgun and make sure they're good and crispy with the all new ^1Dragon's Breath Rounds^7."
 
 REFERENCE            sh_mike26_4_flavor
-LANG_ENGLISH         "The Oracle Shotgun, they won't see it coming."
+LANG_ENGLISH         "The One Inch Punch, they won't see it coming."
+
+REFERENCE            sh_mike26_5_flavor
+LANG_ENGLISH         "Get them stuck in your web with the Sicariid Shotgun."
 
 REFERENCE            sh_oscar12_10_flavor
 LANG_ENGLISH         "You'll be a soldier of significant fortune with the Bankroll Shotgun."
 
+REFERENCE            sh_oscar12_11_flavor
+LANG_ENGLISH         "A Hazmat suit is highly recommended when handling the Chemical Burn Shotgun."
+
 REFERENCE            sh_oscar12_13_flavor
 LANG_ENGLISH         "Show your lineage with the Bloodlines Shotgun."
+
+REFERENCE            sh_oscar12_16_flavor
+LANG_ENGLISH         "Leave your mark with the Engraven Shotgun."
 
 REFERENCE            sh_oscar12_1_flavor
 LANG_ENGLISH         "Covert, yet still overt. This is the Stealth Action Shotgun."
@@ -1126,7 +1345,7 @@ REFERENCE            sh_oscar12_3_flavor
 LANG_ENGLISH         "Clean up nice with the Pastel Death Shotgun."
 
 REFERENCE            sh_oscar12_4_flavor
-LANG_ENGLISH         "It???s not too hard to get your hands on the Morning Glory Shotgun, but it can cause issues."
+LANG_ENGLISH         "Celebrate the little things with the Backyard BBQ shotgun."
 
 REFERENCE            sh_oscar12_5_flavor
 LANG_ENGLISH         "Turn them into public enemies with the Demon Eyes Shotgun."
@@ -1170,6 +1389,9 @@ LANG_ENGLISH         "Finish in first with the Outrunner Shotgun."
 REFERENCE            sh_romeo870_12_flavor
 LANG_ENGLISH         "A weapon to help you survive the world's hotspots: the Firedrake Shotgun. Create your own hotspot with the optional Dragon's Breath ammo attachment and watch their world ^1burn^7."
 
+REFERENCE            sh_romeo870_13_flavor
+LANG_ENGLISH         "Come in hot with the Big Red Shotgun."
+
 REFERENCE            sh_romeo870_14_flavor
 LANG_ENGLISH         "Ice the competition with the Permafrost Shotgun."
 
@@ -1182,8 +1404,17 @@ LANG_ENGLISH         "Count down their fate with the 99 Days Shotgun."
 REFERENCE            sh_romeo870_17_flavor
 LANG_ENGLISH         "Gorge yourself on the vermin with the Puff Adder Shotgun."
 
+REFERENCE            sh_romeo870_18_flavor
+LANG_ENGLISH         "Even from the grave, The Undead Shotgun just keeps on going."
+
+REFERENCE            sh_romeo870_19_flavor
+LANG_ENGLISH         "The Excavator Shotgun is perfect for both filling and digging graves. Take a little extra off 'em with the Excavator's ^1Dismemberment^7 effect and shadowy ^1Tracer^7 fire. Note: The ^1Tracer^7 effect for this weapon will be removed in favor of any Dragon's Breath attachments."
+
 REFERENCE            sh_romeo870_1_flavor
 LANG_ENGLISH         "Tempus Armament's premium 12-gauge pump-action shotgun features a low-profile reflex sight and an ultralight polymer stock that lets you out-maneuver your enemies while staying on target. This exceptional weapon reloads significantly faster than comparable models."
+
+REFERENCE            sh_romeo870_20_flavor
+LANG_ENGLISH         "Stalk your prey with the Apex Predator Shotgun."
 
 REFERENCE            sh_romeo870_2_bullet_1
 LANG_ENGLISH         "Cronen LP945 Mini Reflex"
@@ -1224,6 +1455,9 @@ LANG_ENGLISH         "Look down on your opponents through the sights of the Affl
 REFERENCE            sm_augolf_11_flavor
 LANG_ENGLISH         "Live to fight another day with the Antivenom SMG."
 
+REFERENCE            sm_augolf_12_flavor
+LANG_ENGLISH         "The Sweet Spot SMG always knows exactly where to shoot."
+
 REFERENCE            sm_augolf_13_flavor
 LANG_ENGLISH         "Even if they holler, don't let them go. The By the Toe SMG."
 
@@ -1239,11 +1473,20 @@ LANG_ENGLISH         "True to its namesake, this SMG is always willing to Run it
 REFERENCE            sm_augolf_17_flavor
 LANG_ENGLISH         "Make every contact count with the On The Volley."
 
+REFERENCE            sm_augolf_18_flavor
+LANG_ENGLISH         "Sit back and see where the Ticket to Paradise SMG takes you."
+
 REFERENCE            sm_augolf_1_flavor
 LANG_ENGLISH         "Send some high-velocity malfunction their way with the Gremlin SMG."
 
 REFERENCE            sm_augolf_20_flavor
 LANG_ENGLISH         "Rule over the insects with the Lizard King SMG."
+
+REFERENCE            sm_augolf_21_flavor
+LANG_ENGLISH         "They've had their chance, off to The Gallows for them!"
+
+REFERENCE            sm_augolf_23_flavor
+LANG_ENGLISH         "Roll over them with the Death Roll SMG."
 
 REFERENCE            sm_augolf_2_flavor
 LANG_ENGLISH         "Your opponents will likely not hear too many whizzbys from the Airshot SMG."
@@ -1261,7 +1504,7 @@ REFERENCE            sm_augolf_6_flavor
 LANG_ENGLISH         "Although the Dame Fortuna SMG favors the bold, she will be less forgiving of the opposition."
 
 REFERENCE            sm_augolf_7_flavor
-LANG_ENGLISH         "The Breach Beast SMG is the proverbial unstoppable force when it comes to slinging lead in a tactical situation. An Integral 3.0x Optic, Muzzle Brake, 622mm Long Barrel, Tactical Foregrip, and 5.56 NATO 30 Round Mags complete the picture."
+LANG_ENGLISH         "The Breach Beast SMG is the proverbial unstoppable force when it comes to slinging lead in a tactical situation."
 
 REFERENCE            sm_augolf_8_flavor
 LANG_ENGLISH         "Hey Superstar, your gun???s ready for pick-up. Presenting: the Silverstar SMG."
@@ -1274,6 +1517,12 @@ LANG_ENGLISH         "The Snowblower SMG is guaranteed  to leave them bitter and
 
 REFERENCE            sm_beta_11_flavor
 LANG_ENGLISH         "Tear up the enemy with the Ravager SMG."
+
+REFERENCE            sm_beta_12_flavor
+LANG_ENGLISH         "The name says it all. The More Killing. More Doing SMG."
+
+REFERENCE            sm_beta_14_flavor
+LANG_ENGLISH         "Disrespect your opponents with the Insolence SMG."
 
 REFERENCE            sm_beta_1_flavor
 LANG_ENGLISH         "Whether or not history records you to be on the side of right or wrong, the Moral Argument SMG will be all you need to prove your point in the moment. 84 Round Helical Mags, a Corvus Skeleton Stock, Tac Laser, and Mo' Money Perk will put an end to any debate."
@@ -1302,6 +1551,12 @@ LANG_ENGLISH         "This SMG features a Cronen C480 Pro Optic, a Granulated Gr
 REFERENCE            sm_beta_9_flavor
 LANG_ENGLISH         "Adapt to survive the battle with the Chuckwalla SMG."
 
+REFERENCE            sm_charlie9_0_flavor
+LANG_ENGLISH         "Precision crafted 9mm sub machine gun with a fast rate of fire.  This lightweight and reliable firearm is designed to control the close-range battlefield."
+
+REFERENCE            sm_charlie9_3_flavor
+LANG_ENGLISH         "Channel your strength to win with the Conduit SMG."
+
 REFERENCE            sm_flavor_augolf_20_flavor
 LANG_ENGLISH         "You'll reign supreme with the Lizard King SMG."
 
@@ -1326,8 +1581,20 @@ LANG_ENGLISH         "Strike first with the Show of Force SMG."
 REFERENCE            sm_mpapa5_16_flavor
 LANG_ENGLISH         "Send them six feet under with the Mot SMG."
 
+REFERENCE            sm_mpapa5_17_flavor
+LANG_ENGLISH         "Rain bullets on them with the Ashen Skies SMG."
+
+REFERENCE            sm_mpapa5_19_flavor
+LANG_ENGLISH         "Dart around your opponents with the Anole SMG."
+
 REFERENCE            sm_mpapa5_1_flavor
 LANG_ENGLISH         "You might always be strapped, but this SMG is a little more literal."
+
+REFERENCE            sm_mpapa5_20_flavor
+LANG_ENGLISH         "Cut through their defenses with the Razorwire SMG."
+
+REFERENCE            sm_mpapa5_21_flavor
+LANG_ENGLISH         "There's no coming back for your enemies when you hit 'em with the Banisher SMG. This weapon has a shadowy ^1Tracer^7 fire effect that allows you to embrace your inner darkness."
 
 REFERENCE            sm_mpapa5_2_flavor
 LANG_ENGLISH         "The Admiral???s Pride is a nautical flavored SMG which allows you to navigate the treacherous waters of any engagement with ease, and features an Aim-Op reflex sight, an FSS light, 45-round mags, a classic straight-line stock and the Frangible - Wounding Perk."
@@ -1374,14 +1641,23 @@ LANG_ENGLISH         "Make them worship you with the Reverence SMG."
 REFERENCE            sm_mpapa7_11_flavor
 LANG_ENGLISH         "This SMG is hardwired to kill, just like you!"
 
+REFERENCE            sm_mpapa7_12_flavor
+LANG_ENGLISH         "Look on the bright side of things with the Silver Lining SMG."
+
 REFERENCE            sm_mpapa7_13_flavor
-LANG_ENGLISH         "Bring them to the ultimate limit with the Prototype Omega. Featuring purple tracer fire."
+LANG_ENGLISH         "Bring them to the ultimate limit with the Prototype: Omega, featuring purple ^1Tracer Fire^7"
 
 REFERENCE            sm_mpapa7_14_flavor
 LANG_ENGLISH         "Put 'em in the dirt with the Mud Drauber SMG."
 
+REFERENCE            sm_mpapa7_15_flavor
+LANG_ENGLISH         "Bust out the Moonshine! It's the Copper Still SMG."
+
 REFERENCE            sm_mpapa7_16_flavor
 LANG_ENGLISH         "Always be closing the gap with the Rippling SMG."
+
+REFERENCE            sm_mpapa7_18_flavor
+LANG_ENGLISH         "You better believe it! This is the Ring Hollow SMG."
 
 REFERENCE            sm_mpapa7_1_flavor
 LANG_ENGLISH         "Pop more than eardrums with the Piercer SMG."
@@ -1410,6 +1686,9 @@ LANG_ENGLISH         "Burning bright with vengeance? Take on enemies of all stri
 REFERENCE            sm_mpapa7_9_flavor
 LANG_ENGLISH         "Keep the pests at bay with the Bug Spray SMG."
 
+REFERENCE            sm_mpapa7_v24
+LANG_ENGLISH         "SM_MPAPA7_V24"
+
 REFERENCE            sm_papa90_10_flavor
 LANG_ENGLISH         "Leave behind heaps of enemies when you bring the Mowed Down SMG."
 
@@ -1422,11 +1701,17 @@ LANG_ENGLISH         "Execute all the executive protection protocols with The Ne
 REFERENCE            sm_papa90_13_flavor
 LANG_ENGLISH         "Emerge from the leaves and go for the kill. The Underbrush SMG."
 
+REFERENCE            sm_papa90_14_flavor
+LANG_ENGLISH         "A gift for your rival, the Sworn Anemone SMG."
+
 REFERENCE            sm_papa90_15_flavor
-LANG_ENGLISH         "Take their breath away???permanently???with the Smoke Show SMG."
+LANG_ENGLISH         "Take their breath away???permanently???with The Smoke Show SMG."
 
 REFERENCE            sm_papa90_16_flavor
 LANG_ENGLISH         "You might want to bring some extra napkins when you roll with the Delivery Boy SMG."
+
+REFERENCE            sm_papa90_17_flavor
+LANG_ENGLISH         "Put them to bed, permanently, with the Dream No More SMG."
 
 REFERENCE            sm_papa90_1_flavor
 LANG_ENGLISH         "This custom-designed bullpup SMG from First Signal Solutions spits high velocity 5.7x28mm rounds at a hefty 950 RPM. Featuring a high tensile polymer body and black nitride receiver, this bare-bones edition is ready for gunsmithing."
@@ -1461,6 +1746,9 @@ LANG_ENGLISH         "This SMG was born of sin - the equipped FSS ring sight, mu
 REFERENCE            sm_papa90_9_flavor
 LANG_ENGLISH         "Watch your enemies melt when you bring this sublime SMG to bear: Aim-OP reflex sight, muzzle brake, stippled and rubberized grip tape, and an FSS heavy pro stock."
 
+REFERENCE            sm_papa90_v24
+LANG_ENGLISH         "SM_PAPA90_V24"
+
 REFERENCE            sm_smgolf45_0_flavor
 LANG_ENGLISH         "A hard-hitting submachine gun chambered in .45 Auto that will shred at longer distances than other weapons in its class. A moderate rate of fire helps keep the gun under control while in fully automatic mode."
 
@@ -1488,6 +1776,9 @@ LANG_ENGLISH         "Keep 'em guessing with the Uncertain Futures SMG."
 REFERENCE            sm_smgolf45_8_flavor
 LANG_ENGLISH         "Haunt their dreams with the Evil Manifest SMG. Note: this weapon applies the ^1Cryo Dismemberment^7 effect."
 
+REFERENCE            sm_smgolf45_9_flavor
+LANG_ENGLISH         "Don't be afraid to send it with the Halcyon Days SMG."
+
 REFERENCE            sm_uzulu_10_flavor
 LANG_ENGLISH         "Brute force their reaction times with the Mach-5 SMG."
 
@@ -1503,11 +1794,20 @@ LANG_ENGLISH         "Show them what kind of heat you're packing with the Pocket
 REFERENCE            sm_uzulu_14_flavor
 LANG_ENGLISH         "Perfect for icing the competition, the Glacial Polish SMG."
 
+REFERENCE            sm_uzulu_15_flavor
+LANG_ENGLISH         "No second chances for your opponents when you use your Thin Ice SMG."
+
 REFERENCE            sm_uzulu_16_flavor
 LANG_ENGLISH         "They better have gauze when you???ve got the Blood Rights SMG."
 
+REFERENCE            sm_uzulu_18_flavor
+LANG_ENGLISH         "Rock your opponents' world with the Canyonlands SMG."
+
 REFERENCE            sm_uzulu_1_flavor
 LANG_ENGLISH         "Corvus Defense has taken this already maneuverable SMG and added an 8.5??? mini barrel for exceptionally fast handling. Combined with a lightweight reflex from Solozero and a position-concealing flash guard, this agile weapon helps you own close-quarters."
+
+REFERENCE            sm_uzulu_20_flavor
+LANG_ENGLISH         "No tickets printed, only lead."
 
 REFERENCE            sm_uzulu_2_bullet_1
 LANG_ENGLISH         "Solozero Optics Mini reflex"
@@ -1522,7 +1822,7 @@ REFERENCE            sm_uzulu_2_bullet_4
 LANG_ENGLISH         "Sleight Of Hand"
 
 REFERENCE            sm_uzulu_2_flavor
-LANG_ENGLISH         "Corvus Defense has taken this already maneuverable submachine gun and added a 8.5" mini barrel for exceptionally fast weapon handling.  Combined with a lightweight reflex from Solozero and a position concealing flash guard, and this agile weapon helps you dominate close quarters.  Designed for faster reloads to keep the lead flying."
+LANG_ENGLISH         "Add a twinkle to your eye with the Sparkler SMG."
 
 REFERENCE            sm_uzulu_3_flavor
 LANG_ENGLISH         "In some ways, the Infiltrator SMG can be seen as the ultimate credit card: it has been outfitted with the Integral Hybrid optic, 16.5??? Factory Carbine barrel, Lightweight Suppressor, FSS Close Quarters Stock, and Merc Foregrip, to ease access to even the most exclusive and well-defended venues."
@@ -1545,11 +1845,23 @@ LANG_ENGLISH         "Remember, it's muzzle towards enemy with the Golden Rule S
 REFERENCE            sm_uzulu_9_flavor
 LANG_ENGLISH         "Put a shine on your lead with the All That Glitters SMG."
 
+REFERENCE            sm_uzulu_v24
+LANG_ENGLISH         "SM_UZULU_V24"
+
 REFERENCE            sm_victor_0_flavor
-LANG_ENGLISH         "An aggressive full auto sub machine gun with buttery smooth recoil and a blazing fast rate of fire that is exceptional for strategic room clearing and holding down the front line."
+LANG_ENGLISH         "An aggressive full auto submachine gun with buttery smooth recoil and a blazing fast rate of fire that is exceptional for strategic room clearing and holding down the front line."
 
 REFERENCE            sm_victor_1_flavor
 LANG_ENGLISH         "A timeless classic, the Silver Fox SMG."
+
+REFERENCE            sm_victor_2_flavor
+LANG_ENGLISH         "Store your victory with the Royal Coffer SMG, featuring gold ^1Tracer^7 fire and a ^1Golden Dismemberment^7 effect."
+
+REFERENCE            sm_victor_3_flavor
+LANG_ENGLISH         "Grip it 'n rip it 'eh?! The Hoser SMG."
+
+REFERENCE            sm_victor_4_flavor
+LANG_ENGLISH         "Any time of day, the Dawn to Dusk SMG has you covered."
 
 REFERENCE            sn_alpha50_10_flavor
 LANG_ENGLISH         "Become a snake in the grass with the Boomslang Sniper Rifle."
@@ -1558,7 +1870,13 @@ REFERENCE            sn_alpha50_11_flavor
 LANG_ENGLISH         "You know why they say the Lonely Lagoon is so lonely? You killed everyone."
 
 REFERENCE            sn_alpha50_12_flavor
-LANG_ENGLISH         "Show them textbook precision firsthand with the Flawless Technique"
+LANG_ENGLISH         "Show them textbook precision firsthand with the Flawless Technique."
+
+REFERENCE            sn_alpha50_14_flavor
+LANG_ENGLISH         "That light they see, it's you. The White Light Sniper Rifle."
+
+REFERENCE            sn_alpha50_15_flavor
+LANG_ENGLISH         "Have you seen the Cult Classic Sniper Rifle? It's a little older, but still has a big following."
 
 REFERENCE            sn_alpha50_1_flavor
 LANG_ENGLISH         "This weapon is great at drumming up new business for undertakers. The Corpse Maker is a sniper rifle featuring Singuard Arms Pro barrel, Stippled Grip Tape, Singuard Arms Assassin stock, and the Recon Perk."
@@ -1592,6 +1910,9 @@ LANG_ENGLISH         "Don't let them out of your sights with the Watchful Eye Cr
 
 REFERENCE            sn_crossbow_4_flavor
 LANG_ENGLISH         "This wintry take on the classic crossbow has many unconventional aspects to it, some have said it can even shoot icicles."
+
+REFERENCE            sn_crossbow_5_flavor
+LANG_ENGLISH         "Put your opponents in a bind with the Spellbound Crossbow."
 
 REFERENCE            sn_delta_1_flavor
 LANG_ENGLISH         "Death is contagious when you deploy with the Plague Sore Sniper Rifle."
@@ -1641,6 +1962,15 @@ LANG_ENGLISH         "Lay down some boundaries with The Frontier Sniper Rifle."
 REFERENCE            sn_hdromeo_11_flavor
 LANG_ENGLISH         "They'll never find what you left out there by the brook. The Brookside Sniper Rifle."
 
+REFERENCE            sn_hdromeo_14_flavor
+LANG_ENGLISH         "Clutch the win with the CDL Champs 2020 HDR Sniper Rifle."
+
+REFERENCE            sn_hdromeo_15_flavor
+LANG_ENGLISH         "Things might get dark with this one. The Fracas Sniper Rifle."
+
+REFERENCE            sn_hdromeo_16_flavor
+LANG_ENGLISH         "The Comstock Sniper Rifle makes quick work of any opposition."
+
 REFERENCE            sn_hdromeo_1_flavor
 LANG_ENGLISH         "Hadir???s pet project variant of this anti-materiel 12.7x108mm bolt-action sniper rifle comes equipped with a high-power variable zoom scope capable of 12.6x magnification. HRH comes equipped with a high-end competition stock from FTAC that maintains exceptional stability at maximum magnification."
 
@@ -1686,8 +2016,17 @@ LANG_ENGLISH         "They won't feel a thing with the Guillotine DMR."
 REFERENCE            sn_kilo98_11_flavor
 LANG_ENGLISH         "Saddle up, it's going to be a bumpy ride. The Saddle Horn DMR."
 
+REFERENCE            sn_kilo98_12_flavor
+LANG_ENGLISH         "The road to the top is a long one, let The Tower DMR help you out."
+
+REFERENCE            sn_kilo98_14_flavor
+LANG_ENGLISH         "Who needs friends when you have the Caustic Companion DMR?"
+
 REFERENCE            sn_kilo98_16_flavor
-LANG_ENGLISH         "No need to be startled, it's just the Open Season DMR."
+LANG_ENGLISH         "Lead the charge with the War Horse DMR."
+
+REFERENCE            sn_kilo98_17_flavor
+LANG_ENGLISH         "The Black Tie Affair is an invite only kind of DMR."
 
 REFERENCE            sn_kilo98_18_flavor
 LANG_ENGLISH         "Show them how it's done with the Old Growth DMR."
@@ -1740,6 +2079,12 @@ LANG_ENGLISH         "The Black Diamond DMR doesn't have to be the route of last
 REFERENCE            sn_mike14_10_flavor
 LANG_ENGLISH         "Unleash a torrent of carnage with the Rip Current DMR."
 
+REFERENCE            sn_mike14_11_flavor
+LANG_ENGLISH         "Your hard work has payed off! You got the Karbonite DMR."
+
+REFERENCE            sn_mike14_12_flavor
+LANG_ENGLISH         "Show your enemies a good time with the Class Clown DMR."
+
 REFERENCE            sn_mike14_13_flavor
 LANG_ENGLISH         "Shed your worries along with your enemies with the Cottonmouth DMR."
 
@@ -1749,8 +2094,14 @@ LANG_ENGLISH         "Provide the opening shots for any conversation with the Ic
 REFERENCE            sn_mike14_15_flavor
 LANG_ENGLISH         "Stay on top with the Lead the Pack DMR."
 
+REFERENCE            sn_mike14_16_flavor
+LANG_ENGLISH         "Lead the charge to battle with the War Horse DMR."
+
 REFERENCE            sn_mike14_17_flavor
 LANG_ENGLISH         "Put them on blast with the Muckrake DMR."
+
+REFERENCE            sn_mike14_18_flavor
+LANG_ENGLISH         "Become legendary with your Romulus DMR."
 
 REFERENCE            sn_mike14_1_flavor
 LANG_ENGLISH         "Custom FORGE TAC designated marksman rifle. The FORGE TAC 22??? precision barrel and low-profile flash hider will conceal your shots while increasing muzzle velocity and range. Bonus XP per kill will help you kit out this gem in no time."
@@ -1795,7 +2146,7 @@ REFERENCE            sn_mike14_6_flavor
 LANG_ENGLISH         "The Eradication marksman rifle does one thing well - it eradicates. This is testament in no small part to the Operator Reflex Sight, FORGE TAC Elite barrel, Operator Foregrip, FSS Raider Chassis Pro stock and Focus Perk it comes equipped with."
 
 REFERENCE            sn_mike14_7_flavor
-LANG_ENGLISH         "The ZLR Special DMR is a MNSTR: 4.0x Flip Hybrid Optic, Muzzle Brake, Forge Tac Elite barrel (this is a shorter barrel for faster ADS speed), Ranger Foregrip, and FTAC Lightweight Stock. "
+LANG_ENGLISH         "The ZLR Special DMR is a MNSTR: 4.0x Flip Hybrid Optic, Muzzle Brake, FORGE TAC Elite barrel (this is a shorter barrel for faster ADS speed), Ranger Foregrip, and FTAC Lightweight Stock. "
 
 REFERENCE            sn_mike14_8_flavor
 LANG_ENGLISH         "Failure to launch will not be an option with the Moonphase DMR."
@@ -1845,11 +2196,26 @@ LANG_ENGLISH         "Lightweight semi-auto Carbine chambered in 7.62x39mm.  Thi
 REFERENCE            sn_sksierra_1_flavor
 LANG_ENGLISH         "The Utility Tool DMR is the perfect ???just in case??? weapon you should always keep about your person."
 
+REFERENCE            sn_sksierra_2_flavor
+LANG_ENGLISH         "Always be on lookout duty with the Crow's Nest DMR."
+
 REFERENCE            sn_sksierra_3_flavor
 LANG_ENGLISH         "The Confetti Killer doesn't rain paper, only lead."
 
 REFERENCE            sn_sksierra_4_flavor
-LANG_ENGLISH         "Your Journey to the top awaits you, don't deny the Kimset's call."
+LANG_ENGLISH         "Your journey to the top awaits you, don't deny the Kismet's call."
+
+REFERENCE            sn_sksierra_5_flavor
+LANG_ENGLISH         "Stalk your prey with the Thicket DMR."
+
+REFERENCE            sn_sksierra_7_flavor
+LANG_ENGLISH         "Make history with the Bay of Pigs DMR."
+
+REFERENCE            sn_xmike109_1_flavor
+LANG_ENGLISH         "There's no hope for 'em when you have the Damnation Sniper Rifle."
+
+REFERENCE            sn_xmike109_2_flavor
+LANG_ENGLISH         "Blow holes in their defenses with the Main Battery Sniper Rifle."
 
 REFERENCE            weapon_ref_bullet_1
 LANG_ENGLISH         "Bullet 1"

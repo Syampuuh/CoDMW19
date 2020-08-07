@@ -2,6 +2,33 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            intel_drop6_global
+LANG_ENGLISH         "Discover how Zakhaev has been staying hidden."
+
+REFERENCE            intel_drop6_name
+LANG_ENGLISH         "Old Wounds"
+
+REFERENCE            intel_drop6_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop6_step2_description
+LANG_ENGLISH         "A hidden code was found in the prison..."
+
+REFERENCE            intel_drop6_step3_description
+LANG_ENGLISH         "Follow the trail left by ARM 3-1..."
+
+REFERENCE            intel_drop6_step4_description
+LANG_ENGLISH         "Zakhaev was using an office in the prison..."
+
+REFERENCE            intel_drop6_step5_description
+LANG_ENGLISH         "ARM 3-1 moved locations..."
+
+REFERENCE            intel_drop6_step6_description
+LANG_ENGLISH         "Something was stashed in the denied area..."
+
+REFERENCE            intel_drop6_step7_description
+LANG_ENGLISH         ""We know how Z's moving in Verdansk. Good intel for some old friends."  - Ghost"
+
 REFERENCE            intel_splash_body
 LANG_ENGLISH         "View new Intel in the Missions menu."
 
@@ -66,28 +93,28 @@ REFERENCE            season3_drop2_step7_description
 LANG_ENGLISH         "Learn the status of the 19:30 Express."
 
 REFERENCE            season3_drop3_global
-LANG_ENGLISH         "Discover what is contained in the missing shipments."
+LANG_ENGLISH         "Track down the missing shipment."
 
 REFERENCE            season3_drop3_name
 LANG_ENGLISH         "Hidden Cargo"
 
 REFERENCE            season3_drop3_step1_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP1_DESCRIPTION"
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
 
 REFERENCE            season3_drop3_step2_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP2_DESCRIPTION"
+LANG_ENGLISH         "Cargo may have arrived via ports of entry."
 
 REFERENCE            season3_drop3_step3_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP3_DESCRIPTION"
+LANG_ENGLISH         "Someone was paid off to keep an area clear."
 
 REFERENCE            season3_drop3_step4_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP4_DESCRIPTION"
+LANG_ENGLISH         "There was an inspection scheduled at the port."
 
 REFERENCE            season3_drop3_step5_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP5_DESCRIPTION"
+LANG_ENGLISH         "The cargo was headed to a WHP site."
 
 REFERENCE            season3_drop3_step6_description
-LANG_ENGLISH         "SEASON3_DROP3_STEP6_DESCRIPTION"
+LANG_ENGLISH         "Mara gave a debrief after the port attack."
 
 REFERENCE            season3_drop4_global
 LANG_ENGLISH         "Uncover the truth behind the airport attack."
@@ -96,43 +123,43 @@ REFERENCE            season3_drop4_name
 LANG_ENGLISH         "New Perspectives"
 
 REFERENCE            season3_drop4_step1_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP1_DESCRIPTION"
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
 
 REFERENCE            season3_drop4_step2_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP2_DESCRIPTION"
+LANG_ENGLISH         "Begin the search for the UAV."
 
 REFERENCE            season3_drop4_step3_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP3_DESCRIPTION"
+LANG_ENGLISH         "The UAV was being controlled from the airport."
 
 REFERENCE            season3_drop4_step4_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP4_DESCRIPTION"
+LANG_ENGLISH         "The downed UAV was being repaired."
 
 REFERENCE            season3_drop4_step5_description
-LANG_ENGLISH         "SEASON3_DROP4_STEP5_DESCRIPTION"
+LANG_ENGLISH         "A corrupted image could give a clearer picture..."
+
+REFERENCE            season3_drop4_step6_description
+LANG_ENGLISH         "Learn the truth behind the attack."
 
 REFERENCE            season3_drop5_global
-LANG_ENGLISH         "SEASON3_DROP5_GLOBAL"
+LANG_ENGLISH         "Track down the missing Armistice team member."
 
 REFERENCE            season3_drop5_name
 LANG_ENGLISH         "The Lost Team"
 
 REFERENCE            season3_drop5_step1_description
-LANG_ENGLISH         "SEASON3_DROP5_STEP1_DESCRIPTION"
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
 
 REFERENCE            season3_drop5_step2_description
-LANG_ENGLISH         "SEASON3_DROP5_STEP2_DESCRIPTION"
+LANG_ENGLISH         "An Armistice group was stationed at the Torsky Housing Area..."
 
 REFERENCE            season3_drop5_step3_description
-LANG_ENGLISH         "SEASON3_DROP5_STEP3_DESCRIPTION"
+LANG_ENGLISH         "There were survivors from a helicopter crash..."
 
 REFERENCE            season3_drop5_step4_description
-LANG_ENGLISH         "SEASON3_DROP5_STEP4_DESCRIPTION"
+LANG_ENGLISH         "Signal interference prevents locating the missing operator."
 
 REFERENCE            season3_drop5_step5_description
-LANG_ENGLISH         "SEASON3_DROP5_STEP5_DESCRIPTION"
-
-REFERENCE            season3_drop5_step6_description
-LANG_ENGLISH         "SEASON3_DROP5_STEP6_DESCRIPTION"
+LANG_ENGLISH         "ARM 3-1: Located."
 
 
 ENDMARKER

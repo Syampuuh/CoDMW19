@@ -1,0 +1,6 @@
+inherit,mp/loot/br/mini/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,3,,# 1 weapon of type epic,
+req,,ammo,1,,,,,# 1 ammo,
+req,,,1,,,4,,# 1 item of any type legendary,
+req,,plunder,1,,,,,#Cash Drop,
+req,,health,1,,,1,,# 1 armor item,

@@ -1,0 +1,39 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            acknowledge_ping
+LANG_ENGLISH         "Confirm"
+
+REFERENCE            cancel_ping
+LANG_ENGLISH         "Remove"
+
+REFERENCE            map_key_player_ping
+LANG_ENGLISH         "Squad Leader Ping"
+
+REFERENCE            msg_squad_pinged_ammo
+LANG_ENGLISH         "&&1 ammo"
+
+REFERENCE            msg_squad_pinged_caution
+LANG_ENGLISH         "caution"
+
+REFERENCE            msg_squad_pinged_danger
+LANG_ENGLISH         "danger!"
+
+REFERENCE            msg_squad_pinged_enemy
+LANG_ENGLISH         "an enemy"
+
+REFERENCE            msg_squad_pinged_location
+LANG_ENGLISH         "a location"
+
+REFERENCE            msg_squad_pinged_vehicle
+LANG_ENGLISH         "a vehicle"
+
+REFERENCE            ping
+LANG_ENGLISH         "Ping"
+
+REFERENCE            ping_decline
+LANG_ENGLISH         "Decline"
+
+
+ENDMARKER

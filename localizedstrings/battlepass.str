@@ -29,8 +29,14 @@ LANG_ENGLISH         "Activate &&1"
 REFERENCE            activating
 LANG_ENGLISH         "Activating"
 
+REFERENCE            add_x_cp
+LANG_ENGLISH         "+ &&1 CP"
+
 REFERENCE            assists_bonus
 LANG_ENGLISH         "Assists Bonus"
+
+REFERENCE            battle_pass
+LANG_ENGLISH         "Battle Pass"
 
 REFERENCE            battle_pass_inactive
 LANG_ENGLISH         "Battle Pass Inactive"
@@ -49,6 +55,9 @@ LANG_ENGLISH         "Battle Pass 20 Tier Skips"
 
 REFERENCE            battlepass_25_tier_skip
 LANG_ENGLISH         "Battle Pass 25 Tier Skips"
+
+REFERENCE            battlepass_40_tier_skip
+LANG_ENGLISH         "Battle Pass 40 Tier Skips"
 
 REFERENCE            battlepass_free_tier_upsell_message
 LANG_ENGLISH         "Your next unlock in the Battle Pass is a ^3FREE^7 reward."
@@ -94,6 +103,9 @@ LANG_ENGLISH         "Battle Pass Preview"
 
 REFERENCE            battlepass_update
 LANG_ENGLISH         "Battle Pass Update"
+
+REFERENCE            become_bp_owner
+LANG_ENGLISH         "Become a Battle Pass owner"
 
 REFERENCE            blueprint_with_type
 LANG_ENGLISH         "Blueprint (&&1)"
@@ -148,6 +160,12 @@ LANG_ENGLISH         "Complete"
 
 REFERENCE            confirm_bonus
 LANG_ENGLISH         "Confirm Bonus"
+
+REFERENCE            cp_discount_desc
+LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 BattlePass you will have earned enough COD Points to buy Season &&3 at ^3&&4% discount!^7"
+
+REFERENCE            cp_free_desc
+LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 BattlePass you will have earned enough COD Points to buy Season &&3 ^3FOR FREE!^7"
 
 REFERENCE            current_tier
 LANG_ENGLISH         "Current Tier: &&1"
@@ -263,11 +281,20 @@ LANG_ENGLISH         "New Mission"
 REFERENCE            no_thanks
 LANG_ENGLISH         "No Thanks"
 
+REFERENCE            non_battle_pass
+LANG_ENGLISH         "Non - Battle Pass"
+
 REFERENCE            operator_challenge_unlock_message
 LANG_ENGLISH         "Unlocked by completing &&1"
 
 REFERENCE            or
 LANG_ENGLISH         "Or"
+
+REFERENCE            owners
+LANG_ENGLISH         "Owners"
+
+REFERENCE            owners_gift
+LANG_ENGLISH         "Battle Pass Owners Gift"
 
 REFERENCE            pass_activated
 LANG_ENGLISH         "Battle Pass Activated"
@@ -335,6 +362,12 @@ LANG_ENGLISH         "Skip Celebration"
 REFERENCE            skip_celebration_prompt
 LANG_ENGLISH         "[{ui_alt1}] Skip Celebration"
 
+REFERENCE            thank_you_gift
+LANG_ENGLISH         "Thank You Gift"
+
+REFERENCE            thanks_for_playing
+LANG_ENGLISH         "Thanks For Playing!"
+
 REFERENCE            tier
 LANG_ENGLISH         "Battle Pass Tier"
 
@@ -349,6 +382,9 @@ LANG_ENGLISH         "Bonus Tier Skip Promo: ^3&&1^7"
 
 REFERENCE            tier_item_name
 LANG_ENGLISH         "- &&1"
+
+REFERENCE            tier_item_name_left
+LANG_ENGLISH         "&&1 -"
 
 REFERENCE            tier_sale
 LANG_ENGLISH         "Tier Sale"
@@ -388,6 +424,9 @@ LANG_ENGLISH         "Toggle Reward Details"
 
 REFERENCE            token_bonus
 LANG_ENGLISH         "Battle Pass token bonus."
+
+REFERENCE            unlock_cod_points
+LANG_ENGLISH         "Unlock &&1 Cod Points"
 
 REFERENCE            unlock_criteria
 LANG_ENGLISH         "Rewarded with Battle Pass"
@@ -431,6 +470,24 @@ LANG_ENGLISH         "[{ui_r3}] View Reward Stats"
 REFERENCE            view_trailer
 LANG_ENGLISH         "View Season &&1 Trailer"
 
+REFERENCE            vip_error_collecting
+LANG_ENGLISH         "Something went wrong while collecting your &&1, please try again later."
+
+REFERENCE            vip_gift_description
+LANG_ENGLISH         "Here is a gift for all our players for playing Modern Warfare?? and a bonus gift for our Battle Pass owners.
+
+You can still collect the exclusive Battle Pass owner reward and gain access to Battle Pass owner perks:
+
+- ^3&&1^7 tiers of rewards
+- ^3&&2^7 CP
+- Access to future Battle Pass owners gift"
+
+REFERENCE            vip_gift_owner_message
+LANG_ENGLISH         "Here are a couple of gifts to say thank you for owning the Battle Pass"
+
+REFERENCE            vip_gift_recent_owner_message
+LANG_ENGLISH         "Thanks for purchasing the Battle Pass! Here are your gifts for owning the Battle Pass"
+
 REFERENCE            warzone_10_tier_gift
 LANG_ENGLISH         "Gift Pack"
 
@@ -439,6 +496,9 @@ LANG_ENGLISH         "Congratulations on completing your first match! To celebra
 
 REFERENCE            welcome
 LANG_ENGLISH         "Welcome to Battle Pass"
+
+REFERENCE            what_is_it
+LANG_ENGLISH         "What's the Battle Pass?"
 
 REFERENCE            why_buy
 LANG_ENGLISH         "Get access to all 100 Tiers!"

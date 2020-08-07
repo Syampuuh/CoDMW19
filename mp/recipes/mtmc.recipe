@@ -29,7 +29,6 @@ commonOption.forceRespawn = 1
 commonOption.showKillcam = 1
 commonOption.healthRegen = 5.000000
 commonOption.maxHealth = 100.000000
-commonOption.allowMercy = 1
 commonOption.spectateModeAllowed = 1
 commonOption.codcasterEnabled = 1
 commonOption.ffPunishLimit = 2

@@ -1,0 +1,5 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,2,,# 1 weapon rare+,
+req,,,2,,,2,,# 2 items rare+,
+req,,health,2,,,0,,# 2 Armor Plates,
+req,,plunder,1,,,,,# 1 plunder,

@@ -84,6 +84,9 @@ LANG_ENGLISH         "Semi-auto energy rifle.  Deploys best in class stopping po
 REFERENCE            ar_akilo47
 LANG_ENGLISH         "Very reliable automatic assault rifle chambered in 7.62mm Soviet.  Large caliber ammunition requires skill to control recoil."
 
+REFERENCE            ar_anovember94
+LANG_ENGLISH         "Cutting edge 5.45x39mm Russian assault rifle with a unique ^3hyperburst^7 feature.  The initial shot from each trigger pull fires a rapid 2-round burst before perceived recoil is felt, creating a tightly grouped cluster with increased damage potential.  This mechanism is fed by a canted magazine, and a reciprocating receiver helps keep control of the recoil."
+
 REFERENCE            ar_ar57
 LANG_ENGLISH         "Full-auto ballistic rifle.  Channels a fast fire rate through a ^5lightweight mold^7 for increased hip fire control and mobility."
 
@@ -1130,7 +1133,7 @@ LANG_ENGLISH         "Hardline"
 
 REFERENCE            hardline_br_desc
 LANG_ENGLISH         "^2Multiplayer Only:^7 Your killstreaks cost 1 less kill.
-^3Warzone Only:^7 25% off kiosk prices for killstreaks, field upgrades, and armor plates."
+^3Warzone Only:^7 25% off kiosk prices for killstreaks, field upgrades, and armor plates. No effect in Warzone Rumble."
 
 REFERENCE            hardline_pro
 LANG_ENGLISH         "Point Guard"
@@ -1171,8 +1174,7 @@ LANG_ENGLISH         "Kill Chain"
 
 REFERENCE            heavy_metal_br_desc
 LANG_ENGLISH         "^2Multiplayer Only:^7 Killstreak kills count towards your next killstreaks. Only applies to killstreaks earned this life.
-^3Warzone Only:^7 Increases your chance of finding killstreaks in supply boxes.
-"
+^3Warzone Only:^7 Increases your chance of finding killstreaks in supply boxes. No effect in Warzone Rumble."
 
 REFERENCE            heavy_metal_desc
 LANG_ENGLISH         "Killstreak kills count towards your next killstreaks. Only applies to killstreaks earned this life. Not effective when Specialist is active."
@@ -2145,8 +2147,7 @@ LANG_ENGLISH         "Restock"
 
 REFERENCE            restock_br_desc
 LANG_ENGLISH         "^2Multiplayer Only:^7 Recharge equipment over 25 seconds.
-^3Warzone Only:^7 Recharge equipment over 50 seconds.
-"
+^3Warzone Only:^7 Recharge equipment over 50 seconds."
 
 REFERENCE            restock_desc
 LANG_ENGLISH         "Recharge equipment over 25 seconds."
@@ -2326,6 +2327,9 @@ LANG_ENGLISH         "A modular, fully automatic weapon configured for mobility 
 REFERENCE            sm_beta
 LANG_ENGLISH         "Well-balanced automatic submachine gun with a high capacity helical magazine."
 
+REFERENCE            sm_charlie9
+LANG_ENGLISH         "Precision crafted 9mm submachine gun with a fast rate of fire.  This lightweight and reliable firearm is designed to control the close-range battlefield."
+
 REFERENCE            sm_mpapa5
 LANG_ENGLISH         "A fully automatic 9mm submachine gun.  A perfect balance of stability, mobility, and lethality."
 
@@ -2342,7 +2346,7 @@ REFERENCE            sm_uzulu
 LANG_ENGLISH         "A fully automatic open bolt submachine gun.  Simple, steady, effective."
 
 REFERENCE            sm_victor
-LANG_ENGLISH         "An aggressive full auto sub machine gun with buttery smooth recoil and a blazing fast rate of fire that is exceptional for strategic room clearing and holding down the front line."
+LANG_ENGLISH         "An aggressive full auto submachine gun with buttery smooth recoil and a blazing fast rate of fire that is exceptional for strategic room clearing and holding down the front line."
 
 REFERENCE            smg_cbjms
 LANG_ENGLISH         "Fully automatic. Highest rate of fire in its class with custom ^5Armor-Piercing^7 tungsten rounds."
@@ -2430,6 +2434,9 @@ LANG_ENGLISH         "Highly accurate lever action rifle.  Will neutralize an en
 
 REFERENCE            sn_sksierra
 LANG_ENGLISH         "Lightweight, semi-auto Carbine chambered in 7.62x39mm.  This hard hitting and agile Soviet rifle focuses on utility over accuracy.  It flaunts a faster fire rate than other weapons in its class, but a carefully placed round will eliminate the need for follow up shots entirely.  This classic DMR has seen a lot of battles, and its unique gunsmith configurations reflect a diverse service history."
+
+REFERENCE            sn_xmike109
+LANG_ENGLISH         "This semi-automatic Anti-Material Rifle is chambered in .50 BMG for dominant long range assaults.  A 25x59mm high-explosive payload variant is officially listed as "experimental", but has been deployed on multiple classified missions with great effectiveness."
 
 REFERENCE            sniper_cheytac
 LANG_ENGLISH         "2-round burst bolt-action ballistic rifle.  Features a unique ^5chamber stack^7 for predictable two round burst fire and a ^5lightweight mold^7 for increased mobility.
@@ -2552,14 +2559,11 @@ LANG_ENGLISH         "Pointman"
 
 REFERENCE            strategist_br_desc
 LANG_ENGLISH         "^2Multiplayer Only:^7 Killstreaks are earned through game score instead of number of kills.
-^3Warzone Only:^7 All members of your team earn more money from completed missions.
-
-"
+^3Warzone Only:^7 All members of your team earn more money from completed missions. No effect in Warzone Rumble."
 
 REFERENCE            strategist_desc
 LANG_ENGLISH         "Killstreaks are earned through game score instead of number of kills.
-^2Specialist Only:^7 Earn perks instead of killstreaks.
-"
+^2Specialist Only:^7 Earn perks instead of killstreaks."
 
 REFERENCE            strategist_desc_extra
 LANG_ENGLISH         "- Counter UAVs and UAVs only give 100 score max per use.
@@ -2704,7 +2708,7 @@ LANG_ENGLISH         "Tune Up"
 
 REFERENCE            tune_up_br_desc
 LANG_ENGLISH         "Reduce the charge time of field upgrades by 40%.
-^3Warzone Only:^7 Reduce revive time by 25%. "
+^3Warzone Only:^7 Reduce revive time by 25%."
 
 REFERENCE            tune_up_desc
 LANG_ENGLISH         "Reduces the charge time of field upgrades by 40%."

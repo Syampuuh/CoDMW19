@@ -1,0 +1,5 @@
+0,veh_track_none,default,MENU/NONE,,,0,,,,,
+1,veh_track_random,default,LUA_MENU/PLAY_ALL,,,0,,,,,
+2,veh_track_001,default,VEHICLES/VEH_TRACK_001,ui_preview_battle_tracks_loop_0,vehicle_horn_preview,0,mus_mp_battle_tracks_loop_0,mp_battle_tracks,ui_preview_battle_tracks_jugg_pack,VEHICLES/JUGGERNAUT_PACK,
+3,veh_track_002,default,VEHICLES/VEH_TRACK_002,ui_preview_battle_tracks_loop_1,vehicle_horn_preview,0,mus_mp_battle_tracks_loop_1,mp_battle_tracks,ui_preview_battle_tracks_jugg_pack,VEHICLES/JUGGERNAUT_PACK,
+4,veh_track_003,default,VEHICLES/VEH_TRACK_003,ui_preview_battle_tracks_loop_2,vehicle_horn_preview,0,mus_mp_battle_tracks_loop_2,mp_battle_tracks,ui_preview_battle_tracks_jugg_pack,VEHICLES/JUGGERNAUT_PACK,

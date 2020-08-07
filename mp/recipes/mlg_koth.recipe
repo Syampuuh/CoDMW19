@@ -114,6 +114,18 @@ commonOption.attachmentRestricted.laserbalanced = 1
 commonOption.attachmentRestricted.ammomod_slow = 1
 commonOption.attachmentRestricted.akimbo = 1
 commonOption.attachmentRestricted.calcust2 = 1
+commonOption.attachmentRestricted.gripvert = 1
+commonOption.attachmentRestricted.thermal = 1
+commonOption.attachmentRestricted.thermal2 = 1
+commonOption.attachmentRestricted.hybrid3 = 1
+commonOption.attachmentRestricted.thermalvz = 1
+commonOption.attachmentRestricted.silencer = 1
+commonOption.attachmentRestricted.silencer2 = 1
+commonOption.attachmentRestricted.silencer3 = 1
+commonOption.attachmentRestricted.silencer4 = 1
+commonOption.attachmentRestricted.silencerbalanced = 1
+
+commonOption.attachmentRestrictedPerWeapon.iw8_sn_xmike109_calcust = 1
 
 commonOption.equipmentRestricted.equip_claymore = 1
 commonOption.equipmentRestricted.equip_c4 = 1

@@ -104,6 +104,9 @@ LANG_ENGLISH         "Our level fastfile is different from the server!  Aborting
 REFERENCE            copied
 LANG_ENGLISH         "copied"
 
+REFERENCE            corrupt_loadout
+LANG_ENGLISH         "Disconnected due to corrupted loadout data"
+
 REFERENCE            dcache_required_resource_locked
 LANG_ENGLISH         "Required file '&&1' is locked by another process. Please unlock and try again."
 

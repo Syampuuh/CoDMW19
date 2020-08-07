@@ -114,6 +114,9 @@ LANG_ENGLISH         "You dont have permissions to play crossplay"
 REFERENCE            login_queue_closed
 LANG_ENGLISH         "Login Servers are currently undergoing maintenance."
 
+REFERENCE            mm_invalid_player_info
+LANG_ENGLISH         "A matchmaking error has occurred, please retry the operation"
+
 REFERENCE            not_in_live_party
 LANG_ENGLISH         "This user is not present in the live party"
 

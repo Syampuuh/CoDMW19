@@ -452,6 +452,9 @@ LANG_ENGLISH         "Allow Sniper Rifles:  "
 REFERENCE            allow_voting
 LANG_ENGLISH         "Allow Voting:  "
 
+REFERENCE            already_owned
+LANG_ENGLISH         "Already Owned"
+
 REFERENCE            alternate_level
 LANG_ENGLISH         "Alternate Level"
 
@@ -729,6 +732,12 @@ LANG_ENGLISH         "Black
 Lives
 Matter"
 
+REFERENCE            bm_defeat
+LANG_ENGLISH         "Mission Completed"
+
+REFERENCE            bm_success
+LANG_ENGLISH         "Mission Complete!"
+
 REFERENCE            bnet_friend_request_more_infos
 LANG_ENGLISH         "Entering an email results in a Battle.net Real ID friend request.
 Entering a BattleTag results in a Battle.net default friend request."
@@ -750,11 +759,23 @@ LANG_ENGLISH         "Bottom Player"
 REFERENCE            br_button_layout
 LANG_ENGLISH         "BR Button Layout"
 
+REFERENCE            br_defeat
+LANG_ENGLISH         "Mission Completed"
+
 REFERENCE            br_ping_lb
 LANG_ENGLISH         "Bumper Ping"
 
 REFERENCE            br_ping_lb_alt
 LANG_ENGLISH         "Bumper Ping Flipped"
+
+REFERENCE            br_ping_lb_tactical
+LANG_ENGLISH         "Bumper Ping Tactical"
+
+REFERENCE            br_ping_lb_tactical_alt
+LANG_ENGLISH         "Bumper Ping Tactical Flipped"
+
+REFERENCE            br_success
+LANG_ENGLISH         "Warzone Victory!"
 
 REFERENCE            brawler
 LANG_ENGLISH         "Brawler"
@@ -850,7 +871,7 @@ REFERENCE            bundle_added_to_inventory
 LANG_ENGLISH         "Items added to inventory."
 
 REFERENCE            bundle_akimbo_pack_executor
-LANG_ENGLISH         "Akimbo Pack"
+LANG_ENGLISH         "Akimbo Pack Executor"
 
 REFERENCE            bundle_buy
 LANG_ENGLISH         "Buy Bundle"
@@ -876,6 +897,12 @@ LANG_ENGLISH         "Copperhead"
 REFERENCE            bundle_debonair
 LANG_ENGLISH         "Debonair"
 
+REFERENCE            bundle_desciption_poison_dart
+LANG_ENGLISH         "By the time they realize what you hit 'em with, it'll be too late. The Poison Dart Bundle."
+
+REFERENCE            bundle_descriptio
+LANG_ENGLISH         "New text"
+
 REFERENCE            bundle_description_
 LANG_ENGLISH         "New text"
 
@@ -887,6 +914,12 @@ LANG_ENGLISH         "Short on time? Accelerate your progress with this limited 
 
 REFERENCE            bundle_description_25_tier_skip
 LANG_ENGLISH         "Short on time? Accelerate your progress with this limited time offer. This bundle skips 25 tiers in the Battle Pass."
+
+REFERENCE            bundle_description_40_tier_skip
+LANG_ENGLISH         "Short on time? Accelerate your progress with this limited time offer. This bundle skips 40 tiers in the Battle Pass."
+
+REFERENCE            bundle_description_acid_spill
+LANG_ENGLISH         "Melt through your opponents with the Acid Spill Collection. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_action_express
 LANG_ENGLISH         "Enter the danger chamber with the Caliber Conversion .41 Action Express Pack and experience ^5 ALL NEW^7 attachments which greatly improve this weapon's capabilities."
@@ -924,6 +957,9 @@ LANG_ENGLISH         "Many foul beasts begin to appear when the days shorten and
 REFERENCE            bundle_description_armed_response
 LANG_ENGLISH         "There's no time for stop and search, go straight to the Armed Response Pack."
 
+REFERENCE            bundle_description_armored_assault
+LANG_ENGLISH         "Go in strong with the Armored Assault Bundle. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_arms_dealer
 LANG_ENGLISH         "Azur???s blood money is earned with the most reliable battlefield tech ever created. The Operator Skin included will also unlock the Operator."
 
@@ -934,7 +970,7 @@ REFERENCE            bundle_description_avant_garde
 LANG_ENGLISH         "Your methods, outlook, and appearance are unorthodox; the Avant-Garde Bundle is for you."
 
 REFERENCE            bundle_description_avocados_revenge
-LANG_ENGLISH         "Hass Queen!! You???ll be slaying with the Avocado???s revenge Collection."
+LANG_ENGLISH         "Hass Queen!! You???ll be slaying with the Avocado???s Revenge Collection."
 
 REFERENCE            bundle_description_balkan_blue_lightning_unit
 LANG_ENGLISH         "Bring the thunder with the Balkan Blue Lightning Pack."
@@ -984,8 +1020,14 @@ LANG_ENGLISH         "100 Tiers of great new content! New Weapons, an Operator, 
 REFERENCE            bundle_description_battlepass_season_06
 LANG_ENGLISH         "100 Tiers of great new content! New Weapons, an Operator, Legendary and Epic Blueprints and Skins, Cosmetics, and more ??? for one low price!"
 
+REFERENCE            bundle_description_beyond_the_pale
+LANG_ENGLISH         "Make them believe in ghosts with the Beyond the Pale Collection. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_bird_of_prey
 LANG_ENGLISH         "Weren???t born eagle-eyed? This pack can help you seize your enemies and carry your team to victory."
+
+REFERENCE            bundle_description_blood_in_the_water
+LANG_ENGLISH         "Sink your teeth into 'em with the Blood in the Water Pack."
 
 REFERENCE            bundle_description_blood_stained
 LANG_ENGLISH         "Dapper and deadly ??? bring some scarlet swagger to the combat zone with Zane???s sick ensemble. The Operator Skin included will also unlock the Operator."
@@ -1000,13 +1042,16 @@ REFERENCE            bundle_description_bodyguard
 LANG_ENGLISH         "It's all in the line of duty when you roll with The Bodyguard Bundle. The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_bog_demon
-LANG_ENGLISH         "What???s lurking in the swamp? Just you and your Bog Demon Pack."
+LANG_ENGLISH         "What???s lurking in the swamp? Just you and your Bog Demon Pack. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_bone_dry
 LANG_ENGLISH         "Keep all your gear in perfect working order when you adopt the bone-dry mantra."
 
 REFERENCE            bundle_description_british_metal
 LANG_ENGLISH         "You couldn???t have the best of British without a teabag to brew up some cold-hearted resentment."
+
+REFERENCE            bundle_description_british_steel_reforged
+LANG_ENGLISH         "The British Steel: Reforged Bundle shines above the rest."
 
 REFERENCE            bundle_description_bronze_knight
 LANG_ENGLISH         "Yes, both weapon sights are catawampus, just don???t get all bent out of shape using them."
@@ -1029,6 +1074,9 @@ LANG_ENGLISH         "Corrode their will to live with the Caustic Collection."
 REFERENCE            bundle_description_cdl_atlanta_faze
 LANG_ENGLISH         "Show your support for the Atlanta FaZe!
 Note: Operator Skins included will unlock Minotaur and Thorne and can be used on all classic Operators from the base game."
+
+REFERENCE            bundle_description_cdl_champs_2020_pack
+LANG_ENGLISH         "The CDL Champs 2020 are here! Play like a pro with 3 CDL blueprints with pro-approved attachments and many more items to celebrate Champs! Pack contains: M4/HDR/M19 Blueprints, 2 charms, 55 player signatures (from 11 teams), 3 calling cards, 3 emblems, and 3 sprays."
 
 REFERENCE            bundle_description_cdl_chicago_huntsmen
 LANG_ENGLISH         "Show your support for the Chicago Huntsmen!
@@ -1070,9 +1118,16 @@ REFERENCE            bundle_description_cdl_seattle_surge
 LANG_ENGLISH         "Show your support for the Seattle Surge!
 Note: Operator Skins included will unlock Minotaur and Thorne and can be used on all classic Operators from the base game."
 
+REFERENCE            bundle_description_cdl_team_supporter_pack
+LANG_ENGLISH         "Support all 12 Call of Duty League teams with this pack, featuring community & player themed items. Pack contains: 12 calling cards, 12 emblems, and 12 sprays.
+"
+
 REFERENCE            bundle_description_cdl_toronto_ultra
 LANG_ENGLISH         "Show your support for the Toronto Ultra!
 Note: Operator Skins included will unlock Minotaur and Thorne and can be used on all classic Operators from the base game."
+
+REFERENCE            bundle_description_chain_reaction
+LANG_ENGLISH         "Be the cause and effect with the Chain Reaction Bundle."
 
 REFERENCE            bundle_description_checkered_flag
 LANG_ENGLISH         "Get used to the winner's circle with the Checkered Flag Bundle."
@@ -1082,6 +1137,9 @@ LANG_ENGLISH         "Their chances diminish to below zero when you roll with th
 
 REFERENCE            bundle_description_chimera_pack
 LANG_ENGLISH         "As diverse and inclusive a pack of murderers and brutes as you are likely to find ??? the Chimera Bundle. The operator skins included will also unlock the operator."
+
+REFERENCE            bundle_description_clean_cut
+LANG_ENGLISH         "Always cut it close with the Clean Cut Collection."
 
 REFERENCE            bundle_description_cleanup_crew
 LANG_ENGLISH         "Be the last one out with the Cleanup Crew Pack. The Operator Skin included will also unlock the Operator."
@@ -1098,17 +1156,26 @@ LANG_ENGLISH         "Get your wings with the Cloud Cover Collection."
 REFERENCE            bundle_description_clover_and_out
 LANG_ENGLISH         "Shamrock your enemies' world with the Clover and Out Pack. The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_clown_town
+LANG_ENGLISH         "Show them you can still have fun with the Clown Town Bundle."
+
 REFERENCE            bundle_description_code_pack_2
 LANG_ENGLISH         "Look confident as you fight for a good cause. This is CODE Pack II ??? Fearless Collection."
 
+REFERENCE            bundle_description_coin_operations
+LANG_ENGLISH         "If you're looking for some plastic that packs a punch, look no further than the Coin Operations Collection. "
+
 REFERENCE            bundle_description_cold_blood
-LANG_ENGLISH         "If the blood runs like ice in your veins ??? become a stone-cold killer with this chill collection. The Operator Skin included will also unlock the Operator."
+LANG_ENGLISH         "If the blood runs like ice in your veins, become a stone-cold killer with this chill collection. The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_cold_hunt
 LANG_ENGLISH         "When the trail goes cold, throw some hot lead at the enemy to warm things up again."
 
 REFERENCE            bundle_description_conversion_pack_dragons_breath
 LANG_ENGLISH         "Tip the scales in your favor with the Dragon's Breath Bundle, featuring 12-Gauge 3000??F magnesium shard incendiary shotgun ammo that torches enemies in a wall of fire and sparks, dealing heavy damage over time."
+
+REFERENCE            bundle_description_copin_operations
+LANG_ENGLISH         "Get your personal high score with the Coin Operations Bundle."
 
 REFERENCE            bundle_description_copperhead
 LANG_ENGLISH         "Climb into the viper pit with the Copperhead Bundle."
@@ -1119,8 +1186,14 @@ LANG_ENGLISH         "Give them more than a penny for their thoughts with the Co
 REFERENCE            bundle_description_covert_operations
 LANG_ENGLISH         "Finally unredacted. This is the Covert Operations Collection. The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_crane_calligraphy
+LANG_ENGLISH         "Show off your skills with both pen and trigger when you get the Crane Calligraphy Collection."
+
 REFERENCE            bundle_description_creature_green
 LANG_ENGLISH         "These bright green beauties would have been the perfect guns for zombie killing. Oh well."
+
+REFERENCE            bundle_description_darkness_falls
+LANG_ENGLISH         "When darkness falls, your opponents do as well. The Darkness Falls Pack. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_dead_mans_fortune
 LANG_ENGLISH         "Pair any good luck you come across with some solid skill, and you???re onto a winner."
@@ -1140,17 +1213,35 @@ LANG_ENGLISH         "Perfect for doing battle against heat stroke, mirages and 
 REFERENCE            bundle_description_devilish
 LANG_ENGLISH         "Spit hellfire with the Devilish Collection."
 
+REFERENCE            bundle_description_devourer
+LANG_ENGLISH         "Consume your enemies with the Devourer Bundle."
+
 REFERENCE            bundle_description_diamond_days
 LANG_ENGLISH         "Get out of the rough with the Diamond Days Pack."
 
+REFERENCE            bundle_description_door_to_the_underworld
+LANG_ENGLISH         "The Door to the Underworld Bundle. Open it up and see what comes out."
+
 REFERENCE            bundle_description_double_strike
 LANG_ENGLISH         "They say lightning never strikes twice. Prove them wrong!"
+
+REFERENCE            bundle_description_dragon_boat_festival
+LANG_ENGLISH         "Take to the seas with the Dragon Boat Festival Collection."
 
 REFERENCE            bundle_description_dragon_slayer
 LANG_ENGLISH         "Take down the biggest and the baddest with this fire-breathing pack of goodies."
 
 REFERENCE            bundle_description_dragon_turtle
-LANG_ENGLISH         "Slow and Steady with the Dragon Turtle collection."
+LANG_ENGLISH         "Slow and steady with the Dragon Turtle collection."
+
+REFERENCE            bundle_description_dreadnought
+LANG_ENGLISH         "Leave them in your wake of destruction with the Dreadnought Pack."
+
+REFERENCE            bundle_description_earth_expeditionary_force
+LANG_ENGLISH         "Fight for the planet with the Earth Expeditionary force Collection."
+
+REFERENCE            bundle_description_eloko
+LANG_ENGLISH         "Haunt the forest with the Eloko Bundle. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_emerald_ranger
 LANG_ENGLISH         "Disappear into the woods with Syd using the half-ghillie and rare woodland and desert cosmetics. The Operator Skin included will also unlock the Operator."
@@ -1163,6 +1254,9 @@ LANG_ENGLISH         "You've got your marching orders with the Enlisted Pack. Th
 
 REFERENCE            bundle_description_entangled
 LANG_ENGLISH         "Lure and trap your enemies with the Entangled Bundle."
+
+REFERENCE            bundle_description_eternal_samurai
+LANG_ENGLISH         "Immortalize yourself with the Eternal Samurai Collection."
 
 REFERENCE            bundle_description_executive_armory_i
 LANG_ENGLISH         "Access all areas with these white-collar weapons comprising the first Executive Armory collection."
@@ -1183,7 +1277,7 @@ REFERENCE            bundle_description_eye_of_the_beholder
 LANG_ENGLISH         "They say beauty is in the Eye of the Beholder, and boy is this collection full of beauties."
 
 REFERENCE            bundle_description_fate_and_fortune
-LANG_ENGLISH         "No need for luck with the Fate and Fortune Bundle"
+LANG_ENGLISH         "No need for luck with the Fate and Fortune Bundle."
 
 REFERENCE            bundle_description_featherweight
 LANG_ENGLISH         "Fly higher and strike faster with the Featherweight Bundle."
@@ -1196,6 +1290,9 @@ LANG_ENGLISH         "Show your true colors with the Fire Claw II Collection."
 
 REFERENCE            bundle_description_fire_claw_iii
 LANG_ENGLISH         "Scratch more than the surface with the Fire Claw III Bundle."
+
+REFERENCE            bundle_description_fire_claw_iv
+LANG_ENGLISH         "Make sure you pounce on the Fire Claw IV Bundle."
 
 REFERENCE            bundle_description_first_hunt
 LANG_ENGLISH         "Cherish this pack, honor the game, and your first hunt will be a great success."
@@ -1211,6 +1308,9 @@ LANG_ENGLISH         "Bearing in mind what you get here, only a fool would pass 
 
 REFERENCE            bundle_description_fools_gold_ii
 LANG_ENGLISH         "Unfortunately for your enemies, the bullets are too real with the Fool's Gold II collection"
+
+REFERENCE            bundle_description_fourth_of_july_pack
+LANG_ENGLISH         "Grab some cold ones and light the grill, it's the Fourth of July Pack."
 
 REFERENCE            bundle_description_fubar
 LANG_ENGLISH         "Who said winning was pretty? The F.U.B.A.R Pack."
@@ -1231,7 +1331,7 @@ REFERENCE            bundle_description_get_winged
 LANG_ENGLISH         "Long the preserve of airborne unit patches, now you too can enjoy the status conferred by a good pair."
 
 REFERENCE            bundle_description_ghost_pack_contingency
-LANG_ENGLISH         "They've got no Plan B when you've got the Contingency Collection. The Operator SKin Included will also unlock the Operator."
+LANG_ENGLISH         "They've got no Plan B when you've got the Contingency Collection. The Operator Skin Included will also unlock the Operator."
 
 REFERENCE            bundle_description_ghost_pack_oil_rig
 LANG_ENGLISH         "Wreak havoc with the Call of Duty: Modern Warfare 2 Campaign Remastered Pack."
@@ -1245,11 +1345,14 @@ LANG_ENGLISH         "The sniper pack that proves the old maxim: it???s all fun 
 REFERENCE            bundle_description_going_the_distance
 LANG_ENGLISH         "Gas up. Your journey begins with the Going the Distance Collection."
 
+REFERENCE            bundle_description_golden_idol
+LANG_ENGLISH         "Your squad is going to worship you when they see what you got from your Golden Idol Bundle, but can you blame them? Note: The Operator Skin Included will also unlock the Operator."
+
 REFERENCE            bundle_description_gone_camping
 LANG_ENGLISH         "Open fire with the Gone Camping Pack."
 
 REFERENCE            bundle_description_good_luck
-LANG_ENGLISH         "Forget the four leaf clovers. Toss the rabbits feet. Everything you need is right here in the Good Luck Pack!"
+LANG_ENGLISH         "Forget the four-leaf clovers. Toss the rabbit's feet. Everything you need is right here in the Good Luck Pack!"
 
 REFERENCE            bundle_description_great_white
 LANG_ENGLISH         "Do you have a killer???s instinct and cold, soulless eyes? This one is for you."
@@ -1278,6 +1381,9 @@ LANG_ENGLISH         "Go hunting for elusive prey in style with this irreverent 
 REFERENCE            bundle_description_hazardous
 LANG_ENGLISH         "Waste no shots with the Hazardous Collection."
 
+REFERENCE            bundle_description_hazardous_ii
+LANG_ENGLISH         "Just as deadly as the first, the Hazardous II Collection."
+
 REFERENCE            bundle_description_heartburn
 LANG_ENGLISH         "Give them cause to regret everything???with the Heartburn Bundle."
 
@@ -1297,7 +1403,7 @@ REFERENCE            bundle_description_heavy_shot
 LANG_ENGLISH         "Yes, regular shot might be easier to carry around, but why not push the boat out once in a while?"
 
 REFERENCE            bundle_description_heiji_mishkin_limited
-LANG_ENGLISH         "Rise like the sun with the HeijiMishkin: Limited Pack."
+LANG_ENGLISH         "Rise like the sun with the Heiji Mishkin: Limited Pack."
 
 REFERENCE            bundle_description_heirloom
 LANG_ENGLISH         "The Most Wanted Pack? It's the Heirloom Bundle."
@@ -1323,6 +1429,9 @@ LANG_ENGLISH         "It's always shooting season with the Hunter's Paradise II 
 REFERENCE            bundle_description_hydra_slayer
 LANG_ENGLISH         "Here come the headshots. The Hydra Slayer Pack."
 
+REFERENCE            bundle_description_ice_breaker
+LANG_ENGLISH         "Introductions are optional when you come at them with your Ice Breaker Bundle."
+
 REFERENCE            bundle_description_imperatorium
 LANG_ENGLISH         "Cement your legacy with the Imperatorium Bundle."
 
@@ -1345,13 +1454,16 @@ REFERENCE            bundle_description_irradiated
 LANG_ENGLISH         "Kill anything you touch. This is the Irradiated Collection."
 
 REFERENCE            bundle_description_iskra_operator_bundle
-LANG_ENGLISH         "See through their lies with the Iskra Operator Bundle. The Operator Skin included will also unlock the Operator. Note: this bundle contains weapons that apply the ^1Dismemberment^7 effect."
+LANG_ENGLISH         "See through their lies with the H.E. Tracer Pack: Iskra Operator Bundle. The Operator Skin included will also unlock the Operator. Note: this bundle contains weapons that apply the ^1Dismemberment^7 effect."
 
 REFERENCE            bundle_description_jackals_pack
 LANG_ENGLISH         "Clock in for your daily dose of hit and run mayhem with the Jackals Bundle. The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_jw_grom
 LANG_ENGLISH         "Get in and out with the JW GROM: Mil-Sim Pack."
+
+REFERENCE            bundle_description_kawaii_cat
+LANG_ENGLISH         "Contrary to popular belief, cat ears can be quite tactical in the correct environment. The Mara: Kawaii Cat Pack just showers those tactics in blue cuteness. Note: The Operator Skin Included will also unlock the Operator."
 
 REFERENCE            bundle_description_lady_luck
 LANG_ENGLISH         "If your colors are blush and bashful, indulge yourself in this signature pink pack."
@@ -1380,8 +1492,11 @@ LANG_ENGLISH         "Dueling pistols, sharpshooting and swift justice ??? recal
 REFERENCE            bundle_description_longshot
 LANG_ENGLISH         "Take a chance on this bundle???it could pay off handsomely! The Longshot Bundle."
 
+REFERENCE            bundle_description_lost_souls
+LANG_ENGLISH         "There's no hope for the opposition when you get the Lost Souls Collection."
+
 REFERENCE            bundle_description_lumbertactical
-LANG_ENGLISH         "Log more kills with Raines' Lumbertactical Pack."
+LANG_ENGLISH         "Log more kills with Raines' Lumbertactical Pack. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_lunar_new_year
 LANG_ENGLISH         "Celebrate auspicious new beginnings, sweep away bad omens, and celebrate the Lunar New Year on your way up through the ranks."
@@ -1403,6 +1518,9 @@ LANG_ENGLISH         "Master the art of war with the Marbled Elegance Bundle."
 
 REFERENCE            bundle_description_matte_black
 LANG_ENGLISH         "Embrace your dark side with the Matte Black Bundle."
+
+REFERENCE            bundle_description_mechanized
+LANG_ENGLISH         "The cogs are moving and all systems go, time to get the Mechanized Bundle."
 
 REFERENCE            bundle_description_megacity_menace
 LANG_ENGLISH         "Own the night with the Megacity Menace Bundle."
@@ -1440,6 +1558,9 @@ LANG_ENGLISH         "Take them out wildstyle with the Neon Nights Bundle."
 REFERENCE            bundle_description_neon_nights_ii
 LANG_ENGLISH         "Sleep when they???re dead with the Neon Nights II Pack."
 
+REFERENCE            bundle_description_neon_nights_iii
+LANG_ENGLISH         "Own the AO with the Neon Nights III Collection."
+
 REFERENCE            bundle_description_night_operations
 LANG_ENGLISH         "There???s no time like the nighttime. Come alive with Thorne and rule the darkness. The Operator Skin included will also unlock the Operator."
 
@@ -1468,7 +1589,7 @@ REFERENCE            bundle_description_notice_me_iii
 LANG_ENGLISH         "Okay seriously, how have you not noticed me?"
 
 REFERENCE            bundle_description_old_school
-LANG_ENGLISH         "This pack takes its cues from the past to deliver a futureproof bang for the buck."
+LANG_ENGLISH         "This pack takes its cues from the past to deliver a future-proof bang for the buck."
 
 REFERENCE            bundle_description_old_scout
 LANG_ENGLISH         "Make grandpappy proud with the Old Scout Bundle."
@@ -1506,6 +1627,18 @@ LANG_ENGLISH         "BUNDLE_DESCRIPTION_PLEASURE_POINTS"
 REFERENCE            bundle_description_plunder_pack
 LANG_ENGLISH         "Commit to vehicular mayhem as a way of life with the Plunder Pack. "
 
+REFERENCE            bundle_description_poison_dart
+LANG_ENGLISH         "By the time they feel the sting of what you got out of your Poison Dart Bundle, it's already too late."
+
+REFERENCE            bundle_description_pro_pack_position_player
+LANG_ENGLISH         "Command your surrounding area with the Pro Pack: Position Player."
+
+REFERENCE            bundle_description_pro_pack_rush_down
+LANG_ENGLISH         "Don't be afraid to push up on 'em with the Pro Pack: Rush Down."
+
+REFERENCE            bundle_description_prototype_17
+LANG_ENGLISH         "The Prototype 17 Bundle is highly classified and very deadly. Use with caution."
+
 REFERENCE            bundle_description_prototype_367
 LANG_ENGLISH         "Strike before they know what hit them with the Prototype 367 Bundle."
 
@@ -1519,7 +1652,13 @@ REFERENCE            bundle_description_pyromaniac
 LANG_ENGLISH         "Kreuger's Pyromaniac Pack is perfect for turning up the heat. Burn your enemies with all new attachments and equipment. The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_racing_series_mach_8
-LANG_ENGLISH         "Leave your enemies in the dust with the Racing Series: Mach 8, featuring colored tracer fire on the included weapons. Go team Red!"
+LANG_ENGLISH         "Leave your enemies in the dust with the Racing Series: Mach 8, featuring colored ^1Tracer Fire^7 on the included weapon(s). Go team Red!"
+
+REFERENCE            bundle_description_ragnarok
+LANG_ENGLISH         "It's all lead up to this. The Ragnarok Collection. Note: The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_rainbow_tactical
+LANG_ENGLISH         "Show your true colors with the Rainbow Tactical Bundle."
 
 REFERENCE            bundle_description_rattler
 LANG_ENGLISH         "Strike anywhere and anytime with the Rattler Bundle."
@@ -1528,7 +1667,7 @@ REFERENCE            bundle_description_razor_sharp
 LANG_ENGLISH         "Stay sharp. Stay smooth. This is the Razor Sharp Bundle."
 
 REFERENCE            bundle_description_rebellion
-LANG_ENGLISH         "Take over the warzone with the Rebellion Pack. The Operator Skin Included will also unlock the Operator.
+LANG_ENGLISH         "Take over the warzone with the Rebellion Pack. Note: The Operator Skin Included will also unlock the Operator.
 "
 
 REFERENCE            bundle_description_red_iron
@@ -1546,23 +1685,71 @@ LANG_ENGLISH         "Swoop in for the kill with the Reticent Pack."
 REFERENCE            bundle_description_retro_gamer
 LANG_ENGLISH         "Tighten up the graphics with the Retro Gamer Bundle."
 
+REFERENCE            bundle_description_ripple_effect
+LANG_ENGLISH         "Crash into them with the Ripple Effect Bundle."
+
 REFERENCE            bundle_description_road_to_victory
 LANG_ENGLISH         "The Road to Victory is a bloody one, might as well do it in style."
 
 REFERENCE            bundle_description_roc_slayer
 LANG_ENGLISH         "It's fight-and-flight with the Roc Slayer Pack."
 
+REFERENCE            bundle_description_rogue_operative
+LANG_ENGLISH         "Play by your own rules with the Rogue Operative Collection. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_ronin_operator_bundle
 LANG_ENGLISH         "Accept no master with the Ronin Operator Collection.  The Operator Skin included will also unlock the Operator."
+
+REFERENCE            bundle_description_royal_armory_reserve_collection
+LANG_ENGLISH         "The awe-inspiring Royal Armory: Reserve Collection is here and ready to fight."
 
 REFERENCE            bundle_description_royal_assassin
 LANG_ENGLISH         "Royally screw them over with the Royal Assassin Pack."
 
+REFERENCE            bundle_description_roze_operator_bundle
+LANG_ENGLISH         "Strike fear in their eyes with the Roze Operator Bundle and add insult to injury with the included weapon's ^1Dismemberment Effect^7. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_run_n_gun
 LANG_ENGLISH         "This whole running 'n gunning deal ??? it's got such a nice ring to it, wouldn???t you say?"
 
+REFERENCE            bundle_description_rush_down
+LANG_ENGLISH         "Don't be afraid to push up on 'em with the Rush Down Collection."
+
 REFERENCE            bundle_description_russian_federal_security_bureau
 LANG_ENGLISH         "Rush in with the Russian Federal Security Bureau Pack."
+
+REFERENCE            bundle_description_s1_bp_pack_00
+LANG_ENGLISH         "Hit the battlefield in style with the Season One Vault Pack: Mara Chem Division. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_01
+LANG_ENGLISH         "Be quick on the draw and fire from the hip with the Season One Vault Pack: Wyatt Urban Hip. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_02
+LANG_ENGLISH         "Scout ahead with the Season One Vault Pack: Rodion Recon. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_03
+LANG_ENGLISH         "They're always in your sights when you use the Season On Vault Pack: Alice Down Range. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_04
+LANG_ENGLISH         "Stand strong with the Season One Vault Pack: Minotaur Armored Up. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_05
+LANG_ENGLISH         "Set sail with the Season One Vault Pack: Syd Mariner. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_06
+LANG_ENGLISH         "Never miss your target with the Season One Vault Pack: D-Day Buckshot. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_07
+LANG_ENGLISH         "Breach through their defenses with the Season One Vault Pack: Bale Sokoly. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_08
+LANG_ENGLISH         "Spill some blood with the Season One Vault Pack: Domino Wetworks. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_09
+LANG_ENGLISH         "Stay in the brush with the Season One Vault Pack: Grinch Overgrowth. The Operator Skin Included will also unlock the Operator."
+
+REFERENCE            bundle_description_s1_bp_pack_10
+LANG_ENGLISH         "Bust through the tree line with the Season One Vault Pack: Mara Forest Ops. The Operator Skin Included will also unlock the Operator."
 
 REFERENCE            bundle_description_sakura_edition
 LANG_ENGLISH         "Drop your enemies like delicate petals with the Sakura Edition Pack."
@@ -1579,8 +1766,11 @@ LANG_ENGLISH         "Burn their cities to the ground with the Scorched Earth Bu
 REFERENCE            bundle_description_scorpio
 LANG_ENGLISH         "This vicious pack allows Yegor to fulfill his destiny as an operator with a flair for violence. The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_scourge_of_the_seas
+LANG_ENGLISH         "Those waters are just a bit more treacherous when you're involved. The Scourge of the Seas Collection."
+
 REFERENCE            bundle_description_security_detail
-LANG_ENGLISH         "Protect your assets with the Security Detail Pack."
+LANG_ENGLISH         "Protect your assets with the Security Detail Pack. The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_sentinel
 LANG_ENGLISH         "You're on point with the Sentinel Bundle."
@@ -1594,8 +1784,17 @@ LANG_ENGLISH         "Stay measured. Stay hidden. This is the SERE Kit: Designat
 REFERENCE            bundle_description_sere_kit_mid_range
 LANG_ENGLISH         "Always keep them in your sights with the SERE Kit: Mid-Range, a pack tailored to all your mid-range needs!"
 
+REFERENCE            bundle_description_sere_kit_plunder_player
+LANG_ENGLISH         "Search for the cash leaders in style with the SERE Kit: Plunder Player."
+
 REFERENCE            bundle_description_servant_of_cthulhu
 LANG_ENGLISH         "Heed the call with the Servant of Cthulhu Collection."
+
+REFERENCE            bundle_description_servants_of_the_night
+LANG_ENGLISH         "The Servants of the Night Collection will serve you well, but only if you serve the night in return."
+
+REFERENCE            bundle_description_silver_surgeon
+LANG_ENGLISH         "When precision is required, look no further than the Silver Surgeon Collection."
 
 REFERENCE            bundle_description_snakeskin
 LANG_ENGLISH         "Tell them they can bite you with the Snakeskin Bundle."
@@ -1606,11 +1805,20 @@ LANG_ENGLISH         "Bundle up in heavy coats and heavy guns with the Snow Cove
 REFERENCE            bundle_description_snowstorm
 LANG_ENGLISH         "Leave them in the cold with the Snowstorm Bundle. The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_soft_spots
+LANG_ENGLISH         "Blend in and don't be seen with the Soft Spots Bundle."
+
 REFERENCE            bundle_description_sony_headstart_2
 LANG_ENGLISH         "Fight until the very end with the Call of Duty??: Warzone Combat Pack.  The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_sony_headstart_3
-LANG_ENGLISH         "Always strike first with the Call of Duty: Warzone Combat Pack."
+LANG_ENGLISH         "Always strike first with the Call of Duty??: Warzone Combat Pack."
+
+REFERENCE            bundle_description_sony_headstart_4
+LANG_ENGLISH         "Remember the most important rule, safety first. This is the Call of Duty??: Warzone Combat Pack. Note: The Operator Skin included will also unlock the Operator."
+
+REFERENCE            bundle_description_spectrum
+LANG_ENGLISH         "See them in a whole new light with the Spectrum Bundle."
 
 REFERENCE            bundle_description_spetsnaz_pack
 LANG_ENGLISH         "Hit them hard, hit them fast, and leave no witnesses with the Spetsnaz Pack. The operator skins included will also unlock the operator."
@@ -1666,6 +1874,9 @@ LANG_ENGLISH         "Bedazzle your arsenal with the Tacticolor II Collection."
 REFERENCE            bundle_description_tacticolor_iii
 LANG_ENGLISH         "Make 'em pop with the Tacticolor III Bundle."
 
+REFERENCE            bundle_description_take_off_eh
+LANG_ENGLISH         "This bundle will have ya lickin' yer hoser lips faster than you can order up a double-double paired with a delicious Boston Cream donut."
+
 REFERENCE            bundle_description_talon_operator_bundle
 LANG_ENGLISH         "Claw your way up the leaderboard with the Talon Pack. The Operator Skin included will also unlock the Operator. This pack contains weapons that apply the ^1Dismemberment^7 effect."
 
@@ -1678,8 +1889,14 @@ LANG_ENGLISH         "Go overboard on the competition with The Buccaneer Bundle.
 REFERENCE            bundle_description_the_cleaner
 LANG_ENGLISH         "All the elements of this collection have one aim: to help in dealing out swift and silent death."
 
+REFERENCE            bundle_description_the_executive_armorer
+LANG_ENGLISH         "Go for gold with The Executive Armorer Bundle and show off some bling with the included weapons that feature gold ^1Tracer^7 fire and a ^1Golden Dismemberment^7 effect. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_the_explorer
 LANG_ENGLISH         "No need to follow in everyone else???s tired footsteps ??? blaze your own trail, hero."
+
+REFERENCE            bundle_description_the_fallen_king
+LANG_ENGLISH         "Make them remember you with the Fallen King Bundle."
 
 REFERENCE            bundle_description_the_fixer
 LANG_ENGLISH         "Nikto gets tacti-cool with this fully featured pack of tools for when you need problems to go away. The Operator Skin included will also unlock the Operator."
@@ -1705,8 +1922,14 @@ LANG_ENGLISH         "Show them they've tangled with the wrong person???with The
 REFERENCE            bundle_description_the_old_gods
 LANG_ENGLISH         "Bring back the classics with The Old Gods Collection."
 
+REFERENCE            bundle_description_the_peacekeeper
+LANG_ENGLISH         "Keeping the peace isn't always black and white. In the case of The Peacekeeper Bundle, it most definitely is. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_the_plague
 LANG_ENGLISH         "Share your contagious enthusiasm for death with The Plague Pack."
+
+REFERENCE            bundle_description_the_professional
+LANG_ENGLISH         "Show your squad that you're just a notch above with The Professional Collection. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_the_reaper
 LANG_ENGLISH         "Exact a toll on humanity with this death-bringer toolset, fit to herald the end of days."
@@ -1729,29 +1952,41 @@ LANG_ENGLISH         "Golem???s prints are all over this pack featuring a ghilli
 REFERENCE            bundle_description_the_unseen
 LANG_ENGLISH         "Strike from the shadows with Grinch???s stealth pack, then disappear before they know what hit them. The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_the_widower
+LANG_ENGLISH         "Catch them in your web with The Widower Bundle."
+
 REFERENCE            bundle_description_tomogunchi
 LANG_ENGLISH         "Dinosaurs, fire-breathing dragons, and an evolving watch that will have you gaming the warzone."
+
+REFERENCE            bundle_description_tomogunchi_turbo
+LANG_ENGLISH         "The Tomogunchi Turbo is finally here! Grow your pets during matches by completing challenges to unlock corresponding pet charms. Note: Some Charms can only be unlocked with Multiplayer specific Game Modes or Killstreaks."
 
 REFERENCE            bundle_description_toxic_ooze
 LANG_ENGLISH         "Earn your dishonorable discharge with the Toxic Ooze Bundle."
 
 REFERENCE            bundle_description_tracer_pack_anime
-LANG_ENGLISH         "Dole out the kiss of death with the Tracer Pack: Anime.  Change the tracer fire color of these guns, welcome to team Pink!
+LANG_ENGLISH         "Dole out the kiss of death with the Tracer Pack: Anime, featuring colored ^1Tracer Fire^7 on the included weapon(s). Go Team Pink!
 "
 
 REFERENCE            bundle_description_tracer_pack_cobalt
 LANG_ENGLISH         "Tracer Pack Cobalt Description Text..."
 
+REFERENCE            bundle_description_tracer_pack_freedom
+LANG_ENGLISH         "Light up the sky with the Tracer Pack: Freedom,  featuring colored ^1Tracer Fire^7 that alternates between red, white, and blue!"
+
 REFERENCE            bundle_description_tracer_pack_green
-LANG_ENGLISH         "Forget envy, the Tracer Pack: Green Bundle is all the green you need. Change the tracer fire color of these guns, welcome to team Green!
+LANG_ENGLISH         "Forget envy, the Tracer Pack: Green Bundle is all the green you need. Featuring colored ^1Tracer Fire^7 on the included weapon(s). 
 "
 
 REFERENCE            bundle_description_tracer_pack_purple
-LANG_ENGLISH         "Get violent in violet with the Tracer Pack: Purple. Change the tracer fire color of these guns, welcome to team Purple!
+LANG_ENGLISH         "Get violent in violet with the Tracer Pack: Purple, featuring colored ^1Tracer Fire^7 on the included weapon(s). Welcome to team Purple!
 "
 
 REFERENCE            bundle_description_tracer_pack_red
-LANG_ENGLISH         "Not all blueprints are created equal. Change the tracer fire color of these guns, welcome to team Red!"
+LANG_ENGLISH         "Not all blueprints are created equal. Change the ^1tracer^7 fire color of these guns, welcome to team Red!"
+
+REFERENCE            bundle_description_tracer_pack_shadow
+LANG_ENGLISH         "Everyone has a shadow, it just might not be as deadly. The Tracer Pack: Shadow contains weapons that change the ^1Tracer^7 fire to a shadowy effect."
 
 REFERENCE            bundle_description_trickshot
 LANG_ENGLISH         "Nothing wrong with a few style points. The Trickshot! Collection."
@@ -1777,6 +2012,9 @@ LANG_ENGLISH         "Be careful what you wish for - the vengeance on offer in t
 REFERENCE            bundle_description_valentines_slay
 LANG_ENGLISH         "Show how much you care with the Valentine's Slay Pack. The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_velikan_operator_bundle
+LANG_ENGLISH         "Shadow Company's most fearsome member just entered the battlefield, and he brought along some special weapons that apply the ^1Dismemberment^7 effect and have shadow ^1Tracer^7 fire. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_venomous
 LANG_ENGLISH         "Poison fangs or a sting in the tail? Either way, your enemies will succumb."
 
@@ -1795,11 +2033,20 @@ LANG_ENGLISH         "There's no better price than FREE!"
 REFERENCE            bundle_description_wasteland
 LANG_ENGLISH         "Prepare for the apocalypse with the Wasteland Bundle. The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_weekend_chillin
+LANG_ENGLISH         "Take a load off with the Weekend Chillin' Collection."
+
 REFERENCE            bundle_description_wendigo
-LANG_ENGLISH         "Eat your enemies alive with the Wendigo Pack and give 'em the cold shoulder with the included all new ^1Cryo Dismemberment^."
+LANG_ENGLISH         "Eat your enemies alive with the Wendigo Pack and give 'em the cold shoulder with the included all new ^1Cryo Dismemberment^7. The Operator Skin included will also unlock the Operator."
+
+REFERENCE            bundle_description_wetland_protection
+LANG_ENGLISH         "Don't be afraid to get down and dirty with Golem's Wetland Protection Pack. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_white_lies
 LANG_ENGLISH         "Keep your enemies honest with the White Lies Bundle."
+
+REFERENCE            bundle_description_widower
+LANG_ENGLISH         "They all fall prey to The Widower Bundle eventually."
 
 REFERENCE            bundle_description_wmd
 LANG_ENGLISH         "Send everyone racing for cover when you unleash Minotaur???s Armageddon-themed collection. The Operator Skin included will also unlock the Operator."
@@ -1812,6 +2059,9 @@ LANG_ENGLISH         "If you like to run with a crew of apex predators, this pac
 
 REFERENCE            bundle_description_wolfram
 LANG_ENGLISH         "Outmaneuver and out-think your opponents with the Wolfram Bundle."
+
+REFERENCE            bundle_description_wolfs_bane
+LANG_ENGLISH         "Have 'em howling for mercy with the Wolf's Bane Collection. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_zlr_special
 LANG_ENGLISH         "Bow down before the mighty ZLR ??? pay homage, all while decimating your foes."
@@ -2017,6 +2267,9 @@ LANG_ENGLISH         "Mace Operator Bundle"
 REFERENCE            bundle_mack8_custom
 LANG_ENGLISH         "Mack8 Custom"
 
+REFERENCE            bundle_name_acid_spill
+LANG_ENGLISH         "Acid Spill"
+
 REFERENCE            bundle_name_action_express
 LANG_ENGLISH         "Caliber Conversion Pack: .41 Action Express"
 
@@ -2051,7 +2304,7 @@ REFERENCE            bundle_name_armed_response
 LANG_ENGLISH         "Armed Response"
 
 REFERENCE            bundle_name_armored_assault
-LANG_ENGLISH         "Armored Assault"
+LANG_ENGLISH         "Zane: Armored Assault"
 
 REFERENCE            bundle_name_arms_dealer
 LANG_ENGLISH         "Arms Dealer"
@@ -2077,8 +2330,14 @@ LANG_ENGLISH         "Battle Hardened II"
 REFERENCE            bundle_name_battle_ready
 LANG_ENGLISH         "Battle-Ready"
 
+REFERENCE            bundle_name_beyond_the_pale
+LANG_ENGLISH         "Beyond the Pale"
+
 REFERENCE            bundle_name_bird_of_prey
 LANG_ENGLISH         "Bird of Prey"
+
+REFERENCE            bundle_name_blood_in_the_water
+LANG_ENGLISH         "Blood in the Water"
 
 REFERENCE            bundle_name_blood_stained
 LANG_ENGLISH         "Blood Stained"
@@ -2101,6 +2360,9 @@ LANG_ENGLISH         "Bone Dry"
 REFERENCE            bundle_name_british_metal
 LANG_ENGLISH         "British Metal"
 
+REFERENCE            bundle_name_british_steel_reforged
+LANG_ENGLISH         "British Steel Reforged"
+
 REFERENCE            bundle_name_bronze_knight
 LANG_ENGLISH         "Bronze Knight"
 
@@ -2115,6 +2377,12 @@ LANG_ENGLISH         "Cartel Casanova"
 
 REFERENCE            bundle_name_cdl_atlanta_faze
 LANG_ENGLISH         "Atlanta FaZe Pack"
+
+REFERENCE            bundle_name_cdl_champions_pack
+LANG_ENGLISH         "CDL Champions Pack"
+
+REFERENCE            bundle_name_cdl_champs_2020_pack
+LANG_ENGLISH         "CDL Champs 2020 Pack"
 
 REFERENCE            bundle_name_cdl_chicago_huntsmen
 LANG_ENGLISH         "Chicago Huntsmen Pack"
@@ -2146,8 +2414,17 @@ LANG_ENGLISH         "Paris Legion Pack"
 REFERENCE            bundle_name_cdl_seattle_surge
 LANG_ENGLISH         "Seattle Surge Pack"
 
+REFERENCE            bundle_name_cdl_team_collaboration_pack
+LANG_ENGLISH         "CDL Team Supporter Pack"
+
+REFERENCE            bundle_name_cdl_team_supporter_pack
+LANG_ENGLISH         "CDL Team Supporter Pack"
+
 REFERENCE            bundle_name_cdl_toronto_ultra
 LANG_ENGLISH         "Toronto Ultra Pack"
+
+REFERENCE            bundle_name_chain_reaction
+LANG_ENGLISH         "Chain Reaction"
 
 REFERENCE            bundle_name_checkered_flag
 LANG_ENGLISH         "Checkered Flag"
@@ -2157,6 +2434,9 @@ LANG_ENGLISH         "Chill Confirmed"
 
 REFERENCE            bundle_name_chimera_pack
 LANG_ENGLISH         "Chimera Pack"
+
+REFERENCE            bundle_name_clean_cut
+LANG_ENGLISH         "Clean Cut"
 
 REFERENCE            bundle_name_cleanup_crew
 LANG_ENGLISH         "Cleanup Crew"
@@ -2170,8 +2450,14 @@ LANG_ENGLISH         "Cloud Cover"
 REFERENCE            bundle_name_clover_and_out
 LANG_ENGLISH         "Clover and Out"
 
+REFERENCE            bundle_name_clown_town
+LANG_ENGLISH         "Clown Town"
+
 REFERENCE            bundle_name_code_pack_2
 LANG_ENGLISH         "Fearless Pack"
+
+REFERENCE            bundle_name_coin_operations
+LANG_ENGLISH         "Coin Operations"
 
 REFERENCE            bundle_name_cold_blood
 LANG_ENGLISH         "Cold Blood"
@@ -2188,8 +2474,14 @@ LANG_ENGLISH         "Copperhead II"
 REFERENCE            bundle_name_covert_operations
 LANG_ENGLISH         "Covert Operations"
 
+REFERENCE            bundle_name_crane_calligraphy
+LANG_ENGLISH         "Crane Calligraphy"
+
 REFERENCE            bundle_name_creature_green
 LANG_ENGLISH         "Creature Green"
+
+REFERENCE            bundle_name_darkness_falls
+LANG_ENGLISH         "Darkness Falls"
 
 REFERENCE            bundle_name_dead_mans_fortune
 LANG_ENGLISH         "Dead Man's Fortune"
@@ -2206,14 +2498,32 @@ LANG_ENGLISH         "Desert Marksman"
 REFERENCE            bundle_name_devilish
 LANG_ENGLISH         "Devilish"
 
+REFERENCE            bundle_name_devourer
+LANG_ENGLISH         "Devourer"
+
+REFERENCE            bundle_name_door_to_the_underworld
+LANG_ENGLISH         "Door to the Underworld"
+
 REFERENCE            bundle_name_double_strike
 LANG_ENGLISH         "Double Strike"
+
+REFERENCE            bundle_name_dragon_boat_festival
+LANG_ENGLISH         "Dragon Boat Festival"
 
 REFERENCE            bundle_name_dragon_slayer
 LANG_ENGLISH         "Dragon Slayer"
 
 REFERENCE            bundle_name_dragon_turtle
 LANG_ENGLISH         "Dragon Turtle"
+
+REFERENCE            bundle_name_dreadnought
+LANG_ENGLISH         "Dreadnought"
+
+REFERENCE            bundle_name_earth_expeditionary_force
+LANG_ENGLISH         "Earth Expeditionary Force"
+
+REFERENCE            bundle_name_eloko
+LANG_ENGLISH         "Eloko"
 
 REFERENCE            bundle_name_emerald_ranger
 LANG_ENGLISH         "Emerald Ranger"
@@ -2223,6 +2533,9 @@ LANG_ENGLISH         "Encryption"
 
 REFERENCE            bundle_name_entangled
 LANG_ENGLISH         "Entangled"
+
+REFERENCE            bundle_name_eternal_samurai
+LANG_ENGLISH         "Eternal Samurai"
 
 REFERENCE            bundle_name_executive_armory_i
 LANG_ENGLISH         "Executive Armory I"
@@ -2251,6 +2564,9 @@ LANG_ENGLISH         "Fire Claw"
 REFERENCE            bundle_name_fire_claw_iii
 LANG_ENGLISH         "Fire Claw III"
 
+REFERENCE            bundle_name_fire_claw_iv
+LANG_ENGLISH         "Fire Claw IV"
+
 REFERENCE            bundle_name_first_hunt
 LANG_ENGLISH         "First Hunt"
 
@@ -2266,6 +2582,9 @@ LANG_ENGLISH         "Fool's Gold"
 REFERENCE            bundle_name_fools_gold_ii
 LANG_ENGLISH         "Fool's Gold II"
 
+REFERENCE            bundle_name_fourth_of_july_pack
+LANG_ENGLISH         "Fourth of July Pack"
+
 REFERENCE            bundle_name_fubar
 LANG_ENGLISH         "F.U.B.A.R"
 
@@ -2273,7 +2592,7 @@ REFERENCE            bundle_name_full_metal
 LANG_ENGLISH         "Full Metal"
 
 REFERENCE            bundle_name_gatekeeper
-LANG_ENGLISH         "Gatekeeper"
+LANG_ENGLISH         "The Gatekeeper"
 
 REFERENCE            bundle_name_gaz_operator_bundle
 LANG_ENGLISH         "Gaz Operator Bundle"
@@ -2299,6 +2618,9 @@ LANG_ENGLISH         "Ginger Red"
 REFERENCE            bundle_name_going_the_distance
 LANG_ENGLISH         "Going the Distance"
 
+REFERENCE            bundle_name_golden_idol
+LANG_ENGLISH         "Zane Golden Idol"
+
 REFERENCE            bundle_name_good_luck
 LANG_ENGLISH         "Good Luck"
 
@@ -2323,6 +2645,9 @@ LANG_ENGLISH         "Hang Ten"
 REFERENCE            bundle_name_hare_hunter
 LANG_ENGLISH         "Hare Hunter"
 
+REFERENCE            bundle_name_hazardous_ii
+LANG_ENGLISH         "Hazardous II"
+
 REFERENCE            bundle_name_heartburn
 LANG_ENGLISH         "Heartburn"
 
@@ -2342,7 +2667,7 @@ REFERENCE            bundle_name_heavy_shot
 LANG_ENGLISH         "Heavy Shot"
 
 REFERENCE            bundle_name_heiji_mishkin_limited
-LANG_ENGLISH         "Heiji Miskin: Limited"
+LANG_ENGLISH         "Heiji Mishkin: Limited"
 
 REFERENCE            bundle_name_heirloom
 LANG_ENGLISH         "Heirloom"
@@ -2365,6 +2690,9 @@ LANG_ENGLISH         "Hunter's Paradise II"
 REFERENCE            bundle_name_hydra_slayer
 LANG_ENGLISH         "Hydra Slayer"
 
+REFERENCE            bundle_name_ice_breaker
+LANG_ENGLISH         "Ice Breaker"
+
 REFERENCE            bundle_name_infernal_chords
 LANG_ENGLISH         "Infernal Chords"
 
@@ -2378,13 +2706,16 @@ REFERENCE            bundle_name_irradiated
 LANG_ENGLISH         "Irradiated"
 
 REFERENCE            bundle_name_iskra_operator_bundle
-LANG_ENGLISH         "Irskra Operator Bundle"
+LANG_ENGLISH         "H.E. Tracer Pack: Iskra Operator Bundle"
 
 REFERENCE            bundle_name_jackals_pack
 LANG_ENGLISH         "Jackals Pack"
 
 REFERENCE            bundle_name_jw_grom
 LANG_ENGLISH         "JW GROM: Mil-Sim Pack"
+
+REFERENCE            bundle_name_kawaii_cat
+LANG_ENGLISH         "Mara: Kawaii Cat"
 
 REFERENCE            bundle_name_lady_luck
 LANG_ENGLISH         "Lady Luck"
@@ -2413,6 +2744,9 @@ LANG_ENGLISH         "Lonestar"
 REFERENCE            bundle_name_longshot
 LANG_ENGLISH         "Longshot"
 
+REFERENCE            bundle_name_lost_souls
+LANG_ENGLISH         "Lost Souls"
+
 REFERENCE            bundle_name_lumbertactical
 LANG_ENGLISH         "Lumbertactical"
 
@@ -2430,6 +2764,9 @@ LANG_ENGLISH         "Marbled Elegance"
 
 REFERENCE            bundle_name_matte_black
 LANG_ENGLISH         "Matte Black"
+
+REFERENCE            bundle_name_mechanized
+LANG_ENGLISH         "Mechanized"
 
 REFERENCE            bundle_name_megacity_menace
 LANG_ENGLISH         "Megacity Menace"
@@ -2466,6 +2803,9 @@ LANG_ENGLISH         "Neon Nights"
 
 REFERENCE            bundle_name_neon_nights_ii
 LANG_ENGLISH         "Neon Nights II"
+
+REFERENCE            bundle_name_neon_nights_iii
+LANG_ENGLISH         "Neon Nights III"
 
 REFERENCE            bundle_name_night_operations
 LANG_ENGLISH         "Night Operations"
@@ -2524,6 +2864,18 @@ LANG_ENGLISH         "Pleasure Points"
 REFERENCE            bundle_name_plunder_pack
 LANG_ENGLISH         "Plunder Pack"
 
+REFERENCE            bundle_name_poison_dart
+LANG_ENGLISH         "Poison Dart"
+
+REFERENCE            bundle_name_pro_pack_position_player
+LANG_ENGLISH         "Pro Pack: Position Player"
+
+REFERENCE            bundle_name_pro_pack_rush_down
+LANG_ENGLISH         "Pro Pack: Rush Down"
+
+REFERENCE            bundle_name_prototype_17
+LANG_ENGLISH         "Prototype: 17"
+
 REFERENCE            bundle_name_prototype_367
 LANG_ENGLISH         "Prototype 367"
 
@@ -2538,6 +2890,12 @@ LANG_ENGLISH         "Pyromaniac"
 
 REFERENCE            bundle_name_racing_series_mach_8
 LANG_ENGLISH         "Racing Series: Mach 8"
+
+REFERENCE            bundle_name_ragnarok
+LANG_ENGLISH         "Ragnarok"
+
+REFERENCE            bundle_name_rainbow_tactical
+LANG_ENGLISH         "Rainbow Tactical"
 
 REFERENCE            bundle_name_rattler
 LANG_ENGLISH         "Rattler"
@@ -2563,17 +2921,29 @@ LANG_ENGLISH         "Reticent"
 REFERENCE            bundle_name_retro_gamer
 LANG_ENGLISH         "Retro Gamer"
 
+REFERENCE            bundle_name_ripple_effect
+LANG_ENGLISH         "Ripple Effect"
+
 REFERENCE            bundle_name_road_to_victory
 LANG_ENGLISH         "Road to Victory"
 
 REFERENCE            bundle_name_roc_slayer
 LANG_ENGLISH         "Roc Slayer"
 
+REFERENCE            bundle_name_rogue_operative
+LANG_ENGLISH         "Syd Rogue Operative"
+
 REFERENCE            bundle_name_ronin_operator_bundle
 LANG_ENGLISH         "Ronin Operator Bundle"
 
+REFERENCE            bundle_name_royal_armory_reserve_collection
+LANG_ENGLISH         "Royal Armory: Reserve Collection"
+
 REFERENCE            bundle_name_royal_assassin
 LANG_ENGLISH         "Royal Assassin"
+
+REFERENCE            bundle_name_roze_operator_bundle
+LANG_ENGLISH         "Roze Operator Bundle"
 
 REFERENCE            bundle_name_run_n_gun
 LANG_ENGLISH         "Run 'n Gun"
@@ -2606,7 +2976,7 @@ REFERENCE            bundle_name_s1_bp_pack_07
 LANG_ENGLISH         "Battle Pass Season 1 Pack"
 
 REFERENCE            bundle_name_s1_bp_pack_08
-LANG_ENGLISH         "New text"
+LANG_ENGLISH         "Battle Pass Season 1 Pack"
 
 REFERENCE            bundle_name_s1_bp_pack_09
 LANG_ENGLISH         "Battle Pass Season 1 Pack"
@@ -2629,6 +2999,9 @@ LANG_ENGLISH         "Scorched Earth"
 REFERENCE            bundle_name_scorpio
 LANG_ENGLISH         "Scorpio"
 
+REFERENCE            bundle_name_scourge_of_the_seas
+LANG_ENGLISH         "Scourge of the Seas"
+
 REFERENCE            bundle_name_security_detail
 LANG_ENGLISH         "Security Detail"
 
@@ -2644,8 +3017,17 @@ LANG_ENGLISH         "SERE Kit: Designated Marksman"
 REFERENCE            bundle_name_sere_kit_mid_range
 LANG_ENGLISH         "SERE Kit:  Mid-Range"
 
+REFERENCE            bundle_name_sere_kit_plunder_player
+LANG_ENGLISH         "SERE Kit Plunder Player"
+
 REFERENCE            bundle_name_servant_of_cthulhu
 LANG_ENGLISH         "Servant of Cthulhu"
+
+REFERENCE            bundle_name_servants_of_the_night
+LANG_ENGLISH         "Servants of the Night"
+
+REFERENCE            bundle_name_silver_surgeon
+LANG_ENGLISH         "Silver Surgeon"
 
 REFERENCE            bundle_name_snakeskin
 LANG_ENGLISH         "Snakeskin"
@@ -2653,11 +3035,20 @@ LANG_ENGLISH         "Snakeskin"
 REFERENCE            bundle_name_snowstorm
 LANG_ENGLISH         "Snowstorm"
 
+REFERENCE            bundle_name_soft_spots
+LANG_ENGLISH         "Soft Spots"
+
 REFERENCE            bundle_name_sony_headstart_2
-LANG_ENGLISH         "Sony Headstart 2"
+LANG_ENGLISH         "Call of Duty??: Warzone Combat Pack"
 
 REFERENCE            bundle_name_sony_headstart_3
-LANG_ENGLISH         "Sony Headstart 3"
+LANG_ENGLISH         "Call of Duty??: Warzone Combat Pack"
+
+REFERENCE            bundle_name_sony_headstart_4
+LANG_ENGLISH         "Call of Duty??: Warzone Combat Pack"
+
+REFERENCE            bundle_name_spectrum
+LANG_ENGLISH         "Spectrum"
 
 REFERENCE            bundle_name_spetsnaz_pack
 LANG_ENGLISH         "Spetsnaz Pack"
@@ -2701,6 +3092,9 @@ LANG_ENGLISH         "Tacticolor"
 REFERENCE            bundle_name_tacticolor_iii
 LANG_ENGLISH         "Tacticolor III"
 
+REFERENCE            bundle_name_take_off_eh
+LANG_ENGLISH         "Take Off, Eh?!"
+
 REFERENCE            bundle_name_talon_operator_bundle
 LANG_ENGLISH         "Talon Operator Bundle"
 
@@ -2710,8 +3104,14 @@ LANG_ENGLISH         "Tectonic"
 REFERENCE            bundle_name_the_cleaner
 LANG_ENGLISH         "The Cleaner"
 
+REFERENCE            bundle_name_the_executive_armorer
+LANG_ENGLISH         "The Executive Armorer"
+
 REFERENCE            bundle_name_the_explorer
 LANG_ENGLISH         "The Explorer"
+
+REFERENCE            bundle_name_the_fallen_king
+LANG_ENGLISH         "Fallen King"
 
 REFERENCE            bundle_name_the_fixer
 LANG_ENGLISH         "Nikto Operator Bundle"
@@ -2737,8 +3137,14 @@ LANG_ENGLISH         "The Octopus Garden"
 REFERENCE            bundle_name_the_old_gods
 LANG_ENGLISH         "The Old Gods"
 
+REFERENCE            bundle_name_the_peacekeeper
+LANG_ENGLISH         "The Peacekeeper "
+
 REFERENCE            bundle_name_the_plague
 LANG_ENGLISH         "The Plague"
+
+REFERENCE            bundle_name_the_professional
+LANG_ENGLISH         "The Professional"
 
 REFERENCE            bundle_name_the_reaper
 LANG_ENGLISH         "The Reaper"
@@ -2764,20 +3170,32 @@ LANG_ENGLISH         "The Unseen"
 REFERENCE            bundle_name_tomogunchi
 LANG_ENGLISH         "Tomogunchi"
 
+REFERENCE            bundle_name_tomogunchi_turbo
+LANG_ENGLISH         "Tomogunchi Turbo"
+
 REFERENCE            bundle_name_toxic_ooze
 LANG_ENGLISH         "Toxic Ooze"
 
 REFERENCE            bundle_name_tracer_pack_cobalt
 LANG_ENGLISH         "Tracer Pack Cobalt"
 
+REFERENCE            bundle_name_tracer_pack_executive_armory
+LANG_ENGLISH         "Tracer Pack: Executive Armory"
+
+REFERENCE            bundle_name_tracer_pack_freedom
+LANG_ENGLISH         "Tracer Pack: Freedom"
+
 REFERENCE            bundle_name_tracer_pack_green
 LANG_ENGLISH         "Tracer Pack: Green"
 
 REFERENCE            bundle_name_tracer_pack_purple
-LANG_ENGLISH         "Tracer Pack Purple"
+LANG_ENGLISH         "Tracer Pack: Purple"
 
 REFERENCE            bundle_name_tracer_pack_red
-LANG_ENGLISH         "Tracer Pack Red"
+LANG_ENGLISH         "Tracer Pack: Red"
+
+REFERENCE            bundle_name_tracer_pack_shadow
+LANG_ENGLISH         "Tracer Pack: Shadow"
 
 REFERENCE            bundle_name_trickshot
 LANG_ENGLISH         "Trickshot!"
@@ -2800,6 +3218,9 @@ LANG_ENGLISH         "Twin Suns"
 REFERENCE            bundle_name_urban_avenger
 LANG_ENGLISH         "Urban Avenger"
 
+REFERENCE            bundle_name_velikan_operator_bundle
+LANG_ENGLISH         "Velikan Operator Bundle"
+
 REFERENCE            bundle_name_venomous
 LANG_ENGLISH         "Venomous"
 
@@ -2812,14 +3233,23 @@ LANG_ENGLISH         "Viking Burial II"
 REFERENCE            bundle_name_warcom_pack
 LANG_ENGLISH         "Warcom Pack"
 
+REFERENCE            bundle_name_weekend_chillin
+LANG_ENGLISH         "Weekend Chillin'"
+
 REFERENCE            bundle_name_wendigo
 LANG_ENGLISH         "Wendigo"
 
 REFERENCE            bundle_name_wet_work
 LANG_ENGLISH         "Wet Work"
 
+REFERENCE            bundle_name_wetland_protection
+LANG_ENGLISH         "Wetland Protection"
+
 REFERENCE            bundle_name_white_lies
 LANG_ENGLISH         "White Lies"
+
+REFERENCE            bundle_name_widower
+LANG_ENGLISH         "Widower"
 
 REFERENCE            bundle_name_wmd
 LANG_ENGLISH         "WMD"
@@ -2833,6 +3263,9 @@ LANG_ENGLISH         "Wolf Pack"
 REFERENCE            bundle_name_wolfram
 LANG_ENGLISH         "Wolfram"
 
+REFERENCE            bundle_name_wolfs_bane
+LANG_ENGLISH         "Wolf's Bane"
+
 REFERENCE            bundle_name_zlr_special
 LANG_ENGLISH         "ZLR Special"
 
@@ -2844,6 +3277,9 @@ LANG_ENGLISH         "Old Scout"
 
 REFERENCE            bundle_overcaffeinated
 LANG_ENGLISH         "Overcaffeinated"
+
+REFERENCE            bundle_owned_disclaimer
+LANG_ENGLISH         "You currently own ^,&&1 item(s)^7 in this bundle."
 
 REFERENCE            bundle_petrograd
 LANG_ENGLISH         "Petrograd"
@@ -2878,6 +3314,10 @@ LANG_ENGLISH         "The Buccaneer"
 REFERENCE            bundle_tier_disclaimer
 LANG_ENGLISH         "Tier skips will not be applied once you have hit tier 100 in the Battle Pass."
 
+REFERENCE            bundle_tier_owned_disclaimer
+LANG_ENGLISH         "Tier skips will not be applied once you have hit tier 100 in the Battle Pass.
+You currently own ^,&&1 item(s)^7 in this bundle."
+
 REFERENCE            bundle_tracer_pack_anime
 LANG_ENGLISH         "Tracer Pack: Anime"
 
@@ -2898,6 +3338,9 @@ LANG_ENGLISH         "Valentine's Slay"
 
 REFERENCE            bundle_wasteland
 LANG_ENGLISH         "Wasteland"
+
+REFERENCE            bundlename_silver_surgeon
+LANG_ENGLISH         "Silver Surgeon"
 
 REFERENCE            button
 LANG_ENGLISH         "BUTTON"
@@ -3053,6 +3496,48 @@ LANG_ENGLISH         "Custom game mode failed to save."
 
 REFERENCE            cgm_save_success
 LANG_ENGLISH         "Custom game mode was successfully saved."
+
+REFERENCE            challenge_baby
+LANG_ENGLISH         "Get ^510^7 kills"
+
+REFERENCE            challenge_bear
+LANG_ENGLISH         "Call in a ^5Juggernaut^7 "
+
+REFERENCE            challenge_child
+LANG_ENGLISH         "Use ^55^7 Killstreaks, or earn all ^53^7 Killstreaks in one life"
+
+REFERENCE            challenge_egg
+LANG_ENGLISH         "Get ^53^7 kills"
+
+REFERENCE            challenge_fox
+LANG_ENGLISH         "Punch a vehicle ^510^7 times before it explodes"
+
+REFERENCE            challenge_mantis
+LANG_ENGLISH         "Get ^53^7 executions"
+
+REFERENCE            challenge_octopus
+LANG_ENGLISH         "Get ^520^7 kills"
+
+REFERENCE            challenge_secret1
+LANG_ENGLISH         "Hold ^5$500k^7 in Plunder for ^53^7 minutes"
+
+REFERENCE            challenge_secret2
+LANG_ENGLISH         "Get Top ^53^7 in a Battle Royale match"
+
+REFERENCE            challenge_secretfinal
+LANG_ENGLISH         "Obtain a ^5Nuke^7"
+
+REFERENCE            challenge_skunk
+LANG_ENGLISH         "Get ^55^7 Throwing Knife kills"
+
+REFERENCE            challenge_teena
+LANG_ENGLISH         "Win a ^52v2^7 match as the top scorer"
+
+REFERENCE            challenge_teenb
+LANG_ENGLISH         "Tea bag several players after you've killed them"
+
+REFERENCE            challenge_trex
+LANG_ENGLISH         "Get ^55^7 vehicle kills"
 
 REFERENCE            challenges
 LANG_ENGLISH         "Challenges"
@@ -3317,6 +3802,9 @@ LANG_ENGLISH         "Call of Duty?? App data available"
 
 REFERENCE            codcaster_arabic_name
 LANG_ENGLISH         "Arabic characters are not supported for Custom Team Names."
+
+REFERENCE            collected
+LANG_ENGLISH         "Collected"
 
 REFERENCE            color_blind_assist_caps
 LANG_ENGLISH         "COLOR BLIND ASSIST"
@@ -4033,6 +4521,10 @@ REFERENCE            dpad_equipment_fiend_br
 LANG_ENGLISH         "Gesture/Mark/Quick Inventory/Heal"
 
 REFERENCE            dpad_left_desc
+LANG_ENGLISH         "Select Fire (Press)
+Weapon Inspect (Hold)"
+
+REFERENCE            dpad_left_desc_no_inspect
 LANG_ENGLISH         "Select Fire"
 
 REFERENCE            dpad_right_desc
@@ -4450,6 +4942,9 @@ LANG_ENGLISH         "SBR7"
 REFERENCE            faction_sdf_short
 LANG_ENGLISH         "Al Qatala"
 
+REFERENCE            faction_seven_short
+LANG_ENGLISH         "Shadow Company"
+
 REFERENCE            faction_six_short
 LANG_ENGLISH         "Chimera"
 
@@ -4703,6 +5198,25 @@ By default, ^5this keybind is linked with Fire Weapon^7 in the Weapon sub-catego
 
 ^3This action is only available in Multiplayer, Co-op and Warzone modes.^7"
 
+REFERENCE            fl_veh_horn
+LANG_ENGLISH         "Air Vehicles - Horn"
+
+REFERENCE            fl_veh_horn_desc
+LANG_ENGLISH         "Press to use the horn in specific air vehicles.
+
+By default, ^5this keybind is linked with Use Tactical Equipment^7 in the Weapons & Equipment sub-category.
+
+^3This action is only available in Multiplayer and Co-op modes.^7
+"
+
+REFERENCE            fl_veh_horn_desc_magma
+LANG_ENGLISH         "Press to use the horn in specific air vehicles.
+
+By default, ^5this keybind is linked with Use Tactical Equipment^7 in the Weapons & Equipment sub-category.
+
+^3This action is only available in Multiplayer, Co-op and Warzone modes.^7
+"
+
 REFERENCE            fl_veh_move_backward
 LANG_ENGLISH         "Air Vehicles - Move Backward"
 
@@ -4768,6 +5282,23 @@ REFERENCE            fl_veh_turn_right_desc_magma
 LANG_ENGLISH         "Hold to turn an air vehicle to the right.
 
 By default, ^5this keybind is linked with Move Right^7 in the Movement sub-category.
+
+^3This action is only available in Multiplayer, Co-op and Warzone modes.^7"
+
+REFERENCE            fl_veh_wartrack
+LANG_ENGLISH         "Air Vehicles - Toggle War Track"
+
+REFERENCE            fl_veh_wartrack_desc
+LANG_ENGLISH         "Press to toggle the war track for air vehicles.
+
+By default, ^5this keybind is linked with Night Vision Goggles^7 in the Weapons & Equipment category.
+
+^3This action is only available in Multiplayer and Co-op modes.^7"
+
+REFERENCE            fl_veh_wartrack_desc_magma
+LANG_ENGLISH         "Press to toggle the war track for air vehicles.
+
+By default, ^5this keybind is linked with Night Vision Goggles^7 in the Weapons & Equipment category.
 
 ^3This action is only available in Multiplayer, Co-op and Warzone modes.^7"
 
@@ -5163,6 +5694,23 @@ REFERENCE            gr_veh_turn_right_desc_magma
 LANG_ENGLISH         "Hold to turn a ground vehicle to the right.
 
 By default, ^5this keybind is linked with Move Right^7 in the Movement sub-category.
+
+^3This action is only available in Multiplayer, Co-op and Warzone modes.^7"
+
+REFERENCE            gr_veh_wartrack
+LANG_ENGLISH         "Ground Vehicles - Toggle War Track"
+
+REFERENCE            gr_veh_wartrack_desc
+LANG_ENGLISH         "Press to toggle the war track for ground vehicles.
+
+By default, ^5this keybind is linked with Night Vision Goggles^7 in the Weapons & Equipment sub-category.
+
+^3This action is only available in Multiplayer and Co-op modes.^7"
+
+REFERENCE            gr_veh_wartrack_desc_magma
+LANG_ENGLISH         "Press to toggle the war track for ground vehicles.
+
+By default, ^5this keybind is linked with Night Vision Goggles^7 in the Weapons & Equipment sub-category.
 
 ^3This action is only available in Multiplayer, Co-op and Warzone modes.^7"
 
@@ -6368,7 +6916,9 @@ LANG_ENGLISH         "Press for a melee attack.
 
 Hold to perform a ^5finishing move^7 when ^5close to an enemy from behind^7.
 
-This keybind ^5can be used to activate Change Zoom/Toggle Hybrid^7 if it's set accordingly in the ^5Change Zoom/Toggle Hybrid Behavior option^7 available in the ^5Behaviors section^7 above."
+This keybind ^5can be used to activate Change Zoom/Toggle Hybrid^7 if it's set accordingly in the ^5Change Zoom/Toggle Hybrid Behavior option^7 available in the ^5Behaviors section^7 above.
+
+This keybind is also used for the ^5Spotter Scope Thermal^7 in Warzone mode."
 
 REFERENCE            menu_couldnt_be_found
 LANG_ENGLISH         "Menu couldn't be found!"
@@ -7897,6 +8447,12 @@ LANG_ENGLISH         "Cheating"
 REFERENCE            report_cheating_submit
 LANG_ENGLISH         "Report submitted for cheating"
 
+REFERENCE            report_clan_tag
+LANG_ENGLISH         "Offensive clan tag"
+
+REFERENCE            report_clan_tag_submit
+LANG_ENGLISH         "Report submitted for offensive clan tag"
+
 REFERENCE            report_exploiting
 LANG_ENGLISH         "Exploiting"
 
@@ -7923,6 +8479,12 @@ LANG_ENGLISH         "Offensive Content"
 
 REFERENCE            report_ugc_submit
 LANG_ENGLISH         "Report submitted for offensive content"
+
+REFERENCE            report_username
+LANG_ENGLISH         "Offensive username"
+
+REFERENCE            report_username_submit
+LANG_ENGLISH         "Report submitted for offensive username"
 
 REFERENCE            reselect_save_device
 LANG_ENGLISH         "Re-Select Save Device"
@@ -10134,6 +10696,12 @@ LANG_ENGLISH         "WEAPON CLASSES"
 
 REFERENCE            weapon_customization_selection
 LANG_ENGLISH         "Select/Deselect"
+
+REFERENCE            weapon_inspect
+LANG_ENGLISH         "Weapon Inspect"
+
+REFERENCE            weapon_inspect_desc
+LANG_ENGLISH         "Press to inspect the currently equipped weapon."
 
 REFERENCE            weapon_menu
 LANG_ENGLISH         "Weapon Menu"

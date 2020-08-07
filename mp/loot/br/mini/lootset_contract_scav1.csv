@@ -1,0 +1,5 @@
+inherit,mp/loot/br/mini/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,1,,# 1 uncommon weapon+,
+req,,,1,,,,,# 1 item,
+req,,ammo,1,,,,,# 1 Ammo,
+req,,plunder,1,,,,,# 1 plunder,

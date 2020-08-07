@@ -161,6 +161,9 @@ LANG_ENGLISH         ""Live off the land.""
 REFERENCE            crowfoot_5
 LANG_ENGLISH         ""Tell my old man who sent you.""
 
+REFERENCE            crowfoot_9
+LANG_ENGLISH         ""Join your ancestors.""
+
 REFERENCE            dday_1
 LANG_ENGLISH         ""Eat shit and die.""
 
@@ -270,7 +273,7 @@ REFERENCE            golem_5
 LANG_ENGLISH         ""Classic maneuver.""
 
 REFERENCE            golem_6
-LANG_ENGLISH         ""Oldest trick in Germany.""
+LANG_ENGLISH         ""Oldest trick in Deutschland.""
 
 REFERENCE            golem_7
 LANG_ENGLISH         ""Apologies, please.""
@@ -397,6 +400,36 @@ LANG_ENGLISH         ""Tosser.""
 
 REFERENCE            kyle_9
 LANG_ENGLISH         ""Off with ya.""
+
+REFERENCE            lerch_1
+LANG_ENGLISH         ""Your ass got owned.""
+
+REFERENCE            lerch_10
+LANG_ENGLISH         ""Eat it.""
+
+REFERENCE            lerch_2
+LANG_ENGLISH         ""Punk-ass bitch.""
+
+REFERENCE            lerch_3
+LANG_ENGLISH         "LERCH_3"
+
+REFERENCE            lerch_4
+LANG_ENGLISH         ""Bet that hurt. Good.""
+
+REFERENCE            lerch_5
+LANG_ENGLISH         ""I know that shit hurt!""
+
+REFERENCE            lerch_6
+LANG_ENGLISH         ""Damn, that felt good!""
+
+REFERENCE            lerch_7
+LANG_ENGLISH         ""I live for this shit!""
+
+REFERENCE            lerch_8
+LANG_ENGLISH         ""Like how that shit works?""
+
+REFERENCE            lerch_9
+LANG_ENGLISH         ""I'm having too much fun.""
 
 REFERENCE            lynch_1
 LANG_ENGLISH         ""Yup. Done with it...""
@@ -606,7 +639,7 @@ REFERENCE            price_9
 LANG_ENGLISH         ""See you in hell.""
 
 REFERENCE            rodion_10
-LANG_ENGLISH         ""Poor bastard.""
+LANG_ENGLISH         ""No Sweat.""
 
 REFERENCE            rodion_2
 LANG_ENGLISH         ""Too easy.""
@@ -624,13 +657,13 @@ REFERENCE            rodion_6
 LANG_ENGLISH         ""Pleasant dreams.""
 
 REFERENCE            rodion_7
-LANG_ENGLISH         ""Anyone else?""
+LANG_ENGLISH         ""Do Svidaniya.""
 
 REFERENCE            rodion_8
 LANG_ENGLISH         ""Goodbye, good riddance.""
 
 REFERENCE            rodion_9
-LANG_ENGLISH         ""That's one way to do it.""
+LANG_ENGLISH         ""I think I broke it.""
 
 REFERENCE            ronin_1
 LANG_ENGLISH         ""Eat shit.""
@@ -661,6 +694,36 @@ LANG_ENGLISH         ""Payback's a bitch.""
 
 REFERENCE            ronin_9
 LANG_ENGLISH         ""Better luck next life.""
+
+REFERENCE            roze_1
+LANG_ENGLISH         "ROZE_1"
+
+REFERENCE            roze_10
+LANG_ENGLISH         "ROZE_10"
+
+REFERENCE            roze_2
+LANG_ENGLISH         "ROZE_2"
+
+REFERENCE            roze_3
+LANG_ENGLISH         "ROZE_3"
+
+REFERENCE            roze_4
+LANG_ENGLISH         ""Enjoy the dirt nap..""
+
+REFERENCE            roze_5
+LANG_ENGLISH         "ROZE_5"
+
+REFERENCE            roze_6
+LANG_ENGLISH         "ROZE_6"
+
+REFERENCE            roze_7
+LANG_ENGLISH         ""It's open season on you fuckers.""
+
+REFERENCE            roze_8
+LANG_ENGLISH         "ROZE_8"
+
+REFERENCE            roze_9
+LANG_ENGLISH         "ROZE_9"
 
 REFERENCE            syd_1
 LANG_ENGLISH         ""Hoo! Damn!""
@@ -720,7 +783,67 @@ REFERENCE            talon_8
 LANG_ENGLISH         ""They're not hard to track.""
 
 REFERENCE            talon_9
-LANG_ENGLISH         ""The ground was thirsty.""
+LANG_ENGLISH         ""Join your ancestors.""
+
+REFERENCE            velikan_1
+LANG_ENGLISH         ""ha-ha.""
+
+REFERENCE            velikan_10
+LANG_ENGLISH         "VELIKAN_10"
+
+REFERENCE            velikan_2
+LANG_ENGLISH         "VELIKAN_2"
+
+REFERENCE            velikan_3
+LANG_ENGLISH         "VELIKAN_3"
+
+REFERENCE            velikan_4
+LANG_ENGLISH         "VELIKAN_4"
+
+REFERENCE            velikan_5
+LANG_ENGLISH         "VELIKAN_5"
+
+REFERENCE            velikan_6
+LANG_ENGLISH         "VELIKAN_6"
+
+REFERENCE            velikan_7
+LANG_ENGLISH         "VELIKAN_7"
+
+REFERENCE            velikan_8
+LANG_ENGLISH         "VELIKAN_8"
+
+REFERENCE            velikan_9
+LANG_ENGLISH         "VELIKAN_9"
+
+REFERENCE            woods_1
+LANG_ENGLISH         "WOODS_1"
+
+REFERENCE            woods_10
+LANG_ENGLISH         "WOODS_10"
+
+REFERENCE            woods_2
+LANG_ENGLISH         "WOODS_2"
+
+REFERENCE            woods_3
+LANG_ENGLISH         "WOODS_3"
+
+REFERENCE            woods_4
+LANG_ENGLISH         "WOODS_4"
+
+REFERENCE            woods_5
+LANG_ENGLISH         "WOODS_5"
+
+REFERENCE            woods_6
+LANG_ENGLISH         "WOODS_6"
+
+REFERENCE            woods_7
+LANG_ENGLISH         "WOODS_7"
+
+REFERENCE            woods_8
+LANG_ENGLISH         "WOODS_8"
+
+REFERENCE            woods_9
+LANG_ENGLISH         "WOODS_9"
 
 REFERENCE            wyatt_1
 LANG_ENGLISH         ""Like a ton of bricks.""

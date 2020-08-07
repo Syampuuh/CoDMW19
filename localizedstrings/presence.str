@@ -248,6 +248,9 @@ LANG_ENGLISH         "Excess"
 REFERENCE            mp_frontier
 LANG_ENGLISH         "Frontier"
 
+REFERENCE            mp_garden
+LANG_ENGLISH         "Cheshire Park"
+
 REFERENCE            mp_geneva
 LANG_ENGLISH         "Renaissance"
 
@@ -256,6 +259,9 @@ LANG_ENGLISH         "Hackney Yard"
 
 REFERENCE            mp_hackney_yard
 LANG_ENGLISH         "Hackney Yard (Night)"
+
+REFERENCE            mp_harbor
+LANG_ENGLISH         "Suldal Harbor"
 
 REFERENCE            mp_hardhat
 LANG_ENGLISH         "Hardhat"
@@ -269,6 +275,9 @@ LANG_ENGLISH         "Scrap"
 REFERENCE            mp_layover
 LANG_ENGLISH         "Layover"
 
+REFERENCE            mp_layover_gw
+LANG_ENGLISH         "Layover"
+
 REFERENCE            mp_lowline
 LANG_ENGLISH         "Lowline"
 
@@ -277,6 +286,9 @@ LANG_ENGLISH         "Atrium"
 
 REFERENCE            mp_m_cargo
 LANG_ENGLISH         "Cargo"
+
+REFERENCE            mp_m_cornfield
+LANG_ENGLISH         "Livestock"
 
 REFERENCE            mp_m_fork
 LANG_ENGLISH         "Bazaar"
@@ -325,6 +337,9 @@ LANG_ENGLISH         "Precinct"
 
 REFERENCE            mp_neon
 LANG_ENGLISH         "Neon"
+
+REFERENCE            mp_oilrig
+LANG_ENGLISH         "Petrov Oil Rig"
 
 REFERENCE            mp_parkour
 LANG_ENGLISH         "Breakout"
@@ -439,6 +454,9 @@ LANG_ENGLISH         " on Xbox 360"
 
 REFERENCE            on_xboxone
 LANG_ENGLISH         " on Xbox One"
+
+REFERENCE            one_in_chamber
+LANG_ENGLISH         "One In The Chamber"
 
 REFERENCE            party
 LANG_ENGLISH         "In a party"

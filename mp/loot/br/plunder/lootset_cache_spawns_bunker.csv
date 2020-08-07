@@ -1,0 +1,6 @@
+req,br_loot_cache_lege,chest,8,9,
+req,br_loot_cache,chest,3,3,
+chance,cachePoint,1,,,
+chance,cache,100,,,
+item,br_loot_cache,90,,,
+item,br_loot_cache_lege,10,,,

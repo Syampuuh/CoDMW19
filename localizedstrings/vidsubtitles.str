@@ -291,7 +291,7 @@ REFERENCE            dx_brm_ac130_cine_intro_pri_50
 LANG_ENGLISH         "^2Price:^7 Al-Asad had an axe to grind against the Superpowers."
 
 REFERENCE            dx_brm_ac130_cine_intro_pri_60
-LANG_ENGLISH         "^2Price:^7 He was freed... armed... and turned lose..."
+LANG_ENGLISH         "^2Price:^7 He was freed... armed... and turned loose..."
 
 REFERENCE            dx_brm_ac130_cine_intro_pri_70
 LANG_ENGLISH         "^2Price:^7 Coalition and Allegiance forces signed treaties and sent in their best to restore order, but Zakhaev pulled strings, sowed distrust and divided."
@@ -397,6 +397,51 @@ LANG_ENGLISH         "^2Price:^7 Zakhaev's plan is working-- The Armistice in Ve
 
 REFERENCE            dx_brm_rust_cine_intro_pri_80
 LANG_ENGLISH         "^2Price:^7 I've got a fire team-- Operators inbound hot to your position."
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_120
+LANG_ENGLISH         "^2Lerch:^7 Shadows, unass and move to set..."
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_160
+LANG_ENGLISH         "^2Lerch:^7 You see hostile intent.. You are clear to engage..."
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_20
+LANG_ENGLISH         "^2Lerch:^7 Copy- All Shadows this net, listen up... In the last 24, Allegiance intercepted comms traffic comin' from the stadium... Source of that chatter may be Victor Zakhaev himself..."
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_30
+LANG_ENGLISH         "^2Lerch:^7 We roll this bastard up, there'll be bonuses all around... Stand by..."
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_41
+LANG_ENGLISH         "^2Lerch:^7 Lerch to Roze- You ready to start this fire...?"
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_61
+LANG_ENGLISH         "^2Lerch:^7 That's what I like to hear."
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_62
+LANG_ENGLISH         "^2Lerch:^7 How 'bout some fireworks...?"
+
+REFERENCE            dx_brm_stadium_cine_intro_lrch_92
+LANG_ENGLISH         "^2Lerch:^7 Copy- Spark it!"
+
+REFERENCE            dx_brm_stadium_cine_intro_roze_100
+LANG_ENGLISH         "^2Roze:^7 Good effect on target, Shadows!"
+
+REFERENCE            dx_brm_stadium_cine_intro_roze_101
+LANG_ENGLISH         "^2Roze:^7 Door is open - bring in the birds ."
+
+REFERENCE            dx_brm_stadium_cine_intro_roze_52
+LANG_ENGLISH         "^2Roze:^7 Always, you know that..."
+
+REFERENCE            dx_brm_stadium_cine_intro_roze_71
+LANG_ENGLISH         "^2Roze:^7 Wait 'til you hear this..."
+
+REFERENCE            dx_brm_stadium_cine_intro_roze_83
+LANG_ENGLISH         "^2Roze:^7 Fuse is lit... let's let ourselves in...!"
+
+REFERENCE            dx_brm_stadium_cine_intro_sclb_10
+LANG_ENGLISH         "^2SC Littlebird Pilot 1:^7 Visual on the Stadium. Time to target, 30 seconds..."
+
+REFERENCE            dx_brm_stadium_cine_intro_sclb_112
+LANG_ENGLISH         "^2SC Littlebird Pilot 1:^7 Check- HLZ is marked- Touching down."
 
 REFERENCE            dx_brm_story_cine_alx_150
 LANG_ENGLISH         "^2Alex:^7 Then help us track it."

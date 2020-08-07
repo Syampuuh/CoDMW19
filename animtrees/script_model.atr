@@ -7270,6 +7270,13 @@ cine_magma_end_helicopter_02
 cine_rust_s0175_pistol_l
 cine_rust_s0175_pistol_r
 
+//SEASON 5 INTRO
+
+cine_stadium_s0040_bag
+cine_stadium_s0050_bag
+cine_stadium_s0080_bomb
+cine_stadium_s0080_bag
+
 //Global
 chicken_idle_pecking
 chicken_idle_stand
@@ -7859,6 +7866,19 @@ cp_fulton_group_hook_4_evac
 
 // quarrytrain
 cp_scripted_train_arrival
+// br cargo train
+iw8_mp_verdansk_train
+iw8_mp_verdansk_train_290
+iw8_mp_verdansk_train_test_straight
+iw8_mp_verdansk_train_test_straight_290
+iw8_mp_verdansk_train_cars_290_01
+iw8_mp_verdansk_train_cars_290_02
+iw8_mp_verdansk_train_cars_290_03
+iw8_mp_verdansk_train_cars_290_04
+iw8_mp_verdansk_train_cars_290_05
+iw8_mp_verdansk_train_cars_290_06
+iw8_mp_verdansk_train_cars_290_07
+iw8_mp_verdansk_train_cars_290_08
 
 //CP Plane Hijack
 //Anims for Plane Landing and taking off
@@ -8117,6 +8137,87 @@ iw8_br_plunder_heli_rope_loop
 wm_skyhook_ground_open
 wm_skyhook_ground_idle_open
 wm_skyhook_ground_takeoff
+
+// Cine Stadium
+cine_stadium_s0010_cam
+cine_stadium_s0010_lurch
+cine_stadium_s0010_scguy
+cine_stadium_s0010_guy1
+cine_stadium_s0010_guy2
+cine_stadium_s0010_pilot
+cine_stadium_s0010_lb
+
+cine_stadium_s0020_cam
+cine_stadium_s0020_lurch
+cine_stadium_s0020_scguy
+cine_stadium_s0020_guy1
+cine_stadium_s0020_guy2
+cine_stadium_s0020_pilot
+cine_stadium_s0020_lb
+
+cine_stadium_s0030_cam
+cine_stadium_s0030_lurch
+cine_stadium_s0030_scguy
+cine_stadium_s0030_guy1
+cine_stadium_s0030_guy2
+cine_stadium_s0030_pilot
+cine_stadium_s0030_lb
+
+cine_stadium_s0040_cam
+
+cine_stadium_s0050_cam
+
+cine_stadium_s0060_cam
+cine_stadium_s0060_scguy
+cine_stadium_s0060_lurch
+cine_stadium_s0060_pilot
+cine_stadium_s0060_lb
+
+cine_stadium_s0070_cam
+cine_stadium_s0070_scguy
+cine_stadium_s0070_lurch
+cine_stadium_s0070_pilot
+cine_stadium_s0070_lb
+
+cine_stadium_s0080_cam
+cine_stadium_s0080_lurch
+cine_stadium_s0080_scguy
+cine_stadium_s0080_guy1
+cine_stadium_s0080_guy2
+cine_stadium_s0080_pilot
+cine_stadium_s0080_lb
+
+cine_stadium_s0090_cam
+cine_stadium_s0090_lurch
+cine_stadium_s0090_scguy
+cine_stadium_s0090_guy1
+cine_stadium_s0090_guy2
+cine_stadium_s0090_pilot
+cine_stadium_s0090_lb
+
+cine_stadium_s0100_cam
+cine_stadium_s0100_lurch
+cine_stadium_s0100_scguy
+cine_stadium_s0100_guy1
+cine_stadium_s0100_guy2
+cine_stadium_s0100_pilot
+cine_stadium_s0100_lb
+
+cine_stadium_s0110_cam
+cine_stadium_s0110_lurch
+cine_stadium_s0110_scguy
+cine_stadium_s0110_guy1
+cine_stadium_s0110_guy2
+cine_stadium_s0110_pilot
+cine_stadium_s0110_lb
+
+cine_stadium_s0120_cam
+cine_stadium_s0120_lurch
+cine_stadium_s0120_scguy
+cine_stadium_s0120_guy1
+cine_stadium_s0120_guy2
+cine_stadium_s0120_pilot
+cine_stadium_s0120_lb
 
 // prop hunt
 prop_hunt_prop_spin

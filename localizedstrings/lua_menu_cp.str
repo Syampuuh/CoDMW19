@@ -939,6 +939,9 @@ LANG_ENGLISH         "Gives team stopping power rounds that deal extra damage"
 REFERENCE            thermite_launcher_desc
 LANG_ENGLISH         "Grenade Launcher with Thermite Rounds"
 
+REFERENCE            to_gunsmith_survival
+LANG_ENGLISH         "[{ui_alt1}] Go to Gunsmith"
+
 REFERENCE            trials
 LANG_ENGLISH         "Trials"
 

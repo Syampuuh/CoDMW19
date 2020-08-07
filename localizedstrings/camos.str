@@ -2,8 +2,14 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            apc_camo_019
+LANG_ENGLISH         "Kawaii Metal"
+
 REFERENCE            apc_camo_020
 LANG_ENGLISH         "Queen Anne's Revenge"
+
+REFERENCE            apc_camo_027
+LANG_ENGLISH         "Kawaii Metal"
 
 REFERENCE            atv_camo_001
 LANG_ENGLISH         "Sevral"
@@ -14,17 +20,29 @@ LANG_ENGLISH         "Sportsman"
 REFERENCE            atv_camo_009
 LANG_ENGLISH         "Best Summer"
 
-REFERENCE            atv_camo_017
-LANG_ENGLISH         "Pit Stop"
+REFERENCE            atv_camo_015
+LANG_ENGLISH         "ATV_CAMO_015"
 
-REFERENCE            atv_camo_018
-LANG_ENGLISH         "Stuntman"
-
-REFERENCE            atv_camo_019
-LANG_ENGLISH         "Good Fortune"
+REFERENCE            atv_camo_016
+LANG_ENGLISH         "ATV_CAMO_016"
 
 REFERENCE            atv_camo_020
 LANG_ENGLISH         "Big Sky Country"
+
+REFERENCE            atv_camo_023
+LANG_ENGLISH         "Good Fortune"
+
+REFERENCE            atv_camo_024
+LANG_ENGLISH         "Stuntman"
+
+REFERENCE            atv_camo_025
+LANG_ENGLISH         "Pit Stop"
+
+REFERENCE            atv_camo_026
+LANG_ENGLISH         "Matchlock"
+
+REFERENCE            atv_camo_027
+LANG_ENGLISH         "Sullen"
 
 REFERENCE            camo_00a
 LANG_ENGLISH         "Hot and Cold"
@@ -404,23 +422,47 @@ LANG_ENGLISH         "Complete all camo challenges for this weapon."
 REFERENCE            cargo_truck_camo_004
 LANG_ENGLISH         "Ambush Alley"
 
+REFERENCE            cargo_truck_camo_009
+LANG_ENGLISH         "Purple People Eater"
+
+REFERENCE            cargo_truck_camo_010
+LANG_ENGLISH         "Snake Oil"
+
 REFERENCE            cargo_truck_camo_011
 LANG_ENGLISH         "Blue Ridge Racer"
+
+REFERENCE            cargo_truck_camo_012
+LANG_ENGLISH         "CARGO_TRUCK_CAMO_012"
+
+REFERENCE            cargo_truck_camo_013
+LANG_ENGLISH         "CARGO_TRUCK_CAMO_013"
 
 REFERENCE            cargo_truck_camo_015
 LANG_ENGLISH         "Bachelor's Delight"
 
-REFERENCE            cargo_truck_camo_018
-LANG_ENGLISH         "Orange Crush"
+REFERENCE            cargo_truck_camo_016
+LANG_ENGLISH         "CARGO_TRUCK_CAMO_016"
 
-REFERENCE            cargo_truck_camo_019
+REFERENCE            cargo_truck_camo_021
+LANG_ENGLISH         "Monster Mash"
+
+REFERENCE            cargo_truck_camo_022
 LANG_ENGLISH         "Entomb"
-
-REFERENCE            cargo_truck_camo_020
-LANG_ENGLISH         "Senpai"
 
 REFERENCE            cargo_truck_camo_026
 LANG_ENGLISH         "Orange Crush"
+
+REFERENCE            cargo_truck_camo_029
+LANG_ENGLISH         "Keep On Truckin'"
+
+REFERENCE            cargo_truck_camo_030
+LANG_ENGLISH         "Swayze Express"
+
+REFERENCE            cargo_truck_camo_031
+LANG_ENGLISH         "Siege Tower"
+
+REFERENCE            cargo_truck_camo_041
+LANG_ENGLISH         "Senpai"
 
 REFERENCE            category_completion
 LANG_ENGLISH         "Completionist"
@@ -464,29 +506,59 @@ LANG_ENGLISH         "None"
 REFERENCE            jeep_camo_008
 LANG_ENGLISH         "The Warzone Express"
 
+REFERENCE            jeep_camo_011
+LANG_ENGLISH         "JEEP_CAMO_011"
+
 REFERENCE            jeep_camo_012
 LANG_ENGLISH         "Lovecraft"
 
-REFERENCE            jeep_camo_018
-LANG_ENGLISH         "Luster"
+REFERENCE            jeep_camo_014
+LANG_ENGLISH         "JEEP_CAMO_014"
 
-REFERENCE            jeep_camo_019
-LANG_ENGLISH         "Eagle Rock"
+REFERENCE            jeep_camo_015
+LANG_ENGLISH         "JEEP_CAMO_015"
 
-REFERENCE            jeep_camo_020
-LANG_ENGLISH         "Fancy"
+REFERENCE            jeep_camo_017
+LANG_ENGLISH         "JEEP_CAMO_017"
+
+REFERENCE            jeep_camo_023
+LANG_ENGLISH         "JEEP_CAMO_023"
 
 REFERENCE            jeep_camo_028
 LANG_ENGLISH         "Luster"
 
+REFERENCE            jeep_camo_029
+LANG_ENGLISH         "Eagle Rock"
+
+REFERENCE            jeep_camo_030
+LANG_ENGLISH         "Fancy"
+
+REFERENCE            jeep_camo_031
+LANG_ENGLISH         "Bengali"
+
+REFERENCE            jeep_camo_035
+LANG_ENGLISH         "Hammer of the Gods"
+
+REFERENCE            jeep_camo_036
+LANG_ENGLISH         "Night Ranger"
+
 REFERENCE            little_bird_camo_001
 LANG_ENGLISH         "Goblin"
+
+REFERENCE            little_bird_camo_008
+LANG_ENGLISH         "Snow Patrol"
+
+REFERENCE            little_bird_camo_010
+LANG_ENGLISH         "LITTLE_BIRD_CAMO_010"
+
+REFERENCE            little_bird_camo_011
+LANG_ENGLISH         "Howlin' Wolf"
 
 REFERENCE            little_bird_camo_012
 LANG_ENGLISH         "Sundance"
 
-REFERENCE            little_bird_camo_016
-LANG_ENGLISH         "Aegean Tide"
+REFERENCE            little_bird_camo_013
+LANG_ENGLISH         "LITTLE_BIRD_CAMO_013"
 
 REFERENCE            little_bird_camo_017
 LANG_ENGLISH         "Savagery"
@@ -494,11 +566,26 @@ LANG_ENGLISH         "Savagery"
 REFERENCE            little_bird_camo_018
 LANG_ENGLISH         "From the Ashes"
 
-REFERENCE            little_bird_camo_019
+REFERENCE            little_bird_camo_022
 LANG_ENGLISH         "Forrest Canopy"
 
-REFERENCE            little_bird_camo_020
+REFERENCE            little_bird_camo_024
 LANG_ENGLISH         "Whydah"
+
+REFERENCE            little_bird_camo_025
+LANG_ENGLISH         "Aegean Tide"
+
+REFERENCE            little_bird_camo_026
+LANG_ENGLISH         "Kawaiicopter"
+
+REFERENCE            little_bird_camo_027
+LANG_ENGLISH         "Pitter Patter"
+
+REFERENCE            little_bird_camo_028
+LANG_ENGLISH         "The Veil"
+
+REFERENCE            little_bird_camo_029
+LANG_ENGLISH         "Charon"
 
 REFERENCE            tac_rover_camo_001
 LANG_ENGLISH         "Kaiju"
@@ -506,11 +593,23 @@ LANG_ENGLISH         "Kaiju"
 REFERENCE            tac_rover_camo_006
 LANG_ENGLISH         "Track Star"
 
+REFERENCE            tac_rover_camo_009
+LANG_ENGLISH         "Newtonian"
+
 REFERENCE            tac_rover_camo_010
 LANG_ENGLISH         "Adventure"
 
+REFERENCE            tac_rover_camo_011
+LANG_ENGLISH         "TAC_ROVER_CAMO_011"
+
 REFERENCE            tac_rover_camo_012
 LANG_ENGLISH         "From the Pit"
+
+REFERENCE            tac_rover_camo_015
+LANG_ENGLISH         "Derby"
+
+REFERENCE            tac_rover_camo_016
+LANG_ENGLISH         "TAC_ROVER_CAMO_016"
 
 REFERENCE            tac_rover_camo_018
 LANG_ENGLISH         "Pollocks"
@@ -518,8 +617,14 @@ LANG_ENGLISH         "Pollocks"
 REFERENCE            tac_rover_camo_019
 LANG_ENGLISH         "The Green Monster"
 
-REFERENCE            tac_rover_camo_020
+REFERENCE            tac_rover_camo_021
+LANG_ENGLISH         "Armistice"
+
+REFERENCE            tac_rover_camo_023
 LANG_ENGLISH         "Chicane"
+
+REFERENCE            tac_rover_camo_032
+LANG_ENGLISH         "Tarrasch"
 
 REFERENCE            tank_east_camo_016
 LANG_ENGLISH         "Golden Hind"

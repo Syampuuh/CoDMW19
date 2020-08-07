@@ -23,6 +23,9 @@ LANG_ENGLISH         "[{+actionslot 2}]"
 REFERENCE            air_space_too_crowded
 LANG_ENGLISH         "Air space too crowded."
 
+REFERENCE            air_space_too_crowded_area
+LANG_ENGLISH         "Air space is too crowded in this area."
+
 REFERENCE            airdrop
 LANG_ENGLISH         "Care Package"
 
@@ -37,6 +40,12 @@ LANG_ENGLISH         "Call in 3 random killstreak care packages to your location
 
 REFERENCE            arm
 LANG_ENGLISH         "Arm"
+
+REFERENCE            assault_drone
+LANG_ENGLISH         "Bomb Drone"
+
+REFERENCE            assault_drone_desc
+LANG_ENGLISH         "A controllable quadcopter with an explosive attached to it."
 
 REFERENCE            blocked_refund_killstreak
 LANG_ENGLISH         "Killstreak use blocked, refunding killstreak."

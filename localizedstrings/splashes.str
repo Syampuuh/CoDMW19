@@ -267,6 +267,15 @@ LANG_ENGLISH         "Loadout Drop Incoming
 REFERENCE            br_airdrop_landed
 LANG_ENGLISH         "Loadout Drop Landed"
 
+REFERENCE            br_attraction_racetrack_1_star
+LANG_ENGLISH         "Race Complete 1 Star"
+
+REFERENCE            br_attraction_racetrack_2_star
+LANG_ENGLISH         "Race Complete 2 Stars"
+
+REFERENCE            br_attraction_racetrack_3_star
+LANG_ENGLISH         "Race Complete 3 Stars"
+
 REFERENCE            br_balloon_full
 LANG_ENGLISH         "Balloon is full of cash!"
 
@@ -296,6 +305,9 @@ LANG_ENGLISH         "Field Upgrade Purchased"
 
 REFERENCE            br_fulton_device_placed
 LANG_ENGLISH         "Cash Deposit Balloon placed"
+
+REFERENCE            br_get_to_safety
+LANG_ENGLISH         "Get to safety!"
 
 REFERENCE            br_gulag_bought_back_desc
 LANG_ENGLISH         "&&1 Brought You Back"
@@ -475,6 +487,18 @@ LANG_ENGLISH         "Eliminate the Most Wanted Target to obtain Payout
 REFERENCE            br_mission_eliminate_vip_noplunder
 LANG_ENGLISH         "Eliminate the Most Wanted Target to obtain Payout"
 
+REFERENCE            br_mission_history_expired
+LANG_ENGLISH         "Contract Expired"
+
+REFERENCE            br_mission_history_mission_complete
+LANG_ENGLISH         "All Sites Surveyed"
+
+REFERENCE            br_mission_history_mission_in_progress
+LANG_ENGLISH         "Know Your History"
+
+REFERENCE            br_mission_history_next_destination
+LANG_ENGLISH         "Site Surveyed"
+
 REFERENCE            br_mission_hunters_are_tracking
 LANG_ENGLISH         "Hunters are Tracking: ^5[tempName]"
 
@@ -552,6 +576,30 @@ LANG_ENGLISH         "Scavenger Contract in Progress"
 REFERENCE            br_mission_scavenger_point_lost_to_circle
 LANG_ENGLISH         "The Scavenger Area Exited the Mission Area"
 
+REFERENCE            br_mission_secretstash_locate_safe
+LANG_ENGLISH         "Locate and Open the Safe"
+
+REFERENCE            br_mission_secretstash_mission_accepted
+LANG_ENGLISH         "Safe Cracker Contract Accepted"
+
+REFERENCE            br_mission_secretstash_mission_complete
+LANG_ENGLISH         "Safe Cracker Complete"
+
+REFERENCE            br_mission_secretstash_mission_in_progress
+LANG_ENGLISH         "Safe Cracker in Progress"
+
+REFERENCE            br_mission_smokinggun_expired
+LANG_ENGLISH         "Smoking Gun contract timer expired"
+
+REFERENCE            br_mission_smokinggun_mission_accepted
+LANG_ENGLISH         "Smoking Gun Contract Accepted"
+
+REFERENCE            br_mission_smokinggun_mission_complete
+LANG_ENGLISH         "Smoking Gun Complete"
+
+REFERENCE            br_mission_smokinggun_mission_in_progress
+LANG_ENGLISH         "Smoking Gun in Progress"
+
 REFERENCE            br_mission_survive_or_eliminate_your_hunters
 LANG_ENGLISH         "Survive or Eliminate your Hunters"
 
@@ -619,6 +667,24 @@ LANG_ENGLISH         "Bonus granted for killing Enemy Most Wanted Target
 
 REFERENCE            br_mission_vip_taken_out_noplunder
 LANG_ENGLISH         "Bonus granted for killing Enemy Most Wanted Target"
+
+REFERENCE            br_mission_x1fin_expired
+LANG_ENGLISH         "The Lost Woods contract timer expired"
+
+REFERENCE            br_mission_x1fin_mission_accepted
+LANG_ENGLISH         "The Lost Woods Contract Accepted"
+
+REFERENCE            br_mission_x1fin_mission_complete
+LANG_ENGLISH         "The Lost Woods Complete"
+
+REFERENCE            br_mission_x1fin_mission_in_progress
+LANG_ENGLISH         "The Lost Woods in Progress"
+
+REFERENCE            br_mission_x1stash_mission_complete
+LANG_ENGLISH         "Safe Cracker Complete"
+
+REFERENCE            br_mission_x1stash_mission_in_progress
+LANG_ENGLISH         "Safe Cracker"
 
 REFERENCE            br_mission_you_are_being_tracked
 LANG_ENGLISH         "You are being Tracked"
@@ -716,6 +782,9 @@ LANG_ENGLISH         "You can no longer use redeploy tokens."
 REFERENCE            br_respawn_token_pickup
 LANG_ENGLISH         "Redeploy Token Acquired"
 
+REFERENCE            br_run_to_the_stadium
+LANG_ENGLISH         "Run to the Stadium"
+
 REFERENCE            br_sales_event
 LANG_ENGLISH         "Sales Event"
 
@@ -774,10 +843,28 @@ REFERENCE            breaker
 LANG_ENGLISH         "Hill Breaker"
 
 REFERENCE            brjugg_welcome
-LANG_ENGLISH         "BR Juggernaut"
+LANG_ENGLISH         "Juggernaut Royale"
 
 REFERENCE            brjugg_welcome_desc
 LANG_ENGLISH         "Fight over Juggernaut armor drops and be the last team standing."
+
+REFERENCE            brking_welcome
+LANG_ENGLISH         "King Slayer"
+
+REFERENCE            brking_welcome_desc
+LANG_ENGLISH         "Fight for dominance over all other teams."
+
+REFERENCE            brmini_welcome
+LANG_ENGLISH         "Mini Royale"
+
+REFERENCE            brmini_welcome_desc
+LANG_ENGLISH         "Fight to the last team standing in a fast paced Battle Royale."
+
+REFERENCE            brtruck_welcome
+LANG_ENGLISH         "Truck War"
+
+REFERENCE            brtruck_welcome_desc
+LANG_ENGLISH         "Protect your vehicle against all odds."
 
 REFERENCE            buddy_boost
 LANG_ENGLISH         "Boosted!"
@@ -823,6 +910,48 @@ LANG_ENGLISH         "Kill Chain"
 
 REFERENCE            chainkill_desc
 LANG_ENGLISH         "You got nine+ kills in a short time."
+
+REFERENCE            challenge_baby
+LANG_ENGLISH         "Get ^510^7 kills"
+
+REFERENCE            challenge_bear
+LANG_ENGLISH         "Call in a ^5Juggernaut^7 "
+
+REFERENCE            challenge_child
+LANG_ENGLISH         "Use ^55^7 Killstreaks, or earn all ^53^7 Killstreaks in one life"
+
+REFERENCE            challenge_egg
+LANG_ENGLISH         "Get ^53^7 kills"
+
+REFERENCE            challenge_fox
+LANG_ENGLISH         "Punch a vehicle ^510^7 times before it explodes"
+
+REFERENCE            challenge_mantis
+LANG_ENGLISH         "Get ^53^7 executions"
+
+REFERENCE            challenge_octopus
+LANG_ENGLISH         "Get ^520^7 kills"
+
+REFERENCE            challenge_secret1
+LANG_ENGLISH         "Hold ^5$500k^7 in Plunder for ^53^7 minutes"
+
+REFERENCE            challenge_secret2
+LANG_ENGLISH         "Get Top ^53^7 in a Battle Royale match"
+
+REFERENCE            challenge_secretfinal
+LANG_ENGLISH         "Obtain a ^5Nuke^7"
+
+REFERENCE            challenge_skunk
+LANG_ENGLISH         "Get ^55^7 Throwing Knife kills"
+
+REFERENCE            challenge_teena
+LANG_ENGLISH         "Win a ^52v2^7 match as the top scorer"
+
+REFERENCE            challenge_teenb
+LANG_ENGLISH         "Tea bag several players after you've killed them"
+
+REFERENCE            challenge_trex
+LANG_ENGLISH         "Get ^55^7 vehicle kills"
 
 REFERENCE            civilian_killed
 LANG_ENGLISH         "Civilian killed"
@@ -1120,6 +1249,9 @@ LANG_ENGLISH         "8x Multi-Kill"
 
 REFERENCE            eliminated
 LANG_ENGLISH         "Eliminated!"
+
+REFERENCE            eliminated_an_enemy
+LANG_ENGLISH         "Eliminated an Enemy"
 
 REFERENCE            emp_defused
 LANG_ENGLISH         "Disabled the bomb!"
@@ -1550,6 +1682,12 @@ LANG_ENGLISH         "Longshot"
 REFERENCE            longshot_desc
 LANG_ENGLISH         "Nice kill from a distance."
 
+REFERENCE            longshot_dist
+LANG_ENGLISH         "Longshot &&1m!"
+
+REFERENCE            longshot_dist_special
+LANG_ENGLISH         "Longshot ^+&&1m!"
+
 REFERENCE            looted
 LANG_ENGLISH         "Looted"
 
@@ -1705,6 +1843,12 @@ LANG_ENGLISH         "Bleedout with self-revive."
 
 REFERENCE            perk_tank_upgrade
 LANG_ENGLISH         "You now have armor vest protection. Deploy a Trophy System."
+
+REFERENCE            pet_splash_desc
+LANG_ENGLISH         "Equip charm in loadout select"
+
+REFERENCE            pet_splash_unlock
+LANG_ENGLISH         " &&1 Charm Unlocked"
 
 REFERENCE            phaser_resource
 LANG_ENGLISH         "Collected Resource!"
@@ -2082,6 +2226,9 @@ LANG_ENGLISH         "Bomb site destroyed. Game time extended."
 REFERENCE            timeadded
 LANG_ENGLISH         "Time Added!"
 
+REFERENCE            tomo_challenge
+LANG_ENGLISH         "Tomogunchi &&1 Challenge"
+
 REFERENCE            top_gun_rank
 LANG_ENGLISH         "Top Gun Rank!"
 
@@ -2147,6 +2294,9 @@ LANG_ENGLISH         "Rank &&1"
 
 REFERENCE            white_phosphorus_assist
 LANG_ENGLISH         "White Phosphorus Assist."
+
+REFERENCE            youve_been_eliminated
+LANG_ENGLISH         "You've Been Eliminated"
 
 
 ENDMARKER

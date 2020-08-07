@@ -710,6 +710,9 @@ LANG_ENGLISH         "PLAYERS REQUIRED:"
 REFERENCE            practice_round
 LANG_ENGLISH         "Warm up round. Stats are not affected."
 
+REFERENCE            press_to_start_game
+LANG_ENGLISH         "Press to Start Game"
+
 REFERENCE            refill_ammo
 LANG_ENGLISH         "Refill Ammo"
 

@@ -51,8 +51,8 @@ REFERENCE            account_locked
 LANG_ENGLISH         "Account locked."
 
 REFERENCE            account_number_already_used
-LANG_ENGLISH         "The phone number for this account is already being used by another account.
-Please visit the Blizzard Account Settings page to add a new phone number.
+LANG_ENGLISH         "This mobile phone number has already been used by another free-to-play Call of Duty: Warzone game account.
+Please visit the Blizzard Account Settings page to add a new number, or log in using the account associated with this number. Purchasing the game will allow you to bypass this security step.
 
 Error Code: &&1"
 
@@ -854,6 +854,9 @@ LANG_ENGLISH         "[{+activate}]Sentry"
 REFERENCE            get_thumper
 LANG_ENGLISH         "[{+activate}]Thumper"
 
+REFERENCE            go_to_blizzard_account_settings
+LANG_ENGLISH         "Go to Blizzard Account Settings"
+
 REFERENCE            hbao
 LANG_ENGLISH         "HBAO+"
 
@@ -1399,6 +1402,12 @@ LANG_ENGLISH         "Play custom Online or Offline matches, and GameBattles mat
 
 REFERENCE            private_match_gamebattles_trials_desc
 LANG_ENGLISH         "Play custom Online or Offline matches, Trials, and GameBattles matches."
+
+REFERENCE            private_match_requires_cp2_dlc
+LANG_ENGLISH         "You do not own or are missing the Spec Ops Survival DLC pack. Please purchase or download."
+
+REFERENCE            private_match_requires_dlc
+LANG_ENGLISH         "This match requires a map pack that you do not have."
 
 REFERENCE            private_match_trials_desc
 LANG_ENGLISH         "Play custom matches and Trials."

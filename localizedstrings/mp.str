@@ -318,6 +318,9 @@ REFERENCE            br_c4
 LANG_ENGLISH         "Take
 C4"
 
+REFERENCE            br_cargotrain
+LANG_ENGLISH         "Cargo Train"
+
 REFERENCE            br_circle_closing_0
 LANG_ENGLISH         "Circle closing in 60 seconds"
 
@@ -406,6 +409,9 @@ LANG_ENGLISH         "Gas Mask"
 
 REFERENCE            br_gasmask_desc
 LANG_ENGLISH         "Provides twelve seconds of protection from the encroaching gas before breaking."
+
+REFERENCE            br_gasmask_durable
+LANG_ENGLISH         "Durable Gas Mask"
 
 REFERENCE            br_gulag_bet_ammount
 LANG_ENGLISH         "Current Bet: $&&1"
@@ -647,6 +653,12 @@ REFERENCE            br_snapshot
 LANG_ENGLISH         "Take
 Snapshot Grenade"
 
+REFERENCE            br_specialistbonus
+LANG_ENGLISH         "Specialist Bonus"
+
+REFERENCE            br_specialistbonus_desc
+LANG_ENGLISH         "Grants every perk."
+
 REFERENCE            br_take_ak
 LANG_ENGLISH         "Powerful Assault Rifle"
 
@@ -767,6 +779,9 @@ LANG_ENGLISH         "Heavy Assault Rifle"
 REFERENCE            br_type_ar_scoped
 LANG_ENGLISH         "Scoped AR"
 
+REFERENCE            br_type_ar_semi_rifle
+LANG_ENGLISH         "Semi Assault Rifle"
+
 REFERENCE            br_type_ar_sil
 LANG_ENGLISH         "Silenced Assault Rifle"
 
@@ -832,6 +847,9 @@ LANG_ENGLISH         "Riot Shield"
 
 REFERENCE            br_type_pi
 LANG_ENGLISH         "Pistol"
+
+REFERENCE            br_type_pi_akimbo
+LANG_ENGLISH         "Akimbo Pistols"
 
 REFERENCE            br_type_pi_burst
 LANG_ENGLISH         "Burst Pistol"
@@ -913,6 +931,9 @@ LANG_ENGLISH         "Silenced Sniper"
 
 REFERENCE            br_type_sn_sil_rifle
 LANG_ENGLISH         "Silenced Rifle"
+
+REFERENCE            br_type_sn_sil_ther
+LANG_ENGLISH         "Thermal Silenced Sniper"
 
 REFERENCE            br_use_exfil_chopper
 LANG_ENGLISH         "Board Exfil Chopper"
@@ -1298,6 +1319,12 @@ LANG_ENGLISH         "Al Qatala Forfeited"
 REFERENCE            faction_sdf_long
 LANG_ENGLISH         "Al Qatala"
 
+REFERENCE            faction_seven_eliminated
+LANG_ENGLISH         "Allegiance Eliminated"
+
+REFERENCE            faction_seven_forfeited
+LANG_ENGLISH         "Allegiance Forfeited"
+
 REFERENCE            faction_six_eliminated
 LANG_ENGLISH         "Allegiance Eliminated"
 
@@ -1592,6 +1619,9 @@ LANG_ENGLISH         "Your map is different from the host's map.  You cannot pla
 
 REFERENCE            mapdiffersfromserverdev
 LANG_ENGLISH         "Your map is different from the host's map.  You cannot play on this map with them. Your checksum = &&1, Server's == &&2"
+
+REFERENCE            mark_resistant
+LANG_ENGLISH         "Target Resistant To Mark"
 
 REFERENCE            marking_equipment
 LANG_ENGLISH         "Marking for team..."
@@ -1984,6 +2014,9 @@ LANG_ENGLISH         "Incoming Weapon Crate"
 
 REFERENCE            spawn_eliminated
 LANG_ENGLISH         "You have been eliminated."
+
+REFERENCE            spawn_eliminated_bonus
+LANG_ENGLISH         "You have been eliminated. You earn bonus XP if the player you're spectating gets a kill."
 
 REFERENCE            spawn_flag_wait
 LANG_ENGLISH         "Awaiting flag capture to respawn."
