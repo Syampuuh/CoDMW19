@@ -2,14 +2,56 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            helmet_a
-LANG_ENGLISH         "Skullcap"
+REFERENCE            randomize_favorites
+LANG_ENGLISH         "Randomize Favorites"
+
+REFERENCE            randomize_all
+LANG_ENGLISH         "Randomize All"
+
+REFERENCE            random_vehicle_track
+LANG_ENGLISH         "When Random is equipped, your war tracks will randomly cycle through your currently owned war tracks each time you enter a lobby."
+
+REFERENCE            random_vehicle_horn
+LANG_ENGLISH         "When Random is equipped, your horn will randomly cycle through your currently owned horns each time you enter a lobby."
+
+REFERENCE            random_vehicle_camo
+LANG_ENGLISH         "When Random is equipped, your camo will randomly cycle through your currently owned camos each time you enter a lobby."
+
+REFERENCE            random_skin
+LANG_ENGLISH         "When Random is equipped, your skin will randomly cycle through your currently owned skins each time you enter a lobby."
+
+REFERENCE            random_quips
+LANG_ENGLISH         "When Random is equipped, your quip will randomly cycle through your currently owned quips each time you enter a lobby."
+
+REFERENCE            random_executions
+LANG_ENGLISH         "When Random is equipped, your finishing move will randomly cycle through your currently owned finishing moves each time you enter a lobby."
+
+REFERENCE            random_emblem_favorite_unlock
+LANG_ENGLISH         "Requires at least 2 favorite emblems."
+
+REFERENCE            random_emblem_favorite
+LANG_ENGLISH         "When Randomize Favorites is equipped, your emblem will randomly cycle through your currently favorited emblems each time you enter a lobby."
+
+REFERENCE            random_emblem
+LANG_ENGLISH         "When Randomize All is equipped, your emblem will randomly cycle through your currently owned emblems each time you enter a lobby."
+
+REFERENCE            random_card_favorite_unlock
+LANG_ENGLISH         "Requires at least 2 favorite calling cards."
+
+REFERENCE            random_card_favorite
+LANG_ENGLISH         "When Randomize Favorites is equipped, your calling card will randomly cycle through your currently favorited calling cards each time you enter a lobby."
+
+REFERENCE            random_card
+LANG_ENGLISH         "When Randomize All is equipped, your calling card will randomly cycle through your currently owned calling cards each time you enter a lobby."
+
+REFERENCE            no_helmet
+LANG_ENGLISH         "No Headgear"
 
 REFERENCE            helmet_x
 LANG_ENGLISH         "DEVGRU Dominator"
 
-REFERENCE            no_helmet
-LANG_ENGLISH         "No Headgear"
+REFERENCE            helmet_a
+LANG_ENGLISH         "Skullcap"
 
 
 ENDMARKER

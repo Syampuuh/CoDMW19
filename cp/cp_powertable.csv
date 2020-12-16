@@ -36,3 +36,5 @@
 35,equip_radial_sensor,EQUIPMENT/HB_SENSOR,EQUIPMENT/HB_SENSOR_DESC,hud_icon_equipment_hb_sensor,hud_icon_equipment_hb_sensor,weapon,radial_sensor_cp,2,1,1,1,none,primary,none,none,
 36,equip_adrenaline,EQUIPMENT/ADRENALINE,EQUIPMENT/ADRENALINE_DESC,hud_icon_equipment_stim,icon_equipment_slot_stim,weapon,adrenaline_mp,2,4,1,0,none,secondary,none,none,
 37,equip_decoy,EQUIPMENT/DECOY,EQUIPMENT/DECOY_DESC,hud_icon_equipment_decoy,icon_equipment_slot_decoy,weapon,decoy_grenade_mp,2,1,1,0,none,secondary,none,none,
+38,power_throwingKnife_electric,EQUIPMENT/THROWING_KNIFE_ELECTRIC,EQUIPMENT/THROWING_KNIFE_ELECTRIC_DESC,hud_icon_equipment_throwing_knife_electric,hud_icon_equipment_throwing_knife_electric,weapon,throwingknife_electric_mp,2,1,1,0,archetype_assault,primary,none,none,
+39,power_throwingKnife_drill,EQUIPMENT/THROWING_KNIFE_DRILL,EQUIPMENT/THROWING_KNIFE_DRILL_DESC,hud_icon_equipment_throwing_knife_drill,hud_icon_equipment_throwing_knife_drill,weapon,throwingknife_drill_mp,2,1,1,0,archetype_assault,primary,none,none,

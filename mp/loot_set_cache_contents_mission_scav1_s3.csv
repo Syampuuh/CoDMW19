@@ -1,5 +1,0 @@
-inherit,mp/loot_set_cache_contents_base_s3.csv,,,,,,,,
-req,,weapon,1,,,1,,# 1 uncommon weapon+,
-req,,,1,,,,,# 1 item,
-req,,ammo,1,,,,,# 1 Ammo,
-req,,plunder,1,,,,,# 1 plunder,

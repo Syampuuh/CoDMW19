@@ -1484,6 +1484,9 @@ LANG_ENGLISH         "Well Protected"
 REFERENCE            wise_guy
 LANG_ENGLISH         "Wise Guy"
 
+REFERENCE            wz_edit_skin
+LANG_ENGLISH         "[{ui_trigger_right}] Customize"
+
 REFERENCE            you_cant_see_me
 LANG_ENGLISH         "You Can't See Me?"
 

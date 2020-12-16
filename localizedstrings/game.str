@@ -330,6 +330,9 @@ LANG_ENGLISH         "Tap"
 REFERENCE            tap_caps
 LANG_ENGLISH         "TAP"
 
+REFERENCE            to_view_objectives
+LANG_ENGLISH         "[{+focus}] to view Objectives"
+
 REFERENCE            toggle
 LANG_ENGLISH         "Toggle"
 

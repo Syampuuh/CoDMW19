@@ -2,92 +2,92 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            awaiting_orders
-LANG_ENGLISH         "Awaiting orders..."
-
-REFERENCE            capture_control_point
-LANG_ENGLISH         "Secure a control point"
-
-REFERENCE            common_kill
-LANG_ENGLISH         "Eliminate enemy combatants"
-
-REFERENCE            defend
-LANG_ENGLISH         "Defend the designated area"
-
-REFERENCE            defend_airdrop
-LANG_ENGLISH         "Defend and secure the airdrop"
-
-REFERENCE            defend_data_center
-LANG_ENGLISH         "Defend the Data Center"
-
-REFERENCE            defend_multiple
-LANG_ENGLISH         "Defend the designated areas"
-
-REFERENCE            drop_tank
-LANG_ENGLISH         "Wait for tank airdrop"
-
-REFERENCE            extract
-LANG_ENGLISH         "Extract at the exfil point"
-
-REFERENCE            extract_chopper
-LANG_ENGLISH         "Extract via littlebird"
-
-REFERENCE            extract_truck
-LANG_ENGLISH         "Extract using technical"
-
-REFERENCE            extract_wmd_data_core
-LANG_ENGLISH         "Extract WMD data core"
-
-REFERENCE            heli_inbound
-LANG_ENGLISH         "Littlebird inbound"
-
-REFERENCE            hvt_rescue
-LANG_ENGLISH         "Rescue the HVT"
-
-REFERENCE            laze_target
-LANG_ENGLISH         "Laze the target"
-
-REFERENCE            move_to_extract
-LANG_ENGLISH         "Move to extract location"
-
-REFERENCE            pickup_intel
-LANG_ENGLISH         "Find Intel"
-
-REFERENCE            pop_smoke
-LANG_ENGLISH         "Pop smoke"
-
-REFERENCE            rally_point_incomming
-LANG_ENGLISH         "Rally point incoming..."
-
-REFERENCE            reach_destination
-LANG_ENGLISH         "Reach marked destination"
-
-REFERENCE            secure_points_get_kills
-LANG_ENGLISH         "Secure control points & kill enemies"
-
-REFERENCE            support_tank
-LANG_ENGLISH         "Support the tank"
-
-REFERENCE            upload_intel
-LANG_ENGLISH         "Upload Intel at the Data Center"
-
-REFERENCE            use_ac130
-LANG_ENGLISH         "Use AC130 to spot the WMD"
-
-REFERENCE            use_cache
-LANG_ENGLISH         "Search cache"
-
-REFERENCE            use_cache_multiple
-LANG_ENGLISH         "Search multiple caches"
-
-REFERENCE            use_claymores
-LANG_ENGLISH         "Mine the area with claymores"
+REFERENCE            use_computer_multiple
+LANG_ENGLISH         "Get intel from multiple computers"
 
 REFERENCE            use_computer
 LANG_ENGLISH         "Get intel from a computer"
 
-REFERENCE            use_computer_multiple
-LANG_ENGLISH         "Get intel from multiple computers"
+REFERENCE            use_claymores
+LANG_ENGLISH         "Mine the area with claymores"
+
+REFERENCE            use_cache_multiple
+LANG_ENGLISH         "Search multiple caches"
+
+REFERENCE            use_cache
+LANG_ENGLISH         "Search cache"
+
+REFERENCE            use_ac130
+LANG_ENGLISH         "Use AC130 to spot the WMD"
+
+REFERENCE            upload_intel
+LANG_ENGLISH         "Upload Intel at the Data Center"
+
+REFERENCE            support_tank
+LANG_ENGLISH         "Support the tank"
+
+REFERENCE            secure_points_get_kills
+LANG_ENGLISH         "Secure control points & kill enemies"
+
+REFERENCE            reach_destination
+LANG_ENGLISH         "Reach marked destination"
+
+REFERENCE            rally_point_incomming
+LANG_ENGLISH         "Rally point incoming..."
+
+REFERENCE            pop_smoke
+LANG_ENGLISH         "Pop smoke"
+
+REFERENCE            pickup_intel
+LANG_ENGLISH         "Find Intel"
+
+REFERENCE            move_to_extract
+LANG_ENGLISH         "Move to extract location"
+
+REFERENCE            laze_target
+LANG_ENGLISH         "Laze the target"
+
+REFERENCE            hvt_rescue
+LANG_ENGLISH         "Rescue the HVT"
+
+REFERENCE            heli_inbound
+LANG_ENGLISH         "Littlebird inbound"
+
+REFERENCE            extract_wmd_data_core
+LANG_ENGLISH         "Extract WMD data core"
+
+REFERENCE            extract_truck
+LANG_ENGLISH         "Extract using technical"
+
+REFERENCE            extract_chopper
+LANG_ENGLISH         "Extract via littlebird"
+
+REFERENCE            extract
+LANG_ENGLISH         "Extract at the exfil point"
+
+REFERENCE            drop_tank
+LANG_ENGLISH         "Wait for tank airdrop"
+
+REFERENCE            defend_multiple
+LANG_ENGLISH         "Defend the designated areas"
+
+REFERENCE            defend_data_center
+LANG_ENGLISH         "Defend the Data Center"
+
+REFERENCE            defend_airdrop
+LANG_ENGLISH         "Defend and secure the airdrop"
+
+REFERENCE            defend
+LANG_ENGLISH         "Defend the designated area"
+
+REFERENCE            common_kill
+LANG_ENGLISH         "Eliminate enemy combatants"
+
+REFERENCE            capture_control_point
+LANG_ENGLISH         "Secure a control point"
+
+REFERENCE            awaiting_orders
+LANG_ENGLISH         "Awaiting orders..."
 
 
 ENDMARKER

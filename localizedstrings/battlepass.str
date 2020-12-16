@@ -8,6 +8,9 @@ LANG_ENGLISH         "100 Tier Skips"
 REFERENCE            10_tier_skips
 LANG_ENGLISH         "10 Tier Skips"
 
+REFERENCE            12_tier_skips
+LANG_ENGLISH         "12 Tier Skips"
+
 REFERENCE            1_tier_skip
 LANG_ENGLISH         "1 Tier Skip"
 
@@ -16,6 +19,9 @@ LANG_ENGLISH         "20 Tier Skips"
 
 REFERENCE            2_tier_skips
 LANG_ENGLISH         "2 Tier Skips"
+
+REFERENCE            30_tier_skips
+LANG_ENGLISH         "30 Tier Skips"
 
 REFERENCE            50_tier_skips
 LANG_ENGLISH         "50 Tier Skips"
@@ -41,6 +47,12 @@ LANG_ENGLISH         "Battle Pass"
 REFERENCE            battle_pass_inactive
 LANG_ENGLISH         "Battle Pass Inactive"
 
+REFERENCE            battle_pass_owner
+LANG_ENGLISH         "Battle Pass Owner"
+
+REFERENCE            battle_pass_owner_perks
+LANG_ENGLISH         "Battle Pass Owner perks:"
+
 REFERENCE            battle_pass_tokens
 LANG_ENGLISH         "Battle Pass Tokens"
 
@@ -50,14 +62,23 @@ LANG_ENGLISH         "Battle Pass"
 REFERENCE            battlepass_10_tier_skip
 LANG_ENGLISH         "Battle Pass 10 Tier Skips"
 
+REFERENCE            battlepass_12_tier_skip
+LANG_ENGLISH         "Battle Pass 12 Tier Skips"
+
 REFERENCE            battlepass_20_tier_skip
 LANG_ENGLISH         "Battle Pass 20 Tier Skips"
 
 REFERENCE            battlepass_25_tier_skip
 LANG_ENGLISH         "Battle Pass 25 Tier Skips"
 
+REFERENCE            battlepass_30_tier_skip
+LANG_ENGLISH         "Battle Pass 30 Tier Skips"
+
 REFERENCE            battlepass_40_tier_skip
 LANG_ENGLISH         "Battle Pass 40 Tier Skips"
+
+REFERENCE            battlepass_50_tier_skip
+LANG_ENGLISH         "Battle Pass 50 Tier Skips"
 
 REFERENCE            battlepass_free_tier_upsell_message
 LANG_ENGLISH         "Your next unlock in the Battle Pass is a ^3FREE^7 reward."
@@ -146,6 +167,9 @@ LANG_ENGLISH         "Claiming Tiers"
 REFERENCE            close_popup
 LANG_ENGLISH         "[{ui_secondary}] Close"
 
+REFERENCE            cod_points_earned_title
+LANG_ENGLISH         "COD Points Earned"
+
 REFERENCE            collect_gift
 LANG_ENGLISH         "Collect Gift"
 
@@ -162,13 +186,16 @@ REFERENCE            confirm_bonus
 LANG_ENGLISH         "Confirm Bonus"
 
 REFERENCE            cp_discount_desc
-LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 BattlePass you will have earned enough COD Points to buy Season &&3 at ^3&&4% discount!^7"
+LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 Battle Pass you will have earned enough COD Points to buy future Battle Passes at ^3&&4% discount!^7"
 
 REFERENCE            cp_free_desc
-LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 BattlePass you will have earned enough COD Points to buy Season &&3 ^3FOR FREE!^7"
+LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 Battle Pass you will have earned enough COD Points to buy future Battle Passes ^3FOR FREE!^7"
 
 REFERENCE            current_tier
 LANG_ENGLISH         "Current Tier: &&1"
+
+REFERENCE            current_tier_max
+LANG_ENGLISH         "Current Tier: &&1 Max Tier"
 
 REFERENCE            defends_bonus
 LANG_ENGLISH         "Defends Bonus"
@@ -203,6 +230,9 @@ LANG_ENGLISH         "Claiming existing Battle Pass tokens..."
 REFERENCE            flag_returns_bonus
 LANG_ENGLISH         "Flag Returns Bonus"
 
+REFERENCE            free_gift
+LANG_ENGLISH         "Free Gift"
+
 REFERENCE            free_gun
 LANG_ENGLISH         "Free Weapon"
 
@@ -217,7 +247,7 @@ REFERENCE            how_it_works_2
 LANG_ENGLISH         "At any time during the season you can upgrade and gain access to all 100 Tiers in the Battle Pass."
 
 REFERENCE            how_it_works_3
-LANG_ENGLISH         "Tiers are unlocked just by playing Multiplayer or Special Ops as you normally would."
+LANG_ENGLISH         "Tiers are unlocked just by playing Multiplayer, Warzone, or Special Ops as you normally would."
 
 REFERENCE            how_it_works_header
 LANG_ENGLISH         "How does it work?"
@@ -251,6 +281,9 @@ LANG_ENGLISH         "Kills Bonus"
 REFERENCE            killstreak_bonus
 LANG_ENGLISH         "Killstreak Bonus"
 
+REFERENCE            late_grinder_description
+LANG_ENGLISH         "You have progressed enough in Season &&1 that if you purchase this bundle you will have earned enough COD Points to buy Season &&2 for free!"
+
 REFERENCE            locked_incomplete
 LANG_ENGLISH         "Unlocked at Tier &&1"
 
@@ -266,8 +299,14 @@ LANG_ENGLISH         "Match Bonus"
 REFERENCE            match_double_bonus
 LANG_ENGLISH         "Match Double Bonus"
 
+REFERENCE            max_tier
+LANG_ENGLISH         "Max Tier"
+
 REFERENCE            more_info
 LANG_ENGLISH         "More Info"
+
+REFERENCE            most_affordable
+LANG_ENGLISH         "Most Affordable"
 
 REFERENCE            n_bonus_tier_skips
 LANG_ENGLISH         "&&1 Bonus Tier Skips"
@@ -282,7 +321,7 @@ REFERENCE            no_thanks
 LANG_ENGLISH         "No Thanks"
 
 REFERENCE            non_battle_pass
-LANG_ENGLISH         "Non - Battle Pass"
+LANG_ENGLISH         "Non-Battle Pass"
 
 REFERENCE            operator_challenge_unlock_message
 LANG_ENGLISH         "Unlocked by completing &&1"
@@ -291,10 +330,10 @@ REFERENCE            or
 LANG_ENGLISH         "Or"
 
 REFERENCE            owners
-LANG_ENGLISH         "Owners"
+LANG_ENGLISH         "Owner"
 
 REFERENCE            owners_gift
-LANG_ENGLISH         "Battle Pass Owners Gift"
+LANG_ENGLISH         "Gift"
 
 REFERENCE            pass_activated
 LANG_ENGLISH         "Battle Pass Activated"
@@ -329,6 +368,9 @@ LANG_ENGLISH         "Purchase Battle Pass"
 REFERENCE            purchase_battlepass_with_button
 LANG_ENGLISH         "[{ui_alt1}] Purchase Battle Pass"
 
+REFERENCE            purchase_here
+LANG_ENGLISH         "Purchase the Battle Pass Here"
+
 REFERENCE            purchase_premium_battlepass
 LANG_ENGLISH         "Purchase Battle Pass Bundle"
 
@@ -337,6 +379,9 @@ LANG_ENGLISH         "Tier Unlocked"
 
 REFERENCE            rarity_and_type
 LANG_ENGLISH         "&&1 - &&2"
+
+REFERENCE            redeem_free_reward
+LANG_ENGLISH         "Redeem Free Reward Now!"
 
 REFERENCE            redeemed
 LANG_ENGLISH         "Redeemed"
@@ -474,19 +519,19 @@ REFERENCE            vip_error_collecting
 LANG_ENGLISH         "Something went wrong while collecting your &&1, please try again later."
 
 REFERENCE            vip_gift_description
-LANG_ENGLISH         "Here is a gift for all our players for playing Modern Warfare?? and a bonus gift for our Battle Pass owners.
-
-You can still collect the exclusive Battle Pass owner reward and gain access to Battle Pass owner perks:
-
-- ^3&&1^7 tiers of rewards
-- ^3&&2^7 CP
-- Access to future Battle Pass owners gift"
+LANG_ENGLISH         "Here is a gift for all our players for playing Modern Warfare?? and a bonus gift for our ^:Battle Pass owners^7. You can still collect the exclusive Battle Pass owner reward and gain access to:"
 
 REFERENCE            vip_gift_owner_message
 LANG_ENGLISH         "Here are a couple of gifts to say thank you for owning the Battle Pass"
 
 REFERENCE            vip_gift_recent_owner_message
 LANG_ENGLISH         "Thanks for purchasing the Battle Pass! Here are your gifts for owning the Battle Pass"
+
+REFERENCE            vip_reward_1
+LANG_ENGLISH         "^:&&1^7 Tiers of Rewards"
+
+REFERENCE            vip_reward_2
+LANG_ENGLISH         "^:&&1^7 COD Points"
 
 REFERENCE            warzone_10_tier_gift
 LANG_ENGLISH         "Gift Pack"

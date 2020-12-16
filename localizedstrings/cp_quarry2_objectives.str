@@ -2,215 +2,215 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            attach_fulton
-LANG_ENGLISH         "Attach Fulton Device"
+REFERENCE            use_apache
+LANG_ENGLISH         "Use Chopper Gunner"
 
-REFERENCE            attach_fulton_world
-LANG_ENGLISH         "Attach Fulton Device"
+REFERENCE            secure_tower
+LANG_ENGLISH         "Fight to Controls"
 
-REFERENCE            calltrainfail
-LANG_ENGLISH         "Failed to Call in the Train"
+REFERENCE            secure_building
+LANG_ENGLISH         "Extract"
 
-REFERENCE            clear_hostage
-LANG_ENGLISH         "Enemy Nearby"
+REFERENCE            restrict_train
+LANG_ENGLISH         "Take Over the AQ comms controller"
 
-REFERENCE            collect_key
-LANG_ENGLISH         "Collect Key"
+REFERENCE            quarry_attack2
+LANG_ENGLISH         "The Runaway Train"
 
-REFERENCE            collect_loot
-LANG_ENGLISH         "Place Timed C4"
+REFERENCE            quarry_attack
+LANG_ENGLISH         "The Runaway Train"
 
-REFERENCE            convoy4_board_ac130
-LANG_ENGLISH         "Board the Gunship"
+REFERENCE            pickup_hostage
+LANG_ENGLISH         "Escort Hostage"
 
-REFERENCE            convoy4_call_train
-LANG_ENGLISH         "Call in the train to the Quarry"
+REFERENCE            obj_rescue
+LANG_ENGLISH         "Rescue"
 
-REFERENCE            convoy4_call_train_use_0
-LANG_ENGLISH         "Insert Key (0/3)"
+REFERENCE            label_wait
+LANG_ENGLISH         "Wait for Train"
 
-REFERENCE            convoy4_call_train_use_1
-LANG_ENGLISH         "Insert Key (1/3)"
+REFERENCE            label_regroup
+LANG_ENGLISH         "Air Drop Zone"
 
-REFERENCE            convoy4_call_train_use_2
-LANG_ENGLISH         "Insert Key (2/3)"
+REFERENCE            label_open
+LANG_ENGLISH         "Open"
 
-REFERENCE            convoy4_call_train_use_3
-LANG_ENGLISH         "Insert Key (3/3)"
+REFERENCE            label_loot
+LANG_ENGLISH         "Place C4"
 
-REFERENCE            convoy4_call_train_world
-LANG_ENGLISH         "Call Train"
+REFERENCE            kill_smuggler_desc
+LANG_ENGLISH         "Destroy El Traficante's helicopter"
 
-REFERENCE            convoy4_disable_arms
-LANG_ENGLISH         "Hack the Rail Switches"
+REFERENCE            kill_smuggler
+LANG_ENGLISH         "Shoot Down"
 
-REFERENCE            convoy4_disable_arms_1
-LANG_ENGLISH         "Hack the Rail Switches (1/3)"
+REFERENCE            keys_hud_3
+LANG_ENGLISH         "3 / 3 Keys Found"
 
-REFERENCE            convoy4_disable_arms_2
-LANG_ENGLISH         "Hack the Rail Switches (2/3)"
+REFERENCE            keys_hud_2
+LANG_ENGLISH         "2 / 3 Keys Found"
 
-REFERENCE            convoy4_disable_arms_3
-LANG_ENGLISH         "Hack the Rail Switches (3/3)"
+REFERENCE            keys_hud_1
+LANG_ENGLISH         "1 / 3 Keys Found"
 
-REFERENCE            convoy4_disable_arms_input
-LANG_ENGLISH         "Hack the AQ comms arrays (&&1/3)"
+REFERENCE            investigate_world
+LANG_ENGLISH         "Comms Controller"
 
-REFERENCE            convoy4_find_hvt
-LANG_ENGLISH         "Find the HVI"
+REFERENCE            investigate_train
+LANG_ENGLISH         "Investigate the AQ comms controller"
 
-REFERENCE            convoy4_find_keys
-LANG_ENGLISH         "Secure the Terminal Keys"
+REFERENCE            hvi_no_player_nearby
+LANG_ENGLISH         "Needs Escort"
 
-REFERENCE            convoy4_fulton
-LANG_ENGLISH         "Launch your Fulton Devices Outside"
+REFERENCE            fulton_waiting_label
+LANG_ENGLISH         "Wait for Drop"
 
-REFERENCE            convoy4_fulton_all
-LANG_ENGLISH         "Waiting for All Players to prepare Fultons"
+REFERENCE            fulton_waiting
+LANG_ENGLISH         "Rendezvous at DZ, prepare to Exfil"
 
-REFERENCE            convoy4_fulton_all_alive
-LANG_ENGLISH         "Waiting for All Players to be Revived"
+REFERENCE            following_player
+LANG_ENGLISH         "Going to Extract"
 
-REFERENCE            convoy4_fulton_user
-LANG_ENGLISH         "Prepare Fulton"
+REFERENCE            extractfail
+LANG_ENGLISH         "Failed to Exfil"
 
-REFERENCE            convoy4_key_loc
-LANG_ENGLISH         "Control Key"
+REFERENCE            disable_equipment
+LANG_ENGLISH         "Disable Equipment"
 
-REFERENCE            convoy4_keys_0
-LANG_ENGLISH         "Secure the terminal keys (0/3)"
+REFERENCE            disable_comms
+LANG_ENGLISH         "Hack Network"
 
-REFERENCE            convoy4_keys_1
-LANG_ENGLISH         "Secure the terminal keys (1/3)"
+REFERENCE            dialog_intro_1
+LANG_ENGLISH         "^4Price^7: It'll be quick and dirty, but we can't afford the time for a landing."
 
-REFERENCE            convoy4_keys_2
-LANG_ENGLISH         "Secure the terminal keys (2/3)"
+REFERENCE            dialog_intro_0
+LANG_ENGLISH         "^4Price^7: We need those hostages out of the area ASAP. Untie them and lead them outside for Fulton Capture. "
 
-REFERENCE            convoy4_keys_3
-LANG_ENGLISH         "Secure the terminal keys (3/3)"
+REFERENCE            convoy4_waittrain
+LANG_ENGLISH         "Standby for train arrival"
 
-REFERENCE            convoy4_regroup_extract
-LANG_ENGLISH         "Prepare Fulton for Extraction"
+REFERENCE            convoy4_train_loot
+LANG_ENGLISH         "Rig the Cargo with C4"
 
-REFERENCE            convoy4_search_hvt
-LANG_ENGLISH         "Search for HVI"
+REFERENCE            convoy4_train_explode
+LANG_ENGLISH         "Cause a Chain Reaction"
 
-REFERENCE            convoy4_secure
+REFERENCE            convoy4_train_door
+LANG_ENGLISH         "Open the Train Doors"
+
+REFERENCE            convoy4_takeapache
+LANG_ENGLISH         "Optional: Control Enemy Chopper Gunner"
+
+REFERENCE            convoy4_switch_3
+LANG_ENGLISH         "Hack Switch #3"
+
+REFERENCE            convoy4_switch_2
+LANG_ENGLISH         "Hack Switch #2"
+
+REFERENCE            convoy4_switch_1
+LANG_ENGLISH         "Hack Switch #1"
+
+REFERENCE            convoy4_secure_world
 LANG_ENGLISH         "Infiltrate the Quarry"
 
 REFERENCE            convoy4_secure_tower
 LANG_ENGLISH         "Fight to the train control room"
 
-REFERENCE            convoy4_secure_world
+REFERENCE            convoy4_secure
 LANG_ENGLISH         "Infiltrate the Quarry"
 
-REFERENCE            convoy4_switch_1
-LANG_ENGLISH         "Hack Switch #1"
+REFERENCE            convoy4_search_hvt
+LANG_ENGLISH         "Search for HVI"
 
-REFERENCE            convoy4_switch_2
-LANG_ENGLISH         "Hack Switch #2"
+REFERENCE            convoy4_regroup_extract
+LANG_ENGLISH         "Prepare Fulton for Extraction"
 
-REFERENCE            convoy4_switch_3
-LANG_ENGLISH         "Hack Switch #3"
+REFERENCE            convoy4_keys_3
+LANG_ENGLISH         "Secure the terminal keys (3/3)"
 
-REFERENCE            convoy4_takeapache
-LANG_ENGLISH         "Optional: Control Enemy Chopper Gunner"
+REFERENCE            convoy4_keys_2
+LANG_ENGLISH         "Secure the terminal keys (2/3)"
 
-REFERENCE            convoy4_train_door
-LANG_ENGLISH         "Open the Train Doors"
+REFERENCE            convoy4_keys_1
+LANG_ENGLISH         "Secure the terminal keys (1/3)"
 
-REFERENCE            convoy4_train_explode
-LANG_ENGLISH         "Cause a Chain Reaction"
+REFERENCE            convoy4_keys_0
+LANG_ENGLISH         "Secure the terminal keys (0/3)"
 
-REFERENCE            convoy4_train_loot
-LANG_ENGLISH         "Rig the Cargo with C4"
+REFERENCE            convoy4_key_loc
+LANG_ENGLISH         "Control Key"
 
-REFERENCE            convoy4_waittrain
-LANG_ENGLISH         "Standby for train arrival"
+REFERENCE            convoy4_fulton_user
+LANG_ENGLISH         "Prepare Fulton"
 
-REFERENCE            dialog_intro_0
-LANG_ENGLISH         "^4Price^7: We need those hostages out of the area ASAP. Untie them and lead them outside for Fulton Capture. "
+REFERENCE            convoy4_fulton_all_alive
+LANG_ENGLISH         "Waiting for All Players to be Revived"
 
-REFERENCE            dialog_intro_1
-LANG_ENGLISH         "^4Price^7: It'll be quick and dirty, but we can't afford the time for a landing."
+REFERENCE            convoy4_fulton_all
+LANG_ENGLISH         "Waiting for All Players to prepare Fultons"
 
-REFERENCE            disable_comms
-LANG_ENGLISH         "Hack Network"
+REFERENCE            convoy4_fulton
+LANG_ENGLISH         "Launch your Fulton Devices Outside"
 
-REFERENCE            disable_equipment
-LANG_ENGLISH         "Disable Equipment"
+REFERENCE            convoy4_find_keys
+LANG_ENGLISH         "Secure the Terminal Keys"
 
-REFERENCE            extractfail
-LANG_ENGLISH         "Failed to Exfil"
+REFERENCE            convoy4_find_hvt
+LANG_ENGLISH         "Find the HVI"
 
-REFERENCE            following_player
-LANG_ENGLISH         "Going to Extract"
+REFERENCE            convoy4_disable_arms_input
+LANG_ENGLISH         "Hack the AQ comms arrays (&&1/3)"
 
-REFERENCE            fulton_waiting
-LANG_ENGLISH         "Rendezvous at DZ, prepare to Exfil"
+REFERENCE            convoy4_disable_arms_3
+LANG_ENGLISH         "Hack the Rail Switches (3/3)"
 
-REFERENCE            fulton_waiting_label
-LANG_ENGLISH         "Wait for Drop"
+REFERENCE            convoy4_disable_arms_2
+LANG_ENGLISH         "Hack the Rail Switches (2/3)"
 
-REFERENCE            hvi_no_player_nearby
-LANG_ENGLISH         "Needs Escort"
+REFERENCE            convoy4_disable_arms_1
+LANG_ENGLISH         "Hack the Rail Switches (1/3)"
 
-REFERENCE            investigate_train
-LANG_ENGLISH         "Investigate the AQ comms controller"
+REFERENCE            convoy4_disable_arms
+LANG_ENGLISH         "Hack the Rail Switches"
 
-REFERENCE            investigate_world
-LANG_ENGLISH         "Comms Controller"
+REFERENCE            convoy4_call_train_world
+LANG_ENGLISH         "Call Train"
 
-REFERENCE            keys_hud_1
-LANG_ENGLISH         "1 / 3 Keys Found"
+REFERENCE            convoy4_call_train_use_3
+LANG_ENGLISH         "Insert Key (3/3)"
 
-REFERENCE            keys_hud_2
-LANG_ENGLISH         "2 / 3 Keys Found"
+REFERENCE            convoy4_call_train_use_2
+LANG_ENGLISH         "Insert Key (2/3)"
 
-REFERENCE            keys_hud_3
-LANG_ENGLISH         "3 / 3 Keys Found"
+REFERENCE            convoy4_call_train_use_1
+LANG_ENGLISH         "Insert Key (1/3)"
 
-REFERENCE            kill_smuggler
-LANG_ENGLISH         "Shoot Down"
+REFERENCE            convoy4_call_train_use_0
+LANG_ENGLISH         "Insert Key (0/3)"
 
-REFERENCE            kill_smuggler_desc
-LANG_ENGLISH         "Destroy El Traficante's helicopter"
+REFERENCE            convoy4_call_train
+LANG_ENGLISH         "Call in the train to the Quarry"
 
-REFERENCE            label_loot
-LANG_ENGLISH         "Place C4"
+REFERENCE            convoy4_board_ac130
+LANG_ENGLISH         "Board the Gunship"
 
-REFERENCE            label_open
-LANG_ENGLISH         "Open"
+REFERENCE            collect_loot
+LANG_ENGLISH         "Place Timed C4"
 
-REFERENCE            label_regroup
-LANG_ENGLISH         "Air Drop Zone"
+REFERENCE            collect_key
+LANG_ENGLISH         "Collect Key"
 
-REFERENCE            label_wait
-LANG_ENGLISH         "Wait for Train"
+REFERENCE            clear_hostage
+LANG_ENGLISH         "Enemy Nearby"
 
-REFERENCE            obj_rescue
-LANG_ENGLISH         "Rescue"
+REFERENCE            calltrainfail
+LANG_ENGLISH         "Failed to Call in the Train"
 
-REFERENCE            pickup_hostage
-LANG_ENGLISH         "Escort Hostage"
+REFERENCE            attach_fulton_world
+LANG_ENGLISH         "Attach Fulton Device"
 
-REFERENCE            quarry_attack
-LANG_ENGLISH         "The Runaway Train"
-
-REFERENCE            quarry_attack2
-LANG_ENGLISH         "The Runaway Train"
-
-REFERENCE            restrict_train
-LANG_ENGLISH         "Take Over the AQ comms controller"
-
-REFERENCE            secure_building
-LANG_ENGLISH         "Extract"
-
-REFERENCE            secure_tower
-LANG_ENGLISH         "Fight to Controls"
-
-REFERENCE            use_apache
-LANG_ENGLISH         "Use Chopper Gunner"
+REFERENCE            attach_fulton
+LANG_ENGLISH         "Attach Fulton Device"
 
 
 ENDMARKER

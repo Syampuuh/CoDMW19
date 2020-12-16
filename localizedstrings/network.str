@@ -2,17 +2,17 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            dcqosfailedwarning
-LANG_ENGLISH         "Unable to connect to a data center. Please check your internet connection and try again."
-
-REFERENCE            dedicated_server
-LANG_ENGLISH         "Dedicated Server"
+REFERENCE            strictlobbywarning
+LANG_ENGLISH         "Your NAT type is Strict.  This means it is hard for other players to connect to you - so if you invite people they may not make it into your Private Match lobby.  "
 
 REFERENCE            moderatelobbywarning
 LANG_ENGLISH         "Your NAT type is Moderate.  This means players may have trouble connecting to you and joining your Private Match lobby."
 
-REFERENCE            strictlobbywarning
-LANG_ENGLISH         "Your NAT type is Strict.  This means it is hard for other players to connect to you - so if you invite people they may not make it into your Private Match lobby.  "
+REFERENCE            dedicated_server
+LANG_ENGLISH         "Dedicated Server"
+
+REFERENCE            dcqosfailedwarning
+LANG_ENGLISH         "Unable to connect to a data center. Please check your internet connection and try again."
 
 
 ENDMARKER

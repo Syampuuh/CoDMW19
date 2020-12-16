@@ -29,6 +29,9 @@ LANG_ENGLISH         "Stock"
 REFERENCE            attachment_cat_bolt
 LANG_ENGLISH         "Bolt"
 
+REFERENCE            attachment_cat_boltaction
+LANG_ENGLISH         "Bolt Assembly"
+
 REFERENCE            attachment_cat_cable
 LANG_ENGLISH         "Cable"
 

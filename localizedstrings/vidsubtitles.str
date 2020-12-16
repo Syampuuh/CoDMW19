@@ -584,6 +584,75 @@ LANG_ENGLISH         "^2Wolf:^7 Save yourself daughter. Join us!"
 REFERENCE            dx_brm_story_cine_wolf_270
 LANG_ENGLISH         "^2Wolf:^7 We are all killers here... no?"
 
+REFERENCE            dx_brm_subway_tunnel_intro_far_140
+LANG_ENGLISH         "^2Farah:^7 Enemies down. You're clear."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_160
+LANG_ENGLISH         "^2Farah:^7 Nice work."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_181
+LANG_ENGLISH         "^2Farah:^7 Stay... Help us go after Zakhaev."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_20
+LANG_ENGLISH         "^2Farah:^7 Always is."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_200
+LANG_ENGLISH         "^2Farah:^7 Good... You'll need this."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_233
+LANG_ENGLISH         "^2Farah:^7 Actual- I'm with Nikolai. We're on..."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_40
+LANG_ENGLISH         "^2Farah:^7 He had the tunnels but no trains."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_50
+LANG_ENGLISH         "^2Farah:^7 Can you power them?"
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_71
+LANG_ENGLISH         "^2Farah:^7 Three enemies heading your way, Nik."
+
+REFERENCE            dx_brm_subway_tunnel_intro_far_90
+LANG_ENGLISH         "^2Farah:^7 Whoosht..."
+
+REFERENCE            dx_brm_subway_tunnel_intro_grg_270
+LANG_ENGLISH         "^2Griggs:^7 Copy. Say the word, Captain."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_10
+LANG_ENGLISH         "^2Nikolai:^7 Captain's intel was good."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_150
+LANG_ENGLISH         "^2Nikolai:^7 Almost done, Farah... Here we go..."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_170
+LANG_ENGLISH         "^2Nikolai:^7 Same to you. Give the Captain my regards..."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_190
+LANG_ENGLISH         "^2Nikolai:^7 I'd rather kill him..."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_210
+LANG_ENGLISH         "^2Nikolai:^7 Back in the fight..."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_32
+LANG_ENGLISH         "^2Nikolai:^7 Zakhaev and his men have been using these tunnels to move through Verdansk unnoticed."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_62
+LANG_ENGLISH         "^2Nikolai:^7 If you buy me some time, yes."
+
+REFERENCE            dx_brm_subway_tunnel_intro_nik_82
+LANG_ENGLISH         "^2Nikolai:^7 Then keep them out."
+
+REFERENCE            dx_brm_subway_tunnel_intro_pri_240
+LANG_ENGLISH         "^2Price:^7 Roger that."
+
+REFERENCE            dx_brm_subway_tunnel_intro_pri_260
+LANG_ENGLISH         "^2Price:^7 Bravo 6 to Griggs- Stand by to move."
+
+REFERENCE            dx_brm_subway_tunnel_intro_zatr2_120
+LANG_ENGLISH         "^2Zakhaev Trooper 2:^7 ARRRGH...!"
+
+REFERENCE            dx_brm_subway_tunnel_intro_zatr3_130
+LANG_ENGLISH         "^2Zakhaev Trooper 3:^7 AARRGGHH...!"
+
 REFERENCE            dx_brm_uktl_tutorial_cine_100
 LANG_ENGLISH         "^2UK Team Leader:^7 Contracts are optional mini-missions scattered throughout the map."
 
@@ -2017,6 +2086,129 @@ LANG_ENGLISH         "LONDON"
 
 REFERENCE            modernwarfare
 LANG_ENGLISH         "MODERN WARFARE"
+
+REFERENCE            mp_amber_pause_10
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 Understand what's going on around you."
+
+REFERENCE            mp_amber_pause_100
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 who will promise lots of thing, never mind whether the promises are fulfilled or not."
+
+REFERENCE            mp_amber_pause_110
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 The time bomb is ticking. With every second, the disaster is coming closer and closer."
+
+REFERENCE            mp_amber_pause_120
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 The danger is real."
+
+REFERENCE            mp_amber_pause_130
+LANG_ENGLISH         "At the height of the cold war, KGB defector Yuri Bezmenov issues a chilling warning"
+
+REFERENCE            mp_amber_pause_140
+LANG_ENGLISH         "He claims a soviet spy codename 'PERSEUS' has infiltrated Western Intelligence"
+
+REFERENCE            mp_amber_pause_150
+LANG_ENGLISH         "His goal - Subvert the U.S. to ensure Soviet dominance in the Arms Race"
+
+REFERENCE            mp_amber_pause_160
+LANG_ENGLISH         "To this day, the identity and whereabouts of PERSEUS remain unknown"
+
+REFERENCE            mp_amber_pause_170
+LANG_ENGLISH         "Inspired by actual events"
+
+REFERENCE            mp_amber_pause_180
+LANG_ENGLISH         "A plan decades in the making"
+
+REFERENCE            mp_amber_pause_190
+LANG_ENGLISH         "Know your history"
+
+REFERENCE            mp_amber_pause_20
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 You are in a state of war."
+
+REFERENCE            mp_amber_pause_200
+LANG_ENGLISH         "Or be doomed to repeat it"
+
+REFERENCE            mp_amber_pause_30
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 And you have precious little time to save yourself."
+
+REFERENCE            mp_amber_pause_40
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 It's a slow process, which we call active measures,the first stage being demoralization."
+
+REFERENCE            mp_amber_pause_50
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 It takes from 15 to 20 years to demoralize a nation."
+
+REFERENCE            mp_amber_pause_60
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 The next stage is destabilization."
+
+REFERENCE            mp_amber_pause_70
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 What matters is essentials. Economy, foreign relations, defense systems."
+
+REFERENCE            mp_amber_pause_80
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 The next stage is crisis, with a violent change of power, structure, and economy, a period of normalization."
+
+REFERENCE            mp_amber_pause_90
+LANG_ENGLISH         "^2Yuri Bezmenov:^7 This is what will happen in United States if you allow all these shmucks to put a Big Brother government in Washington, D.C.,"
+
+REFERENCE            mp_x1hype_10
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War"
+
+REFERENCE            mp_x1hype_100
+LANG_ENGLISH         "^2Woods:^7 Come on, get in!"
+
+REFERENCE            mp_x1hype_110
+LANG_ENGLISH         "^2Hudson:^7 Mr. President"
+
+REFERENCE            mp_x1hype_120
+LANG_ENGLISH         "^2Reagan:^7 Is the threat real?"
+
+REFERENCE            mp_x1hype_130
+LANG_ENGLISH         "^2Hudson:^7 Yes sir, we believe it is"
+
+REFERENCE            mp_x1hype_140
+LANG_ENGLISH         "^2Reagan:^7 Give Mr. Adler whatever he wants."
+
+REFERENCE            mp_x1hype_150
+LANG_ENGLISH         "^2Soldier:^7 TAKING FIRE!"
+
+REFERENCE            mp_x1hype_160
+LANG_ENGLISH         "^2Woods:^7 This wasn't part of the plan!"
+
+REFERENCE            mp_x1hype_170
+LANG_ENGLISH         "^2Reagan:^7 I know you won't fail us."
+
+REFERENCE            mp_x1hype_180
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War"
+
+REFERENCE            mp_x1hype_190
+LANG_ENGLISH         "NOVEMBER 13"
+
+REFERENCE            mp_x1hype_20
+LANG_ENGLISH         "^2Adler:^7 This war was a lie. Years of blood. Just to light the fuse of a secret war decades in the making."
+
+REFERENCE            mp_x1hype_200
+LANG_ENGLISH         "PRE-ORDER A DIGITAL COPY AND GET EARLY ACCESS TO THE OPEN BETA"
+
+REFERENCE            mp_x1hype_210
+LANG_ENGLISH         "AND INSTANT ACCESS TO THE WOODS OPERATOR PACK IN MODERN WARFARE?? INCLUDING WARZONE???"
+
+REFERENCE            mp_x1hype_220
+LANG_ENGLISH         "WORLDWIDE MULTIPLAYER REVEAL SEPTEMBER 9"
+
+REFERENCE            mp_x1hype_30
+LANG_ENGLISH         "^2Pilot:^7 Taking fire, taking fire"
+
+REFERENCE            mp_x1hype_40
+LANG_ENGLISH         "^2Soldier:^7 Jim -Rocket Twelve O'Clo-"
+
+REFERENCE            mp_x1hype_60
+LANG_ENGLISH         "^2Reagan:^7 My fellow Americans, a nuclear conflict could well be mankind's last. We want to make this a more peaceful world."
+
+REFERENCE            mp_x1hype_70
+LANG_ENGLISH         "^2Adler:^7 Five days ago we acquired intel that the Soviet agent "Perseus" is in play. If he's active, something big is gonna happen, something that could shift the balance of the Cold War."
+
+REFERENCE            mp_x1hype_80
+LANG_ENGLISH         "^2Woods:^7 Let's go find this shithead."
+
+REFERENCE            mp_x1hype_90
+LANG_ENGLISH         "^2Police:^7 Was ist das?"
 
 REFERENCE            presentday
 LANG_ENGLISH         "PRESENT DAY"

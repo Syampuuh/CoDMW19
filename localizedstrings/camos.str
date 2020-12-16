@@ -2,635 +2,719 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            apc_camo_019
+REFERENCE            tank_west_camo_020
+LANG_ENGLISH         "Golden Fleece"
+
+REFERENCE            tank_west_camo_017
+LANG_ENGLISH         "Arracourt"
+
+REFERENCE            tank_west_camo_010
+LANG_ENGLISH         "TANK_WEST_CAMO_010"
+
+REFERENCE            tank_east_camo_016
+LANG_ENGLISH         "Golden Hind"
+
+REFERENCE            tank_east_camo_003
+LANG_ENGLISH         "Kursk"
+
+REFERENCE            tac_rover_camo_033
+LANG_ENGLISH         "Stained"
+
+REFERENCE            tac_rover_camo_032
+LANG_ENGLISH         "Tarrasch"
+
+REFERENCE            tac_rover_camo_024
+LANG_ENGLISH         "Mako"
+
+REFERENCE            tac_rover_camo_023
+LANG_ENGLISH         "Chicane"
+
+REFERENCE            tac_rover_camo_021
+LANG_ENGLISH         "Armistice"
+
+REFERENCE            tac_rover_camo_019
+LANG_ENGLISH         "The Green Monster"
+
+REFERENCE            tac_rover_camo_018
+LANG_ENGLISH         "Pollocks"
+
+REFERENCE            tac_rover_camo_016
+LANG_ENGLISH         "Maniacal"
+
+REFERENCE            tac_rover_camo_015
+LANG_ENGLISH         "Derby"
+
+REFERENCE            tac_rover_camo_014
+LANG_ENGLISH         "Skull Pile"
+
+REFERENCE            tac_rover_camo_012
+LANG_ENGLISH         "From the Pit"
+
+REFERENCE            tac_rover_camo_011
+LANG_ENGLISH         "Radial Waves"
+
+REFERENCE            tac_rover_camo_010
+LANG_ENGLISH         "Adventure"
+
+REFERENCE            tac_rover_camo_009
+LANG_ENGLISH         "Newtonian"
+
+REFERENCE            tac_rover_camo_006
+LANG_ENGLISH         "Track Star"
+
+REFERENCE            tac_rover_camo_001
+LANG_ENGLISH         "Kaiju"
+
+REFERENCE            lm_mkilo3_5_flavor
+LANG_ENGLISH         "Go off the rails with the Crazy Train LMG."
+
+REFERENCE            little_bird_camo_033
+LANG_ENGLISH         "Golden Bull"
+
+REFERENCE            little_bird_camo_032
+LANG_ENGLISH         "Flight of Torment"
+
+REFERENCE            little_bird_camo_031
+LANG_ENGLISH         "Silver Streak"
+
+REFERENCE            little_bird_camo_030
+LANG_ENGLISH         "Air Raid"
+
+REFERENCE            little_bird_camo_029
+LANG_ENGLISH         "Charon"
+
+REFERENCE            little_bird_camo_028
+LANG_ENGLISH         "The Veil"
+
+REFERENCE            little_bird_camo_027
+LANG_ENGLISH         "Pitter Patter"
+
+REFERENCE            little_bird_camo_026
+LANG_ENGLISH         "Kawaiicopter"
+
+REFERENCE            little_bird_camo_025
+LANG_ENGLISH         "Aegean Tide"
+
+REFERENCE            little_bird_camo_024
+LANG_ENGLISH         "Whydah"
+
+REFERENCE            little_bird_camo_022
+LANG_ENGLISH         "Forrest Canopy"
+
+REFERENCE            little_bird_camo_018
+LANG_ENGLISH         "From the Ashes"
+
+REFERENCE            little_bird_camo_017
+LANG_ENGLISH         "Savagery"
+
+REFERENCE            little_bird_camo_013
+LANG_ENGLISH         "Ganymede"
+
+REFERENCE            little_bird_camo_012
+LANG_ENGLISH         "Sundance"
+
+REFERENCE            little_bird_camo_011
+LANG_ENGLISH         "Howlin' Wolf"
+
+REFERENCE            little_bird_camo_010
+LANG_ENGLISH         "LITTLE_BIRD_CAMO_010"
+
+REFERENCE            little_bird_camo_008
+LANG_ENGLISH         "Snow Patrol"
+
+REFERENCE            little_bird_camo_001
+LANG_ENGLISH         "Goblin"
+
+REFERENCE            jeep_camo_039
+LANG_ENGLISH         "JEEP_CAMO_039"
+
+REFERENCE            jeep_camo_038
+LANG_ENGLISH         "From the Deep"
+
+REFERENCE            jeep_camo_037
+LANG_ENGLISH         "Capacitor"
+
+REFERENCE            jeep_camo_036
+LANG_ENGLISH         "Night Ranger"
+
+REFERENCE            jeep_camo_035
+LANG_ENGLISH         "Hammer of the Gods"
+
+REFERENCE            jeep_camo_032
+LANG_ENGLISH         "Doobie"
+
+REFERENCE            jeep_camo_031
+LANG_ENGLISH         "Bengali"
+
+REFERENCE            jeep_camo_030
+LANG_ENGLISH         "Fancy"
+
+REFERENCE            jeep_camo_029
+LANG_ENGLISH         "Eagle Rock"
+
+REFERENCE            jeep_camo_028
+LANG_ENGLISH         "Luster"
+
+REFERENCE            jeep_camo_027
+LANG_ENGLISH         "Artax"
+
+REFERENCE            jeep_camo_023
+LANG_ENGLISH         "JEEP_CAMO_023"
+
+REFERENCE            jeep_camo_017
+LANG_ENGLISH         "JEEP_CAMO_017"
+
+REFERENCE            jeep_camo_015
+LANG_ENGLISH         "JEEP_CAMO_015"
+
+REFERENCE            jeep_camo_014
+LANG_ENGLISH         "JEEP_CAMO_014"
+
+REFERENCE            jeep_camo_012
+LANG_ENGLISH         "Lovecraft"
+
+REFERENCE            jeep_camo_011
+LANG_ENGLISH         "Manitou"
+
+REFERENCE            jeep_camo_008
+LANG_ENGLISH         "The Warzone Express"
+
+REFERENCE            jeep_camo_001
+LANG_ENGLISH         "Contagion"
+
+REFERENCE            default
+LANG_ENGLISH         "None"
+
+REFERENCE            category_woodland
+LANG_ENGLISH         "Woodland"
+
+REFERENCE            category_urban
+LANG_ENGLISH         "Dragon"
+
+REFERENCE            category_tiger
+LANG_ENGLISH         "Tiger"
+
+REFERENCE            category_stripes
+LANG_ENGLISH         "Stripes"
+
+REFERENCE            category_spray_paint
+LANG_ENGLISH         "Spray Paint"
+
+REFERENCE            category_special
+LANG_ENGLISH         "Special"
+
+REFERENCE            category_skulls
+LANG_ENGLISH         "Skulls"
+
+REFERENCE            category_reptile
+LANG_ENGLISH         "Reptile"
+
+REFERENCE            category_kryptek
+LANG_ENGLISH         "Topo"
+
+REFERENCE            category_digital
+LANG_ENGLISH         "Digital"
+
+REFERENCE            category_dazzle
+LANG_ENGLISH         "Splinter"
+
+REFERENCE            category_completion
+LANG_ENGLISH         "Completionist"
+
+REFERENCE            cargo_truck_camo_041
+LANG_ENGLISH         "Senpai"
+
+REFERENCE            cargo_truck_camo_034
+LANG_ENGLISH         "Pain Train"
+
+REFERENCE            cargo_truck_camo_033
+LANG_ENGLISH         "Grizzly End"
+
+REFERENCE            cargo_truck_camo_032
+LANG_ENGLISH         "Iron Curtain"
+
+REFERENCE            cargo_truck_camo_031
+LANG_ENGLISH         "Siege Tower"
+
+REFERENCE            cargo_truck_camo_030
+LANG_ENGLISH         "Swayze Express"
+
+REFERENCE            cargo_truck_camo_029
+LANG_ENGLISH         "Keep On Truckin'"
+
+REFERENCE            cargo_truck_camo_027
+LANG_ENGLISH         "High Rider"
+
+REFERENCE            cargo_truck_camo_026
+LANG_ENGLISH         "Orange Crush"
+
+REFERENCE            cargo_truck_camo_022
+LANG_ENGLISH         "Entomb"
+
+REFERENCE            cargo_truck_camo_021
+LANG_ENGLISH         "Monster Mash"
+
+REFERENCE            cargo_truck_camo_019
+LANG_ENGLISH         "Vector"
+
+REFERENCE            cargo_truck_camo_016
+LANG_ENGLISH         "CARGO_TRUCK_CAMO_016"
+
+REFERENCE            cargo_truck_camo_015
+LANG_ENGLISH         "Bachelor's Delight"
+
+REFERENCE            cargo_truck_camo_013
+LANG_ENGLISH         "CARGO_TRUCK_CAMO_013"
+
+REFERENCE            cargo_truck_camo_012
+LANG_ENGLISH         "CARGO_TRUCK_CAMO_012"
+
+REFERENCE            cargo_truck_camo_011
+LANG_ENGLISH         "Blue Ridge Racer"
+
+REFERENCE            cargo_truck_camo_010
+LANG_ENGLISH         "Snake Oil"
+
+REFERENCE            cargo_truck_camo_009
+LANG_ENGLISH         "Purple People Eater"
+
+REFERENCE            cargo_truck_camo_004
+LANG_ENGLISH         "Ambush Alley"
+
+REFERENCE            camo_gold_unlock_text
+LANG_ENGLISH         "Complete all camo challenges for this weapon."
+
+REFERENCE            camo_diamond_unlock_text
+LANG_ENGLISH         "Unlock the Gold camo for every weapon of this class."
+
+REFERENCE            camo_diamond_sniper_unlock_text
+LANG_ENGLISH         "Unlock the Gold camo for every weapon of the Sniper and Marksman classes."
+
+REFERENCE            camo_black_unlock_text
+LANG_ENGLISH         "Unlock the Platinum camo for all weapon classes."
+
+REFERENCE            camo_12l
+LANG_ENGLISH         "Toronto Ultra"
+
+REFERENCE            camo_12k
+LANG_ENGLISH         "Seattle Surge"
+
+REFERENCE            camo_12j
+LANG_ENGLISH         "Paris Legion"
+
+REFERENCE            camo_12i
+LANG_ENGLISH         "OpTic Gaming Los Angeles"
+
+REFERENCE            camo_12h
+LANG_ENGLISH         "New York Subliners"
+
+REFERENCE            camo_12g
+LANG_ENGLISH         "Minnesota R??KKR"
+
+REFERENCE            camo_12f
+LANG_ENGLISH         "London Royal Ravens"
+
+REFERENCE            camo_12e
+LANG_ENGLISH         "Los Angeles Guerrillas"
+
+REFERENCE            camo_12d
+LANG_ENGLISH         "Florida Mutineers"
+
+REFERENCE            camo_12c
+LANG_ENGLISH         "Dallas Empire"
+
+REFERENCE            camo_12b
+LANG_ENGLISH         "Chicago Huntsmen"
+
+REFERENCE            camo_12a
+LANG_ENGLISH         "Atlanta FaZe"
+
+REFERENCE            camo_11d
+LANG_ENGLISH         "Obsidian"
+
+REFERENCE            camo_11c
+LANG_ENGLISH         "Damascus"
+
+REFERENCE            camo_11b
+LANG_ENGLISH         "Platinum"
+
+REFERENCE            camo_11a
+LANG_ENGLISH         "Gold"
+
+REFERENCE            camo_10j
+LANG_ENGLISH         "Lichyard"
+
+REFERENCE            camo_10i
+LANG_ENGLISH         "Cthulhu"
+
+REFERENCE            camo_10h
+LANG_ENGLISH         "Skullduggery"
+
+REFERENCE            camo_10g
+LANG_ENGLISH         "Hemophiliac"
+
+REFERENCE            camo_10f
+LANG_ENGLISH         "Forest Wraith"
+
+REFERENCE            camo_10e
+LANG_ENGLISH         "Phantom"
+
+REFERENCE            camo_10d
+LANG_ENGLISH         "Haunting"
+
+REFERENCE            camo_10c
+LANG_ENGLISH         "Ossuary"
+
+REFERENCE            camo_10b
+LANG_ENGLISH         "Corpse Digger"
+
+REFERENCE            camo_10a_loc
+LANG_ENGLISH         "Necropolis"
+
+REFERENCE            camo_10a
+LANG_ENGLISH         "Necropolis"
+
+REFERENCE            camo_09j
+LANG_ENGLISH         "Gartersnake"
+
+REFERENCE            camo_09i
+LANG_ENGLISH         "Gecko"
+
+REFERENCE            camo_09h
+LANG_ENGLISH         "Bullsnake"
+
+REFERENCE            camo_09g
+LANG_ENGLISH         "Anaconda"
+
+REFERENCE            camo_09f
+LANG_ENGLISH         "Pink Python"
+
+REFERENCE            camo_09e
+LANG_ENGLISH         "Chupacabra"
+
+REFERENCE            camo_09d
+LANG_ENGLISH         "Blue Iguana"
+
+REFERENCE            camo_09c
+LANG_ENGLISH         "Komodo"
+
+REFERENCE            camo_09b
+LANG_ENGLISH         "Rattlesnake"
+
+REFERENCE            camo_09a
+LANG_ENGLISH         "Python"
+
+REFERENCE            camo_08j
+LANG_ENGLISH         "Pink Zebra"
+
+REFERENCE            camo_08i
+LANG_ENGLISH         "Greengrass"
+
+REFERENCE            camo_08h
+LANG_ENGLISH         "Nu Wave Zebra"
+
+REFERENCE            camo_08g
+LANG_ENGLISH         "Africa"
+
+REFERENCE            camo_08f
+LANG_ENGLISH         "Bluegrass"
+
+REFERENCE            camo_08e
+LANG_ENGLISH         "Zebra"
+
+REFERENCE            camo_08d
+LANG_ENGLISH         "Savannah"
+
+REFERENCE            camo_08c
+LANG_ENGLISH         "The Khan"
+
+REFERENCE            camo_08b
+LANG_ENGLISH         "Tigers Mane"
+
+REFERENCE            camo_08a
+LANG_ENGLISH         "Grassland"
+
+REFERENCE            camo_07j
+LANG_ENGLISH         "Blue Tiger"
+
+REFERENCE            camo_07i
+LANG_ENGLISH         "Red Tiger"
+
+REFERENCE            camo_07h
+LANG_ENGLISH         "Desert Cat"
+
+REFERENCE            camo_07g
+LANG_ENGLISH         "Tiger Stripes"
+
+REFERENCE            camo_07f
+LANG_ENGLISH         "Feral Beast"
+
+REFERENCE            camo_07e
+LANG_ENGLISH         "Faded Veil"
+
+REFERENCE            camo_07d
+LANG_ENGLISH         "Abominable"
+
+REFERENCE            camo_07c
+LANG_ENGLISH         "Dank Forest"
+
+REFERENCE            camo_07b
+LANG_ENGLISH         "Mudslide"
+
+REFERENCE            camo_07a
+LANG_ENGLISH         "Overgrown"
+
+REFERENCE            camo_06j
+LANG_ENGLISH         "SandStorm"
+
+REFERENCE            camo_06i
+LANG_ENGLISH         "Vanished"
+
+REFERENCE            camo_06h
+LANG_ENGLISH         "Barren"
+
+REFERENCE            camo_06g
+LANG_ENGLISH         "Topo Trip"
+
+REFERENCE            camo_06f
+LANG_ENGLISH         "Vector Trails"
+
+REFERENCE            camo_06e
+LANG_ENGLISH         "Phosphor"
+
+REFERENCE            camo_06d
+LANG_ENGLISH         "Forestation"
+
+REFERENCE            camo_06c
+LANG_ENGLISH         "Marsh Ops"
+
+REFERENCE            camo_06b
+LANG_ENGLISH         "Night Seas"
+
+REFERENCE            camo_06a
+LANG_ENGLISH         "Off-Grid"
+
+REFERENCE            camo_05j
+LANG_ENGLISH         "Sharp Edges"
+
+REFERENCE            camo_05i
+LANG_ENGLISH         "Arctic Abstract"
+
+REFERENCE            camo_05h
+LANG_ENGLISH         "Autumn Dazzle"
+
+REFERENCE            camo_05g
+LANG_ENGLISH         "Angles"
+
+REFERENCE            camo_05f
+LANG_ENGLISH         "Arctic Seafoam"
+
+REFERENCE            camo_05e
+LANG_ENGLISH         "Ruins"
+
+REFERENCE            camo_05d
+LANG_ENGLISH         "Ice Breaker"
+
+REFERENCE            camo_05c
+LANG_ENGLISH         "Frostbite"
+
+REFERENCE            camo_05b
+LANG_ENGLISH         "Undergrowth"
+
+REFERENCE            camo_05a
+LANG_ENGLISH         "Tundra"
+
+REFERENCE            camo_04j
+LANG_ENGLISH         "Foliage"
+
+REFERENCE            camo_04i
+LANG_ENGLISH         "Trailblazer"
+
+REFERENCE            camo_04h
+LANG_ENGLISH         "Neon Pink"
+
+REFERENCE            camo_04g
+LANG_ENGLISH         "Crime Scene"
+
+REFERENCE            camo_04f
+LANG_ENGLISH         "Asphalt"
+
+REFERENCE            camo_04e
+LANG_ENGLISH         "Black Top"
+
+REFERENCE            camo_04d
+LANG_ENGLISH         "Tagged"
+
+REFERENCE            camo_04c
+LANG_ENGLISH         "Moss"
+
+REFERENCE            camo_04b
+LANG_ENGLISH         "Dirt"
+
+REFERENCE            camo_04a
+LANG_ENGLISH         "H2O"
+
+REFERENCE            camo_03j
+LANG_ENGLISH         "Green Digital"
+
+REFERENCE            camo_03i
+LANG_ENGLISH         "Desert Digital"
+
+REFERENCE            camo_03h
+LANG_ENGLISH         "Classic Digital"
+
+REFERENCE            camo_03g
+LANG_ENGLISH         "Blue Digital"
+
+REFERENCE            camo_03f
+LANG_ENGLISH         "Bark Digital"
+
+REFERENCE            camo_03e
+LANG_ENGLISH         "Marsh Digital"
+
+REFERENCE            camo_03d
+LANG_ENGLISH         "Forest Digital"
+
+REFERENCE            camo_03c
+LANG_ENGLISH         "Arctic Digital"
+
+REFERENCE            camo_03b
+LANG_ENGLISH         "Jungle Digital"
+
+REFERENCE            camo_03a
+LANG_ENGLISH         "Urban Digital"
+
+REFERENCE            camo_02j
+LANG_ENGLISH         "Canopy"
+
+REFERENCE            camo_02i
+LANG_ENGLISH         "Nightfrost"
+
+REFERENCE            camo_02h
+LANG_ENGLISH         "Warcom Blues"
+
+REFERENCE            camo_02g
+LANG_ENGLISH         "Warcom Greens"
+
+REFERENCE            camo_02f
+LANG_ENGLISH         "Kill Brush"
+
+REFERENCE            camo_02e
+LANG_ENGLISH         "Marshland"
+
+REFERENCE            camo_02d
+LANG_ENGLISH         "Sand Dance"
+
+REFERENCE            camo_02c
+LANG_ENGLISH         "Desert Hybrid"
+
+REFERENCE            camo_02b
+LANG_ENGLISH         "Modern Woodland"
+
+REFERENCE            camo_02a
+LANG_ENGLISH         "Swamp"
+
+REFERENCE            camo_01j
+LANG_ENGLISH         "Smoke"
+
+REFERENCE            camo_01i
+LANG_ENGLISH         "Nightfall"
+
+REFERENCE            camo_01h
+LANG_ENGLISH         "Chain Link"
+
+REFERENCE            camo_01g
+LANG_ENGLISH         "Pinstripe Suit"
+
+REFERENCE            camo_01f
+LANG_ENGLISH         "China Lake"
+
+REFERENCE            camo_01e
+LANG_ENGLISH         "Pitter Patter"
+
+REFERENCE            camo_01d
+LANG_ENGLISH         "Moroccan Snake"
+
+REFERENCE            camo_01c
+LANG_ENGLISH         "Rip n'Tear"
+
+REFERENCE            camo_01b
+LANG_ENGLISH         "Commando"
+
+REFERENCE            camo_01a
+LANG_ENGLISH         "Desert Snake"
+
+REFERENCE            camo_00d
+LANG_ENGLISH         "Stand Out"
+
+REFERENCE            camo_00c
+LANG_ENGLISH         "Banded"
+
+REFERENCE            camo_00b
+LANG_ENGLISH         "Activcamo"
+
+REFERENCE            camo_00a
+LANG_ENGLISH         "Hot and Cold"
+
+REFERENCE            atv_camo_031
+LANG_ENGLISH         "ATV_CAMO_031"
+
+REFERENCE            atv_camo_030
+LANG_ENGLISH         "Mutated"
+
+REFERENCE            atv_camo_029
+LANG_ENGLISH         "Manta"
+
+REFERENCE            atv_camo_028
+LANG_ENGLISH         "Full Sprint"
+
+REFERENCE            atv_camo_027
+LANG_ENGLISH         "Sullen"
+
+REFERENCE            atv_camo_026
+LANG_ENGLISH         "Matchlock"
+
+REFERENCE            atv_camo_025
+LANG_ENGLISH         "Pit Stop"
+
+REFERENCE            atv_camo_024
+LANG_ENGLISH         "Stuntman"
+
+REFERENCE            atv_camo_023
+LANG_ENGLISH         "Good Fortune"
+
+REFERENCE            atv_camo_022
+LANG_ENGLISH         "Big Sky Country"
+
+REFERENCE            atv_camo_020
+LANG_ENGLISH         "Blood Splatter"
+
+REFERENCE            atv_camo_016
+LANG_ENGLISH         "ATV_CAMO_016"
+
+REFERENCE            atv_camo_015
+LANG_ENGLISH         "ATV_CAMO_015"
+
+REFERENCE            atv_camo_014
+LANG_ENGLISH         "ATV_CAMO_014"
+
+REFERENCE            atv_camo_009
+LANG_ENGLISH         "Best Summer"
+
+REFERENCE            atv_camo_005
+LANG_ENGLISH         "Sportsman"
+
+REFERENCE            atv_camo_001
+LANG_ENGLISH         "Sevral"
+
+REFERENCE            apc_camo_027
 LANG_ENGLISH         "Kawaii Metal"
 
 REFERENCE            apc_camo_020
 LANG_ENGLISH         "Queen Anne's Revenge"
 
-REFERENCE            apc_camo_027
+REFERENCE            apc_camo_019
 LANG_ENGLISH         "Kawaii Metal"
-
-REFERENCE            atv_camo_001
-LANG_ENGLISH         "Sevral"
-
-REFERENCE            atv_camo_005
-LANG_ENGLISH         "Sportsman"
-
-REFERENCE            atv_camo_009
-LANG_ENGLISH         "Best Summer"
-
-REFERENCE            atv_camo_015
-LANG_ENGLISH         "ATV_CAMO_015"
-
-REFERENCE            atv_camo_016
-LANG_ENGLISH         "ATV_CAMO_016"
-
-REFERENCE            atv_camo_020
-LANG_ENGLISH         "Big Sky Country"
-
-REFERENCE            atv_camo_023
-LANG_ENGLISH         "Good Fortune"
-
-REFERENCE            atv_camo_024
-LANG_ENGLISH         "Stuntman"
-
-REFERENCE            atv_camo_025
-LANG_ENGLISH         "Pit Stop"
-
-REFERENCE            atv_camo_026
-LANG_ENGLISH         "Matchlock"
-
-REFERENCE            atv_camo_027
-LANG_ENGLISH         "Sullen"
-
-REFERENCE            camo_00a
-LANG_ENGLISH         "Hot and Cold"
-
-REFERENCE            camo_00b
-LANG_ENGLISH         "Activcamo"
-
-REFERENCE            camo_00c
-LANG_ENGLISH         "Banded"
-
-REFERENCE            camo_00d
-LANG_ENGLISH         "Stand Out"
-
-REFERENCE            camo_01a
-LANG_ENGLISH         "Desert Snake"
-
-REFERENCE            camo_01b
-LANG_ENGLISH         "Commando"
-
-REFERENCE            camo_01c
-LANG_ENGLISH         "Rip n'Tear"
-
-REFERENCE            camo_01d
-LANG_ENGLISH         "Moroccan Snake"
-
-REFERENCE            camo_01e
-LANG_ENGLISH         "Pitter Patter"
-
-REFERENCE            camo_01f
-LANG_ENGLISH         "China Lake"
-
-REFERENCE            camo_01g
-LANG_ENGLISH         "Pinstripe Suit"
-
-REFERENCE            camo_01h
-LANG_ENGLISH         "Chain Link"
-
-REFERENCE            camo_01i
-LANG_ENGLISH         "Nightfall"
-
-REFERENCE            camo_01j
-LANG_ENGLISH         "Smoke"
-
-REFERENCE            camo_02a
-LANG_ENGLISH         "Swamp"
-
-REFERENCE            camo_02b
-LANG_ENGLISH         "Modern Woodland"
-
-REFERENCE            camo_02c
-LANG_ENGLISH         "Desert Hybrid"
-
-REFERENCE            camo_02d
-LANG_ENGLISH         "Sand Dance"
-
-REFERENCE            camo_02e
-LANG_ENGLISH         "Marshland"
-
-REFERENCE            camo_02f
-LANG_ENGLISH         "Kill Brush"
-
-REFERENCE            camo_02g
-LANG_ENGLISH         "Warcom Greens"
-
-REFERENCE            camo_02h
-LANG_ENGLISH         "Warcom Blues"
-
-REFERENCE            camo_02i
-LANG_ENGLISH         "Nightfrost"
-
-REFERENCE            camo_02j
-LANG_ENGLISH         "Canopy"
-
-REFERENCE            camo_03a
-LANG_ENGLISH         "Urban Digital"
-
-REFERENCE            camo_03b
-LANG_ENGLISH         "Jungle Digital"
-
-REFERENCE            camo_03c
-LANG_ENGLISH         "Arctic Digital"
-
-REFERENCE            camo_03d
-LANG_ENGLISH         "Forest Digital"
-
-REFERENCE            camo_03e
-LANG_ENGLISH         "Marsh Digital"
-
-REFERENCE            camo_03f
-LANG_ENGLISH         "Bark Digital"
-
-REFERENCE            camo_03g
-LANG_ENGLISH         "Blue Digital"
-
-REFERENCE            camo_03h
-LANG_ENGLISH         "Classic Digital"
-
-REFERENCE            camo_03i
-LANG_ENGLISH         "Desert Digital"
-
-REFERENCE            camo_03j
-LANG_ENGLISH         "Green Digital"
-
-REFERENCE            camo_04a
-LANG_ENGLISH         "H2O"
-
-REFERENCE            camo_04b
-LANG_ENGLISH         "Dirt"
-
-REFERENCE            camo_04c
-LANG_ENGLISH         "Moss"
-
-REFERENCE            camo_04d
-LANG_ENGLISH         "Tagged"
-
-REFERENCE            camo_04e
-LANG_ENGLISH         "Black Top"
-
-REFERENCE            camo_04f
-LANG_ENGLISH         "Asphalt"
-
-REFERENCE            camo_04g
-LANG_ENGLISH         "Crime Scene"
-
-REFERENCE            camo_04h
-LANG_ENGLISH         "Neon Pink"
-
-REFERENCE            camo_04i
-LANG_ENGLISH         "Trailblazer"
-
-REFERENCE            camo_04j
-LANG_ENGLISH         "Foliage"
-
-REFERENCE            camo_05a
-LANG_ENGLISH         "Tundra"
-
-REFERENCE            camo_05b
-LANG_ENGLISH         "Undergrowth"
-
-REFERENCE            camo_05c
-LANG_ENGLISH         "Frostbite"
-
-REFERENCE            camo_05d
-LANG_ENGLISH         "Ice Breaker"
-
-REFERENCE            camo_05e
-LANG_ENGLISH         "Ruins"
-
-REFERENCE            camo_05f
-LANG_ENGLISH         "Arctic Seafoam"
-
-REFERENCE            camo_05g
-LANG_ENGLISH         "Angles"
-
-REFERENCE            camo_05h
-LANG_ENGLISH         "Autumn Dazzle"
-
-REFERENCE            camo_05i
-LANG_ENGLISH         "Arctic Abstract"
-
-REFERENCE            camo_05j
-LANG_ENGLISH         "Sharp Edges"
-
-REFERENCE            camo_06a
-LANG_ENGLISH         "Off-Grid"
-
-REFERENCE            camo_06b
-LANG_ENGLISH         "Night Seas"
-
-REFERENCE            camo_06c
-LANG_ENGLISH         "Marsh Ops"
-
-REFERENCE            camo_06d
-LANG_ENGLISH         "Forestation"
-
-REFERENCE            camo_06e
-LANG_ENGLISH         "Phosphor"
-
-REFERENCE            camo_06f
-LANG_ENGLISH         "Vector Trails"
-
-REFERENCE            camo_06g
-LANG_ENGLISH         "Topo Trip"
-
-REFERENCE            camo_06h
-LANG_ENGLISH         "Barren"
-
-REFERENCE            camo_06i
-LANG_ENGLISH         "Vanished"
-
-REFERENCE            camo_06j
-LANG_ENGLISH         "SandStorm"
-
-REFERENCE            camo_07a
-LANG_ENGLISH         "Overgrown"
-
-REFERENCE            camo_07b
-LANG_ENGLISH         "Mudslide"
-
-REFERENCE            camo_07c
-LANG_ENGLISH         "Dank Forest"
-
-REFERENCE            camo_07d
-LANG_ENGLISH         "Abominable"
-
-REFERENCE            camo_07e
-LANG_ENGLISH         "Faded Veil"
-
-REFERENCE            camo_07f
-LANG_ENGLISH         "Feral Beast"
-
-REFERENCE            camo_07g
-LANG_ENGLISH         "Tiger Stripes"
-
-REFERENCE            camo_07h
-LANG_ENGLISH         "Desert Cat"
-
-REFERENCE            camo_07i
-LANG_ENGLISH         "Red Tiger"
-
-REFERENCE            camo_07j
-LANG_ENGLISH         "Blue Tiger"
-
-REFERENCE            camo_08a
-LANG_ENGLISH         "Grassland"
-
-REFERENCE            camo_08b
-LANG_ENGLISH         "Tigers Mane"
-
-REFERENCE            camo_08c
-LANG_ENGLISH         "The Khan"
-
-REFERENCE            camo_08d
-LANG_ENGLISH         "Savannah"
-
-REFERENCE            camo_08e
-LANG_ENGLISH         "Zebra"
-
-REFERENCE            camo_08f
-LANG_ENGLISH         "Bluegrass"
-
-REFERENCE            camo_08g
-LANG_ENGLISH         "Africa"
-
-REFERENCE            camo_08h
-LANG_ENGLISH         "Nu Wave Zebra"
-
-REFERENCE            camo_08i
-LANG_ENGLISH         "Greengrass"
-
-REFERENCE            camo_08j
-LANG_ENGLISH         "Pink Zebra"
-
-REFERENCE            camo_09a
-LANG_ENGLISH         "Python"
-
-REFERENCE            camo_09b
-LANG_ENGLISH         "Rattlesnake"
-
-REFERENCE            camo_09c
-LANG_ENGLISH         "Komodo"
-
-REFERENCE            camo_09d
-LANG_ENGLISH         "Blue Iguana"
-
-REFERENCE            camo_09e
-LANG_ENGLISH         "Chupacabra"
-
-REFERENCE            camo_09f
-LANG_ENGLISH         "Pink Python"
-
-REFERENCE            camo_09g
-LANG_ENGLISH         "Anaconda"
-
-REFERENCE            camo_09h
-LANG_ENGLISH         "Bullsnake"
-
-REFERENCE            camo_09i
-LANG_ENGLISH         "Gecko"
-
-REFERENCE            camo_09j
-LANG_ENGLISH         "Gartersnake"
-
-REFERENCE            camo_10a
-LANG_ENGLISH         "Necropolis"
-
-REFERENCE            camo_10a_loc
-LANG_ENGLISH         "Necropolis"
-
-REFERENCE            camo_10b
-LANG_ENGLISH         "Corpse Digger"
-
-REFERENCE            camo_10c
-LANG_ENGLISH         "Ossuary"
-
-REFERENCE            camo_10d
-LANG_ENGLISH         "Haunting"
-
-REFERENCE            camo_10e
-LANG_ENGLISH         "Phantom"
-
-REFERENCE            camo_10f
-LANG_ENGLISH         "Forest Wraith"
-
-REFERENCE            camo_10g
-LANG_ENGLISH         "Hemophiliac"
-
-REFERENCE            camo_10h
-LANG_ENGLISH         "Skullduggery"
-
-REFERENCE            camo_10i
-LANG_ENGLISH         "Cthulhu"
-
-REFERENCE            camo_10j
-LANG_ENGLISH         "Lichyard"
-
-REFERENCE            camo_11a
-LANG_ENGLISH         "Gold"
-
-REFERENCE            camo_11b
-LANG_ENGLISH         "Platinum"
-
-REFERENCE            camo_11c
-LANG_ENGLISH         "Damascus"
-
-REFERENCE            camo_11d
-LANG_ENGLISH         "Obsidian"
-
-REFERENCE            camo_12a
-LANG_ENGLISH         "Atlanta FaZe"
-
-REFERENCE            camo_12b
-LANG_ENGLISH         "Chicago Huntsmen"
-
-REFERENCE            camo_12c
-LANG_ENGLISH         "Dallas Empire"
-
-REFERENCE            camo_12d
-LANG_ENGLISH         "Florida Mutineers"
-
-REFERENCE            camo_12e
-LANG_ENGLISH         "Los Angeles Guerrillas"
-
-REFERENCE            camo_12f
-LANG_ENGLISH         "London Royal Ravens"
-
-REFERENCE            camo_12g
-LANG_ENGLISH         "Minnesota R??KKR"
-
-REFERENCE            camo_12h
-LANG_ENGLISH         "New York Subliners"
-
-REFERENCE            camo_12i
-LANG_ENGLISH         "OpTic Gaming Los Angeles"
-
-REFERENCE            camo_12j
-LANG_ENGLISH         "Paris Legion"
-
-REFERENCE            camo_12k
-LANG_ENGLISH         "Seattle Surge"
-
-REFERENCE            camo_12l
-LANG_ENGLISH         "Toronto Ultra"
-
-REFERENCE            camo_black_unlock_text
-LANG_ENGLISH         "Unlock the Platinum camo for all weapon classes."
-
-REFERENCE            camo_diamond_sniper_unlock_text
-LANG_ENGLISH         "Unlock the Gold camo for every weapon of the Sniper and Marksman classes."
-
-REFERENCE            camo_diamond_unlock_text
-LANG_ENGLISH         "Unlock the Gold camo for every weapon of this class."
-
-REFERENCE            camo_gold_unlock_text
-LANG_ENGLISH         "Complete all camo challenges for this weapon."
-
-REFERENCE            cargo_truck_camo_004
-LANG_ENGLISH         "Ambush Alley"
-
-REFERENCE            cargo_truck_camo_009
-LANG_ENGLISH         "Purple People Eater"
-
-REFERENCE            cargo_truck_camo_010
-LANG_ENGLISH         "Snake Oil"
-
-REFERENCE            cargo_truck_camo_011
-LANG_ENGLISH         "Blue Ridge Racer"
-
-REFERENCE            cargo_truck_camo_012
-LANG_ENGLISH         "CARGO_TRUCK_CAMO_012"
-
-REFERENCE            cargo_truck_camo_013
-LANG_ENGLISH         "CARGO_TRUCK_CAMO_013"
-
-REFERENCE            cargo_truck_camo_015
-LANG_ENGLISH         "Bachelor's Delight"
-
-REFERENCE            cargo_truck_camo_016
-LANG_ENGLISH         "CARGO_TRUCK_CAMO_016"
-
-REFERENCE            cargo_truck_camo_021
-LANG_ENGLISH         "Monster Mash"
-
-REFERENCE            cargo_truck_camo_022
-LANG_ENGLISH         "Entomb"
-
-REFERENCE            cargo_truck_camo_026
-LANG_ENGLISH         "Orange Crush"
-
-REFERENCE            cargo_truck_camo_029
-LANG_ENGLISH         "Keep On Truckin'"
-
-REFERENCE            cargo_truck_camo_030
-LANG_ENGLISH         "Swayze Express"
-
-REFERENCE            cargo_truck_camo_031
-LANG_ENGLISH         "Siege Tower"
-
-REFERENCE            cargo_truck_camo_041
-LANG_ENGLISH         "Senpai"
-
-REFERENCE            category_completion
-LANG_ENGLISH         "Completionist"
-
-REFERENCE            category_dazzle
-LANG_ENGLISH         "Splinter"
-
-REFERENCE            category_digital
-LANG_ENGLISH         "Digital"
-
-REFERENCE            category_kryptek
-LANG_ENGLISH         "Topo"
-
-REFERENCE            category_reptile
-LANG_ENGLISH         "Reptile"
-
-REFERENCE            category_skulls
-LANG_ENGLISH         "Skulls"
-
-REFERENCE            category_special
-LANG_ENGLISH         "Special"
-
-REFERENCE            category_spray_paint
-LANG_ENGLISH         "Spray Paint"
-
-REFERENCE            category_stripes
-LANG_ENGLISH         "Stripes"
-
-REFERENCE            category_tiger
-LANG_ENGLISH         "Tiger"
-
-REFERENCE            category_urban
-LANG_ENGLISH         "Dragon"
-
-REFERENCE            category_woodland
-LANG_ENGLISH         "Woodland"
-
-REFERENCE            default
-LANG_ENGLISH         "None"
-
-REFERENCE            jeep_camo_008
-LANG_ENGLISH         "The Warzone Express"
-
-REFERENCE            jeep_camo_011
-LANG_ENGLISH         "JEEP_CAMO_011"
-
-REFERENCE            jeep_camo_012
-LANG_ENGLISH         "Lovecraft"
-
-REFERENCE            jeep_camo_014
-LANG_ENGLISH         "JEEP_CAMO_014"
-
-REFERENCE            jeep_camo_015
-LANG_ENGLISH         "JEEP_CAMO_015"
-
-REFERENCE            jeep_camo_017
-LANG_ENGLISH         "JEEP_CAMO_017"
-
-REFERENCE            jeep_camo_023
-LANG_ENGLISH         "JEEP_CAMO_023"
-
-REFERENCE            jeep_camo_028
-LANG_ENGLISH         "Luster"
-
-REFERENCE            jeep_camo_029
-LANG_ENGLISH         "Eagle Rock"
-
-REFERENCE            jeep_camo_030
-LANG_ENGLISH         "Fancy"
-
-REFERENCE            jeep_camo_031
-LANG_ENGLISH         "Bengali"
-
-REFERENCE            jeep_camo_035
-LANG_ENGLISH         "Hammer of the Gods"
-
-REFERENCE            jeep_camo_036
-LANG_ENGLISH         "Night Ranger"
-
-REFERENCE            little_bird_camo_001
-LANG_ENGLISH         "Goblin"
-
-REFERENCE            little_bird_camo_008
-LANG_ENGLISH         "Snow Patrol"
-
-REFERENCE            little_bird_camo_010
-LANG_ENGLISH         "LITTLE_BIRD_CAMO_010"
-
-REFERENCE            little_bird_camo_011
-LANG_ENGLISH         "Howlin' Wolf"
-
-REFERENCE            little_bird_camo_012
-LANG_ENGLISH         "Sundance"
-
-REFERENCE            little_bird_camo_013
-LANG_ENGLISH         "LITTLE_BIRD_CAMO_013"
-
-REFERENCE            little_bird_camo_017
-LANG_ENGLISH         "Savagery"
-
-REFERENCE            little_bird_camo_018
-LANG_ENGLISH         "From the Ashes"
-
-REFERENCE            little_bird_camo_022
-LANG_ENGLISH         "Forrest Canopy"
-
-REFERENCE            little_bird_camo_024
-LANG_ENGLISH         "Whydah"
-
-REFERENCE            little_bird_camo_025
-LANG_ENGLISH         "Aegean Tide"
-
-REFERENCE            little_bird_camo_026
-LANG_ENGLISH         "Kawaiicopter"
-
-REFERENCE            little_bird_camo_027
-LANG_ENGLISH         "Pitter Patter"
-
-REFERENCE            little_bird_camo_028
-LANG_ENGLISH         "The Veil"
-
-REFERENCE            little_bird_camo_029
-LANG_ENGLISH         "Charon"
-
-REFERENCE            tac_rover_camo_001
-LANG_ENGLISH         "Kaiju"
-
-REFERENCE            tac_rover_camo_006
-LANG_ENGLISH         "Track Star"
-
-REFERENCE            tac_rover_camo_009
-LANG_ENGLISH         "Newtonian"
-
-REFERENCE            tac_rover_camo_010
-LANG_ENGLISH         "Adventure"
-
-REFERENCE            tac_rover_camo_011
-LANG_ENGLISH         "TAC_ROVER_CAMO_011"
-
-REFERENCE            tac_rover_camo_012
-LANG_ENGLISH         "From the Pit"
-
-REFERENCE            tac_rover_camo_015
-LANG_ENGLISH         "Derby"
-
-REFERENCE            tac_rover_camo_016
-LANG_ENGLISH         "TAC_ROVER_CAMO_016"
-
-REFERENCE            tac_rover_camo_018
-LANG_ENGLISH         "Pollocks"
-
-REFERENCE            tac_rover_camo_019
-LANG_ENGLISH         "The Green Monster"
-
-REFERENCE            tac_rover_camo_021
-LANG_ENGLISH         "Armistice"
-
-REFERENCE            tac_rover_camo_023
-LANG_ENGLISH         "Chicane"
-
-REFERENCE            tac_rover_camo_032
-LANG_ENGLISH         "Tarrasch"
-
-REFERENCE            tank_east_camo_016
-LANG_ENGLISH         "Golden Hind"
-
-REFERENCE            tank_west_camo_020
-LANG_ENGLISH         "Golden Fleece"
 
 
 ENDMARKER

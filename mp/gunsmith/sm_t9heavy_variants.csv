@@ -1,0 +1,6 @@
+0,iw8_sm_t9heavy_variant_0,iw8_sm_t9heavy,,,,,,,,,,,,,,,WEAPON_TANGO/SM_T9HEAVY,ui_loot_weapon_ar_akilo47,
+1,iw8_sm_t9heavy_variant_1,iw8_sm_t9heavy,iw8_sm_t9heavy_mpv2,rec|1 front|1 back|1 mag|1 guard|1,,,,gripcust|1,,,pistolgrip04|1,,,,,,WEAPON_TANGO/SM_T9HEAVY_V3,ui_loot_weapon_ar_akilo47,
+2,iw8_sm_t9heavy_variant_2,iw8_sm_t9heavy,iw8_sm_t9heavy_mpv3,rec|1 back|1 front|1 mag|1 guard|1,,barshort|0,,,,,,,,,,,WEAPON_TANGO/SM_T9HEAVY_V4,ui_loot_weapon_ar_akilo47,
+3,iw8_sm_t9heavy_variant_3,iw8_sm_t9heavy,,rec|1 back|1 front|1 mag|1 guard|1,,,,gripang|1,,,pistolgrip04|1,stockno|1,,,,,WEAPON_TANGO/SM_T9HEAVY_V2,ui_loot_weapon_ar_akilo47,
+4,iw8_sm_t9heavy_variant_4,iw8_sm_t9heavy,iw8_sm_t9heavy_mpv4,rec|1 back|1 front|1 mag|1 guard|1,brake|1,,laser|1,gripang|2,,,pistolgrip05|1,stockl|1,,,,,WEAPON_TANGO/SM_T9HEAVY_V5,ui_loot_weapon_ar_akilo47,
+5,iw8_sm_t9heavy_variant_5,iw8_sm_t9heavy,iw8_sm_t9heavy_mpv5,rec|1 back|1 front|1 mag|1 guard|1,,barshortnoguard|1,,gripcust|0,,,pistolgrip03|0,stocks|0,,,,,WEAPON_TANGO/SM_T9HEAVY_V6,ui_loot_weapon_ar_akilo47,

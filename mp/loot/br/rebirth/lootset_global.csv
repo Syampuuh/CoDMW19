@@ -1,0 +1,7 @@
+inherit,mp/loot/br/rebirth/lootset_root.csv,,,
+chance,point,85,#     % of non-clustered points that will be populated,
+chance,cluster,85,#     % of clusters that will be populated,
+chance,clusterSolo,20,#     % of clusters that will become invalid after spawning one item (with dependencies),
+req,,weapon,1,
+req,brloot_armor_plate,health,1,
+req,,tablet,1,

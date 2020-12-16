@@ -21,5 +21,6 @@
 20,mod_fire_bullet,icon_obit_dragons_breath,0,1,
 21,mod_execution,icon_obit_execution,0,1,
 22,mod_penetration,icon_obit_penetrate,0,1,
-23,mod_down,ui_mp_br_player_status_enemy_down,0,1,
+23,mod_down,hud_damage_feedback_laststand,0,1,
 24,mod_team_wiped,icon_obit_died,0,1,
+25,mod_head_shot_zombie,hud_damage_feedback_zm_headshot,0,1,

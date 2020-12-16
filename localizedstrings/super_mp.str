@@ -2,68 +2,76 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            br_extract_flare
-LANG_ENGLISH         "Extract Flare"
+REFERENCE            weapon_drop_desc
+LANG_ENGLISH         "Deliver a cache of high-powered weapons or attachments to your location for your team."
 
-REFERENCE            br_extract_flare_desc
-LANG_ENGLISH         "Use the flare to call in a helo extract."
+REFERENCE            weapon_drop
+LANG_ENGLISH         "Weapon Drop"
 
-REFERENCE            br_plunder_extract_desc
-LANG_ENGLISH         "Mobile cash deposit device for your team."
+REFERENCE            uav_desc
+LANG_ENGLISH         "UAV recon ship that reveals enemy locations on the minimap.
+^3Objective Score Cost:^2     Very Low^7"
 
-REFERENCE            bradley
-LANG_ENGLISH         "M2 Bradley"
-
-REFERENCE            bradley_desc
-LANG_ENGLISH         "Drivable M2 Bradley vehicle.
-^3Objective Score Cost:^7     Medium"
-
-REFERENCE            chopper_gunner
-LANG_ENGLISH         "Chopper"
-
-REFERENCE            chopper_gunner_desc
-LANG_ENGLISH         "Control an assault chopper with thermal vision.
-^3Objective Score Cost:^1     High^7"
-
-REFERENCE            cruise_predator
-LANG_ENGLISH         "Cruise Missile"
-
-REFERENCE            cruise_predator_desc
-LANG_ENGLISH         "Control a long range cruise missile with boost capabilities.
-^3Objective Score Cost:^2     Low^7"
-
-REFERENCE            deadsilence
-LANG_ENGLISH         "Dead Silence"
-
-REFERENCE            deadsilence_desc
-LANG_ENGLISH         "Temporarily makes your footsteps silent. Movement becomes slightly faster. Gun, melee, and throwing knife kills refresh duration."
-
-REFERENCE            empdrone
-LANG_ENGLISH         "EMP Drone"
-
-REFERENCE            empdrone_desc
-LANG_ENGLISH         "Detonate an EMP payload at a targeted location using an RC Plane. Disables all electronics in the area."
-
-REFERENCE            fuel_airstrike
-LANG_ENGLISH         "Fuel Bomb Airstrike
+REFERENCE            uav
+LANG_ENGLISH         "UAV
 "
 
-REFERENCE            fuel_airstrike_desc
-LANG_ENGLISH         "Call in a series of fuel bomb airstrikes.
+REFERENCE            toma_strike_desc
+LANG_ENGLISH         "Control a drone to designate cluster strikes.
+^3Objective Score Cost:^2     Low^7"
+
+REFERENCE            toma_strike
+LANG_ENGLISH         "Cluster Strike
+"
+
+REFERENCE            tac_insert_desc
+LANG_ENGLISH         "Marks a location as your next spawn point."
+
+REFERENCE            tac_insert
+LANG_ENGLISH         "Tactical Insertion"
+
+REFERENCE            scramble_ready
+LANG_ENGLISH         "Scramble Ready"
+
+REFERENCE            scramble_desc
+LANG_ENGLISH         "Emit a scrambling signal that disrupts nearby enemy HUDs."
+
+REFERENCE            scramble
+LANG_ENGLISH         "Scramble"
+
+REFERENCE            remote_detonation_ready
+LANG_ENGLISH         "Remote Detonation Ready"
+
+REFERENCE            remote_detonation_hint
+LANG_ENGLISH         "Use field upgrade to detonate"
+
+REFERENCE            remote_detonation_desc
+LANG_ENGLISH         "Remotely detonate enemy explosives."
+
+REFERENCE            remote_detonation
+LANG_ENGLISH         "Remote Detonation"
+
+REFERENCE            recon_drone_desc
+LANG_ENGLISH         "Remote-controlled drone that marks enemies."
+
+REFERENCE            recon_drone
+LANG_ENGLISH         "Recon Drone"
+
+REFERENCE            precision_airstrike_desc
+LANG_ENGLISH         "Call in a single jet for a precision strike.
 ^3Objective Score Cost:^2     Low^7
 "
 
-REFERENCE            laststand_heal
-LANG_ENGLISH         "Self-Revive"
+REFERENCE            precision_airstrike
+LANG_ENGLISH         "Precision Airstrike
+"
 
-REFERENCE            laststand_heal_desc
-LANG_ENGLISH         "Revive yourself while in last stand."
+REFERENCE            pac_sentry_desc
+LANG_ENGLISH         "Remote controlled UGV with a powerful airburst turret.
+^3Objective Score Cost:^1     High^7"
 
-REFERENCE            laststand_heal_ready
-LANG_ENGLISH         "Self-Revive Ready"
-
-REFERENCE            multi_airstrike
-LANG_ENGLISH         "Multi Airstrike
+REFERENCE            pac_sentry
+LANG_ENGLISH         "Drone Sentry
 "
 
 REFERENCE            multi_airstrike_desc
@@ -71,77 +79,69 @@ LANG_ENGLISH         "Call in a series of airstrikes along separate paths.
 ^3Objective Score Cost:^2     Low^7
 "
 
-REFERENCE            pac_sentry
-LANG_ENGLISH         "Drone Sentry
+REFERENCE            multi_airstrike
+LANG_ENGLISH         "Multi Airstrike
 "
 
-REFERENCE            pac_sentry_desc
-LANG_ENGLISH         "Remote controlled UGV with a powerful airburst turret.
-^3Objective Score Cost:^1     High^7"
+REFERENCE            laststand_heal_ready
+LANG_ENGLISH         "Self-Revive Ready"
 
-REFERENCE            precision_airstrike
-LANG_ENGLISH         "Precision Airstrike
-"
+REFERENCE            laststand_heal_desc
+LANG_ENGLISH         "Revive yourself while in last stand."
 
-REFERENCE            precision_airstrike_desc
-LANG_ENGLISH         "Call in a single jet for a precision strike.
+REFERENCE            laststand_heal
+LANG_ENGLISH         "Self-Revive"
+
+REFERENCE            fuel_airstrike_desc
+LANG_ENGLISH         "Call in a series of fuel bomb airstrikes.
 ^3Objective Score Cost:^2     Low^7
 "
 
-REFERENCE            recon_drone
-LANG_ENGLISH         "Recon Drone"
-
-REFERENCE            recon_drone_desc
-LANG_ENGLISH         "Remote-controlled drone that marks enemies."
-
-REFERENCE            remote_detonation
-LANG_ENGLISH         "Remote Detonation"
-
-REFERENCE            remote_detonation_desc
-LANG_ENGLISH         "Remotely detonate enemy explosives."
-
-REFERENCE            remote_detonation_hint
-LANG_ENGLISH         "Use field upgrade to detonate"
-
-REFERENCE            remote_detonation_ready
-LANG_ENGLISH         "Remote Detonation Ready"
-
-REFERENCE            scramble
-LANG_ENGLISH         "Scramble"
-
-REFERENCE            scramble_desc
-LANG_ENGLISH         "Emit a scrambling signal that disrupts nearby enemy HUDs."
-
-REFERENCE            scramble_ready
-LANG_ENGLISH         "Scramble Ready"
-
-REFERENCE            tac_insert
-LANG_ENGLISH         "Tactical Insertion"
-
-REFERENCE            tac_insert_desc
-LANG_ENGLISH         "Marks a location as your next spawn point."
-
-REFERENCE            toma_strike
-LANG_ENGLISH         "Cluster Strike
+REFERENCE            fuel_airstrike
+LANG_ENGLISH         "Fuel Bomb Airstrike
 "
 
-REFERENCE            toma_strike_desc
-LANG_ENGLISH         "Control a drone to designate cluster strikes.
+REFERENCE            empdrone_desc
+LANG_ENGLISH         "Detonate an EMP payload at a targeted location using an RC Plane. Disables all electronics in the area."
+
+REFERENCE            empdrone
+LANG_ENGLISH         "EMP Drone"
+
+REFERENCE            deadsilence_desc
+LANG_ENGLISH         "Temporarily makes your footsteps silent. Movement becomes slightly faster. Gun, melee, and throwing knife kills refresh duration."
+
+REFERENCE            deadsilence
+LANG_ENGLISH         "Dead Silence"
+
+REFERENCE            cruise_predator_desc
+LANG_ENGLISH         "Control a long range cruise missile with boost capabilities.
 ^3Objective Score Cost:^2     Low^7"
 
-REFERENCE            uav
-LANG_ENGLISH         "UAV
-"
+REFERENCE            cruise_predator
+LANG_ENGLISH         "Cruise Missile"
 
-REFERENCE            uav_desc
-LANG_ENGLISH         "UAV recon ship that reveals enemy locations on the minimap.
-^3Objective Score Cost:^2     Very Low^7"
+REFERENCE            chopper_gunner_desc
+LANG_ENGLISH         "Control an assault chopper with thermal vision.
+^3Objective Score Cost:^1     High^7"
 
-REFERENCE            weapon_drop
-LANG_ENGLISH         "Weapon Drop"
+REFERENCE            chopper_gunner
+LANG_ENGLISH         "Chopper"
 
-REFERENCE            weapon_drop_desc
-LANG_ENGLISH         "Deliver a cache of high-powered weapons or attachments to your location for your team."
+REFERENCE            bradley_desc
+LANG_ENGLISH         "Drivable M2 Bradley vehicle.
+^3Objective Score Cost:^7     Medium"
+
+REFERENCE            bradley
+LANG_ENGLISH         "M2 Bradley"
+
+REFERENCE            br_plunder_extract_desc
+LANG_ENGLISH         "Mobile cash deposit device for your team."
+
+REFERENCE            br_extract_flare_desc
+LANG_ENGLISH         "Use the flare to call in a helo extract."
+
+REFERENCE            br_extract_flare
+LANG_ENGLISH         "Extract Flare"
 
 
 ENDMARKER

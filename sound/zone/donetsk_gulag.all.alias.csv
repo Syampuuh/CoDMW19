@@ -1,3 +1,5 @@
 Name,Secondary,FileSpec,
-amb_mp_donetsk_lr,amb_mp_gulag_lsrs,ambient\amb_gulag_ext_lr.SL.75.48000.all,
-amb_mp_donetsk_narrow_lr,amb_mp_gulag_narrow_lsrs,ambient\amb_gulag_ext_lr.SL.75.48000.all,
+amb_mp_donetsk_lr,,amb_mp_gulag_lsrs,
+amb_mp_donetsk_lr_pm,,amb_mp_gulag_lsrs,
+amb_mp_donetsk_narrow_lr,,amb_mp_gulag_narrow_lsrs,
+amb_mp_donetsk_narrow_lr_pm,,amb_mp_gulag_narrow_lsrs,

@@ -81,6 +81,8 @@ commonOption.weaponRestricted.iw8_lm_lima86 = 1
 commonOption.weaponRestricted.iw8_lm_mgolf34 = 1
 commonOption.weaponRestricted.iw8_lm_mgolf36 = 1
 commonOption.weaponRestricted.iw8_lm_mkilo3 = 1
+commonOption.weaponRestricted.iw8_lm_sierrax = 1
+commonOption.weaponRestricted.iw8_sh_aalpha12 = 1
 commonOption.weaponRestricted.iw8_sh_dpapa12 = 1
 commonOption.weaponRestricted.iw8_sh_oscar12 = 1
 commonOption.weaponRestricted.iw8_sh_charlie725 = 1
@@ -98,6 +100,7 @@ commonOption.weaponRestricted.iw8_sn_sbeta = 1
 commonOption.weaponRestricted.iw8_sn_mike14 = 1
 commonOption.weaponRestricted.iw8_sn_crossbow = 1
 commonOption.weaponRestricted.iw8_sn_sksierra = 1
+commonOption.weaponRestricted.iw8_sn_romeo700 = 1
 
 commonOption.attachmentRestricted.gl = 1
 commonOption.attachmentRestricted.glsmoke = 1
@@ -120,6 +123,14 @@ commonOption.attachmentRestricted.hybrid3 = 1
 commonOption.attachmentRestricted.thermalvz = 1
 
 commonOption.attachmentRestrictedPerWeapon.iw8_sn_xmike109_calcust = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_sn_romeo700_barsil = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_ar_kilo433_barsil = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_ar_mcharlie_barsil = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_sm_mpapa5_barsil = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_sm_victor_barsil = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_sm_charlie9_barsil = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_ar_mike4_barsil = 1
+commonOption.attachmentRestrictedPerWeapon.iw8_sm_mpapa5_barsil2 = 1
 
 commonOption.equipmentRestricted.equip_claymore = 1
 commonOption.equipmentRestricted.equip_c4 = 1

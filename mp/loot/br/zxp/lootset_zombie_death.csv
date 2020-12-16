@@ -1,0 +1,5 @@
+inherit,mp/loot/br/zxp/lootset_root.csv,,,,
+req,brloot_self_revive,,1,1,
+req,brloot_super_munitionsbox,,1,1,
+req,,plunder,5,5,
+req,,health,1,2,

@@ -2,306 +2,306 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            armsrace_cache
-LANG_ENGLISH         "Arms Cache"
+REFERENCE            weapons_free
+LANG_ENGLISH         "Price: Weapons Free. Eliminate all the Terrorists. Remember, No American."
 
-REFERENCE            armsrace_desc1
-LANG_ENGLISH         "Defend the area around the arms cache."
+REFERENCE            use_vip
+LANG_ENGLISH         "Escort the Pilot"
 
-REFERENCE            armsrace_title
-LANG_ENGLISH         "Arms Race"
+REFERENCE            tmtyl_desc
+LANG_ENGLISH         "Interrogate the officers in three enemy squads."
 
-REFERENCE            be_seated
-LANG_ENGLISH         "Sit"
+REFERENCE            store_front
+LANG_ENGLISH         "Enemy Lieutenant"
 
-REFERENCE            begin_download
-LANG_ENGLISH         "Press to begin download"
+REFERENCE            stop_obj_rescue_pilot
+LANG_ENGLISH         "^1STOP THEM FROM RESCUING THE PILOT"
 
-REFERENCE            blow_up_door
-LANG_ENGLISH         "Press to breach the C-130 door"
+REFERENCE            signal_exfil
+LANG_ENGLISH         "Signal an exfil"
 
-REFERENCE            close_airlock_door
-LANG_ENGLISH         "Press to close the Airlock Door"
+REFERENCE            shoot_threat3
+LANG_ENGLISH         "^1Enemy: ^7I warned you!"
 
-REFERENCE            cp_br_syrk_objectivespilot_drop
-LANG_ENGLISH         "Stop escorting"
-
-REFERENCE            cut_hint
-LANG_ENGLISH         "Cut the door"
-
-REFERENCE            cut_pilot
-LANG_ENGLISH         "Open cockpit door"
-
-REFERENCE            cut_pilot_obj
-LANG_ENGLISH         "Cut Door"
-
-REFERENCE            defend_dl_1
-LANG_ENGLISH         "Begin the intel download"
-
-REFERENCE            defend_dl_2
-LANG_ENGLISH         "Defend until the download completes"
-
-REFERENCE            defend_pos
-LANG_ENGLISH         "Defend your position"
-
-REFERENCE            deploy_parachute
-LANG_ENGLISH         "[{+gostand}] Deploy Parachute"
-
-REFERENCE            destroy_c130
-LANG_ENGLISH         "Destroy the C-130 & Recover the Nuclear Core"
-
-REFERENCE            destroy_c130_plane
-LANG_ENGLISH         "Destroy the C-130 Transport Plane"
-
-REFERENCE            disguise
-LANG_ENGLISH         "Equip Al-Qatala Disguise"
-
-REFERENCE            disguise_marker
-LANG_ENGLISH         "Grab the Disguise"
-
-REFERENCE            dont_kill
-LANG_ENGLISH         "Do not Kill"
-
-REFERENCE            drop_hostage
-LANG_ENGLISH         "Drop the HVT"
-
-REFERENCE            enter_vehicle_with_hostage
-LANG_ENGLISH         "Enter vehicle"
-
-REFERENCE            equip_disguise
-LANG_ENGLISH         "Locate and Equip the Al-Qatala Disguise"
-
-REFERENCE            equip_disguise_early
-LANG_ENGLISH         "Press to equip the Al-Qatala Disguise"
-
-REFERENCE            escape_c130
-LANG_ENGLISH         "Press to escape the C130"
-
-REFERENCE            examine_laptop
-LANG_ENGLISH         "Press to examine laptop"
-
-REFERENCE            exfil_enroute
-LANG_ENGLISH         "Exfil on the way"
-
-REFERENCE            exfil_morales
-LANG_ENGLISH         "Exfil Dr. Morales"
-
-REFERENCE            exfil_objective
-LANG_ENGLISH         "Call for a helicopter exfil."
-
-REFERENCE            exfil_pilot
-LANG_ENGLISH         "Exfil Pilot"
-
-REFERENCE            exit_c130_condition
-LANG_ENGLISH         "You need all player(s) near the breach charge to Exit the C130"
-
-REFERENCE            exit_plane
-LANG_ENGLISH         "Escape from the C130 Transport"
-
-REFERENCE            extract_core
-LANG_ENGLISH         "Extract Plutonium Core"
-
-REFERENCE            find_morales
-LANG_ENGLISH         "Find Dr. Morales"
-
-REFERENCE            find_nodes_0
-LANG_ENGLISH         "Find three unsecured computers (0/3)"
-
-REFERENCE            find_nodes_1
-LANG_ENGLISH         "Find three unsecured computers (1/3)"
-
-REFERENCE            find_nodes_2
-LANG_ENGLISH         "Find three unsecured computers (2/3)"
-
-REFERENCE            get_up_seat
-LANG_ENGLISH         "Press to get up from the passenger seat"
-
-REFERENCE            goto_suv
-LANG_ENGLISH         "Get back in the Humvee"
-
-REFERENCE            grab_nuke
-LANG_ENGLISH         "Grab the Plutonium Core"
-
-REFERENCE            hack_in_progress_1
-LANG_ENGLISH         "Hacking ( x1 )"
-
-REFERENCE            hack_in_progress_2
-LANG_ENGLISH         "Hacking ( x2 )"
-
-REFERENCE            hack_in_progress_3
-LANG_ENGLISH         "Hacking ( x3 )"
-
-REFERENCE            hack_in_progress_4
-LANG_ENGLISH         "Hacking ( x4 )"
-
-REFERENCE            hack_radar
-LANG_ENGLISH         "Press to hack the laptop in order to force the C-130 to land"
-
-REFERENCE            hacking_paused
-LANG_ENGLISH         "Hacking Paused"
-
-REFERENCE            heli_distress
-LANG_ENGLISH         "Helicopter in distress."
-
-REFERENCE            hostage_drop
-LANG_ENGLISH         "Drop hostage"
-
-REFERENCE            hvt
-LANG_ENGLISH         "HVI"
-
-REFERENCE            hvt_pickup
-LANG_ENGLISH         "Pick up the Pilot"
-
-REFERENCE            ied_field
-LANG_ENGLISH         "Get past the IED field"
-
-REFERENCE            ied_road_objective
-LANG_ENGLISH         "Drive past the IED minefield."
-
-REFERENCE            infil_plane
-LANG_ENGLISH         "Grab a seat on the C-130"
-
-REFERENCE            injured_pilot
-LANG_ENGLISH         "Injured Pilot"
-
-REFERENCE            insert_keycard
-LANG_ENGLISH         "Press to insert the C-130 Controller Keycard into the Laptop"
-
-REFERENCE            jammers
-LANG_ENGLISH         "Locate & Hack the Laptop to establish communication with the C-130"
-
-REFERENCE            land_lz
-LANG_ENGLISH         "Land at the LZ Point"
-
-REFERENCE            load_vip
-LANG_ENGLISH         "Load the Pilot"
-
-REFERENCE            locate_pilot
-LANG_ENGLISH         "Locate the Pilot"
-
-REFERENCE            morales_1
-LANG_ENGLISH         "Infiltrate the safehouse and rescue Dr. Morales"
-
-REFERENCE            morales_2
-LANG_ENGLISH         "Hack the laptop to discover Dr. Morales' location."
-
-REFERENCE            morales_3
-LANG_ENGLISH         "Rescue Dr. Morales."
-
-REFERENCE            morales_4
-LANG_ENGLISH         "Move towards the exfil LZ."
-
-REFERENCE            morales_5
-LANG_ENGLISH         "Defend yourself and Dr. Morales until rescue arrives."
-
-REFERENCE            morales_6
-LANG_ENGLISH         "Exfil Dr. Morales"
-
-REFERENCE            morales_drop
-LANG_ENGLISH         "Bring Dr. Morales to the helicopter."
-
-REFERENCE            morales_drop_morales
-LANG_ENGLISH         "Bring Morales under the nearby tower."
-
-REFERENCE            morales_title
-LANG_ENGLISH         "Civilian Rescue"
-
-REFERENCE            move_lz
-LANG_ENGLISH         "Move towards the LZ"
-
-REFERENCE            need_sandstorm
-LANG_ENGLISH         "Wait till the Sandstorm is active before equipping a disguise"
-
-REFERENCE            obj_rescue_pilot
-LANG_ENGLISH         "Rescue the Pilot"
-
-REFERENCE            open_airlock_door
-LANG_ENGLISH         "Press to open the Nuclear Core Locker"
-
-REFERENCE            panhack_in_progress_1
-LANG_ENGLISH         "Worm Uploading ( x1 )"
-
-REFERENCE            panhack_in_progress_2
-LANG_ENGLISH         "Worm Uploading ( x2 )"
-
-REFERENCE            panhack_in_progress_3
-LANG_ENGLISH         "Worm Uploading ( x3 )"
-
-REFERENCE            panhack_in_progress_4
-LANG_ENGLISH         "Worm Uploading ( x4 )"
-
-REFERENCE            panhacking_paused
-LANG_ENGLISH         "Upload Paused"
-
-REFERENCE            pick_hostage
-LANG_ENGLISH         "Pick up Hostage."
-
-REFERENCE            pick_keycard
-LANG_ENGLISH         "Press to pick the C-130 Controller Keycard"
-
-REFERENCE            pick_morales
-LANG_ENGLISH         "Pick up Dr. Morales"
-
-REFERENCE            pickup_nuclear_core
-LANG_ENGLISH         "Disarm and equip Nuclear Core"
-
-REFERENCE            pilot_drop
-LANG_ENGLISH         "Drop the Pilot"
-
-REFERENCE            pilot_health
-LANG_ENGLISH         "Pilot Health"
-
-REFERENCE            pre_multihack
-LANG_ENGLISH         "Download intel from secured server"
-
-REFERENCE            quarry_defense
-LANG_ENGLISH         "Defend the signaled spot in the Quarry."
-
-REFERENCE            relic_landlocked_msg
-LANG_ENGLISH         "Outside of Hack Boundaries!"
-
-REFERENCE            relic_squadlink_far
-LANG_ENGLISH         "You're too far from your team"
-
-REFERENCE            remove_pilot
-LANG_ENGLISH         "Remove pilot from cockpit"
-
-REFERENCE            rescue_pilot
-LANG_ENGLISH         "Rescue pilot"
-
-REFERENCE            sandstorm
-LANG_ENGLISH         "Survive the Sandstorm"
-
-REFERENCE            set_signal
-LANG_ENGLISH         "Throw down a signal"
+REFERENCE            shoot_threat2
+LANG_ENGLISH         "^2Pilot: ^7Don't listen to him! Take him out now!! Don't worry about me!"
 
 REFERENCE            shoot_threat
 LANG_ENGLISH         "^1Enemy: ^7 STOP! Don't come closer or I'll shoot him!!
 "
 
-REFERENCE            shoot_threat2
-LANG_ENGLISH         "^2Pilot: ^7Don't listen to him! Take him out now!! Don't worry about me!"
+REFERENCE            set_signal
+LANG_ENGLISH         "Throw down a signal"
 
-REFERENCE            shoot_threat3
-LANG_ENGLISH         "^1Enemy: ^7I warned you!"
+REFERENCE            sandstorm
+LANG_ENGLISH         "Survive the Sandstorm"
 
-REFERENCE            signal_exfil
-LANG_ENGLISH         "Signal an exfil"
+REFERENCE            rescue_pilot
+LANG_ENGLISH         "Rescue pilot"
 
-REFERENCE            stop_obj_rescue_pilot
-LANG_ENGLISH         "^1STOP THEM FROM RESCUING THE PILOT"
+REFERENCE            remove_pilot
+LANG_ENGLISH         "Remove pilot from cockpit"
 
-REFERENCE            store_front
-LANG_ENGLISH         "Enemy Lieutenant"
+REFERENCE            relic_squadlink_far
+LANG_ENGLISH         "You're too far from your team"
 
-REFERENCE            tmtyl_desc
-LANG_ENGLISH         "Interrogate the officers in three enemy squads."
+REFERENCE            relic_landlocked_msg
+LANG_ENGLISH         "Outside of Hack Boundaries!"
 
-REFERENCE            use_vip
-LANG_ENGLISH         "Escort the Pilot"
+REFERENCE            quarry_defense
+LANG_ENGLISH         "Defend the signaled spot in the Quarry."
 
-REFERENCE            weapons_free
-LANG_ENGLISH         "Price: Weapons Free. Eliminate all the Terrorists. Remember, No American."
+REFERENCE            pre_multihack
+LANG_ENGLISH         "Download intel from secured server"
+
+REFERENCE            pilot_health
+LANG_ENGLISH         "Pilot Health"
+
+REFERENCE            pilot_drop
+LANG_ENGLISH         "Drop the Pilot"
+
+REFERENCE            pickup_nuclear_core
+LANG_ENGLISH         "Disarm and equip Nuclear Core"
+
+REFERENCE            pick_morales
+LANG_ENGLISH         "Pick up Dr. Morales"
+
+REFERENCE            pick_keycard
+LANG_ENGLISH         "Press to pick the C-130 Controller Keycard"
+
+REFERENCE            pick_hostage
+LANG_ENGLISH         "Pick up Hostage."
+
+REFERENCE            panhacking_paused
+LANG_ENGLISH         "Upload Paused"
+
+REFERENCE            panhack_in_progress_4
+LANG_ENGLISH         "Worm Uploading ( x4 )"
+
+REFERENCE            panhack_in_progress_3
+LANG_ENGLISH         "Worm Uploading ( x3 )"
+
+REFERENCE            panhack_in_progress_2
+LANG_ENGLISH         "Worm Uploading ( x2 )"
+
+REFERENCE            panhack_in_progress_1
+LANG_ENGLISH         "Worm Uploading ( x1 )"
+
+REFERENCE            open_airlock_door
+LANG_ENGLISH         "Press to open the Nuclear Core Locker"
+
+REFERENCE            obj_rescue_pilot
+LANG_ENGLISH         "Rescue the Pilot"
+
+REFERENCE            need_sandstorm
+LANG_ENGLISH         "Wait till the Sandstorm is active before equipping a disguise"
+
+REFERENCE            move_lz
+LANG_ENGLISH         "Move towards the LZ"
+
+REFERENCE            morales_title
+LANG_ENGLISH         "Civilian Rescue"
+
+REFERENCE            morales_drop_morales
+LANG_ENGLISH         "Bring Morales under the nearby tower."
+
+REFERENCE            morales_drop
+LANG_ENGLISH         "Bring Dr. Morales to the helicopter."
+
+REFERENCE            morales_6
+LANG_ENGLISH         "Exfil Dr. Morales"
+
+REFERENCE            morales_5
+LANG_ENGLISH         "Defend yourself and Dr. Morales until rescue arrives."
+
+REFERENCE            morales_4
+LANG_ENGLISH         "Move towards the exfil LZ."
+
+REFERENCE            morales_3
+LANG_ENGLISH         "Rescue Dr. Morales."
+
+REFERENCE            morales_2
+LANG_ENGLISH         "Hack the laptop to discover Dr. Morales' location."
+
+REFERENCE            morales_1
+LANG_ENGLISH         "Infiltrate the safehouse and rescue Dr. Morales"
+
+REFERENCE            locate_pilot
+LANG_ENGLISH         "Locate the Pilot"
+
+REFERENCE            load_vip
+LANG_ENGLISH         "Load the Pilot"
+
+REFERENCE            land_lz
+LANG_ENGLISH         "Land at the LZ Point"
+
+REFERENCE            jammers
+LANG_ENGLISH         "Locate & Hack the Laptop to establish communication with the C-130"
+
+REFERENCE            insert_keycard
+LANG_ENGLISH         "Press to insert the C-130 Controller Keycard into the Laptop"
+
+REFERENCE            injured_pilot
+LANG_ENGLISH         "Injured Pilot"
+
+REFERENCE            infil_plane
+LANG_ENGLISH         "Grab a seat on the C-130"
+
+REFERENCE            ied_road_objective
+LANG_ENGLISH         "Drive past the IED minefield."
+
+REFERENCE            ied_field
+LANG_ENGLISH         "Get past the IED field"
+
+REFERENCE            hvt_pickup
+LANG_ENGLISH         "Pick up the Pilot"
+
+REFERENCE            hvt
+LANG_ENGLISH         "HVI"
+
+REFERENCE            hostage_drop
+LANG_ENGLISH         "Drop hostage"
+
+REFERENCE            heli_distress
+LANG_ENGLISH         "Helicopter in distress."
+
+REFERENCE            hacking_paused
+LANG_ENGLISH         "Hacking Paused"
+
+REFERENCE            hack_radar
+LANG_ENGLISH         "Press to hack the laptop in order to force the C-130 to land"
+
+REFERENCE            hack_in_progress_4
+LANG_ENGLISH         "Hacking ( x4 )"
+
+REFERENCE            hack_in_progress_3
+LANG_ENGLISH         "Hacking ( x3 )"
+
+REFERENCE            hack_in_progress_2
+LANG_ENGLISH         "Hacking ( x2 )"
+
+REFERENCE            hack_in_progress_1
+LANG_ENGLISH         "Hacking ( x1 )"
+
+REFERENCE            grab_nuke
+LANG_ENGLISH         "Grab the Plutonium Core"
+
+REFERENCE            goto_suv
+LANG_ENGLISH         "Get back in the Humvee"
+
+REFERENCE            get_up_seat
+LANG_ENGLISH         "Press to get up from the passenger seat"
+
+REFERENCE            find_nodes_2
+LANG_ENGLISH         "Find three unsecured computers (2/3)"
+
+REFERENCE            find_nodes_1
+LANG_ENGLISH         "Find three unsecured computers (1/3)"
+
+REFERENCE            find_nodes_0
+LANG_ENGLISH         "Find three unsecured computers (0/3)"
+
+REFERENCE            find_morales
+LANG_ENGLISH         "Find Dr. Morales"
+
+REFERENCE            extract_core
+LANG_ENGLISH         "Extract Plutonium Core"
+
+REFERENCE            exit_plane
+LANG_ENGLISH         "Escape from the C130 Transport"
+
+REFERENCE            exit_c130_condition
+LANG_ENGLISH         "You need all player(s) near the breach charge to Exit the C130"
+
+REFERENCE            exfil_pilot
+LANG_ENGLISH         "Exfil Pilot"
+
+REFERENCE            exfil_objective
+LANG_ENGLISH         "Call for a helicopter exfil."
+
+REFERENCE            exfil_morales
+LANG_ENGLISH         "Exfil Dr. Morales"
+
+REFERENCE            exfil_enroute
+LANG_ENGLISH         "Exfil on the way"
+
+REFERENCE            examine_laptop
+LANG_ENGLISH         "Press to examine laptop"
+
+REFERENCE            escape_c130
+LANG_ENGLISH         "Press to escape the C130"
+
+REFERENCE            equip_disguise_early
+LANG_ENGLISH         "Press to equip the Al-Qatala Disguise"
+
+REFERENCE            equip_disguise
+LANG_ENGLISH         "Locate and Equip the Al-Qatala Disguise"
+
+REFERENCE            enter_vehicle_with_hostage
+LANG_ENGLISH         "Enter vehicle"
+
+REFERENCE            drop_hostage
+LANG_ENGLISH         "Drop the HVT"
+
+REFERENCE            dont_kill
+LANG_ENGLISH         "Do not Kill"
+
+REFERENCE            disguise_marker
+LANG_ENGLISH         "Grab the Disguise"
+
+REFERENCE            disguise
+LANG_ENGLISH         "Equip Al-Qatala Disguise"
+
+REFERENCE            destroy_c130_plane
+LANG_ENGLISH         "Destroy the C-130 Transport Plane"
+
+REFERENCE            destroy_c130
+LANG_ENGLISH         "Destroy the C-130 & Recover the Nuclear Core"
+
+REFERENCE            deploy_parachute
+LANG_ENGLISH         "[{+gostand}] Deploy Parachute"
+
+REFERENCE            defend_pos
+LANG_ENGLISH         "Defend your position"
+
+REFERENCE            defend_dl_2
+LANG_ENGLISH         "Defend until the download completes"
+
+REFERENCE            defend_dl_1
+LANG_ENGLISH         "Begin the intel download"
+
+REFERENCE            cut_pilot_obj
+LANG_ENGLISH         "Cut Door"
+
+REFERENCE            cut_pilot
+LANG_ENGLISH         "Open cockpit door"
+
+REFERENCE            cut_hint
+LANG_ENGLISH         "Cut the door"
+
+REFERENCE            cp_br_syrk_objectivespilot_drop
+LANG_ENGLISH         "Stop escorting"
+
+REFERENCE            close_airlock_door
+LANG_ENGLISH         "Press to close the Airlock Door"
+
+REFERENCE            blow_up_door
+LANG_ENGLISH         "Press to breach the C-130 door"
+
+REFERENCE            begin_download
+LANG_ENGLISH         "Press to begin download"
+
+REFERENCE            be_seated
+LANG_ENGLISH         "Sit"
+
+REFERENCE            armsrace_title
+LANG_ENGLISH         "Arms Race"
+
+REFERENCE            armsrace_desc1
+LANG_ENGLISH         "Defend the area around the arms cache."
+
+REFERENCE            armsrace_cache
+LANG_ENGLISH         "Arms Cache"
 
 
 ENDMARKER

@@ -1,5 +1,0 @@
-inherit,mp/loot_set_cache_contents_base_classic.csv,,,,,,,,
-req,,weapon,1,,,1,,# 1 uncommon weapon+,
-req,,ammo,1,,,,,# 1 ammo,
-req,,,1,,,,,# 1 item of any type, any rarity,
-req,,,1,,,,,# 1 item of any type, any rarity,

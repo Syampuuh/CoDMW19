@@ -8,6 +8,12 @@ LANG_ENGLISH         "All"
 REFERENCE            both
 LANG_ENGLISH         "Both"
 
+REFERENCE            color_represent
+LANG_ENGLISH         "Match Indicators colors represent ^5Ally, Blue Team, Contested, Red Team, Enemy, You and Party."
+
+REFERENCE            colorblind_swatches
+LANG_ENGLISH         "Interface Swatches"
+
 REFERENCE            compass_cardinal_direction_style
 LANG_ENGLISH         "Compass Cardinal Direction Text"
 
@@ -26,6 +32,9 @@ LANG_ENGLISH         "Interface"
 
 REFERENCE            letters
 LANG_ENGLISH         "Letters"
+
+REFERENCE            match_indicators
+LANG_ENGLISH         "Match Indicators"
 
 REFERENCE            minimap_circle
 LANG_ENGLISH         "Round"
@@ -74,6 +83,9 @@ LANG_ENGLISH         "Improve the experience for players having weakness/blindne
 
 REFERENCE            ui
 LANG_ENGLISH         "UI"
+
+REFERENCE            warzone_squad
+LANG_ENGLISH         "Warzone Squad"
 
 REFERENCE            world
 LANG_ENGLISH         "World"

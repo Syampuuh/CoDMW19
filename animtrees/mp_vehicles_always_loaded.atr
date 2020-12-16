@@ -24,6 +24,8 @@ mp_infil_blima_heli_mpaniyah_tactical_alpha
 mp_infil_blima_heli_mpaniyah_tactical_bravo
 mp_infil_blima_heli_mpharbor_alpha
 mp_infil_blima_heli_mpharbor_bravo
+mp_infil_blima_heli_mp_herat_alpha
+mp_infil_blima_heli_mp_herat_bravo
 mp_infil_act_blima_heli
 mp_infil_act_blima_b_heli
 mp_heli_figure_8_test
@@ -62,6 +64,10 @@ mp_infil_lbravo_a_heli_quarry_east
 mp_infil_lbravo_b_heli_quarry_east
 mp_infil_lbravo_a_heli_quarry_west
 mp_infil_lbravo_b_heli_quarry_west
+mp_infil_lbravo_a_heli_riverside_coalition
+mp_infil_lbravo_b_heli_riverside_coalition					
+mp_infil_lbravo_a_heli_riverside_allegiance
+mp_infil_lbravo_b_heli_riverside_allegiance
 mp_infil_tango72_a_veh_intro
 mp_infil_tango72_b_veh_intro
 mp_infil_umike_vehicle_tailgate
@@ -80,6 +86,10 @@ mp_infil_mi8_b_heli_port_east
 mp_infil_mi8_a_heli_port_west
 mp_infil_mi8_a1_heli_port_west
 mp_infil_mi8_b_heli_port_west
+mp_infil_mi8_a_heli_riverside_coalition
+mp_infil_mi8_b_heli_riverside_coalition
+mp_infil_mi8_a_heli_riverside_allegiance
+mp_infil_mi8_b_heli_riverside_allegiance
 
 //KILLSTREAKS  ----------------------------------------
 // Chopper Gunner
@@ -107,6 +117,10 @@ mp_carepackage_lbravo_flyin
 
 // light tank entrance
 mp_bromeo_drop_bromeo
+
+// truck wars
+mp_mkilo23_gunner_drop_mkilo23
+mp_mkilo23_gunner_drop_mkilo23_trimmed
 
 //decho hvt anims
 sdr_cp_hostage_dropoff_truck_decho

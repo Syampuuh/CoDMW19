@@ -2,266 +2,374 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            apc
+REFERENCE            vehicle_select
+LANG_ENGLISH         "Vehicle Select"
+
+REFERENCE            vehicle_horn_toccata
+LANG_ENGLISH         "Toccata and Fugue in D minor"
+
+REFERENCE            vehicle_horn_symphonyno5
+LANG_ENGLISH         "Symphony No. 5"
+
+REFERENCE            vehicle_horn_mountainking
+LANG_ENGLISH         "In the Hall of the Mountain King"
+
+REFERENCE            vehicle_horn_mars
+LANG_ENGLISH         "Mars"
+
+REFERENCE            vehicle_horn_entertainer
+LANG_ENGLISH         "The Entertainer"
+
+REFERENCE            vehicle_horn_baldmountain
+LANG_ENGLISH         "Night on Bald Mountain"
+
+REFERENCE            vehicle_horn_1812_overture
+LANG_ENGLISH         "1812 Overture"
+
+REFERENCE            vehicle_customization_disable
+LANG_ENGLISH         "Vehicle Customization Disabled"
+
+REFERENCE            vehicle_customization_desc
+LANG_ENGLISH         "Personalize your Vehicles."
+
+REFERENCE            vehicle_customization
+LANG_ENGLISH         "Vehicle Customization"
+
+REFERENCE            veh_track_016
+LANG_ENGLISH         "Ti??sto & SWACQ - Party Time"
+
+REFERENCE            veh_track_015
+LANG_ENGLISH         "Clipse - Grindin'"
+
+REFERENCE            veh_track_014
+LANG_ENGLISH         "DMX - Ruff Ryders' Anthem"
+
+REFERENCE            veh_track_013
+LANG_ENGLISH         "Jack Harlow - WHAT???S POPPIN"
+
+REFERENCE            veh_track_012
+LANG_ENGLISH         "Skrillex - Scary Monsters and Nice Sprites"
+
+REFERENCE            veh_track_011
+LANG_ENGLISH         "Skrillex - Bangarang (feat. Sirah)"
+
+REFERENCE            veh_track_010
+LANG_ENGLISH         "BO4 - Inferno"
+
+REFERENCE            veh_track_009
+LANG_ENGLISH         "BO3 - Ignition"
+
+REFERENCE            veh_track_008
+LANG_ENGLISH         "BO2 - Adrenaline"
+
+REFERENCE            veh_track_007
+LANG_ENGLISH         "BO1 - Pentagon"
+
+REFERENCE            veh_track_006
+LANG_ENGLISH         "MW3 - Enter Dubai"
+
+REFERENCE            veh_track_005
+LANG_ENGLISH         "MW2 - Extraction Point"
+
+REFERENCE            veh_track_004
+LANG_ENGLISH         "MW1 - Bog Tank Defense"
+
+REFERENCE            veh_track_003
+LANG_ENGLISH         "Heavy Weaponry"
+
+REFERENCE            veh_track_002
+LANG_ENGLISH         "Brass Crown"
+
+REFERENCE            veh_track_001
+LANG_ENGLISH         "Sepulchre"
+
+REFERENCE            veh_horn_zarathustra
+LANG_ENGLISH         "Also sprach Zarathustra"
+
+REFERENCE            veh_horn_williamtell
+LANG_ENGLISH         "William Tell Overture"
+
+REFERENCE            veh_horn_vuvuzela
+LANG_ENGLISH         "Vuvuzela"
+
+REFERENCE            veh_horn_start_your_engines
+LANG_ENGLISH         "Start Your Engines"
+
+REFERENCE            veh_horn_stars_and_stripes
+LANG_ENGLISH         "Stars and Stripes Forever"
+
+REFERENCE            veh_horn_ride_of_the_valkyries
+LANG_ENGLISH         "Ride of the Valkyries"
+
+REFERENCE            veh_horn_race_countdown
+LANG_ENGLISH         "Start Your Engines"
+
+REFERENCE            veh_horn_pitfall
+LANG_ENGLISH         "Pitfall"
+
+REFERENCE            veh_horn_oldtimehorn
+LANG_ENGLISH         "Old Time Horn"
+
+REFERENCE            veh_horn_locked
+LANG_ENGLISH         "Locked"
+
+REFERENCE            veh_horn_la_cucaracha
+LANG_ENGLISH         "La Cucaracha"
+
+REFERENCE            veh_horn_horrorpig
+LANG_ENGLISH         "The Squealer"
+
+REFERENCE            veh_horn_hockeygoal
+LANG_ENGLISH         "He Shoots, He Scores!"
+
+REFERENCE            veh_horn_firetruck
+LANG_ENGLISH         "Firetruck Horn"
+
+REFERENCE            veh_horn_default
+LANG_ENGLISH         "Default"
+
+REFERENCE            veh_horn_clown
+LANG_ENGLISH         "Clowning Around"
+
+REFERENCE            veh_horn_charge
+LANG_ENGLISH         "Charge!"
+
+REFERENCE            veh_horn_carmen
+LANG_ENGLISH         "Carmen - Habanera"
+
+REFERENCE            veh_horn_bumblebee
+LANG_ENGLISH         "Flight of the Bumblebee"
+
+REFERENCE            veh_horn_basketballbuzzer
+LANG_ENGLISH         "Basketball Buzzer"
+
+REFERENCE            veh_bt_tac_rover_track_3
+LANG_ENGLISH         "Tac Rover Track 3"
+
+REFERENCE            veh_bt_tac_rover_track_2
+LANG_ENGLISH         "Tac Rover Track 2"
+
+REFERENCE            veh_bt_tac_rover_track_1
+LANG_ENGLISH         "Tac Rover Track 1"
+
+REFERENCE            veh_bt_little_bird_track_3
+LANG_ENGLISH         "Little Bird Track 3"
+
+REFERENCE            veh_bt_little_bird_track_2
+LANG_ENGLISH         "Little Bird Track 2"
+
+REFERENCE            veh_bt_little_bird_track_1
+LANG_ENGLISH         "Little Bird Track 1"
+
+REFERENCE            veh_bt_jeep_track_3
+LANG_ENGLISH         "Jeep Track 3"
+
+REFERENCE            veh_bt_jeep_track_2
+LANG_ENGLISH         "Jeep Track 2"
+
+REFERENCE            veh_bt_jeep_track_1
+LANG_ENGLISH         "Jeep Track 1"
+
+REFERENCE            veh_bt_cargo_truck_track_3
+LANG_ENGLISH         "Cargo Truck Track 3"
+
+REFERENCE            veh_bt_cargo_truck_track_2
+LANG_ENGLISH         "Cargo Truck Track 2"
+
+REFERENCE            veh_bt_cargo_truck_track_1
+LANG_ENGLISH         "Cargo Truck Track 1"
+
+REFERENCE            van
+LANG_ENGLISH         "Van"
+
+REFERENCE            train
+LANG_ENGLISH         "Train"
+
+REFERENCE            toggle_on_track_name
+LANG_ENGLISH         "Play: &&1"
+
+REFERENCE            toggle_on_track
+LANG_ENGLISH         "Play"
+
+REFERENCE            toggle_off_track_name
+LANG_ENGLISH         "Stop: &&1"
+
+REFERENCE            toggle_off_track
+LANG_ENGLISH         "Stop"
+
+REFERENCE            technical
+LANG_ENGLISH         "Technical Truck"
+
+REFERENCE            tac_rover_desc
+LANG_ENGLISH         "The pinnacle of ultra-light tactical off-road vehicles, allowing rapid personnel deployment for squads of up to four. Go deep and hard in the most rugged and austere environments with world-class mobility and versatility."
+
+REFERENCE            tac_rover_camo_12_flavor
+LANG_ENGLISH         "Hunt down your marque with the From the Pit Tac Rover Skin."
+
+REFERENCE            tac_rover
+LANG_ENGLISH         "Tac Rover"
+
+REFERENCE            skins_locked
+LANG_ENGLISH         "Earn a skin for the ^5&&1 ^7to unlock this category"
+
+REFERENCE            seat_switch_too_soon
+LANG_ENGLISH         "Too Soon To Switch Seats"
+
+REFERENCE            seat_switch_occupied
+LANG_ENGLISH         "All Seats Are Occupied"
+
+REFERENCE            rap_pack
+LANG_ENGLISH         "War Track Pack - Hip Hop Edition"
+
+REFERENCE            plunder_extraction_chopper
+LANG_ENGLISH         "Cash Deposit Heli"
+
+REFERENCE            pickup_truck
+LANG_ENGLISH         "Pickup Truck"
+
+REFERENCE            mw_pack
+LANG_ENGLISH         "MW War Track Pack"
+
+REFERENCE            med_transport
+LANG_ENGLISH         "Medical Transport"
+
+REFERENCE            loot_chopper
+LANG_ENGLISH         "Attack Chopper"
+
+REFERENCE            locked_text
+LANG_ENGLISH         "Earn loot for the ^5&&1 ^7to unlock this category"
+
+REFERENCE            little_bird_desc
+LANG_ENGLISH         "An extremely capable helicopter equipped with a personnel platform for quick troop insertion and extraction scenarios. Available countermeasure flares for incoming surface-to-air or air-to-air missiles, combined with a very survivable design, make this a highly sought-after aircraft."
+
+REFERENCE            little_bird_camo_017
+LANG_ENGLISH         "LITTLE_BIRD_CAMO_017"
+
+REFERENCE            little_bird_camo_01
+LANG_ENGLISH         "They will be green with envy when they see your Goblin Heli Skin."
+
+REFERENCE            little_bird
+LANG_ENGLISH         "Heli"
+
+REFERENCE            light_tank_west
+LANG_ENGLISH         "IAV (Coalition)"
+
+REFERENCE            light_tank_east
+LANG_ENGLISH         "IAV (Allegiance)"
+
+REFERENCE            light_tank_desc
+LANG_ENGLISH         "A two-man crew can go on the attack with the Infantry Assault Vehicle, rout enemies with its 30mm cannon or engage enemy armor with Anti-Tank Missile. A second crew member can man the light machine gun from the top firing position."
+
+REFERENCE            light_tank
+LANG_ENGLISH         "Light Tank"
+
+REFERENCE            large_transport
+LANG_ENGLISH         "Personel Transport"
+
+REFERENCE            juggernaut_pack
+LANG_ENGLISH         "Juggernaut Pack"
+
+REFERENCE            jeep_desc
+LANG_ENGLISH         "Built and designed without compromise, a spacious interior allows for crew transportation to even the most remote corners of the map. Confident on- or off-road, with the durability to tackle the most extreme of challenges, the SUV can take a beating and keep on ticking."
+
+REFERENCE            jeep_camo_08_flavor
+LANG_ENGLISH         "Where you're headed, there are no roads. The Warzone Express SUV Skin."
+
+REFERENCE            jeep
+LANG_ENGLISH         "SUV"
+
+REFERENCE            horns
+LANG_ENGLISH         "Horns"
+
+REFERENCE            hoopty_truck
+LANG_ENGLISH         "Box Truck"
+
+REFERENCE            hoopty
+LANG_ENGLISH         "Hoopty"
+
+REFERENCE            equipped_skin1
+LANG_ENGLISH         "Skin:"
+
+REFERENCE            equipped_skin
+LANG_ENGLISH         "Skin: &&1"
+
+REFERENCE            equipped_horn1
+LANG_ENGLISH         "Horn:"
+
+REFERENCE            equipped_horn
+LANG_ENGLISH         "Horn: &&1"
+
+REFERENCE            equipped_battle_track
+LANG_ENGLISH         "War track:"
+
+REFERENCE            edm_pack
+LANG_ENGLISH         "War Track Pack - EDM Edition"
+
+REFERENCE            customize_name
+LANG_ENGLISH         "Customize &&1"
+
+REFERENCE            cop_car
+LANG_ENGLISH         "Police Car"
+
+REFERENCE            cargo_truck_mg
+LANG_ENGLISH         "Armored Vehicle"
+
+REFERENCE            cargo_truck_desc
+LANG_ENGLISH         "Durable and reliable with tried and true components, the 6x6 cargo truck is provisioned with horsepower for days. Ensuring you and your precious cargo can perform at a top level for every mission thrown your way. Free-roaming capability for the troops in the cargo bed means you can bring the fight with you wherever you go."
+
+REFERENCE            cargo_truck_camo_11_flavor
+LANG_ENGLISH         "Shift your squad. Or run theirs over. This is the Blue Ridge Racer Cargo Truck Skin."
+
+REFERENCE            cargo_truck
+LANG_ENGLISH         "Cargo Truck"
+
+REFERENCE            cannot_exit
+LANG_ENGLISH         "Cannot Exit Here"
+
+REFERENCE            bo_pack
+LANG_ENGLISH         "Black Ops War Track Pack"
+
+REFERENCE            big_bird
+LANG_ENGLISH         "Big Bird"
+
+REFERENCE            battle_tracks
+LANG_ENGLISH         "War Tracks"
+
+REFERENCE            atv_desc
+LANG_ENGLISH         "Take charge with rough and ready capability delivered with plenty of low-rpm torque and power. Top-tier rack capacity offers an impressive payload capability: hold 'er wide and send it."
+
+REFERENCE            atv_camo_20_flavor
+LANG_ENGLISH         "They'll be cruisin' for a bruisin' when you roll with the Big Sky Country ATV Skin."
+
+REFERENCE            atv
+LANG_ENGLISH         "ATV"
+
+REFERENCE            attribute_tire_trail_tesla
+LANG_ENGLISH         "Electric Trail Effect"
+
+REFERENCE            attribute_tire_trail_flame
+LANG_ENGLISH         "Flame Trail Effect"
+
+REFERENCE            attribute_tail_light_tracer_red
+LANG_ENGLISH         "Red Tail Light Tracer Effect"
+
+REFERENCE            attribute_smoke
+LANG_ENGLISH         "Smoke Effect"
+
+REFERENCE            attribute_flight_trail_standard
+LANG_ENGLISH         "Flight Trail Effect"
+
+REFERENCE            attribute_flight_trail_shadow
+LANG_ENGLISH         "Shadow Trail Effect"
+
+REFERENCE            apc_rus
 LANG_ENGLISH         "APC"
 
 REFERENCE            apc_desc
 LANG_ENGLISH         "Equipped with a 6x6 drivetrain and the ability to haul up to 6 soldiers across the battlefield. This Armored Personnel Carrier comes with a 25mm cannon firing explosive rounds. Rapid availability to replenish troops in an ever-evolving ground war makes this vehicle the tactical choice for taking your objective."
 
-REFERENCE            apc_rus
+REFERENCE            apc
 LANG_ENGLISH         "APC"
-
-REFERENCE            atv
-LANG_ENGLISH         "ATV"
-
-REFERENCE            atv_camo_20_flavor
-LANG_ENGLISH         "They'll be cruisin' for a bruisin' when you roll with the Big Sky Country ATV Skin."
-
-REFERENCE            atv_desc
-LANG_ENGLISH         "Take charge with rough and ready capability delivered with plenty of low-rpm torque and power. Top-tier rack capacity offers an impressive payload capability: hold 'er wide and send it."
-
-REFERENCE            battle_tracks
-LANG_ENGLISH         "War Tracks"
-
-REFERENCE            big_bird
-LANG_ENGLISH         "Big Bird"
-
-REFERENCE            cannot_exit
-LANG_ENGLISH         "Cannot Exit Here"
-
-REFERENCE            cargo_truck
-LANG_ENGLISH         "Cargo Truck"
-
-REFERENCE            cargo_truck_camo_11_flavor
-LANG_ENGLISH         "Shift your squad. Or run theirs over. This is the Blue Ridge Racer Vehicle Skin."
-
-REFERENCE            cargo_truck_desc
-LANG_ENGLISH         "Durable and reliable with tried and true components, the 6x6 cargo truck is provisioned with horsepower for days. Ensuring you and your precious cargo can perform at a top level for every mission thrown your way. Free-roaming capability for the troops in the cargo bed means you can bring the fight with you wherever you go."
-
-REFERENCE            cop_car
-LANG_ENGLISH         "Police Car"
-
-REFERENCE            customize_name
-LANG_ENGLISH         "Customize &&1"
-
-REFERENCE            equipped_battle_track
-LANG_ENGLISH         "War track:"
-
-REFERENCE            equipped_horn
-LANG_ENGLISH         "Horn: &&1"
-
-REFERENCE            equipped_horn1
-LANG_ENGLISH         "Horn:"
-
-REFERENCE            equipped_skin
-LANG_ENGLISH         "Skin: &&1"
-
-REFERENCE            equipped_skin1
-LANG_ENGLISH         "Skin:"
-
-REFERENCE            hoopty
-LANG_ENGLISH         "Hoopty"
-
-REFERENCE            hoopty_truck
-LANG_ENGLISH         "Box Truck"
-
-REFERENCE            horns
-LANG_ENGLISH         "Horns"
-
-REFERENCE            jeep
-LANG_ENGLISH         "SUV"
-
-REFERENCE            jeep_camo_08_flavor
-LANG_ENGLISH         "Where you're headed, there are no roads. The Warzone Express SUV Skin."
-
-REFERENCE            jeep_desc
-LANG_ENGLISH         "Built and designed without compromise, a spacious interior allows for crew transportation to even the most remote corners of the map. Confident on- or off-road, with the durability to tackle the most extreme of challenges, the SUV can take a beating and keep on ticking."
-
-REFERENCE            juggernaut_pack
-LANG_ENGLISH         "Juggernaut pack"
-
-REFERENCE            large_transport
-LANG_ENGLISH         "Personel Transport"
-
-REFERENCE            light_tank
-LANG_ENGLISH         "Light Tank"
-
-REFERENCE            light_tank_desc
-LANG_ENGLISH         "A two-man crew can go on the attack with the Infantry Assault Vehicle, rout enemies with its 30mm cannon or engage enemy armor with Anti-Tank Missile. A second crew member can man the light machine gun from the top firing position."
-
-REFERENCE            light_tank_east
-LANG_ENGLISH         "IAV (Allegiance)"
-
-REFERENCE            light_tank_west
-LANG_ENGLISH         "IAV (Coalition)"
-
-REFERENCE            little_bird
-LANG_ENGLISH         "Heli"
-
-REFERENCE            little_bird_camo_01
-LANG_ENGLISH         "They will be green with envy when they see your Goblin Vehicle Skin."
-
-REFERENCE            little_bird_camo_017
-LANG_ENGLISH         "LITTLE_BIRD_CAMO_017"
-
-REFERENCE            little_bird_desc
-LANG_ENGLISH         "An extremely capable helicopter equipped with a personnel platform for quick troop insertion and extraction scenarios. Available countermeasure flares for incoming surface-to-air or air-to-air missiles, combined with a very survivable design, make this a highly sought-after aircraft."
-
-REFERENCE            locked_text
-LANG_ENGLISH         "Earn loot for the ^5&&1 ^7to unlock this category"
-
-REFERENCE            loot_chopper
-LANG_ENGLISH         "Attack Chopper"
-
-REFERENCE            med_transport
-LANG_ENGLISH         "Medical Transport"
-
-REFERENCE            pickup_truck
-LANG_ENGLISH         "Pickup Truck"
-
-REFERENCE            seat_switch_occupied
-LANG_ENGLISH         "All Seats Are Occupied"
-
-REFERENCE            seat_switch_too_soon
-LANG_ENGLISH         "Too Soon To Switch Seats"
-
-REFERENCE            skins_locked
-LANG_ENGLISH         "Earn a skin for the ^5&&1 ^7to unlock this category"
-
-REFERENCE            tac_rover
-LANG_ENGLISH         "Tac Rover"
-
-REFERENCE            tac_rover_camo_12_flavor
-LANG_ENGLISH         "Hunt down your marque with the From the Pit Tac Rover Skin."
-
-REFERENCE            tac_rover_desc
-LANG_ENGLISH         "The pinnacle of ultra-light tactical off-road vehicles, allowing rapid personnel deployment for squads of up to four. Go deep and hard in the most rugged and austere environments with world-class mobility and versatility."
-
-REFERENCE            technical
-LANG_ENGLISH         "Technical Truck"
-
-REFERENCE            toggle_off_track
-LANG_ENGLISH         "Stop"
-
-REFERENCE            toggle_off_track_name
-LANG_ENGLISH         "Stop: &&1"
-
-REFERENCE            toggle_on_track
-LANG_ENGLISH         "Play"
-
-REFERENCE            toggle_on_track_name
-LANG_ENGLISH         "Play: &&1"
-
-REFERENCE            van
-LANG_ENGLISH         "Van"
-
-REFERENCE            veh_bt_cargo_truck_track_1
-LANG_ENGLISH         "Cargo Truck Track 1"
-
-REFERENCE            veh_bt_cargo_truck_track_2
-LANG_ENGLISH         "Cargo Truck Track 2"
-
-REFERENCE            veh_bt_cargo_truck_track_3
-LANG_ENGLISH         "Cargo Truck Track 3"
-
-REFERENCE            veh_bt_jeep_track_1
-LANG_ENGLISH         "Jeep Track 1"
-
-REFERENCE            veh_bt_jeep_track_2
-LANG_ENGLISH         "Jeep Track 2"
-
-REFERENCE            veh_bt_jeep_track_3
-LANG_ENGLISH         "Jeep Track 3"
-
-REFERENCE            veh_bt_little_bird_track_1
-LANG_ENGLISH         "Little Bird Track 1"
-
-REFERENCE            veh_bt_little_bird_track_2
-LANG_ENGLISH         "Little Bird Track 2"
-
-REFERENCE            veh_bt_little_bird_track_3
-LANG_ENGLISH         "Little Bird Track 3"
-
-REFERENCE            veh_bt_tac_rover_track_1
-LANG_ENGLISH         "Tac Rover Track 1"
-
-REFERENCE            veh_bt_tac_rover_track_2
-LANG_ENGLISH         "Tac Rover Track 2"
-
-REFERENCE            veh_bt_tac_rover_track_3
-LANG_ENGLISH         "Tac Rover Track 3"
-
-REFERENCE            veh_horn_charge
-LANG_ENGLISH         "Charge!"
-
-REFERENCE            veh_horn_clown
-LANG_ENGLISH         "Clowning Around"
-
-REFERENCE            veh_horn_default
-LANG_ENGLISH         "Default"
-
-REFERENCE            veh_horn_hockeygoal
-LANG_ENGLISH         "He Shoots, He Scores!"
-
-REFERENCE            veh_horn_la_cucaracha
-LANG_ENGLISH         "La Cucaracha"
-
-REFERENCE            veh_horn_locked
-LANG_ENGLISH         "Locked"
-
-REFERENCE            veh_horn_race_countdown
-LANG_ENGLISH         "Start Your Engines"
-
-REFERENCE            veh_horn_ride_of_the_valkyries
-LANG_ENGLISH         "Ride of the Valkyries"
-
-REFERENCE            veh_horn_stars_and_stripes
-LANG_ENGLISH         "Stars and Stripes Forever"
-
-REFERENCE            veh_horn_start_your_engines
-LANG_ENGLISH         "Start Your Engines"
-
-REFERENCE            veh_track_001
-LANG_ENGLISH         "Sepulchre"
-
-REFERENCE            veh_track_002
-LANG_ENGLISH         "Brass Crown"
-
-REFERENCE            veh_track_003
-LANG_ENGLISH         "Heavy Weaponry"
-
-REFERENCE            vehicle_customization
-LANG_ENGLISH         "Vehicle Customization"
-
-REFERENCE            vehicle_customization_desc
-LANG_ENGLISH         "Personalize your Vehicles."
-
-REFERENCE            vehicle_customization_disable
-LANG_ENGLISH         "Vehicle Customization Disabled"
-
-REFERENCE            vehicle_horn_1812_overture
-LANG_ENGLISH         "1812 Overture"
-
-REFERENCE            vehicle_horn_baldmountain
-LANG_ENGLISH         "Night on Bald Mountain"
-
-REFERENCE            vehicle_horn_entertainer
-LANG_ENGLISH         "The Entertainer"
-
-REFERENCE            vehicle_horn_mars
-LANG_ENGLISH         "Mars"
-
-REFERENCE            vehicle_horn_mountainking
-LANG_ENGLISH         "In the Hall of the Mountain King"
-
-REFERENCE            vehicle_horn_symphonyno5
-LANG_ENGLISH         "Symphony No. 5"
-
-REFERENCE            vehicle_horn_toccata
-LANG_ENGLISH         "Toccata and Fugue in D minor"
-
-REFERENCE            vehicle_select
-LANG_ENGLISH         "Vehicle Select"
 
 
 ENDMARKER

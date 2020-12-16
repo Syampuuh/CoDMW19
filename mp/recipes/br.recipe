@@ -15,8 +15,6 @@ commonOption.exfilExtractTimer = 20
 commonOption.exfilRespawn = 0
 commonOption.exfilShowLocation = 0
 commonOption.enableBrLoot = 1
-commonOption.br_minplayers = 1
-
 
 commonOption.allowKillstreaks = 1
 commonOption.roundRetainStreaks = 0
@@ -51,12 +49,8 @@ commonOption.lastStandReviveTimer = 7.00000
 commonOption.lastStandSuicideTimer = 1
 commonOption.nameplateSetting = 2
 
-brData.numEndGame = 4
 brData.brLoadouts = 0
 brData.crateDropTimer = 30.000000
-brData.goalEnableTimer = 60.000000
-brData.goalMoveTimer = 0.000000
-brData.radarEndGame = 1
 brData.infilC130		= 1
 brData.infilConvoy		= 0
 brData.infilHeli		= 0

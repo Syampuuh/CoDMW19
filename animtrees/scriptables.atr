@@ -724,6 +724,7 @@ wm_supportbox_ground_close
 //////////////////////////////////////////
 // 			  BR LOOT   				//
 //////////////////////////////////////////
+military_loot_crate_close
 military_loot_crate_closed_idle
 military_loot_crate_open
 military_loot_crate_open_idle
@@ -732,6 +733,14 @@ iw8_mp_military_hq_crate_close
 military_purchase_kiosk_crate_open
 military_purchase_kiosk_crate_opening
 military_purchase_kiosk_crate_closed
+
+//////////////////////////////////////////
+// 			  BR SUBWAY   				//
+//////////////////////////////////////////
+iw8_mp_warzone_subway_doors_opening
+iw8_mp_warzone_subway_doors_closing
+iw8_mp_warzone_subway_wheels_starting
+iw8_mp_warzone_subway_wheels_stopping
 
 //////////////////////////////////////////
 // 			  DEPRECATED				//
@@ -778,3 +787,5 @@ mp_oilrig_drill_machinery
 // Fourth of July frontend flag
 frontend_flag_mount_usa
 frontend_flag_mount_usa_subd
+
+ee_sign_flag_malyshev_01_anim

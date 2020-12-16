@@ -87,7 +87,7 @@ REFERENCE            cp_sv_bigstore
 LANG_ENGLISH         "Atlas Superstore"
 
 REFERENCE            cp_sv_cave_pm
-LANG_ENGLISH         "Azhir Cave"
+LANG_ENGLISH         "Azhir Cave (Night)"
 
 REFERENCE            cp_sv_crash
 LANG_ENGLISH         "Crash"
@@ -100,6 +100,9 @@ LANG_ENGLISH         "Grazna Raid"
 
 REFERENCE            cp_sv_speed
 LANG_ENGLISH         "Shoot House"
+
+REFERENCE            cp_sv_village2
+LANG_ENGLISH         "Hovec Sawmill"
 
 REFERENCE            cranked
 LANG_ENGLISH         "Cranked"
@@ -194,6 +197,9 @@ LANG_ENGLISH         "Armistice Training Facility"
 REFERENCE            mp_breakneck
 LANG_ENGLISH         "Mayday"
 
+REFERENCE            mp_broadcast2
+LANG_ENGLISH         "Broadcast"
+
 REFERENCE            mp_cave
 LANG_ENGLISH         "Azhir Cave (Night)"
 
@@ -272,11 +278,14 @@ LANG_ENGLISH         "Khandor Hideout"
 REFERENCE            mp_junk
 LANG_ENGLISH         "Scrap"
 
+REFERENCE            mp_kstenod
+LANG_ENGLISH         "Verdansk (Night)"
+
 REFERENCE            mp_layover
-LANG_ENGLISH         "Layover"
+LANG_ENGLISH         "Verdansk International Airport"
 
 REFERENCE            mp_layover_gw
-LANG_ENGLISH         "Layover"
+LANG_ENGLISH         "Verdansk International Airport"
 
 REFERENCE            mp_lowline
 LANG_ENGLISH         "Lowline"
@@ -323,11 +332,20 @@ LANG_ENGLISH         "Speedball"
 REFERENCE            mp_m_stack
 LANG_ENGLISH         "Stack"
 
+REFERENCE            mp_m_stadium
+LANG_ENGLISH         "Verdansk Stadium"
+
+REFERENCE            mp_m_train
+LANG_ENGLISH         "Station"
+
 REFERENCE            mp_m_trench
 LANG_ENGLISH         "Trench"
 
 REFERENCE            mp_m_wallco2
 LANG_ENGLISH         "Aisle 9"
+
+REFERENCE            mp_malyshev
+LANG_ENGLISH         "Mialstor Tank Factory"
 
 REFERENCE            mp_mansion
 LANG_ENGLISH         "Archive"
@@ -373,6 +391,9 @@ LANG_ENGLISH         "Grazna Raid"
 
 REFERENCE            mp_riot
 LANG_ENGLISH         "Retaliation"
+
+REFERENCE            mp_riverside_gw
+LANG_ENGLISH         "Verdansk Riverside"
 
 REFERENCE            mp_rivet
 LANG_ENGLISH         "SkyDock"
@@ -443,6 +464,9 @@ LANG_ENGLISH         " on PlayStation??3 system"
 REFERENCE            on_ps4
 LANG_ENGLISH         " on PlayStation??4 system"
 
+REFERENCE            on_ps5
+LANG_ENGLISH         " on PlayStation??5 system"
+
 REFERENCE            on_wegame
 LANG_ENGLISH         " on WeGame "
 
@@ -451,6 +475,9 @@ LANG_ENGLISH         " on WiiU"
 
 REFERENCE            on_xbox360
 LANG_ENGLISH         " on Xbox 360"
+
+REFERENCE            on_xbox_series_x
+LANG_ENGLISH         " on Xbox Series X"
 
 REFERENCE            on_xboxone
 LANG_ENGLISH         " on Xbox One"
@@ -464,6 +491,9 @@ LANG_ENGLISH         "In a party"
 REFERENCE            pillage
 LANG_ENGLISH         "PILLAGE"
 
+REFERENCE            playing_cold_war
+LANG_ENGLISH         "Playing Call of Duty??: Black Ops Cold War"
+
 REFERENCE            playingmp
 LANG_ENGLISH         "Playing &&1 in &&2"
 
@@ -474,7 +504,7 @@ REFERENCE            playingtheatre
 LANG_ENGLISH         "Watching a replay in Theater mode"
 
 REFERENCE            rugby
-LANG_ENGLISH         "Rupture"
+LANG_ENGLISH         "Onslaught"
 
 REFERENCE            sab
 LANG_ENGLISH         ""

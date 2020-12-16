@@ -1,0 +1,5 @@
+0,iw8_lm_sierrax_variant_0,iw8_lm_sierrax,,,,,,,,,,,,,,,WEAPON/LM_SIERRAX,ui_loot_weapon_lm_sierrax,,,,
+1,iw8_lm_sierrax_variant_1,iw8_lm_sierrax,,rec|1 front|1 back|1 mag|1 triggrip|1,comp|9,barcust2|1,laserbalanced|1,,,xmags|1,,stockcust|1,,,,,WEAPON/LM_SIERRAX_V2,ui_loot_weapon_lm_sierrax_v2,,,,
+2,iw8_lm_sierrax_variant_2,iw8_lm_sierrax,,rec|2 back|2 mag|2 triggrip|2,brake|1,barcust2|2,laserbalanced|2,gripvert|10,acog2|3,,,,,,,,WEAPON/LM_SIERRAX_V3,ui_loot_weapon_lm_sierrax_v3,,,,
+3,iw8_lm_sierrax_variant_3,iw8_lm_sierrax,iw8_lm_sierrax_mpdmb,rec|3 front|3 back|3 mag|3 triggrip|3,melee|8,barshortnoguard|1,laserbalanced|3,,,,,stockcust|2,gunperk_fastmelee,,,,WEAPON/LM_SIERRAX_V4,ui_loot_weapon_lm_sierrax_v4,,orange,standardDis,
+4,iw8_lm_sierrax_variant_4,iw8_lm_sierrax,,rec|4 front|4 back|4 mag|4 triggrip|4,brake|2,barcust2|3,laserbalanced|4,gripvert|12,holo|5,,,,,,,,WEAPON/LM_SIERRAX_V5,ui_loot_weapon_lm_sierrax_v5,,,,

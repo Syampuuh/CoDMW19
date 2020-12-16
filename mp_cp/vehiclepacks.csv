@@ -1,0 +1,7 @@
+0,veh_pack_none,MENU/NONE,veh_track_none,0,LUA_MENU/UNLOCKED_THROUGH_BP,
+1,veh_pack_random,LUA_MENU/RANDOM,veh_track_random,0,LUA_MENU/UNLOCKED_THROUGH_BP,
+2,veh_pack_001,VEHICLES/JUGGERNAUT_PACK,veh_track_001|veh_track_002|veh_track_003,0,LUA_MENU/UNLOCKED_THROUGH_BP,
+3,veh_pack_002,VEHICLES/MW_PACK,veh_track_004|veh_track_005|veh_track_006,0,LUA_MENU/UNLOCKED_THROUGH_BP,
+4,veh_pack_003,VEHICLES/BO_PACK,veh_track_007|veh_track_008|veh_track_009|veh_track_010,0,LUA_MENU/UNLOCKED_THROUGH_BP,
+5,veh_pack_004,VEHICLES/RAP_PACK,veh_track_013|veh_track_014|veh_track_015,0,LUA_MENU/UNLOCKED_THROUGH_BP,
+6,veh_pack_005,VEHICLES/EDM_PACK,veh_track_011|veh_track_012|veh_track_016,0,LUA_MENU/UNLOCKED_THROUGH_BP,

@@ -168,6 +168,9 @@ LANG_ENGLISH         "This modular 5.56 weapon platform is lightweight and maneu
 REFERENCE            ar_tango21
 LANG_ENGLISH         "A fully automatic bullpup assault rifle with a compact design that lends itself to close-quarter engagements."
 
+REFERENCE            ar_valpha
+LANG_ENGLISH         "Chambered in ^3subsonic^7 9x39mm and integrally ^3suppressed^7, the AS VAL is a powerhouse built for stealth, accuracy, and penetration.  This weapon will excel in the hands of an operator able to control heavy recoil and a high rate of fire."
+
 REFERENCE            ar_vr
 LANG_ENGLISH         "Full-auto energy rifle.  ^5Advanced recoil compensator^7 provides focused hip fire.  Aiming down sights increases fire rate.  ^5Integrated optics^7 provide enhanced detection capabilities."
 
@@ -1349,6 +1352,9 @@ LANG_ENGLISH         "This air-cooled open bolt 5.56 light machine gun features 
 REFERENCE            lm_pkilo
 LANG_ENGLISH         "A fully automatic light machine gun firing 7.62mm ammunition for high damage at a moderate fire rate."
 
+REFERENCE            lm_sierrax
+LANG_ENGLISH         "An ultra-light open bolt 5.56 machine gun with a low cyclic rate and advanced recoil controls, giving the FiNN exceptional full-auto accuracy."
+
 REFERENCE            lmg_ameli
 LANG_ENGLISH         "Fully automatic. Increased damage and range with a slower rate of fire for stability."
 
@@ -2234,6 +2240,10 @@ LANG_ENGLISH         "Semtex"
 REFERENCE            sensor_grenade
 LANG_ENGLISH         "Sensor Concussion"
 
+REFERENCE            sh_aalpha12
+LANG_ENGLISH         "Fully automatic open bolt shotgun with a recoil reducing gas blowback system.  This combat shotgun unloads high volumes of lead down range at a steady rate.
+"
+
 REFERENCE            sh_charlie725
 LANG_ENGLISH         "Break action shotgun with 2 round capacity.  A long back-bored barrel and cylindrical choke keeps spread tight and lethal over extended ranges."
 
@@ -2339,6 +2349,9 @@ LANG_ENGLISH         "Compact by design, this fully automatic weapon has a high 
 REFERENCE            sm_papa90
 LANG_ENGLISH         "An automatic bullpup submachine gun. The unique top mounted magazine hold carries ample high velocity 5.7 x 28mm ammunition."
 
+REFERENCE            sm_secho
+LANG_ENGLISH         "Excellent maneuverability and a fast fire rate make this blowback-operated SMG a formidable weapon in close-quarters engagements."
+
 REFERENCE            sm_smgolf45
 LANG_ENGLISH         "A hard hitting submachine gun chambered in .45 Auto that will shred at longer distances than other weapons in its class.  Moderate rate of fire keeps the gun in control while fully automatic."
 
@@ -2428,6 +2441,9 @@ LANG_ENGLISH         "Bolt action rifle chambered in 7.92 Mauser.  A WW2 relic t
 
 REFERENCE            sn_mike14
 LANG_ENGLISH         "A semi-automatic long range marksman rifle balances rate of fire with lethality."
+
+REFERENCE            sn_romeo700
+LANG_ENGLISH         "Reliable, hard-hitting .300 Win bolt action rifle from Sloan Precision.  This weapon's extensive military and civilian use gives rise to an abundance of customization."
 
 REFERENCE            sn_sbeta
 LANG_ENGLISH         "Highly accurate lever action rifle.  Will neutralize an enemy with one well placed round to the head or chest."

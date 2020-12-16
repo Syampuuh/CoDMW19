@@ -2,6 +2,12 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            available_at_launch
+LANG_ENGLISH         "Available at launch"
+
+REFERENCE            available_now
+LANG_ENGLISH         "Available now"
+
 REFERENCE            bundle_items_included_accessory
 LANG_ENGLISH         "&&1x Accessory(s)"
 
@@ -125,8 +131,53 @@ LANG_ENGLISH         "Team Sprays x12"
 REFERENCE            collections_stickers_cdl_champ
 LANG_ENGLISH         "Signature Stickers x55"
 
+REFERENCE            mw_wz_rewards
+LANG_ENGLISH         "Call of Duty??: Modern Warfare and Warzone Rewards"
+
+REFERENCE            pre_ordered_x
+LANG_ENGLISH         "Pre-Ordered &&1"
+
+REFERENCE            purchased_x
+LANG_ENGLISH         "Purchased &&1"
+
 REFERENCE            review_cod_point_options
 LANG_ENGLISH         "Review your Call of Duty Points options below."
+
+REFERENCE            zeus_event_reward_desc
+LANG_ENGLISH         "Congratulations on completing the Call of Duty??: Black Ops Cold War Event! To celebrate we are rewarding you this."
+
+REFERENCE            zeus_event_reward_toast
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War Reward Collected"
+
+REFERENCE            zeus_next_gen_item
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Cross-Gen Edition (Console)"
+
+REFERENCE            zeus_note_available_at_launch
+LANG_ENGLISH         "^1Note:^7 All unlocks for Call of Duty??: Black Ops Cold War will be available at launch or post-launch."
+
+REFERENCE            zeus_pre_order
+LANG_ENGLISH         "Pre-Order Now"
+
+REFERENCE            zeus_rewards
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War Content"
+
+REFERENCE            zeus_standard_item_1
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War"
+
+REFERENCE            zeus_standard_item_2
+LANG_ENGLISH         "Early Access to Open Beta"
+
+REFERENCE            zeus_standard_item_3
+LANG_ENGLISH         "'Confrontation' Weapons Pack"
+
+REFERENCE            zeus_ultimate_item_1
+LANG_ENGLISH         "Land, Sea, and Air pack"
+
+REFERENCE            zeus_ultimate_item_2
+LANG_ENGLISH         "Black Ops Battle Pass Bundle"
+
+REFERENCE            zeus_upsell_desc
+LANG_ENGLISH         "Welcome to the brink."
 
 
 ENDMARKER

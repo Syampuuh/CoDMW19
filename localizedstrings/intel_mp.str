@@ -2,164 +2,329 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            intel_drop6_global
-LANG_ENGLISH         "Discover how Zakhaev has been staying hidden."
-
-REFERENCE            intel_drop6_name
-LANG_ENGLISH         "Old Wounds"
-
-REFERENCE            intel_drop6_step1_description
-LANG_ENGLISH         "Find the location in the message Ghost sent you."
-
-REFERENCE            intel_drop6_step2_description
-LANG_ENGLISH         "A hidden code was found in the prison..."
-
-REFERENCE            intel_drop6_step3_description
-LANG_ENGLISH         "Follow the trail left by ARM 3-1..."
-
-REFERENCE            intel_drop6_step4_description
-LANG_ENGLISH         "Zakhaev was using an office in the prison..."
-
-REFERENCE            intel_drop6_step5_description
-LANG_ENGLISH         "ARM 3-1 moved locations..."
-
-REFERENCE            intel_drop6_step6_description
-LANG_ENGLISH         "Something was stashed in the denied area..."
-
-REFERENCE            intel_drop6_step7_description
-LANG_ENGLISH         ""We know how Z's moving in Verdansk. Good intel for some old friends."  - Ghost"
-
-REFERENCE            intel_splash_body
-LANG_ENGLISH         "View new Intel in the Missions menu."
-
-REFERENCE            intel_splash_header
-LANG_ENGLISH         "/Intel Collected"
-
-REFERENCE            kills_short_desc
-LANG_ENGLISH         "&&1 Kills"
-
-REFERENCE            medals_generic_desc
-LANG_ENGLISH         "Medals"
-
-REFERENCE            season3_drop1_global
-LANG_ENGLISH         "Find the cause of the airport attack."
-
-REFERENCE            season3_drop1_name
-LANG_ENGLISH         "Fractured"
-
-REFERENCE            season3_drop1_step1_description
-LANG_ENGLISH         "Find the location in the message Ghost sent you."
-
-REFERENCE            season3_drop1_step2_description
-LANG_ENGLISH         "Evacuations were underway..."
-
-REFERENCE            season3_drop1_step3_description
-LANG_ENGLISH         "Communications went down before the attack. Follow the trail..."
-
-REFERENCE            season3_drop1_step4_description
-LANG_ENGLISH         "Verdansk ATC reported a transponder went offline..."
-
-REFERENCE            season3_drop1_step5_description
-LANG_ENGLISH         "A downed airliner tried to contact Arklov Air Force base..."
-
-REFERENCE            season3_drop1_step6_description
-LANG_ENGLISH         "Signals Intelligence decrypted a message after the attack."
-
-REFERENCE            season3_drop2_global
-LANG_ENGLISH         "Begin the the hunt for Zakhaev."
-
-REFERENCE            season3_drop2_name
-LANG_ENGLISH         "Hunting the Enemy"
-
-REFERENCE            season3_drop2_step1_description
-LANG_ENGLISH         "Find the location in the message Ghost sent you."
-
-REFERENCE            season3_drop2_step2_description
-LANG_ENGLISH         "SIGINT was relayed from Airport military wing..."
-
-REFERENCE            season3_drop2_step3_description
-LANG_ENGLISH         "Communication interference tracked to Western bunker..."
-
-REFERENCE            season3_drop2_step4_description
-LANG_ENGLISH         "An enemy laptop could supply intel..."
-
-REFERENCE            season3_drop2_step5_description
-LANG_ENGLISH         "A meeting took place downtown..."
-
-REFERENCE            season3_drop2_step6_description
-LANG_ENGLISH         "The enemy wants to catch a train..."
-
-REFERENCE            season3_drop2_step7_description
-LANG_ENGLISH         "Learn the status of the 19:30 Express."
-
-REFERENCE            season3_drop3_global
-LANG_ENGLISH         "Track down the missing shipment."
-
-REFERENCE            season3_drop3_name
-LANG_ENGLISH         "Hidden Cargo"
-
-REFERENCE            season3_drop3_step1_description
-LANG_ENGLISH         "Find the location in the message Ghost sent you."
-
-REFERENCE            season3_drop3_step2_description
-LANG_ENGLISH         "Cargo may have arrived via ports of entry."
-
-REFERENCE            season3_drop3_step3_description
-LANG_ENGLISH         "Someone was paid off to keep an area clear."
-
-REFERENCE            season3_drop3_step4_description
-LANG_ENGLISH         "There was an inspection scheduled at the port."
-
-REFERENCE            season3_drop3_step5_description
-LANG_ENGLISH         "The cargo was headed to a WHP site."
-
-REFERENCE            season3_drop3_step6_description
-LANG_ENGLISH         "Mara gave a debrief after the port attack."
-
-REFERENCE            season3_drop4_global
-LANG_ENGLISH         "Uncover the truth behind the airport attack."
-
-REFERENCE            season3_drop4_name
-LANG_ENGLISH         "New Perspectives"
-
-REFERENCE            season3_drop4_step1_description
-LANG_ENGLISH         "Find the location in the message Ghost sent you."
-
-REFERENCE            season3_drop4_step2_description
-LANG_ENGLISH         "Begin the search for the UAV."
-
-REFERENCE            season3_drop4_step3_description
-LANG_ENGLISH         "The UAV was being controlled from the airport."
-
-REFERENCE            season3_drop4_step4_description
-LANG_ENGLISH         "The downed UAV was being repaired."
-
-REFERENCE            season3_drop4_step5_description
-LANG_ENGLISH         "A corrupted image could give a clearer picture..."
-
-REFERENCE            season3_drop4_step6_description
-LANG_ENGLISH         "Learn the truth behind the attack."
-
-REFERENCE            season3_drop5_global
-LANG_ENGLISH         "Track down the missing Armistice team member."
-
-REFERENCE            season3_drop5_name
-LANG_ENGLISH         "The Lost Team"
-
-REFERENCE            season3_drop5_step1_description
-LANG_ENGLISH         "Find the location in the message Ghost sent you."
-
-REFERENCE            season3_drop5_step2_description
-LANG_ENGLISH         "An Armistice group was stationed at the Torsky Housing Area..."
-
-REFERENCE            season3_drop5_step3_description
-LANG_ENGLISH         "There were survivors from a helicopter crash..."
+REFERENCE            season3_drop5_step5_description
+LANG_ENGLISH         "ARM 3-1: Located."
 
 REFERENCE            season3_drop5_step4_description
 LANG_ENGLISH         "Signal interference prevents locating the missing operator."
 
-REFERENCE            season3_drop5_step5_description
-LANG_ENGLISH         "ARM 3-1: Located."
+REFERENCE            season3_drop5_step3_description
+LANG_ENGLISH         "There were survivors from a helicopter crash..."
+
+REFERENCE            season3_drop5_step2_description
+LANG_ENGLISH         "An Armistice group was stationed at the Torsky Housing Area..."
+
+REFERENCE            season3_drop5_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            season3_drop5_name
+LANG_ENGLISH         "The Lost Team"
+
+REFERENCE            season3_drop5_global
+LANG_ENGLISH         "Track down the missing Armistice team member."
+
+REFERENCE            season3_drop4_step6_description
+LANG_ENGLISH         "Learn the truth behind the attack."
+
+REFERENCE            season3_drop4_step5_description
+LANG_ENGLISH         "A corrupted image could give a clearer picture..."
+
+REFERENCE            season3_drop4_step4_description
+LANG_ENGLISH         "The downed UAV was being repaired."
+
+REFERENCE            season3_drop4_step3_description
+LANG_ENGLISH         "The UAV was being controlled from the airport."
+
+REFERENCE            season3_drop4_step2_description
+LANG_ENGLISH         "Begin the search for the UAV."
+
+REFERENCE            season3_drop4_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            season3_drop4_name
+LANG_ENGLISH         "New Perspectives"
+
+REFERENCE            season3_drop4_global
+LANG_ENGLISH         "Uncover the truth behind the airport attack."
+
+REFERENCE            season3_drop3_step6_description
+LANG_ENGLISH         "Mara gave a debrief after the port attack."
+
+REFERENCE            season3_drop3_step5_description
+LANG_ENGLISH         "The cargo was headed to a WHP site."
+
+REFERENCE            season3_drop3_step4_description
+LANG_ENGLISH         "There was an inspection scheduled at the port."
+
+REFERENCE            season3_drop3_step3_description
+LANG_ENGLISH         "Someone was paid off to keep an area clear."
+
+REFERENCE            season3_drop3_step2_description
+LANG_ENGLISH         "Cargo may have arrived via ports of entry."
+
+REFERENCE            season3_drop3_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            season3_drop3_name
+LANG_ENGLISH         "Hidden Cargo"
+
+REFERENCE            season3_drop3_global
+LANG_ENGLISH         "Track down the missing shipment."
+
+REFERENCE            season3_drop2_step7_description
+LANG_ENGLISH         "Learn the status of the 19:30 Express."
+
+REFERENCE            season3_drop2_step6_description
+LANG_ENGLISH         "The enemy wants to catch a train..."
+
+REFERENCE            season3_drop2_step5_description
+LANG_ENGLISH         "A meeting took place downtown..."
+
+REFERENCE            season3_drop2_step4_description
+LANG_ENGLISH         "An enemy laptop could supply intel..."
+
+REFERENCE            season3_drop2_step3_description
+LANG_ENGLISH         "Communication interference tracked to Western bunker..."
+
+REFERENCE            season3_drop2_step2_description
+LANG_ENGLISH         "SIGINT was relayed from Airport military wing..."
+
+REFERENCE            season3_drop2_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            season3_drop2_name
+LANG_ENGLISH         "Hunting the Enemy"
+
+REFERENCE            season3_drop2_global
+LANG_ENGLISH         "Begin the the hunt for Zakhaev."
+
+REFERENCE            season3_drop1_step6_description
+LANG_ENGLISH         "Signals Intelligence decrypted a message after the attack."
+
+REFERENCE            season3_drop1_step5_description
+LANG_ENGLISH         "A downed airliner tried to contact Arklov Air Force base..."
+
+REFERENCE            season3_drop1_step4_description
+LANG_ENGLISH         "Verdansk ATC reported a transponder went offline..."
+
+REFERENCE            season3_drop1_step3_description
+LANG_ENGLISH         "Communications went down before the attack. Follow the trail..."
+
+REFERENCE            season3_drop1_step2_description
+LANG_ENGLISH         "Evacuations were underway..."
+
+REFERENCE            season3_drop1_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            season3_drop1_name
+LANG_ENGLISH         "Fractured"
+
+REFERENCE            season3_drop1_global
+LANG_ENGLISH         "Find the cause of the airport attack."
+
+REFERENCE            medals_generic_desc
+LANG_ENGLISH         "Medals"
+
+REFERENCE            kills_short_desc
+LANG_ENGLISH         "&&1 Kills"
+
+REFERENCE            intel_splash_header
+LANG_ENGLISH         "/Intel Collected"
+
+REFERENCE            intel_splash_body
+LANG_ENGLISH         "View new Intel in the Missions menu."
+
+REFERENCE            intel_drop9_step7_description
+LANG_ENGLISH         "Nuclear material has been weaponized."
+
+REFERENCE            intel_drop9_step6_description
+LANG_ENGLISH         "Secrets locked in a vault..."
+
+REFERENCE            intel_drop9_step5_description
+LANG_ENGLISH         "A secret code could open new doors..."
+
+REFERENCE            intel_drop9_step4_description
+LANG_ENGLISH         "A shipment came from the radiological lab..."
+
+REFERENCE            intel_drop9_step3_description
+LANG_ENGLISH         "A radiological threat was detected..."
+
+REFERENCE            intel_drop9_step2_description
+LANG_ENGLISH         "Metro alarms may have been tripped..."
+
+REFERENCE            intel_drop9_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop9_name
+LANG_ENGLISH         "Secret Trails"
+
+REFERENCE            intel_drop9_global
+LANG_ENGLISH         "Find what Z has been moving through the tunnels."
+
+REFERENCE            intel_drop8_step7_description
+LANG_ENGLISH         "A threat revealed."
+
+REFERENCE            intel_drop8_step6_description
+LANG_ENGLISH         "Power is being re-routed from a nearby bunker..."
+
+REFERENCE            intel_drop8_step5_description
+LANG_ENGLISH         "Find the source of back-up power..."
+
+REFERENCE            intel_drop8_step4_description
+LANG_ENGLISH         "A sketch could provide a monumental clue..."
+
+REFERENCE            intel_drop8_step3_description
+LANG_ENGLISH         "Z and Perseus wanted more power..."
+
+REFERENCE            intel_drop8_step2_description
+LANG_ENGLISH         "ARM 3-1 left intel at a camp site..."
+
+REFERENCE            intel_drop8_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop8_name
+LANG_ENGLISH         "New Threats"
+
+REFERENCE            intel_drop8_global
+LANG_ENGLISH         "Uncover the next steps in Zakhaev's plan."
+
+REFERENCE            intel_drop7_step7_description
+LANG_ENGLISH         "Z hijacked the UAV signal to ignite a conflict."
+
+REFERENCE            intel_drop7_step6_description
+LANG_ENGLISH         "There was a broadcast from the parking structure..."
+
+REFERENCE            intel_drop7_step5_description
+LANG_ENGLISH         "Hardware was delivered to Suite 320. Entry requires an access code..."
+
+REFERENCE            intel_drop7_step4_description
+LANG_ENGLISH         "The shipment was tracked to the Stadium..."
+
+REFERENCE            intel_drop7_step3_description
+LANG_ENGLISH         "A shipment was moved from the metro..."
+
+REFERENCE            intel_drop7_step2_description
+LANG_ENGLISH         "A CCTV near metro exits may have spotted something..."
+
+REFERENCE            intel_drop7_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop7_name
+LANG_ENGLISH         "Sins of the Father"
+
+REFERENCE            intel_drop7_global
+LANG_ENGLISH         "Zakhaev wants to finish what his father began..."
+
+REFERENCE            intel_drop6_step7_description
+LANG_ENGLISH         ""We know how Z's moving in Verdansk. Good intel for some old friends."  - Ghost"
+
+REFERENCE            intel_drop6_step6_description
+LANG_ENGLISH         "Something was stashed in the denied area..."
+
+REFERENCE            intel_drop6_step5_description
+LANG_ENGLISH         "ARM 3-1 moved locations..."
+
+REFERENCE            intel_drop6_step4_description
+LANG_ENGLISH         "Zakhaev was using an office in the prison..."
+
+REFERENCE            intel_drop6_step3_description
+LANG_ENGLISH         "Follow the trail left by ARM 3-1..."
+
+REFERENCE            intel_drop6_step2_description
+LANG_ENGLISH         "A hidden code was found in the prison..."
+
+REFERENCE            intel_drop6_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop6_name
+LANG_ENGLISH         "Old Wounds"
+
+REFERENCE            intel_drop6_global
+LANG_ENGLISH         "Discover how Zakhaev has been staying hidden."
+
+REFERENCE            intel_drop12_step7_description
+LANG_ENGLISH         "Nikolai received the message. Can he get it Price in time?"
+
+REFERENCE            intel_drop12_step6_description
+LANG_ENGLISH         "Broadcast the abort code from downtown..."
+
+REFERENCE            intel_drop12_step5_description
+LANG_ENGLISH         "Interference is coming from Bunker 11..."
+
+REFERENCE            intel_drop12_step4_description
+LANG_ENGLISH         "Ghost tracked ARM 3-1 to a campsite near the prison..."
+
+REFERENCE            intel_drop12_step3_description
+LANG_ENGLISH         "Learn about the Office of Requiem."
+
+REFERENCE            intel_drop12_step2_description
+LANG_ENGLISH         "Mark locations for the assault teams."
+
+REFERENCE            intel_drop12_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop12_name
+LANG_ENGLISH         "The War Room"
+
+REFERENCE            intel_drop12_global
+LANG_ENGLISH         "Stop Zakhaev."
+
+REFERENCE            intel_drop11_step8_description
+LANG_ENGLISH         "Zakhaev has his target."
+
+REFERENCE            intel_drop11_step7_description
+LANG_ENGLISH         "The prisoner left a message..."
+
+REFERENCE            intel_drop11_step6_description
+LANG_ENGLISH         "A prisoner in the gulag had intel on the chemical's origins..."
+
+REFERENCE            intel_drop11_step5_description
+LANG_ENGLISH         "Shipments arrived via the Verdansk port..."
+
+REFERENCE            intel_drop11_step4_description
+LANG_ENGLISH         "Excess chemicals were being stored..."
+
+REFERENCE            intel_drop11_step3_description
+LANG_ENGLISH         "Shipments were tracked to the quarry..."
+
+REFERENCE            intel_drop11_step2_description
+LANG_ENGLISH         "ARM 3-1 left intel on an apartment rooftop..."
+
+REFERENCE            intel_drop11_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop11_name
+LANG_ENGLISH         "Outside Influence"
+
+REFERENCE            intel_drop11_global
+LANG_ENGLISH         "Learn the history of the chemical threat."
+
+REFERENCE            intel_drop10_step7_description
+LANG_ENGLISH         "It was all part of the plan."
+
+REFERENCE            intel_drop10_step6_description
+LANG_ENGLISH         "The team was on their way to a bunker..."
+
+REFERENCE            intel_drop10_step5_description
+LANG_ENGLISH         "A team as ambushed at the train station..."
+
+REFERENCE            intel_drop10_step4_description
+LANG_ENGLISH         "Active measures fueled the conflict..."
+
+REFERENCE            intel_drop10_step3_description
+LANG_ENGLISH         "Intel was leaked from Verdansk Bank..."
+
+REFERENCE            intel_drop10_step2_description
+LANG_ENGLISH         "ARM 3-1 left a code..."
+
+REFERENCE            intel_drop10_step1_description
+LANG_ENGLISH         "Find the location in the message Ghost sent you."
+
+REFERENCE            intel_drop10_name
+LANG_ENGLISH         "Tighten the Noose"
+
+REFERENCE            intel_drop10_global
+LANG_ENGLISH         "Uncover Zakhaev's plan for Armistice."
 
 
 ENDMARKER

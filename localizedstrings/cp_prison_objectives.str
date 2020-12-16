@@ -2,49 +2,49 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            checkin_weapons
-LANG_ENGLISH         "[{+activate}] Check in your weapons"
+REFERENCE            stay_close_reminder
+LANG_ENGLISH         "^3Informant: ^7Stay close. You won't like what happens if you don't."
 
-REFERENCE            checkin_your_weapons
-LANG_ENGLISH         "Check in your weapons at the front desk
-"
+REFERENCE            reached_weapon_checkin
+LANG_ENGLISH         "^2Informant: ^7This guy will take care of you. Watch out for the suits. We couldn't pay them off."
 
-REFERENCE            escort_hvi
-LANG_ENGLISH         "Escape and Exfil with the HVI"
+REFERENCE            meet_the_informant
+LANG_ENGLISH         "Meet the informant at the rendezvous location."
+
+REFERENCE            informant_label
+LANG_ENGLISH         "Informant"
+
+REFERENCE            informant_follow_me
+LANG_ENGLISH         "^2Informant: ^7I'll take you to where the HVI should be. Stay close."
+
+REFERENCE            informant_done
+LANG_ENGLISH         "^2Informant: ^7This is as far as I'll take you. Good luck."
+
+REFERENCE            informant_betrayal
+LANG_ENGLISH         "^1Informant: ^7I said to stay close. It's too late now!"
+
+REFERENCE            hvi_follow_me
+LANG_ENGLISH         "Follow me!"
+
+REFERENCE            go_to_prison
+LANG_ENGLISH         "Find your way to the prison"
+
+REFERENCE            first_trigger_informant
+LANG_ENGLISH         "^2Informant: ^7People are on edge around here. Most will look away, for a price."
 
 REFERENCE            find_hvi
 LANG_ENGLISH         "Find the HVI in the Prison
 "
 
-REFERENCE            first_trigger_informant
-LANG_ENGLISH         "^2Informant: ^7People are on edge around here. Most will look away, for a price."
+REFERENCE            escort_hvi
+LANG_ENGLISH         "Escape and Exfil with the HVI"
 
-REFERENCE            go_to_prison
-LANG_ENGLISH         "Find your way to the prison"
+REFERENCE            checkin_your_weapons
+LANG_ENGLISH         "Check in your weapons at the front desk
+"
 
-REFERENCE            hvi_follow_me
-LANG_ENGLISH         "Follow me!"
-
-REFERENCE            informant_betrayal
-LANG_ENGLISH         "^1Informant: ^7I said to stay close. It's too late now!"
-
-REFERENCE            informant_done
-LANG_ENGLISH         "^2Informant: ^7This is as far as I'll take you. Good luck."
-
-REFERENCE            informant_follow_me
-LANG_ENGLISH         "^2Informant: ^7I'll take you to where the HVI should be. Stay close."
-
-REFERENCE            informant_label
-LANG_ENGLISH         "Informant"
-
-REFERENCE            meet_the_informant
-LANG_ENGLISH         "Meet the informant at the rendezvous location."
-
-REFERENCE            reached_weapon_checkin
-LANG_ENGLISH         "^2Informant: ^7This guy will take care of you. Watch out for the suits. We couldn't pay them off."
-
-REFERENCE            stay_close_reminder
-LANG_ENGLISH         "^3Informant: ^7Stay close. You won't like what happens if you don't."
+REFERENCE            checkin_weapons
+LANG_ENGLISH         "[{+activate}] Check in your weapons"
 
 
 ENDMARKER

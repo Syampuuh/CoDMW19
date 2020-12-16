@@ -76,3 +76,6 @@
 76,br_standby_for_respawn,MP_BR_INGAME/STANDBY_FOR_RESPAWN,0,1,
 77,infect_super_tac_hint,MP_INGAME_ONLY/INFECT_SUPER_TAC_HINT,0,1,
 78,player_eliminated_oic,MP/SPAWN_ELIMINATED_BONUS,0,1,
+79,vehicle_in_gas,MP_BR_INGAME/VEHICLE_IN_GAS,0,1,
+80,ascender_blocked_generic,MP_INGAME_ONLY/OBJ_BLOCKED_CAPS,0,1,
+81,contract_expired,MP_BR_INGAME/CONTRACT_EXPIRED,0,1,

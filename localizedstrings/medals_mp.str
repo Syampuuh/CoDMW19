@@ -152,6 +152,12 @@ LANG_ENGLISH         "Boss Battle"
 REFERENCE            kill_ss_ac130_desc
 LANG_ENGLISH         "Destroyed an enemy Gunship"
 
+REFERENCE            kill_ss_assault_drone
+LANG_ENGLISH         "Bomb Disposal"
+
+REFERENCE            kill_ss_assault_drone_desc
+LANG_ENGLISH         "Destroyed an enemy Bomb Drone"
+
 REFERENCE            kill_ss_bradley
 LANG_ENGLISH         "Bunker Buster"
 
@@ -631,6 +637,12 @@ LANG_ENGLISH         "Raining Death"
 
 REFERENCE            ss_kill_ac130_desc
 LANG_ENGLISH         "Your Gunship killed an enemy"
+
+REFERENCE            ss_kill_assault_drone
+LANG_ENGLISH         "Special Delivery"
+
+REFERENCE            ss_kill_assault_drone_desc
+LANG_ENGLISH         "Your Bomb Drone killed an enemy"
 
 REFERENCE            ss_kill_ball_drone_backup
 LANG_ENGLISH         "Covering Fire"

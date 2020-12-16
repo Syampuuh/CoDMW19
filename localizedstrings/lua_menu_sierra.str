@@ -1,0 +1,444 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            callingcard_t9001
+LANG_ENGLISH         "CALLINGCARD_T9001"
+
+REFERENCE            callingcard_t9002
+LANG_ENGLISH         "CALLINGCARD_T9002"
+
+REFERENCE            cc_t9001
+LANG_ENGLISH         "T9001"
+
+REFERENCE            cc_t9002
+LANG_ENGLISH         "T9002"
+
+REFERENCE            charm_t9001
+LANG_ENGLISH         "DogMachine"
+
+REFERENCE            colombian
+LANG_ENGLISH         "Colombian"
+
+REFERENCE            cuban
+LANG_ENGLISH         "CUBAN
+"
+
+REFERENCE            cuban_background
+LANG_ENGLISH         "TEST "
+
+REFERENCE            emblem_t9001
+LANG_ENGLISH         "EMBLEM_T9001"
+
+REFERENCE            emblem_t9002
+LANG_ENGLISH         "EMBLEM_T9002"
+
+REFERENCE            faction_bnd_short
+LANG_ENGLISH         "BND
+"
+
+REFERENCE            faction_cia_short
+LANG_ENGLISH         "CIA"
+
+REFERENCE            faction_dgi_short
+LANG_ENGLISH         "DGI
+"
+
+REFERENCE            faction_hva_short
+LANG_ENGLISH         "HVA"
+
+REFERENCE            faction_kgb_short
+LANG_ENGLISH         "KGB"
+
+REFERENCE            faction_mi6_short
+LANG_ENGLISH         "MI6"
+
+REFERENCE            kgb
+LANG_ENGLISH         "KGB"
+
+REFERENCE            korean
+LANG_ENGLISH         "KOREAN"
+
+REFERENCE            nato
+LANG_ENGLISH         "NATO"
+
+REFERENCE            navyseal_air
+LANG_ENGLISH         "Nosedive"
+
+REFERENCE            navyseal_land
+LANG_ENGLISH         "US Tanker"
+
+REFERENCE            navyseal_sea
+LANG_ENGLISH         "Deep Dive"
+
+REFERENCE            navyseal_slugger
+LANG_ENGLISH         "Slugger"
+
+REFERENCE            operator_adler_skin_1_1
+LANG_ENGLISH         "Mountain Drab"
+
+REFERENCE            operator_adler_skin_2_1
+LANG_ENGLISH         "USA_ADLER_RANGER"
+
+REFERENCE            operator_adler_skin_3_1
+LANG_ENGLISH         "USA_ADLER_GUNSLINGER"
+
+REFERENCE            operator_adler_skin_4_1
+LANG_ENGLISH         "USA_ADLER_BLOODHOUND"
+
+REFERENCE            operator_adler_skin_4_2
+LANG_ENGLISH         "USA ADLER BLOODHOUND DUSK"
+
+REFERENCE            operator_adler_skin_4_3
+LANG_ENGLISH         "USA ADLER BLOODHOUND GLITZ"
+
+REFERENCE            operator_adler_skin_5_1
+LANG_ENGLISH         "USA_ADLER_TRAVELER"
+
+REFERENCE            operator_adler_skin_5_2
+LANG_ENGLISH         "USA ADLER TRAVELER SUMMIT"
+
+REFERENCE            operator_adler_skin_5_3
+LANG_ENGLISH         "USA ADLER TRAVELER WINDBREAKER"
+
+REFERENCE            operator_adler_skin_6_1
+LANG_ENGLISH         "USA ADLER DETECTIVE"
+
+REFERENCE            operator_adler_skin_8_1
+LANG_ENGLISH         "USA ADLER MIAMI"
+
+REFERENCE            operator_cia_skin_1_1
+LANG_ENGLISH         "Rochester"
+
+REFERENCE            operator_cia_skin_1_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_cia_skin_3_1
+LANG_ENGLISH         "USA CIA SOG REGULATOR"
+
+REFERENCE            operator_cia_skin_3_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_cia_skin_4_1
+LANG_ENGLISH         "USA CIA SOG CLIMBER FROSTBITE"
+
+REFERENCE            operator_cia_skin_5_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_cia_skin_5_2
+LANG_ENGLISH         "USA CIA SOG GRIT STREET"
+
+REFERENCE            operator_cia_skin_5_2_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_cia_skin_5_3
+LANG_ENGLISH         "USA CIA SOG GRIT BLOCKPARTY"
+
+REFERENCE            operator_cia_skin_5_3_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_cia_skin_6_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_cub_skin_3_1
+LANG_ENGLISH         "CUB DGI BRAWLER"
+
+REFERENCE            operator_fullname_cuban
+LANG_ENGLISH         "TEST TIFA LOCKHART"
+
+REFERENCE            operator_fullname_t9ader
+LANG_ENGLISH         "RUSSELL ADLER"
+
+REFERENCE            operator_fullname_t9cia
+LANG_ENGLISH         "LAWRENCE SIMS"
+
+REFERENCE            operator_fullname_t9cub
+LANG_ENGLISH         "MENDO GARCIA"
+
+REFERENCE            operator_fullname_t9kgb
+LANG_ENGLISH         "YIRINA PORTNOVA"
+
+REFERENCE            operator_fullname_t9mi6
+LANG_ENGLISH         "HELEN PARK"
+
+REFERENCE            operator_fullname_t9navyseal
+LANG_ENGLISH         "JOHN BAKER"
+
+REFERENCE            operator_fullname_t9st1
+LANG_ENGLISH         "JASON HUNTER"
+
+REFERENCE            operator_fullname_t9st3
+LANG_ENGLISH         "HARRY STONE"
+
+REFERENCE            operator_fullname_t9st5
+LANG_ENGLISH         "JADA POWERS"
+
+REFERENCE            operator_fullname_t9west
+LANG_ENGLISH         "INGO BECK"
+
+REFERENCE            operator_fullname_t9woods
+LANG_ENGLISH         "FRANK WOODS"
+
+REFERENCE            operator_mi_skin_1_1
+LANG_ENGLISH         "Coventry"
+
+REFERENCE            operator_mi_skin_3_1
+LANG_ENGLISH         "UK MI6 TAGGER"
+
+REFERENCE            operator_mi_skin_5_1
+LANG_ENGLISH         "UK MI6 HANDLER"
+
+REFERENCE            operator_mi_skin_7_1
+LANG_ENGLISH         "UK MI6 SCORCH"
+
+REFERENCE            operator_mi_skin_8_1
+LANG_ENGLISH         "UK MI6 BAD BLOOD"
+
+REFERENCE            operator_skin_cia_5_1
+LANG_ENGLISH         "USA CIA SOG GRIT"
+
+REFERENCE            operator_skin_cia_6_1
+LANG_ENGLISH         "USA CIA SOG LOGGER"
+
+REFERENCE            operator_skin_cia_7_1
+LANG_ENGLISH         "USA CIA SOG BOSS"
+
+REFERENCE            operator_skin_cub_1_1
+LANG_ENGLISH         "Malice"
+
+REFERENCE            operator_skin_cub_5_1
+LANG_ENGLISH         "CUB DGI HITMAN"
+
+REFERENCE            operator_skin_cub_6_1
+LANG_ENGLISH         "CUB DGI MECHANIC"
+
+REFERENCE            operator_skin_cub_7_1
+LANG_ENGLISH         "CUB DGI SICARRIO"
+
+REFERENCE            operator_skin_kgb_1_1
+LANG_ENGLISH         "Bittersweet"
+
+REFERENCE            operator_skin_kgb_2_1
+LANG_ENGLISH         "RUS KGB ASSASSIN"
+
+REFERENCE            operator_skin_kgb_4_1
+LANG_ENGLISH         "RUS KGB SHADOW"
+
+REFERENCE            operator_skin_kgb_5_1
+LANG_ENGLISH         "RUS KGB TACTICAL GOTH"
+
+REFERENCE            operator_skin_kgb_6_1
+LANG_ENGLISH         "RUS KGB BURGLAR"
+
+REFERENCE            operator_skin_kgb_6_2
+LANG_ENGLISH         "RUS KGB BURGLAR"
+
+REFERENCE            operator_skin_kgb_6_3
+LANG_ENGLISH         "RUS KGB BURGLAR DUCK"
+
+REFERENCE            operator_skin_mi6_4_1
+LANG_ENGLISH         "MI6 DOUBULE AGENT"
+
+REFERENCE            operator_skin_mi6_6_1
+LANG_ENGLISH         "UK MI6 SNAP SHOT"
+
+REFERENCE            operator_skin_nav_10_1
+LANG_ENGLISH         "USA NAVY SEAL SOLITUDE"
+
+REFERENCE            operator_skin_nav_11_1
+LANG_ENGLISH         "USA NAVY SEAL DISSIDENT"
+
+REFERENCE            operator_skin_nav_1_1
+LANG_ENGLISH         "Portside"
+
+REFERENCE            operator_skin_nav_2_1
+LANG_ENGLISH         "US Tanker"
+
+REFERENCE            operator_skin_nav_3_1
+LANG_ENGLISH         "Nosedive"
+
+REFERENCE            operator_skin_nav_4_1
+LANG_ENGLISH         "Deep Dive"
+
+REFERENCE            operator_skin_nav_5_1
+LANG_ENGLISH         "Slugger"
+
+REFERENCE            operator_skin_nav_6_1
+LANG_ENGLISH         "USA NAVY SEAL CLOWN"
+
+REFERENCE            operator_skin_nav_7_1
+LANG_ENGLISH         "USA NAVY SEAL MAVERICK"
+
+REFERENCE            operator_skin_nav_7_2
+LANG_ENGLISH         "USA NAVY-SEAL MAVERICK JACKAL"
+
+REFERENCE            operator_skin_nav_7_3
+LANG_ENGLISH         "USA NAVY-SEAL MAVERICK PITCHER"
+
+REFERENCE            operator_skin_nav_8_1
+LANG_ENGLISH         "USA NAVY SEAL KNUCKLEHEAD"
+
+REFERENCE            operator_skin_nav_9_1
+LANG_ENGLISH         "USA_NAVY_SEAL_WOLF"
+
+REFERENCE            operator_skin_west_1_1
+LANG_ENGLISH         "Berliner"
+
+REFERENCE            operator_skin_west_1_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_skin_west_2_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_skin_west_3_1
+LANG_ENGLISH         "GER WEST GSG9"
+
+REFERENCE            operator_skin_west_3_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_skin_west_4_1
+LANG_ENGLISH         "GER WEST RAIDER"
+
+REFERENCE            operator_skin_west_4_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_skin_west_4_2_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_skin_west_4_3_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_skin_west_7_1
+LANG_ENGLISH         "GER WEST STEALTH"
+
+REFERENCE            operator_skin_woods_6_1
+LANG_ENGLISH         "USA WOODS EAGLE CLAW"
+
+REFERENCE            operator_st1_skin_1_1
+LANG_ENGLISH         "Rapid Response"
+
+REFERENCE            operator_st3_skin_1_1
+LANG_ENGLISH         "Belfast Bridge"
+
+REFERENCE            operator_st5_skin_1_1
+LANG_ENGLISH         "Cedar"
+
+REFERENCE            operator_west_skin_2_1
+LANG_ENGLISH         "GER WEST WINTER"
+
+REFERENCE            operator_west_skin_4_2
+LANG_ENGLISH         "GER WEST RAIDER BRUISER"
+
+REFERENCE            operator_west_skin_4_3
+LANG_ENGLISH         "GER WEST RAIDER WILDCAT"
+
+REFERENCE            operator_west_skin_5_1
+LANG_ENGLISH         "GER WEST BOMBER"
+
+REFERENCE            operator_wood_skin_1_1
+LANG_ENGLISH         "Broken Arrow"
+
+REFERENCE            operator_wood_skin_3_1
+LANG_ENGLISH         "USA WOODS BIKER"
+
+REFERENCE            operator_wood_skin_4_1
+LANG_ENGLISH         "USA WOODS ELIMINATOR"
+
+REFERENCE            operator_wood_skin_5_1
+LANG_ENGLISH         "USA WOODS FISHERMAN"
+
+REFERENCE            operator_wood_skin_6_1
+LANG_ENGLISH         "USA WOODS EAGLE CLAW"
+
+REFERENCE            operator_wood_skin_6_2
+LANG_ENGLISH         "USA WOODS EAGLE CLAW METRO"
+
+REFERENCE            operator_wood_skin_6_3
+LANG_ENGLISH         "USA WOODS EAGLE CLAW UNDERGROWTH"
+
+REFERENCE            operator_wood_skin_8_1
+LANG_ENGLISH         "USA WOODS HOLIDAY WOODS"
+
+REFERENCE            origin01
+LANG_ENGLISH         "origin01"
+
+REFERENCE            south_korean
+LANG_ENGLISH         "SOUTH KOREAN"
+
+REFERENCE            sticker_t9001
+LANG_ENGLISH         "Zombietieins3"
+
+REFERENCE            t9adler
+LANG_ENGLISH         "ADLER"
+
+REFERENCE            t9adler_background
+LANG_ENGLISH         "Trained as a Green Beret, Adler entered the CIA???s Special Activities Division in 1959, after which he only appears sporadically in the Agency???s records. While an undisputed leader, he is an enigma to all that serve with him."
+
+REFERENCE            t9cia
+LANG_ENGLISH         "SIMS"
+
+REFERENCE            t9cia_background
+LANG_ENGLISH         "A technological genius with special forces training, Sims joined MACV-SOG in 1967, serving on Russell Adler???s team in Vietnam. He always provides a steady hand and sense of humor under pressure, no matter the circumstances."
+
+REFERENCE            t9cub
+LANG_ENGLISH         "GARCIA"
+
+REFERENCE            t9cub_background
+LANG_ENGLISH         "Growing up on the streets before joining a pro-revolutionary street gang, Garcia is a ruthless assassin employed by the DGI.  His face is the last thing his victims see, as he coldly watches the light go out in their eyes."
+
+REFERENCE            t9kgb
+LANG_ENGLISH         "PORTNOVA"
+
+REFERENCE            t9kgb_background
+LANG_ENGLISH         "A child mathematical genius, Portnova worked in cryptography before being inducted into KGB Directorate V.  Brilliant, deadly, and fanatically loyal to the state, she represents a threat either on or off the battlefield."
+
+REFERENCE            t9mi6
+LANG_ENGLISH         "PARK"
+
+REFERENCE            t9mi6_background
+LANG_ENGLISH         "While studying as a young prodigy at Oxford, Park lost her brother to a terrorist attack. With new focus she joined MI6, and quickly became one of their leading experts on international paramilitary organizations."
+
+REFERENCE            t9navyseal
+LANG_ENGLISH         "BAKER"
+
+REFERENCE            t9navyseal_background
+LANG_ENGLISH         "Reluctantly following in his father???s footsteps, Baker enlisted and qualified as a Navy SEAL. He saw action in Operation Condor as a Scout Sniper. His temper never bothered Adler, who recruited him to help hunt down Perseus."
+
+REFERENCE            t9st1
+LANG_ENGLISH         "HUNTER"
+
+REFERENCE            t9st1_background
+LANG_ENGLISH         "First generation of his family born on US soil; his father served as a translator for US forces during the Korean War.??Enlisted 1977, volunteered and passed selection for the US Army Rangers 1979."
+
+REFERENCE            t9st3
+LANG_ENGLISH         "STONE"
+
+REFERENCE            t9st3_background
+LANG_ENGLISH         "Member of the 22 SAS Special Projects Team, trained in Hostage Rescue and CQB Tactics. Dishonorably discharged, he became a mercenary selling his skills to the highest bidder. His service records remain classified."
+
+REFERENCE            t9st5
+LANG_ENGLISH         "POWERS"
+
+REFERENCE            t9st5_background
+LANG_ENGLISH         "Former Marine Lieutenant Powers was accused of being a foreign agent and fled to the USSR. It remains plausible that the CIA may have engineered the scenario, attempting to embed her within the Soviet intelligence apparatus."
+
+REFERENCE            t9west
+LANG_ENGLISH         "BECK"
+
+REFERENCE            t9west_background
+LANG_ENGLISH         "Expert in demolitions and bomb disposal, Beck is a tactical operator serving in Dienseteinheit IX.?? Calm and dependable, he defuses tense situations with the dry humor of someone who regularly handles explosives."
+
+REFERENCE            t9woods
+LANG_ENGLISH         "WOODS"
+
+REFERENCE            t9woods_background
+LANG_ENGLISH         "A self-reliant loner resulting from a youth spent on the streets, Woods trained as a Marine before entering the CIA???s Special Activities Division. Years spent as a POW in Vietnam prove his sheer resilience."
+
+REFERENCE            warsaw_pact
+LANG_ENGLISH         "WARSAW PACT"
+
+REFERENCE            westgerman
+LANG_ENGLISH         "West German"
+
+
+ENDMARKER

@@ -1,0 +1,27 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            obj_desc_generic
+LANG_ENGLISH         "Objective Description"
+
+REFERENCE            obj_label_bank
+LANG_ENGLISH         "Vault"
+
+REFERENCE            obj_label_crate_guard
+LANG_ENGLISH         "Crate Guard"
+
+REFERENCE            obj_label_generic
+LANG_ENGLISH         "Objective Label"
+
+REFERENCE            obj_label_reward
+LANG_ENGLISH         "Reward"
+
+REFERENCE            obj_label_truck
+LANG_ENGLISH         "Truck"
+
+REFERENCE            obj_tutorial_generic
+LANG_ENGLISH         "Objective Tutorial"
+
+
+ENDMARKER

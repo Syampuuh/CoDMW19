@@ -2,30 +2,30 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            ammo_box_use
-LANG_ENGLISH         "Press for Attachment
-Hold for Weapon"
-
-REFERENCE            armor_box_use
-LANG_ENGLISH         "Refill Armor Reserves"
-
-REFERENCE            pickup_at_mine
-LANG_ENGLISH         "Pick up Proximity Mine"
-
-REFERENCE            pickup_c4
-LANG_ENGLISH         "Pick up C4"
-
-REFERENCE            pickup_claymore
-LANG_ENGLISH         "Pick up Claymore"
-
-REFERENCE            pickup_gas_grenade
-LANG_ENGLISH         "Pick up Gas Grenade"
+REFERENCE            support_box_use
+LANG_ENGLISH         "Refill Ammo and Equipment"
 
 REFERENCE            pickup_trophy
 LANG_ENGLISH         "Pick up Trophy"
 
-REFERENCE            support_box_use
-LANG_ENGLISH         "Refill Ammo and Equipment"
+REFERENCE            pickup_gas_grenade
+LANG_ENGLISH         "Pick up Gas Grenade"
+
+REFERENCE            pickup_claymore
+LANG_ENGLISH         "Pick up Claymore"
+
+REFERENCE            pickup_c4
+LANG_ENGLISH         "Pick up C4"
+
+REFERENCE            pickup_at_mine
+LANG_ENGLISH         "Pick up Proximity Mine"
+
+REFERENCE            armor_box_use
+LANG_ENGLISH         "Refill Armor Reserves"
+
+REFERENCE            ammo_box_use
+LANG_ENGLISH         "Press for Attachment
+Hold for Weapon"
 
 
 ENDMARKER

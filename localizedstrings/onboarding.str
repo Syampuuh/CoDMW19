@@ -2,6 +2,36 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            armored_royale
+LANG_ENGLISH         "Armored Royale"
+
+REFERENCE            armored_royale_desc_1
+LANG_ENGLISH         "In Armored Royale, as long as your squad's Truck is still running, your squad will respawn. If your vehicle has taken too much damage, head to the nearest Repair Station to fix up your Truck."
+
+REFERENCE            armored_royale_desc_2
+LANG_ENGLISH         "Use the Buy Station on the back of your truck to purchase Truck Upgrades. If your truck is destroyed, head to any Buy Station and purchase a new one!"
+
+REFERENCE            armored_royale_desc_3
+LANG_ENGLISH         "In Armored Royale, the Gas Circle shrinks and moves quickly. Stay with your truck and use it to outrun the gas!"
+
+REFERENCE            armoredroyale_hint_header_1
+LANG_ENGLISH         "Your Squad's Truck"
+
+REFERENCE            armoredroyale_hint_header_2
+LANG_ENGLISH         "Truck Upgrades"
+
+REFERENCE            armoredroyale_hint_header_3
+LANG_ENGLISH         "Outrun The Gas"
+
+REFERENCE            armoredroyale_hint_text_1
+LANG_ENGLISH         "As long as your squad's Truck is still running, you will respawn. If your vehicle is damaged, head to a Repair Station to fix it."
+
+REFERENCE            armoredroyale_hint_text_2
+LANG_ENGLISH         "Use the Buy Station on the back of your truck to purchase upgrades. If your truck is destroyed, head to any Buy Station and purchase a new one!"
+
+REFERENCE            armoredroyale_hint_text_3
+LANG_ENGLISH         "In Armored Royale the Gas Circle shrinks and moves quickly. Stay with your truck and use it to outrun the gas!"
+
 REFERENCE            armory
 LANG_ENGLISH         "Armory"
 
@@ -30,7 +60,7 @@ REFERENCE            battle_tracks_desc_2
 LANG_ENGLISH         "Equip War Tracks in the Vehicle Customization menu in the Weapons tab."
 
 REFERENCE            battle_tracks_desc_3
-LANG_ENGLISH         "Hop into the vehicle you equipped your War Track on and use [{ui_secondary}] to turn it on and off.."
+LANG_ENGLISH         "Hop into the vehicle you equipped your War Track on and use [{ui_secondary}] to turn it on and off."
 
 REFERENCE            blueprint_store
 LANG_ENGLISH         "Store Blueprints"
@@ -109,6 +139,12 @@ REFERENCE            classified_challenges_desc
 LANG_ENGLISH         "Grind for the ultimate bragging rights in Call of Duty history. Complete all ^5282 ^7weapon master challenges for all ^547 ^7 weapons in the game and be awarded this one-of-a-kind calling card.
 
 Note: Kill and Headshot challenges count as one classified challenge progress."
+
+REFERENCE            cw_ch2_operators
+LANG_ENGLISH         "Operator Selection"
+
+REFERENCE            cw_ch2_operators_1
+LANG_ENGLISH         "Operators in Warzone are no longer separated by their faction. "
 
 REFERENCE            editdropkit
 LANG_ENGLISH         "Edit Loadout"
@@ -227,6 +263,24 @@ LANG_ENGLISH         "When you're in combat, you may trigger each Killstreak onc
 REFERENCE            killstreaks
 LANG_ENGLISH         "Killstreaks"
 
+REFERENCE            kingslayer_hint_header_1
+LANG_ENGLISH         "Avoid the Gas"
+
+REFERENCE            kingslayer_hint_header_2
+LANG_ENGLISH         "Loot and Capture"
+
+REFERENCE            kingslayer_hint_header_3
+LANG_ENGLISH         "Kill the Kings"
+
+REFERENCE            kingslayer_hint_text_1
+LANG_ENGLISH         "Fast paced, multi-team combat within a moving gas circle."
+
+REFERENCE            kingslayer_hint_text_2
+LANG_ENGLISH         "Open Supply Boxes and Care Packages to gain Killstreaks for a competitive edge!"
+
+REFERENCE            kingslayer_hint_text_3
+LANG_ENGLISH         "Downing kill leaders rewards extra score and a random Killstreak. First team to the score limit wins!"
+
 REFERENCE            loadout
 LANG_ENGLISH         "Edit Loadout"
 
@@ -319,6 +373,30 @@ LANG_ENGLISH         "Activate munitions using the radial menu. Points will be s
 REFERENCE            munitions
 LANG_ENGLISH         "Munitions"
 
+REFERENCE            onboarding_ch2_mwwz_loadout_boot_split
+LANG_ENGLISH         "Warzone and Modern Warfare Update"
+
+REFERENCE            onboarding_ch2_mwwz_loadout_boot_split_1
+LANG_ENGLISH         "Your Warzone loadout selection is now independent from Modern Warfare."
+
+REFERENCE            onboarding_ch2_mwwz_loadoutsplit
+LANG_ENGLISH         "Loadout Selection"
+
+REFERENCE            onboarding_ch2_mwwz_loadoutsplit_1
+LANG_ENGLISH         "Warzone and Modern Warfare now each have a full list of loadouts that can be edited independently from each other."
+
+REFERENCE            onboarding_text_rebirth_1
+LANG_ENGLISH         "Getting a kill highlights the victim's teammates locations for a brief delay in your mini-map."
+
+REFERENCE            onboarding_text_rebirth_2
+LANG_ENGLISH         "Bring your squad mates back by staying alive at all cost."
+
+REFERENCE            onboarding_text_rebirth_3
+LANG_ENGLISH         "Be the last team alive to win."
+
+REFERENCE            onboarding_title_rebirth_1
+LANG_ENGLISH         "On the Hunt"
+
 REFERENCE            operator_1
 LANG_ENGLISH         "Operators are soldiers of the Call of Duty??: Modern Warfare?? universe. Each one has their own personality and look on the battlefield."
 
@@ -332,7 +410,7 @@ REFERENCE            operator_3_wz
 LANG_ENGLISH         "You may customize your operators with new skins, change
 their VO Quips, or select their finishing moves to give them
 additional flair. Operators and cosmetics can be purchased in
-bundle from the ^5Store ^7or unlocked via the ^5Battle Pass^7."
+bundles from the ^5Store ^7or unlocked via the ^5Battle Pass^7."
 
 REFERENCE            operator_missions
 LANG_ENGLISH         "OPERATOR MISSIONS"
@@ -399,6 +477,24 @@ LANG_ENGLISH         "Play Plunder Now"
 
 REFERENCE            plunder_intro_popup_desc_1
 LANG_ENGLISH         "Learn and test out the new game mechanics of Plunder to get the edge on the opponent and receive an unique reward."
+
+REFERENCE            rebirth_hint_header_1
+LANG_ENGLISH         "Loot"
+
+REFERENCE            rebirth_hint_header_2
+LANG_ENGLISH         "Rebirth"
+
+REFERENCE            rebirth_hint_header_3
+LANG_ENGLISH         "Survive"
+
+REFERENCE            rebirth_hint_text_1
+LANG_ENGLISH         "Drop in gear up for combat. Gather weapons, ammo, and armor."
+
+REFERENCE            rebirth_hint_text_2
+LANG_ENGLISH         "Bring your squad mates back by staying alive at all cost. Kill enemies to instantaneously revive one squad member."
+
+REFERENCE            rebirth_hint_text_3
+LANG_ENGLISH         "Be the last team alive to win. Eliminate opponents and escape the gas."
 
 REFERENCE            regiment_1
 LANG_ENGLISH         "Welcome to your new regiment! Access your regiment's roster, squad up with other players, view the next Happy Hour, or even join another regiment."
@@ -469,8 +565,14 @@ LANG_ENGLISH         "Equip and preview both gestures and sprays here in the Bar
 REFERENCE            sprays_desc_2
 LANG_ENGLISH         "Press and hold [{ui_dpad_up}] to bring up the Gestures & Sprays menu in-game."
 
+REFERENCE            sprays_desc_2_kbm
+LANG_ENGLISH         "Press and hold [{ONFOOT_MP:gesture_wheel}] to bring up the Gestures & Sprays menu in-game."
+
 REFERENCE            sprays_desc_3
-LANG_ENGLISH         "Use [{ui_r3}] to highlight a gesture or spray then release [{ui_dpad_up}] to use it."
+LANG_ENGLISH         "Use [{ui_right_stick}] to highlight a gesture or spray then release [{ui_dpad_up}] to use it."
+
+REFERENCE            sprays_desc_3_kbm
+LANG_ENGLISH         "Highlight a gesture or spray then release [{ONFOOT_MP:gesture_wheel}] to use it."
 
 REFERENCE            store
 LANG_ENGLISH         "Store"
@@ -512,7 +614,7 @@ REFERENCE            trial_event
 LANG_ENGLISH         "Games of Summer"
 
 REFERENCE            trial_event_desc_1
-LANG_ENGLISH         "Compete in the current Trial and try to score bronze, silver, and gold medals."
+LANG_ENGLISH         "Compete in the current Trial and try to score bronze, silver, and gold medals. This event's Trials do not cost you tickets to play."
 
 REFERENCE            trial_event_desc_2
 LANG_ENGLISH         "Earn rewards for each Trial."
@@ -579,6 +681,18 @@ LANG_ENGLISH         "Equip them in the Horns menu within the Vehicle Customizat
 REFERENCE            vehicle_horn_desc_3
 LANG_ENGLISH         "Hop into your vehicle and get the attention you deserve."
 
+REFERENCE            warzone_private_match
+LANG_ENGLISH         "Warzone Private Matches"
+
+REFERENCE            warzone_private_match_desc_1
+LANG_ENGLISH         "Grab friends and run your own private Warzone matches."
+
+REFERENCE            warzone_private_match_desc_2
+LANG_ENGLISH         "Choose between the various Warzone modes including Battle Royale and Plunder."
+
+REFERENCE            warzone_private_match_desc_3
+LANG_ENGLISH         "Ability to join up on different squads, team up with new players, or jump in with friends you already know."
+
 REFERENCE            weapon_mastery
 LANG_ENGLISH         "Weapon Mastery Challenges"
 
@@ -603,6 +717,11 @@ LANG_ENGLISH         "CONGRATULATIONS"
 REFERENCE            wz_intro_popup_desc_1
 LANG_ENGLISH         "Join a squad to jump into large scale combat in Battle Royale and Plunder in Warzone.
 Available every season."
+
+REFERENCE            wz_intro_popup_desc_1_alt
+LANG_ENGLISH         "Join a squad to jump into large scale combat in Battle Royale and Plunder in Warzone. Play training now or later to earn exclusive rewards.
+
+"
 
 REFERENCE            wz_intro_popup_desc_2
 LANG_ENGLISH         "Bigger Map with intense combat."

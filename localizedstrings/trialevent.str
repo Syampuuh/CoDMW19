@@ -66,7 +66,7 @@ REFERENCE            leaderboard_col_total
 LANG_ENGLISH         "Total"
 
 REFERENCE            leaderboard_description
-LANG_ENGLISH         "The more medals earned by your region, the higher your region climbs the leaderboard."
+LANG_ENGLISH         "The more medals earned by your region, the higher your region climbs the leaderboard. Ranking based on total number of medals earned and participation so that all regions can compete fairly."
 
 REFERENCE            leaderboard_no_data
 LANG_ENGLISH         "LEADERBOARDS ARE POPULATED EACH DAY. CHECK BACK SOON."
@@ -120,7 +120,7 @@ REFERENCE            reward_title
 LANG_ENGLISH         "GAMES OF SUMMER REWARD"
 
 REFERENCE            selected_trial_list_title
-LANG_ENGLISH         "Trial event Trials &&1/&&2"
+LANG_ENGLISH         "Games of Summer Trial &&1/&&2"
 
 REFERENCE            silver
 LANG_ENGLISH         "Silver"
@@ -155,6 +155,12 @@ LANG_ENGLISH         "Ends: &&1D &&2H &&3M"
 REFERENCE            timer_ends_in_hours
 LANG_ENGLISH         "Ends: &&1H &&2M &&3S"
 
+REFERENCE            timer_in_days
+LANG_ENGLISH         "&&1D &&2H &&3M"
+
+REFERENCE            timer_in_hours
+LANG_ENGLISH         "&&1H &&2M &&3S"
+
 REFERENCE            timer_next_in_days
 LANG_ENGLISH         "Next: &&1D &&2H &&3M"
 
@@ -171,184 +177,186 @@ REFERENCE            trial_is_active
 LANG_ENGLISH         "Currently Active"
 
 REFERENCE            welcome_description
-LANG_ENGLISH         "Welcome to the Trial event. Compete for
-Exclusive Rewards and bragging rights for each
-Trial as well as overall event rewards for the
-region with the most gold medals."
+LANG_ENGLISH         "Welcome to ^5Games of Summer^7!
+Compete for ^5exclusive rewards^7 and bragging rights for each Trial, as well as ^5overall event rewards^7 for the region with the most gold medals."
 
-REFERENCE            bronze
-LANG_ENGLISH         "Bronze"
+REFERENCE            welcome_description
+LANG_ENGLISH         "Welcome to ^5Games of Summer^7!
+Compete for ^5exclusive rewards^7 and bragging rights for each Trial, as well as ^5overall event rewards^7 for the region with the most gold medals."
 
-REFERENCE            bronze_caps
-LANG_ENGLISH         "BRONZE"
+REFERENCE            trial_is_active
+LANG_ENGLISH         "Currently Active"
 
-REFERENCE            bronze_colon
-LANG_ENGLISH         "Bronze:"
+REFERENCE            total_medals_title
+LANG_ENGLISH         "Total Medals Earned"
 
-REFERENCE            bronze_medal
-LANG_ENGLISH         "Bronze Medal"
+REFERENCE            todays_rewards
+LANG_ENGLISH         "Rewards"
 
-REFERENCE            bronze_objective
-LANG_ENGLISH         "Bronze: &&1"
+REFERENCE            timer_next_in_hours
+LANG_ENGLISH         "Next: &&1H &&2M &&3S"
 
-REFERENCE            completion_desc
-LANG_ENGLISH         "Congratulations on achieving a gold medal in all five of the Games of Summer Events!"
+REFERENCE            timer_next_in_days
+LANG_ENGLISH         "Next: &&1D &&2H &&3M"
 
-REFERENCE            completion_title
-LANG_ENGLISH         "GAMES OF SUMMER GOLD REWARD"
-
-REFERENCE            event_time_left_countdown
+REFERENCE            timer_in_hours
 LANG_ENGLISH         "&&1H &&2M &&3S"
 
-REFERENCE            event_time_left_countdown_days
+REFERENCE            timer_in_days
 LANG_ENGLISH         "&&1D &&2H &&3M"
 
-REFERENCE            gold
-LANG_ENGLISH         "Gold"
+REFERENCE            timer_ends_in_hours
+LANG_ENGLISH         "Ends: &&1H &&2M &&3S"
 
-REFERENCE            gold_caps
-LANG_ENGLISH         "GOLD"
+REFERENCE            timer_ends_in_days
+LANG_ENGLISH         "Ends: &&1D &&2H &&3M"
 
-REFERENCE            gold_colon
-LANG_ENGLISH         "Gold:"
+REFERENCE            time_left_label
+LANG_ENGLISH         "Event Ends:"
 
-REFERENCE            gold_medal
-LANG_ENGLISH         "Gold Medal"
+REFERENCE            start_trial_button
+LANG_ENGLISH         "Start Trial"
 
-REFERENCE            gold_medal_earned
-LANG_ENGLISH         "GOLD MEDAL EARNED"
+REFERENCE            start_time_days
+LANG_ENGLISH         "Starts in &&1D &&2H &&3M"
 
-REFERENCE            gold_objective
-LANG_ENGLISH         "Gold: &&1"
+REFERENCE            start_time
+LANG_ENGLISH         "Starts in &&1H &&2M &&3S"
 
-REFERENCE            gold_reward_title
-LANG_ENGLISH         "Reward for earning ^55 ^7Gold Medals"
+REFERENCE            silver_objective
+LANG_ENGLISH         "Silver: &&1"
 
-REFERENCE            highest_medal
-LANG_ENGLISH         "Your Highest Medal Earned:"
+REFERENCE            silver_medal
+LANG_ENGLISH         "Silver Medal"
 
-REFERENCE            incomplete
-LANG_ENGLISH         "Incomplete"
+REFERENCE            silver_colon
+LANG_ENGLISH         "Silver:"
 
-REFERENCE            leaderboard_col_rank
-LANG_ENGLISH         "Rank"
+REFERENCE            silver_caps
+LANG_ENGLISH         "SILVER"
 
-REFERENCE            leaderboard_col_region
-LANG_ENGLISH         "Region"
+REFERENCE            silver
+LANG_ENGLISH         "Silver"
+
+REFERENCE            selected_trial_list_title
+LANG_ENGLISH         "Games of Summer Trial &&1/&&2"
+
+REFERENCE            reward_title
+LANG_ENGLISH         "GAMES OF SUMMER REWARD"
+
+REFERENCE            reward_tiers
+LANG_ENGLISH         "Reward Tiers"
+
+REFERENCE            preview_reward
+LANG_ENGLISH         "Preview Reward"
+
+REFERENCE            preview_desc
+LANG_ENGLISH         "Get a gold medal in all five of the Games of Summer Events to unlock this reward!"
+
+REFERENCE            play_menu_button
+LANG_ENGLISH         "Games of Summer"
+
+REFERENCE            personal_best
+LANG_ENGLISH         "Personal Best: &&1"
+
+REFERENCE            participation_title
+LANG_ENGLISH         "GAMES OF SUMMER PARTICIPATION"
+
+REFERENCE            participation_desc
+LANG_ENGLISH         "Congratulations on completing your first Games of Summer Event. Here is a free gift. Now, get back out there!"
+
+REFERENCE            open_leaderboard
+LANG_ENGLISH         "Leaderboard"
+
+REFERENCE            new_personal_best
+LANG_ENGLISH         "NEW PERSONAL BEST"
+
+REFERENCE            mode_name
+LANG_ENGLISH         "Games of Summer"
+
+REFERENCE            medal_count
+LANG_ENGLISH         "x &&1"
+
+REFERENCE            medal_already_earned
+LANG_ENGLISH         "Already earned"
+
+REFERENCE            main_menu_button_desc
+LANG_ENGLISH         "Compete in the current Trial and try to score bronze, silver, and gold for your region."
+
+REFERENCE            list_title
+LANG_ENGLISH         "Trials &&1/&&2"
+
+REFERENCE            leaderboard_title
+LANG_ENGLISH         "&&1 TOP 15"
+
+REFERENCE            leaderboard_no_data
+LANG_ENGLISH         "LEADERBOARDS ARE POPULATED EACH DAY. CHECK BACK SOON."
+
+REFERENCE            leaderboard_description
+LANG_ENGLISH         "The more medals earned by your region, the higher your region climbs the leaderboard. Ranking based on total number of medals earned and participation so that all regions can compete fairly."
 
 REFERENCE            leaderboard_col_total
 LANG_ENGLISH         "Total"
 
-REFERENCE            leaderboard_description
-LANG_ENGLISH         "The more medals earned by your region, the higher your region climbs the leaderboard."
+REFERENCE            leaderboard_col_region
+LANG_ENGLISH         "Region"
 
-REFERENCE            leaderboard_no_data
-LANG_ENGLISH         "LEADERBOARDS ARE POPULATED EACH DAY. CHECK BACK SOON."
+REFERENCE            leaderboard_col_rank
+LANG_ENGLISH         "Rank"
 
-REFERENCE            leaderboard_title
-LANG_ENGLISH         "&&1 TOP 15"
+REFERENCE            incomplete
+LANG_ENGLISH         "Incomplete"
 
-REFERENCE            list_title
-LANG_ENGLISH         "Trials &&1/&&2"
+REFERENCE            highest_medal
+LANG_ENGLISH         "Your Highest Medal Earned:"
 
-REFERENCE            main_menu_button_desc
-LANG_ENGLISH         "Compete in the current Trial and try to score bronze, silver, and gold for your region."
+REFERENCE            gold_reward_title
+LANG_ENGLISH         "Reward for earning ^55 ^7Gold Medals"
 
-REFERENCE            medal_already_earned
-LANG_ENGLISH         "Already earned"
+REFERENCE            gold_objective
+LANG_ENGLISH         "Gold: &&1"
 
-REFERENCE            medal_count
-LANG_ENGLISH         "x &&1"
+REFERENCE            gold_medal_earned
+LANG_ENGLISH         "GOLD MEDAL EARNED"
 
-REFERENCE            mode_name
-LANG_ENGLISH         "Games of Summer"
+REFERENCE            gold_medal
+LANG_ENGLISH         "Gold Medal"
 
-REFERENCE            new_personal_best
-LANG_ENGLISH         "NEW PERSONAL BEST"
+REFERENCE            gold_colon
+LANG_ENGLISH         "Gold:"
 
-REFERENCE            open_leaderboard
-LANG_ENGLISH         "Leaderboard"
+REFERENCE            gold_caps
+LANG_ENGLISH         "GOLD"
 
-REFERENCE            participation_desc
-LANG_ENGLISH         "Congratulations on completing your first Games of Summer Event. Here is a free gift. Now, get back out there!"
+REFERENCE            gold
+LANG_ENGLISH         "Gold"
 
-REFERENCE            participation_title
-LANG_ENGLISH         "GAMES OF SUMMER PARTICIPATION"
+REFERENCE            event_time_left_countdown_days
+LANG_ENGLISH         "&&1D &&2H &&3M"
 
-REFERENCE            personal_best
-LANG_ENGLISH         "Personal Best: &&1"
+REFERENCE            event_time_left_countdown
+LANG_ENGLISH         "&&1H &&2M &&3S"
 
-REFERENCE            play_menu_button
-LANG_ENGLISH         "Games of Summer"
+REFERENCE            completion_title
+LANG_ENGLISH         "GAMES OF SUMMER GOLD REWARD"
 
-REFERENCE            preview_desc
-LANG_ENGLISH         "Get a gold medal in all five of the Games of Summer Events to unlock this reward!"
+REFERENCE            completion_desc
+LANG_ENGLISH         "Congratulations on achieving a gold medal in all five of the Games of Summer Events!"
 
-REFERENCE            preview_reward
-LANG_ENGLISH         "Preview Reward"
+REFERENCE            bronze_objective
+LANG_ENGLISH         "Bronze: &&1"
 
-REFERENCE            reward_tiers
-LANG_ENGLISH         "Reward Tiers"
+REFERENCE            bronze_medal
+LANG_ENGLISH         "Bronze Medal"
 
-REFERENCE            reward_title
-LANG_ENGLISH         "GAMES OF SUMMER REWARD"
+REFERENCE            bronze_colon
+LANG_ENGLISH         "Bronze:"
 
-REFERENCE            selected_trial_list_title
-LANG_ENGLISH         "Trial event Trials &&1/&&2"
+REFERENCE            bronze_caps
+LANG_ENGLISH         "BRONZE"
 
-REFERENCE            silver
-LANG_ENGLISH         "Silver"
-
-REFERENCE            silver_caps
-LANG_ENGLISH         "SILVER"
-
-REFERENCE            silver_colon
-LANG_ENGLISH         "Silver:"
-
-REFERENCE            silver_medal
-LANG_ENGLISH         "Silver Medal"
-
-REFERENCE            silver_objective
-LANG_ENGLISH         "Silver: &&1"
-
-REFERENCE            start_time
-LANG_ENGLISH         "Starts in &&1H &&2M &&3S"
-
-REFERENCE            start_time_days
-LANG_ENGLISH         "Starts in &&1D &&2H &&3M"
-
-REFERENCE            start_trial_button
-LANG_ENGLISH         "Start Trial"
-
-REFERENCE            time_left_label
-LANG_ENGLISH         "Event Ends:"
-
-REFERENCE            timer_ends_in_days
-LANG_ENGLISH         "Ends: &&1D &&2H &&3M"
-
-REFERENCE            timer_ends_in_hours
-LANG_ENGLISH         "Ends: &&1H &&2M &&3S"
-
-REFERENCE            timer_next_in_days
-LANG_ENGLISH         "Next: &&1D &&2H &&3M"
-
-REFERENCE            timer_next_in_hours
-LANG_ENGLISH         "Next: &&1H &&2M &&3S"
-
-REFERENCE            todays_rewards
-LANG_ENGLISH         "Rewards"
-
-REFERENCE            total_medals_title
-LANG_ENGLISH         "Total Medals Earned"
-
-REFERENCE            trial_is_active
-LANG_ENGLISH         "Currently Active"
-
-REFERENCE            welcome_description
-LANG_ENGLISH         "Welcome to the Trial event. Compete for
-Exclusive Rewards and bragging rights for each
-Trial as well as overall event rewards for the
-region with the most gold medals."
+REFERENCE            bronze
+LANG_ENGLISH         "Bronze"
 
 
 ENDMARKER

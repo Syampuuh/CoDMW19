@@ -2,311 +2,347 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            ac130
-LANG_ENGLISH         "Gunship"
-
-REFERENCE            ac130_105mm
-LANG_ENGLISH         "105mm"
-
-REFERENCE            ac130_25mm
-LANG_ENGLISH         "25mm"
-
-REFERENCE            ac130_40mm
-LANG_ENGLISH         "40mm"
-
-REFERENCE            ac130_desc
-LANG_ENGLISH         "A heavy assault gunship with three types of armaments."
-
-REFERENCE            action_slot_2
-LANG_ENGLISH         "[{+actionslot 2}]"
-
-REFERENCE            air_space_too_crowded
-LANG_ENGLISH         "Air space too crowded."
-
-REFERENCE            air_space_too_crowded_area
-LANG_ENGLISH         "Air space is too crowded in this area."
-
-REFERENCE            airdrop
-LANG_ENGLISH         "Care Package"
-
-REFERENCE            airdrop_desc
-LANG_ENGLISH         "Call in a random killstreak care package to your location."
-
-REFERENCE            airdrop_multiple
-LANG_ENGLISH         "Emergency Airdrop"
-
-REFERENCE            airdrop_multiple_desc
-LANG_ENGLISH         "Call in 3 random killstreak care packages to your location."
-
-REFERENCE            arm
-LANG_ENGLISH         "Arm"
-
-REFERENCE            assault_drone
-LANG_ENGLISH         "Bomb Drone"
-
-REFERENCE            assault_drone_desc
-LANG_ENGLISH         "A controllable quadcopter with an explosive attached to it."
-
-REFERENCE            blocked_refund_killstreak
-LANG_ENGLISH         "Killstreak use blocked, refunding killstreak."
-
-REFERENCE            bradley
-LANG_ENGLISH         "Infantry Assault Vehicle"
-
-REFERENCE            bradley_desc
-LANG_ENGLISH         "A manned light infantry vehicle with a .50 cal machine gun on top."
-
-REFERENCE            button_aim
-LANG_ENGLISH         "[{right_stick_centered}]"
-
-REFERENCE            button_change_weapon
-LANG_ENGLISH         "[{+weapnext}]"
-
-REFERENCE            button_forward
-LANG_ENGLISH         "[{ui_trigger_right}]"
-
-REFERENCE            button_move
-LANG_ENGLISH         "[{left_stick_centered}]"
-
-REFERENCE            button_reverse
-LANG_ENGLISH         "[{ui_trigger_left}]"
-
-REFERENCE            cannot_be_called
-LANG_ENGLISH         "Cannot be called to this location."
-
-REFERENCE            cannot_be_placed
-LANG_ENGLISH         "Cannot be placed at this location."
-
-REFERENCE            cannot_be_placed_air
-LANG_ENGLISH         "Must be placed while on the ground."
-
-REFERENCE            cannot_be_placed_player
-LANG_ENGLISH         "Placement too close to another player."
-
-REFERENCE            cannot_be_used
-LANG_ENGLISH         "Killstreak cannot be used right now."
-
-REFERENCE            cannot_switch
-LANG_ENGLISH         "Previously deployed, cannot switch."
-
-REFERENCE            capturing_crate
-LANG_ENGLISH         "Capturing..."
-
-REFERENCE            chopper_gunner
-LANG_ENGLISH         "Chopper Gunner"
-
-REFERENCE            chopper_gunner_desc
-LANG_ENGLISH         "Control an assault chopper armed with a turret and air-to-land missiles."
-
-REFERENCE            chopper_support
-LANG_ENGLISH         "Support Helo"
-
-REFERENCE            chopper_support_desc
-LANG_ENGLISH         "Call in a heavy assault helo with twin turrets to patrol the map."
-
-REFERENCE            cruise_predator
-LANG_ENGLISH         "Cruise Missile"
-
-REFERENCE            cruise_predator_desc
-LANG_ENGLISH         "Control a long range cruise missile with boost capabilities."
-
-REFERENCE            directional_uav
-LANG_ENGLISH         "Advanced UAV"
-
-REFERENCE            directional_uav_desc
-LANG_ENGLISH         "An untargetable orbital UAV that reveals the enemy's direction on the minimap in real time."
-
-REFERENCE            e_empty
-LANG_ENGLISH         "E"
-
-REFERENCE            early_exit
-LANG_ENGLISH         "Hold ^3[{+activate}]^7 Exit"
-
-REFERENCE            emp_drone
-LANG_ENGLISH         "EMP Drone"
-
-REFERENCE            f_full
-LANG_ENGLISH         "F"
-
-REFERENCE            flares
-LANG_ENGLISH         "Flares"
-
-REFERENCE            gunship_online
-LANG_ENGLISH         "Gunship Online"
-
-REFERENCE            hover_jet
-LANG_ENGLISH         "VTOL Jet"
-
-REFERENCE            hover_jet_desc
-LANG_ENGLISH         "Releases an initial missile barrage before guarding a location of the player's choice."
-
-REFERENCE            incoming_missile
-LANG_ENGLISH         "INCOMING MISSILE"
-
-REFERENCE            invalid_point
-LANG_ENGLISH         "Invalid selection."
-
-REFERENCE            jugg_cannot_be_picked_up
-LANG_ENGLISH         "Can't be picked up as a Juggernaut."
-
-REFERENCE            jugg_cannot_be_used
-LANG_ENGLISH         "Can't be used as a Juggernaut."
-
-REFERENCE            juggernaut
-LANG_ENGLISH         "Juggernaut"
-
-REFERENCE            juggernaut_desc
-LANG_ENGLISH         "Call in a care package that contains the Juggernaut assault gear.  The minigun will drop when the Juggernaut dies."
-
-REFERENCE            juggernaut_desc_coop
-LANG_ENGLISH         "Equip the Juggernaut assault gear. The minigun will drop when the Juggernaut dies."
-
-REFERENCE            killed_with
-LANG_ENGLISH         "Killed with:"
-
-REFERENCE            manual_turret
-LANG_ENGLISH         "Shield Turret"
-
-REFERENCE            manual_turret_desc
-LANG_ENGLISH         "A manual shielded turret that can be deployed on most surfaces."
-
-REFERENCE            marked
-LANG_ENGLISH         "MARKED"
-
-REFERENCE            max_airdrops
-LANG_ENGLISH         "Too many Care Packages are being delivered."
-
-REFERENCE            max_friendly_chopper_gunner
-LANG_ENGLISH         "Too many friendly Chopper Gunners active."
-
-REFERENCE            max_friendly_counter_uav
-LANG_ENGLISH         "Too many friendly Counter UAVs active."
-
-REFERENCE            max_friendly_personal_radar
-LANG_ENGLISH         "Too many friendly Personal Radars active."
-
-REFERENCE            max_friendly_support_helo
-LANG_ENGLISH         "Too many friendly Support Helos active."
-
-REFERENCE            max_friendly_vtol_jet
-LANG_ENGLISH         "Too many friendly VTOL Jets active."
-
-REFERENCE            max_friendly_wheelson
-LANG_ENGLISH         "Too many friendly Wheelsons active."
-
-REFERENCE            none
-LANG_ENGLISH         "Empty"
-
-REFERENCE            none_desc
-LANG_ENGLISH         "No kill streak selected."
-
-REFERENCE            not_enough_space
-LANG_ENGLISH         "Not enough space to call in."
-
-REFERENCE            nuke_already_inbound
-LANG_ENGLISH         "Nuke already inbound!"
-
-REFERENCE            pac_sentry
-LANG_ENGLISH         "Wheelson"
-
-REFERENCE            pac_sentry_desc
-LANG_ENGLISH         "Remote controlled UGV with a powerful airburst turret."
-
-REFERENCE            personal_radar_already_active
-LANG_ENGLISH         "Personal Radar already active."
-
-REFERENCE            precision_airstrike
-LANG_ENGLISH         "Precision Airstrike"
-
-REFERENCE            precision_airstrike_desc
-LANG_ENGLISH         "Call in twin jets for a precision strike along the best available path."
-
-REFERENCE            radar_drone_overwatch
-LANG_ENGLISH         "Personal Radar"
-
-REFERENCE            radar_drone_overwatch_desc
-LANG_ENGLISH         "Escort drone that reveals nearby enemies on the minimap and audibly pings them in the world."
-
-REFERENCE            ready
-LANG_ENGLISH         "Ready"
-
-REFERENCE            reloading
-LANG_ENGLISH         "Reloading"
-
-REFERENCE            scrambler_drone
-LANG_ENGLISH         "Counter UAV"
-
-REFERENCE            scrambler_drone_desc
-LANG_ENGLISH         "A drone that scrambles all enemy minimaps, regardless of distance, and incrementally disrupts their HUD the closer they get to the targeted area."
-
-REFERENCE            sentry
-LANG_ENGLISH         "Sentry Gun"
-
-REFERENCE            sentry_desc
-LANG_ENGLISH         "Automated turret that scans for nearby enemies."
-
-REFERENCE            specialist_bonus
-LANG_ENGLISH         "Specialist Bonus"
-
-REFERENCE            spotted
-LANG_ENGLISH         "SPOTTED"
-
-REFERENCE            tactical_nuke
-LANG_ENGLISH         "Tactical Nuke"
-
-REFERENCE            tactical_nuke_inbound
-LANG_ENGLISH         "Tactical Nuke Inbound"
-
-REFERENCE            toma_strike
-LANG_ENGLISH         "Cluster Strike"
-
-REFERENCE            toma_strike_desc
-LANG_ENGLISH         "Signal for a number of cluster mortars to hit the designated location."
-
-REFERENCE            too_many_vehicles
-LANG_ENGLISH         "Too many vehicles already in the area."
-
-REFERENCE            turret_dying
-LANG_ENGLISH         "Interaction disabled, turret battery running low."
-
-REFERENCE            uav
-LANG_ENGLISH         "UAV"
-
-REFERENCE            uav_desc
-LANG_ENGLISH         "UAV recon ship that reveals enemy locations on the minimap."
-
-REFERENCE            unavailable
-LANG_ENGLISH         "Killstreak unavailable right now."
-
-REFERENCE            unavailable_for_n
-LANG_ENGLISH         "Killstreak unavailable for &&1 more seconds."
-
-REFERENCE            unavailable_for_n_when_emp
-LANG_ENGLISH         "EMP still active for &&1 seconds."
-
-REFERENCE            unavailable_in_level
-LANG_ENGLISH         "Killstreak unavailable in this level."
-
-REFERENCE            unavailable_using_turret
-LANG_ENGLISH         "Killstreak unavailable when using turret."
-
-REFERENCE            unavailable_when_jammed
-LANG_ENGLISH         "Can't use while EMPed."
-
-REFERENCE            vehicle_refund_killstreak
-LANG_ENGLISH         "Too many vehicles, refunding killstreak."
-
-REFERENCE            warning_caps
-LANG_ENGLISH         "WARNING"
-
-REFERENCE            white_phosphorus
-LANG_ENGLISH         "White Phosphorus"
+REFERENCE            wp_active
+LANG_ENGLISH         "White Phosphorus already in effect."
 
 REFERENCE            white_phosphorus_desc
 LANG_ENGLISH         "Cover the battlefield with white smoke incendiary canisters that will weaken the enemy and burn any that wander too close."
 
-REFERENCE            wp_active
-LANG_ENGLISH         "White Phosphorus already in effect."
+REFERENCE            white_phosphorus
+LANG_ENGLISH         "White Phosphorus"
+
+REFERENCE            warning_caps
+LANG_ENGLISH         "WARNING"
+
+REFERENCE            vehicle_refund_killstreak
+LANG_ENGLISH         "Too many vehicles, refunding killstreak."
+
+REFERENCE            unavailable_when_jammed
+LANG_ENGLISH         "Can't use while EMPed."
+
+REFERENCE            unavailable_using_turret
+LANG_ENGLISH         "Killstreak unavailable when using turret."
+
+REFERENCE            unavailable_in_level
+LANG_ENGLISH         "Killstreak unavailable in this level."
+
+REFERENCE            unavailable_for_n_when_emp
+LANG_ENGLISH         "EMP still active for &&1 seconds."
+
+REFERENCE            unavailable_for_n
+LANG_ENGLISH         "Killstreak unavailable for &&1 more seconds."
+
+REFERENCE            unavailable
+LANG_ENGLISH         "Killstreak unavailable right now."
+
+REFERENCE            uav_desc
+LANG_ENGLISH         "UAV recon ship that reveals enemy locations on the minimap."
+
+REFERENCE            uav
+LANG_ENGLISH         "UAV"
+
+REFERENCE            turret_dying
+LANG_ENGLISH         "Interaction disabled, turret battery running low."
+
+REFERENCE            too_many_vehicles
+LANG_ENGLISH         "Too many vehicles already in the area."
+
+REFERENCE            toma_strike_desc
+LANG_ENGLISH         "Signal for a number of cluster mortars to hit the designated location."
+
+REFERENCE            toma_strike
+LANG_ENGLISH         "Cluster Strike"
+
+REFERENCE            tactical_nuke_inbound
+LANG_ENGLISH         "Tactical Nuke Inbound"
+
+REFERENCE            tactical_nuke
+LANG_ENGLISH         "Tactical Nuke"
+
+REFERENCE            spotted
+LANG_ENGLISH         "SPOTTED"
+
+REFERENCE            specialist_bonus
+LANG_ENGLISH         "Specialist Bonus"
+
+REFERENCE            sentry_desc
+LANG_ENGLISH         "Automated turret that scans for nearby enemies."
+
+REFERENCE            sentry
+LANG_ENGLISH         "Sentry Gun"
+
+REFERENCE            scrambler_drone_desc
+LANG_ENGLISH         "A drone that scrambles all enemy minimaps, regardless of distance, and incrementally disrupts their HUD the closer they get to the targeted area."
+
+REFERENCE            scrambler_drone
+LANG_ENGLISH         "Counter UAV"
+
+REFERENCE            reloading
+LANG_ENGLISH         "Reloading"
+
+REFERENCE            ready
+LANG_ENGLISH         "Ready"
+
+REFERENCE            rcxd_rad_desc
+LANG_ENGLISH         "A small dirty bomb payload strapped to an RC-XD"
+
+REFERENCE            rcxd_rad
+LANG_ENGLISH         "RC-XD"
+
+REFERENCE            rcxd_desc
+LANG_ENGLISH         "Deployed Remote Control Explosive Device"
+
+REFERENCE            rcxd
+LANG_ENGLISH         "RCXD"
+
+REFERENCE            radar_drone_overwatch_desc
+LANG_ENGLISH         "Escort drone that reveals nearby enemies on the minimap and audibly pings them in the world."
+
+REFERENCE            radar_drone_overwatch
+LANG_ENGLISH         "Personal Radar"
+
+REFERENCE            precision_airstrike_desc
+LANG_ENGLISH         "Call in twin jets for a precision strike along the best available path."
+
+REFERENCE            precision_airstrike
+LANG_ENGLISH         "Precision Airstrike"
+
+REFERENCE            personal_radar_already_active
+LANG_ENGLISH         "Personal Radar already active."
+
+REFERENCE            pac_sentry_desc
+LANG_ENGLISH         "Remote controlled UGV with a powerful airburst turret."
+
+REFERENCE            pac_sentry
+LANG_ENGLISH         "Wheelson"
+
+REFERENCE            nuke_already_inbound
+LANG_ENGLISH         "Nuke already inbound!"
+
+REFERENCE            not_enough_space
+LANG_ENGLISH         "Not enough space to call in."
+
+REFERENCE            none_desc
+LANG_ENGLISH         "No kill streak selected."
+
+REFERENCE            none
+LANG_ENGLISH         "Empty"
+
+REFERENCE            max_friendly_wheelson
+LANG_ENGLISH         "Too many friendly Wheelsons active."
+
+REFERENCE            max_friendly_vtol_jet
+LANG_ENGLISH         "Too many friendly VTOL Jets active."
+
+REFERENCE            max_friendly_support_helo
+LANG_ENGLISH         "Too many friendly Support Helos active."
+
+REFERENCE            max_friendly_personal_radar
+LANG_ENGLISH         "Too many friendly Personal Radars active."
+
+REFERENCE            max_friendly_counter_uav
+LANG_ENGLISH         "Too many friendly Counter UAVs active."
+
+REFERENCE            max_friendly_chopper_gunner
+LANG_ENGLISH         "Too many friendly Chopper Gunners active."
+
+REFERENCE            max_airdrops
+LANG_ENGLISH         "Too many Care Packages are being delivered."
+
+REFERENCE            marked
+LANG_ENGLISH         "MARKED"
+
+REFERENCE            manual_turret_desc
+LANG_ENGLISH         "A manual shielded turret that can be deployed on most surfaces."
+
+REFERENCE            manual_turret
+LANG_ENGLISH         "Shield Turret"
+
+REFERENCE            king_uav
+LANG_ENGLISH         "King Slayed: UAV"
+
+REFERENCE            king_toma_strike
+LANG_ENGLISH         "King Slayed: Cluster Strike"
+
+REFERENCE            king_precision_airstrike
+LANG_ENGLISH         "King Slayed: Precision Airstrike"
+
+REFERENCE            king_directional_uav
+LANG_ENGLISH         "King Slayed: Advanced UAV"
+
+REFERENCE            killed_with
+LANG_ENGLISH         "Killed with:"
+
+REFERENCE            juggernaut_desc_coop
+LANG_ENGLISH         "Equip the Juggernaut assault gear. The minigun will drop when the Juggernaut dies."
+
+REFERENCE            juggernaut_desc
+LANG_ENGLISH         "Call in a care package that contains the Juggernaut assault gear.  The minigun will drop when the Juggernaut dies."
+
+REFERENCE            juggernaut
+LANG_ENGLISH         "Juggernaut"
+
+REFERENCE            jugg_cannot_become
+LANG_ENGLISH         "Not enough space to become the Juggernaut"
+
+REFERENCE            jugg_cannot_be_used
+LANG_ENGLISH         "Can't be used as a Juggernaut."
+
+REFERENCE            jugg_cannot_be_picked_up
+LANG_ENGLISH         "Can't be picked up as a Juggernaut."
+
+REFERENCE            invalid_point
+LANG_ENGLISH         "Invalid selection."
+
+REFERENCE            incoming_missile
+LANG_ENGLISH         "INCOMING MISSILE"
+
+REFERENCE            hover_jet_desc
+LANG_ENGLISH         "Releases an initial missile barrage before guarding a location of the player's choice."
+
+REFERENCE            hover_jet
+LANG_ENGLISH         "VTOL Jet"
+
+REFERENCE            gunship_online
+LANG_ENGLISH         "Gunship Online"
+
+REFERENCE            flares
+LANG_ENGLISH         "Flares"
+
+REFERENCE            f_full
+LANG_ENGLISH         "F"
+
+REFERENCE            emp_drone
+LANG_ENGLISH         "EMP Drone"
+
+REFERENCE            early_exit
+LANG_ENGLISH         "Hold ^3[{+activate}]^7 Exit"
+
+REFERENCE            e_empty
+LANG_ENGLISH         "E"
+
+REFERENCE            directional_uav_desc
+LANG_ENGLISH         "An untargetable orbital UAV that reveals the enemy's direction on the minimap in real time."
+
+REFERENCE            directional_uav
+LANG_ENGLISH         "Advanced UAV"
+
+REFERENCE            cruise_predator_desc
+LANG_ENGLISH         "Control a long range cruise missile with boost capabilities."
+
+REFERENCE            cruise_predator
+LANG_ENGLISH         "Cruise Missile"
+
+REFERENCE            circle_peek_desc
+LANG_ENGLISH         "Activate a powerful satellite to see the remaining safe zones on the map"
+
+REFERENCE            circle_peek
+LANG_ENGLISH         "Foresight"
+
+REFERENCE            chopper_support_desc
+LANG_ENGLISH         "Call in a heavy assault helo with twin turrets to patrol the map."
+
+REFERENCE            chopper_support
+LANG_ENGLISH         "Support Helo"
+
+REFERENCE            chopper_gunner_desc
+LANG_ENGLISH         "Control an assault chopper armed with a turret and air-to-land missiles."
+
+REFERENCE            chopper_gunner
+LANG_ENGLISH         "Chopper Gunner"
+
+REFERENCE            capturing_crate
+LANG_ENGLISH         "Capturing..."
+
+REFERENCE            cannot_switch
+LANG_ENGLISH         "Previously deployed, cannot switch."
+
+REFERENCE            cannot_be_used
+LANG_ENGLISH         "Killstreak cannot be used right now."
+
+REFERENCE            cannot_be_placed_subway
+LANG_ENGLISH         "Placement restricted while inside subway cars."
+
+REFERENCE            cannot_be_placed_player
+LANG_ENGLISH         "Placement too close to another player."
+
+REFERENCE            cannot_be_placed_air
+LANG_ENGLISH         "Must be placed while on the ground."
+
+REFERENCE            cannot_be_placed
+LANG_ENGLISH         "Cannot be placed at this location."
+
+REFERENCE            cannot_be_called
+LANG_ENGLISH         "Cannot be called to this location."
+
+REFERENCE            button_reverse
+LANG_ENGLISH         "[{ui_trigger_left}]"
+
+REFERENCE            button_move
+LANG_ENGLISH         "[{left_stick_centered}]"
+
+REFERENCE            button_forward
+LANG_ENGLISH         "[{ui_trigger_right}]"
+
+REFERENCE            button_change_weapon
+LANG_ENGLISH         "[{+weapnext}]"
+
+REFERENCE            button_aim
+LANG_ENGLISH         "[{right_stick_centered}]"
+
+REFERENCE            bradley_desc
+LANG_ENGLISH         "A manned light infantry vehicle with a .50 cal machine gun on top."
+
+REFERENCE            bradley
+LANG_ENGLISH         "Infantry Assault Vehicle"
+
+REFERENCE            blocked_refund_killstreak
+LANG_ENGLISH         "Killstreak use blocked, refunding killstreak."
+
+REFERENCE            assault_drone_desc
+LANG_ENGLISH         "A controllable quadcopter with an explosive attached to it."
+
+REFERENCE            assault_drone
+LANG_ENGLISH         "Bomb Drone"
+
+REFERENCE            arm
+LANG_ENGLISH         "Arm"
+
+REFERENCE            airdrop_multiple_desc
+LANG_ENGLISH         "Call in 3 random killstreak care packages to your location."
+
+REFERENCE            airdrop_multiple
+LANG_ENGLISH         "Emergency Airdrop"
+
+REFERENCE            airdrop_desc
+LANG_ENGLISH         "Call in a random killstreak care package to your location."
+
+REFERENCE            airdrop
+LANG_ENGLISH         "Care Package"
+
+REFERENCE            air_space_too_crowded_area
+LANG_ENGLISH         "Air space is too crowded in this area."
+
+REFERENCE            air_space_too_crowded
+LANG_ENGLISH         "Air space too crowded."
+
+REFERENCE            action_slot_2
+LANG_ENGLISH         "[{+actionslot 2}]"
+
+REFERENCE            ac130_desc
+LANG_ENGLISH         "A heavy assault gunship with three types of armaments."
+
+REFERENCE            ac130_40mm
+LANG_ENGLISH         "40mm"
+
+REFERENCE            ac130_25mm
+LANG_ENGLISH         "25mm"
+
+REFERENCE            ac130_105mm
+LANG_ENGLISH         "105mm"
+
+REFERENCE            ac130
+LANG_ENGLISH         "Gunship"
 
 
 ENDMARKER

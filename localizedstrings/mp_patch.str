@@ -2,20 +2,20 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            destroy_ti
-LANG_ENGLISH         "Smash Tactical Insertion"
-
-REFERENCE            pickup_portable_radar
-LANG_ENGLISH         "Hold ^3&&1^7 to pick up Portable Radar"
-
-REFERENCE            pickup_scrambler
-LANG_ENGLISH         "Hold ^3&&1^7 to pick up Scrambler"
+REFERENCE            using
+LANG_ENGLISH         "Using..."
 
 REFERENCE            pickup_ti
 LANG_ENGLISH         "Pick up Tactical Insertion"
 
-REFERENCE            using
-LANG_ENGLISH         "Using..."
+REFERENCE            pickup_scrambler
+LANG_ENGLISH         "Hold ^3&&1^7 to pick up Scrambler"
+
+REFERENCE            pickup_portable_radar
+LANG_ENGLISH         "Hold ^3&&1^7 to pick up Portable Radar"
+
+REFERENCE            destroy_ti
+LANG_ENGLISH         "Smash Tactical Insertion"
 
 
 ENDMARKER

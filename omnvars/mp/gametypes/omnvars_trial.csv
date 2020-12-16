@@ -1,6 +1,4 @@
 include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,,
-ui_br_altimeter_horizontal_speed,1,,c,i,0,0,999,
-ui_br_altimeter_vertical_speed,1,,c,i,0,0,999,
 ui_br_altimeter_height,1,,c,f,0,0,1,
 ui_br_altimeter_state,1,,c,i,0,0,2,
 ui_br_altimeter_c130_height,1,,g,i,24000,0,32767,

@@ -1,0 +1,4 @@
+inherit,mp/loot/br/kingslayer/lootset_root.csv,,,,
+req,,ammo,6,6,
+req,,killstreak,3,3,
+req,brloot_killstreak_uav,,1,1,

@@ -57,3 +57,4 @@ siegeData.rushTimerAmount = 45.00000
 siegeData.sharedRushTimer = 0
 siegeData.preCapPoints = 0
 siegeData.capRate = 7.5
+siegeData.objScalar = 1.500000

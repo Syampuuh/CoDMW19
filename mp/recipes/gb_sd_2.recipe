@@ -82,6 +82,7 @@ commonOption.weaponRestricted.iw8_lm_pkilo = 1
 commonOption.weaponRestricted.iw8_lm_lima86 = 1
 commonOption.weaponRestricted.iw8_lm_mgolf34 = 1
 commonOption.weaponRestricted.iw8_lm_mgolf36 = 1
+commonOption.weaponRestricted.iw8_sh_aalpha12 = 1
 commonOption.weaponRestricted.iw8_sh_dpapa12 = 1
 commonOption.weaponRestricted.iw8_sh_oscar12 = 1
 commonOption.weaponRestricted.iw8_sh_charlie725 = 1
@@ -98,6 +99,7 @@ commonOption.weaponRestricted.iw8_sn_kilo98 = 1
 commonOption.weaponRestricted.iw8_sn_sbeta = 1
 commonOption.weaponRestricted.iw8_sn_mike14 = 1
 commonOption.weaponRestricted.iw8_sn_crossbow = 1
+commonOption.weaponRestricted.iw8_sn_romeo700 = 1
 
 commonOption.attachmentRestricted.gl = 1
 commonOption.attachmentRestricted.glsmoke = 1

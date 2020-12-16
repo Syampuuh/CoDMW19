@@ -45,6 +45,9 @@ LANG_ENGLISH         "Online services not available to join users
 REFERENCE            cant_join_you_are_blocked
 LANG_ENGLISH         "Join failed because this user has blocked you"
 
+REFERENCE            crosslaunch_wait_for_party_timedout
+LANG_ENGLISH         "&&1 players have joined the party. &&2 player has timed out"
+
 REFERENCE            crossplay_party_join_failed_host_has_no_permissions
 LANG_ENGLISH         "You are trying to join a cross play party, but the host does not have permissions to cross play."
 
@@ -122,6 +125,9 @@ LANG_ENGLISH         "This user is not present in the live party"
 
 REFERENCE            online_services_error
 LANG_ENGLISH         "Unable to access online services."
+
+REFERENCE            other_title
+LANG_ENGLISH         "The user is on another title"
 
 REFERENCE            playlist_invite_disabled
 LANG_ENGLISH         "One or more of the game modes you are searching for does not allow inviting players"

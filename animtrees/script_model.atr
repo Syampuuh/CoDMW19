@@ -7277,6 +7277,24 @@ cine_stadium_s0050_bag
 cine_stadium_s0080_bomb
 cine_stadium_s0080_bag
 
+//SEASON 6 INTRO
+cine_subway_s0020_nik_fl
+cine_subway_s0030_nik_fl
+cine_subway_s0040_nik_fl
+cine_subway_s0050_nik_fl
+
+cine_subway_s0040_elec_door
+
+cine_subway_s0070_knife
+
+cine_subway_s0080_train
+cine_subway_s0160_train
+cine_subway_s0200_train
+
+//SEASON 7 FINALE
+cine_silo_s0110_pistol
+cine_silo_s0120_pistol
+
 //Global
 chicken_idle_pecking
 chicken_idle_stand
@@ -8125,6 +8143,14 @@ mp_bromeo_drop_parachute
 
 sdr_mp_veh_bromeo_driver_idle
 
+// Truck Wars
+mp_mkilo23_gunner_drop_acharlie130
+mp_mkilo23_gunner_drop_mkilo23
+mp_mkilo23_gunner_drop_parachute
+mp_mkilo23_gunner_drop_acharlie130_trimmed
+mp_mkilo23_gunner_drop_mkilo23_trimmed
+mp_mkilo23_gunner_drop_parachute_trimmed
+
 // DMZ Heli Extract
 iw8_br_plunder_heli_bag_in
 iw8_br_plunder_heli_bag_out
@@ -8559,6 +8585,18 @@ sdr_mp_infil_gulag_enemy2
 sdr_mp_infil_gulag_player
 sdr_mp_infil_gulag_bed
 sdr_mp_infil_gulag_door
+sdr_mp_infil_gulag_wz_2_player
+sdr_mp_infil_gulag_wz_2_enemy1
+sdr_mp_infil_gulag_wz_2_enemy2
+sdr_mp_infil_gulag_wz_2_elevator_doors
+sdr_mp_infil_gulag_wz_2_truck
+
+sdr_mp_gulag_breakout_wz_2_start_plr
+sdr_mp_gulag_breakout_wz_2_loop_plr
+sdr_mp_gulag_breakout_wz_2_exit_plr
+sdr_mp_gulag_breakout_wz_2_start_straps
+sdr_mp_gulag_breakout_wz_2_loop_straps
+sdr_mp_gulag_breakout_wz_2_exit_straps
 
 // blockade
 cp_raid_blockade_gate_le_close
@@ -8586,6 +8624,14 @@ cp_raid_trap_room_target_idle_up_backward
 cp_raid_accordion_gate_open
 cp_trap_console_off_prop
 cp_trap_console_off_player
+
+//Escape intro
+mp_infil_escape2_jet1
+mp_infil_escape2_jet2
+mp_infil_escape2_missile1
+mp_infil_escape2_missile2
+mp_infil_escape2_missile3
+mp_infil_escape2_missile4
 
 // BR ENDING - START
 
@@ -8659,6 +8705,7 @@ br_exfil_guy0_sh030_fem
 br_exfil_guy1_sh030_fem
 br_exfil_guy2_sh030_fem
 br_exfil_guy3_sh030_fem
+br_exfil_guy0_sh030_jugg
 br_exfil_blima_sh030
 br_exfil_cam_sh030
 
@@ -8671,6 +8718,7 @@ br_exfil_guy0_sh040_fem
 br_exfil_guy1_sh040_fem
 br_exfil_guy2_sh040_fem
 br_exfil_guy3_sh040_fem
+br_exfil_guy1_sh040_jugg
 br_exfil_blima_sh040
 br_exfil_cam_sh040
 
@@ -8683,6 +8731,7 @@ br_exfil_guy0_sh050_fem
 br_exfil_guy1_sh050_fem
 br_exfil_guy2_sh050_fem
 br_exfil_guy3_sh050_fem
+br_exfil_guy2_sh050_jugg
 br_exfil_blima_sh050
 br_exfil_cam_sh050
 
@@ -8695,6 +8744,7 @@ br_exfil_guy0_sh060_fem
 br_exfil_guy1_sh060_fem
 br_exfil_guy2_sh060_fem
 br_exfil_guy3_sh060_fem
+br_exfil_guy3_sh060_jugg
 br_exfil_blima_sh060
 br_exfil_cam_sh060
 

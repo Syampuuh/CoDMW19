@@ -1,0 +1,8 @@
+0,iw8_sm_t9handling_variant_0,iw8_sm_t9handling,,,,,,,,,,,,,,,WEAPON_TANGO/SM_T9HANDLING,ui_loot_weapon_sm_uzulu,
+1,iw8_sm_t9handling_variant_1,iw8_sm_t9handling,,rec|1 front|1 back|1 mag|1,,barcust|0,laserads|1,,reflex|0,,,,,,,,WEAPON_TANGO/SM_T9HANDLING_V2,ui_loot_weapon_sm_uzulu,
+2,iw8_sm_t9handling_variant_2,iw8_sm_t9handling,,rec|2 front|2 back|2,linearbrake|0,,,,holo|1,,,stockl|1,,,,,WEAPON_TANGO/SM_T9HANDLING_V4,ui_loot_weapon_sm_uzulu,
+3,iw8_sm_t9handling_variant_3,iw8_sm_t9handling,,rec|3 front|3 back|3 mag|2,silencer|1,,,,acog|0,,,,,,,,WEAPON_TANGO/SM_T9HANDLING_V3,ui_loot_weapon_sm_uzulu,
+4,iw8_sm_t9handling_variant_4,iw8_sm_t9handling,,rec|4 front|4 back|4,brake|1,barmid|1,,gripcust2|1,,smags|1,,stockh|1,,,,,WEAPON_TANGO/SM_T9HANDLING_V5,ui_loot_weapon_sm_uzulu,
+5,iw8_sm_t9handling_variant_5,iw8_sm_t9handling,iw8_sm_t9handling_mpv2,rec|5 front|5 back|5,silencer|0,,laserrange|0,,reflex|1,smags|2,,stockl|1,,,,,WEAPON_TANGO/SM_T9HANDLING_V6,ui_loot_weapon_sm_uzulu,
+6,iw8_sm_t9handling_variant_6,iw8_sm_t9handling,iw8_sm_t9handling_mpv3,rec|1 front|1 back|1 mag|3,silencer|0,barmid|0,laserbalanced|0,,,,,stockfold|0,,,,,WEAPON_TANGO/SM_T9HANDLING_V7,ui_loot_weapon_sm_uzulu,
+7,iw8_sm_t9handling_variant_7,iw8_sm_t9handling,iw8_sm_t9handling_mpv4,rec|1 front|1 back|1,silencer2|1,,,gripang|1,holo2|1,smags|3,,stockno|1,,,,,WEAPON_TANGO/SM_T9HANDLING_V8,ui_loot_weapon_sm_uzulu,

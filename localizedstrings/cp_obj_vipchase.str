@@ -2,53 +2,53 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            combat_1
-LANG_ENGLISH         "^4Overlord^7: He sneaked past all the smoke!  Clear his bodyguards quickly."
-
-REFERENCE            combat_2
-LANG_ENGLISH         "^4Overlord^7: He's dropping flashbangs!  Clear his posse and find him again!"
-
-REFERENCE            description
-LANG_ENGLISH         "Don't lose OR kill the HVT."
-
-REFERENCE            description2
-LANG_ENGLISH         "Kill the bodyguards"
-
-REFERENCE            description3
-LANG_ENGLISH         "Find the HVT before he escapes"
-
-REFERENCE            description4
-LANG_ENGLISH         "Melee and interrogate the HVT"
-
-REFERENCE            description5
-LANG_ENGLISH         "Survive until exfil arrives."
-
-REFERENCE            final_stretch
-LANG_ENGLISH         "^4Overlord^7: There's a car waiting for him.  It's now or never."
-
-REFERENCE            interrogation_ready
-LANG_ENGLISH         "^4Overlord^7: I received word that we have his family.  He'll talk now.  Melee him and interrogate him before he escapes!"
-
-REFERENCE            intro
-LANG_ENGLISH         "^4Overlord^7: Your target is in that supermarket.  Do not kill him, and do not let him escape.  Wait for the clear to subdue and interrogate him."
-
-REFERENCE            start_looking
-LANG_ENGLISH         "^4Overlord^7: Bodyguards down.  Start looking for our man again!"
-
-REFERENCE            vip_escaped
-LANG_ENGLISH         "^4Overlord^7:  You came out empty handed.  Enemies are swarming your location.  Hold out for exfil."
-
-REFERENCE            vip_exfil_countdown1
-LANG_ENGLISH         "^4Overlord^7:  Exfil bird inbound. ETA 1 mike."
-
-REFERENCE            vip_exfil_countdown2
-LANG_ENGLISH         "^4Overlord^7:  Exfil bird inbound.  ETA 30 seconds."
+REFERENCE            vip_spotted
+LANG_ENGLISH         "^4Overlord^7: Target spotted.  Don't let him out of your sight!"
 
 REFERENCE            vip_interrogated
 LANG_ENGLISH         "^4Overlord^7: Good work.  That's the location and name of his boss.  Mission accomplished."
 
-REFERENCE            vip_spotted
-LANG_ENGLISH         "^4Overlord^7: Target spotted.  Don't let him out of your sight!"
+REFERENCE            vip_exfil_countdown2
+LANG_ENGLISH         "^4Overlord^7:  Exfil bird inbound.  ETA 30 seconds."
+
+REFERENCE            vip_exfil_countdown1
+LANG_ENGLISH         "^4Overlord^7:  Exfil bird inbound. ETA 1 mike."
+
+REFERENCE            vip_escaped
+LANG_ENGLISH         "^4Overlord^7:  You came out empty handed.  Enemies are swarming your location.  Hold out for exfil."
+
+REFERENCE            start_looking
+LANG_ENGLISH         "^4Overlord^7: Bodyguards down.  Start looking for our man again!"
+
+REFERENCE            intro
+LANG_ENGLISH         "^4Overlord^7: Your target is in that supermarket.  Do not kill him, and do not let him escape.  Wait for the clear to subdue and interrogate him."
+
+REFERENCE            interrogation_ready
+LANG_ENGLISH         "^4Overlord^7: I received word that we have his family.  He'll talk now.  Melee him and interrogate him before he escapes!"
+
+REFERENCE            final_stretch
+LANG_ENGLISH         "^4Overlord^7: There's a car waiting for him.  It's now or never."
+
+REFERENCE            description5
+LANG_ENGLISH         "Survive until exfil arrives."
+
+REFERENCE            description4
+LANG_ENGLISH         "Melee and interrogate the HVT"
+
+REFERENCE            description3
+LANG_ENGLISH         "Find the HVT before he escapes"
+
+REFERENCE            description2
+LANG_ENGLISH         "Kill the bodyguards"
+
+REFERENCE            description
+LANG_ENGLISH         "Don't lose OR kill the HVT."
+
+REFERENCE            combat_2
+LANG_ENGLISH         "^4Overlord^7: He's dropping flashbangs!  Clear his posse and find him again!"
+
+REFERENCE            combat_1
+LANG_ENGLISH         "^4Overlord^7: He sneaked past all the smoke!  Clear his bodyguards quickly."
 
 
 ENDMARKER

@@ -209,17 +209,44 @@ LANG_ENGLISH         "ACCESSORY009 description"
 REFERENCE            accessory010
 LANG_ENGLISH         "Crunch Time"
 
+REFERENCE            accessory0100
+LANG_ENGLISH         "Fatal Sequence"
+
 REFERENCE            accessory0101
 LANG_ENGLISH         "Black Sea"
 
 REFERENCE            accessory0101_desc
 LANG_ENGLISH         "Sail into darkness with the Black Sea Watch."
 
+REFERENCE            accessory0102
+LANG_ENGLISH         "Desert Sands"
+
+REFERENCE            accessory0102_desc
+LANG_ENGLISH         "Careful not to drop the Desert Sands Watch on the beach, you may never find it again."
+
 REFERENCE            accessory0103
 LANG_ENGLISH         "Mangrove"
 
 REFERENCE            accessory0103_desc
 LANG_ENGLISH         "Time your victory with the Mangrove Watch."
+
+REFERENCE            accessory0104
+LANG_ENGLISH         "Sublime"
+
+REFERENCE            accessory0104_desc
+LANG_ENGLISH         "There's only one time that matters with the Sublime Watch... Just check your wrist."
+
+REFERENCE            accessory0105
+LANG_ENGLISH         "Ruse"
+
+REFERENCE            accessory0105_desc
+LANG_ENGLISH         "Keep track of the long con with the Ruse Watch."
+
+REFERENCE            accessory0106
+LANG_ENGLISH         "Time of the Season"
+
+REFERENCE            accessory0106_desc
+LANG_ENGLISH         "The Time of The Season Watch is perfect if you've ever wanted a swarm of bats on your wrist while you keep an eye on the clock."
 
 REFERENCE            accessory010_desc
 LANG_ENGLISH         "When your back is against the wall - it's time to crunch!"
@@ -231,10 +258,10 @@ REFERENCE            accessory011_desc
 LANG_ENGLISH         "Stay hungry with the Dinner Time watch."
 
 REFERENCE            accessory012
-LANG_ENGLISH         "Fluorescent Wonder"
+LANG_ENGLISH         "Time Frame"
 
 REFERENCE            accessory012_desc
-LANG_ENGLISH         "Always be on time with this DIY vacuum fluorescent display - long on brightness, short on battery life!"
+LANG_ENGLISH         "Always be on time with the Time Frame Watch."
 
 REFERENCE            accessory013
 LANG_ENGLISH         "Golden Grandeur"
@@ -533,7 +560,7 @@ REFERENCE            accessory064
 LANG_ENGLISH         "Blood Simple"
 
 REFERENCE            accessory064_desc
-LANG_ENGLISH         "It???s always a bloody good time in the Blood Simple Watch."
+LANG_ENGLISH         "It???s always a bloody good time with the Blood Simple Watch."
 
 REFERENCE            accessory065
 LANG_ENGLISH         "Red Ratio"
@@ -595,6 +622,12 @@ LANG_ENGLISH         "A Time To Reap"
 REFERENCE            accessory074_desc
 LANG_ENGLISH         "Make sure your opponents never miss their appointment with death when you wear your A Time To Reap Watch."
 
+REFERENCE            accessory075
+LANG_ENGLISH         "Goblin"
+
+REFERENCE            accessory075_desc
+LANG_ENGLISH         "Get mean with the Goblin Watch."
+
 REFERENCE            accessory076
 LANG_ENGLISH         "Mini Map"
 
@@ -617,7 +650,10 @@ REFERENCE            accessory079_desc
 LANG_ENGLISH         "Take no time off with the Willpower Watch."
 
 REFERENCE            accessory080
-LANG_ENGLISH         "ACCESSORY080"
+LANG_ENGLISH         "Oxidized"
+
+REFERENCE            accessory080_desc
+LANG_ENGLISH         "Break them down with your Oxidized Watch."
 
 REFERENCE            accessory081
 LANG_ENGLISH         "Redline"
@@ -677,10 +713,13 @@ REFERENCE            accessory090
 LANG_ENGLISH         "Isotope"
 
 REFERENCE            accessory090_desc
-LANG_ENGLISH         "No Splitting hairs with the Isotope Watch."
+LANG_ENGLISH         "No splitting hairs with the Isotope Watch."
 
 REFERENCE            accessory091
-LANG_ENGLISH         "ACCESSORY091"
+LANG_ENGLISH         "Sakura Zensen"
+
+REFERENCE            accessory091_flavor
+LANG_ENGLISH         "Time every attack perfectly with the Sakura Zensen Watch."
 
 REFERENCE            accessory092
 LANG_ENGLISH         "Night Watchman"
@@ -723,6 +762,9 @@ LANG_ENGLISH         "Death Note"
 
 REFERENCE            accessory099_desc
 LANG_ENGLISH         "Time your opponent's demise with the Death Note Watch."
+
+REFERENCE            accessory100_desc
+LANG_ENGLISH         "Time their demise with the Fatal Sequence Watch."
 
 REFERENCE            accessory_067
 LANG_ENGLISH         "Always keep spatial awareness when utilizing the Mini-Map watch."
@@ -1225,6 +1267,12 @@ LANG_ENGLISH         "Bandwidth is a very simple test of download speeds."
 REFERENCE            banked_intel
 LANG_ENGLISH         "BANKED"
 
+REFERENCE            barebones_add_info
+LANG_ENGLISH         "Perks, field upgrades and killstreak are unavailable when playing this game mode."
+
+REFERENCE            barebones_rules_effect
+LANG_ENGLISH         "Barebones rules in effect"
+
 REFERENCE            barracks
 LANG_ENGLISH         "Barracks"
 
@@ -1273,8 +1321,11 @@ LANG_ENGLISH         "You can equip a ^5War Track^7 via the War Tracks menu in v
 REFERENCE            battle_xptoken_equipped
 LANG_ENGLISH         "Double Battle Pass XP Token equipped"
 
+REFERENCE            battlenet_modify_install
+LANG_ENGLISH         "To modify the installation, the game will exit. Do you want to proceed?"
+
 REFERENCE            battlepass_xp_token
-LANG_ENGLISH         "Battlepass XP token"
+LANG_ENGLISH         "Battle Pass XP token"
 
 REFERENCE            battletag_with_read_id_name
 LANG_ENGLISH         "&&1 (&&2)"
@@ -1291,23 +1342,32 @@ LANG_ENGLISH         "Best Time"
 REFERENCE            best_time_caps
 LANG_ENGLISH         "BEST TIME"
 
+REFERENCE            beta_go_to_store
+LANG_ENGLISH         "EARLY BETA ACCESS"
+
+REFERENCE            beta_go_to_store_desc
+LANG_ENGLISH         "You need to purchase Call of Duty??: Black Ops Cold War to access the early beta."
+
 REFERENCE            bio_background
-LANG_ENGLISH         "^)BACKGROUND^7  &&1"
+LANG_ENGLISH         "^5BACKGROUND^7  &&1"
 
 REFERENCE            bio_citizenship
-LANG_ENGLISH         "^)CITIZENSHIP^7  &&1"
+LANG_ENGLISH         "^5CITIZENSHIP^7  &&1"
 
 REFERENCE            bio_faction_details
-LANG_ENGLISH         "^)FACTION DETAILS^7  &&1, &&2"
+LANG_ENGLISH         "^5FACTION DETAILS^7  &&1, &&2"
+
+REFERENCE            bio_faction_details_cw
+LANG_ENGLISH         "^5FACTION DETAILS^7  &&1"
 
 REFERENCE            bio_first_language
-LANG_ENGLISH         "^)FIRST LANGUAGE^7  &&1"
+LANG_ENGLISH         "^5FIRST LANGUAGE^7  &&1"
 
 REFERENCE            bio_name
-LANG_ENGLISH         "^)NAME^7  &&1"
+LANG_ENGLISH         "^5NAME^7  &&1"
 
 REFERENCE            bio_status
-LANG_ENGLISH         "^)STATUS^7  &&1"
+LANG_ENGLISH         "^5STATUS^7  &&1"
 
 REFERENCE            bio_warfare_season
 LANG_ENGLISH         "Bio Warfare Season"
@@ -1482,6 +1542,9 @@ LANG_ENGLISH         "Killstreak selections have no effect in ^5Warzone ^7game m
 
 REFERENCE            br_warning_perk_specialist_desc
 LANG_ENGLISH         "Specialist has no effect in ^5Warzone ^7game modes"
+
+REFERENCE            brackets_wrapper
+LANG_ENGLISH         "[&&1]"
 
 REFERENCE            breadcrumb_2_items
 LANG_ENGLISH         "&&1 / &&2"
@@ -1836,6 +1899,9 @@ LANG_ENGLISH         "CASH FLOW"
 
 REFERENCE            cdl_add_info
 LANG_ENGLISH         "Blueprints and field upgrade pro is unavailable when playing the Call of Duty League??? rule set."
+
+REFERENCE            cdl_add_info_allow_blueprints
+LANG_ENGLISH         "Field upgrade pro and some blueprints are unavailable when playing the Call of Duty League??? rule set."
 
 REFERENCE            cdl_caps
 LANG_ENGLISH         "Call of Duty League???"
@@ -2203,8 +2269,17 @@ LANG_ENGLISH         "Currency"
 REFERENCE            code_pack_2
 LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Fearless Pack"
 
+REFERENCE            code_pack_zeus
+LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Fearless Pack"
+
 REFERENCE            codename
 LANG_ENGLISH         "Codename"
+
+REFERENCE            cold_war_first
+LANG_ENGLISH         "Cold War First"
+
+REFERENCE            cold_war_only
+LANG_ENGLISH         "Cold War Only"
 
 REFERENCE            collected_x
 LANG_ENGLISH         "Collected &&1"
@@ -2805,6 +2880,15 @@ LANG_ENGLISH         "View the credits."
 REFERENCE            crm_splitscreen_warning
 LANG_ENGLISH         "Player 1's Messages"
 
+REFERENCE            crosslaunch_attempt_failure_toast_desc
+LANG_ENGLISH         "The request did not succeed."
+
+REFERENCE            crosslaunch_attempt_success_toast_desc
+LANG_ENGLISH         "You have successfully crosslaunched"
+
+REFERENCE            crosslaunch_attempt_toast_header
+LANG_ENGLISH         "Crosslaunch Request Response"
+
 REFERENCE            crossplay_communication
 LANG_ENGLISH         "Crossplay Communication"
 
@@ -3173,6 +3257,9 @@ LANG_ENGLISH         "Default Loadout"
 
 REFERENCE            default_operator_loot
 LANG_ENGLISH         "Default"
+
+REFERENCE            default_order
+LANG_ENGLISH         "Default Order"
 
 REFERENCE            default_west
 LANG_ENGLISH         "MIL-SIM"
@@ -3675,6 +3762,9 @@ LANG_ENGLISH         "Enable crossplay to continue"
 REFERENCE            enabled
 LANG_ENGLISH         "Enabled"
 
+REFERENCE            enabled_boost
+LANG_ENGLISH         "Enabled + Boost"
+
 REFERENCE            end_game
 LANG_ENGLISH         "Leave Game"
 
@@ -3725,6 +3815,9 @@ LANG_ENGLISH         "Enter Name"
 REFERENCE            equip
 LANG_ENGLISH         "Equip"
 
+REFERENCE            equip_and_close
+LANG_ENGLISH         "Equip and Close"
+
 REFERENCE            equip_extra_attach
 LANG_ENGLISH         "Equip the Extra Attachment Perk to unlock."
 
@@ -3742,6 +3835,15 @@ LANG_ENGLISH         "Equipped:"
 
 REFERENCE            equipped_caps
 LANG_ENGLISH         "EQUIPPED"
+
+REFERENCE            equipped_veh_camo
+LANG_ENGLISH         "Equipped Vehicle Skin"
+
+REFERENCE            equipped_veh_horn
+LANG_ENGLISH         "Equipped Vehicle Horn"
+
+REFERENCE            equipped_veh_track
+LANG_ENGLISH         "Equipped Vehicle War Track Pack"
 
 REFERENCE            equipped_with_name
 LANG_ENGLISH         "Equipped: &&1"
@@ -3819,6 +3921,9 @@ LANG_ENGLISH         "Faction operator"
 
 REFERENCE            farah
 LANG_ENGLISH         "FARAH"
+
+REFERENCE            farah_background
+LANG_ENGLISH         "An exceptional soldier who has known a lifetime of war, Farah Ahmed Karim is the founder and commander of the Urzikstan Liberation Force. Her combat capabilities and fieldcraft have been further honed by Tier-1 level training with the SAS."
 
 REFERENCE            favorite_faction
 LANG_ENGLISH         "Favorite Faction"
@@ -3925,6 +4030,9 @@ LANG_ENGLISH         "Fill type"
 REFERENCE            filter
 LANG_ENGLISH         "Filter"
 
+REFERENCE            filter_by_title
+LANG_ENGLISH         "Filter By Title"
+
 REFERENCE            filter_caps
 LANG_ENGLISH         "FILTER"
 
@@ -3972,6 +4080,12 @@ LANG_ENGLISH         "First Class: &&1"
 
 REFERENCE            first_language
 LANG_ENGLISH         "First Language"
+
+REFERENCE            first_place
+LANG_ENGLISH         "&&1st"
+
+REFERENCE            first_place_fem
+LANG_ENGLISH         "&&1st"
 
 REFERENCE            firstparty_connected
 LANG_ENGLISH         "Connected to First Party Servers: &&1"
@@ -4122,6 +4236,12 @@ LANG_ENGLISH         "Shake for answer..."
 
 REFERENCE            four_speakers
 LANG_ENGLISH         "4 Speakers"
+
+REFERENCE            fourth_place
+LANG_ENGLISH         "&&1th"
+
+REFERENCE            fourth_place_fem
+LANG_ENGLISH         "&&1th"
 
 REFERENCE            fps
 LANG_ENGLISH         "&&1 FPS"
@@ -4654,6 +4774,9 @@ LANG_ENGLISH         "Play Multiplayer or Co-Op via internet connection."
 REFERENCE            go_to_store
 LANG_ENGLISH         "Go to Store"
 
+REFERENCE            go_to_store_action
+LANG_ENGLISH         "GO TO THE STORE"
+
 REFERENCE            gold_caps
 LANG_ENGLISH         "GOLD"
 
@@ -4682,6 +4805,12 @@ LANG_ENGLISH         "Graphics"
 
 REFERENCE            grenade_launcher
 LANG_ENGLISH         "Grenade Launcher"
+
+REFERENCE            griggs
+LANG_ENGLISH         "GRIGGS"
+
+REFERENCE            griggs_background
+LANG_ENGLISH         "A Marine???s Marine who truly believes in the rule of law, few NCOs in the Corps are more beloved than Marcus Griggs. Fair, capable, and charismatic, Griggs can motivate and inspire troops in ways other officers only dream of."
 
 REFERENCE            grinch
 LANG_ENGLISH         "GRINCH"
@@ -4779,6 +4908,9 @@ LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Four)"
 REFERENCE            head_start_04
 LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Five)"
 
+REFERENCE            head_start_05
+LANG_ENGLISH         "Call of Duty??: Warzone - Combat Pack (Season Six)"
+
 REFERENCE            head_up_display
 LANG_ENGLISH         "Head-up Display"
 
@@ -4845,8 +4977,20 @@ LANG_ENGLISH         "High"
 REFERENCE            high_party_member_count_warning
 LANG_ENGLISH         "The area you are moving to allows up to &&2 party members, you currently have &&1. Remove some party members and try again."
 
+REFERENCE            high_res_texture_pack_desc
+LANG_ENGLISH         "Do you wish to install the High Resolution Texture Pack? Game will restart when installing."
+
+REFERENCE            high_res_texture_pack_desc2
+LANG_ENGLISH         "NOTE: You can manage your installs from the Game Installs menu within General options at any time."
+
+REFERENCE            high_res_texture_pack_title
+LANG_ENGLISH         "Install High Resolution Texture Pack"
+
 REFERENCE            highest_combo
 LANG_ENGLISH         "Highest Combo: &&1"
+
+REFERENCE            highest_level_first
+LANG_ENGLISH         "Highest Level First"
 
 REFERENCE            hits
 LANG_ENGLISH         "Hits"
@@ -5113,6 +5257,12 @@ LANG_ENGLISH         "Born of an Urzikstani mother and Russian father during Bar
 
 REFERENCE            iskra
 LANG_ENGLISH         "ISKRA"
+
+REFERENCE            italian
+LANG_ENGLISH         "Italian"
+
+REFERENCE            italy
+LANG_ENGLISH         "Italy"
 
 REFERENCE            item_cost
 LANG_ENGLISH         "Item cost:"
@@ -5421,6 +5571,18 @@ LANG_ENGLISH         "Last Tier Reached"
 REFERENCE            latency
 LANG_ENGLISH         "Latency"
 
+REFERENCE            launch_arena
+LANG_ENGLISH         "Arena"
+
+REFERENCE            launch_cp
+LANG_ENGLISH         "Campaign"
+
+REFERENCE            launch_mp
+LANG_ENGLISH         "Multiplayer"
+
+REFERENCE            launch_zm
+LANG_ENGLISH         "Zombies"
+
 REFERENCE            lb_filter_duration_alltime
 LANG_ENGLISH         "All Time"
 
@@ -5601,6 +5763,9 @@ LANG_ENGLISH         "Leave with party"
 REFERENCE            leave_without_party
 LANG_ENGLISH         "Leave without party"
 
+REFERENCE            leave_wz_private_match
+LANG_ENGLISH         "Are you sure you want to leave the game?"
+
 REFERENCE            left
 LANG_ENGLISH         "Left"
 
@@ -5633,6 +5798,9 @@ LANG_ENGLISH         "LEVEL"
 
 REFERENCE            level_locked
 LANG_ENGLISH         "LOCKED"
+
+REFERENCE            level_x_unlocks
+LANG_ENGLISH         "Level &&1 Unlocks"
 
 REFERENCE            lifestreak
 LANG_ENGLISH         "Lifestreak"
@@ -5763,6 +5931,9 @@ LANG_ENGLISH         "Not enough Squad Points to unlock ^3&&1^7"
 REFERENCE            locked_caps
 LANG_ENGLISH         "LOCKED"
 
+REFERENCE            locked_first
+LANG_ENGLISH         "Locked First"
+
 REFERENCE            locked_items
 LANG_ENGLISH         "Locked Items"
 
@@ -5795,6 +5966,9 @@ LANG_ENGLISH         "Low"
 
 REFERENCE            lower_difficulty
 LANG_ENGLISH         "Lower Difficulty"
+
+REFERENCE            lowest_level_first
+LANG_ENGLISH         "Lowest Level First"
 
 REFERENCE            lpc_crossplay_recommended_message
 LANG_ENGLISH         "Due to the high number of players required for this mode, crossplay is highly recommended to improve match quality.
@@ -5946,6 +6120,9 @@ LANG_ENGLISH         "Scorch"
 REFERENCE            mapname_divide_caps
 LANG_ENGLISH         "SCORCH"
 
+REFERENCE            mapname_dntsk_proto
+LANG_ENGLISH         "Donetsk Prototypes"
+
 REFERENCE            mapname_dome_iw
 LANG_ENGLISH         "Genesis"
 
@@ -6003,6 +6180,9 @@ LANG_ENGLISH         "Tavorsk District"
 REFERENCE            mapname_emporium
 LANG_ENGLISH         "Atlas Superstore"
 
+REFERENCE            mapname_escape2
+LANG_ENGLISH         "Rebirth Island"
+
 REFERENCE            mapname_euphrates
 LANG_ENGLISH         "Euphrates Bridge"
 
@@ -6051,11 +6231,20 @@ LANG_ENGLISH         "Suldal Harbor"
 REFERENCE            mapname_hardhat
 LANG_ENGLISH         "Hardhat"
 
+REFERENCE            mapname_herat
+LANG_ENGLISH         "Al-Raab Airbase"
+
 REFERENCE            mapname_hideout
 LANG_ENGLISH         "Khandor Hideout"
 
 REFERENCE            mapname_hospital
 LANG_ENGLISH         "Hospital"
+
+REFERENCE            mapname_killhouse
+LANG_ENGLISH         "Killhouse"
+
+REFERENCE            mapname_kstenod
+LANG_ENGLISH         "Verdansk (Night)"
 
 REFERENCE            mapname_layover
 LANG_ENGLISH         "Verdansk International Airport"
@@ -6114,11 +6303,14 @@ LANG_ENGLISH         "Speedball"
 REFERENCE            mapname_m_stack
 LANG_ENGLISH         "Stack"
 
+REFERENCE            mapname_m_stadium
+LANG_ENGLISH         "Verdansk Stadium"
+
 REFERENCE            mapname_m_townhouse
 LANG_ENGLISH         "Townhouse"
 
 REFERENCE            mapname_m_train
-LANG_ENGLISH         "Train"
+LANG_ENGLISH         "Station"
 
 REFERENCE            mapname_m_trench
 LANG_ENGLISH         "Trench"
@@ -6127,7 +6319,7 @@ REFERENCE            mapname_m_wallco2
 LANG_ENGLISH         "Aisle 9"
 
 REFERENCE            mapname_malyshev
-LANG_ENGLISH         "Malyshev"
+LANG_ENGLISH         "Mialstor Tank Factory"
 
 REFERENCE            mapname_metropolis
 LANG_ENGLISH         "Precinct"
@@ -6215,6 +6407,9 @@ LANG_ENGLISH         "Retaliation"
 
 REFERENCE            mapname_riot_caps
 LANG_ENGLISH         "RETALIATION"
+
+REFERENCE            mapname_riverside
+LANG_ENGLISH         "Verdansk Riverside"
 
 REFERENCE            mapname_rivet
 LANG_ENGLISH         "Skydock"
@@ -6417,6 +6612,9 @@ LANG_ENGLISH         "Midnight Mode"
 REFERENCE            midnight_mode_description
 LANG_ENGLISH         "Low dynamic range. When you need to listen at softer volume but still keep the details."
 
+REFERENCE            milsim
+LANG_ENGLISH         "MIL-SIM"
+
 REFERENCE            minimap_error
 LANG_ENGLISH         "Map Unavailable"
 
@@ -6453,6 +6651,18 @@ LANG_ENGLISH         "You are missing one or more Special Ops DLC packs. Please 
 REFERENCE            missing_dlc_cp3
 LANG_ENGLISH         "You do not own or are missing the Spec Ops Survival DLC pack. Please purchase or download."
 
+REFERENCE            missing_dlc_cp3_battlenet
+LANG_ENGLISH         "You are missing the Spec Ops Survival DLC pack. To modify the installation, the game will exit. Do you want to proceed?"
+
+REFERENCE            missing_dlc_cp3_party
+LANG_ENGLISH         "A party member does not own or is missing the Spec Ops Survival DLC pack."
+
+REFERENCE            missing_dlc_dp1
+LANG_ENGLISH         "You do not own or are missing the Data Pack 1 DLC. Please download and install."
+
+REFERENCE            missing_dlc_dp2
+LANG_ENGLISH         "You do not own or are missing the Data Pack 2 DLC. Please download and install."
+
 REFERENCE            missing_dlc_local
 LANG_ENGLISH         "You are missing a required DLC pack to play this mode.  Please download and install to continue."
 
@@ -6466,9 +6676,6 @@ REFERENCE            missing_dlc_mp2
 LANG_ENGLISH         "You do not own or are missing the Multi Player DLC Pack 2. Please download and install."
 
 REFERENCE            missing_dlc_mp3
-LANG_ENGLISH         "You do not own or are missing the Data Pack 1 DLC. Please download and install."
-
-REFERENCE            missing_dlc_mp4
 LANG_ENGLISH         "You do not own or are missing the Multi Player DLC Pack 3. Please download and install."
 
 REFERENCE            missing_dlc_sp
@@ -6577,6 +6784,12 @@ LANG_ENGLISH         "More details"
 
 REFERENCE            more_details_prompt
 LANG_ENGLISH         "[{ui_alt1}] More Details"
+
+REFERENCE            morte
+LANG_ENGLISH         "MORTE"
+
+REFERENCE            morte_background
+LANG_ENGLISH         "A skilled tracker who loves the Old West and strongly adheres to his own rules regarding right and wrong. Served with the legendary Col Moschin paratrooper regiment in Italy before being selected to join Warcom."
 
 REFERENCE            most_used_ability
 LANG_ENGLISH         "Most used Ability"
@@ -6730,8 +6943,14 @@ LANG_ENGLISH         "MVP"
 REFERENCE            mw2r
 LANG_ENGLISH         "Underwater Demo Team Classic Ghost Bundle"
 
+REFERENCE            mw_first
+LANG_ENGLISH         "MW First"
+
 REFERENCE            mw_level
 LANG_ENGLISH         "Career Level: &&1"
+
+REFERENCE            mw_only
+LANG_ENGLISH         "MW Only"
 
 REFERENCE            my_modes
 LANG_ENGLISH         "My Modes"
@@ -6775,6 +6994,9 @@ LANG_ENGLISH         "New Balance"
 
 REFERENCE            new_exclamation
 LANG_ENGLISH         "New!"
+
+REFERENCE            new_first
+LANG_ENGLISH         "New First"
 
 REFERENCE            new_game_desc
 LANG_ENGLISH         "Start a new Campaign."
@@ -6825,10 +7047,10 @@ REFERENCE            next_unlock_rank
 LANG_ENGLISH         "(rank &&1)"
 
 REFERENCE            ng_caps
-LANG_ENGLISH         "Filler NG Filler"
+LANG_ENGLISH         "COLD WAR BETA"
 
 REFERENCE            ng_desc
-LANG_ENGLISH         "Decription about NG"
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War"
 
 REFERENCE            nightfall_coop_caps
 LANG_ENGLISH         "NIGHTFALL - CO-OP"
@@ -6838,6 +7060,12 @@ LANG_ENGLISH         "NIGHTFALL - VICTORIES"
 
 REFERENCE            nightfall_solo_caps
 LANG_ENGLISH         "NIGHTFALL - SOLO"
+
+REFERENCE            nikolai
+LANG_ENGLISH         "NIKOLAI"
+
+REFERENCE            nikolai_background
+LANG_ENGLISH         "A Russian patriot whose love of country is only matched by his love of weaponry, Nikolai is a fixer who can acquire anything, anywhere. Despite his murky background, when it counts most, he???ll always choose right over wrong."
 
 REFERENCE            nikto
 LANG_ENGLISH         "NIKTO"
@@ -6999,6 +7227,18 @@ LANG_ENGLISH         "^5Disabled:^7 NVIDIA Highlights won't record any highlight
 
 This feature requires specific NVIDIA hardware. Please make sure that the feature is enabled in the GEFORCE EXPERIENCE panel."
 
+REFERENCE            nvidia_reflex
+LANG_ENGLISH         "NVIDIA Reflex Low Latency"
+
+REFERENCE            nvidia_reflex_description
+LANG_ENGLISH         "NVIDIA Reflex is used to reduce system latency which increases PC responsiveness.
+
+^5Disabled:^7  Low Latency mode is disabled.
+
+^5Enabled:^7 Low Latency mode is enabled and optimizing system latency.
+
+^5Enabled + Boost:^7  Low Latency mode is now enabled and optimizing system latency. Additionally, GPU clock frequencies are kept high in CPU bound cases. This can reduce latency but will increase GPU power draw."
+
 REFERENCE            nvidia_summary
 LANG_ENGLISH         "Highlights"
 
@@ -7119,6 +7359,9 @@ LANG_ENGLISH         "Eliminator"
 REFERENCE            operator_alex_skin_5
 LANG_ENGLISH         "Automaton"
 
+REFERENCE            operator_alex_skin_6
+LANG_ENGLISH         "Sidewinder"
+
 REFERENCE            operator_alex_skin_basic
 LANG_ENGLISH         "Indomitable"
 
@@ -7139,6 +7382,15 @@ LANG_ENGLISH         "Undercurrent"
 
 REFERENCE            operator_alice_skin_14
 LANG_ENGLISH         "Haywire"
+
+REFERENCE            operator_alice_skin_15
+LANG_ENGLISH         "Perfect Cover"
+
+REFERENCE            operator_alice_skin_16
+LANG_ENGLISH         "Clash"
+
+REFERENCE            operator_alice_skin_17
+LANG_ENGLISH         "Cut Off"
 
 REFERENCE            operator_alice_skin_2
 LANG_ENGLISH         "Maplewood"
@@ -7239,6 +7491,21 @@ LANG_ENGLISH         "Darkness"
 REFERENCE            operator_bale_skin_14
 LANG_ENGLISH         "Protectorate"
 
+REFERENCE            operator_bale_skin_15
+LANG_ENGLISH         "Yenisey"
+
+REFERENCE            operator_bale_skin_16
+LANG_ENGLISH         "Chara Sands"
+
+REFERENCE            operator_bale_skin_17
+LANG_ENGLISH         "Black Jack"
+
+REFERENCE            operator_bale_skin_18
+LANG_ENGLISH         "Salvo"
+
+REFERENCE            operator_bale_skin_19
+LANG_ENGLISH         "Dr. Karlov"
+
 REFERENCE            operator_bale_skin_2
 LANG_ENGLISH         "Riot"
 
@@ -7332,6 +7599,9 @@ LANG_ENGLISH         "Passerine"
 REFERENCE            operator_crowfoot_skin_12
 LANG_ENGLISH         "Bear Claw"
 
+REFERENCE            operator_crowfoot_skin_13
+LANG_ENGLISH         "Motu Nui"
+
 REFERENCE            operator_crowfoot_skin_2
 LANG_ENGLISH         "OPERATOR_CROWFOOT_SKIN_2"
 
@@ -7365,6 +7635,9 @@ LANG_ENGLISH         "True Victory"
 REFERENCE            operator_dday_skin_11
 LANG_ENGLISH         "Bushranger"
 
+REFERENCE            operator_dday_skin_110
+LANG_ENGLISH         "OPERATOR_DDAY_SKIN_110"
+
 REFERENCE            operator_dday_skin_12
 LANG_ENGLISH         "Clipped In"
 
@@ -7392,6 +7665,9 @@ LANG_ENGLISH         "Weekend Warrior"
 REFERENCE            operator_dday_skin_2
 LANG_ENGLISH         "Sage Brush"
 
+REFERENCE            operator_dday_skin_20
+LANG_ENGLISH         "Ambush"
+
 REFERENCE            operator_dday_skin_3
 LANG_ENGLISH         "Fall"
 
@@ -7417,7 +7693,7 @@ REFERENCE            operator_domino_skin_1
 LANG_ENGLISH         "Commando"
 
 REFERENCE            operator_domino_skin_10
-LANG_ENGLISH         "707th SMB"
+LANG_ENGLISH         "Close to Home"
 
 REFERENCE            operator_domino_skin_11
 LANG_ENGLISH         "Security Detail"
@@ -7440,8 +7716,23 @@ LANG_ENGLISH         "Martres"
 REFERENCE            operator_domino_skin_17
 LANG_ENGLISH         "Sangliers"
 
+REFERENCE            operator_domino_skin_18
+LANG_ENGLISH         "Off Grid"
+
+REFERENCE            operator_domino_skin_19
+LANG_ENGLISH         "Wilderness"
+
 REFERENCE            operator_domino_skin_2
 LANG_ENGLISH         "Cold Timber"
+
+REFERENCE            operator_domino_skin_20
+LANG_ENGLISH         "Le Taillefer"
+
+REFERENCE            operator_domino_skin_21
+LANG_ENGLISH         "OPERATOR_DOMINO_SKIN_21"
+
+REFERENCE            operator_domino_skin_22
+LANG_ENGLISH         "OPERATOR_DOMINO_SKIN_22"
 
 REFERENCE            operator_domino_skin_3
 LANG_ENGLISH         "Jungle"
@@ -7506,6 +7797,15 @@ LANG_ENGLISH         "Operator Enhanced Edition"
 REFERENCE            operator_faction_level
 LANG_ENGLISH         "Level &&1"
 
+REFERENCE            operator_farah_skin_1
+LANG_ENGLISH         "Halmasti"
+
+REFERENCE            operator_farah_skin_2
+LANG_ENGLISH         "Jinn"
+
+REFERENCE            operator_farah_skin_3
+LANG_ENGLISH         "Unbroken Will"
+
 REFERENCE            operator_fullname_alex
 LANG_ENGLISH         "Alex"
 
@@ -7528,13 +7828,16 @@ REFERENCE            operator_fullname_domino
 LANG_ENGLISH         "Sgt. Dominique Tam - "Domino""
 
 REFERENCE            operator_fullname_farah
-LANG_ENGLISH         "Farah"
+LANG_ENGLISH         "Farah Karim"
 
 REFERENCE            operator_fullname_ghost
 LANG_ENGLISH         "Ghost"
 
 REFERENCE            operator_fullname_golem
 LANG_ENGLISH         "Lt. Hans Rudolf Blaustein - "Golem""
+
+REFERENCE            operator_fullname_griggs
+LANG_ENGLISH         "Marcus Griggs"
 
 REFERENCE            operator_fullname_grinch
 LANG_ENGLISH         "Unknown"
@@ -7569,8 +7872,14 @@ LANG_ENGLISH         "Mara"
 REFERENCE            operator_fullname_minotaur
 LANG_ENGLISH         "Sgt. Maxim Ivanovich Bale"
 
+REFERENCE            operator_fullname_morte
+LANG_ENGLISH         "Sergio Sulla"
+
 REFERENCE            operator_fullname_nebo
 LANG_ENGLISH         "Nebo"
+
+REFERENCE            operator_fullname_nikolai
+LANG_ENGLISH         "[REDACTED]"
 
 REFERENCE            operator_fullname_nikto
 LANG_ENGLISH         "Nikto"
@@ -7596,6 +7905,12 @@ LANG_ENGLISH         "Ronin"
 REFERENCE            operator_fullname_roze
 LANG_ENGLISH         "Rozlin Helms"
 
+REFERENCE            operator_fullname_soap
+LANG_ENGLISH         "Johnny Mactavish"
+
+REFERENCE            operator_fullname_sparks
+LANG_ENGLISH         "Shane Sparks"
+
 REFERENCE            operator_fullname_stohli
 LANG_ENGLISH         "Stohli"
 
@@ -7611,6 +7926,9 @@ LANG_ENGLISH         "Lt. Jacob Micah Thorne - "Thorne""
 REFERENCE            operator_fullname_trigg
 LANG_ENGLISH         "Trigg"
 
+REFERENCE            operator_fullname_woods
+LANG_ENGLISH         "Frank Woods"
+
 REFERENCE            operator_fullname_wyatt
 LANG_ENGLISH         "Sgt. Jackson Henry Wyatt - "Wyatt""
 
@@ -7625,6 +7943,15 @@ LANG_ENGLISH         "Cpt. Viktor Isaac Metiko (fmr. Nigerian Army)"
 
 REFERENCE            operator_ghost_skin_1
 LANG_ENGLISH         "Jawbone"
+
+REFERENCE            operator_ghost_skin_10
+LANG_ENGLISH         "Winter Theatre"
+
+REFERENCE            operator_ghost_skin_11
+LANG_ENGLISH         "Apparition"
+
+REFERENCE            operator_ghost_skin_12
+LANG_ENGLISH         "Azrael"
 
 REFERENCE            operator_ghost_skin_2
 LANG_ENGLISH         "Mandible"
@@ -7674,8 +8001,20 @@ LANG_ENGLISH         "Black Forest"
 REFERENCE            operator_golem_skin_16
 LANG_ENGLISH         "Everglade"
 
+REFERENCE            operator_golem_skin_17
+LANG_ENGLISH         "Humboldt"
+
+REFERENCE            operator_golem_skin_18
+LANG_ENGLISH         "Nostalgia"
+
+REFERENCE            operator_golem_skin_19
+LANG_ENGLISH         "Carmine"
+
 REFERENCE            operator_golem_skin_2
 LANG_ENGLISH         "Foliage"
+
+REFERENCE            operator_golem_skin_20
+LANG_ENGLISH         "Lichen"
 
 REFERENCE            operator_golem_skin_3
 LANG_ENGLISH         "Ice Cold"
@@ -7698,6 +8037,9 @@ LANG_ENGLISH         "Night Raid"
 REFERENCE            operator_golem_skin_9
 LANG_ENGLISH         "Counter Terrorist"
 
+REFERENCE            operator_griggs_skin_1
+LANG_ENGLISH         "Sarge"
+
 REFERENCE            operator_grinch_skin_1
 LANG_ENGLISH         "Bog"
 
@@ -7715,6 +8057,12 @@ LANG_ENGLISH         "The Creature"
 
 REFERENCE            operator_grinch_skin_14
 LANG_ENGLISH         "Forest Spirit"
+
+REFERENCE            operator_grinch_skin_15
+LANG_ENGLISH         "Gilded Assassin"
+
+REFERENCE            operator_grinch_skin_16
+LANG_ENGLISH         "OPERATOR_GRINCH_SKIN_16"
 
 REFERENCE            operator_grinch_skin_2
 LANG_ENGLISH         "Muddy Waters"
@@ -7761,6 +8109,9 @@ LANG_ENGLISH         "Jett"
 REFERENCE            operator_iskra_skin_6
 LANG_ENGLISH         "Heart of Glass"
 
+REFERENCE            operator_iskra_skin_7
+LANG_ENGLISH         "Arachnis"
+
 REFERENCE            operator_kreuger_skin_12
 LANG_ENGLISH         "Chimera Syd"
 
@@ -7783,7 +8134,10 @@ REFERENCE            operator_krueger_skin_14
 LANG_ENGLISH         "Taiga"
 
 REFERENCE            operator_krueger_skin_15
-LANG_ENGLISH         "OPERATOR_KRUEGER_SKIN_15"
+LANG_ENGLISH         "The Resistance"
+
+REFERENCE            operator_krueger_skin_16
+LANG_ENGLISH         "Purge"
 
 REFERENCE            operator_krueger_skin_2
 LANG_ENGLISH         "Shrouded"
@@ -7818,6 +8172,18 @@ LANG_ENGLISH         "Broadsword"
 REFERENCE            operator_kyle_skin_3
 LANG_ENGLISH         "Claymore"
 
+REFERENCE            operator_kyle_skin_4
+LANG_ENGLISH         "The Gunner"
+
+REFERENCE            operator_kyle_skin_5
+LANG_ENGLISH         "On the Rocks"
+
+REFERENCE            operator_kyle_skin_6
+LANG_ENGLISH         "Half Dome"
+
+REFERENCE            operator_kyle_skin_7
+LANG_ENGLISH         "On Belay"
+
 REFERENCE            operator_lerch_skin_1
 LANG_ENGLISH         "Behemoth"
 
@@ -7826,6 +8192,9 @@ LANG_ENGLISH         "Gargantua"
 
 REFERENCE            operator_lerch_skin_3
 LANG_ENGLISH         "Colossus"
+
+REFERENCE            operator_lerch_skin_4
+LANG_ENGLISH         "OPERATOR_LERCH_SKIN_4"
 
 REFERENCE            operator_loot_locked
 LANG_ENGLISH         "Locked"
@@ -7857,6 +8226,12 @@ LANG_ENGLISH         "OPERATOR_METALGHOST_SKIN_6"
 REFERENCE            operator_metalghost_skin_7
 LANG_ENGLISH         "The Armorer"
 
+REFERENCE            operator_metalghost_skin_8
+LANG_ENGLISH         "Apis"
+
+REFERENCE            operator_metalghost_skin_9
+LANG_ENGLISH         "Ofrenda"
+
 REFERENCE            operator_minotavr_skin_1
 LANG_ENGLISH         "Fully Loaded"
 
@@ -7881,6 +8256,12 @@ LANG_ENGLISH         "Spetsnaz Minotaur"
 REFERENCE            operator_minotavr_skin_16
 LANG_ENGLISH         "Gungnir"
 
+REFERENCE            operator_minotavr_skin_17
+LANG_ENGLISH         "Red Tide"
+
+REFERENCE            operator_minotavr_skin_18
+LANG_ENGLISH         "Gathering Storm"
+
 REFERENCE            operator_minotavr_skin_2
 LANG_ENGLISH         "Suns Out"
 
@@ -7897,16 +8278,22 @@ REFERENCE            operator_minotavr_skin_6
 LANG_ENGLISH         "Commando"
 
 REFERENCE            operator_minotavr_skin_7
-LANG_ENGLISH         "Smoke"
+LANG_ENGLISH         "Poloski"
 
 REFERENCE            operator_minotavr_skin_8
-LANG_ENGLISH         "Smoking On The Job"
+LANG_ENGLISH         "Baroque"
 
 REFERENCE            operator_minotavr_skin_9
 LANG_ENGLISH         "Guns Out"
 
 REFERENCE            operator_missions
 LANG_ENGLISH         "Operator Missions"
+
+REFERENCE            operator_morte_skin_1
+LANG_ENGLISH         "Conciliatore"
+
+REFERENCE            operator_morte_skin_2
+LANG_ENGLISH         "Billy"
 
 REFERENCE            operator_murphy_skin_1
 LANG_ENGLISH         "Deployment"
@@ -7928,6 +8315,15 @@ LANG_ENGLISH         "Vigilance"
 
 REFERENCE            operator_murphy_skin_15
 LANG_ENGLISH         "Mighty Arsenal"
+
+REFERENCE            operator_murphy_skin_16
+LANG_ENGLISH         "The District"
+
+REFERENCE            operator_murphy_skin_17
+LANG_ENGLISH         "Thames"
+
+REFERENCE            operator_murphy_skin_18
+LANG_ENGLISH         "Highbury"
 
 REFERENCE            operator_murphy_skin_2
 LANG_ENGLISH         "Desert Rat"
@@ -7955,6 +8351,15 @@ LANG_ENGLISH         "La Muerte"
 
 REFERENCE            operator_new
 LANG_ENGLISH         "NEW"
+
+REFERENCE            operator_nikolai_skin_1
+LANG_ENGLISH         "Arms Broker"
+
+REFERENCE            operator_nikolai_skin_2
+LANG_ENGLISH         "For the Motherland"
+
+REFERENCE            operator_nikolai_skin_3
+LANG_ENGLISH         "Carcajou"
 
 REFERENCE            operator_otter_skin_1
 LANG_ENGLISH         "Sandstorm"
@@ -8031,6 +8436,9 @@ LANG_ENGLISH         "Phantom"
 REFERENCE            operator_price_skin_6
 LANG_ENGLISH         "Dead of Night"
 
+REFERENCE            operator_price_skin_7
+LANG_ENGLISH         "OPERATOR_PRICE_SKIN_7"
+
 REFERENCE            operator_progression
 LANG_ENGLISH         "Operator Progression"
 
@@ -8057,6 +8465,15 @@ LANG_ENGLISH         "Patriot"
 
 REFERENCE            operator_raines_skin_15
 LANG_ENGLISH         "Plan of Action"
+
+REFERENCE            operator_raines_skin_16
+LANG_ENGLISH         "Night Out"
+
+REFERENCE            operator_raines_skin_17
+LANG_ENGLISH         "Orua"
+
+REFERENCE            operator_raines_skin_18
+LANG_ENGLISH         "Rangatira"
 
 REFERENCE            operator_raines_skin_2
 LANG_ENGLISH         "Stunt Double"
@@ -8127,6 +8544,9 @@ LANG_ENGLISH         "Sable"
 REFERENCE            operator_rodion_skin_22
 LANG_ENGLISH         "Red Death"
 
+REFERENCE            operator_rodion_skin_23
+LANG_ENGLISH         "Jailbird"
+
 REFERENCE            operator_rodion_skin_3
 LANG_ENGLISH         "Heavy Duty"
 
@@ -8162,6 +8582,9 @@ LANG_ENGLISH         "Near Dark"
 
 REFERENCE            operator_roze_skin_4
 LANG_ENGLISH         "Murk"
+
+REFERENCE            operator_roze_skin_5
+LANG_ENGLISH         "OPERATOR_ROZE_SKIN_5"
 
 REFERENCE            operator_select
 LANG_ENGLISH         "Operator Select"
@@ -8262,6 +8685,12 @@ LANG_ENGLISH         "Fixer"
 REFERENCE            operator_spetsnaz_skin_2
 LANG_ENGLISH         "Bloodletter"
 
+REFERENCE            operator_spetsnaz_skin_3
+LANG_ENGLISH         "Detonator"
+
+REFERENCE            operator_spetsnaz_skin_4
+LANG_ENGLISH         "Scarecrow"
+
 REFERENCE            operator_syd_skin_1
 LANG_ENGLISH         "Mantis"
 
@@ -8282,6 +8711,9 @@ LANG_ENGLISH         "Stoked"
 
 REFERENCE            operator_syd_skin_15
 LANG_ENGLISH         "Gnarly"
+
+REFERENCE            operator_syd_skin_16
+LANG_ENGLISH         "Red Menace"
 
 REFERENCE            operator_syd_skin_2
 LANG_ENGLISH         "Embedded"
@@ -8307,6 +8739,40 @@ LANG_ENGLISH         "Woodland Cover"
 REFERENCE            operator_syd_skin_9
 LANG_ENGLISH         "Brushfire"
 
+REFERENCE            operator_unlocked_cw_skin_challenge_adler
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Campaign."
+
+REFERENCE            operator_unlocked_cw_skin_challenge_baker
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer."
+
+REFERENCE            operator_unlocked_cw_skin_challenge_beck
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Zombies."
+
+REFERENCE            operator_unlocked_cw_skin_challenge_garcia
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer."
+
+REFERENCE            operator_unlocked_cw_skin_challenge_generic
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War.
+"
+
+REFERENCE            operator_unlocked_cw_skin_challenge_park
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer. "
+
+REFERENCE            operator_unlocked_cw_skin_challenge_portnova
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer. "
+
+REFERENCE            operator_unlocked_cw_skin_challenge_sims
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer. "
+
+REFERENCE            operator_unlocked_cw_skin_challenge_woods
+LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer."
+
+REFERENCE            operator_unlocked_with_cw
+LANG_ENGLISH         "Available with purchase of Cold War."
+
+REFERENCE            operator_unlocked_with_cw_or_skin
+LANG_ENGLISH         "Available with purchase of Cold War or by acquiring a skin for this operator."
+
 REFERENCE            operator_unlocked_with_mw
 LANG_ENGLISH         "Available with purchase of Modern Warfare."
 
@@ -8318,6 +8784,12 @@ LANG_ENGLISH         "Operator Unlocks"
 
 REFERENCE            operator_velikan_skin_1
 LANG_ENGLISH         "Megalith"
+
+REFERENCE            operator_velikan_skin_2
+LANG_ENGLISH         "Woodman"
+
+REFERENCE            operator_velikan_skin_3
+LANG_ENGLISH         "Leatherface"
 
 REFERENCE            operator_western_default_10
 LANG_ENGLISH         "Pararescue II"
@@ -8391,6 +8863,9 @@ LANG_ENGLISH         "SKSF III"
 REFERENCE            operator_western_default_9
 LANG_ENGLISH         "Pararescue I"
 
+REFERENCE            operator_woods_skin_1
+LANG_ENGLISH         "Frank Woods"
+
 REFERENCE            operator_wyatt_skin_1
 LANG_ENGLISH         "Urban Hip"
 
@@ -8418,8 +8893,17 @@ LANG_ENGLISH         "Cesspool"
 REFERENCE            operator_wyatt_skin_17
 LANG_ENGLISH         "Road Hog"
 
+REFERENCE            operator_wyatt_skin_18
+LANG_ENGLISH         "Killer Hornet"
+
+REFERENCE            operator_wyatt_skin_19
+LANG_ENGLISH         "Mendota"
+
 REFERENCE            operator_wyatt_skin_2
 LANG_ENGLISH         "Digital"
+
+REFERENCE            operator_wyatt_skin_20
+LANG_ENGLISH         "Lianas"
 
 REFERENCE            operator_wyatt_skin_3
 LANG_ENGLISH         "Going Gray"
@@ -8544,6 +9028,15 @@ LANG_ENGLISH         "Miasma"
 REFERENCE            operator_zane_skin_2
 LANG_ENGLISH         "Shades"
 
+REFERENCE            operator_zane_skin_20
+LANG_ENGLISH         "Level Headed"
+
+REFERENCE            operator_zane_skin_21
+LANG_ENGLISH         "Before the Storm"
+
+REFERENCE            operator_zane_skin_22
+LANG_ENGLISH         "Discreet"
+
 REFERENCE            operator_zane_skin_3
 LANG_ENGLISH         "Father Treason"
 
@@ -8572,7 +9065,7 @@ REFERENCE            operator_zedra_skin_10
 LANG_ENGLISH         "Notice Meow"
 
 REFERENCE            operator_zedra_skin_11
-LANG_ENGLISH         "OPERATOR_ZEDRA_SKIN_11"
+LANG_ENGLISH         "Dorothy"
 
 REFERENCE            operator_zedra_skin_12
 LANG_ENGLISH         "OPERATOR_ZEDRA_SKIN_12"
@@ -9005,6 +9498,9 @@ LANG_ENGLISH         "PLATINUM"
 REFERENCE            play
 LANG_ENGLISH         "Play"
 
+REFERENCE            play_action
+LANG_ENGLISH         "PLAY"
+
 REFERENCE            play_all
 LANG_ENGLISH         "Play All"
 
@@ -9110,6 +9606,9 @@ LANG_ENGLISH         "Exclusive Mission for PlayStation??"
 REFERENCE            playstation_friend
 LANG_ENGLISH         "PlayStation???Network Friend"
 
+REFERENCE            plbldmny_desc
+LANG_ENGLISH         "Primary objective is to collect as much cash as you can."
+
 REFERENCE            please_install
 LANG_ENGLISH         "Please install"
 
@@ -9175,6 +9674,9 @@ LANG_ENGLISH         "Available in the full game"
 
 REFERENCE            premium_upgrade
 LANG_ENGLISH         "Premium Upgrade"
+
+REFERENCE            preorder_action
+LANG_ENGLISH         "PRE-ORDER"
 
 REFERENCE            prepare_for_landing
 LANG_ENGLISH         "PREPARE FOR BATTLE"
@@ -9355,8 +9857,14 @@ LANG_ENGLISH         "Pull all party members out of the game?"
 REFERENCE            purchase
 LANG_ENGLISH         "Purchase"
 
+REFERENCE            purchase_action
+LANG_ENGLISH         "PURCHASE"
+
 REFERENCE            purchase_caps
 LANG_ENGLISH         "PURCHASE"
+
+REFERENCE            purchase_cold_war
+LANG_ENGLISH         "Purchase Cold War"
 
 REFERENCE            purchase_colon
 LANG_ENGLISH         "Purchase: "
@@ -9497,7 +10005,7 @@ REFERENCE            quip_alice_5
 LANG_ENGLISH         "Tag 'em"
 
 REFERENCE            quip_alice_6
-LANG_ENGLISH         "Cancel Medevac"
+LANG_ENGLISH         "Cancel That"
 
 REFERENCE            quip_alice_7
 LANG_ENGLISH         "Bitch"
@@ -9722,34 +10230,34 @@ REFERENCE            quip_equip_hint
 LANG_ENGLISH         "You can equip a ^5quip^7 via the customize menu in operator select."
 
 REFERENCE            quip_farah_1
-LANG_ENGLISH         "Quip 1"
+LANG_ENGLISH         "For Urzikstan"
 
 REFERENCE            quip_farah_10
-LANG_ENGLISH         "Quip 10"
+LANG_ENGLISH         "Not Your Day"
 
 REFERENCE            quip_farah_2
-LANG_ENGLISH         "Quip 2"
+LANG_ENGLISH         "Shouldn't Have Come"
 
 REFERENCE            quip_farah_3
-LANG_ENGLISH         "Quip 3"
+LANG_ENGLISH         "You Lose"
 
 REFERENCE            quip_farah_4
-LANG_ENGLISH         "Quip 4"
+LANG_ENGLISH         "Brought This On"
 
 REFERENCE            quip_farah_5
-LANG_ENGLISH         "Quip 5"
+LANG_ENGLISH         "Curse Be Upon You"
 
 REFERENCE            quip_farah_6
-LANG_ENGLISH         "Quip 6"
+LANG_ENGLISH         "This Is Your End"
 
 REFERENCE            quip_farah_7
-LANG_ENGLISH         "Quip 7"
+LANG_ENGLISH         "You're Finished"
 
 REFERENCE            quip_farah_8
-LANG_ENGLISH         "Quip 8"
+LANG_ENGLISH         "Fight is Over"
 
 REFERENCE            quip_farah_9
-LANG_ENGLISH         "Quip 9"
+LANG_ENGLISH         "Was For Urzikstan"
 
 REFERENCE            quip_ghost_1
 LANG_ENGLISH         "Tosser"
@@ -9770,7 +10278,7 @@ REFERENCE            quip_ghost_5
 LANG_ENGLISH         "Cheers"
 
 REFERENCE            quip_ghost_6
-LANG_ENGLISH         "Hard Lines Mate"
+LANG_ENGLISH         "Hard Lines"
 
 REFERENCE            quip_ghost_7
 LANG_ENGLISH         "Done and Dusted"
@@ -9797,7 +10305,7 @@ REFERENCE            quip_golem_4
 LANG_ENGLISH         "Hardly Seems Fair"
 
 REFERENCE            quip_golem_5
-LANG_ENGLISH         "Classic Maneuver"
+LANG_ENGLISH         "Classic"
 
 REFERENCE            quip_golem_6
 LANG_ENGLISH         "Oldest Trick"
@@ -9810,6 +10318,36 @@ LANG_ENGLISH         "Hush Now"
 
 REFERENCE            quip_golem_9
 LANG_ENGLISH         "Gave It Best"
+
+REFERENCE            quip_griggs_1
+LANG_ENGLISH         "QUIP_GRIGGS_1"
+
+REFERENCE            quip_griggs_10
+LANG_ENGLISH         "QUIP_GRIGGS_10"
+
+REFERENCE            quip_griggs_2
+LANG_ENGLISH         "QUIP_GRIGGS_2"
+
+REFERENCE            quip_griggs_3
+LANG_ENGLISH         "QUIP_GRIGGS_3"
+
+REFERENCE            quip_griggs_4
+LANG_ENGLISH         "QUIP_GRIGGS_4"
+
+REFERENCE            quip_griggs_5
+LANG_ENGLISH         "QUIP_GRIGGS_5"
+
+REFERENCE            quip_griggs_6
+LANG_ENGLISH         "QUIP_GRIGGS_6"
+
+REFERENCE            quip_griggs_7
+LANG_ENGLISH         "How It's Done"
+
+REFERENCE            quip_griggs_8
+LANG_ENGLISH         "QUIP_GRIGGS_8"
+
+REFERENCE            quip_griggs_9
+LANG_ENGLISH         "QUIP_GRIGGS_9"
 
 REFERENCE            quip_grinch_1
 LANG_ENGLISH         "Shh Don't Tell"
@@ -10028,25 +10566,25 @@ REFERENCE            quip_metalghost_10
 LANG_ENGLISH         "Fuck Off Now"
 
 REFERENCE            quip_metalghost_2
-LANG_ENGLISH         "QUIP_METALGHOST_2"
+LANG_ENGLISH         "Ain't Nothin'"
 
 REFERENCE            quip_metalghost_3
-LANG_ENGLISH         "QUIP_METALGHOST_3"
+LANG_ENGLISH         "Too Easy"
 
 REFERENCE            quip_metalghost_4
-LANG_ENGLISH         "QUIP_METALGHOST_4"
+LANG_ENGLISH         "Enough Outta You"
 
 REFERENCE            quip_metalghost_5
-LANG_ENGLISH         "QUIP_METALGHOST_5"
+LANG_ENGLISH         "All Day"
 
 REFERENCE            quip_metalghost_6
-LANG_ENGLISH         "QUIP_METALGHOST_6"
+LANG_ENGLISH         "Easy Kill"
 
 REFERENCE            quip_metalghost_7
-LANG_ENGLISH         "QUIP_METALGHOST_7"
+LANG_ENGLISH         "Gotcha"
 
 REFERENCE            quip_metalghost_8
-LANG_ENGLISH         "QUIP_METALGHOST_8"
+LANG_ENGLISH         "Hooah"
 
 REFERENCE            quip_metalghost_9
 LANG_ENGLISH         "Stack 'Em Up"
@@ -10080,6 +10618,66 @@ LANG_ENGLISH         "Roar"
 
 REFERENCE            quip_minotaur_9
 LANG_ENGLISH         "This Is War"
+
+REFERENCE            quip_morte_1
+LANG_ENGLISH         "QUIP_MORTE_1"
+
+REFERENCE            quip_morte_10
+LANG_ENGLISH         "QUIP_MORTE_10"
+
+REFERENCE            quip_morte_2
+LANG_ENGLISH         "Slow On The Draw"
+
+REFERENCE            quip_morte_3
+LANG_ENGLISH         "QUIP_MORTE_3"
+
+REFERENCE            quip_morte_4
+LANG_ENGLISH         "QUIP_MORTE_4"
+
+REFERENCE            quip_morte_5
+LANG_ENGLISH         "QUIP_MORTE_5"
+
+REFERENCE            quip_morte_6
+LANG_ENGLISH         "QUIP_MORTE_6"
+
+REFERENCE            quip_morte_7
+LANG_ENGLISH         "QUIP_MORTE_7"
+
+REFERENCE            quip_morte_8
+LANG_ENGLISH         "QUIP_MORTE_8"
+
+REFERENCE            quip_morte_9
+LANG_ENGLISH         "QUIP_MORTE_9"
+
+REFERENCE            quip_nikolai_1
+LANG_ENGLISH         "Too Bad For You"
+
+REFERENCE            quip_nikolai_10
+LANG_ENGLISH         "Not Your Day"
+
+REFERENCE            quip_nikolai_2
+LANG_ENGLISH         "Pitiful Sight"
+
+REFERENCE            quip_nikolai_3
+LANG_ENGLISH         "Weakling"
+
+REFERENCE            quip_nikolai_4
+LANG_ENGLISH         "How Sad For You"
+
+REFERENCE            quip_nikolai_5
+LANG_ENGLISH         "Must've Hurt"
+
+REFERENCE            quip_nikolai_6
+LANG_ENGLISH         "Game Over"
+
+REFERENCE            quip_nikolai_7
+LANG_ENGLISH         "You Deserved That"
+
+REFERENCE            quip_nikolai_8
+LANG_ENGLISH         "Worthless"
+
+REFERENCE            quip_nikolai_9
+LANG_ENGLISH         "You Are Weak"
 
 REFERENCE            quip_otter_1
 LANG_ENGLISH         "Little Sleep"
@@ -10262,37 +10860,97 @@ REFERENCE            quip_ronin_9
 LANG_ENGLISH         "Next Life"
 
 REFERENCE            quip_roze_1
-LANG_ENGLISH         "QUIP_ROZE_1"
+LANG_ENGLISH         "No Sweat"
 
 REFERENCE            quip_roze_10
-LANG_ENGLISH         "QUIP_ROZE_10"
+LANG_ENGLISH         "Didn't See That"
 
 REFERENCE            quip_roze_2
-LANG_ENGLISH         "QUIP_ROZE_2"
+LANG_ENGLISH         "That One Smelled"
 
 REFERENCE            quip_roze_3
-LANG_ENGLISH         "QUIP_ROZE_3"
+LANG_ENGLISH         "Almost Too Easy"
 
 REFERENCE            quip_roze_4
 LANG_ENGLISH         "Dirt Nap"
 
 REFERENCE            quip_roze_5
-LANG_ENGLISH         "QUIP_ROZE_5"
+LANG_ENGLISH         "Sit Down"
 
 REFERENCE            quip_roze_6
-LANG_ENGLISH         "QUIP_ROZE_6"
+LANG_ENGLISH         "There's More"
 
 REFERENCE            quip_roze_7
 LANG_ENGLISH         "Open Season"
 
 REFERENCE            quip_roze_8
-LANG_ENGLISH         "QUIP_ROZE_8"
+LANG_ENGLISH         "You're Done"
 
 REFERENCE            quip_roze_9
-LANG_ENGLISH         "QUIP_ROZE_9"
+LANG_ENGLISH         "Hardly"
 
 REFERENCE            quip_selected
 LANG_ENGLISH         "Quip Selected"
+
+REFERENCE            quip_soap_1
+LANG_ENGLISH         "QUIP_SOAP_1"
+
+REFERENCE            quip_soap_10
+LANG_ENGLISH         "QUIP_SOAP_10"
+
+REFERENCE            quip_soap_2
+LANG_ENGLISH         "QUIP_SOAP_2"
+
+REFERENCE            quip_soap_3
+LANG_ENGLISH         "QUIP_SOAP_3"
+
+REFERENCE            quip_soap_4
+LANG_ENGLISH         "QUIP_SOAP_4"
+
+REFERENCE            quip_soap_5
+LANG_ENGLISH         "QUIP_SOAP_5"
+
+REFERENCE            quip_soap_6
+LANG_ENGLISH         "QUIP_SOAP_6"
+
+REFERENCE            quip_soap_7
+LANG_ENGLISH         "QUIP_SOAP_7"
+
+REFERENCE            quip_soap_8
+LANG_ENGLISH         "QUIP_SOAP_8"
+
+REFERENCE            quip_soap_9
+LANG_ENGLISH         "QUIP_SOAP_9"
+
+REFERENCE            quip_sparks_1
+LANG_ENGLISH         "QUIP_SPARKS_1"
+
+REFERENCE            quip_sparks_10
+LANG_ENGLISH         "QUIP_SPARKS_10"
+
+REFERENCE            quip_sparks_2
+LANG_ENGLISH         "QUIP_SPARKS_2"
+
+REFERENCE            quip_sparks_3
+LANG_ENGLISH         "QUIP_SPARKS_3"
+
+REFERENCE            quip_sparks_4
+LANG_ENGLISH         "QUIP_SPARKS_4"
+
+REFERENCE            quip_sparks_5
+LANG_ENGLISH         "QUIP_SPARKS_5"
+
+REFERENCE            quip_sparks_6
+LANG_ENGLISH         "QUIP_SPARKS_6"
+
+REFERENCE            quip_sparks_7
+LANG_ENGLISH         "QUIP_SPARKS_7"
+
+REFERENCE            quip_sparks_8
+LANG_ENGLISH         "QUIP_SPARKS_8"
+
+REFERENCE            quip_sparks_9
+LANG_ENGLISH         "QUIP_SPARKS_9"
 
 REFERENCE            quip_spetsnaz_1
 LANG_ENGLISH         "Better"
@@ -10475,7 +11133,7 @@ REFERENCE            quip_velikan_9
 LANG_ENGLISH         "QUIP_VELIKAN_9"
 
 REFERENCE            quip_woods_1
-LANG_ENGLISH         "QUIP_WOODS_1"
+LANG_ENGLISH         "Down You Go"
 
 REFERENCE            quip_woods_10
 LANG_ENGLISH         "QUIP_WOODS_10"
@@ -10807,6 +11465,9 @@ LANG_ENGLISH         "[REDACTED]"
 REFERENCE            redeem_code
 LANG_ENGLISH         "Redeem Code"
 
+REFERENCE            redeploy
+LANG_ENGLISH         "Redeploy"
+
 REFERENCE            redeploys
 LANG_ENGLISH         "Redeploys"
 
@@ -10959,6 +11620,9 @@ LANG_ENGLISH         "Remove Officers"
 
 REFERENCE            remove_player
 LANG_ENGLISH         "Remove Player"
+
+REFERENCE            remove_random
+LANG_ENGLISH         "[{ui_trigger_right}] Remove Random"
 
 REFERENCE            remove_splitscreen_player
 LANG_ENGLISH         "Remove splitscreen player"
@@ -11277,6 +11941,9 @@ LANG_ENGLISH         "Tactical"
 
 REFERENCE            right
 LANG_ENGLISH         "Right"
+
+REFERENCE            right_stick_scroll
+LANG_ENGLISH         "[{right_stick_centered}] Scroll"
 
 REFERENCE            riot_shield_caps
 LANG_ENGLISH         "RIOT SHIELD"
@@ -11843,6 +12510,9 @@ LANG_ENGLISH         "You survived to round &&1!"
 REFERENCE            sale_caps
 LANG_ENGLISH         "SALE"
 
+REFERENCE            sale_with_clock
+LANG_ENGLISH         "[{ui_clock}] Sale"
+
 REFERENCE            sas
 LANG_ENGLISH         "SAS"
 
@@ -11925,6 +12595,12 @@ LANG_ENGLISH         "Season &&1"
 REFERENCE            seasons
 LANG_ENGLISH         "Seasons"
 
+REFERENCE            second_place
+LANG_ENGLISH         "&&1nd"
+
+REFERENCE            second_place_fem
+LANG_ENGLISH         "&&1nd"
+
 REFERENCE            secondary
 LANG_ENGLISH         "Secondary"
 
@@ -11999,6 +12675,9 @@ LANG_ENGLISH         "Select Operator"
 
 REFERENCE            select_operator_prompt
 LANG_ENGLISH         "[{ui_alt1}] Select Operator"
+
+REFERENCE            select_preview
+LANG_ENGLISH         "Select reward to preview."
 
 REFERENCE            select_second_attachment
 LANG_ENGLISH         "Select a second attachment to make use of your Extra Attachment Perk."
@@ -12099,6 +12778,9 @@ LANG_ENGLISH         "Set as Favorite Faction"
 REFERENCE            set_happy_hour
 LANG_ENGLISH         "Set Happy Hour"
 
+REFERENCE            set_random
+LANG_ENGLISH         "[{ui_trigger_right}] Set Random"
+
 REFERENCE            set_selected_mode
 LANG_ENGLISH         "[{ui_alt1}] Set as quick play filter"
 
@@ -12178,6 +12860,12 @@ LANG_ENGLISH         "SUBMACHINE GUNS"
 REFERENCE            sniper_rifles_caps
 LANG_ENGLISH         "SNIPER RIFLES"
 
+REFERENCE            soap
+LANG_ENGLISH         "SOAP"
+
+REFERENCE            soap_background
+LANG_ENGLISH         "The youngest candidate ever to pass SAS selection, Johnny ???Soap??? Mactavish is known as a perpetual FNG, a label he wears as a badge of honor. A confident, instinctive CQB expert, Soap was hand-picked by Price for TF-141."
+
 REFERENCE            social
 LANG_ENGLISH         "Attachment: &&1"
 
@@ -12211,6 +12899,12 @@ LANG_ENGLISH         "Solo Placement"
 REFERENCE            sort
 LANG_ENGLISH         "Sort"
 
+REFERENCE            sort_by_title
+LANG_ENGLISH         "Sort By Title"
+
+REFERENCE            sort_by_weapon_data
+LANG_ENGLISH         "Sort By Weapon Data"
+
 REFERENCE            sort_filter
 LANG_ENGLISH         "Sort Filter"
 
@@ -12231,6 +12925,12 @@ LANG_ENGLISH         "Sort by Season"
 
 REFERENCE            sound_preview
 LANG_ENGLISH         "[{ui_r3}] Preview"
+
+REFERENCE            sparks
+LANG_ENGLISH         "SPARKS"
+
+REFERENCE            sparks_background
+LANG_ENGLISH         "An iron-willed Demon Dog Master Sergeant, Sparks is a hunter at heart who served both in the military and as a PMC with Shadow Company, ultimately re-upping with the Demon Dogs to return to his beloved amphibious force."
 
 REFERENCE            spawn_ground_war
 LANG_ENGLISH         "[{+activate}] Spawn"
@@ -12291,6 +12991,12 @@ LANG_ENGLISH         "Sprays"
 
 REFERENCE            sprint_tacticalsprint_steadyaim_keybind
 LANG_ENGLISH         "Sprint/Tactical Sprint/Steady Aim Keybind"
+
+REFERENCE            squad_fill_enabled
+LANG_ENGLISH         "Squad Fill Enabled"
+
+REFERENCE            squad_fill_required
+LANG_ENGLISH         "Squad Fill Required"
 
 REFERENCE            squad_leader
 LANG_ENGLISH         "You are the squad leader"
@@ -12786,6 +13492,9 @@ LANG_ENGLISH         "invites you to a game."
 REFERENCE            textchat_gamename_bo4
 LANG_ENGLISH         "Black Ops 4"
 
+REFERENCE            textchat_gamename_bo5
+LANG_ENGLISH         "Black Ops Cold War"
+
 REFERENCE            textchat_gamename_destiny2
 LANG_ENGLISH         "Destiny 2"
 
@@ -12920,6 +13629,15 @@ LANG_ENGLISH         "Norm"
 REFERENCE            thermal_sniper
 LANG_ENGLISH         "Thermal"
 
+REFERENCE            third_place
+LANG_ENGLISH         "&&1rd"
+
+REFERENCE            third_place_fem
+LANG_ENGLISH         "&&1rd"
+
+REFERENCE            three_state_sort_prompt_w_dividers
+LANG_ENGLISH         "&&1/&&2/&&3"
+
 REFERENCE            thursday
 LANG_ENGLISH         "Thursday"
 
@@ -13046,6 +13764,9 @@ LANG_ENGLISH         "Too many players for this game mode."
 REFERENCE            top
 LANG_ENGLISH         "[{ui_shoulder_left}] Top"
 
+REFERENCE            top_five
+LANG_ENGLISH         "Top 5"
+
 REFERENCE            top_percentage
 LANG_ENGLISH         "Top &&1%"
 
@@ -13097,6 +13818,9 @@ LANG_ENGLISH         "Play in this week's tournament to win rewards."
 REFERENCE            tournament_desc_kbm
 LANG_ENGLISH         "Play in this week's tournament to win rewards. ^3The timer indicates how much time is left before registration cutoff. ^7"
 
+REFERENCE            track_number
+LANG_ENGLISH         "Track &&1 of &&2"
+
 REFERENCE            track_ops
 LANG_ENGLISH         "Track Operation"
 
@@ -13134,7 +13858,7 @@ REFERENCE            trial_expired_msg
 LANG_ENGLISH         "Thank you for playing. Your trial access to this mode has expired. Purchase the full game via the store or at your favorite retailer to keep playing and all progression you have earned will carry forward."
 
 REFERENCE            trial_head_shot
-LANG_ENGLISH         "Head Shot: &&1"
+LANG_ENGLISH         "Headshots: &&1"
 
 REFERENCE            trial_popup_header
 LANG_ENGLISH         "Get the Full Experience!"
@@ -13202,6 +13926,9 @@ LANG_ENGLISH         "TV 3"
 REFERENCE            tv_bass
 LANG_ENGLISH         "TV + Bass Boost"
 
+REFERENCE            two_state_sort_prompt_with_divider
+LANG_ENGLISH         "&&1/&&2"
+
 REFERENCE            ukraine
 LANG_ENGLISH         "Ukraine"
 
@@ -13254,8 +13981,12 @@ LANG_ENGLISH         "Uninstall"
 REFERENCE            uninstall_completed
 LANG_ENGLISH         "Uninstall Completed."
 
-REFERENCE            uninstall_data_pack_desc
+REFERENCE            uninstall_data_pack_1_desc
 LANG_ENGLISH         "Data Pack 1 is required to play Campaign, Multiplayer, and Special Ops. Are you sure you wish to uninstall it?
+Game will restart after uninstalling."
+
+REFERENCE            uninstall_data_pack_2_desc
+LANG_ENGLISH         "Data Pack 2 is required to play Multiplayer and Special Ops. Are you sure you wish to uninstall it?
 Game will restart after uninstalling."
 
 REFERENCE            uninstall_dlc_desc
@@ -13518,6 +14249,18 @@ LANG_ENGLISH         "Standard Issue"
 REFERENCE            unlocked_ext_rank
 LANG_ENGLISH         "Unlocked at Extinction Rank: &&1"
 
+REFERENCE            unlocked_first
+LANG_ENGLISH         "Unlocked First"
+
+REFERENCE            unlocked_through_bp
+LANG_ENGLISH         "Unlocked through the Season &&1 Battle Pass."
+
+REFERENCE            unlocked_through_bundle
+LANG_ENGLISH         "Unlocked through a store bundle."
+
+REFERENCE            unlocked_through_gos
+LANG_ENGLISH         "Unlocked through the Games of Summer event."
+
 REFERENCE            unlocks_caps
 LANG_ENGLISH         "UNLOCKS"
 
@@ -13565,6 +14308,9 @@ LANG_ENGLISH         "Prepare to Go Dark."
 
 REFERENCE            urzikstan
 LANG_ENGLISH         "Urzikstan"
+
+REFERENCE            urzikstani
+LANG_ENGLISH         "Urzikstani"
 
 REFERENCE            use_tag_from_elite_clan
 LANG_ENGLISH         "Use Clan Tag"
@@ -13619,8 +14365,11 @@ LANG_ENGLISH         "Removed skin from favorites"
 REFERENCE            vehiclekillstreak
 LANG_ENGLISH         "Killstreaks & Vehicles"
 
+REFERENCE            vehicles
+LANG_ENGLISH         "Vehicles"
+
 REFERENCE            velikan
-LANG_ENGLISH         "Velikan"
+LANG_ENGLISH         "VELIKAN"
 
 REFERENCE            velikan_background
 LANG_ENGLISH         "[REDACTED] is a shadow of a shadow. Tales of his exploits are written off as fairytales at best and gross exaggerations at worst. Those who know him never speak ill of him. Whether it???s due to fear or respect, no one knows."
@@ -13669,6 +14418,9 @@ LANG_ENGLISH         "View"
 
 REFERENCE            view_all_star_rewards
 LANG_ENGLISH         "[{ui_alt1}] View All Classic Spec Ops Rewards"
+
+REFERENCE            view_battle_pass_prompt
+LANG_ENGLISH         "[{ui_alt1}] View Battle Pass"
 
 REFERENCE            view_content
 LANG_ENGLISH         "View Content"
@@ -13816,7 +14568,7 @@ REFERENCE            war_track_passenger
 LANG_ENGLISH         "War Tracks as a Passenger"
 
 REFERENCE            war_track_passenger_desc
-LANG_ENGLISH         "^5Enabled:^7 Your hear the driver's War Track when you are a passenger.
+LANG_ENGLISH         "^5Enabled:^7 You hear the driver's War Track when you are a passenger.
 ^5Disabled:^7 You won't hear the driver's War Track when you are a passenger."
 
 REFERENCE            wargame
@@ -14207,6 +14959,12 @@ LANG_ENGLISH         "WINS"
 REFERENCE            wl_ratio
 LANG_ENGLISH         "W/L Ratio"
 
+REFERENCE            woods
+LANG_ENGLISH         "WOODS"
+
+REFERENCE            woods_background
+LANG_ENGLISH         "Formerly a member of the US Marine Corp, Woods' extensive combat experience led to him being recruited by the CIA for their Special Activities Division. His fearless leadership inspires all those who serve alongside him."
+
 REFERENCE            world
 LANG_ENGLISH         "World"
 
@@ -14231,6 +14989,15 @@ LANG_ENGLISH         ""
 REFERENCE            wyatt_default_taunt_desc
 LANG_ENGLISH         "Description of the taunt goes here"
 
+REFERENCE            wz_all_missions
+LANG_ENGLISH         "[{ui_trigger_right}] All Missions"
+
+REFERENCE            wz_goto_store
+LANG_ENGLISH         "Go to Store"
+
+REFERENCE            wz_goto_store_prompt
+LANG_ENGLISH         "[{ui_alt1}] Go to Store"
+
 REFERENCE            wz_intobattle_popup_desc
 LANG_ENGLISH         "Congratulations on completing the Warzone training.
 Do you want to jump straight into battle to team up and become the last soldier standing?"
@@ -14249,6 +15016,18 @@ LANG_ENGLISH         "Replay Training"
 
 REFERENCE            wz_intobattle_popup_title
 LANG_ENGLISH         "What do you want to do?"
+
+REFERENCE            wz_launch_cw
+LANG_ENGLISH         "Launch Cold War"
+
+REFERENCE            wz_launch_cw_prompt
+LANG_ENGLISH         "[{ui_alt1}] Launch Cold War"
+
+REFERENCE            wz_launch_mw
+LANG_ENGLISH         "Launch Modern Warfare"
+
+REFERENCE            wz_launch_mw_prompt
+LANG_ENGLISH         "[{ui_alt1}] Launch Modern Warfare"
 
 REFERENCE            wz_lobby_practice_mode
 LANG_ENGLISH         "Warzone Practice Mode"
@@ -14270,6 +15049,9 @@ LANG_ENGLISH         "Practice Modes"
 
 REFERENCE            wz_practice_modes_and_trials
 LANG_ENGLISH         "Practice Modes and Trials"
+
+REFERENCE            wz_private_match_practice_modes_and_trials
+LANG_ENGLISH         "Private Match, Practice Modes & Trials"
 
 REFERENCE            wz_tutorial_reward_popup_desc
 LANG_ENGLISH         "Well done on completing the training mission. Here is your reward."
@@ -14301,6 +15083,9 @@ LANG_ENGLISH         "What are calling cards?"
 REFERENCE            wz_tutorial_reward_popup_title
 LANG_ENGLISH         "Congratulations!"
 
+REFERENCE            wz_view_battle_pass
+LANG_ENGLISH         "View Battle Pass"
+
 REFERENCE            wzweapon
 LANG_ENGLISH         "Your weapon progression is also unified. Have immediate access to your current weapon setups and load outs."
 
@@ -14317,8 +15102,23 @@ LANG_ENGLISH         "&&1
 REFERENCE            x_of_y
 LANG_ENGLISH         "&&1/&&2"
 
+REFERENCE            x_of_y_operators
+LANG_ENGLISH         "&&1/&&2 Operators"
+
+REFERENCE            x_of_y_operators_ru_pl
+LANG_ENGLISH         "&&1/&&2 Operators"
+
 REFERENCE            x_of_y_xp
 LANG_ENGLISH         "&&1 / &&2 XP"
+
+REFERENCE            x_replace
+LANG_ENGLISH         "[{ui_primary}] Replace"
+
+REFERENCE            x_select
+LANG_ENGLISH         "[{ui_primary}] Select"
+
+REFERENCE            x_xp
+LANG_ENGLISH         "&&1xp"
 
 REFERENCE            xb3_add_friend_hint
 LANG_ENGLISH         "Enter Gamertag to send invite. (Ex: User#1234)"

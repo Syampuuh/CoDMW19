@@ -69,25 +69,25 @@ REFERENCE            checkpoint_reached
 LANG_ENGLISH         "Checkpoint reached."
 
 REFERENCE            cod_feature_perm_ban_player
-LANG_ENGLISH         "This profile (&&1) has been permanently banned from using this feature due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This profile (&&1) has been permanently banned from using this feature due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            cod_feature_temp_ban_player
-LANG_ENGLISH         "This profile (&&1) has been temporarily banned from using this feature due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This profile (&&1) has been temporarily banned from using this feature due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            cod_leaderboard_write_ban
-LANG_ENGLISH         "This profile (&&1) has been banned from appearing on this Leaderboard due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This profile (&&1) has been banned from appearing on this Leaderboard due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            cod_multiplayer
 LANG_ENGLISH         "Call of Duty??: Modern Warfare?? Multiplayer"
 
 REFERENCE            cod_online_perm_ban_console
-LANG_ENGLISH         "This console device has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This console device has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            cod_online_perm_ban_player
-LANG_ENGLISH         "This profile (&&1) has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This profile (&&1) has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            cod_online_temp_ban_player
-LANG_ENGLISH         "This profile (&&1) has been temporarily banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This profile (&&1) has been temporarily banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            cod_temp_ban_days
 LANG_ENGLISH         "&&1 days remaining before access is granted."
@@ -120,7 +120,7 @@ REFERENCE            demonware_multiple_logins_generic
 LANG_ENGLISH         "The Call of Duty??: Modern Warfare?? server is not available due to multiple logins of your account. Please reboot to reconnect."
 
 REFERENCE            demonware_player_ban
-LANG_ENGLISH         "This profile (&&1) has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This profile (&&1) has been permanently banned from playing Call of Duty??: Modern Warfare?? online due to a violation of the posted Security & Enforcement Policy. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            disconnected
 LANG_ENGLISH         "Lost connection to host"
@@ -321,16 +321,16 @@ REFERENCE            favorites
 LANG_ENGLISH         "Favorites"
 
 REFERENCE            feature_perm_ban_console
-LANG_ENGLISH         "This console has been permanently banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This console has been permanently banned from using this feature. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            feature_perm_ban_player
-LANG_ENGLISH         "&&1 has been permanently banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "&&1 has been permanently banned from using this feature. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            feature_temp_ban_console
-LANG_ENGLISH         "This console has been temporarily banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This console has been temporarily banned from using this feature. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            feature_temp_ban_player
-LANG_ENGLISH         "&&1 has been temporarily banned from using this feature. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "&&1 has been temporarily banned from using this feature. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            gameisending
 LANG_ENGLISH         "Join failed - game is about to end"
@@ -471,22 +471,25 @@ REFERENCE            of
 LANG_ENGLISH         "of"
 
 REFERENCE            online_perm_ban_console
-LANG_ENGLISH         "This console has been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This console has been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            online_perm_ban_player
-LANG_ENGLISH         "&&1 has been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "&&1 has been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            online_perm_ban_player_no_name
 LANG_ENGLISH         "You have been permanently banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit https://support.activision.com/mwPolicy."
 
 REFERENCE            online_temp_ban_console
-LANG_ENGLISH         "This console has been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "This console has been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            online_temp_ban_player
-LANG_ENGLISH         "&&1 has been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "&&1 has been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/mwpolicy."
 
 REFERENCE            online_temp_ban_player_no_name
-LANG_ENGLISH         "You have been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/IWPolicy."
+LANG_ENGLISH         "You have been temporarily banned from playing on the Call of Duty??: Modern Warfare?? servers. For more information, visit http://support.activision.com/mwpolicy."
+
+REFERENCE            playagain_aborted
+LANG_ENGLISH         "Unable to connect to party for play again"
 
 REFERENCE            playerkicked
 LANG_ENGLISH         "Player kicked."

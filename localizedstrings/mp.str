@@ -2,2309 +2,2358 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            activate_mover
-LANG_ENGLISH         "Press to activate"
+REFERENCE            zoom_x8
+LANG_ENGLISH         "Zoom X8"
 
-REFERENCE            adrenaline_active
-LANG_ENGLISH         "Adrenaline!"
+REFERENCE            zoom_x1
+LANG_ENGLISH         "Zoom X1"
 
-REFERENCE            adrenaline_active_desc
-LANG_ENGLISH         "^3&&1x^7 Experience gain while you continue to score points quickly"
+REFERENCE            zipline_use
+LANG_ENGLISH         "Use Line"
 
-REFERENCE            adrenaline_iced
-LANG_ENGLISH         "Iced!"
+REFERENCE            you_killed
+LANG_ENGLISH         "You Killed"
 
-REFERENCE            adrenaline_iced_desc
-LANG_ENGLISH         "You ended a player's adrenaline streak before they scored!"
+REFERENCE            you_are_being_revived
+LANG_ENGLISH         "You are being revived!"
 
-REFERENCE            adrenaline_mood_killer
-LANG_ENGLISH         "Mood Killer!"
+REFERENCE            x1fin_rendezvous
+LANG_ENGLISH         "Wield the Weapon"
 
-REFERENCE            adrenaline_mood_killer_desc
-LANG_ENGLISH         "You ended a player's adrenaline streak!"
+REFERENCE            winner
+LANG_ENGLISH         "Winner!"
 
-REFERENCE            ads_killcam
-LANG_ENGLISH         "PRECISION CAM"
+REFERENCE            win_by_two_tie
+LANG_ENGLISH         "No teams ahead by two rounds"
 
-REFERENCE            ammo_12g
-LANG_ENGLISH         "12 Gauge Ammo"
+REFERENCE            win_by_two
+LANG_ENGLISH         "Win By Two"
 
-REFERENCE            ammo_50cal
-LANG_ENGLISH         "50cal Ammo"
+REFERENCE            weapon_drop_too_many_attachments
+LANG_ENGLISH         "At Max Attachments"
 
-REFERENCE            ammo_556
-LANG_ENGLISH         "5.56 Ammo"
+REFERENCE            weapon_drop_incompat
+LANG_ENGLISH         "Weapon Incompatible"
 
-REFERENCE            ammo_762
-LANG_ENGLISH         "7.62 Ammo"
+REFERENCE            warning_too_close
+LANG_ENGLISH         "Warning: Too Close"
 
-REFERENCE            ammo_9mm
-LANG_ENGLISH         "9mm Ammo"
+REFERENCE            waitingforpartyhost
+LANG_ENGLISH         "Waiting for &&1 to return to the party"
 
-REFERENCE            anonymousplayer
-LANG_ENGLISH         "Anon#&&1"
+REFERENCE            waiting_to_spawn
+LANG_ENGLISH         "Waiting to respawn"
 
-REFERENCE            arena_overtime_loss
-LANG_ENGLISH         "Enemy team captured the overtime flag"
+REFERENCE            waiting_for_teams
+LANG_ENGLISH         "Waiting for teams to be ready..."
 
-REFERENCE            arena_overtime_win
-LANG_ENGLISH         "Your team captured the overtime flag"
+REFERENCE            waiting_for_players
+LANG_ENGLISH         "Waiting for players..."
 
-REFERENCE            arena_time_health_loss
-LANG_ENGLISH         "Enemy team has more health"
+REFERENCE            waiting_for_more_players
+LANG_ENGLISH         "Waiting for more players..."
 
-REFERENCE            arena_time_health_win
-LANG_ENGLISH         "Your team has more health"
+REFERENCE            waiting_for_hq
+LANG_ENGLISH         "Respawn when HQ goes offline:"
 
-REFERENCE            arena_time_lives_loss
-LANG_ENGLISH         "Enemy team has more players alive"
+REFERENCE            waiting_for_c130
+LANG_ENGLISH         "Waiting for next C130"
 
-REFERENCE            arena_time_lives_win
-LANG_ENGLISH         "Your team has more players alive"
+REFERENCE            victory
+LANG_ENGLISH         "Victory!"
 
-REFERENCE            arena_tournament_tie_loss
-LANG_ENGLISH         "Enemy team had better match stats"
+REFERENCE            vehicle_purchase_failed
+LANG_ENGLISH         "Vehicle is not Available"
 
-REFERENCE            arena_tournament_tie_win
-LANG_ENGLISH         "Your team has better match stats"
+REFERENCE            use_rocketbox
+LANG_ENGLISH         "Pickup launcher"
 
-REFERENCE            ascender_blocked
-LANG_ENGLISH         "Cable In Use"
+REFERENCE            use_ladder
+LANG_ENGLISH         "use ladder"
 
-REFERENCE            ascender_blocked_jugg
-LANG_ENGLISH         "Ascender unusable by Juggernaut"
+REFERENCE            use_auto_descender
+LANG_ENGLISH         "Descend"
 
-REFERENCE            ascender_blocked_laststand
-LANG_ENGLISH         "Ascender unusable in Last Stand"
+REFERENCE            use_auto_ascender
+LANG_ENGLISH         "Ascend"
 
-REFERENCE            assassination_hud_hunterteam
-LANG_ENGLISH         "Bounty Reward : ^2$&&1^7"
+REFERENCE            uplink_practice
+LANG_ENGLISH         "Press ^3 Left D-Pad ^7 to call the Satellite Drone to your position."
 
-REFERENCE            assassination_hud_targetplayer_name
-LANG_ENGLISH         "^3&&1^7"
+REFERENCE            upcoming_matches
+LANG_ENGLISH         "Upcoming Matches"
 
-REFERENCE            assassination_hud_targetteam
-LANG_ENGLISH         "Hunters are Targeting :
-^1&&1^7 "
+REFERENCE            unknown_player
+LANG_ENGLISH         "Unknown Player"
 
-REFERENCE            assassination_hunter_eliminated_ally
-LANG_ENGLISH         "A Target has Eliminated your Teammate"
+REFERENCE            trial_timer_start_weapon
+LANG_ENGLISH         "Timer starts on weapon fire"
 
-REFERENCE            assassination_hunter_eliminated_enemy
-LANG_ENGLISH         "A Hunter has been Eliminated"
+REFERENCE            traversal_mantle
+LANG_ENGLISH         "Get up the wall!"
 
-REFERENCE            assassination_hunter_team_eliminated
-LANG_ENGLISH         "Hunter Team Eliminated"
+REFERENCE            traversal_assist_pull_up
+LANG_ENGLISH         "Get pulled up"
 
-REFERENCE            assassination_hunter_team_vanished
-LANG_ENGLISH         "Your team is no longer being hunted"
+REFERENCE            traversal_assist_pre_pull_up
+LANG_ENGLISH         "Prepare to pull up teammate"
 
-REFERENCE            assassination_start_hunter_notify
-LANG_ENGLISH         "Bounty Target Located"
+REFERENCE            traversal_assist_pre_boost
+LANG_ENGLISH         "Boost"
 
-REFERENCE            assassination_start_target_notify
-LANG_ENGLISH         "Your Team has been targeted by Bounty Hunters"
+REFERENCE            traversal_assist_boost
+LANG_ENGLISH         "Get boosted up"
 
-REFERENCE            assassination_target_eliminated_ally
-LANG_ENGLISH         "A Hunter Eliminated your Teammate"
+REFERENCE            total_xp_colon
+LANG_ENGLISH         "Total XP:"
 
-REFERENCE            assassination_target_eliminated_enemy
-LANG_ENGLISH         "Target Eliminated. Acquiring Next Target"
+REFERENCE            too_close_nolock
+LANG_ENGLISH         "TOO CLOSE FOR LOCK-ON"
 
-REFERENCE            assassination_target_target_player_vanished
-LANG_ENGLISH         "Bounty Target vanished. Acquiring new Target."
+REFERENCE            too_close_nofire
+LANG_ENGLISH         "TOO CLOSE TO TARGET - CANNOT FIRE"
 
-REFERENCE            assassination_target_team_eliminated
-LANG_ENGLISH         "Target Team Eliminated : Reward $15000"
+REFERENCE            to_hstg_locate
+LANG_ENGLISH         "Locate HVTs"
 
-REFERENCE            assassination_target_team_vanished
-LANG_ENGLISH         "Target Team has Vanished"
+REFERENCE            to_hstg_axis_extract
+LANG_ENGLISH         "OpFor Extracting"
 
-REFERENCE            attackers
-LANG_ENGLISH         "Attackers: &&1"
+REFERENCE            to_hstg_allies_extract
+LANG_ENGLISH         "UN Extracting"
 
-REFERENCE            autobalance_next_round
-LANG_ENGLISH         "Teams will be auto-balanced next round"
+REFERENCE            timelimit_killcam
+LANG_ENGLISH         "FINAL KILL"
 
-REFERENCE            autobalance_seconds
-LANG_ENGLISH         "Teams will be auto-balanced in &&1 seconds"
+REFERENCE            time_to_beat_uplink_win
+LANG_ENGLISH         "Fastest upload time"
 
-REFERENCE            banking_plunder_label
-LANG_ENGLISH         "Depositing cash"
+REFERENCE            time_to_beat_uplink_loss
+LANG_ENGLISH         "Failed to upload the satellite within the time limit"
 
-REFERENCE            blink_knife_failed
-LANG_ENGLISH         "Blink Knife Failed"
+REFERENCE            time_to_beat_ctf_win
+LANG_ENGLISH         "Fastest capture time"
 
-REFERENCE            bomb_a_colon_n_n
-LANG_ENGLISH         "A: &&1.&&2"
+REFERENCE            time_to_beat_ctf_loss
+LANG_ENGLISH         "Failed to capture the enemy flag within the time limit"
 
-REFERENCE            bomb_a_timer
-LANG_ENGLISH         "Bomb site A detonation in: "
+REFERENCE            time_to_beat
+LANG_ENGLISH         "TIME TO BEAT"
 
-REFERENCE            bomb_b_colon_n_n
-LANG_ENGLISH         "B: &&1.&&2"
+REFERENCE            time_till_spawn
+LANG_ENGLISH         "Spawn in "
 
-REFERENCE            bomb_b_timer
-LANG_ENGLISH         "Bomb site B detonation in: "
+REFERENCE            time_limit_reached
+LANG_ENGLISH         "Time limit reached"
 
-REFERENCE            bomb_briefcase_detonate
-LANG_ENGLISH         "DETONATION"
+REFERENCE            thirdplace_name
+LANG_ENGLISH         "3rd. &&1"
 
-REFERENCE            bomb_briefcase_initiating
-LANG_ENGLISH         "INITIATING DEVICE"
+REFERENCE            third_place_fem
+LANG_ENGLISH         "&&1rd"
 
-REFERENCE            bomb_defused
-LANG_ENGLISH         "Bomb defused"
+REFERENCE            third_place
+LANG_ENGLISH         "&&1rd"
 
-REFERENCE            bomb_n_n
-LANG_ENGLISH         "&&1.&&2"
+REFERENCE            third_kill
+LANG_ENGLISH         "&&1rd KILL"
 
-REFERENCE            bomb_plant_a
-LANG_ENGLISH         "A"
+REFERENCE            thermal
+LANG_ENGLISH         "Thermal"
 
-REFERENCE            bomb_plant_b
-LANG_ENGLISH         "B"
+REFERENCE            teleport_failed
+LANG_ENGLISH         "FTL Jump Failed"
 
-REFERENCE            bomb_site
-LANG_ENGLISH         "Bomb Site"
+REFERENCE            team_winning
+LANG_ENGLISH         "Your team is in the lead!"
 
-REFERENCE            bombsite_in_use
-LANG_ENGLISH         "This bomb site is currently in use."
+REFERENCE            team_tied
+LANG_ENGLISH         "The match is tied!"
 
-REFERENCE            br_12g
-LANG_ENGLISH         "Take box of 12-gauge"
+REFERENCE            team_losing
+LANG_ENGLISH         "Enemy team is in the lead!"
 
-REFERENCE            br_50
-LANG_ENGLISH         "Take box of .50-cal"
+REFERENCE            team_8_name
+LANG_ENGLISH         "Team 9"
 
-REFERENCE            br_556
-LANG_ENGLISH         "Take box of 5.56mm"
+REFERENCE            team_7_name
+LANG_ENGLISH         "Team 8"
 
-REFERENCE            br_762
-LANG_ENGLISH         "Take box of 7.62mm"
+REFERENCE            team_6_name
+LANG_ENGLISH         "Team 7"
 
-REFERENCE            br_919
-LANG_ENGLISH         "Take box of 9x19mm"
+REFERENCE            team_5_name
+LANG_ENGLISH         "Team 6"
 
-REFERENCE            br_activate_killstreak
-LANG_ENGLISH         "[{+smoke}]+[{+frag}] Activate"
+REFERENCE            team_4_name
+LANG_ENGLISH         "Team 5"
 
-REFERENCE            br_activate_mobile_armory
-LANG_ENGLISH         "Activate Mobile Armory"
+REFERENCE            team_3_name
+LANG_ENGLISH         "Team 4"
 
-REFERENCE            br_activate_satellite_truck
-LANG_ENGLISH         "Charge UAV Satellite Truck"
+REFERENCE            team_2_name
+LANG_ENGLISH         "Team 3"
 
-REFERENCE            br_adrenaline
-LANG_ENGLISH         "TAKE
-Stim Syringe"
+REFERENCE            team_1_name
+LANG_ENGLISH         "Team 2"
 
-REFERENCE            br_advanced_supply_drop_grenade
-LANG_ENGLISH         "Take
-Advanced Supply Drop Grenade"
+REFERENCE            team_0_name
+LANG_ENGLISH         "Team 1"
 
-REFERENCE            br_all_deny_jugg
-LANG_ENGLISH         "Juggernauts cannot pick up Loot"
+REFERENCE            tdef_drone_data_prog
+LANG_ENGLISH         "&&1%"
 
-REFERENCE            br_already_holding_weapon
-LANG_ENGLISH         "You already have this weapon."
+REFERENCE            tdef_drone_data
+LANG_ENGLISH         "Data Upload"
 
-REFERENCE            br_ammo_ar_lmg
-LANG_ENGLISH         "AR/LMG"
+REFERENCE            target_destroyed
+LANG_ENGLISH         "Target destroyed"
 
-REFERENCE            br_ammo_ar_lmg_desc
-LANG_ENGLISH         "Ammunition for Assault Rifles and LMGs"
+REFERENCE            tac_insert_cannot_place
+LANG_ENGLISH         "Cannot Place Here"
 
-REFERENCE            br_ammo_cache
-LANG_ENGLISH         "Take ammo cache"
+REFERENCE            tac_cover_place_in_doorway
+LANG_ENGLISH         "Place in Open Doorway"
 
-REFERENCE            br_ammo_deny_no_room
-LANG_ENGLISH         "Cannot hold more of this ammo"
+REFERENCE            tac_cover_door_too_close
+LANG_ENGLISH         "Too Close to Door"
 
-REFERENCE            br_ammo_generic
-LANG_ENGLISH         "Take Ammo"
+REFERENCE            tac_cover_cannot_place
+LANG_ENGLISH         "Cannot Place Here"
 
-REFERENCE            br_ammo_launcher
-LANG_ENGLISH         "Launcher"
+REFERENCE            switching_sides
+LANG_ENGLISH         "SWITCHING SIDES"
 
-REFERENCE            br_ammo_pistol_smg
-LANG_ENGLISH         "Pistol/SMG"
+REFERENCE            survivors_elmiminated
+LANG_ENGLISH         "Survivors Eliminated"
 
-REFERENCE            br_ammo_pistol_smg_desc
-LANG_ENGLISH         "Ammunition for Pistols and SMGs"
+REFERENCE            support_box_incompat
+LANG_ENGLISH         "Incompatible Weapon"
 
-REFERENCE            br_ammo_rocket
-LANG_ENGLISH         "Rockets"
+REFERENCE            supers_unavailable_for_n
+LANG_ENGLISH         "Field Upgrades unavailable for &&1 more seconds."
 
-REFERENCE            br_ammo_rocket_desc
-LANG_ENGLISH         "Ammunition for Launchers"
+REFERENCE            supers_unavailable_arb_up
+LANG_ENGLISH         "Payload unavailable due to interference."
 
-REFERENCE            br_ammo_shotgun
-LANG_ENGLISH         "Shotgun"
+REFERENCE            supers_unavailable
+LANG_ENGLISH         "Field Upgrades cannot be used right now."
 
-REFERENCE            br_ammo_shotgun_desc
-LANG_ENGLISH         "Ammunition for Shotguns"
+REFERENCE            super_self_revive_or_respawn
+LANG_ENGLISH         "Use field upgrade to begin self-revive. Hold [{+stance,+togglecrouch}] to give up the fight."
 
-REFERENCE            br_ammo_sniper
-LANG_ENGLISH         "Sniper"
+REFERENCE            suicide_delay
+LANG_ENGLISH         "Suicide spawn penalty"
 
-REFERENCE            br_ammo_sniper_desc
-LANG_ENGLISH         "Ammuntion for Snipers and DMRs"
+REFERENCE            sudden_death
+LANG_ENGLISH         "Sudden Death"
 
-REFERENCE            br_armor_deny_armor_full
-LANG_ENGLISH         "Armor Full"
+REFERENCE            start_game
+LANG_ENGLISH         "^3[{+activate}]^7 Start Match Countdown"
 
-REFERENCE            br_armor_deny_not_better
-LANG_ENGLISH         "Current Armor Is Better"
+REFERENCE            squad_spawn_selection
+LANG_ENGLISH         "Squadmate - Use Caution"
 
-REFERENCE            br_armor_plate
-LANG_ENGLISH         "TAKE
-Armor Plate"
+REFERENCE            squad_spawn_instructions
+LANG_ENGLISH         "^3 [{+activate}]^7 to Spawn - ^3 [{+gostand}]^7 to Cycle - ^3 [{+stance}]^7 to use Spawn Map"
 
-REFERENCE            br_atmine
-LANG_ENGLISH         "Take
-AT Mine"
+REFERENCE            squad_mate_in_vehicle_full
+LANG_ENGLISH         "In Vehicle - FULL"
 
-REFERENCE            br_attach_acog_scope
-LANG_ENGLISH         "Take ACOG Scope"
+REFERENCE            squad_mate_in_vehicle_cant_spawn
+LANG_ENGLISH         "In Vehicle - Danger"
 
-REFERENCE            br_attach_bipod
-LANG_ENGLISH         "Take Bipod"
+REFERENCE            squad_mate_in_vehicle
+LANG_ENGLISH         "In Vehicle"
 
-REFERENCE            br_attach_deny_incompatible
-LANG_ENGLISH         "Attachment not compatible - putting in backpack"
+REFERENCE            squad_mate_in_rally_point_full
+LANG_ENGLISH         "Squadmate Occupied - FULL"
 
-REFERENCE            br_attach_deny_no_room
-LANG_ENGLISH         "Attachment already on weapon - putting in backpack"
+REFERENCE            squad_mate_in_rally_point
+LANG_ENGLISH         "Squadmate Occupied"
 
-REFERENCE            br_attach_foregrip
-LANG_ENGLISH         "Take Foregrip"
+REFERENCE            squad_leader_spawn_selection
+LANG_ENGLISH         "Squad Leader - Use Caution"
 
-REFERENCE            br_attach_holo_scope
-LANG_ENGLISH         "Take Holo Scope"
+REFERENCE            spawn_tag_wait
+LANG_ENGLISH         "Your tag is awaiting pickup."
 
-REFERENCE            br_attach_laser
-LANG_ENGLISH         "Take Laser Sight"
+REFERENCE            spawn_revive_wait_bleedout_esc
+LANG_ENGLISH         "Waiting for teammate to revive you. Hold  to give up. Bleedout in:"
 
-REFERENCE            br_attach_long_barrel
-LANG_ENGLISH         "Take Long Barrel"
+REFERENCE            spawn_revive_wait_bleedout
+LANG_ENGLISH         "Waiting for teammate to revive you. Bleedout in:"
 
-REFERENCE            br_attach_long_suppressor
-LANG_ENGLISH         "Take Long Suppressor"
+REFERENCE            spawn_revive_wait
+LANG_ENGLISH         "Waiting for teammate to revive you."
 
-REFERENCE            br_attach_reflex_scope
-LANG_ENGLISH         "Take Reflex Scope"
+REFERENCE            spawn_revive_remote
+LANG_ENGLISH         "Waiting to exit killstreak before you can be revived."
 
-REFERENCE            br_attach_short_suppressor
-LANG_ENGLISH         "Take Short Suppressor"
+REFERENCE            spawn_rally_point_destroyed
+LANG_ENGLISH         "Rally point destroyed. Waiting for teammate revive. Bleedout in:"
 
-REFERENCE            br_attach_sniper_scope
-LANG_ENGLISH         "Take Sniper Scope"
+REFERENCE            spawn_point_capture_wait
+LANG_ENGLISH         "Awaiting point capture to respawn."
 
-REFERENCE            br_attach_stock
-LANG_ENGLISH         "Take Stock"
+REFERENCE            spawn_next_round
+LANG_ENGLISH         "You will respawn next round."
 
-REFERENCE            br_attach_underbarrel
-LANG_ENGLISH         "Take Underbarrel Grenade Launcher"
+REFERENCE            spawn_flag_wait
+LANG_ENGLISH         "Awaiting flag capture to respawn."
 
-REFERENCE            br_attach_xmags
-LANG_ENGLISH         "Take Extended Mags"
+REFERENCE            spawn_eliminated_bonus
+LANG_ENGLISH         "You have been eliminated. You earn bonus XP if the player you're spectating gets a kill."
 
-REFERENCE            br_bandages
-LANG_ENGLISH         "TAKE
-Bandages"
+REFERENCE            spawn_eliminated
+LANG_ENGLISH         "You have been eliminated."
 
-REFERENCE            br_c4
-LANG_ENGLISH         "Take
-C4"
+REFERENCE            sotf_crate_single
+LANG_ENGLISH         "Incoming Weapon Crate"
 
-REFERENCE            br_cargotrain
-LANG_ENGLISH         "Cargo Train"
+REFERENCE            sotf_crate_multiple
+LANG_ENGLISH         "Incoming Weapon Crates"
 
-REFERENCE            br_circle_closing_0
-LANG_ENGLISH         "Circle closing in 60 seconds"
+REFERENCE            snatch_time_out
+LANG_ENGLISH         "Mission failed we're pulling you out"
 
-REFERENCE            br_circle_closing_1
-LANG_ENGLISH         "Circle closing in 30 seconds"
+REFERENCE            snatch_time_low_arsenal
+LANG_ENGLISH         "Time is running out, secure the Arsenal!"
 
-REFERENCE            br_circle_closing_2
-LANG_ENGLISH         "Circle closing in 20 seconds"
+REFERENCE            snatch_time_low
+LANG_ENGLISH         "Time is running out, locate the Intel!"
 
-REFERENCE            br_circle_closing_3
-LANG_ENGLISH         "Circle closing in 10 seconds"
+REFERENCE            snatch_take_loadout
+LANG_ENGLISH         "Claim Your Loadout"
 
-REFERENCE            br_circle_closing_now
-LANG_ENGLISH         "Circle closing now!"
+REFERENCE            snatch_take_jugg
+LANG_ENGLISH         "Take Juggernaut Suit"
 
-REFERENCE            br_claymore
-LANG_ENGLISH         "TAKE
-Claymore"
+REFERENCE            snatch_take_intel
+LANG_ENGLISH         "Take Intel"
 
-REFERENCE            br_concussion
-LANG_ENGLISH         "Take
-Concussion"
+REFERENCE            snatch_take_grab_box
+LANG_ENGLISH         "Take Black Box"
 
-REFERENCE            br_control
-LANG_ENGLISH         "Control: "
+REFERENCE            snatch_set_charge
+LANG_ENGLISH         "Place charge"
 
-REFERENCE            br_crate
-LANG_ENGLISH         "Loot crate"
+REFERENCE            snatch_location_syrk
+LANG_ENGLISH         "Hidden Arsenal, Donetsk"
 
-REFERENCE            br_crate_loadout
-LANG_ENGLISH         "Pick up loadout"
+REFERENCE            snatch_intro
+LANG_ENGLISH         "Snatch & Grab Op"
 
-REFERENCE            br_danger
-LANG_ENGLISH         "Danger!"
+REFERENCE            snatch_intel_discovered_self
+LANG_ENGLISH         "Intel discovered, map updated"
 
-REFERENCE            br_decoy
-LANG_ENGLISH         "Take
-Decoy Grenade"
+REFERENCE            snatch_intel_discovered
+LANG_ENGLISH         "Teammate discovered Intel, map updated"
 
-REFERENCE            br_eliminated
-LANG_ENGLISH         "You were Eliminated"
+REFERENCE            snatch_generic_time
+LANG_ENGLISH         "16:20 HRS"
 
-REFERENCE            br_empdrone
-LANG_ENGLISH         "Take
-EMP Drone"
+REFERENCE            snatch_fight
+LANG_ENGLISH         "FIGHT"
 
-REFERENCE            br_equip_deny_no_room
-LANG_ENGLISH         "Cannot pick up: Inventory full"
+REFERENCE            snatch_exfil_point
+LANG_ENGLISH         "Exfil Point"
 
-REFERENCE            br_equipment_generic
-LANG_ENGLISH         "Take Equipment"
+REFERENCE            snatch_exfil_friend
+LANG_ENGLISH         "Your ally has started extraction"
 
-REFERENCE            br_extraction_cancelled
-LANG_ENGLISH         "Extraction failed, interaction cancelled"
+REFERENCE            snatch_exfil_enemy_escaping
+LANG_ENGLISH         "An enemy is escaping with an Arsenal weapon!"
 
-REFERENCE            br_extraction_in_progress
-LANG_ENGLISH         "Extraction already in progress"
+REFERENCE            snatch_exfil_begin
+LANG_ENGLISH         "Beginning exfil sequence"
 
-REFERENCE            br_extraction_not_in_zone
-LANG_ENGLISH         "Flare guns only usable in designated extraction zones"
+REFERENCE            snatch_breach_started_friend
+LANG_ENGLISH         "Breach planted, stand clear!"
 
-REFERENCE            br_fc_rock
-LANG_ENGLISH         "Rock"
+REFERENCE            snatch_breach_started
+LANG_ENGLISH         "An enemy is breaching the Arsenal!"
 
-REFERENCE            br_final_circle
-LANG_ENGLISH         "Final Circle!"
+REFERENCE            snatch_breach_done
+LANG_ENGLISH         "The Arsenal is open, take the weapons!"
 
-REFERENCE            br_firstaid
-LANG_ENGLISH         "Take
-First Aid"
+REFERENCE            snatch_arsenal_taken_self
+LANG_ENGLISH         "You have an Arsenal weapon, escape!"
 
-REFERENCE            br_flash
-LANG_ENGLISH         "TAKE 
-Flash Grenade"
+REFERENCE            snatch_arsenal_taken_friend
+LANG_ENGLISH         "Your teammate has an Arsenal weapon!"
 
-REFERENCE            br_frag
-LANG_ENGLISH         "TAKE
-Frag Grenade"
+REFERENCE            snatch_arsenal_taken
+LANG_ENGLISH         "An enemy took an Arsenal weapon!"
 
-REFERENCE            br_gas
-LANG_ENGLISH         "Take
-Gas Grenade"
+REFERENCE            snatch_arsenal_discovered
+LANG_ENGLISH         "Arsenal identified, capture the weapons"
 
-REFERENCE            br_gasmask
-LANG_ENGLISH         "Gas Mask"
+REFERENCE            snatch_3
+LANG_ENGLISH         "3"
 
-REFERENCE            br_gasmask_desc
-LANG_ENGLISH         "Provides twelve seconds of protection from the encroaching gas before breaking."
+REFERENCE            snatch_2
+LANG_ENGLISH         "2"
 
-REFERENCE            br_gasmask_durable
-LANG_ENGLISH         "Durable Gas Mask"
+REFERENCE            snatch_1
+LANG_ENGLISH         "1"
 
-REFERENCE            br_gulag_bet_ammount
-LANG_ENGLISH         "Current Bet: $&&1"
+REFERENCE            sm_dflt_name
+LANG_ENGLISH         "Squad Member &&1"
 
-REFERENCE            br_gulag_bet_ammount_lost
-LANG_ENGLISH         "-$&&1"
+REFERENCE            siege_time_flag_win
+LANG_ENGLISH         "Your team holds more flags"
 
-REFERENCE            br_gulag_bet_ammount_won
-LANG_ENGLISH         "+$&&1"
+REFERENCE            siege_time_flag_loss
+LANG_ENGLISH         "Enemy team holds more flags"
 
-REFERENCE            br_gulag_bet_available
-LANG_ENGLISH         "Available: $&&1"
+REFERENCE            siege_force_end
+LANG_ENGLISH         "No flags captured, game force ended"
 
-REFERENCE            br_gulag_bet_fighter_name_0
-LANG_ENGLISH         "[{+actionslot 1}] &&1"
+REFERENCE            siege_all_flags_win
+LANG_ENGLISH         "Your team captured all flags"
 
-REFERENCE            br_gulag_bet_fighter_name_1
-LANG_ENGLISH         "[{+actionslot 2}] &&1"
+REFERENCE            siege_all_flags_loss
+LANG_ENGLISH         "Enemy team captured all flags"
 
-REFERENCE            br_gulag_bet_fighter_name_loser
-LANG_ENGLISH         "Lost: &&1"
+REFERENCE            setting_trap
+LANG_ENGLISH         "Setting trap..."
 
-REFERENCE            br_gulag_bet_fighter_name_winner
-LANG_ENGLISH         "Won: &&1"
+REFERENCE            set_trap
+LANG_ENGLISH         "^3[{+activate}]^7 Set trap"
 
-REFERENCE            br_gulag_fight_ticket_message
-LANG_ENGLISH         "Gulag Match"
+REFERENCE            select_spawn
+LANG_ENGLISH         "Select a spawn location."
 
-REFERENCE            br_gulag_focus_bet
-LANG_ENGLISH         "[{+usereload,+activate}] Bet on &&1"
+REFERENCE            select_loadout_await_c130
+LANG_ENGLISH         "Select your loadout while awaiting C130 arrival."
 
-REFERENCE            br_gulag_focus_bet_change
-LANG_ENGLISH         "[{+usereload,+activate}] Change bet to &&1"
+REFERENCE            securing_position
+LANG_ENGLISH         "Securing Position"
 
-REFERENCE            br_gulag_focus_bet_clear
-LANG_ENGLISH         "[{+usereload,+activate}] Clear Bet"
+REFERENCE            secondplace_name
+LANG_ENGLISH         "2nd. &&1"
 
-REFERENCE            br_gulag_focus_bet_increase
-LANG_ENGLISH         "[{+usereload,+activate}] Increase Bet"
+REFERENCE            second_place_fem
+LANG_ENGLISH         "&&1nd"
 
-REFERENCE            br_gulag_jailbreak
-LANG_ENGLISH         "Jail Break!"
+REFERENCE            second_place
+LANG_ENGLISH         "&&1nd"
 
-REFERENCE            br_gulag_jailbreak_in
-LANG_ENGLISH         "Jail Break In:"
+REFERENCE            second_kill
+LANG_ENGLISH         "&&1nd KILL"
 
-REFERENCE            br_gulag_next_up
-LANG_ENGLISH         "Next Up"
+REFERENCE            scorelimit_killcam
+LANG_ENGLISH         "FINAL KILL"
 
-REFERENCE            br_gulag_opp
-LANG_ENGLISH         "Opponent"
+REFERENCE            score_xp_colon
+LANG_ENGLISH         "Score XP:"
 
-REFERENCE            br_gulag_queue
-LANG_ENGLISH         "Rounds Until You Fight"
+REFERENCE            score_to_beat
+LANG_ENGLISH         "SCORE TO BEAT"
 
-REFERENCE            br_gulag_timer
-LANG_ENGLISH         "VS"
+REFERENCE            score_limit_reached
+LANG_ENGLISH         "Score limit reached"
 
-REFERENCE            br_gulag_travel
-LANG_ENGLISH         "Traveling To The Gulag..."
+REFERENCE            scav_splash_start_title
+LANG_ENGLISH         "Mission Started!"
 
-REFERENCE            br_heartbeatsensor
-LANG_ENGLISH         "Take
-Heartbeat Sensor"
+REFERENCE            scav_splash_start_subtitle
+LANG_ENGLISH         "Secure supplies at the Target Area!"
 
-REFERENCE            br_helmet_l1
-LANG_ENGLISH         "EQUIP
-Helmet | LVL 1"
+REFERENCE            scav_splash_complete_title
+LANG_ENGLISH         "Mission Complete!"
 
-REFERENCE            br_helmet_l1_desc
-LANG_ENGLISH         "Reduces headshot damage by 15%."
+REFERENCE            scav_splash_complete_subtitle
+LANG_ENGLISH         "All supplies secured"
 
-REFERENCE            br_helmet_l2
-LANG_ENGLISH         "EQUIP
-Helmet | LVL 2"
+REFERENCE            scav_pickup_prompt
+LANG_ENGLISH         "Pick up Scavenger Crate"
 
-REFERENCE            br_helmet_l2_desc
-LANG_ENGLISH         "Reduces headshot damage by 30%."
+REFERENCE            scav_hud_itemcount
+LANG_ENGLISH         "Collected Boxes : ^2 &&1 / 10"
 
-REFERENCE            br_helmet_l3
-LANG_ENGLISH         "EQUIP
-Helmet | LVL 3"
+REFERENCE            roundend
+LANG_ENGLISH         "Round Over"
 
-REFERENCE            br_helmet_l3_desc
-LANG_ENGLISH         "Reduces headshot damage by 30%. Reduces the effect of Flash and Concussion grenades."
+REFERENCE            round_winning
+LANG_ENGLISH         "Winning"
 
-REFERENCE            br_hold_to_take_killstreak
-LANG_ENGLISH         "Take Killstreak"
+REFERENCE            round_win
+LANG_ENGLISH         "Round Win"
 
-REFERENCE            br_invalid_extract
-LANG_ENGLISH         "Can't Extract Here"
+REFERENCE            round_tied
+LANG_ENGLISH         "Tied"
 
-REFERENCE            br_killstreak_deny_already_have
-LANG_ENGLISH         "Already have a killstreak"
+REFERENCE            round_loss
+LANG_ENGLISH         "Round Loss"
 
-REFERENCE            br_loot_cache
-LANG_ENGLISH         "Supply Box"
+REFERENCE            round_losing
+LANG_ENGLISH         "Losing"
 
-REFERENCE            br_loot_cache_desc
-LANG_ENGLISH         "A crate containing potentially valuable equipment or items."
+REFERENCE            round_limit_reached
+LANG_ENGLISH         "Round limit reached"
 
-REFERENCE            br_mission_tablet
-LANG_ENGLISH         "Mission Tablet"
+REFERENCE            round_killcam
+LANG_ENGLISH         "FINAL KILL"
 
-REFERENCE            br_mission_tablet_desc
-LANG_ENGLISH         "Pick up this tablet to begin a random mission."
+REFERENCE            round_end_killcam
+LANG_ENGLISH         "ROUND ENDING KILL"
 
-REFERENCE            br_mobile_armory_already_used
-LANG_ENGLISH         "You can only use the mobile armory once per activation."
+REFERENCE            round_draw
+LANG_ENGLISH         "Round Draw"
 
-REFERENCE            br_molotov
-LANG_ENGLISH         "TAKE
-Molotov"
+REFERENCE            rewind_failed
+LANG_ENGLISH         "Rewind Failed"
 
-REFERENCE            br_new_circle
-LANG_ENGLISH         "New Safe Zone Identified!"
+REFERENCE            reviving_self
+LANG_ENGLISH         "You are reviving yourself."
 
-REFERENCE            br_not_enough_plunder
-LANG_ENGLISH         "No Cash to Deposit"
+REFERENCE            revive_or_respawn
+LANG_ENGLISH         "Hold [{+stance,+togglecrouch}] to give up the fight or wait for friendly to revive you."
 
-REFERENCE            br_perk_point_pickup
-LANG_ENGLISH         "Perk Points"
+REFERENCE            revive
+LANG_ENGLISH         "^3[{+activate}]^7 Revive player"
 
-REFERENCE            br_pickup_deny_parachuting
-LANG_ENGLISH         "Cannot loot while parachuting"
+REFERENCE            reusable_loot_cache
+LANG_ENGLISH         "Tactical Supply Box"
 
-REFERENCE            br_pickup_player
-LANG_ENGLISH         "Pickup Teammate"
+REFERENCE            returning_flag
+LANG_ENGLISH         "Returning Flag"
 
-REFERENCE            br_pickup_undefined
-LANG_ENGLISH         "Pickup Undefined"
+REFERENCE            rally_point_respawn
+LANG_ENGLISH         "Waiting for revive. Hold  to respawn on rally point. Will auto respawn in:"
 
-REFERENCE            br_plate_pouch
-LANG_ENGLISH         "Armor Satchel"
+REFERENCE            quest_stash_found
+LANG_ENGLISH         "Equipment Stash Located! Gear up and win this!"
 
-REFERENCE            br_plate_pouch_desc
-LANG_ENGLISH         "Increases the number of armor plates you can carry."
+REFERENCE            quest_sonar_start
+LANG_ENGLISH         "Equipment Stash Nearby! Use the Sonar to find it!"
 
-REFERENCE            br_plunder_banked
-LANG_ENGLISH         "Cash deposited successfully"
+REFERENCE            quest_pickup
+LANG_ENGLISH         "Equipment Stash Detected! Proceed to Target Area!"
 
-REFERENCE            br_plunder_blank
-LANG_ENGLISH         "&&1"
+REFERENCE            press_to_use_nvg_kb
+LANG_ENGLISH         "^3[{nightvision}]^7 Toggle Night Vision"
 
-REFERENCE            br_plunder_cash
-LANG_ENGLISH         "Cash"
+REFERENCE            press_to_use_nvg
+LANG_ENGLISH         "[{+actionslot 2}] Toggle Night Vision"
 
-REFERENCE            br_plunder_cash_desc
-LANG_ENGLISH         "Collect cash and convert it into XP by depositing it into ATM machines located throughout the game."
+REFERENCE            press_to_teamspawn
+LANG_ENGLISH         "[{+attack}] Spawn on your partner!"
 
-REFERENCE            br_plunder_cash_hud
-LANG_ENGLISH         "$&&1"
+REFERENCE            press_to_spawn
+LANG_ENGLISH         "^3[{+activate}]^7 Spawn"
 
-REFERENCE            br_plunder_cash_hud_in_thousand
-LANG_ENGLISH         "$&&1K"
+REFERENCE            press_to_skip
+LANG_ENGLISH         "^3[{+activate}]^7 Skip"
 
-REFERENCE            br_plunder_extract
-LANG_ENGLISH         "Cash Deposit Balloon"
+REFERENCE            press_to_respawn
+LANG_ENGLISH         "^3[{+activate}]^7 Respawn"
 
-REFERENCE            br_plunder_extraction
-LANG_ENGLISH         "Deposit Cash"
+REFERENCE            practice_round_over
+LANG_ENGLISH         "Practice Round Over"
 
-REFERENCE            br_plunder_gone
-LANG_ENGLISH         "Enemy cash gone before you could steal it"
+REFERENCE            plus
+LANG_ENGLISH         "+"
 
-REFERENCE            br_plunder_heli_call_in
-LANG_ENGLISH         "Call in Cash Deposit Heli"
+REFERENCE            plunder_xp_colon
+LANG_ENGLISH         "Cash XP:"
 
-REFERENCE            br_plunder_heli_deposit
-LANG_ENGLISH         "Deposit Cash"
+REFERENCE            players_forfeited
+LANG_ENGLISH         "Players forfeited"
 
-REFERENCE            br_plunder_helipad
-LANG_ENGLISH         "Cash Deposit Helipad"
+REFERENCE            player_already_being_revived
+LANG_ENGLISH         "A teammate is already reviving this player."
 
-REFERENCE            br_plunder_leader
-LANG_ENGLISH         "Cash Leaders"
+REFERENCE            planting_explosive
+LANG_ENGLISH         "Planting..."
 
-REFERENCE            br_plunder_stole
-LANG_ENGLISH         "You stole the enemy cash"
+REFERENCE            placeholder_leaving_in_n
+LANG_ENGLISH         "PLACEHOLDER leaving in &&1 seconds."
 
-REFERENCE            br_press_to_deploy
-LANG_ENGLISH         "^3[{+gostand}]^7 Deploy"
+REFERENCE            placeholder_cannot_deposit_leaving
+LANG_ENGLISH         "Cannot deposit cash. PLACEHOLDER is leaving."
 
-REFERENCE            br_press_to_select_infil
-LANG_ENGLISH         "^3[{+usereload}]^7Convoy    ^3[{+weapnext}]^7Blackhawk    ^3[{+stance}]^7 C130"
+REFERENCE            placeholder_cannot_deposit_full
+LANG_ENGLISH         "Cannot deposit cash. PLACEHOLDER is full."
 
-REFERENCE            br_quantity_dollar_prefix
-LANG_ENGLISH         "$&&1"
+REFERENCE            place_ladder
+LANG_ENGLISH         "Ladder"
 
-REFERENCE            br_quantity_x_prefix
-LANG_ENGLISH         "x&&1"
+REFERENCE            pillage_cache_hint
+LANG_ENGLISH         "Take Cache"
 
-REFERENCE            br_radardrone
-LANG_ENGLISH         "Take
-Radar Drone"
+REFERENCE            pickup_rpg7
+LANG_ENGLISH         "Pick up RPG-7"
 
-REFERENCE            br_recondrone
-LANG_ENGLISH         "Take
-Recon Drone"
-
-REFERENCE            br_respawn_body
-LANG_ENGLISH         "Holding Body, Tap [{+stance}] to Drop"
-
-REFERENCE            br_respawn_charging
-LANG_ENGLISH         "Defibrillator is charging"
-
-REFERENCE            br_respawn_death_countdown
-LANG_ENGLISH         "Teammate dead in: &&1"
-
-REFERENCE            br_respawn_drop_body
-LANG_ENGLISH         "Drop the body near the ambulance"
-
-REFERENCE            br_respawn_take
-LANG_ENGLISH         "Take Defibrillator"
-
-REFERENCE            br_revive_or_respawn
-LANG_ENGLISH         "Hold [{+stance,+togglecrouch}] to give up."
-
-REFERENCE            br_safety
-LANG_ENGLISH         "Get to the Circle!"
-
-REFERENCE            br_scramblerdrone
-LANG_ENGLISH         "Take
-Scrambler Drone"
-
-REFERENCE            br_semtex
-LANG_ENGLISH         "TAKE
-Semtex Grenade"
-
-REFERENCE            br_shieldturret
-LANG_ENGLISH         "Take
-Shield Turret"
-
-REFERENCE            br_smoke
-LANG_ENGLISH         "TAKE
-Smoke Grenade"
-
-REFERENCE            br_snapshot
-LANG_ENGLISH         "Take
-Snapshot Grenade"
-
-REFERENCE            br_specialistbonus
-LANG_ENGLISH         "Specialist Bonus"
-
-REFERENCE            br_specialistbonus_desc
-LANG_ENGLISH         "Grants every perk."
-
-REFERENCE            br_take_ak
-LANG_ENGLISH         "Powerful Assault Rifle"
-
-REFERENCE            br_take_as50
-LANG_ENGLISH         "Silenced Sniper Rifle"
-
-REFERENCE            br_take_aug
-LANG_ENGLISH         "Take AUG"
-
-REFERENCE            br_take_carlg
-LANG_ENGLISH         "Lock On Launcher"
-
-REFERENCE            br_take_citori
-LANG_ENGLISH         "Powerful Shotgun"
-
-REFERENCE            br_take_control
-LANG_ENGLISH         "Take Control"
-
-REFERENCE            br_take_deagle
-LANG_ENGLISH         "Powerful Pistol
-"
-
-REFERENCE            br_take_defibrillator
-LANG_ENGLISH         "Portable Defibrillator"
-
-REFERENCE            br_take_dp12
-LANG_ENGLISH         "Take DP-12"
-
-REFERENCE            br_take_dragunov
-LANG_ENGLISH         "Stable Sniper Rifle"
-
-REFERENCE            br_take_famas
-LANG_ENGLISH         "Burst Rifle"
-
-REFERENCE            br_take_g21
-LANG_ENGLISH         "Tactical Pistol"
-
-REFERENCE            br_take_hk121
-LANG_ENGLISH         "Take HK-121"
-
-REFERENCE            br_take_kar98
-LANG_ENGLISH         "Powerful Rifle"
-
-REFERENCE            br_take_knife
-LANG_ENGLISH         "Take Knife"
-
-REFERENCE            br_take_m14
-LANG_ENGLISH         "Semi Auto Rifle"
-
-REFERENCE            br_take_m32a1
-LANG_ENGLISH         "Grenade Launcher"
-
-REFERENCE            br_take_m4
-LANG_ENGLISH         "Take M4"
-
-REFERENCE            br_take_marlin
-LANG_ENGLISH         "Take Marlin"
-
-REFERENCE            br_take_mcx
-LANG_ENGLISH         "Stable Assault Rifle"
-
-REFERENCE            br_take_mg34
-LANG_ENGLISH         "Powerful LMG"
-
-REFERENCE            br_take_model870
-LANG_ENGLISH         "Tactical Shotgun"
-
-REFERENCE            br_take_mp5
-LANG_ENGLISH         "Silenced SMG"
-
-REFERENCE            br_take_mp7
-LANG_ENGLISH         "Take MP7"
-
-REFERENCE            br_take_p320
-LANG_ENGLISH         "Take P320"
-
-REFERENCE            br_take_p90
-LANG_ENGLISH         "Tactical SMG"
-
-REFERENCE            br_take_pkm
-LANG_ENGLISH         "Stable LMG"
-
-REFERENCE            br_take_python
-LANG_ENGLISH         "Powerful Revolver"
-
-REFERENCE            br_take_scarh
-LANG_ENGLISH         "Silenced Assault Rifle"
-
-REFERENCE            br_take_unknown
-LANG_ENGLISH         "Take Unknown Gun"
-
-REFERENCE            br_take_uzi
-LANG_ENGLISH         "Powerful SMG"
-
-REFERENCE            br_thermite
-LANG_ENGLISH         "Take
-Thermite Grenade"
-
-REFERENCE            br_throwing_knife
-LANG_ENGLISH         "Take Throwing Knife"
-
-REFERENCE            br_trophysystem
-LANG_ENGLISH         "Take
-Trophy System"
-
-REFERENCE            br_type_ar
-LANG_ENGLISH         "Assault Rifle"
-
-REFERENCE            br_type_ar_3burst
-LANG_ENGLISH         "Burst AR"
-
-REFERENCE            br_type_ar_cq
-LANG_ENGLISH         "Close-quarters AR"
-
-REFERENCE            br_type_ar_heavy
-LANG_ENGLISH         "Heavy Assault Rifle"
-
-REFERENCE            br_type_ar_scoped
-LANG_ENGLISH         "Scoped AR"
-
-REFERENCE            br_type_ar_semi_rifle
-LANG_ENGLISH         "Semi Assault Rifle"
-
-REFERENCE            br_type_ar_sil
-LANG_ENGLISH         "Silenced Assault Rifle"
-
-REFERENCE            br_type_ar_supp_ther
-LANG_ENGLISH         "Thermal Silenced AR"
-
-REFERENCE            br_type_generic_ar
-LANG_ENGLISH         "Custom Assault Rifle"
-
-REFERENCE            br_type_generic_dm
-LANG_ENGLISH         "Custom Semi-Auto Rifle"
-
-REFERENCE            br_type_generic_kn
-LANG_ENGLISH         "Custom Knife"
-
-REFERENCE            br_type_generic_la
-LANG_ENGLISH         "Custom Launcher"
-
-REFERENCE            br_type_generic_lm
-LANG_ENGLISH         "Custom LMG"
-
-REFERENCE            br_type_generic_me
-LANG_ENGLISH         "Custom Melee Weapon"
-
-REFERENCE            br_type_generic_pi
-LANG_ENGLISH         "Custom Pistol"
-
-REFERENCE            br_type_generic_sh
-LANG_ENGLISH         "Custom Shotgun"
-
-REFERENCE            br_type_generic_sm
-LANG_ENGLISH         "Custom SMG"
-
-REFERENCE            br_type_generic_sn
-LANG_ENGLISH         "Custom Bolt Rifle"
-
-REFERENCE            br_type_la_antitank
-LANG_ENGLISH         "Anti-Vehicle Launcher"
-
-REFERENCE            br_type_la_bazooka
-LANG_ENGLISH         "Bazooka"
-
-REFERENCE            br_type_la_launcher
-LANG_ENGLISH         "Grenade Launcher"
-
-REFERENCE            br_type_la_rpg
-LANG_ENGLISH         "RPG"
-
-REFERENCE            br_type_lm
-LANG_ENGLISH         "Light Machine Gun"
-
-REFERENCE            br_type_lm_minigun
-LANG_ENGLISH         "Minigun"
-
-REFERENCE            br_type_lm_sil
-LANG_ENGLISH         "Silenced LMG"
-
-REFERENCE            br_type_lm_sil_ther
-LANG_ENGLISH         "Thermal Silenced LMG"
-
-REFERENCE            br_type_me_riotshield
-LANG_ENGLISH         "Riot Shield"
-
-REFERENCE            br_type_pi
-LANG_ENGLISH         "Pistol"
-
-REFERENCE            br_type_pi_akimbo
-LANG_ENGLISH         "Akimbo Pistols"
-
-REFERENCE            br_type_pi_burst
-LANG_ENGLISH         "Burst Pistol"
-
-REFERENCE            br_type_pi_handcannon
-LANG_ENGLISH         "Hand Cannon"
-
-REFERENCE            br_type_pi_magnum
-LANG_ENGLISH         "Magnum"
-
-REFERENCE            br_type_pi_sil
-LANG_ENGLISH         "Silenced Pistol"
-
-REFERENCE            br_type_sh_break
-LANG_ENGLISH         "Break Action Shotgun"
-
-REFERENCE            br_type_sh_combat
-LANG_ENGLISH         "Combat Shotgun"
-
-REFERENCE            br_type_sh_db
-LANG_ENGLISH         "Dragon's Breath Shotgun"
-
-REFERENCE            br_type_sh_pump
-LANG_ENGLISH         "Pump Shotgun"
-
-REFERENCE            br_type_sh_sil
-LANG_ENGLISH         "Silenced Shotgun"
-
-REFERENCE            br_type_sh_slug
-LANG_ENGLISH         "Slug Shotgun"
-
-REFERENCE            br_type_sm
-LANG_ENGLISH         "Submachine Gun"
-
-REFERENCE            br_type_sm_hc
-LANG_ENGLISH         "High Capacity SMG"
-
-REFERENCE            br_type_sm_range
-LANG_ENGLISH         "Long Range SMG"
-
-REFERENCE            br_type_sm_sil_ther
-LANG_ENGLISH         "Thermal Silenced SMG"
-
-REFERENCE            br_type_sm_silenced
-LANG_ENGLISH         "Silenced SMG"
-
-REFERENCE            br_type_sn
-LANG_ENGLISH         "Sniper Rifle"
-
-REFERENCE            br_type_sn_50cal
-LANG_ENGLISH         ".50 Cal Sniper"
-
-REFERENCE            br_type_sn_bolt
-LANG_ENGLISH         "Bolt Action Sniper"
-
-REFERENCE            br_type_sn_bolt_rifle
-LANG_ENGLISH         "Bolt Action Rifle"
-
-REFERENCE            br_type_sn_cb
-LANG_ENGLISH         "Crossbow"
-
-REFERENCE            br_type_sn_cb_thermite
-LANG_ENGLISH         "Thermite Crossbow"
-
-REFERENCE            br_type_sn_lever
-LANG_ENGLISH         "Lever Action Sniper"
-
-REFERENCE            br_type_sn_semi
-LANG_ENGLISH         "Semi-Auto Sniper"
-
-REFERENCE            br_type_sn_semi_mm
-LANG_ENGLISH         "Semi Marksman Rifle"
-
-REFERENCE            br_type_sn_semi_rifle
-LANG_ENGLISH         "Semi Auto Rifle"
-
-REFERENCE            br_type_sn_sil
-LANG_ENGLISH         "Silenced Sniper"
-
-REFERENCE            br_type_sn_sil_rifle
-LANG_ENGLISH         "Silenced Rifle"
-
-REFERENCE            br_type_sn_sil_ther
-LANG_ENGLISH         "Thermal Silenced Sniper"
-
-REFERENCE            br_use_exfil_chopper
-LANG_ENGLISH         "Board Exfil Chopper"
-
-REFERENCE            br_use_mobile_armory
-LANG_ENGLISH         "Retrieve Loadout"
-
-REFERENCE            br_use_plunder_cache
-LANG_ENGLISH         "Deposit Your Cash"
-
-REFERENCE            br_use_plunder_cache_enemy
-LANG_ENGLISH         "Take Enemy Cash"
-
-REFERENCE            br_use_satellite_truck
-LANG_ENGLISH         "Activate local UAV"
-
-REFERENCE            br_vest
-LANG_ENGLISH         "Ballistic Vest
-"
-
-REFERENCE            br_vest_l1
-LANG_ENGLISH         "EQUIP
-Vest | LVL 1"
-
-REFERENCE            br_vest_l1_desc
-LANG_ENGLISH         "Absorbs 50 damage."
-
-REFERENCE            br_vest_l2
-LANG_ENGLISH         "EQUIP
-Vest | LVL 2"
-
-REFERENCE            br_vest_l2_desc
-LANG_ENGLISH         "Absorbs 150 damage."
-
-REFERENCE            br_vest_l3
-LANG_ENGLISH         "EQUIP
-Vest | LVL 3"
-
-REFERENCE            br_vest_l3_desc
-LANG_ENGLISH         "Absorbs 150 damage and increases healing item usage by 25%."
-
-REFERENCE            br_warning_danger
-LANG_ENGLISH         "Outside Safe Zone!"
-
-REFERENCE            br_weapon_deny_already_have
-LANG_ENGLISH         "Weapon already in secondary slot"
-
-REFERENCE            breach
-LANG_ENGLISH         "Breach"
-
-REFERENCE            breach_defuse
-LANG_ENGLISH         "Defuse"
-
-REFERENCE            breaching
-LANG_ENGLISH         "Breaching..."
-
-REFERENCE            buddy_err_combat
-LANG_ENGLISH         "Exit combat so that your Teammate can respawn."
-
-REFERENCE            buddy_err_point
-LANG_ENGLISH         "Move to an open area so your Teammate can respawn."
-
-REFERENCE            buddy_incoming
-LANG_ENGLISH         "Stay in cover, your Teammate is about to respawn."
-
-REFERENCE            buddy_press_to_respawn
-LANG_ENGLISH         " Cancel Teammate Spawn"
-
-REFERENCE            buddy_spawned_on_you
-LANG_ENGLISH         "Teammate spawned on you."
-
-REFERENCE            buddy_time_until_spawn
-LANG_ENGLISH         "Reinforcing Teammate in"
-
-REFERENCE            buddy_waiting_combat
-LANG_ENGLISH         "Teammate is in Combat!"
-
-REFERENCE            buddy_waiting_point
-LANG_ENGLISH         "Teammate needs to move!"
-
-REFERENCE            call_nuke
-LANG_ENGLISH         "Hold ^3&&1^7 for Nuclear Strike."
-
-REFERENCE            cannot_deposit_cash
-LANG_ENGLISH         "Cannot deposit cash now."
-
-REFERENCE            cannot_deposit_cash_balloon_full
-LANG_ENGLISH         "Cannot deposit cash. Balloon is full."
-
-REFERENCE            cannot_deposit_cash_balloon_leaving
-LANG_ENGLISH         "Cannot deposit cash. Balloon is leaving."
-
-REFERENCE            cannot_deposit_cash_heli_full
-LANG_ENGLISH         "Cannot deposit cash. Heli is full."
-
-REFERENCE            cannot_deposit_cash_heli_leaving
-LANG_ENGLISH         "Cannot deposit cash. Heli is leaving."
-
-REFERENCE            cannot_deposit_cash_vehicle
-LANG_ENGLISH         "Cannot deposit while in vehicle."
-
-REFERENCE            cannot_deposit_ls
-LANG_ENGLISH         "Cannot deposit while in Last Stand."
-
-REFERENCE            cannot_deposit_no_cash
-LANG_ENGLISH         "No cash to deposit."
-
-REFERENCE            cannot_place_domeshield
-LANG_ENGLISH         "Too much energy interference."
-
-REFERENCE            cannot_use_cannot_extract_in_use
-LANG_ENGLISH         "Cannot extract. Crate is in use."
-
-REFERENCE            cant_plant_without_bomb
-LANG_ENGLISH         "You must have the bomb to plant."
-
-REFERENCE            capturing
-LANG_ENGLISH         "Capturing..."
-
-REFERENCE            capturing_flag
-LANG_ENGLISH         "Capturing Flag"
-
-REFERENCE            cash_balloon_blocked
-LANG_ENGLISH         "Cash Balloon Blocked Above"
-
-REFERENCE            cash_balloon_cannot_place
-LANG_ENGLISH         "Cannot Place Cash Balloon Here"
-
-REFERENCE            cash_balloon_leaving_in_n
-LANG_ENGLISH         "Cash Balloon leaving in &&1 seconds."
-
-REFERENCE            cash_balloon_too_many
-LANG_ENGLISH         "Cash Balloon Already Deployed"
-
-REFERENCE            cash_heli_leaving_in_n
-LANG_ENGLISH         "Cash Heli leaving in &&1 seconds."
-
-REFERENCE            caused_defcon
-LANG_ENGLISH         "Emergency Airdrop!"
-
-REFERENCE            challenge_completed
-LANG_ENGLISH         "Challenge Completed!"
-
-REFERENCE            challenges_completed
-LANG_ENGLISH         "Challenges Completed!"
-
-REFERENCE            change_class_next_round
-LANG_ENGLISH         "Your loadout cannot be changed until the next round."
-
-REFERENCE            change_class_next_spawn
-LANG_ENGLISH         "Your loadout will change the next time you spawn."
-
-REFERENCE            clantag_notallowed
-LANG_ENGLISH         "You are not authorized to use this clan tag."
-
-REFERENCE            cmd_obj_activation
-LANG_ENGLISH         "Prepare to assault the &&1"
-
-REFERENCE            cmd_obj_bomb_capture
-LANG_ENGLISH         "Defend the Bomb"
-
-REFERENCE            cmd_obj_bomb_defend
-LANG_ENGLISH         "Defuse the Bomb"
-
-REFERENCE            cmd_obj_capture
-LANG_ENGLISH         "Capture the &&1"
-
-REFERENCE            cmd_obj_defend
-LANG_ENGLISH         "Hold the &&1"
-
-REFERENCE            connected
-LANG_ENGLISH         "&&1 Connected"
-
-REFERENCE            cowards_way_out
-LANG_ENGLISH         "Hold ^3[{+activate}]^7 for the coward's way out"
-
-REFERENCE            cranked
-LANG_ENGLISH         "Cranked"
-
-REFERENCE            cranked_with_timer
-LANG_ENGLISH         "Cranked &&1:&&2"
-
-REFERENCE            cut_parachute_hint
-LANG_ENGLISH         "[{+stance;+movedown,+stance,+stancedown}] Cut Parachute"
-
-REFERENCE            cyber_tie
-LANG_ENGLISH         "TIME LIMIT REACHED - BOTH TEAMS SCORE"
-
-REFERENCE            defeat
-LANG_ENGLISH         "Defeat!"
-
-REFERENCE            defusing_explosive
-LANG_ENGLISH         "Defusing..."
-
-REFERENCE            deploy_parachute_hint
-LANG_ENGLISH         "[{+gostand}] Deploy Parachute"
-
-REFERENCE            dev_available_spawns
-LANG_ENGLISH         "available spawns  - "
-
-REFERENCE            dev_available_spawns_score
-LANG_ENGLISH         "spawn point score - "
-
-REFERENCE            dm_new_target
-LANG_ENGLISH         "New Target: &&1"
-
-REFERENCE            dmz_loot_crate_capture
-LANG_ENGLISH         "Open cash drop"
-
-REFERENCE            dmz_plunder_crate_capture
-LANG_ENGLISH         "Open helo cargo"
-
-REFERENCE            dmz_plunder_loss
-LANG_ENGLISH         "Enemy team reached the cash limit first"
-
-REFERENCE            dmz_plunder_win
-LANG_ENGLISH         "Your team reached the cash limit first!"
-
-REFERENCE            dom_enemy_flag_captured
-LANG_ENGLISH         "Enemy flag captured"
-
-REFERENCE            dom_neutral_flag_captured
-LANG_ENGLISH         "Flag captured"
-
-REFERENCE            dom_your_flag_was_captured
-LANG_ENGLISH         "Your flag was captured"
-
-REFERENCE            door_use_alarm
-LANG_ENGLISH         "Alarm"
-
-REFERENCE            door_use_breach
-LANG_ENGLISH         "Breach"
-
-REFERENCE            door_use_close
-LANG_ENGLISH         "Close Door"
-
-REFERENCE            door_use_lock
-LANG_ENGLISH         "Lock"
-
-REFERENCE            door_use_locked
-LANG_ENGLISH         "Locked"
-
-REFERENCE            door_use_open
-LANG_ENGLISH         "Open Door"
-
-REFERENCE            door_use_open_double
-LANG_ENGLISH         "Press to open, double tap to peek"
-
-REFERENCE            door_use_remove_alarm
-LANG_ENGLISH         "Remove Alarm"
-
-REFERENCE            draw
-LANG_ENGLISH         "Draw"
-
-REFERENCE            drone_reset_timer
-LANG_ENGLISH         "DRONE RESET"
-
-REFERENCE            drone_resetting
-LANG_ENGLISH         "Resetting"
-
-REFERENCE            elevator_use
-LANG_ENGLISH         "Use elevator"
-
-REFERENCE            emp_pickup_use
-LANG_ENGLISH         "^3Pick up bomb^7"
-
-REFERENCE            ended_game
-LANG_ENGLISH         "Ended game"
-
-REFERENCE            enemies_eliminated
-LANG_ENGLISH         "Enemies have been eliminated"
-
-REFERENCE            enemy_flag_captured_by
-LANG_ENGLISH         "Enemy flag captured by &&1!"
-
-REFERENCE            enemy_flag_dropped_by
-LANG_ENGLISH         "Enemy flag dropped by &&1!"
-
-REFERENCE            enemy_flag_returned
-LANG_ENGLISH         "Enemy flag returned by &&1!"
-
-REFERENCE            enemy_flag_taken_by
-LANG_ENGLISH         "Enemy flag was taken by &&1!"
-
-REFERENCE            enemy_forfeit
-LANG_ENGLISH         "Enemy team has forfeited"
-
-REFERENCE            esc_cache_use_hint
-LANG_ENGLISH         "Search
-"
-
-REFERENCE            esc_extract
-LANG_ENGLISH         "Extract"
-
-REFERENCE            esc_extract_soon
-LANG_ENGLISH         "Cache recovered. Get to the extraction zone!"
-
-REFERENCE            esc_loot_cache
-LANG_ENGLISH         "Supply Box"
-
-REFERENCE            esc_wait_to_kick
-LANG_ENGLISH         "Processing escape challenges etc. you'll be taken to the menu shortly..."
-
-REFERENCE            escape_generic_time
-LANG_ENGLISH         "13:00 HRS"
-
-REFERENCE            escape_intro_bel
-LANG_ENGLISH         "Behind Enemy Lines"
-
-REFERENCE            escape_loadout_lost
-LANG_ENGLISH         "Your loadout is lost."
-
-REFERENCE            escape_location_fallout
-LANG_ENGLISH         "Hidden Nuclear Facility, Ukraine"
-
-REFERENCE            escape_location_faridah
-LANG_ENGLISH         "Faridah"
-
-REFERENCE            escape_location_layover
-LANG_ENGLISH         "Donetsk Airport, Ukraine
-"
-
-REFERENCE            escape_location_transit
-LANG_ENGLISH         "Donetsk Train Station, Ukraine"
-
-REFERENCE            escape_location_unknown
-LANG_ENGLISH         "Undisclosed Location"
-
-REFERENCE            escape_weapons_message
-LANG_ENGLISH         "Your loadout is preserved for the next mission."
-
-REFERENCE            escape_you_died
-LANG_ENGLISH         "YOU DIED"
-
-REFERENCE            escape_you_escaped
-LANG_ENGLISH         "YOU ESCAPED"
-
-REFERENCE            exfil_eliminated
-LANG_ENGLISH         "You have been eliminated. Respawn disabled during exfil."
-
-REFERENCE            explosives_defused_by
-LANG_ENGLISH         "&&1 defused the explosives!"
-
-REFERENCE            explosives_dropped_by
-LANG_ENGLISH         "&&1 dropped the explosives!"
-
-REFERENCE            explosives_planted_by
-LANG_ENGLISH         "&&1 planted the explosives!"
-
-REFERENCE            explosives_recovered_by
-LANG_ENGLISH         "&&1 recovered the explosives!"
-
-REFERENCE            extracting_plunder_label
-LANG_ENGLISH         "Depositing cash"
-
-REFERENCE            faction_enemies_forfeited
-LANG_ENGLISH         "Enemies Forfeited"
-
-REFERENCE            faction_five_eliminated
-LANG_ENGLISH         "Coalition Eliminated"
-
-REFERENCE            faction_five_forfeited
-LANG_ENGLISH         "Coalition Forfeited"
-
-REFERENCE            faction_four_eliminated
-LANG_ENGLISH         "Allegiance Eliminated"
-
-REFERENCE            faction_four_forfeited
-LANG_ENGLISH         "Allegiance Forfeited"
-
-REFERENCE            faction_one_eliminated
-LANG_ENGLISH         "Allegiance Eliminated"
-
-REFERENCE            faction_one_forfeited
-LANG_ENGLISH         "Allegiance Forfeited"
-
-REFERENCE            faction_sdf_eliminated
-LANG_ENGLISH         "Al Qatala Eliminated"
-
-REFERENCE            faction_sdf_forfeited
-LANG_ENGLISH         "Al Qatala Forfeited"
-
-REFERENCE            faction_sdf_long
-LANG_ENGLISH         "Al Qatala"
-
-REFERENCE            faction_seven_eliminated
-LANG_ENGLISH         "Allegiance Eliminated"
-
-REFERENCE            faction_seven_forfeited
-LANG_ENGLISH         "Allegiance Forfeited"
-
-REFERENCE            faction_six_eliminated
-LANG_ENGLISH         "Allegiance Eliminated"
-
-REFERENCE            faction_six_forfeited
-LANG_ENGLISH         "Allegiance Forfeited"
-
-REFERENCE            faction_three_eliminated
-LANG_ENGLISH         "Coalition Eliminated"
-
-REFERENCE            faction_three_forfeited
-LANG_ENGLISH         "Coalition Forfeited"
-
-REFERENCE            faction_two_eliminated
-LANG_ENGLISH         "Coalition Eliminated"
-
-REFERENCE            faction_two_forfeited
-LANG_ENGLISH         "Coalition Forfeited"
-
-REFERENCE            faction_unsa_eliminated
-LANG_ENGLISH         "SAS Eliminated"
-
-REFERENCE            faction_unsa_forfeited
-LANG_ENGLISH         "SAS Forfeited"
-
-REFERENCE            faction_unsa_long
-LANG_ENGLISH         "Special Air Service"
-
-REFERENCE            ffa_last_stand_respawn
-LANG_ENGLISH         "Hold [{+stance,+togglecrouch}] to give up the fight."
-
-REFERENCE            field_upgrade_cannot_use
-LANG_ENGLISH         "Cannot be used right now."
-
-REFERENCE            final_killcam
-LANG_ENGLISH         "GAME WINNING KILL"
-
-REFERENCE            final_round
-LANG_ENGLISH         "Final Round"
-
-REFERENCE            first_blood
-LANG_ENGLISH         "First blood wins."
-
-REFERENCE            first_kill
-LANG_ENGLISH         "&&1st KILL"
-
-REFERENCE            first_place
-LANG_ENGLISH         "&&1st"
-
-REFERENCE            first_place_fem
-LANG_ENGLISH         "&&1st"
-
-REFERENCE            firstplace_name
-LANG_ENGLISH         "1st. &&1"
-
-REFERENCE            flag_returned
-LANG_ENGLISH         "&&1 returned our flag!"
-
-REFERENCE            flag_taken_by
-LANG_ENGLISH         "&&1 took your flag!"
-
-REFERENCE            fourth_kill
-LANG_ENGLISH         "&&1th KILL"
-
-REFERENCE            fourth_place
-LANG_ENGLISH         "&&1th"
-
-REFERENCE            fourth_place_fem
-LANG_ENGLISH         "&&1th"
-
-REFERENCE            friendly_fire_punish_switch
-LANG_ENGLISH         "Friendly fire will now reflect damage."
-
-REFERENCE            friendly_fire_will_not
-LANG_ENGLISH         "Friendly fire will not be tolerated!"
-
-REFERENCE            friendly_flag_captured_by
-LANG_ENGLISH         "&&1 captured your flag!"
-
-REFERENCE            front_bounty
-LANG_ENGLISH         "Danger: You have a bounty on your head."
-
-REFERENCE            front_danger
-LANG_ENGLISH         "Danger: Triggered Detection!"
-
-REFERENCE            front_revealed
-LANG_ENGLISH         "Danger: Your position is revealed."
-
-REFERENCE            front_warning
-LANG_ENGLISH         "Warning: Base Breached!"
-
-REFERENCE            get_killstreak
-LANG_ENGLISH         "[{+activate}] Killstreak"
-
-REFERENCE            get_random
-LANG_ENGLISH         "[{+activate}] Random Item"
-
-REFERENCE            gl_impact_killcam
-LANG_ENGLISH         "IMPACT CAM"
-
-REFERENCE            gl_killcam
-LANG_ENGLISH         "NOOB TUBE CAM"
-
-REFERENCE            grabbed_flag_first
-LANG_ENGLISH         "Grabbed the flag first!"
-
-REFERENCE            grabbing_flag
-LANG_ENGLISH         "Taking Flag"
-
-REFERENCE            gulag_time_low
-LANG_ENGLISH         "FINISH OR DIE"
-
-REFERENCE            gw_apc_respawn
-LANG_ENGLISH         "APC reinforcement has arrived."
-
-REFERENCE            gw_iav_respawn
-LANG_ENGLISH         "Infantry Assault Vehicle reinforcement has arrived."
-
-REFERENCE            hacking_explosive
-LANG_ENGLISH         "Hacking..."
-
-REFERENCE            halftime
-LANG_ENGLISH         "Halftime"
-
-REFERENCE            headshot_killcam
-LANG_ENGLISH         "HEADSHOT CAM"
-
-REFERENCE            heroes_return
-LANG_ENGLISH         "^3Hold [{+activate}] for a hero's return^7"
-
-REFERENCE            hipfire_killcam
-LANG_ENGLISH         "SPRAY AND PRAY CAM"
-
-REFERENCE            hits
-LANG_ENGLISH         "Hits: &&1"
-
-REFERENCE            hold_sync_delayed
-LANG_ENGLISH         "Error - resetting authentication, hold on."
-
-REFERENCE            hold_sync_detonate
-LANG_ENGLISH         "Hold simultaneously with another soldier. 
-"
-
-REFERENCE            hold_to_defuse_emp
-LANG_ENGLISH         "^3Defuse Bomb^7"
-
-REFERENCE            hold_to_defuse_explosives
-LANG_ENGLISH         "^3Defuse explosives^7"
-
-REFERENCE            hold_to_drop
-LANG_ENGLISH         "^3[{+activate}]^7 Drop"
-
-REFERENCE            hold_to_drop_hostage
-LANG_ENGLISH         "Drop the hostage"
-
-REFERENCE            hold_to_drop_vip
-LANG_ENGLISH         "Drop VIP"
-
-REFERENCE            hold_to_equip_gas_gear
-LANG_ENGLISH         "Activate Martyr role"
-
-REFERENCE            hold_to_equip_tacops_artillery
-LANG_ENGLISH         "Activate Field Artillery role"
-
-REFERENCE            hold_to_equip_tacops_bomber
-LANG_ENGLISH         "Activate Martyr role"
-
-REFERENCE            hold_to_equip_tacops_copter
-LANG_ENGLISH         "Activate Air Support role"
-
-REFERENCE            hold_to_equip_tacops_gas
-LANG_ENGLISH         "Activate Bio-weapons role"
-
-REFERENCE            hold_to_equip_tacops_jugg
-LANG_ENGLISH         "Activate Ordinance Disposal role"
-
-REFERENCE            hold_to_equip_tacops_medic
-LANG_ENGLISH         "Activate Medic role"
-
-REFERENCE            hold_to_equip_tacops_spawner
-LANG_ENGLISH         "Activate Commander role"
-
-REFERENCE            hold_to_equip_tacops_spotter
-LANG_ENGLISH         "Activate SIGINT role"
-
-REFERENCE            hold_to_equip_tacops_stealth
-LANG_ENGLISH         "Activate Scout role"
-
-REFERENCE            hold_to_equip_tacops_turret
-LANG_ENGLISH         "Activate Combat Engineer role"
-
-REFERENCE            hold_to_escort_vip
-LANG_ENGLISH         "Escort VIP"
-
-REFERENCE            hold_to_get_off_chopper
-LANG_ENGLISH         "Get off chopper"
-
-REFERENCE            hold_to_get_on_chopper
-LANG_ENGLISH         "Get on chopper"
-
-REFERENCE            hold_to_pickup_hostage
-LANG_ENGLISH         "Pick up hostage"
-
-REFERENCE            hold_to_pickup_vip
-LANG_ENGLISH         "Pick up VIP"
-
-REFERENCE            hold_to_plant_emp
-LANG_ENGLISH         "^3Plant Bomb^7"
-
-REFERENCE            hold_to_plant_explosives
-LANG_ENGLISH         "^3Plant explosives^7"
-
-REFERENCE            horde_bleed_out
-LANG_ENGLISH         "Bleeding Out "
-
-REFERENCE            horde_next_air_drop
-LANG_ENGLISH         "SUPPORT DROP"
-
-REFERENCE            horde_round_num
-LANG_ENGLISH         "ROUND"
-
-REFERENCE            horde_round_start_timer
-LANG_ENGLISH         "NEXT ROUND"
-
-REFERENCE            horde_special_round_time
-LANG_ENGLISH         "LOOT ROUND"
-
-REFERENCE            horde_weapon_level
-LANG_ENGLISH         "&&1 - Level &&2"
-
-REFERENCE            host_changing_settings
-LANG_ENGLISH         "Host is changing game settings"
-
-REFERENCE            host_ended_game
-LANG_ENGLISH         "Host ended game"
-
-REFERENCE            host_endgame_response
-LANG_ENGLISH         "Action unavailable, outcome already in progress."
-
-REFERENCE            hvt_follow
-LANG_ENGLISH         "Follow me!"
-
-REFERENCE            hvt_grab
-LANG_ENGLISH         "Capture"
-
-REFERENCE            hvt_revive_use
-LANG_ENGLISH         "Revive HVT"
-
-REFERENCE            hvt_wait
-LANG_ENGLISH         "Wait here!"
-
-REFERENCE            infil_selection_jump
-LANG_ENGLISH         "[{+gostand}]"
-
-REFERENCE            infil_selection_left
-LANG_ENGLISH         "[{+moveleft}]"
-
-REFERENCE            infil_selection_right
-LANG_ENGLISH         "[{+moveright}]"
-
-REFERENCE            infil_selection_top
-LANG_ENGLISH         "[{+forward}]"
-
-REFERENCE            intermission
-LANG_ENGLISH         "Intermission"
-
-REFERENCE            iwnotallowed
-LANG_ENGLISH         "You are not authorized to use the IW clan tag."
-
-REFERENCE            killed_by
-LANG_ENGLISH         "Killed By"
-
-REFERENCE            laststand_revive_use
-LANG_ENGLISH         "^5Revive teammate^7"
-
-REFERENCE            layover
-LANG_ENGLISH         "Layover"
-
-REFERENCE            lethals_unavailable_for_n
-LANG_ENGLISH         "Equipment unavailable for &&1 more seconds."
-
-REFERENCE            light_switch
-LANG_ENGLISH         "Use light switch"
-
-REFERENCE            loadout_default_name
-LANG_ENGLISH         "Loadout &&1"
-
-REFERENCE            losing_flag
-LANG_ENGLISH         "Losing Flag!"
-
-REFERENCE            mapdiffersfromserver
-LANG_ENGLISH         "Your map is different from the host's map.  You cannot play on this map with them."
-
-REFERENCE            mapdiffersfromserverdev
-LANG_ENGLISH         "Your map is different from the host's map.  You cannot play on this map with them. Your checksum = &&1, Server's == &&2"
-
-REFERENCE            mark_resistant
-LANG_ENGLISH         "Target Resistant To Mark"
-
-REFERENCE            marking_equipment
-LANG_ENGLISH         "Marking for team..."
-
-REFERENCE            match_bonus
-LANG_ENGLISH         "Match Bonus:"
-
-REFERENCE            match_bonus_is
-LANG_ENGLISH         "Match Bonus: &&1"
-
-REFERENCE            match_in_progress
-LANG_ENGLISH         "Match in progress"
-
-REFERENCE            match_point
-LANG_ENGLISH         "Match Point"
-
-REFERENCE            match_resuming_in
-LANG_ENGLISH         "Match resumes in: "
-
-REFERENCE            match_starting
-LANG_ENGLISH         "Match starting"
-
-REFERENCE            match_starting_in
-LANG_ENGLISH         "Match begins in: "
-
-REFERENCE            match_tie
-LANG_ENGLISH         "The match is a tie!"
-
-REFERENCE            matchedplayer
-LANG_ENGLISH         "Matched Player"
-
-REFERENCE            melee_killcam
-LANG_ENGLISH         "SHANK CAM"
-
-REFERENCE            mercy_loss
-LANG_ENGLISH         "Lost all objectives"
-
-REFERENCE            mercy_win
-LANG_ENGLISH         "Held all objectives"
-
-REFERENCE            mission_pickup
-LANG_ENGLISH         "Accept Mission"
-
-REFERENCE            muted
-LANG_ENGLISH         "Muted"
-
-REFERENCE            neutral_flag_captured_by
-LANG_ENGLISH         "&&1 captured the flag!"
-
-REFERENCE            neutral_flag_dropped_by
-LANG_ENGLISH         "&&1 dropped the flag!"
-
-REFERENCE            next_drop_zone_in
-LANG_ENGLISH         "Next Drop Zone:"
-
-REFERENCE            next_hardpoint_in
-LANG_ENGLISH         "Next Hardpoint in:"
-
-REFERENCE            next_team_spawn
-LANG_ENGLISH         "Next team spawn..."
-
-REFERENCE            no_respawn
-LANG_ENGLISH         "No Respawning"
-
-REFERENCE            nogoodhost
-LANG_ENGLISH         "Could not migrate host."
-
-REFERENCE            normal
-LANG_ENGLISH         "Normal"
-
-REFERENCE            nuke_deployed
-LANG_ENGLISH         "DEPLOYED"
-
-REFERENCE            nuke_end
-LANG_ENGLISH         "Nuke"
-
-REFERENCE            nuke_radiation_hurt
-LANG_ENGLISH         "DANGER: TAKING RADIATION DAMAGE"
-
-REFERENCE            nuke_radiation_warning
-LANG_ENGLISH         "WARNING: RADIATION ZONE NEARBY"
-
-REFERENCE            nuke_select_launch_detected
-LANG_ENGLISH         "WARNING: ENEMY NUKE LAUNCH DETECTED"
-
-REFERENCE            obituary_enemy
-LANG_ENGLISH         "^1] &&1 > &&2"
-
-REFERENCE            obituary_friendly
-LANG_ENGLISH         "^2] &&1 > &&2"
-
-REFERENCE            obituary_neutral
-LANG_ENGLISH         "] &&1 > &&2"
-
-REFERENCE            offhand_provider_refill
-LANG_ENGLISH         "Refill equipment"
-
-REFERENCE            opponent_forfeiting_in
-LANG_ENGLISH         "Enemies forfeiting in:"
-
-REFERENCE            original_maps
-LANG_ENGLISH         "Original Maps"
-
-REFERENCE            outpost_defended
-LANG_ENGLISH         "Outpost was defended"
-
-REFERENCE            overtime
-LANG_ENGLISH         "Overtime"
+REFERENCE            peek_door
+LANG_ENGLISH         "Peek Door"
 
 REFERENCE            parachuting_control_hints
 LANG_ENGLISH         "[{+stance;+movedown,+stance,+stancedown}] Cut Parachute
 
 [{+equip_toggle_throw,+smoke}] Hold to Free Look"
 
-REFERENCE            peek_door
-LANG_ENGLISH         "Peek Door"
+REFERENCE            overtime
+LANG_ENGLISH         "Overtime"
 
-REFERENCE            pickup_rpg7
-LANG_ENGLISH         "Pick up RPG-7"
+REFERENCE            overheated
+LANG_ENGLISH         "OVERHEATED"
 
-REFERENCE            pillage_cache_hint
-LANG_ENGLISH         "Take Cache"
+REFERENCE            outpost_defended
+LANG_ENGLISH         "Outpost was defended"
 
-REFERENCE            place_ladder
-LANG_ENGLISH         "Ladder"
+REFERENCE            original_maps
+LANG_ENGLISH         "Original Maps"
 
-REFERENCE            placeholder_cannot_deposit_full
-LANG_ENGLISH         "Cannot deposit cash. PLACEHOLDER is full."
+REFERENCE            opponent_forfeiting_in
+LANG_ENGLISH         "Enemies forfeiting in: "
 
-REFERENCE            placeholder_cannot_deposit_leaving
-LANG_ENGLISH         "Cannot deposit cash. PLACEHOLDER is leaving."
+REFERENCE            offhand_provider_refill
+LANG_ENGLISH         "Refill equipment"
 
-REFERENCE            placeholder_leaving_in_n
-LANG_ENGLISH         "PLACEHOLDER leaving in &&1 seconds."
+REFERENCE            obituary_neutral
+LANG_ENGLISH         "] &&1 > &&2"
 
-REFERENCE            planting_explosive
-LANG_ENGLISH         "Planting..."
+REFERENCE            obituary_friendly
+LANG_ENGLISH         "^2] &&1 > &&2"
 
-REFERENCE            player_already_being_revived
-LANG_ENGLISH         "A teammate is already reviving this player."
+REFERENCE            obituary_enemy
+LANG_ENGLISH         "^1] &&1 > &&2"
 
-REFERENCE            players_forfeited
-LANG_ENGLISH         "Players forfeited"
+REFERENCE            nuke_select_launch_detected
+LANG_ENGLISH         "WARNING: ENEMY NUKE LAUNCH DETECTED"
 
-REFERENCE            plunder_xp_colon
-LANG_ENGLISH         "Cash XP:"
+REFERENCE            nuke_radiation_warning
+LANG_ENGLISH         "WARNING: RADIATION ZONE NEARBY"
 
-REFERENCE            plus
-LANG_ENGLISH         "+"
+REFERENCE            nuke_radiation_hurt
+LANG_ENGLISH         "DANGER: TAKING RADIATION DAMAGE"
 
-REFERENCE            practice_round_over
-LANG_ENGLISH         "Practice Round Over"
+REFERENCE            nuke_end
+LANG_ENGLISH         "Nuke"
 
-REFERENCE            press_to_respawn
-LANG_ENGLISH         "^3[{+activate}]^7 Respawn"
+REFERENCE            nuke_deployed
+LANG_ENGLISH         "DEPLOYED"
 
-REFERENCE            press_to_skip
-LANG_ENGLISH         "^3[{+activate}]^7 Skip"
+REFERENCE            normal
+LANG_ENGLISH         "Normal"
 
-REFERENCE            press_to_spawn
-LANG_ENGLISH         "^3[{+activate}]^7 Spawn"
+REFERENCE            nogoodhost
+LANG_ENGLISH         "Could not migrate host."
 
-REFERENCE            press_to_teamspawn
-LANG_ENGLISH         "[{+attack}] Spawn on your partner!"
+REFERENCE            no_respawn
+LANG_ENGLISH         "No Respawning"
 
-REFERENCE            press_to_use_nvg
-LANG_ENGLISH         "[{+actionslot 2}] Toggle Night Vision"
+REFERENCE            next_team_spawn
+LANG_ENGLISH         "Next team spawn..."
 
-REFERENCE            press_to_use_nvg_kb
-LANG_ENGLISH         "^3[{nightvision}]^7 Toggle Night Vision"
+REFERENCE            next_hardpoint_in
+LANG_ENGLISH         "Next Hardpoint in:"
 
-REFERENCE            quest_pickup
-LANG_ENGLISH         "Equipment Stash Detected! Proceed to Target Area!"
+REFERENCE            next_drop_zone_in
+LANG_ENGLISH         "Next Drop Zone:"
 
-REFERENCE            quest_sonar_start
-LANG_ENGLISH         "Equipment Stash Nearby! Use the Sonar to find it!"
+REFERENCE            neutral_flag_dropped_by
+LANG_ENGLISH         "&&1 dropped the flag!"
 
-REFERENCE            quest_stash_found
-LANG_ENGLISH         "Equipment Stash Located! Gear up and win this!"
+REFERENCE            neutral_flag_captured_by
+LANG_ENGLISH         "&&1 captured the flag!"
 
-REFERENCE            rally_point_respawn
-LANG_ENGLISH         "Waiting for revive. Hold  to respawn on rally point. Will auto respawn in:"
+REFERENCE            muted
+LANG_ENGLISH         "Muted"
 
-REFERENCE            returning_flag
-LANG_ENGLISH         "Returning Flag"
+REFERENCE            mission_pickup
+LANG_ENGLISH         "Accept Mission"
 
-REFERENCE            revive
-LANG_ENGLISH         "^3[{+activate}]^7 Revive player"
+REFERENCE            mercy_win
+LANG_ENGLISH         "Held all objectives"
 
-REFERENCE            revive_or_respawn
-LANG_ENGLISH         "Hold [{+stance,+togglecrouch}] to give up the fight or wait for friendly to revive you."
+REFERENCE            mercy_loss
+LANG_ENGLISH         "Lost all objectives"
 
-REFERENCE            reviving_self
-LANG_ENGLISH         "You are reviving yourself."
+REFERENCE            melee_killcam
+LANG_ENGLISH         "SHANK CAM"
 
-REFERENCE            rewind_failed
-LANG_ENGLISH         "Rewind Failed"
+REFERENCE            matchedplayer
+LANG_ENGLISH         "Matched Player"
 
-REFERENCE            round_draw
-LANG_ENGLISH         "Round Draw"
+REFERENCE            match_tie
+LANG_ENGLISH         "The match is a tie!"
 
-REFERENCE            round_end_killcam
-LANG_ENGLISH         "ROUND ENDING KILL"
+REFERENCE            match_starting_in
+LANG_ENGLISH         "Match begins in: "
 
-REFERENCE            round_killcam
-LANG_ENGLISH         "FINAL KILL"
+REFERENCE            match_starting
+LANG_ENGLISH         "Match starting"
 
-REFERENCE            round_limit_reached
-LANG_ENGLISH         "Round limit reached"
+REFERENCE            match_resuming_in
+LANG_ENGLISH         "Match resumes in: "
 
-REFERENCE            round_losing
-LANG_ENGLISH         "Losing"
+REFERENCE            match_point
+LANG_ENGLISH         "Match Point"
 
-REFERENCE            round_loss
-LANG_ENGLISH         "Round Loss"
+REFERENCE            match_in_progress
+LANG_ENGLISH         "Match in progress"
 
-REFERENCE            round_tied
-LANG_ENGLISH         "Tied"
+REFERENCE            match_bonus_is
+LANG_ENGLISH         "Match Bonus: &&1"
 
-REFERENCE            round_win
-LANG_ENGLISH         "Round Win"
+REFERENCE            match_bonus
+LANG_ENGLISH         "Match Bonus:"
 
-REFERENCE            round_winning
-LANG_ENGLISH         "Winning"
+REFERENCE            marking_equipment
+LANG_ENGLISH         "Marking for team..."
 
-REFERENCE            roundend
-LANG_ENGLISH         "Round Over"
+REFERENCE            mark_resistant
+LANG_ENGLISH         "Target Resistant To Mark"
 
-REFERENCE            scav_hud_itemcount
-LANG_ENGLISH         "Collected Boxes : ^2 &&1 / 10"
+REFERENCE            mapdiffersfromserverdev
+LANG_ENGLISH         "Your map is different from the host's map.  You cannot play on this map with them. Your checksum = &&1, Server's == &&2"
 
-REFERENCE            scav_pickup_prompt
-LANG_ENGLISH         "Pick up Scavenger Crate"
+REFERENCE            mapdiffersfromserver
+LANG_ENGLISH         "Your map is different from the host's map.  You cannot play on this map with them."
 
-REFERENCE            scav_splash_complete_subtitle
-LANG_ENGLISH         "All supplies secured"
+REFERENCE            losing_flag
+LANG_ENGLISH         "Losing Flag!"
 
-REFERENCE            scav_splash_complete_title
-LANG_ENGLISH         "Mission Complete!"
+REFERENCE            loadout_default_name
+LANG_ENGLISH         "Loadout &&1"
 
-REFERENCE            scav_splash_start_subtitle
-LANG_ENGLISH         "Secure supplies at the Target Area!"
+REFERENCE            light_switch
+LANG_ENGLISH         "Use light switch"
 
-REFERENCE            scav_splash_start_title
-LANG_ENGLISH         "Mission Started!"
+REFERENCE            lethals_unavailable_for_n
+LANG_ENGLISH         "Equipment unavailable for &&1 more seconds."
 
-REFERENCE            score_limit_reached
-LANG_ENGLISH         "Score limit reached"
+REFERENCE            layover
+LANG_ENGLISH         "Layover"
 
-REFERENCE            score_to_beat
-LANG_ENGLISH         "SCORE TO BEAT"
+REFERENCE            laststand_revive_use
+LANG_ENGLISH         "^5Revive teammate^7"
 
-REFERENCE            score_xp_colon
-LANG_ENGLISH         "Score XP:"
+REFERENCE            killed_by
+LANG_ENGLISH         "Killed By"
 
-REFERENCE            scorelimit_killcam
-LANG_ENGLISH         "FINAL KILL"
+REFERENCE            iwnotallowed
+LANG_ENGLISH         "You are not authorized to use the IW clan tag."
 
-REFERENCE            second_kill
-LANG_ENGLISH         "&&1nd KILL"
+REFERENCE            intermission
+LANG_ENGLISH         "Intermission"
 
-REFERENCE            second_place
-LANG_ENGLISH         "&&1nd"
+REFERENCE            infil_selection_top
+LANG_ENGLISH         "[{+forward}]"
 
-REFERENCE            second_place_fem
-LANG_ENGLISH         "&&1nd"
+REFERENCE            infil_selection_right
+LANG_ENGLISH         "[{+moveright}]"
 
-REFERENCE            secondplace_name
-LANG_ENGLISH         "2nd. &&1"
+REFERENCE            infil_selection_left
+LANG_ENGLISH         "[{+moveleft}]"
 
-REFERENCE            securing_position
-LANG_ENGLISH         "Securing Position"
+REFERENCE            infil_selection_jump
+LANG_ENGLISH         "[{+gostand}]"
 
-REFERENCE            select_loadout_await_c130
-LANG_ENGLISH         "Select your loadout while awaiting C130 arrival."
+REFERENCE            hvt_wait
+LANG_ENGLISH         "Wait here!"
 
-REFERENCE            select_spawn
-LANG_ENGLISH         "Select a spawn location."
+REFERENCE            hvt_revive_use
+LANG_ENGLISH         "Revive HVT"
 
-REFERENCE            set_trap
-LANG_ENGLISH         "^3[{+activate}]^7 Set trap"
+REFERENCE            hvt_grab
+LANG_ENGLISH         "Capture"
 
-REFERENCE            setting_trap
-LANG_ENGLISH         "Setting trap..."
+REFERENCE            hvt_follow
+LANG_ENGLISH         "Follow me!"
 
-REFERENCE            siege_all_flags_loss
-LANG_ENGLISH         "Enemy team captured all flags"
+REFERENCE            host_endgame_response
+LANG_ENGLISH         "Action unavailable, outcome already in progress."
 
-REFERENCE            siege_all_flags_win
-LANG_ENGLISH         "Your team captured all flags"
+REFERENCE            host_ended_game
+LANG_ENGLISH         "Host ended game"
 
-REFERENCE            siege_time_flag_loss
-LANG_ENGLISH         "Enemy team holds more flags"
+REFERENCE            host_changing_settings
+LANG_ENGLISH         "Host is changing game settings"
 
-REFERENCE            siege_time_flag_win
-LANG_ENGLISH         "Your team holds more flags"
+REFERENCE            horde_weapon_level
+LANG_ENGLISH         "&&1 - Level &&2"
 
-REFERENCE            sm_dflt_name
-LANG_ENGLISH         "Squad Member &&1"
+REFERENCE            horde_special_round_time
+LANG_ENGLISH         "LOOT ROUND"
 
-REFERENCE            snatch_1
-LANG_ENGLISH         "1"
+REFERENCE            horde_round_start_timer
+LANG_ENGLISH         "NEXT ROUND"
 
-REFERENCE            snatch_2
-LANG_ENGLISH         "2"
+REFERENCE            horde_round_num
+LANG_ENGLISH         "ROUND"
 
-REFERENCE            snatch_3
-LANG_ENGLISH         "3"
+REFERENCE            horde_next_air_drop
+LANG_ENGLISH         "SUPPORT DROP"
 
-REFERENCE            snatch_arsenal_discovered
-LANG_ENGLISH         "Arsenal identified, capture the weapons"
+REFERENCE            horde_bleed_out
+LANG_ENGLISH         "Bleeding Out "
 
-REFERENCE            snatch_arsenal_taken
-LANG_ENGLISH         "An enemy took an Arsenal weapon!"
+REFERENCE            hold_to_plant_explosives
+LANG_ENGLISH         "^3Plant explosives^7"
 
-REFERENCE            snatch_arsenal_taken_friend
-LANG_ENGLISH         "Your teammate has an Arsenal weapon!"
+REFERENCE            hold_to_plant_emp
+LANG_ENGLISH         "^3Plant Bomb^7"
 
-REFERENCE            snatch_arsenal_taken_self
-LANG_ENGLISH         "You have an Arsenal weapon, escape!"
+REFERENCE            hold_to_pickup_vip
+LANG_ENGLISH         "Pick up VIP"
 
-REFERENCE            snatch_breach_done
-LANG_ENGLISH         "The Arsenal is open, take the weapons!"
+REFERENCE            hold_to_pickup_hostage
+LANG_ENGLISH         "Pick up hostage"
 
-REFERENCE            snatch_breach_started
-LANG_ENGLISH         "An enemy is breaching the Arsenal!"
+REFERENCE            hold_to_get_on_chopper
+LANG_ENGLISH         "Get on chopper"
 
-REFERENCE            snatch_breach_started_friend
-LANG_ENGLISH         "Breach planted, stand clear!"
+REFERENCE            hold_to_get_off_chopper
+LANG_ENGLISH         "Get off chopper"
 
-REFERENCE            snatch_exfil_begin
-LANG_ENGLISH         "Beginning exfil sequence"
+REFERENCE            hold_to_escort_vip
+LANG_ENGLISH         "Escort VIP"
 
-REFERENCE            snatch_exfil_enemy_escaping
-LANG_ENGLISH         "An enemy is escaping with an Arsenal weapon!"
+REFERENCE            hold_to_equip_tacops_turret
+LANG_ENGLISH         "Activate Combat Engineer role"
 
-REFERENCE            snatch_exfil_friend
-LANG_ENGLISH         "Your ally has started extraction"
+REFERENCE            hold_to_equip_tacops_stealth
+LANG_ENGLISH         "Activate Scout role"
 
-REFERENCE            snatch_exfil_point
-LANG_ENGLISH         "Exfil Point"
+REFERENCE            hold_to_equip_tacops_spotter
+LANG_ENGLISH         "Activate SIGINT role"
 
-REFERENCE            snatch_fight
-LANG_ENGLISH         "FIGHT"
+REFERENCE            hold_to_equip_tacops_spawner
+LANG_ENGLISH         "Activate Commander role"
 
-REFERENCE            snatch_generic_time
-LANG_ENGLISH         "16:20 HRS"
+REFERENCE            hold_to_equip_tacops_medic
+LANG_ENGLISH         "Activate Medic role"
 
-REFERENCE            snatch_intel_discovered
-LANG_ENGLISH         "Teammate discovered Intel, map updated"
+REFERENCE            hold_to_equip_tacops_jugg
+LANG_ENGLISH         "Activate Ordinance Disposal role"
 
-REFERENCE            snatch_intel_discovered_self
-LANG_ENGLISH         "Intel discovered, map updated"
+REFERENCE            hold_to_equip_tacops_gas
+LANG_ENGLISH         "Activate Bio-weapons role"
 
-REFERENCE            snatch_intro
-LANG_ENGLISH         "Snatch & Grab Op"
+REFERENCE            hold_to_equip_tacops_copter
+LANG_ENGLISH         "Activate Air Support role"
 
-REFERENCE            snatch_location_syrk
-LANG_ENGLISH         "Hidden Arsenal, Donetsk"
+REFERENCE            hold_to_equip_tacops_bomber
+LANG_ENGLISH         "Activate Martyr role"
 
-REFERENCE            snatch_set_charge
-LANG_ENGLISH         "Place charge"
+REFERENCE            hold_to_equip_tacops_artillery
+LANG_ENGLISH         "Activate Field Artillery role"
 
-REFERENCE            snatch_take_grab_box
-LANG_ENGLISH         "Take Black Box"
+REFERENCE            hold_to_equip_gas_gear
+LANG_ENGLISH         "Activate Martyr role"
 
-REFERENCE            snatch_take_intel
-LANG_ENGLISH         "Take Intel"
+REFERENCE            hold_to_drop_vip
+LANG_ENGLISH         "Drop VIP"
 
-REFERENCE            snatch_take_jugg
-LANG_ENGLISH         "Take Juggernaut Suit"
+REFERENCE            hold_to_drop_hostage
+LANG_ENGLISH         "Drop the hostage"
 
-REFERENCE            snatch_take_loadout
-LANG_ENGLISH         "Claim Your Loadout"
+REFERENCE            hold_to_drop
+LANG_ENGLISH         "^3[{+activate}]^7 Drop"
 
-REFERENCE            snatch_time_low
-LANG_ENGLISH         "Time is running out, locate the Intel!"
+REFERENCE            hold_to_defuse_explosives
+LANG_ENGLISH         "^3Defuse explosives^7"
 
-REFERENCE            snatch_time_low_arsenal
-LANG_ENGLISH         "Time is running out, secure the Arsenal!"
+REFERENCE            hold_to_defuse_emp
+LANG_ENGLISH         "^3Defuse Bomb^7"
 
-REFERENCE            snatch_time_out
-LANG_ENGLISH         "Mission failed we're pulling you out"
+REFERENCE            hold_sync_detonate
+LANG_ENGLISH         "Hold simultaneously with another soldier. 
+"
 
-REFERENCE            sotf_crate_multiple
-LANG_ENGLISH         "Incoming Weapon Crates"
+REFERENCE            hold_sync_delayed
+LANG_ENGLISH         "Error - resetting authentication, hold on."
 
-REFERENCE            sotf_crate_single
-LANG_ENGLISH         "Incoming Weapon Crate"
+REFERENCE            hits
+LANG_ENGLISH         "Hits: &&1"
 
-REFERENCE            spawn_eliminated
-LANG_ENGLISH         "You have been eliminated."
+REFERENCE            hipfire_killcam
+LANG_ENGLISH         "SPRAY AND PRAY CAM"
 
-REFERENCE            spawn_eliminated_bonus
-LANG_ENGLISH         "You have been eliminated. You earn bonus XP if the player you're spectating gets a kill."
+REFERENCE            heroes_return
+LANG_ENGLISH         "^3Hold [{+activate}] for a hero's return^7"
 
-REFERENCE            spawn_flag_wait
-LANG_ENGLISH         "Awaiting flag capture to respawn."
+REFERENCE            headshot_killcam
+LANG_ENGLISH         "HEADSHOT CAM"
 
-REFERENCE            spawn_next_round
-LANG_ENGLISH         "You will respawn next round."
+REFERENCE            halftime
+LANG_ENGLISH         "Halftime"
 
-REFERENCE            spawn_point_capture_wait
-LANG_ENGLISH         "Awaiting point capture to respawn."
+REFERENCE            hacking_explosive
+LANG_ENGLISH         "Hacking..."
 
-REFERENCE            spawn_rally_point_destroyed
-LANG_ENGLISH         "Rally point destroyed. Waiting for teammate revive. Bleedout in:"
+REFERENCE            gw_iav_respawn
+LANG_ENGLISH         "Infantry Assault Vehicle reinforcement has arrived."
 
-REFERENCE            spawn_revive_remote
-LANG_ENGLISH         "Waiting to exit killstreak before you can be revived."
+REFERENCE            gw_apc_respawn
+LANG_ENGLISH         "APC reinforcement has arrived."
 
-REFERENCE            spawn_revive_wait
-LANG_ENGLISH         "Waiting for teammate to revive you."
+REFERENCE            gulag_time_low
+LANG_ENGLISH         "FINISH OR DIE"
 
-REFERENCE            spawn_revive_wait_bleedout
-LANG_ENGLISH         "Waiting for teammate to revive you. Bleedout in:"
+REFERENCE            grabbing_flag
+LANG_ENGLISH         "Taking Flag"
 
-REFERENCE            spawn_revive_wait_bleedout_esc
-LANG_ENGLISH         "Waiting for teammate to revive you. Hold  to give up. Bleedout in:"
+REFERENCE            grabbed_flag_first
+LANG_ENGLISH         "Grabbed the flag first!"
 
-REFERENCE            spawn_tag_wait
-LANG_ENGLISH         "Your tag is awaiting pickup."
+REFERENCE            gl_killcam
+LANG_ENGLISH         "NOOB TUBE CAM"
 
-REFERENCE            squad_leader_spawn_selection
-LANG_ENGLISH         "Squad Leader - Use Caution"
+REFERENCE            gl_impact_killcam
+LANG_ENGLISH         "IMPACT CAM"
 
-REFERENCE            squad_mate_in_rally_point
-LANG_ENGLISH         "Squadmate Occupied"
+REFERENCE            get_random
+LANG_ENGLISH         "[{+activate}] Random Item"
 
-REFERENCE            squad_mate_in_rally_point_full
-LANG_ENGLISH         "Squadmate Occupied - FULL"
+REFERENCE            get_killstreak
+LANG_ENGLISH         "[{+activate}] Killstreak"
 
-REFERENCE            squad_mate_in_vehicle
-LANG_ENGLISH         "In Vehicle"
+REFERENCE            generic_loot_crate_capture
+LANG_ENGLISH         "Open Crate"
 
-REFERENCE            squad_mate_in_vehicle_cant_spawn
-LANG_ENGLISH         "In Vehicle - Danger"
+REFERENCE            front_warning
+LANG_ENGLISH         "Warning: Base Breached!"
 
-REFERENCE            squad_mate_in_vehicle_full
-LANG_ENGLISH         "In Vehicle - FULL"
+REFERENCE            front_revealed
+LANG_ENGLISH         "Danger: Your position is revealed."
 
-REFERENCE            squad_spawn_instructions
-LANG_ENGLISH         "^3 [{+activate}]^7 to Spawn - ^3 [{+gostand}]^7 to Cycle - ^3 [{+stance}]^7 to use Spawn Map"
+REFERENCE            front_danger
+LANG_ENGLISH         "Danger: Triggered Detection!"
 
-REFERENCE            squad_spawn_selection
-LANG_ENGLISH         "Squadmate - Use Caution"
+REFERENCE            front_bounty
+LANG_ENGLISH         "Danger: You have a bounty on your head."
 
-REFERENCE            start_game
-LANG_ENGLISH         "^3[{+activate}]^7 Start Match Countdown"
+REFERENCE            friendly_flag_captured_by
+LANG_ENGLISH         "&&1 captured your flag!"
 
-REFERENCE            sudden_death
-LANG_ENGLISH         "Sudden Death"
+REFERENCE            friendly_fire_will_not
+LANG_ENGLISH         "Friendly fire will not be tolerated!"
 
-REFERENCE            suicide_delay
-LANG_ENGLISH         "Suicide spawn penalty"
+REFERENCE            friendly_fire_punish_switch
+LANG_ENGLISH         "Friendly fire will now reflect damage."
 
-REFERENCE            super_self_revive_or_respawn
-LANG_ENGLISH         "Use field upgrade to begin self-revive. Hold [{+stance,+togglecrouch}] to give up the fight."
+REFERENCE            fourth_place_fem
+LANG_ENGLISH         "&&1th"
 
-REFERENCE            supers_unavailable
-LANG_ENGLISH         "Field Upgrades cannot be used right now."
+REFERENCE            fourth_place
+LANG_ENGLISH         "&&1th"
 
-REFERENCE            supers_unavailable_arb_up
-LANG_ENGLISH         "Payload unavailable due to interference."
+REFERENCE            fourth_kill
+LANG_ENGLISH         "&&1th KILL"
 
-REFERENCE            supers_unavailable_for_n
-LANG_ENGLISH         "Field Upgrades unavailable for &&1 more seconds."
+REFERENCE            flag_taken_by
+LANG_ENGLISH         "&&1 took your flag!"
 
-REFERENCE            support_box_incompat
-LANG_ENGLISH         "Incompatible Weapon"
+REFERENCE            flag_returned
+LANG_ENGLISH         "&&1 returned our flag!"
 
-REFERENCE            survivors_elmiminated
-LANG_ENGLISH         "Survivors Eliminated"
+REFERENCE            firstplace_name
+LANG_ENGLISH         "1st. &&1"
 
-REFERENCE            switching_sides
-LANG_ENGLISH         "SWITCHING SIDES"
+REFERENCE            first_place_fem
+LANG_ENGLISH         "&&1st"
 
-REFERENCE            tac_cover_cannot_place
-LANG_ENGLISH         "Cannot Place Here"
+REFERENCE            first_place
+LANG_ENGLISH         "&&1st"
 
-REFERENCE            tac_cover_door_too_close
-LANG_ENGLISH         "Too Close to Door"
+REFERENCE            first_kill
+LANG_ENGLISH         "&&1st KILL"
 
-REFERENCE            tac_cover_place_in_doorway
-LANG_ENGLISH         "Place in Open Doorway"
+REFERENCE            first_blood
+LANG_ENGLISH         "First blood wins."
 
-REFERENCE            target_destroyed
-LANG_ENGLISH         "Target destroyed"
+REFERENCE            final_round
+LANG_ENGLISH         "Final Round"
 
-REFERENCE            tdef_drone_data
-LANG_ENGLISH         "Data Upload"
+REFERENCE            final_killcam
+LANG_ENGLISH         "GAME WINNING KILL"
 
-REFERENCE            tdef_drone_data_prog
-LANG_ENGLISH         "&&1%"
+REFERENCE            field_upgrade_cannot_use
+LANG_ENGLISH         "Cannot be used right now."
 
-REFERENCE            team_0_name
-LANG_ENGLISH         "Team 1"
+REFERENCE            ffa_last_stand_respawn
+LANG_ENGLISH         "Hold [{+stance,+togglecrouch}] to give up the fight."
 
-REFERENCE            team_1_name
-LANG_ENGLISH         "Team 2"
+REFERENCE            faction_unsa_long
+LANG_ENGLISH         "Special Air Service"
 
-REFERENCE            team_2_name
-LANG_ENGLISH         "Team 3"
+REFERENCE            faction_unsa_forfeited
+LANG_ENGLISH         "SAS Forfeited"
 
-REFERENCE            team_3_name
-LANG_ENGLISH         "Team 4"
+REFERENCE            faction_unsa_eliminated
+LANG_ENGLISH         "SAS Eliminated"
 
-REFERENCE            team_4_name
-LANG_ENGLISH         "Team 5"
+REFERENCE            faction_two_forfeited
+LANG_ENGLISH         "Coalition Forfeited"
 
-REFERENCE            team_5_name
-LANG_ENGLISH         "Team 6"
+REFERENCE            faction_two_eliminated
+LANG_ENGLISH         "Coalition Eliminated"
 
-REFERENCE            team_6_name
-LANG_ENGLISH         "Team 7"
+REFERENCE            faction_three_forfeited
+LANG_ENGLISH         "Coalition Forfeited"
 
-REFERENCE            team_7_name
-LANG_ENGLISH         "Team 8"
+REFERENCE            faction_three_eliminated
+LANG_ENGLISH         "Coalition Eliminated"
 
-REFERENCE            team_8_name
-LANG_ENGLISH         "Team 9"
+REFERENCE            faction_six_forfeited
+LANG_ENGLISH         "Allegiance Forfeited"
 
-REFERENCE            team_losing
-LANG_ENGLISH         "Enemy team is in the lead!"
+REFERENCE            faction_six_eliminated
+LANG_ENGLISH         "Allegiance Eliminated"
 
-REFERENCE            team_tied
-LANG_ENGLISH         "The match is tied!"
+REFERENCE            faction_seven_forfeited
+LANG_ENGLISH         "Allegiance Forfeited"
 
-REFERENCE            team_winning
-LANG_ENGLISH         "Your team is in the lead!"
+REFERENCE            faction_seven_eliminated
+LANG_ENGLISH         "Allegiance Eliminated"
 
-REFERENCE            teleport_failed
-LANG_ENGLISH         "FTL Jump Failed"
+REFERENCE            faction_sdf_long
+LANG_ENGLISH         "Al Qatala"
 
-REFERENCE            thermal
-LANG_ENGLISH         "Thermal"
+REFERENCE            faction_sdf_forfeited
+LANG_ENGLISH         "Al Qatala Forfeited"
 
-REFERENCE            third_kill
-LANG_ENGLISH         "&&1rd KILL"
+REFERENCE            faction_sdf_eliminated
+LANG_ENGLISH         "Al Qatala Eliminated"
 
-REFERENCE            third_place
-LANG_ENGLISH         "&&1rd"
+REFERENCE            faction_one_forfeited
+LANG_ENGLISH         "Allegiance Forfeited"
 
-REFERENCE            third_place_fem
-LANG_ENGLISH         "&&1rd"
+REFERENCE            faction_one_eliminated
+LANG_ENGLISH         "Allegiance Eliminated"
 
-REFERENCE            thirdplace_name
-LANG_ENGLISH         "3rd. &&1"
+REFERENCE            faction_four_forfeited
+LANG_ENGLISH         "Allegiance Forfeited"
 
-REFERENCE            time_limit_reached
-LANG_ENGLISH         "Time limit reached"
+REFERENCE            faction_four_eliminated
+LANG_ENGLISH         "Allegiance Eliminated"
 
-REFERENCE            time_till_spawn
-LANG_ENGLISH         "Spawn in "
+REFERENCE            faction_five_forfeited
+LANG_ENGLISH         "Coalition Forfeited"
 
-REFERENCE            time_to_beat
-LANG_ENGLISH         "TIME TO BEAT"
+REFERENCE            faction_five_eliminated
+LANG_ENGLISH         "Coalition Eliminated"
 
-REFERENCE            time_to_beat_ctf_loss
-LANG_ENGLISH         "Failed to capture the enemy flag within the time limit"
+REFERENCE            faction_enemies_forfeited
+LANG_ENGLISH         "Enemies Forfeited"
 
-REFERENCE            time_to_beat_ctf_win
-LANG_ENGLISH         "Fastest capture time"
+REFERENCE            extracting_plunder_label
+LANG_ENGLISH         "Depositing cash"
 
-REFERENCE            time_to_beat_uplink_loss
-LANG_ENGLISH         "Failed to upload the satellite within the time limit"
+REFERENCE            explosives_recovered_by
+LANG_ENGLISH         "&&1 recovered the explosives!"
 
-REFERENCE            time_to_beat_uplink_win
-LANG_ENGLISH         "Fastest upload time"
+REFERENCE            explosives_planted_by
+LANG_ENGLISH         "&&1 planted the explosives!"
 
-REFERENCE            timelimit_killcam
-LANG_ENGLISH         "FINAL KILL"
+REFERENCE            explosives_dropped_by
+LANG_ENGLISH         "&&1 dropped the explosives!"
 
-REFERENCE            to_hstg_allies_extract
-LANG_ENGLISH         "UN Extracting"
+REFERENCE            explosives_defused_by
+LANG_ENGLISH         "&&1 defused the explosives!"
 
-REFERENCE            to_hstg_axis_extract
-LANG_ENGLISH         "OpFor Extracting"
+REFERENCE            exfil_eliminated
+LANG_ENGLISH         "You have been eliminated. Respawn disabled during exfil."
 
-REFERENCE            to_hstg_locate
-LANG_ENGLISH         "Locate HVTs"
+REFERENCE            escape_you_escaped
+LANG_ENGLISH         "YOU ESCAPED"
 
-REFERENCE            too_close_nofire
-LANG_ENGLISH         "TOO CLOSE TO TARGET - CANNOT FIRE"
+REFERENCE            escape_you_died
+LANG_ENGLISH         "YOU DIED"
 
-REFERENCE            too_close_nolock
-LANG_ENGLISH         "TOO CLOSE FOR LOCK-ON"
+REFERENCE            escape_weapons_message
+LANG_ENGLISH         "Your loadout is preserved for the next mission."
 
-REFERENCE            total_xp_colon
-LANG_ENGLISH         "Total XP:"
+REFERENCE            escape_location_unknown
+LANG_ENGLISH         "Undisclosed Location"
 
-REFERENCE            traversal_assist_boost
-LANG_ENGLISH         "Get boosted up"
+REFERENCE            escape_location_transit
+LANG_ENGLISH         "Donetsk Train Station, Ukraine"
 
-REFERENCE            traversal_assist_pre_boost
-LANG_ENGLISH         "Boost"
+REFERENCE            escape_location_layover
+LANG_ENGLISH         "Donetsk Airport, Ukraine
+"
 
-REFERENCE            traversal_assist_pre_pull_up
-LANG_ENGLISH         "Prepare to pull up teammate"
+REFERENCE            escape_location_faridah
+LANG_ENGLISH         "Faridah"
 
-REFERENCE            traversal_assist_pull_up
-LANG_ENGLISH         "Get pulled up"
+REFERENCE            escape_location_fallout
+LANG_ENGLISH         "Hidden Nuclear Facility, Ukraine"
 
-REFERENCE            traversal_mantle
-LANG_ENGLISH         "Get up the wall!"
+REFERENCE            escape_loadout_lost
+LANG_ENGLISH         "Your loadout is lost."
 
-REFERENCE            trial_timer_start_weapon
-LANG_ENGLISH         "Timer starts on weapon fire"
+REFERENCE            escape_intro_bel
+LANG_ENGLISH         "Behind Enemy Lines"
 
-REFERENCE            unknown_player
-LANG_ENGLISH         "Unknown Player"
+REFERENCE            escape_generic_time
+LANG_ENGLISH         "13:00 HRS"
 
-REFERENCE            upcoming_matches
-LANG_ENGLISH         "Upcoming Matches"
+REFERENCE            esc_wait_to_kick
+LANG_ENGLISH         "Processing escape challenges etc. you'll be taken to the menu shortly..."
 
-REFERENCE            uplink_practice
-LANG_ENGLISH         "Press ^3 Left D-Pad ^7 to call the Satellite Drone to your position."
+REFERENCE            esc_loot_cache
+LANG_ENGLISH         "Supply Box"
 
-REFERENCE            use_auto_ascender
-LANG_ENGLISH         "Ascend"
+REFERENCE            esc_extract_soon
+LANG_ENGLISH         "Cache recovered. Get to the extraction zone!"
 
-REFERENCE            use_auto_descender
-LANG_ENGLISH         "Descend"
+REFERENCE            esc_extract
+LANG_ENGLISH         "Extract"
 
-REFERENCE            use_ladder
-LANG_ENGLISH         "use ladder"
+REFERENCE            esc_cache_use_hint
+LANG_ENGLISH         "Search
+"
 
-REFERENCE            use_rocketbox
-LANG_ENGLISH         "Pickup launcher"
+REFERENCE            enemy_forfeit
+LANG_ENGLISH         "Enemy team has forfeited"
 
-REFERENCE            vehicle_purchase_failed
-LANG_ENGLISH         "Vehicle is not Available"
+REFERENCE            enemy_flag_taken_by
+LANG_ENGLISH         "Enemy flag was taken by &&1!"
 
-REFERENCE            victory
-LANG_ENGLISH         "Victory!"
+REFERENCE            enemy_flag_returned
+LANG_ENGLISH         "Enemy flag returned by &&1!"
 
-REFERENCE            waiting_for_c130
-LANG_ENGLISH         "Waiting for next C130"
+REFERENCE            enemy_flag_dropped_by
+LANG_ENGLISH         "Enemy flag dropped by &&1!"
 
-REFERENCE            waiting_for_hq
-LANG_ENGLISH         "Respawn when HQ goes offline:"
+REFERENCE            enemy_flag_captured_by
+LANG_ENGLISH         "Enemy flag captured by &&1!"
 
-REFERENCE            waiting_for_more_players
-LANG_ENGLISH         "Waiting for more players..."
+REFERENCE            enemies_eliminated
+LANG_ENGLISH         "Enemies have been eliminated"
 
-REFERENCE            waiting_for_players
-LANG_ENGLISH         "Waiting for players..."
+REFERENCE            ended_game
+LANG_ENGLISH         "Ended game"
 
-REFERENCE            waiting_for_teams
-LANG_ENGLISH         "Waiting for teams to be ready..."
+REFERENCE            emp_pickup_use
+LANG_ENGLISH         "^3Pick up bomb^7"
 
-REFERENCE            waiting_to_spawn
-LANG_ENGLISH         "Waiting to respawn"
+REFERENCE            elevator_use
+LANG_ENGLISH         "Use elevator"
 
-REFERENCE            waitingforpartyhost
-LANG_ENGLISH         "Waiting for &&1 to return to the party"
+REFERENCE            drone_resetting
+LANG_ENGLISH         "Resetting"
 
-REFERENCE            warning_too_close
-LANG_ENGLISH         "Warning: Too Close"
+REFERENCE            drone_reset_timer
+LANG_ENGLISH         "DRONE RESET"
 
-REFERENCE            weapon_drop_incompat
-LANG_ENGLISH         "Weapon Incompatible"
+REFERENCE            draw
+LANG_ENGLISH         "Draw"
 
-REFERENCE            weapon_drop_too_many_attachments
-LANG_ENGLISH         "At Max Attachments"
+REFERENCE            door_use_remove_alarm
+LANG_ENGLISH         "Remove Alarm"
 
-REFERENCE            winner
-LANG_ENGLISH         "Winner!"
+REFERENCE            door_use_open_double
+LANG_ENGLISH         "Press to open, double tap to peek"
 
-REFERENCE            you_are_being_revived
-LANG_ENGLISH         "You are being revived!"
+REFERENCE            door_use_open
+LANG_ENGLISH         "Open Door"
 
-REFERENCE            you_killed
-LANG_ENGLISH         "You Killed"
+REFERENCE            door_use_locked
+LANG_ENGLISH         "Locked"
 
-REFERENCE            zipline_use
-LANG_ENGLISH         "Use Line"
+REFERENCE            door_use_lock
+LANG_ENGLISH         "Lock"
 
-REFERENCE            zoom_x1
-LANG_ENGLISH         "Zoom X1"
+REFERENCE            door_use_close
+LANG_ENGLISH         "Close Door"
 
-REFERENCE            zoom_x8
-LANG_ENGLISH         "Zoom X8"
+REFERENCE            door_use_breach
+LANG_ENGLISH         "Breach"
+
+REFERENCE            door_use_alarm
+LANG_ENGLISH         "Alarm"
+
+REFERENCE            dom_your_flag_was_captured
+LANG_ENGLISH         "Your flag was captured"
+
+REFERENCE            dom_neutral_flag_captured
+LANG_ENGLISH         "Flag captured"
+
+REFERENCE            dom_force_end
+LANG_ENGLISH         "Flags not captured within time limit"
+
+REFERENCE            dom_enemy_flag_captured
+LANG_ENGLISH         "Enemy flag captured"
+
+REFERENCE            dmz_plunder_win
+LANG_ENGLISH         "Your team reached the cash limit first!"
+
+REFERENCE            dmz_plunder_loss
+LANG_ENGLISH         "Enemy team reached the cash limit first"
+
+REFERENCE            dmz_plunder_crate_capture
+LANG_ENGLISH         "Open Helo Cargo"
+
+REFERENCE            dmz_loot_crate_capture
+LANG_ENGLISH         "Open Cash Drop"
+
+REFERENCE            dm_new_target
+LANG_ENGLISH         "New Target: &&1"
+
+REFERENCE            dev_available_spawns_score
+LANG_ENGLISH         "spawn point score - "
+
+REFERENCE            dev_available_spawns
+LANG_ENGLISH         "available spawns  - "
+
+REFERENCE            deploy_parachute_hint
+LANG_ENGLISH         "[{+gostand}] Deploy Parachute"
+
+REFERENCE            defusing_explosive
+LANG_ENGLISH         "Defusing..."
+
+REFERENCE            defeat
+LANG_ENGLISH         "Defeat!"
+
+REFERENCE            cyber_tie
+LANG_ENGLISH         "TIME LIMIT REACHED - BOTH TEAMS SCORE"
+
+REFERENCE            cut_parachute_hint
+LANG_ENGLISH         "[{+stance;+movedown,+stance,+stancedown}] Cut Parachute"
+
+REFERENCE            cranked_with_timer
+LANG_ENGLISH         "Cranked &&1:&&2"
+
+REFERENCE            cranked
+LANG_ENGLISH         "Cranked"
+
+REFERENCE            cowards_way_out
+LANG_ENGLISH         "Hold ^3[{+activate}]^7 for the coward's way out"
+
+REFERENCE            connected
+LANG_ENGLISH         "&&1 Connected"
+
+REFERENCE            cmd_obj_defend
+LANG_ENGLISH         "Hold the &&1"
+
+REFERENCE            cmd_obj_capture
+LANG_ENGLISH         "Capture the &&1"
+
+REFERENCE            cmd_obj_bomb_defend
+LANG_ENGLISH         "Defuse the Bomb"
+
+REFERENCE            cmd_obj_bomb_capture
+LANG_ENGLISH         "Defend the Bomb"
+
+REFERENCE            cmd_obj_activation
+LANG_ENGLISH         "Prepare to assault the &&1"
+
+REFERENCE            clantag_notallowed
+LANG_ENGLISH         "You are not authorized to use this clan tag."
+
+REFERENCE            change_class_next_spawn
+LANG_ENGLISH         "Your loadout will change the next time you spawn."
+
+REFERENCE            change_class_next_round
+LANG_ENGLISH         "Your loadout cannot be changed until the next round."
+
+REFERENCE            challenges_completed
+LANG_ENGLISH         "Challenges Completed!"
+
+REFERENCE            challenge_completed
+LANG_ENGLISH         "Challenge Completed!"
+
+REFERENCE            caused_defcon
+LANG_ENGLISH         "Emergency Airdrop!"
+
+REFERENCE            cash_heli_leaving_in_n
+LANG_ENGLISH         "Cash Heli leaving in &&1 seconds."
+
+REFERENCE            cash_balloon_too_many
+LANG_ENGLISH         "Cash Balloon Already Deployed"
+
+REFERENCE            cash_balloon_leaving_in_n
+LANG_ENGLISH         "Cash Balloon leaving in &&1 seconds."
+
+REFERENCE            cash_balloon_cannot_place
+LANG_ENGLISH         "Cannot Place Cash Balloon Here"
+
+REFERENCE            cash_balloon_blocked
+LANG_ENGLISH         "Cash Balloon Blocked Above"
+
+REFERENCE            capturing_flag
+LANG_ENGLISH         "Capturing Flag"
+
+REFERENCE            capturing
+LANG_ENGLISH         "Capturing..."
+
+REFERENCE            cant_plant_without_bomb
+LANG_ENGLISH         "You must have the bomb to plant."
+
+REFERENCE            cannot_use_cannot_extract_in_use
+LANG_ENGLISH         "Cannot extract. Crate is in use."
+
+REFERENCE            cannot_place_domeshield
+LANG_ENGLISH         "Too much energy interference."
+
+REFERENCE            cannot_deposit_no_cash
+LANG_ENGLISH         "No cash to deposit."
+
+REFERENCE            cannot_deposit_ls
+LANG_ENGLISH         "Cannot deposit while in Last Stand."
+
+REFERENCE            cannot_deposit_cash_vehicle
+LANG_ENGLISH         "Cannot deposit while in vehicle."
+
+REFERENCE            cannot_deposit_cash_heli_leaving
+LANG_ENGLISH         "Cannot deposit cash. Heli is leaving."
+
+REFERENCE            cannot_deposit_cash_heli_full
+LANG_ENGLISH         "Cannot deposit cash. Heli is full."
+
+REFERENCE            cannot_deposit_cash_balloon_leaving
+LANG_ENGLISH         "Cannot deposit cash. Balloon is leaving."
+
+REFERENCE            cannot_deposit_cash_balloon_full
+LANG_ENGLISH         "Cannot deposit cash. Balloon is full."
+
+REFERENCE            cannot_deposit_cash
+LANG_ENGLISH         "Cannot deposit cash now."
+
+REFERENCE            call_nuke
+LANG_ENGLISH         "Hold ^3&&1^7 for Nuclear Strike."
+
+REFERENCE            buddy_waiting_point
+LANG_ENGLISH         "Teammate needs to move!"
+
+REFERENCE            buddy_waiting_combat
+LANG_ENGLISH         "Teammate is in Combat!"
+
+REFERENCE            buddy_time_until_spawn
+LANG_ENGLISH         "Reinforcing Teammate in"
+
+REFERENCE            buddy_spawned_on_you
+LANG_ENGLISH         "Teammate spawned on you."
+
+REFERENCE            buddy_press_to_respawn
+LANG_ENGLISH         " Cancel Teammate Spawn"
+
+REFERENCE            buddy_incoming
+LANG_ENGLISH         "Stay in cover, your Teammate is about to respawn."
+
+REFERENCE            buddy_err_point
+LANG_ENGLISH         "Move to an open area so your Teammate can respawn."
+
+REFERENCE            buddy_err_combat
+LANG_ENGLISH         "Exit combat so that your Teammate can respawn."
+
+REFERENCE            breaching
+LANG_ENGLISH         "Breaching..."
+
+REFERENCE            breach_defuse
+LANG_ENGLISH         "Defuse"
+
+REFERENCE            breach
+LANG_ENGLISH         "Breach"
+
+REFERENCE            br_weapon_deny_already_have
+LANG_ENGLISH         "Weapon already in secondary slot"
+
+REFERENCE            br_warning_danger
+LANG_ENGLISH         "Outside Safe Zone!"
+
+REFERENCE            br_vest_l3_desc
+LANG_ENGLISH         "Absorbs 150 damage and increases healing item usage by 25%."
+
+REFERENCE            br_vest_l3
+LANG_ENGLISH         "EQUIP
+Vest | LVL 3"
+
+REFERENCE            br_vest_l2_desc
+LANG_ENGLISH         "Absorbs 150 damage."
+
+REFERENCE            br_vest_l2
+LANG_ENGLISH         "EQUIP
+Vest | LVL 2"
+
+REFERENCE            br_vest_l1_desc
+LANG_ENGLISH         "Absorbs 50 damage."
+
+REFERENCE            br_vest_l1
+LANG_ENGLISH         "EQUIP
+Vest | LVL 1"
+
+REFERENCE            br_vest
+LANG_ENGLISH         "Ballistic Vest
+"
+
+REFERENCE            br_use_satellite_truck
+LANG_ENGLISH         "Activate local UAV"
+
+REFERENCE            br_use_plunder_cache_enemy
+LANG_ENGLISH         "Take Enemy Cash"
+
+REFERENCE            br_use_plunder_cache
+LANG_ENGLISH         "Deposit Your Cash"
+
+REFERENCE            br_use_mobile_armory
+LANG_ENGLISH         "Retrieve Loadout"
+
+REFERENCE            br_use_exfil_chopper
+LANG_ENGLISH         "Board Exfil Chopper"
+
+REFERENCE            br_type_sn_ther
+LANG_ENGLISH         "Thermal Sniper"
+
+REFERENCE            br_type_sn_sil_ther
+LANG_ENGLISH         "Thermal Silenced Sniper"
+
+REFERENCE            br_type_sn_sil_rifle
+LANG_ENGLISH         "Silenced Rifle"
+
+REFERENCE            br_type_sn_sil
+LANG_ENGLISH         "Silenced Sniper"
+
+REFERENCE            br_type_sn_semi_rifle
+LANG_ENGLISH         "Semi Auto Rifle"
+
+REFERENCE            br_type_sn_semi_mm
+LANG_ENGLISH         "Semi Marksman Rifle"
+
+REFERENCE            br_type_sn_semi
+LANG_ENGLISH         "Semi-Auto Sniper"
+
+REFERENCE            br_type_sn_lever
+LANG_ENGLISH         "Lever Action Sniper"
+
+REFERENCE            br_type_sn_event
+LANG_ENGLISH         "Event Rifle"
+
+REFERENCE            br_type_sn_cb_thermite
+LANG_ENGLISH         "Thermite Crossbow"
+
+REFERENCE            br_type_sn_cb
+LANG_ENGLISH         "Crossbow"
+
+REFERENCE            br_type_sn_bolt_rifle
+LANG_ENGLISH         "Bolt Action Rifle"
+
+REFERENCE            br_type_sn_bolt
+LANG_ENGLISH         "Bolt Action Sniper"
+
+REFERENCE            br_type_sn_50cal
+LANG_ENGLISH         ".50 Cal Sniper"
+
+REFERENCE            br_type_sn
+LANG_ENGLISH         "Sniper Rifle"
+
+REFERENCE            br_type_sm_ther
+LANG_ENGLISH         "Thermal SMG"
+
+REFERENCE            br_type_sm_silenced
+LANG_ENGLISH         "Silenced SMG"
+
+REFERENCE            br_type_sm_sil_ther
+LANG_ENGLISH         "Thermal Silenced SMG"
+
+REFERENCE            br_type_sm_range
+LANG_ENGLISH         "Long Range SMG"
+
+REFERENCE            br_type_sm_hc
+LANG_ENGLISH         "High Capacity SMG"
+
+REFERENCE            br_type_sm
+LANG_ENGLISH         "Submachine Gun"
+
+REFERENCE            br_type_sh_slug
+LANG_ENGLISH         "Slug Shotgun"
+
+REFERENCE            br_type_sh_sil
+LANG_ENGLISH         "Silenced Shotgun"
+
+REFERENCE            br_type_sh_pump
+LANG_ENGLISH         "Pump Shotgun"
+
+REFERENCE            br_type_sh_db
+LANG_ENGLISH         "Dragon's Breath Shotgun"
+
+REFERENCE            br_type_sh_combat
+LANG_ENGLISH         "Combat Shotgun"
+
+REFERENCE            br_type_sh_break
+LANG_ENGLISH         "Break Action Shotgun"
+
+REFERENCE            br_type_pi_sil
+LANG_ENGLISH         "Silenced Pistol"
+
+REFERENCE            br_type_pi_magnum
+LANG_ENGLISH         "Magnum"
+
+REFERENCE            br_type_pi_handcannon
+LANG_ENGLISH         "Hand Cannon"
+
+REFERENCE            br_type_pi_burst
+LANG_ENGLISH         "Burst Pistol"
+
+REFERENCE            br_type_pi_akimbo
+LANG_ENGLISH         "Akimbo Pistols"
+
+REFERENCE            br_type_pi
+LANG_ENGLISH         "Pistol"
+
+REFERENCE            br_type_me_riotshield
+LANG_ENGLISH         "Riot Shield"
+
+REFERENCE            br_type_lm_ther
+LANG_ENGLISH         "Thermal LMG"
+
+REFERENCE            br_type_lm_sil_ther
+LANG_ENGLISH         "Thermal Silenced LMG"
+
+REFERENCE            br_type_lm_sil
+LANG_ENGLISH         "Silenced LMG"
+
+REFERENCE            br_type_lm_minigun
+LANG_ENGLISH         "Minigun"
+
+REFERENCE            br_type_lm
+LANG_ENGLISH         "Light Machine Gun"
+
+REFERENCE            br_type_la_rpg
+LANG_ENGLISH         "RPG"
+
+REFERENCE            br_type_la_launcher
+LANG_ENGLISH         "Grenade Launcher"
+
+REFERENCE            br_type_la_bazooka
+LANG_ENGLISH         "Bazooka"
+
+REFERENCE            br_type_la_antitank
+LANG_ENGLISH         "Anti-Vehicle Launcher"
+
+REFERENCE            br_type_generic_sn
+LANG_ENGLISH         "Custom Bolt Rifle"
+
+REFERENCE            br_type_generic_sm
+LANG_ENGLISH         "Custom SMG"
+
+REFERENCE            br_type_generic_sh
+LANG_ENGLISH         "Custom Shotgun"
+
+REFERENCE            br_type_generic_pi
+LANG_ENGLISH         "Custom Pistol"
+
+REFERENCE            br_type_generic_me
+LANG_ENGLISH         "Custom Melee Weapon"
+
+REFERENCE            br_type_generic_lm
+LANG_ENGLISH         "Custom LMG"
+
+REFERENCE            br_type_generic_la
+LANG_ENGLISH         "Custom Launcher"
+
+REFERENCE            br_type_generic_kn
+LANG_ENGLISH         "Custom Knife"
+
+REFERENCE            br_type_generic_dm
+LANG_ENGLISH         "Custom Semi-Auto Rifle"
+
+REFERENCE            br_type_generic_ar
+LANG_ENGLISH         "Custom Assault Rifle"
+
+REFERENCE            br_type_ar_ther
+LANG_ENGLISH         "Thermal AR"
+
+REFERENCE            br_type_ar_supp_ther
+LANG_ENGLISH         "Thermal Silenced AR"
+
+REFERENCE            br_type_ar_sil
+LANG_ENGLISH         "Silenced Assault Rifle"
+
+REFERENCE            br_type_ar_semi_rifle
+LANG_ENGLISH         "Semi Assault Rifle"
+
+REFERENCE            br_type_ar_scoped
+LANG_ENGLISH         "Scoped AR"
+
+REFERENCE            br_type_ar_heavy
+LANG_ENGLISH         "Heavy Assault Rifle"
+
+REFERENCE            br_type_ar_cq
+LANG_ENGLISH         "Close-quarters AR"
+
+REFERENCE            br_type_ar_3burst
+LANG_ENGLISH         "Burst AR"
+
+REFERENCE            br_type_ar
+LANG_ENGLISH         "Assault Rifle"
+
+REFERENCE            br_trophysystem
+LANG_ENGLISH         "Take
+Trophy System"
+
+REFERENCE            br_throwing_knife
+LANG_ENGLISH         "Take Throwing Knife"
+
+REFERENCE            br_thermite
+LANG_ENGLISH         "Take
+Thermite Grenade"
+
+REFERENCE            br_take_uzi
+LANG_ENGLISH         "Powerful SMG"
+
+REFERENCE            br_take_unknown
+LANG_ENGLISH         "Take Unknown Gun"
+
+REFERENCE            br_take_scarh
+LANG_ENGLISH         "Silenced Assault Rifle"
+
+REFERENCE            br_take_python
+LANG_ENGLISH         "Powerful Revolver"
+
+REFERENCE            br_take_pkm
+LANG_ENGLISH         "Stable LMG"
+
+REFERENCE            br_take_p90
+LANG_ENGLISH         "Tactical SMG"
+
+REFERENCE            br_take_p320
+LANG_ENGLISH         "Take P320"
+
+REFERENCE            br_take_mp7
+LANG_ENGLISH         "Take MP7"
+
+REFERENCE            br_take_mp5
+LANG_ENGLISH         "Silenced SMG"
+
+REFERENCE            br_take_model870
+LANG_ENGLISH         "Tactical Shotgun"
+
+REFERENCE            br_take_mg34
+LANG_ENGLISH         "Powerful LMG"
+
+REFERENCE            br_take_mcx
+LANG_ENGLISH         "Stable Assault Rifle"
+
+REFERENCE            br_take_marlin
+LANG_ENGLISH         "Take Marlin"
+
+REFERENCE            br_take_m4
+LANG_ENGLISH         "Take M4"
+
+REFERENCE            br_take_m32a1
+LANG_ENGLISH         "Grenade Launcher"
+
+REFERENCE            br_take_m14
+LANG_ENGLISH         "Semi Auto Rifle"
+
+REFERENCE            br_take_knife
+LANG_ENGLISH         "Take Knife"
+
+REFERENCE            br_take_kar98
+LANG_ENGLISH         "Powerful Rifle"
+
+REFERENCE            br_take_hk121
+LANG_ENGLISH         "Take HK-121"
+
+REFERENCE            br_take_g21
+LANG_ENGLISH         "Tactical Pistol"
+
+REFERENCE            br_take_famas
+LANG_ENGLISH         "Burst Rifle"
+
+REFERENCE            br_take_dragunov
+LANG_ENGLISH         "Stable Sniper Rifle"
+
+REFERENCE            br_take_dp12
+LANG_ENGLISH         "Take DP-12"
+
+REFERENCE            br_take_defibrillator
+LANG_ENGLISH         "Portable Defibrillator"
+
+REFERENCE            br_take_deagle
+LANG_ENGLISH         "Powerful Pistol
+"
+
+REFERENCE            br_take_control
+LANG_ENGLISH         "Take Control"
+
+REFERENCE            br_take_citori
+LANG_ENGLISH         "Powerful Shotgun"
+
+REFERENCE            br_take_carlg
+LANG_ENGLISH         "Lock On Launcher"
+
+REFERENCE            br_take_aug
+LANG_ENGLISH         "Take AUG"
+
+REFERENCE            br_take_as50
+LANG_ENGLISH         "Silenced Sniper Rifle"
+
+REFERENCE            br_take_ak
+LANG_ENGLISH         "Powerful Assault Rifle"
+
+REFERENCE            br_specialistbonus_desc
+LANG_ENGLISH         "Grants every perk."
+
+REFERENCE            br_specialistbonus
+LANG_ENGLISH         "Specialist Bonus"
+
+REFERENCE            br_snapshot
+LANG_ENGLISH         "Take
+Snapshot Grenade"
+
+REFERENCE            br_smoke
+LANG_ENGLISH         "TAKE
+Smoke Grenade"
+
+REFERENCE            br_shieldturret
+LANG_ENGLISH         "Take
+Shield Turret"
+
+REFERENCE            br_semtex
+LANG_ENGLISH         "TAKE
+Semtex Grenade"
+
+REFERENCE            br_scramblerdrone
+LANG_ENGLISH         "Take
+Scrambler Drone"
+
+REFERENCE            br_safety
+LANG_ENGLISH         "Get to the Circle!"
+
+REFERENCE            br_revive_or_respawn
+LANG_ENGLISH         "Hold [{+stance,+togglecrouch}] to give up."
+
+REFERENCE            br_respawn_take
+LANG_ENGLISH         "Take Defibrillator"
+
+REFERENCE            br_respawn_drop_body
+LANG_ENGLISH         "Drop the body near the ambulance"
+
+REFERENCE            br_respawn_death_countdown
+LANG_ENGLISH         "Teammate dead in: &&1"
+
+REFERENCE            br_respawn_charging
+LANG_ENGLISH         "Defibrillator is charging"
+
+REFERENCE            br_respawn_body
+LANG_ENGLISH         "Holding Body, Tap [{+stance}] to Drop"
+
+REFERENCE            br_recondrone
+LANG_ENGLISH         "Take
+Recon Drone"
+
+REFERENCE            br_radardrone
+LANG_ENGLISH         "Take
+Radar Drone"
+
+REFERENCE            br_quantity_x_prefix
+LANG_ENGLISH         "x&&1"
+
+REFERENCE            br_quantity_dollar_prefix
+LANG_ENGLISH         "$&&1"
+
+REFERENCE            br_press_to_select_infil
+LANG_ENGLISH         "^3[{+usereload}]^7Convoy    ^3[{+weapnext}]^7Blackhawk    ^3[{+stance}]^7 C130"
+
+REFERENCE            br_press_to_deploy
+LANG_ENGLISH         "^3[{+gostand}]^7 Deploy"
+
+REFERENCE            br_plunder_stole
+LANG_ENGLISH         "You stole the enemy cash"
+
+REFERENCE            br_plunder_leader
+LANG_ENGLISH         "Cash Leaders"
+
+REFERENCE            br_plunder_helipad
+LANG_ENGLISH         "Cash Deposit Helipad"
+
+REFERENCE            br_plunder_heli_deposit
+LANG_ENGLISH         "Deposit Cash"
+
+REFERENCE            br_plunder_heli_call_in
+LANG_ENGLISH         "Call in Cash Deposit Heli"
+
+REFERENCE            br_plunder_gone
+LANG_ENGLISH         "Enemy cash gone before you could steal it"
+
+REFERENCE            br_plunder_extraction
+LANG_ENGLISH         "Deposit Cash"
+
+REFERENCE            br_plunder_extract
+LANG_ENGLISH         "Cash Deposit Balloon"
+
+REFERENCE            br_plunder_cash_hud_in_thousand
+LANG_ENGLISH         "$&&1K"
+
+REFERENCE            br_plunder_cash_hud
+LANG_ENGLISH         "$&&1"
+
+REFERENCE            br_plunder_cash_desc
+LANG_ENGLISH         "Collect cash and convert it into XP by depositing it into ATM machines located throughout the game."
+
+REFERENCE            br_plunder_cash
+LANG_ENGLISH         "Cash"
+
+REFERENCE            br_plunder_blank
+LANG_ENGLISH         "&&1"
+
+REFERENCE            br_plunder_banked
+LANG_ENGLISH         "Cash deposited successfully"
+
+REFERENCE            br_plate_pouch_desc
+LANG_ENGLISH         "Increases the number of armor plates you can carry."
+
+REFERENCE            br_plate_pouch
+LANG_ENGLISH         "Armor Satchel"
+
+REFERENCE            br_pickup_undefined
+LANG_ENGLISH         "Pickup Undefined"
+
+REFERENCE            br_pickup_player
+LANG_ENGLISH         "Pickup Teammate"
+
+REFERENCE            br_pickup_deny_parachuting
+LANG_ENGLISH         "Cannot loot while parachuting"
+
+REFERENCE            br_perk_point_pickup
+LANG_ENGLISH         "Perk Points"
+
+REFERENCE            br_not_enough_plunder
+LANG_ENGLISH         "No Cash to Deposit"
+
+REFERENCE            br_new_circle
+LANG_ENGLISH         "New Safe Zone Identified!"
+
+REFERENCE            br_molotov
+LANG_ENGLISH         "TAKE
+Molotov"
+
+REFERENCE            br_mobile_armory_already_used
+LANG_ENGLISH         "You can only use the mobile armory once per activation."
+
+REFERENCE            br_mission_tablet_desc
+LANG_ENGLISH         "Pick up this tablet to begin a random mission."
+
+REFERENCE            br_mission_tablet
+LANG_ENGLISH         "Mission Tablet"
+
+REFERENCE            br_loot_cache_desc
+LANG_ENGLISH         "A crate containing potentially valuable equipment or items."
+
+REFERENCE            br_loot_cache
+LANG_ENGLISH         "Supply Box"
+
+REFERENCE            br_killstreak_deny_already_have
+LANG_ENGLISH         "Already have a killstreak"
+
+REFERENCE            br_invalid_extract
+LANG_ENGLISH         "Can't Extract Here"
+
+REFERENCE            br_interactables_crane_prompt
+LANG_ENGLISH         "^3[{+activate}]^7 to activate the crane"
+
+REFERENCE            br_hold_to_take_killstreak
+LANG_ENGLISH         "Take Killstreak"
+
+REFERENCE            br_helmet_l3_desc
+LANG_ENGLISH         "Reduces headshot damage by 30%. Reduces the effect of Flash and Concussion grenades."
+
+REFERENCE            br_helmet_l3
+LANG_ENGLISH         "EQUIP
+Helmet | LVL 3"
+
+REFERENCE            br_helmet_l2_desc
+LANG_ENGLISH         "Reduces headshot damage by 30%."
+
+REFERENCE            br_helmet_l2
+LANG_ENGLISH         "EQUIP
+Helmet | LVL 2"
+
+REFERENCE            br_helmet_l1_desc
+LANG_ENGLISH         "Reduces headshot damage by 15%."
+
+REFERENCE            br_helmet_l1
+LANG_ENGLISH         "EQUIP
+Helmet | LVL 1"
+
+REFERENCE            br_heartbeatsensor
+LANG_ENGLISH         "Take
+Heartbeat Sensor"
+
+REFERENCE            br_gulag_travel
+LANG_ENGLISH         "Traveling To The Gulag..."
+
+REFERENCE            br_gulag_timer
+LANG_ENGLISH         "VS"
+
+REFERENCE            br_gulag_queue
+LANG_ENGLISH         "Rounds Until You Fight"
+
+REFERENCE            br_gulag_opp
+LANG_ENGLISH         "Opponent"
+
+REFERENCE            br_gulag_next_up
+LANG_ENGLISH         "Next Up"
+
+REFERENCE            br_gulag_jailbreak_in
+LANG_ENGLISH         "Jail Break In:"
+
+REFERENCE            br_gulag_jailbreak
+LANG_ENGLISH         "Jail Break!"
+
+REFERENCE            br_gulag_focus_bet_increase
+LANG_ENGLISH         "[{+usereload,+activate}] Increase Bet"
+
+REFERENCE            br_gulag_focus_bet_clear
+LANG_ENGLISH         "[{+usereload,+activate}] Clear Bet"
+
+REFERENCE            br_gulag_focus_bet_change
+LANG_ENGLISH         "[{+usereload,+activate}] Change bet to &&1"
+
+REFERENCE            br_gulag_focus_bet
+LANG_ENGLISH         "[{+usereload,+activate}] Bet on &&1"
+
+REFERENCE            br_gulag_fight_ticket_message
+LANG_ENGLISH         "Gulag Match"
+
+REFERENCE            br_gulag_bet_fighter_name_winner
+LANG_ENGLISH         "Won: &&1"
+
+REFERENCE            br_gulag_bet_fighter_name_loser
+LANG_ENGLISH         "Lost: &&1"
+
+REFERENCE            br_gulag_bet_fighter_name_1
+LANG_ENGLISH         "[{+actionslot 2}] &&1"
+
+REFERENCE            br_gulag_bet_fighter_name_0
+LANG_ENGLISH         "[{+actionslot 1}] &&1"
+
+REFERENCE            br_gulag_bet_available
+LANG_ENGLISH         "Available: $&&1"
+
+REFERENCE            br_gulag_bet_ammount_won
+LANG_ENGLISH         "+$&&1"
+
+REFERENCE            br_gulag_bet_ammount_lost
+LANG_ENGLISH         "-$&&1"
+
+REFERENCE            br_gulag_bet_ammount
+LANG_ENGLISH         "Current Bet: $&&1"
+
+REFERENCE            br_geigercounter
+LANG_ENGLISH         "Take
+Radiation Counter"
+
+REFERENCE            br_gasmask_durable
+LANG_ENGLISH         "Durable Gas Mask"
+
+REFERENCE            br_gasmask_desc
+LANG_ENGLISH         "Provides twelve seconds of protection from the encroaching gas before breaking."
+
+REFERENCE            br_gasmask
+LANG_ENGLISH         "Gas Mask"
+
+REFERENCE            br_gas
+LANG_ENGLISH         "Take
+Gas Grenade"
+
+REFERENCE            br_frag
+LANG_ENGLISH         "TAKE
+Frag Grenade"
+
+REFERENCE            br_flash
+LANG_ENGLISH         "TAKE 
+Flash Grenade"
+
+REFERENCE            br_firstaid
+LANG_ENGLISH         "Take
+First Aid"
+
+REFERENCE            br_final_circle
+LANG_ENGLISH         "Final Circle!"
+
+REFERENCE            br_fc_rock
+LANG_ENGLISH         "Rock"
+
+REFERENCE            br_extraction_not_in_zone
+LANG_ENGLISH         "Flare guns only usable in designated extraction zones"
+
+REFERENCE            br_extraction_in_progress
+LANG_ENGLISH         "Extraction already in progress"
+
+REFERENCE            br_extraction_cancelled
+LANG_ENGLISH         "Extraction failed, interaction cancelled"
+
+REFERENCE            br_equipment_generic
+LANG_ENGLISH         "Take Equipment"
+
+REFERENCE            br_equip_deny_no_room
+LANG_ENGLISH         "Cannot pick up: Inventory full"
+
+REFERENCE            br_empdrone
+LANG_ENGLISH         "Take
+EMP Drone"
+
+REFERENCE            br_eliminated
+LANG_ENGLISH         "You were Eliminated"
+
+REFERENCE            br_decoy
+LANG_ENGLISH         "Take
+Decoy Grenade"
+
+REFERENCE            br_danger
+LANG_ENGLISH         "Danger!"
+
+REFERENCE            br_crate_loadout
+LANG_ENGLISH         "Pick up loadout"
+
+REFERENCE            br_crate
+LANG_ENGLISH         "Loot crate"
+
+REFERENCE            br_control
+LANG_ENGLISH         "Control: "
+
+REFERENCE            br_concussion
+LANG_ENGLISH         "Take
+Concussion"
+
+REFERENCE            br_claymore
+LANG_ENGLISH         "TAKE
+Claymore"
+
+REFERENCE            br_circle_closing_now
+LANG_ENGLISH         "Circle closing now!"
+
+REFERENCE            br_circle_closing_3
+LANG_ENGLISH         "Circle closing in 10 seconds"
+
+REFERENCE            br_circle_closing_2
+LANG_ENGLISH         "Circle closing in 20 seconds"
+
+REFERENCE            br_circle_closing_1
+LANG_ENGLISH         "Circle closing in 30 seconds"
+
+REFERENCE            br_circle_closing_0
+LANG_ENGLISH         "Circle closing in 60 seconds"
+
+REFERENCE            br_cargotrain
+LANG_ENGLISH         "Cargo Train"
+
+REFERENCE            br_c4
+LANG_ENGLISH         "Take
+C4"
+
+REFERENCE            br_bandages
+LANG_ENGLISH         "TAKE
+Bandages"
+
+REFERENCE            br_attach_xmags
+LANG_ENGLISH         "Take Extended Mags"
+
+REFERENCE            br_attach_underbarrel
+LANG_ENGLISH         "Take Underbarrel Grenade Launcher"
+
+REFERENCE            br_attach_stock
+LANG_ENGLISH         "Take Stock"
+
+REFERENCE            br_attach_sniper_scope
+LANG_ENGLISH         "Take Sniper Scope"
+
+REFERENCE            br_attach_short_suppressor
+LANG_ENGLISH         "Take Short Suppressor"
+
+REFERENCE            br_attach_reflex_scope
+LANG_ENGLISH         "Take Reflex Scope"
+
+REFERENCE            br_attach_long_suppressor
+LANG_ENGLISH         "Take Long Suppressor"
+
+REFERENCE            br_attach_long_barrel
+LANG_ENGLISH         "Take Long Barrel"
+
+REFERENCE            br_attach_laser
+LANG_ENGLISH         "Take Laser Sight"
+
+REFERENCE            br_attach_holo_scope
+LANG_ENGLISH         "Take Holo Scope"
+
+REFERENCE            br_attach_foregrip
+LANG_ENGLISH         "Take Foregrip"
+
+REFERENCE            br_attach_deny_no_room
+LANG_ENGLISH         "Attachment already on weapon - putting in backpack"
+
+REFERENCE            br_attach_deny_incompatible
+LANG_ENGLISH         "Attachment not compatible - putting in backpack"
+
+REFERENCE            br_attach_bipod
+LANG_ENGLISH         "Take Bipod"
+
+REFERENCE            br_attach_acog_scope
+LANG_ENGLISH         "Take ACOG Scope"
+
+REFERENCE            br_atmine
+LANG_ENGLISH         "Take
+AT Mine"
+
+REFERENCE            br_armor_plate
+LANG_ENGLISH         "TAKE
+Armor Plate"
+
+REFERENCE            br_armor_deny_not_better
+LANG_ENGLISH         "Current Armor Is Better"
+
+REFERENCE            br_armor_deny_armor_full
+LANG_ENGLISH         "Armor Full"
+
+REFERENCE            br_ammo_sniper_desc
+LANG_ENGLISH         "Ammuntion for Snipers and DMRs"
+
+REFERENCE            br_ammo_sniper
+LANG_ENGLISH         "Sniper"
+
+REFERENCE            br_ammo_shotgun_desc
+LANG_ENGLISH         "Ammunition for Shotguns"
+
+REFERENCE            br_ammo_shotgun
+LANG_ENGLISH         "Shotgun"
+
+REFERENCE            br_ammo_rocket_desc
+LANG_ENGLISH         "Ammunition for Launchers"
+
+REFERENCE            br_ammo_rocket
+LANG_ENGLISH         "Rockets"
+
+REFERENCE            br_ammo_pistol_smg_desc
+LANG_ENGLISH         "Ammunition for Pistols and SMGs"
+
+REFERENCE            br_ammo_pistol_smg
+LANG_ENGLISH         "Pistol/SMG"
+
+REFERENCE            br_ammo_launcher
+LANG_ENGLISH         "Launcher"
+
+REFERENCE            br_ammo_generic
+LANG_ENGLISH         "Take Ammo"
+
+REFERENCE            br_ammo_deny_no_room
+LANG_ENGLISH         "Cannot hold more of this ammo"
+
+REFERENCE            br_ammo_cache
+LANG_ENGLISH         "Take ammo cache"
+
+REFERENCE            br_ammo_ar_lmg_desc
+LANG_ENGLISH         "Ammunition for Assault Rifles and LMGs"
+
+REFERENCE            br_ammo_ar_lmg
+LANG_ENGLISH         "AR/LMG"
+
+REFERENCE            br_already_holding_weapon
+LANG_ENGLISH         "You already have this weapon."
+
+REFERENCE            br_all_deny_jugg
+LANG_ENGLISH         "Juggernauts cannot pick up Loot"
+
+REFERENCE            br_advanced_supply_drop_grenade
+LANG_ENGLISH         "Take
+Advanced Supply Drop Grenade"
+
+REFERENCE            br_adrenaline
+LANG_ENGLISH         "TAKE
+Stim Syringe"
+
+REFERENCE            br_activate_satellite_truck
+LANG_ENGLISH         "Charge UAV Satellite Truck"
+
+REFERENCE            br_activate_mobile_armory
+LANG_ENGLISH         "Activate Mobile Armory"
+
+REFERENCE            br_activate_killstreak
+LANG_ENGLISH         "[{+smoke}]+[{+frag}] Activate"
+
+REFERENCE            br_919
+LANG_ENGLISH         "Take box of 9x19mm"
+
+REFERENCE            br_762
+LANG_ENGLISH         "Take box of 7.62mm"
+
+REFERENCE            br_556
+LANG_ENGLISH         "Take box of 5.56mm"
+
+REFERENCE            br_50
+LANG_ENGLISH         "Take box of .50-cal"
+
+REFERENCE            br_12g
+LANG_ENGLISH         "Take box of 12-gauge"
+
+REFERENCE            bombsite_in_use
+LANG_ENGLISH         "This bomb site is currently in use."
+
+REFERENCE            bomb_site
+LANG_ENGLISH         "Bomb Site"
+
+REFERENCE            bomb_plant_b
+LANG_ENGLISH         "B"
+
+REFERENCE            bomb_plant_a
+LANG_ENGLISH         "A"
+
+REFERENCE            bomb_n_n
+LANG_ENGLISH         "&&1.&&2"
+
+REFERENCE            bomb_defused
+LANG_ENGLISH         "Bomb defused"
+
+REFERENCE            bomb_briefcase_initiating
+LANG_ENGLISH         "INITIATING DEVICE"
+
+REFERENCE            bomb_briefcase_detonate
+LANG_ENGLISH         "DETONATION"
+
+REFERENCE            bomb_b_timer
+LANG_ENGLISH         "Bomb site B detonation in: "
+
+REFERENCE            bomb_b_colon_n_n
+LANG_ENGLISH         "B: &&1.&&2"
+
+REFERENCE            bomb_a_timer
+LANG_ENGLISH         "Bomb site A detonation in: "
+
+REFERENCE            bomb_a_colon_n_n
+LANG_ENGLISH         "A: &&1.&&2"
+
+REFERENCE            blink_knife_failed
+LANG_ENGLISH         "Blink Knife Failed"
+
+REFERENCE            banking_plunder_label
+LANG_ENGLISH         "Depositing cash"
+
+REFERENCE            autobalance_seconds
+LANG_ENGLISH         "Teams will be auto-balanced in &&1 seconds"
+
+REFERENCE            autobalance_next_round
+LANG_ENGLISH         "Teams will be auto-balanced next round"
+
+REFERENCE            attackers
+LANG_ENGLISH         "Attackers: &&1"
+
+REFERENCE            assassination_target_team_vanished
+LANG_ENGLISH         "Target Team has Vanished"
+
+REFERENCE            assassination_target_team_eliminated
+LANG_ENGLISH         "Target Team Eliminated : Reward $15000"
+
+REFERENCE            assassination_target_target_player_vanished
+LANG_ENGLISH         "Bounty Target vanished. Acquiring new Target."
+
+REFERENCE            assassination_target_eliminated_enemy
+LANG_ENGLISH         "Target Eliminated. Acquiring Next Target"
+
+REFERENCE            assassination_target_eliminated_ally
+LANG_ENGLISH         "A Hunter Eliminated your Teammate"
+
+REFERENCE            assassination_start_target_notify
+LANG_ENGLISH         "Your Team has been targeted by Bounty Hunters"
+
+REFERENCE            assassination_start_hunter_notify
+LANG_ENGLISH         "Bounty Target Located"
+
+REFERENCE            assassination_hunter_team_vanished
+LANG_ENGLISH         "Your team is no longer being hunted"
+
+REFERENCE            assassination_hunter_team_eliminated
+LANG_ENGLISH         "Hunter Team Eliminated"
+
+REFERENCE            assassination_hunter_eliminated_enemy
+LANG_ENGLISH         "A Hunter has been Eliminated"
+
+REFERENCE            assassination_hunter_eliminated_ally
+LANG_ENGLISH         "A Target has Eliminated your Teammate"
+
+REFERENCE            assassination_hud_targetteam
+LANG_ENGLISH         "Hunters are Targeting :
+^1&&1^7 "
+
+REFERENCE            assassination_hud_targetplayer_name
+LANG_ENGLISH         "^3&&1^7"
+
+REFERENCE            assassination_hud_hunterteam
+LANG_ENGLISH         "Bounty Reward : ^2$&&1^7"
+
+REFERENCE            ascender_blocked_laststand
+LANG_ENGLISH         "Ascender unusable in Last Stand"
+
+REFERENCE            ascender_blocked_jugg
+LANG_ENGLISH         "Ascender unusable by Juggernaut"
+
+REFERENCE            ascender_blocked
+LANG_ENGLISH         "Cable In Use"
+
+REFERENCE            arena_tournament_tie_win
+LANG_ENGLISH         "Your team has better match stats"
+
+REFERENCE            arena_tournament_tie_loss
+LANG_ENGLISH         "Enemy team had better match stats"
+
+REFERENCE            arena_time_lives_win
+LANG_ENGLISH         "Your team has more players alive"
+
+REFERENCE            arena_time_lives_loss
+LANG_ENGLISH         "Enemy team has more players alive"
+
+REFERENCE            arena_time_health_win
+LANG_ENGLISH         "Your team has more health"
+
+REFERENCE            arena_time_health_loss
+LANG_ENGLISH         "Enemy team has more health"
+
+REFERENCE            arena_overtime_win
+LANG_ENGLISH         "Your team captured the overtime flag"
+
+REFERENCE            arena_overtime_loss
+LANG_ENGLISH         "Enemy team captured the overtime flag"
+
+REFERENCE            anonymousplayer
+LANG_ENGLISH         "Anon#&&1"
+
+REFERENCE            ammo_9mm
+LANG_ENGLISH         "9mm Ammo"
+
+REFERENCE            ammo_762
+LANG_ENGLISH         "7.62 Ammo"
+
+REFERENCE            ammo_556
+LANG_ENGLISH         "5.56 Ammo"
+
+REFERENCE            ammo_50cal
+LANG_ENGLISH         "50cal Ammo"
+
+REFERENCE            ammo_12g
+LANG_ENGLISH         "12 Gauge Ammo"
+
+REFERENCE            ads_killcam
+LANG_ENGLISH         "PRECISION CAM"
+
+REFERENCE            adrenaline_mood_killer_desc
+LANG_ENGLISH         "You ended a player's adrenaline streak!"
+
+REFERENCE            adrenaline_mood_killer
+LANG_ENGLISH         "Mood Killer!"
+
+REFERENCE            adrenaline_iced_desc
+LANG_ENGLISH         "You ended a player's adrenaline streak before they scored!"
+
+REFERENCE            adrenaline_iced
+LANG_ENGLISH         "Iced!"
+
+REFERENCE            adrenaline_active_desc
+LANG_ENGLISH         "^3&&1x^7 Experience gain while you continue to score points quickly"
+
+REFERENCE            adrenaline_active
+LANG_ENGLISH         "Adrenaline!"
+
+REFERENCE            activate_mover
+LANG_ENGLISH         "Press to activate"
 
 
 ENDMARKER

@@ -2,380 +2,380 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            activate_sat
-LANG_ENGLISH         "Start the transmission"
-
-REFERENCE            activated_sat
-LANG_ENGLISH         "Receiving transmission"
-
-REFERENCE            active_sat_reactivate
-LANG_ENGLISH         "^1Transmission Error^7"
-
-REFERENCE            adjust_dish
-LANG_ENGLISH         "Adjust Dish Position"
-
-REFERENCE            already_have_saw
-LANG_ENGLISH         "You already have the Saw"
-
-REFERENCE            already_have_usb
-LANG_ENGLISH         "You already have an access card"
-
-REFERENCE            banker_safehouse
-LANG_ENGLISH         "The Banker"
-
-REFERENCE            call_exfil
-LANG_ENGLISH         "Call in Exfil"
-
-REFERENCE            collect_intel
-LANG_ENGLISH         "Collect phone contacts &&1 / 4 "
-
-REFERENCE            construct
-LANG_ENGLISH         "Construction Site"
-
-REFERENCE            correct_dongle
-LANG_ENGLISH         "Access Granted"
-
-REFERENCE            cut
-LANG_ENGLISH         "Breach the vault gate"
-
-REFERENCE            defuse_bomb
-LANG_ENGLISH         "Defuse the bomb!"
-
-REFERENCE            deposit_box
-LANG_ENGLISH         "Search deposit box"
-
-REFERENCE            dwn_twn_loadout
-LANG_ENGLISH         "Edit Loadout"
-
-REFERENCE            elevator_basement
-LANG_ENGLISH         "Press to go to Basement Level"
-
-REFERENCE            elevator_roof
-LANG_ENGLISH         "Press to go to Rooftop"
-
-REFERENCE            event_convoy_start
-LANG_ENGLISH         "Event: Convoys"
-
-REFERENCE            exfil_header
-LANG_ENGLISH         "Exfil"
-
-REFERENCE            exit_rooftops
-LANG_ENGLISH         "Locate Bunker Entrance"
-
-REFERENCE            fail_truck_escaped
-LANG_ENGLISH         "The convoy escaped."
-
-REFERENCE            fail_truck_killed
-LANG_ENGLISH         "The front truck was destroyed."
-
-REFERENCE            failed_destroyed
-LANG_ENGLISH         "The Satellite was Destroyed"
-
-REFERENCE            fake_end
-LANG_ENGLISH         "Wait for exfil update."
-
-REFERENCE            goto_safehouse
-LANG_ENGLISH         "Regroup"
-
-REFERENCE            goto_safehouse_world
-LANG_ENGLISH         "Regroup"
-
-REFERENCE            hack_int
-LANG_ENGLISH         "Press to start hacking terminal"
-
-REFERENCE            hack_servers
-LANG_ENGLISH         "Hack the distributed crypto servers (&&1/ 2)"
-
-REFERENCE            have_sat_piece
-LANG_ENGLISH         "You can only carry one component"
-
-REFERENCE            helicopter_down
-LANG_ENGLISH         "Helicopter Down"
-
-REFERENCE            hint_adjust_sat
-LANG_ENGLISH         "to Exit.  Hold ^3[{+smoke}]^7 or ^3[{+frag;+melee_zoom}]^7 to adjust Satellite"
-
-REFERENCE            hvt
-LANG_ENGLISH         "Eliminate the HVT"
-
-REFERENCE            hvt_heli
-LANG_ENGLISH         "HVT made it to heli!  Take it out!"
-
-REFERENCE            hvt_roof
-LANG_ENGLISH         "HVT headed to roof!  Take him out!"
-
-REFERENCE            interrogate
-LANG_ENGLISH         "Interrogate"
-
-REFERENCE            key
-LANG_ENGLISH         "Find the crypto private key in the vault"
-
-REFERENCE            key_card
-LANG_ENGLISH         "Pick up crypto private key"
-
-REFERENCE            lbl_dont_kill
-LANG_ENGLISH         "Don't Kill"
-
-REFERENCE            lbl_escaping
-LANG_ENGLISH         "Getting away."
-
-REFERENCE            lbl_follow
-LANG_ENGLISH         "Follow"
-
-REFERENCE            lbl_shoot
-LANG_ENGLISH         "Shoot"
-
-REFERENCE            main_vault_assault
-LANG_ENGLISH         "Vault Assault"
-
-REFERENCE            missing_ant
-LANG_ENGLISH         "Place Antenna"
-
-REFERENCE            missing_dongle
-LANG_ENGLISH         "Insert security access card"
-
-REFERENCE            mission_failed_transmission
-LANG_ENGLISH         "Satellite Transmission Lost"
-
-REFERENCE            mission_select_hint
-LANG_ENGLISH         "Not available. Need to collect enemy Intel"
-
-REFERENCE            mission_start_convoy
-LANG_ENGLISH         "Vehicle Convoy"
-
-REFERENCE            mission_start_ml
-LANG_ENGLISH         "The Banker"
-
-REFERENCE            mission_start_pilot
-LANG_ENGLISH         "Pilot Rescue"
-
-REFERENCE            ml_p3_comp
-LANG_ENGLISH         "Search crypto server"
-
-REFERENCE            ml_p3_router
-LANG_ENGLISH         "Pick up router"
-
-REFERENCE            mortar_test
-LANG_ENGLISH         "Mortar Test"
-
-REFERENCE            museum
-LANG_ENGLISH         "Art Museum"
-
-REFERENCE            need_antennae
-LANG_ENGLISH         "Missing Antenna"
-
-REFERENCE            need_saw
-LANG_ENGLISH         "You need the Saw"
-
-REFERENCE            no_item
-LANG_ENGLISH         "You don't have the required item"
-
-REFERENCE            obj_call
-LANG_ENGLISH         "Call Launderer's Contact"
-
-REFERENCE            obj_escort_convoy
-LANG_ENGLISH         "Escort Convoy through the City"
-
-REFERENCE            obj_ml_p1
-LANG_ENGLISH         "Collect Intel from enemies"
-
-REFERENCE            obj_ml_p2_1
-LANG_ENGLISH         "Observe the Contacts"
-
-REFERENCE            obj_ml_p2_2
-LANG_ENGLISH         "Call the Contact"
-
-REFERENCE            obj_ml_p2_3
-LANG_ENGLISH         "Follow the Contact"
-
-REFERENCE            obj_ml_p2_3_mnu
-LANG_ENGLISH         "Launderer Phase 2 - Section 3"
-
-REFERENCE            obj_ml_p2_4
-LANG_ENGLISH         "Secure the Station"
-
-REFERENCE            obj_ml_p2_heli
-LANG_ENGLISH         "Acquire a helicopter"
-
-REFERENCE            obj_ml_p2_interrogate
-LANG_ENGLISH         "Interrogate the Lieutenant"
-
-REFERENCE            obj_ml_p2_mnu
-LANG_ENGLISH         "Launderer Phase 2"
-
-REFERENCE            obj_ml_p3
-LANG_ENGLISH         "Hack the distributed crypto servers"
-
-REFERENCE            obj_ml_p3_3
-LANG_ENGLISH         "Retrieve crypto data"
-
-REFERENCE            obj_victory
-LANG_ENGLISH         "^2YOU WIN!!!"
-
-REFERENCE            object_count_test
-LANG_ENGLISH         "Kill enemies &&1 / 20 "
-
-REFERENCE            parliament
-LANG_ENGLISH         "Parliament"
-
-REFERENCE            pick_up_routers
-LANG_ENGLISH         "Pick up routers (&&1/2)"
-
-REFERENCE            pickup_ant
-LANG_ENGLISH         "Pickup Antenna"
-
-REFERENCE            pickup_controller
-LANG_ENGLISH         "Pickup Controller"
-
-REFERENCE            pickup_radar
-LANG_ENGLISH         "Pickup Radar Dish"
-
-REFERENCE            pickup_saw
-LANG_ENGLISH         "Pickup Saw"
-
-REFERENCE            place_controller
-LANG_ENGLISH         "Place Controller"
-
-REFERENCE            place_radar
-LANG_ENGLISH         "Place Radar Dish"
-
-REFERENCE            red_keycard
-LANG_ENGLISH         "Pickup security access card"
-
-REFERENCE            repair_dish
-LANG_ENGLISH         "Repair Dish"
-
-REFERENCE            repair_dish_nag
-LANG_ENGLISH         "Repair!"
-
-REFERENCE            requires_power
-LANG_ENGLISH         "Requires Power"
-
-REFERENCE            retrieve_saw
-LANG_ENGLISH         "Retrieve the saw."
-
-REFERENCE            roof
-LANG_ENGLISH         "Exfil from the roof"
-
-REFERENCE            roof_defend
-LANG_ENGLISH         "Defend until exfil arrives"
-
-REFERENCE            roof_exfil
-LANG_ENGLISH         "Get on helicopter to exfil"
-
-REFERENCE            roof_heli
-LANG_ENGLISH         "Eliminate Enemy Chopper"
-
-REFERENCE            rooftop_fight
-LANG_ENGLISH         "Hostage Save Test"
-
-REFERENCE            rooftop_raid
-LANG_ENGLISH         "Rooftop Raid"
-
-REFERENCE            rooftop_raid_heli
-LANG_ENGLISH         "Rooftop Raid ( Heli )"
-
-REFERENCE            rooftop_trans_complete
-LANG_ENGLISH         "Transmission Completed Successfully"
-
-REFERENCE            safehouse
-LANG_ENGLISH         "Safehouse"
-
-REFERENCE            safehouse_1_obj
-LANG_ENGLISH         "Briefing"
-
-REFERENCE            safehouse_continue
-LANG_ENGLISH         "Continue Operation"
-
-REFERENCE            safehouse_inspect
-LANG_ENGLISH         "Inspect"
-
-REFERENCE            safehouse_selectmission
-LANG_ENGLISH         "Inspect Intel"
-
-REFERENCE            safehouse_start
-LANG_ENGLISH         "Begin Operation"
-
-REFERENCE            sat_ararry
-LANG_ENGLISH         "Satellite Array"
-
-REFERENCE            sat_connect
-LANG_ENGLISH         "Connect the Satellites [ ^3 &&1 / 3^7 Connected ]"
-
-REFERENCE            sat_link_failed
-LANG_ENGLISH         "Link failed - check satellite hardware"
-
-REFERENCE            sat_waiting
-LANG_ENGLISH         "Waiting for connection"
-
-REFERENCE            saw
-LANG_ENGLISH         "Saw"
-
-REFERENCE            server_access_unlocked
-LANG_ENGLISH         "ACCESS IS NOW UNLOCKED"
-
-REFERENCE            server_authentication_sequence
-LANG_ENGLISH         "Authentication sequence"
-
-REFERENCE            server_authentication_unknown
-LANG_ENGLISH         "Authentication sequence unknown"
-
-REFERENCE            server_error
-LANG_ENGLISH         "ERROR!"
-
-REFERENCE            server_keyrun
-LANG_ENGLISH         "Press any key to run another authentication sequence..."
-
-REFERENCE            server_minimize
-LANG_ENGLISH         "Press any key to minimize..."
-
-REFERENCE            server_popup_connected
-LANG_ENGLISH         "/Connected"
-
-REFERENCE            server_popup_success
-LANG_ENGLISH         "/Authentication_successful"
-
-REFERENCE            server_popup_unknown
-LANG_ENGLISH         "/Authentication_sequence_unknow"
-
-REFERENCE            server_window_access
-LANG_ENGLISH         ">Server_Access"
-
-REFERENCE            server_window_authentication
-LANG_ENGLISH         ">Authentication_to_Server"
-
-REFERENCE            tablet_fluff1
-LANG_ENGLISH         "File     Edit     View     Object     System     Help"
-
-REFERENCE            tablet_fluff2
-LANG_ENGLISH         "/Crypton_Private_Key"
-
-REFERENCE            tablet_fluff3
-LANG_ENGLISH         "-- MW.OS 10.9"
-
-REFERENCE            tablet_fluff4
-LANG_ENGLISH         ">Terminal_A1"
-
-REFERENCE            tablet_transfer
-LANG_ENGLISH         "Transfer Complete"
-
-REFERENCE            tablet_upload
-LANG_ENGLISH         "Uploading..."
-
-REFERENCE            take_rooftop_crate
-LANG_ENGLISH         "Take Gasmask and Parachute"
-
-REFERENCE            tutorial_realign_satellites
-LANG_ENGLISH         "^3 - Satellite Signal Lost - ^7"
-
-REFERENCE            tv
-LANG_ENGLISH         "Broadcasting"
+REFERENCE            wrong_dongle
+LANG_ENGLISH         "Incorrect security access card"
 
 REFERENCE            va_bank
 LANG_ENGLISH         "Get into the bank."
 
-REFERENCE            wrong_dongle
-LANG_ENGLISH         "Incorrect security access card"
+REFERENCE            tv
+LANG_ENGLISH         "Broadcasting"
+
+REFERENCE            tutorial_realign_satellites
+LANG_ENGLISH         "^3 - Satellite Signal Lost - ^7"
+
+REFERENCE            take_rooftop_crate
+LANG_ENGLISH         "Take Gasmask and Parachute"
+
+REFERENCE            tablet_upload
+LANG_ENGLISH         "Uploading..."
+
+REFERENCE            tablet_transfer
+LANG_ENGLISH         "Transfer Complete"
+
+REFERENCE            tablet_fluff4
+LANG_ENGLISH         ">Terminal_A1"
+
+REFERENCE            tablet_fluff3
+LANG_ENGLISH         "-- MW.OS 10.9"
+
+REFERENCE            tablet_fluff2
+LANG_ENGLISH         "/Crypton_Private_Key"
+
+REFERENCE            tablet_fluff1
+LANG_ENGLISH         "File     Edit     View     Object     System     Help"
+
+REFERENCE            server_window_authentication
+LANG_ENGLISH         ">Authentication_to_Server"
+
+REFERENCE            server_window_access
+LANG_ENGLISH         ">Server_Access"
+
+REFERENCE            server_popup_unknown
+LANG_ENGLISH         "/Authentication_sequence_unknow"
+
+REFERENCE            server_popup_success
+LANG_ENGLISH         "/Authentication_successful"
+
+REFERENCE            server_popup_connected
+LANG_ENGLISH         "/Connected"
+
+REFERENCE            server_minimize
+LANG_ENGLISH         "Press any key to minimize..."
+
+REFERENCE            server_keyrun
+LANG_ENGLISH         "Press any key to run another authentication sequence..."
+
+REFERENCE            server_error
+LANG_ENGLISH         "ERROR!"
+
+REFERENCE            server_authentication_unknown
+LANG_ENGLISH         "Authentication sequence unknown"
+
+REFERENCE            server_authentication_sequence
+LANG_ENGLISH         "Authentication sequence"
+
+REFERENCE            server_access_unlocked
+LANG_ENGLISH         "ACCESS IS NOW UNLOCKED"
+
+REFERENCE            saw
+LANG_ENGLISH         "Saw"
+
+REFERENCE            sat_waiting
+LANG_ENGLISH         "Waiting for connection"
+
+REFERENCE            sat_link_failed
+LANG_ENGLISH         "Link failed - check satellite hardware"
+
+REFERENCE            sat_connect
+LANG_ENGLISH         "Connect the Satellites [ ^3 &&1 / 3^7 Connected ]"
+
+REFERENCE            sat_ararry
+LANG_ENGLISH         "Satellite Array"
+
+REFERENCE            safehouse_start
+LANG_ENGLISH         "Begin Operation"
+
+REFERENCE            safehouse_selectmission
+LANG_ENGLISH         "Inspect Intel"
+
+REFERENCE            safehouse_inspect
+LANG_ENGLISH         "Inspect"
+
+REFERENCE            safehouse_continue
+LANG_ENGLISH         "Continue Operation"
+
+REFERENCE            safehouse_1_obj
+LANG_ENGLISH         "Briefing"
+
+REFERENCE            safehouse
+LANG_ENGLISH         "Safehouse"
+
+REFERENCE            rooftop_trans_complete
+LANG_ENGLISH         "Transmission Completed Successfully"
+
+REFERENCE            rooftop_raid_heli
+LANG_ENGLISH         "Rooftop Raid ( Heli )"
+
+REFERENCE            rooftop_raid
+LANG_ENGLISH         "Rooftop Raid"
+
+REFERENCE            rooftop_fight
+LANG_ENGLISH         "Hostage Save Test"
+
+REFERENCE            roof_heli
+LANG_ENGLISH         "Eliminate Enemy Chopper"
+
+REFERENCE            roof_exfil
+LANG_ENGLISH         "Get on helicopter to exfil"
+
+REFERENCE            roof_defend
+LANG_ENGLISH         "Defend until exfil arrives"
+
+REFERENCE            roof
+LANG_ENGLISH         "Exfil from the roof"
+
+REFERENCE            retrieve_saw
+LANG_ENGLISH         "Retrieve the saw."
+
+REFERENCE            requires_power
+LANG_ENGLISH         "Requires Power"
+
+REFERENCE            repair_dish_nag
+LANG_ENGLISH         "Repair!"
+
+REFERENCE            repair_dish
+LANG_ENGLISH         "Repair Dish"
+
+REFERENCE            red_keycard
+LANG_ENGLISH         "Pickup security access card"
+
+REFERENCE            place_radar
+LANG_ENGLISH         "Place Radar Dish"
+
+REFERENCE            place_controller
+LANG_ENGLISH         "Place Controller"
+
+REFERENCE            pickup_saw
+LANG_ENGLISH         "Pickup Saw"
+
+REFERENCE            pickup_radar
+LANG_ENGLISH         "Pickup Radar Dish"
+
+REFERENCE            pickup_controller
+LANG_ENGLISH         "Pickup Controller"
+
+REFERENCE            pickup_ant
+LANG_ENGLISH         "Pickup Antenna"
+
+REFERENCE            pick_up_routers
+LANG_ENGLISH         "Pick up routers (&&1/2)"
+
+REFERENCE            parliament
+LANG_ENGLISH         "Parliament"
+
+REFERENCE            object_count_test
+LANG_ENGLISH         "Kill enemies &&1 / 20 "
+
+REFERENCE            obj_victory
+LANG_ENGLISH         "^2YOU WIN!!!"
+
+REFERENCE            obj_ml_p3_3
+LANG_ENGLISH         "Retrieve crypto data"
+
+REFERENCE            obj_ml_p3
+LANG_ENGLISH         "Hack the distributed crypto servers"
+
+REFERENCE            obj_ml_p2_mnu
+LANG_ENGLISH         "Launderer Phase 2"
+
+REFERENCE            obj_ml_p2_interrogate
+LANG_ENGLISH         "Interrogate the Lieutenant"
+
+REFERENCE            obj_ml_p2_heli
+LANG_ENGLISH         "Acquire a helicopter"
+
+REFERENCE            obj_ml_p2_4
+LANG_ENGLISH         "Secure the Station"
+
+REFERENCE            obj_ml_p2_3_mnu
+LANG_ENGLISH         "Launderer Phase 2 - Section 3"
+
+REFERENCE            obj_ml_p2_3
+LANG_ENGLISH         "Follow the Contact"
+
+REFERENCE            obj_ml_p2_2
+LANG_ENGLISH         "Call the Contact"
+
+REFERENCE            obj_ml_p2_1
+LANG_ENGLISH         "Observe the Contacts"
+
+REFERENCE            obj_ml_p1
+LANG_ENGLISH         "Collect Intel from enemies"
+
+REFERENCE            obj_escort_convoy
+LANG_ENGLISH         "Escort Convoy through the City"
+
+REFERENCE            obj_call
+LANG_ENGLISH         "Call Launderer's Contact"
+
+REFERENCE            no_item
+LANG_ENGLISH         "You don't have the required item"
+
+REFERENCE            need_saw
+LANG_ENGLISH         "You need the Saw"
+
+REFERENCE            need_antennae
+LANG_ENGLISH         "Missing Antenna"
+
+REFERENCE            museum
+LANG_ENGLISH         "Art Museum"
+
+REFERENCE            mortar_test
+LANG_ENGLISH         "Mortar Test"
+
+REFERENCE            ml_p3_router
+LANG_ENGLISH         "Pick up router"
+
+REFERENCE            ml_p3_comp
+LANG_ENGLISH         "Search crypto server"
+
+REFERENCE            mission_start_pilot
+LANG_ENGLISH         "Pilot Rescue"
+
+REFERENCE            mission_start_ml
+LANG_ENGLISH         "The Banker"
+
+REFERENCE            mission_start_convoy
+LANG_ENGLISH         "Vehicle Convoy"
+
+REFERENCE            mission_select_hint
+LANG_ENGLISH         "Not available. Need to collect enemy Intel"
+
+REFERENCE            mission_failed_transmission
+LANG_ENGLISH         "Satellite Transmission Lost"
+
+REFERENCE            missing_dongle
+LANG_ENGLISH         "Insert security access card"
+
+REFERENCE            missing_ant
+LANG_ENGLISH         "Place Antenna"
+
+REFERENCE            main_vault_assault
+LANG_ENGLISH         "Vault Assault"
+
+REFERENCE            lbl_shoot
+LANG_ENGLISH         "Shoot"
+
+REFERENCE            lbl_follow
+LANG_ENGLISH         "Follow"
+
+REFERENCE            lbl_escaping
+LANG_ENGLISH         "Getting away."
+
+REFERENCE            lbl_dont_kill
+LANG_ENGLISH         "Don't Kill"
+
+REFERENCE            key_card
+LANG_ENGLISH         "Pick up crypto private key"
+
+REFERENCE            key
+LANG_ENGLISH         "Find the crypto private key in the vault"
+
+REFERENCE            interrogate
+LANG_ENGLISH         "Interrogate"
+
+REFERENCE            hvt_roof
+LANG_ENGLISH         "HVT headed to roof!  Take him out!"
+
+REFERENCE            hvt_heli
+LANG_ENGLISH         "HVT made it to heli!  Take it out!"
+
+REFERENCE            hvt
+LANG_ENGLISH         "Eliminate the HVT"
+
+REFERENCE            hint_adjust_sat
+LANG_ENGLISH         "to Exit.  Hold ^3[{+smoke}]^7 or ^3[{+frag;+melee_zoom}]^7 to adjust Satellite"
+
+REFERENCE            helicopter_down
+LANG_ENGLISH         "Helicopter Down"
+
+REFERENCE            have_sat_piece
+LANG_ENGLISH         "You can only carry one component"
+
+REFERENCE            hack_servers
+LANG_ENGLISH         "Hack the distributed crypto servers (&&1/ 2)"
+
+REFERENCE            hack_int
+LANG_ENGLISH         "Press to start hacking terminal"
+
+REFERENCE            goto_safehouse_world
+LANG_ENGLISH         "Regroup"
+
+REFERENCE            goto_safehouse
+LANG_ENGLISH         "Regroup"
+
+REFERENCE            fake_end
+LANG_ENGLISH         "Wait for exfil update."
+
+REFERENCE            failed_destroyed
+LANG_ENGLISH         "The Satellite was Destroyed"
+
+REFERENCE            fail_truck_killed
+LANG_ENGLISH         "The front truck was destroyed."
+
+REFERENCE            fail_truck_escaped
+LANG_ENGLISH         "The convoy escaped."
+
+REFERENCE            exit_rooftops
+LANG_ENGLISH         "Locate Bunker Entrance"
+
+REFERENCE            exfil_header
+LANG_ENGLISH         "Exfil"
+
+REFERENCE            event_convoy_start
+LANG_ENGLISH         "Event: Convoys"
+
+REFERENCE            elevator_roof
+LANG_ENGLISH         "Press to go to Rooftop"
+
+REFERENCE            elevator_basement
+LANG_ENGLISH         "Press to go to Basement Level"
+
+REFERENCE            dwn_twn_loadout
+LANG_ENGLISH         "Edit Loadout"
+
+REFERENCE            deposit_box
+LANG_ENGLISH         "Search deposit box"
+
+REFERENCE            defuse_bomb
+LANG_ENGLISH         "Defuse the bomb!"
+
+REFERENCE            cut
+LANG_ENGLISH         "Breach the vault gate"
+
+REFERENCE            correct_dongle
+LANG_ENGLISH         "Access Granted"
+
+REFERENCE            construct
+LANG_ENGLISH         "Construction Site"
+
+REFERENCE            collect_intel
+LANG_ENGLISH         "Collect phone contacts &&1 / 4 "
+
+REFERENCE            call_exfil
+LANG_ENGLISH         "Call in Exfil"
+
+REFERENCE            banker_safehouse
+LANG_ENGLISH         "The Banker"
+
+REFERENCE            already_have_usb
+LANG_ENGLISH         "You already have an access card"
+
+REFERENCE            already_have_saw
+LANG_ENGLISH         "You already have the Saw"
+
+REFERENCE            adjust_dish
+LANG_ENGLISH         "Adjust Dish Position"
+
+REFERENCE            active_sat_reactivate
+LANG_ENGLISH         "^1Transmission Error^7"
+
+REFERENCE            activated_sat
+LANG_ENGLISH         "Receiving transmission"
+
+REFERENCE            activate_sat
+LANG_ENGLISH         "Start the transmission"
 
 
 ENDMARKER

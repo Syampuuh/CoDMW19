@@ -65,6 +65,12 @@ LANG_ENGLISH         "Final Result"
 REFERENCE            first
 LANG_ENGLISH         "1st"
 
+REFERENCE            first_place
+LANG_ENGLISH         "&&1st"
+
+REFERENCE            fourth_place
+LANG_ENGLISH         "&&1th"
+
 REFERENCE            gunfight_tournament
 LANG_ENGLISH         "&&1 v &&2 Gunfight Tournament"
 
@@ -240,6 +246,9 @@ LANG_ENGLISH         "Runner Up"
 REFERENCE            second
 LANG_ENGLISH         "2nd"
 
+REFERENCE            second_place
+LANG_ENGLISH         "&&1nd"
+
 REFERENCE            semi_finalists
 LANG_ENGLISH         "Semi-Finalists"
 
@@ -263,6 +272,9 @@ LANG_ENGLISH         "&&1 teams of &&2 players"
 
 REFERENCE            third
 LANG_ENGLISH         "3rd"
+
+REFERENCE            third_place
+LANG_ENGLISH         "&&1rd"
 
 REFERENCE            time_minutes
 LANG_ENGLISH         "&&1 minutes"

@@ -11,6 +11,6 @@
 10,iw8_sm_beta_variant_10,iw8_sm_beta,,rec|10 mag|10,silencer2|8,barlong|1,,,holo3|1,,,stockh|3,,,,,WEAPON/SM_BETA_V11,ui_loot_weapon_sm_beta_v11,
 11,iw8_sm_beta_variant_11,iw8_sm_beta,iw8_sm_beta_mpv2,rec|11 front|11 mag|11,,,laserrange|7,,,xmagslrg|4,pistolgrip02|1,stockno|2,,,,,WEAPON/SM_BETA_V12,ui_loot_weapon_sm_beta_v12,
 12,iw8_sm_beta_variant_12,iw8_sm_beta,,rec|12 front|12 back|12 mag|12,brake|4,,,,reflexmini|8,,,stocks|3,,,,,WEAPON/SM_BETA_V13,ui_loot_weapon_sm_beta_v13,
-13,iw8_sm_beta_variant_13,iw8_sm_beta,,rec|13 front|13 back|13 mag|13,,,,,,,,,,,,,WEAPON/SM_BETA_V14,ui_loot_weapon_sm_beta_v14,
+13,iw8_sm_beta_variant_13,iw8_sm_beta,iw8_sm_beta_mpv2,rec|13 back|13 mag|13,,barlong|3,,,reflex2|15,xmagslrg|5,,,maxammo,,,,WEAPON/SM_BETA_V14,ui_loot_weapon_sm_beta_v14,
 14,iw8_sm_beta_variant_14,iw8_sm_beta,iw8_sm_beta_mpv2,rec|14 front|14 back|14 mag|14,brake|6,,laserrange|14,,,,pistolgrip02|2,,maxammo,,,,WEAPON/SM_BETA_V15,ui_loot_weapon_sm_beta_v15,
-15,iw8_sm_beta_variant_15,iw8_sm_beta,,rec|15 front|15 back|15 mag|15,,,,,,,,,,,,,WEAPON/SM_BETA_V16,ui_loot_weapon_sm_beta_v16,
+15,iw8_sm_beta_variant_15,iw8_sm_beta,,rec|15 front|15 back|15 mag|15,brake|7,,laserbalanced|1,,reflex3|6,,,stockh|5,,,,,WEAPON/SM_BETA_V16,ui_loot_weapon_sm_beta_v16,

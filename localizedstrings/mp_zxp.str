@@ -1,0 +1,182 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            change
+LANG_ENGLISH         "You are a Zombie"
+
+REFERENCE            change_desc
+LANG_ENGLISH         "Kill Humans and Eat Them!"
+
+REFERENCE            change_human
+LANG_ENGLISH         "You are Human again"
+
+REFERENCE            change_human_desc
+LANG_ENGLISH         "Defend against the zombies!"
+
+REFERENCE            charged_jump
+LANG_ENGLISH         "Charged Jump
+Hold [{+speed_throw,+toggleads_throw,+ads_akimbo_accessible}]"
+
+REFERENCE            charged_jump_strength
+LANG_ENGLISH         "Jump Strength"
+
+REFERENCE            emp
+LANG_ENGLISH         "EMP Blast
+ [{+frag}]"
+
+REFERENCE            gas_grenade
+LANG_ENGLISH         "Gas Grenade 
+[{+smoke}]"
+
+REFERENCE            jugg_other
+LANG_ENGLISH         "Rush the Juggernauts"
+
+REFERENCE            jugg_other_desc
+LANG_ENGLISH         "The remaining humans are juggernauts, take them down!"
+
+REFERENCE            jugg_team
+LANG_ENGLISH         "Last Juggernaut Standing"
+
+REFERENCE            jugg_team_desc
+LANG_ENGLISH         "Kill the last of the zombies!"
+
+REFERENCE            num_consumed
+LANG_ENGLISH         "&&1 / "
+
+REFERENCE            num_to_consume
+LANG_ENGLISH         "&&1 Players Consumed"
+
+REFERENCE            pickup
+LANG_ENGLISH         "Pickup To Consume"
+
+REFERENCE            push
+LANG_ENGLISH         "Impulse - Double Tap [{+stance,+movedown}]"
+
+REFERENCE            respawn_allowed
+LANG_ENGLISH         "Respawn Allowed: "
+
+REFERENCE            thermal
+LANG_ENGLISH         "Thermal Toggle
+[{+actionslot 3,killstreak1}]"
+
+REFERENCE            vaccine_hint
+LANG_ENGLISH         "Kill Humans"
+
+REFERENCE            welcome
+LANG_ENGLISH         "Zombie Royale"
+
+REFERENCE            welcome_desc
+LANG_ENGLISH         "When you die you become a zombie. Last team with a human left alive wins."
+
+REFERENCE            zombie
+LANG_ENGLISH         "Zombie"
+
+REFERENCE            zxp_hint_header_1
+LANG_ENGLISH         "SECOND CHANCE"
+
+REFERENCE            zxp_hint_header_2
+LANG_ENGLISH         "COLLECT ANTIVIRALS"
+
+REFERENCE            zxp_hint_header_3
+LANG_ENGLISH         "SURVIVE"
+
+REFERENCE            zxp_hint_text_1
+LANG_ENGLISH         "Humans become zombies when they die. Zombies take more damage from headshots!"
+
+REFERENCE            zxp_hint_text_2
+LANG_ENGLISH         "Zombies can collect antivirals from dead players if they want to redeploy as a human."
+
+REFERENCE            zxp_hint_text_3
+LANG_ENGLISH         "Stay alive! Last team with a human wins."
+
+REFERENCE            change
+LANG_ENGLISH         "You are a Zombie"
+
+REFERENCE            change_desc
+LANG_ENGLISH         "Kill Humans and Eat Them!"
+
+REFERENCE            change_human
+LANG_ENGLISH         "You are Human again"
+
+REFERENCE            change_human_desc
+LANG_ENGLISH         "Defend against the zombies!"
+
+REFERENCE            charged_jump
+LANG_ENGLISH         "Charged Jump
+Hold [{+speed_throw,+toggleads_throw,+ads_akimbo_accessible}]"
+
+REFERENCE            charged_jump_strength
+LANG_ENGLISH         "Jump Strength"
+
+REFERENCE            emp
+LANG_ENGLISH         "EMP Blast
+ [{+frag}]"
+
+REFERENCE            gas_grenade
+LANG_ENGLISH         "Gas Grenade 
+[{+smoke}]"
+
+REFERENCE            jugg_other
+LANG_ENGLISH         "Rush the Juggernauts"
+
+REFERENCE            jugg_other_desc
+LANG_ENGLISH         "The remaining humans are juggernauts, take them down!"
+
+REFERENCE            jugg_team
+LANG_ENGLISH         "Last Juggernaut Standing"
+
+REFERENCE            jugg_team_desc
+LANG_ENGLISH         "Kill the last of the zombies!"
+
+REFERENCE            num_consumed
+LANG_ENGLISH         "&&1 / "
+
+REFERENCE            num_to_consume
+LANG_ENGLISH         "&&1 Players Consumed"
+
+REFERENCE            pickup
+LANG_ENGLISH         "Pickup To Consume"
+
+REFERENCE            push
+LANG_ENGLISH         "Impulse - Double Tap [{+stance,+movedown}]"
+
+REFERENCE            respawn_allowed
+LANG_ENGLISH         "Respawn Allowed: "
+
+REFERENCE            thermal
+LANG_ENGLISH         "Thermal Toggle
+[{+actionslot 3,killstreak1}]"
+
+REFERENCE            vaccine_hint
+LANG_ENGLISH         "Kill Humans"
+
+REFERENCE            welcome
+LANG_ENGLISH         "Zombie Royale"
+
+REFERENCE            welcome_desc
+LANG_ENGLISH         "When you die you become a zombie. Last team with a human left alive wins."
+
+REFERENCE            zombie
+LANG_ENGLISH         "Zombie"
+
+REFERENCE            zxp_hint_header_1
+LANG_ENGLISH         "SECOND CHANCE"
+
+REFERENCE            zxp_hint_header_2
+LANG_ENGLISH         "COLLECT ANTIVIRALS"
+
+REFERENCE            zxp_hint_header_3
+LANG_ENGLISH         "SURVIVE"
+
+REFERENCE            zxp_hint_text_1
+LANG_ENGLISH         "Humans become zombies when they die. Zombies take more damage from headshots!"
+
+REFERENCE            zxp_hint_text_2
+LANG_ENGLISH         "Zombies can collect antivirals from dead players if they want to redeploy as a human."
+
+REFERENCE            zxp_hint_text_3
+LANG_ENGLISH         "Stay alive! Last team with a human wins."
+
+
+ENDMARKER

@@ -11,6 +11,8 @@ main_clientcharacter
 	chr_menu_female_idle_02_AR
 	chr_menu_female_intro_01_AR
 	chr_menu_dog_idle_01
+	chr_menu_bat_idle_01
+	chr_menu_dog_hellhound_idle_01
 	chr_menu_hyena_idle_01
 	chr_menu_raven_idle_01
 	chr_menu_male_idle_01_AR
@@ -58,10 +60,17 @@ main_clientcharacter
 	chr_menu_edit_male_turn_r_03
 	chr_menu_edit_male_turn_r_04
 	chr_menu_mp_squad_dog_01
+	chr_menu_mp_squad_dog_hellhound_1
 	chr_menu_mp_squad_hyena_01
+	chr_menu_mp_squad_bat_01
+	chr_menu_mp_squad_bat_02
+	chr_menu_mp_squad_bat_03
 	chr_menu_mp_squad_raven_01
 	chr_menu_mp_squad_raven_02
 	chr_menu_mp_squad_raven_03
+	chr_menu_mp_squad_hawk_01
+	chr_menu_mp_squad_hawk_02
+	chr_menu_mp_squad_hawk_03
 	chr_menu_mp_squad_male_01
 	chr_menu_mp_squad_male_02
 	chr_menu_mp_squad_male_03
@@ -92,6 +101,12 @@ main_clientcharacter
 	chr_menu_mp_squad_female_04_shadow
 	chr_menu_mp_squad_female_05_shadow
 	chr_menu_mp_squad_female_06_shadow
+	chr_menu_mp_squad_male_01_weed
+	chr_menu_mp_squad_male_02_weed
+	chr_menu_mp_squad_male_03_weed
+	chr_menu_mp_squad_male_04_weed
+	chr_menu_mp_squad_male_05_weed
+	chr_menu_mp_squad_male_06_weed
 	sdr_mp_stand_idle01
 	sdr_mp_crouch_idle
 	chr_menu_male_idle_unarmed_01
@@ -130,6 +145,28 @@ main_clientcharacter
 	fe_operator_select_confirm_roze_01
 	fe_operator_select_confirm_lerch_01
 	fe_operator_select_confirm_kotus_01
+	fe_operator_select_confirm_woods_01
+	fe_operator_select_confirm_morte_01
+	fe_operator_select_confirm_farah_01
+	fe_operator_select_confirm_nikolai_01
+	fe_operator_select_confirm_nikolai_02
+	fe_operator_select_confirm_nikolai_03
+	fe_operator_select_confirm_griggs_01
+	
+	// T9 Operators
+	fe_operator_select_confirm_cuban_01
+	fe_operator_select_confirm_navyseal_01
+	fe_operator_select_confirm_wgerman_01
+	fe_operator_select_confirm_t9woods_01
+	fe_operator_select_confirm_t9st1_01
+	fe_operator_select_confirm_t9st2_01
+	fe_operator_select_confirm_t9st3_01
+	fe_operator_select_confirm_ciasog_01
+	fe_operator_select_confirm_adler_01
+	fe_operator_select_confirm_kgbfem_01
+	fe_operator_select_confirm_t9st4_01
+	fe_operator_select_confirm_t9st5_01
+	fe_operator_select_confirm_mi6fem_01
 	
 
 	// Quartermaster Crate
@@ -329,6 +366,7 @@ main_clientcharacter
 		mp_fingers_ar_tango21_l_gripang
 		mp_fingers_ar_tango21_gl_l
 		mp_fingers_ar_tango21_gl_launcher_l
+		mp_fingers_ar_tango21_l_ubshtgn
 		mp_fingers_ar_tango21_l_barlong
 		
 		mp_fingers_ar_sierra552_gl_l
@@ -354,6 +392,17 @@ main_clientcharacter
 		mp_fingers_ar_anovember94_gripvert_l
 		mp_fingers_ar_anovember94_gripang_l
 		mp_fingers_ar_anovember94_ubshtgn_l
+		
+		mp_fingers_ar_valpha_l
+		mp_fingers_ar_valpha_gripvert_l
+		mp_fingers_ar_valpha_gripvertpro_l
+		mp_fingers_ar_valpha_gripang_l
+		mp_fingers_ar_valpha_griphip_l
+		
+		mp_fingers_ar_t9standard_l
+		mp_fingers_ar_t9standard_l_grip
+		mp_fingers_ar_t9standard_r
+		mp_fingers_ar_t9standard_r_safe
 	
 		
 //IW8 - Launchers
@@ -400,6 +449,12 @@ main_clientcharacter
 		mp_fingers_sn_sksierra_l_griphip
 		mp_fingers_sn_sksierra_l_stockhvy
 		
+		mp_fingers_sn_romeo700_l
+		mp_fingers_sn_romeo700_l_gripvert
+		mp_fingers_sn_romeo700_l_gripvertpro
+		mp_fingers_sn_romeo700_l_gripang
+		mp_fingers_sn_romeo700_l_griphip
+		
 //IW8 - Shotguns	
 		
 		mp_fingers_sh_dpapa12_l
@@ -424,6 +479,10 @@ main_clientcharacter
 		
 		mp_fingers_sh_mike26_l
 		mp_fingers_sh_mike26_l_gripside
+		
+		mp_fingers_sh_aalpha12_l
+		mp_fingers_sh_aalpha12_gripang_l
+		mp_fingers_sh_aalpha12_gripvert_l
 
 //IW8 - LMGs
 
@@ -453,6 +512,11 @@ main_clientcharacter
 		mp_fingers_lm_mgolf36_l_gripang
 		mp_fingers_lm_mgolf36_l_gripvert
 		mp_fingers_lm_mgolf36_l_barshort
+		
+		mp_fingers_lm_sierrax_l
+		mp_fingers_lm_sierrax_l_gripang
+		mp_fingers_lm_sierrax_l_gripvert
+		mp_fingers_lm_sierrax_l_stocksaw
 		
 		mp_fingers_lm_dblmg_l	
 		
@@ -554,7 +618,10 @@ main_clientcharacter
 		mp_fingers_ar_galima_r_safe
 		
 		mp_fingers_ar_anovember94_r
-		mp_fingers_ar_anovember94_r_safe		
+		mp_fingers_ar_anovember94_r_safe
+		
+		mp_fingers_ar_valpha_r
+		mp_fingers_ar_valpha_r_safe	
 
 //IW8 - Launchers		
 
@@ -607,6 +674,11 @@ main_clientcharacter
 		mp_fingers_sn_sksierra_r_stockhvy2
 		mp_fingers_sn_sksierra_r_stockhvy2_safe
 		
+		mp_fingers_sn_romeo700_r
+		mp_fingers_sn_romeo700_r_safe
+		mp_fingers_sn_romeo700_r_pistolgrip
+		mp_fingers_sn_romeo700_r_pistolgrip_safe
+		
 //IW8 - Shotguns
 
 		mp_fingers_sh_dpapa12_r
@@ -624,7 +696,10 @@ main_clientcharacter
 		mp_fingers_sh_romeo870_stockh_r_safe
 		
 		mp_fingers_sh_mike26_r
-		mp_fingers_sh_mike26_r_safe		
+		mp_fingers_sh_mike26_r_safe
+		
+		mp_fingers_sh_aalpha12_r
+		mp_fingers_sh_aalpha12_r_safe		
 		
 //IW8 - LMGs
 
@@ -647,6 +722,11 @@ main_clientcharacter
 		
 		mp_fingers_lm_mgolf36_r
 		mp_fingers_lm_mgolf36_r_safe
+		
+		mp_fingers_lm_sierrax_r
+		mp_fingers_lm_sierrax_r_safe
+		mp_fingers_lm_sierrax_r_stocksaw
+		mp_fingers_lm_sierrax_r_stocksaw_safe
 
 		mp_fingers_mobile_turret_deploy_r
 		
@@ -708,6 +788,10 @@ main_clientcharacter
 		fe_gunsmith_weapon_placement_anovember
 		fe_gunsmith_weapon_placement_charlie9
 		fe_gunsmith_weapon_placement_sierrax
+		fe_gunsmith_weapon_placement_sierrax_chainsaw
+		fe_gunsmith_weapon_placement_valpha
+		fe_gunsmith_weapon_placement_aalpha12
+		fe_gunsmith_weapon_placement_romeo700
 	}
 }
 

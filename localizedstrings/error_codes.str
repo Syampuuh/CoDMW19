@@ -50,6 +50,9 @@ LANG_ENGLISH         "RAILWAY"
 REFERENCE            0_22
 LANG_ENGLISH         "COMET"
 
+REFERENCE            0_23
+LANG_ENGLISH         "DOUBLESTRIKE"
+
 REFERENCE            0_3
 LANG_ENGLISH         "EAGLEATTACK"
 
@@ -782,6 +785,15 @@ LANG_ENGLISH         "HATS"
 REFERENCE            21_1
 LANG_ENGLISH         "MARMOT"
 
+REFERENCE            21_10
+LANG_ENGLISH         "RODERIGO"
+
+REFERENCE            21_11
+LANG_ENGLISH         "SPLICE"
+
+REFERENCE            21_12
+LANG_ENGLISH         "SPRINGAWAKENING"
+
 REFERENCE            21_2
 LANG_ENGLISH         "LEADER"
 
@@ -890,6 +902,15 @@ LANG_ENGLISH         "BARITONE"
 REFERENCE            23_1
 LANG_ENGLISH         "SQUAWK"
 
+REFERENCE            23_10
+LANG_ENGLISH         "COTTAGE"
+
+REFERENCE            23_11
+LANG_ENGLISH         "COAT"
+
+REFERENCE            23_12
+LANG_ENGLISH         "INSULIN"
+
 REFERENCE            23_2
 LANG_ENGLISH         "HEADS"
 
@@ -898,6 +919,21 @@ LANG_ENGLISH         "EVAPORATE"
 
 REFERENCE            23_4
 LANG_ENGLISH         "MAILFIST"
+
+REFERENCE            23_5
+LANG_ENGLISH         "MERIDIAN"
+
+REFERENCE            23_6
+LANG_ENGLISH         "DRYAD"
+
+REFERENCE            23_7
+LANG_ENGLISH         "RAVENOUS"
+
+REFERENCE            23_8
+LANG_ENGLISH         "BENSON"
+
+REFERENCE            23_9
+LANG_ENGLISH         "KNIGHTSMOVE"
 
 REFERENCE            24_0
 LANG_ENGLISH         "MARITA"
@@ -913,6 +949,24 @@ LANG_ENGLISH         "RUBBLE"
 
 REFERENCE            24_4
 LANG_ENGLISH         "EXCESS"
+
+REFERENCE            25_0
+LANG_ENGLISH         "PIEDPIPER"
+
+REFERENCE            25_1
+LANG_ENGLISH         "ATTILA"
+
+REFERENCE            25_2
+LANG_ENGLISH         "KIPLING"
+
+REFERENCE            25_3
+LANG_ENGLISH         "SWIFTER"
+
+REFERENCE            25_4
+LANG_ENGLISH         "TEARDROP"
+
+REFERENCE            25_5
+LANG_ENGLISH         "INTERSECTION"
 
 REFERENCE            2_0
 LANG_ENGLISH         "JULIUS"

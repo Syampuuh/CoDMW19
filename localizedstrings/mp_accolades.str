@@ -296,6 +296,12 @@ LANG_ENGLISH         "Thunderstruck"
 REFERENCE            killstreakairstrikekills_desc
 LANG_ENGLISH         "Most precision airstrike kills"
 
+REFERENCE            killstreakassaultdronekills
+LANG_ENGLISH         "Remote Warfare"
+
+REFERENCE            killstreakassaultdronekills_desc
+LANG_ENGLISH         "Most bomb drone kills"
+
 REFERENCE            killstreakauavassists
 LANG_ENGLISH         "Target Rich Environment"
 
@@ -936,7 +942,7 @@ REFERENCE            weaponpickups
 LANG_ENGLISH         "Loaner"
 
 REFERENCE            weaponpickups_desc
-LANG_ENGLISH         "Most kills with picked up weapons"
+LANG_ENGLISH         "Most picked up weapons"
 
 
 ENDMARKER

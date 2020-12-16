@@ -149,6 +149,9 @@ LANG_ENGLISH         "You already own this item."
 REFERENCE            already_unlocked
 LANG_ENGLISH         "Already Unlocked"
 
+REFERENCE            alternative
+LANG_ENGLISH         "Alternative"
+
 REFERENCE            ammo
 LANG_ENGLISH         "AMMO"
 
@@ -275,6 +278,9 @@ LANG_ENGLISH         "All Blueprints, all day! First team to reach the round lim
 REFERENCE            arenavar_desc
 LANG_ENGLISH         "Gunfight using weapon variants. First team to reach the round win limit wins."
 
+REFERENCE            armor_drop_record_text
+LANG_ENGLISH         "Armor Resupplies"
+
 REFERENCE            armory
 LANG_ENGLISH         "Armory"
 
@@ -373,6 +379,12 @@ LANG_ENGLISH         "Recipe based on the Assault game mode"
 REFERENCE            assault_recipe_name
 LANG_ENGLISH         "Assault Recipe"
 
+REFERENCE            assign_random_squad
+LANG_ENGLISH         "Assign the Squad Randomly"
+
+REFERENCE            assigned_to_squad_num
+LANG_ENGLISH         "&&1 / ^5 Assigned to Squad &&2"
+
 REFERENCE            aura_quickswap
 LANG_ENGLISH         "Inspiration"
 
@@ -381,6 +393,15 @@ LANG_ENGLISH         "Patch Up"
 
 REFERENCE            aura_speedboost
 LANG_ENGLISH         "Keep Up"
+
+REFERENCE            available_slot
+LANG_ENGLISH         "Available slot"
+
+REFERENCE            available_squad_count
+LANG_ENGLISH         "&&1 available squads"
+
+REFERENCE            available_squad_count_single
+LANG_ENGLISH         "&&1 available squad"
 
 REFERENCE            average_scenes_per_game
 LANG_ENGLISH         "Avg.Scenes/Game"
@@ -560,6 +581,18 @@ LANG_ENGLISH         "Recipe based on the Invasion game mode
 REFERENCE            blitz_recipe_name
 LANG_ENGLISH         "Invasion Recipe"
 
+REFERENCE            blood_money
+LANG_ENGLISH         "Blood Money"
+
+REFERENCE            blood_money_duos
+LANG_ENGLISH         "Blood Money Duos"
+
+REFERENCE            blood_money_quads
+LANG_ENGLISH         "Blood Money Quads"
+
+REFERENCE            blood_money_solo
+LANG_ENGLISH         "Blood Money Solo"
+
 REFERENCE            bmo2_desc
 LANG_ENGLISH         "Primary Objective is to collect 2 million in cash."
 
@@ -601,6 +634,12 @@ LANG_ENGLISH         "Battle Royale"
 
 REFERENCE            br200_desc
 LANG_ENGLISH         "Loot and Kill with 200 Players. Last team standing wins."
+
+REFERENCE            br_alternative
+LANG_ENGLISH         "Battle Royale Alternative"
+
+REFERENCE            br_core
+LANG_ENGLISH         "Battle Royale Core"
 
 REFERENCE            br_credits_memoriam
 LANG_ENGLISH         "IN MEMORIAM"
@@ -806,6 +845,9 @@ LANG_ENGLISH         "Juggernaut Royale"
 REFERENCE            brjugg_desc
 LANG_ENGLISH         "Fight over Juggernaut armor drops and be the last team standing."
 
+REFERENCE            brjugg_quads
+LANG_ENGLISH         "Juggernaut Royale Quads"
+
 REFERENCE            brking
 LANG_ENGLISH         "King Slayer"
 
@@ -855,10 +897,16 @@ REFERENCE            brself_desc
 LANG_ENGLISH         "BR with automatic Revives until late game when you have enough money upon death. Gulag is disabled"
 
 REFERENCE            brtruck
-LANG_ENGLISH         "Truck War"
+LANG_ENGLISH         "Armored Royale"
 
 REFERENCE            brtruck_desc
 LANG_ENGLISH         "Protect your vehicle against all odds."
+
+REFERENCE            brtruck_duos
+LANG_ENGLISH         "Armored Royale Duos"
+
+REFERENCE            brtruck_trios
+LANG_ENGLISH         "Armored Royale Trios"
 
 REFERENCE            btm
 LANG_ENGLISH         "Fire Mission"
@@ -889,6 +937,9 @@ LANG_ENGLISH         "Includes 10 Rare Supply Drops, 1 dupe-protected QR-M5TR Co
 
 REFERENCE            button_disabled_not_host
 LANG_ENGLISH         "Locked while following the party leader."
+
+REFERENCE            button_disabled_playlist_locked
+LANG_ENGLISH         "Early access begins December 9"
 
 REFERENCE            button_disabled_solo
 LANG_ENGLISH         "This area only allows solo play."
@@ -974,6 +1025,15 @@ LANG_ENGLISH         "Select Field Upgrade"
 REFERENCE            change_rig_next_spawn
 LANG_ENGLISH         "Your rig will change the next time you spawn."
 
+REFERENCE            change_squad_desc
+LANG_ENGLISH         "View or change your squad."
+
+REFERENCE            change_squad_locked
+LANG_ENGLISH         "Locked while the match is about to start."
+
+REFERENCE            change_squad_title
+LANG_ENGLISH         "Change Squad"
+
 REFERENCE            chaos_mode
 LANG_ENGLISH         "CHAOS MODE"
 
@@ -982,6 +1042,9 @@ LANG_ENGLISH         "Sprint"
 
 REFERENCE            choose_announcer
 LANG_ENGLISH         "Choose your Announcer Voice"
+
+REFERENCE            choose_your_own
+LANG_ENGLISH         "Choose Your Own Squad"
 
 REFERENCE            claim_free
 LANG_ENGLISH         "Claim Free Crate"
@@ -1496,6 +1559,12 @@ LANG_ENGLISH         "Ground War Leaderboard"
 
 REFERENCE            desc_leaderboard_br
 LANG_ENGLISH         "BR Leaderboard"
+
+REFERENCE            desc_leaderboard_brmini
+LANG_ENGLISH         "Mini Royale Leaderboard."
+
+REFERENCE            desc_leaderboard_brrebirth
+LANG_ENGLISH         "Rebirth Leaderboard."
 
 REFERENCE            desc_leaderboard_btm
 LANG_ENGLISH         "Fire Mission Leaderboard"
@@ -2013,6 +2082,12 @@ LANG_ENGLISH         "Event Crates Placeholder Desc"
 REFERENCE            exchanging
 LANG_ENGLISH         "Exchanging"
 
+REFERENCE            exit_squad_menu
+LANG_ENGLISH         "Exit Squad Menu"
+
+REFERENCE            exit_squad_menu_desc
+LANG_ENGLISH         "The match is about to start..."
+
 REFERENCE            exppack1
 LANG_ENGLISH         "Expansion Pack 1"
 
@@ -2142,6 +2217,9 @@ LANG_ENGLISH         "Game Mode Advanced"
 REFERENCE            game_mode_high_party_member_count_warning
 LANG_ENGLISH         "The selected game mode allows up to &&2 party members, you currently have &&1. Remove some party members and try again."
 
+REFERENCE            game_mode_warzone_private_match_hint
+LANG_ENGLISH         "Choose the game mode and get ready to your Warzone private match!"
+
 REFERENCE            gamemodes
 LANG_ENGLISH         "Gamemodes"
 
@@ -2205,6 +2283,9 @@ LANG_ENGLISH         "PROXIMITY LAUNCHER"
 REFERENCE            goldvc
 LANG_ENGLISH         "Gold VC"
 
+REFERENCE            gos_trial
+LANG_ENGLISH         "Games of Summer Trial"
+
 REFERENCE            grind
 LANG_ENGLISH         "Grind"
 
@@ -2264,6 +2345,12 @@ LANG_ENGLISH         "Recipe based on the Gun Game game mode"
 
 REFERENCE            gun_recipe_name
 LANG_ENGLISH         "Gun Game Recipe"
+
+REFERENCE            gun_tdm
+LANG_ENGLISH         "Gun Game Team Deathmatch"
+
+REFERENCE            gun_tdm_desc
+LANG_ENGLISH         "Gun Game mixed with TDM. Get weapon kills to score points and advance to the next gun. First team to the score limit wins!"
 
 REFERENCE            gunblue_desc
 LANG_ENGLISH         "Be the first player to score a kill with each of the provided Weapon Blueprints."
@@ -2445,6 +2532,30 @@ LANG_ENGLISH         "Hostage Recipe"
 REFERENCE            hours_minutes
 LANG_ENGLISH         "&&1h &&2m"
 
+REFERENCE            hovec_sawmill_four_players
+LANG_ENGLISH         "Hovec Sawmill - Four Players"
+
+REFERENCE            hovec_sawmill_four_players_desc
+LANG_ENGLISH         "Hovec Sawmill Leaderboard - Four Players"
+
+REFERENCE            hovec_sawmill_solo
+LANG_ENGLISH         "Hovec Sawmill - Solo"
+
+REFERENCE            hovec_sawmill_solo_desc
+LANG_ENGLISH         "Hovec Sawmill Leaderboard - Solo"
+
+REFERENCE            hovec_sawmill_three_players
+LANG_ENGLISH         "Hovec Sawmill - Three Players"
+
+REFERENCE            hovec_sawmill_three_players_desc
+LANG_ENGLISH         "Hovec Sawmill Leaderboard - Three Players"
+
+REFERENCE            hovec_sawmill_two_players
+LANG_ENGLISH         "Hovec Sawmill - Two Players"
+
+REFERENCE            hovec_sawmill_two_players_desc
+LANG_ENGLISH         "Hovec Sawmill Leaderboard - Two Players"
+
 REFERENCE            hp_vlntn_desc2
 LANG_ENGLISH         "Hardpoint. Hold on for 60 seconds. If you can't, it's okay. We know it's a lot of pressure."
 
@@ -2580,6 +2691,36 @@ LANG_ENGLISH         "Weaken the enemy ship defenses, breach the ship, and rescu
 REFERENCE            jackalvr
 LANG_ENGLISH         "Jackal VR"
 
+REFERENCE            join_random_squad
+LANG_ENGLISH         "Join Random Squad"
+
+REFERENCE            join_random_squad_desc
+LANG_ENGLISH         "Finding an available squad for you. Please wait..."
+
+REFERENCE            join_random_squad_failure
+LANG_ENGLISH         "Join Random Squad Failure"
+
+REFERENCE            join_random_squad_failure_desc
+LANG_ENGLISH         "All other squads are full. Please try it later."
+
+REFERENCE            join_squad
+LANG_ENGLISH         "Join Squad"
+
+REFERENCE            join_squad_desc
+LANG_ENGLISH         "Joining the squad now. Please wait..."
+
+REFERENCE            join_squad_failure
+LANG_ENGLISH         "Join Squad Failure"
+
+REFERENCE            join_squad_failure_desc
+LANG_ENGLISH         "Failed to join the squad. Please try again later."
+
+REFERENCE            join_squad_prompt
+LANG_ENGLISH         "[{ui_primary}] Join squad"
+
+REFERENCE            joined_squad_index
+LANG_ENGLISH         "Joined Squad &&1 "
+
 REFERENCE            joint_contract
 LANG_ENGLISH         "JOINT OPS CONTRACT"
 
@@ -2628,14 +2769,29 @@ LANG_ENGLISH         "Kills Per Use"
 REFERENCE            kills_wo_dying
 LANG_ENGLISH         "Kills Without Dying"
 
+REFERENCE            killstreak_confirmed
+LANG_ENGLISH         "Killstreak Confirmed"
+
+REFERENCE            killstreak_confirmed_desc
+LANG_ENGLISH         "Collecting enemy Dog Tags awards killstreaks progress. Kills do not award streak progress. Killstreaks do not reset on death and can be earned multiple times per life."
+
 REFERENCE            killstreak_exe
 LANG_ENGLISH         "killstreak.exe"
+
+REFERENCE            kingslayer
+LANG_ENGLISH         "Kingslayer"
 
 REFERENCE            kingslayer_deaths
 LANG_ENGLISH         "Dethroned"
 
+REFERENCE            kingslayer_desc
+LANG_ENGLISH         "Chase kill leaders for bonus points and killstreaks."
+
 REFERENCE            kingslayer_kills
 LANG_ENGLISH         "Kings Slain"
+
+REFERENCE            kingslayer_total
+LANG_ENGLISH         "Total"
 
 REFERENCE            knife_fast_caps
 LANG_ENGLISH         "GOLD KNIFE"
@@ -2757,6 +2913,21 @@ LANG_ENGLISH         "POINT OF CONTACT"
 REFERENCE            leaderboards_caps_chaos
 LANG_ENGLISH         "LEADERBOARDS [ CHAOS ]"
 
+REFERENCE            leave_squad
+LANG_ENGLISH         "Leave Squad"
+
+REFERENCE            leave_squad_desc
+LANG_ENGLISH         "Leaving the squad now. Please wait..."
+
+REFERENCE            leave_squad_failure
+LANG_ENGLISH         "Leave Squad Failure"
+
+REFERENCE            leave_squad_failure_desc
+LANG_ENGLISH         "Cannot leave the squad now. Please try it later."
+
+REFERENCE            left_squad_index
+LANG_ENGLISH         "Left the squad"
+
 REFERENCE            legendary_supply_desc
 LANG_ENGLISH         "Guaranteed Legendary item"
 
@@ -2834,6 +3005,12 @@ LANG_ENGLISH         "Equip a series of scorestreaks to support you and your tea
 
 REFERENCE            lobby_count
 LANG_ENGLISH         "&&1 / &&2 waiting in lobby"
+
+REFERENCE            locked_require_player
+LANG_ENGLISH         "^5&&1^7 player is required to start the match."
+
+REFERENCE            locked_require_players
+LANG_ENGLISH         "^5&&1^7 players are required to start the match."
 
 REFERENCE            login_queue_retry
 LANG_ENGLISH         "The login servers are currently closed, retrying connection..."
@@ -3684,11 +3861,14 @@ LANG_ENGLISH         "RECON"
 REFERENCE            mission_extract_1_title
 LANG_ENGLISH         "CONTRABAND"
 
+REFERENCE            mission_geiger_1_title
+LANG_ENGLISH         "Detection Contract"
+
 REFERENCE            mission_history_desc
-LANG_ENGLISH         "Survey the sites"
+LANG_ENGLISH         "Locate the Key Card "
 
 REFERENCE            mission_history_title
-LANG_ENGLISH         "KNOW YOUR HISTORY"
+LANG_ENGLISH         "Secure the Key"
 
 REFERENCE            mission_participation
 LANG_ENGLISH         "Contracts"
@@ -3703,10 +3883,10 @@ REFERENCE            mission_secretstash_1_title
 LANG_ENGLISH         "SAFE CRACKER"
 
 REFERENCE            mission_smokinggun_1_desc
-LANG_ENGLISH         "Complete the Cycle"
+LANG_ENGLISH         "Loot and Kill for Intel"
 
 REFERENCE            mission_smokinggun_1_title
-LANG_ENGLISH         "Smoking Gun"
+LANG_ENGLISH         "Intel by All Means"
 
 REFERENCE            mission_team_button_desc
 LANG_ENGLISH         "View Mission Team-exclusive Prototype Weapons."
@@ -3727,16 +3907,16 @@ REFERENCE            mission_vip_1_title
 LANG_ENGLISH         "MOST WANTED"
 
 REFERENCE            mission_x1fin_1_desc
-LANG_ENGLISH         "Find the "Woods""
+LANG_ENGLISH         "Map Coordinates"
 
 REFERENCE            mission_x1fin_1_title
-LANG_ENGLISH         "The Lost Woods"
+LANG_ENGLISH         "Wield the Weapon"
 
 REFERENCE            mission_x1stash_desc
-LANG_ENGLISH         "Secure the Intel"
+LANG_ENGLISH         "Find the Cipher"
 
 REFERENCE            mission_x1stash_title
-LANG_ENGLISH         "SAFE CRACKER"
+LANG_ENGLISH         "Code Breaker"
 
 REFERENCE            missionteam
 LANG_ENGLISH         "Mission Team"
@@ -3930,11 +4110,20 @@ LANG_ENGLISH         "There ain't no coming back...unless you pay for it."
 REFERENCE            normal_mod
 LANG_ENGLISH         "Normal"
 
+REFERENCE            not_assigned_squad
+LANG_ENGLISH         "^5Not assigned to squad"
+
+REFERENCE            not_assigned_squad_details
+LANG_ENGLISH         "&&1 / ^5Not assigned to squad (Will be assigned on match start)"
+
 REFERENCE            not_enough_currency
 LANG_ENGLISH         "You do not have enough Keys or CoD Points to purchase this Supply Drop."
 
 REFERENCE            not_enough_salvage
 LANG_ENGLISH         "You do not have enough Salvage to purchase this item."
+
+REFERENCE            not_now
+LANG_ENGLISH         "Not Now"
 
 REFERENCE            nvginfctd_desc
 LANG_ENGLISH         "Infected in the Dark. Survivors have a thermal sight, but your laser will give away your position if you ADS. Infected have Night Vision. Survive."
@@ -4354,7 +4543,22 @@ REFERENCE            plundck_desc
 LANG_ENGLISH         "Collect as much cash as you can. Contracts give out increased rewards."
 
 REFERENCE            plunder
-LANG_ENGLISH         "PLUNDER"
+LANG_ENGLISH         "Plunder"
+
+REFERENCE            plunder_alternative
+LANG_ENGLISH         "Plunder Alternative"
+
+REFERENCE            plunder_core
+LANG_ENGLISH         "Plunder Core"
+
+REFERENCE            plunder_duos
+LANG_ENGLISH         "Plunder Duos"
+
+REFERENCE            plunder_quads
+LANG_ENGLISH         "Plunder Quads"
+
+REFERENCE            plunder_solo
+LANG_ENGLISH         "Plunder Solo"
 
 REFERENCE            plunquad_desc
 LANG_ENGLISH         "Teams of four. Collect as much cash as you can."
@@ -4646,6 +4850,12 @@ LANG_ENGLISH         "Grazna Raid Leaderboard - Two Players"
 REFERENCE            rail_caps
 LANG_ENGLISH         "RAIL"
 
+REFERENCE            random
+LANG_ENGLISH         "Random"
+
+REFERENCE            random_desc_calling_cards
+LANG_ENGLISH         "When Randomize All is equipped, your calling card will randomly cycle through your currently owned calling cards each time you enter a game."
+
 REFERENCE            randomize_loadout
 LANG_ENGLISH         "Randomize Loadout"
 
@@ -4697,6 +4907,15 @@ LANG_ENGLISH         "Infected game mode with Realism rules. Players have minima
 
 REFERENCE            reaper_caps
 LANG_ENGLISH         "[{+attack}] Reaper Attack"
+
+REFERENCE            rebirth_desc
+LANG_ENGLISH         "Rebirth Desc TODO"
+
+REFERENCE            rebirth_early_access_locked
+LANG_ENGLISH         "Complete Detection Contract"
+
+REFERENCE            rebirth_name
+LANG_ENGLISH         "Rebirth"
 
 REFERENCE            recipe
 LANG_ENGLISH         "Lava Mode Recipe"
@@ -5083,14 +5302,20 @@ LANG_ENGLISH         "Enables announcer dialog to play to inform players of obje
 REFERENCE            rules_aon
 LANG_ENGLISH         "All or Nothing"
 
+REFERENCE            rules_aon_blades
+LANG_ENGLISH         "Dual Kodachis"
+
+REFERENCE            rules_aon_blunt
+LANG_ENGLISH         "Kali Sticks"
+
 REFERENCE            rules_aon_desc
 LANG_ENGLISH         "Fan favorite ruleset: Custom pistol, throwing knife, no starting ammo. Extra perks are gained on kills. You lose all gained perks and ammo on death."
 
-REFERENCE            rules_aonftl
-LANG_ENGLISH         "???"
+REFERENCE            rules_aon_knife
+LANG_ENGLISH         "Combat Knife"
 
 REFERENCE            rules_arena_att_sn_scopes
-LANG_ENGLISH         "Add Sniper Scopes"
+LANG_ENGLISH         "Add Sniper Scopes to Marksman Rifles"
 
 REFERENCE            rules_arena_attachments
 LANG_ENGLISH         "OSP Attachments"
@@ -5152,6 +5377,9 @@ LANG_ENGLISH         "OSP Blueprints"
 REFERENCE            rules_arena_loadouts_preview
 LANG_ENGLISH         "Preview"
 
+REFERENCE            rules_arena_loadouts_rand_no_att
+LANG_ENGLISH         "Random No Attachments"
+
 REFERENCE            rules_arena_loadouts_random
 LANG_ENGLISH         "Random"
 
@@ -5161,11 +5389,24 @@ LANG_ENGLISH         "RECORD"
 REFERENCE            rules_arena_loadouts_rvs_gungame
 LANG_ENGLISH         "Rvs. Progression"
 
+REFERENCE            rules_arena_soccer
+LANG_ENGLISH         "Soccer Ball"
+
 REFERENCE            rules_arena_spawn_flag
 LANG_ENGLISH         "Spawn Capture Zone"
 
 REFERENCE            rules_arena_spawn_flag_desc
 LANG_ENGLISH         "Spawns a capture zone if players from both teams are alive at round end. First team to capture or eliminate the other team wins once the zone is spawned."
+
+REFERENCE            rules_arena_super
+LANG_ENGLISH         "Field Upgrade"
+
+REFERENCE            rules_arena_super_desc
+LANG_ENGLISH         "The field upgrade all player will have in their loadout when playing with Random or OSP loadouts.
+Note: The following Field upgrades will be replaced with Munitions Box in Gunfight maps.
+- Recon Drone
+- EMP Drone
+- Weapon Drop"
 
 REFERENCE            rules_arena_switch_spawns
 LANG_ENGLISH         "Switch Spawns"
@@ -5390,7 +5631,8 @@ REFERENCE            rules_casual_score_streaks
 LANG_ENGLISH         "Persistent Streak Progress"
 
 REFERENCE            rules_casual_score_streaks_desc
-LANG_ENGLISH         "Progress towards killstreaks is not reset upon death."
+LANG_ENGLISH         "Progress towards killstreaks is not reset upon death. 
+^3Note:^7 Streaks can be earned again on the next life if the player has earned all streaks. If 'Wrap Killstreaks' option is enabled you can earn streaks again in the same life."
 
 REFERENCE            rules_cmd_break
 LANG_ENGLISH         "Breakthrough"
@@ -5420,7 +5662,7 @@ REFERENCE            rules_cmd_rules_desc
 LANG_ENGLISH         "Switches mode behaviors. This is a dev only feature for iteration testing. ^3Normal^7 = Capture and Hold. ^3Breakthrough^7 = Capture middle then attack and defend."
 
 REFERENCE            rules_codcaster_desc
-LANG_ENGLISH         "Allows players to choose CODcaster when selecting a team in game."
+LANG_ENGLISH         "Allows players to choose CODcaster when selecting a team in game when the feature is available."
 
 REFERENCE            rules_codxp_spectator
 LANG_ENGLISH         "COD XP Spectator"
@@ -5749,6 +5991,15 @@ LANG_ENGLISH         "Frontline Spawns"
 REFERENCE            rules_game_options
 LANG_ENGLISH         "Game Options"
 
+REFERENCE            rules_ggw_switch_on_both
+LANG_ENGLISH         "Kills and Deaths"
+
+REFERENCE            rules_ggw_switch_on_death
+LANG_ENGLISH         "Death"
+
+REFERENCE            rules_ggw_switch_on_kill
+LANG_ENGLISH         "Kills"
+
 REFERENCE            rules_goal_enable_timer
 LANG_ENGLISH         "Goal Enable Timer:"
 
@@ -5772,6 +6023,12 @@ LANG_ENGLISH         "Goal Behavior:"
 
 REFERENCE            rules_goal_type_desc
 LANG_ENGLISH         "Goal Behavior:"
+
+REFERENCE            rules_gun_game_weapons
+LANG_ENGLISH         "Gun Game Weapon Swaps"
+
+REFERENCE            rules_gun_game_weapons_desc
+LANG_ENGLISH         "Select options for players weapons to switch based on kills."
 
 REFERENCE            rules_hardcore
 LANG_ENGLISH         "Hardcore Mode"
@@ -6033,6 +6290,12 @@ LANG_ENGLISH         "Instant"
 REFERENCE            rules_intel
 LANG_ENGLISH         "Field Orders"
 
+REFERENCE            rules_jugg_cap_time
+LANG_ENGLISH         "Juggernaut Capture Time"
+
+REFERENCE            rules_jugg_cap_time_desc
+LANG_ENGLISH         "The amount of time it takes to capture the juggernaut armor."
+
 REFERENCE            rules_jugg_health
 LANG_ENGLISH         "Juggernaut Health"
 
@@ -6108,6 +6371,12 @@ LANG_ENGLISH         "Kills Per Weapon"
 REFERENCE            rules_kills_per_weapon_desc
 LANG_ENGLISH         "Number of kills required before advancing to the next weapon."
 
+REFERENCE            rules_killstreak_confirmed
+LANG_ENGLISH         "Killstreak Confirmed"
+
+REFERENCE            rules_killstreak_confirmed_desc
+LANG_ENGLISH         "Killstreaks are only earned through enemy Dog Tag collection."
+
 REFERENCE            rules_killstreaks
 LANG_ENGLISH         "Killstreaks"
 
@@ -6120,6 +6389,9 @@ LANG_ENGLISH         "Ladder"
 REFERENCE            rules_ladder_1
 LANG_ENGLISH         "Normal"
 
+REFERENCE            rules_ladder_10
+LANG_ENGLISH         "Blueprint - All kills cycle weapons"
+
 REFERENCE            rules_ladder_2
 LANG_ENGLISH         "Close Quarters"
 
@@ -6128,6 +6400,15 @@ LANG_ENGLISH         "Marksman"
 
 REFERENCE            rules_ladder_4
 LANG_ENGLISH         "Blueprint Variants"
+
+REFERENCE            rules_ladder_7
+LANG_ENGLISH         "Normal - All kills cycle weapons"
+
+REFERENCE            rules_ladder_8
+LANG_ENGLISH         "CQC - All kills cycle weapons"
+
+REFERENCE            rules_ladder_9
+LANG_ENGLISH         "Marksman - All kills cycle weapons"
 
 REFERENCE            rules_ladder_desc
 LANG_ENGLISH         "Types of weapon classes that the player cycles between on kills."
@@ -7371,6 +7652,9 @@ LANG_ENGLISH         "Random Lethal"
 REFERENCE            rules_weapon_random_lmg
 LANG_ENGLISH         "Random LMG"
 
+REFERENCE            rules_weapon_random_melee
+LANG_ENGLISH         "Random Melee"
+
 REFERENCE            rules_weapon_random_pistol
 LANG_ENGLISH         "Random Handgun"
 
@@ -7466,6 +7750,13 @@ LANG_ENGLISH         "Win Rule"
 
 REFERENCE            rules_win_rule_desc
 LANG_ENGLISH         "Changes the win condition between total rounds won or total flags captured."
+
+REFERENCE            rules_wrap_killstreaks
+LANG_ENGLISH         "Wrap Killstreaks"
+
+REFERENCE            rules_wrap_killstreaks_desc
+LANG_ENGLISH         "Killstreaks can be earned multiple times in a single life. 
+^3Note:^7 Specialist streaks do not wrap as the perks are persistent when earned in that life."
 
 REFERENCE            rules_zone_activation_delay
 LANG_ENGLISH         "Activation Delay Time"
@@ -7663,6 +7954,12 @@ LANG_ENGLISH         "4 Weapons"
 REFERENCE            setbacks_5
 LANG_ENGLISH         "5 Weapons"
 
+REFERENCE            setup_warzone_private_match
+LANG_ENGLISH         "Game Setup"
+
+REFERENCE            setup_warzone_private_match_desc
+LANG_ENGLISH         "Choose and setup warzone private match"
+
 REFERENCE            shadow_all_objects
 LANG_ENGLISH         "All Objects"
 
@@ -7747,6 +8044,9 @@ LANG_ENGLISH         "SKIP"
 REFERENCE            skyway
 LANG_ENGLISH         "Terminal"
 
+REFERENCE            slots_available
+LANG_ENGLISH         "Slots available"
+
 REFERENCE            snatch
 LANG_ENGLISH         "Smash & Grab"
 
@@ -7810,6 +8110,24 @@ LANG_ENGLISH         "Squad &&1 / &&2 Max"
 REFERENCE            squad_fill
 LANG_ENGLISH         "Squad Fill"
 
+REFERENCE            squad_full
+LANG_ENGLISH         "Squad full"
+
+REFERENCE            squad_index
+LANG_ENGLISH         "Squad &&1"
+
+REFERENCE            squad_number
+LANG_ENGLISH         "Squad &&1"
+
+REFERENCE            squad_select_note
+LANG_ENGLISH         "Note: You will be able to choose a squad before the match or you will be automatically assigned a random squad when the match starts."
+
+REFERENCE            squad_selection
+LANG_ENGLISH         "Squad Selection"
+
+REFERENCE            squad_size
+LANG_ENGLISH         "Squad Size"
+
 REFERENCE            squads_dlc_category_2_caps
 LANG_ENGLISH         "^3DEVASTATION^7"
 
@@ -7848,6 +8166,9 @@ LANG_ENGLISH         "Search and Rescue Recipe"
 
 REFERENCE            stabs_caps
 LANG_ENGLISH         "Stabs"
+
+REFERENCE            start_warzone_private_match_desc
+LANG_ENGLISH         "Start Warzone match on a dedicated server"
 
 REFERENCE            stir_desc
 LANG_ENGLISH         "10v10 Mosh Pit on more compact maps."
@@ -8834,11 +9155,23 @@ LANG_ENGLISH         "VEST"
 REFERENCE            video_fullscreen
 LANG_ENGLISH         "[{ui_r3}] Full Screen"
 
+REFERENCE            view_change_squad
+LANG_ENGLISH         "[{ui_alt1}] [View/Change] squad"
+
 REFERENCE            view_patch_notes
 LANG_ENGLISH         "View Patch Notes"
 
+REFERENCE            view_players
+LANG_ENGLISH         "View players"
+
+REFERENCE            view_players_desc
+LANG_ENGLISH         "View players in Warzone private match lobby."
+
 REFERENCE            view_profile
 LANG_ENGLISH         "View Profile"
+
+REFERENCE            view_report_player
+LANG_ENGLISH         "View/Report player"
 
 REFERENCE            village_desc
 LANG_ENGLISH         "Hovec Sawmill in Mosh Pit game modes."
@@ -8860,6 +9193,9 @@ LANG_ENGLISH         "VIP Recipe"
 
 REFERENCE            visor_painter
 LANG_ENGLISH         "Visor Painter"
+
+REFERENCE            wait_for_game_mode_locked
+LANG_ENGLISH         "Locked while the game mode data is not ready."
 
 REFERENCE            waiting_required_dlc
 LANG_ENGLISH         "Searching for new content"
@@ -8994,6 +9330,15 @@ LANG_ENGLISH         "Recipe based on the WMD Tac Ops game mode"
 REFERENCE            wmd_recipe_name
 LANG_ENGLISH         "WMD Tac Ops Recipe"
 
+REFERENCE            wz_private_match_entry_desc
+LANG_ENGLISH         "Set up and play Warzone private matches on dedicated servers."
+
+REFERENCE            wz_private_match_requirment
+LANG_ENGLISH         "&&1/&&2 in Lobby - ^5&&3^7 required to start"
+
+REFERENCE            wz_squad_count
+LANG_ENGLISH         "(&&1/&&2)"
+
 REFERENCE            x1_low_rep_warning
 LANG_ENGLISH         "Due to continued negative feedback from the community, your reputation has fallen to Avoid Me. Until your conduct improves, you'll only be matched with low reputation players. Due to the limited population of low reputation players, you may have difficulty finding available online matches.
 
@@ -9073,6 +9418,12 @@ LANG_ENGLISH         "12 Days of Winter Day 9"
 
 REFERENCE            yes
 LANG_ENGLISH         "Yes"
+
+REFERENCE            your_squad
+LANG_ENGLISH         "Your Squad"
+
+REFERENCE            zombie_royale
+LANG_ENGLISH         "Zombie Royale"
 
 
 ENDMARKER

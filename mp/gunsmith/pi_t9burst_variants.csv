@@ -1,0 +1,4 @@
+0,iw8_pi_t9burst_variant_0,iw8_pi_t9burst,,,,,,,,,,,,,,,WEAPON_TANGO/PI_T9BURST,ui_loot_weapon_ar_akilo47,
+1,iw8_pi_t9burst_variant_1,iw8_pi_t9burst,,rec|0 front|0 back|0,linearbrake|0,barlong|0,,,,smags|0,,,,,,,WEAPON_TANGO/PI_T9BURST_V3,ui_loot_weapon_ar_akilo47,
+2,iw8_pi_t9burst_variant_2,iw8_pi_t9burst,iw8_pi_t9burst_mpv2,rec|1 front|1 back|1,brake|1,barlong|0,flashhider|0,,,,,,,,,,WEAPON_TANGO/PI_T9BURST_V2,ui_loot_weapon_ar_akilo47,
+3,iw8_pi_t9burst_variant_3,iw8_pi_t9burst,iw8_pi_t9burst_mpv3,rec|1 front|1 back|1,silencer|1,barshortnoguard|1,laserrange|1,,,xmags|1,,,,,,,WEAPON_TANGO/PI_T9BURST_V6,ui_loot_weapon_ar_akilo47,

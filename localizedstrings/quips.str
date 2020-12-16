@@ -12,7 +12,7 @@ REFERENCE            alex_2
 LANG_ENGLISH         ""Suck on that.""
 
 REFERENCE            alex_3
-LANG_ENGLISH         "ALEX_3"
+LANG_ENGLISH         ""Get what you give.""
 
 REFERENCE            alex_4
 LANG_ENGLISH         ""All or nothing.""
@@ -161,6 +161,9 @@ LANG_ENGLISH         ""Live off the land.""
 REFERENCE            crowfoot_5
 LANG_ENGLISH         ""Tell my old man who sent you.""
 
+REFERENCE            crowfoot_7
+LANG_ENGLISH         ""Join the dead.""
+
 REFERENCE            crowfoot_9
 LANG_ENGLISH         ""Join your ancestors.""
 
@@ -224,6 +227,36 @@ LANG_ENGLISH         ""No contest...""
 REFERENCE            domino_9
 LANG_ENGLISH         ""Yeah. Out cold.""
 
+REFERENCE            farah_1
+LANG_ENGLISH         ""For Urzikstan!""
+
+REFERENCE            farah_10
+LANG_ENGLISH         ""It's not your day.""
+
+REFERENCE            farah_2
+LANG_ENGLISH         ""You shouldn't have come here.""
+
+REFERENCE            farah_3
+LANG_ENGLISH         ""You lose.""
+
+REFERENCE            farah_4
+LANG_ENGLISH         ""You brought this on yourself.""
+
+REFERENCE            farah_5
+LANG_ENGLISH         ""Curse be upon you.""
+
+REFERENCE            farah_6
+LANG_ENGLISH         ""This is your end.""
+
+REFERENCE            farah_7
+LANG_ENGLISH         ""You're finished.""
+
+REFERENCE            farah_8
+LANG_ENGLISH         ""Your Fight is Over.""
+
+REFERENCE            farah_9
+LANG_ENGLISH         ""That was for Urzikstan.""
+
 REFERENCE            ghost_1
 LANG_ENGLISH         ""Tosser.""
 
@@ -283,6 +316,36 @@ LANG_ENGLISH         ""Hush now.""
 
 REFERENCE            golem_9
 LANG_ENGLISH         ""You gave it your best.""
+
+REFERENCE            griggs_1
+LANG_ENGLISH         "GRIGGS_1"
+
+REFERENCE            griggs_10
+LANG_ENGLISH         "GRIGGS_10"
+
+REFERENCE            griggs_2
+LANG_ENGLISH         "GRIGGS_2"
+
+REFERENCE            griggs_3
+LANG_ENGLISH         "GRIGGS_3"
+
+REFERENCE            griggs_4
+LANG_ENGLISH         "GRIGGS_4"
+
+REFERENCE            griggs_5
+LANG_ENGLISH         "GRIGGS_5"
+
+REFERENCE            griggs_6
+LANG_ENGLISH         "GRIGGS_6"
+
+REFERENCE            griggs_7
+LANG_ENGLISH         ""That's how it's done!""
+
+REFERENCE            griggs_8
+LANG_ENGLISH         "GRIGGS_8"
+
+REFERENCE            griggs_9
+LANG_ENGLISH         "GRIGGS_9"
 
 REFERENCE            grinch_1
 LANG_ENGLISH         ""Shh! Don't tell anyone.""
@@ -518,6 +581,36 @@ LANG_ENGLISH         ""This what you want?!""
 REFERENCE            minotavr_9
 LANG_ENGLISH         ""This is war!""
 
+REFERENCE            morte_1
+LANG_ENGLISH         "MORTE_1"
+
+REFERENCE            morte_10
+LANG_ENGLISH         "MORTE_10"
+
+REFERENCE            morte_2
+LANG_ENGLISH         ""Too slow on the draw.""
+
+REFERENCE            morte_3
+LANG_ENGLISH         "MORTE_3"
+
+REFERENCE            morte_4
+LANG_ENGLISH         "MORTE_4"
+
+REFERENCE            morte_5
+LANG_ENGLISH         "MORTE_5"
+
+REFERENCE            morte_6
+LANG_ENGLISH         "MORTE_6"
+
+REFERENCE            morte_7
+LANG_ENGLISH         "MORTE_7"
+
+REFERENCE            morte_8
+LANG_ENGLISH         "MORTE_8"
+
+REFERENCE            morte_9
+LANG_ENGLISH         "MORTE_9"
+
 REFERENCE            murphy_1
 LANG_ENGLISH         ""That should do.""
 
@@ -547,6 +640,36 @@ LANG_ENGLISH         ""Goodbye, good riddance.""
 
 REFERENCE            murphy_9
 LANG_ENGLISH         ""That's one way to do it.""
+
+REFERENCE            nikolai_1
+LANG_ENGLISH         ""Too Bad For You""
+
+REFERENCE            nikolai_10
+LANG_ENGLISH         ""This is not your day.""
+
+REFERENCE            nikolai_2
+LANG_ENGLISH         ""Pitiful Sight""
+
+REFERENCE            nikolai_3
+LANG_ENGLISH         ""Weakling""
+
+REFERENCE            nikolai_4
+LANG_ENGLISH         ""How sad for you.""
+
+REFERENCE            nikolai_5
+LANG_ENGLISH         ""That must've hurt.""
+
+REFERENCE            nikolai_6
+LANG_ENGLISH         ""Game over for you.""
+
+REFERENCE            nikolai_7
+LANG_ENGLISH         ""You deserved that.""
+
+REFERENCE            nikolai_8
+LANG_ENGLISH         ""Worthless""
+
+REFERENCE            nikolai_9
+LANG_ENGLISH         ""You Are Weak""
 
 REFERENCE            nikto_1
 LANG_ENGLISH         ""It's better this way...""
@@ -696,34 +819,94 @@ REFERENCE            ronin_9
 LANG_ENGLISH         ""Better luck next life.""
 
 REFERENCE            roze_1
-LANG_ENGLISH         "ROZE_1"
+LANG_ENGLISH         ""No sweat.""
 
 REFERENCE            roze_10
-LANG_ENGLISH         "ROZE_10"
+LANG_ENGLISH         ""Didn't see that comin', did ya?""
 
 REFERENCE            roze_2
-LANG_ENGLISH         "ROZE_2"
+LANG_ENGLISH         ""Whew... That one smelled like Greeley???""
 
 REFERENCE            roze_3
-LANG_ENGLISH         "ROZE_3"
+LANG_ENGLISH         ""Almost too easy???""
 
 REFERENCE            roze_4
 LANG_ENGLISH         ""Enjoy the dirt nap..""
 
 REFERENCE            roze_5
-LANG_ENGLISH         "ROZE_5"
+LANG_ENGLISH         ""Sit down, bitch.""
 
 REFERENCE            roze_6
-LANG_ENGLISH         "ROZE_6"
+LANG_ENGLISH         ""There's more where that came from.""
 
 REFERENCE            roze_7
 LANG_ENGLISH         ""It's open season on you fuckers.""
 
 REFERENCE            roze_8
-LANG_ENGLISH         "ROZE_8"
+LANG_ENGLISH         ""You're done.""
 
 REFERENCE            roze_9
-LANG_ENGLISH         "ROZE_9"
+LANG_ENGLISH         ""Hardly a challenge.""
+
+REFERENCE            soap_1
+LANG_ENGLISH         "SOAP_1"
+
+REFERENCE            soap_10
+LANG_ENGLISH         "SOAP_10"
+
+REFERENCE            soap_2
+LANG_ENGLISH         "SOAP_2"
+
+REFERENCE            soap_3
+LANG_ENGLISH         "SOAP_3"
+
+REFERENCE            soap_4
+LANG_ENGLISH         "SOAP_4"
+
+REFERENCE            soap_5
+LANG_ENGLISH         "SOAP_5"
+
+REFERENCE            soap_6
+LANG_ENGLISH         "SOAP_6"
+
+REFERENCE            soap_7
+LANG_ENGLISH         "SOAP_7"
+
+REFERENCE            soap_8
+LANG_ENGLISH         "SOAP_8"
+
+REFERENCE            soap_9
+LANG_ENGLISH         "SOAP_9"
+
+REFERENCE            sparks_1
+LANG_ENGLISH         "SPARKS_1"
+
+REFERENCE            sparks_10
+LANG_ENGLISH         "SPARKS_10"
+
+REFERENCE            sparks_2
+LANG_ENGLISH         "SPARKS_2"
+
+REFERENCE            sparks_3
+LANG_ENGLISH         "SPARKS_3"
+
+REFERENCE            sparks_4
+LANG_ENGLISH         "SPARKS_4"
+
+REFERENCE            sparks_5
+LANG_ENGLISH         "SPARKS_5"
+
+REFERENCE            sparks_6
+LANG_ENGLISH         "SPARKS_6"
+
+REFERENCE            sparks_7
+LANG_ENGLISH         "SPARKS_7"
+
+REFERENCE            sparks_8
+LANG_ENGLISH         "SPARKS_8"
+
+REFERENCE            sparks_9
+LANG_ENGLISH         "SPARKS_9"
 
 REFERENCE            syd_1
 LANG_ENGLISH         ""Hoo! Damn!""
@@ -816,7 +999,7 @@ REFERENCE            velikan_9
 LANG_ENGLISH         "VELIKAN_9"
 
 REFERENCE            woods_1
-LANG_ENGLISH         "WOODS_1"
+LANG_ENGLISH         ""Down you fucking go.""
 
 REFERENCE            woods_10
 LANG_ENGLISH         "WOODS_10"
@@ -945,7 +1128,7 @@ REFERENCE            zedra_2
 LANG_ENGLISH         ""More food for the worms...""
 
 REFERENCE            zedra_3
-LANG_ENGLISH         ""Much love.""
+LANG_ENGLISH         ""With all my love.""
 
 REFERENCE            zedra_4
 LANG_ENGLISH         ""Go fuck yourself.""

@@ -287,6 +287,9 @@ LANG_ENGLISH         "PROXIMITY HACK"
 REFERENCE            ready
 LANG_ENGLISH         "Ready"
 
+REFERENCE            rebirth_points
+LANG_ENGLISH         "-&&1"
+
 REFERENCE            remote_missile
 LANG_ENGLISH         "Remote Missile System"
 

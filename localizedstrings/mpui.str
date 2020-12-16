@@ -151,6 +151,9 @@ LANG_ENGLISH         "Prototype coop gameplay on Titan "
 REFERENCE            create_a_streak_caps
 LANG_ENGLISH         "CREATE A STREAK"
 
+REFERENCE            crosslaunchingtoblops5
+LANG_ENGLISH         "Please wait while we launch Call Of Duty Black Ops: Cold War"
+
 REFERENCE            current_objective
 LANG_ENGLISH         "Current Objective:"
 
@@ -316,6 +319,9 @@ LANG_ENGLISH         "FIRING RANGE"
 REFERENCE            first_to
 LANG_ENGLISH         "First to &&1"
 
+REFERENCE            follow_host
+LANG_ENGLISH         "Follow Host"
+
 REFERENCE            friends_vault
 LANG_ENGLISH         "Friend's Vault"
 
@@ -372,6 +378,9 @@ LANG_ENGLISH         "Score Streak"
 
 REFERENCE            honors_special
 LANG_ENGLISH         "Special"
+
+REFERENCE            host_cross_launch_bo5
+LANG_ENGLISH         "You are launching into Call Of Duty Black Ops: Cold War."
 
 REFERENCE            how_trial_works
 LANG_ENGLISH         "How does the Trial work?"
@@ -629,6 +638,9 @@ LANG_ENGLISH         "You were unable to join the private party leader's game se
 
 REFERENCE            party_member_lost_backout
 LANG_ENGLISH         "One of our party members lost their connection to the lobby host; we followed him back to the party screen."
+
+REFERENCE            partycrosslaunchblops5shouldfollow
+LANG_ENGLISH         "The party leader has launched into Call Of Duty Black Ops: Cold War. Do you want to follow?"
 
 REFERENCE            perk_unlocks_caps
 LANG_ENGLISH         "PERK UNLOCKS"
@@ -935,9 +947,16 @@ REFERENCE            tournament_unable_to_connect_to_lobby
 LANG_ENGLISH         "Unable to connect to game lobby.  Canceling tournament."
 
 REFERENCE            trial_airborne_desc_tavorsk
-LANG_ENGLISH         "M.O.U.T. exercise in Tavorsk District. Drop into the A.O. and clear out points full of targets. Flank and destroy defensive turrets.
+LANG_ENGLISH         "M.O.U.T. exercise in Tavorsk District. Drop into the A.O. and clear out points full of targets. Flank and destroy defensive turrets."
 
-3 attempts."
+REFERENCE            trial_airborne_insertion_desc
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties. Evade or destroy ^1Sentry Guns^7 deployed in the area.
+
+Loadout: ^3M4A1^7
+"
+
+REFERENCE            trial_airborne_insertion_name
+LANG_ENGLISH         "Airborne Insertion"
 
 REFERENCE            trial_airborne_name
 LANG_ENGLISH         "Airborne Insertion"
@@ -955,39 +974,32 @@ LANG_ENGLISH         "Enter practice mode without spending ticket?
 REFERENCE            trial_behind_enemy_line_desc_assault
 LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
 
-Loadout: ^3Assault weapons^7
-3 attempts"
+Loadout: ^3Assault weapons^7"
 
 REFERENCE            trial_behind_enemy_line_desc_cqb_nvg
 LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
 
-Loadout: ^3CQB weapons^7 + ^2Night-vision goggles^7
-3 attempts"
+Loadout: ^3CQB weapons^7 + ^2Night-vision goggles^7"
 
 REFERENCE            trial_behind_enemy_line_desc_demol
 LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
 
-Loadout: ^3Demolition Weapons^7
-3 attempts"
+Loadout: ^3Demolition Weapons^7"
 
 REFERENCE            trial_behind_enemy_line_desc_heavy
 LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.
 
-Loadout: ^3Heavy weapons^7
-3 attempts"
+Loadout: ^3Heavy weapons^7"
 
 REFERENCE            trial_behind_enemy_line_desc_m19_nvg
 LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.  You will have limited ammo in your initial weapon and will need to scavenge for ammo and weapons through the fight.
 
-Loadout: ^3M19 + Night-vision goggles^7
-3 attempts
-"
+Loadout: ^3M19 + Night-vision goggles^7"
 
 REFERENCE            trial_behind_enemy_line_desc_m19_nvg_fixed
 LANG_ENGLISH         "Live fire exercise: Find and eliminate all hostiles in the A.O. as quickly as possible.  You will have limited ammo in your initial weapon and will need to scavenge for ammo and weapons through the fight.
 
-Loadout: ^3M19^7 + ^2Night-vision goggles^7
-3 attempts"
+Loadout: ^3M19^7 + ^2Night-vision goggles^7"
 
 REFERENCE            trial_behind_enemy_line_name
 LANG_ENGLISH         "Behind Enemy Lines"
@@ -1004,32 +1016,33 @@ LANG_ENGLISH         "Trial cannot start"
 REFERENCE            trial_clay_target_desc_assorted
 LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
 
+Loadout: ^3Assorted weapons^7"
+
+REFERENCE            trial_clay_target_desc_assorted_turret
+LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition and avoiding enemy ^1sentry guns^7.
+
 Loadout: ^3Assorted weapons^7
-3 attempts"
+"
 
 REFERENCE            trial_clay_target_desc_osp
 LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
 
-Loadout: ^3On-site procurement^7
-3 attempts"
+Loadout: ^3On-site procurement^7"
 
 REFERENCE            trial_clay_target_desc_shotguns
 LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
 
-Loadout: ^3Shotguns^7
-3 attempts"
+Loadout: ^3Shotguns^7"
 
 REFERENCE            trial_clay_target_desc_weapon_pickup
 LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
 
-Loadout: ^3Pick up the weapons available on the course^7
-3 attempts"
+Loadout: ^3Pick up the weapons available on the course^7"
 
 REFERENCE            trial_clay_target_desc_weapon_rack
 LANG_ENGLISH         "Locate and shoot all targets in the area as quickly as possible while conserving ammunition.
 
-Loadout: ^3Choose your weapon out of the gun rack^7
-3 attempts"
+Loadout: ^3Choose your weapon out of the gun rack^7"
 
 REFERENCE            trial_clay_target_name
 LANG_ENGLISH         "Shooting Range"
@@ -1038,46 +1051,38 @@ REFERENCE            trial_enter
 LANG_ENGLISH         "Use Ticket"
 
 REFERENCE            trial_gun_course_desc
-LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
-
-3 attempts"
+LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties."
 
 REFERENCE            trial_gun_course_desc_assault
 LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
 
-Loadout: ^3Assault weapons^7
-3 attempts"
+Loadout: ^3Assault weapons^7"
 
 REFERENCE            trial_gun_course_desc_assorted
 LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
 
-Loadout: ^3Assorted weapons^7
-3 attempts"
+Loadout: ^3Assorted weapons^7"
 
 REFERENCE            trial_gun_course_desc_cqb_weapons
 LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
 
-Loadout: ^3CQB weapons^7
-3 attempts"
+Loadout: ^3CQB weapons^7"
 
 REFERENCE            trial_gun_course_desc_marksman
 LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
 
-Loadout: ^3Marksman weapons^7
-3 attempts"
+Loadout: ^3Marksman weapons^7"
 
 REFERENCE            trial_gun_course_desc_smoke
 LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
 
-Scenario: ^5Smoke deployment^7
-3 attempts"
+Scenario: ^5Smoke deployment^7"
 
 REFERENCE            trial_gun_course_desc_smoke_assorted
 LANG_ENGLISH         "Make your way through the course as fast as possible while clearing all enemy targets and avoiding civilian casualties.
 
 Loadout: ^3Assorted weapons^7
-Scenario: ^5Smoke deployment^7
-3 attempts"
+Scenario: ^5Smoke deployment^7"
 
 REFERENCE            trial_gun_course_name
 LANG_ENGLISH         "Gun Course"
@@ -1085,28 +1090,34 @@ LANG_ENGLISH         "Gun Course"
 REFERENCE            trial_gunslinger_desc_1911
 LANG_ENGLISH         "Sharpen your decision making skills while engaging waves of mixed enemies and civilian targets.
 
-Loadout: ^31911^7
-3 attempts"
+Loadout: ^31911^7"
+
+REFERENCE            trial_gunslinger_desc_combo_mike9
+LANG_ENGLISH         "Eliminate an endless series of enemy targets while avoiding civilian targets to maintain the combo for as long as possible.
+
+Loadout: ^3Renetti^7"
 
 REFERENCE            trial_gunslinger_desc_fal
 LANG_ENGLISH         "Sharpen your decision making skills while engaging waves of mixed enemies and civilian targets.
 
-Loadout: ^3FAL^7
-3 attempts"
+Loadout: ^3FAL^7"
 
 REFERENCE            trial_gunslinger_desc_mk2
 LANG_ENGLISH         "Sharpen your decision making skills while engaging waves of mixed enemies and civilian targets.
 
-Loadout: ^3MK2 Carbine^7
-3 attempts"
+Loadout: ^3MK2 Carbine^7"
+
+REFERENCE            trial_gunslinger_desc_sks
+LANG_ENGLISH         "Sharpen your decision making and memorization skills while engaging waves of mixed enemies and civilian targets. Target identity is concealed during the engagement window.
+
+Scenario: ^5Smoke deployment^7
+Loadout: ^3SKS^7"
 
 REFERENCE            trial_gunslinger_name
 LANG_ENGLISH         "Price's Alley"
 
 REFERENCE            trial_helirace_desc_simple
-LANG_ENGLISH         "Race through ring gates and finish the course as quickly as possible.
-
-3 attempts"
+LANG_ENGLISH         "Race through ring gates and finish the course as quickly as possible."
 
 REFERENCE            trial_helirace_name
 LANG_ENGLISH         "Helicopter Race"
@@ -1117,13 +1128,10 @@ LANG_ENGLISH         "Get at least ^5&&1 Star ^7to win the reward."
 REFERENCE            trial_juggernaut_desc
 LANG_ENGLISH         "Equip the Juggernaut suit and survive as long as possible against hordes of enemies and artillery.
 
-Loadout: ^3Juggernaut killstreak^7
-3 attempts"
+Loadout: ^3Juggernaut killstreak^7"
 
 REFERENCE            trial_juggernaut_desc_simple
-LANG_ENGLISH         "Equip the Juggernaut suit and survive as long as possible against hordes of enemies and artillery.
-
-3 attempts"
+LANG_ENGLISH         "Equip the Juggernaut suit and survive as long as possible against hordes of enemies and artillery."
 
 REFERENCE            trial_juggernaut_name
 LANG_ENGLISH         "Heavily armed"
@@ -1131,27 +1139,23 @@ LANG_ENGLISH         "Heavily armed"
 REFERENCE            trial_lava_desc_decho
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
 
-Loadout: ^3.50 GS^7
-3 attempts"
+Loadout: ^3.50 GS^7"
 
 REFERENCE            trial_lava_desc_decho_mines
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Destroy mines blocking your path and beware of the heavy toxic gas on low ground.
 
-Loadout: ^3.50 GS^7
-3 attempts"
+Loadout: ^3.50 GS^7"
 
 REFERENCE            trial_lava_desc_dogtags
 LANG_ENGLISH         "Collect all Dogtags to finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
 
 Loadout: ^3Combat Knife^7
-3 attempts
 "
 
 REFERENCE            trial_lava_desc_knife
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
 
-Loadout: ^3Combat Knife^7
-3 attempts"
+Loadout: ^3Combat Knife^7"
 
 REFERENCE            trial_lava_desc_nvg
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
@@ -1161,80 +1165,62 @@ Loadout: ^2Night-vision goggles^7"
 REFERENCE            trial_lava_desc_riot_shield
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
 
-Loadout: ^3Riot Shield^7
-3 attempts"
+Loadout: ^3Riot Shield^7"
 
 REFERENCE            trial_lava_desc_simple
-LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
-
-3 attempts"
+LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground."
 
 REFERENCE            trial_lava_desc_x16
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Beware of the heavy toxic gas on low ground.
 
-Loadout: ^3X16^7
-3 attempts"
+Loadout: ^3X16^7"
 
 REFERENCE            trial_lava_desc_x16_mines
 LANG_ENGLISH         "Move through each checkpoint and finish the course as quickly as possible. Destroy mines blocking your path and beware of the heavy toxic gas on low ground.
 
-Loadout: ^3X16^7
-3 attempts"
+Loadout: ^3X16^7"
 
 REFERENCE            trial_lava_name
 LANG_ENGLISH         "Risky Parkour"
 
 REFERENCE            trial_loadout_1911
-LANG_ENGLISH         "Loadout: ^31911^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^31911^7"
 
 REFERENCE            trial_loadout_assault
-LANG_ENGLISH         "Loadout: ^3Assault weapons^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Assault weapons^7"
 
 REFERENCE            trial_loadout_atv
-LANG_ENGLISH         "Loadout: ^3ATV^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3ATV^7"
 
 REFERENCE            trial_loadout_cqb
-LANG_ENGLISH         "Loadout: ^3CQB weapons^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3CQB weapons^7"
 
 REFERENCE            trial_loadout_cqb_pm
-LANG_ENGLISH         "Loadout: ^3CQB weapons^7 + ^2Night-vision goggles^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3CQB weapons^7 + ^2Night-vision goggles^7"
 
 REFERENCE            trial_loadout_frag
-LANG_ENGLISH         "Loadout: ^3Frag Grenade^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Frag Grenade^7"
 
 REFERENCE            trial_loadout_heavy
-LANG_ENGLISH         "Loadout: ^3Heavy weapons^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Heavy weapons^7"
 
 REFERENCE            trial_loadout_juggernaut
-LANG_ENGLISH         "Loadout: ^3Juggernaut killstreak^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Juggernaut killstreak^7"
 
 REFERENCE            trial_loadout_knife
-LANG_ENGLISH         "Loadout: ^3Combat Knife^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Combat Knife^7"
 
 REFERENCE            trial_loadout_m19_nvg
-LANG_ENGLISH         "Loadout: ^3M19 + Night-vision goggles^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3M19 + Night-vision goggles^7"
 
 REFERENCE            trial_loadout_marksman
-LANG_ENGLISH         "Loadout: ^3Marksman weapons^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Marksman weapons^7"
 
 REFERENCE            trial_loadout_mk2
-LANG_ENGLISH         "Loadout: ^3MK2 Carbine^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3MK2 Carbine^7"
 
 REFERENCE            trial_loadout_pickup
-LANG_ENGLISH         "Loadout: ^3Pick up the weapons available on the course ^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Pick up the weapons available on the course ^7"
 
 REFERENCE            trial_loadout_rack
 LANG_ENGLISH         "Loadout: ^3Choose your weapon out of the gun rack^7
@@ -1242,22 +1228,18 @@ LANG_ENGLISH         "Loadout: ^3Choose your weapon out of the gun rack^7
 "
 
 REFERENCE            trial_loadout_shield
-LANG_ENGLISH         "Loadout: ^3Riot Shield^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Riot Shield^7"
 
 REFERENCE            trial_loadout_snr_1
-LANG_ENGLISH         "Loadout: ^3AX-50^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3AX-50^7"
 
 REFERENCE            trial_loadout_snr_2
-LANG_ENGLISH         "Loadout: ^3Scoped .357^7
-3 attempts"
+LANG_ENGLISH         "Loadout: ^3Scoped .357^7"
 
 REFERENCE            trial_marksman_desc_ax50
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
 
-Loadout: ^3AX-50^7
-3 attempts"
+Loadout: ^3AX-50^7"
 
 REFERENCE            trial_marksman_desc_crossbow
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
@@ -1267,14 +1249,12 @@ Loadout: ^3Crossbow^7"
 REFERENCE            trial_marksman_desc_decho
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
 
-Loadout: ^3.50 GS^7
-3 attempts"
+Loadout: ^3.50 GS^7"
 
 REFERENCE            trial_marksman_desc_dragunov
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
 
-Loadout: ^3Dragunov^7
-3 attempts"
+Loadout: ^3Dragunov^7"
 
 REFERENCE            trial_marksman_desc_hdr
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
@@ -1284,8 +1264,7 @@ Loadout: ^3HDR^7"
 REFERENCE            trial_marksman_desc_scoped
 LANG_ENGLISH         "Engage waves of long distance targets and beat the clock. Missed shots burn time.
 
-Loadout: ^3Scoped .357^7
-3 attempts"
+Loadout: ^3Scoped .357^7"
 
 REFERENCE            trial_marksman_name
 LANG_ENGLISH         "Marksman Challenge"
@@ -1296,20 +1275,17 @@ LANG_ENGLISH         "Try Hard Olympics"
 REFERENCE            trial_pitcher_desc_frag
 LANG_ENGLISH         "Practice your throwing skills with lethal equipment and reach as many targets as possible before time runs out.
 
-Loadout: ^3Frag Grenade^7
-3 attempts"
+Loadout: ^3Frag Grenade^7"
 
 REFERENCE            trial_pitcher_desc_frag_round
 LANG_ENGLISH         "Practice your throwing skills with lethal equipment and hit as many indicated targets in each round before time runs out.
 
-Loadout: ^3Frag Grenade^7
-3 attempts"
+Loadout: ^3Frag Grenade^7"
 
 REFERENCE            trial_pitcher_desc_knife_round
 LANG_ENGLISH         "Practice your throwing skills with lethal equipment and hit as many indicated targets in each round before time runs out.
 
-Loadout: ^3Throwing Knife^7
-3 attempts"
+Loadout: ^3Throwing Knife^7"
 
 REFERENCE            trial_pitcher_name
 LANG_ENGLISH         "Fire in the Hole"
@@ -1317,18 +1293,13 @@ LANG_ENGLISH         "Fire in the Hole"
 REFERENCE            trial_quadrace_desc
 LANG_ENGLISH         "Finish the race as quickly as possible. Race through flare gates and finish the course as quickly as possible.
 
-Loadout: ^3ATV^7
-3 attempts"
+Loadout: ^3ATV^7"
 
 REFERENCE            trial_quadrace_desc_dogtags
-LANG_ENGLISH         "Race through flare gates and finish the course as quickly as possible. Each lap, a new set of dogtags will appear along the track. Collect them to improve your time.
-
-3 attempts"
+LANG_ENGLISH         "Race through flare gates and finish the course as quickly as possible. Each lap, a new set of dogtags will appear along the track. Collect them to improve your time."
 
 REFERENCE            trial_quadrace_desc_simple
-LANG_ENGLISH         "Race through flare gates and finish the course as quickly as possible.
-
-3 attempts"
+LANG_ENGLISH         "Race through flare gates and finish the course as quickly as possible."
 
 REFERENCE            trial_quadrace_name
 LANG_ENGLISH         "Quad Race"

@@ -1,0 +1,159 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            bonus_loot
+LANG_ENGLISH         "Bonus Loot"
+
+REFERENCE            collect_treat
+LANG_ENGLISH         "Collect Treat"
+
+REFERENCE            collecting_treat
+LANG_ENGLISH         "Collecting treat"
+
+REFERENCE            content
+LANG_ENGLISH         "Event Content"
+
+REFERENCE            content_desc_1
+LANG_ENGLISH         "Grab The Texas Chainsaw Massacre and Saw bundles before time runs out!"
+
+REFERENCE            content_desc_2
+LANG_ENGLISH         "Play Verdansk at night in the limited time Zombie Royale mode."
+
+REFERENCE            content_desc_3
+LANG_ENGLISH         "Don't forget to equip your free charm just for participating in the event!"
+
+REFERENCE            content_title_1
+LANG_ENGLISH         "Exclusive Store Bundles"
+
+REFERENCE            content_title_2
+LANG_ENGLISH         "Zombies Night Mode"
+
+REFERENCE            content_title_3
+LANG_ENGLISH         "Free Weapon Charm"
+
+REFERENCE            ends_in
+LANG_ENGLISH         "Event ends in:"
+
+REFERENCE            error_collecting_treat
+LANG_ENGLISH         "Error collecting treat."
+
+REFERENCE            event_end_time
+LANG_ENGLISH         "Event Ends: &&1"
+
+REFERENCE            find_in_loot_crates
+LANG_ENGLISH         "Find in loot crates around Verdansk"
+
+REFERENCE            find_x_rewards
+LANG_ENGLISH         "Find all ^:&&1 ^7rewards around Verdansk"
+
+REFERENCE            found
+LANG_ENGLISH         "Found"
+
+REFERENCE            halloween
+LANG_ENGLISH         "Halloween"
+
+REFERENCE            halloween_description
+LANG_ENGLISH         "Hunt down loot in select locations of Verdansk. Search through crates to find all of the special calling cards and unlock the exclusive Halloween blueprint. But, keep your wits about you! What you find may not always be a treat..."
+
+REFERENCE            halloween_event_map_header
+LANG_ENGLISH         "Trick or Treat Locations"
+
+REFERENCE            halloween_onboarding_desc_1
+LANG_ENGLISH         "Find crates throughout Verdansk that you can open."
+
+REFERENCE            halloween_onboarding_desc_2
+LANG_ENGLISH         "There's a chance you will find calling cards, charms, emblems and more treats within the crates."
+
+REFERENCE            halloween_onboarding_desc_3
+LANG_ENGLISH         "Find all of the event loot to earn an Exclusive Halloween Blueprint!"
+
+REFERENCE            halloween_onboarding_header_1
+LANG_ENGLISH         "Search Crates"
+
+REFERENCE            halloween_onboarding_header_2
+LANG_ENGLISH         "Find a Treat"
+
+REFERENCE            halloween_onboarding_header_3
+LANG_ENGLISH         "Bonus Reward"
+
+REFERENCE            happy_halloween
+LANG_ENGLISH         "Happy Halloween"
+
+REFERENCE            how_does_it_work
+LANG_ENGLISH         "[{ui_alt2}] How does it work?"
+
+REFERENCE            map_area_01
+LANG_ENGLISH         "Military Base"
+
+REFERENCE            map_area_02
+LANG_ENGLISH         "Boneyard"
+
+REFERENCE            map_area_03
+LANG_ENGLISH         "Dam"
+
+REFERENCE            map_area_04
+LANG_ENGLISH         "Downtown"
+
+REFERENCE            map_area_05
+LANG_ENGLISH         "Storage Town"
+
+REFERENCE            map_area_06
+LANG_ENGLISH         "Hospital"
+
+REFERENCE            map_area_07
+LANG_ENGLISH         "Airport"
+
+REFERENCE            map_area_08
+LANG_ENGLISH         "Quarry"
+
+REFERENCE            map_area_09
+LANG_ENGLISH         "Port"
+
+REFERENCE            map_area_10
+LANG_ENGLISH         "Stadium"
+
+REFERENCE            map_area_11
+LANG_ENGLISH         "Gulag"
+
+REFERENCE            map_area_12
+LANG_ENGLISH         "Lumberyard"
+
+REFERENCE            map_area_13
+LANG_ENGLISH         "TV Station"
+
+REFERENCE            map_area_14
+LANG_ENGLISH         "Superstore"
+
+REFERENCE            map_area_15
+LANG_ENGLISH         "Hills"
+
+REFERENCE            map_area_16
+LANG_ENGLISH         "Train (location varies)"
+
+REFERENCE            preview
+LANG_ENGLISH         "[{ui_r3}] Preview"
+
+REFERENCE            splash_event_complete
+LANG_ENGLISH         "Halloween Event Complete"
+
+REFERENCE            splash_lootfound_header
+LANG_ENGLISH         "&&1 Loot Found"
+
+REFERENCE            splash_lootfound_subheader
+LANG_ENGLISH         "&&1 unlocked"
+
+REFERENCE            starting_treat
+LANG_ENGLISH         "Here is a treat to start you off!"
+
+REFERENCE            trick_or_treat
+LANG_ENGLISH         "Trick or Treat"
+
+REFERENCE            view_bundles
+LANG_ENGLISH         "[{ui_alt1}] View"
+
+REFERENCE            x_event
+LANG_ENGLISH         "&&1 Event"
+
+
+ENDMARKER

@@ -1,0 +1,2300 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            accept_mission_assassination
+LANG_ENGLISH         "Accept Assassin Contract"
+
+REFERENCE            accept_mission_domination
+LANG_ENGLISH         "Accept Domination Contract"
+
+REFERENCE            accept_mission_scavenger
+LANG_ENGLISH         "Accept Scavenger Contract"
+
+REFERENCE            access_card_blue
+LANG_ENGLISH         "Blue Access Card"
+
+REFERENCE            access_card_blue_stadium_concourse
+LANG_ENGLISH         "CL - 19"
+
+REFERENCE            access_card_blue_stadium_executive
+LANG_ENGLISH         "EL - 21"
+
+REFERENCE            access_card_blue_stadium_parking
+LANG_ENGLISH         "P2 - 16"
+
+REFERENCE            access_card_desc
+LANG_ENGLISH         "Use Unknown"
+
+REFERENCE            access_card_green
+LANG_ENGLISH         "Green Access Card"
+
+REFERENCE            access_card_red
+LANG_ENGLISH         "Red Access Card"
+
+REFERENCE            acknowledge_ping
+LANG_ENGLISH         "Confirm"
+
+REFERENCE            active_mission
+LANG_ENGLISH         "Active Contract"
+
+REFERENCE            all
+LANG_ENGLISH         "All"
+
+REFERENCE            already_have_plate_pouch_item
+LANG_ENGLISH         "You already have an Armor Satchel"
+
+REFERENCE            already_have_respawn_token
+LANG_ENGLISH         "You already have a redeploy token."
+
+REFERENCE            already_have_self_revive_item
+LANG_ENGLISH         "You already have a Self-Revive kit."
+
+REFERENCE            already_have_specialist_bonus_item
+LANG_ENGLISH         "You already have the Specialist Bonus"
+
+REFERENCE            ammo_slot_full
+LANG_ENGLISH         "Ammo Slot Full"
+
+REFERENCE            ammo_type_full
+LANG_ENGLISH         "Ammo Type Full"
+
+REFERENCE            armor_insert_in_progress
+LANG_ENGLISH         "Armor insert in progress."
+
+REFERENCE            armor_plates_full
+LANG_ENGLISH         "Armor Plates Full"
+
+REFERENCE            armor_satchel
+LANG_ENGLISH         "Armor Satchel"
+
+REFERENCE            armory_kiosk
+LANG_ENGLISH         "Buy Station"
+
+REFERENCE            assassin_contract
+LANG_ENGLISH         "Bounty"
+
+REFERENCE            assassin_contract_desc
+LANG_ENGLISH         "Eliminate Bounty Target"
+
+REFERENCE            assassin_mission
+LANG_ENGLISH         "Bounty Contract"
+
+REFERENCE            attract_gulag_area
+LANG_ENGLISH         "Enter the Gulag"
+
+REFERENCE            attract_gulag_name
+LANG_ENGLISH         "Gulag"
+
+REFERENCE            attract_gulag_prompt
+LANG_ENGLISH         "Go to Gulag"
+
+REFERENCE            attract_koth_best
+LANG_ENGLISH         "Best time:"
+
+REFERENCE            attract_koth_best_player
+LANG_ENGLISH         "Best time: &&1"
+
+REFERENCE            attract_koth_capture
+LANG_ENGLISH         "Capture and Defend the Area"
+
+REFERENCE            attract_koth_name
+LANG_ENGLISH         "King Of The Hill"
+
+REFERENCE            attract_rt_countdown
+LANG_ENGLISH         "^3Wait^0"
+
+REFERENCE            attract_rt_current_record
+LANG_ENGLISH         "Record: &&1"
+
+REFERENCE            attract_rt_current_record_holder
+LANG_ENGLISH         "Set By: &&1"
+
+REFERENCE            attract_rt_find_vehicle
+LANG_ENGLISH         "Enter A Vehicle"
+
+REFERENCE            attract_rt_finish_new_record
+LANG_ENGLISH         "^3Record Set!^0"
+
+REFERENCE            attract_rt_finish_new_record_split
+LANG_ENGLISH         "^3NEW RECORD!^2 -&&1^0"
+
+REFERENCE            attract_rt_finish_split
+LANG_ENGLISH         "FINISH! ^1+&&1^0"
+
+REFERENCE            attract_rt_get_to_start
+LANG_ENGLISH         "Get To The Start"
+
+REFERENCE            attract_rt_go
+LANG_ENGLISH         "^2GO!^0"
+
+REFERENCE            attract_rt_heli_name
+LANG_ENGLISH         "Helicopter Race"
+
+REFERENCE            attract_rt_lap_of_3
+LANG_ENGLISH         "Lap: &&1/3"
+
+REFERENCE            attract_rt_name
+LANG_ENGLISH         "Race Track"
+
+REFERENCE            attract_rt_oob
+LANG_ENGLISH         "^1Out of Bounds: &&1^0"
+
+REFERENCE            attract_rt_oov
+LANG_ENGLISH         "^1Out of Vehicle: &&1^0"
+
+REFERENCE            attract_rt_parachute_name
+LANG_ENGLISH         "Parachute Race"
+
+REFERENCE            attract_rt_record_beat
+LANG_ENGLISH         "^3&&1^7 Beat Your Race Time!"
+
+REFERENCE            attract_rt_split_neg
+LANG_ENGLISH         "^2-&&1^0"
+
+REFERENCE            attract_rt_split_pos
+LANG_ENGLISH         "^1+&&1^0"
+
+REFERENCE            attract_rt_stop
+LANG_ENGLISH         "^1Stop^0"
+
+REFERENCE            attract_rt_too_close
+LANG_ENGLISH         "Too Close, Backup!"
+
+REFERENCE            attract_sr_distance
+LANG_ENGLISH         "&&1m"
+
+REFERENCE            attract_sr_name
+LANG_ENGLISH         "Shooting Range"
+
+REFERENCE            attractions
+LANG_ENGLISH         "Attractions"
+
+REFERENCE            available
+LANG_ENGLISH         "Available"
+
+REFERENCE            bank_alarm_active
+LANG_ENGLISH         "Bank Alarm"
+
+REFERENCE            bank_remaining_1
+LANG_ENGLISH         "1 REMAINING"
+
+REFERENCE            bank_remaining_2
+LANG_ENGLISH         "2 REMAINING"
+
+REFERENCE            bank_remaining_3
+LANG_ENGLISH         "3 REMAINING"
+
+REFERENCE            being_revived
+LANG_ENGLISH         "Being Revived"
+
+REFERENCE            best_plunderers
+LANG_ENGLISH         "Best Cash Earners"
+
+REFERENCE            best_time_by_x
+LANG_ENGLISH         "^/Best Time By: ^7&&1"
+
+REFERENCE            blueprint
+LANG_ENGLISH         "Blueprint"
+
+REFERENCE            bm_defeat
+LANG_ENGLISH         "Mission Completed"
+
+REFERENCE            bm_defeat_left
+LANG_ENGLISH         "Mission"
+
+REFERENCE            bm_defeat_right
+LANG_ENGLISH         "Complete"
+
+REFERENCE            bm_success
+LANG_ENGLISH         "Mission Complete!"
+
+REFERENCE            bm_victory
+LANG_ENGLISH         "&&1 Place"
+
+REFERENCE            bm_victory_left
+LANG_ENGLISH         "Mission"
+
+REFERENCE            bm_victory_right
+LANG_ENGLISH         "Place"
+
+REFERENCE            bmo_bonus_round
+LANG_ENGLISH         "Bonus Round!"
+
+REFERENCE            bmo_exfil_arrive
+LANG_ENGLISH         "Exfil is here, time to get out!"
+
+REFERENCE            bmo_exfil_start
+LANG_ENGLISH         "Someone armed a nuke! Get to a helo to get the hell outta here before it blows!"
+
+REFERENCE            bmo_overtime
+LANG_ENGLISH         "Last Chance"
+
+REFERENCE            bonus_cash
+LANG_ENGLISH         "Overtime Cash"
+
+REFERENCE            br_default_class_1
+LANG_ENGLISH         "Equipment Expert"
+
+REFERENCE            br_default_class_2
+LANG_ENGLISH         "Anti-Vehicle"
+
+REFERENCE            br_default_class_3
+LANG_ENGLISH         "Lockdown"
+
+REFERENCE            br_default_class_4
+LANG_ENGLISH         "Run and Gun"
+
+REFERENCE            br_default_class_5
+LANG_ENGLISH         "One Shot"
+
+REFERENCE            br_defeat
+LANG_ENGLISH         "Mission Completed"
+
+REFERENCE            br_defeat_left
+LANG_ENGLISH         "Mission"
+
+REFERENCE            br_defeat_right
+LANG_ENGLISH         "Completed"
+
+REFERENCE            br_plunder_cash_hud_in_millions
+LANG_ENGLISH         "$&&1MM"
+
+REFERENCE            br_success
+LANG_ENGLISH         "Warzone Victory!"
+
+REFERENCE            br_victory
+LANG_ENGLISH         "Warzone Victory!"
+
+REFERENCE            br_victory_left
+LANG_ENGLISH         "Warzone"
+
+REFERENCE            br_victory_right
+LANG_ENGLISH         "Victory!"
+
+REFERENCE            calling_for_help
+LANG_ENGLISH         "Calling For Help"
+
+REFERENCE            cancel_ping
+LANG_ENGLISH         "Remove"
+
+REFERENCE            cash_drop
+LANG_ENGLISH         "Cash Drop"
+
+REFERENCE            cash_in_redeploy_token_for_x
+LANG_ENGLISH         "Cash in Redeploy Token for ^-&&1^7?"
+
+REFERENCE            cash_lost
+LANG_ENGLISH         "Cash Lost"
+
+REFERENCE            circle_peek
+LANG_ENGLISH         "Circle Peek"
+
+REFERENCE            circle_peek_limit
+LANG_ENGLISH         "Circle Preview Unavailable"
+
+REFERENCE            circle_timer
+LANG_ENGLISH         "Circle Timer"
+
+REFERENCE            climbing_in_progress
+LANG_ENGLISH         "Climbing In Progress"
+
+REFERENCE            close_menu
+LANG_ENGLISH         "[{ui_secondary}] or [{ui_select}] Close"
+
+REFERENCE            close_menu_bumper_ping
+LANG_ENGLISH         "[{ui_select}] Close"
+
+REFERENCE            closed
+LANG_ENGLISH         "Closed"
+
+REFERENCE            collect_intel
+LANG_ENGLISH         "Collect Intel"
+
+REFERENCE            collect_plunder_desc
+LANG_ENGLISH         "Collect cash by looting and eliminating players"
+
+REFERENCE            collection_mission
+LANG_ENGLISH         "Collection Contract"
+
+REFERENCE            combat_area
+LANG_ENGLISH         "Combat Area"
+
+REFERENCE            confirm_fire_sale_purchase
+LANG_ENGLISH         "Do you want to redeem ^-&&1^7 as your one ^.discounted^7 item?"
+
+REFERENCE            contact_only_item
+LANG_ENGLISH         "This is a contract only item."
+
+REFERENCE            contract
+LANG_ENGLISH         "Contract"
+
+REFERENCE            contract_accept
+LANG_ENGLISH         "Payout Tier Increased"
+
+REFERENCE            contract_expired
+LANG_ENGLISH         "Contract Timer Expired"
+
+REFERENCE            contract_lootcard_bonus_percent
+LANG_ENGLISH         "BONUS: +&&1%"
+
+REFERENCE            contract_lootcard_per_player
+LANG_ENGLISH         "/player"
+
+REFERENCE            contract_type_combat
+LANG_ENGLISH         "Combat"
+
+REFERENCE            contract_type_location
+LANG_ENGLISH         "Location"
+
+REFERENCE            contract_type_looting
+LANG_ENGLISH         "Looting"
+
+REFERENCE            defeat_splash_desc
+LANG_ENGLISH         "Squad Wiped. Spectating will begin"
+
+REFERENCE            defeat_splash_title
+LANG_ENGLISH         "Squad Eliminated"
+
+REFERENCE            delete_marker
+LANG_ENGLISH         "Delete Pings"
+
+REFERENCE            deployment_timer
+LANG_ENGLISH         "Deployment Timer"
+
+REFERENCE            detach_warning_desc
+LANG_ENGLISH         "If you detach from the Jump Master, you will not drop in proximity to your loadout bag. Are you sure you want to detach?"
+
+REFERENCE            detach_warning_title
+LANG_ENGLISH         "Detach From Jump Master"
+
+REFERENCE            dmz_10minwarning
+LANG_ENGLISH         "10 MIN WARNING! NUCLEAR SIGNATURE DETECTED"
+
+REFERENCE            dmz_5minwarning
+LANG_ENGLISH         "5 MIN WARNING! NUCLEAR WARHEAD INBOUND"
+
+REFERENCE            dmz_tut_cash_grab
+LANG_ENGLISH         "Cash grab complete!"
+
+REFERENCE            dmz_tut_deposit
+LANG_ENGLISH         "Cash depositing complete!"
+
+REFERENCE            dmz_tut_transfer
+LANG_ENGLISH         "Cash transfer complete!"
+
+REFERENCE            dmz_tut_welcome
+LANG_ENGLISH         "Welcome to Call of Duty: Plunder!"
+
+REFERENCE            do_you_want_to_purchase_n_for_n
+LANG_ENGLISH         "Do you want to purchase ^-&&1^7 for ^.$&&2^7?"
+
+REFERENCE            do_you_want_to_purchase_n_for_n_alt
+LANG_ENGLISH         "Do you want to purchase ^-&&1^7 for ^.&&2^7?"
+
+REFERENCE            do_you_want_to_revive_n_for_n
+LANG_ENGLISH         "Do you want to redeploy ^-&&1^7 for ^.$&&2^7?"
+
+REFERENCE            do_you_want_to_revive_n_for_n_alt
+LANG_ENGLISH         "Do you want to redeploy ^-&&1^7 for ^.&&2^7?"
+
+REFERENCE            dollar_val
+LANG_ENGLISH         "$&&1"
+
+REFERENCE            dollar_val_1x
+LANG_ENGLISH         "$&&1 x 1"
+
+REFERENCE            dollar_val_2x
+LANG_ENGLISH         "$&&1 x 2"
+
+REFERENCE            dollar_val_3x
+LANG_ENGLISH         "$&&1 x 3"
+
+REFERENCE            dollar_val_4x
+LANG_ENGLISH         "$&&1 x 4"
+
+REFERENCE            dom_capture
+LANG_ENGLISH         "SECURE"
+
+REFERENCE            dom_mission
+LANG_ENGLISH         "Dom Contract"
+
+REFERENCE            domination_contract
+LANG_ENGLISH         "Recon"
+
+REFERENCE            domination_contract_desc
+LANG_ENGLISH         "Secure Location"
+
+REFERENCE            domination_mission
+LANG_ENGLISH         "Recon Contract"
+
+REFERENCE            drop_bag
+LANG_ENGLISH         "Drop Bag"
+
+REFERENCE            dropbag
+LANG_ENGLISH         "Loadout Drop"
+
+REFERENCE            earn_plunder_desc
+LANG_ENGLISH         "Accept and complete contracts to earn rewards for your squad"
+
+REFERENCE            earn_tier_rewards
+LANG_ENGLISH         "Next Payout is Tier &&1"
+
+REFERENCE            eliminated_splash_desc
+LANG_ENGLISH         "Your squad can buy you back"
+
+REFERENCE            eliminated_splash_title
+LANG_ENGLISH         "Spectating"
+
+REFERENCE            enemy_squad
+LANG_ENGLISH         "Enemy Squad"
+
+REFERENCE            entering_warzone
+LANG_ENGLISH         "Entering the Warzone"
+
+REFERENCE            error
+LANG_ENGLISH         "Error"
+
+REFERENCE            evac_arrive
+LANG_ENGLISH         "Helicopter Arriving in:"
+
+REFERENCE            evac_mission_desc
+LANG_ENGLISH         "First to get on the helicopter wins!"
+
+REFERENCE            evac_mission_title
+LANG_ENGLISH         "Helicopter Evacuation"
+
+REFERENCE            evac_start
+LANG_ENGLISH         "Helicopter Will Arrive After Circle &&1"
+
+REFERENCE            evac_wait
+LANG_ENGLISH         "Get on the Helicopter!"
+
+REFERENCE            extract
+LANG_ENGLISH         "Hold to Extract"
+
+REFERENCE            extract_collect_plunder
+LANG_ENGLISH         "Collect Cash"
+
+REFERENCE            extract_contract
+LANG_ENGLISH         "Contraband"
+
+REFERENCE            extract_contract_desc
+LANG_ENGLISH         "Deliver to Extraction"
+
+REFERENCE            extract_cost
+LANG_ENGLISH         "/ $&&1"
+
+REFERENCE            extract_cost_million
+LANG_ENGLISH         "/ $1 Million"
+
+REFERENCE            extract_cost_text
+LANG_ENGLISH         "/ Extraction Cost"
+
+REFERENCE            extract_helipad
+LANG_ENGLISH         "Call in a Helicopter and Deposit your cash!"
+
+REFERENCE            extract_helipads_active
+LANG_ENGLISH         "Cash Deposit Helipads Active In:"
+
+REFERENCE            extract_inactive
+LANG_ENGLISH         "Inactive"
+
+REFERENCE            extract_max
+LANG_ENGLISH         "/ &&1"
+
+REFERENCE            extract_mission_1_desc
+LANG_ENGLISH         "Collect cash, call in a helicopter, extract off the island."
+
+REFERENCE            extract_mission_1_title
+LANG_ENGLISH         "Helicopter Extraction"
+
+REFERENCE            extract_mission_heli_call
+LANG_ENGLISH         "Call in Contraband Deposit Heli"
+
+REFERENCE            extract_mission_heli_deposit
+LANG_ENGLISH         "Deposit Contraband"
+
+REFERENCE            extract_mission_target
+LANG_ENGLISH         "Extraction XP Bonus: &&1"
+
+REFERENCE            extract_num
+LANG_ENGLISH         "Teams Extracted: &&1"
+
+REFERENCE            extract_plunder
+LANG_ENGLISH         "$&&1"
+
+REFERENCE            extract_plunder_desc
+LANG_ENGLISH         "Spend cash at buy stations"
+
+REFERENCE            extract_plunder_text
+LANG_ENGLISH         "Team Cash"
+
+REFERENCE            finish_them
+LANG_ENGLISH         "FINISH THEM!"
+
+REFERENCE            fire_sale
+LANG_ENGLISH         "1 Discount Item"
+
+REFERENCE            firesale
+LANG_ENGLISH         "FIRE SALE"
+
+REFERENCE            full
+LANG_ENGLISH         "Full"
+
+REFERENCE            fulton_full
+LANG_ENGLISH         "Full"
+
+REFERENCE            fulton_percentage
+LANG_ENGLISH         "&&1%"
+
+REFERENCE            funds
+LANG_ENGLISH         "Funds:"
+
+REFERENCE            gas_can_drop
+LANG_ENGLISH         "Drop"
+
+REFERENCE            gas_can_start_fuse
+LANG_ENGLISH         "Start a Fuse"
+
+REFERENCE            gas_can_throw
+LANG_ENGLISH         "Throw"
+
+REFERENCE            geigerstash_contract
+LANG_ENGLISH         "Detection"
+
+REFERENCE            geigerstash_contract_desc
+LANG_ENGLISH         "Locate the radioactive drop."
+
+REFERENCE            gulag
+LANG_ENGLISH         "Gulag"
+
+REFERENCE            gulag_chance_final
+LANG_ENGLISH         "Prison Fight"
+
+REFERENCE            gulag_closed
+LANG_ENGLISH         "CLOSED"
+
+REFERENCE            gulag_closed_banner
+LANG_ENGLISH         "GULAG CLOSED"
+
+REFERENCE            gulag_closed_desc
+LANG_ENGLISH         "Take No Prisoners"
+
+REFERENCE            gulag_closing
+LANG_ENGLISH         "CLOSING"
+
+REFERENCE            gulag_no_player
+LANG_ENGLISH         "Waiting for Opponent"
+
+REFERENCE            gulag_no_player_redeploy
+LANG_ENGLISH         "Redeploying to Warzone"
+
+REFERENCE            gulag_objective
+LANG_ENGLISH         "Eliminate opponent to redeploy"
+
+REFERENCE            gulag_player_found
+LANG_ENGLISH         "Opponent Found. Starting Match"
+
+REFERENCE            gulag_prematch_no_opponent
+LANG_ENGLISH         "Waiting for opponent in Gulag"
+
+REFERENCE            gulag_prematch_spectating
+LANG_ENGLISH         "Spectating match"
+
+REFERENCE            gulag_prepare_to_fight
+LANG_ENGLISH         "Prepare to Fight"
+
+REFERENCE            gulag_splash_desc
+LANG_ENGLISH         "You are being transported to The Gulag"
+
+REFERENCE            gulag_splash_title
+LANG_ENGLISH         "Captured"
+
+REFERENCE            gulag_title_pow
+LANG_ENGLISH         "Prisoner of Warzone"
+
+REFERENCE            gulag_victory_splash_desc
+LANG_ENGLISH         "No More Second Chances"
+
+REFERENCE            gulag_victory_splash_title
+LANG_ENGLISH         "RELEASED"
+
+REFERENCE            gulag_waiting_info_message
+LANG_ENGLISH         "If timer expires, you will be redeployed.
+"
+
+REFERENCE            history_contract
+LANG_ENGLISH         "HISTORY"
+
+REFERENCE            hold_to_accept
+LANG_ENGLISH         "Hold to Accept"
+
+REFERENCE            hold_to_take
+LANG_ENGLISH         "Hold to Take"
+
+REFERENCE            hunted
+LANG_ENGLISH         "HUNTED!"
+
+REFERENCE            hunter_threat
+LANG_ENGLISH         "Threat"
+
+REFERENCE            infil_altitute_measurement_feet
+LANG_ENGLISH         "&&1 ft."
+
+REFERENCE            infil_altitute_measurement_meters
+LANG_ENGLISH         "&&1 m"
+
+REFERENCE            infil_controls_in_plane_jump_solo
+LANG_ENGLISH         "[{+usereload;+activate}] Jump Solo"
+
+REFERENCE            infil_controls_jm_in_plane_jump
+LANG_ENGLISH         "[{+gostand}] Jump"
+
+REFERENCE            infil_controls_ping
+LANG_ENGLISH         "[{+actionslot 1,+ping}] Ping"
+
+REFERENCE            infil_controls_skydive_attached_deploy_chute
+LANG_ENGLISH         "[{+gostand}] Detach and deploy chute"
+
+REFERENCE            infil_controls_skydive_detach
+LANG_ENGLISH         "[{+usereload;+activate}] Detach"
+
+REFERENCE            infil_controls_skydive_detatched_deploy_chute
+LANG_ENGLISH         "[{+gostand}] Deploy chute"
+
+REFERENCE            infil_deploy
+LANG_ENGLISH         "DEPLOY: &&1ft."
+
+REFERENCE            infil_deploy_message
+LANG_ENGLISH         "Eliminate Enemy Players"
+
+REFERENCE            infil_display_deploy_message
+LANG_ENGLISH         "Prepare for Deployment..."
+
+REFERENCE            infil_exit_point
+LANG_ENGLISH         "EXIT: &&1ft."
+
+REFERENCE            infil_ground
+LANG_ENGLISH         "GROUND"
+
+REFERENCE            infil_invalid_map_selection
+LANG_ENGLISH         "Invalid map selection!"
+
+REFERENCE            infil_player_deploy_solo
+LANG_ENGLISH         "You are deploying solo."
+
+REFERENCE            infil_sea_level
+LANG_ENGLISH         "SEA LEVEL:&&1ft."
+
+REFERENCE            infil_solo_join_solo
+LANG_ENGLISH         "You are joining a solo selection."
+
+REFERENCE            infil_solo_join_squad
+LANG_ENGLISH         "You are joining the squad selection."
+
+REFERENCE            infil_solo_selection
+LANG_ENGLISH         "Solo spawn selected."
+
+REFERENCE            infil_speed
+LANG_ENGLISH         "SPEED"
+
+REFERENCE            infil_speed_measurement_mph
+LANG_ENGLISH         "&&1 mph"
+
+REFERENCE            infil_squad_controls_cannot_pass_leader
+LANG_ENGLISH         "Leadership Locked, Cannot Pass"
+
+REFERENCE            infil_squad_controls_jump
+LANG_ENGLISH         "[{+gostand}] Jump"
+
+REFERENCE            infil_squad_controls_open_tac_map
+LANG_ENGLISH         "[{ui_select;togglemap}] Open Tac Map"
+
+REFERENCE            infil_squad_controls_pass_leader
+LANG_ENGLISH         "[{+usereload;+activate}] Pass Leadership"
+
+REFERENCE            infil_squad_join_solo
+LANG_ENGLISH         "Squad joining solo selection."
+
+REFERENCE            infil_squad_selection
+LANG_ENGLISH         "Squad's spawn selected."
+
+REFERENCE            infil_staging_area_message
+LANG_ENGLISH         "Staging Area"
+
+REFERENCE            inflation_cash_deployment_gained
+LANG_ENGLISH         "Cash Deployment Secured"
+
+REFERENCE            inflation_cash_deployment_lost
+LANG_ENGLISH         "Cash Deployment Lost"
+
+REFERENCE            inflation_cash_deployments_closed
+LANG_ENGLISH         "Cash Deployments Closed"
+
+REFERENCE            inflation_redeployment
+LANG_ENGLISH         "Redeployment"
+
+REFERENCE            inflation_self_redeploy
+LANG_ENGLISH         "Self Redeploy"
+
+REFERENCE            inflation_self_redeploy_desc
+LANG_ENGLISH         "Have at least &&1 in your inventory to redeploy yourself when you die."
+
+REFERENCE            initial_spawn
+LANG_ENGLISH         "Gearing Up"
+
+REFERENCE            inventory_weapon_btn_slot_title
+LANG_ENGLISH         "Equipped : &&1"
+
+REFERENCE            item_type_cache
+LANG_ENGLISH         "Crate"
+
+REFERENCE            item_type_default
+LANG_ENGLISH         "Item"
+
+REFERENCE            item_type_gear
+LANG_ENGLISH         "Circle Defense"
+
+REFERENCE            item_type_health
+LANG_ENGLISH         "Combat Defense"
+
+REFERENCE            item_type_health_satchel
+LANG_ENGLISH         "Combat Defense Supply Upgrade"
+
+REFERENCE            item_type_killstreak
+LANG_ENGLISH         "Killstreak"
+
+REFERENCE            item_type_kiosk
+LANG_ENGLISH         "Store"
+
+REFERENCE            item_type_last_stand
+LANG_ENGLISH         "Last Stand"
+
+REFERENCE            item_type_specialist
+LANG_ENGLISH         "Gives all Perks"
+
+REFERENCE            item_type_super
+LANG_ENGLISH         "Field Upgrade"
+
+REFERENCE            item_type_vehicle
+LANG_ENGLISH         "Vehicle"
+
+REFERENCE            jailbreak_imminent
+LANG_ENGLISH         "Jailbreak Imminent"
+
+REFERENCE            jailbreak_imminent_desc
+LANG_ENGLISH         "All Operators Will Redeploy"
+
+REFERENCE            jugg
+LANG_ENGLISH         "Juggernaut"
+
+REFERENCE            jugg_drop
+LANG_ENGLISH         "Juggernaut Armor Drop"
+
+REFERENCE            jump_tac_map_prompt
+LANG_ENGLISH         "Jump To Lock In Landing Zone"
+
+REFERENCE            keypad_control_exit
+LANG_ENGLISH         "[{ui_secondary}] Exit"
+
+REFERENCE            keypad_control_navigate
+LANG_ENGLISH         "[{ui_left_stick}] Navigate"
+
+REFERENCE            keypad_control_select
+LANG_ENGLISH         "[{ui_primary}] Select"
+
+REFERENCE            kingslayer_drop
+LANG_ENGLISH         "Killstreak Drop"
+
+REFERENCE            kiosk_discount_label
+LANG_ENGLISH         "SALE
+&&1% OFF "
+
+REFERENCE            kiosk_equipment_grid_label
+LANG_ENGLISH         "EQUIPMENT"
+
+REFERENCE            kiosk_free_label
+LANG_ENGLISH         "FREE"
+
+REFERENCE            kiosk_item_ammo_refill
+LANG_ENGLISH         "Ammo Refill"
+
+REFERENCE            kiosk_item_ammo_refill_desc
+LANG_ENGLISH         "Replenish ammo of your guns & equipments."
+
+REFERENCE            kiosk_item_armor_place_bundle
+LANG_ENGLISH         "Armor Plate Bundle"
+
+REFERENCE            kiosk_item_armor_plate_bundle_desc
+LANG_ENGLISH         "Five armor plates used for replacing broken armor."
+
+REFERENCE            kiosk_item_armor_refill
+LANG_ENGLISH         "Armor Box"
+
+REFERENCE            kiosk_item_armor_refill_desc
+LANG_ENGLISH         "Deploy a box of armor plates for you and your teammates."
+
+REFERENCE            kiosk_item_armored_truck
+LANG_ENGLISH         "ARMORED TRUCK"
+
+REFERENCE            kiosk_item_armored_truck_upgrade
+LANG_ENGLISH         "ARMORED TRUCK UPGRADE"
+
+REFERENCE            kiosk_item_circle
+LANG_ENGLISH         "Call in the Gas"
+
+REFERENCE            kiosk_item_circle_desc
+LANG_ENGLISH         "Pick the location for the gas to close upon to end the match."
+
+REFERENCE            kiosk_item_redeploy
+LANG_ENGLISH         "Redeploy"
+
+REFERENCE            kiosk_item_redeploy_desc
+LANG_ENGLISH         "Pick a place on the map to redeploy yourself."
+
+REFERENCE            kiosk_item_repair_vehicle_desc
+LANG_ENGLISH         "Repair a portion of your Armored Truck's health."
+
+REFERENCE            kiosk_item_replace_vehicle_desc
+LANG_ENGLISH         "Marks a location and redeploys an Armored Truck."
+
+REFERENCE            kiosk_item_respawn_token_desc
+LANG_ENGLISH         "Auto-redeploy upon death. 
+One time use only. 
+^1Only usable when redeployment is allowed.^7"
+
+REFERENCE            kiosk_item_respawn_token_dmz_desc
+LANG_ENGLISH         "Redeploy rapidly upon death. 
+One time use only. 
+"
+
+REFERENCE            kiosk_item_self_revive
+LANG_ENGLISH         "Self-Revive Kit"
+
+REFERENCE            kiosk_item_self_revive_desc
+LANG_ENGLISH         "Allows for self-revive when you're downed."
+
+REFERENCE            kiosk_item_team_revive
+LANG_ENGLISH         "REDEPLOY SQUADMATE"
+
+REFERENCE            kiosk_item_team_revive_desc
+LANG_ENGLISH         "Spend currency to redeploy a squadmate that's been eliminated from the game. "
+
+REFERENCE            kiosk_item_team_revive_dmz_desc
+LANG_ENGLISH         "Buy a fast redeploy token for a squadmate.
+One time use only."
+
+REFERENCE            kiosk_item_vehicle_refill_trophy_desc
+LANG_ENGLISH         "Refill the ammo for the Trophy System (Required: Trophy System upgrade)"
+
+REFERENCE            kiosk_item_vehicle_upgrade_armor_desc
+LANG_ENGLISH         "Upgrade the armor of your Armored Truck."
+
+REFERENCE            kiosk_item_vehicle_upgrade_barrel_desc
+LANG_ENGLISH         "Add heat resistant barrel to the turret gun."
+
+REFERENCE            kiosk_item_vehicle_upgrade_trophy_desc
+LANG_ENGLISH         "Add trophy system to your Armored Truck."
+
+REFERENCE            kiosk_item_vehicle_upgrade_uav_desc
+LANG_ENGLISH         "Add a portable radar to your Armored Truck."
+
+REFERENCE            kiosk_squad_grid_label
+LANG_ENGLISH         "PURCHASE REDEPLOYMENT"
+
+REFERENCE            ks_victory_left
+LANG_ENGLISH         "Slayer"
+
+REFERENCE            last_stand_reviving_squadmate
+LANG_ENGLISH         "REVIVING"
+
+REFERENCE            leader_plunder_text
+LANG_ENGLISH         "Leader Team $^3&&1"
+
+REFERENCE            leave_game_team_alive_desc
+LANG_ENGLISH         "Your squad can still revive you."
+
+REFERENCE            legend
+LANG_ENGLISH         "Legend"
+
+REFERENCE            legend_x
+LANG_ENGLISH         "&&1"
+
+REFERENCE            lethal_type_full
+LANG_ENGLISH         "Lethal Type Full"
+
+REFERENCE            loadout_already_equipped
+LANG_ENGLISH         "Loadout already equipped."
+
+REFERENCE            loadout_bag
+LANG_ENGLISH         "Loadout Bag"
+
+REFERENCE            loadout_gun
+LANG_ENGLISH         "Operator Loadout Weapon"
+
+REFERENCE            loot_cache
+LANG_ENGLISH         "Supply Box"
+
+REFERENCE            loot_card_geigerstash_loot_cache_desc
+LANG_ENGLISH         "Contract Cache"
+
+REFERENCE            loot_card_geigerstash_loot_cache_title
+LANG_ENGLISH         "Radioactive Cache"
+
+REFERENCE            loot_card_scavenger_loot_cache_desc
+LANG_ENGLISH         "Contract Objective"
+
+REFERENCE            loot_card_scavenger_loot_cache_title
+LANG_ENGLISH         "Supply Box"
+
+REFERENCE            loot_card_secretstash_loot_cache_desc
+LANG_ENGLISH         "Contract Objective"
+
+REFERENCE            loot_card_secretstash_loot_cache_title
+LANG_ENGLISH         "Dead Drop"
+
+REFERENCE            loot_card_x1_cache_desc
+LANG_ENGLISH         "Mission Crate"
+
+REFERENCE            loot_card_x1_cache_title
+LANG_ENGLISH         "Locked Supply Box"
+
+REFERENCE            loot_card_x1_cypher_desc
+LANG_ENGLISH         "Mission Intel"
+
+REFERENCE            loot_card_x1_cypher_title
+LANG_ENGLISH         "Code Cipher"
+
+REFERENCE            loot_table_token
+LANG_ENGLISH         "Loot Table Token"
+
+REFERENCE            loot_token
+LANG_ENGLISH         "Loot Token"
+
+REFERENCE            lootcard_subtitle_1_item
+LANG_ENGLISH         "1 Item"
+
+REFERENCE            lootcard_subtitle_per_player
+LANG_ENGLISH         "Per Player"
+
+REFERENCE            lootcard_subtitle_team_reward
+LANG_ENGLISH         "Team Reward"
+
+REFERENCE            lootcard_subtitle_total
+LANG_ENGLISH         "Total"
+
+REFERENCE            lz_info_status_lock
+LANG_ENGLISH         "Locked In"
+
+REFERENCE            lz_info_status_marked
+LANG_ENGLISH         "Landing Zone Marked"
+
+REFERENCE            lz_info_status_select
+LANG_ENGLISH         "Select Landing Zone"
+
+REFERENCE            lz_info_status_waiting
+LANG_ENGLISH         "Waiting for Squad Leader"
+
+REFERENCE            lz_tac_map_controller_prompt
+LANG_ENGLISH         "Mark Landing Zone"
+
+REFERENCE            lz_tac_map_prompt
+LANG_ENGLISH         "Select The Squad Leading Zone"
+
+REFERENCE            lz_title_status_info
+LANG_ENGLISH         "Landing Zone"
+
+REFERENCE            map_controls_center_map_kbm
+LANG_ENGLISH         "?? Center Map on Player"
+
+REFERENCE            map_controls_delete_marker
+LANG_ENGLISH         "[{ui_r3}] Delete Pings"
+
+REFERENCE            map_controls_delete_marker_kbm
+LANG_ENGLISH         "?? Delete Pings"
+
+REFERENCE            map_controls_dispatch_killstreak
+LANG_ENGLISH         "[{ui_shoulder_right}] Dispatch"
+
+REFERENCE            map_controls_dispatch_killstreak_kbm
+LANG_ENGLISH         "?? Dispatch"
+
+REFERENCE            map_controls_drag_kbm
+LANG_ENGLISH         "[{ui_mouseleftclickpan}] Drag"
+
+REFERENCE            map_controls_move_cursor
+LANG_ENGLISH         "[{ui_right_stick}] Move Cursor"
+
+REFERENCE            map_controls_move_cursor_left
+LANG_ENGLISH         "[{ui_left_stick}] Move cursor"
+
+REFERENCE            map_controls_move_cursor_to_player
+LANG_ENGLISH         "[{ui_l3}] Move cursor to player"
+
+REFERENCE            map_controls_move_marker
+LANG_ENGLISH         "[{ui_right_stick_up}] Move marker"
+
+REFERENCE            map_controls_place_marker
+LANG_ENGLISH         "[{ui_dpad_up}] Ping"
+
+REFERENCE            map_controls_place_marker_bumper_ping
+LANG_ENGLISH         "[{+ping}] Ping"
+
+REFERENCE            map_controls_place_marker_kbm
+LANG_ENGLISH         "?? Ping"
+
+REFERENCE            map_controls_redeploy
+LANG_ENGLISH         "[{+gostand}] Redeploy"
+
+REFERENCE            map_controls_toggle_map_mode_on
+LANG_ENGLISH         "[{ui_trigger_left}] Map Mode"
+
+REFERENCE            map_controls_toggle_marker_mode_off
+LANG_ENGLISH         "[{+toggleads}] View Mode"
+
+REFERENCE            map_controls_toggle_marker_mode_on
+LANG_ENGLISH         "[{ui_trigger_left}] Place marker mode"
+
+REFERENCE            map_controls_zoom
+LANG_ENGLISH         "[{ui_trigger_left}] [{ui_trigger_right}] Zoom"
+
+REFERENCE            map_controls_zoom_kbm
+LANG_ENGLISH         "?? Zoom"
+
+REFERENCE            map_controls_zoom_out_and_in
+LANG_ENGLISH         "[{ui_shoulder_left}] [{ui_shoulder_right}] Zoom Out & In"
+
+REFERENCE            map_controls_zoom_out_and_in_bumper_ping
+LANG_ENGLISH         "[{ui_secondary}] [{ui_alt2}] Zoom Out & In"
+
+REFERENCE            map_controls_zoom_out_and_in_kbm
+LANG_ENGLISH         "?? Zoom In & Out"
+
+REFERENCE            map_hint_access_card_reader
+LANG_ENGLISH         "Use Card Reader"
+
+REFERENCE            map_hint_computer
+LANG_ENGLISH         "Enter Password"
+
+REFERENCE            map_hint_computer_departure
+LANG_ENGLISH         "Initiate Departure Sequence"
+
+REFERENCE            map_hint_computer_override
+LANG_ENGLISH         "Enter Computer Override"
+
+REFERENCE            map_hint_computer_reboot
+LANG_ENGLISH         "Reboot Computer"
+
+REFERENCE            map_hint_keypad
+LANG_ENGLISH         "Enter Access Code"
+
+REFERENCE            map_hint_number_code
+LANG_ENGLISH         "Enter Number Station Code"
+
+REFERENCE            map_hint_phone
+LANG_ENGLISH         "Use Phone"
+
+REFERENCE            map_hint_red_button
+LANG_ENGLISH         "Press Shiny Red Button"
+
+REFERENCE            map_hint_use_computer
+LANG_ENGLISH         "Use Computer"
+
+REFERENCE            map_key_dropzone
+LANG_ENGLISH         "Dropzone"
+
+REFERENCE            map_key_filter_view
+LANG_ENGLISH         "[{ui_alt2}] Filter &&1/&&2"
+
+REFERENCE            map_key_filter_view_kbm
+LANG_ENGLISH         "Filter View &&1/&&2"
+
+REFERENCE            map_key_in_transit
+LANG_ENGLISH         "In Transit"
+
+REFERENCE            map_key_mission_poi
+LANG_ENGLISH         "Contract POI"
+
+REFERENCE            map_key_player_ping
+LANG_ENGLISH         "Squad Leader Ping"
+
+REFERENCE            map_key_plunder_box_desc
+LANG_ENGLISH         "Purchase game changing items at cash box locations"
+
+REFERENCE            map_key_plunder_desc
+LANG_ENGLISH         "Earn cash by completing contracts and eliminating enemies."
+
+REFERENCE            map_key_plunder_extract_desc
+LANG_ENGLISH         "Deposit cash to earn rewards"
+
+REFERENCE            map_key_respawn_area
+LANG_ENGLISH         "Redeploy Area"
+
+REFERENCE            map_legend
+LANG_ENGLISH         "Map Legend"
+
+REFERENCE            map_legend_x
+LANG_ENGLISH         "Map Legend: &&1"
+
+REFERENCE            map_location_redeploy_hint
+LANG_ENGLISH         "Select a location to redeploy yourself"
+
+REFERENCE            map_zoom_level
+LANG_ENGLISH         "Zoom: &&1%"
+
+REFERENCE            map_zoom_level_controls
+LANG_ENGLISH         "[{ui_shoulder_left}] [{ui_shoulder_right}]"
+
+REFERENCE            map_zoom_level_controls_bumper_ping
+LANG_ENGLISH         "[{ui_secondary}] [{ui_alt2}]"
+
+REFERENCE            map_zoom_level_controls_kbm
+LANG_ENGLISH         "??"
+
+REFERENCE            match_is_full_deployment_begins
+LANG_ENGLISH         "Deployment will begin in:"
+
+REFERENCE            mayday_hint
+LANG_ENGLISH         "Call for Help"
+
+REFERENCE            menu_map_gulag_desc
+LANG_ENGLISH         "Win a match in the Gulag. Return to The Warzone."
+
+REFERENCE            menu_map_token_desc
+LANG_ENGLISH         "Cashes in at the end of the 4th Circle"
+
+REFERENCE            mission_assassin_1_desc
+LANG_ENGLISH         "BOUNTY CONTRACT DESC 1"
+
+REFERENCE            mission_assassin_1_title
+LANG_ENGLISH         "BOUNTY"
+
+REFERENCE            mission_assassin_2_time_warning
+LANG_ENGLISH         "Eliminate Target Or Be Killed: "
+
+REFERENCE            mission_assassin_2_time_warning_min
+LANG_ENGLISH         "^3&&1^7 Minutes To Eliminate Target Or Be Killed"
+
+REFERENCE            mission_assassin_2_time_warning_sec
+LANG_ENGLISH         "^1&&1^7 Seconds To Eliminate Target Or Be Killed"
+
+REFERENCE            mission_assassin_2_title
+LANG_ENGLISH         "CRANKED ASSASSINATION"
+
+REFERENCE            mission_assassin_target_1
+LANG_ENGLISH         "Eliminate ^1&&1"
+
+REFERENCE            mission_assassin_target_2
+LANG_ENGLISH         "Eliminate  ^1&&1^7 Or Be Eliminated"
+
+REFERENCE            mission_dom_1_desc
+LANG_ENGLISH         "Secure the Intel"
+
+REFERENCE            mission_dom_1_extra_reward
+LANG_ENGLISH         "^.Circle Preview is Now Active^7"
+
+REFERENCE            mission_dom_1_title
+LANG_ENGLISH         "RECON"
+
+REFERENCE            mission_extract_1_title
+LANG_ENGLISH         "CONTRABAND"
+
+REFERENCE            mission_extract_target_1
+LANG_ENGLISH         "Escort: &&1"
+
+REFERENCE            mission_geiger_target_1
+LANG_ENGLISH         "Press [{+smoke}] to locate the drop"
+
+REFERENCE            mission_in_progress
+LANG_ENGLISH         "Contract In Progress"
+
+REFERENCE            mission_objective_location
+LANG_ENGLISH         "Contract Objective Location"
+
+REFERENCE            mission_reward_cash
+LANG_ENGLISH         "^3$&&1"
+
+REFERENCE            mission_scavengerhunt_1_desc
+LANG_ENGLISH         "Collect the Crates"
+
+REFERENCE            mission_scavengerhunt_1_title
+LANG_ENGLISH         "SCAVENGER"
+
+REFERENCE            mission_secretstash_1_desc
+LANG_ENGLISH         "Secure the Hidden Safe"
+
+REFERENCE            mission_smokinggun_1_desc
+LANG_ENGLISH         "Loot and Kill for Intel"
+
+REFERENCE            mission_tablet
+LANG_ENGLISH         "Contract Tablet"
+
+REFERENCE            mission_timedrun_1_desc
+LANG_ENGLISH         "Race to the Buy Station"
+
+REFERENCE            mission_timedrun_1_title
+LANG_ENGLISH         "SUPPLY RUN"
+
+REFERENCE            mission_tracker_item_name_format
+LANG_ENGLISH         "&&1 - &&2"
+
+REFERENCE            mission_unavailable
+LANG_ENGLISH         "Contract is Unavailable. Consolation Loot Awarded."
+
+REFERENCE            mission_vip
+LANG_ENGLISH         "Most Wanted Contract"
+
+REFERENCE            mission_vip_1_desc
+LANG_ENGLISH         "Protect the Most Wanted Target"
+
+REFERENCE            mission_vip_1_title
+LANG_ENGLISH         "Most Wanted"
+
+REFERENCE            mission_vip_target_1
+LANG_ENGLISH         "Protect: ^3&&1"
+
+REFERENCE            mission_x1fin_desc
+LANG_ENGLISH         "Map Coordinates:"
+
+REFERENCE            mission_x1fin_loc
+LANG_ENGLISH         "^3&&1"
+
+REFERENCE            missions
+LANG_ENGLISH         "Contracts"
+
+REFERENCE            mobile_armory_action_error
+LANG_ENGLISH         "Cannot access Mobile Armory while performing an action."
+
+REFERENCE            mobile_armory_active
+LANG_ENGLISH         "Mobile Armory online for:"
+
+REFERENCE            mobile_armory_charging
+LANG_ENGLISH         "Activating Mobile Armory in:"
+
+REFERENCE            mobile_armory_cooldown
+LANG_ENGLISH         "Mobile Armory offline"
+
+REFERENCE            move_cursor
+LANG_ENGLISH         "Move Cursor"
+
+REFERENCE            move_cursor_to_player
+LANG_ENGLISH         "Move Cursor To Player"
+
+REFERENCE            msg_mission_mission_complete
+LANG_ENGLISH         "Contract Complete!"
+
+REFERENCE            msg_mission_mission_started
+LANG_ENGLISH         "Contract Started"
+
+REFERENCE            msg_mission_objective_complete
+LANG_ENGLISH         "Objective complete"
+
+REFERENCE            msg_squad_inventory_request
+LANG_ENGLISH         "requested"
+
+REFERENCE            msg_squad_pinged_ammo
+LANG_ENGLISH         "&&1 ammo"
+
+REFERENCE            msg_squad_pinged_caution
+LANG_ENGLISH         "caution"
+
+REFERENCE            msg_squad_pinged_danger
+LANG_ENGLISH         "danger!"
+
+REFERENCE            msg_squad_pinged_enemy
+LANG_ENGLISH         "an enemy"
+
+REFERENCE            msg_squad_pinged_location
+LANG_ENGLISH         "a location"
+
+REFERENCE            msg_squad_pinged_vehicle
+LANG_ENGLISH         "a vehicle"
+
+REFERENCE            nd_place
+LANG_ENGLISH         "&&1nd Place"
+
+REFERENCE            no_more_respawn
+LANG_ENGLISH         "You can no longer respawn in this match."
+
+REFERENCE            not_enough_plunder_activate
+LANG_ENGLISH         "Not enough cash to activate"
+
+REFERENCE            not_playable
+LANG_ENGLISH         "Not over playable space"
+
+REFERENCE            number
+LANG_ENGLISH         "&&1"
+
+REFERENCE            obit_rebirth
+LANG_ENGLISH         "redeploy!"
+
+REFERENCE            objective_complete_missions
+LANG_ENGLISH         "Complete Contracts to earn rewards"
+
+REFERENCE            objective_earn_plunder
+LANG_ENGLISH         "Collect or earn cash from"
+
+REFERENCE            objective_extract_plunder
+LANG_ENGLISH         "Deposit cash for XP"
+
+REFERENCE            objective_spend_plunder
+LANG_ENGLISH         "Spend cash on Loadouts, Killstreaks, and Field Upgrades"
+
+REFERENCE            objective_survive_circle
+LANG_ENGLISH         "Survive the radiation fallout"
+
+REFERENCE            open
+LANG_ENGLISH         "Open"
+
+REFERENCE            open_pause_menu_scoreboard
+LANG_ENGLISH         "[{ui_alt1}] Team Scoreboard"
+
+REFERENCE            open_scoreboard
+LANG_ENGLISH         "Open Scoreboard"
+
+REFERENCE            ot_multiplier_num
+LANG_ENGLISH         "&&1x"
+
+REFERENCE            ot_multiplier_perc
+LANG_ENGLISH         "+&&1%"
+
+REFERENCE            overtime_cash_mod
+LANG_ENGLISH         "OVERTIME! &&1x Cash"
+
+REFERENCE            pick_up_respawn_token
+LANG_ENGLISH         "Take
+Redeploy Token"
+
+REFERENCE            pickup_poison
+LANG_ENGLISH         "Pickup Poison Canister"
+
+REFERENCE            pickup_propane
+LANG_ENGLISH         "Pickup Flammable Canister"
+
+REFERENCE            ping
+LANG_ENGLISH         "Ping"
+
+REFERENCE            ping_button
+LANG_ENGLISH         "[{ONFOOT_MP:+ping}]"
+
+REFERENCE            ping_decline
+LANG_ENGLISH         "Decline"
+
+REFERENCE            ping_nearest_supply_station
+LANG_ENGLISH         "[{+actionslot 1,+ping}] Request Redeployment from nearest Buy Station"
+
+REFERENCE            ping_text_with_button_indicator
+LANG_ENGLISH         "[{+ping,+actionslot 1}] &&1"
+
+REFERENCE            place_marker
+LANG_ENGLISH         "Place Marker"
+
+REFERENCE            play_again_desc
+LANG_ENGLISH         "Are you sure you want to leave the current game and play again?"
+
+REFERENCE            play_again_keep_party
+LANG_ENGLISH         "Play again ( keep the party )"
+
+REFERENCE            play_again_leave_party
+LANG_ENGLISH         "Play again ( leave the party )"
+
+REFERENCE            play_again_leave_party_desc
+LANG_ENGLISH         "Are you sure you want to play again without your party?"
+
+REFERENCE            play_again_party_host_desc
+LANG_ENGLISH         "Do you want to play again with or without your party?"
+
+REFERENCE            play_again_party_host_leave_party_warning
+LANG_ENGLISH         "^1Your party members are still alive, you can wait for them to finish to bring them with you."
+
+REFERENCE            player
+LANG_ENGLISH         "Squad"
+
+REFERENCE            player_is_squad_leader
+LANG_ENGLISH         "&&1 is Squad Leader"
+
+REFERENCE            player_marker
+LANG_ENGLISH         "Player Marker"
+
+REFERENCE            plunder_box_error_already_respawned
+LANG_ENGLISH         "The selected squadmate is already back in action."
+
+REFERENCE            plunder_box_error_already_respawning
+LANG_ENGLISH         "The selected squadmate is already being redeployed."
+
+REFERENCE            plunder_box_error_ammo_no_room
+LANG_ENGLISH         "Nothing needs refilling."
+
+REFERENCE            plunder_box_error_bad_rez_target
+LANG_ENGLISH         "The selected squadmate is not eligible for redeployment."
+
+REFERENCE            plunder_box_error_dupe_fu
+LANG_ENGLISH         "Field Upgrade already equipped"
+
+REFERENCE            plunder_box_error_dupe_ks
+LANG_ENGLISH         "Killstreak already equipped"
+
+REFERENCE            plunder_box_error_dupe_loadout
+LANG_ENGLISH         "Loadout already equipped"
+
+REFERENCE            plunder_box_error_dupe_token
+LANG_ENGLISH         "You already have this item"
+
+REFERENCE            plunder_box_error_dupe_vu
+LANG_ENGLISH         "Vehicle upgrade already equipped"
+
+REFERENCE            plunder_box_error_equip_no_room
+LANG_ENGLISH         "Cannot purchase: Inventory Full"
+
+REFERENCE            plunder_box_error_fu_in_use
+LANG_ENGLISH         "A Field Upgrade is still active"
+
+REFERENCE            plunder_box_error_have_ks
+LANG_ENGLISH         "Already have a killstreak equipped"
+
+REFERENCE            plunder_box_error_invalid_loc
+LANG_ENGLISH         "Invalid Location"
+
+REFERENCE            plunder_box_error_max_trophy_ammo
+LANG_ENGLISH         "Vehicle trophy system already at max ammo"
+
+REFERENCE            plunder_box_error_no_money
+LANG_ENGLISH         "Insufficient funds"
+
+REFERENCE            plunder_box_error_no_more_respawn
+LANG_ENGLISH         "Redeployment is no longer allowed."
+
+REFERENCE            plunder_box_error_no_rez_target
+LANG_ENGLISH         "Unable to locate the selected squadmate for redeployment."
+
+REFERENCE            plunder_box_error_no_token
+LANG_ENGLISH         "You don't have a Redeploy Token"
+
+REFERENCE            plunder_box_error_one_active_per_team
+LANG_ENGLISH         "Already owned by your squad."
+
+REFERENCE            plunder_box_error_one_purchase
+LANG_ENGLISH         "Already purchased. Only one purchase is allowed."
+
+REFERENCE            plunder_box_error_vehicle_max_health
+LANG_ENGLISH         "Vehicle already at max health"
+
+REFERENCE            plunder_box_error_vehicle_one_purchase
+LANG_ENGLISH         "Your Armored Truck is still operational"
+
+REFERENCE            plunder_colon
+LANG_ENGLISH         "Cash:"
+
+REFERENCE            plunder_death_loss
+LANG_ENGLISH         "^1Lost -$&&1"
+
+REFERENCE            plunder_extraction_point
+LANG_ENGLISH         "Cash Deposit Point"
+
+REFERENCE            plunder_held_limit_reached
+LANG_ENGLISH         "Maximum Cash Reached"
+
+REFERENCE            plunder_large
+LANG_ENGLISH         "$3000"
+
+REFERENCE            plunder_large_dmz
+LANG_ENGLISH         "$150,000"
+
+REFERENCE            plunder_loss_desc
+LANG_ENGLISH         "Enemy team reached cash goal."
+
+REFERENCE            plunder_medium
+LANG_ENGLISH         "$2000"
+
+REFERENCE            plunder_medium_1x
+LANG_ENGLISH         "$2000 x 1"
+
+REFERENCE            plunder_medium_2x
+LANG_ENGLISH         "$2000 x 2"
+
+REFERENCE            plunder_medium_3x
+LANG_ENGLISH         "$2000 x 3"
+
+REFERENCE            plunder_medium_4x
+LANG_ENGLISH         "$2000 x 4"
+
+REFERENCE            plunder_medium_dmz
+LANG_ENGLISH         "$75,000"
+
+REFERENCE            plunder_small
+LANG_ENGLISH         "$1000"
+
+REFERENCE            plunder_small_dmz
+LANG_ENGLISH         "$60,000"
+
+REFERENCE            plunder_win_desc
+LANG_ENGLISH         "Your team collected the cash goal!"
+
+REFERENCE            plunder_win_title
+LANG_ENGLISH         "Cash Victory!"
+
+REFERENCE            plunderbox
+LANG_ENGLISH         "Cash Box"
+
+REFERENCE            poi
+LANG_ENGLISH         "POI"
+
+REFERENCE            points_of_interest
+LANG_ENGLISH         "Points of Interest"
+
+REFERENCE            poison_weapon_name
+LANG_ENGLISH         "Poison Canister"
+
+REFERENCE            propane_weapon_name
+LANG_ENGLISH         "Flammable Canister"
+
+REFERENCE            protect
+LANG_ENGLISH         "Protect"
+
+REFERENCE            purchase_truckwar_vehicle_reminder
+LANG_ENGLISH         "Purchase a new Armored Vehicle at a Buy Station"
+
+REFERENCE            quick_inventory_drop_all
+LANG_ENGLISH         "[{ui_alt1}] Drop All"
+
+REFERENCE            quick_inventory_drop_all_kbm
+LANG_ENGLISH         "?? Drop All"
+
+REFERENCE            quick_inventory_drop_stack
+LANG_ENGLISH         "[{ui_alt2}] Drop Stack"
+
+REFERENCE            quick_inventory_drop_stack_kbm
+LANG_ENGLISH         "?? Drop Stack"
+
+REFERENCE            quick_inventory_drop_weapon
+LANG_ENGLISH         "[{ui_alt1}] Drop Weapon"
+
+REFERENCE            quick_inventory_drop_weapon_kbm
+LANG_ENGLISH         "?? Drop Weapon"
+
+REFERENCE            quick_inventory_hint
+LANG_ENGLISH         "Drop"
+
+REFERENCE            quick_inventory_hint_button_bind
+LANG_ENGLISH         "[{+actionslot 2;togglescores}]"
+
+REFERENCE            quick_inventory_hint_gamepad
+LANG_ENGLISH         "[{ui_alt2}] Drop Stack     [{ui_alt1}] Drop All     [{ui_r3}] Request"
+
+REFERENCE            quick_inventory_hint_kbm
+LANG_ENGLISH         "?? Drop Stack ?? Drop All ?? Request"
+
+REFERENCE            quick_inventory_no_weapon_equipped
+LANG_ENGLISH         "No Weapon Equipped"
+
+REFERENCE            quick_inventory_request
+LANG_ENGLISH         "[{ui_r3}] Request"
+
+REFERENCE            quick_inventory_request_kbm
+LANG_ENGLISH         "?? Request"
+
+REFERENCE            quick_inventory_request_new_weapon
+LANG_ENGLISH         "[{ui_r3}] Request New Weapon"
+
+REFERENCE            quick_inventory_request_new_weapon_kbm
+LANG_ENGLISH         "?? Request New Weapon"
+
+REFERENCE            rd_place
+LANG_ENGLISH         "&&1rd Place"
+
+REFERENCE            rebirth_reinforcement
+LANG_ENGLISH         "Rebirth"
+
+REFERENCE            redeploy
+LANG_ENGLISH         "Redeploy"
+
+REFERENCE            redeploy_timer
+LANG_ENGLISH         "&&1"
+
+REFERENCE            redeployment
+LANG_ENGLISH         "Gulag"
+
+REFERENCE            redeployment_body
+LANG_ENGLISH         "Find a Redeployment Token or win in The Gulag."
+
+REFERENCE            redeployment_closed
+LANG_ENGLISH         "Redeployment Closed"
+
+REFERENCE            redeployment_gulag_desc
+LANG_ENGLISH         "Released. No More Second Chances"
+
+REFERENCE            redeployment_infos
+LANG_ENGLISH         "Bring back your team mate(s) to life by surviving the Rebirth delay."
+
+REFERENCE            reinforcement_disabled_banner
+LANG_ENGLISH         "REBIRTH DISABLED"
+
+REFERENCE            remaining_players
+LANG_ENGLISH         "Remaining players:"
+
+REFERENCE            repair_station
+LANG_ENGLISH         "Repair Station"
+
+REFERENCE            repair_vehicle
+LANG_ENGLISH         "Repair Armored Truck"
+
+REFERENCE            repair_vehicle_failed
+LANG_ENGLISH         "Unable to repair vehicle"
+
+REFERENCE            replace_current_mission
+LANG_ENGLISH         "Replace Current Contract"
+
+REFERENCE            replace_vehicle
+LANG_ENGLISH         "Truck Redeploy Marker"
+
+REFERENCE            replace_vehicle_failed
+LANG_ENGLISH         "Unable to redeploy Armored Vehicle"
+
+REFERENCE            respawn
+LANG_ENGLISH         "Respawn"
+
+REFERENCE            respawn_plunder_splash_desc
+LANG_ENGLISH         "Redeployment purchased by team"
+
+REFERENCE            respawn_splash_desc
+LANG_ENGLISH         "You used your Redeploy Token"
+
+REFERENCE            respawn_splash_title
+LANG_ENGLISH         "Redeploying"
+
+REFERENCE            respawn_token
+LANG_ENGLISH         "Redeploy Token"
+
+REFERENCE            respawn_token_active
+LANG_ENGLISH         "Redeploy Token: Active"
+
+REFERENCE            respawn_token_by_squadmate_splash_desc
+LANG_ENGLISH         "A squadmate used their Redeploy Token on you"
+
+REFERENCE            respawn_token_dmz
+LANG_ENGLISH         "Fast-Respawn Token"
+
+REFERENCE            respawn_token_used
+LANG_ENGLISH         "Redeploy Token Used"
+
+REFERENCE            respawning_disabled_banner
+LANG_ENGLISH         "RESPAWNING DISABLED"
+
+REFERENCE            returning_to_battle
+LANG_ENGLISH         "Returning to battle"
+
+REFERENCE            risk_tokens_amount_lost
+LANG_ENGLISH         "-&&1"
+
+REFERENCE            risk_tokens_current
+LANG_ENGLISH         "&&1 Tokens"
+
+REFERENCE            risk_tokens_goal
+LANG_ENGLISH         "&&1 Tokens"
+
+REFERENCE            risk_tokens_lost
+LANG_ENGLISH         "Tokens Lost"
+
+REFERENCE            safe_area
+LANG_ENGLISH         "Safe Area"
+
+REFERENCE            sandbox_global_kills
+LANG_ENGLISH         "Global Kills: &&1"
+
+REFERENCE            sandbox_redeploy
+LANG_ENGLISH         "Hold [{+melee}] to Redeploy"
+
+REFERENCE            satellite_truck_charging
+LANG_ENGLISH         "Activating UAV Satellite Truck in:"
+
+REFERENCE            satellite_truck_cooldown
+LANG_ENGLISH         "UAV Satellite Truck offline"
+
+REFERENCE            sb_cant_damage_combat_area
+LANG_ENGLISH         "Can't Damage Player In A Different Combat Area"
+
+REFERENCE            sb_cant_damage_safe_area
+LANG_ENGLISH         "Can't Damage Player In Safe Area"
+
+REFERENCE            sb_enter_combat_area
+LANG_ENGLISH         "Entering Combat Area"
+
+REFERENCE            sb_enter_safe_area
+LANG_ENGLISH         "Entering Safe Area"
+
+REFERENCE            sb_exit_combat_area
+LANG_ENGLISH         "Exiting Combat Area"
+
+REFERENCE            sb_exit_safe_area
+LANG_ENGLISH         "Exiting Safe Area"
+
+REFERENCE            scavenger_contract
+LANG_ENGLISH         "Scavenger"
+
+REFERENCE            scavenger_contract_desc
+LANG_ENGLISH         "Locate Supply Boxes"
+
+REFERENCE            scavenger_mission
+LANG_ENGLISH         "Scavenger Contract"
+
+REFERENCE            secretstash_contract
+LANG_ENGLISH         "Dead Drop"
+
+REFERENCE            secretstash_contract_desc
+LANG_ENGLISH         "Locate and Secure the Dead Drop"
+
+REFERENCE            select_deployment_location
+LANG_ENGLISH         "Select Deployment Location"
+
+REFERENCE            select_deployment_location_desc
+LANG_ENGLISH         "Select a deployment location. If your team does not select a deployment location, you will be sent to the Gulag!"
+
+REFERENCE            self_revive_respawn
+LANG_ENGLISH         "^3Hold [{+weapnext;+activate}] to Self-Revive^7"
+
+REFERENCE            skip_to_gulag
+LANG_ENGLISH         "Skip to Gulag"
+
+REFERENCE            skip_to_gulag_input_prompt
+LANG_ENGLISH         "[{+usereload,+activate}] Skip to Gulag"
+
+REFERENCE            skydiving_in_progress
+LANG_ENGLISH         "Skydiving In Progress"
+
+REFERENCE            smokinggun_contract
+LANG_ENGLISH         "Intel by All Means"
+
+REFERENCE            splash_dmz_bank_warning
+LANG_ENGLISH         "Cash Deposit Balloon Placed: You have 30 seconds to deposit your cash!"
+
+REFERENCE            splash_dmz_welcome
+LANG_ENGLISH         "Plunder"
+
+REFERENCE            splash_dmz_welcome_desc
+LANG_ENGLISH         "Primary objective is to collect and hold the most cash."
+
+REFERENCE            splash_evac_arrived
+LANG_ENGLISH         "Helicopter Ready"
+
+REFERENCE            splash_evac_arrived_desc
+LANG_ENGLISH         "Be the first to get on the helicopter to win."
+
+REFERENCE            splash_evac_incoming
+LANG_ENGLISH         "Helicopter Inbound"
+
+REFERENCE            splash_evac_incoming_desc
+LANG_ENGLISH         "Wait for the helicopter to arrive."
+
+REFERENCE            splash_evac_welcome
+LANG_ENGLISH         "Evacuation"
+
+REFERENCE            splash_evac_welcome_desc
+LANG_ENGLISH         "Win by surviving until you can reach the helicopter to extract."
+
+REFERENCE            splash_extract_extracted
+LANG_ENGLISH         "Another Team Extracted"
+
+REFERENCE            splash_extract_extracted_desc
+LANG_ENGLISH         "Hurry, another team has already extracted!"
+
+REFERENCE            splash_extraction_arrived
+LANG_ENGLISH         "Extraction Helicopter Ready"
+
+REFERENCE            splash_extraction_arrived_desc
+LANG_ENGLISH         "An Extraction Helicopter is ready to leave."
+
+REFERENCE            splash_extraction_failed
+LANG_ENGLISH         "Extraction Intercepted"
+
+REFERENCE            splash_extraction_failed_desc
+LANG_ENGLISH         "Extraction Helicopter was destroyed"
+
+REFERENCE            splash_extraction_started
+LANG_ENGLISH         "Extraction Started"
+
+REFERENCE            splash_extraction_started_desc
+LANG_ENGLISH         "An extraction helicopter is inbound."
+
+REFERENCE            splash_extraction_welcome
+LANG_ENGLISH         "Extraction"
+
+REFERENCE            splash_extraction_welcome_desc
+LANG_ENGLISH         "Win by extracting off the island with a helicopter before time runs out."
+
+REFERENCE            splash_late_circle_now
+LANG_ENGLISH         "Redeploy Now"
+
+REFERENCE            splash_late_circle_now_desc
+LANG_ENGLISH         "Elimination is about to start!"
+
+REFERENCE            splash_late_circle_soon
+LANG_ENGLISH         "Gas Approaching"
+
+REFERENCE            splash_late_circle_soon_desc
+LANG_ENGLISH         "Move to the safe zone!"
+
+REFERENCE            splash_risk_flag_spawn
+LANG_ENGLISH         "Plates Spawning"
+
+REFERENCE            splash_risk_flag_spawn_desc
+LANG_ENGLISH         "Capture the plates to spawn Intel tokens"
+
+REFERENCE            splash_risk_welcome
+LANG_ENGLISH         "RISK"
+
+REFERENCE            splash_risk_welcome_desc
+LANG_ENGLISH         "Capture plates and collect and hold 10 tokens."
+
+REFERENCE            splash_sandbox_welcome
+LANG_ENGLISH         "Sandbox"
+
+REFERENCE            splash_sandbox_welcome_desc
+LANG_ENGLISH         "Kill enemy players for XP and try out different features!"
+
+REFERENCE            squad_buyback_cost
+LANG_ENGLISH         "$4800"
+
+REFERENCE            squad_buyback_prompt
+LANG_ENGLISH         "Redeploy"
+
+REFERENCE            squad_leader_drop_bag
+LANG_ENGLISH         "Drop Bag Location By Squad Leader"
+
+REFERENCE            squad_leader_jumped
+LANG_ENGLISH         "Squad Leader has Jumped"
+
+REFERENCE            squad_leader_waypoint
+LANG_ENGLISH         "Squad Leader has set Waypoint"
+
+REFERENCE            squad_marker_location_error
+LANG_ENGLISH         "Another squad has already selected this location. Please select an unoccupied location to deploy."
+
+REFERENCE            st_place
+LANG_ENGLISH         "&&1st Place"
+
+REFERENCE            standby_for_respawn
+LANG_ENGLISH         "Standby for redeployment..."
+
+REFERENCE            status_squad_count
+LANG_ENGLISH         "Squads:"
+
+REFERENCE            supply_crate
+LANG_ENGLISH         "Supply Crate"
+
+REFERENCE            survive_radiation_desc
+LANG_ENGLISH         "Watch for safe zone updates and survive the radiation fallout"
+
+REFERENCE            tablet_pickup_failure
+LANG_ENGLISH         "Your team is already on a Contract!"
+
+REFERENCE            tactical_type_full
+LANG_ENGLISH         "Tactical Type Full"
+
+REFERENCE            team_plunder_placement
+LANG_ENGLISH         "Placement &&1"
+
+REFERENCE            team_revive
+LANG_ENGLISH         "Team Revive"
+
+REFERENCE            team_wiped
+LANG_ENGLISH         "Team Wiped"
+
+REFERENCE            th_place
+LANG_ENGLISH         "&&1th Place"
+
+REFERENCE            the_last_enemy
+LANG_ENGLISH         "The last enemies are downed"
+
+REFERENCE            tier_val
+LANG_ENGLISH         "PAYOUT LEVEL &&1"
+
+REFERENCE            timed_run_mission
+LANG_ENGLISH         "Timed Run Contract"
+
+REFERENCE            timedrun_contract
+LANG_ENGLISH         "Supply Run"
+
+REFERENCE            timedrun_contract_desc
+LANG_ENGLISH         "Race to the Buy Station"
+
+REFERENCE            timer_teammates_survive
+LANG_ENGLISH         "Teammate must stay alive for..."
+
+REFERENCE            timer_vengeance
+LANG_ENGLISH         "Kill confirmed: Reinforcement incoming"
+
+REFERENCE            title_tact_lethal
+LANG_ENGLISH         "Tactical and Lethal"
+
+REFERENCE            tracked_mission
+LANG_ENGLISH         "Tracked Contract"
+
+REFERENCE            tracked_player
+LANG_ENGLISH         "Protect ^8 &&1 ^7"
+
+REFERENCE            truckwar_gas_is_approaching_close
+LANG_ENGLISH         "DANGER: EVACUATE IMMEDIATELY"
+
+REFERENCE            truckwar_gas_is_approaching_close_desc
+LANG_ENGLISH         "Move your Armored Vehicle!"
+
+REFERENCE            truckwar_gas_is_approaching_far
+LANG_ENGLISH         "DANGER: Gas is closing"
+
+REFERENCE            truckwar_gas_is_approaching_far_desc
+LANG_ENGLISH         "Start moving your Armored Vehicle to the safe area!"
+
+REFERENCE            truckwar_gas_is_approaching_medium
+LANG_ENGLISH         "DANGER: Gas Approaching"
+
+REFERENCE            truckwar_gas_is_approaching_medium_desc
+LANG_ENGLISH         "The gas is closing in on your Armored Vehicle!"
+
+REFERENCE            truckwar_self_redeploy
+LANG_ENGLISH         "Truck Redeploy"
+
+REFERENCE            truckwar_self_redeploy_desc
+LANG_ENGLISH         "As long as your team's Armored Vehicle is still alive you will redeploy when you die."
+
+REFERENCE            truckwar_vehicle_armor_upgraded
+LANG_ENGLISH         "Vehicle Heavy Armor"
+
+REFERENCE            truckwar_vehicle_armor_upgraded_desc
+LANG_ENGLISH         "Your vehicle's armor has been upgraded"
+
+REFERENCE            truckwar_vehicle_barrel_upgraded
+LANG_ENGLISH         "Vehicle Turret Barrel Upgraded"
+
+REFERENCE            truckwar_vehicle_barrel_upgraded_desc
+LANG_ENGLISH         "Heat Resistant Barrel has been applied to your vehicle's turret."
+
+REFERENCE            truckwar_vehicle_destroyed
+LANG_ENGLISH         "Vehicle Destroyed"
+
+REFERENCE            truckwar_vehicle_destroyed_desc
+LANG_ENGLISH         "Your squad is no longer authorized for redeployment"
+
+REFERENCE            truckwar_vehicle_portable_radar_activated
+LANG_ENGLISH         "Vehicle Radar Activated"
+
+REFERENCE            truckwar_vehicle_portable_radar_activated_desc
+LANG_ENGLISH         "Your vehicle's radar system has been activated"
+
+REFERENCE            truckwar_vehicle_spawn_disabled
+LANG_ENGLISH         "Redeployment Disabled"
+
+REFERENCE            truckwar_vehicle_spawn_disabled_desc
+LANG_ENGLISH         "Your vehicle's location is too dangerous"
+
+REFERENCE            truckwar_vehicle_spawn_enabled
+LANG_ENGLISH         "Redeployment Enabled"
+
+REFERENCE            truckwar_vehicle_spawn_enabled_desc
+LANG_ENGLISH         "Your vehicle is cleared for redeployment"
+
+REFERENCE            truckwar_vehicle_spawn_over_desc
+LANG_ENGLISH         "No More Second Chances"
+
+REFERENCE            truckwar_vehicle_trophy_activated
+LANG_ENGLISH         "Vehicle Trophy Activated"
+
+REFERENCE            truckwar_vehicle_trophy_activated_desc
+LANG_ENGLISH         "Your vehicle's trophy system has been activated"
+
+REFERENCE            truckwar_vehicle_trophy_no_ammo
+LANG_ENGLISH         "Vehicle Trophy Out of Ammo"
+
+REFERENCE            truckwar_vehicle_trophy_no_ammo_desc
+LANG_ENGLISH         "Your vehicle's Trophy System has ran out of ammo."
+
+REFERENCE            truckwar_vehicle_trophy_refilled
+LANG_ENGLISH         "Vehicle Trophy Ammo Refilled"
+
+REFERENCE            truckwar_vehicle_trophy_refilled_desc
+LANG_ENGLISH         "The ammo for your vehicle's trophy system has been refilled"
+
+REFERENCE            truckwar_vehicle_under_attack
+LANG_ENGLISH         "Vehicle Under Attack"
+
+REFERENCE            truckwar_vehicle_under_attack_desc
+LANG_ENGLISH         "Defend your vehicle"
+
+REFERENCE            tut_combat
+LANG_ENGLISH         "Combat basics complete!"
+
+REFERENCE            tut_mount
+LANG_ENGLISH         "Hold ^3[{+speed_throw}]^7 and Press ^3[{+melee}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_activate
+LANG_ENGLISH         "Hold ^3[{+speed_throw}]^7 and Press ^3[{+usereload;+activate}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_activate_toggle
+LANG_ENGLISH         "Press ^3[{+speed_throw}]^7 and Press ^3[{+usereload;+activate}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_binding
+LANG_ENGLISH         "Hold ^3[{+mount}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_binding_toggle
+LANG_ENGLISH         "Press ^3[{+mount}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_double
+LANG_ENGLISH         "Press and Release ^3[{+speed_throw}]^7 then quickly Hold ^3[{+speed_throw}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_double_toggle
+LANG_ENGLISH         "Press and Release ^3[{+speed_throw}]^7 then quickly Press ^3[{+speed_throw}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_hold
+LANG_ENGLISH         "Hold ^3[{+speed_throw}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_hold_toggle
+LANG_ENGLISH         "Press ^3[{+speed_throw}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_sprint
+LANG_ENGLISH         "Hold ^3[{+speed_throw}]^7 and Press ^3[{+sprint,+breath_sprint}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_sprint_toggle
+LANG_ENGLISH         "Press ^3[{+speed_throw}]^7 and Press ^3[{+sprint,+breath_sprint}]^7 to mount your weapon"
+
+REFERENCE            tut_mount_toggle
+LANG_ENGLISH         "Press ^3[{+speed_throw}]^7 and Press ^3[{+melee}]^7 to mount your weapon"
+
+REFERENCE            tut_plunder_loot
+LANG_ENGLISH         "Cash & purchasing complete!"
+
+REFERENCE            tut_tacmap
+LANG_ENGLISH         "Tac-Map, Loot & Contracts complete!"
+
+REFERENCE            tut_team_work
+LANG_ENGLISH         "Team Work training complete!"
+
+REFERENCE            tut_welcome
+LANG_ENGLISH         "Welcome to Call of Duty: Warzone training"
+
+REFERENCE            tutorial_mission_desc
+LANG_ENGLISH         "Explore and loot to find a tablet"
+
+REFERENCE            tutorial_mission_title
+LANG_ENGLISH         "Find a Contract"
+
+REFERENCE            unavailable
+LANG_ENGLISH         "Unavailable"
+
+REFERENCE            use_armor
+LANG_ENGLISH         "Hold [{+weapnext}] to Use Armor Plates"
+
+REFERENCE            use_armor_kbm
+LANG_ENGLISH         "Press [{killstreak2}] to Use Armor Plates"
+
+REFERENCE            use_health_equipment
+LANG_ENGLISH         "Hold [{ui_alt2}]"
+
+REFERENCE            val_weapon_xp
+LANG_ENGLISH         "&&1 Weapon XP"
+
+REFERENCE            val_weapon_xp_1x
+LANG_ENGLISH         "&&1 Weapon XP x 1"
+
+REFERENCE            val_weapon_xp_2x
+LANG_ENGLISH         "&&1 Weapon XP x 2"
+
+REFERENCE            val_weapon_xp_3x
+LANG_ENGLISH         "&&1 Weapon XP x 3"
+
+REFERENCE            val_weapon_xp_4x
+LANG_ENGLISH         "&&1 Weapon XP x 4"
+
+REFERENCE            val_xp
+LANG_ENGLISH         "&&1XP"
+
+REFERENCE            val_xp_1x
+LANG_ENGLISH         "&&1XP x 1"
+
+REFERENCE            val_xp_2x
+LANG_ENGLISH         "&&1XP x 2"
+
+REFERENCE            val_xp_3x
+LANG_ENGLISH         "&&1XP x 3"
+
+REFERENCE            val_xp_4x
+LANG_ENGLISH         "&&1XP x 4"
+
+REFERENCE            vehicle_in_gas
+LANG_ENGLISH         "Unable to respawn while vehicle is in gas."
+
+REFERENCE            vehicle_refill_trophy
+LANG_ENGLISH         "Refill Trophy"
+
+REFERENCE            vehicle_upgrade_armor
+LANG_ENGLISH         "Heavy Armor"
+
+REFERENCE            vehicle_upgrade_barrel
+LANG_ENGLISH         "Heat Resistant Barrel"
+
+REFERENCE            vehicle_upgrade_trophy
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            vehicle_upgrade_uav
+LANG_ENGLISH         "UAV"
+
+REFERENCE            vehicles
+LANG_ENGLISH         "Vehicles"
+
+REFERENCE            vendors_closed_banner
+LANG_ENGLISH         "VENDORS CLOSED"
+
+REFERENCE            victory_splash_desc
+LANG_ENGLISH         "Your squad dominated The Warzone"
+
+REFERENCE            victory_splash_title
+LANG_ENGLISH         "Victory"
+
+REFERENCE            vip_contract
+LANG_ENGLISH         "Most Wanted"
+
+REFERENCE            vip_contract_desc
+LANG_ENGLISH         "Mark Yourself and Survive"
+
+REFERENCE            waiting_for_deployment
+LANG_ENGLISH         "Waiting for deployment"
+
+REFERENCE            waiting_for_lobby_to_fill_x_of_x
+LANG_ENGLISH         "Waiting for lobby to fill: &&1/&&2"
+
+REFERENCE            waiting_for_x_of_x_to_deploy
+LANG_ENGLISH         "Waiting for &&1/&&2 players to deploy"
+
+REFERENCE            warning
+LANG_ENGLISH         "Warning"
+
+REFERENCE            weapon_xp_large
+LANG_ENGLISH         "400 Weapon XP"
+
+REFERENCE            weapon_xp_medium
+LANG_ENGLISH         "300 Weapon XP"
+
+REFERENCE            weapon_xp_medium_1x
+LANG_ENGLISH         "300 Weapon XP x 1"
+
+REFERENCE            weapon_xp_medium_2x
+LANG_ENGLISH         "300 Weapon XP x 2"
+
+REFERENCE            weapon_xp_medium_3x
+LANG_ENGLISH         "300 Weapon XP x 3"
+
+REFERENCE            weapon_xp_medium_4x
+LANG_ENGLISH         "300 Weapon XP x 4"
+
+REFERENCE            weapon_xp_small
+LANG_ENGLISH         "200 Weapon XP"
+
+REFERENCE            x1_card_use
+LANG_ENGLISH         "Take the Key"
+
+REFERENCE            x1_checklist_header
+LANG_ENGLISH         "Steps to Freedom"
+
+REFERENCE            x1_checklist_header_alt
+LANG_ENGLISH         "Active Measures"
+
+REFERENCE            x1_checklist_header_complete
+LANG_ENGLISH         "Transmission Incoming..."
+
+REFERENCE            x1_checklist_item_1
+LANG_ENGLISH         "Collect the Map Codes"
+
+REFERENCE            x1_checklist_item_1_alt
+LANG_ENGLISH         "??????????????????????????"
+
+REFERENCE            x1_checklist_item_2
+LANG_ENGLISH         "Secure the Key"
+
+REFERENCE            x1_checklist_item_2_alt
+LANG_ENGLISH         "????????????????????????????"
+
+REFERENCE            x1_checklist_item_3
+LANG_ENGLISH         "Crack the Map Code"
+
+REFERENCE            x1_checklist_item_3_alt
+LANG_ENGLISH         "????????????"
+
+REFERENCE            x1_checklist_item_4
+LANG_ENGLISH         "Wield the Weapon"
+
+REFERENCE            x1_checklist_item_4_alt
+LANG_ENGLISH         "????????????????????????"
+
+REFERENCE            x1_map_fragment
+LANG_ENGLISH         "Intel"
+
+REFERENCE            x1fin_contract
+LANG_ENGLISH         "Lost Woods"
+
+REFERENCE            x1stash_contract
+LANG_ENGLISH         "SAFE CRACKER"
+
+REFERENCE            x_drop_solo
+LANG_ENGLISH         "[{ui_primary}] Drop Solo"
+
+REFERENCE            x_is_the_squad_leader
+LANG_ENGLISH         "&&1 is the squad leader."
+
+REFERENCE            x_open_tac_map
+LANG_ENGLISH         "[{ui_select;togglemap}] Open Tac Map"
+
+REFERENCE            x_select_squad_drop
+LANG_ENGLISH         "[{ui_primary}] Select Squad Drop"
+
+REFERENCE            x_to_become_jump_master
+LANG_ENGLISH         "[{ui_primary}] Become Jump Master"
+
+REFERENCE            x_to_jump_separately_from_team
+LANG_ENGLISH         "[{ui_primary}] Jump separately from team"
+
+REFERENCE            x_to_select_deployment_point
+LANG_ENGLISH         "[{ui_primary}] Select deployment point"
+
+REFERENCE            xp_large
+LANG_ENGLISH         "400XP"
+
+REFERENCE            xp_medium
+LANG_ENGLISH         "200XP"
+
+REFERENCE            xp_medium_1x
+LANG_ENGLISH         "200XP x 1"
+
+REFERENCE            xp_medium_2x
+LANG_ENGLISH         "200XP x 2"
+
+REFERENCE            xp_medium_3x
+LANG_ENGLISH         "200XP x 3"
+
+REFERENCE            xp_medium_4x
+LANG_ENGLISH         "200XP x 4"
+
+REFERENCE            xp_small
+LANG_ENGLISH         "100XP"
+
+REFERENCE            you_are_squad_leader
+LANG_ENGLISH         "You Are Squad Leader"
+
+REFERENCE            you_are_the_jump_master_caps
+LANG_ENGLISH         "YOU ARE THE JUMP MASTER"
+
+REFERENCE            you_are_the_squad_leader_caps
+LANG_ENGLISH         "YOU ARE THE SQUAD LEADER"
+
+REFERENCE            your_plunder_text
+LANG_ENGLISH         "Your Cash"
+
+REFERENCE            your_squad
+LANG_ENGLISH         "Your Squad"
+
+REFERENCE            your_squad_plunder_bar
+LANG_ENGLISH         "You"
+
+REFERENCE            your_team_plunder_text
+LANG_ENGLISH         "Your Team"
+
+
+ENDMARKER

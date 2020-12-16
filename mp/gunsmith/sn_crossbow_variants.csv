@@ -1,7 +1,7 @@
 0,iw8_sn_crossbow_variant_0,iw8_sn_crossbow,,,,,,,,,,,,,,,WEAPON/SN_CROSSBOW,ui_loot_weapon_sn_crossbow,
 1,iw8_sn_crossbow_variant_1,iw8_sn_crossbow,,rec|1 front|1 back|1 mag|1 cable|1,,,,,,,,,,,,,WEAPON/SN_CROSSBOW_V2,ui_loot_weapon_sn_crossbow_v2,
 2,iw8_sn_crossbow_variant_2,iw8_sn_crossbow,,rec|2 mag|2 ,,barmid|2,,,scope|2,,,stockh|1,fastreload,cableh|1,,,WEAPON/SN_CROSSBOW_V3,ui_loot_weapon_sn_crossbow_v3,
-3,iw8_sn_crossbow_variant_3,iw8_sn_crossbow,,rec|1 front|1 back|1 mag|1 cable|3,,,,,,,,,,,,,WEAPON/SN_CROSSBOW_V4,ui_loot_weapon_sn_crossbow_v4,
+3,iw8_sn_crossbow_variant_3,iw8_sn_crossbow,,rec|3 front|3 back|3 mag|3 cable|3,,,laserbalanced|1,,reflexmini|11,bolt4|2,,stocks|2,fastreload,,,,WEAPON/SN_CROSSBOW_V4,ui_loot_weapon_sn_crossbow_v4,
 4,iw8_sn_crossbow_variant_4,iw8_sn_crossbow,,rec|4 cable|4,,barmid|1,,,reflex2|8,bolt4|1,,stocks|1,fastreload,,,,WEAPON/SN_CROSSBOW_V5,ui_loot_weapon_sn_crossbow_v5,
 5,iw8_sn_crossbow_variant_5,iw8_sn_crossbow,,rec|5 front|5 back|5 mag|5 cable|5,,barmid|3,,,scope|3,bolt2|1,,,fastreload,cableh|2,,,WEAPON/SN_CROSSBOW_V6,ui_loot_weapon_sn_crossbow_v6,
 6,iw8_sn_crossbow_variant_6,iw8_sn_crossbow,,rec|0 front|0 back|0 mag|0 cable|0,,,,,,,,,,,,,WEAPON/SN_CROSSBOW_V7,ui_loot_weapon_sn_crossbow_v7,

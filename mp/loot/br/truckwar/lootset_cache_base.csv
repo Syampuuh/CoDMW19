@@ -1,0 +1,5 @@
+inherit,mp/loot/br/truckwar/lootset_root.csv,,,,,,,,
+req,,weapon,1,,,1,,# 1 uncommon weapon+,
+req,,ammo,1,,,,,# 1 ammo,
+req,,plunder,1,,,,,# 1 cash drop,
+req,,,1,,60,,,# 1 item of any type, any rarity,

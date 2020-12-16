@@ -17,6 +17,12 @@ LANG_ENGLISH         "3v3 Knife Fight"
 REFERENCE            8v8mosh_desc
 LANG_ENGLISH         "8v8 Mosh Pit"
 
+REFERENCE            access_desc
+LANG_ENGLISH         "Welcome to the show"
+
+REFERENCE            access_name
+LANG_ENGLISH         "Welcome"
+
 REFERENCE            aliens_name
 LANG_ENGLISH         "Extinction"
 
@@ -152,11 +158,41 @@ LANG_ENGLISH         "Gunfight Rechambered"
 REFERENCE            arenagun_name
 LANG_ENGLISH         "Gunfight Gun Game"
 
+REFERENCE            arenahwn_name
+LANG_ENGLISH         "Jump Scare Training"
+
 REFERENCE            arenavip_name
 LANG_ENGLISH         "Gunfight VIP"
 
 REFERENCE            arm_valntn_name
 LANG_ENGLISH         "Friends with Benefits"
+
+REFERENCE            armcarduo_name
+LANG_ENGLISH         "Armored Cargo Duos"
+
+REFERENCE            armcarquad_name
+LANG_ENGLISH         "Armored Cargo Quads"
+
+REFERENCE            armcarsolo_name
+LANG_ENGLISH         "Armored Cargo Solos"
+
+REFERENCE            armcartrio_name
+LANG_ENGLISH         "Armored Cargo Trios"
+
+REFERENCE            armroyduo_name
+LANG_ENGLISH         "Armored Royale Duos"
+
+REFERENCE            armroyquad_name
+LANG_ENGLISH         "Armored Royale Quads"
+
+REFERENCE            armroysolo_name
+LANG_ENGLISH         "Armored Royale Solos"
+
+REFERENCE            armroytrio_name
+LANG_ENGLISH         "Armored Royale Trios"
+
+REFERENCE            arnahwn_name
+LANG_ENGLISH         "Gunfright"
 
 REFERENCE            backlot247_name
 LANG_ENGLISH         "Talsik Backlot 24/7"
@@ -200,6 +236,12 @@ LANG_ENGLISH         "Warzone: Big Team Deathmatch"
 REFERENCE            bigwartdm_name2
 LANG_ENGLISH         "Warzone Big Team Deathmatch"
 
+REFERENCE            bldduofire_name
+LANG_ENGLISH         "Blood Money Duos: Fire Sale"
+
+REFERENCE            bldfire_desc
+LANG_ENGLISH         "Plunder and everything is on Sale! Guaranteed cash drops on all kills. Bounty Contracts and Finishing Moves pay extra cash!"
+
 REFERENCE            bldmny_name
 LANG_ENGLISH         "Blood Money"
 
@@ -211,6 +253,15 @@ LANG_ENGLISH         "Blood Money Quads"
 
 REFERENCE            bldmnytrio_name
 LANG_ENGLISH         "Blood Money Trios"
+
+REFERENCE            bldquadfire_name
+LANG_ENGLISH         "Blood Money Quads: Fire Sale"
+
+REFERENCE            bldtriofire_name
+LANG_ENGLISH         "Blood Money Trios: Fire Sale"
+
+REFERENCE            blguncust_name
+LANG_ENGLISH         "Blueprint Gunfight Customs"
 
 REFERENCE            blitz_abbrv
 LANG_ENGLISH         "Blitz"
@@ -268,6 +319,9 @@ LANG_ENGLISH         "MP Bots Development Playlists"
 
 REFERENCE            bots_dev_name
 LANG_ENGLISH         "MP Bots Dev"
+
+REFERENCE            bpgfcust_desc
+LANG_ENGLISH         "Gunfight using weapon variants with customized attachments. First team to reach the round win limit wins."
 
 REFERENCE            br_abbrv
 LANG_ENGLISH         "Last Stand"
@@ -389,6 +443,12 @@ LANG_ENGLISH         "BR Duos INFINITE GULAG"
 REFERENCE            brduobare_name
 LANG_ENGLISH         "BR Bare Bones Duos"
 
+REFERENCE            brduohwn_desc
+LANG_ENGLISH         "Bring a friend to watch your back. And remember - they'll understand when you choose to loot instead of reviving them."
+
+REFERENCE            brduohwn_name
+LANG_ENGLISH         "BR Duo Die"
+
 REFERENCE            brduojugg_name
 LANG_ENGLISH         "BR Duos Juggernaut"
 
@@ -430,6 +490,15 @@ LANG_ENGLISH         "BR-ly Legal"
 
 REFERENCE            brhired_name
 LANG_ENGLISH         "BR Hired Gun"
+
+REFERENCE            brhwn_desc
+LANG_ENGLISH         "Hunt your enemies while exploring the Haunting of Verdansk. Loot candy crates, but beware... it may not be a treat in that box."
+
+REFERENCE            brhwnquad_name
+LANG_ENGLISH         "BR Monster Quads"
+
+REFERENCE            brhwntrios_name
+LANG_ENGLISH         "BR Trick-or-Trios"
 
 REFERENCE            brinf1_name
 LANG_ENGLISH         "BR Solos Bottom Line"
@@ -493,6 +562,9 @@ LANG_ENGLISH         "BR Quads Most Wanted"
 
 REFERENCE            brmw_name
 LANG_ENGLISH         "BR Most Wanted"
+
+REFERENCE            brnight_desc
+LANG_ENGLISH         "Battle Royale in the dark. Loot and Kill. Last team standing wins."
 
 REFERENCE            brnonstop1_name
 LANG_ENGLISH         "BR Solos Nonstop"
@@ -610,6 +682,12 @@ LANG_ENGLISH         "BR Solos"
 
 REFERENCE            brsolobare_name
 LANG_ENGLISH         "BR Bare Bones Solos"
+
+REFERENCE            brsolohwn_desc
+LANG_ENGLISH         "Candy is better when you don't have to share. Loot and Kill. Last player standing wins."
+
+REFERENCE            brsolohwn_name
+LANG_ENGLISH         "BR Solo Survivor"
 
 REFERENCE            brsolojugg_name
 LANG_ENGLISH         "BR Solo Juggernaut"
@@ -740,6 +818,18 @@ LANG_ENGLISH         "Classic Special Ops"
 REFERENCE            classic_so_desc
 LANG_ENGLISH         "A replayable, curated experience where your proficiency with specific weapons, killstreaks, and other tools will be tested."
 
+REFERENCE            classified_desc
+LANG_ENGLISH         "Complete the Detection Contract to unlock 24 hour early access to the [REDACTED] Warzone experience."
+
+REFERENCE            classified_name
+LANG_ENGLISH         "Classified"
+
+REFERENCE            classified_short
+LANG_ENGLISH         "Classified"
+
+REFERENCE            classified_short_desc
+LANG_ENGLISH         "Classified Playlist"
+
 REFERENCE            cntrct_clr_name
 LANG_ENGLISH         "Contract Closer"
 
@@ -772,6 +862,9 @@ LANG_ENGLISH         "Kill Confirmed Missions"
 
 REFERENCE            conf_test_missions_name
 LANG_ENGLISH         "CONF Missions"
+
+REFERENCE            confhwn_name
+LANG_ENGLISH         "Chills Confirmed"
 
 REFERENCE            conkill_name
 LANG_ENGLISH         "Contract Killer"
@@ -1104,6 +1197,12 @@ LANG_ENGLISH         "Wanna Cyber?"
 REFERENCE            cyber_vlntn_name
 LANG_ENGLISH         "Virtual Rendezvous"
 
+REFERENCE            cyberhwn2_name
+LANG_ENGLISH         "White Noise"
+
+REFERENCE            cyberhwn_name
+LANG_ENGLISH         "Poltergeist"
+
 REFERENCE            dealer2_desc
 LANG_ENGLISH         "Infiltrate the AQ-occupied Verdansk Airport, board the hijacked 747, and recover its deadly cargo."
 
@@ -1239,6 +1338,12 @@ LANG_ENGLISH         "2-man Frontier Only"
 
 REFERENCE            dome_dusk_247_name
 LANG_ENGLISH         "Genesis Holiday 24/7"
+
+REFERENCE            domhwn2_name
+LANG_ENGLISH         "Defend the Pumpkin Patch"
+
+REFERENCE            domhwn_name
+LANG_ENGLISH         "Damnation"
 
 REFERENCE            domtdm_big_name
 LANG_ENGLISH         "10v10 Deathmatch Domination"
@@ -1426,6 +1531,9 @@ LANG_ENGLISH         "Grind 10v10"
 REFERENCE            grind_name
 LANG_ENGLISH         "Grind"
 
+REFERENCE            grindhwn_name
+LANG_ENGLISH         "Grind the Axe"
+
 REFERENCE            grnd_abbrv
 LANG_ENGLISH         "Drop Zone"
 
@@ -1443,6 +1551,9 @@ LANG_ENGLISH         "Hold the Drop Zone to earn points and Prototype Drone Pack
 
 REFERENCE            grnddomtdm_name
 LANG_ENGLISH         "Deathmatch Domination and Drop Zone"
+
+REFERENCE            grndhwn_name
+LANG_ENGLISH         "Free Candy!"
 
 REFERENCE            grndlay_desc
 LANG_ENGLISH         "Large-scale conflict featuring vehicles. Capture and hold objectives to score. Captured objectives open forward spawning locations for your team. Now with Layover!"
@@ -1507,8 +1618,17 @@ LANG_ENGLISH         "Gunfight: OSP - Snipers Only"
 REFERENCE            gunfight_pro_name
 LANG_ENGLISH         "Gunfight Pro"
 
+REFERENCE            gunhwn_name
+LANG_ENGLISH         "My Mom chose my costume..."
+
 REFERENCE            gunrechamber_name
 LANG_ENGLISH         "Gun Game Rechambered"
+
+REFERENCE            guntdm_desc
+LANG_ENGLISH         "Gun Game mixed with TDM. Get weapon kills to score points and advance to the next gun. First team to reach the score limit wins!"
+
+REFERENCE            guntdm_name
+LANG_ENGLISH         "Gun Game TDM"
 
 REFERENCE            gununload_name
 LANG_ENGLISH         "Gun Game Unloaded"
@@ -1618,6 +1738,9 @@ LANG_ENGLISH         "Hardpoint Missions"
 REFERENCE            hardyard247_name
 LANG_ENGLISH         "Hard Yard 24/7"
 
+REFERENCE            haunt_name
+LANG_ENGLISH         "Haunted House Party"
+
 REFERENCE            hc_10v10_moshpit
 LANG_ENGLISH         "HC 10v10 Mosh Pit"
 
@@ -1695,6 +1818,12 @@ LANG_ENGLISH         "HC Headquarters"
 
 REFERENCE            hc_merc_name
 LANG_ENGLISH         "HC Mercenary Mosh Pit"
+
+REFERENCE            hc_mosh_name
+LANG_ENGLISH         "Hardcore Mosh Pit"
+
+REFERENCE            hc_mosh_name2
+LANG_ENGLISH         "HC Mosh Pit"
 
 REFERENCE            hc_nvg_mosh
 LANG_ENGLISH         "HC Night Mosh Pit"
@@ -1816,14 +1945,26 @@ LANG_ENGLISH         "HC Drop Zone"
 REFERENCE            hcgun_name
 LANG_ENGLISH         "HC Gun Game"
 
+REFERENCE            hcguntdm_name
+LANG_ENGLISH         "HC Gun Game TDM"
+
 REFERENCE            hcharbr_name
 LANG_ENGLISH         "HC Harbor 24/7"
 
 REFERENCE            hchideout_name
 LANG_ENGLISH         "HC Khandor Hideout"
 
+REFERENCE            hchllkll_name
+LANG_ENGLISH         "HC Hills and Kills"
+
+REFERENCE            hchqfire_name
+LANG_ENGLISH         "HC Headquarters: Firefight"
+
+REFERENCE            hckillstreak_confirmed
+LANG_ENGLISH         "HC Killstreak Confirmed"
+
 REFERENCE            hcmlyshv247_name
-LANG_ENGLISH         "HC Malyshev 24/7"
+LANG_ENGLISH         "HC Mialstor Tank Factory"
 
 REFERENCE            hcoic_name
 LANG_ENGLISH         "HC One in the Chamber"
@@ -1852,6 +1993,9 @@ LANG_ENGLISH         "HC Stocked and Locked"
 REFERENCE            hctdef_name
 LANG_ENGLISH         "HC Team Defender"
 
+REFERENCE            hctdmdom_name
+LANG_ENGLISH         "HC TDM and Domination"
+
 REFERENCE            headquarters_name
 LANG_ENGLISH         "Headquarters"
 
@@ -1869,6 +2013,12 @@ LANG_ENGLISH         "Hired Gun"
 
 REFERENCE            hitman_name
 LANG_ENGLISH         "Hit Man"
+
+REFERENCE            hllkill_name
+LANG_ENGLISH         "Hills and Kills"
+
+REFERENCE            hllkll_desc
+LANG_ENGLISH         "Hardpoint where points are earned for holding hills and getting kills."
 
 REFERENCE            horde_abbrv
 LANG_ENGLISH         "Safeguard"
@@ -1888,8 +2038,35 @@ LANG_ENGLISH         "Headquarters 10v10"
 REFERENCE            hq_mix
 LANG_ENGLISH         "Headquarters using a mix of 6v6 and 10v10 maps. Capture and hold the headquarters to earn points for your team. The team that holds the HQ doesn't respawn. "
 
+REFERENCE            hqfire_name
+LANG_ENGLISH         "Headquarters: Firefight"
+
+REFERENCE            hqhwn_name
+LANG_ENGLISH         "Headstone Quarters"
+
+REFERENCE            hqtdm_desc
+LANG_ENGLISH         "Earn points by taking the Headquarters and by getting kills."
+
+REFERENCE            hrdtdm_name
+LANG_ENGLISH         "Hardpoint: Hills and Kills"
+
 REFERENCE            hstle_tkovr_name
 LANG_ENGLISH         "Hostile Takeover"
+
+REFERENCE            hwn2_desc
+LANG_ENGLISH         "Halloween versions of Domination, Kill Confirmed, Grind, and Onslaught."
+
+REFERENCE            hwn3_desc
+LANG_ENGLISH         "Mosh Pit game modes with a Halloween spin!"
+
+REFERENCE            hwnmosh_desc
+LANG_ENGLISH         "Halloween versions of Domination, Kill Confirmed, and Grind."
+
+REFERENCE            hwnmosh_name
+LANG_ENGLISH         "Skele-Tons of Fun"
+
+REFERENCE            infct_name
+LANG_ENGLISH         "Infection"
 
 REFERENCE            infect_abbrv
 LANG_ENGLISH         "Infected"
@@ -1930,6 +2107,9 @@ LANG_ENGLISH         "Mo' Gulag, Mo' Problems"
 REFERENCE            iw_summer_name
 LANG_ENGLISH         "Infinity Ward Summer Games"
 
+REFERENCE            jugpmpkn_name
+LANG_ENGLISH         "JugGourdNaut Royale"
+
 REFERENCE            kc_and_frontline
 LANG_ENGLISH         "Kill Confirmed / Frontline"
 
@@ -1964,7 +2144,7 @@ REFERENCE            kingsltrios_name
 LANG_ENGLISH         "King Slayer Trios"
 
 REFERENCE            kngslay2_desc
-LANG_ENGLISH         "Mulit-Team Deathmatch in Verdansk. First squad to reach the kill limit wins!"
+LANG_ENGLISH         "Multi-Team Deathmatch in Verdansk. First squad to reach the kill limit wins!"
 
 REFERENCE            kngslyr_desc
 LANG_ENGLISH         "Multi-Team TDM with Battle Royale Mechanics played at various locations in Verdansk. First team to 100 kills wins!"
@@ -1974,6 +2154,9 @@ LANG_ENGLISH         "Knife Fight"
 
 REFERENCE            knives_name
 LANG_ENGLISH         "Shanks for the Memories"
+
+REFERENCE            knvonly_name
+LANG_ENGLISH         "Knives Only"
 
 REFERENCE            koth_and_tdef
 LANG_ENGLISH         "Hardpoint / Team Defender"
@@ -1986,6 +2169,12 @@ LANG_ENGLISH         "HeartPoint"
 
 REFERENCE            kothtdm_name
 LANG_ENGLISH         "Deathmatch Hardpoint"
+
+REFERENCE            kyh_desc
+LANG_ENGLISH         "Or be doomed to repeat it"
+
+REFERENCE            kyh_name
+LANG_ENGLISH         "Know Your History"
 
 REFERENCE            landlord2_desc
 LANG_ENGLISH         "Assault Almalik's base of operations and mark his weapons for airstrike, spiking the AQ foothold in Verdansk."
@@ -2032,11 +2221,17 @@ LANG_ENGLISH         "LNY Kill Confirmed"
 REFERENCE            lny_name
 LANG_ENGLISH         "Lunar New Year"
 
+REFERENCE            lstalv_name
+LANG_ENGLISH         "Last Alive"
+
+REFERENCE            malymix_name
+LANG_ENGLISH         "A mix of 6v6 and 10v10 mosh pit game modes on Mialstor Tank Factory."
+
 REFERENCE            malyshev247_desc
-LANG_ENGLISH         "Mosh Pit game types on Malyshev"
+LANG_ENGLISH         "Mosh Pit game types on Mialstor Tank Factory"
 
 REFERENCE            malyshev247_name
-LANG_ENGLISH         "Malyshev 24/7"
+LANG_ENGLISH         "Mialstor Tank Factory 24/7"
 
 REFERENCE            mapname_petrograd
 LANG_ENGLISH         "St. Petrograd Survival"
@@ -2098,8 +2293,20 @@ LANG_ENGLISH         "Mini BR Solos"
 REFERENCE            minibrtrios_name
 LANG_ENGLISH         "Mini BR Trios"
 
+REFERENCE            miniduos_name
+LANG_ENGLISH         "Mini Royale Duos"
+
+REFERENCE            miniquads_name
+LANG_ENGLISH         "Mini Royale Quads"
+
 REFERENCE            miniroyale_name
 LANG_ENGLISH         "Mini Royale"
+
+REFERENCE            minisolos_name
+LANG_ENGLISH         "Mini Royale Solos"
+
+REFERENCE            minitrios_name
+LANG_ENGLISH         "Mini Royale Trios"
 
 REFERENCE            mlg_ball_abbrv
 LANG_ENGLISH         "Uplink Competitive"
@@ -2209,6 +2416,9 @@ LANG_ENGLISH         "Brimstone - Modified Veteran"
 REFERENCE            mod_vet_smuggler_name
 LANG_ENGLISH         "Harbinger - Modified Veteran"
 
+REFERENCE            monmash_name
+LANG_ENGLISH         "Monster Mash Pit"
+
 REFERENCE            mosh_pit_desc
 LANG_ENGLISH         "An assortment of objective game modes."
 
@@ -2220,6 +2430,30 @@ LANG_ENGLISH         "Playing the Field"
 
 REFERENCE            mosh_vlntn_name2
 LANG_ENGLISH         "Ready to Mingle"
+
+REFERENCE            motoduo_name
+LANG_ENGLISH         "Moto-Warfare Duos"
+
+REFERENCE            motoquad_name
+LANG_ENGLISH         "Moto-Warfare Quads"
+
+REFERENCE            motosolo_name
+LANG_ENGLISH         "Moto-Warfare Solos"
+
+REFERENCE            mototrios_name
+LANG_ENGLISH         "Moto-Warfare Trios"
+
+REFERENCE            motwarduo_name
+LANG_ENGLISH         "Motor Warfare Duos"
+
+REFERENCE            motwarquad_name
+LANG_ENGLISH         "Motor Warfare Quads"
+
+REFERENCE            motwarsolo_name
+LANG_ENGLISH         "Motor Warfare Solos"
+
+REFERENCE            motwartrio_name
+LANG_ENGLISH         "Motor Warfare Trios"
 
 REFERENCE            mpaltmodes_name
 LANG_ENGLISH         "Modern Warcade"
@@ -2354,6 +2588,21 @@ LANG_ENGLISH         "NVG Team Deathmatch"
 REFERENCE            nightmosh_name
 LANG_ENGLISH         "Night Vision Mosh Pit"
 
+REFERENCE            ntfll_name
+LANG_ENGLISH         "Nightfall"
+
+REFERENCE            ntfllduos_name
+LANG_ENGLISH         "Nightfall Duos"
+
+REFERENCE            ntfllquads_name
+LANG_ENGLISH         "Nightfall Quads"
+
+REFERENCE            ntfllsolos_name
+LANG_ENGLISH         "Nightfall Solos"
+
+REFERENCE            ntflltrios_name
+LANG_ENGLISH         "Nightfall Trios"
+
 REFERENCE            nvg_infect_name
 LANG_ENGLISH         "NVG Infected"
 
@@ -2414,8 +2663,23 @@ LANG_ENGLISH         "Warzone: Onslaught"
 REFERENCE            onslaughttdm_name2
 LANG_ENGLISH         "Warzone Onslaught"
 
+REFERENCE            onslhwn_name
+LANG_ENGLISH         "Onslaughter"
+
+REFERENCE            orange2_name
+LANG_ENGLISH         "^,HALLOWEEN comma"
+
+REFERENCE            orange3_name
+LANG_ENGLISH         "^1HALLOWEEN Red"
+
+REFERENCE            orangetest_name
+LANG_ENGLISH         "^+HALLOWEEN plus"
+
 REFERENCE            osp_snow_name
 LANG_ENGLISH         "Snowball Gunfight: OSP"
+
+REFERENCE            otbrk_name
+LANG_ENGLISH         "Outbreak"
 
 REFERENCE            parainf_name
 LANG_ENGLISH         "Parachuting Infected"
@@ -2516,6 +2780,18 @@ LANG_ENGLISH         "Contractual Obligation"
 REFERENCE            plnd_real_name
 LANG_ENGLISH         "Realism Plunder"
 
+REFERENCE            plndcndy_name
+LANG_ENGLISH         "Plunder: Candy Collector"
+
+REFERENCE            plndhwn_desc
+LANG_ENGLISH         "Collect as much cash and candy as you can."
+
+REFERENCE            plndhwn_name
+LANG_ENGLISH         "Plunder: Candy Money"
+
+REFERENCE            plndnt_desc
+LANG_ENGLISH         "Plunder at night! Collect as much cash and candy as you can!"
+
 REFERENCE            plndrthduo_name
 LANG_ENGLISH         "Plunder 200 Duos"
 
@@ -2558,8 +2834,26 @@ LANG_ENGLISH         "Plunder: Robbery"
 REFERENCE            plunderqa_name
 LANG_ENGLISH         "Plunder QA"
 
+REFERENCE            plunduosfire_name
+LANG_ENGLISH         "Plunder Duos: Fire Sale"
+
+REFERENCE            plunfiretrio_name
+LANG_ENGLISH         "Plunder Trios: Fire Sale"
+
 REFERENCE            plunquad_name
 LANG_ENGLISH         "Plunder Quads"
+
+REFERENCE            plunquadfire_name
+LANG_ENGLISH         "Plunder Quads: Fire Sale"
+
+REFERENCE            plunsolofire_name
+LANG_ENGLISH         "Plunder Solos: Fire Sale"
+
+REFERENCE            pmpkngsly_name
+LANG_ENGLISH         "Pumpking Slayer"
+
+REFERENCE            pndmc_name
+LANG_ENGLISH         "Pandemic"
 
 REFERENCE            pulsenew_name1
 LANG_ENGLISH         "Modern Warfare Multiplayer"
@@ -2599,6 +2893,21 @@ LANG_ENGLISH         "Rat Race"
 
 REFERENCE            rave_devs_desc
 LANG_ENGLISH         "cp_rave playlist for devs"
+
+REFERENCE            rbrth_desc
+LANG_ENGLISH         "Loot and Kill. Wipe out enemy teams to eliminate them from the match. Redeploy for free as long as one of your teammates stays alive. Last team standing wins."
+
+REFERENCE            rbrthduos_name
+LANG_ENGLISH         "Rebirth Duos"
+
+REFERENCE            rbrthquad_name
+LANG_ENGLISH         "Rebirth Quads"
+
+REFERENCE            rbrthtrios_name
+LANG_ENGLISH         "Rebirth Trios"
+
+REFERENCE            real_gwsiege_name
+LANG_ENGLISH         "Realism Ground War Reinforce"
 
 REFERENCE            realarena3v3_name
 LANG_ENGLISH         "Realism Gunfight 3v3"
@@ -2813,6 +3122,9 @@ LANG_ENGLISH         "Looking for the one"
 REFERENCE            seas1_desc
 LANG_ENGLISH         "Mixed modes in Crash, Vacant, Shipment, and Shoot House"
 
+REFERENCE            season6_desc
+LANG_ENGLISH         "Season Six maps Broadcast and Mialstor Tank Factory in Mosh Pit game modes."
+
 REFERENCE            season_five_moshpit
 LANG_ENGLISH         "Season Five Mosh Pit"
 
@@ -2855,6 +3167,12 @@ LANG_ENGLISH         "Shoot the Ship"
 REFERENCE            shrugar_desc
 LANG_ENGLISH         "Cheshire Park, Rust, and Shipment in mosh pit game modes."
 
+REFERENCE            shshpmnth_desc
+LANG_ENGLISH         "All Shoot House. All Shipment. For a whole month."
+
+REFERENCE            shshpmnth_name
+LANG_ENGLISH         "Shiptember to Shootmember"
+
 REFERENCE            shsnp_name2
 LANG_ENGLISH         "Shotty Snipers"
 
@@ -2878,6 +3196,9 @@ LANG_ENGLISH         "Capture points to revive fallen teammates. Taking all poin
 
 REFERENCE            siege_name
 LANG_ENGLISH         "Reinforce"
+
+REFERENCE            six_players
+LANG_ENGLISH         "&&1 6v6"
 
 REFERENCE            skyinf_name
 LANG_ENGLISH         "Skydiving Infected"
@@ -2912,8 +3233,26 @@ LANG_ENGLISH         "12v12 Search and Destroy"
 REFERENCE            snddouble_name
 LANG_ENGLISH         "Search and Destroy: Double Down"
 
+REFERENCE            sndhwn_name
+LANG_ENGLISH         "Hide and Seek"
+
 REFERENCE            snowfight_name
 LANG_ENGLISH         "Snowfight"
+
+REFERENCE            snpffa_name
+LANG_ENGLISH         "Snipers Only FFA"
+
+REFERENCE            snpmosh_desc
+LANG_ENGLISH         "Mosh Pit game modes where all weapons are Snipers."
+
+REFERENCE            snponly_desc
+LANG_ENGLISH         "TDM variation where you can only use Sniper weapons."
+
+REFERENCE            snponly_mosh
+LANG_ENGLISH         "Snipers Only Mosh Pit"
+
+REFERENCE            snponly_name
+LANG_ENGLISH         "Snipers Only"
 
 REFERENCE            solos_name
 LANG_ENGLISH         "SOLOS"
@@ -2942,6 +3281,9 @@ LANG_ENGLISH         "Leaky Houseboat "
 REFERENCE            sp_sh_ru_name3
 LANG_ENGLISH         "Leaky Old Houseboat"
 
+REFERENCE            spcdel_name
+LANG_ENGLISH         "Special Delivery"
+
 REFERENCE            spd_house_rust_name
 LANG_ENGLISH         "Dirty Old Houseboat"
 
@@ -2969,6 +3311,12 @@ LANG_ENGLISH         "Standard Playlists"
 REFERENCE            standard_name
 LANG_ENGLISH         "Standard"
 
+REFERENCE            stdmfo_name
+LANG_ENGLISH         "Face Off - Verdansk Stadium"
+
+REFERENCE            stdmmosh_desc
+LANG_ENGLISH         "Face Off mosh pit modes on the Gunfight map, Verdansk Stadium."
+
 REFERENCE            stdnt_ln_name
 LANG_ENGLISH         "Student Loan Payments"
 
@@ -2989,6 +3337,12 @@ LANG_ENGLISH         "St Patrick's Day"
 
 REFERENCE            survival_desc
 LANG_ENGLISH         "Assemble your team and defend yourselves against waves of increasingly difficult threats, earning the experience and equipment to outlast the enemy."
+
+REFERENCE            sz5sz6_desc
+LANG_ENGLISH         "Suldal Harbor, Petrov Oil Rig, Broadcast, and Mialstor Tank Factory in Mosh Pit game modes."
+
+REFERENCE            sz5sz6_name
+LANG_ENGLISH         "Season 5 and 6 Mosh Pit"
 
 REFERENCE            tac_moshpit
 LANG_ENGLISH         "Tactical Moshpit"
@@ -3062,6 +3416,9 @@ LANG_ENGLISH         "TDM Missions"
 REFERENCE            tdmfaction_name
 LANG_ENGLISH         "Faction War"
 
+REFERENCE            tdmhwn_name
+LANG_ENGLISH         "Scream Deathmatch"
+
 REFERENCE            tdmkcremix_desc
 LANG_ENGLISH         "TDM with increased score for Headshots and Killstreak Kills. Kill Confirmed with points for Kills and increased score for Tag Pickup"
 
@@ -3071,8 +3428,17 @@ LANG_ENGLISH         "TDM and Kill Confirmed Remix"
 REFERENCE            tdmrumble_name
 LANG_ENGLISH         "TDM Rumble"
 
+REFERENCE            tdmvar_desc
+LANG_ENGLISH         "Variations of objective modes Domination, Hardpoint, and Headquarters where kills add to your score."
+
+REFERENCE            tdmvar_name
+LANG_ENGLISH         "What Objective?"
+
 REFERENCE            teamtac_name
 LANG_ENGLISH         "Team Tactical"
+
+REFERENCE            ten_players
+LANG_ENGLISH         "&&1 10v10"
 
 REFERENCE            therock_tdm_desc
 LANG_ENGLISH         "Therock TDM"
@@ -3093,13 +3459,13 @@ REFERENCE            townhousemosh_desc
 LANG_ENGLISH         "Mosh Pit modes on the new Gunfight map, Townhouse."
 
 REFERENCE            trainfo_name
-LANG_ENGLISH         "Face Off - Train"
+LANG_ENGLISH         "Face Off - Station"
 
 REFERENCE            trainfo_name2
-LANG_ENGLISH         "Train Mosh Pit"
+LANG_ENGLISH         "Station Mosh Pit"
 
 REFERENCE            trainmosh_desc
-LANG_ENGLISH         "Mosh Pit modes on the new Gunfight map, Train."
+LANG_ENGLISH         "Mosh Pit modes on the new Gunfight map, Station."
 
 REFERENCE            trenchfo_name
 LANG_ENGLISH         "Face Off - Trench"
@@ -3110,14 +3476,26 @@ LANG_ENGLISH         "Trench Mosh Pit"
 REFERENCE            trios_name
 LANG_ENGLISH         "TRIOS"
 
+REFERENCE            trwar_ha_desc
+LANG_ENGLISH         "Fast-paced, high-action Battle Royale built around vehicle-on-vehicle combat. Redeploy for free as long as your rig is still in one piece."
+
+REFERENCE            trwar_oct_desc
+LANG_ENGLISH         "High Octane Battle Royale built around vehicle-on-vehicle combat. Redeploy for free as long as your rig is still in one piece."
+
+REFERENCE            trwar_vaya_desc
+LANG_ENGLISH         "High Octane Battle Royale built around vehicle-on-vehicle combat. Redeploy for free as long as your rig is still in one piece. Vaya con Diesel."
+
 REFERENCE            trwars_name
-LANG_ENGLISH         "Truck Wars"
+LANG_ENGLISH         "Armored Royale"
 
 REFERENCE            trwarsquads_name
-LANG_ENGLISH         "Truck Wars Quads"
+LANG_ENGLISH         "Armored Royale Quads"
 
 REFERENCE            trwarstrios_name
-LANG_ENGLISH         "Truck Wars Trios"
+LANG_ENGLISH         "Armored Royale Trios"
+
+REFERENCE            unbr_name
+LANG_ENGLISH         "Undead BR"
 
 REFERENCE            uplink_abbrv
 LANG_ENGLISH         "Uplink"
@@ -3130,6 +3508,9 @@ LANG_ENGLISH         "Vacant 24/7"
 
 REFERENCE            vacship_247_name
 LANG_ENGLISH         "Shipment and Vacant 24/7"
+
+REFERENCE            vcd_name
+LANG_ENGLISH         "Vaya con diesel!"
 
 REFERENCE            village247_name
 LANG_ENGLISH         "Hovec Sawmill 24/7"
@@ -3274,6 +3655,24 @@ LANG_ENGLISH         "2020 Year of the Rat"
 
 REFERENCE            zmbfnf_name
 LANG_ENGLISH         "^3Friday Night Frights!^7"
+
+REFERENCE            zmbr_desc
+LANG_ENGLISH         "Be the last team with a human alive to win. Players turn into Zombies on death, but can redeploy as a human by collecting antivirals from fallen humans."
+
+REFERENCE            zmbroy_name
+LANG_ENGLISH         "Zombie Royale"
+
+REFERENCE            zmbroyduos_name
+LANG_ENGLISH         "Zombie Royale Duos"
+
+REFERENCE            zmbroyquads_name
+LANG_ENGLISH         "Zombie Royale Quads"
+
+REFERENCE            zmbroysolos_name
+LANG_ENGLISH         "Zombie Royale Solos"
+
+REFERENCE            zmbroytrios_name
+LANG_ENGLISH         "Zombie Royale Trios"
 
 
 ENDMARKER

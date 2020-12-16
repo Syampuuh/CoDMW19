@@ -2,656 +2,698 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
-REFERENCE            alex_default
-LANG_ENGLISH         "1,2,3"
-
-REFERENCE            alex_default_desc
-LANG_ENGLISH         "ALEX_DEFAULT_DESC"
-
-REFERENCE            alex_variant_1
-LANG_ENGLISH         "Sweep the Leg"
-
-REFERENCE            alex_variant_1_desc
-LANG_ENGLISH         "ALEX_VARIANT_1_DESC"
-
-REFERENCE            alice_default
-LANG_ENGLISH         "Axe You Nicely"
-
-REFERENCE            alice_default_desc
-LANG_ENGLISH         "ALICE_DEFAULT_DESC"
-
-REFERENCE            alice_variant_1
-LANG_ENGLISH         "Deft Dispatch"
-
-REFERENCE            alice_variant_1_desc
-LANG_ENGLISH         "ALICE_VARIANT_1_DESC"
-
-REFERENCE            alice_variant_2
-LANG_ENGLISH         "Misdirection"
-
-REFERENCE            azur_default
-LANG_ENGLISH         "Disable and Kill"
-
-REFERENCE            azur_default_desc
-LANG_ENGLISH         "AZUR_DEFAULT_DESC"
-
-REFERENCE            azur_variant_1
-LANG_ENGLISH         "Clubbed"
-
-REFERENCE            azur_variant_1_desc
-LANG_ENGLISH         "AZUR_VARIANT_1_DESC"
-
-REFERENCE            azur_variant_2
-LANG_ENGLISH         "Wall Breaker"
-
-REFERENCE            bale_default
-LANG_ENGLISH         "Head to Head"
-
-REFERENCE            bale_default_desc
-LANG_ENGLISH         "BALE_DEFAULT_DESC"
-
-REFERENCE            bale_variant_1
-LANG_ENGLISH         "Counterplay"
-
-REFERENCE            bale_variant_1_desc
-LANG_ENGLISH         "BALE_VARIANT_1_DESC"
-
-REFERENCE            bale_variant_2
-LANG_ENGLISH         "Trick Shot"
-
-REFERENCE            charly_default
-LANG_ENGLISH         "Baton Dispatch"
-
-REFERENCE            charly_default_desc
-LANG_ENGLISH         "CHARLY_DEFAULT_DESC"
-
-REFERENCE            charly_variant_1
-LANG_ENGLISH         "Cold Blooded"
-
-REFERENCE            charly_variant_1_desc
-LANG_ENGLISH         "CHARLY_VARIANT_1_DESC"
-
-REFERENCE            charly_variant_2
-LANG_ENGLISH         "Between The Ribs"
-
-REFERENCE            crowfoot_default
-LANG_ENGLISH         "Sick 'Em"
-
-REFERENCE            crowfoot_default_desc
-LANG_ENGLISH         "CROWFOOT_DEFAULT_DESC"
-
-REFERENCE            crowfoot_variant_1
-LANG_ENGLISH         "CROWFOOT_VARIANT_1"
-
-REFERENCE            crowfoot_variant_1_desc
-LANG_ENGLISH         "CROWFOOT_VARIANT_1_DESC"
-
-REFERENCE            dday_default
-LANG_ENGLISH         "Hatchet Hitman"
-
-REFERENCE            dday_default_desc
-LANG_ENGLISH         "DDAY_DEFAULT_DESC"
-
-REFERENCE            dday_variant_1
-LANG_ENGLISH         "Spine Snapper"
-
-REFERENCE            dday_variant_1_desc
-LANG_ENGLISH         "DDAY_VARIANT_1_DESC"
-
-REFERENCE            dday_variant_2
-LANG_ENGLISH         "Stick 'n' Knife"
-
-REFERENCE            default
-LANG_ENGLISH         "none"
-
-REFERENCE            default_eastern
-LANG_ENGLISH         "Shanks A Lot"
-
-REFERENCE            default_western
-LANG_ENGLISH         "Pierce the Jug"
-
-REFERENCE            dingo_default
-LANG_ENGLISH         "DINGO_DEFAULT"
-
-REFERENCE            dingo_default_desc
-LANG_ENGLISH         "DINGO_DEFAULT_DESC"
-
-REFERENCE            dingo_variant_1
-LANG_ENGLISH         "DINGO_VARIANT_1"
-
-REFERENCE            dingo_variant_1_desc
-LANG_ENGLISH         "DINGO_VARIANT_1_DESC"
-
-REFERENCE            domino_default
-LANG_ENGLISH         "Disable and Decimate"
-
-REFERENCE            domino_default_desc
-LANG_ENGLISH         "DOMINO_DEFAULT_DESC"
-
-REFERENCE            domino_variant_1
-LANG_ENGLISH         "Electrifying End"
-
-REFERENCE            domino_variant_1_desc
-LANG_ENGLISH         "DOMINO_VARIANT_1_DESC"
-
-REFERENCE            domino_variant_2
-LANG_ENGLISH         "Grave Digger"
-
-REFERENCE            execution
-LANG_ENGLISH         "Finishing Move"
-
-REFERENCE            farah_default
-LANG_ENGLISH         "FARAH_DEFAULT"
-
-REFERENCE            farah_default_desc
-LANG_ENGLISH         "FARAH_DEFAULT_DESC"
-
-REFERENCE            farah_variant_1
-LANG_ENGLISH         "FARAH_VARIANT_1"
-
-REFERENCE            farah_variant_1_desc
-LANG_ENGLISH         "FARAH_VARIANT_1_DESC"
-
-REFERENCE            ghost_default
-LANG_ENGLISH         "Slideshot"
-
-REFERENCE            ghost_default_desc
-LANG_ENGLISH         "GHOST_DEFAULT_DESC"
-
-REFERENCE            ghost_variant_1
-LANG_ENGLISH         "Belly Flop"
-
-REFERENCE            ghost_variant_1_desc
-LANG_ENGLISH         "GHOST_VARIANT_1_DESC"
-
-REFERENCE            golem_default
-LANG_ENGLISH         "Disdainful Destruction"
-
-REFERENCE            golem_default_desc
-LANG_ENGLISH         "GOLEM_DEFAULT_DESC"
-
-REFERENCE            golem_variant_1
-LANG_ENGLISH         "Say Watt"
-
-REFERENCE            golem_variant_1_desc
-LANG_ENGLISH         "GOLEM_VARIANT_1_DESC"
-
-REFERENCE            golem_variant_2
-LANG_ENGLISH         "Laid To Rest"
-
-REFERENCE            grinch_default
-LANG_ENGLISH         "Infiltration"
-
-REFERENCE            grinch_default_desc
-LANG_ENGLISH         "GRINCH_DEFAULT_DESC"
-
-REFERENCE            grinch_variant_1
-LANG_ENGLISH         "Go Clubbing"
-
-REFERENCE            grinch_variant_1_desc
-LANG_ENGLISH         "GRINCH_VARIANT_1_DESC"
-
-REFERENCE            grinch_variant_2
-LANG_ENGLISH         "Laying Brick"
-
-REFERENCE            hooper_default
-LANG_ENGLISH         "HOOPER_DEFAULT"
-
-REFERENCE            hooper_default_desc
-LANG_ENGLISH         "HOOPER_DEFAULT_DESC"
-
-REFERENCE            hooper_variant_1
-LANG_ENGLISH         "HOOPER_VARIANT_1"
-
-REFERENCE            hooper_variant_1_desc
-LANG_ENGLISH         "HOOPER_VARIANT_1_DESC"
-
-REFERENCE            iskra_default
-LANG_ENGLISH         "Carver"
-
-REFERENCE            iskra_default_desc
-LANG_ENGLISH         "ISKRA_DEFAULT_DESC"
-
-REFERENCE            iskra_variant_1
-LANG_ENGLISH         "ISKRA_VARIANT_1"
-
-REFERENCE            iskra_variant_1_desc
-LANG_ENGLISH         "ISKRA_VARIANT_1_DESC"
-
-REFERENCE            kato_default
-LANG_ENGLISH         "KATO_DEFAULT"
-
-REFERENCE            kato_default_desc
-LANG_ENGLISH         "KATO_DEFAULT_DESC"
-
-REFERENCE            kato_variant_1
-LANG_ENGLISH         "KATO_VARIANT_1"
-
-REFERENCE            kato_variant_1_desc
-LANG_ENGLISH         "KATO_VARIANT_1_DESC"
-
-REFERENCE            kreuger_default
-LANG_ENGLISH         "Take Down"
-
-REFERENCE            kreuger_default_desc
-LANG_ENGLISH         "KREUGER_DEFAULT_DESC"
-
-REFERENCE            kreuger_variant_1
-LANG_ENGLISH         "Brassed Off"
-
-REFERENCE            kreuger_variant_1_desc
-LANG_ENGLISH         "KREUGER_VARIANT_1_DESC"
-
-REFERENCE            kreuger_variant_2
-LANG_ENGLISH         "Knife To Meet You"
-
-REFERENCE            kyle_default
-LANG_ENGLISH         "Ice To Meet You"
-
-REFERENCE            kyle_default_desc
-LANG_ENGLISH         "KYLE_DEFAULT_DESC"
-
-REFERENCE            lerch_default
-LANG_ENGLISH         "Brick by Brick"
-
-REFERENCE            lerch_default_desc
-LANG_ENGLISH         "LERCH_DEFAULT_DESC"
-
-REFERENCE            lynch_default
-LANG_ENGLISH         "LYNCH_DEFAULT"
-
-REFERENCE            lynch_default_desc
-LANG_ENGLISH         "LYNCH_DEFAULT_DESC"
-
-REFERENCE            lynch_variant_1
-LANG_ENGLISH         "LYNCH_VARIANT_1"
-
-REFERENCE            lynch_variant_1_desc
-LANG_ENGLISH         "LYNCH_VARIANT_1_DESC"
-
-REFERENCE            mghost_default
-LANG_ENGLISH         "Mace to the Face"
-
-REFERENCE            mghost_default_desc
-LANG_ENGLISH         "MGHOST_DEFAULT_DESC"
-
-REFERENCE            mghost_variant_1
-LANG_ENGLISH         "Run Through"
-
-REFERENCE            mghost_variant_1_desc
-LANG_ENGLISH         "MGHOST_VARIANT_1_DESC"
-
-REFERENCE            minotavr_default
-LANG_ENGLISH         "Face the End"
-
-REFERENCE            minotavr_default_desc
-LANG_ENGLISH         "MINOTAVR_DEFAULT_DESC"
-
-REFERENCE            minotavr_variant_1
-LANG_ENGLISH         "Face the Adze"
-
-REFERENCE            minotavr_variant_1_desc
-LANG_ENGLISH         "MINOTAVR_VARIANT_1_DESC"
-
-REFERENCE            minotavr_variant_2
-LANG_ENGLISH         "Pinned"
-
-REFERENCE            murphy_default
-LANG_ENGLISH         "Riot Control"
-
-REFERENCE            murphy_default_desc
-LANG_ENGLISH         "MURPHY_DEFAULT_DESC"
-
-REFERENCE            murphy_variant_1
-LANG_ENGLISH         "Close and Personal"
-
-REFERENCE            murphy_variant_1_desc
-LANG_ENGLISH         "MURPHY_VARIANT_1_DESC"
-
-REFERENCE            murphy_variant_2
-LANG_ENGLISH         "Icy Veins"
-
-REFERENCE            neck_stab
-LANG_ENGLISH         "Neck Stab"
-
-REFERENCE            otter_default
-LANG_ENGLISH         "Cranial Carnage"
-
-REFERENCE            otter_default_desc
-LANG_ENGLISH         "OTTER_DEFAULT_DESC"
-
-REFERENCE            otter_variant_1
-LANG_ENGLISH         "First Degree"
-
-REFERENCE            otter_variant_1_desc
-LANG_ENGLISH         "OTTER_VARIANT_1_DESC"
-
-REFERENCE            otter_variant_2
-LANG_ENGLISH         "Ice Breaker"
-
-REFERENCE            price_default
-LANG_ENGLISH         "Staying Frosty"
-
-REFERENCE            price_default_desc
-LANG_ENGLISH         "PRICE_DEFAULT_DESC"
-
-REFERENCE            price_variant_1
-LANG_ENGLISH         "Enlightened"
-
-REFERENCE            price_variant_1_desc
-LANG_ENGLISH         "PRICE_VARIANT_1_DESC"
-
-REFERENCE            quin_default
-LANG_ENGLISH         "QUIN_DEFAULT"
-
-REFERENCE            quin_default_desc
-LANG_ENGLISH         "QUIN_DEFAULT_DESC"
-
-REFERENCE            quin_variant_1
-LANG_ENGLISH         "QUIN_VARIANT_1"
-
-REFERENCE            quin_variant_1_desc
-LANG_ENGLISH         "QUIN_VARIANT_1_DESC"
-
-REFERENCE            raines_default
-LANG_ENGLISH         "Axe and Receive"
-
-REFERENCE            raines_default_desc
-LANG_ENGLISH         "RAINES_DEFAULT_DESC"
-
-REFERENCE            raines_variant_1
-LANG_ENGLISH         "Martial Law"
-
-REFERENCE            raines_variant_1_desc
-LANG_ENGLISH         "RAINES_VARIANT_1_DESC"
-
-REFERENCE            raines_variant_2
-LANG_ENGLISH         "Turnover"
-
-REFERENCE            rodion_default
-LANG_ENGLISH         "Death Pirouette"
-
-REFERENCE            rodion_default_desc
-LANG_ENGLISH         "RODION_DEFAULT_DESC"
-
-REFERENCE            rodion_variant_1
-LANG_ENGLISH         "Lined Up"
-
-REFERENCE            rodion_variant_1_desc
-LANG_ENGLISH         "RODION_VARIANT_1_DESC"
-
-REFERENCE            rodion_variant_2
-LANG_ENGLISH         "Walk Into It"
-
-REFERENCE            ronin_default
-LANG_ENGLISH         "Slice and Dice"
-
-REFERENCE            ronin_default_desc
-LANG_ENGLISH         "RONIN_DEFAULT_DESC"
-
-REFERENCE            ronin_variant_1
-LANG_ENGLISH         "RONIN_VARIANT_1"
-
-REFERENCE            ronin_variant_1_desc
-LANG_ENGLISH         "RONIN_VARIANT_1_DESC"
-
-REFERENCE            spetsnaz_default
-LANG_ENGLISH         "The Fix"
-
-REFERENCE            spetsnaz_default_desc
-LANG_ENGLISH         "SPETSNAZ_DEFAULT_DESC"
-
-REFERENCE            spetsnaz_variant_1
-LANG_ENGLISH         "SPETSNAZ_VARIANT_1"
-
-REFERENCE            spetsnaz_variant_1_desc
-LANG_ENGLISH         "SPETSNAZ_VARIANT_1_DESC"
-
-REFERENCE            spetsnaz_variant_2
-LANG_ENGLISH         "SPETSNAZ_VARIANT_2"
-
-REFERENCE            stohli_default
-LANG_ENGLISH         "STOHLI_DEFAULT"
-
-REFERENCE            stohli_default_desc
-LANG_ENGLISH         "STOHLI_DEFAULT_DESC"
-
-REFERENCE            stohli_variant_1
-LANG_ENGLISH         "STOHLI_VARIANT_1"
-
-REFERENCE            stohli_variant_1_desc
-LANG_ENGLISH         "STOHLI_VARIANT_1_DESC"
-
-REFERENCE            syd_default
-LANG_ENGLISH         "Foul Play"
-
-REFERENCE            syd_default_desc
-LANG_ENGLISH         "SYD_DEFAULT_DESC"
-
-REFERENCE            syd_variant_1
-LANG_ENGLISH         "Brass Boxer"
-
-REFERENCE            syd_variant_1_desc
-LANG_ENGLISH         "SYD_VARIANT_1_DESC"
-
-REFERENCE            syd_variant_2
-LANG_ENGLISH         "Precision Point"
-
-REFERENCE            throat_cut
-LANG_ENGLISH         "Throat Cut"
-
-REFERENCE            trigg_default
-LANG_ENGLISH         "TRIGG_DEFAULT"
-
-REFERENCE            trigg_default_desc
-LANG_ENGLISH         "TRIGG_DEFAULT_DESC"
-
-REFERENCE            trigg_variant_1
-LANG_ENGLISH         "TRIGG_VARIANT_1"
-
-REFERENCE            trigg_variant_1_desc
-LANG_ENGLISH         "TRIGG_VARIANT_1_DESC"
-
-REFERENCE            universal_variant_01
-LANG_ENGLISH         "Three Strikes"
-
-REFERENCE            universal_variant_01_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_01_DESC"
-
-REFERENCE            universal_variant_02
-LANG_ENGLISH         "Low Rise"
-
-REFERENCE            universal_variant_02_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_02_DESC"
-
-REFERENCE            universal_variant_03
-LANG_ENGLISH         "Gutted"
-
-REFERENCE            universal_variant_03_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_03_DESC"
-
-REFERENCE            universal_variant_04
-LANG_ENGLISH         "Perforate"
-
-REFERENCE            universal_variant_04_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_04_DESC"
-
-REFERENCE            universal_variant_05
-LANG_ENGLISH         "Riley"
-
-REFERENCE            universal_variant_05_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_05_DESC"
-
-REFERENCE            universal_variant_06
-LANG_ENGLISH         "Watch This"
-
-REFERENCE            universal_variant_06_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_06_DESC"
-
-REFERENCE            universal_variant_07
-LANG_ENGLISH         "Hello Stranger"
-
-REFERENCE            universal_variant_07_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_07_DESC"
-
-REFERENCE            universal_variant_08
-LANG_ENGLISH         "Spin Cycle"
-
-REFERENCE            universal_variant_08_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_08_DESC"
-
-REFERENCE            universal_variant_09
-LANG_ENGLISH         "Pew Pew Pew"
-
-REFERENCE            universal_variant_09_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_09_DESC"
-
-REFERENCE            universal_variant_10
-LANG_ENGLISH         "Bush League"
-
-REFERENCE            universal_variant_10_desc
-LANG_ENGLISH         "Didn't see you there"
-
-REFERENCE            universal_variant_11
-LANG_ENGLISH         "UNIVERSAL_VARIANT_11"
-
-REFERENCE            universal_variant_11_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_11_DESC"
-
-REFERENCE            universal_variant_12
-LANG_ENGLISH         "Fangs Out"
-
-REFERENCE            universal_variant_12_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_12_DESC"
-
-REFERENCE            universal_variant_13
-LANG_ENGLISH         "UNIVERSAL_VARIANT_13"
-
-REFERENCE            universal_variant_13_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_13_DESC"
-
-REFERENCE            universal_variant_14
-LANG_ENGLISH         "Crick In The Neck"
-
-REFERENCE            universal_variant_14_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_14_DESC"
-
-REFERENCE            universal_variant_15
-LANG_ENGLISH         "Chip Shot"
-
-REFERENCE            universal_variant_15_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_15_DESC"
-
-REFERENCE            universal_variant_16
-LANG_ENGLISH         "UNIVERSAL_VARIANT_16"
-
-REFERENCE            universal_variant_16_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_16_DESC"
-
-REFERENCE            universal_variant_17
-LANG_ENGLISH         "Bag 'Em"
-
-REFERENCE            universal_variant_17_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_17_DESC"
-
-REFERENCE            universal_variant_18
-LANG_ENGLISH         "Sasquatch"
-
-REFERENCE            universal_variant_18_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_18_DESC"
-
-REFERENCE            universal_variant_19
-LANG_ENGLISH         "Sputnik"
-
-REFERENCE            universal_variant_19_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_19_DESC"
-
-REFERENCE            universal_variant_20
-LANG_ENGLISH         "Snafu"
-
-REFERENCE            universal_variant_20_desc
-LANG_ENGLISH         "UNIVERSAL_VARIANT_20_DESC"
-
-REFERENCE            universal_variant_21
-LANG_ENGLISH         "Nevermore"
-
-REFERENCE            velikan_default
-LANG_ENGLISH         "Take a Bow"
-
-REFERENCE            velikan_default_desc
-LANG_ENGLISH         "VELIKAN_DEFAULT_DESC"
-
-REFERENCE            wyatt_default
-LANG_ENGLISH         "Achilles Heel"
-
-REFERENCE            wyatt_default_desc
-LANG_ENGLISH         "WYATT_DEFAULT_DESC"
-
-REFERENCE            wyatt_variant_1
-LANG_ENGLISH         "Down to Size"
-
-REFERENCE            wyatt_variant_1_desc
-LANG_ENGLISH         "WYATT_VARIANT_1_DESC"
-
-REFERENCE            wyatt_variant_2
-LANG_ENGLISH         "Mighty Chop"
-
-REFERENCE            yegor_default
-LANG_ENGLISH         "Hobble and Slay"
-
-REFERENCE            yegor_default_desc
-LANG_ENGLISH         "YEGOR_DEFAULT_DESC"
-
-REFERENCE            yegor_variant_1
-LANG_ENGLISH         "Brass Tactics"
-
-REFERENCE            yegor_variant_1_desc
-LANG_ENGLISH         "YEGOR_VARIANT_1_DESC"
-
-REFERENCE            yegor_variant_2
-LANG_ENGLISH         "Leg Sweep"
-
-REFERENCE            yolandi_default
-LANG_ENGLISH         "YOLANDI_DEFAULT"
-
-REFERENCE            yolandi_default_desc
-LANG_ENGLISH         "YOLANDI_DEFAULT_DESC"
-
-REFERENCE            yolandi_variant_1
-LANG_ENGLISH         "YOLANDI_VARIANT_1"
-
-REFERENCE            yolandi_variant_1_desc
-LANG_ENGLISH         "YOLANDI_VARIANT_1_DESC"
-
-REFERENCE            zane_default
-LANG_ENGLISH         "Knee Deep"
-
-REFERENCE            zane_default_desc
-LANG_ENGLISH         "ZANE_DEFAULT_DESC"
-
-REFERENCE            zane_variant_1
-LANG_ENGLISH         "Join the Club"
-
-REFERENCE            zane_variant_1_desc
-LANG_ENGLISH         "ZANE_VARIANT_1_DESC"
-
-REFERENCE            zane_variant_2
-LANG_ENGLISH         "Hold This"
-
-REFERENCE            zedra_default
-LANG_ENGLISH         "Chest Pains"
-
-REFERENCE            zedra_default_desc
-LANG_ENGLISH         "ZEDRA_DEFAULT_DESC"
-
-REFERENCE            zedra_variant_1
-LANG_ENGLISH         "Herding"
+REFERENCE            zedra_variant_2
+LANG_ENGLISH         "Queen of Spades"
 
 REFERENCE            zedra_variant_1_desc
 LANG_ENGLISH         "ZEDRA_VARIANT_1_DESC"
 
-REFERENCE            zedra_variant_2
-LANG_ENGLISH         "Queen of Spades"
+REFERENCE            zedra_variant_1
+LANG_ENGLISH         "Herding"
+
+REFERENCE            zedra_default_desc
+LANG_ENGLISH         "ZEDRA_DEFAULT_DESC"
+
+REFERENCE            zedra_default
+LANG_ENGLISH         "Chest Pains"
+
+REFERENCE            zane_variant_2
+LANG_ENGLISH         "Hold This"
+
+REFERENCE            zane_variant_1_desc
+LANG_ENGLISH         "ZANE_VARIANT_1_DESC"
+
+REFERENCE            zane_variant_1
+LANG_ENGLISH         "Join the Club"
+
+REFERENCE            zane_default_desc
+LANG_ENGLISH         "ZANE_DEFAULT_DESC"
+
+REFERENCE            zane_default
+LANG_ENGLISH         "Knee Deep"
+
+REFERENCE            yolandi_variant_1_desc
+LANG_ENGLISH         "YOLANDI_VARIANT_1_DESC"
+
+REFERENCE            yolandi_variant_1
+LANG_ENGLISH         "YOLANDI_VARIANT_1"
+
+REFERENCE            yolandi_default_desc
+LANG_ENGLISH         "YOLANDI_DEFAULT_DESC"
+
+REFERENCE            yolandi_default
+LANG_ENGLISH         "YOLANDI_DEFAULT"
+
+REFERENCE            yegor_variant_2
+LANG_ENGLISH         "Leg Sweep"
+
+REFERENCE            yegor_variant_1_desc
+LANG_ENGLISH         "YEGOR_VARIANT_1_DESC"
+
+REFERENCE            yegor_variant_1
+LANG_ENGLISH         "Brass Tactics"
+
+REFERENCE            yegor_default_desc
+LANG_ENGLISH         "YEGOR_DEFAULT_DESC"
+
+REFERENCE            yegor_default
+LANG_ENGLISH         "Hobble and Slay"
+
+REFERENCE            wyatt_variant_2
+LANG_ENGLISH         "Mighty Chop"
+
+REFERENCE            wyatt_variant_1_desc
+LANG_ENGLISH         "WYATT_VARIANT_1_DESC"
+
+REFERENCE            wyatt_variant_1
+LANG_ENGLISH         "Down to Size"
+
+REFERENCE            wyatt_default_desc
+LANG_ENGLISH         "WYATT_DEFAULT_DESC"
+
+REFERENCE            wyatt_default
+LANG_ENGLISH         "Achilles Heel"
+
+REFERENCE            velikan_default_desc
+LANG_ENGLISH         "VELIKAN_DEFAULT_DESC"
+
+REFERENCE            velikan_default
+LANG_ENGLISH         "Take a Bow"
+
+REFERENCE            universal_variant_26_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_26_DESC"
+
+REFERENCE            universal_variant_26
+LANG_ENGLISH         "UNIVERSAL_VARIANT_26"
+
+REFERENCE            universal_variant_25_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_25_DESC"
+
+REFERENCE            universal_variant_25
+LANG_ENGLISH         "Toto"
+
+REFERENCE            universal_variant_24
+LANG_ENGLISH         "Edward"
+
+REFERENCE            universal_variant_23
+LANG_ENGLISH         "Hellhound"
+
+REFERENCE            universal_variant_22
+LANG_ENGLISH         "Tuco"
+
+REFERENCE            universal_variant_21
+LANG_ENGLISH         "Nevermore"
+
+REFERENCE            universal_variant_20_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_20_DESC"
+
+REFERENCE            universal_variant_20
+LANG_ENGLISH         "Snafu"
+
+REFERENCE            universal_variant_19_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_19_DESC"
+
+REFERENCE            universal_variant_19
+LANG_ENGLISH         "Sputnik"
+
+REFERENCE            universal_variant_18_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_18_DESC"
+
+REFERENCE            universal_variant_18
+LANG_ENGLISH         "Sasquatch"
+
+REFERENCE            universal_variant_17_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_17_DESC"
+
+REFERENCE            universal_variant_17
+LANG_ENGLISH         "Bag 'Em"
+
+REFERENCE            universal_variant_16_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_16_DESC"
+
+REFERENCE            universal_variant_16
+LANG_ENGLISH         "UNIVERSAL_VARIANT_16"
+
+REFERENCE            universal_variant_15_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_15_DESC"
+
+REFERENCE            universal_variant_15
+LANG_ENGLISH         "Chip Shot"
+
+REFERENCE            universal_variant_14_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_14_DESC"
+
+REFERENCE            universal_variant_14
+LANG_ENGLISH         "Crick In The Neck"
+
+REFERENCE            universal_variant_13_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_13_DESC"
+
+REFERENCE            universal_variant_13
+LANG_ENGLISH         "Payback"
+
+REFERENCE            universal_variant_12_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_12_DESC"
+
+REFERENCE            universal_variant_12
+LANG_ENGLISH         "Fangs Out"
+
+REFERENCE            universal_variant_11_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_11_DESC"
+
+REFERENCE            universal_variant_11
+LANG_ENGLISH         "UNIVERSAL_VARIANT_11"
+
+REFERENCE            universal_variant_10_desc
+LANG_ENGLISH         "Didn't see you there"
+
+REFERENCE            universal_variant_10
+LANG_ENGLISH         "Bush League"
+
+REFERENCE            universal_variant_09_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_09_DESC"
+
+REFERENCE            universal_variant_09
+LANG_ENGLISH         "Pew Pew Pew"
+
+REFERENCE            universal_variant_08_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_08_DESC"
+
+REFERENCE            universal_variant_08
+LANG_ENGLISH         "Spin Cycle"
+
+REFERENCE            universal_variant_07_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_07_DESC"
+
+REFERENCE            universal_variant_07
+LANG_ENGLISH         "Hello Stranger"
+
+REFERENCE            universal_variant_06_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_06_DESC"
+
+REFERENCE            universal_variant_06
+LANG_ENGLISH         "Watch This"
+
+REFERENCE            universal_variant_05_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_05_DESC"
+
+REFERENCE            universal_variant_05
+LANG_ENGLISH         "Riley"
+
+REFERENCE            universal_variant_04_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_04_DESC"
+
+REFERENCE            universal_variant_04
+LANG_ENGLISH         "Perforate"
+
+REFERENCE            universal_variant_03_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_03_DESC"
+
+REFERENCE            universal_variant_03
+LANG_ENGLISH         "Gutted"
+
+REFERENCE            universal_variant_02_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_02_DESC"
+
+REFERENCE            universal_variant_02
+LANG_ENGLISH         "Low Rise"
+
+REFERENCE            universal_variant_01_desc
+LANG_ENGLISH         "UNIVERSAL_VARIANT_01_DESC"
+
+REFERENCE            universal_variant_01
+LANG_ENGLISH         "Three Strikes"
+
+REFERENCE            trigg_variant_1_desc
+LANG_ENGLISH         "TRIGG_VARIANT_1_DESC"
+
+REFERENCE            trigg_variant_1
+LANG_ENGLISH         "TRIGG_VARIANT_1"
+
+REFERENCE            trigg_default_desc
+LANG_ENGLISH         "TRIGG_DEFAULT_DESC"
+
+REFERENCE            trigg_default
+LANG_ENGLISH         "TRIGG_DEFAULT"
+
+REFERENCE            throat_cut
+LANG_ENGLISH         "Throat Cut"
+
+REFERENCE            t9kgb_default
+LANG_ENGLISH         "VTS_TEST_EXECUTION"
+
+REFERENCE            t9_execution_004_desc
+LANG_ENGLISH         ""
+
+REFERENCE            t9_execution_004
+LANG_ENGLISH         "Default"
+
+REFERENCE            syd_variant_2
+LANG_ENGLISH         "Precision Point"
+
+REFERENCE            syd_variant_1_desc
+LANG_ENGLISH         "SYD_VARIANT_1_DESC"
+
+REFERENCE            syd_variant_1
+LANG_ENGLISH         "Brass Boxer"
+
+REFERENCE            syd_default_desc
+LANG_ENGLISH         "SYD_DEFAULT_DESC"
+
+REFERENCE            syd_default
+LANG_ENGLISH         "Foul Play"
+
+REFERENCE            stohli_variant_1_desc
+LANG_ENGLISH         "STOHLI_VARIANT_1_DESC"
+
+REFERENCE            stohli_variant_1
+LANG_ENGLISH         "STOHLI_VARIANT_1"
+
+REFERENCE            stohli_default_desc
+LANG_ENGLISH         "STOHLI_DEFAULT_DESC"
+
+REFERENCE            stohli_default
+LANG_ENGLISH         "STOHLI_DEFAULT"
+
+REFERENCE            spetsnaz_variant_2
+LANG_ENGLISH         "SPETSNAZ_VARIANT_2"
+
+REFERENCE            spetsnaz_variant_1_desc
+LANG_ENGLISH         "SPETSNAZ_VARIANT_1_DESC"
+
+REFERENCE            spetsnaz_variant_1
+LANG_ENGLISH         "SPETSNAZ_VARIANT_1"
+
+REFERENCE            spetsnaz_default_desc
+LANG_ENGLISH         "SPETSNAZ_DEFAULT_DESC"
+
+REFERENCE            spetsnaz_default
+LANG_ENGLISH         "The Fix"
+
+REFERENCE            ronin_variant_1_desc
+LANG_ENGLISH         "RONIN_VARIANT_1_DESC"
+
+REFERENCE            ronin_variant_1
+LANG_ENGLISH         "RONIN_VARIANT_1"
+
+REFERENCE            ronin_default_desc
+LANG_ENGLISH         "RONIN_DEFAULT_DESC"
+
+REFERENCE            ronin_default
+LANG_ENGLISH         "Slice and Dice"
+
+REFERENCE            rodion_variant_2
+LANG_ENGLISH         "Walk Into It"
+
+REFERENCE            rodion_variant_1_desc
+LANG_ENGLISH         "RODION_VARIANT_1_DESC"
+
+REFERENCE            rodion_variant_1
+LANG_ENGLISH         "Lined Up"
+
+REFERENCE            rodion_default_desc
+LANG_ENGLISH         "RODION_DEFAULT_DESC"
+
+REFERENCE            rodion_default
+LANG_ENGLISH         "Death Pirouette"
+
+REFERENCE            raines_variant_2
+LANG_ENGLISH         "Turnover"
+
+REFERENCE            raines_variant_1_desc
+LANG_ENGLISH         "RAINES_VARIANT_1_DESC"
+
+REFERENCE            raines_variant_1
+LANG_ENGLISH         "Martial Law"
+
+REFERENCE            raines_default_desc
+LANG_ENGLISH         "RAINES_DEFAULT_DESC"
+
+REFERENCE            raines_default
+LANG_ENGLISH         "Axe and Receive"
+
+REFERENCE            quin_variant_1_desc
+LANG_ENGLISH         "QUIN_VARIANT_1_DESC"
+
+REFERENCE            quin_variant_1
+LANG_ENGLISH         "QUIN_VARIANT_1"
+
+REFERENCE            quin_default_desc
+LANG_ENGLISH         "QUIN_DEFAULT_DESC"
+
+REFERENCE            quin_default
+LANG_ENGLISH         "QUIN_DEFAULT"
+
+REFERENCE            price_variant_1_desc
+LANG_ENGLISH         "PRICE_VARIANT_1_DESC"
+
+REFERENCE            price_variant_1
+LANG_ENGLISH         "Enlightened"
+
+REFERENCE            price_default_desc
+LANG_ENGLISH         "PRICE_DEFAULT_DESC"
+
+REFERENCE            price_default
+LANG_ENGLISH         "Staying Frosty"
+
+REFERENCE            otter_variant_2
+LANG_ENGLISH         "Ice Breaker"
+
+REFERENCE            otter_variant_1_desc
+LANG_ENGLISH         "OTTER_VARIANT_1_DESC"
+
+REFERENCE            otter_variant_1
+LANG_ENGLISH         "First Degree"
+
+REFERENCE            otter_default_desc
+LANG_ENGLISH         "OTTER_DEFAULT_DESC"
+
+REFERENCE            otter_default
+LANG_ENGLISH         "Cranial Carnage"
+
+REFERENCE            nikolai_default_desc
+LANG_ENGLISH         "NIKOLAI_DEFAULT_DESC"
+
+REFERENCE            nikolai_default
+LANG_ENGLISH         "Do The Spadework"
+
+REFERENCE            neck_stab
+LANG_ENGLISH         "Neck Stab"
+
+REFERENCE            murphy_variant_2
+LANG_ENGLISH         "Icy Veins"
+
+REFERENCE            murphy_variant_1_desc
+LANG_ENGLISH         "MURPHY_VARIANT_1_DESC"
+
+REFERENCE            murphy_variant_1
+LANG_ENGLISH         "Close and Personal"
+
+REFERENCE            murphy_default_desc
+LANG_ENGLISH         "MURPHY_DEFAULT_DESC"
+
+REFERENCE            murphy_default
+LANG_ENGLISH         "Riot Control"
+
+REFERENCE            minotavr_variant_2
+LANG_ENGLISH         "Pinned"
+
+REFERENCE            minotavr_variant_1_desc
+LANG_ENGLISH         "MINOTAVR_VARIANT_1_DESC"
+
+REFERENCE            minotavr_variant_1
+LANG_ENGLISH         "Face the Adze"
+
+REFERENCE            minotavr_default_desc
+LANG_ENGLISH         "MINOTAVR_DEFAULT_DESC"
+
+REFERENCE            minotavr_default
+LANG_ENGLISH         "Face the End"
+
+REFERENCE            mghost_variant_1_desc
+LANG_ENGLISH         "MGHOST_VARIANT_1_DESC"
+
+REFERENCE            mghost_variant_1
+LANG_ENGLISH         "Run Through"
+
+REFERENCE            mghost_default_desc
+LANG_ENGLISH         "MGHOST_DEFAULT_DESC"
+
+REFERENCE            mghost_default
+LANG_ENGLISH         "Mace to the Face"
+
+REFERENCE            lynch_variant_1_desc
+LANG_ENGLISH         "LYNCH_VARIANT_1_DESC"
+
+REFERENCE            lynch_variant_1
+LANG_ENGLISH         "LYNCH_VARIANT_1"
+
+REFERENCE            lynch_default_desc
+LANG_ENGLISH         "LYNCH_DEFAULT_DESC"
+
+REFERENCE            lynch_default
+LANG_ENGLISH         "LYNCH_DEFAULT"
+
+REFERENCE            lerch_default_desc
+LANG_ENGLISH         "LERCH_DEFAULT_DESC"
+
+REFERENCE            lerch_default
+LANG_ENGLISH         "Brick by Brick"
+
+REFERENCE            kyle_default_desc
+LANG_ENGLISH         "KYLE_DEFAULT_DESC"
+
+REFERENCE            kyle_default
+LANG_ENGLISH         "Ice To Meet You"
+
+REFERENCE            kreuger_variant_2
+LANG_ENGLISH         "Knife To Meet You"
+
+REFERENCE            kreuger_variant_1_desc
+LANG_ENGLISH         "KREUGER_VARIANT_1_DESC"
+
+REFERENCE            kreuger_variant_1
+LANG_ENGLISH         "Brassed Off"
+
+REFERENCE            kreuger_default_desc
+LANG_ENGLISH         "KREUGER_DEFAULT_DESC"
+
+REFERENCE            kreuger_default
+LANG_ENGLISH         "Take Down"
+
+REFERENCE            kato_variant_1_desc
+LANG_ENGLISH         "KATO_VARIANT_1_DESC"
+
+REFERENCE            kato_variant_1
+LANG_ENGLISH         "KATO_VARIANT_1"
+
+REFERENCE            kato_default_desc
+LANG_ENGLISH         "KATO_DEFAULT_DESC"
+
+REFERENCE            kato_default
+LANG_ENGLISH         "KATO_DEFAULT"
+
+REFERENCE            iskra_variant_1_desc
+LANG_ENGLISH         "ISKRA_VARIANT_1_DESC"
+
+REFERENCE            iskra_variant_1
+LANG_ENGLISH         "ISKRA_VARIANT_1"
+
+REFERENCE            iskra_default_desc
+LANG_ENGLISH         "ISKRA_DEFAULT_DESC"
+
+REFERENCE            iskra_default
+LANG_ENGLISH         "Carver"
+
+REFERENCE            hooper_variant_1_desc
+LANG_ENGLISH         "HOOPER_VARIANT_1_DESC"
+
+REFERENCE            hooper_variant_1
+LANG_ENGLISH         "HOOPER_VARIANT_1"
+
+REFERENCE            hooper_default_desc
+LANG_ENGLISH         "HOOPER_DEFAULT_DESC"
+
+REFERENCE            hooper_default
+LANG_ENGLISH         "HOOPER_DEFAULT"
+
+REFERENCE            grinch_variant_2
+LANG_ENGLISH         "Laying Brick"
+
+REFERENCE            grinch_variant_1_desc
+LANG_ENGLISH         "GRINCH_VARIANT_1_DESC"
+
+REFERENCE            grinch_variant_1
+LANG_ENGLISH         "Go Clubbing"
+
+REFERENCE            grinch_default_desc
+LANG_ENGLISH         "GRINCH_DEFAULT_DESC"
+
+REFERENCE            grinch_default
+LANG_ENGLISH         "Infiltration"
+
+REFERENCE            griggs_default_desc
+LANG_ENGLISH         "GRIGGS_DEFAULT_DESC"
+
+REFERENCE            griggs_default
+LANG_ENGLISH         "Step Aside"
+
+REFERENCE            golem_variant_2
+LANG_ENGLISH         "Laid To Rest"
+
+REFERENCE            golem_variant_1_desc
+LANG_ENGLISH         "GOLEM_VARIANT_1_DESC"
+
+REFERENCE            golem_variant_1
+LANG_ENGLISH         "Say Watt"
+
+REFERENCE            golem_default_desc
+LANG_ENGLISH         "GOLEM_DEFAULT_DESC"
+
+REFERENCE            golem_default
+LANG_ENGLISH         "Disdainful Destruction"
+
+REFERENCE            ghost_variant_1_desc
+LANG_ENGLISH         "GHOST_VARIANT_1_DESC"
+
+REFERENCE            ghost_variant_1
+LANG_ENGLISH         "Belly Flop"
+
+REFERENCE            ghost_default_desc
+LANG_ENGLISH         "GHOST_DEFAULT_DESC"
+
+REFERENCE            ghost_default
+LANG_ENGLISH         "Slideshot"
+
+REFERENCE            farah_variant_1_desc
+LANG_ENGLISH         "FARAH_VARIANT_1_DESC"
+
+REFERENCE            farah_variant_1
+LANG_ENGLISH         "FARAH_VARIANT_1"
+
+REFERENCE            farah_default_desc
+LANG_ENGLISH         "FARAH_DEFAULT_DESC"
+
+REFERENCE            farah_default
+LANG_ENGLISH         "Lose By A Neck"
+
+REFERENCE            execution
+LANG_ENGLISH         "Finishing Move"
+
+REFERENCE            domino_variant_2
+LANG_ENGLISH         "Grave Digger"
+
+REFERENCE            domino_variant_1_desc
+LANG_ENGLISH         "DOMINO_VARIANT_1_DESC"
+
+REFERENCE            domino_variant_1
+LANG_ENGLISH         "Electrifying End"
+
+REFERENCE            domino_default_desc
+LANG_ENGLISH         "DOMINO_DEFAULT_DESC"
+
+REFERENCE            domino_default
+LANG_ENGLISH         "Disable and Decimate"
+
+REFERENCE            dingo_variant_1_desc
+LANG_ENGLISH         "DINGO_VARIANT_1_DESC"
+
+REFERENCE            dingo_variant_1
+LANG_ENGLISH         "DINGO_VARIANT_1"
+
+REFERENCE            dingo_default_desc
+LANG_ENGLISH         "DINGO_DEFAULT_DESC"
+
+REFERENCE            dingo_default
+LANG_ENGLISH         "DINGO_DEFAULT"
+
+REFERENCE            default_western
+LANG_ENGLISH         "Pierce the Jug"
+
+REFERENCE            default_eastern
+LANG_ENGLISH         "Shanks A Lot"
+
+REFERENCE            default
+LANG_ENGLISH         "none"
+
+REFERENCE            dday_variant_2
+LANG_ENGLISH         "Stick 'n' Knife"
+
+REFERENCE            dday_variant_1_desc
+LANG_ENGLISH         "DDAY_VARIANT_1_DESC"
+
+REFERENCE            dday_variant_1
+LANG_ENGLISH         "Spine Snapper"
+
+REFERENCE            dday_default_desc
+LANG_ENGLISH         "DDAY_DEFAULT_DESC"
+
+REFERENCE            dday_default
+LANG_ENGLISH         "Hatchet Hitman"
+
+REFERENCE            crowfoot_variant_1_desc
+LANG_ENGLISH         "CROWFOOT_VARIANT_1_DESC"
+
+REFERENCE            crowfoot_variant_1
+LANG_ENGLISH         "CROWFOOT_VARIANT_1"
+
+REFERENCE            crowfoot_default_desc
+LANG_ENGLISH         "CROWFOOT_DEFAULT_DESC"
+
+REFERENCE            crowfoot_default
+LANG_ENGLISH         "Sick 'Em"
+
+REFERENCE            charly_variant_2
+LANG_ENGLISH         "Between The Ribs"
+
+REFERENCE            charly_variant_1_desc
+LANG_ENGLISH         "CHARLY_VARIANT_1_DESC"
+
+REFERENCE            charly_variant_1
+LANG_ENGLISH         "Cold Blooded"
+
+REFERENCE            charly_default_desc
+LANG_ENGLISH         "CHARLY_DEFAULT_DESC"
+
+REFERENCE            charly_default
+LANG_ENGLISH         "Baton Dispatch"
+
+REFERENCE            bale_variant_2
+LANG_ENGLISH         "Trick Shot"
+
+REFERENCE            bale_variant_1_desc
+LANG_ENGLISH         "BALE_VARIANT_1_DESC"
+
+REFERENCE            bale_variant_1
+LANG_ENGLISH         "Counterplay"
+
+REFERENCE            bale_default_desc
+LANG_ENGLISH         "BALE_DEFAULT_DESC"
+
+REFERENCE            bale_default
+LANG_ENGLISH         "Head to Head"
+
+REFERENCE            azur_variant_2
+LANG_ENGLISH         "Wall Breaker"
+
+REFERENCE            azur_variant_1_desc
+LANG_ENGLISH         "AZUR_VARIANT_1_DESC"
+
+REFERENCE            azur_variant_1
+LANG_ENGLISH         "Clubbed"
+
+REFERENCE            azur_default_desc
+LANG_ENGLISH         "AZUR_DEFAULT_DESC"
+
+REFERENCE            azur_default
+LANG_ENGLISH         "Disable and Kill"
+
+REFERENCE            alice_variant_2
+LANG_ENGLISH         "Misdirection"
+
+REFERENCE            alice_variant_1_desc
+LANG_ENGLISH         "ALICE_VARIANT_1_DESC"
+
+REFERENCE            alice_variant_1
+LANG_ENGLISH         "Deft Dispatch"
+
+REFERENCE            alice_default_desc
+LANG_ENGLISH         "ALICE_DEFAULT_DESC"
+
+REFERENCE            alice_default
+LANG_ENGLISH         "Axe You Nicely"
+
+REFERENCE            alex_variant_1_desc
+LANG_ENGLISH         "ALEX_VARIANT_1_DESC"
+
+REFERENCE            alex_variant_1
+LANG_ENGLISH         "Sweep the Leg"
+
+REFERENCE            alex_default_desc
+LANG_ENGLISH         "ALEX_DEFAULT_DESC"
+
+REFERENCE            alex_default
+LANG_ENGLISH         "1,2,3"
 
 
 ENDMARKER

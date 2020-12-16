@@ -149,16 +149,6 @@
 	wegame		"1"
 }
 {
-	map			"cp_sv_vacant"
-	longname	"LUA_MENU/MAPNAME_VACANT"
-	gametype	"Aliens cp_wave_sv, none"
-	defaultgametype "cp_wave_sv"
-	description "PLAYLIST/CP_WAVE_SURVIVAL_MODE"
-	mapimage    "loading_mp_vacant_bg"
-	mappack		"0" 
-	wegame		"1"
-}
-{
 	map			"cp_sv_speed"
 	longname	"PLAYLIST/CP_SV_SPEED_NAME"
 	gametype	"Aliens cp_wave_sv, none"
@@ -389,6 +379,16 @@
 	wegame		"1"
 }
 {
+	map			"mp_escape2"
+	longname	"LUA_MENU/MAPNAME_ESCAPE2"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth oic rugby sd siege tdef tjugg war"
+	description "LUA_MENU/MAPNAME_ESCAPE2"
+	mapimage    "loading_mp_escape2_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
 	map			"mp_donetsk2"
 	longname	"LUA_MENU/MAPNAME_DONETSK"
 	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth oic rugby sd siege tdef tjugg war"
@@ -463,7 +463,7 @@
 	longname	"LUA_MENU/MAPNAME_KSTENOD"
 	gametype	"br"
 	description "LUA_MENU/MAPNAME_KSTENOD"
-	mapimage    "loading_mp_donetsk_bg"
+	mapimage    "loading_mp_kstenod_bg"
 	mapvoteimage "image_mp_map_templogo_vote"
 	mappack		"0" 
 	wegame		"1"
@@ -484,7 +484,7 @@
 	longname	"LUA_MENU/MAPNAME_BROADCAST"
 	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth oic rugby sd siege tdef tjugg war"
 	description "LUA_MENU/MAPNAME_BROADCAST"
-	mapimage    "image_mp_map_templogo"
+	mapimage    "loading_mp_broadcast2_bg"
 	mapvoteimage "image_mp_map_templogo_vote"
 	mappack		"0" 
 	wegame		"1"
@@ -555,6 +555,16 @@
 	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth oic rugby sd siege tdef tjugg war"
 	description "LUA_MENU/MAPNAME_INVASION"
 	mapimage    "image_mp_map_templogo"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_killhouse"
+	longname	"LUA_MENU/MAPNAME_KILLHOUSE"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth oic rugby sd siege tdef tjugg war"
+	description "LUA_MENU/MAPNAME_KILLHOUSE"
+	mapimage    "loading_mp_killhouse_bg"
 	mapvoteimage "image_mp_map_templogo_vote"
 	mappack		"0" 
 	wegame		"1"
@@ -814,7 +824,7 @@
 	longname	"LUA_MENU/MAPNAME_MALYSHEV"
 	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth oic rugby sd siege tdef tjugg war"
 	description "LUA_MENU/MAPNAME_MALYSHEV"
-	mapimage    "image_mp_map_templogo"
+	mapimage    "loading_mp_malyshev_bg"
 	mapvoteimage "image_mp_map_templogo_vote"
 	mappack		"0" 
 	wegame		"1"
@@ -950,6 +960,16 @@
 	wegame		"1"
 }
 {
+	map			"mp_m_stadium"
+	longname	"LUA_MENU/MAPNAME_M_STADIUM"
+	gametype	"arena conf ctf cyber dm dom grind gun hvt infect oic sd siege tdef tjugg war"
+	description "LUA_MENU/MAPNAME_M_STADIUM"
+	mapimage    "loading_mp_m_stadium_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
 	map			"mp_m_theater"
 	longname	"LUA_MENU/MAPNAME_M_THEATER"
 	gametype	"arena conf ctf cyber dm dom grind gun hvt infect oic sd siege tdef tjugg war"
@@ -974,7 +994,7 @@
 	longname	"LUA_MENU/MAPNAME_M_TRAIN"
 	gametype	"arena conf ctf cyber dm dom grind gun hvt infect oic sd siege tdef tjugg war"
 	description "LUA_MENU/MAPNAME_M_TRAIN"
-	mapimage    "image_mp_map_templogo"
+	mapimage    "loading_mp_m_train_bg"
 	mapvoteimage "image_mp_map_templogo_vote"
 	mappack		"0" 
 	wegame		"1"
@@ -1274,7 +1294,7 @@
 	longname	"LUA_MENU/MAPNAME_RIVERSIDE"
 	gametype	"arm"
 	description "LUA_MENU/MAPNAME_RIVERSIDE"
-	mapimage    "loading_mp_port2_gw_bg"
+	mapimage    "loading_mp_riverside_gw_bg"
 	mapvoteimage "image_mp_map_templogo_vote"
 	mappack		"0" 
 	wegame		"1"

@@ -186,10 +186,10 @@ REFERENCE            mp_bigmap_locale_18_axis_4
 LANG_ENGLISH         "Chimera - Unit 1"
 
 REFERENCE            mp_bigmap_locale_19_allies_1
-LANG_ENGLISH         "Operation: Riverside"
+LANG_ENGLISH         "Operation: Verdansk Riverside"
 
 REFERENCE            mp_bigmap_locale_19_allies_2
-LANG_ENGLISH         "Day 107 2:05:"
+LANG_ENGLISH         "Day 107 14:05:"
 
 REFERENCE            mp_bigmap_locale_19_allies_3
 LANG_ENGLISH         "Verdansk, Kastovia"
@@ -198,10 +198,10 @@ REFERENCE            mp_bigmap_locale_19_allies_4
 LANG_ENGLISH         "SAS - Detachment Delta"
 
 REFERENCE            mp_bigmap_locale_19_axis_1
-LANG_ENGLISH         "Operation: Riverside"
+LANG_ENGLISH         "Operation: Verdansk Riverside"
 
 REFERENCE            mp_bigmap_locale_19_axis_2
-LANG_ENGLISH         "Day 107 2:05:"
+LANG_ENGLISH         "Day 107 14:05:"
 
 REFERENCE            mp_bigmap_locale_19_axis_3
 LANG_ENGLISH         "Verdansk, Kastovia"
@@ -376,6 +376,30 @@ LANG_ENGLISH         "Aircraft Graveyard - Verdansk, Kastovia"
 
 REFERENCE            mp_boneyard_gw_axis_4
 LANG_ENGLISH         "22nd Spetsnaz Brigade"
+
+REFERENCE            mp_broadcast2_allies_1
+LANG_ENGLISH         "Operation: Broadcast"
+
+REFERENCE            mp_broadcast2_allies_2
+LANG_ENGLISH         "Day 403 18:59:"
+
+REFERENCE            mp_broadcast2_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_broadcast2_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_broadcast2_axis_1
+LANG_ENGLISH         "Operation: Broadcast"
+
+REFERENCE            mp_broadcast2_axis_2
+LANG_ENGLISH         "Day 403 18:59:"
+
+REFERENCE            mp_broadcast2_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_broadcast2_axis_4
+LANG_ENGLISH         "Chimera - Unit 1"
 
 REFERENCE            mp_cave_allies_1
 LANG_ENGLISH         "Operation: Azhir Cave"
@@ -725,6 +749,30 @@ LANG_ENGLISH         "London, England"
 REFERENCE            mp_hardhat_axis_4
 LANG_ENGLISH         "Chimera - Unit 1"
 
+REFERENCE            mp_herat_allies_1
+LANG_ENGLISH         "Operation: Al-Raab Airbase"
+
+REFERENCE            mp_herat_allies_2
+LANG_ENGLISH         "Day 480 14:32:"
+
+REFERENCE            mp_herat_allies_3
+LANG_ENGLISH         "Al-Raab, Urzikstan"
+
+REFERENCE            mp_herat_allies_4
+LANG_ENGLISH         "Warcom - 23rd Battalion"
+
+REFERENCE            mp_herat_axis_1
+LANG_ENGLISH         "Operation: Al-Raab Airbase"
+
+REFERENCE            mp_herat_axis_2
+LANG_ENGLISH         "Day 480 14:32:"
+
+REFERENCE            mp_herat_axis_3
+LANG_ENGLISH         "Al-Raab, Urzikstan"
+
+REFERENCE            mp_herat_axis_4
+LANG_ENGLISH         "Chimera - Unit 1"
+
 REFERENCE            mp_hideout_allies_1
 LANG_ENGLISH         "Operation: Khandor Hideout"
 
@@ -748,6 +796,30 @@ LANG_ENGLISH         "Khandor, Urzikstan"
 
 REFERENCE            mp_hideout_axis_4
 LANG_ENGLISH         "Chimera - Unit 1"
+
+REFERENCE            mp_killhouse_allies_1
+LANG_ENGLISH         "Operation: Killhouse"
+
+REFERENCE            mp_killhouse_allies_2
+LANG_ENGLISH         "Day 467 16:07:"
+
+REFERENCE            mp_killhouse_allies_3
+LANG_ENGLISH         "8 km outside of Suldal, Urzikstan"
+
+REFERENCE            mp_killhouse_allies_4
+LANG_ENGLISH         "Warcom - 23rd Battalion "
+
+REFERENCE            mp_killhouse_axis_1
+LANG_ENGLISH         "Operation: Killhouse"
+
+REFERENCE            mp_killhouse_axis_2
+LANG_ENGLISH         "Day 467 16:07:"
+
+REFERENCE            mp_killhouse_axis_3
+LANG_ENGLISH         "8 km outside of Suldal, Urzikstan"
+
+REFERENCE            mp_killhouse_axis_4
+LANG_ENGLISH         "Jackals - Expedition Unit"
 
 REFERENCE            mp_layover_gw_allies_1
 LANG_ENGLISH         "Operation: Verdansk International Airport"
@@ -820,6 +892,78 @@ LANG_ENGLISH         "Classified"
 
 REFERENCE            mp_m_speed_axis_4
 LANG_ENGLISH         "31st Spetsnaz Brigade"
+
+REFERENCE            mp_m_stadium_allies_1
+LANG_ENGLISH         "Operation: Verdansk Stadium"
+
+REFERENCE            mp_m_stadium_allies_2
+LANG_ENGLISH         "Day 343 13:52:"
+
+REFERENCE            mp_m_stadium_allies_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_m_stadium_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_m_stadium_axis_1
+LANG_ENGLISH         "Operation: Verdansk Stadium"
+
+REFERENCE            mp_m_stadium_axis_2
+LANG_ENGLISH         "Day 343 13:52:"
+
+REFERENCE            mp_m_stadium_axis_3
+LANG_ENGLISH         "Verdansk, Kastovia"
+
+REFERENCE            mp_m_stadium_axis_4
+LANG_ENGLISH         "Jackals - Expedition Unit"
+
+REFERENCE            mp_m_train_allies_1
+LANG_ENGLISH         "Operation: Station"
+
+REFERENCE            mp_m_train_allies_2
+LANG_ENGLISH         "Day 416 19:23;"
+
+REFERENCE            mp_m_train_allies_3
+LANG_ENGLISH         "Rural Kastovia"
+
+REFERENCE            mp_m_train_allies_4
+LANG_ENGLISH         "Demon Dogs - Detachment Bravo"
+
+REFERENCE            mp_m_train_axis_1
+LANG_ENGLISH         "Operation: Station"
+
+REFERENCE            mp_m_train_axis_2
+LANG_ENGLISH         "Day 416 19:23;"
+
+REFERENCE            mp_m_train_axis_3
+LANG_ENGLISH         "Rural Kastovia"
+
+REFERENCE            mp_m_train_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
+
+REFERENCE            mp_malyshev_allies_1
+LANG_ENGLISH         "Operation: Mialstor Tank Factory"
+
+REFERENCE            mp_malyshev_allies_2
+LANG_ENGLISH         "Day 415 17:29:"
+
+REFERENCE            mp_malyshev_allies_3
+LANG_ENGLISH         "Northern Kastovia"
+
+REFERENCE            mp_malyshev_allies_4
+LANG_ENGLISH         "SAS - Detachment Delta"
+
+REFERENCE            mp_malyshev_axis_1
+LANG_ENGLISH         "Operation: Mialstor Tank Factory"
+
+REFERENCE            mp_malyshev_axis_2
+LANG_ENGLISH         "Day 415 17:29:"
+
+REFERENCE            mp_malyshev_axis_3
+LANG_ENGLISH         "Northern Kastovia"
+
+REFERENCE            mp_malyshev_axis_4
+LANG_ENGLISH         "12th Spetsnaz Brigade"
 
 REFERENCE            mp_oilrig_allies_1
 LANG_ENGLISH         "Operation: Petrov Oil Rig"
@@ -990,10 +1134,10 @@ REFERENCE            mp_raid_axis_4
 LANG_ENGLISH         "22nd Spetsnaz Brigade"
 
 REFERENCE            mp_riverside_gw_allies_1
-LANG_ENGLISH         "Operation: Riverside"
+LANG_ENGLISH         "Operation: Verdansk Riverside"
 
 REFERENCE            mp_riverside_gw_allies_2
-LANG_ENGLISH         "Day 107 2:05:"
+LANG_ENGLISH         "Day 107 14:05:"
 
 REFERENCE            mp_riverside_gw_allies_3
 LANG_ENGLISH         "Verdansk, Kastovia"
@@ -1002,10 +1146,10 @@ REFERENCE            mp_riverside_gw_allies_4
 LANG_ENGLISH         "SAS - Detachment Delta"
 
 REFERENCE            mp_riverside_gw_axis_1
-LANG_ENGLISH         "Operation: Riverside"
+LANG_ENGLISH         "Operation: Verdansk Riverside"
 
 REFERENCE            mp_riverside_gw_axis_2
-LANG_ENGLISH         "Day 107 2:05:"
+LANG_ENGLISH         "Day 107 14:05:"
 
 REFERENCE            mp_riverside_gw_axis_3
 LANG_ENGLISH         "Verdansk, Kastovia"
