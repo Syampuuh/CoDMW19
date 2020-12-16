@@ -35,6 +35,45 @@ LANG_ENGLISH         "Personalize your Vehicles."
 REFERENCE            vehicle_customization
 LANG_ENGLISH         "Vehicle Customization"
 
+REFERENCE            veh_track_029
+LANG_ENGLISH         "Rick Astley - Never Gonna Give You Up"
+
+REFERENCE            veh_track_028
+LANG_ENGLISH         "A Flock of Seagulls - I Ran"
+
+REFERENCE            veh_track_027
+LANG_ENGLISH         "Tears for Fears - Shout"
+
+REFERENCE            veh_track_026
+LANG_ENGLISH         "The Sugarhill Gang - Rapper's Delight"
+
+REFERENCE            veh_track_025
+LANG_ENGLISH         "Salt-N-Pepa - Push It"
+
+REFERENCE            veh_track_024
+LANG_ENGLISH         "Run DMC - It's Tricky"
+
+REFERENCE            veh_track_023
+LANG_ENGLISH         "Black Ops - Danmed"
+
+REFERENCE            veh_track_022
+LANG_ENGLISH         "Black Ops - Pentagon"
+
+REFERENCE            veh_track_021
+LANG_ENGLISH         "Black Ops - Rooftops"
+
+REFERENCE            veh_track_020
+LANG_ENGLISH         "Black Ops - 115"
+
+REFERENCE            veh_track_019
+LANG_ENGLISH         "Warrant - Cherry Pie"
+
+REFERENCE            veh_track_018
+LANG_ENGLISH         "A-Ha - Take On Me"
+
+REFERENCE            veh_track_017
+LANG_ENGLISH         "Twisted Sister - I Wanna Rock"
+
 REFERENCE            veh_track_016
 LANG_ENGLISH         "Ti??sto & SWACQ - Party Time"
 
@@ -83,6 +122,36 @@ LANG_ENGLISH         "Brass Crown"
 REFERENCE            veh_track_001
 LANG_ENGLISH         "Sepulchre"
 
+REFERENCE            veh_t9_mil_us_motorcycle_offroad_mpx_hellrider_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            veh_t9_mil_us_motorcycle_offroad_mpx_hellrider
+LANG_ENGLISH         "Hell Steed"
+
+REFERENCE            veh_t9_mil_snowmobile_mpx_m80s_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            veh_t9_mil_snowmobile_mpx_m80s
+LANG_ENGLISH         "Ice Viper"
+
+REFERENCE            veh_t9_mil_ru_tank_t72_mpx_lumberjack_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            veh_t9_mil_ru_tank_t72_mpx_lumberjack
+LANG_ENGLISH         "Buzzsaw"
+
+REFERENCE            veh_t9_mil_boat_jetski_mpx_m80s_desc
+LANG_ENGLISH         "Send currents through the AO with the Slip Stream Vehicle skin."
+
+REFERENCE            veh_t9_mil_boat_jetski_mpx_m80s
+LANG_ENGLISH         "Slip Stream"
+
+REFERENCE            veh_t9_mil_boat_jetski_assembly_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            veh_t9_mil_boat_jetski_assembly
+LANG_ENGLISH         "Wave Dasher"
+
 REFERENCE            veh_horn_zarathustra
 LANG_ENGLISH         "Also sprach Zarathustra"
 
@@ -91,6 +160,9 @@ LANG_ENGLISH         "William Tell Overture"
 
 REFERENCE            veh_horn_vuvuzela
 LANG_ENGLISH         "Vuvuzela"
+
+REFERENCE            veh_horn_treyarch
+LANG_ENGLISH         "Mint"
 
 REFERENCE            veh_horn_start_your_engines
 LANG_ENGLISH         "Start Your Engines"
@@ -107,6 +179,9 @@ LANG_ENGLISH         "Start Your Engines"
 REFERENCE            veh_horn_pitfall
 LANG_ENGLISH         "Pitfall"
 
+REFERENCE            veh_horn_paradol
+LANG_ENGLISH         "VEH_HORN_PARADOL"
+
 REFERENCE            veh_horn_oldtimehorn
 LANG_ENGLISH         "Old Time Horn"
 
@@ -122,11 +197,20 @@ LANG_ENGLISH         "The Squealer"
 REFERENCE            veh_horn_hockeygoal
 LANG_ENGLISH         "He Shoots, He Scores!"
 
+REFERENCE            veh_horn_gift
+LANG_ENGLISH         "VEH_HORN_GIFT"
+
 REFERENCE            veh_horn_firetruck
 LANG_ENGLISH         "Firetruck Horn"
 
 REFERENCE            veh_horn_default
 LANG_ENGLISH         "Default"
+
+REFERENCE            veh_horn_deadman
+LANG_ENGLISH         "VEH_HORN_DEADMAN"
+
+REFERENCE            veh_horn_countdown
+LANG_ENGLISH         "Countdown"
 
 REFERENCE            veh_horn_clown
 LANG_ENGLISH         "Clowning Around"
@@ -137,11 +221,23 @@ LANG_ENGLISH         "Charge!"
 REFERENCE            veh_horn_carmen
 LANG_ENGLISH         "Carmen - Habanera"
 
+REFERENCE            veh_horn_cabana
+LANG_ENGLISH         "Retro"
+
 REFERENCE            veh_horn_bumblebee
 LANG_ENGLISH         "Flight of the Bumblebee"
 
+REFERENCE            veh_horn_beauty
+LANG_ENGLISH         "VEH_HORN_BEAUTY"
+
 REFERENCE            veh_horn_basketballbuzzer
 LANG_ENGLISH         "Basketball Buzzer"
+
+REFERENCE            veh_horn_alone
+LANG_ENGLISH         "Neon"
+
+REFERENCE            veh_horn_115
+LANG_ENGLISH         "Hellscream"
 
 REFERENCE            veh_bt_tac_rover_track_3
 LANG_ENGLISH         "Tac Rover Track 3"
@@ -200,6 +296,24 @@ LANG_ENGLISH         "Stop"
 REFERENCE            technical
 LANG_ENGLISH         "Technical Truck"
 
+REFERENCE            tactical_raft_mpx_vice_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            tactical_raft_mpx_vice
+LANG_ENGLISH         "Everglide"
+
+REFERENCE            tactical_raft_mpx_fisherman_desc
+LANG_ENGLISH         "Wave goodbye for your fishing trip and take a ride on the Gone Fishin Vehicle Skin."
+
+REFERENCE            tactical_raft_mpx_fisherman
+LANG_ENGLISH         "Gone Fishin"
+
+REFERENCE            tactical_raft_mpx_80s_desc
+LANG_ENGLISH         "Stay light on the water with the Tubular Vehicle Skin."
+
+REFERENCE            tactical_raft_mpx_80s
+LANG_ENGLISH         "Tubular"
+
 REFERENCE            tac_rover_desc
 LANG_ENGLISH         "The pinnacle of ultra-light tactical off-road vehicles, allowing rapid personnel deployment for squads of up to four. Go deep and hard in the most rugged and austere environments with world-class mobility and versatility."
 
@@ -208,6 +322,24 @@ LANG_ENGLISH         "Hunt down your marque with the From the Pit Tac Rover Skin
 
 REFERENCE            tac_rover
 LANG_ENGLISH         "Tac Rover"
+
+REFERENCE            t72_assembly_mpx_rocket_desc
+LANG_ENGLISH         "Send a message with the Steel Armada Vehicle Skin."
+
+REFERENCE            t72_assembly_mpx_rocket
+LANG_ENGLISH         "Steel Armada"
+
+REFERENCE            t72_assembly_mpx_80s_desc
+LANG_ENGLISH         "Tread brightly with the Iron Tide Vehicle Skin."
+
+REFERENCE            t72_assembly_mpx_80s
+LANG_ENGLISH         "Iron Tide"
+
+REFERENCE            snowmobile_mpx_frostbite_desc
+LANG_ENGLISH         "Tear through the tundra with the Arctic Wolverine Vehicle Skin."
+
+REFERENCE            snowmobile_mpx_frostbite
+LANG_ENGLISH         "Arctic Wolverine"
 
 REFERENCE            skins_locked
 LANG_ENGLISH         "Earn a skin for the ^5&&1 ^7to unlock this category"
@@ -227,8 +359,44 @@ LANG_ENGLISH         "Cash Deposit Heli"
 REFERENCE            pickup_truck
 LANG_ENGLISH         "Pickup Truck"
 
+REFERENCE            pgb_mpx_80s_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            pgb_mpx_80s
+LANG_ENGLISH         "Ripper"
+
 REFERENCE            mw_pack
 LANG_ENGLISH         "MW War Track Pack"
+
+REFERENCE            motorcycle_offroad_mpx_retro_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            motorcycle_offroad_mpx_retro
+LANG_ENGLISH         "Pleasure Ride"
+
+REFERENCE            motorcycle_offroad_mpx_m80s_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            motorcycle_offroad_mpx_m80s
+LANG_ENGLISH         "Shredder "
+
+REFERENCE            mil_us_boat_pgb_mpx_ua_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            mil_us_boat_pgb_mpx_ua
+LANG_ENGLISH         "Tidal Wave"
+
+REFERENCE            mil_ru_heli_gunship_hind_mpx_urban_assault_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            mil_ru_heli_gunship_hind_mpx_urban_assault
+LANG_ENGLISH         "Dirty Bird"
+
+REFERENCE            mil_boat_tactical_raft_mpx_ua_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            mil_boat_tactical_raft_mpx_ua
+LANG_ENGLISH         "Assault"
 
 REFERENCE            med_transport
 LANG_ENGLISH         "Medical Transport"
@@ -269,6 +437,12 @@ LANG_ENGLISH         "Personel Transport"
 REFERENCE            juggernaut_pack
 LANG_ENGLISH         "Juggernaut Pack"
 
+REFERENCE            jetski_mpx_retro_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            jetski_mpx_retro
+LANG_ENGLISH         "Renegade"
+
 REFERENCE            jeep_desc
 LANG_ENGLISH         "Built and designed without compromise, a spacious interior allows for crew transportation to even the most remote corners of the map. Confident on- or off-road, with the durability to tackle the most extreme of challenges, the SUV can take a beating and keep on ticking."
 
@@ -286,6 +460,45 @@ LANG_ENGLISH         "Box Truck"
 
 REFERENCE            hoopty
 LANG_ENGLISH         "Hoopty"
+
+REFERENCE            hind_mpx_skybird_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            hind_mpx_skybird
+LANG_ENGLISH         "Skybird"
+
+REFERENCE            hind_mpx_oozie_display_name_desc
+LANG_ENGLISH         "Air it out with the Fuschialage Vehicle Skin."
+
+REFERENCE            hind_mpx_oozie_display_name
+LANG_ENGLISH         "Fuschialage"
+
+REFERENCE            hind_mpx_m80s_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            hind_mpx_m80s
+LANG_ENGLISH         "Sunset Bird"
+
+REFERENCE            gondola
+LANG_ENGLISH         "Gondola"
+
+REFERENCE            fav_light_mpx_scorpion_desc
+LANG_ENGLISH         "Dune or dune not with the Dunebreaker Vehicle Skin."
+
+REFERENCE            fav_light_mpx_scorpion
+LANG_ENGLISH         "Dunebreaker"
+
+REFERENCE            fav_light_mpx_dominator_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            fav_light_mpx_dominator
+LANG_ENGLISH         "Dominator"
+
+REFERENCE            fav_light_mpx_80s_desc
+LANG_ENGLISH         "lorem ipsum dolor sit amet"
+
+REFERENCE            fav_light_mpx_80s
+LANG_ENGLISH         "Static"
 
 REFERENCE            equipped_skin1
 LANG_ENGLISH         "Skin:"
@@ -326,6 +539,9 @@ LANG_ENGLISH         "Cargo Truck"
 REFERENCE            cannot_exit
 LANG_ENGLISH         "Cannot Exit Here"
 
+REFERENCE            bomixtape1_pack
+LANG_ENGLISH         "Black Ops 1 Mixtape"
+
 REFERENCE            bo_pack
 LANG_ENGLISH         "Black Ops War Track Pack"
 
@@ -353,6 +569,9 @@ LANG_ENGLISH         "Flame Trail Effect"
 REFERENCE            attribute_tail_light_tracer_red
 LANG_ENGLISH         "Red Tail Light Tracer Effect"
 
+REFERENCE            attribute_tail_light_tracer_akira
+LANG_ENGLISH         "Akira Trail Effect"
+
 REFERENCE            attribute_smoke
 LANG_ENGLISH         "Smoke Effect"
 
@@ -362,6 +581,9 @@ LANG_ENGLISH         "Flight Trail Effect"
 REFERENCE            attribute_flight_trail_shadow
 LANG_ENGLISH         "Shadow Trail Effect"
 
+REFERENCE            attribute_flight_trail_rainbow
+LANG_ENGLISH         "Rainbow Trail Effect"
+
 REFERENCE            apc_rus
 LANG_ENGLISH         "APC"
 
@@ -370,6 +592,15 @@ LANG_ENGLISH         "Equipped with a 6x6 drivetrain and the ability to haul up 
 
 REFERENCE            apc
 LANG_ENGLISH         "APC"
+
+REFERENCE            80s_rock_pack
+LANG_ENGLISH         "80's Rock"
+
+REFERENCE            80s_hits_pack
+LANG_ENGLISH         "80's Hits"
+
+REFERENCE            80s_hiphop_pack
+LANG_ENGLISH         "80's Hip Hop"
 
 
 ENDMARKER

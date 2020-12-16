@@ -1,0 +1,213 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            aether_shroud_0_desc
+LANG_ENGLISH         "Phase into the Dark Aether for 5 seconds becoming hidden from enemy detection."
+
+REFERENCE            aether_shroud_0_title
+LANG_ENGLISH         "Aether Shroud"
+
+REFERENCE            aether_shroud_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Aether Shroud using Aetherium Crystals."
+
+REFERENCE            aether_shroud_upgrade_title
+LANG_ENGLISH         "Aether Shroud Skills"
+
+REFERENCE            assaultrifle_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade the Assault Rifle class using Aetherium Crystals."
+
+REFERENCE            assaultrifle_upgrade_title
+LANG_ENGLISH         "Assault Rifle Skills"
+
+REFERENCE            brainrot_0_title
+LANG_ENGLISH         "Brain Rot"
+
+REFERENCE            brainrot_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Brain Rot using Aetherium Crystals."
+
+REFERENCE            brainrot_upgrade_title
+LANG_ENGLISH         "Brain Rot Skills"
+
+REFERENCE            cryofreeze_0_title
+LANG_ENGLISH         "Cryofreeze"
+
+REFERENCE            cryofreeze_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Cryofreeze using Aetherium Crystals."
+
+REFERENCE            cryofreeze_upgrade_title
+LANG_ENGLISH         "Cryofreeze Skills"
+
+REFERENCE            deadshot_0_title
+LANG_ENGLISH         "Deadshot Daiquiri"
+
+REFERENCE            deadshot_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Deadshot Daiquiri using Aetherium Crystals."
+
+REFERENCE            deadshot_upgrade_title
+LANG_ENGLISH         "Deadshot Daiquiri Skills"
+
+REFERENCE            deadwire_0_title
+LANG_ENGLISH         "Dead Wire"
+
+REFERENCE            deadwire_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Dead Wire using Aetherium Crystals."
+
+REFERENCE            deadwire_upgrade_title
+LANG_ENGLISH         "Dead Wire Skills"
+
+REFERENCE            elementalpop_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Elemental Pop using Aetherium Crystals."
+
+REFERENCE            elementalpop_upgrade_title
+LANG_ENGLISH         "Elemental Pop Skills"
+
+REFERENCE            energy_mine_0_desc
+LANG_ENGLISH         "Create a mine of pure energy that detonates on proximity of enemies, dealing explosive damage."
+
+REFERENCE            energy_mine_0_title
+LANG_ENGLISH         "Energy Mine"
+
+REFERENCE            energy_mine_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Energy Mine using Aetherium Crystals."
+
+REFERENCE            energy_mine_upgrade_title
+LANG_ENGLISH         "Energy Mine Skills"
+
+REFERENCE            frenzied_guard_0_desc
+LANG_ENGLISH         "Draw nearby Zombies to the player."
+
+REFERENCE            frenzied_guard_0_title
+LANG_ENGLISH         "Frenzied Guard"
+
+REFERENCE            frenzied_guard_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Frenzied Guard using Aetherium Crystals."
+
+REFERENCE            frenzied_guard_upgrade_title
+LANG_ENGLISH         "Frenzied Guard Skills"
+
+REFERENCE            frost_blast_0_desc
+LANG_ENGLISH         "Create a frigid blast of wind that deals frost damage and slows enemies caught inside of it. Slowed enemies take additional damage."
+
+REFERENCE            frost_blast_0_title
+LANG_ENGLISH         "Frost Blast"
+
+REFERENCE            frost_blast_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Frost Blast using Aetherium Crystals."
+
+REFERENCE            frost_blast_upgrade_title
+LANG_ENGLISH         "Frost Blast Skills"
+
+REFERENCE            heal_aoe_0_desc
+LANG_ENGLISH         "Summon beams of energy down on yourself and allies to instantly heal to full health."
+
+REFERENCE            heal_aoe_0_title
+LANG_ENGLISH         "Healing Aura"
+
+REFERENCE            heal_aoe_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Healing Aura using Aetherium Crystals."
+
+REFERENCE            heal_aoe_upgrade_title
+LANG_ENGLISH         "Healing Aura Skills"
+
+REFERENCE            juggernog_0_title
+LANG_ENGLISH         "Jugger-Nog"
+
+REFERENCE            juggernog_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Jugger-Nog using Aetherium Crystals."
+
+REFERENCE            juggernog_upgrade_title
+LANG_ENGLISH         "Jugger-Nog Skills"
+
+REFERENCE            lmg_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade the Light Machine Gun class using Aetherium Crystals."
+
+REFERENCE            lmg_upgrade_title
+LANG_ENGLISH         "Light Machine Gun Skills"
+
+REFERENCE            melee_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade the Melee class using Aetherium Crystals."
+
+REFERENCE            melee_upgrade_title
+LANG_ENGLISH         "Melee Skills"
+
+REFERENCE            napalmburst_0_title
+LANG_ENGLISH         "Napalm Burst"
+
+REFERENCE            napalmburst_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Napalm Burst using Aetherium Crystals."
+
+REFERENCE            napalmburst_upgrade_title
+LANG_ENGLISH         "Napalm Burst Skills"
+
+REFERENCE            pistol_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade the Pistol class using Aetherium Crystals."
+
+REFERENCE            pistol_upgrade_title
+LANG_ENGLISH         "Pistol Skills"
+
+REFERENCE            quickrevive_0_title
+LANG_ENGLISH         "Quick Revive"
+
+REFERENCE            quickrevive_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Quick Revive using Aetherium Crystals."
+
+REFERENCE            quickrevive_upgrade_title
+LANG_ENGLISH         "Quick Revive Skills"
+
+REFERENCE            ring_of_fire_0_desc
+LANG_ENGLISH         "Create a ring of ethereal fire that boosts damage for you and allies. Normal enemies who enter gain a burning effect that deals fire damage. Lasts 15 seconds."
+
+REFERENCE            ring_of_fire_0_title
+LANG_ENGLISH         "Ring of Fire"
+
+REFERENCE            ring_of_fire_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Ring of Fire using Aetherium Crystals."
+
+REFERENCE            ring_of_fire_upgrade_title
+LANG_ENGLISH         "Ring of Fire Skills"
+
+REFERENCE            shotgun_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade the Shotgun class using Aetherium Crystals."
+
+REFERENCE            shotgun_upgrade_title
+LANG_ENGLISH         "Shotgun Skills"
+
+REFERENCE            smg_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Submachine Gun class using Aetherium Crystals."
+
+REFERENCE            smg_upgrade_title
+LANG_ENGLISH         "Submachine Gun Skills"
+
+REFERENCE            sniper_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade the Sniper Rifle class using Aetherium Crystals."
+
+REFERENCE            sniper_upgrade_title
+LANG_ENGLISH         "Sniper Rifle Skills"
+
+REFERENCE            speedcola_0_title
+LANG_ENGLISH         "Speed Cola"
+
+REFERENCE            speedcola_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Speed Cola using Aetherium Crystals."
+
+REFERENCE            speedcola_upgrade_title
+LANG_ENGLISH         "Speed Cola Skills"
+
+REFERENCE            staminup_0_title
+LANG_ENGLISH         "Stamin-Up"
+
+REFERENCE            staminup_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade Stamin-Up using Aetherium Crystals."
+
+REFERENCE            staminup_upgrade_title
+LANG_ENGLISH         "Stamin-Up Skills"
+
+REFERENCE            tacrifle_upgrade_desc
+LANG_ENGLISH         "Ability to upgrade the Tactical Rifle class using Aetherium Crystals."
+
+REFERENCE            tacrifle_upgrade_title
+LANG_ENGLISH         "Tactical Rifle Skills"
+
+
+ENDMARKER

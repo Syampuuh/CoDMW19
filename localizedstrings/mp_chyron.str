@@ -17,6 +17,18 @@ LANG_ENGLISH         "Armistice"
 REFERENCE            br_operation
 LANG_ENGLISH         "'Operation: Rapid Sunder'"
 
+REFERENCE            br_ops
+LANG_ENGLISH         "O.P.S."
+
+REFERENCE            br_rebirth_infil_title
+LANG_ENGLISH         "Vengeance"
+
+REFERENCE            br_rebirth_location
+LANG_ENGLISH         "Vozrozhdeniya Island, Aral Sea"
+
+REFERENCE            br_rebirth_operation
+LANG_ENGLISH         "'Operation: Domino'"
+
 REFERENCE            mp_aniyah_allies_1
 LANG_ENGLISH         "Operation: Aniyah Palace"
 
@@ -255,7 +267,7 @@ REFERENCE            mp_bigmap_locale_4_axis_3
 LANG_ENGLISH         "Aircraft Graveyard - Verdansk, Kastovia"
 
 REFERENCE            mp_bigmap_locale_4_axis_4
-LANG_ENGLISH         "22th Spetsnaz Brigade"
+LANG_ENGLISH         "22nd Spetsnaz Brigade"
 
 REFERENCE            mp_bigmap_locale_5_allies_1
 LANG_ENGLISH         "'Operation Black Box'"

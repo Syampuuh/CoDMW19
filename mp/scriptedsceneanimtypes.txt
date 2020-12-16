@@ -441,3 +441,8 @@ br_exfil_guy0_sh030_jugg
 br_exfil_guy1_sh040_jugg
 br_exfil_guy2_sh050_jugg
 br_exfil_guy3_sh060_jugg
+
+// gulag
+gulag_chair_breakout_start
+gulag_chair_breakout_loop
+gulag_chair_breakout_exit

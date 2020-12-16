@@ -1,0 +1,804 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            emblem_t9001
+LANG_ENGLISH         "Emblem 001"
+
+REFERENCE            emblem_t9002
+LANG_ENGLISH         "Emblem 002"
+
+REFERENCE            emblem_t9003
+LANG_ENGLISH         "Emblem 003"
+
+REFERENCE            emblem_t9004
+LANG_ENGLISH         "Emblem 004"
+
+REFERENCE            emblem_t9005
+LANG_ENGLISH         "Emblem 005"
+
+REFERENCE            emblem_t9006
+LANG_ENGLISH         "Emblem 006"
+
+REFERENCE            emblem_t9007
+LANG_ENGLISH         "Emblem 007"
+
+REFERENCE            emblem_t9008
+LANG_ENGLISH         "Emblem 008"
+
+REFERENCE            emblem_t9009
+LANG_ENGLISH         "Emblem 009"
+
+REFERENCE            emblem_t9010
+LANG_ENGLISH         "Emblem 010"
+
+REFERENCE            emblem_t9011
+LANG_ENGLISH         "Emblem 011"
+
+REFERENCE            emblem_t9012
+LANG_ENGLISH         "Emblem 012"
+
+REFERENCE            emblem_t9013
+LANG_ENGLISH         "Emblem 013"
+
+REFERENCE            emblem_t9014
+LANG_ENGLISH         "Emblem 014"
+
+REFERENCE            emblem_t9015
+LANG_ENGLISH         "Emblem 015"
+
+REFERENCE            emblem_t9016
+LANG_ENGLISH         "Emblem 016"
+
+REFERENCE            emblem_t9017
+LANG_ENGLISH         "Emblem 017"
+
+REFERENCE            emblem_t9018
+LANG_ENGLISH         "Emblem 018"
+
+REFERENCE            emblem_t9019
+LANG_ENGLISH         "Emblem 019"
+
+REFERENCE            emblem_t9020
+LANG_ENGLISH         "Emblem 020"
+
+REFERENCE            emblem_t9021
+LANG_ENGLISH         "Emblem 021"
+
+REFERENCE            emblem_t9022
+LANG_ENGLISH         "Emblem 022"
+
+REFERENCE            emblem_t9023
+LANG_ENGLISH         "Emblem 023"
+
+REFERENCE            emblem_t9024
+LANG_ENGLISH         "Emblem 024"
+
+REFERENCE            emblem_t9025
+LANG_ENGLISH         "Emblem 025"
+
+REFERENCE            emblem_t9026
+LANG_ENGLISH         "Emblem 026"
+
+REFERENCE            emblem_t9027
+LANG_ENGLISH         "Emblem 027"
+
+REFERENCE            emblem_t9028
+LANG_ENGLISH         "Emblem 028"
+
+REFERENCE            emblem_t9029
+LANG_ENGLISH         "Emblem 029"
+
+REFERENCE            emblem_t9030
+LANG_ENGLISH         "Emblem 030"
+
+REFERENCE            emblem_t9031
+LANG_ENGLISH         "Emblem 031"
+
+REFERENCE            emblem_t9032
+LANG_ENGLISH         "Emblem 032"
+
+REFERENCE            emblem_t9033
+LANG_ENGLISH         "Emblem 033"
+
+REFERENCE            emblem_t9034
+LANG_ENGLISH         "Emblem 034"
+
+REFERENCE            emblem_t9035
+LANG_ENGLISH         "Rebirth Island"
+
+REFERENCE            emblem_t9036
+LANG_ENGLISH         "Redeploying"
+
+REFERENCE            emblem_t9037
+LANG_ENGLISH         "Chemical Weapon"
+
+REFERENCE            emblem_t9038
+LANG_ENGLISH         "Mask On"
+
+REFERENCE            emblem_t9039
+LANG_ENGLISH         "Neon Strike"
+
+REFERENCE            emblem_t9040
+LANG_ENGLISH         "Embroidered Pride"
+
+REFERENCE            emblem_t9041
+LANG_ENGLISH         "Bear of Honor"
+
+REFERENCE            emblem_t9042
+LANG_ENGLISH         "Emblem 042"
+
+REFERENCE            emblem_t9043
+LANG_ENGLISH         "Emblem 043"
+
+REFERENCE            emblem_t9044
+LANG_ENGLISH         "Unification"
+
+REFERENCE            emblem_t9045
+LANG_ENGLISH         "Toxic"
+
+REFERENCE            emblem_t9046
+LANG_ENGLISH         "Deadly Nature"
+
+REFERENCE            emblem_t9047
+LANG_ENGLISH         "Hammer & Sickle"
+
+REFERENCE            emblem_t9048
+LANG_ENGLISH         "Underground Collective"
+
+REFERENCE            emblem_t9049
+LANG_ENGLISH         "Trophy Hunter"
+
+REFERENCE            emblem_t9050
+LANG_ENGLISH         "Chronic King"
+
+REFERENCE            emblem_t9051
+LANG_ENGLISH         "Always Forward"
+
+REFERENCE            emblem_t9052
+LANG_ENGLISH         "Global Underground"
+
+REFERENCE            emblem_t9053
+LANG_ENGLISH         "Fly Guy"
+
+REFERENCE            emblem_t9054
+LANG_ENGLISH         "Deadlock"
+
+REFERENCE            emblem_t9055
+LANG_ENGLISH         "Load Up & Load Out"
+
+REFERENCE            emblem_t9056
+LANG_ENGLISH         "Disavowed"
+
+REFERENCE            emblem_t9057
+LANG_ENGLISH         "Widow's Grasp"
+
+REFERENCE            emblem_t9058
+LANG_ENGLISH         "No Compromise"
+
+REFERENCE            emblem_t9059
+LANG_ENGLISH         "Burn Rubber"
+
+REFERENCE            emblem_t9060
+LANG_ENGLISH         "Jumpstart"
+
+REFERENCE            emblem_t9061
+LANG_ENGLISH         "Almost Functional"
+
+REFERENCE            emblem_t9062
+LANG_ENGLISH         "Emblem 062"
+
+REFERENCE            emblem_t9063
+LANG_ENGLISH         "Slasher"
+
+REFERENCE            emblem_t9064
+LANG_ENGLISH         "Emblem 064"
+
+REFERENCE            emblem_t9065
+LANG_ENGLISH         "Tank Trooper"
+
+REFERENCE            emblem_t9066
+LANG_ENGLISH         "World View"
+
+REFERENCE            emblem_t9067
+LANG_ENGLISH         "Placeholder"
+
+REFERENCE            emblem_t9068
+LANG_ENGLISH         "Placeholder"
+
+REFERENCE            emblem_t9069
+LANG_ENGLISH         "Solid Soldiers"
+
+REFERENCE            emblem_t9070
+LANG_ENGLISH         "Placeholder"
+
+REFERENCE            emblem_t9071
+LANG_ENGLISH         "High Honors"
+
+REFERENCE            emblem_t9072
+LANG_ENGLISH         "Magnum Hunter"
+
+REFERENCE            emblem_t9073
+LANG_ENGLISH         "NO FORN"
+
+REFERENCE            emblem_t9074
+LANG_ENGLISH         "Emblem 074"
+
+REFERENCE            emblem_t9075
+LANG_ENGLISH         "Emblem 075"
+
+REFERENCE            emblem_t9076
+LANG_ENGLISH         "Emblem 076"
+
+REFERENCE            emblem_t9077
+LANG_ENGLISH         "Emblem 077"
+
+REFERENCE            emblem_t9078
+LANG_ENGLISH         "Emblem 078"
+
+REFERENCE            emblem_t9079
+LANG_ENGLISH         "Emblem 079"
+
+REFERENCE            emblem_t9080
+LANG_ENGLISH         "Emblem 080"
+
+REFERENCE            emblem_t9081
+LANG_ENGLISH         "Emblem 081"
+
+REFERENCE            emblem_t9082
+LANG_ENGLISH         "Emblem 082"
+
+REFERENCE            emblem_t9083
+LANG_ENGLISH         "Emblem 083"
+
+REFERENCE            emblem_t9084
+LANG_ENGLISH         "Emblem 084"
+
+REFERENCE            emblem_t9085
+LANG_ENGLISH         "Lionheart"
+
+REFERENCE            emblem_t9086
+LANG_ENGLISH         "Small Arms"
+
+REFERENCE            emblem_t9087
+LANG_ENGLISH         "Rock On"
+
+REFERENCE            emblem_t9088
+LANG_ENGLISH         "Endowment Elite"
+
+REFERENCE            emblem_t9089
+LANG_ENGLISH         "Peekaboo"
+
+REFERENCE            emblem_t9090
+LANG_ENGLISH         "Dual Bear"
+
+REFERENCE            emblem_t9091
+LANG_ENGLISH         "Family Photo"
+
+REFERENCE            emblem_t9092
+LANG_ENGLISH         "Kaboom"
+
+REFERENCE            emblem_t9093
+LANG_ENGLISH         "Blood Moon"
+
+REFERENCE            emblem_t9094
+LANG_ENGLISH         "Dropping In"
+
+REFERENCE            emblem_t9095
+LANG_ENGLISH         "Overclocked"
+
+REFERENCE            emblem_t9096
+LANG_ENGLISH         "Combat Crustacean"
+
+REFERENCE            emblem_t9097
+LANG_ENGLISH         "Ironbound"
+
+REFERENCE            emblem_t9098
+LANG_ENGLISH         "Experimental Weapon"
+
+REFERENCE            emblem_t9099
+LANG_ENGLISH         "Steam Roller"
+
+REFERENCE            emblem_t9100
+LANG_ENGLISH         "Big Wave Hunter"
+
+REFERENCE            emblem_t9101
+LANG_ENGLISH         "Show of Force"
+
+REFERENCE            emblem_t9102
+LANG_ENGLISH         "Fish out of Water"
+
+REFERENCE            emblem_t9103
+LANG_ENGLISH         "Fish out of Water"
+
+REFERENCE            emblem_t9104
+LANG_ENGLISH         "Russian Regiment"
+
+REFERENCE            emblem_t9105
+LANG_ENGLISH         "Jingle Hell"
+
+REFERENCE            emblem_t9106
+LANG_ENGLISH         "Peep That"
+
+REFERENCE            emblem_t9107
+LANG_ENGLISH         "Slugger's Seal"
+
+REFERENCE            emblem_t9108
+LANG_ENGLISH         "Long Gun Ranger"
+
+REFERENCE            emblem_t9109
+LANG_ENGLISH         "Skull Hawk"
+
+REFERENCE            emblem_t9110
+LANG_ENGLISH         "Infernal Seal"
+
+REFERENCE            emblem_t9111
+LANG_ENGLISH         "Mark of the Mamba"
+
+REFERENCE            emblem_t9112
+LANG_ENGLISH         "Surface Friction"
+
+REFERENCE            emblem_t9113
+LANG_ENGLISH         "Emblem 113"
+
+REFERENCE            emblem_t9114
+LANG_ENGLISH         "Emblem 114"
+
+REFERENCE            emblem_t9115
+LANG_ENGLISH         "Emblem 115"
+
+REFERENCE            emblem_t9116
+LANG_ENGLISH         "Emblem 116"
+
+REFERENCE            emblem_t9117
+LANG_ENGLISH         "Emblem 117"
+
+REFERENCE            emblem_t9118
+LANG_ENGLISH         "Emblem 118"
+
+REFERENCE            emblem_t9119
+LANG_ENGLISH         "Reconnaissance"
+
+REFERENCE            emblem_t9120
+LANG_ENGLISH         "Emblem 120"
+
+REFERENCE            emblem_t9121
+LANG_ENGLISH         "Emblem 121"
+
+REFERENCE            emblem_t9122
+LANG_ENGLISH         "Emblem 122"
+
+REFERENCE            emblem_t9123
+LANG_ENGLISH         "Emblem 123"
+
+REFERENCE            emblem_t9124
+LANG_ENGLISH         "Emblem 124"
+
+REFERENCE            emblem_t9125
+LANG_ENGLISH         "Emblem 125"
+
+REFERENCE            emblem_t9126
+LANG_ENGLISH         "Emblem 126"
+
+REFERENCE            emblem_t9127
+LANG_ENGLISH         "Emblem 127"
+
+REFERENCE            emblem_t9128
+LANG_ENGLISH         "Lifeblood"
+
+REFERENCE            emblem_t9129
+LANG_ENGLISH         "Game Over"
+
+REFERENCE            emblem_t9130
+LANG_ENGLISH         "Emblem 130"
+
+REFERENCE            emblem_t9131
+LANG_ENGLISH         "Soul Searching"
+
+REFERENCE            emblem_t9132
+LANG_ENGLISH         "Ocean Park"
+
+REFERENCE            emblem_t9133
+LANG_ENGLISH         "Firing Position"
+
+REFERENCE            emblem_t9134
+LANG_ENGLISH         "Team Effort"
+
+REFERENCE            emblem_t9135
+LANG_ENGLISH         "Mad Dawg"
+
+REFERENCE            emblem_t9136
+LANG_ENGLISH         "Emblem 136"
+
+REFERENCE            emblem_t9137
+LANG_ENGLISH         "Emblem 137"
+
+REFERENCE            emblem_t9138
+LANG_ENGLISH         "Emblem 138"
+
+REFERENCE            emblem_t9139
+LANG_ENGLISH         "Quick Foot"
+
+REFERENCE            emblem_t9140
+LANG_ENGLISH         "Scaled Smile"
+
+REFERENCE            emblem_t9141
+LANG_ENGLISH         "Emblem 141"
+
+REFERENCE            emblem_t9142
+LANG_ENGLISH         "Melting Bomb"
+
+REFERENCE            emblem_t9143
+LANG_ENGLISH         "Badge of Terror"
+
+REFERENCE            emblem_t9144
+LANG_ENGLISH         "Heart String"
+
+REFERENCE            emblem_t9145
+LANG_ENGLISH         "Snow Bear"
+
+REFERENCE            emblem_t9146
+LANG_ENGLISH         "Widow's Grasp"
+
+REFERENCE            emblem_t9147
+LANG_ENGLISH         "Space Regiment"
+
+REFERENCE            emblem_t9148
+LANG_ENGLISH         "Arctic Fox"
+
+REFERENCE            emblem_t9149
+LANG_ENGLISH         "Recording Device"
+
+REFERENCE            emblem_t9155
+LANG_ENGLISH         "Nuketown Legend"
+
+REFERENCE            emblem_t9163
+LANG_ENGLISH         "Deadlock"
+
+REFERENCE            emblem_t9164
+LANG_ENGLISH         "All Seeing"
+
+REFERENCE            emblem_t9165
+LANG_ENGLISH         "Superpowers"
+
+REFERENCE            emblem_t9166
+LANG_ENGLISH         "Forward Recon"
+
+REFERENCE            emblem_t9167
+LANG_ENGLISH         "Absolute Trash"
+
+REFERENCE            emblem_t9168
+LANG_ENGLISH         "Season One"
+
+REFERENCE            emblem_t9169
+LANG_ENGLISH         "Azure Ops"
+
+REFERENCE            emblem_t9170
+LANG_ENGLISH         "Demon Hammer"
+
+REFERENCE            emblem_t9171
+LANG_ENGLISH         "Emblem 171"
+
+REFERENCE            emblem_t9172
+LANG_ENGLISH         "Skull Hawk"
+
+REFERENCE            emblem_t9173
+LANG_ENGLISH         "Screaming Eagles"
+
+REFERENCE            emblem_t9174
+LANG_ENGLISH         "Free Agent"
+
+REFERENCE            emblem_t9175
+LANG_ENGLISH         "Spirit Animal"
+
+REFERENCE            emblem_t9176
+LANG_ENGLISH         "Mad Gas"
+
+REFERENCE            emblem_t9177
+LANG_ENGLISH         "Get That Bag"
+
+REFERENCE            emblem_t9178
+LANG_ENGLISH         "Gilded Elite"
+
+REFERENCE            emblem_t9179
+LANG_ENGLISH         "Hyper Fox"
+
+REFERENCE            emblem_t9180
+LANG_ENGLISH         "Laugh Attack"
+
+REFERENCE            emblem_t9181
+LANG_ENGLISH         "Big Wave Hunter"
+
+REFERENCE            emblem_t9182
+LANG_ENGLISH         "Scorpion Elite"
+
+REFERENCE            emblem_t9183
+LANG_ENGLISH         "Blast Master"
+
+REFERENCE            emblem_t9184
+LANG_ENGLISH         "Emblem 184"
+
+REFERENCE            emblem_t9185
+LANG_ENGLISH         "High Value Target"
+
+REFERENCE            emblem_t9186
+LANG_ENGLISH         "Powered Up"
+
+REFERENCE            emblem_t9187
+LANG_ENGLISH         "POW"
+
+REFERENCE            emblem_t9188
+LANG_ENGLISH         "Time Wasted"
+
+REFERENCE            emblem_t9189
+LANG_ENGLISH         "Emblem 189"
+
+REFERENCE            emblem_t9190
+LANG_ENGLISH         "Run It Back"
+
+REFERENCE            emblem_t9191
+LANG_ENGLISH         "Jingle Hell"
+
+REFERENCE            emblem_t9192
+LANG_ENGLISH         "Emblem 192"
+
+REFERENCE            emblem_t9193
+LANG_ENGLISH         "Urban Warfare"
+
+REFERENCE            emblem_t9194
+LANG_ENGLISH         "Field Marshall"
+
+REFERENCE            emblem_t9195
+LANG_ENGLISH         "Emblem 195"
+
+REFERENCE            emblem_t9196
+LANG_ENGLISH         "Reaper"
+
+REFERENCE            emblem_t9197
+LANG_ENGLISH         "Supersonic"
+
+REFERENCE            emblem_t9198
+LANG_ENGLISH         "Blackbird"
+
+REFERENCE            emblem_t9199
+LANG_ENGLISH         "Undersea"
+
+REFERENCE            emblem_t9201
+LANG_ENGLISH         "Bomb"
+
+REFERENCE            emblem_t9202
+LANG_ENGLISH         "Creepy"
+
+REFERENCE            emblem_t9203
+LANG_ENGLISH         "Fly By"
+
+REFERENCE            emblem_t9204
+LANG_ENGLISH         "Join or Die"
+
+REFERENCE            emblem_t9205
+LANG_ENGLISH         "Fortress"
+
+REFERENCE            emblem_t9206
+LANG_ENGLISH         "Flame"
+
+REFERENCE            emblem_t9207
+LANG_ENGLISH         "All Seeing"
+
+REFERENCE            emblem_t9208
+LANG_ENGLISH         "Anchor"
+
+REFERENCE            emblem_t9209
+LANG_ENGLISH         "Cobra"
+
+REFERENCE            emblem_t9210
+LANG_ENGLISH         "Blast Off"
+
+REFERENCE            emblem_t9211
+LANG_ENGLISH         "Wolf Skull"
+
+REFERENCE            emblem_t9212
+LANG_ENGLISH         "Power"
+
+REFERENCE            emblem_t9213
+LANG_ENGLISH         "Black Widow"
+
+REFERENCE            emblem_t9214
+LANG_ENGLISH         "Howl"
+
+REFERENCE            emblem_t9215
+LANG_ENGLISH         "Tank"
+
+REFERENCE            emblem_t9216
+LANG_ENGLISH         "Hawk Medallion"
+
+REFERENCE            emblem_t9217
+LANG_ENGLISH         "Marked for Death"
+
+REFERENCE            emblem_t9218
+LANG_ENGLISH         "Snake Eyes"
+
+REFERENCE            emblem_t9219
+LANG_ENGLISH         "Long Gun Ranger"
+
+REFERENCE            emblem_t9220
+LANG_ENGLISH         "Bolt of Inspiration"
+
+REFERENCE            emblem_t9221
+LANG_ENGLISH         "Remote Control"
+
+REFERENCE            emblem_t9222
+LANG_ENGLISH         "Ocean Park"
+
+REFERENCE            emblem_t9223
+LANG_ENGLISH         "Head Conductor"
+
+REFERENCE            emblem_t9224
+LANG_ENGLISH         "Lover"
+
+REFERENCE            emblem_t9225
+LANG_ENGLISH         "Experimental Weapon"
+
+REFERENCE            emblem_t9226
+LANG_ENGLISH         "Security Force"
+
+REFERENCE            emblem_t9227
+LANG_ENGLISH         "Rebirth"
+
+REFERENCE            emblem_t9228
+LANG_ENGLISH         "Shooting Star"
+
+REFERENCE            emblem_t9229
+LANG_ENGLISH         "Isolated Trio"
+
+REFERENCE            emblem_t9230
+LANG_ENGLISH         "Gas! Gas! Gas!"
+
+REFERENCE            emblem_t9231
+LANG_ENGLISH         "Thunder Bolts"
+
+REFERENCE            emblem_t9232
+LANG_ENGLISH         "Star Seeker"
+
+REFERENCE            emblem_t9233
+LANG_ENGLISH         "Brother Bear"
+
+REFERENCE            emblem_t9234
+LANG_ENGLISH         "Thunderbird"
+
+REFERENCE            emblem_t9235
+LANG_ENGLISH         "Dagger"
+
+REFERENCE            emblem_t9236
+LANG_ENGLISH         "Heart Attack"
+
+REFERENCE            emblem_t9237
+LANG_ENGLISH         "Out of Lives"
+
+REFERENCE            emblem_t9238
+LANG_ENGLISH         "Bombs Away"
+
+REFERENCE            emblem_t9239
+LANG_ENGLISH         "Space Monkey"
+
+REFERENCE            emblem_t9240
+LANG_ENGLISH         "Stinger"
+
+REFERENCE            emblem_t9241
+LANG_ENGLISH         "Eldritch"
+
+REFERENCE            emblem_t9242
+LANG_ENGLISH         "Grim"
+
+REFERENCE            emblem_t9243
+LANG_ENGLISH         "Medieval"
+
+REFERENCE            emblem_t9244
+LANG_ENGLISH         "Bird of Prey"
+
+REFERENCE            emblem_t9245
+LANG_ENGLISH         "Flashbang"
+
+REFERENCE            emblem_t9246
+LANG_ENGLISH         "Astronaut"
+
+REFERENCE            emblem_t9247
+LANG_ENGLISH         "Cobra Strike"
+
+REFERENCE            emblem_t9248
+LANG_ENGLISH         "Donut"
+
+REFERENCE            emblem_t9249
+LANG_ENGLISH         "Bulldog"
+
+REFERENCE            emblem_t9250
+LANG_ENGLISH         "Armed"
+
+REFERENCE            emblem_t9251
+LANG_ENGLISH         "Love"
+
+REFERENCE            emblem_t9252
+LANG_ENGLISH         "Moltov"
+
+REFERENCE            emblem_t9253
+LANG_ENGLISH         "Emblem 253"
+
+REFERENCE            emblem_t9254
+LANG_ENGLISH         "Emblem 254"
+
+REFERENCE            emblem_t9255
+LANG_ENGLISH         "Emblem 255"
+
+REFERENCE            emblem_t9256
+LANG_ENGLISH         "Emblem 256"
+
+REFERENCE            emblem_t9257
+LANG_ENGLISH         "Emblem 257"
+
+REFERENCE            emblem_t9258
+LANG_ENGLISH         "Emblem 258"
+
+REFERENCE            emblem_t9259
+LANG_ENGLISH         "Emblem 259"
+
+REFERENCE            emblem_t9260
+LANG_ENGLISH         "Emblem 260"
+
+REFERENCE            emblem_t9261
+LANG_ENGLISH         "Emblem 261"
+
+REFERENCE            emblem_t9262
+LANG_ENGLISH         "Emblem 262"
+
+REFERENCE            emblem_t9263
+LANG_ENGLISH         "Emblem 263"
+
+REFERENCE            emblem_t9264
+LANG_ENGLISH         "Emblem 264"
+
+REFERENCE            emblem_t9265
+LANG_ENGLISH         "Emblem 265"
+
+REFERENCE            emblem_t9266
+LANG_ENGLISH         "Emblem 266"
+
+REFERENCE            emblem_t9267
+LANG_ENGLISH         "Emblem 267"
+
+REFERENCE            emblem_t9268
+LANG_ENGLISH         "Emblem 268"
+
+REFERENCE            emblem_t9269
+LANG_ENGLISH         "Emblem 269"
+
+REFERENCE            emblem_t9270
+LANG_ENGLISH         "Emblem 270"
+
+REFERENCE            emblem_t9271
+LANG_ENGLISH         "Endowment Elite"
+
+REFERENCE            emblem_t9272
+LANG_ENGLISH         "Lock Jaw"
+
+REFERENCE            emblem_t9273
+LANG_ENGLISH         "Prestige 1"
+
+REFERENCE            emblem_t9274
+LANG_ENGLISH         "Prestige 2"
+
+REFERENCE            emblem_t9275
+LANG_ENGLISH         "Prestige 3"
+
+REFERENCE            emblem_t9276
+LANG_ENGLISH         "Prestige 4"
+
+REFERENCE            emblem_t9277
+LANG_ENGLISH         "Prestige 5"
+
+REFERENCE            emblem_t9278
+LANG_ENGLISH         "Prestige 6"
+
+REFERENCE            emblem_t9279
+LANG_ENGLISH         "Prestige 7"
+
+
+ENDMARKER

@@ -2,8 +2,17 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            atlantis_dates
+LANG_ENGLISH         "December 21st - January 4th"
+
+REFERENCE            atlantis_event_live
+LANG_ENGLISH         "Rebirth Event is live"
+
 REFERENCE            double_xp_live
 LANG_ENGLISH         "Double XP Event is live!"
+
+REFERENCE            event_live
+LANG_ENGLISH         "Event is now live"
 
 REFERENCE            halloween
 LANG_ENGLISH         "Halloween Event Coming Soon! (10/25 - 10/31)"

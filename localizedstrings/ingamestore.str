@@ -38,6 +38,22 @@ LANG_ENGLISH         "Call of Duty??: Modern Warfare?? - Battle Pass Edition"
 REFERENCE            product_battlepass_edition_desc
 LANG_ENGLISH         "The Battle Pass Edition includes 3,000 Call of Duty Points (CP), three Operator Packs, a custom in-game tactical knife, and the XRK Weapons Pack. Each Operator Pack includes a themed Operator skin, cosmetic weapon variant, and additional bonus content."
 
+REFERENCE            product_cdllaunch
+LANG_ENGLISH         "Call of Duty League??? - Launch Pack"
+
+REFERENCE            product_cdllaunch_desc
+LANG_ENGLISH         "Run it back! We're celebrating the return to Call of Duty League??? in Season 2 with a special Launch Pack. Choose from a slick black or white urban outfit for a new special CDL Operator in this pack. Both Home and Away outfits are included. The pack also includes 2 calling cards, 3 emblems and 5 weapon stickers with favorite community sayings.
+
+Are you a main assault rifle player, a flex player or a sub player? Are you a camper or slayer? Sport your playstyle with a weapon sticker.
+
+Use these items in both Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, WARZONE, CALL OF DUTY LEAGUE, and the CALL OF DUTY LEAGUE logo are trademarks of Activision Publishing, Inc. The CALL OF DUTY LEAGUE team names, logos and other team trademarks are the properties of their respective team owners."
+
 REFERENCE            product_cdlpack_01
 LANG_ENGLISH         "Modern Warfare?? - Atlanta FaZe Pack"
 
@@ -184,30 +200,28 @@ LANG_ENGLISH         "Defend those who defended our freedom! Support civilian ca
 ?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
 
 REFERENCE            product_codepack_zeus
-LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Fearless Pack"
+LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Challenger Pack"
 
 REFERENCE            product_codepack_zeus_desc
-LANG_ENGLISH         "Support our military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Fearless Pack for Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone, created in partnership with and inspired by the combat service of Medal of Honor recipient CPT Florent 'Flo' Groberg.
+LANG_ENGLISH         "Are you up for the challenge? Support US and UK military veterans by purchasing the Call of Duty Endowment (C.O.D.E.) Challenger Pack for Call of Duty?? Black Ops Cold War and Call of Duty??: Warzone???.
 
-The Endowment provides grants to not-for-profits in the US* and registered UK charities which place veterans in the US and UK into high quality civilian jobs. By purchasing this pack, you will directly contribute to the Endowment???s mission.
+The first Endowment pack to feature 2 cosmetic weapon blueprints includes:
 
-The full purchase price for this special item, less VAT, will be donated to the Call of Duty Endowment (EIN: 37-1589072)*. This is a limited time offer and this special item will be withdrawn from sale once $3 million has been raised globally for the cause.
+- 1 'The Standard Issue' Pistol Weapon Blueprint
+- 1 'The Stripe' Rifle Weapon Blueprint
+- 1 Weapon Charm
+- 1 Calling Card (Static)
+- 1 Animated Emblem
+- 1 Sticker
+- Double Weapon XP Token
 
-Pack includes:
+The Call of Duty Endowment places unemployed and underemployed veterans in the U.S. and U.K. into high-quality jobs*. By purchasing this pack, you will directly contribute to the Endowment???s mission.
 
-- 1 Operator
-- 1 Assault Rifle Blueprint
-- 1 Camo
-- 1 Watch
-- 1 Charm
-- 1 Spray
-- 2 Calling Cards
-- 2 Emblems
-
+This is a limited time offer that will end once $5 million USD has been raised for the cause. The Challenger Pack will be available in Call of Duty??: Warzone??? from mid-December, 2020.
 
 *For more information please see https://www.callofdutyendowment.org/partners.
 
-?? 2019-2020 Call of Duty Endowment. ?? 2019-2020 Activision Publishing, Inc. CALL OF DUTY is a trademark of Activision Publishing, Inc. All other trademarks and trade names are property of their respective owners."
+?? 2020 The Call of Duty Endowment and Activision Publishing, Inc.  The Call of Duty Endowment logos are trademarks of The Call of Duty Endowment."
 
 REFERENCE            product_codpoints_1100
 LANG_ENGLISH         "1,100 Call of Duty?? Points"
@@ -363,6 +377,12 @@ LANG_ENGLISH         "High Resolution Texture Pack 1"
 REFERENCE            product_dlc_optional1_desc
 LANG_ENGLISH         "High Resolution Texture Pack 1 is an optional pack that is not required to play any game mode"
 
+REFERENCE            product_dlc_optional2
+LANG_ENGLISH         "High Resolution Texture Pack 2"
+
+REFERENCE            product_dlc_optional2_desc
+LANG_ENGLISH         "High Resolution Texture Pack 2 is an optional pack that is not required to play any game mode"
+
 REFERENCE            product_dlc_sp1
 LANG_ENGLISH         "Campaign Pack 1"
 
@@ -451,6 +471,34 @@ For more information, please visit www.callofduty.com.
 
 ?? 2019-2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, MODERN WARFARE, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
 
+REFERENCE            product_head_start_pack_5
+LANG_ENGLISH         "New text"
+
+REFERENCE            product_head_start_pack_5_desc
+LANG_ENGLISH         "New text"
+
+REFERENCE            product_head_start_pack_6
+LANG_ENGLISH         "Call of Duty??: Warzone??? - Combat Pack (Penumbra)"
+
+REFERENCE            product_head_start_pack_6_desc
+LANG_ENGLISH         "Get a free in-game bundle, inspired by the deniable operations in Call of Duty??: Black Ops Cold War and Call of Duty??: Warzone???.
+
+This pack includes:
+
+- Epic Operator Skin for Sims
+- Legendary LMG Weapon Blueprint
+- Legendary Watch
+- Legendary Calling Card
+- Legendary Emblem
+- Epic Weapon Charm
+- 60-minute Double XP Token
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
 REFERENCE            product_head_start_pack_desc
 LANG_ENGLISH         "Grab an Operator Skin, Weapon Blueprint, and other in-game accessories to show off your style, inspired by the mountains of Verdansk.
 
@@ -506,6 +554,42 @@ LANG_ENGLISH         "Call of Duty??: Modern Warfare??"
 REFERENCE            product_standard_edition_desc
 LANG_ENGLISH         "The Standard Edition includes a Custom In-Game Tactical Knife and the XRK Weapons Pack."
 
+REFERENCE            product_t9_dlc_cp1
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Campaign Part 1"
+
+REFERENCE            product_t9_dlc_cp1_desc
+LANG_ENGLISH         "This pack contains Campaign content."
+
+REFERENCE            product_t9_dlc_cp2
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Campaign Part 2"
+
+REFERENCE            product_t9_dlc_cp2_desc
+LANG_ENGLISH         "This pack contains Campaign content."
+
+REFERENCE            product_t9_dlc_cp3
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Campaign Part 3"
+
+REFERENCE            product_t9_dlc_cp3_desc
+LANG_ENGLISH         "This pack contains Campaign content."
+
+REFERENCE            product_t9_dlc_doa
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Dead Ops Arcade Pack"
+
+REFERENCE            product_t9_dlc_doa_desc
+LANG_ENGLISH         "This pack contains Dead Ops Arcade content."
+
+REFERENCE            product_t9_dlc_mp1
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Multiplayer Base Install"
+
+REFERENCE            product_t9_dlc_mp1_desc
+LANG_ENGLISH         "This pack contains Multiplayer content."
+
+REFERENCE            product_t9_dlc_zm1
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Zombies Base Install"
+
+REFERENCE            product_t9_dlc_zm1_desc
+LANG_ENGLISH         "This pack contains Zombies content."
+
 REFERENCE            starter_pack_desc
 LANG_ENGLISH         "Purchase this limited-time bundle of content for Modern Warfare?? and Warzone. This Starter Pack includes 500 Call of Duty?? Points (a $4.99 value), PLUS a new Operator Skin, a Shotgun Blueprint with five attachments, and MORE!
 
@@ -558,6 +642,30 @@ For more information, please visit www.callofduty.com.
 REFERENCE            starterpack_2_title
 LANG_ENGLISH         "Call of Duty??: Warzone??? - Pro Pack"
 
+REFERENCE            starterpack_3_desc
+LANG_ENGLISH         "Purchase this limited-time bundle of content for Black Ops Cold War and Warzone???. This Starter Pack includes 500 Call of Duty?? Points plus a new Operator Skin, two Battle Pass Tier Skips and MORE!
+
+Pack includes:
+
+- 500 Call of Duty?? Points*
+- Epic Operator Skin for Adler
+- Epic Calling Card
+- Epic Emblem
+- Two Battle Pass Tier Skips
+
+Call of Duty?? Points (CP) are the in-game currency that can be used to obtain in-game content for use in Warzone??? or Black Ops Cold War Multiplayer and Zombies game modes.
+
+*Use of CP is not available in all Call of Duty?? games, is dependent on functionality and is subject to change. CP will be accessible once functionality for CP is enabled in that game and CP are made available. Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? must be launched and CP registered in-game before these CP will appear in other Call of Duty?? games.
+
+Call of Duty??: Black Ops Cold War or Call of Duty??: Warzone??? required. Sold/downloaded separately.
+
+For more information, please visit www.callofduty.com.
+
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            starterpack_3_title
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Starter Pack"
+
 REFERENCE            starterpack_title
 LANG_ENGLISH         "Call of Duty??: Warzone - Starter Pack"
 
@@ -576,11 +684,6 @@ LANG_ENGLISH         "All weekly challenges available in the full game."
 REFERENCE            zeus_cross_gen_description
 LANG_ENGLISH         "Buy this digital current-gen version of Call of Duty??: Black Ops Cold War and download the next-gen version at no extra cost when it launches.
 
-Pre-order any digital edition and receive:
-
-- Early access to the Open Beta*
-- Iconic Operator Frank Woods and an assault rifle Weapon Blueprint for immediate use in Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone???**
-
 The Cross-Gen Bundle includes:
 
 - Cross-Gen Bundle of Call of Duty??: Black Ops Cold War game
@@ -598,8 +701,6 @@ Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipm
 Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
 
 
-*Actual platform availability and launch date(s) of Beta subject to change. Limited time only. Minimum Open Beta duration is 2 days. Internet connection required. Online multiplayer subscription may be required.
-
 **Offer content and availability may vary by region and is subject to change. Call of Duty??: Modern Warfare??/Call of Duty??: Warzone??? required to redeem offer. Sold/downloaded separately. Must be redeemed by November 13th 2021.
 
 ?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
@@ -608,12 +709,7 @@ REFERENCE            zeus_cross_gen_title
 LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Cross-Gen Bundle"
 
 REFERENCE            zeus_standard_description
-LANG_ENGLISH         "Pre-order any digital edition and receive:
-
-- Early access to the Open Beta*
-- Iconic Operator Frank Woods and an assault rifle Weapon Blueprint for immediate use in Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone???**
-
-Standard Edition includes:
+LANG_ENGLISH         "Standard Edition includes:
 
 - Call of Duty??: Black Ops Cold War game
 - Confrontation Weapons Pack
@@ -629,14 +725,21 @@ Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipm
 Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
 
 
-*Actual platform availability and launch date(s) of Beta subject to change. Limited time only. Minimum Open Beta duration is 2 days. Internet connection required. Online multiplayer subscription may be required.
-
 **Offer content and availability may vary by region and is subject to change. Call of Duty??: Modern Warfare??/Call of Duty??: Warzone??? required to redeem offer. Sold/downloaded separately. Must be redeemed by November 13th 2021.
 
 ?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, MODERN WARFARE, and WARZONE are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
 
 REFERENCE            zeus_standard_title
 LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Standard Edition"
+
+REFERENCE            zeus_trial_desc
+LANG_ENGLISH         "Experience the next generation of Multiplayer with Black Ops Cold War Free Access, from December 17th to December 24th. Bring an arsenal of weapons and equipment into the depths of the Cold War???s volatile geopolitical battle of the early 1980s.
+The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
+Welcome to the brink. Welcome to Black Ops Cold War.
+?? 2020 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, and CALL OF DUTY BLACK OPS, are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners."
+
+REFERENCE            zeus_trial_title
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Free Access"
 
 REFERENCE            zeus_ultimate_description
 LANG_ENGLISH         "The Ultimate Edition is packed full of content and delivers the best value for fans. Contents include:
@@ -650,12 +753,6 @@ LANG_ENGLISH         "The Ultimate Edition is packed full of content and deliver
 - Battle Pass Bundle (1 Season Battle Pass + 20 Tier Skips)***
 - Confrontation Weapons Pack
 
-Pre-order and receive:
-
-- Early access to the Open Beta*
-- Iconic Operator Frank Woods and an assault rifle Weapon Blueprint for immediate use in Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone???**
-- 10 Tier Skips for immediate use in Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone???**
-
 The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
 
 Black Ops Cold War will drop fans into the depths of the Cold War???s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.
@@ -666,10 +763,6 @@ Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipm
 
 Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
 
-
-*Actual platform availability and launch date(s) of Beta subject to change. Limited time only. Minimum Open Beta duration is 2 days. Internet connection required. Online multiplayer subscription may be required.
-
-**Offer content and availability may vary by region and is subject to change. Call of Duty??: Modern Warfare??/Call of Duty??: Warzone??? required to redeem offer. Sold/downloaded separately. Must be redeemed by November 13th 2021. 
 
 ***Battle Pass and Tier Skips will be accessible in Call of Duty??: Black Ops Cold War once the first Battle Pass is made available in game. Battle Pass redemption applies to one season of Battle Pass only.
 
@@ -690,12 +783,6 @@ LANG_ENGLISH         "The Ultimate Edition is packed full of content and deliver
 - Battle Pass Bundle (1 Season Battle Pass + 20 Tier Skips)***
 - Confrontation Weapons Pack
 
-Pre-order and receive:
-
-- Early access to the Open Beta*
-- Iconic Operator Frank Woods and an assault rifle Weapon Blueprint for immediate use in Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone???**
-- 10 Tier Skips for immediate use in Call of Duty??: Modern Warfare?? and Call of Duty??: Warzone???**
-
 The iconic Black Ops series is back with Call of Duty??: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty??: Black Ops.
 
 Black Ops Cold War will drop fans into the depths of the Cold War???s volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.
@@ -706,10 +793,6 @@ Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipm
 
 Welcome to the brink. Welcome to Call of Duty??: Black Ops Cold War.
 
-
-*Actual platform availability and launch date(s) of Beta subject to change. Limited time only. Minimum Open Beta duration is 2 days. Internet connection required. Online multiplayer subscription may be required.
-
-**Offer content and availability may vary by region and is subject to change. Call of Duty??: Modern Warfare??/Call of Duty??: Warzone??? required to redeem offer. Sold/downloaded separately. Must be redeemed by November 13th 2021. 
 
 ***Battle Pass and Tier Skips will be accessible in Call of Duty??: Black Ops Cold War once the first Battle Pass is made available in game. Battle Pass redemption applies to one season of Battle Pass only.
 

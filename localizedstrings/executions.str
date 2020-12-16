@@ -242,11 +242,164 @@ LANG_ENGLISH         "Throat Cut"
 REFERENCE            t9kgb_default
 LANG_ENGLISH         "VTS_TEST_EXECUTION"
 
+REFERENCE            t9_execution_158
+LANG_ENGLISH         "Execution 158"
+
+REFERENCE            t9_execution_150
+LANG_ENGLISH         "Hammer Uppercut"
+
+REFERENCE            t9_execution_136
+LANG_ENGLISH         "Full Barrage"
+
+REFERENCE            t9_execution_135
+LANG_ENGLISH         "Rear Mount"
+
+REFERENCE            t9_execution_133
+LANG_ENGLISH         "Cheap Shot"
+
+REFERENCE            t9_execution_132
+LANG_ENGLISH         "Down & Dirty"
+
+REFERENCE            t9_execution_130
+LANG_ENGLISH         "Execution 130"
+
+REFERENCE            t9_execution_129
+LANG_ENGLISH         "Low Praise"
+
+REFERENCE            t9_execution_127
+LANG_ENGLISH         "Drop Shot"
+
+REFERENCE            t9_execution_126
+LANG_ENGLISH         "Guillotine Roll"
+
+REFERENCE            t9_execution_124
+LANG_ENGLISH         "Tight Squeeze"
+
+REFERENCE            t9_execution_123
+LANG_ENGLISH         "Execution 123"
+
+REFERENCE            t9_execution_121
+LANG_ENGLISH         "Ultimate Takedown"
+
+REFERENCE            t9_execution_120
+LANG_ENGLISH         "Throat Chop"
+
+REFERENCE            t9_execution_118
+LANG_ENGLISH         "Half Guard"
+
+REFERENCE            t9_execution_117
+LANG_ENGLISH         "Disarmament"
+
+REFERENCE            t9_execution_113
+LANG_ENGLISH         "Cheap Shot"
+
+REFERENCE            t9_execution_101
+LANG_ENGLISH         "Shortcut"
+
+REFERENCE            t9_execution_100
+LANG_ENGLISH         "Dangerous Approach"
+
+REFERENCE            t9_execution_099
+LANG_ENGLISH         "Pain In The Neck"
+
+REFERENCE            t9_execution_066
+LANG_ENGLISH         "Nail Driver"
+
+REFERENCE            t9_execution_064
+LANG_ENGLISH         "Execution 64"
+
+REFERENCE            t9_execution_062
+LANG_ENGLISH         "Execution 62"
+
+REFERENCE            t9_execution_051
+LANG_ENGLISH         "Execution 51"
+
+REFERENCE            t9_execution_048
+LANG_ENGLISH         "Execution 48"
+
+REFERENCE            t9_execution_038
+LANG_ENGLISH         "Swift Kick"
+
+REFERENCE            t9_execution_037
+LANG_ENGLISH         "Execution 37"
+
+REFERENCE            t9_execution_036
+LANG_ENGLISH         "Devastating Blow"
+
+REFERENCE            t9_execution_033
+LANG_ENGLISH         "Body Snatcher"
+
+REFERENCE            t9_execution_031
+LANG_ENGLISH         "Execution 31"
+
+REFERENCE            t9_execution_030
+LANG_ENGLISH         "Stomping Ground"
+
+REFERENCE            t9_execution_029
+LANG_ENGLISH         "Big Stick"
+
+REFERENCE            t9_execution_027
+LANG_ENGLISH         "Execution 27"
+
+REFERENCE            t9_execution_026
+LANG_ENGLISH         "Execution 26"
+
+REFERENCE            t9_execution_025
+LANG_ENGLISH         "Execution 25"
+
+REFERENCE            t9_execution_024
+LANG_ENGLISH         "Tight Rope"
+
+REFERENCE            t9_execution_022
+LANG_ENGLISH         "Execution 22"
+
+REFERENCE            t9_execution_021
+LANG_ENGLISH         "Execution 21"
+
+REFERENCE            t9_execution_020
+LANG_ENGLISH         "Frontier Finisher"
+
+REFERENCE            t9_execution_018
+LANG_ENGLISH         "Hack Job"
+
+REFERENCE            t9_execution_017
+LANG_ENGLISH         "Absolute Blast"
+
+REFERENCE            t9_execution_016
+LANG_ENGLISH         "Execution 16"
+
+REFERENCE            t9_execution_015
+LANG_ENGLISH         "Execution 15"
+
+REFERENCE            t9_execution_014
+LANG_ENGLISH         "Execution 14"
+
+REFERENCE            t9_execution_013
+LANG_ENGLISH         "Execution 13"
+
+REFERENCE            t9_execution_010
+LANG_ENGLISH         "Execution 10"
+
+REFERENCE            t9_execution_007
+LANG_ENGLISH         "Internal Damage"
+
+REFERENCE            t9_execution_005
+LANG_ENGLISH         "Execution 05"
+
 REFERENCE            t9_execution_004_desc
 LANG_ENGLISH         ""
 
 REFERENCE            t9_execution_004
-LANG_ENGLISH         "Default"
+LANG_ENGLISH         "Sneak Attack??"
+
+REFERENCE            t9_execution_003
+LANG_ENGLISH         "Execution 03"
+
+REFERENCE            t9_execution_002
+LANG_ENGLISH         "Execution 02"
+
+REFERENCE            t9_execution_001
+LANG_ENGLISH         "Helping Hand"
 
 REFERENCE            syd_variant_2
 LANG_ENGLISH         "Precision Point"
@@ -289,6 +442,18 @@ LANG_ENGLISH         "SPETSNAZ_DEFAULT_DESC"
 
 REFERENCE            spetsnaz_default
 LANG_ENGLISH         "The Fix"
+
+REFERENCE            sparks_default_desc
+LANG_ENGLISH         "SPARKS_DEFAULT_DESC"
+
+REFERENCE            sparks_default
+LANG_ENGLISH         "Axing For Trouble"
+
+REFERENCE            soap_default_desc
+LANG_ENGLISH         "SOAP_DEFAULT_DESC"
+
+REFERENCE            soap_default
+LANG_ENGLISH         "Point Taken"
 
 REFERENCE            ronin_variant_1_desc
 LANG_ENGLISH         "RONIN_VARIANT_1_DESC"

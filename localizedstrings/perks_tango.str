@@ -1,0 +1,145 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ar_t9accurate
+LANG_ENGLISH         "Full-auto assault rifle.  Improved damage and accuracy.  Excellent weapon control and visibility when sustaining fire.
+"
+
+REFERENCE            ar_t9damage
+LANG_ENGLISH         "Full-auto assault rifle.  High damage with a marginally slower fire rate.  Excellent stopping power for mid range encounters."
+
+REFERENCE            ar_t9fastfire
+LANG_ENGLISH         "Full-auto assault rifle.  Fast fire rate with quick reloading speeds.  Modest damage and slightly less ammo capacity."
+
+REFERENCE            ar_t9fasthandling
+LANG_ENGLISH         "Full-auto assault rifle.  Excellent handling speeds with improved damage.  Fast fire rate and fair damage range."
+
+REFERENCE            ar_t9longburst
+LANG_ENGLISH         "Burst fire tactical rifle.  Excellent burst fire accuracy when aiming down sights.  Good visibility while firing with a slightly pronounced delay between bursts."
+
+REFERENCE            ar_t9mobility
+LANG_ENGLISH         "Full-auto assault rifle.  Superior mobility with improved handling speeds.  Erratic initial recoil with less accurate hipfire spread."
+
+REFERENCE            ar_t9standard
+LANG_ENGLISH         "Full-auto assault rifle.  Reliable damage with improved fire rate.  Fair weapon control when sustaining fire.
+"
+
+REFERENCE            knife_t9loadout
+LANG_ENGLISH         "Lethal melee weapon.  Straight-edge blade that kills enemies with a single deadly strike. "
+
+REFERENCE            la_t9freefire
+LANG_ENGLISH         "Free-fire rocket launcher.  Increased blast radius with heavy damage to vehicles, equipment, and personnel.  Additional rockets provided."
+
+REFERENCE            la_t9grenadelauncher
+LANG_ENGLISH         "High explosive grenade launcher. "
+
+REFERENCE            la_t9launcher
+LANG_ENGLISH         "Grenade launcher.  Fires a grenade projectile that explodes on impact.  High damage with a significant blast radius."
+
+REFERENCE            la_t9standard
+LANG_ENGLISH         "Free-fire rocket launcher.  Lock-on capability vs. enemy vehicles.  Locked rockets travel faster to their targets and maneuver in flight."
+
+REFERENCE            lm_t9accurate
+LANG_ENGLISH         "Full-auto light machine gun.  Improved fire rate with a large ammo capacity.  Good recoil control and visibility when sustaining fire."
+
+REFERENCE            lm_t9accuratecb
+LANG_ENGLISH         "Stoner 63a - Coverband"
+
+REFERENCE            lm_t9light
+LANG_ENGLISH         "Full-auto light machine gun.  Reliable stopping power with superior handling and movement speeds."
+
+REFERENCE            lm_t9rpapa
+LANG_ENGLISH         "Full-auto light machine gun.  Reliable handling and damage with reduced accuracy."
+
+REFERENCE            lm_t9slowfire
+LANG_ENGLISH         "Full-auto light machine gun. Consistent ammo capacity with heavy-grain rounds provides premium stopping power and bullet economy. Slower fire rate and handling speeds."
+
+REFERENCE            me_t9loadout
+LANG_ENGLISH         "Lethal melee weapon.  Straight-edge blade that kills enemies with a single deadly strike. "
+
+REFERENCE            me_t9sledgehammer
+LANG_ENGLISH         "Its name is derived from the word "sl??gan," meaning "to strike violently."  Distributes a large amount of force over a small area.  Repurposed to demolish your enemies instead of dry wall."
+
+REFERENCE            me_t9wakizashi
+LANG_ENGLISH         "Famously known as the companion sword to the Samurai's Katana.  Traditionally forged using a folded steel technique.  Light to wield, resilient to force, and durable to wear."
+
+REFERENCE            pi_t9burst
+LANG_ENGLISH         "Burst fire pistol.  Fast cyclic rate of fire with a short delay between bursts.  Increased ammo capacity and slightly slower reloading speeds."
+
+REFERENCE            pi_t9burstcb
+LANG_ENGLISH         "Diamatti - Coverband"
+
+REFERENCE            pi_t9revolver
+LANG_ENGLISH         "Double action revolver.  High damage with increased penetration and faster bullet velocity."
+
+REFERENCE            pi_t9semiauto
+LANG_ENGLISH         "Semi-auto pistol.  Good accuracy with a modest ammo capacity.  High damage in close range encounters."
+
+REFERENCE            sh_t9fullauto
+LANG_ENGLISH         "Full-auto shotgun.  Fastest fire rate in class with a larger ammo pool.  Reduced damage with reliable weapon control."
+
+REFERENCE            sh_t9pump
+LANG_ENGLISH         "Pump-action shotgun.  High damage with a possible 1-shot kill in close quarters.  Hand loaded with moderate rechamber speed. 
+"
+
+REFERENCE            sh_t9semiauto
+LANG_ENGLISH         "Semi-auto shotgun.  Reliable damage and pellet spread.  Heavy recoil and low visibility when sustaining fire."
+
+REFERENCE            sh_t9semiautocb
+LANG_ENGLISH         "Gallo SA12 - Coverband"
+
+REFERENCE            sm_t9accurate
+LANG_ENGLISH         "[Full-auto submachine gun.  TEMP]"
+
+REFERENCE            sm_t9burst
+LANG_ENGLISH         "3-round burst submachine gun.  High damage with moderate range.  Burst fire spread is less efficient at long range."
+
+REFERENCE            sm_t9capacity
+LANG_ENGLISH         "Full-auto submachine gun.  Reliable damage with improved range.  Large ammo pool and less accurate hipfire spread."
+
+REFERENCE            sm_t9fastfire
+LANG_ENGLISH         "Full-auto submachine gun.  Excellent fire rate with higher vertical recoil.  Improved handling speeds with reduced damage."
+
+REFERENCE            sm_t9handling
+LANG_ENGLISH         "Full-auto submachine gun.  High damage with a slower fire rate and fair recoil.  Improved handling speeds with more accurate hipfire spread."
+
+REFERENCE            sm_t9heavy
+LANG_ENGLISH         "Full-auto submachine gun.  Improved damage with reliable weapon control.  Utilizes 5.45mm ammo for superior bullet velocity. "
+
+REFERENCE            sm_t9powerburst
+LANG_ENGLISH         "Burst fire tactical rifle.  High damage with moderate recoil and slower movement speeds when firing.  Built in optic provides 1.5x magnification."
+
+REFERENCE            sm_t9powerburstcb
+LANG_ENGLISH         "Aug - Coverband"
+
+REFERENCE            sm_t9standard
+LANG_ENGLISH         "Full-auto submachine gun.  Fast fire rate with low recoil. Good visibility and control while firing."
+
+REFERENCE            sm_t9standardcb
+LANG_ENGLISH         "MP5 - Coverband"
+
+REFERENCE            sn_t9cannon
+LANG_ENGLISH         "Bolt-action sniper rifle.  High damage, 1-shot kill to the head, chest, and shoulders.  Hold [{ONFOOT:+breath_sprint;+holdbreath}] while ADS to steady."
+
+REFERENCE            sn_t9damagesemi
+LANG_ENGLISH         "Semi-auto tactical rifle.  High damage and reliable accuracy with lower ammo capacity.  Fair visibility and control while firing."
+
+REFERENCE            sn_t9powersemi
+LANG_ENGLISH         "Semi-auto sniper rifle.  Heavy recoil with slow handling.  1-shot kill to the head or upper chest.  Hold [{ONFOOT:+breath_sprint;+holdbreath}] while ADS to steady."
+
+REFERENCE            sn_t9powersemicb
+LANG_ENGLISH         "Barret M82 - Coverband"
+
+REFERENCE            sn_t9precisionsemi
+LANG_ENGLISH         "Semi-auto tactical rifle.  Increased fire rate with minimal recoil.  Maintains reliable damage over longer range encounters."
+
+REFERENCE            sn_t9quickscope
+LANG_ENGLISH         "Bolt-action sniper rifle.  Hand loaded with improved aim speeds and faster rechamber.  1-shot kill to the head or  upper chest.  Hold [{ONFOOT:+breath_sprint;+holdbreath}] while ADS to steady.
+"
+
+REFERENCE            sn_t9standard
+LANG_ENGLISH         "Bolt-action sniper rifle.  High damage with moderate sway.  1-shot kill to the head, chest, or shoulders.  Hold [{ONFOOT:+breath_sprint;+holdbreath}] while ADS to steady."
+
+
+ENDMARKER

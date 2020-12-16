@@ -189,7 +189,10 @@
                 "^cp_stinger.bik$",
                 "^main_menu_warzone_battlepass_trailer.bik$",
                 "^main_menu_warzone_mw_story_trailer.bik$",
-                "^mp_donetsk_gulag_intro2.bik$",
+                "^mp_gos_bronze.bik$",
+                "^mp_gos_gold.bik$",
+                "^mp_gos_silver.bik$",
+                "^mp_.*halloween_.*",
                 "^mp_amber.bik$",
                 "^mp_amber_pause.bik$",
                 "^mp_amber_run.bik$",
@@ -216,7 +219,8 @@
                 "mp_port2_gw_cg_ls_tr.ff",
                 "^ModernWarfare.exe$",
                 "^BlizzardBrowser.exe$",
-                "^mp_donetsk_gulag_intro.bik$",
+                "^mp_donetsk_gulag_intro2.bik$",
+                "^rebirth_gulag_intro.bik$",
                 "^mp_donetsk_c130_intro.bik$",
                 "^mp_donetsk_c130_intro_zxp.zxp$"
             ]
@@ -410,7 +414,10 @@
                 "^cp_stinger.bik$",
                 "^main_menu_warzone_battlepass_trailer.bik$",
                 "^main_menu_warzone_mw_story_trailer.bik$",
-                "^mp_donetsk_gulag_intro2.bik$",
+                "^mp_gos_bronze.bik$",
+                "^mp_gos_gold.bik$",
+                "^mp_gos_silver.bik$",
+                "^mp_.*halloween_.*",
                 "^mp_amber.bik$",
                 "^mp_amber_pause.bik$",
                 "^mp_amber_run.bik$",
@@ -439,7 +446,7 @@
                 "^ModernWarfare_CDL.exe$",
                 "^ModernWarfare_CDL_Online.exe$",
                 "^BlizzardBrowser.exe$",
-                "^mp_donetsk_gulag_intro.bik$",
+                "^mp_donetsk_gulag_intro2.bik$",
                 "^mp_donetsk_c130_intro.bik$",
                 "^mp_donetsk_c130_intro_zxp.bik$"
             ]
@@ -523,7 +530,6 @@
                 "^season_four_intro.bik$",
                 "^season_four_tablet.bik$",
                 "^season_five_intro.bik$",
-                "^mp_donetsk_gulag_outro.bik$",
                 "^aerial_crash_temp.bik$",
                 "^mp_execution_.*",
                 "^mp_operator_execution_alice.bik$",
@@ -600,7 +606,10 @@
                 "^cp_stinger.bik$",
                 "^main_menu_warzone_battlepass_trailer.bik$",
                 "^main_menu_warzone_mw_story_trailer.bik$",
-                "^mp_donetsk_gulag_intro2.bik$",
+                "^mp_gos_bronze.bik$",
+                "^mp_gos_gold.bik$",
+                "^mp_gos_silver.bik$",
+                "^mp_.*halloween_.*",
                 "^mp_amber.bik$",
                 "^mp_amber_pause.bik$",
                 "^mp_amber_run.bik$",
@@ -825,7 +834,10 @@
                 "^cp_stinger.bik$",
                 "^main_menu_warzone_battlepass_trailer.bik$",
                 "^main_menu_warzone_mw_story_trailer.bik$",
-                "^mp_donetsk_gulag_intro2.bik$",
+                "^mp_gos_bronze.bik$",
+                "^mp_gos_gold.bik$",
+                "^mp_gos_silver.bik$",
+                "^mp_.*halloween_.*",
                 "^mp_amber.bik$",
                 "^mp_amber_pause.bik$",
                 "^mp_amber_run.bik$",
@@ -866,7 +878,7 @@
                 "mp_boneyard_gw_cg_ls_tr.ff",
                 "mp_downtown_gw_cg_ls_tr.ff",
                 "mp_port2_gw_cg_ls_tr.ff",
-                "^mp_donetsk_gulag_intro.bik$",
+                "^mp_donetsk_gulag_intro2.bik$",
                 "^mp_donetsk_c130_intro.bik$",
                 "^mp_donetsk_c130_intro_zxp.bik$"
             ]
@@ -997,7 +1009,11 @@
         },
         {
             "key": "tag-group-licenses",
-            "value": "sp mp cp dnu survival hd"
+            "value": "sp mp cp survival dnu"
+        },
+        {
+            "key": "tag-group-hd",
+            "value": "hd dnu2"
         },
         {
             "key": "vfs-options",

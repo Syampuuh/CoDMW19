@@ -20,6 +20,6 @@
 19,iw8_pi_papa320_variant_19,iw8_pi_papa320,iw8_pi_papa320_mpa,rec|3 mag|3,,barcust|7,laserbalanced|1,,,xmags|4,,,akimbo,,,,WEAPON/PI_PAPA320_V20,ui_loot_weapon_pi_papa320_v20,,,
 20,iw8_pi_papa320_variant_20,iw8_pi_papa320,iw8_pi_papa320_mpa,rec|4 front|4 mag|4,comp|9,barcust|6,,,,,pistolgrip02|3,,fastreload,trigcust|9,,,WEAPON/PI_PAPA320_V21,ui_loot_weapon_pi_papa320_v21,,,
 21,iw8_pi_papa320_variant_21,iw8_pi_papa320,iw8_pi_papa320_mpa,rec|5 front|5 mag|5,,barmid|5,laserbalanced|14,,,,,,fastreload,trigcust|10,,,WEAPON/PI_PAPA320_V22,ui_loot_weapon_pi_papa320_v22,,,
-22,iw8_pi_papa320_variant_22,iw8_pi_papa320,iw8_pi_papa320_mpa,rec|6 front|6 mag|6,,barlong|7,laserbalanced|5,,reflexmini2|6,,,,fastreload,,,,WEAPON/PI_PAPA320_V23,ui_loot_weapon_pi_papa320_v23,,,
+22,iw8_pi_papa320_variant_22,iw8_pi_papa320,iw8_pi_papa320_mpmtx2,rec|6 front|6 mag|6,,barlong|7,laserbalanced|5,,reflexmini2|6,,,,fastreload,,,,WEAPON/PI_PAPA320_V23,ui_loot_weapon_pi_papa320_v23,,crimsonRonin,
 23,iw8_pi_papa320_variant_23,iw8_pi_papa320,iw8_pi_papa320_mpa,rec|7 front|7 mag|7,silencer2|2,barlong|5,laserbalanced|3,,reflexmini2|5,xmagslrg|8,,,,,,,WEAPON/PI_PAPA320_V24,ui_loot_weapon_pi_papa320_v24,,,
 24,iw8_pi_papa320_variant_24,iw8_pi_papa320,iw8_pi_papa320_mpa,rec|8 front|8 mag|8,,barlong|6,laserbalanced|4,,,,,,,trigcust|11,,,WEAPON/PI_PAPA320_V25,ui_loot_weapon_pi_papa320_v25,,,

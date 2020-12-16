@@ -1,0 +1,12 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            desc
+LANG_ENGLISH         "Attack dog that can be commanded to either follow you or patrol a designated location."
+
+REFERENCE            name
+LANG_ENGLISH         "K9-Unit"
+
+
+ENDMARKER

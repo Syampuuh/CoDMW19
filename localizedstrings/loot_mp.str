@@ -8,6 +8,9 @@ LANG_ENGLISH         "Attachment"
 REFERENCE            battle_pass
 LANG_ENGLISH         "Battle Pass"
 
+REFERENCE            bonuscard
+LANG_ENGLISH         "Wildcard"
+
 REFERENCE            calling_card
 LANG_ENGLISH         "Calling Card"
 
@@ -80,6 +83,9 @@ LANG_ENGLISH         "Weapon"
 REFERENCE            loot
 LANG_ENGLISH         "Loot"
 
+REFERENCE            melee
+LANG_ENGLISH         "Melee"
+
 REFERENCE            mission
 LANG_ENGLISH         "Mission"
 
@@ -91,6 +97,9 @@ LANG_ENGLISH         "Finishing Move"
 
 REFERENCE            operator_intro
 LANG_ENGLISH         "Operator Intro"
+
+REFERENCE            operator_mission
+LANG_ENGLISH         "&&1 Mission"
 
 REFERENCE            operator_name_execution
 LANG_ENGLISH         "&&1 Finishing Move"
@@ -137,6 +146,9 @@ LANG_ENGLISH         "Epic"
 REFERENCE            quality_4
 LANG_ENGLISH         "Legendary"
 
+REFERENCE            quality_5
+LANG_ENGLISH         "Ultra"
+
 REFERENCE            quality_player
 LANG_ENGLISH         "Player"
 
@@ -148,6 +160,9 @@ LANG_ENGLISH         "Reticle"
 
 REFERENCE            role
 LANG_ENGLISH         "Co-Op Role"
+
+REFERENCE            skill_t9
+LANG_ENGLISH         "Skill"
 
 REFERENCE            sprays
 LANG_ENGLISH         "Spray"
@@ -169,6 +184,9 @@ LANG_ENGLISH         "Swap Tactical"
 
 REFERENCE            swap_weapon
 LANG_ENGLISH         "Swap Weapon"
+
+REFERENCE            t9_operator
+LANG_ENGLISH         "Black Ops Cold War Operator"
 
 REFERENCE            vehicle_horn
 LANG_ENGLISH         "Vehicle Horn"
@@ -206,6 +224,9 @@ LANG_ENGLISH         "Vehicle Skin"
 REFERENCE            vehicle_horn
 LANG_ENGLISH         "Vehicle Horn"
 
+REFERENCE            t9_operator
+LANG_ENGLISH         "Black Ops Cold War Operator"
+
 REFERENCE            swap_weapon
 LANG_ENGLISH         "Swap Weapon"
 
@@ -227,6 +248,9 @@ LANG_ENGLISH         "Sticker"
 REFERENCE            sprays
 LANG_ENGLISH         "Spray"
 
+REFERENCE            skill_t9
+LANG_ENGLISH         "Skill"
+
 REFERENCE            role
 LANG_ENGLISH         "Co-Op Role"
 
@@ -238,6 +262,9 @@ LANG_ENGLISH         "Uncommon"
 
 REFERENCE            quality_player
 LANG_ENGLISH         "Player"
+
+REFERENCE            quality_5
+LANG_ENGLISH         "Ultra"
 
 REFERENCE            quality_4
 LANG_ENGLISH         "Legendary"
@@ -284,6 +311,9 @@ LANG_ENGLISH         "&&1 Quip"
 REFERENCE            operator_name_execution
 LANG_ENGLISH         "&&1 Finishing Move"
 
+REFERENCE            operator_mission
+LANG_ENGLISH         "&&1 Mission"
+
 REFERENCE            operator_intro
 LANG_ENGLISH         "Operator Intro"
 
@@ -295,6 +325,9 @@ LANG_ENGLISH         "Operator"
 
 REFERENCE            mission
 LANG_ENGLISH         "Mission"
+
+REFERENCE            melee
+LANG_ENGLISH         "Melee"
 
 REFERENCE            loot
 LANG_ENGLISH         "Loot"
@@ -367,6 +400,9 @@ LANG_ENGLISH         "Camo"
 
 REFERENCE            calling_card
 LANG_ENGLISH         "Calling Card"
+
+REFERENCE            bonuscard
+LANG_ENGLISH         "Wildcard"
 
 REFERENCE            battle_pass
 LANG_ENGLISH         "Battle Pass"

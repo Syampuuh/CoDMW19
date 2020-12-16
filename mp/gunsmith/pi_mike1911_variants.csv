@@ -15,7 +15,7 @@
 14,iw8_pi_mike1911_variant_14,iw8_pi_mike1911,,rec|14,silencer|8,barlong|4,,,,xmagslrg|5,,,akimbo,trigcust|4,,,WEAPON/PI_MIKE1911_V15,ui_loot_weapon_pi_mike1911_v15,,,,
 15,iw8_pi_mike1911_variant_15,iw8_pi_mike1911,iw8_pi_mike1911_mpdmb,rec|15,comp|6,barshort|2,,,reflexmini3|3,xmagslrg|6,,,fastreload,,,,WEAPON/PI_MIKE1911_V16,ui_loot_weapon_pi_mike1911_v16,,,standardDis,
 16,iw8_pi_mike1911_variant_16,iw8_pi_mike1911,iw8_pi_mike1911_mpa,rec|0 mag|0,,barmid|6,laserrange|1,,reflexmini|2,,,,maxammo,trigcust02|4,,,WEAPON/PI_MIKE1911_V17,ui_loot_weapon_pi_mike1911_v17,,,,
-17,iw8_pi_mike1911_variant_17,iw8_pi_mike1911,iw8_pi_mike1911_mpa,rec|1 mag|1,comp|11,barmid|7,laser|8,,,xmagslrg|7,,,,trigcust|7,,,WEAPON/PI_MIKE1911_V18,ui_loot_weapon_pi_mike1911_v18,,,,
+17,iw8_pi_mike1911_variant_17,iw8_pi_mike1911,iw8_pi_mike1911_mpmtx2,rec|1 mag|1,comp|11,barmid|7,laser|8,,,xmagslrg|7,,,,trigcust|7,,,WEAPON/PI_MIKE1911_V18,ui_loot_weapon_pi_mike1911_v18,,ice,standardDis,
 18,iw8_pi_mike1911_variant_18,iw8_pi_mike1911,iw8_pi_mike1911_mpa,rec|2 front|2 mag|2,brake|9,barlong|5,,,,xmags|5,pistolgrip02|4,,,trigcust|8,,,WEAPON/PI_MIKE1911_V19,ui_loot_weapon_pi_mike1911_v19,,,,
 19,iw8_pi_mike1911_variant_19,iw8_pi_mike1911,iw8_pi_mike1911_mpa,rec|3 front|3 mag|3,,barshort|3,,,,,pistolgrip02|2,,fastreload,,,,WEAPON/PI_MIKE1911_V20,ui_loot_weapon_pi_mike1911_v20,,,,
 20,iw8_pi_mike1911_variant_20,iw8_pi_mike1911,iw8_pi_mike1911_mpa,rec|4 front|4 mag|4,silencer4|3,barshort|4,,,,,pistolgrip02|3,,fastreload,trigcust|5,,,WEAPON/PI_MIKE1911_V21,ui_loot_weapon_pi_mike1911_v21,,,,

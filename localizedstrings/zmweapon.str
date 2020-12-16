@@ -1,0 +1,90 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            hero_chakram
+LANG_ENGLISH         "Chakrams of Vengeance"
+
+REFERENCE            hero_chakram_desc
+LANG_ENGLISH         "Paired chakrams, one for throwing and another for melee."
+
+REFERENCE            hero_flamethrower_s1
+LANG_ENGLISH         "Hellfire"
+
+REFERENCE            hero_flamethrower_s1_desc
+LANG_ENGLISH         "Assembled with Russian know-how from the scraps of war and inter-dimensional combat, the Hellfire flamethrower has incinerated legions of filthy hell-pigs."
+
+REFERENCE            hero_flamethrower_s1_lv2
+LANG_ENGLISH         "Blast Vent"
+
+REFERENCE            hero_gravityspikes_s1
+LANG_ENGLISH         "Ragnarok DG-5"
+
+REFERENCE            hero_gravityspikes_s1_desc
+LANG_ENGLISH         "Inspired by designs of the DG-4 and perfected in Richtofen's Lab, the Ragnarok DG-5 converts trace quantities of Element 115 into reckless amounts of electricity."
+
+REFERENCE            hero_gravityspikes_s1_lv2
+LANG_ENGLISH         "Electrocute"
+
+REFERENCE            hero_gravityspikes_s1_lv3
+LANG_ENGLISH         "Power Plant"
+
+REFERENCE            hero_hammer
+LANG_ENGLISH         "Hammer of Valhalla"
+
+REFERENCE            hero_hammer_desc
+LANG_ENGLISH         "A hammer for wading directly into battle."
+
+REFERENCE            hero_katana_s1
+LANG_ENGLISH         "Path of Sorrows"
+
+REFERENCE            hero_katana_s1_desc
+LANG_ENGLISH         "Carried by Takeo Masaki through both victory and sacrifice, the Path of Sorrows is a tragic blade with many more tales to tell."
+
+REFERENCE            hero_katana_s1_lv2
+LANG_ENGLISH         "Merciless Dash"
+
+REFERENCE            hero_katana_s1_lv3
+LANG_ENGLISH         "Shadow of Death"
+
+REFERENCE            hero_minigun_s1
+LANG_ENGLISH         "Overkill"
+
+REFERENCE            hero_minigun_s1_desc
+LANG_ENGLISH         "Adopted by Dempsey with love and affection from a Group 935 armory, the Overkill mini-gun can chop meat and cut daisies with the greatest of ease."
+
+REFERENCE            hero_minigun_s1_lv2
+LANG_ENGLISH         "Grenade Launcher"
+
+REFERENCE            hero_minigun_s1_lv3
+LANG_ENGLISH         "Tactical Nuke"
+
+REFERENCE            hero_scepter
+LANG_ENGLISH         "Scepter of Ra"
+
+REFERENCE            hero_scepter_desc
+LANG_ENGLISH         "A staff with ranged healing and slowing capability."
+
+REFERENCE            hero_sword_pistol
+LANG_ENGLISH         "Viper and Dragon"
+
+REFERENCE            hero_sword_pistol_desc
+LANG_ENGLISH         "A paired whip sword and hand cannon for mid-range flexibility."
+
+REFERENCE            ray_gun_mk2x
+LANG_ENGLISH         "Ray Gun Mark II-X"
+
+REFERENCE            ray_gun_mk2y
+LANG_ENGLISH         "Ray Gun Mark II-Y"
+
+REFERENCE            ray_gun_mk2z
+LANG_ENGLISH         "Ray Gun Mark II-Z"
+
+REFERENCE            spork_knife
+LANG_ENGLISH         "Golden Spork"
+
+REFERENCE            tomahawk
+LANG_ENGLISH         "Hell's Retriever"
+
+
+ENDMARKER

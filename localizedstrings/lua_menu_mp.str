@@ -484,6 +484,9 @@ LANG_ENGLISH         "Banks"
 REFERENCE            basic_store_button_desc
 LANG_ENGLISH         "Pre-Order Call of Duty??: Modern Warfare??."
 
+REFERENCE            battle_pass_seasonal_xp_boost_subtitle
+LANG_ENGLISH         "10% Bonus Player XP During Season 1"
+
 REFERENCE            beam_caps
 LANG_ENGLISH         "BEAM"
 
@@ -2913,6 +2916,14 @@ LANG_ENGLISH         "POINT OF CONTACT"
 REFERENCE            leaderboards_caps_chaos
 LANG_ENGLISH         "LEADERBOARDS [ CHAOS ]"
 
+REFERENCE            leave_play_again_squad
+LANG_ENGLISH         "Leave play again with team?"
+
+REFERENCE            leave_play_again_squad_desc
+LANG_ENGLISH         "Are you sure you don't want to play again with the current team?
+Note: players that are not your friends and you have recently played are viewable in social "recently played" menu. 
+"
+
 REFERENCE            leave_squad
 LANG_ENGLISH         "Leave Squad"
 
@@ -3862,7 +3873,7 @@ REFERENCE            mission_extract_1_title
 LANG_ENGLISH         "CONTRABAND"
 
 REFERENCE            mission_geiger_1_title
-LANG_ENGLISH         "Detection Contract"
+LANG_ENGLISH         "Detection"
 
 REFERENCE            mission_history_desc
 LANG_ENGLISH         "Locate the Key Card "
@@ -4461,6 +4472,45 @@ LANG_ENGLISH         "Press ^3[{+attack}]^7 to place the Centurion."
 REFERENCE            platinumvc
 LANG_ENGLISH         "Platinum "
 
+REFERENCE            play_again_squad
+LANG_ENGLISH         "Play Again With Team"
+
+REFERENCE            play_again_squad_back_lobby
+LANG_ENGLISH         "Getting back to the lobby in &&1s"
+
+REFERENCE            play_again_squad_cancel
+LANG_ENGLISH         "Cancel Play Again With Team"
+
+REFERENCE            play_again_squad_confirm_message
+LANG_ENGLISH         "has choosen to stay with the team!"
+
+REFERENCE            play_again_squad_count_down
+LANG_ENGLISH         "Play again in ^5&&1^7s"
+
+REFERENCE            play_again_squad_host_vote
+LANG_ENGLISH         "You are the ^5HOST^7. You vote for the party"
+
+REFERENCE            play_again_squad_locked
+LANG_ENGLISH         "Option is unavailable"
+
+REFERENCE            play_again_squad_match_start
+LANG_ENGLISH         "Launching into new game in ^5&&1^7s"
+
+REFERENCE            play_again_squad_match_start_now
+LANG_ENGLISH         "Launching into new game now"
+
+REFERENCE            play_again_squad_waiting
+LANG_ENGLISH         "Waiting team members..."
+
+REFERENCE            play_again_squad_waiting_host
+LANG_ENGLISH         "Waiting for the host: &&1"
+
+REFERENCE            play_again_with
+LANG_ENGLISH         "Play again with: "
+
+REFERENCE            play_again_with_teammate
+LANG_ENGLISH         "Play with teammate again?"
+
 REFERENCE            play_of_the_game_title
 LANG_ENGLISH         "Play of the Game"
 
@@ -4915,7 +4965,7 @@ REFERENCE            rebirth_early_access_locked
 LANG_ENGLISH         "Complete Detection Contract"
 
 REFERENCE            rebirth_name
-LANG_ENGLISH         "Rebirth"
+LANG_ENGLISH         "Resurgence"
 
 REFERENCE            recipe
 LANG_ENGLISH         "Lava Mode Recipe"
@@ -7906,6 +7956,9 @@ LANG_ENGLISH         "Season One maps in a mix of core game modes."
 REFERENCE            season3_desc
 LANG_ENGLISH         "Season Three maps Talsik Backlot, Aniyah Incursion, and Hovec Sawmill in Mosh Pit game modes."
 
+REFERENCE            season_1_xp_boost
+LANG_ENGLISH         "Season 1 XP Boost"
+
 REFERENCE            seconds
 LANG_ENGLISH         "&&1s"
 
@@ -8707,6 +8760,9 @@ LANG_ENGLISH         "Recipe based on the Team Defender game mode"
 
 REFERENCE            tdef_recipe_name
 LANG_ENGLISH         "Team Defender Recipe"
+
+REFERENCE            team
+LANG_ENGLISH         "Team: "
 
 REFERENCE            team_contract
 LANG_ENGLISH         "&&1 TEAM CONTRACT"

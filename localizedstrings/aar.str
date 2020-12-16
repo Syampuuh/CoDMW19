@@ -315,6 +315,9 @@ LANG_ENGLISH         "Role"
 REFERENCE            scoreboard
 LANG_ENGLISH         "Scoreboard"
 
+REFERENCE            seasonal_ranks_unlocked
+LANG_ENGLISH         "Seasonal Ranks Unlocked!"
+
 REFERENCE            sprays
 LANG_ENGLISH         "Sprays"
 
@@ -341,6 +344,9 @@ LANG_ENGLISH         "Unlocked at Level"
 
 REFERENCE            unlocks
 LANG_ENGLISH         "Unlocks"
+
+REFERENCE            view_all_unlocks
+LANG_ENGLISH         "[{ui_alt2}] View All Unlocks"
 
 REFERENCE            watch
 LANG_ENGLISH         "Watch"

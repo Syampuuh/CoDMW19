@@ -1,0 +1,271 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            cdl
+LANG_ENGLISH         "CDL"
+
+REFERENCE            cw_upsell_campaign_desc
+LANG_ENGLISH         "The iconic Black Ops series is back with the direct sequel to the original Call of Duty??: Black Ops."
+
+REFERENCE            cw_upsell_events_desc
+LANG_ENGLISH         "Rank up your character and weapons faster with a series of premium live ops events."
+
+REFERENCE            cw_upsell_gain_access
+LANG_ENGLISH         "GAIN ACCESS TO"
+
+REFERENCE            cw_upsell_includes
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War Includes:"
+
+REFERENCE            cw_upsell_multiplayer_desc
+LANG_ENGLISH         "Bring a Cold War arsenal of weapons and equipment into the next generation of Multiplayer."
+
+REFERENCE            cw_upsell_operators
+LANG_ENGLISH         "13 NEW OPERATORS"
+
+REFERENCE            cw_upsell_shared_content
+LANG_ENGLISH         "SHARED CAREER and BATTLE PASS"
+
+REFERENCE            cw_upsell_shared_content_desc
+LANG_ENGLISH         "Progress your Military Ranks & Seasonal Prestige, level up weapons, and unlock Battle Pass tiers no matter where you choose to play."
+
+REFERENCE            cw_upsell_special_events
+LANG_ENGLISH         "SPECIAL EVENTS"
+
+REFERENCE            cw_upsell_weapons
+LANG_ENGLISH         "CHALLENGES, REWARDS, AND MORE"
+
+REFERENCE            cw_upsell_weapons_desc
+LANG_ENGLISH         "Get access to Black Ops Cold War-exclusive premium medals, challenges, and rewards to further customize your experience."
+
+REFERENCE            cw_upsell_zombies
+LANG_ENGLISH         "ZOMBIES"
+
+REFERENCE            cw_upsell_zombies_desc
+LANG_ENGLISH         "Embark on a bold and terrifying co-op journey in Zombies: Die Maschine."
+
+REFERENCE            operator_adler_skin_2_1_desc
+LANG_ENGLISH         "Route the course with the Adler's Ranger Skin."
+
+REFERENCE            operator_adler_skin_3_1_desc
+LANG_ENGLISH         "Shoot first, ask questions later with Adler's Gunslinger Skin."
+
+REFERENCE            operator_adler_skin_4_1_desc
+LANG_ENGLISH         "Leave no trail with Adler???s Base Jumper Operator Outfit."
+
+REFERENCE            operator_adler_skin_4_2_desc
+LANG_ENGLISH         "Lead the hunt with Adler???s Stalker Operator Outfit."
+
+REFERENCE            operator_adler_skin_4_3_desc
+LANG_ENGLISH         "Stay fly with Adler???s Glitz Operator Outfit."
+
+REFERENCE            operator_adler_skin_5_1_desc
+LANG_ENGLISH         "Put them on permanent vacation with Adler???s Traveler Operator Outfit."
+
+REFERENCE            operator_adler_skin_5_2_desc
+LANG_ENGLISH         "Be elite with Adler???s Summit Operator Outfit."
+
+REFERENCE            operator_adler_skin_8_1_desc
+LANG_ENGLISH         "Sunny days ahead with Adler's Miami Skin."
+
+REFERENCE            operator_cia_skin_3_1_desc
+LANG_ENGLISH         "Make a statement with Sims' Regulator Operator Outfit."
+
+REFERENCE            operator_cia_skin_4_1_desc
+LANG_ENGLISH         "Rise to the top with Sims' Polarized Operator Outfit."
+
+REFERENCE            operator_cia_skin_7_1_desc
+LANG_ENGLISH         "Make your rounds and bring home the bacon with Sims' Mafioso Operator Outfit."
+
+REFERENCE            operator_cub_skin_3_1_desc
+LANG_ENGLISH         "Be there for your friends and aware of your enemies with Garcia's Tourist Operator Outfit."
+
+REFERENCE            operator_cub_skin_5_1_desc
+LANG_ENGLISH         "It's not personal, it's business with Garcia's Hatchetman Operator Outfit."
+
+REFERENCE            operator_cub_skin_6_1_desc
+LANG_ENGLISH         "Loosen up a bit with Garcia's Mechanic Outfit."
+
+REFERENCE            operator_cub_skin_7_1_desc
+LANG_ENGLISH         "Take out the middle man with Garcia's Sicario Operator Outfit."
+
+REFERENCE            operator_fullname_t9bulldozer
+LANG_ENGLISH         "Wyatt ???Bulldozer??? Jones"
+
+REFERENCE            operator_fullname_t9esports
+LANG_ENGLISH         "COMPETITOR"
+
+REFERENCE            operator_fullname_t9st2
+LANG_ENGLISH         "SEBASTIAN VARGAS"
+
+REFERENCE            operator_fullname_t9st4
+LANG_ENGLISH         "KWAN SONG"
+
+REFERENCE            operator_fullname_t9stitch
+LANG_ENGLISH         "Vikhor ???Stitch??? Kuzmin "
+
+REFERENCE            operator_fullname_t9zeyna
+LANG_ENGLISH         "Zeyna Ossou"
+
+REFERENCE            operator_kgb_skin_2_1_desc
+LANG_ENGLISH         "Strike when the opportunity presents itself with Portnova's Killer Bee Operator Skin."
+
+REFERENCE            operator_kgb_skin_4_1_desc
+LANG_ENGLISH         "Time's a ticking with Portnova's Shadow Operator Outfit."
+
+REFERENCE            operator_kgb_skin_5_1_desc
+LANG_ENGLISH         "Give them permission to die slowly with Portnova's Tactical Goth Skin."
+
+REFERENCE            operator_kgb_skin_6_1_desc
+LANG_ENGLISH         "Break the code with Portnova's Safecracker Operator Outfit."
+
+REFERENCE            operator_mi_skin_3_1_desc
+LANG_ENGLISH         "Show your artistic vision with Park's Tagger Skin."
+
+REFERENCE            operator_mi_skin_4_1_desc
+LANG_ENGLISH         "Play both sides of the battlefield with Park's Double Agent Skin."
+
+REFERENCE            operator_mi_skin_5_1_desc
+LANG_ENGLISH         "Any shot, any distance. Fire away with Park's Handler Skin."
+
+REFERENCE            operator_mi_skin_6_1_desc
+LANG_ENGLISH         "Maintain bearing, keep your altitude, fire at will with Park's Snapshot Skin."
+
+REFERENCE            operator_mi_skin_7_1_desc
+LANG_ENGLISH         "Put your research to good use with Park's Scorch Skin."
+
+REFERENCE            operator_mi_skin_8_1_desc
+LANG_ENGLISH         "Ascend the throne with Parks Bad Blood Operator Outfit."
+
+REFERENCE            operator_nav_skin_10_1_desc
+LANG_ENGLISH         " Go through hell and keep going with Baker's Last One Standing Skin."
+
+REFERENCE            operator_nav_skin_11_1_desc
+LANG_ENGLISH         "Throw the first punch with Baker's Dissident Skin."
+
+REFERENCE            operator_nav_skin_2_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_nav_skin_3_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_nav_skin_4_1_desc
+LANG_ENGLISH         " "
+
+REFERENCE            operator_nav_skin_6_1_desc
+LANG_ENGLISH         "Funny. Real funny. Baker's Clown Skin."
+
+REFERENCE            operator_nav_skin_7_1_desc
+LANG_ENGLISH         "Walk your own path with Baker???s Flight Jacker Operator Outfit."
+
+REFERENCE            operator_nav_skin_7_2_desc
+LANG_ENGLISH         "Cast out your opponents with Baker???s Basebrawl Operator Outfit."
+
+REFERENCE            operator_nav_skin_7_3_desc
+LANG_ENGLISH         "Leave your mark with Baker???s Pitcher Operator Outfit."
+
+REFERENCE            operator_nav_skin_8_1_desc
+LANG_ENGLISH         "Wreck the scene with Stone's Instigator Operator  Outfit."
+
+REFERENCE            operator_nav_skin_9_1_desc
+LANG_ENGLISH         "Show some teeth with Stone's Wolf Skin."
+
+REFERENCE            operator_skin_bul_1_1_desc
+LANG_ENGLISH         "Assemble a wrecking crew with Bulldozer's Blitz Skin."
+
+REFERENCE            operator_skin_esp_1_2
+LANG_ENGLISH         "Primary"
+
+REFERENCE            operator_skin_esp_1_3
+LANG_ENGLISH         "Alternate"
+
+REFERENCE            operator_sti_skin_1_1_desc
+LANG_ENGLISH         "Disappear in the night with Stitch???s Redacted Skin."
+
+REFERENCE            operator_sti_skin_1_2_desc
+LANG_ENGLISH         "The human caution light that loves a firefight. This is Stitch???s Toxic Terror Operator Outfit."
+
+REFERENCE            operator_sti_skin_1_3_desc
+LANG_ENGLISH         "Descend into darkness with Stitch???s Storm Diver Operator Outfit."
+
+REFERENCE            operator_sti_skin_1_4_desc
+LANG_ENGLISH         "Redeem yourself with Stitch???s Spectre Operator Outfit."
+
+REFERENCE            operator_sti_skin_1_5_desc
+LANG_ENGLISH         "Poison their best-laid plans with Stitch???s Siberian Ghost Operator Skin."
+
+REFERENCE            operator_sti_skin_2_1_desc
+LANG_ENGLISH         "Jailbreak their spirit with Stich???s Prisoner Operator Outfit."
+
+REFERENCE            operator_sti_skin_2_2_desc
+LANG_ENGLISH         "Rough them up a bit with Stitch???s Stripes Operator Outfit."
+
+REFERENCE            operator_sti_skin_2_3_desc
+LANG_ENGLISH         "Put them on lockdown with Stitch???s New Warden Operator Outfit."
+
+REFERENCE            operator_west_skin_5_1_desc
+LANG_ENGLISH         "Every shot counts when you're in the sky, don???t miss with Beck's Bomber Skin."
+
+REFERENCE            operator_west_skin_5_2_desc
+LANG_ENGLISH         "New text"
+
+REFERENCE            operator_west_skin_7_1_desc
+LANG_ENGLISH         "Hunt them down, every last one, with Stone's Stealth Skin."
+
+REFERENCE            operator_wood_skin_3_1_desc
+LANG_ENGLISH         "Wail on your opponents with the Woods' Biker Skin."
+
+REFERENCE            operator_wood_skin_4_1_desc
+LANG_ENGLISH         "Kick ass. Take names. Double check the bubble gum. This is Woods' Eliminator  Operator Skin."
+
+REFERENCE            operator_wood_skin_5_1_desc
+LANG_ENGLISH         "Catch and don???t release with Woods' Fisherman Operator Outfit."
+
+REFERENCE            operator_wood_skin_6_2_desc
+LANG_ENGLISH         "Cloaked. Covert. Combat-ready. This is Woods??? Metro Operator Outfit."
+
+REFERENCE            operator_wood_skin_6_3_desc
+LANG_ENGLISH         "Try not to stand out, try not to stand at all with Woods' Undergrowth Operator Outfit."
+
+REFERENCE            operator_wood_skin_8_1_desc
+LANG_ENGLISH         "Lay off the eggnog. Get Woods' Sweater Weather Skin."
+
+REFERENCE            purchase_black_ops
+LANG_ENGLISH         "Purchase Black Ops"
+
+REFERENCE            purchase_black_ops_prompt
+LANG_ENGLISH         "[{ui_alt1}] Purchase Black Ops"
+
+REFERENCE            purchase_black_ops_prompt_kbm
+LANG_ENGLISH         "Purchase Black Ops"
+
+REFERENCE            purchase_or_play_black_ops
+LANG_ENGLISH         "Purchase and/or play Black Ops Cold War"
+
+REFERENCE            t9bulldozer_background
+LANG_ENGLISH         "A highly skilled member of a US Marine Corps Special Reaction Team, Bulldozer is a CQB and hostage rescue expert. Always first in the fight, Bulldozer strives to protect the defenseless and serves with distinction."
+
+REFERENCE            t9esports_background
+LANG_ENGLISH         "  "
+
+REFERENCE            t9st2
+LANG_ENGLISH         "Vargas"
+
+REFERENCE            t9st2_background
+LANG_ENGLISH         "Trained in Jungle Warfare and anti-narco operations, Vargas joined the M-19 guerrilla group to fight against a government he considered corrupt and the cartels he believed to be pulling their strings.
+"
+
+REFERENCE            t9st4
+LANG_ENGLISH         "Song"
+
+REFERENCE            t9st4_background
+LANG_ENGLISH         "Counter-Terrorism expert, and member of the ???White Tiger??? 707th Special Mission Group of the Republic of Korea Army Special Warfare Command.  Song is an expert in SCUBA and air-assault operations."
+
+REFERENCE            t9stitch_background
+LANG_ENGLISH         "Ex-KGB Chemical Weapons expert who ran the Nova 6 program at Rebirth Island until a CIA raid ended it in 1968.??Now driven by a burning hatred of Russell Adler, the CIA agent that took his eye during the Rebirth operation."
+
+REFERENCE            t9zeyna_background
+LANG_ENGLISH         "Senegal born DGSE Mobility and Heavy Weapons specialist Zeyna has been a motorhead for as long as she can remember. Growing up around the garages of her rally driver father, she jokes that she has gasoline in her veins."
+
+
+ENDMARKER

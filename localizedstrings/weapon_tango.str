@@ -1,0 +1,699 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ar_t9accurate
+LANG_ENGLISH         "Krig 6"
+
+REFERENCE            ar_t9accurate_v10
+LANG_ENGLISH         "Simple Plan"
+
+REFERENCE            ar_t9accurate_v2
+LANG_ENGLISH         "Utilitarian"
+
+REFERENCE            ar_t9accurate_v3
+LANG_ENGLISH         "King's Ransom"
+
+REFERENCE            ar_t9accurate_v4
+LANG_ENGLISH         "Haymaker"
+
+REFERENCE            ar_t9accurate_v5
+LANG_ENGLISH         "Head Hunter"
+
+REFERENCE            ar_t9accurate_v6
+LANG_ENGLISH         "Barrel Roll"
+
+REFERENCE            ar_t9accurate_v7
+LANG_ENGLISH         "Death Certificate"
+
+REFERENCE            ar_t9accurate_v8
+LANG_ENGLISH         "Hazardous"
+
+REFERENCE            ar_t9accurate_v9
+LANG_ENGLISH         "Shogunate"
+
+REFERENCE            ar_t9damage
+LANG_ENGLISH         "AK-47"
+
+REFERENCE            ar_t9damage_v10
+LANG_ENGLISH         "Magnificence"
+
+REFERENCE            ar_t9damage_v11
+LANG_ENGLISH         "Soviet Standard"
+
+REFERENCE            ar_t9damage_v12
+LANG_ENGLISH         "ICBRifle"
+
+REFERENCE            ar_t9damage_v2
+LANG_ENGLISH         "Nocturne"
+
+REFERENCE            ar_t9damage_v3
+LANG_ENGLISH         "Brick Wall"
+
+REFERENCE            ar_t9damage_v4
+LANG_ENGLISH         "Czarina"
+
+REFERENCE            ar_t9damage_v5
+LANG_ENGLISH         "Long Winter"
+
+REFERENCE            ar_t9damage_v6
+LANG_ENGLISH         "Prototype"
+
+REFERENCE            ar_t9damage_v7
+LANG_ENGLISH         "Iron Curtain"
+
+REFERENCE            ar_t9damage_v8
+LANG_ENGLISH         "Eastern Wall"
+
+REFERENCE            ar_t9damage_v9
+LANG_ENGLISH         "Ranger Patrol"
+
+REFERENCE            ar_t9fastfire
+LANG_ENGLISH         "FFAR 1"
+
+REFERENCE            ar_t9fastfire_v2
+LANG_ENGLISH         "Arid Constrictor"
+
+REFERENCE            ar_t9fastfire_v3
+LANG_ENGLISH         "Fast Tempo"
+
+REFERENCE            ar_t9fastfire_v4
+LANG_ENGLISH         "Deep Threat"
+
+REFERENCE            ar_t9fastfire_v5
+LANG_ENGLISH         "Wanderlust"
+
+REFERENCE            ar_t9fastfire_v6
+LANG_ENGLISH         "Ground Patrol"
+
+REFERENCE            ar_t9fastfire_v7
+LANG_ENGLISH         "Bastion"
+
+REFERENCE            ar_t9fastfire_v8
+LANG_ENGLISH         "Super Rad"
+
+REFERENCE            ar_t9fastfire_v9
+LANG_ENGLISH         "Maneater"
+
+REFERENCE            ar_t9fasthandling
+LANG_ENGLISH         "Groza"
+
+REFERENCE            ar_t9fasthandling_v2
+LANG_ENGLISH         "Natural Order"
+
+REFERENCE            ar_t9longburst
+LANG_ENGLISH         "M16"
+
+REFERENCE            ar_t9longburst_v10
+LANG_ENGLISH         "Constable"
+
+REFERENCE            ar_t9longburst_v11
+LANG_ENGLISH         "Conscientious Objector"
+
+REFERENCE            ar_t9longburst_v12
+LANG_ENGLISH         "Green Machine"
+
+REFERENCE            ar_t9longburst_v2
+LANG_ENGLISH         "The Stripe"
+
+REFERENCE            ar_t9longburst_v3
+LANG_ENGLISH         "Military Green"
+
+REFERENCE            ar_t9longburst_v4
+LANG_ENGLISH         "Monstrous Envy"
+
+REFERENCE            ar_t9longburst_v5
+LANG_ENGLISH         "Warlock"
+
+REFERENCE            ar_t9longburst_v6
+LANG_ENGLISH         "Western Front"
+
+REFERENCE            ar_t9longburst_v7
+LANG_ENGLISH         "Lone Driver"
+
+REFERENCE            ar_t9longburst_v8
+LANG_ENGLISH         "Fool Proof"
+
+REFERENCE            ar_t9longburst_v9
+LANG_ENGLISH         "SOG Standard"
+
+REFERENCE            ar_t9mobility
+LANG_ENGLISH         "QBZ-83"
+
+REFERENCE            ar_t9mobility_v2
+LANG_ENGLISH         "Cross Check"
+
+REFERENCE            ar_t9mobility_v3
+LANG_ENGLISH         "Frostbite"
+
+REFERENCE            ar_t9mobility_v4
+LANG_ENGLISH         "Almost Famous"
+
+REFERENCE            ar_t9mobility_v5
+LANG_ENGLISH         "Hellhawk"
+
+REFERENCE            ar_t9mobility_v6
+LANG_ENGLISH         "Death Metal"
+
+REFERENCE            ar_t9mobility_v7
+LANG_ENGLISH         "Soul Survivor"
+
+REFERENCE            ar_t9standard
+LANG_ENGLISH         "XM4"
+
+REFERENCE            ar_t9standard_v10
+LANG_ENGLISH         "Signature Forged"
+
+REFERENCE            ar_t9standard_v11
+LANG_ENGLISH         "Inconspicuous"
+
+REFERENCE            ar_t9standard_v12
+LANG_ENGLISH         "Ratchet Patrol"
+
+REFERENCE            ar_t9standard_v2
+LANG_ENGLISH         "Glacial Mass"
+
+REFERENCE            ar_t9standard_v3
+LANG_ENGLISH         "Western Wall"
+
+REFERENCE            ar_t9standard_v4
+LANG_ENGLISH         "Souvenir"
+
+REFERENCE            ar_t9standard_v5
+LANG_ENGLISH         "Black Tide"
+
+REFERENCE            ar_t9standard_v6
+LANG_ENGLISH         "Great Pacific"
+
+REFERENCE            ar_t9standard_v7
+LANG_ENGLISH         "Succubus"
+
+REFERENCE            ar_t9standard_v8
+LANG_ENGLISH         "Deniable Ops"
+
+REFERENCE            ar_t9standard_v9
+LANG_ENGLISH         "Giantsbane"
+
+REFERENCE            knife_t9loadout
+LANG_ENGLISH         "Knife"
+
+REFERENCE            la_t9freefire
+LANG_ENGLISH         "RPG-7"
+
+REFERENCE            la_t9grenadelauncher
+LANG_ENGLISH         "M79"
+
+REFERENCE            la_t9launcher
+LANG_ENGLISH         "M79"
+
+REFERENCE            la_t9launcher_v2
+LANG_ENGLISH         "Noob Tube"
+
+REFERENCE            la_t9standard
+LANG_ENGLISH         "Cigma 2"
+
+REFERENCE            lm_t9accurate
+LANG_ENGLISH         "Stoner 63"
+
+REFERENCE            lm_t9accurate_v2
+LANG_ENGLISH         "Opulence"
+
+REFERENCE            lm_t9accurate_v3
+LANG_ENGLISH         "Snow Shovel"
+
+REFERENCE            lm_t9accuratecb
+LANG_ENGLISH         "Stoner 63a - Coverband"
+
+REFERENCE            lm_t9accuratecb_v2
+LANG_ENGLISH         "Queen's Guard"
+
+REFERENCE            lm_t9accuratecb_v3
+LANG_ENGLISH         "Blue Lightning"
+
+REFERENCE            lm_t9light
+LANG_ENGLISH         "RPD"
+
+REFERENCE            lm_t9light_v2
+LANG_ENGLISH         "Bunker Beetle"
+
+REFERENCE            lm_t9light_v3
+LANG_ENGLISH         "Wave Lord"
+
+REFERENCE            lm_t9light_v4
+LANG_ENGLISH         "Big Comrade"
+
+REFERENCE            lm_t9light_v5
+LANG_ENGLISH         "Dime Piece"
+
+REFERENCE            lm_t9light_v6
+LANG_ENGLISH         "Noxious"
+
+REFERENCE            lm_t9light_v7
+LANG_ENGLISH         "The Cleaver"
+
+REFERENCE            lm_t9light_v8
+LANG_ENGLISH         "Dead Pharaoh"
+
+REFERENCE            lm_t9slowfire
+LANG_ENGLISH         "M60"
+
+REFERENCE            lm_t9slowfire_v2
+LANG_ENGLISH         "Jackal"
+
+REFERENCE            lm_t9slowfire_v3
+LANG_ENGLISH         "Ohaguro"
+
+REFERENCE            me_t9loadout
+LANG_ENGLISH         "Knife"
+
+REFERENCE            me_t9loadout_v1
+LANG_ENGLISH         "Currency Cutter"
+
+REFERENCE            me_t9loadout_v2
+LANG_ENGLISH         "Go Bananas"
+
+REFERENCE            me_t9loadout_v3
+LANG_ENGLISH         "Assassins Blade"
+
+REFERENCE            me_t9loadout_v4
+LANG_ENGLISH         "Stake"
+
+REFERENCE            me_t9loadout_v5
+LANG_ENGLISH         "Finishing Touch"
+
+REFERENCE            me_t9sledgehammer
+LANG_ENGLISH         "Sledgehammer"
+
+REFERENCE            me_t9sledgehammer_v1
+LANG_ENGLISH         "Heavy Handed"
+
+REFERENCE            me_t9wakizashi
+LANG_ENGLISH         "Wakizashi"
+
+REFERENCE            me_t9wakizashi_v1
+LANG_ENGLISH         "Organ Donor"
+
+REFERENCE            pi_t9burst
+LANG_ENGLISH         "Diamatti"
+
+REFERENCE            pi_t9burst_v2
+LANG_ENGLISH         "Avalanche"
+
+REFERENCE            pi_t9burst_v3
+LANG_ENGLISH         "Primal Hunter"
+
+REFERENCE            pi_t9burst_v4
+LANG_ENGLISH         "Sky Burst"
+
+REFERENCE            pi_t9burst_v5
+LANG_ENGLISH         "Deciding Factor"
+
+REFERENCE            pi_t9burst_v6
+LANG_ENGLISH         "Tiny Comrade"
+
+REFERENCE            pi_t9burst_v7
+LANG_ENGLISH         "PI_T9BURST_V7"
+
+REFERENCE            pi_t9burstcb
+LANG_ENGLISH         "Diamatti - Coverband"
+
+REFERENCE            pi_t9burstcb_v4
+LANG_ENGLISH         "Sky Burst"
+
+REFERENCE            pi_t9burstcb_v5
+LANG_ENGLISH         "Deciding Factor"
+
+REFERENCE            pi_t9burstcb_v6
+LANG_ENGLISH         "Tiny Comrade"
+
+REFERENCE            pi_t9revolver
+LANG_ENGLISH         "Magnum"
+
+REFERENCE            pi_t9revolver_v2
+LANG_ENGLISH         "Silent Nod"
+
+REFERENCE            pi_t9revolver_v3
+LANG_ENGLISH         "Vice Grip"
+
+REFERENCE            pi_t9revolver_v4
+LANG_ENGLISH         "Concealed Carry"
+
+REFERENCE            pi_t9revolver_v5
+LANG_ENGLISH         "Minted"
+
+REFERENCE            pi_t9revolver_v6
+LANG_ENGLISH         "Death Adder"
+
+REFERENCE            pi_t9semiauto
+LANG_ENGLISH         "1911"
+
+REFERENCE            pi_t9semiauto_v2
+LANG_ENGLISH         "Midnight"
+
+REFERENCE            pi_t9semiauto_v3
+LANG_ENGLISH         "Teal Steel"
+
+REFERENCE            pi_t9semiauto_v4
+LANG_ENGLISH         "The Standard Issue"
+
+REFERENCE            pi_t9semiauto_v5
+LANG_ENGLISH         "Field Officer"
+
+REFERENCE            pi_t9semiauto_v6
+LANG_ENGLISH         "Wingman"
+
+REFERENCE            pi_t9semiauto_v7
+LANG_ENGLISH         "Slight Adjustment"
+
+REFERENCE            sh_t9fullauto
+LANG_ENGLISH         "Streetsweeper"
+
+REFERENCE            sh_t9fullauto_v2
+LANG_ENGLISH         "Red Shift"
+
+REFERENCE            sh_t9fullauto_v3
+LANG_ENGLISH         "Surge Protector"
+
+REFERENCE            sh_t9pump
+LANG_ENGLISH         "Hauer 77"
+
+REFERENCE            sh_t9pump_v10
+LANG_ENGLISH         "Last Stop"
+
+REFERENCE            sh_t9pump_v2
+LANG_ENGLISH         "Headache"
+
+REFERENCE            sh_t9pump_v3
+LANG_ENGLISH         "Chestnut"
+
+REFERENCE            sh_t9pump_v4
+LANG_ENGLISH         "Battle Worn"
+
+REFERENCE            sh_t9pump_v5
+LANG_ENGLISH         "Nightfall"
+
+REFERENCE            sh_t9pump_v6
+LANG_ENGLISH         "Sucker Punch"
+
+REFERENCE            sh_t9pump_v7
+LANG_ENGLISH         "Hangman"
+
+REFERENCE            sh_t9pump_v8
+LANG_ENGLISH         "Albino Snake"
+
+REFERENCE            sh_t9pump_v9
+LANG_ENGLISH         "Chimney Sweeper"
+
+REFERENCE            sh_t9semiauto
+LANG_ENGLISH         "Gallo SA12"
+
+REFERENCE            sh_t9semiauto_v2
+LANG_ENGLISH         "Apollo"
+
+REFERENCE            sh_t9semiauto_v3
+LANG_ENGLISH         "The Punchline"
+
+REFERENCE            sh_t9semiauto_v4
+LANG_ENGLISH         "Warden's Word"
+
+REFERENCE            sh_t9semiauto_v5
+LANG_ENGLISH         "Jaw Breaker"
+
+REFERENCE            sh_t9semiauto_v6
+LANG_ENGLISH         "White Elephant"
+
+REFERENCE            sh_t9semiautocb
+LANG_ENGLISH         "Gallo SA12 - Coverband"
+
+REFERENCE            sh_t9semiautocb_v6
+LANG_ENGLISH         "White Elephant"
+
+REFERENCE            sm_t9accurate
+LANG_ENGLISH         "AI-LC10"
+
+REFERENCE            sm_t9burst
+LANG_ENGLISH         "KSP 45"
+
+REFERENCE            sm_t9burst_v10
+LANG_ENGLISH         "Tape Deck"
+
+REFERENCE            sm_t9burst_v2
+LANG_ENGLISH         "Full Spectrum"
+
+REFERENCE            sm_t9burst_v3
+LANG_ENGLISH         "Twin Stripe"
+
+REFERENCE            sm_t9burst_v4
+LANG_ENGLISH         "Multi-Tool"
+
+REFERENCE            sm_t9burst_v5
+LANG_ENGLISH         "Ogresbreath"
+
+REFERENCE            sm_t9burst_v6
+LANG_ENGLISH         "Perma Frost"
+
+REFERENCE            sm_t9burst_v7
+LANG_ENGLISH         "Molten Core"
+
+REFERENCE            sm_t9burst_v8
+LANG_ENGLISH         "Earthen Spirit"
+
+REFERENCE            sm_t9burst_v9
+LANG_ENGLISH         "Scaled Snapper"
+
+REFERENCE            sm_t9capacity
+LANG_ENGLISH         "Bullfrog"
+
+REFERENCE            sm_t9capacity_v2
+LANG_ENGLISH         "Recycler"
+
+REFERENCE            sm_t9capacity_v3
+LANG_ENGLISH         "Turbo Powered"
+
+REFERENCE            sm_t9capacity_v4
+LANG_ENGLISH         "Motorcade"
+
+REFERENCE            sm_t9capacity_v5
+LANG_ENGLISH         "SM_T9CAPACITY_V5"
+
+REFERENCE            sm_t9capacity_v6
+LANG_ENGLISH         "Torch Bearer"
+
+REFERENCE            sm_t9capacity_v7
+LANG_ENGLISH         "Violettor"
+
+REFERENCE            sm_t9capacity_v8
+LANG_ENGLISH         "Blast Radius"
+
+REFERENCE            sm_t9capacity_v9
+LANG_ENGLISH         "Gas Guzzler"
+
+REFERENCE            sm_t9fastfire
+LANG_ENGLISH         "MAC-10"
+
+REFERENCE            sm_t9fastfire_v2
+LANG_ENGLISH         "Gallantry"
+
+REFERENCE            sm_t9handling
+LANG_ENGLISH         "Milano 821"
+
+REFERENCE            sm_t9handling_v10
+LANG_ENGLISH         "Razor's Edge"
+
+REFERENCE            sm_t9handling_v11
+LANG_ENGLISH         "Evasion Protocol"
+
+REFERENCE            sm_t9handling_v12
+LANG_ENGLISH         "Excavator"
+
+REFERENCE            sm_t9handling_v2
+LANG_ENGLISH         "Stones Throw"
+
+REFERENCE            sm_t9handling_v3
+LANG_ENGLISH         "Mutual Animosity"
+
+REFERENCE            sm_t9handling_v4
+LANG_ENGLISH         "Avalanche"
+
+REFERENCE            sm_t9handling_v5
+LANG_ENGLISH         "Mahogany"
+
+REFERENCE            sm_t9handling_v6
+LANG_ENGLISH         "Blood Money"
+
+REFERENCE            sm_t9handling_v7
+LANG_ENGLISH         "Mosh Pitted"
+
+REFERENCE            sm_t9handling_v8
+LANG_ENGLISH         "Red Room"
+
+REFERENCE            sm_t9handling_v9
+LANG_ENGLISH         "Whiteout"
+
+REFERENCE            sm_t9heavy
+LANG_ENGLISH         "AK-74u"
+
+REFERENCE            sm_t9heavy_v10
+LANG_ENGLISH         "Collector's Item"
+
+REFERENCE            sm_t9heavy_v2
+LANG_ENGLISH         "Big Trouble"
+
+REFERENCE            sm_t9heavy_v3
+LANG_ENGLISH         "Armadillo"
+
+REFERENCE            sm_t9heavy_v4
+LANG_ENGLISH         "Little Comrade"
+
+REFERENCE            sm_t9heavy_v5
+LANG_ENGLISH         "Pop Star"
+
+REFERENCE            sm_t9heavy_v6
+LANG_ENGLISH         "Knuckle Buster"
+
+REFERENCE            sm_t9heavy_v7
+LANG_ENGLISH         "Cautionary Tale"
+
+REFERENCE            sm_t9heavy_v8
+LANG_ENGLISH         "Field Agent"
+
+REFERENCE            sm_t9heavy_v9
+LANG_ENGLISH         "World Champ"
+
+REFERENCE            sm_t9powerburst
+LANG_ENGLISH         "AUG"
+
+REFERENCE            sm_t9powerburst_v2
+LANG_ENGLISH         "Midnight Express"
+
+REFERENCE            sm_t9powerburst_v3
+LANG_ENGLISH         "Black Oak"
+
+REFERENCE            sm_t9powerburstcb
+LANG_ENGLISH         "Aug - Coverband"
+
+REFERENCE            sm_t9powerburstcb_v2
+LANG_ENGLISH         "Midnight Express"
+
+REFERENCE            sm_t9powerburstcb_v3
+LANG_ENGLISH         "Black Oak"
+
+REFERENCE            sm_t9standard
+LANG_ENGLISH         "MP5"
+
+REFERENCE            sm_t9standard_v2
+LANG_ENGLISH         "Widowmaker"
+
+REFERENCE            sm_t9standard_v3
+LANG_ENGLISH         "Pitstop Pressure"
+
+REFERENCE            sm_t9standard_v4
+LANG_ENGLISH         "The Scalpel"
+
+REFERENCE            sm_t9standard_v5
+LANG_ENGLISH         "Rare Prospect"
+
+REFERENCE            sm_t9standard_v6
+LANG_ENGLISH         "Anti-Virus"
+
+REFERENCE            sm_t9standard_v7
+LANG_ENGLISH         "Candy Core"
+
+REFERENCE            sm_t9standardcb
+LANG_ENGLISH         "MP5 - Coverband"
+
+REFERENCE            sm_t9standardcb_v7
+LANG_ENGLISH         "Candy Core"
+
+REFERENCE            sn_t9cannon
+LANG_ENGLISH         "NTW-20"
+
+REFERENCE            sn_t9damagesemi
+LANG_ENGLISH         "Type 63"
+
+REFERENCE            sn_t9damagesemi_v2
+LANG_ENGLISH         "Death Adder"
+
+REFERENCE            sn_t9damagesemi_v3
+LANG_ENGLISH         "Scrambler"
+
+REFERENCE            sn_t9damagesemi_v4
+LANG_ENGLISH         "Entanglement"
+
+REFERENCE            sn_t9damagesemi_v5
+LANG_ENGLISH         "People's Infantry"
+
+REFERENCE            sn_t9damagesemi_v6
+LANG_ENGLISH         "Sand Striker"
+
+REFERENCE            sn_t9damagesemi_v7
+LANG_ENGLISH         "Crowstorm"
+
+REFERENCE            sn_t9damagesemi_v8
+LANG_ENGLISH         "Western Justice"
+
+REFERENCE            sn_t9powersemi
+LANG_ENGLISH         "M82"
+
+REFERENCE            sn_t9powersemi_v2
+LANG_ENGLISH         "Money Shot"
+
+REFERENCE            sn_t9powersemi_v3
+LANG_ENGLISH         "Frozen Chosen"
+
+REFERENCE            sn_t9powersemicb
+LANG_ENGLISH         "Barret M82 - Coverband"
+
+REFERENCE            sn_t9powersemicb_v2
+LANG_ENGLISH         "Money Shot"
+
+REFERENCE            sn_t9precisionsemi
+LANG_ENGLISH         "DMR 14"
+
+REFERENCE            sn_t9precisionsemi_v2
+LANG_ENGLISH         "Totemic"
+
+REFERENCE            sn_t9precisionsemi_v3
+LANG_ENGLISH         "Solid Core"
+
+REFERENCE            sn_t9quickscope
+LANG_ENGLISH         "Pelington 703"
+
+REFERENCE            sn_t9quickscope_v2
+LANG_ENGLISH         "Counter Measures"
+
+REFERENCE            sn_t9quickscope_v3
+LANG_ENGLISH         "Natural Hunter"
+
+REFERENCE            sn_t9quickscope_v4
+LANG_ENGLISH         "North Pole"
+
+REFERENCE            sn_t9quickscope_v5
+LANG_ENGLISH         "Minute of Angle"
+
+REFERENCE            sn_t9standard
+LANG_ENGLISH         "LW3 - Tundra"
+
+REFERENCE            sn_t9standard_v2
+LANG_ENGLISH         "Ashwood"
+
+REFERENCE            sn_t9standard_v3
+LANG_ENGLISH         "Teal Steel"
+
+REFERENCE            sn_t9standard_v4
+LANG_ENGLISH         "Below Zero"
+
+REFERENCE            sn_t9standard_v5
+LANG_ENGLISH         "Barrel Hunter"
+
+REFERENCE            sn_t9standard_v6
+LANG_ENGLISH         "Data Synapse"
+
+REFERENCE            sn_t9standard_v7
+LANG_ENGLISH         "Bronzewood"
+
+REFERENCE            sn_t9standard_v8
+LANG_ENGLISH         "Cursed Bullion"
+
+
+ENDMARKER

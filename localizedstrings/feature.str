@@ -1,0 +1,108 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            create_a_class
+LANG_ENGLISH         "Create A Class"
+
+REFERENCE            create_a_class_desc
+LANG_ENGLISH         "Customize your loadout."
+
+REFERENCE            custom_class1
+LANG_ENGLISH         "Custom Class 1"
+
+REFERENCE            custom_class10
+LANG_ENGLISH         "Custom Class 10"
+
+REFERENCE            custom_class10_desc
+LANG_ENGLISH         "The [Custom Class 10] custom class is now available."
+
+REFERENCE            custom_class1_desc
+LANG_ENGLISH         "The [Custom Class 1] custom class is now available."
+
+REFERENCE            custom_class2
+LANG_ENGLISH         "Custom Class 2"
+
+REFERENCE            custom_class2_desc
+LANG_ENGLISH         "The [Custom Class 2] custom class is now available."
+
+REFERENCE            custom_class3
+LANG_ENGLISH         "Custom Class 3"
+
+REFERENCE            custom_class3_desc
+LANG_ENGLISH         "The [Custom Class 3] custom class is now available."
+
+REFERENCE            custom_class4
+LANG_ENGLISH         "Custom Class 4"
+
+REFERENCE            custom_class4_desc
+LANG_ENGLISH         "The [Custom Class 4] custom class is now available."
+
+REFERENCE            custom_class5
+LANG_ENGLISH         "Custom Class 5"
+
+REFERENCE            custom_class5_desc
+LANG_ENGLISH         "The [Custom Class 5] custom class is now available."
+
+REFERENCE            custom_class6
+LANG_ENGLISH         "Custom Class 6"
+
+REFERENCE            custom_class6_desc
+LANG_ENGLISH         "The [Custom Class 6] custom class is now available."
+
+REFERENCE            custom_class7
+LANG_ENGLISH         "Custom Class 7"
+
+REFERENCE            custom_class7_desc
+LANG_ENGLISH         "The [Custom Class 7] custom class is now available."
+
+REFERENCE            custom_class8
+LANG_ENGLISH         "Custom Class 8"
+
+REFERENCE            custom_class8_desc
+LANG_ENGLISH         "The [Custom Class 8] custom class is now available."
+
+REFERENCE            custom_class9
+LANG_ENGLISH         "Custom Class 9"
+
+REFERENCE            custom_class9_desc
+LANG_ENGLISH         "The [Custom Class 9] custom class is now available."
+
+REFERENCE            default_class1
+LANG_ENGLISH         "Default Class 1"
+
+REFERENCE            default_class1_desc
+LANG_ENGLISH         "The Stealth Ops default class is now available."
+
+REFERENCE            default_class2
+LANG_ENGLISH         "Default Class 2"
+
+REFERENCE            default_class2_desc
+LANG_ENGLISH         "The Pointman default class is now available."
+
+REFERENCE            default_class3
+LANG_ENGLISH         "Default Class 3"
+
+REFERENCE            default_class3_desc
+LANG_ENGLISH         "The Tank Hunter default class is now available."
+
+REFERENCE            default_class4
+LANG_ENGLISH         "Default Class 4"
+
+REFERENCE            default_class4_desc
+LANG_ENGLISH         "The Overwatch default class is now available."
+
+REFERENCE            default_class5
+LANG_ENGLISH         "Default Class 5"
+
+REFERENCE            default_class5_desc
+LANG_ENGLISH         "The Double Agent default class is now available."
+
+REFERENCE            default_class6
+LANG_ENGLISH         "Default Class 6"
+
+REFERENCE            default_class6_desc
+LANG_ENGLISH         "The Wingman default class is now available."
+
+
+ENDMARKER

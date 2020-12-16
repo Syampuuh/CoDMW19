@@ -356,6 +356,135 @@ LANG_ENGLISH         "^2Ghost:^7 As you assault the tiers, you'll be rewarded wi
 REFERENCE            dx_brm_ghos_subtitles_cine_90
 LANG_ENGLISH         "^2Ghost:^7 Boot up, login and play any available mode to earn rewards."
 
+REFERENCE            dx_brm_missle_silo_intro_alx_90
+LANG_ENGLISH         "^2Alex:^7 Guards are coming our way now, Actual..."
+
+REFERENCE            dx_brm_missle_silo_intro_far_80
+LANG_ENGLISH         "^2Farah:^7 At the entry with Alex, creating a diversion."
+
+REFERENCE            dx_brm_missle_silo_intro_ghos_380
+LANG_ENGLISH         "^2Ghost:^7 This isn't over..."
+
+REFERENCE            dx_brm_missle_silo_intro_grg_20
+LANG_ENGLISH         "^2Griggs:^7 Copy Actual- Demon teams have cordoned off the silo."
+
+REFERENCE            dx_brm_missle_silo_intro_kyle_50
+LANG_ENGLISH         "^2Kyle:^7 At the tower with Ghost. We hacked Zakhaev's comms- He's up, stand by..."
+
+REFERENCE            dx_brm_missle_silo_intro_nik_240
+LANG_ENGLISH         "^2Nikolai:^7 Copy, here it comes, Actual..."
+
+REFERENCE            dx_brm_missle_silo_intro_nik_250
+LANG_ENGLISH         "^2Nikolai:^7 Six..."
+
+REFERENCE            dx_brm_missle_silo_intro_nik_270
+LANG_ENGLISH         "^2Nikolai:^7 One..."
+
+REFERENCE            dx_brm_missle_silo_intro_nik_290
+LANG_ENGLISH         "^2Nikolai:^7 Five..."
+
+REFERENCE            dx_brm_missle_silo_intro_nik_310
+LANG_ENGLISH         "^2Nikolai:^7 sshirr----rerrk"
+
+REFERENCE            dx_brm_missle_silo_intro_nik_330
+LANG_ENGLISH         "^2Nikolai:^7 sshirr----rerrk"
+
+REFERENCE            dx_brm_missle_silo_intro_nik_350
+LANG_ENGLISH         "^2Nikolai:^7 SEVEN...! Six-One-Five-SEVEN!!"
+
+REFERENCE            dx_brm_missle_silo_intro_pri_10
+LANG_ENGLISH         "^2Price:^7 Bravo 6 to Griggs- Go green..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_100
+LANG_ENGLISH         "^2Price:^7 Keep 'em busy."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_150
+LANG_ENGLISH         "^2Price:^7 Victor..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_170
+LANG_ENGLISH         "^2Price:^7 You're a dead man, Zakhaev..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_190
+LANG_ENGLISH         "^2Price:^7 Oh, I won't kill you... But the fall will..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_220
+LANG_ENGLISH         "^2Price:^7 All stations- Zakhaev is dead, but the missile is hot."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_230
+LANG_ENGLISH         "^2Price:^7 Nik, I need the codes now..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_260
+LANG_ENGLISH         "^2Price:^7 Six..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_280
+LANG_ENGLISH         "^2Price:^7 One..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_300
+LANG_ENGLISH         "^2Price:^7 Five..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_320
+LANG_ENGLISH         "^2Price:^7 Say again...!"
+
+REFERENCE            dx_brm_missle_silo_intro_pri_340
+LANG_ENGLISH         "^2Price:^7 Nik! Say again, I've lost you. Nik-"
+
+REFERENCE            dx_brm_missle_silo_intro_pri_345
+LANG_ENGLISH         "^2Price:^7 Bloody hell, Nik. The last digit!"
+
+REFERENCE            dx_brm_missle_silo_intro_pri_370
+LANG_ENGLISH         "^2Price:^7 All call signs this net- Launch is terminated... Mission accomplished."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_390
+LANG_ENGLISH         "^2Price:^7 Not by a long shot."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_40
+LANG_ENGLISH         "^2Price:^7 Gaz- Report..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_410
+LANG_ENGLISH         "^2Price:^7 Soap... What's your position?"
+
+REFERENCE            dx_brm_missle_silo_intro_pri_430
+LANG_ENGLISH         "^2Price:^7 Hold tight... We're movin' your way."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_440
+LANG_ENGLISH         "^2Price:^7 On me..."
+
+REFERENCE            dx_brm_missle_silo_intro_pri_70
+LANG_ENGLISH         "^2Price:^7 All stations, be advised Zakhaev's lighting the fuse, we don't have much time... Farah, where are you..?"
+
+REFERENCE            dx_brm_missle_silo_intro_soap_400
+LANG_ENGLISH         "^2Soap:^7 MacTavish to Actual..."
+
+REFERENCE            dx_brm_missle_silo_intro_soap_420
+LANG_ENGLISH         "^2Soap:^7 Half a click off the coast. Things are really heating up out here..."
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_110
+LANG_ENGLISH         "^1Zakhaev:^7 ...They came to Verdansk to stop us, but they couldn't resist fighting each other... This war is 50 years in the making... No more treaties, no more diplomacy... These weapons will no longer lie dormant."
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_120
+LANG_ENGLISH         "^1Zakhaev:^7 Your work is not in vain, father."
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_130
+LANG_ENGLISH         "^1Zakhaev:^7 Show yourself...!"
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_140
+LANG_ENGLISH         "^1Zakhaev:^7 You're wasting your t--"
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_160
+LANG_ENGLISH         "^1Zakhaev:^7 Captain Price... I am not surprised."
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_180
+LANG_ENGLISH         "^1Zakhaev:^7 I started a war... Killing me won't stop it."
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_200
+LANG_ENGLISH         "^1Zakhaev:^7 Wait... No..."
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_210
+LANG_ENGLISH         "^1Zakhaev:^7 NOooo...!"
+
+REFERENCE            dx_brm_missle_silo_intro_zakh_60
+LANG_ENGLISH         "^1Zakhaev:^7 ...Our victory today will be decisive. Together, we put a knife to the neck of history... It's time now for the final cut..."
+
 REFERENCE            dx_brm_rust_cine_intro_alx_120
 LANG_ENGLISH         "^2Alex:^7 Echo 3-1, reporting for duty."
 
@@ -2247,6 +2376,60 @@ LANG_ENGLISH         "URZIKSTAN"
 
 REFERENCE            verdansk
 LANG_ENGLISH         "VERDANSK"
+
+REFERENCE            vox_mvtr_adlr_mp_mtx_1_trailer_10
+LANG_ENGLISH         "^2Adler:^7 No shit. But if we don't stop him, civilians are going to die."
+
+REFERENCE            vox_mvtr_adlr_mp_mtx_1_trailer_11
+LANG_ENGLISH         "^2Adler:^7 Do it."
+
+REFERENCE            vox_mvtr_adlr_mp_mtx_1_trailer_12
+LANG_ENGLISH         "^2Adler:^7 What the hell... He's manufacturing Nova 6 again..."
+
+REFERENCE            vox_mvtr_adlr_mp_mtx_1_trailer_7
+LANG_ENGLISH         "^2Adler:^7 Tell your boss - this is for Weaver."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_0
+LANG_ENGLISH         "^1Stitch:^7 Adler has some pieces of the puzzle..."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_1
+LANG_ENGLISH         "^1Stitch:^7 ... But doesn't know he's a piece himself."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_13
+LANG_ENGLISH         "^1Stitch:^7 Kill the rest. Adler is mine."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_14
+LANG_ENGLISH         "^1Stitch:^7 For letting Rebirth fall, Kravchenko sent me to the gulag..."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_15
+LANG_ENGLISH         "^1Stitch:^7 ...where I found my true calling."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_16
+LANG_ENGLISH         "CIA Safehouse. West Berlin, Germany. January 20th, 1984."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_17
+LANG_ENGLISH         "Mall at the Pines. New Jersey. January 21st, 1984."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_2
+LANG_ENGLISH         "^1Stitch:^7 He won't live long enough to work that out. I won't show him the 'mercy' he showed me."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_3
+LANG_ENGLISH         "^1Stitch:^7 I was in charge of the production of Nova 6 on Rebirth Island."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_4
+LANG_ENGLISH         "^1Stitch:^7 I answered to Colonel Kravchenko himself."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_5
+LANG_ENGLISH         "^1Stitch:^7 I was loyal -- my star ascendant, until the Americans found us."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_6
+LANG_ENGLISH         "^1Stitch:^7 That's when I met Russell Adler."
+
+REFERENCE            vox_mvtr_stch_mp_mtx_1_trailer_8
+LANG_ENGLISH         "^1Stitch:^7 He could not break me."
+
+REFERENCE            vox_mvtr_zyna_mp_mtx_1_trailer_9
+LANG_ENGLISH         "^2Zeyna:^7 He's trying to bait you, Adler."
 
 
 ENDMARKER

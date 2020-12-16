@@ -17,6 +17,9 @@ LANG_ENGLISH         ""
 REFERENCE            accessory005_flavor
 LANG_ENGLISH         "How many kills until I get the nuke? Now you don???t have to ask anymore ??? just look at your watch."
 
+REFERENCE            accessory006_flavor
+LANG_ENGLISH         "A pet watch that lets you hatch and look after your very own monster. It's a game within a game."
+
 REFERENCE            accessory007_flavor
 LANG_ENGLISH         "Once you???ve drawn your last breath, the step counter will be a memorial... until the battery runs out."
 
@@ -291,6 +294,9 @@ LANG_ENGLISH         "How many kills did I get today? Let's add 'em up!"
 REFERENCE            accessory096_flavor
 LANG_ENGLISH         "Ever needed to know where North or South was in a pinch? Just look at the Four Winds Watch on your wrist!"
 
+REFERENCE            accessory097_flavor
+LANG_ENGLISH         "ACCESSORY097_FLAVOR"
+
 REFERENCE            accessory098_flavor
 LANG_ENGLISH         "Keep an eye on the time in style with the Strange Magic Watch."
 
@@ -314,6 +320,78 @@ LANG_ENGLISH         "There's only one time that matters with the Sublime Watch.
 
 REFERENCE            accessory106_flavor
 LANG_ENGLISH         "The Time of The Season Watch is perfect if you've ever wanted a swarm of bats on your wrist while you keep an eye on the clock."
+
+REFERENCE            accessory107_flavor
+LANG_ENGLISH         "Keep your cool with the Aletsch Watch."
+
+REFERENCE            accessory108_flavor
+LANG_ENGLISH         "See them in a whole new light with the Kaleidoscope Watch."
+
+REFERENCE            accessory109_flavor
+LANG_ENGLISH         "ACCESSORY109_FLAVOR"
+
+REFERENCE            accessory110_flavor
+LANG_ENGLISH         "ACCESSORY110_FLAVOR"
+
+REFERENCE            accessory111_flavor
+LANG_ENGLISH         "ACCESSORY111_FLAVOR"
+
+REFERENCE            accessory112_flavor
+LANG_ENGLISH         "ACCESSORY112_FLAVOR"
+
+REFERENCE            accessory113_flavor
+LANG_ENGLISH         "ACCESSORY113_FLAVOR"
+
+REFERENCE            accessory114_flavor
+LANG_ENGLISH         "ACCESSORY114_FLAVOR"
+
+REFERENCE            accessory115_flavor
+LANG_ENGLISH         "ACCESSORY115_FLAVOR"
+
+REFERENCE            accessory116_flavor
+LANG_ENGLISH         "ACCESSORY116_FLAVOR"
+
+REFERENCE            accessory117_flavor
+LANG_ENGLISH         "ACCESSORY117_FLAVOR"
+
+REFERENCE            accessory118_flavor
+LANG_ENGLISH         "ACCESSORY118_FLAVOR"
+
+REFERENCE            accessory119_flavor
+LANG_ENGLISH         "ACCESSORY119_FLAVOR"
+
+REFERENCE            accessory120_flavor
+LANG_ENGLISH         "ACCESSORY120_FLAVOR"
+
+REFERENCE            accessory121_flavor
+LANG_ENGLISH         "ACCESSORY121_FLAVOR"
+
+REFERENCE            accessory122_flavor
+LANG_ENGLISH         "ACCESSORY122_FLAVOR"
+
+REFERENCE            accessory123_flavor
+LANG_ENGLISH         "ACCESSORY123_FLAVOR"
+
+REFERENCE            accessory124_flavor
+LANG_ENGLISH         "ACCESSORY124_FLAVOR"
+
+REFERENCE            accessory125_flavor
+LANG_ENGLISH         "ACCESSORY125_FLAVOR"
+
+REFERENCE            accessory126_flavor
+LANG_ENGLISH         "ACCESSORY126_FLAVOR"
+
+REFERENCE            accessory127_flavor
+LANG_ENGLISH         "ACCESSORY126_FLAVOR"
+
+REFERENCE            accessory127_flavor1
+LANG_ENGLISH         "ACCESSORY127_FLAVOR"
+
+REFERENCE            accessory128_flavor
+LANG_ENGLISH         "ACCESSORY128_FLAVOR"
+
+REFERENCE            accessory129_flavor
+LANG_ENGLISH         "ACCESSORY129_FLAVOR"
 
 REFERENCE            ar_akilo47_24_flavor
 LANG_ENGLISH         "Nobody will stand in your way when you have the Sphinx Assault Rifle."
@@ -521,6 +599,9 @@ LANG_ENGLISH         "Looking dapper! This is the Sharp Dresser Charm."
 
 REFERENCE            cos_101_flavor
 LANG_ENGLISH         "The most important rule, the Safety First Charm."
+
+REFERENCE            cos_102_flavor
+LANG_ENGLISH         "The True North Charm is here to always keep you on track."
 
 REFERENCE            cos_103_flavor
 LANG_ENGLISH         "Your skills have paid off! Now you have the 80s Cell Charm."
@@ -768,6 +849,9 @@ LANG_ENGLISH         "You're always radiant with the Dosimeter Charm."
 REFERENCE            cos_222_flavor
 LANG_ENGLISH         "Top them off with the Fill 'Er Up Charm."
 
+REFERENCE            cos_223_flavor
+LANG_ENGLISH         "Clean them up with the Acid Bath Charm."
+
 REFERENCE            cos_224_flavor
 LANG_ENGLISH         "Sgt. Smuggypuss, reporting for duty!"
 
@@ -829,7 +913,7 @@ REFERENCE            cos_243_flavor
 LANG_ENGLISH         "Stay full of surprises with the Red Envelope Charm."
 
 REFERENCE            cos_244_flavor
-LANG_ENGLISH         "It's the Sgt. Smuggypuss, reporting for duty!"
+LANG_ENGLISH         "The most refreshing charm on the battlefield. The Candy Cane Charm."
 
 REFERENCE            cos_246_flavor
 LANG_ENGLISH         "Show your support with the Chicago Huntsmen Charm."
@@ -905,9 +989,6 @@ LANG_ENGLISH         "The Reaper Charm is the most evil thing you can hang from 
 
 REFERENCE            cos_273_flavor
 LANG_ENGLISH         "Let them know death is coming with the Skull Comms Charm."
-
-REFERENCE            cos_274_flavor
-LANG_ENGLISH         "The name says it all. The Try Harder Charm."
 
 REFERENCE            cos_275_flavor
 LANG_ENGLISH         "Supercharge your tactics with the Livewire Charm."
@@ -1056,6 +1137,9 @@ LANG_ENGLISH         "Always make sure to strike your best pose with the Nyan Ny
 
 REFERENCE            cos_327_flavor
 LANG_ENGLISH         "Scare the shit out of them with the Rancorous Charm."
+
+REFERENCE            cos_328_flavor
+LANG_ENGLISH         "Peace out with the Ronin Charm."
 
 REFERENCE            cos_329_flavor
 LANG_ENGLISH         "Take them out of their element with the Abominable Charm."
@@ -1255,6 +1339,9 @@ LANG_ENGLISH         "Be careful not to leave this one hanging from your gun for
 REFERENCE            cos_394_flavor
 LANG_ENGLISH         "There's only one thing that matters, and that's the Prime Time Charm."
 
+REFERENCE            cos_395_flavor
+LANG_ENGLISH         "Things might get cold with the Frosty Charm."
+
 REFERENCE            cos_398_flavor
 LANG_ENGLISH         "You've heard of pulled pork but we bet you've never heard of the Shakin' Bacon Charm."
 
@@ -1264,8 +1351,29 @@ LANG_ENGLISH         "The Hannya Charm is perfect for showing them you have a da
 REFERENCE            cos_400_flavor
 LANG_ENGLISH         "Everyone knows you're only as good as how fast your buttons can be mashed. Show them how good you are with the Button Masher Charm."
 
+REFERENCE            cos_401_flavor
+LANG_ENGLISH         "Break them apart with the Nutcracker Charm."
+
 REFERENCE            cos_402_flavor
 LANG_ENGLISH         "Whether you believe it or not, the Amethyst Charm is here to help."
+
+REFERENCE            cos_403_flavor
+LANG_ENGLISH         "If you're looking to climb, equip the To The Top Charm for ensured success."
+
+REFERENCE            cos_404_flavor
+LANG_ENGLISH         "Take a swig of the Liquid Courage Charm when ever you're feeling a little nervous."
+
+REFERENCE            cos_405_flavor
+LANG_ENGLISH         "Charge forward with The Alicorn Charm."
+
+REFERENCE            cos_406_flavor
+LANG_ENGLISH         "Top 'er off with the Gas Can Charm."
+
+REFERENCE            cos_407_flavor
+LANG_ENGLISH         "The Mutated Charm is a good representation of what they'll look like when you're through with 'em."
+
+REFERENCE            cos_408_flavor
+LANG_ENGLISH         "Strapped in and ready for battle. This is the Chinstrap Charm."
 
 REFERENCE            cos_412_flavor
 LANG_ENGLISH         "The Dark One Charm is the most evil thing you can hang from your weapon."
@@ -1293,6 +1401,9 @@ LANG_ENGLISH         "A tactical take on a classic shape, the Riddle of Steel Ha
 
 REFERENCE            knife_115_flavor
 LANG_ENGLISH         "Collect what you came for with the Sickle Knife Skin."
+
+REFERENCE            knife_116_flavor
+LANG_ENGLISH         "Climbing or killing? Your choice with the Alpenstock Ice Pick."
 
 REFERENCE            knife_117_flavor
 LANG_ENGLISH         "Things are going to get hot with the Flint Hatchet. Note: This weapon has a fire effect on the weapon that is purely visual and has no effect on gameplay."
@@ -1414,6 +1525,9 @@ LANG_ENGLISH         "It???s every bit as good underwater as on the land. The na
 REFERENCE            knife_50_flavor
 LANG_ENGLISH         "Climb the leaderboards with the Crevasse Ice Pick."
 
+REFERENCE            knife_52_flavor
+LANG_ENGLISH         "Always good to keep the Pickwick Knife nearby. You never know."
+
 REFERENCE            knife_53_flavor
 LANG_ENGLISH         "Hey, it gets the job done. The Innocence Lost Knife."
 
@@ -1439,7 +1553,7 @@ REFERENCE            knife_64_flavor
 LANG_ENGLISH         "Keep to yourself with the Dandere Knife, it's all you really need."
 
 REFERENCE            knife_65_flavor
-LANG_ENGLISH         "Send them some high voltage with the Thyristor Knife. Note: This Weapon also unlocks an electrical variation of the ^5Throwing Knife^7 that is visual only and has no effect on gameplay."
+LANG_ENGLISH         "Send them some high voltage with the Thyristor Knife. Note: This weapon also unlocks an electrical variation of the ^5Throwing Knife^7 that is visual only and has no effect on gameplay."
 
 REFERENCE            knife_66_flavor
 LANG_ENGLISH         "Even things out with the Stalemate Knife."
@@ -1451,7 +1565,7 @@ REFERENCE            knife_68_flavor
 LANG_ENGLISH         "We recommend washing the Bloody Mess Knife before returning to any culinary activities."
 
 REFERENCE            knife_69_flavor
-LANG_ENGLISH         "Drill into 'em with the Phlebotomist Knife. Note: This weapon also unlocks a variation of the ^5Throwing Knife^7 that drills into the target on impact, this is visual only and has no effect on gameplay."
+LANG_ENGLISH         "Drill into 'em with the Phlebotomist Knife. Note: This weapon also unlocks a variation of the ^5Throwing Knife^7 that drills into the target on impact. This is visual only and has no effect on gameplay."
 
 REFERENCE            knife_6_flavor
 LANG_ENGLISH         "There may be some hyperbole at play as to just how sharp this knife really is."
@@ -1483,6 +1597,9 @@ LANG_ENGLISH         "Fight with honor when you use the Daimyo Swords."
 REFERENCE            me_akimboblades_3_flavor
 LANG_ENGLISH         "Slice through the opposition with the Vorpal Blade Swords. Note: This weapon has a 16bit ^1Tracer^7 slice effect. "
 
+REFERENCE            me_akimboblades_4_flavor
+LANG_ENGLISH         "Cut through them like butter with the Immortal Slash Swords. Note: This weapon has an applied Tsubaki swipe effect."
+
 REFERENCE            me_akimboblunt_1_flavor
 LANG_ENGLISH         "Crush more than their hopes and dreams with the Hit Sticks Akimbo Melee Weapon."
 
@@ -1509,6 +1626,39 @@ LANG_ENGLISH         "Carefully plan your attack from behind cover with the Shog
 
 REFERENCE            me_riotshield_6_flavor
 LANG_ENGLISH         "No matter what happens, remember to always stay cheerful. How could you not when you have your Deredere Riot Shield?"
+
+REFERENCE            me_t9loadout_0_flavor
+LANG_ENGLISH         "Lethal melee weapon.  Straight-edge blade that kills enemies with a single deadly strike."
+
+REFERENCE            me_t9loadout_1_flavor
+LANG_ENGLISH         "Make a deposit of sorts with the Currency Cutter Combat Knife."
+
+REFERENCE            me_t9loadout_2_flavor
+LANG_ENGLISH         "Go Bananas"
+
+REFERENCE            me_t9loadout_3_flavor
+LANG_ENGLISH         "Slice from the shadows with the Assassins Blade Knife."
+
+REFERENCE            me_t9loadout_4_flavor
+LANG_ENGLISH         "Aim for the heart, there's no other way."
+
+REFERENCE            me_t9loadout_5_flavor
+LANG_ENGLISH         "Flip the Script with the Finishing Touch Combat Knife."
+
+REFERENCE            me_t9loadout_v4
+LANG_ENGLISH         "Stake"
+
+REFERENCE            me_t9sledgehammer_0_flavor
+LANG_ENGLISH         "Its name is derived from the word "sl??gan," meaning "to strike violently."  Distributes a large amount of force over a small area.  Repurposed to demolish your enemies instead of dry wall."
+
+REFERENCE            me_t9sledgehammer_1_flavor
+LANG_ENGLISH         "Introducing the first blueprint for the Sledgehammer Melee Weapon. Leave a mark with the Heavy Handed Sledgehammer."
+
+REFERENCE            me_t9wakizashi_0_flavor
+LANG_ENGLISH         "Famously known as the companion sword to the Samurai's Katana.  Traditionally forged using a folded steel technique.  Light to wield, resilient to force, and durable to wear."
+
+REFERENCE            me_t9wakizashi_1_flavor
+LANG_ENGLISH         "Shank, slice, stab, stick, and strike with the Organ Donor Wakizashi."
 
 REFERENCE            operator_alex_western_a_flavor
 LANG_ENGLISH         "Never hear the *click* of a forgotten reload with Alex's Lucky Streak Operator Skin."
@@ -1903,6 +2053,12 @@ LANG_ENGLISH         "The Wilderness is where you thrive, and Domino's Operator 
 REFERENCE            operator_domino_western_t_flavor
 LANG_ENGLISH         "Always keep the high ground with Domino's le Taillefer Operator Skin."
 
+REFERENCE            operator_domino_western_u_flavor
+LANG_ENGLISH         "Bring some color to the battlefield with Domino's Licorne Operator Skin."
+
+REFERENCE            operator_domino_western_v_flavor
+LANG_ENGLISH         "Be there to see it all end in Domino's Cataclysm Operator Skin."
+
 REFERENCE            operator_farah_eastern_a_flavor
 LANG_ENGLISH         "Fight your inner demons with Farah's Jinn Operator Skin."
 
@@ -2020,6 +2176,9 @@ LANG_ENGLISH         "Settle your grudge with the living with Grinch's Forest Sp
 REFERENCE            operator_grinch_eastern_n_flavor
 LANG_ENGLISH         "Go for the kill in style with Grinch's Gilded Assassin Operator Skin."
 
+REFERENCE            operator_grinch_eastern_o_flavor
+LANG_ENGLISH         "Let them hear the roar of Grinch's The Lionheart Operator Skin."
+
 REFERENCE            operator_iskra_eastern_a_flavor
 LANG_ENGLISH         "Let them know their life is in your hands with Iskra's Killswitch Operator Skin."
 
@@ -2043,6 +2202,9 @@ LANG_ENGLISH         "Iskra once had love, but it ended with her Heart of Glass 
 
 REFERENCE            operator_iskra_eastern_g_flavor
 LANG_ENGLISH         "There's no predicting you when you're in Iskra's Arachnis Operator Skin."
+
+REFERENCE            operator_iskra_eastern_h_flavor
+LANG_ENGLISH         "Iskra gets cold hearted in her Whitechapel Operator Skin."
 
 REFERENCE            operator_kreuger_eastern_e_flavor
 LANG_ENGLISH         "Collect some souls with Kreuger's Reaper Operator Skin."
@@ -2100,6 +2262,9 @@ LANG_ENGLISH         "Crush the opposition with Lerch's Colossus Operator Skin."
 
 REFERENCE            operator_lerch_eastern_basic_flavor
 LANG_ENGLISH         "Make them feel small in Lerch's Behemoth Operator Skin."
+
+REFERENCE            operator_lerch_eastern_c_flavor
+LANG_ENGLISH         "Start things up with Lerch's Ignition Operator Skin."
 
 REFERENCE            operator_metalghost_eastern_a_flavor
 LANG_ENGLISH         "Bury your enemies with Mace's Tombstone Operator Skin."
@@ -2371,8 +2536,17 @@ LANG_ENGLISH         "Find a nice burrow to hide in with Rodion's Sable Operator
 REFERENCE            operator_rodion_eastern_z_flavor
 LANG_ENGLISH         "You've served your time, now get back into battle with Rodion's Jailbird Operator Skin."
 
+REFERENCE            operator_ronin_western_a_flavor
+LANG_ENGLISH         "Keep calm in Ronin's Zen Operator Skin."
+
+REFERENCE            operator_ronin_western_b_flavor
+LANG_ENGLISH         "Slice through the opposition with Ronin's Hagakure Operator Skin."
+
 REFERENCE            operator_ronin_western_basic
 LANG_ENGLISH         "Breathe fire into every firefight with Ronin's Lone Dragon Operator Skin."
+
+REFERENCE            operator_ronin_western_c_flavor
+LANG_ENGLISH         "Expect nothing but honor when you equip this Operator Skin."
 
 REFERENCE            operator_roze_eastern_a_flavor
 LANG_ENGLISH         "Plan your moves accordingly with Roze's Rook Operator Skin"
@@ -2383,8 +2557,26 @@ LANG_ENGLISH         "Your opposition is near death when you rock Roze's Near Da
 REFERENCE            operator_roze_eastern_c_flavor
 LANG_ENGLISH         "Emerge from the mist in Roze's Murk Operator Skin."
 
+REFERENCE            operator_roze_eastern_d_flavor
+LANG_ENGLISH         "She's removed her mask and is ready for battle. This is Roze's Torn Veil Operator Skin."
+
 REFERENCE            operator_roze_eastern_default_flavor
 LANG_ENGLISH         "Get violent with Roze's Virago Operator Skin."
+
+REFERENCE            operator_soap_western_a_flavor
+LANG_ENGLISH         "Soap's Skye Operator Skin will be with you the entire time on your way to the top."
+
+REFERENCE            operator_soap_western_b_flavor
+LANG_ENGLISH         "They'll be careful not to push you in Soap's Over the Edge Operator Skin."
+
+REFERENCE            operator_soap_western_basic_flavor
+LANG_ENGLISH         "Always keep the high ground with Soap's Highlands Operator Skin."
+
+REFERENCE            operator_sparks_western_a_flavor
+LANG_ENGLISH         "Always keep to the ridgeline in Sparks' High Altitude Operator Skin."
+
+REFERENCE            operator_sparks_western_basic_flavor
+LANG_ENGLISH         "There's a reason they don't go up in the mountains. It's you and Sparks' Mirka Operator Skin."
 
 REFERENCE            operator_spetsnaz_eastern_a_flavor
 LANG_ENGLISH         "Open them up with Nikto???s Bloodletter Operator Skin."
@@ -5623,6 +5815,291 @@ LANG_ENGLISH         ""
 REFERENCE            sticker_999_flavor
 LANG_ENGLISH         ""
 
+REFERENCE            t9_charm_80sport_flavor
+LANG_ENGLISH         "Add some zoom to your boom."
+
+REFERENCE            t9_charm_action_fig_flavor
+LANG_ENGLISH         "Now you're just showing off. It's the Boxed Legend Charm."
+
+REFERENCE            t9_charm_afro_pick_flavor
+LANG_ENGLISH         "Pick your battles with the Afropick Charm."
+
+REFERENCE            t9_charm_ammo_box_flavor
+LANG_ENGLISH         "Start your reloads early and in between waves with the MG Can."
+
+REFERENCE            t9_charm_anvil_flavor
+LANG_ENGLISH         "Work out the kinks, one strike at a time with the Anvil Charm."
+
+REFERENCE            t9_charm_apple_arrow_flavor
+LANG_ENGLISH         "Forget about your teacher and your doctor, this apple is for you and you alone."
+
+REFERENCE            t9_charm_arrow_head_flavor
+LANG_ENGLISH         "Pierce their armor with the Ancient Arrow."
+
+REFERENCE            t9_charm_battering_flavor
+LANG_ENGLISH         "Breach the front door with The Penetrator Charm."
+
+REFERENCE            t9_charm_bfoot_flavor
+LANG_ENGLISH         "Every clue counts."
+
+REFERENCE            t9_charm_birthday_cake_flavor
+LANG_ENGLISH         "Did someone say cake?!"
+
+REFERENCE            t9_charm_boogie_board_flavor
+LANG_ENGLISH         "Jump in the water and shred with the Big Ripper Charm."
+
+REFERENCE            t9_charm_box_glove_flavor
+LANG_ENGLISH         "Get your fists up."
+
+REFERENCE            t9_charm_bulldog_flavor
+LANG_ENGLISH         "Bite their ankles with the Micro Bully Charm."
+
+REFERENCE            t9_charm_bullet_556_flavor
+LANG_ENGLISH         "Never forget to reload with the Lucky One Charm."
+
+REFERENCE            t9_charm_bwidow_flavor
+LANG_ENGLISH         "Watch out for its web, it's the Lady In Red Charm."
+
+REFERENCE            t9_charm_c_knight_flavor
+LANG_ENGLISH         "Break through their lines, don't go around."
+
+REFERENCE            t9_charm_c_queen_flavor
+LANG_ENGLISH         "It's Checkmate with The Queen Charm."
+
+REFERENCE            t9_charm_c_rook_flavor
+LANG_ENGLISH         "Strike from the sides, they'll never see it coming. This is the Rook Charm."
+
+REFERENCE            t9_charm_candy_flavor
+LANG_ENGLISH         "Give them something to chew on with the Sticky Situation Charm."
+
+REFERENCE            t9_charm_chainball_flavor
+LANG_ENGLISH         "Classify every single sound."
+
+REFERENCE            t9_charm_cheese_flavor
+LANG_ENGLISH         "Put some holes in the competition."
+
+REFERENCE            t9_charm_chip_flavor
+LANG_ENGLISH         "Resist the urge to snack during a firefight."
+
+REFERENCE            t9_charm_christmas_ornament_flavor
+LANG_ENGLISH         "Decorate the battle with the Ornament Charm."
+
+REFERENCE            t9_charm_compass_flavor
+LANG_ENGLISH         "Find your way with the Compass."
+
+REFERENCE            t9_charm_corn_flavor
+LANG_ENGLISH         "Corn up top, missiles down low, Nebraska has it all."
+
+REFERENCE            t9_charm_croc_head_flavor
+LANG_ENGLISH         "Get revenge for Chubbs with the Gator Head Charm."
+
+REFERENCE            t9_charm_crystal_eleph_flavor
+LANG_ENGLISH         "Etched from ancient marble, the Sacred Elephant Charm is priceless."
+
+REFERENCE            t9_charm_cyber_glasses_flavor
+LANG_ENGLISH         "Scan your surroundings, scout the battlefield with the Power Level Charm."
+
+REFERENCE            t9_charm_daisy_flwr_flavor
+LANG_ENGLISH         "Join the flower brigade with the Daisy Charm."
+
+REFERENCE            t9_charm_diamond_brass_knuckles_flavor
+LANG_ENGLISH         "Crack some skulls with the Knuckle Duster Charm."
+
+REFERENCE            t9_charm_duffel_flavor
+LANG_ENGLISH         "Make it quick and grab all the cash with the Duffel Bag Charm."
+
+REFERENCE            t9_charm_falcon_flavor
+LANG_ENGLISH         "Never lose track of your prey with the Falcon Charm."
+
+REFERENCE            t9_charm_family_photo_flavor
+LANG_ENGLISH         "Locked, loaded, and hair exploded."
+
+REFERENCE            t9_charm_fish_stick_hook_flavor
+LANG_ENGLISH         "I haven't heard this joke before, it's the Fish Stick Charm."
+
+REFERENCE            t9_charm_frog_flavor
+LANG_ENGLISH         "Hippity hoppity, I'll decorate your property."
+
+REFERENCE            t9_charm_fstatue_flavor
+LANG_ENGLISH         "Crack open a cold case with the Bronze Eagle Charm."
+
+REFERENCE            t9_charm_g_duck_flavor
+LANG_ENGLISH         "HONK HONK - Throw some bread crumbs out with the Mallard Charm."
+
+REFERENCE            t9_charm_gas_can_flavor
+LANG_ENGLISH         "Fight or flight, stay fueled with the Gas Can Charm."
+
+REFERENCE            t9_charm_gold_bar_flavor
+LANG_ENGLISH         "Carry serious weight with the All That Glitters Charm."
+
+REFERENCE            t9_charm_gold_bell_flavor
+LANG_ENGLISH         "Ring a ding ding."
+
+REFERENCE            t9_charm_goldwrench_flavor
+LANG_ENGLISH         "This might come in real handy some day."
+
+REFERENCE            t9_charm_gothamulet_flavor
+LANG_ENGLISH         "Summon your inner demons with the Demonic Crystal Charm."
+
+REFERENCE            t9_charm_guitarfire_flavor
+LANG_ENGLISH         "Tap some caps while you shoot and scoot. "
+
+REFERENCE            t9_charm_happy_grenade_flavor
+LANG_ENGLISH         "Spread joy and other things with the Goofy Grenade Charm."
+
+REFERENCE            t9_charm_helicopter_flavor
+LANG_ENGLISH         "Get airborne with the Mini Chopper."
+
+REFERENCE            t9_charm_hornface_flavor
+LANG_ENGLISH         "Haunt your enemies with the Servant of Doom."
+
+REFERENCE            t9_charm_ice_axe_flavor
+LANG_ENGLISH         "Rise to the top with the Ice Pick Charm."
+
+REFERENCE            t9_charm_icebreaker_flavor
+LANG_ENGLISH         "Try not to mess this up like the other boat... the Icebreaker Charm."
+
+REFERENCE            t9_charm_japanese_bell_flavor
+LANG_ENGLISH         "Remain in your safe space with the Blossom Bell Charm."
+
+REFERENCE            t9_charm_kawaiideer_flavor
+LANG_ENGLISH         "Always lead the way with the Lil Rudy Charm."
+
+REFERENCE            t9_charm_kniferose_flavor
+LANG_ENGLISH         "Romeo, oh, Romeo what ever will you do with the Lover's Dagger Charm."
+
+REFERENCE            t9_charm_knight_helmet_flavor
+LANG_ENGLISH         "The origin of the hand salute comes from medieval times where knights would "tip the visor" of their helmet, before lowering it, and engaging in deadly combat. To honor the sacrifice of one's opponent."
+
+REFERENCE            t9_charm_lunch_flavor
+LANG_ENGLISH         "Cyborg Commando Special Edition Collectible Tin Charm."
+
+REFERENCE            t9_charm_magnificent_flavor
+LANG_ENGLISH         "Behold the glory of my fabulous lightning!"
+
+REFERENCE            t9_charm_mann_female1d_flavor
+LANG_ENGLISH         "As if!"
+
+REFERENCE            t9_charm_mann_female2d_flavor
+LANG_ENGLISH         "Like, whatever!"
+
+REFERENCE            t9_charm_mann_female3d_flavor
+LANG_ENGLISH         "Gag me with a spoon!"
+
+REFERENCE            t9_charm_mann_male4d_flavor
+LANG_ENGLISH         "Take a Chill Pill!"
+
+REFERENCE            t9_charm_mann_male5d_flavor
+LANG_ENGLISH         "Majorly Awesome!"
+
+REFERENCE            t9_charm_mann_male6d_flavor
+LANG_ENGLISH         "Gnarly!"
+
+REFERENCE            t9_charm_mbadge_flavor
+LANG_ENGLISH         "Everything is in your jurisdiction when you've got the Deputy Badge Charm."
+
+REFERENCE            t9_charm_mil_hardhat_flavor
+LANG_ENGLISH         "Stay low and keep your head down."
+
+REFERENCE            t9_charm_mtndew_flavor
+LANG_ENGLISH         "Remove pin. Count to 3. Enjoy."
+
+REFERENCE            t9_charm_n6_gas_barrel_01_flavor
+LANG_ENGLISH         "We can neither confirm nor deny the existence of Nova 6."
+
+REFERENCE            t9_charm_nvidia_flavor
+LANG_ENGLISH         "An interdimensional gateway, now in convenient pocket-size."
+
+REFERENCE            t9_charm_old_computer_flavor
+LANG_ENGLISH         "Old Computer"
+
+REFERENCE            t9_charm_oldcamera_flavor
+LANG_ENGLISH         "Collect actionable intelligence with the Flashpack Charm."
+
+REFERENCE            t9_charm_p_wrench_flavor
+LANG_ENGLISH         "Lay the pipe with the Pipe Wrench Charm."
+
+REFERENCE            t9_charm_pitchfork_flavor
+LANG_ENGLISH         "Poke some holes in their soul with the Trident of Doom."
+
+REFERENCE            t9_charm_pwatch_flavor
+LANG_ENGLISH         "Smack your enemies with your weapon just to let them know what time it is."
+
+REFERENCE            t9_charm_rabbit_foot_flavor
+LANG_ENGLISH         "Never forget your first kill with the Rabbit's Foot Charm."
+
+REFERENCE            t9_charm_rebirthisland_01_flavor
+LANG_ENGLISH         "Steiner won't be needing this anymore."
+
+REFERENCE            t9_charm_red_baron_bi_plane_flavor
+LANG_ENGLISH         "The sky is the limit with the Air Superiority Charm."
+
+REFERENCE            t9_charm_red_button_flavor
+LANG_ENGLISH         "Hey, what's this Charm do?"
+
+REFERENCE            t9_charm_red_rduck_flavor
+LANG_ENGLISH         "Keep your battle buddy close and your enemies closer."
+
+REFERENCE            t9_charm_scorpion_flavor
+LANG_ENGLISH         "It's not what can see that you should be worried about."
+
+REFERENCE            t9_charm_silverspoon_flavor
+LANG_ENGLISH         "Spoil them rotten with the Silver Spoon Charm."
+
+REFERENCE            t9_charm_skull_circuit_flavor
+LANG_ENGLISH         "Download the data and get out of there with the Closed Circuit Charm."
+
+REFERENCE            t9_charm_skull_sgl_flavor
+LANG_ENGLISH         "In case you needed a friendly reminder where to aim, it's the Skull Charm."
+
+REFERENCE            t9_charm_smoke_gren_flavor
+LANG_ENGLISH         "Cover and concealment are two very different things, thankfully you can carry one."
+
+REFERENCE            t9_charm_snake_flute_flavor
+LANG_ENGLISH         "Hypnotize them into submission with the Charmer's Flute Charm."
+
+REFERENCE            t9_charm_snowman_flavor
+LANG_ENGLISH         "It's that time of year."
+
+REFERENCE            t9_charm_soviet_tank_flavor
+LANG_ENGLISH         "Tread lightly with the Tiny Tank Charm."
+
+REFERENCE            t9_charm_spray_can_flavor
+LANG_ENGLISH         "The most dangerous weapon is an idea, paint one with the Spray Can Charm."
+
+REFERENCE            t9_charm_spyplane_flavor
+LANG_ENGLISH         "Enter orbit."
+
+REFERENCE            t9_charm_tacsnowman_flavor
+LANG_ENGLISH         "Guaranteed not to melt under pressure."
+
+REFERENCE            t9_charm_target_pract_flavor
+LANG_ENGLISH         "Aim center mass with the Target Practice Charm."
+
+REFERENCE            t9_charm_tesla_ball_flavor
+LANG_ENGLISH         "Up the voltage with the Van De Graaff Charm."
+
+REFERENCE            t9_charm_tigerbomb_flavor
+LANG_ENGLISH         "Look what the cat dragged in."
+
+REFERENCE            t9_charm_tombstone_flavor
+LANG_ENGLISH         "Mark each grave and bury the dead with the Tombstone Charm."
+
+REFERENCE            t9_charm_vtg_tv_flavor
+LANG_ENGLISH         "Rots your brain, kid."
+
+REFERENCE            t9_charm_walkman_flavor
+LANG_ENGLISH         "Keep it funky with the Mixtape Charm."
+
+REFERENCE            t9_charm_world_globe_flavor
+LANG_ENGLISH         "Take it for a spin and you'll be surprised where you land with the Globe Charm."
+
+REFERENCE            t9_charm_zamboni_flavor
+LANG_ENGLISH         "Smooth everything over with the Resurfacer Charm."
+
+REFERENCE            t9_charm_zombiehand_flavor
+LANG_ENGLISH         "Lend a hand with the Helping Hand Charm."
+
 REFERENCE            turbo_pet_flavor_base
 LANG_ENGLISH         "Grow your pet during matches by completing challenges to unlock corresponding pet charms, so make sure to keep your Tomogunchi good and fed!
 "
@@ -5638,6 +6115,9 @@ LANG_ENGLISH         "Transport your squad in the cutest vehicle in Verdansk, th
 
 REFERENCE            veh_atv_camo_001_flavor
 LANG_ENGLISH         "Whether you're driving on streets, dirt, or enemies, the Sevral ATV Skin has got you covered."
+
+REFERENCE            veh_atv_camo_002_flavor
+LANG_ENGLISH         "Bring the waves on land with the Wave Dasher Vehicle Skin."
 
 REFERENCE            veh_atv_camo_005_flavor
 LANG_ENGLISH         "The Sportsman will definitely get you from point A to point B, the amount of roadkill is up to you."
@@ -5674,6 +6154,12 @@ LANG_ENGLISH         "Hit all terrains with ease in the Manta ATV Skin"
 
 REFERENCE            veh_atv_camo_030_flavor
 LANG_ENGLISH         "Watch their demeanor change when you roll up on your Mutated ATV Skin."
+
+REFERENCE            veh_atv_camo_031_flavor
+LANG_ENGLISH         "Hop on and ride the Red Knight ATV Skin into battle with its included Tail Light trail effect."
+
+REFERENCE            veh_cargo_truck_camo_001_flavor
+LANG_ENGLISH         "Leave 'em in your wake with the Tidal Wave vehicle skin."
 
 REFERENCE            veh_cargo_truck_camo_004_flavor
 LANG_ENGLISH         "Lie in wait with the Ambush Alley Cargo Truck Skin."
@@ -5729,6 +6215,9 @@ LANG_ENGLISH         "Stay noticed with the Senpai Cargo Truck Skin."
 REFERENCE            veh_jeep_camo_001_flavor
 LANG_ENGLISH         "The Contagion SUV thrives when you get up close and personal."
 
+REFERENCE            veh_jeep_camo_002_flavor
+LANG_ENGLISH         "Keep the squad afloat with the Assault vehicle skin."
+
 REFERENCE            veh_jeep_camo_008_flavor
 LANG_ENGLISH         "Where you're headed, there are no roads. The Warzone Express SUV Skin."
 
@@ -5768,8 +6257,14 @@ LANG_ENGLISH         "Store up some energy for just the right moment with the Ca
 REFERENCE            veh_jeep_camo_038_flavor
 LANG_ENGLISH         "Drag them down with the From the Deep SUV Skin."
 
+REFERENCE            veh_jeep_camo_039_flavor
+LANG_ENGLISH         "Note: Chains are not included with the Traversette SUV Skin."
+
 REFERENCE            veh_little_bird_camo_001_flavor
 LANG_ENGLISH         "They will be green with envy when they see your Goblin Heli Skin."
+
+REFERENCE            veh_little_bird_camo_002_flavor
+LANG_ENGLISH         "Keep your head in the clouds with the Dirty Bird vehicle skin."
 
 REFERENCE            veh_little_bird_camo_008_flavor
 LANG_ENGLISH         "Rise above the rest in the Snow Patrol Heli Skin."
@@ -5821,6 +6316,9 @@ LANG_ENGLISH         "Bring chaos across the skies in the Flight of Torment Heli
 
 REFERENCE            veh_little_bird_camo_033_flavor
 LANG_ENGLISH         "Show your strength with the Golden Bull Heli Skin."
+
+REFERENCE            veh_little_bird_camo_034_flavor
+LANG_ENGLISH         "Spread joy throughout Verdansk with the Rainbow Runner Heli Skin."
 
 REFERENCE            veh_tac_rover_camo_001_flavor
 LANG_ENGLISH         "Earn your stripes with the Kaiju Tac Rover Skin."

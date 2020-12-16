@@ -2,6 +2,12 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            acid_bomb
+LANG_ENGLISH         "Acid Bomb"
+
+REFERENCE            acid_bomb_desc
+LANG_ENGLISH         "Canister of a highly toxic chemical compound."
+
 REFERENCE            acog_attachment
 LANG_ENGLISH         "Scout"
 
@@ -66,7 +72,7 @@ REFERENCE            akimbo_blades_v4
 LANG_ENGLISH         "Vorpal Blade"
 
 REFERENCE            akimbo_blades_v5
-LANG_ENGLISH         "AKIMBO_BLADES_V5"
+LANG_ENGLISH         "Immortal Slash"
 
 REFERENCE            akimbo_blunt
 LANG_ENGLISH         "Kali Sticks"
@@ -139,6 +145,9 @@ LANG_ENGLISH         ".338 Lapua Magnum ^1HEI^7"
 
 REFERENCE            ammo_338_lapua_mag
 LANG_ENGLISH         ".338 Lapua Mag"
+
+REFERENCE            ammo_338_norma_mag
+LANG_ENGLISH         ".338 Norma Mag"
 
 REFERENCE            ammo_357_pist
 LANG_ENGLISH         ".357 Magnum"
@@ -278,6 +287,9 @@ LANG_ENGLISH         "7.92 Mauser"
 REFERENCE            ammo_7_92_mm_hei
 LANG_ENGLISH         "7.92 Mauser ^1HEI^7"
 
+REFERENCE            ammo_9_mm_hollow
+LANG_ENGLISH         "9mm Hollow Point"
+
 REFERENCE            ammo_9_mm_mak
 LANG_ENGLISH         "9mm Makarov"
 
@@ -293,8 +305,14 @@ LANG_ENGLISH         "9mm Parabellum ^1HEI^7"
 REFERENCE            ammo_9_x_39_mm
 LANG_ENGLISH         "9??39mm"
 
+REFERENCE            ammo_9_x_39_mm_hei
+LANG_ENGLISH         "9??39mm ^1HEI^7"
+
 REFERENCE            ammo_9_x_39_spp
 LANG_ENGLISH         "9??39mm SPP"
+
+REFERENCE            ammo_9_x_39_spp_hei
+LANG_ENGLISH         "9??39mm SPP ^1HEI^7"
 
 REFERENCE            ammo_bolt
 LANG_ENGLISH         "20.0" Bolt"
@@ -422,6 +440,9 @@ LANG_ENGLISH         "Waliima"
 REFERENCE            ar_akilo47_v26
 LANG_ENGLISH         "Grizzled"
 
+REFERENCE            ar_akilo47_v27
+LANG_ENGLISH         "AR_AKILO47_V27"
+
 REFERENCE            ar_akilo47_v28
 LANG_ENGLISH         "Master Adventurer"
 
@@ -494,6 +515,9 @@ LANG_ENGLISH         "Johnny On The Spot"
 REFERENCE            ar_asierra12_v18
 LANG_ENGLISH         "Zord"
 
+REFERENCE            ar_asierra12_v19
+LANG_ENGLISH         "Blood Simple"
+
 REFERENCE            ar_asierra12_v2
 LANG_ENGLISH         "Carbon Bear"
 
@@ -501,7 +525,7 @@ REFERENCE            ar_asierra12_v20
 LANG_ENGLISH         "Return To Dust"
 
 REFERENCE            ar_asierra12_v21
-LANG_ENGLISH         "AR_ASIERRA12_V21"
+LANG_ENGLISH         "Majestic"
 
 REFERENCE            ar_asierra12_v3
 LANG_ENGLISH         "The Liar"
@@ -591,7 +615,7 @@ REFERENCE            ar_falpha_v12
 LANG_ENGLISH         "Fractured"
 
 REFERENCE            ar_falpha_v13
-LANG_ENGLISH         "AR_FALPHA_V13"
+LANG_ENGLISH         "The Fallen"
 
 REFERENCE            ar_falpha_v14
 LANG_ENGLISH         "Last Gasp"
@@ -774,7 +798,7 @@ REFERENCE            ar_mcharlie_v20
 LANG_ENGLISH         "Rottweiler"
 
 REFERENCE            ar_mcharlie_v21
-LANG_ENGLISH         "AR_MCHARLIE_V21"
+LANG_ENGLISH         "No Disgrace"
 
 REFERENCE            ar_mcharlie_v22
 LANG_ENGLISH         "Cpt. Pugsly"
@@ -783,10 +807,10 @@ REFERENCE            ar_mcharlie_v23
 LANG_ENGLISH         "Sacrosanct"
 
 REFERENCE            ar_mcharlie_v24
-LANG_ENGLISH         "AR_MCHARLIE_V24"
+LANG_ENGLISH         "Splendor"
 
 REFERENCE            ar_mcharlie_v25
-LANG_ENGLISH         "AR_MCHARLIE_V25"
+LANG_ENGLISH         "Scyloxes"
 
 REFERENCE            ar_mcharlie_v3
 LANG_ENGLISH         "Sandblaster"
@@ -903,10 +927,10 @@ REFERENCE            ar_mike4_v36
 LANG_ENGLISH         "War Pig"
 
 REFERENCE            ar_mike4_v37
-LANG_ENGLISH         "AR_MIKE4_V37"
+LANG_ENGLISH         "Abaddon"
 
 REFERENCE            ar_mike4_v38
-LANG_ENGLISH         "AR_MIKE4_V38"
+LANG_ENGLISH         "K2"
 
 REFERENCE            ar_mike4_v4
 LANG_ENGLISH         "OG"
@@ -1083,7 +1107,7 @@ REFERENCE            ar_tango21_v15
 LANG_ENGLISH         "Reticent"
 
 REFERENCE            ar_tango21_v16
-LANG_ENGLISH         "AR_TANGO21_V16"
+LANG_ENGLISH         "Divine Spirit"
 
 REFERENCE            ar_tango21_v17
 LANG_ENGLISH         "Dance Macabre"
@@ -1091,8 +1115,14 @@ LANG_ENGLISH         "Dance Macabre"
 REFERENCE            ar_tango21_v18
 LANG_ENGLISH         "Maruyama"
 
+REFERENCE            ar_tango21_v19
+LANG_ENGLISH         "AR_TANGO21_V19"
+
 REFERENCE            ar_tango21_v2
 LANG_ENGLISH         "Ambush"
+
+REFERENCE            ar_tango21_v20
+LANG_ENGLISH         "AR_TANGO21_V20"
 
 REFERENCE            ar_tango21_v3
 LANG_ENGLISH         "Sandstorm"
@@ -1124,6 +1154,21 @@ LANG_ENGLISH         "Malphas"
 REFERENCE            ar_valpha_v3
 LANG_ENGLISH         "Straw Man"
 
+REFERENCE            ar_valpha_v4
+LANG_ENGLISH         "Midnight Sun"
+
+REFERENCE            ar_valpha_v5
+LANG_ENGLISH         "AR_VALPHA_V5"
+
+REFERENCE            ar_valpha_v6
+LANG_ENGLISH         "AR_VALPHA_V6"
+
+REFERENCE            ar_valpha_v7
+LANG_ENGLISH         "AR_VALPHA_V7"
+
+REFERENCE            ar_valpha_v8
+LANG_ENGLISH         "AR_VALPHA_V8"
+
 REFERENCE            aracc
 LANG_ENGLISH         "Venom"
 
@@ -1136,11 +1181,29 @@ LANG_ENGLISH         "OSA"
 REFERENCE            arm2
 LANG_ENGLISH         "ARM-2"
 
+REFERENCE            arm_blade
+LANG_ENGLISH         "Arm Blade"
+
+REFERENCE            arm_blade_desc
+LANG_ENGLISH         "Unleash a lethal melee attack with a dedicated melee weapon."
+
+REFERENCE            armor
+LANG_ENGLISH         "Armor"
+
+REFERENCE            armor_desc
+LANG_ENGLISH         "Reduces incoming bullet damage. Destroyed after it absorbs too much damage. Cooldown: 120 sec"
+
 REFERENCE            atomizer
 LANG_ENGLISH         "Eraser"
 
 REFERENCE            axe
 LANG_ENGLISH         "Axe"
+
+REFERENCE            bare_hands
+LANG_ENGLISH         "Fists"
+
+REFERENCE            bare_hands_desc
+LANG_ENGLISH         "Needs Description"
 
 REFERENCE            barrel_bored_attachment
 LANG_ENGLISH         "Chrome Lined"
@@ -1157,6 +1220,9 @@ LANG_ENGLISH         "Amped"
 REFERENCE            barrel_range_sonic_attachment
 LANG_ENGLISH         "Amped"
 
+REFERENCE            basketball
+LANG_ENGLISH         "Basketball"
+
 REFERENCE            blackhat
 LANG_ENGLISH         "Blackhat"
 
@@ -1166,11 +1232,14 @@ LANG_ENGLISH         "Gravity Vortex Gun"
 REFERENCE            blackout_grenade
 LANG_ENGLISH         "Blackout Grenade"
 
+REFERENCE            bowie
+LANG_ENGLISH         "Bowie Knife"
+
+REFERENCE            bowie_desc
+LANG_ENGLISH         "Like a knife, but more so."
+
 REFERENCE            bulletstorm_device
 LANG_ENGLISH         "Bulletstorm Shield"
-
-REFERENCE            bundle_description_dawn_scout
-LANG_ENGLISH         "When the Morning comes, you'll be ready. The Dawn Scout Bundle."
 
 REFERENCE            c4
 LANG_ENGLISH         "C4"
@@ -1223,11 +1292,23 @@ LANG_ENGLISH         ""
 REFERENCE            claw
 LANG_ENGLISH         "Claw"
 
+REFERENCE            claymore
+LANG_ENGLISH         "Claymore"
+
+REFERENCE            claymore_desc
+LANG_ENGLISH         "Plantable directional mine, that explodes based on enemy proximity."
+
 REFERENCE            claymore_pickup
 LANG_ENGLISH         "^3&&1^7 Pickup Claymore Mines"
 
 REFERENCE            comparison
 LANG_ENGLISH         "Stats compared to &&1"
+
+REFERENCE            concertina_wire
+LANG_ENGLISH         "Razor Wire"
+
+REFERENCE            concertina_wire_desc
+LANG_ENGLISH         "Defensive razor wire damages and slows enemies that attempt to cross it."
 
 REFERENCE            concussion_grenade
 LANG_ENGLISH         "Concussion Grenade"
@@ -1258,6 +1339,12 @@ LANG_ENGLISH         "&&1 Custom"
 
 REFERENCE            cyberemp
 LANG_ENGLISH         "BOMB"
+
+REFERENCE            decoy_grenade
+LANG_ENGLISH         "Decoy"
+
+REFERENCE            decoy_grenade_desc
+LANG_ENGLISH         "Plays footsteps and gunfire sounds to simulate an enemy nearby."
 
 REFERENCE            defaultweapon
 LANG_ENGLISH         "Default Weapon"
@@ -1297,6 +1384,21 @@ LANG_ENGLISH         ""
 
 REFERENCE            enter_preview_mode
 LANG_ENGLISH         "Play Preview Animation"
+
+REFERENCE            eq_emp_grenade
+LANG_ENGLISH         "EMP Disruptor"
+
+REFERENCE            eq_emp_grenade_desc
+LANG_ENGLISH         "An EMP grenade that disrupts enemy equipment and HUDs."
+
+REFERENCE            eq_sticky_grenade_desc
+LANG_ENGLISH         "Grenade that sticks to surfaces before detonating."
+
+REFERENCE            eq_stimshot
+LANG_ENGLISH         "Stimshot"
+
+REFERENCE            eq_stimshot_desc
+LANG_ENGLISH         "Reusable stimulant that initiates healing immediately. Takes 11 seconds to recharge."
 
 REFERENCE            erad
 LANG_ENGLISH         "Erad"
@@ -1424,11 +1526,23 @@ LANG_ENGLISH         "Tactical Insertion"
 REFERENCE            flash_grenade
 LANG_ENGLISH         "Flash Grenade"
 
+REFERENCE            flashbang
+LANG_ENGLISH         "Flashbang"
+
+REFERENCE            flashbang_desc
+LANG_ENGLISH         "Blinds enemies and impairs hearing. Detonates shortly after being thrown."
+
 REFERENCE            fmg
 LANG_ENGLISH         "Type-2"
 
 REFERENCE            fmj_attachment
 LANG_ENGLISH         "FMJ"
+
+REFERENCE            fraggrenade
+LANG_ENGLISH         "Frag"
+
+REFERENCE            fraggrenade_desc
+LANG_ENGLISH         "Explodes after a short fuse. Can be cooked by holding [{+frag}]"
 
 REFERENCE            freerunner
 LANG_ENGLISH         "No Weapon Available"
@@ -1450,6 +1564,80 @@ LANG_ENGLISH         "KB45 Gold"
 
 REFERENCE            g18_sp
 LANG_ENGLISH         "KB45"
+
+REFERENCE            gadget_armor
+LANG_ENGLISH         "Kinetic Armor"
+
+REFERENCE            gadget_armor_desc
+LANG_ENGLISH         "Reactive armor that deflects enemy bullets away from the body. Still vulnerable to headshots and non-bullet damage while active."
+
+REFERENCE            gadget_camo
+LANG_ENGLISH         "Active Camo"
+
+REFERENCE            gadget_camo_desc
+LANG_ENGLISH         "Become nearly invisible for a short duration. "
+
+REFERENCE            gadget_cleanse
+LANG_ENGLISH         "TAK-5"
+
+REFERENCE            gadget_cleanse_desc
+LANG_ENGLISH         "Heals nearby teammates while granting bonus health and clearing all negative effects."
+
+REFERENCE            gadget_health_boost
+LANG_ENGLISH         "Health Boost"
+
+REFERENCE            gadget_health_boost_desc
+LANG_ENGLISH         "Heals nearby teammates while granting bonus health and clearing all negative effects.
+"
+
+REFERENCE            gadget_health_regen
+LANG_ENGLISH         "Health Regen"
+
+REFERENCE            gadget_health_regen_desc
+LANG_ENGLISH         "Heals health.
+"
+
+REFERENCE            gadget_health_regen_large
+LANG_ENGLISH         "Trauma Kit"
+
+REFERENCE            gadget_health_regen_large_desc
+LANG_ENGLISH         "Hold ^3[{+smoke}]^7 for 3 seconds to fully heal. Also grants 50 bonus health. "
+
+REFERENCE            gadget_health_regen_medium
+LANG_ENGLISH         "Med Kit"
+
+REFERENCE            gadget_health_regen_medium_desc
+LANG_ENGLISH         "Hold ^3[{+smoke}]^7 for 2 seconds to heal 50 health."
+
+REFERENCE            gadget_health_regen_small
+LANG_ENGLISH         "First Aid"
+
+REFERENCE            gadget_health_regen_small_desc
+LANG_ENGLISH         "Hold ^3[{+smoke}]^7 for 1 second to heal 25 health."
+
+REFERENCE            gadget_health_regen_squad
+LANG_ENGLISH         "TAK-5"
+
+REFERENCE            gadget_health_regen_squad_desc
+LANG_ENGLISH         "Hold ^3[{+smoke}]^7 for 4 seconds to heal 100 health on self and squad mates within 30 meters."
+
+REFERENCE            gadget_heat_wave
+LANG_ENGLISH         "Heat Wave"
+
+REFERENCE            gadget_heat_wave_desc
+LANG_ENGLISH         "Emit a massive heat blast that stuns enemies and destroys hostile equipment."
+
+REFERENCE            gadget_medicalinjectiongun
+LANG_ENGLISH         "Medical Injection Gun"
+
+REFERENCE            gadget_medicalinjectiongun_desc
+LANG_ENGLISH         "Heals health faster"
+
+REFERENCE            gadget_vision_pulse
+LANG_ENGLISH         "Vision Pulse"
+
+REFERENCE            gadget_vision_pulse_desc
+LANG_ENGLISH         "Pulse the map to reveal all enemies for yourself and teammates."
 
 REFERENCE            gambit
 LANG_ENGLISH         "R3K Gambit"
@@ -1550,6 +1738,44 @@ LANG_ENGLISH         "Trap - O - Matic"
 REFERENCE            harpoon4
 LANG_ENGLISH         "Whirlwind EF-5"
 
+REFERENCE            hatchet
+LANG_ENGLISH         "Tomahawk"
+
+REFERENCE            hatchet_desc
+LANG_ENGLISH         "Retrievable axe that kills instantly on impact."
+
+REFERENCE            hero_annihilator
+LANG_ENGLISH         "Hand Cannon"
+
+REFERENCE            hero_annihilator_desc
+LANG_ENGLISH         "Massive high-caliber revolver that fires devastating rounds with increased bullet penetration. Cooldown: 90 sec"
+
+REFERENCE            hero_flamethrower
+LANG_ENGLISH         "Flamethrower"
+
+REFERENCE            hero_flamethrower_desc
+LANG_ENGLISH         "Flamethrower that shoots a steady gout of flame, scorching enemies within close range. Cooldown: 90 sec"
+
+REFERENCE            hero_icepick
+LANG_ENGLISH         "Ice Pick"
+
+REFERENCE            hero_icepick_desc
+LANG_ENGLISH         "Powerful hacking device that disables enemies and steals or destroys their equipment."
+
+REFERENCE            hero_jammer
+LANG_ENGLISH         "Jammer"
+
+REFERENCE            hero_jammer_desc
+LANG_ENGLISH         "Creates an electronic disruption field, disabling enemy Field Upgrades and degrading enemy minimap information.
+
+Recharge Time: 2:30"
+
+REFERENCE            hero_pineapplegun
+LANG_ENGLISH         "War Machine"
+
+REFERENCE            hero_pineapplegun_desc
+LANG_ENGLISH         "High-explosive grenade launcher. Cooldown: 60 sec"
+
 REFERENCE            high_caliber_attachment
 LANG_ENGLISH         "Hollow Point"
 
@@ -1564,6 +1790,12 @@ LANG_ENGLISH         "Holo"
 
 REFERENCE            holstered
 LANG_ENGLISH         ""
+
+REFERENCE            homunculus
+LANG_ENGLISH         "Homunculus"
+
+REFERENCE            homunculus_wz_desc
+LANG_ENGLISH         "When thrown, defends the vicinity from zombies. Also a mean dancer."
 
 REFERENCE            hybrid_attachment
 LANG_ENGLISH         "Hybrid"
@@ -1600,6 +1832,12 @@ LANG_ENGLISH         "Combat Knife"
 
 REFERENCE            knife_aon
 LANG_ENGLISH         "20-0"
+
+REFERENCE            knife_loadout
+LANG_ENGLISH         "Knife"
+
+REFERENCE            knife_loadout_desc
+LANG_ENGLISH         "Lethal melee weapon.  Straight-edge blade that kills enemies with a single deadly strike. "
 
 REFERENCE            knife_only
 LANG_ENGLISH         "Combat Knife"
@@ -1661,11 +1899,23 @@ LANG_ENGLISH         "Riddle of Steel"
 REFERENCE            knife_v116
 LANG_ENGLISH         "Sickle"
 
+REFERENCE            knife_v117
+LANG_ENGLISH         "Alpenstock"
+
 REFERENCE            knife_v118
 LANG_ENGLISH         "Flint"
 
+REFERENCE            knife_v119
+LANG_ENGLISH         "KNIFE_V119"
+
 REFERENCE            knife_v12
 LANG_ENGLISH         "Boxcutter"
+
+REFERENCE            knife_v120
+LANG_ENGLISH         "KNIFE_V120"
+
+REFERENCE            knife_v121
+LANG_ENGLISH         "KNIFE_V121"
 
 REFERENCE            knife_v13
 LANG_ENGLISH         "Negotiation"
@@ -1800,7 +2050,7 @@ REFERENCE            knife_v52
 LANG_ENGLISH         "KNIFE_V52"
 
 REFERENCE            knife_v53
-LANG_ENGLISH         "KNIFE_V53"
+LANG_ENGLISH         "Pickwick"
 
 REFERENCE            knife_v54
 LANG_ENGLISH         "Innocence Lost"
@@ -1982,11 +2232,27 @@ LANG_ENGLISH         "^1Detonate"
 REFERENCE            label_molotov
 LANG_ENGLISH         "Molotov"
 
+REFERENCE            land_mine
+LANG_ENGLISH         "Proximity Mine"
+
+REFERENCE            land_mine_desc
+LANG_ENGLISH         "Throwable mine that explodes shortly after an enemy runs or drives over it. Can be avoided by crouching. Destroys any vehicle that runs over it. 
+
+Recharge Time: 2:00"
+
 REFERENCE            lawn_mower
 LANG_ENGLISH         "Lawn Mower"
 
 REFERENCE            linear_shaped_charge
 LANG_ENGLISH         "Linear Shaped Charge"
+
+REFERENCE            listening_device
+LANG_ENGLISH         "Field Mic"
+
+REFERENCE            listening_device_desc
+LANG_ENGLISH         "Listening device that highlights enemy sounds on your minimap.
+
+Recharge Time: 3:30"
 
 REFERENCE            lm_dblmg
 LANG_ENGLISH         "Minigun"
@@ -2145,7 +2411,7 @@ REFERENCE            lm_mgolf34_v13
 LANG_ENGLISH         "The Grind"
 
 REFERENCE            lm_mgolf34_v14
-LANG_ENGLISH         "LM_MGOLF34_V14"
+LANG_ENGLISH         "Gold Star"
 
 REFERENCE            lm_mgolf34_v15
 LANG_ENGLISH         "Cipher"
@@ -2336,8 +2602,29 @@ LANG_ENGLISH         "Klondike"
 REFERENCE            lm_sierrax_v4
 LANG_ENGLISH         "Family Heirloom"
 
+REFERENCE            lm_sierrax_v5
+LANG_ENGLISH         "Pride"
+
+REFERENCE            lm_slima
+LANG_ENGLISH         "RAAL MG"
+
 REFERENCE            lmg03
 LANG_ENGLISH         "Titan"
+
+REFERENCE            lmg_arav
+LANG_ENGLISH         "ARAV Turret"
+
+REFERENCE            lmg_pbr
+LANG_ENGLISH         "PBR Turret"
+
+REFERENCE            lmg_uh1d
+LANG_ENGLISH         "UH1D Turret"
+
+REFERENCE            local_heal
+LANG_ENGLISH         "TAK-5"
+
+REFERENCE            local_heal_desc
+LANG_ENGLISH         "Heals, boosts max health, and removes Burns for the user and their team."
 
 REFERENCE            lockon
 LANG_ENGLISH         "Spartan SA3"
@@ -2420,14 +2707,49 @@ LANG_ENGLISH         "ME_RIOTSHIELD_V9"
 REFERENCE            me_tacknife_v2
 LANG_ENGLISH         "ME_TACKNIFE_V2"
 
+REFERENCE            melee_bowie_desc
+LANG_ENGLISH         "Single-Edged Lethal blade weapon. Stalk from the shadows to strike swiftly on your prey."
+
+REFERENCE            melee_sledgehammer_t9
+LANG_ENGLISH         "Sledgehammer"
+
+REFERENCE            melee_sledgehammer_t9_desc
+LANG_ENGLISH         "Derived from the Anglo-Saxon word "sl??gan," which means "to strike violently," this heavy, two-handed tool encourages you to do just that.  As effective in causing destruction on a battlefield as it is in a demolition site.  This sledgehammer features a long handle attached to a flat metal head that gains momentum as you swing, increasing the force of impact.  Designed to distribute that force over a large area.  Repurposed to demolish your enemies instead of dry wall."
+
+REFERENCE            melee_wakizashi_t9
+LANG_ENGLISH         "Wakizashi"
+
+REFERENCE            melee_wakizashi_t9_desc
+LANG_ENGLISH         "Famously known as the companion sword to the Samurai's Katana, this weapon saw much more proliferation, as its ownership was not restricted.  Seeing widespread use as personal defense by merchants and artisans, the scabbard became highly decorated, and more expressive.  Though such high demand for the weapon saw manufacturing techniques became more varied, more expedient, and less rigorous.  However, a traditionally forged blade, using two types of steel, consisting of inner and outer layers with varying carbon density, and benefiting from a folded steel technique, produces a weapon that is light to wield, resilient to force, and durable to wear.  This is such a weapon."
+
 REFERENCE            mike79
 LANG_ENGLISH         "M79"
+
+REFERENCE            mini_turret
+LANG_ENGLISH         "Sentry"
+
+REFERENCE            mini_turret_desc
+LANG_ENGLISH         "Targets and harasses nearby enemies with a barrage of low damage shots."
 
 REFERENCE            minilmg
 LANG_ENGLISH         "Auger"
 
+REFERENCE            missile_turret
+LANG_ENGLISH         "SAM Turret"
+
+REFERENCE            missile_turret_desc
+LANG_ENGLISH         "Launches missiles at enemy air scorestreaks and player-piloted helicopters.
+
+Recharge Time: 3:45"
+
 REFERENCE            mobile_radar
 LANG_ENGLISH         "Mobile Radar"
+
+REFERENCE            molotov
+LANG_ENGLISH         "Molotov"
+
+REFERENCE            molotov_desc
+LANG_ENGLISH         "Explodes on impact, spreading flames over a small area."
 
 REFERENCE            motion_sensor
 LANG_ENGLISH         "Motion Sensor"
@@ -2435,8 +2757,17 @@ LANG_ENGLISH         "Motion Sensor"
 REFERENCE            mp28
 LANG_ENGLISH         "Trencher"
 
-REFERENCE            newref
-LANG_ENGLISH         "New text"
+REFERENCE            mute_smoke
+LANG_ENGLISH         "Mute Smoke"
+
+REFERENCE            mute_smoke_desc
+LANG_ENGLISH         "Deploys sound-dampening smoke. Enemies in smoke will be visible to Spectre."
+
+REFERENCE            nightingale
+LANG_ENGLISH         "Decoy"
+
+REFERENCE            nightingale_desc
+LANG_ENGLISH         "Simulates footsteps to confuse enemies."
 
 REFERENCE            no_ammo
 LANG_ENGLISH         "No Ammo"
@@ -2459,11 +2790,20 @@ LANG_ENGLISH         "Lethal out of Ammo"
 REFERENCE            nrg
 LANG_ENGLISH         "Oni"
 
+REFERENCE            null
+LANG_ENGLISH         "Select Equipment"
+
 REFERENCE            oscope_attachment
 LANG_ENGLISH         "Tracking"
 
 REFERENCE            overclock_attachment
 LANG_ENGLISH         "Overclock"
+
+REFERENCE            paralyze_grenade
+LANG_ENGLISH         "Paralyze Grenade"
+
+REFERENCE            paralyze_grenade_desc
+LANG_ENGLISH         "Tactical grenade that paralyzes those caught in its radius."
 
 REFERENCE            penetrationrail
 LANG_ENGLISH         "Ballista EM3"
@@ -2502,7 +2842,7 @@ REFERENCE            pi_cpapa_v18
 LANG_ENGLISH         "Red Sparrow"
 
 REFERENCE            pi_cpapa_v19
-LANG_ENGLISH         "PI_CPAPA_V19"
+LANG_ENGLISH         "Ice Breaker"
 
 REFERENCE            pi_cpapa_v2
 LANG_ENGLISH         "Enforcer"
@@ -2661,7 +3001,7 @@ REFERENCE            pi_golf21_v23
 LANG_ENGLISH         "Hit Streak"
 
 REFERENCE            pi_golf21_v24
-LANG_ENGLISH         "PI_GOLF21_V24"
+LANG_ENGLISH         "Mudfog"
 
 REFERENCE            pi_golf21_v3
 LANG_ENGLISH         "Impossible Task"
@@ -2686,6 +3026,9 @@ LANG_ENGLISH         "Greenback"
 
 REFERENCE            pi_magnum
 LANG_ENGLISH         ".44 Magnum"
+
+REFERENCE            pi_mike
+LANG_ENGLISH         "Sykov"
 
 REFERENCE            pi_mike1911
 LANG_ENGLISH         "1911"
@@ -2715,7 +3058,7 @@ REFERENCE            pi_mike1911_v17
 LANG_ENGLISH         "One For One"
 
 REFERENCE            pi_mike1911_v18
-LANG_ENGLISH         "PI_MIKE1911_V18"
+LANG_ENGLISH         "Suilven"
 
 REFERENCE            pi_mike1911_v19
 LANG_ENGLISH         "Exoskeleton"
@@ -2790,7 +3133,7 @@ REFERENCE            pi_mike9_v17
 LANG_ENGLISH         "Short Shift"
 
 REFERENCE            pi_mike9_v18
-LANG_ENGLISH         "PI_MIKE9_V18"
+LANG_ENGLISH         "Anthia"
 
 REFERENCE            pi_mike9_v2
 LANG_ENGLISH         "Guard One"
@@ -2815,6 +3158,12 @@ LANG_ENGLISH         "Apple Pie"
 
 REFERENCE            pi_mike9_v9
 LANG_ENGLISH         "Callisto"
+
+REFERENCE            pi_mike_alt
+LANG_ENGLISH         "Sorokin"
+
+REFERENCE            pi_mike_v2
+LANG_ENGLISH         "Monviso"
 
 REFERENCE            pi_papa320
 LANG_ENGLISH         "M19"
@@ -2862,7 +3211,7 @@ REFERENCE            pi_papa320_v22
 LANG_ENGLISH         "Parley"
 
 REFERENCE            pi_papa320_v23
-LANG_ENGLISH         "PI_PAPA320_V23"
+LANG_ENGLISH         "State of War"
 
 REFERENCE            pi_papa320_v24
 LANG_ENGLISH         "Yellow Belly"
@@ -2905,6 +3254,12 @@ LANG_ENGLISH         "^3&&1^7 Pickup I.E.D."
 
 REFERENCE            pulse_grenade
 LANG_ENGLISH         "Pulse Grenade"
+
+REFERENCE            radar_shroud
+LANG_ENGLISH         "Radar Shroud"
+
+REFERENCE            radar_shroud_desc
+LANG_ENGLISH         "Jamming device that hides an area from enemy minimaps. Can be deployed at range."
 
 REFERENCE            railgun
 LANG_ENGLISH         "Ballista EM3"
@@ -2957,6 +3312,12 @@ LANG_ENGLISH         "Rocket Spread"
 REFERENCE            rvn
 LANG_ENGLISH         "R-VN"
 
+REFERENCE            satchel_charge
+LANG_ENGLISH         "C4"
+
+REFERENCE            satchel_charge_desc
+LANG_ENGLISH         "High explosive charge that sticks to any surface. Deadly when stuck to vehicles. Detonate with [{+frag}] or by double tapping [{+activate}]"
+
 REFERENCE            satcom
 LANG_ENGLISH         "SAT COM"
 
@@ -2978,6 +3339,12 @@ LANG_ENGLISH         "R.A.W."
 REFERENCE            sdfshotty
 LANG_ENGLISH         "DCM-8"
 
+REFERENCE            seeker_mine
+LANG_ENGLISH         "Seeker"
+
+REFERENCE            seeker_mine_desc
+LANG_ENGLISH         "A rolling shock mine that seeks enemy players, paralyzing them on contact."
+
 REFERENCE            select_fire_type
 LANG_ENGLISH         "Select &&1"
 
@@ -2997,7 +3364,7 @@ REFERENCE            sh_aalpha12_v3
 LANG_ENGLISH         "Valerie"
 
 REFERENCE            sh_aalpha12_v4
-LANG_ENGLISH         "SH_AALPHA12_V4"
+LANG_ENGLISH         "Ring of Fire"
 
 REFERENCE            sh_aalpha12_v5
 LANG_ENGLISH         "SH_AALPHA12_V5"
@@ -3204,7 +3571,7 @@ REFERENCE            sh_oscar12_v12
 LANG_ENGLISH         "Chemical Burn"
 
 REFERENCE            sh_oscar12_v13
-LANG_ENGLISH         "Prison Sentence"
+LANG_ENGLISH         "The Duke"
 
 REFERENCE            sh_oscar12_v14
 LANG_ENGLISH         "Bloodlines"
@@ -3382,6 +3749,18 @@ LANG_ENGLISH         "w/ Shotgun"
 
 REFERENCE            shroud_attachment
 LANG_ENGLISH         "Shroud"
+
+REFERENCE            sig_bow_flame
+LANG_ENGLISH         "Combat Bow"
+
+REFERENCE            sig_bow_flame_desc
+LANG_ENGLISH         "Arrows burn targets and the surrounding area. Cooldown: 120 sec"
+
+REFERENCE            sig_lmg
+LANG_ENGLISH         "Death Machine"
+
+REFERENCE            sig_lmg_desc
+LANG_ENGLISH         "Deadly machine gun with high damage rounds that suppress enemies in the line of fire. Cooldown: 90 sec"
 
 REFERENCE            silencer_attachment
 LANG_ENGLISH         "Suppressed"
@@ -3579,7 +3958,7 @@ REFERENCE            sm_mpapa5_v15
 LANG_ENGLISH         "Spirit of the Beast"
 
 REFERENCE            sm_mpapa5_v16
-LANG_ENGLISH         "Show of Force"
+LANG_ENGLISH         "Checkered Flag"
 
 REFERENCE            sm_mpapa5_v17
 LANG_ENGLISH         "Mot"
@@ -3700,7 +4079,7 @@ REFERENCE            sm_mpapa7_v23
 LANG_ENGLISH         "Efflux"
 
 REFERENCE            sm_mpapa7_v24
-LANG_ENGLISH         "SM_MPAPA7_V24"
+LANG_ENGLISH         "Artful Dodger"
 
 REFERENCE            sm_mpapa7_v25
 LANG_ENGLISH         "SM_MPAPA7_V25"
@@ -3799,7 +4178,10 @@ REFERENCE            sm_papa90_v9
 LANG_ENGLISH         "Original Sin"
 
 REFERENCE            sm_secho
-LANG_ENGLISH         "SM_SECHO"
+LANG_ENGLISH         "CX-9"
+
+REFERENCE            sm_secho_v2
+LANG_ENGLISH         "Serac"
 
 REFERENCE            sm_smgolf45
 LANG_ENGLISH         "Striker 45"
@@ -3900,6 +4282,9 @@ LANG_ENGLISH         "SM_UZULU_V23"
 REFERENCE            sm_uzulu_v24
 LANG_ENGLISH         "The Haunt"
 
+REFERENCE            sm_uzulu_v25
+LANG_ENGLISH         "Tsuiso"
+
 REFERENCE            sm_uzulu_v3
 LANG_ENGLISH         "Sparkler"
 
@@ -3924,6 +4309,9 @@ LANG_ENGLISH         "Golden Rule"
 REFERENCE            sm_victor
 LANG_ENGLISH         "Fennec"
 
+REFERENCE            sm_victor_v10
+LANG_ENGLISH         "SM_VICTOR_V10"
+
 REFERENCE            sm_victor_v2
 LANG_ENGLISH         "Silver Fox"
 
@@ -3942,8 +4330,22 @@ LANG_ENGLISH         "Solar Flare"
 REFERENCE            sm_victor_v7
 LANG_ENGLISH         "Aigrette"
 
+REFERENCE            sm_victor_v8
+LANG_ENGLISH         "SM_VICTOR_V8"
+
+REFERENCE            sm_victor_v9
+LANG_ENGLISH         "SM_VICTOR_V9"
+
 REFERENCE            smart_attachment
 LANG_ENGLISH         "Smart Shot"
+
+REFERENCE            smartcover
+LANG_ENGLISH         "Barricade"
+
+REFERENCE            smartcover_desc
+LANG_ENGLISH         "Deploy reinforced cover for protection against enemies.
+
+Recharge Time: 2:10"
 
 REFERENCE            smgolf45_v9
 LANG_ENGLISH         "Evil Manifest"
@@ -4387,6 +4789,15 @@ LANG_ENGLISH         "SP-R 208"
 REFERENCE            sn_romeo700_v2
 LANG_ENGLISH         "Darkwood"
 
+REFERENCE            sn_romeo700_v3
+LANG_ENGLISH         "Frozen Waste"
+
+REFERENCE            sn_romeo700_v4
+LANG_ENGLISH         "SN_ROMEO700_V4"
+
+REFERENCE            sn_romeo700_v5
+LANG_ENGLISH         "SN_ROMEO700_V5"
+
 REFERENCE            sn_sbeta
 LANG_ENGLISH         "MK2 Carbine"
 
@@ -4409,7 +4820,7 @@ REFERENCE            sn_sbeta_v15
 LANG_ENGLISH         "Banyan"
 
 REFERENCE            sn_sbeta_v16
-LANG_ENGLISH         "Stratus"
+LANG_ENGLISH         "Close to the Edge"
 
 REFERENCE            sn_sbeta_v17
 LANG_ENGLISH         "Whirlwind"
@@ -4573,6 +4984,12 @@ LANG_ENGLISH         "Solar Eclipse"
 REFERENCE            sn_xmike109_v9
 LANG_ENGLISH         "SN_XMIKE109_V9"
 
+REFERENCE            snowball
+LANG_ENGLISH         "Snowball"
+
+REFERENCE            snowball_wz_desc
+LANG_ENGLISH         "Tightly packed ball of snow."
+
 REFERENCE            snprscope_kar98_attachment
 LANG_ENGLISH         "Scoped"
 
@@ -4584,6 +5001,18 @@ LANG_ENGLISH         "Rack-9"
 
 REFERENCE            spas_classic
 LANG_ENGLISH         "S-Ravage"
+
+REFERENCE            spawnbeacon
+LANG_ENGLISH         "Tac-Deploy"
+
+REFERENCE            spawnbeacon_desc
+LANG_ENGLISH         "Deployable beacon that allows your teammates to redeploy to the surrounding area."
+
+REFERENCE            special_issue
+LANG_ENGLISH         "Special Issue"
+
+REFERENCE            special_issue_desc
+LANG_ENGLISH         "Special Issue"
 
 REFERENCE            speed_strip
 LANG_ENGLISH         "V.E.F."
@@ -4618,11 +5047,20 @@ LANG_ENGLISH         "F-SpAr Torch"
 REFERENCE            steeldragon_mp
 LANG_ENGLISH         "Steel Dragon"
 
+REFERENCE            sticky_grenade
+LANG_ENGLISH         "Semtex"
+
 REFERENCE            stock_attachment
 LANG_ENGLISH         "Stock"
 
 REFERENCE            strike_marker
 LANG_ENGLISH         "Strike Marker"
+
+REFERENCE            stun_grenade
+LANG_ENGLISH         "Stun Grenade"
+
+REFERENCE            stun_grenade_desc
+LANG_ENGLISH         "Disorients enemies and slows movement. Detonates shortly after impact."
 
 REFERENCE            subclass
 LANG_ENGLISH         "&&1 &&2"
@@ -4705,6 +5143,20 @@ LANG_ENGLISH         "Hotel"
 REFERENCE            subclass_id_9
 LANG_ENGLISH         "India"
 
+REFERENCE            supply_drop
+LANG_ENGLISH         "Care Package"
+
+REFERENCE            supply_drop_desc
+LANG_ENGLISH         "Airdrop a random Scorestreak. Crate self-destructs after use. Cooldown: 90 sec"
+
+REFERENCE            supply_pod
+LANG_ENGLISH         "Assault Pack"
+
+REFERENCE            supply_pod_desc
+LANG_ENGLISH         "Supply cache containing ammo that gives bonus score for taking down enemies.
+
+Recharge Time: 3:15"
+
 REFERENCE            suppressor_l_attachment
 LANG_ENGLISH         "Suppressor (Long)"
 
@@ -4717,11 +5169,25 @@ LANG_ENGLISH         ""
 REFERENCE            tactical_attachment
 LANG_ENGLISH         "Tactical Knife"
 
+REFERENCE            tank_robot
+LANG_ENGLISH         "Mantis"
+
+REFERENCE            tank_robot_desc
+LANG_ENGLISH         "Heavily armored quadrupedal combat robot. Can be remote controlled. "
+
 REFERENCE            target_not_enough_clearance
 LANG_ENGLISH         "Not Enough Room To Fire"
 
 REFERENCE            target_too_close
 LANG_ENGLISH         "Too Close to Target"
+
+REFERENCE            tear_gas
+LANG_ENGLISH         "Gas Mine"
+
+REFERENCE            tear_gas_desc
+LANG_ENGLISH         "Proximity activated trap that expels a large cloud of harmful gas. Damages and disorients enemies.
+
+Recharge Time: 2:00"
 
 REFERENCE            teargas
 LANG_ENGLISH         "Tear Gas"
@@ -4741,11 +5207,20 @@ LANG_ENGLISH         "Thermobaric Grenade"
 REFERENCE            throwing_axe
 LANG_ENGLISH         "Throwing Axe"
 
+REFERENCE            tomahawk_t8
+LANG_ENGLISH         "Hell's Retriever"
+
 REFERENCE            tracer_16bit
 LANG_ENGLISH         "16-Bit Tracer"
 
+REFERENCE            tracer_acid
+LANG_ENGLISH         "Acid Rounds"
+
 REFERENCE            tracer_amethyst
 LANG_ENGLISH         "Amethyst Tracer"
+
+REFERENCE            tracer_black
+LANG_ENGLISH         "Black Tracer Rounds"
 
 REFERENCE            tracer_blue
 LANG_ENGLISH         "Blue Tracer Rounds"
@@ -4755,6 +5230,9 @@ LANG_ENGLISH         "Cherry Blossom Tracer"
 
 REFERENCE            tracer_crimson_gold
 LANG_ENGLISH         "Crimson & Gold Tracer"
+
+REFERENCE            tracer_crimson_ronin
+LANG_ENGLISH         "Tsubaki Rounds"
 
 REFERENCE            tracer_dark
 LANG_ENGLISH         "Dark Tracer"
@@ -4771,6 +5249,9 @@ LANG_ENGLISH         "Gold Tracer Rounds"
 REFERENCE            tracer_green
 LANG_ENGLISH         "Green Tracer Rounds"
 
+REFERENCE            tracer_ice
+LANG_ENGLISH         "Ice Tracer Rounds"
+
 REFERENCE            tracer_light
 LANG_ENGLISH         "Light Tracer"
 
@@ -4785,6 +5266,9 @@ LANG_ENGLISH         "Pink Tracer Rounds"
 
 REFERENCE            tracer_purple
 LANG_ENGLISH         "Purple Tracer Rounds"
+
+REFERENCE            tracer_rainbow
+LANG_ENGLISH         "Rainbow Tracer Rounds"
 
 REFERENCE            tracer_red
 LANG_ENGLISH         "Red Tracer Rounds"
@@ -4803,6 +5287,14 @@ LANG_ENGLISH         "Yellow Tracer Rounds"
 
 REFERENCE            trophy
 LANG_ENGLISH         "Trophy System"
+
+REFERENCE            trophy_system
+LANG_ENGLISH         "Trophy System"
+
+REFERENCE            trophy_system_desc
+LANG_ENGLISH         "Destroys thrown enemy equipment and launcher missiles within 10 meters. 
+
+Recharge Time: 1:20"
 
 REFERENCE            two_headed_axe
 LANG_ENGLISH         "Two-Headed Axe"
@@ -4825,6 +5317,18 @@ LANG_ENGLISH         "Deputy"
 REFERENCE            udm45
 LANG_ENGLISH         "UDM"
 
+REFERENCE            ultimate_swat_team
+LANG_ENGLISH         "Strike Team"
+
+REFERENCE            ultimate_swat_team_desc
+LANG_ENGLISH         "Two elite armored soldiers drop in from a chopper to clear a position. Command them to move by holding ^3[{+activate}]^7."
+
+REFERENCE            ultimate_turret
+LANG_ENGLISH         "Sentry Turret"
+
+REFERENCE            ultimate_turret_desc
+LANG_ENGLISH         "Deploy a deadly automated turret that targets enemy players, vehicles, and equipment. Cooldown: 60 sec"
+
 REFERENCE            ump45
 LANG_ENGLISH         "HVR"
 
@@ -4846,8 +5350,26 @@ LANG_ENGLISH         "X-Eon"
 REFERENCE            vzscope_attachment
 LANG_ENGLISH         "Variable Zoom"
 
+REFERENCE            water_balloon
+LANG_ENGLISH         "Water Balloon"
+
+REFERENCE            water_balloon_desc
+LANG_ENGLISH         "A bright balloon filled with water and summer joy."
+
 REFERENCE            weapondrop_marker
 LANG_ENGLISH         "Weapon Drop Marker"
+
+REFERENCE            willy_pete
+LANG_ENGLISH         "Smoke Grenade"
+
+REFERENCE            willy_pete_desc
+LANG_ENGLISH         "Produces a smoke screen on impact."
+
+REFERENCE            wraith_fire
+LANG_ENGLISH         "Wraith Fire"
+
+REFERENCE            wraith_fire_desc
+LANG_ENGLISH         "Blue alchemical flame that burns unnatural terrors, but not people."
 
 REFERENCE            xmags_attachment
 LANG_ENGLISH         "Extended Mags"

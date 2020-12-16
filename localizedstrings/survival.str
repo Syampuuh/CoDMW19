@@ -1,0 +1,12 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            self_revive_description
+LANG_ENGLISH         "Use to self revive when downed"
+
+REFERENCE            self_revive_title
+LANG_ENGLISH         "Self-Revive"
+
+
+ENDMARKER

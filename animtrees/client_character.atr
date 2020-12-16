@@ -143,6 +143,7 @@ main_clientcharacter
 	fe_operator_select_confirm_kyle_01
 	fe_operator_select_confirm_price_01
 	fe_operator_select_confirm_roze_01
+	fe_operator_select_confirm_roze_02
 	fe_operator_select_confirm_lerch_01
 	fe_operator_select_confirm_kotus_01
 	fe_operator_select_confirm_woods_01
@@ -152,6 +153,8 @@ main_clientcharacter
 	fe_operator_select_confirm_nikolai_02
 	fe_operator_select_confirm_nikolai_03
 	fe_operator_select_confirm_griggs_01
+	fe_operator_select_confirm_soap_01
+	fe_operator_select_confirm_sparks_01
 	
 	// T9 Operators
 	fe_operator_select_confirm_cuban_01
@@ -167,7 +170,10 @@ main_clientcharacter
 	fe_operator_select_confirm_t9st4_01
 	fe_operator_select_confirm_t9st5_01
 	fe_operator_select_confirm_mi6fem_01
-	
+  fe_operator_select_confirm_bulldozer_01
+  fe_operator_select_confirm_stitch_01
+  fe_operator_select_confirm_zeyna_01
+	fe_operator_select_confirm_esports_western_01
 
 	// Quartermaster Crate
 	mp_military_carepackage_common_landing
@@ -241,6 +247,11 @@ main_clientcharacter
 		mp_fingers_pi_mike9_l
 		mp_fingers_pi_mike9_vertgrip_l
 		mp_fingers_pi_mike9_stock_l
+		mp_fingers_pi_mike_l
+		mp_fingers_pi_t9burst_l
+		mp_fingers_pi_t9semiauto_l
+		mp_fingers_pi_t9revolver_l
+		mp_fingers_pi_t9revolver_akimbo_l
 		
 //IW8 - SMGs
 
@@ -283,6 +294,32 @@ main_clientcharacter
 		mp_fingers_sm_charlie9_gripvert_l	
 		mp_fingers_sm_charlie9_gripvertpro_l
 		mp_fingers_sm_charlie9_griphip_l
+		
+		mp_fingers_sm_secho_l
+		mp_fingers_sm_secho_l_gripang
+		mp_fingers_sm_secho_l_griphip
+		mp_fingers_sm_secho_l_gripvert
+		mp_fingers_sm_secho_l_gripvertpro
+		
+		mp_fingers_sm_t9capacity_l
+		
+		mp_fingers_sm_t9burst_l
+		mp_fingers_sm_t9burst_l_grip
+		
+		mp_fingers_sm_t9handling_l
+		mp_fingers_sm_t9handling_l_grip
+		
+		mp_fingers_sm_t9heavy_l
+		mp_fingers_sm_t9heavy_l_grip
+		
+		mp_fingers_sm_t9fastfire_l
+		mp_fingers_sm_t9fastfire_l_grip
+		
+		mp_fingers_sm_t9standard_l
+		mp_fingers_sm_t9standard_l_grip
+		
+		mp_fingers_sm_t9powerburst_l
+		mp_fingers_sm_t9powerburst_l_grip
 		
 //IW8 - ARs
 
@@ -399,11 +436,28 @@ main_clientcharacter
 		mp_fingers_ar_valpha_gripang_l
 		mp_fingers_ar_valpha_griphip_l
 		
+		mp_fingers_ar_t9accurate_l
+		mp_fingers_ar_t9accurate_l_grip
+		
 		mp_fingers_ar_t9standard_l
 		mp_fingers_ar_t9standard_l_grip
-		mp_fingers_ar_t9standard_r
-		mp_fingers_ar_t9standard_r_safe
-	
+		
+		mp_fingers_ar_t9mobility_l
+		mp_fingers_ar_t9mobility_l_grip
+		
+		mp_fingers_ar_t9longburst_l
+		mp_fingers_ar_t9longburst_l_grip
+
+		mp_fingers_ar_t9fasthandling_l
+		mp_fingers_ar_t9fasthandling_l_grip
+		
+		mp_fingers_ar_t9damage_l
+		mp_fingers_ar_t9damage_l_grip
+		
+		mp_fingers_ar_t9fastfire_l
+		mp_fingers_ar_t9fastfire_l_grip
+		
+		
 		
 //IW8 - Launchers
 		
@@ -416,6 +470,12 @@ main_clientcharacter
 		mp_fingers_la_mike32_l
 		
 		mp_fingers_la_kgolf_l
+		
+		mp_fingers_la_t9freefire_l
+		
+		mp_fingers_la_t9launcher_l
+		
+		mp_fingers_la_t9standard_l
 		
 //IW8 - Snipers
 
@@ -455,6 +515,21 @@ main_clientcharacter
 		mp_fingers_sn_romeo700_l_gripang
 		mp_fingers_sn_romeo700_l_griphip
 		
+		mp_fingers_sn_t9quickscope_l
+		mp_fingers_sn_t9quickscope_l_grip
+		
+		mp_fingers_sn_t9standard_l
+		mp_fingers_sn_t9standard_l_grip
+		
+		mp_fingers_sn_t9powersemi_l
+		mp_fingers_sn_t9powersemi_l_grip
+		
+		mp_fingers_sn_t9damagesemi_l
+		mp_fingers_sn_t9damagesemi_l_grip
+		
+		mp_fingers_sn_t9precisionsemi_l
+		mp_fingers_sn_t9precisionsemi_l_grip
+		
 //IW8 - Shotguns	
 		
 		mp_fingers_sh_dpapa12_l
@@ -483,6 +558,14 @@ main_clientcharacter
 		mp_fingers_sh_aalpha12_l
 		mp_fingers_sh_aalpha12_gripang_l
 		mp_fingers_sh_aalpha12_gripvert_l
+		
+		mp_fingers_sh_t9semiauto_l
+		mp_fingers_sh_t9semiauto_l_grip
+		
+		mp_fingers_sh_t9fullauto_l
+		
+		mp_fingers_sh_t9pump_l
+		mp_fingers_sh_t9pump_l_grip
 
 //IW8 - LMGs
 
@@ -518,11 +601,22 @@ main_clientcharacter
 		mp_fingers_lm_sierrax_l_gripvert
 		mp_fingers_lm_sierrax_l_stocksaw
 		
+		mp_fingers_lm_t9accurate_l
+		mp_fingers_lm_t9accurate_l_grip
+		mp_fingers_lm_t9accurate_r
+		mp_fingers_lm_t9accurate_r_safe
+		
 		mp_fingers_lm_dblmg_l	
 		
 		mp_fingers_mobile_turret_deploy_l
-
+		
 		sdr_mp_fingers_me_riotshield_l
+		
+		mp_fingers_lm_t9rpapa_l
+		mp_fingers_lm_t9rpapa_l_grip
+		
+		mp_fingers_lm_t9slowfire_l
+		mp_fingers_lm_t9slowfire_l_grip
 
 	}
 
@@ -550,6 +644,16 @@ main_clientcharacter
 		mp_fingers_pi_mike9_stock_r_safe
 		mp_fingers_pi_mike9_vertgrip_r
 		mp_fingers_pi_mike9_vertgrip_r_safe
+		mp_fingers_pi_mike_r
+		mp_fingers_pi_mike_r_safe
+		mp_fingers_pi_t9burst_r
+		mp_fingers_pi_t9burst_r_safe
+		mp_fingers_pi_t9semiauto_r
+		mp_fingers_pi_t9semiauto_r_safe
+		mp_fingers_pi_t9revolver_r
+		mp_fingers_pi_t9revolver_r_safe
+		mp_fingers_pi_t9revolver_akimbo_r
+		
 		
 //IW8 - SMGs
 
@@ -579,6 +683,30 @@ main_clientcharacter
 		
 		mp_fingers_sm_charlie9_r
 		mp_fingers_sm_charlie9_r_safe
+		
+		mp_fingers_sm_secho_r
+		mp_fingers_sm_secho_r_safe
+		
+		mp_fingers_sm_t9capacity_r
+		mp_fingers_sm_t9capacity_r_safe
+		
+		mp_fingers_sm_t9burst_r
+		mp_fingers_sm_t9burst_r_safe
+		
+		mp_fingers_sm_t9handling_r
+		mp_fingers_sm_t9handling_r_safe
+		
+		mp_fingers_sm_t9heavy_r
+		mp_fingers_sm_t9heavy_r_safe
+		
+		mp_fingers_sm_t9fastfire_r
+		mp_fingers_sm_t9fastfire_r_safe
+		
+		mp_fingers_sm_t9standard_r
+		mp_fingers_sm_t9standard_r_safe
+		
+		mp_fingers_sm_t9powerburst_r
+		mp_fingers_sm_t9powerburst_r_safe
 		
 //IW8 - ARs
 
@@ -621,7 +749,33 @@ main_clientcharacter
 		mp_fingers_ar_anovember94_r_safe
 		
 		mp_fingers_ar_valpha_r
-		mp_fingers_ar_valpha_r_safe	
+		mp_fingers_ar_valpha_r_safe
+		
+		mp_fingers_ar_t9accurate_r
+		mp_fingers_ar_t9accurate_r_safe
+		
+		mp_fingers_ar_t9standard_r
+		mp_fingers_ar_t9standard_r_safe
+		
+		
+		mp_fingers_ar_t9mobility_r
+		mp_fingers_ar_t9mobility_r_safe
+		
+		
+		mp_fingers_ar_t9longburst_r
+		mp_fingers_ar_t9longburst_r_safe
+		
+		
+		mp_fingers_ar_t9fasthandling_r
+		mp_fingers_ar_t9fasthandling_r_safe
+		
+		
+		mp_fingers_ar_t9damage_r
+		mp_fingers_ar_t9damage_r_safe
+		
+		
+		mp_fingers_ar_t9fastfire_r
+		mp_fingers_ar_t9fastfire_r_safe
 
 //IW8 - Launchers		
 
@@ -638,6 +792,15 @@ main_clientcharacter
 		
 		mp_fingers_la_kgolf_r
 		mp_fingers_la_kgolf_r_safe
+		
+		mp_fingers_la_t9freefire_r
+		mp_fingers_la_t9freefire_r_safe
+		
+		mp_fingers_la_t9launcher_r
+		mp_fingers_la_t9launcher_r_safe
+		
+		mp_fingers_la_t9standard_r
+		mp_fingers_la_t9standard_r_safe
 		
 //IW8 - Snipers
 
@@ -679,6 +842,21 @@ main_clientcharacter
 		mp_fingers_sn_romeo700_r_pistolgrip
 		mp_fingers_sn_romeo700_r_pistolgrip_safe
 		
+		mp_fingers_sn_t9quickscope_r
+		mp_fingers_sn_t9quickscope_r_safe
+		
+		mp_fingers_sn_t9standard_r
+		mp_fingers_sn_t9standard_r_safe
+		
+		mp_fingers_sn_t9powersemi_r
+		mp_fingers_sn_t9powersemi_r_safe
+		
+		mp_fingers_sn_t9damagesemi_r
+		mp_fingers_sn_t9damagesemi_r_safe
+		
+		mp_fingers_sn_t9precisionsemi_r
+		mp_fingers_sn_t9precisionsemi_r_safe
+		
 //IW8 - Shotguns
 
 		mp_fingers_sh_dpapa12_r
@@ -699,7 +877,16 @@ main_clientcharacter
 		mp_fingers_sh_mike26_r_safe
 		
 		mp_fingers_sh_aalpha12_r
-		mp_fingers_sh_aalpha12_r_safe		
+		mp_fingers_sh_aalpha12_r_safe
+		
+		mp_fingers_sh_t9semiauto_r
+		mp_fingers_sh_t9semiauto_r_safe
+		
+		mp_fingers_sh_t9fullauto_r
+		mp_fingers_sh_t9fullauto_r_safe
+
+		mp_fingers_sh_t9pump_r
+		mp_fingers_sh_t9pump_r_safe
 		
 //IW8 - LMGs
 
@@ -727,8 +914,14 @@ main_clientcharacter
 		mp_fingers_lm_sierrax_r_safe
 		mp_fingers_lm_sierrax_r_stocksaw
 		mp_fingers_lm_sierrax_r_stocksaw_safe
-
+		
 		mp_fingers_mobile_turret_deploy_r
+		
+		mp_fingers_lm_t9rpapa_r
+		mp_fingers_lm_t9rpapa_r_safe
+		
+		mp_fingers_lm_t9slowfire_r
+		mp_fingers_lm_t9slowfire_r_safe
 		
 //IW8 - Riotshield
 

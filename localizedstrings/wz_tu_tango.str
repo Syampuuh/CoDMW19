@@ -1,0 +1,81 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            two_game_bundle_w_exclusive_item_detail_text
+LANG_ENGLISH         "This bundle contains exclusive content that can only be equipped in &&1. Most content can be equipped in &&2."
+
+REFERENCE            two_game_bundle_detail_text
+LANG_ENGLISH         "All items in this bundle can be equipped in &&1 and &&2 only. Items from this bundle cannot be equipped in &&3."
+
+REFERENCE            tier_skips_available
+LANG_ENGLISH         "Tier Skips Available"
+
+REFERENCE            tier_skip_rewards
+LANG_ENGLISH         "Tier Skip Rewards"
+
+REFERENCE            tier_skip_reward_desc
+LANG_ENGLISH         "Complete a challenge in any mode to earn an available Tier Skip."
+
+REFERENCE            reward_type
+LANG_ENGLISH         "Reward Type"
+
+REFERENCE            reserve_challenges
+LANG_ENGLISH         "Reserve Challenges"
+
+REFERENCE            replace_all_challenges
+LANG_ENGLISH         "Replace All Challenges"
+
+REFERENCE            progessable_message
+LANG_ENGLISH         "Only Progressable in &&1."
+
+REFERENCE            prestige_key
+LANG_ENGLISH         "Prestige Key"
+
+REFERENCE            premium_pass_owned
+LANG_ENGLISH         "Premium Pass Owned"
+
+REFERENCE            one_game_exclusive_bundle_detail_text
+LANG_ENGLISH         "This bundle contains exclusive content that can only be equipped in &&1."
+
+REFERENCE            loot_item_name
+LANG_ENGLISH         "Loot Item Name"
+
+REFERENCE            game_item_exclusive_text
+LANG_ENGLISH         "&&1 Exclusive Item"
+
+REFERENCE            game_bundle_exclusive_text
+LANG_ENGLISH         "&&1 Bundle Exclusive"
+
+REFERENCE            exclusive_bundle_text
+LANG_ENGLISH         "All items can only be equipped in &&1."
+
+REFERENCE            daily_reward_desc
+LANG_ENGLISH         "Complete a challenge in any mode to earn this reward."
+
+REFERENCE            daily_reward
+LANG_ENGLISH         "Daily Reward"
+
+REFERENCE            challenges_reserved_x
+LANG_ENGLISH         "Challenges Reserved: &&1"
+
+REFERENCE            challenges_reserved
+LANG_ENGLISH         "Challenges Reserved"
+
+REFERENCE            challenges_banked_x
+LANG_ENGLISH         "Challenges Banked: &&1"
+
+REFERENCE            bundle_w_exclusive_item_text
+LANG_ENGLISH         "Equipped across &&1 & &&2 unless noted otherwise on item card."
+
+REFERENCE            bundle_text
+LANG_ENGLISH         "Equipped in &&1 & &&2."
+
+REFERENCE            black_ops
+LANG_ENGLISH         "Black Ops"
+
+REFERENCE            all_operators
+LANG_ENGLISH         "All Operators"
+
+
+ENDMARKER

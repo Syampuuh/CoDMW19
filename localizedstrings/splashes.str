@@ -396,7 +396,7 @@ REFERENCE            rested
 LANG_ENGLISH         "Daily XP Boost!"
 
 REFERENCE            reinforcement_closing
-LANG_ENGLISH         "Rebirth ending soon"
+LANG_ENGLISH         "Rebirth will be disabled soon"
 
 REFERENCE            refresh_kill_single_desc
 LANG_ENGLISH         "ONE more kill until Refresh!"
@@ -1103,6 +1103,9 @@ LANG_ENGLISH         "Eliminated an Enemy"
 
 REFERENCE            eliminated
 LANG_ENGLISH         "Eliminated!"
+
+REFERENCE            ekia
+LANG_ENGLISH         "Elimination"
 
 REFERENCE            eight_kill_short
 LANG_ENGLISH         "8x Multi-Kill"
@@ -2123,7 +2126,7 @@ REFERENCE            br_attraction_racetrack_1_star
 LANG_ENGLISH         "Race Complete 1 Star"
 
 REFERENCE            br_atlantis_first_teammate_dead
-LANG_ENGLISH         "Survive the Rebirth delay"
+LANG_ENGLISH         "Survive the Rebirth countdown"
 
 REFERENCE            br_airdrop_landed
 LANG_ENGLISH         "Loadout Drop Landed"
@@ -2376,7 +2379,8 @@ REFERENCE            assist_cranked
 LANG_ENGLISH         "Assist Time Bonus"
 
 REFERENCE            assist
-LANG_ENGLISH         "Assist"
+LANG_ENGLISH         "Assist
+Elimination"
 
 REFERENCE            assault_desc
 LANG_ENGLISH         "You killed a defender."

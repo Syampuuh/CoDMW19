@@ -1,0 +1,261 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            category_t9tier7
+LANG_ENGLISH         "Psychedelic"
+
+REFERENCE            category_t9tier6
+LANG_ENGLISH         "Science"
+
+REFERENCE            category_t9tier5
+LANG_ENGLISH         "Flora"
+
+REFERENCE            category_t9tier4
+LANG_ENGLISH         "Geometric"
+
+REFERENCE            category_t9tier3
+LANG_ENGLISH         "Classic"
+
+REFERENCE            category_t9tier2
+LANG_ENGLISH         "Stripes"
+
+REFERENCE            category_t9tier1
+LANG_ENGLISH         "Spray"
+
+REFERENCE            category_mastery
+LANG_ENGLISH         "Mastery"
+
+REFERENCE            camo_zm_t9tier7_05
+LANG_ENGLISH         "Tier7_zm_05"
+
+REFERENCE            camo_zm_t9tier7_04b
+LANG_ENGLISH         "Tier7_zm_04b"
+
+REFERENCE            camo_zm_t9tier7_04
+LANG_ENGLISH         "Tier7_zm_04"
+
+REFERENCE            camo_zm_t9tier7_03
+LANG_ENGLISH         "Tier7_zm_03"
+
+REFERENCE            camo_zm_t9tier7_02
+LANG_ENGLISH         "Tier7_zm_02"
+
+REFERENCE            camo_zm_t9tier7_01
+LANG_ENGLISH         "Tier7_zm_01"
+
+REFERENCE            camo_zm_t9tier6_05
+LANG_ENGLISH         "Tier6_zm_05"
+
+REFERENCE            camo_zm_t9tier6_04
+LANG_ENGLISH         "Tier6_zm_04"
+
+REFERENCE            camo_zm_t9tier6_03
+LANG_ENGLISH         "Tier6_zm_03"
+
+REFERENCE            camo_zm_t9tier6_02
+LANG_ENGLISH         "Tier6_zm_02"
+
+REFERENCE            camo_zm_t9tier6_01
+LANG_ENGLISH         "Tier6_zm_01"
+
+REFERENCE            camo_zm_t9tier5_05
+LANG_ENGLISH         "Tier5_zm_05"
+
+REFERENCE            camo_zm_t9tier5_04
+LANG_ENGLISH         "Tier5_zm_04"
+
+REFERENCE            camo_zm_t9tier5_03
+LANG_ENGLISH         "Tier5_zm_03"
+
+REFERENCE            camo_zm_t9tier5_02
+LANG_ENGLISH         "Tier5_zm_02"
+
+REFERENCE            camo_zm_t9tier5_01
+LANG_ENGLISH         "Tier5_zm_01"
+
+REFERENCE            camo_zm_t9tier4_05
+LANG_ENGLISH         "Tier4_zm_05"
+
+REFERENCE            camo_zm_t9tier4_04
+LANG_ENGLISH         "Tier4_zm_04"
+
+REFERENCE            camo_zm_t9tier4_03
+LANG_ENGLISH         "Tier4_zm_03"
+
+REFERENCE            camo_zm_t9tier4_02
+LANG_ENGLISH         "Tier4_zm_02"
+
+REFERENCE            camo_zm_t9tier4_01
+LANG_ENGLISH         "Tier4_zm_01"
+
+REFERENCE            camo_zm_t9tier3_05
+LANG_ENGLISH         "Tier3_zm_05"
+
+REFERENCE            camo_zm_t9tier3_04
+LANG_ENGLISH         "Tier3_zm_04"
+
+REFERENCE            camo_zm_t9tier3_03
+LANG_ENGLISH         "Tier3_zm_03"
+
+REFERENCE            camo_zm_t9tier3_02
+LANG_ENGLISH         "Tier3_zm_02"
+
+REFERENCE            camo_zm_t9tier3_01
+LANG_ENGLISH         "Tier3_zm_01"
+
+REFERENCE            camo_zm_t9tier2_05
+LANG_ENGLISH         "Tier2_zm_05"
+
+REFERENCE            camo_zm_t9tier2_04
+LANG_ENGLISH         "Tier2_zm_04"
+
+REFERENCE            camo_zm_t9tier2_03
+LANG_ENGLISH         "Tier2_zm_03"
+
+REFERENCE            camo_zm_t9tier2_02
+LANG_ENGLISH         "Tier2_zm_02"
+
+REFERENCE            camo_zm_t9tier2_01
+LANG_ENGLISH         "Tier2_zm_01"
+
+REFERENCE            camo_zm_t9tier1_05
+LANG_ENGLISH         "Tier1_zm_05"
+
+REFERENCE            camo_zm_t9tier1_04
+LANG_ENGLISH         "Tier1_zm_04"
+
+REFERENCE            camo_zm_t9tier1_03
+LANG_ENGLISH         "Tier1_zm_03"
+
+REFERENCE            camo_zm_t9tier1_02
+LANG_ENGLISH         "Tier1_zm_02"
+
+REFERENCE            camo_zm_t9tier1_01
+LANG_ENGLISH         "Tier1_zm_01"
+
+REFERENCE            camo_t9secondary
+LANG_ENGLISH         "Secondary"
+
+REFERENCE            camo_t9primary
+LANG_ENGLISH         "Gold"
+
+REFERENCE            camo_t9diamond_zm
+LANG_ENGLISH         "Diamond_zm"
+
+REFERENCE            camo_t9diamond_mp
+LANG_ENGLISH         "Diamond"
+
+REFERENCE            camo_t9darkmatter_zm
+LANG_ENGLISH         "Darkmatter_zm"
+
+REFERENCE            camo_t9darkmatter_mp
+LANG_ENGLISH         "DM Ultra"
+
+REFERENCE            camo_mp_t9tier7_05
+LANG_ENGLISH         "Bliss"
+
+REFERENCE            camo_mp_t9tier7_04
+LANG_ENGLISH         "Melancholy"
+
+REFERENCE            camo_mp_t9tier7_03
+LANG_ENGLISH         "Blush"
+
+REFERENCE            camo_mp_t9tier7_02
+LANG_ENGLISH         "Seducer"
+
+REFERENCE            camo_mp_t9tier7_01
+LANG_ENGLISH         "Groovy"
+
+REFERENCE            camo_mp_t9tier6_05
+LANG_ENGLISH         "Policia"
+
+REFERENCE            camo_mp_t9tier6_04
+LANG_ENGLISH         "Integer"
+
+REFERENCE            camo_mp_t9tier6_03
+LANG_ENGLISH         "Decipher"
+
+REFERENCE            camo_mp_t9tier6_02
+LANG_ENGLISH         "Cosmonaut"
+
+REFERENCE            camo_mp_t9tier6_01
+LANG_ENGLISH         "Teleport"
+
+REFERENCE            camo_mp_t9tier5_05
+LANG_ENGLISH         "Cherry Blossom"
+
+REFERENCE            camo_mp_t9tier5_04
+LANG_ENGLISH         "Lumber"
+
+REFERENCE            camo_mp_t9tier5_03
+LANG_ENGLISH         "Nectar"
+
+REFERENCE            camo_mp_t9tier5_02
+LANG_ENGLISH         "Old Growth"
+
+REFERENCE            camo_mp_t9tier5_01
+LANG_ENGLISH         "Frith"
+
+REFERENCE            camo_mp_t9tier4_05
+LANG_ENGLISH         "Bloodline"
+
+REFERENCE            camo_mp_t9tier4_04
+LANG_ENGLISH         "Fraction"
+
+REFERENCE            camo_mp_t9tier4_03
+LANG_ENGLISH         "Transform"
+
+REFERENCE            camo_mp_t9tier4_02
+LANG_ENGLISH         "Warsaw"
+
+REFERENCE            camo_mp_t9tier4_01
+LANG_ENGLISH         "Blockade"
+
+REFERENCE            camo_mp_t9tier3_05
+LANG_ENGLISH         "Ransom"
+
+REFERENCE            camo_mp_t9tier3_04
+LANG_ENGLISH         "Coercion"
+
+REFERENCE            camo_mp_t9tier3_03
+LANG_ENGLISH         "Checkpoint"
+
+REFERENCE            camo_mp_t9tier3_02
+LANG_ENGLISH         "Ash"
+
+REFERENCE            camo_mp_t9tier3_01
+LANG_ENGLISH         "Platoon"
+
+REFERENCE            camo_mp_t9tier2_05
+LANG_ENGLISH         "Bengal"
+
+REFERENCE            camo_mp_t9tier2_04
+LANG_ENGLISH         "Thrash"
+
+REFERENCE            camo_mp_t9tier2_03
+LANG_ENGLISH         "Frost"
+
+REFERENCE            camo_mp_t9tier2_02
+LANG_ENGLISH         "Graze"
+
+REFERENCE            camo_mp_t9tier2_01
+LANG_ENGLISH         "Gravel"
+
+REFERENCE            camo_mp_t9tier1_05
+LANG_ENGLISH         "Prosper"
+
+REFERENCE            camo_mp_t9tier1_04
+LANG_ENGLISH         "Debris"
+
+REFERENCE            camo_mp_t9tier1_03
+LANG_ENGLISH         "Frozen Lake"
+
+REFERENCE            camo_mp_t9tier1_02
+LANG_ENGLISH         "Ambush"
+
+REFERENCE            camo_mp_t9tier1_01
+LANG_ENGLISH         "Shards"
+
+
+ENDMARKER

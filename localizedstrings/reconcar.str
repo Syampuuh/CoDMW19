@@ -1,0 +1,12 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            desc
+LANG_ENGLISH         "Remote-controlled car strapped with explosives. Cooldown: 90 sec"
+
+REFERENCE            name
+LANG_ENGLISH         "RC-XD"
+
+
+ENDMARKER

@@ -84,6 +84,5 @@ itemCache,brloot_domination_tablet,mp/loot/br/default/longrange/lootset_contract
 itemCache,brloot_scavenger_tablet,mp/loot/br/default/longrange/lootset_contract_scav1.csv,mp/loot/br/default/longrange/lootset_contract_scav2.csv,mp/loot/br/default/longrange/lootset_contract_scav3.csv,,
 itemCache,brloot_vip_tablet,mp/loot/br/default/longrange/lootset_contract_asn.csv,,,,
 itemCache,brloot_timedrun_tablet,mp/loot/br/default/longrange/lootset_contract_asn.csv,,,,
-itemCache,brloot_geigerstash_tablet,mp/loot/br/default/longrange/lootset_contract_scav1.csv,,,,
 itemCache,brloot_blueprintextract_tablet,mp/loot/br/default/longrange/lootset_contract_asn.csv,,,,
 scriptCache,pe_chopper_crate,mp/loot/br/default/longrange/lootset_cache_pe_chop.csv,10,,,

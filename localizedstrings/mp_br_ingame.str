@@ -248,6 +248,30 @@ LANG_ENGLISH         "Run and Gun"
 REFERENCE            br_default_class_5
 LANG_ENGLISH         "One Shot"
 
+REFERENCE            br_default_t9class_1
+LANG_ENGLISH         "AR LMG"
+
+REFERENCE            br_default_t9class_2
+LANG_ENGLISH         "AR SMG"
+
+REFERENCE            br_default_t9class_3
+LANG_ENGLISH         "SMG AR"
+
+REFERENCE            br_default_t9class_4
+LANG_ENGLISH         "AR SMG"
+
+REFERENCE            br_default_t9class_5
+LANG_ENGLISH         "SNIPER PISTOL"
+
+REFERENCE            br_default_t9class_6
+LANG_ENGLISH         "Knife"
+
+REFERENCE            br_default_t9class_7
+LANG_ENGLISH         "LW3 Tundra"
+
+REFERENCE            br_default_t9class_8
+LANG_ENGLISH         "M16a2"
+
 REFERENCE            br_defeat
 LANG_ENGLISH         "Mission Completed"
 
@@ -794,6 +818,9 @@ LANG_ENGLISH         "Juggernaut Armor Drop"
 
 REFERENCE            jump_tac_map_prompt
 LANG_ENGLISH         "Jump To Lock In Landing Zone"
+
+REFERENCE            key_action
+LANG_ENGLISH         "Allies earned score!"
 
 REFERENCE            keypad_control_exit
 LANG_ENGLISH         "[{ui_secondary}] Exit"
@@ -1456,6 +1483,9 @@ LANG_ENGLISH         "Already have a killstreak equipped"
 REFERENCE            plunder_box_error_invalid_loc
 LANG_ENGLISH         "Invalid Location"
 
+REFERENCE            plunder_box_error_jugg_cant_buy
+LANG_ENGLISH         "Cannot purchase while Juggernaut is active."
+
 REFERENCE            plunder_box_error_max_trophy_ammo
 LANG_ENGLISH         "Vehicle trophy system already at max ammo"
 
@@ -1603,8 +1633,14 @@ LANG_ENGLISH         "?? Request New Weapon"
 REFERENCE            rd_place
 LANG_ENGLISH         "&&1rd Place"
 
+REFERENCE            rebirth_closed
+LANG_ENGLISH         "DISABLED"
+
 REFERENCE            rebirth_reinforcement
 LANG_ENGLISH         "Rebirth"
+
+REFERENCE            rebirth_splash_desc
+LANG_ENGLISH         "Allies can shorten your countdown!"
 
 REFERENCE            redeploy
 LANG_ENGLISH         "Redeploy"
@@ -1625,7 +1661,7 @@ REFERENCE            redeployment_gulag_desc
 LANG_ENGLISH         "Released. No More Second Chances"
 
 REFERENCE            redeployment_infos
-LANG_ENGLISH         "Bring back your team mate(s) to life by surviving the Rebirth delay."
+LANG_ENGLISH         "Rebirth brings back you or your allies to life as long as one squad mate survive the Rebirth countdown."
 
 REFERENCE            reinforcement_disabled_banner
 LANG_ENGLISH         "REBIRTH DISABLED"
@@ -1919,7 +1955,7 @@ REFERENCE            timedrun_contract_desc
 LANG_ENGLISH         "Race to the Buy Station"
 
 REFERENCE            timer_teammates_survive
-LANG_ENGLISH         "Teammate must stay alive for..."
+LANG_ENGLISH         "Allies must survive the Rebirth countdown"
 
 REFERENCE            timer_vengeance
 LANG_ENGLISH         "Kill confirmed: Reinforcement incoming"

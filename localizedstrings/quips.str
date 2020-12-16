@@ -158,11 +158,26 @@ LANG_ENGLISH         ""Later.""
 REFERENCE            crowfoot_10
 LANG_ENGLISH         ""Live off the land.""
 
+REFERENCE            crowfoot_2
+LANG_ENGLISH         ""Nice meeting you.""
+
+REFERENCE            crowfoot_3
+LANG_ENGLISH         """Good night.""
+
+REFERENCE            crowfoot_4
+LANG_ENGLISH         ""I honor your strength.""
+
 REFERENCE            crowfoot_5
 LANG_ENGLISH         ""Tell my old man who sent you.""
 
+REFERENCE            crowfoot_6
+LANG_ENGLISH         ""Good journey.""
+
 REFERENCE            crowfoot_7
 LANG_ENGLISH         ""Join the dead.""
+
+REFERENCE            crowfoot_8
+LANG_ENGLISH         ""They're not hard to track""
 
 REFERENCE            crowfoot_9
 LANG_ENGLISH         ""Join your ancestors.""
@@ -318,34 +333,34 @@ REFERENCE            golem_9
 LANG_ENGLISH         ""You gave it your best.""
 
 REFERENCE            griggs_1
-LANG_ENGLISH         "GRIGGS_1"
+LANG_ENGLISH         ""You're done.""
 
 REFERENCE            griggs_10
-LANG_ENGLISH         "GRIGGS_10"
+LANG_ENGLISH         ""Thought you were hot shit, huh?""
 
 REFERENCE            griggs_2
-LANG_ENGLISH         "GRIGGS_2"
+LANG_ENGLISH         ""Fuckin' shitbrick.""
 
 REFERENCE            griggs_3
-LANG_ENGLISH         "GRIGGS_3"
+LANG_ENGLISH         ""I'm just too good.""
 
 REFERENCE            griggs_4
-LANG_ENGLISH         "GRIGGS_4"
+LANG_ENGLISH         ""You had that coming.""
 
 REFERENCE            griggs_5
-LANG_ENGLISH         "GRIGGS_5"
+LANG_ENGLISH         ""You're a mess.""
 
 REFERENCE            griggs_6
-LANG_ENGLISH         "GRIGGS_6"
+LANG_ENGLISH         ""That's what you get.""
 
 REFERENCE            griggs_7
 LANG_ENGLISH         ""That's how it's done!""
 
 REFERENCE            griggs_8
-LANG_ENGLISH         "GRIGGS_8"
+LANG_ENGLISH         ""Like how that shit works?""
 
 REFERENCE            griggs_9
-LANG_ENGLISH         "GRIGGS_9"
+LANG_ENGLISH         ""The better man won today.""
 
 REFERENCE            grinch_1
 LANG_ENGLISH         ""Shh! Don't tell anyone.""
@@ -768,22 +783,22 @@ REFERENCE            rodion_2
 LANG_ENGLISH         ""Too easy.""
 
 REFERENCE            rodion_3
-LANG_ENGLISH         ""Done and dusted.""
+LANG_ENGLISH         ""Next...""
 
 REFERENCE            rodion_4
-LANG_ENGLISH         ""Takes care of that.""
+LANG_ENGLISH         ""Deleted...""
 
 REFERENCE            rodion_5
-LANG_ENGLISH         ""That's enough outta you.""
+LANG_ENGLISH         ""Over too quickly...""
 
 REFERENCE            rodion_6
-LANG_ENGLISH         ""Pleasant dreams.""
+LANG_ENGLISH         ""You wake up, we go again...""
 
 REFERENCE            rodion_7
 LANG_ENGLISH         ""Do Svidaniya.""
 
 REFERENCE            rodion_8
-LANG_ENGLISH         ""Goodbye, good riddance.""
+LANG_ENGLISH         ""You sleep now.""
 
 REFERENCE            rodion_9
 LANG_ENGLISH         ""I think I broke it.""
@@ -825,13 +840,13 @@ REFERENCE            roze_10
 LANG_ENGLISH         ""Didn't see that comin', did ya?""
 
 REFERENCE            roze_2
-LANG_ENGLISH         ""Whew... That one smelled like Greeley???""
+LANG_ENGLISH         ""Whew... That one smelled like Greele...""
 
 REFERENCE            roze_3
-LANG_ENGLISH         ""Almost too easy???""
+LANG_ENGLISH         ""Almost too easy...""
 
 REFERENCE            roze_4
-LANG_ENGLISH         ""Enjoy the dirt nap..""
+LANG_ENGLISH         ""Enjoy the dirt nap...""
 
 REFERENCE            roze_5
 LANG_ENGLISH         ""Sit down, bitch.""
@@ -849,64 +864,64 @@ REFERENCE            roze_9
 LANG_ENGLISH         ""Hardly a challenge.""
 
 REFERENCE            soap_1
-LANG_ENGLISH         "SOAP_1"
+LANG_ENGLISH         ""Ya shithawk...""
 
 REFERENCE            soap_10
-LANG_ENGLISH         "SOAP_10"
+LANG_ENGLISH         ""Pushed your luck...""
 
 REFERENCE            soap_2
-LANG_ENGLISH         "SOAP_2"
+LANG_ENGLISH         ""Bug off!""
 
 REFERENCE            soap_3
-LANG_ENGLISH         "SOAP_3"
+LANG_ENGLISH         ""Bile yir head ya stumur""
 
 REFERENCE            soap_4
-LANG_ENGLISH         "SOAP_4"
+LANG_ENGLISH         ""That'll teach ya.""
 
 REFERENCE            soap_5
-LANG_ENGLISH         "SOAP_5"
+LANG_ENGLISH         ""Lay the fuck down!""
 
 REFERENCE            soap_6
-LANG_ENGLISH         "SOAP_6"
+LANG_ENGLISH         ""Get stuffed!""
 
 REFERENCE            soap_7
-LANG_ENGLISH         "SOAP_7"
+LANG_ENGLISH         ""Off with ya!""
 
 REFERENCE            soap_8
-LANG_ENGLISH         "SOAP_8"
+LANG_ENGLISH         ""Go meet the devil!""
 
 REFERENCE            soap_9
-LANG_ENGLISH         "SOAP_9"
+LANG_ENGLISH         ""Drop dead!""
 
 REFERENCE            sparks_1
-LANG_ENGLISH         "SPARKS_1"
+LANG_ENGLISH         ""Your time was up.""
 
 REFERENCE            sparks_10
-LANG_ENGLISH         "SPARKS_10"
+LANG_ENGLISH         ""Take a dirt nap!""
 
 REFERENCE            sparks_2
-LANG_ENGLISH         "SPARKS_2"
+LANG_ENGLISH         ""Killing season.""
 
 REFERENCE            sparks_3
-LANG_ENGLISH         "SPARKS_3"
+LANG_ENGLISH         ""A clean kill.""
 
 REFERENCE            sparks_4
-LANG_ENGLISH         "SPARKS_4"
+LANG_ENGLISH         ""Fair game.""
 
 REFERENCE            sparks_5
-LANG_ENGLISH         "SPARKS_5"
+LANG_ENGLISH         ""Another wall hanger.""
 
 REFERENCE            sparks_6
-LANG_ENGLISH         "SPARKS_6"
+LANG_ENGLISH         ""You fell prey.""
 
 REFERENCE            sparks_7
-LANG_ENGLISH         "SPARKS_7"
+LANG_ENGLISH         ""Bagged and tagged.""
 
 REFERENCE            sparks_8
-LANG_ENGLISH         "SPARKS_8"
+LANG_ENGLISH         ""Nothin' but a manhunt.""
 
 REFERENCE            sparks_9
-LANG_ENGLISH         "SPARKS_9"
+LANG_ENGLISH         ""You should've trained harder.""
 
 REFERENCE            syd_1
 LANG_ENGLISH         ""Hoo! Damn!""

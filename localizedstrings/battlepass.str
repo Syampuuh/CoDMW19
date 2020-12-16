@@ -128,11 +128,68 @@ LANG_ENGLISH         "Battle Pass Update"
 REFERENCE            become_bp_owner
 LANG_ENGLISH         "Become a Battle Pass owner"
 
+REFERENCE            blops_upsell_popup_cw_rewards_1
+LANG_ENGLISH         "^/Call of Duty: Black Ops Cold War"
+
+REFERENCE            blops_upsell_popup_cw_rewards_2
+LANG_ENGLISH         "^/'Confrontation' Weapons Pack"
+
+REFERENCE            blops_upsell_popup_cw_rewards_3
+LANG_ENGLISH         "^7+20% XP Boost^/ When Playing Cold War"
+
+REFERENCE            blops_upsell_popup_cw_rewards_additional_text
+LANG_ENGLISH         "^7Additional Text"
+
+REFERENCE            blops_upsell_popup_cw_rewards_title
+LANG_ENGLISH         "Call of Duty: Black Ops Cold War Rewards"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_1
+LANG_ENGLISH         "Assault Rifle"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_1_subtitle
+LANG_ENGLISH         "Old Faithful"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_2
+LANG_ENGLISH         "WOODS Skin"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_2_subtitle
+LANG_ENGLISH         "Frank Woods"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_3
+LANG_ENGLISH         "Operator"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_3_subtitle
+LANG_ENGLISH         "WOODS"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_4
+LANG_ENGLISH         "WOODS Quip"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_4_subtitle
+LANG_ENGLISH         "Down You Go"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_5
+LANG_ENGLISH         "Operator Finishing Move"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_5_subtitle
+LANG_ENGLISH         "Payback"
+
+REFERENCE            blops_upsell_popup_mwwz_rewards_title
+LANG_ENGLISH         "Call of Duty: Modern Warfare and Warzone Rewards"
+
+REFERENCE            blops_upsell_popup_note
+LANG_ENGLISH         "^+Note: ^7A space for any additional notes needed on this upsell window"
+
+REFERENCE            blops_upsell_popup_title
+LANG_ENGLISH         "Preview - Call of Duty: Black Ops Cold War"
+
 REFERENCE            blueprint_with_type
 LANG_ENGLISH         "Blueprint (&&1)"
 
 REFERENCE            bonus
 LANG_ENGLISH         "Instant Reward"
+
+REFERENCE            buy_cold_war
+LANG_ENGLISH         "Buy Black Ops"
 
 REFERENCE            buy_tiers
 LANG_ENGLISH         "Buy Tiers"
@@ -186,10 +243,10 @@ REFERENCE            confirm_bonus
 LANG_ENGLISH         "Confirm Bonus"
 
 REFERENCE            cp_discount_desc
-LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 Battle Pass you will have earned enough COD Points to buy future Battle Passes at ^3&&4% discount!^7"
+LANG_ENGLISH         "Congratulations! You have progressed enough in &&1 that if you purchase the &&2 Battle Pass you will have earned enough COD Points to buy future Battle Passes at ^3&&3% discount!^7"
 
 REFERENCE            cp_free_desc
-LANG_ENGLISH         "Congratulations! You have progressed enough in Season &&1 that if you purchase the Season &&2 Battle Pass you will have earned enough COD Points to buy future Battle Passes ^3FOR FREE!^7"
+LANG_ENGLISH         "Congratulations! You have progressed enough in &&1 that if you purchase the &&2 Battle Pass you will have earned enough COD Points to buy future Battle Passes ^3FOR FREE!^7"
 
 REFERENCE            current_tier
 LANG_ENGLISH         "Current Tier: &&1"
@@ -211,6 +268,9 @@ LANG_ENGLISH         "&&1% Extra Value"
 
 REFERENCE            error_already_own
 LANG_ENGLISH         "You already own the Battle Pass."
+
+REFERENCE            exclusively_usable_in
+LANG_ENGLISH         "Exclusively usable in:"
 
 REFERENCE            extra_tiers
 LANG_ENGLISH         "+&&1 Tiers"
@@ -240,7 +300,7 @@ REFERENCE            hide_reward_details
 LANG_ENGLISH         "[{ui_r3}] Hide Reward Details"
 
 REFERENCE            how_it_works_1
-LANG_ENGLISH         "Season &&1 Battle Pass comes with 100 Tiers of new content - including over ^320 Tiers^7 that are ^3FREE^7 for everyone.
+LANG_ENGLISH         "&&1 Battle Pass comes with 100 Tiers of new content - including over ^320 Tiers^7 that are ^3FREE^7 for everyone.
 "
 
 REFERENCE            how_it_works_2
@@ -282,7 +342,7 @@ REFERENCE            killstreak_bonus
 LANG_ENGLISH         "Killstreak Bonus"
 
 REFERENCE            late_grinder_description
-LANG_ENGLISH         "You have progressed enough in Season &&1 that if you purchase this bundle you will have earned enough COD Points to buy Season &&2 for free!"
+LANG_ENGLISH         "You have progressed enough in &&1 that if you purchase this bundle you will have earned enough COD Points to buy &&2 for free!"
 
 REFERENCE            locked_incomplete
 LANG_ENGLISH         "Unlocked at Tier &&1"
@@ -396,7 +456,7 @@ REFERENCE            reward_error_message
 LANG_ENGLISH         "Something went wrong. Please try again later."
 
 REFERENCE            season_x_battlepass
-LANG_ENGLISH         "Season &&1 Battle Pass"
+LANG_ENGLISH         "&&1 Battle Pass"
 
 REFERENCE            setbacks_bonus
 LANG_ENGLISH         "Setbacks Bonus"
@@ -464,6 +524,12 @@ LANG_ENGLISH         "Tiers Unlocked"
 REFERENCE            time_bonus
 LANG_ENGLISH         "Time Bonus"
 
+REFERENCE            toggle_button
+LANG_ENGLISH         "Toggle"
+
+REFERENCE            toggle_item
+LANG_ENGLISH         "[{dpad_vertical}] Toggle"
+
 REFERENCE            toggle_reward_details_contextual
 LANG_ENGLISH         "Toggle Reward Details"
 
@@ -513,7 +579,7 @@ REFERENCE            view_reward_stats
 LANG_ENGLISH         "[{ui_r3}] View Reward Stats"
 
 REFERENCE            view_trailer
-LANG_ENGLISH         "View Season &&1 Trailer"
+LANG_ENGLISH         "View &&1 Trailer"
 
 REFERENCE            vip_error_collecting
 LANG_ENGLISH         "Something went wrong while collecting your &&1, please try again later."
@@ -550,6 +616,9 @@ LANG_ENGLISH         "Get access to all 100 Tiers!"
 
 REFERENCE            why_buy_bundle
 LANG_ENGLISH         "Get access to all 100 Tiers & Skip 20 Tiers instantly!"
+
+REFERENCE            x_prompt_more_information
+LANG_ENGLISH         "[{ui_primary;menu_action1}] More Information"
 
 
 ENDMARKER

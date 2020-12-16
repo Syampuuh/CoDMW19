@@ -1,0 +1,30 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            bgb_conflagration_liquidation
+LANG_ENGLISH         "Conflagration Liquidation"
+
+REFERENCE            bgb_conflagration_liquidation_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a Bonfire Sale power up."
+
+REFERENCE            bgb_perk_up
+LANG_ENGLISH         "Perk Up"
+
+REFERENCE            bgb_perk_up_desc
+LANG_ENGLISH         "
+Instant Activation
+Receive four random, extra Perks that are not in your loadout.  Will not stack with itself."
+
+REFERENCE            bgb_refresh_mint
+LANG_ENGLISH         "Refresh Mint"
+
+REFERENCE            bgb_refresh_mint_desc
+LANG_ENGLISH         "
+Instant Activation
+Refreshes cooldowns on Equipment, Special Weapons and Perks for all players."
+
+
+ENDMARKER

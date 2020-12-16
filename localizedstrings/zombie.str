@@ -1,0 +1,39 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            cymbal_monkey
+LANG_ENGLISH         "Cymbal Monkey"
+
+REFERENCE            cymbal_monkey_wz_desc
+LANG_ENGLISH         "When thrown, becomes a retrievable bomb that will make noise and detonate when an enemy or zombie approaches."
+
+REFERENCE            desc_ammo_brain_rot
+LANG_ENGLISH         "Bullets deal toxic damage. Each bullet has a chance to turn an enemy to an ally."
+
+REFERENCE            desc_ammo_cyro_freeze
+LANG_ENGLISH         "Bullets deal frost damage. Each bullet has a chance to slow enemies."
+
+REFERENCE            desc_ammo_dead_wire
+LANG_ENGLISH         "Bullets deal electric damage. Each bullet has a chance to stun enemies."
+
+REFERENCE            desc_ammo_napalm_burst
+LANG_ENGLISH         "Bullets deal fire damage. Each bullet has a chance to ignite enemies."
+
+REFERENCE            perk_desc_deadshot_daiquiri
+LANG_ENGLISH         "Drink to improve aiming down sights."
+
+REFERENCE            perk_desc_juggernog
+LANG_ENGLISH         "Drink to increase health."
+
+REFERENCE            perk_desc_quick_revive
+LANG_ENGLISH         "Drink to recover health and revive faster."
+
+REFERENCE            perk_desc_speed_cola
+LANG_ENGLISH         "Drink to reload faster."
+
+REFERENCE            perk_desc_staminup
+LANG_ENGLISH         "Drink to run and sprint faster."
+
+
+ENDMARKER

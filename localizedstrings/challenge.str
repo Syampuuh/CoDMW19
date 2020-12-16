@@ -20,6 +20,9 @@ Note: Previous mission progress will be saved."
 REFERENCE            activating_mission
 LANG_ENGLISH         "Activating Mission"
 
+REFERENCE            active_daily_selection_global_hint
+LANG_ENGLISH         "Replacing Daily Challenges retains any progress made."
+
 REFERENCE            active_mission
 LANG_ENGLISH         "Active Mission"
 
@@ -39,7 +42,7 @@ REFERENCE            akimbo_unlock_golf21
 LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Sleight of Hand perk with the X16."
 
 REFERENCE            akimbo_unlock_mike9
-LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Mo'Money perk with the Renetti."
+LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Mo'Money perk with the Sykov."
 
 REFERENCE            akimbo_unlock_papa320
 LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Frangible-Wounding perk with the M19."
@@ -2262,6 +2265,9 @@ LANG_ENGLISH         "^/DAILY CHALLENGE: ^+Selected"
 
 REFERENCE            daily_challenges
 LANG_ENGLISH         "Daily Challenges"
+
+REFERENCE            daily_challenges_x_reserves_partial_caps
+LANG_ENGLISH         "DAILY CHALLENGES ^/( &&1 Reserves )"
 
 REFERENCE            daily_chopper_gunner
 LANG_ENGLISH         "Chopper Gunner"
@@ -6064,10 +6070,10 @@ REFERENCE            elder_s6_chal_002_name
 LANG_ENGLISH         "Shrapnel"
 
 REFERENCE            elder_s6_chal_003_desc
-LANG_ENGLISH         "Get ^5&&1^7 Longshot Kills while using an Acog Optic"
+LANG_ENGLISH         "Get ^5&&1^7 Longshot Kills while using a Scout Optic"
 
 REFERENCE            elder_s6_chal_003_name
-LANG_ENGLISH         "Acog Longshots"
+LANG_ENGLISH         "Scout Longshots"
 
 REFERENCE            elder_s6_chal_004_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills while Sliding"
@@ -6666,6 +6672,9 @@ LANG_ENGLISH         "[{ui_primary}] Equip"
 REFERENCE            error_activation
 LANG_ENGLISH         "Could not ^5&&1^7 mission."
 
+REFERENCE            global_rewards
+LANG_ENGLISH         "Global Rewards"
+
 REFERENCE            grenade
 LANG_ENGLISH         "Get ^5&&1^7 grenade kills"
 
@@ -6702,6 +6711,9 @@ LANG_ENGLISH         "Using a Pistol, Get ^52^7 Headshot Kills in ^5&&1^7 differ
 REFERENCE            gun_unlock_mkilo3
 LANG_ENGLISH         "Get ^53^7 Kills when the enemy is near smoke using an LMG in ^5&&1^7 different matches"
 
+REFERENCE            gun_unlock_pi_mike
+LANG_ENGLISH         "Get ^54^7 Kills while using Pistols in ^5&&1^7 different matches"
+
 REFERENCE            gun_unlock_sh_aalpha12
 LANG_ENGLISH         "Get ^53^7 Hipfire Kills using Shotguns in ^5&&1^7 different matches"
 
@@ -6714,8 +6726,14 @@ LANG_ENGLISH         "Get ^51^7 Melee Kill while using an LMG in ^5&&1^7 differe
 REFERENCE            gun_unlock_sksierra
 LANG_ENGLISH         "Using a Sniper or Marksman Rifle, Get ^52^7 Longshot Kills that are Headshots in ^5&&1^7 different matches"
 
+REFERENCE            gun_unlock_slima
+LANG_ENGLISH         "Get ^55^7 Kills in ^5&&1^7 different matches while using LMGs equipped with a Scout Optic"
+
 REFERENCE            gun_unlock_sm_charlie9
 LANG_ENGLISH         "Get ^55^7 Kills using an SMG with a Holo Optic in ^5&&1^7 different matches"
+
+REFERENCE            gun_unlock_sm_secho
+LANG_ENGLISH         "Get ^52^7 Longshot Kills while using an SMG in ^5&&1^7 different matches"
 
 REFERENCE            gun_unlock_sm_victor
 LANG_ENGLISH         "Get ^55^7 Kills while using an SMG with the Solozero Optics Mini Reflex and Ranger Foregrip in ^5&&1^7 different matches"
@@ -7395,6 +7413,9 @@ LANG_ENGLISH         "Nearest complete week ^5&&1^7 challenges."
 REFERENCE            new_in_x
 LANG_ENGLISH         "[{ui_reset}] New In: ^+&&1^7"
 
+REFERENCE            next_refresh_timer_cw_style_no_icon
+LANG_ENGLISH         "Next: ^+&&1^7"
+
 REFERENCE            none_available
 LANG_ENGLISH         "No Available Challenges"
 
@@ -7419,6 +7440,33 @@ LANG_ENGLISH         "Get a Kill streak of three ^5&&1^7 time(s)"
 REFERENCE            operator
 LANG_ENGLISH         "Operator Challenge"
 
+REFERENCE            operator_bundle_ronin_desc
+LANG_ENGLISH         "Complete these challenges to unlock Ronin's ultimate skin"
+
+REFERENCE            operator_bundle_ronin_name
+LANG_ENGLISH         "Ronin Operator Mission"
+
+REFERENCE            operator_bundle_ronin_step_1
+LANG_ENGLISH         "In Warzone, use a Spray on a building in the Downtown section while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_ronin_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Assault Rifles while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_ronin_step_3
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_ronin_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Longshots while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_soap_desc
+LANG_ENGLISH         "Complete these challenges to unlock Soap's ultimate skin"
+
+REFERENCE            operator_bundle_soap_name
+LANG_ENGLISH         "Soap Operator Mission"
+
+REFERENCE            operator_bundle_soap_step
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using Soap as your Coalition Operator"
+
 REFERENCE            operator_button_desc
 LANG_ENGLISH         "Challenges that unlock Operator Skins upon completion."
 
@@ -7434,8 +7482,14 @@ LANG_ENGLISH         "Complete the Old Comrades Campaign Mission or acquire a sk
 REFERENCE            operator_unlock_bale
 LANG_ENGLISH         "Complete the Into the Furnace Campaign Mission or acquire a skin for this operator."
 
+REFERENCE            operator_unlock_bulldozer
+LANG_ENGLISH         "Unlocked by purchasing the "Bulldozer Operator Bundle" or acquiring a skin for this operator."
+
 REFERENCE            operator_unlock_charly
 LANG_ENGLISH         "Play ^525^7 Public Matches or acquire a skin for this operator."
+
+REFERENCE            operator_unlock_coming_soon
+LANG_ENGLISH         "Coming Soon."
 
 REFERENCE            operator_unlock_crowfoot
 LANG_ENGLISH         "Unlock by purchasing the "Talon Operator Bundle" in the Store."
@@ -7512,6 +7566,9 @@ LANG_ENGLISH         "Unlocked by -REDACTED-"
 REFERENCE            operator_unlock_spetsnaz
 LANG_ENGLISH         "Unlock by purchasing the "Nikto Operator Bundle" in the Store or acquiring a skin for this operator."
 
+REFERENCE            operator_unlock_stitch
+LANG_ENGLISH         "Unlocked in the Black Ops Season 1 Battle Pass or by acquiring a skin for this operator."
+
 REFERENCE            operator_unlock_syd
 LANG_ENGLISH         "Kill ^55^7 Juggernauts in any single Co-Op Mission or acquire a skin for this operator."
 
@@ -7533,8 +7590,14 @@ LANG_ENGLISH         "Complete CO-Op Operation Headhunter, Kuvalda, Paladin, and
 REFERENCE            operator_unlock_zedra
 LANG_ENGLISH         "Unlocked in the Season 1 Battle Pass or by acquiring a skin for this operator."
 
+REFERENCE            operator_unlock_zeyna
+LANG_ENGLISH         "Unlocked by purchasing the "Zeyna Operator Bundle" or acquiring a skin for this operator."
+
 REFERENCE            preview_master_challenge_loot
 LANG_ENGLISH         "[{ui_alt2}] Preview"
+
+REFERENCE            preview_master_challenge_loot_kbm
+LANG_ENGLISH         "[{ui_r3}] Preview"
 
 REFERENCE            progression
 LANG_ENGLISH         "Progression Challenge"
@@ -7542,11 +7605,20 @@ LANG_ENGLISH         "Progression Challenge"
 REFERENCE            recommended_x
 LANG_ENGLISH         "Recommended - ^5&&1"
 
+REFERENCE            refresh_timer_cw_style
+LANG_ENGLISH         "[{ui_reset}] ^+&&1^7"
+
+REFERENCE            reserve_empty_title
+LANG_ENGLISH         "Reserve is empty"
+
 REFERENCE            reserve_selection_hint
 LANG_ENGLISH         "Replace selected Daily Challenge with a challenge from the Reserve."
 
 REFERENCE            reset_time
 LANG_ENGLISH         "[{ui_reset}] &&1"
+
+REFERENCE            resets_in_refresh_timer_cw_style_no_icon
+LANG_ENGLISH         "Resets In: ^+&&1^7"
 
 REFERENCE            resets_in_x
 LANG_ENGLISH         "[{ui_reset}] Resets in: ^5&&1^7"
@@ -8943,6 +9015,9 @@ LANG_ENGLISH         "^5&&1^7 Missions"
 REFERENCE            secondary
 LANG_ENGLISH         "Get ^5&&1^7 Kills with a secondary weapon"
 
+REFERENCE            select_a_daily_challenge_x_reserves_partial_caps
+LANG_ENGLISH         "SELECT A DAILY CHALLENGE ^/( &&1 Reserves )"
+
 REFERENCE            show_completed_challenges
 LANG_ENGLISH         "Show Completed Challenges"
 
@@ -9048,6 +9123,27 @@ LANG_ENGLISH         "Get ^5&&1^7 Victories playing any Warzone mode"
 REFERENCE            sticker_book_warzone_wins_name
 LANG_ENGLISH         "Warzone Victories"
 
+REFERENCE            t9_camo_5streak
+LANG_ENGLISH         "Get 5 Kills without dying ^5&&1^7 times"
+
+REFERENCE            t9_camo_cover
+LANG_ENGLISH         "Kill ^5&&1^7 enemies that are taking cover from you"
+
+REFERENCE            t9_camo_double
+LANG_ENGLISH         "Kill 2 or more enemies rapidly ^5&&1^7 times"
+
+REFERENCE            t9_camo_elimination
+LANG_ENGLISH         "Get ^5&&1^7 Eliminations"
+
+REFERENCE            t9_camo_headshot
+LANG_ENGLISH         "Get ^5&&1^7 Headshots"
+
+REFERENCE            t9_camo_longshot
+LANG_ENGLISH         "Get ^5&&1^7 Longshot Medal"
+
+REFERENCE            t9_camo_stunned
+LANG_ENGLISH         "Kill ^5&&1^7 enemeis detected, stunned, or blinded by your Scorestreaks, Equipment, and Field Upgrades"
+
 REFERENCE            tdm
 LANG_ENGLISH         "Get ^5&&1^7 Kills whilst playing Team Deathmatch"
 
@@ -9064,7 +9160,7 @@ REFERENCE            view_all_prompt
 LANG_ENGLISH         "View Challenges"
 
 REFERENCE            view_all_prompt_controller
-LANG_ENGLISH         "[{ui_alt1}] View Missions & Challenges"
+LANG_ENGLISH         "[{ui_alt1}] View Challenges"
 
 REFERENCE            view_intel
 LANG_ENGLISH         "View Intel"
@@ -11613,6 +11709,9 @@ LANG_ENGLISH         "Play ^5&&1^7 Matches while using Zane as your Allegiance O
 REFERENCE            weekly_zane_name
 LANG_ENGLISH         "Zane Matches"
 
+REFERENCE            wzwip_daily_btn_desc
+LANG_ENGLISH         "Select daily challenges and replace them from the Reserve."
+
 REFERENCE            x_dash_y
 LANG_ENGLISH         "&&1 - &&2"
 
@@ -11624,6 +11723,9 @@ LANG_ENGLISH         "&&1 Mission"
 
 REFERENCE            x_dash_y
 LANG_ENGLISH         "&&1 - &&2"
+
+REFERENCE            wzwip_daily_btn_desc
+LANG_ENGLISH         "Select daily challenges and replace them from the Reserve."
 
 REFERENCE            weekly_zane_name
 LANG_ENGLISH         "Zane Matches"
@@ -14173,7 +14275,7 @@ REFERENCE            view_intel
 LANG_ENGLISH         "View Intel"
 
 REFERENCE            view_all_prompt_controller
-LANG_ENGLISH         "[{ui_alt1}] View Missions & Challenges"
+LANG_ENGLISH         "[{ui_alt1}] View Challenges"
 
 REFERENCE            view_all_prompt
 LANG_ENGLISH         "View Challenges"
@@ -14189,6 +14291,27 @@ LANG_ENGLISH         "Tier ^5&&1^7 Reward"
 
 REFERENCE            tdm
 LANG_ENGLISH         "Get ^5&&1^7 Kills whilst playing Team Deathmatch"
+
+REFERENCE            t9_camo_stunned
+LANG_ENGLISH         "Kill ^5&&1^7 enemeis detected, stunned, or blinded by your Scorestreaks, Equipment, and Field Upgrades"
+
+REFERENCE            t9_camo_longshot
+LANG_ENGLISH         "Get ^5&&1^7 Longshot Medal"
+
+REFERENCE            t9_camo_headshot
+LANG_ENGLISH         "Get ^5&&1^7 Headshots"
+
+REFERENCE            t9_camo_elimination
+LANG_ENGLISH         "Get ^5&&1^7 Eliminations"
+
+REFERENCE            t9_camo_double
+LANG_ENGLISH         "Kill 2 or more enemies rapidly ^5&&1^7 times"
+
+REFERENCE            t9_camo_cover
+LANG_ENGLISH         "Kill ^5&&1^7 enemies that are taking cover from you"
+
+REFERENCE            t9_camo_5streak
+LANG_ENGLISH         "Get 5 Kills without dying ^5&&1^7 times"
 
 REFERENCE            sticker_book_warzone_wins_name
 LANG_ENGLISH         "Warzone Victories"
@@ -14294,6 +14417,9 @@ LANG_ENGLISH         "Ascension"
 
 REFERENCE            show_completed_challenges
 LANG_ENGLISH         "Show Completed Challenges"
+
+REFERENCE            select_a_daily_challenge_x_reserves_partial_caps
+LANG_ENGLISH         "SELECT A DAILY CHALLENGE ^/( &&1 Reserves )"
 
 REFERENCE            secondary
 LANG_ENGLISH         "Get ^5&&1^7 Kills with a secondary weapon"
@@ -15690,11 +15816,20 @@ LANG_ENGLISH         "Reticle Challenge"
 REFERENCE            resets_in_x
 LANG_ENGLISH         "[{ui_reset}] Resets in: ^5&&1^7"
 
+REFERENCE            resets_in_refresh_timer_cw_style_no_icon
+LANG_ENGLISH         "Resets In: ^+&&1^7"
+
 REFERENCE            reset_time
 LANG_ENGLISH         "[{ui_reset}] &&1"
 
 REFERENCE            reserve_selection_hint
 LANG_ENGLISH         "Replace selected Daily Challenge with a challenge from the Reserve."
+
+REFERENCE            reserve_empty_title
+LANG_ENGLISH         "Reserve is empty"
+
+REFERENCE            refresh_timer_cw_style
+LANG_ENGLISH         "[{ui_reset}] ^+&&1^7"
 
 REFERENCE            recommended_x
 LANG_ENGLISH         "Recommended - ^5&&1"
@@ -15702,8 +15837,14 @@ LANG_ENGLISH         "Recommended - ^5&&1"
 REFERENCE            progression
 LANG_ENGLISH         "Progression Challenge"
 
+REFERENCE            preview_master_challenge_loot_kbm
+LANG_ENGLISH         "[{ui_r3}] Preview"
+
 REFERENCE            preview_master_challenge_loot
 LANG_ENGLISH         "[{ui_alt2}] Preview"
+
+REFERENCE            operator_unlock_zeyna
+LANG_ENGLISH         "Unlocked by purchasing the "Zeyna Operator Bundle" or acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_zedra
 LANG_ENGLISH         "Unlocked in the Season 1 Battle Pass or by acquiring a skin for this operator."
@@ -15725,6 +15866,9 @@ LANG_ENGLISH         "Unlocked by purchasing the Velikan Operator Bundle or by a
 
 REFERENCE            operator_unlock_syd
 LANG_ENGLISH         "Kill ^55^7 Juggernauts in any single Co-Op Mission or acquire a skin for this operator."
+
+REFERENCE            operator_unlock_stitch
+LANG_ENGLISH         "Unlocked in the Black Ops Season 1 Battle Pass or by acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_spetsnaz
 LANG_ENGLISH         "Unlock by purchasing the "Nikto Operator Bundle" in the Store or acquiring a skin for this operator."
@@ -15801,8 +15945,14 @@ LANG_ENGLISH         "Complete the Hunting Party Campaign Mission or acquire a s
 REFERENCE            operator_unlock_crowfoot
 LANG_ENGLISH         "Unlock by purchasing the "Talon Operator Bundle" in the Store."
 
+REFERENCE            operator_unlock_coming_soon
+LANG_ENGLISH         "Coming Soon."
+
 REFERENCE            operator_unlock_charly
 LANG_ENGLISH         "Play ^525^7 Public Matches or acquire a skin for this operator."
+
+REFERENCE            operator_unlock_bulldozer
+LANG_ENGLISH         "Unlocked by purchasing the "Bulldozer Operator Bundle" or acquiring a skin for this operator."
 
 REFERENCE            operator_unlock_bale
 LANG_ENGLISH         "Complete the Into the Furnace Campaign Mission or acquire a skin for this operator."
@@ -15818,6 +15968,33 @@ LANG_ENGLISH         "Unlocked in the Season 3 Battle Pass or by acquiring a ski
 
 REFERENCE            operator_button_desc
 LANG_ENGLISH         "Challenges that unlock Operator Skins upon completion."
+
+REFERENCE            operator_bundle_soap_step
+LANG_ENGLISH         "Get ^5&&1^7 Kills while using Soap as your Coalition Operator"
+
+REFERENCE            operator_bundle_soap_name
+LANG_ENGLISH         "Soap Operator Mission"
+
+REFERENCE            operator_bundle_soap_desc
+LANG_ENGLISH         "Complete these challenges to unlock Soap's ultimate skin"
+
+REFERENCE            operator_bundle_ronin_step_4
+LANG_ENGLISH         "Get ^5&&1^7 Longshots while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_ronin_step_3
+LANG_ENGLISH         "Call in ^5&&1^7 Killstreaks while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_ronin_step_2
+LANG_ENGLISH         "Get ^5&&1^7 Kills using Assault Rifles while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_ronin_step_1
+LANG_ENGLISH         "In Warzone, use a Spray on a building in the Downtown section while using Ronin as your Coalition Operator"
+
+REFERENCE            operator_bundle_ronin_name
+LANG_ENGLISH         "Ronin Operator Mission"
+
+REFERENCE            operator_bundle_ronin_desc
+LANG_ENGLISH         "Complete these challenges to unlock Ronin's ultimate skin"
 
 REFERENCE            operator
 LANG_ENGLISH         "Operator Challenge"
@@ -15842,6 +16019,9 @@ LANG_ENGLISH         "Challenge Not Started"
 
 REFERENCE            none_available
 LANG_ENGLISH         "No Available Challenges"
+
+REFERENCE            next_refresh_timer_cw_style_no_icon
+LANG_ENGLISH         "Next: ^+&&1^7"
 
 REFERENCE            new_in_x
 LANG_ENGLISH         "[{ui_reset}] New In: ^+&&1^7"
@@ -16521,8 +16701,14 @@ LANG_ENGLISH         "Get ^52^7 Kills while Sliding when using an SMG in ^5&&1^7
 REFERENCE            gun_unlock_sm_victor
 LANG_ENGLISH         "Get ^55^7 Kills while using an SMG with the Solozero Optics Mini Reflex and Ranger Foregrip in ^5&&1^7 different matches"
 
+REFERENCE            gun_unlock_sm_secho
+LANG_ENGLISH         "Get ^52^7 Longshot Kills while using an SMG in ^5&&1^7 different matches"
+
 REFERENCE            gun_unlock_sm_charlie9
 LANG_ENGLISH         "Get ^55^7 Kills using an SMG with a Holo Optic in ^5&&1^7 different matches"
+
+REFERENCE            gun_unlock_slima
+LANG_ENGLISH         "Get ^55^7 Kills in ^5&&1^7 different matches while using LMGs equipped with a Scout Optic"
 
 REFERENCE            gun_unlock_sksierra
 LANG_ENGLISH         "Using a Sniper or Marksman Rifle, Get ^52^7 Longshot Kills that are Headshots in ^5&&1^7 different matches"
@@ -16535,6 +16721,9 @@ LANG_ENGLISH         "Get ^55^7 Kills in a minute when using an Assault Rifle ^5
 
 REFERENCE            gun_unlock_sh_aalpha12
 LANG_ENGLISH         "Get ^53^7 Hipfire Kills using Shotguns in ^5&&1^7 different matches"
+
+REFERENCE            gun_unlock_pi_mike
+LANG_ENGLISH         "Get ^54^7 Kills while using Pistols in ^5&&1^7 different matches"
 
 REFERENCE            gun_unlock_mkilo3
 LANG_ENGLISH         "Get ^53^7 Kills when the enemy is near smoke using an LMG in ^5&&1^7 different matches"
@@ -16571,6 +16760,9 @@ LANG_ENGLISH         "Kill Enemies"
 
 REFERENCE            grenade
 LANG_ENGLISH         "Get ^5&&1^7 grenade kills"
+
+REFERENCE            global_rewards
+LANG_ENGLISH         "Global Rewards"
 
 REFERENCE            error_activation
 LANG_ENGLISH         "Could not ^5&&1^7 mission."
@@ -17170,10 +17362,10 @@ REFERENCE            elder_s6_chal_004_desc
 LANG_ENGLISH         "Get ^5&&1^7 Kills while Sliding"
 
 REFERENCE            elder_s6_chal_003_name
-LANG_ENGLISH         "Acog Longshots"
+LANG_ENGLISH         "Scout Longshots"
 
 REFERENCE            elder_s6_chal_003_desc
-LANG_ENGLISH         "Get ^5&&1^7 Longshot Kills while using an Acog Optic"
+LANG_ENGLISH         "Get ^5&&1^7 Longshot Kills while using a Scout Optic"
 
 REFERENCE            elder_s6_chal_002_name
 LANG_ENGLISH         "Shrapnel"
@@ -20975,6 +21167,9 @@ LANG_ENGLISH         "Get ^5&&1^7 Kills with a Chopper Gunner"
 REFERENCE            daily_chopper_gunner
 LANG_ENGLISH         "Chopper Gunner"
 
+REFERENCE            daily_challenges_x_reserves_partial_caps
+LANG_ENGLISH         "DAILY CHALLENGES ^/( &&1 Reserves )"
+
 REFERENCE            daily_challenges
 LANG_ENGLISH         "Daily Challenges"
 
@@ -23198,7 +23393,7 @@ REFERENCE            akimbo_unlock_papa320
 LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Frangible-Wounding perk with the M19."
 
 REFERENCE            akimbo_unlock_mike9
-LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Mo'Money perk with the Renetti."
+LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Mo'Money perk with the Sykov."
 
 REFERENCE            akimbo_unlock_golf21
 LANG_ENGLISH         "Get ^53^7 Kills in ^55^7 different matches using the Sleight of Hand perk with the X16."
@@ -23217,6 +23412,9 @@ LANG_ENGLISH         "Active Mission: ^5&&1^7"
 
 REFERENCE            active_mission
 LANG_ENGLISH         "Active Mission"
+
+REFERENCE            active_daily_selection_global_hint
+LANG_ENGLISH         "Replacing Daily Challenges retains any progress made."
 
 REFERENCE            activating_mission
 LANG_ENGLISH         "Activating Mission"

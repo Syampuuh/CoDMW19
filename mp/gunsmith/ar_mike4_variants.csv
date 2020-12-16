@@ -34,5 +34,5 @@
 33,iw8_ar_mike4_variant_33,iw8_ar_mike4,iw8_ar_mike4_mpv2b,rec|1 front|1 back|1 mag|1 ironsight|0,,barshort|5,laserrange|1,gripvert|1,,xmagslrg|5,,stockno|4,,,,,WEAPON/AR_MIKE4_V34,ui_loot_weapon_ar_mike4_v34,,,,
 34,iw8_ar_mike4_variant_34,iw8_ar_mike4,iw8_ar_mike4_mpb,rec|2 front|2 back|2 mag|2,,barcust2|6,,gl|7,holo|1,,,stocks|13,maxammo,,,,WEAPON/AR_MIKE4_V35,ui_loot_weapon_ar_mike4_v35,,,,
 35,iw8_ar_mike4_variant_35,iw8_ar_mike4,iw8_ar_mike4_mpmtx5,rec|3 front|3 back|3 mag|3,,barlong|9,,gripcust|7,acog3|2,xmags|4,,stocks|14,,,,,WEAPON/AR_MIKE4_V36,ui_loot_weapon_ar_mike4_v36,,crimsonGold,standardDis,
-36,iw8_ar_mike4_variant_36,iw8_ar_mike4,iw8_ar_mike4_mpmtx6,rec|4 front|4 back|4 mag|4,,barsil|4,,gripvertpro|1,reflexmini3|5,xmags|5,,stocks|15,,,,,WEAPON/AR_MIKE4_V37,ui_loot_weapon_ar_mike4_v37,,,,
-37,iw8_ar_mike4_variant_37,iw8_ar_mike4,iw8_ar_mike4_mpv3b,rec|5 front|5 back|5 mag|5,brake|2,barshort|6,,gripvert|2,,calsmg|4,,stocks|1,,,,,WEAPON/AR_MIKE4_V38,ui_loot_weapon_ar_mike4_v38,,,,
+36,iw8_ar_mike4_variant_36,iw8_ar_mike4,iw8_ar_mike4_mpmtx6,rec|4 front|4 back|4 mag|4,,barsil|4,,gripvertpro|1,reflexmini3|5,xmags|5,,stocks|15,,,,,WEAPON/AR_MIKE4_V37,ui_loot_weapon_ar_mike4_v37,,black,standardDis,
+37,iw8_ar_mike4_variant_37,iw8_ar_mike4,iw8_ar_mike4_mpdmb,rec|5 front|5 back|5 mag|5 ironsight|0,brake|2,barshort|6,,gripvert|2,,calsmg|4,,,maxammo,,,,WEAPON/AR_MIKE4_V38,ui_loot_weapon_ar_mike4_v38,,ice,standardDis,

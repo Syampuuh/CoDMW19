@@ -1,0 +1,345 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            t9_charm_80sport
+LANG_ENGLISH         "Quick Sport"
+
+REFERENCE            t9_charm_action_fig
+LANG_ENGLISH         "Boxed Legend"
+
+REFERENCE            t9_charm_afro_pick
+LANG_ENGLISH         "Afropick"
+
+REFERENCE            t9_charm_ammo_box
+LANG_ENGLISH         "MG Can"
+
+REFERENCE            t9_charm_anvil
+LANG_ENGLISH         "Anvil"
+
+REFERENCE            t9_charm_apple_arrow
+LANG_ENGLISH         "Direct Hit"
+
+REFERENCE            t9_charm_arrow_head
+LANG_ENGLISH         "Ancient Arrow"
+
+REFERENCE            t9_charm_battering
+LANG_ENGLISH         "The Penetrator"
+
+REFERENCE            t9_charm_bfoot
+LANG_ENGLISH         "Big Foot"
+
+REFERENCE            t9_charm_birthday_cake
+LANG_ENGLISH         "Birthday Cake"
+
+REFERENCE            t9_charm_boogie_board
+LANG_ENGLISH         "Big Ripper"
+
+REFERENCE            t9_charm_box_glove
+LANG_ENGLISH         "Blue Gloves"
+
+REFERENCE            t9_charm_bpanda
+LANG_ENGLISH         "Balloon Panda"
+
+REFERENCE            t9_charm_bulldog
+LANG_ENGLISH         "Micro Bully"
+
+REFERENCE            t9_charm_bullet_556
+LANG_ENGLISH         "Lucky One"
+
+REFERENCE            t9_charm_bwidow
+LANG_ENGLISH         "Lady In Red"
+
+REFERENCE            t9_charm_c_knight
+LANG_ENGLISH         "The Knight"
+
+REFERENCE            t9_charm_c_queen
+LANG_ENGLISH         "The Queen"
+
+REFERENCE            t9_charm_c_rook
+LANG_ENGLISH         "The Rook"
+
+REFERENCE            t9_charm_candy
+LANG_ENGLISH         "Sticky Situation"
+
+REFERENCE            t9_charm_chainball
+LANG_ENGLISH         "Audiophile"
+
+REFERENCE            t9_charm_cheese
+LANG_ENGLISH         "Mouse Trap"
+
+REFERENCE            t9_charm_chess_queen
+LANG_ENGLISH         "The Queen"
+
+REFERENCE            t9_charm_chess_rook
+LANG_ENGLISH         "The Rook"
+
+REFERENCE            t9_charm_chip
+LANG_ENGLISH         "Not Yo Chip"
+
+REFERENCE            t9_charm_christmas_ornament
+LANG_ENGLISH         "Ornament"
+
+REFERENCE            t9_charm_compass
+LANG_ENGLISH         "Compass"
+
+REFERENCE            t9_charm_corn
+LANG_ENGLISH         "Cobb"
+
+REFERENCE            t9_charm_croc_head
+LANG_ENGLISH         "Gator Head"
+
+REFERENCE            t9_charm_crystal_eleph
+LANG_ENGLISH         "Sacred Elephant"
+
+REFERENCE            t9_charm_cyber_glasses
+LANG_ENGLISH         "Power Level"
+
+REFERENCE            t9_charm_cymonkey
+LANG_ENGLISH         "Clap Back Monkey"
+
+REFERENCE            t9_charm_daisy_flwr
+LANG_ENGLISH         "Daisy"
+
+REFERENCE            t9_charm_diamond_brass_knuckles
+LANG_ENGLISH         "Knuckle Duster"
+
+REFERENCE            t9_charm_dogmachine
+LANG_ENGLISH         "Charm TA TBD 001"
+
+REFERENCE            t9_charm_dogtags
+LANG_ENGLISH         "Noble Sacrifice"
+
+REFERENCE            t9_charm_duffel
+LANG_ENGLISH         "Duffel Bag"
+
+REFERENCE            t9_charm_falcon
+LANG_ENGLISH         "Falcon"
+
+REFERENCE            t9_charm_family_crest
+LANG_ENGLISH         "Company Crest"
+
+REFERENCE            t9_charm_family_photo
+LANG_ENGLISH         "Boy Bonding"
+
+REFERENCE            t9_charm_fish_stick_hook
+LANG_ENGLISH         "Fish Stick"
+
+REFERENCE            t9_charm_frog
+LANG_ENGLISH         "Frog Friend"
+
+REFERENCE            t9_charm_fstatue
+LANG_ENGLISH         "Bronze Eagle"
+
+REFERENCE            t9_charm_fun_fish
+LANG_ENGLISH         "Charm - Summer Fun Fish"
+
+REFERENCE            t9_charm_fuzzydice
+LANG_ENGLISH         "Lucky Roll"
+
+REFERENCE            t9_charm_g_duck
+LANG_ENGLISH         "Mallard"
+
+REFERENCE            t9_charm_gas_can
+LANG_ENGLISH         "Gas Can"
+
+REFERENCE            t9_charm_gold_bar
+LANG_ENGLISH         "All That Glitters"
+
+REFERENCE            t9_charm_gold_bell
+LANG_ENGLISH         "Jingle Bell"
+
+REFERENCE            t9_charm_goldwrench
+LANG_ENGLISH         "Open End Wrench"
+
+REFERENCE            t9_charm_gothamulet
+LANG_ENGLISH         "Demonic Crystal"
+
+REFERENCE            t9_charm_guitarfire
+LANG_ENGLISH         "Bottletap"
+
+REFERENCE            t9_charm_happy_grenade
+LANG_ENGLISH         "Goofy Grenade"
+
+REFERENCE            t9_charm_helicopter
+LANG_ENGLISH         "Mini Chopper"
+
+REFERENCE            t9_charm_hornface
+LANG_ENGLISH         "Servant of Doom"
+
+REFERENCE            t9_charm_hunting_dog
+LANG_ENGLISH         "Hunting Dog"
+
+REFERENCE            t9_charm_ice_axe
+LANG_ENGLISH         "Ice Pick"
+
+REFERENCE            t9_charm_icebreaker
+LANG_ENGLISH         "Ice Breaker"
+
+REFERENCE            t9_charm_icicle
+LANG_ENGLISH         "Icicle"
+
+REFERENCE            t9_charm_japanese_bell
+LANG_ENGLISH         "Blossom Bell"
+
+REFERENCE            t9_charm_kawaiideer
+LANG_ENGLISH         "Lil Rudy"
+
+REFERENCE            t9_charm_kniferose
+LANG_ENGLISH         "Lover's Dagger"
+
+REFERENCE            t9_charm_knight_helmet
+LANG_ENGLISH         "Knight's Helm"
+
+REFERENCE            t9_charm_lunch
+LANG_ENGLISH         "Collectible Tin"
+
+REFERENCE            t9_charm_magnificent
+LANG_ENGLISH         "Magnificent"
+
+REFERENCE            t9_charm_mann_female1d
+LANG_ENGLISH         "Karen"
+
+REFERENCE            t9_charm_mann_female2d
+LANG_ENGLISH         "Sharon"
+
+REFERENCE            t9_charm_mann_female3d
+LANG_ENGLISH         "Bobbi McDaren"
+
+REFERENCE            t9_charm_mann_male4d
+LANG_ENGLISH         "Chad"
+
+REFERENCE            t9_charm_mann_male5d
+LANG_ENGLISH         "Thad"
+
+REFERENCE            t9_charm_mann_male6d
+LANG_ENGLISH         "Vlad"
+
+REFERENCE            t9_charm_mbadge
+LANG_ENGLISH         "Deputy Badge"
+
+REFERENCE            t9_charm_mil_hardhat
+LANG_ENGLISH         "Combat Cover"
+
+REFERENCE            t9_charm_mtndew
+LANG_ENGLISH         "Canned Ordnance"
+
+REFERENCE            t9_charm_mtop
+LANG_ENGLISH         "Top Spin"
+
+REFERENCE            t9_charm_n6_gas_barrel_01
+LANG_ENGLISH         "Corrosive"
+
+REFERENCE            t9_charm_ninjastar
+LANG_ENGLISH         "Shuriken"
+
+REFERENCE            t9_charm_nvidia
+LANG_ENGLISH         "Interpolater"
+
+REFERENCE            t9_charm_old_computer
+LANG_ENGLISH         "Old Computer"
+
+REFERENCE            t9_charm_oldcamera
+LANG_ENGLISH         "Flashpack"
+
+REFERENCE            t9_charm_olive_crown
+LANG_ENGLISH         "Wreath of Excellence"
+
+REFERENCE            t9_charm_p_wrench
+LANG_ENGLISH         "Pipe Wrench"
+
+REFERENCE            t9_charm_pitchfork
+LANG_ENGLISH         "Trident of Doom"
+
+REFERENCE            t9_charm_pwatch
+LANG_ENGLISH         "Pocket Watch"
+
+REFERENCE            t9_charm_rabbit_foot
+LANG_ENGLISH         "Rabbit's Foot"
+
+REFERENCE            t9_charm_rebirthisland_01
+LANG_ENGLISH         "Reborn"
+
+REFERENCE            t9_charm_red_baron_bi_plane
+LANG_ENGLISH         "Air Superiority"
+
+REFERENCE            t9_charm_red_button
+LANG_ENGLISH         "The Button"
+
+REFERENCE            t9_charm_red_flare
+LANG_ENGLISH         "Pyro Stick"
+
+REFERENCE            t9_charm_red_rduck
+LANG_ENGLISH         "Sgt. Squeaky"
+
+REFERENCE            t9_charm_roman_coin
+LANG_ENGLISH         "Charm - Roman Opulence (Olive Crown)"
+
+REFERENCE            t9_charm_scorpion
+LANG_ENGLISH         "Scorpion"
+
+REFERENCE            t9_charm_silverspoon
+LANG_ENGLISH         "Silver Spoon"
+
+REFERENCE            t9_charm_skull_circuit
+LANG_ENGLISH         "Closed Circuit"
+
+REFERENCE            t9_charm_skull_sgl
+LANG_ENGLISH         "Skull"
+
+REFERENCE            t9_charm_smoke_gren
+LANG_ENGLISH         "Can of Concealment"
+
+REFERENCE            t9_charm_snake_flute
+LANG_ENGLISH         "Charmer's Flute"
+
+REFERENCE            t9_charm_snowman
+LANG_ENGLISH         "Lil' Snowman"
+
+REFERENCE            t9_charm_soviet_tank
+LANG_ENGLISH         "Tiny Tank"
+
+REFERENCE            t9_charm_spray_can
+LANG_ENGLISH         "Spray Can"
+
+REFERENCE            t9_charm_spyplane
+LANG_ENGLISH         "8 Miles Up"
+
+REFERENCE            t9_charm_tacsnowman
+LANG_ENGLISH         "Sgt. Frosty"
+
+REFERENCE            t9_charm_target_pract
+LANG_ENGLISH         "Target Practice"
+
+REFERENCE            t9_charm_tesla_ball
+LANG_ENGLISH         "Van De Graaff"
+
+REFERENCE            t9_charm_tigerbomb
+LANG_ENGLISH         "Bengal Boom"
+
+REFERENCE            t9_charm_tombstone
+LANG_ENGLISH         "Tombstone"
+
+REFERENCE            t9_charm_toyteeth
+LANG_ENGLISH         "Chomper"
+
+REFERENCE            t9_charm_vtg_iron
+LANG_ENGLISH         "Steam Pressed"
+
+REFERENCE            t9_charm_vtg_tv
+LANG_ENGLISH         "The Tube"
+
+REFERENCE            t9_charm_walkman
+LANG_ENGLISH         "Mixtape"
+
+REFERENCE            t9_charm_world_globe
+LANG_ENGLISH         "Globe"
+
+REFERENCE            t9_charm_zamboni
+LANG_ENGLISH         "Resurfacer"
+
+REFERENCE            t9_charm_zombiehand
+LANG_ENGLISH         "Helping Hand"
+
+
+ENDMARKER

@@ -2,6 +2,138 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            accessory0109
+LANG_ENGLISH         "Grizzly Oak"
+
+REFERENCE            accessory0109_desc
+LANG_ENGLISH         "Log some hours with the Grizzly Oak Watch."
+
+REFERENCE            accessory0110
+LANG_ENGLISH         "Vital Sign"
+
+REFERENCE            accessory0110_desc
+LANG_ENGLISH         "Health is wealth with the Vital Sign watch."
+
+REFERENCE            accessory0111
+LANG_ENGLISH         "Death's Reminder"
+
+REFERENCE            accessory0111_desc
+LANG_ENGLISH         "Keep death close with Death's Reminder."
+
+REFERENCE            accessory0112
+LANG_ENGLISH         "Bruiser Cord"
+
+REFERENCE            accessory0112_desc
+LANG_ENGLISH         "You're up, he sees you, you're down."
+
+REFERENCE            accessory0113
+LANG_ENGLISH         "Woven Cord"
+
+REFERENCE            accessory0113_desc
+LANG_ENGLISH         "Kill Counter"
+
+REFERENCE            accessory0114
+LANG_ENGLISH         "Private Eye"
+
+REFERENCE            accessory0114_desc
+LANG_ENGLISH         "Carefully track down the clues with the Private Eye Watch."
+
+REFERENCE            accessory0115
+LANG_ENGLISH         "Off-Duty"
+
+REFERENCE            accessory0115_desc
+LANG_ENGLISH         "Perfect for the AO or a night out, it's the Off-Duty Watch."
+
+REFERENCE            accessory0116
+LANG_ENGLISH         "Scoreboard"
+
+REFERENCE            accessory0116_desc
+LANG_ENGLISH         "Stay on top of things with the Scoreboard watch."
+
+REFERENCE            accessory0117
+LANG_ENGLISH         "Killing Time"
+
+REFERENCE            accessory0117_desc
+LANG_ENGLISH         "Killing Time"
+
+REFERENCE            accessory0118
+LANG_ENGLISH         "Ranking Officer"
+
+REFERENCE            accessory0118_desc
+LANG_ENGLISH         "Flash your rank with the Ranking Officer watch."
+
+REFERENCE            accessory0119
+LANG_ENGLISH         "Wellington Noir"
+
+REFERENCE            accessory0119_desc
+LANG_ENGLISH         "It's been a cool minute. Check out the Wellington Noir."
+
+REFERENCE            accessory0120
+LANG_ENGLISH         "Seasoned Vet"
+
+REFERENCE            accessory0120_desc
+LANG_ENGLISH         "This one doesn't scratch that easy, you're gonna have to swing a little harder. Try on the Seasoned Vet watch."
+
+REFERENCE            accessory0121
+LANG_ENGLISH         "Crimson Royale"
+
+REFERENCE            accessory0121_desc
+LANG_ENGLISH         "It's about bloody time to check the Crimson Royale watch."
+
+REFERENCE            accessory0122
+LANG_ENGLISH         "Aqua Mariner"
+
+REFERENCE            accessory0122_desc
+LANG_ENGLISH         "If you listen closely, you can hear the ocean."
+
+REFERENCE            accessory0123
+LANG_ENGLISH         "Early Retirement"
+
+REFERENCE            accessory0123_desc
+LANG_ENGLISH         "Get your shine on time with the Early Retirement Watch."
+
+REFERENCE            accessory0124
+LANG_ENGLISH         "Mail-In Order"
+
+REFERENCE            accessory0124_desc
+LANG_ENGLISH         "Mail-In Order"
+
+REFERENCE            accessory0125
+LANG_ENGLISH         "Vladivostok"
+
+REFERENCE            accessory0125_desc
+LANG_ENGLISH         "Get your timing perfect with the Vladivostok Watch."
+
+REFERENCE            accessory0126
+LANG_ENGLISH         "Forward Progress"
+
+REFERENCE            accessory0126_desc
+LANG_ENGLISH         "Stay on the move with the Forward Progress Watch."
+
+REFERENCE            accessory0127
+LANG_ENGLISH         "Field Map"
+
+REFERENCE            accessory0127_desc
+LANG_ENGLISH         "Never get lost on your way to Bravo."
+
+REFERENCE            accessory0128
+LANG_ENGLISH         "Dial Diver"
+
+REFERENCE            accessory0128_desc
+LANG_ENGLISH         "Kill Counter"
+
+REFERENCE            accessory0130
+LANG_ENGLISH         "Silver Flash"
+
+REFERENCE            accessory0130_desc
+LANG_ENGLISH         "The time is right with the Silver Flash."
+
+REFERENCE            accessory0131
+LANG_ENGLISH         "Body Count"
+
+REFERENCE            accessory0131_desc
+LANG_ENGLISH         "Stack them as high as you can with the Body Count Kill Tracker Watch."
+
 REFERENCE            callingcard_t9001
 LANG_ENGLISH         "CALLINGCARD_T9001"
 
@@ -78,34 +210,73 @@ REFERENCE            operator_adler_skin_1_1
 LANG_ENGLISH         "Mountain Drab"
 
 REFERENCE            operator_adler_skin_2_1
-LANG_ENGLISH         "USA_ADLER_RANGER"
+LANG_ENGLISH         "Ranger"
+
+REFERENCE            operator_adler_skin_2_1_desc
+LANG_ENGLISH         "Route the course with the Adler's Ranger Skin."
 
 REFERENCE            operator_adler_skin_3_1
-LANG_ENGLISH         "USA_ADLER_GUNSLINGER"
+LANG_ENGLISH         "Gunslinger"
+
+REFERENCE            operator_adler_skin_3_1_desc
+LANG_ENGLISH         "Shoot first, ask questions later with Adler's Gunslinger Skin."
 
 REFERENCE            operator_adler_skin_4_1
-LANG_ENGLISH         "USA_ADLER_BLOODHOUND"
+LANG_ENGLISH         "Base Jumper"
+
+REFERENCE            operator_adler_skin_4_1_desc
+LANG_ENGLISH         "Leave no trail with Adler???s Base Jumper Skin."
 
 REFERENCE            operator_adler_skin_4_2
-LANG_ENGLISH         "USA ADLER BLOODHOUND DUSK"
+LANG_ENGLISH         "Stalker"
+
+REFERENCE            operator_adler_skin_4_2_desc
+LANG_ENGLISH         "Lead the hunt with Adler???s Stalker Skin."
 
 REFERENCE            operator_adler_skin_4_3
-LANG_ENGLISH         "USA ADLER BLOODHOUND GLITZ"
+LANG_ENGLISH         "Glitz"
+
+REFERENCE            operator_adler_skin_4_3_desc
+LANG_ENGLISH         "Stay fly with Adler???s Glitz Skin."
 
 REFERENCE            operator_adler_skin_5_1
-LANG_ENGLISH         "USA_ADLER_TRAVELER"
+LANG_ENGLISH         "Traveler"
+
+REFERENCE            operator_adler_skin_5_1_desc
+LANG_ENGLISH         "Put them on permanent vacation with Adler???s Traveler Skin."
 
 REFERENCE            operator_adler_skin_5_2
-LANG_ENGLISH         "USA ADLER TRAVELER SUMMIT"
+LANG_ENGLISH         "Summit"
+
+REFERENCE            operator_adler_skin_5_2_desc
+LANG_ENGLISH         "Be elite with Adler???s Summit Skin."
 
 REFERENCE            operator_adler_skin_5_3
-LANG_ENGLISH         "USA ADLER TRAVELER WINDBREAKER"
+LANG_ENGLISH         "Globetrotter"
+
+REFERENCE            operator_adler_skin_5_3_desc
+LANG_ENGLISH         "Take in the scenery down your scope with Adler???s Globetrotter Operator Outfit"
 
 REFERENCE            operator_adler_skin_6_1
-LANG_ENGLISH         "USA ADLER DETECTIVE"
+LANG_ENGLISH         "Detective"
+
+REFERENCE            operator_adler_skin_6_1_desc
+LANG_ENGLISH         "Something smells fishy with Adler's Detective Skin."
+
+REFERENCE            operator_adler_skin_6_2
+LANG_ENGLISH         "Confidential"
+
+REFERENCE            operator_adler_skin_6_2_desc
+LANG_ENGLISH         "You can neither confirm or deny with Adler's Confidential Skin."
+
+REFERENCE            operator_adler_skin_7_1
+LANG_ENGLISH         "Ambassador"
 
 REFERENCE            operator_adler_skin_8_1
-LANG_ENGLISH         "USA ADLER MIAMI"
+LANG_ENGLISH         "Miami"
+
+REFERENCE            operator_adler_skin_8_1_desc
+LANG_ENGLISH         "Sunny days ahead with Adler's Miami Skin."
 
 REFERENCE            operator_cia_skin_1_1
 LANG_ENGLISH         "Rochester"
@@ -113,38 +284,59 @@ LANG_ENGLISH         "Rochester"
 REFERENCE            operator_cia_skin_1_1_desc
 LANG_ENGLISH         " "
 
+REFERENCE            operator_cia_skin_2_1_desc
+LANG_ENGLISH         "Play it cool under fire with Sims' Covert Skin."
+
 REFERENCE            operator_cia_skin_3_1
-LANG_ENGLISH         "USA CIA SOG REGULATOR"
+LANG_ENGLISH         "Regulator"
 
 REFERENCE            operator_cia_skin_3_1_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "Make a statement with Sims' Regulator Skin."
+
+REFERENCE            operator_cia_skin_3_3_desc
+LANG_ENGLISH         "Crack the case with Ingo???s Operative Operator Skin."
 
 REFERENCE            operator_cia_skin_4_1
-LANG_ENGLISH         "USA CIA SOG CLIMBER FROSTBITE"
+LANG_ENGLISH         "Polarized"
+
+REFERENCE            operator_cia_skin_4_1_desc
+LANG_ENGLISH         "Rise to the top with Sims' Polarized Skin."
 
 REFERENCE            operator_cia_skin_5_1_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "Flex your toughness with Sims??? Grizzled Operator Outfit. "
 
 REFERENCE            operator_cia_skin_5_2
-LANG_ENGLISH         "USA CIA SOG GRIT STREET"
+LANG_ENGLISH         "Team Leader"
 
 REFERENCE            operator_cia_skin_5_2_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "Fire on all cylinders with Sims??? Team Leader Skin."
 
 REFERENCE            operator_cia_skin_5_3
-LANG_ENGLISH         "USA CIA SOG GRIT BLOCKPARTY"
+LANG_ENGLISH         "Wayfinder"
 
 REFERENCE            operator_cia_skin_5_3_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "At ease in any firefight. This is Sims??? Wayfinder Skin."
 
 REFERENCE            operator_cia_skin_6_1_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "Don't be afraid to spill a little sap with Sims' Logger Skin."
+
+REFERENCE            operator_cia_skin_8_1
+LANG_ENGLISH         "Penumbra"
+
+REFERENCE            operator_cia_skin_8_1_desc
+LANG_ENGLISH         "Stealth and incorruptible, strike from the shadows with Sims' Penumbra Skin."
+
+REFERENCE            operator_cub_skin_2_1_desc
+LANG_ENGLISH         "Mayor of main street, keep it real on the block with Garcia's Barrio Skin."
 
 REFERENCE            operator_cub_skin_3_1
-LANG_ENGLISH         "CUB DGI BRAWLER"
+LANG_ENGLISH         "Tourist"
+
+REFERENCE            operator_cub_skin_3_1_desc
+LANG_ENGLISH         "Be there for your friends and aware of your enemies with Garcia's Tourist Skin."
 
 REFERENCE            operator_fullname_cuban
-LANG_ENGLISH         "TEST TIFA LOCKHART"
+LANG_ENGLISH         "Mendo Garcia"
 
 REFERENCE            operator_fullname_t9ader
 LANG_ENGLISH         "RUSSELL ADLER"
@@ -183,70 +375,196 @@ REFERENCE            operator_mi_skin_1_1
 LANG_ENGLISH         "Coventry"
 
 REFERENCE            operator_mi_skin_3_1
-LANG_ENGLISH         "UK MI6 TAGGER"
+LANG_ENGLISH         "Tagger"
 
 REFERENCE            operator_mi_skin_5_1
-LANG_ENGLISH         "UK MI6 HANDLER"
+LANG_ENGLISH         "Handler"
 
 REFERENCE            operator_mi_skin_7_1
-LANG_ENGLISH         "UK MI6 SCORCH"
+LANG_ENGLISH         "Scorch"
 
 REFERENCE            operator_mi_skin_8_1
-LANG_ENGLISH         "UK MI6 BAD BLOOD"
+LANG_ENGLISH         "Bad Blood"
+
+REFERENCE            operator_mi_skin_8_2
+LANG_ENGLISH         "Commando"
+
+REFERENCE            operator_mi_skin_8_2_desc
+LANG_ENGLISH         "Make them bow down with Helen Park???s Commando Operator Outfit."
+
+REFERENCE            operator_mi_skin_8_3
+LANG_ENGLISH         "Hellion"
+
+REFERENCE            operator_mi_skin_8_3_desc
+LANG_ENGLISH         "Control the empire with Park???s Hellion Operator Outfit."
+
+REFERENCE            operator_skin_adler_6_2
+LANG_ENGLISH         "Confidential"
+
+REFERENCE            operator_skin_bul_1_1
+LANG_ENGLISH         "Bulldozer"
+
+REFERENCE            operator_skin_cia_2_1
+LANG_ENGLISH         "Covert"
 
 REFERENCE            operator_skin_cia_5_1
-LANG_ENGLISH         "USA CIA SOG GRIT"
+LANG_ENGLISH         "Grizzled"
+
+REFERENCE            operator_skin_cia_5_1_desc
+LANG_ENGLISH         "Flex your toughness with Sims??? Grizzled Skin."
 
 REFERENCE            operator_skin_cia_6_1
-LANG_ENGLISH         "USA CIA SOG LOGGER"
+LANG_ENGLISH         "Logger"
+
+REFERENCE            operator_skin_cia_6_1_desc
+LANG_ENGLISH         "Don't be afraid to spill a little sap with Sims' Logger Skin."
 
 REFERENCE            operator_skin_cia_7_1
-LANG_ENGLISH         "USA CIA SOG BOSS"
+LANG_ENGLISH         "Mafioso"
+
+REFERENCE            operator_skin_cia_7_1_desc
+LANG_ENGLISH         "Make your rounds and bring home the bacon with Sims' Mafioso Skin."
 
 REFERENCE            operator_skin_cub_1_1
 LANG_ENGLISH         "Malice"
 
+REFERENCE            operator_skin_cub_2_1
+LANG_ENGLISH         "Barrio"
+
 REFERENCE            operator_skin_cub_5_1
-LANG_ENGLISH         "CUB DGI HITMAN"
+LANG_ENGLISH         "Hatchetman"
 
 REFERENCE            operator_skin_cub_6_1
-LANG_ENGLISH         "CUB DGI MECHANIC"
+LANG_ENGLISH         "Mechanic"
 
 REFERENCE            operator_skin_cub_7_1
-LANG_ENGLISH         "CUB DGI SICARRIO"
+LANG_ENGLISH         "Sicario"
+
+REFERENCE            operator_skin_cub_7_2
+LANG_ENGLISH         "El Doctor"
+
+REFERENCE            operator_skin_cub_7_2_desc
+LANG_ENGLISH         "Flatline everything in Garcia's El Doctor Operator Outfit."
+
+REFERENCE            operator_skin_cub_7_3
+LANG_ENGLISH         "Miami"
+
+REFERENCE            operator_skin_cub_7_3_desc
+LANG_ENGLISH         "Protect your turf with Garcia's Miami Operator Outfit."
+
+REFERENCE            operator_skin_cub_7_4
+LANG_ENGLISH         "Santeria"
+
+REFERENCE            operator_skin_cub_7_4_desc
+LANG_ENGLISH         "Master your craft for good & evil with Garcia's Santeria Skin."
+
+REFERENCE            operator_skin_cub_7_5
+LANG_ENGLISH         "Brazos Fuerte"
+
+REFERENCE            operator_skin_cub_7_5_desc
+LANG_ENGLISH         "Break all the rules with Garcia's Brazos Fuerte Operator Outfit."
+
+REFERENCE            operator_skin_esp_1_1
+LANG_ENGLISH         "Esports"
 
 REFERENCE            operator_skin_kgb_1_1
 LANG_ENGLISH         "Bittersweet"
 
 REFERENCE            operator_skin_kgb_2_1
-LANG_ENGLISH         "RUS KGB ASSASSIN"
+LANG_ENGLISH         "Killer Bee"
+
+REFERENCE            operator_skin_kgb_2_1_desc
+LANG_ENGLISH         "Strike when the opportunity presents itself with Portnova's Killer Bee Operator Skin."
+
+REFERENCE            operator_skin_kgb_3_1
+LANG_ENGLISH         "Blue Beret"
+
+REFERENCE            operator_skin_kgb_3_1_desc
+LANG_ENGLISH         "Lead the battalion with Portnova's Blue Beret Skin."
 
 REFERENCE            operator_skin_kgb_4_1
-LANG_ENGLISH         "RUS KGB SHADOW"
+LANG_ENGLISH         "Shadow"
+
+REFERENCE            operator_skin_kgb_4_1_desc
+LANG_ENGLISH         "Time's a ticking with Portnova's Shadow Skin."
 
 REFERENCE            operator_skin_kgb_5_1
-LANG_ENGLISH         "RUS KGB TACTICAL GOTH"
+LANG_ENGLISH         "Tactical Goth"
+
+REFERENCE            operator_skin_kgb_5_1_desc
+LANG_ENGLISH         "Give them permission to die slowly with Portnova's Tactical Skin."
 
 REFERENCE            operator_skin_kgb_6_1
-LANG_ENGLISH         "RUS KGB BURGLAR"
+LANG_ENGLISH         "Safecracker"
+
+REFERENCE            operator_skin_kgb_6_1_desc
+LANG_ENGLISH         "Bleed them dry with Portnova's Menace Skin."
 
 REFERENCE            operator_skin_kgb_6_2
-LANG_ENGLISH         "RUS KGB BURGLAR"
+LANG_ENGLISH         "Blizzard"
+
+REFERENCE            operator_skin_kgb_6_2_desc
+LANG_ENGLISH         "Dig a deep hole, you will need it with Portnova???s Blizzard Skin."
 
 REFERENCE            operator_skin_kgb_6_3
-LANG_ENGLISH         "RUS KGB BURGLAR DUCK"
+LANG_ENGLISH         "Menace"
+
+REFERENCE            operator_skin_kgb_6_3_desc
+LANG_ENGLISH         "Bleed them dry with Portnova's Menace Skin."
+
+REFERENCE            operator_skin_kgb_7_1
+LANG_ENGLISH         "Ice Queen"
+
+REFERENCE            operator_skin_kgb_7_1_desc
+LANG_ENGLISH         "Layer up and load out. This is Portnova's Ice Queen Operator Outfit."
+
+REFERENCE            operator_skin_mi6_2_1
+LANG_ENGLISH         "Heist"
+
+REFERENCE            operator_skin_mi6_2_1_desc
+LANG_ENGLISH         "Keep your eye on the prize and your gun pointed with Park's Heist Skin."
+
+REFERENCE            operator_skin_mi6_3_1
+LANG_ENGLISH         "Tagger"
+
+REFERENCE            operator_skin_mi6_3_1_desc
+LANG_ENGLISH         "Show your artistic vision with Park's Tagger Skin."
 
 REFERENCE            operator_skin_mi6_4_1
-LANG_ENGLISH         "MI6 DOUBULE AGENT"
+LANG_ENGLISH         "Double Agent"
+
+REFERENCE            operator_skin_mi6_4_1_desc
+LANG_ENGLISH         "Play both sides of the battlefield with Park's Double Agent Skin."
+
+REFERENCE            operator_skin_mi6_5_1
+LANG_ENGLISH         "Handler"
+
+REFERENCE            operator_skin_mi6_5_1_desc
+LANG_ENGLISH         "Any shot, any distance. Fire away with Park's Handler Skin."
 
 REFERENCE            operator_skin_mi6_6_1
-LANG_ENGLISH         "UK MI6 SNAP SHOT"
+LANG_ENGLISH         "Snapshot"
+
+REFERENCE            operator_skin_mi6_6_1_desc
+LANG_ENGLISH         "Maintain bearing, keep your altitude, fire at will with Park's Snapshot Skin."
+
+REFERENCE            operator_skin_mi6_7_1
+LANG_ENGLISH         "Scorch"
+
+REFERENCE            operator_skin_mi6_7_1_desc
+LANG_ENGLISH         "Put your research to good use with Park's Scorch Skin."
+
+REFERENCE            operator_skin_mi6_8_1
+LANG_ENGLISH         "Bad Blood"
+
+REFERENCE            operator_skin_mi6_8_1_desc
+LANG_ENGLISH         "Ascend the throne with Parks Bad Blood Operator Outfit."
 
 REFERENCE            operator_skin_nav_10_1
-LANG_ENGLISH         "USA NAVY SEAL SOLITUDE"
+LANG_ENGLISH         "Last One Standing"
 
 REFERENCE            operator_skin_nav_11_1
-LANG_ENGLISH         "USA NAVY SEAL DISSIDENT"
+LANG_ENGLISH         "Dissident"
 
 REFERENCE            operator_skin_nav_1_1
 LANG_ENGLISH         "Portside"
@@ -263,23 +581,86 @@ LANG_ENGLISH         "Deep Dive"
 REFERENCE            operator_skin_nav_5_1
 LANG_ENGLISH         "Slugger"
 
+REFERENCE            operator_skin_nav_5_1_desc
+LANG_ENGLISH         "All this shooting is going work up an appetite with Baker's Slugger Skin."
+
 REFERENCE            operator_skin_nav_6_1
-LANG_ENGLISH         "USA NAVY SEAL CLOWN"
+LANG_ENGLISH         "Clown"
 
 REFERENCE            operator_skin_nav_7_1
-LANG_ENGLISH         "USA NAVY SEAL MAVERICK"
+LANG_ENGLISH         "Flight Jacket"
+
+REFERENCE            operator_skin_nav_7_1_desc
+LANG_ENGLISH         "Walk your own path with Baker???s Flight Jacket Skin."
 
 REFERENCE            operator_skin_nav_7_2
-LANG_ENGLISH         "USA NAVY-SEAL MAVERICK JACKAL"
+LANG_ENGLISH         "Basebrawl"
+
+REFERENCE            operator_skin_nav_7_2_desc
+LANG_ENGLISH         "Cast out your opponents with Baker???s Basebrawl Skin."
 
 REFERENCE            operator_skin_nav_7_3
-LANG_ENGLISH         "USA NAVY-SEAL MAVERICK PITCHER"
+LANG_ENGLISH         "Pitcher"
+
+REFERENCE            operator_skin_nav_7_3_desc
+LANG_ENGLISH         "Leave your mark with Baker???s Pitcher Skin."
 
 REFERENCE            operator_skin_nav_8_1
-LANG_ENGLISH         "USA NAVY SEAL KNUCKLEHEAD"
+LANG_ENGLISH         "Instigator"
+
+REFERENCE            operator_skin_nav_8_1_desc
+LANG_ENGLISH         "Wreck the scene with Stone's Instigator Skin."
 
 REFERENCE            operator_skin_nav_9_1
-LANG_ENGLISH         "USA_NAVY_SEAL_WOLF"
+LANG_ENGLISH         "Wolf"
+
+REFERENCE            operator_skin_nav_9_1_desc
+LANG_ENGLISH         "Show some teeth with Stone's Wolf Skin."
+
+REFERENCE            operator_skin_sti_1_1
+LANG_ENGLISH         "Redacted"
+
+REFERENCE            operator_skin_sti_1_2
+LANG_ENGLISH         "Toxic Terror"
+
+REFERENCE            operator_skin_sti_1_2_desc
+LANG_ENGLISH         "Poison their best-laid plans with Stitch???s Siberian Ghost Skin."
+
+REFERENCE            operator_skin_sti_1_3
+LANG_ENGLISH         "Storm Diver"
+
+REFERENCE            operator_skin_sti_1_3_desc
+LANG_ENGLISH         "Descend into darkness with Stitch???s Storm Diver Skin."
+
+REFERENCE            operator_skin_sti_1_4
+LANG_ENGLISH         "Spectre"
+
+REFERENCE            operator_skin_sti_1_4_desc
+LANG_ENGLISH         "Redeem yourself with Stitch???s Spectre Skin."
+
+REFERENCE            operator_skin_sti_1_5
+LANG_ENGLISH         "Siberian Ghost"
+
+REFERENCE            operator_skin_sti_1_5_desc
+LANG_ENGLISH         "The human caution light that loves a firefight. This is Stitch???s Toxic Terror Skin."
+
+REFERENCE            operator_skin_sti_2_1
+LANG_ENGLISH         "Prisoner"
+
+REFERENCE            operator_skin_sti_2_1_desc
+LANG_ENGLISH         "Rough them up a bit with Stitch???s Stripes Skin."
+
+REFERENCE            operator_skin_sti_2_2
+LANG_ENGLISH         "Stripes"
+
+REFERENCE            operator_skin_sti_2_2_desc
+LANG_ENGLISH         "Rough them up a bit with Stitch???s Stripes Skin."
+
+REFERENCE            operator_skin_sti_2_3
+LANG_ENGLISH         "New Warden"
+
+REFERENCE            operator_skin_sti_2_3_desc
+LANG_ENGLISH         "Put them on lockdown with Stitch???s New Warden Skin."
 
 REFERENCE            operator_skin_west_1_1
 LANG_ENGLISH         "Berliner"
@@ -288,31 +669,55 @@ REFERENCE            operator_skin_west_1_1_desc
 LANG_ENGLISH         " "
 
 REFERENCE            operator_skin_west_2_1_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         " Freeze 'em out with Beck's Icy Road Operator Outfit."
 
 REFERENCE            operator_skin_west_3_1
-LANG_ENGLISH         "GER WEST GSG9"
+LANG_ENGLISH         "Blacktop"
 
 REFERENCE            operator_skin_west_3_1_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "Be prepared for missions on either side of the wall with Beck's Blacktop Outfit. "
+
+REFERENCE            operator_skin_west_3_2
+LANG_ENGLISH         "Munchen"
+
+REFERENCE            operator_skin_west_3_2_desc
+LANG_ENGLISH         "Dare to be devilish with Beck's Munchen Operator Outfit."
+
+REFERENCE            operator_skin_west_3_3
+LANG_ENGLISH         "Operative"
 
 REFERENCE            operator_skin_west_4_1
-LANG_ENGLISH         "GER WEST RAIDER"
+LANG_ENGLISH         "Raider"
 
 REFERENCE            operator_skin_west_4_1_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "Pillage and pilfer their HQ with Beck's Raider Operator Outfit. "
 
 REFERENCE            operator_skin_west_4_2_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         "Leave a scar with Beck's Bruiser Operator Outfit.  "
 
 REFERENCE            operator_skin_west_4_3_desc
-LANG_ENGLISH         " "
+LANG_ENGLISH         " Paint the town red with Beck's Crash Course Operator Outfit."
+
+REFERENCE            operator_skin_west_6_1
+LANG_ENGLISH         "Racer"
+
+REFERENCE            operator_skin_west_6_2
+LANG_ENGLISH         "Velocity"
 
 REFERENCE            operator_skin_west_7_1
-LANG_ENGLISH         "GER WEST STEALTH"
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            operator_skin_west_9_1
+LANG_ENGLISH         "Nightops"
+
+REFERENCE            operator_skin_west_9_1_desc
+LANG_ENGLISH         "Lead Every Cyber attack with Beck's Nightops Operator Outfit."
 
 REFERENCE            operator_skin_woods_6_1
-LANG_ENGLISH         "USA WOODS EAGLE CLAW"
+LANG_ENGLISH         "Wind Jammer"
+
+REFERENCE            operator_skin_zey_1_1
+LANG_ENGLISH         "Zeyna"
 
 REFERENCE            operator_st1_skin_1_1
 LANG_ENGLISH         "Rapid Response"
@@ -324,43 +729,115 @@ REFERENCE            operator_st5_skin_1_1
 LANG_ENGLISH         "Cedar"
 
 REFERENCE            operator_west_skin_2_1
-LANG_ENGLISH         "GER WEST WINTER"
+LANG_ENGLISH         "Icy Road"
+
+REFERENCE            operator_west_skin_2_1_desc
+LANG_ENGLISH         "Freeze 'em out with Beck's Icy Road Operator Skin."
+
+REFERENCE            operator_west_skin_3_1
+LANG_ENGLISH         "Blacktop"
+
+REFERENCE            operator_west_skin_3_1_desc
+LANG_ENGLISH         "Crack the case with Beck's Operative Skin."
+
+REFERENCE            operator_west_skin_4_1
+LANG_ENGLISH         "Raider"
+
+REFERENCE            operator_west_skin_4_1_desc
+LANG_ENGLISH         "Paint the town red with Beck's Crash Course Skin."
 
 REFERENCE            operator_west_skin_4_2
-LANG_ENGLISH         "GER WEST RAIDER BRUISER"
+LANG_ENGLISH         "Bruiser"
+
+REFERENCE            operator_west_skin_4_2_desc
+LANG_ENGLISH         "Leave a scar with Beck's Bruiser Skin."
 
 REFERENCE            operator_west_skin_4_3
-LANG_ENGLISH         "GER WEST RAIDER WILDCAT"
+LANG_ENGLISH         "Crash Course"
+
+REFERENCE            operator_west_skin_4_3_desc
+LANG_ENGLISH         "Paint the town red with Beck's Crash Course Skin."
 
 REFERENCE            operator_west_skin_5_1
-LANG_ENGLISH         "GER WEST BOMBER"
+LANG_ENGLISH         "Bomber"
+
+REFERENCE            operator_west_skin_5_1_desc
+LANG_ENGLISH         "Every shot counts when you're in the sky, don't miss with Beck's Bomber Skin."
+
+REFERENCE            operator_west_skin_6_1
+LANG_ENGLISH         "Racer"
+
+REFERENCE            operator_west_skin_7_1
+LANG_ENGLISH         "Stealth"
+
+REFERENCE            operator_west_skin_7_1_desc
+LANG_ENGLISH         "Hunt them down, every last one with Stone's Stealth Skin."
+
+REFERENCE            operator_west_skin_8_1
+LANG_ENGLISH         "Velocity"
 
 REFERENCE            operator_wood_skin_1_1
 LANG_ENGLISH         "Broken Arrow"
 
+REFERENCE            operator_wood_skin_2_1
+LANG_ENGLISH         "Trucker"
+
+REFERENCE            operator_wood_skin_2_1_desc
+LANG_ENGLISH         "Always go the extra mile with Woods' Trucker Skin."
+
 REFERENCE            operator_wood_skin_3_1
-LANG_ENGLISH         "USA WOODS BIKER"
+LANG_ENGLISH         "Biker"
+
+REFERENCE            operator_wood_skin_3_1_desc
+LANG_ENGLISH         "Wail on your opponents with the Woods' Biker Skin. "
 
 REFERENCE            operator_wood_skin_4_1
-LANG_ENGLISH         "USA WOODS ELIMINATOR"
+LANG_ENGLISH         "Eliminator"
+
+REFERENCE            operator_wood_skin_4_1_desc
+LANG_ENGLISH         "Kick ass. Take names. Double check the bubble gum. This is Woods' Eliminator Operator Skin."
 
 REFERENCE            operator_wood_skin_5_1
-LANG_ENGLISH         "USA WOODS FISHERMAN"
+LANG_ENGLISH         "Fisherman"
+
+REFERENCE            operator_wood_skin_5_1_desc
+LANG_ENGLISH         "Catch and don???t release with Woods' Fisherman Skin."
 
 REFERENCE            operator_wood_skin_6_1
-LANG_ENGLISH         "USA WOODS EAGLE CLAW"
+LANG_ENGLISH         "Wind Jammer"
+
+REFERENCE            operator_wood_skin_6_1_desc
+LANG_ENGLISH         "Be the top coat with Woods' Wind Jammer Operator Outfit."
 
 REFERENCE            operator_wood_skin_6_2
-LANG_ENGLISH         "USA WOODS EAGLE CLAW METRO"
+LANG_ENGLISH         "Metro"
+
+REFERENCE            operator_wood_skin_6_2_desc
+LANG_ENGLISH         "Cloaked. Covert. Combat-ready. This is Woods??? Metro Skin."
 
 REFERENCE            operator_wood_skin_6_3
-LANG_ENGLISH         "USA WOODS EAGLE CLAW UNDERGROWTH"
+LANG_ENGLISH         "Undergrowth"
+
+REFERENCE            operator_wood_skin_6_3_desc
+LANG_ENGLISH         "Try not to stand out, try not to stand at all with Woods' Undergrowth Skin."
+
+REFERENCE            operator_wood_skin_7_1
+LANG_ENGLISH         "USA Woods Sandstorm"
 
 REFERENCE            operator_wood_skin_8_1
-LANG_ENGLISH         "USA WOODS HOLIDAY WOODS"
+LANG_ENGLISH         "Sweater Weather"
+
+REFERENCE            operator_wood_skin_8_1_desc
+LANG_ENGLISH         "Lay off the eggnog. Get Woods' Sweater Weather Skin."
+
+REFERENCE            operator_wood_skin_9_1
+LANG_ENGLISH         "Nightops"
 
 REFERENCE            origin01
-LANG_ENGLISH         "origin01"
+LANG_ENGLISH         "Flight Plan"
+
+REFERENCE            origin01_desc
+LANG_ENGLISH         "Hit them every hour on the hour with the Flight Plan Watch."
 
 REFERENCE            south_korean
 LANG_ENGLISH         "SOUTH KOREAN"
@@ -369,70 +846,82 @@ REFERENCE            sticker_t9001
 LANG_ENGLISH         "Zombietieins3"
 
 REFERENCE            t9adler
-LANG_ENGLISH         "ADLER"
+LANG_ENGLISH         "Adler"
 
 REFERENCE            t9adler_background
 LANG_ENGLISH         "Trained as a Green Beret, Adler entered the CIA???s Special Activities Division in 1959, after which he only appears sporadically in the Agency???s records. While an undisputed leader, he is an enigma to all that serve with him."
 
+REFERENCE            t9bdz
+LANG_ENGLISH         "Bulldozer"
+
 REFERENCE            t9cia
-LANG_ENGLISH         "SIMS"
+LANG_ENGLISH         "Sims"
 
 REFERENCE            t9cia_background
 LANG_ENGLISH         "A technological genius with special forces training, Sims joined MACV-SOG in 1967, serving on Russell Adler???s team in Vietnam. He always provides a steady hand and sense of humor under pressure, no matter the circumstances."
 
 REFERENCE            t9cub
-LANG_ENGLISH         "GARCIA"
+LANG_ENGLISH         "Garcia"
 
 REFERENCE            t9cub_background
 LANG_ENGLISH         "Growing up on the streets before joining a pro-revolutionary street gang, Garcia is a ruthless assassin employed by the DGI.  His face is the last thing his victims see, as he coldly watches the light go out in their eyes."
 
+REFERENCE            t9esp
+LANG_ENGLISH         "Competitor"
+
 REFERENCE            t9kgb
-LANG_ENGLISH         "PORTNOVA"
+LANG_ENGLISH         "Portnova"
 
 REFERENCE            t9kgb_background
 LANG_ENGLISH         "A child mathematical genius, Portnova worked in cryptography before being inducted into KGB Directorate V.  Brilliant, deadly, and fanatically loyal to the state, she represents a threat either on or off the battlefield."
 
 REFERENCE            t9mi6
-LANG_ENGLISH         "PARK"
+LANG_ENGLISH         "Park"
 
 REFERENCE            t9mi6_background
 LANG_ENGLISH         "While studying as a young prodigy at Oxford, Park lost her brother to a terrorist attack. With new focus she joined MI6, and quickly became one of their leading experts on international paramilitary organizations."
 
 REFERENCE            t9navyseal
-LANG_ENGLISH         "BAKER"
+LANG_ENGLISH         "Baker"
 
 REFERENCE            t9navyseal_background
 LANG_ENGLISH         "Reluctantly following in his father???s footsteps, Baker enlisted and qualified as a Navy SEAL. He saw action in Operation Condor as a Scout Sniper. His temper never bothered Adler, who recruited him to help hunt down Perseus."
 
 REFERENCE            t9st1
-LANG_ENGLISH         "HUNTER"
+LANG_ENGLISH         "Hunter"
 
 REFERENCE            t9st1_background
 LANG_ENGLISH         "First generation of his family born on US soil; his father served as a translator for US forces during the Korean War.??Enlisted 1977, volunteered and passed selection for the US Army Rangers 1979."
 
 REFERENCE            t9st3
-LANG_ENGLISH         "STONE"
+LANG_ENGLISH         "Stone"
 
 REFERENCE            t9st3_background
 LANG_ENGLISH         "Member of the 22 SAS Special Projects Team, trained in Hostage Rescue and CQB Tactics. Dishonorably discharged, he became a mercenary selling his skills to the highest bidder. His service records remain classified."
 
 REFERENCE            t9st5
-LANG_ENGLISH         "POWERS"
+LANG_ENGLISH         "Powers"
 
 REFERENCE            t9st5_background
 LANG_ENGLISH         "Former Marine Lieutenant Powers was accused of being a foreign agent and fled to the USSR. It remains plausible that the CIA may have engineered the scenario, attempting to embed her within the Soviet intelligence apparatus."
 
+REFERENCE            t9sth
+LANG_ENGLISH         "Stitch"
+
 REFERENCE            t9west
-LANG_ENGLISH         "BECK"
+LANG_ENGLISH         "Beck"
 
 REFERENCE            t9west_background
-LANG_ENGLISH         "Expert in demolitions and bomb disposal, Beck is a tactical operator serving in Dienseteinheit IX.?? Calm and dependable, he defuses tense situations with the dry humor of someone who regularly handles explosives."
+LANG_ENGLISH         "Expert in demolitions and bomb disposal, Beck is a tactical operator serving in Diensteinheit IX.?? Calm and dependable, he defuses tense situations with the dry humor of someone who regularly handles explosives."
 
 REFERENCE            t9woods
-LANG_ENGLISH         "WOODS"
+LANG_ENGLISH         "Woods"
 
 REFERENCE            t9woods_background
 LANG_ENGLISH         "A self-reliant loner resulting from a youth spent on the streets, Woods trained as a Marine before entering the CIA???s Special Activities Division. Years spent as a POW in Vietnam prove his sheer resilience."
+
+REFERENCE            t9zey
+LANG_ENGLISH         "Zeyna"
 
 REFERENCE            warsaw_pact
 LANG_ENGLISH         "WARSAW PACT"

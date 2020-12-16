@@ -1,0 +1,7576 @@
+{
+64999 "1"
+2703 "8 0 37 37"
+2498 "_e0"
+72 "0.0"
+212 "worldspawn"
+13774 "1"
+13775 "512"
+13776 "1"
+20376 "1"
+453 "1"
+25224 "1"
+25872 "1"
+32059 "0"
+692 "90"
+39993 "1"
+39994 "0.5"
+41035 "3"
+967 "0.82 0.89 0.94"
+968 "-45 0 0"
+50163 "0"
+969 "0"
+54237 "0"
+}
+{
+80 "0 225 0"
+212 "info_player_start"
+709 "128 3200 88"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-4528 -5712 592"
+1072 "minimap_corner"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-2880 4736 128"
+1072 "minimap_corner"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-5632 -5216 688"
+1072 "airstrikeheight"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "6149.75 -170 62.5"
+1072 "char_west_b"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "6155.07 21.299 0"
+1072 "charroom_char_west_b"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "6140 -81 58"
+1072 "char_west_b_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "6144 0 0"
+1072 "charroom_fx_west_b"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "6186 -99.5 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "6124 44 0"
+1072 "charroom_char_west_b_dog"
+}
+{
+35292 "1"
+80 "0 345 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire1"
+709 "6219.75 90 99.5"
+41154 "1"
+925 "8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*1"
+709 "6147 38 58"
+}
+{
+35292 "1"
+80 "0 337.996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire2"
+709 "6210 44 88"
+41154 "1"
+925 "8"
+}
+{
+35292 "1"
+80 "0 21.9996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire3"
+709 "6098 52 94"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_back"
+709 "6168 -48 0"
+41154 "1"
+1072 "pf3_auto1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*2"
+709 "6187 149 58"
+}
+{
+35292 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02"
+709 "6168 -48 0"
+41154 "1"
+925 "8"
+1070 "pf3_auto1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*3"
+709 "6207 -25 0"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-3096 3072 112"
+1072 "gunsmith_fx"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "test_gunsmith_blackbackground"
+709 "-2918 3062 0"
+}
+{
+80 "0 89.9999 0"
+212 "script_model"
+20186 "default"
+652 "test_gunsmith_blackbackground"
+709 "-3108 3084 0"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-3008 3074 58"
+845 "55"
+1072 "dev_warp_loc"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3061.5 116.5"
+1072 "camera_mp_gunsmith_preview_laser"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3072 3071 110"
+1072 "camera_mp_gunsmith_preview_magazine"
+}
+{
+80 "0 129.644 0"
+212 "script_origin"
+20186 "default"
+709 "-3080 3031 115"
+1072 "camera_mp_gunsmith_preview_muzzle"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3089.5 3095.5 117.5"
+1072 "camera_mp_gunsmith_preview_optic"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3075.5 3078 111"
+1072 "camera_mp_gunsmith_preview_reargrip"
+}
+{
+80 "0.999971 203 9.56471e-08"
+212 "script_origin"
+20186 "default"
+709 "-3057 3098 115"
+1072 "camera_mp_gunsmith_preview_stock"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3053 112"
+1072 "camera_mp_gunsmith_preview_underbarrel"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3073 3074.5 111.5"
+1072 "camera_mp_gunsmith_preview_large_reargrip"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3115 3072 118"
+1072 "camera_mp_gunsmith_preview_small_laser"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 3077 113"
+1072 "camera_mp_gunsmith_preview_small_magazine"
+}
+{
+80 "0 134.907 0"
+212 "script_origin"
+20186 "default"
+709 "-3081 3047 117"
+1072 "camera_mp_gunsmith_preview_small_muzzle"
+}
+{
+80 "2.99991 250.462 -1.78727e-07"
+212 "script_origin"
+20186 "default"
+709 "-3087.51 3091.43 119"
+1072 "camera_mp_gunsmith_preview_small_optic"
+}
+{
+80 "0 201.841 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 3083 115"
+1072 "camera_mp_gunsmith_preview_small_reargrip"
+}
+{
+80 "0.999971 193 7.44999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3059.5 3085.5 116"
+1072 "camera_mp_gunsmith_preview_small_stock"
+}
+{
+80 "0 164 0"
+212 "script_origin"
+20186 "default"
+709 "-3084 3071.5 116"
+1072 "camera_mp_gunsmith_preview_small_trigger"
+}
+{
+80 "2.99995 165 -8.76438e-07"
+212 "script_origin"
+20186 "default"
+709 "-3075 3064.5 118"
+1072 "camera_mp_gunsmith_preview_small_barrel"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3063 111"
+1072 "camera_mp_gunsmith_preview_large_magazine"
+}
+{
+80 "0 120.5 0"
+212 "script_origin"
+20186 "default"
+709 "-3084 3013 115"
+1072 "camera_mp_gunsmith_preview_large_muzzle"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3087 3098.5 118.5"
+1072 "camera_mp_gunsmith_preview_large_optic"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3040 3074 113"
+1072 "camera_mp_gunsmith_preview"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "weapon_wm_ar_mike4_brprop"
+709 "-3096 3070 114"
+41154 "1"
+1072 "weapon_loc_preview"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3028 3065 113"
+1072 "camera_mp_gunsmith_preview_large"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3060 3077 117"
+1072 "camera_mp_gunsmith_preview_secondary"
+}
+{
+80 "2.99991 164.96 -1.08957e-06"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3053 116.5"
+1072 "camera_mp_gunsmith_preview_barrel"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3074.5 3078 111.5"
+1072 "camera_mp_gunsmith_preview_large_reargrip_alt1"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3062 3112.5 115"
+1072 "camera_mp_gunsmith_preview_large_stock"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3063.5 3047.5 112"
+1072 "camera_mp_gunsmith_preview_large_underbarrel"
+}
+{
+80 "2.99991 140.96 8.93635e-08"
+212 "script_origin"
+20186 "default"
+709 "-3066 3014 116"
+1072 "camera_mp_gunsmith_preview_large_barrel"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-2944 3070 105"
+1072 "camera_mp_gunsmith_preview_riot"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3075.5 3072 111"
+1072 "camera_mp_gunsmith_preview_reargrip_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3071 3076 109"
+1072 "camera_mp_gunsmith_preview_magazine_alt1"
+}
+{
+80 "2.99991 164.96 -1.08957e-06"
+212 "script_origin"
+20186 "default"
+709 "-3050.5 3038.5 116.5"
+1072 "camera_mp_gunsmith_preview_barrel_alt1"
+}
+{
+80 "0 129.644 0"
+212 "script_origin"
+20186 "default"
+709 "-3081 3022 115"
+1072 "camera_mp_gunsmith_preview_muzzle_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3066 116.5"
+1072 "camera_mp_gunsmith_preview_laser_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3070.5 116.5"
+1072 "camera_mp_gunsmith_preview_laser_alt2"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3089.5 3089.5 117.5"
+1072 "camera_mp_gunsmith_preview_optic_alt1"
+}
+{
+80 "0 200 0"
+212 "script_origin"
+20186 "default"
+709 "-3069 3084 115"
+1072 "camera_mp_gunsmith_preview_magazine_alt2"
+}
+{
+80 "0.999971 203 9.56471e-08"
+212 "script_origin"
+20186 "default"
+709 "-3057 3090 115"
+1072 "camera_mp_gunsmith_preview_stock_alt1"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3037 112"
+1072 "camera_mp_gunsmith_preview_large_underbarrel_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 3051 116.5"
+1072 "camera_mp_gunsmith_preview_large_laser"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3072.5 3083 113"
+1072 "camera_mp_gunsmith_preview_reargrip_alt2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3065 115"
+1072 "camera_mp_gunsmith_preview_large_magazine_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 3075 110"
+1072 "camera_mp_gunsmith_preview_large_magazine_alt2"
+}
+{
+80 "0 120.5 0"
+212 "script_origin"
+20186 "default"
+709 "-3085 3002 115"
+1072 "camera_mp_gunsmith_preview_large_muzzle_alt1"
+}
+{
+80 "1.99998 135 5.33284e-08"
+212 "script_origin"
+20186 "default"
+709 "-3067 2998 116"
+1072 "camera_mp_gunsmith_preview_large_barrel_alt1"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3062 3118.5 115"
+1072 "camera_mp_gunsmith_preview_stock_alt2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 3074 116.5"
+1072 "camera_mp_gunsmith_preview_small_magazine_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3080 3067.5 112.5"
+1072 "camera_mp_gunsmith_preview_watch"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3089.49 114"
+1072 "camera_mp_gunsmith_preview_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3087.5 3091.49 113.5"
+1072 "camera_mp_gunsmith_preview_large_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3089 3089.49 116.5"
+1072 "camera_mp_gunsmith_preview_small_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3084.99 115.5"
+1072 "camera_mp_gunsmith_preview_charm_alt1"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3087.99 113.5"
+1072 "camera_mp_gunsmith_preview_large_charm_alt1"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3095.99 114.5"
+1072 "camera_mp_gunsmith_preview_charm_alt2"
+}
+{
+80 "5.00002 245 -2.08353e-06"
+212 "script_origin"
+20186 "default"
+709 "-3088 3087.99 116.5"
+1072 "camera_mp_gunsmith_preview_large_charm_alt2"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 3091.99 115"
+1072 "camera_mp_gunsmith_preview_charm_alt3"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3082 128"
+1072 "camera_mp_gunsmith_preview_sticker"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3076 128"
+1072 "camera_mp_gunsmith_preview_large_sticker"
+}
+{
+80 "20 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3075 3081 123"
+1072 "camera_mp_gunsmith_preview_small_sticker"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3087 125"
+1072 "camera_mp_gunsmith_preview_sticker_alt1"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3080 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt2"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 3084 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt3"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064 3079.5 130"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt1"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 3072 128"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt2"
+}
+{
+80 "27 197 2.99995"
+212 "script_origin"
+20186 "default"
+709 "-3063.5 3084 127.5"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt3"
+}
+{
+80 "30 190 5.00002"
+212 "script_origin"
+20186 "default"
+709 "-3068 3089 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt4"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3087 3077.99 115"
+1072 "camera_mp_gunsmith_preview_charm_alt4"
+}
+{
+80 "25 165 -5.05149e-06"
+212 "script_origin"
+20186 "default"
+709 "-3046 3037.5 139"
+1072 "camera_mp_gunsmith_preview_barrel_alt2"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3059 3109.5 115"
+1072 "camera_mp_gunsmith_preview_large_stock_alt1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*4"
+709 "-3136 3034 116"
+1072 "weapRarity01"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*5"
+709 "-3136 3034 116"
+1072 "weapRarity02"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*6"
+709 "-3136 3034 116"
+1072 "weapRarity03"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*7"
+709 "-3136 3034 116"
+1072 "weapRarity04"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*8"
+709 "-3136 3034 116"
+1072 "weapRarity05"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3129.75 3054.75 116.5"
+1072 "camera_mp_gunsmith_preview_large_laser_alt1"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3188 3022.5 115.5"
+1072 "weapRarityWatch"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3148 3029 116"
+1072 "weapRarityMedium"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3136 3020 116"
+1072 "weapRarityLarge"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3168 3032 120"
+1072 "weapRaritySmall"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3086.5 3100.75 118.75"
+1072 "camera_mp_gunsmith_preview_large_optic_alt1"
+}
+{
+80 "0 201.841 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 3084 115"
+1072 "camera_mp_gunsmith_preview_small_reargrip_alt1"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "test_gunsmith_blackbackground_character"
+709 "-3072 0 -2"
+925 "8"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+709 "-3060.93 21.299 0"
+1072 "charroom_char_preview"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "-3066.25 -170 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "-3066.25 -170 62.5"
+1072 "char_preview"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 -81 58"
+1072 "char_preview_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-3072 0 0"
+1072 "charroom_fx_preview"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+709 "0 0 0"
+1072 "charroom_char_tango_west"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+709 "0 0 0"
+1072 "charroom_char_tango_east"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "12 -196 4"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "354.32 89.9995 -9.23884e-07"
+212 "script_origin"
+20186 "default"
+709 "8 -197 42"
+1072 "char_tango"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "0 0 0"
+1072 "charroom_fx_tango"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*9"
+709 "-8416 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip8x8x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*10"
+709 "-8128 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player8x8x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*11"
+709 "-8320 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*12"
+709 "-8512 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip32x32x32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*13"
+709 "-8160 -7968 264"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderMetal264"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*14"
+709 "-8448 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*15"
+709 "-8576 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*16"
+709 "-8320 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*17"
+709 "-8512 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*18"
+709 "-8704 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*19"
+709 "-8384 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip256x256x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*20"
+709 "-8224 -7968 192"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderWood192"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*21"
+709 "-8640 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*22"
+709 "-8512 -7424 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip512x512x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*23"
+709 "-8224 -8032 192"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderMetal192"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*24"
+709 "-7840 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*25"
+709 "-7712 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*26"
+709 "-7632 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*27"
+709 "-8064 -8080 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*28"
+709 "-8160 -8032 264"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderWood264"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*29"
+709 "-8128 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "nosight256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*30"
+709 "-8064 -8000 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "nosight128x128x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*31"
+709 "-8224 -8096 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mountCorner128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*32"
+709 "-8064 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*33"
+709 "-7840 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*34"
+709 "-7712 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*35"
+709 "-7632 -8112 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*36"
+709 "-7872 -8064 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "stairsHalfFlight128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*37"
+709 "-7680 -8064 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "stairsFullFlight128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*38"
+709 "-8320 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip32x32x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*39"
+709 "-8224 -8176 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player32x32x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*40"
+709 "-7872 -7808 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*41"
+709 "-8000 -7424 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player512x512x8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_03"
+709 "3065 45 0"
+41154 "1"
+}
+{
+35292 "1"
+80 "0 345 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire1"
+709 "3117.25 237.75 114.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_02"
+709 "3065 45 -0.5"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_04"
+709 "3064.25 45 0"
+41154 "1"
+}
+{
+35292 "1"
+80 "10.0136 247.996 -1.78146e-06"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire2"
+709 "3161.5 86.5 91.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_01"
+709 "3065 45 0"
+41154 "1"
+925 "8"
+}
+{
+35292 "1"
+80 "0 21.9996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire3"
+709 "3033 225.25 108.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 339.596 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_02_b"
+709 "3094 107 57.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "3083.07 21.299 0"
+1072 "charroom_char_east_a_dog"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "3083.07 21.299 0"
+1072 "charroom_char_east_a"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "3077.75 -170 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "3077.75 -170 62.5"
+1072 "char_east_a"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "3068 -81 58"
+1072 "char_east_a_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "3072 0 0"
+1072 "charroom_fx_east_a"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "6144 3072 0"
+1072 "charroom_fx_quartermaster"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "6144 2776 0"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*42"
+709 "6151 3370 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*43"
+709 "6151 3408 90"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*44"
+709 "6151 3370 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*45"
+709 "6151 3370 0"
+}
+{
+80 "0.99997 89.9999 -1.35091e-07"
+212 "script_origin"
+20186 "default"
+709 "6144 2924 42"
+1072 "char_quartermaster"
+}
+{
+80 "0 0 0"
+212 "script_origin"
+20186 "default"
+652 "carepackage_base"
+709 "6144 3248 0"
+1072 "quartermaster_crate_1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_3"
+709 "6192 3016.25 90.25"
+1072 "quartermaster_target_3"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_2"
+709 "6144 3016.25 90.25"
+1072 "quartermaster_target_2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_1"
+709 "6096 3016.25 90.25"
+1072 "quartermaster_target_1"
+}
+{
+80 "3.99997 90 -2.76443e-07"
+212 "script_origin"
+20186 "default"
+709 "6144 2775.5 54"
+1072 "char_quartermaster_detail"
+}
+{
+80 "0 152 0"
+212 "script_struct"
+20186 "default"
+709 "68 3032 8"
+845 "55"
+1072 "dev_warp_loc"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*46"
+709 "-2 3075 -17"
+}
+{
+35292 "1"
+80 "0 73.4639 0"
+212 "script_model"
+20186 "default"
+652 "military_gunsmith_a"
+34215 "0.85"
+709 "-2.99998 3070 15.5"
+41154 "1"
+925 "8"
+}
+{
+80 "0 90 0"
+212 "script_origin"
+20186 "default"
+709 "2.28882e-05 3074 48"
+1072 "gunbench_fx"
+}
+{
+80 "41 145 0"
+212 "script_origin"
+20186 "default"
+709 "19.3213 3060.79 63.6841"
+1072 "camera_mp_gunsmith_alt_s"
+}
+{
+80 "0 251.062 88"
+212 "script_origin"
+20186 "default"
+652 "weapon_wm_pi_decho_brprop"
+709 "7.46541 3064.21 47.25"
+1072 "weapon_loc_hq2"
+}
+{
+80 "40.459 150.859 -4.24094e-06"
+212 "script_origin"
+20186 "default"
+709 "44.3645 3031.73 95.5989"
+1072 "camera_mp_gunsmith_alt_o_large"
+}
+{
+80 "18 173 -5.27661e-06"
+212 "script_origin"
+20186 "default"
+709 "24 3079.5 59"
+1072 "camera_mp_gunsmith_alt_l"
+}
+{
+80 "27.0343 131.669 1.74725"
+212 "script_origin"
+20186 "default"
+709 "17.572 3086.52 58.776"
+1072 "camera_mp_gunsmith_alt_z"
+}
+{
+80 "51.9999 151.315 -2.12347e-05"
+212 "script_origin"
+20186 "default"
+709 "18 3087 63"
+1072 "camera_mp_gunsmith_alt_y"
+}
+{
+80 "11.9999 157.5 -1.71255e-06"
+212 "script_origin"
+20186 "default"
+709 "77.5 3034.5 73"
+1072 "camera_mp_gunsmith_overview"
+}
+{
+80 "360 50.247 76.9975"
+212 "script_origin"
+20186 "default"
+652 "parts_wristwear_mp_watch_a_wm"
+709 "1.25002 3078 50.5"
+41154 "1"
+1072 "weapon_loc_watch"
+}
+{
+80 "40.686 145.185 -1.46529e-05"
+212 "script_origin"
+20186 "default"
+709 "31.2539 3041.73 80.4955"
+1072 "camera_mp_gunsmith_alt_o"
+}
+{
+80 "37.253 162.878 -8.26912e-06"
+212 "script_origin"
+20186 "default"
+709 "39.6111 3059.5 93.5726"
+1072 "camera_mp_gunsmith_alt_p_large"
+}
+{
+80 "22 164 -1.91897e-06"
+212 "script_origin"
+20186 "default"
+709 "33.5 3084 61"
+1072 "camera_mp_gunsmith_alt_perks"
+}
+{
+80 "38 167 -1.80825e-06"
+212 "script_origin"
+20186 "default"
+709 "23.5 3092.5 58.5"
+1072 "camera_mp_gunsmith_alt_specialist"
+}
+{
+80 "22 156 -1.91897e-06"
+212 "script_origin"
+20186 "default"
+709 "8.50002 3072 54.5"
+1072 "camera_mp_gunsmith_alt_watch"
+}
+{
+80 "53 178.5 -2.07065e-05"
+212 "script_origin"
+20186 "default"
+709 "36.5 3073 103"
+1072 "camera_mp_gunsmith_armory"
+}
+{
+80 "6.91981 277.29 77.0516"
+212 "script_origin"
+20186 "default"
+652 "military_prop_ar_akilo47"
+709 "-7.49997 3081 50.5"
+41154 "1"
+1072 "weapon_loc_hq1"
+}
+{
+80 "21 150.977 -4.28351e-06"
+212 "script_origin"
+20186 "default"
+709 "15 3085 58.5"
+1072 "camera_mp_gunsmith_alt_t"
+}
+{
+80 "37.834 162.737 -3.14211e-06"
+212 "script_origin"
+20186 "default"
+709 "24.5454 3066.5 80.6292"
+1072 "camera_mp_gunsmith_alt_p"
+}
+{
+80 "34 144 1.41562e-06"
+212 "script_origin"
+20186 "default"
+709 "58 3018.5 107.25"
+1072 "camera_mp_gunsmith"
+}
+{
+80 "51.9999 162.999 -1.34556e-06"
+212 "script_origin"
+20186 "default"
+709 "20 3083 63"
+1072 "camera_mp_gunsmith_alt_x"
+}
+{
+80 "1.54062 270.06 2.22477"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "272 -7132 11.9035"
+43887 "mp_lobby_floor_02"
+845 "lurk"
+1072 "lobby_teaser"
+}
+{
+80 "1.06722e-07 211.956 3.81402"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "188 -5840 1.56828"
+43887 "mp_lobby_floor_01"
+845 "lean"
+1072 "lobby_teaser"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-18 -6144 0"
+1072 "charroom_char_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-34 -6060 0"
+1072 "tourroom_charslot_left_05"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-66 -6036 0"
+1072 "tourroom_charslot_left_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "82 -6060 0"
+1072 "tourroom_charslot_right_05"
+}
+{
+80 "0 85 0"
+212 "script_origin"
+20186 "default"
+709 "-26 -6400 48"
+1072 "char_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "114 -6044 0"
+1072 "tourroom_charslot_right_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "26 -6164 0"
+1072 "lobby_charslot_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-50 -6132 0"
+1072 "lobby_charslot_03_dog"
+}
+{
+80 "1.99998 79.9999 -2.9796e-08"
+212 "script_origin"
+20186 "default"
+709 "-20 -6280 58"
+1072 "char_lobby_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-18 -6144 0"
+1072 "charroom_fx_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "74 -6148 0"
+1072 "lobby_charslot_02_dog"
+}
+{
+80 "0 85 0"
+212 "script_struct"
+20186 "default"
+709 "-14 -6400 8"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "114 -6128 0"
+1072 "lobby_charslot_04_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-14 -6084 0"
+1072 "lobby_charslot_08"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-26 -6146 0"
+1072 "lobby_charslot_03"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "26 -6108 0"
+1072 "lobby_charslot_05"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-38 -6168 0"
+1072 "tourroom_charslot_left_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "92 -6082 0"
+1072 "lobby_charslot_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "2 -6180 0"
+1072 "lobby_charslot_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "58 -6004 0"
+1072 "lobby_charslot_11"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "50 -6154 0"
+1072 "lobby_charslot_02"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-82 -6160 0"
+1072 "tourroom_charslot_left_02_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "92 -6124 0"
+1072 "lobby_charslot_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "60 -6052 0"
+1072 "lobby_charslot_07"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "2 -6030 0"
+1072 "lobby_charslot_10"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-44 -6040 0"
+1072 "lobby_charslot_09"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "88 -5982 0"
+1072 "lobby_charslot_12"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "66 -6168 0"
+1072 "tourroom_charslot_right_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-80 -6104 0"
+1072 "tourroom_charslot_left_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-58 -6152 0"
+1072 "tourroom_charslot_left_02"
+}
+{
+80 "0 85 0"
+212 "script_origin"
+20186 "default"
+709 "-14 -6400 48"
+1072 "char_tournament_overcam"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-42 -6112 0"
+1072 "tourroom_charslot_left_03"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "110 -6160 0"
+1072 "tourroom_charslot_right_02_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-18 -6160 0"
+1072 "tourroom_charslot_left_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "46 -6160 0"
+1072 "tourroom_charslot_right_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "118 -6104 0"
+1072 "tourroom_charslot_right_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "86 -6152 0"
+1072 "tourroom_charslot_right_02"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "78 -6112 0"
+1072 "tourroom_charslot_right_03"
+}
+{
+80 "11.9998 270 8.5208e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -7459.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -0.0781059"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_ribbon_bow_01_nophysics"
+709 "193.765 -7754 80.1941"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_ribbon_bow_01_nophysics"
+709 "-185.961 -7047 75.8113"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-142.77 -8642.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "9.99992 270 -4.74377e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -7675.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -8588.77 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "7.99989 89.9997 -1.26737e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -8478.77 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "350 89.9997 1.34418e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -8366.77 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "7.99994 89.9997 2.9601e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -8252.77 144.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "353.999 89.9997 1.23382e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -8140.77 144.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "11.9998 270 8.5208e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -8151.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "9.99992 270 -4.74377e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -8367.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "353.999 270 6.42643e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -8263.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -8589.23 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-45.77 -7939.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -8029.23 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "151.23 -8642.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -8028.77 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "58.23 -7939.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "350 270 4.74384e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -8481.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "353.999 270 6.42643e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -7571.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-61.77 -7247.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -7337.23 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "42.23 -7247.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "350 270 4.74384e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -7789.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-165.77 -7247.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-269.77 -7247.25 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*47"
+709 "-132 -7431 118"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*48"
+709 "120 -5079 164"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "9.66269 14.5344 2.4972"
+212 "script_model"
+20186 "default"
+652 "toy_snowman_nophysics"
+709 "-77.3388 -7912.12 123.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*49"
+709 "-208 -7036 11"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*50"
+709 "-1 -5590 136"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "3.65021 325.211 -0.447264"
+212 "script_model"
+20186 "default"
+652 "toy_snowman_nophysics"
+709 "162.021 -7057.16 -1.25002"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_01_nophysics"
+709 "-169.86 -7109.05 0.25"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*51"
+709 "217 -8590 138"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_wreath_01_lit_frontend7b"
+709 "-270.257 -7047 77.912"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 250.965 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_stack_01_nophysics"
+709 "169.788 -5131.14 9.75"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_christmas_tree_01_frontend7b"
+709 "-217.217 -7104.81 0.249992"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*52"
+709 "-110 -5148 146"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*53"
+709 "201 -5171 39"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 313.191 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_01_nophysics"
+709 "168.567 -3944.71 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "36.2176 247.772 -90.0008"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_wreath_01_lit_frontend7b"
+709 "165.096 -3964.72 9.8858"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "359.275 79.8293 -1.98986"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_03_nophysics"
+709 "167.96 -8384.56 27.2056"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*54"
+709 "200 -7175 33"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 186.331 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_stack_01_nophysics"
+709 "189.29 -3892.07 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 186.331 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_04_nophysics"
+709 "146.29 -3932.07 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 37.1705 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_03_nophysics"
+709 "168.8 -5097.86 20"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*55"
+709 "-1 -7946 139"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 79.829 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_04_nophysics"
+709 "152.247 -8377.43 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*56"
+709 "-142 -5290 10"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*57"
+709 "-111 -4278 146"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_christmas_tree_01_frontend7b"
+709 "207.44 -5028.78 0.249992"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_01_nophysics"
+709 "168.64 -5097.8 4.25"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_ribbon_bow_01_nophysics"
+709 "159.25 -5198 73"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_ribbon_bow_01_nophysics"
+709 "159.25 -4998.5 73"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_wreath_01_lit_frontend7b"
+709 "164.294 -5100 120.674"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "1.94042 30.3777 3.12325"
+212 "script_model"
+20186 "default"
+652 "toy_snowman_nophysics"
+709 "-143.824 -5392.5 -3.75002"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*58"
+709 "113 -7592 146"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*59"
+709 "-217 -8591 137"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*60"
+709 "-189 -7227 162"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 150 0"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "156.464 -4982.34 0.179924"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6238.77 150.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "7.99989 89.9997 -1.26737e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6128.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "350 89.9997 1.34418e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6016.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "7.99994 89.9997 2.9601e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -5902.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "353.999 89.9997 1.23382e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -5790.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "11.9998 270 8.5208e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -5801.23 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "9.99992 270 -4.74377e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6017.23 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "353.999 270 6.42643e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -5913.23 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6239.23 150.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-45.77 -5589.25 150.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -5679.23 150.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -5678.77 150.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "58.23 -5589.25 150.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "350 270 4.74384e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6131.23 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6962.77 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "7.99989 89.9997 -1.26737e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6852.77 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "350 89.9997 1.34418e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6740.77 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "7.99994 89.9997 2.9601e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6626.77 144.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "353.999 89.9997 1.23382e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6514.77 144.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "11.9998 270 8.5208e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6525.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "9.99992 270 -4.74377e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6741.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "353.999 270 6.42643e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6637.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6963.23 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6403.23 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -6402.77 150.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "350 270 4.74384e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "89.75 -6855.23 142.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "7.99989 89.9997 -1.26737e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4830.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "7.99989 89.9997 -1.26737e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -5278.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "350 89.9997 1.34418e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -5166.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "7.99994 89.9997 2.9601e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -5052.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "353.999 89.9997 1.23382e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4940.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "350 89.9997 1.34418e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4718.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "7.99994 89.9997 2.9601e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4604.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "353.999 89.9997 1.23382e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4492.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "7.99989 89.9997 -1.26737e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4382.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "350 89.9997 1.34418e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4270.77 142.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "7.99994 89.9997 2.9601e-07"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4156.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "353.999 89.9997 1.23382e-06"
+212 "script_model"
+20186 "default"
+652 "ee_foliage_tree_spruce_garland_128_hanging_lit_frontend7b"
+709 "-87.75 -4044.77 144.5"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 60 0"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "169.66 -4904.46 0.179924"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*61"
+709 "129 -8320 146"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*62"
+709 "-129 -8403 146"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_stack_01_nophysics"
+709 "-185.11 -7255.05 0.25"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -4.35968"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_03_nophysics"
+709 "-134.303 -7206.89 0.75"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 89.9983 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_01_nophysics"
+709 "174 -4948 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_ribbon_bow_01_nophysics"
+709 "-189.608 -5402 80.1488"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*63"
+709 "150 -8538 10"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "324.754 37.1705 4.63889e-06"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_03_nophysics"
+709 "172.778 -5027.81 8.731"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "340.822 13.1135 -13.2046"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_04_nophysics"
+709 "162.125 -5048.15 10.4768"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 107.898"
+212 "script_model"
+20186 "default"
+652 "decor_christmas_gift_03_nophysics"
+709 "143.281 -3990.24 3.96798"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*64"
+709 "-196 -7693 37"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*65"
+709 "-200 -7334 33"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*66"
+709 "142 -4224 10"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*67"
+709 "157 -6058 10"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 330 0"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "-137.962 -5435.14 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 240 0"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "-118.636 -5374.04 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 150 0"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "140.464 -5398.34 0.179924"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 240 0"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "-140.978 -7338.05 -1.67261"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "4.21519 240.432 9.07561"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "150.455 -7299.79 6.74971"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 209.806 0"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "74.4621 -7902.87 136.431"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "7.1978 311.112 4.39415"
+212 "script_model"
+20186 "default"
+652 "decor_snowball_pyramid_01_nophysics"
+709 "-97.63 -7996.04 125.931"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*68"
+709 "-132 -7489 63"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 34.3364"
+212 "script_model"
+20186 "default"
+652 "vfx_base_book_05a"
+709 "123.75 -4910 1"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -7230 94.25"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*69"
+709 "120 -5137 63"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-151.15 -7388.55 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4897.75 174"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4897.75 74"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4897.75 124"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5092.5 124"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5092.5 74"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5092.5 174"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5290.75 124"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5290.75 74"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5290.75 174"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4897.75 224"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5092.5 224"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5290.75 224"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4807.75 224"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5002.5 224"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5200.75 224"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 1.19991"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-249.72 -7214.12 4.54254"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -8556 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4823.29 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -7252.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -7334 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "industrial_window_metal_single_02_transmission_dim_nophysics"
+34215 "1"
+709 "165 -4341 67.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-172.835 -7139.99 0.750008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "pipes_metal01_nophysics"
+34215 "1"
+709 "225.901 -5398 45.4354"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+575 "true"
+31842 "1.00"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "-162 -4695 104"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -5184 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -6204 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -5080 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -4976 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -4976.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -5040.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5002.5 124"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4807.75 174"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -5180.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_sign_corporate_01_use_stairs_fire_nophysics"
+709 "-191 -5401 62.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4807.75 74"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -6100 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "industrial_window_metal_single_02_transmission_dim_nophysics"
+34215 "1"
+709 "165 -4501 67.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4692.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-188.15 -7587.05 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 309.999 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-171.75 -7453.02 0.75"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "-122.579 -6681.11 0.500023"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "189.731 -7094.48 0.500008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_bend_90_sml_nophysics"
+34215 "1"
+709 "162 -4698.5 263.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_radiator_silver_01_nophysics"
+709 "157.25 -4499.75 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "360 90 90.0001"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_straight_128_nophysics"
+34215 "1"
+709 "153 -4042.75 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "industrial_window_metal_single_02_transmission_dim_nophysics"
+34215 "1"
+709 "165 -4157 67.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5200.75 124"
+1072 "floor_01_clutter"
+}
+{
+80 "0 219.999 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-191.52 -7600.75 1.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5200.75 74"
+1072 "floor_01_clutter"
+}
+{
+80 "89.9999 3.3723 -176.628"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_straight_128_nophysics"
+34215 "1"
+709 "154.25 -4050.5 264"
+1072 "floor_01_clutter"
+}
+{
+80 "0 219.999 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-165.524 -7889.75 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 325.504 0"
+212 "script_model"
+20186 "default"
+652 "medical_wheelchair_01_nophysics"
+709 "-163.938 -4830.97 -0.250015"
+1072 "floor_01_clutter"
+}
+{
+80 "0 127.504 0"
+212 "script_model"
+20186 "default"
+652 "medical_wheelchair_01_nophysics"
+709 "170.206 -7083.5 0.499977"
+41154 "1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5002.5 74"
+1072 "floor_01_clutter"
+}
+{
+80 "0 228.774 -89.9998"
+212 "script_model"
+20186 "default"
+652 "medical_wheelchair_01_nophysics"
+709 "152.401 -4001.8 13.7499"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5002.5 174"
+1072 "floor_01_clutter"
+}
+{
+80 "0 355.504 0"
+212 "script_model"
+20186 "default"
+652 "medical_wheelchair_01_nophysics"
+709 "-169.35 -8171.69 1.24998"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -5200.75 174"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "fence_security_section_50_nophysics"
+709 "163 -4807.75 124"
+1072 "floor_01_clutter"
+}
+{
+80 "5.74679 151.236 -92.585"
+212 "script_model"
+20186 "default"
+652 "medical_wheelchair_01_nophysics"
+709 "180.431 -8374.61 15.336"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4564.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 250.369 0"
+212 "script_model"
+20186 "default"
+652 "medical_bedding_pillow_a_nophysics"
+709 "147.463 -7027.63 0.250004"
+41154 "1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-156.79 -6287 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-284.79 -6287 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "89.9999 3.3723 -176.628"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_straight_128_nophysics"
+34215 "1"
+709 "154.25 -4306.5 264"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -8452 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -6221.71 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "155.21 -6287 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "283.21 -6287 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -5335.29 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -5207.29 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -5079.29 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4951.29 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "89.9999 3.3723 -176.628"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_straight_128_nophysics"
+34215 "1"
+709 "154.25 -4178.5 264"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -5996 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -5892 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -5788 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -5684 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -5684.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -5748.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -5888.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "-162 -5401 104"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "89.9999 3.3723 -176.628"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_straight_128_nophysics"
+34215 "1"
+709 "154.25 -4434.5 264"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_bend_90_sml_nophysics"
+34215 "1"
+709 "153 -4050.5 264"
+1072 "floor_01_clutter"
+}
+{
+80 "89.9999 3.3723 -176.628"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_straight_128_nophysics"
+34215 "1"
+709 "154.25 -4562.5 264"
+1072 "floor_01_clutter"
+}
+{
+80 "360 90 90.0001"
+212 "script_model"
+20186 "default"
+652 "pipe_metal_painted_straight_128_nophysics"
+34215 "1"
+709 "153 -4042.75 128"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -5957.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -6079.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -6185.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -5584 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -5593.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -5688 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -5716.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -5792 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "industrial_window_metal_single_02_transmission_dim_nophysics"
+34215 "1"
+709 "165 -4677 67.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-155.71 -3988 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4436.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4308.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4180.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -4052.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -8348 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "91 -5613.71 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -5709.71 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -5837.71 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -5965.71 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -6093.71 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -5800.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -6221.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -6093.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -5965.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -5837.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -5709.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "-91 -5613.79 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "60.21 -5583 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "0.209999 -5583 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "-59.79 -5583 127.616"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "-162 -6224 104"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -5896 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -5944.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6000 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6008.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6104 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6136.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_sign_corporate_01_use_stairs_fire_nophysics"
+709 "193.5 -7753 62.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "162 -6224 8"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "270 180 -139.034"
+212 "script_model"
+20186 "default"
+652 "uk_shelf_garage_rolling_01c_16x64x68_nophysics"
+34215 "1"
+709 "223.754 -5253.55 0.250015"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 129.999 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-154.75 -7824.98 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "347.794 276.713 1.62461e-06"
+212 "script_model"
+20186 "default"
+652 "uk_shelf_garage_rolling_01c_16x64x68_nophysics"
+34215 "1"
+709 "240.937 -4803.61 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 71.8467"
+212 "script_model"
+20186 "default"
+652 "vfx_base_book_05a"
+709 "157 -4909.5 1"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -7342.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 144.345"
+212 "script_model"
+20186 "default"
+652 "vfx_base_book_05a"
+709 "139.75 -4936 1"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 70.9948"
+212 "script_model"
+20186 "default"
+652 "uk_shelf_garage_rolling_01c_16x64x68_nophysics"
+34215 "1"
+709 "315.5 -4823.75 0.25"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "156.652 -5385.73 0.5"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 257.005 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-218.484 -7704.58 0.249992"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-110.948 -7796.65 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 288.484 0"
+212 "script_model"
+20186 "default"
+652 "medical_bedding_pillow_a_nophysics"
+709 "149.88 -8345.45 0.25"
+41154 "1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 39.9995 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-158.902 -7070.08 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 22.9989"
+212 "script_model"
+20186 "default"
+652 "uk_shelf_garage_rolling_01c_16x64x68_nophysics"
+34215 "1"
+709 "217.75 -4843.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "173.728 -5417.35 0.5"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 245.999 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "-49.865 -5872.04 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "105.564 -5429.07 0.5"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 67.9978 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-135.156 -6806.28 0.249992"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "-170.362 -7613.41 0.5"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "-91.3674 -8171.61 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 189.997 0"
+212 "script_model"
+20186 "default"
+652 "debris_override_deadbody_04_cn_nophysics"
+709 "-307.26 -7067.29 0.500008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "-108.617 -7489.57 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "-155.963 -5853.87 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "-280.414 -7213.86 0.499992"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 73.9992 0"
+212 "script_model"
+20186 "default"
+652 "debris_override_deadbody_04_cn_nophysics"
+709 "-128.912 -5216.8 0.250008"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "318.636 301.946 -83.9189"
+212 "script_model"
+20186 "default"
+652 "container_trash_can_plastic_kitchen_01_br_nophysics"
+709 "-138.32 -5945.75 10.1766"
+1072 "floor_01_clutter"
+}
+{
+80 "354.77 287.184 66.3474"
+212 "script_model"
+20186 "default"
+652 "container_trash_can_plastic_kitchen_01_br_nophysics"
+709 "203.491 -5406.31 10.9266"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 39.9995 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-134.476 -7894.25 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -7438 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-107.378 -6899.17 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -7486.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "140.828 -7867.61 0.5"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "110.308 -6897.23 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -8244 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -8140 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -7028 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -8036 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -7996.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -8100.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -8240.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -8308.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -8412.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -8516.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_litter_pile_large_01"
+709 "51.6664 -6688.9 0.750008"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*70"
+709 "0 -7422 0"
+1072 "mp_lobby_floor_02"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -7936 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "162 -7753 8"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -7944.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -8040 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -8072.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -8144 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -8152.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -8248 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -8256.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -8352 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -8400.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -8456 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -8464.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "162 -8576 8"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -6924 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -6820 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -6716 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -6612 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -6508 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -6468.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -6572.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -6712.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -6815.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -6903.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -7025.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6408 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6453.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6512 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "162 -7047 8"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6520.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6616 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "-162 -8576 104"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6624.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6720 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6728.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6824 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6840.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "161.75 -6928 94.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "160 -6964.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "uk_brick_corner_12_96_01_painted_grey_nophysics"
+709 "-162 -7047 104"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 18.484 0"
+212 "script_model"
+20186 "default"
+652 "medical_bedding_pillow_a_nophysics"
+709 "-274.602 -7086.04 0.5"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -6167 0.5"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -4675 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -4571 94.25"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -7973 0.5"
+41154 "1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -7973 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -8523 0.5"
+41154 "1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -8523 0.5"
+41154 "1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -6987 0.5"
+41154 "1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -6987 0.5"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -6167 0.5"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -5621 0.5"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -4639 0.5"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -4091 0.5"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -4091 0.5"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -4639 0.5"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -5621 0.5"
+1072 "floor_01_clutter"
+}
+{
+35278 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "-117.5 -6457 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+35278 "1"
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "uk_street_fire_hydrant_lid_cover_01_nophysics"
+709 "117.5 -6457 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_radiator_silver_01_nophysics"
+709 "157.25 -7647 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_radiator_silver_01_nophysics"
+709 "-159 -5292.75 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "pipes_metal01_nophysics"
+34215 "1"
+709 "222.401 -8576 45.4354"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "-59.79 -7935 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "0.209999 -7935 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "60.21 -7935 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "-91 -7965.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -8061.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -8189.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -8317.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -8445.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -8573.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-156.79 -8639 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-284.79 -8639 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -8573.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -8445.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -8317.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -8189.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -8061.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "91 -7965.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "283.21 -8639 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "155.21 -8639 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -6404.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -6532.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -6660.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -6788.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-91 -6916.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "-91 -7012.79 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_64_worn_nophysics"
+709 "91 -7012.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -6916.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -6788.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -6660.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -6532.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -6404.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -7687.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -7559.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -7431.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "91 -7303.71 127.616"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "28.25 -7240 127.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-99.75 -7240 127.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-227.75 -7240 127.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-355.75 -7240 127.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "mout_catwalk_railing_128_worn_nophysics"
+709 "-483.75 -7240 127.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_01_nophysics"
+709 "-160.5 -6918.25 126.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_01_nophysics"
+709 "-160.5 -6838.25 126.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_01_nophysics"
+709 "-160.5 -6758.25 126.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_01_nophysics"
+709 "-160.5 -6678.25 126.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_01_nophysics"
+709 "-160.5 -6598.25 126.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_01_nophysics"
+709 "-160.5 -6518.25 126.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_01_nophysics"
+709 "-160.5 -6998.25 126.25"
+1072 "floor_02_clutter"
+}
+{
+80 "359.32 23.62 -0.298476"
+212 "script_model"
+20186 "default"
+652 "medical_tarp_f_nophysics"
+34215 "1"
+709 "-142.616 -8531.88 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "359.32 293.62 -0.298433"
+212 "script_model"
+20186 "default"
+652 "medical_tarp_f_nophysics"
+34215 "1"
+709 "165.996 -7476.43 0.5"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -4467 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -4363 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -4259 94.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_wall_prison_door_sliding_box_nophysics"
+709 "-161.75 -4155 94.25"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*71"
+709 "0 -5070 0"
+1072 "mp_lobby_floor_01"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -4155.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -4219.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -4359.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -4428.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -4550.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "door_prison_cell_metal_static_mp_nophysics"
+709 "-160 -4656.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-211.55 -7342.85 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-255.55 -7486.85 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 87.1985 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-287.213 -7386.77 4.22289"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-213.948 -7730.65 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-344.64 -7172.19 0.500008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "6.07553 195.571 0.912597"
+212 "script_model"
+20186 "default"
+652 "debris_concrete_rubble_floor_slab_chunk_large_01_nophysics"
+709 "-208.567 -7783.53 0.65061"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "3.39988 180 2.97053e-07"
+212 "script_model"
+20186 "default"
+652 "debris_concrete_rubble_floor_slab_chunk_large_01_nophysics"
+709 "-250.567 -7567.53 -1.34939"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "357.292 77.247 -2.05792"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-178.98 -7856.25 8.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "3.0881 204.738 1.4217"
+212 "script_model"
+20186 "default"
+652 "debris_concrete_rubble_floor_slab_chunk_large_01_nophysics"
+709 "-295.567 -7369.53 -0.34939"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "me_rubble_pile_concrete_chunk_ground_cover_128"
+709 "-143.65 -7944.05 0.250008"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 34.3364"
+212 "script_model"
+20186 "default"
+652 "vfx_base_book_05a"
+709 "151.25 -7451.5 1"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "3.18788 159.667 -1.18077"
+212 "script_model"
+20186 "default"
+652 "debris_concrete_rubble_floor_slab_chunk_large_01_nophysics"
+709 "-237.567 -7217.53 -0.34939"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "5.33609e-08 197.799 -3.50018"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-225.098 -7063.92 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 343.999 0"
+212 "script_model"
+20186 "default"
+652 "rubble_pile_cmu_conc_large_01_nophysics"
+709 "-329.902 -7107.08 0.25"
+845 "nonseasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "302.799 270.044 -179.999"
+212 "script_model"
+20186 "default"
+652 "vfx_base_book_05a"
+709 "234.307 -4803.25 35.5414"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 7.81904"
+212 "script_model"
+20186 "default"
+652 "vfx_base_book_05a"
+709 "244.25 -4841.25 0.75"
+845 "nonseasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_02_captive_drain_nophysics"
+709 "16.1723 -4820.9 0.755051"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_02_captive_drain_nophysics"
+709 "16.4223 -5526.9 0.755051"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_02_captive_drain_nophysics"
+709 "16.1723 -6349.9 0.755051"
+1072 "floor_02_clutter"
+}
+{
+80 "54.7791 355.773 179.911"
+212 "script_model"
+20186 "default"
+652 "vfx_base_book_05a"
+709 "157.75 -8392.25 4"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_02_captive_drain_nophysics"
+709 "16.1723 -7172.9 0.755051"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "floor_grate_catwalk_metal_02_captive_drain_nophysics"
+709 "16.9223 -8316.15 0.755051"
+1072 "floor_02_clutter"
+}
+{
+2494 "0 0 0"
+2495 "5"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e5_p8_p34_p1"
+2553 "1 1 1"
+80 "3.33505e-09 0.0727415 89.816"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "90"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "206.5 -5483 104"
+1 "87"
+782 "150"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3141"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "220 -4928 238.5"
+1072 "floor_01_clutter"
+}
+{
+2494 "0 0 0"
+2495 "21"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e21_p8_p34_p1"
+2553 "1 0.8235 0.4902"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "3000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "234.5 -8384 92"
+1 "70"
+782 "280"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3255"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "1 -7571 336.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "220 -5256 238.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "1 -5047 336.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "1 -4363 336.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "1 -6719 336.5"
+1072 "floor_02_clutter"
+}
+{
+2494 "0 0 0"
+2495 "43"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e43_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "4000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "234.5 -7970 92"
+1 "90"
+782 "230"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3259"
+}
+{
+2494 "0 0 0"
+2495 "46"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e46_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "3000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "234.5 -7468 92"
+1 "91"
+782 "320"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3260"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "1 -5891 336.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on_lm_nophysics"
+709 "1 -8247 336.5"
+1072 "floor_02_clutter"
+}
+{
+2494 "0 0 0"
+2495 "61"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e61_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "4000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "234.5 -6957.5 92"
+1 "92"
+782 "280"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3265"
+}
+{
+2494 "0 0 0"
+2495 "68"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e68_p8_p34_p1"
+2553 "1 1 1"
+80 "0 0 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "5"
+20407 "150"
+519 "800"
+33510 "10000"
+662 "lgt_flouresent_chair"
+35654 "1"
+709 "-217.5 -4772 108"
+1 "78"
+782 "150"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3367"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "207.15 -5483.1 109.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "-192.85 -5483.1 109.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "-0.850006 -5483.1 109.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "207.15 -7142.1 109.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "-192.85 -7142.1 109.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "-0.850006 -7142.1 109.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "207.15 -7835.1 109.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "-192.85 -7835.1 109.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "me_light_ceiling_fluorescent_tube_on_warm_lm_nophysics"
+709 "-0.850006 -7835.1 109.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+662 "lgt_red_cagelights_omni"
+709 "92 -6009 117"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+709 "92 -7465 117"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+709 "92 -6865 117"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+662 "lgt_red_cagelights_omni"
+709 "-92 -4536.5 117"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+709 "-90.5 -6547 117"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+709 "92 -8081 117"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+662 "lgt_red_cagelights_omni"
+709 "-90.5 -5115 117"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "light_industrial_caged_02_on_red_lm_nophysics"
+34215 "0.75"
+709 "-90.5 -8523 117"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+2494 "0 0 0"
+2495 "88"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e88_p8_p34_p1"
+2553 "1 1 1"
+80 "0 0.0723981 89.8358"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "40"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent_001"
+35654 "1"
+709 "200.5 -6316 104"
+1 "86"
+782 "150"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3396"
+}
+{
+2494 "0 0 0"
+2495 "91"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e91_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "2000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "234.5 -6542 92"
+1 "93"
+782 "340"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3269"
+}
+{
+2494 "0 0 0"
+2495 "94"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e94_p8_p34_p1"
+2553 "1 0.8235 0.4902"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "3500"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "234.5 -6138 92"
+1 "94"
+782 "280"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3270"
+}
+{
+2494 "0 0 0"
+2495 "99"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e99_p8_p34_p1"
+2553 "0.8039 0.9608 1"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "60"
+20407 "120"
+519 "2000"
+33510 "10000"
+662 "lgt_hanging_int"
+35654 "1"
+709 "268 -4928 209"
+1 "96"
+782 "350"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3388"
+}
+{
+2494 "0 0 0"
+2495 "100"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e100_p8_p34_p1"
+2553 "1 1 1"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "40"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent_001"
+35654 "1"
+709 "-201.5 -6316 108"
+1 "79"
+782 "150"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3397"
+}
+{
+2494 "0 0 0"
+2495 "102"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e102_p8_p34_p1"
+2553 "1 1 1"
+80 "0 0.0723981 89.8358"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "40"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent_002"
+35654 "1"
+709 "208.5 -3980 104"
+1 "98"
+782 "200"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3399"
+}
+{
+2494 "0 0 0"
+2495 "106"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e106_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "2000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "234.5 -5720 92"
+1 "95"
+782 "250"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3274"
+}
+{
+2494 "0 0 0"
+2495 "112"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e112_p8_p34_p1"
+2553 "1 1 1"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "40"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent_002"
+35654 "1"
+709 "-193.5 -3980 108"
+1 "97"
+782 "200"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3400"
+}
+{
+2494 "0 0 0"
+2495 "118"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e118_p8_p34_p1"
+2553 "1 0.8235 0.4902"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "4000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "-235.5 -4499 92"
+1 "76"
+782 "350"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3379"
+}
+{
+2494 "0 0 0"
+2495 "134"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e134_p8_p34_p1"
+2553 "1 1 1"
+9428 "65"
+212 "light_spot"
+16091 "0.1"
+20186 "default"
+20402 "180"
+20404 "100"
+20407 "130"
+519 "700"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "-1.5 -5483 107"
+1 "83"
+782 "300"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3140"
+}
+{
+2494 "0 0 0"
+2495 "138"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e138_p8_p34_p1"
+2553 "1 1 1"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "90"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "-195.5 -5483 108"
+1 "80"
+782 "150"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3142"
+}
+{
+2494 "0 0 0"
+2495 "140"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e140_p8_p34_p1"
+2553 "1 1 1"
+80 "0 0.0723981 89.8358"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "90"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "208.5 -7141 104"
+1 "89"
+782 "150"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3143"
+}
+{
+2494 "0 0 0"
+2495 "141"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e141_p8_p34_p1"
+2553 "1 1 1"
+9428 "65"
+212 "light_spot"
+16091 "0.1"
+20186 "default"
+20402 "180"
+20404 "100"
+20407 "130"
+519 "700"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "0.5 -7141 107"
+1 "85"
+782 "300"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3144"
+}
+{
+2494 "0 0 0"
+2495 "144"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e144_p8_p34_p1"
+2553 "1 1 1"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "90"
+20407 "150"
+519 "300"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "-193.5 -7141 108"
+1 "81"
+782 "200"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3145"
+}
+{
+2494 "0 0 0"
+2495 "146"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e146_p8_p34_p1"
+2553 "1 1 1"
+80 "3.33505e-09 0.0656605 89.843"
+9428 "65"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "90"
+20407 "150"
+519 "500"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "207.5 -7834 104"
+1 "88"
+782 "150"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3146"
+}
+{
+2494 "0 0 0"
+2495 "147"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e147_p8_p34_p1"
+2553 "1 1 1"
+9428 "65"
+212 "light_spot"
+16091 "0.1"
+20186 "default"
+20402 "180"
+20404 "100"
+20407 "130"
+519 "700"
+33510 "10000"
+662 "lgt_flouresent"
+35654 "1"
+709 "-0.5 -7834 107"
+1 "84"
+782 "300"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3147"
+}
+{
+2494 "0 0 0"
+2495 "165"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e165_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "2000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "-235.5 -5930 92"
+1 "73"
+782 "280"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3279"
+}
+{
+2494 "0 0 0"
+2495 "210"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e210_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+80 "0 0 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "20"
+20407 "50"
+519 "500"
+33510 "10000"
+662 "lgt_garbage_pile"
+35654 "1"
+709 "-81.3122 -5213.71 104"
+1 "82"
+782 "120"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3387"
+}
+{
+2494 "0 0 0"
+2495 "222"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e222_p8_p34_p1"
+2553 "1 0.8235 0.4902"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "2000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "-235.5 -6748 92"
+1 "72"
+782 "250"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3286"
+}
+{
+2494 "0 0 0"
+2495 "234"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e234_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "2000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "-235.5 -8178 92"
+1 "71"
+782 "270"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3290"
+}
+{
+2494 "0 0 0"
+2495 "246"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e246_p8_p34_p1"
+2553 "1 1 1"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "60"
+20407 "80"
+519 "2000"
+33510 "10000"
+662 "lgt_wheelchair"
+35654 "1"
+709 "-235.5 -4786 92"
+1 "75"
+782 "250"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3294"
+}
+{
+2494 "0 0 0"
+2495 "252"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e252_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "2500"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "-235.5 -5116 92"
+1 "74"
+782 "350"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3296"
+}
+{
+2494 "0 0 0"
+2495 "256"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e256_p8_p34_p1"
+2553 "1 0.7961 0.4902"
+80 "0 180 0"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "45"
+20407 "50"
+519 "2000"
+33510 "10000"
+662 "lgt_inside_cell"
+35654 "0"
+709 "-235.5 -4190 92"
+1 "77"
+782 "330"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf66_auto3298"
+}
+{
+2494 "0 0 0"
+2495 "330"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e330_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 0 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "-86.0887 -4537 111.854"
+1 "100"
+782 "75"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3197"
+}
+{
+2494 "0 0 0"
+2495 "335"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e335_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 180 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "86.0888 -6008.5 111.854"
+1 "106"
+782 "75"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3199"
+}
+{
+2494 "0 0 0"
+2495 "340"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e340_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 0 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "-84.5887 -5115.5 111.854"
+1 "102"
+782 "75"
+845 "floor_01_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3201"
+}
+{
+2494 "0 0 0"
+2495 "345"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e345_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 180 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "86.0888 -7465.5 111.854"
+1 "104"
+782 "75"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3203"
+}
+{
+2494 "0 0 0"
+2495 "350"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e350_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 180 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "86.0888 -8081.5 111.854"
+1 "103"
+782 "75"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3205"
+}
+{
+2494 "0 0 0"
+2495 "355"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e355_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 180 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "86.0888 -6865.5 111.854"
+1 "105"
+782 "75"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3207"
+}
+{
+2494 "0 0 0"
+2495 "370"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e370_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 0 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "-84.5887 -6547.5 111.854"
+1 "101"
+782 "75"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3213"
+}
+{
+2494 "0 0 0"
+2495 "375"
+2496 "prefabs/mp/mp_frontend7/lighting/mp_frontend7_room_lobby_lighting_07.map"
+2497 "0 -6144 0"
+2498 "_e375_p8_p34_p1"
+2553 "1 0.3874 0.2667"
+80 "0 0 -180"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "10"
+33510 "10000"
+662 "lgt_red_cagelights_omni"
+35654 "0"
+709 "-84.5887 -8523 111.854"
+1 "99"
+782 "75"
+845 "floor_02_lights"
+44079 "on"
+925 "12"
+1070 "pf66_auto3215"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-8048 -10256 32"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-8096 -10256 32"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-8064 -10208 32"
+}
+{
+80 "0 48 0"
+212 "mp_global_intermission"
+20186 "default"
+709 "-8384 -10560 480"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-83.5 -5119.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0 -8304 3"
+845 "vent_steam seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0 -4806 3"
+845 "vent_steam seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0 -6334 3"
+845 "vent_steam seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0 -5511 3"
+845 "vent_steam seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0 -7158 3"
+845 "vent_steam seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-83.5 -4535.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-83.5 -6547.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-83.5 -5736.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 -180"
+212 "script_struct"
+20186 "default"
+709 "84.5 -6865.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 -180"
+212 "script_struct"
+20186 "default"
+709 "84.5 -6008.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 -180"
+212 "script_struct"
+20186 "default"
+709 "84.5 -7464.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 -180"
+212 "script_struct"
+20186 "default"
+709 "84.5 -8081.76 111.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-83.5 -8522.76 110.422"
+845 "lf_bulb_red seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-1 -5483 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-192 -5483 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "209 -5483 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-1 -7142 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-192 -7142 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "209 -7142 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-1 -7834 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-192 -7834 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "209 -7834 104"
+845 "lf_fluor_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-135 -5212 28"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 16.697 0"
+212 "script_struct"
+20186 "default"
+709 "-103 -5189 1"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-123 -5242 1"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-63 -5888 14"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 16.697 0"
+212 "script_struct"
+20186 "default"
+709 "-84 -5863 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-81 -5919 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 66.5937 0"
+212 "script_struct"
+20186 "default"
+709 "-162 -5823 14"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-129 -5881 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-124 -5832 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-23 -5853 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "49 -6706 14"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 16.697 0"
+212 "script_struct"
+20186 "default"
+709 "-74 -6673 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-71 -6729 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 66.5937 0"
+212 "script_struct"
+20186 "default"
+709 "-103 -6655 7"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-119 -6691 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "-114 -6642 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 257.994 0"
+212 "script_struct"
+20186 "default"
+709 "64 -6684 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "42 -6756 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 344.296 0"
+212 "script_struct"
+20186 "default"
+709 "15 -6658 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270.823 -0.484128"
+212 "script_struct"
+20186 "default"
+709 "98.5982 -6909.69 14.402"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.525 168.818 0.0956155"
+212 "script_struct"
+20186 "default"
+709 "120.71 -6924.37 2.21521"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.874 255.12 -0.467477"
+212 "script_struct"
+20186 "default"
+709 "48.402 -6903.41 2.82556"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.874 255.12 -0.467477"
+212 "script_struct"
+20186 "default"
+709 "146 -6875 2"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270.823 -0.484128"
+212 "script_struct"
+20186 "default"
+709 "-100.402 -7511.69 15.402"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.525 168.818 0.0956155"
+212 "script_struct"
+20186 "default"
+709 "-78.29 -7526.37 3.21521"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.874 255.12 -0.467477"
+212 "script_struct"
+20186 "default"
+709 "-150.598 -7505.41 3.82556"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.874 255.12 -0.467477"
+212 "script_struct"
+20186 "default"
+709 "-53 -7477 3"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270.823 -0.484128"
+212 "script_struct"
+20186 "default"
+709 "129.598 -7882.69 13.402"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.525 168.818 0.0956155"
+212 "script_struct"
+20186 "default"
+709 "151.71 -7897.37 1.21521"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.874 255.12 -0.467477"
+212 "script_struct"
+20186 "default"
+709 "79.402 -7876.41 1.82556"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.874 255.12 -0.467477"
+212 "script_struct"
+20186 "default"
+709 "177 -7848 1"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.582 148.62 0.255862"
+212 "script_struct"
+20186 "default"
+709 "-106.938 -8165.31 15.0268"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0.33431 46.614 0.345683"
+212 "script_struct"
+20186 "default"
+709 "-131.301 -8176.29 3.23487"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.666 132.916 0.358214"
+212 "script_struct"
+20186 "default"
+709 "-75.03 -8126.27 2.75029"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "359.666 132.916 0.358214"
+212 "script_struct"
+20186 "default"
+709 "-103 -8224 3"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0.419455 30.3135 0.247621"
+212 "script_struct"
+20186 "default"
+709 "-130.03 -8531.27 2.75029"
+845 "roaches_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-1 -5541.5 149"
+845 "elf_popup_bridge seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "301.797 0 0"
+212 "script_struct"
+20186 "default"
+709 "171.656 -5552.03 32.5"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "326.195 0 0"
+212 "script_struct"
+20186 "default"
+709 "174.656 -5217.03 21.5"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "338.937 0 0"
+212 "script_struct"
+20186 "default"
+709 "167.656 -5076.03 15.5"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "335.89 0 0"
+212 "script_struct"
+20186 "default"
+709 "169.656 -3888.03 16"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0.855346 0 0"
+212 "script_struct"
+20186 "default"
+709 "-175.844 -4026.03 27.5"
+845 "elf_leanout_l seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "358.061 0 0"
+212 "script_struct"
+20186 "default"
+709 "-173.844 -6375.53 25"
+845 "elf_leanout_l seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "50.7863 0 0"
+212 "script_struct"
+20186 "default"
+709 "-162.344 -4843.03 155"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "50.7863 0 0"
+212 "script_struct"
+20186 "default"
+709 "-139.844 -5374.03 19"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "3.28362 0 0"
+212 "script_struct"
+20186 "default"
+709 "-171.344 -7084.03 12"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "305.088 0 0"
+212 "script_struct"
+20186 "default"
+709 "177.656 -7188.03 26"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270.823 -0.484128"
+212 "script_struct"
+20186 "default"
+709 "-317.402 -7070.69 17.402"
+845 "flies_trash_01 nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-75.5 -7196.5 158.5"
+845 "elf_popup_bridge seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-1 -7909.5 144.5"
+845 "elf_popup_bridge seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "305.088 0 0"
+212 "script_struct"
+20186 "default"
+709 "177.656 -7890.03 26"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "3.28362 0 0"
+212 "script_struct"
+20186 "default"
+709 "127.864 -8585.49 138.87"
+845 "elf_popup seasonal"
+1072 "pf68_auto1"
+}
+{
+80 "29.4834 0 0"
+212 "script_struct"
+20186 "default"
+709 "-215.344 -7795.03 61"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0.683727 0 0"
+212 "script_struct"
+20186 "default"
+709 "-249.344 -7403.03 60"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "347.985 0 0"
+212 "script_struct"
+20186 "default"
+709 "180.156 -8402.03 27"
+845 "elf_popup seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "358.061 0 0"
+212 "script_struct"
+20186 "default"
+709 "-175.344 -7914.53 25"
+845 "elf_leanout_l seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 184.551 1.04335"
+212 "script_struct"
+20186 "default"
+709 "182 -7875.92 46.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 356.546 1.04331"
+212 "script_struct"
+20186 "default"
+709 "-216 -7888.92 63.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 184.551 1.04335"
+212 "script_struct"
+20186 "default"
+709 "207 -7095.92 68.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 356.546 1.04331"
+212 "script_struct"
+20186 "default"
+709 "-294 -7233.92 25.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 184.551 1.04335"
+212 "script_struct"
+20186 "default"
+709 "182 -6322.92 46.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 356.546 1.04331"
+212 "script_struct"
+20186 "default"
+709 "-216 -6335.92 63.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 184.551 1.04335"
+212 "script_struct"
+20186 "default"
+709 "211 -5452.92 46.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 356.546 1.04331"
+212 "script_struct"
+20186 "default"
+709 "-216 -5465.92 63.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 184.551 1.04335"
+212 "script_struct"
+20186 "default"
+709 "211 -4001.92 46.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "346.673 356.546 1.04331"
+212 "script_struct"
+20186 "default"
+709 "-216 -4014.92 63.44"
+845 "snowball_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "1.5 -6718.76 309.422"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-179.993 -6852.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-179.993 -5929.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-179.993 -5116.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-179.993 -4193.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180.797 0"
+212 "script_struct"
+20186 "default"
+709 "183.507 -5720.34 59.422"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180.797 0"
+212 "script_struct"
+20186 "default"
+709 "185.007 -6137.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180.797 0"
+212 "script_struct"
+20186 "default"
+709 "189.007 -6545.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180.797 0"
+212 "script_struct"
+20186 "default"
+709 "194.007 -6962.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180.797 0"
+212 "script_struct"
+20186 "default"
+709 "201.007 -7466.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180.797 0"
+212 "script_struct"
+20186 "default"
+709 "208.007 -7966.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 358.661 0"
+212 "script_struct"
+20186 "default"
+709 "-193.993 -8178.34 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180.797 0"
+212 "script_struct"
+20186 "default"
+709 "214.007 -8381.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-179.993 -4504.84 58.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0.5 -7570.76 309.422"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0.5 -8246.76 309.422"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0.5 -5890.76 309.422"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0.5 -5047.76 309.422"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "0.5 -4362.76 309.422"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 358.661 0"
+212 "script_struct"
+20186 "default"
+709 "-188.993 -7968.34 59.922"
+845 "godray_cell nonseasonal"
+1072 "fx_moving_org"
+}

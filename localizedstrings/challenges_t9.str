@@ -1,0 +1,931 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            x_of_y
+LANG_ENGLISH         "^;&&1^7/&&2"
+
+REFERENCE            weapon_unlock_challenge_wakizashi_desc
+LANG_ENGLISH         "With the Knife equipped, perform 2 Finishing Moves in &&1 different matches."
+
+REFERENCE            weapon_unlock_challenge_wakizashi
+LANG_ENGLISH         "Wakizashi"
+
+REFERENCE            weapon_unlock_challenge_sledgehammer_desc
+LANG_ENGLISH         "Using the Knife, Kill 2 or more players rapidly in &&1 different matches. "
+
+REFERENCE            weapon_unlock_challenge_sledgehammer
+LANG_ENGLISH         "Sledgehammer"
+
+REFERENCE            weapon_unlock_challenge_machete_desc
+LANG_ENGLISH         "Using the Knife, get 3 kills while injured in &&1 different matches. "
+
+REFERENCE            weapon_unlock_challenge_machete
+LANG_ENGLISH         "New text"
+
+REFERENCE            weapon_unlock_challenge_etool_desc
+LANG_ENGLISH         "Using the Knife, kill 3 enemies without dying in &&1 different matches."
+
+REFERENCE            weapon_unlock_challenge_etool
+LANG_ENGLISH         "E-Tool"
+
+REFERENCE            weapon_unlock_challenge_armsel_striker_desc
+LANG_ENGLISH         "Using Shotguns, get 3 Kills without dying in &&1 different matches. "
+
+REFERENCE            weapon_unlock_challenge_armsel_striker
+LANG_ENGLISH         "Armsel Striker"
+
+REFERENCE            weapon_multikill_2_desc
+LANG_ENGLISH         "Kill 2 or more enemies rapidly &&1 times in Multiplayer."
+
+REFERENCE            weapon_multikill_2_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_multikill_2
+LANG_ENGLISH         "Rapid Killer"
+
+REFERENCE            weapon_mastery_sharpshooter_subtitle
+LANG_ENGLISH         "Eliminations"
+
+REFERENCE            weapon_mastery_sharpshooter
+LANG_ENGLISH         "Sharpshooter"
+
+REFERENCE            weapon_mastery_master_subtitle
+LANG_ENGLISH         "Badges Earned"
+
+REFERENCE            weapon_mastery_master
+LANG_ENGLISH         "Master"
+
+REFERENCE            weapon_mastery_marksman_subtitle
+LANG_ENGLISH         "Weapon Level"
+
+REFERENCE            weapon_mastery_marksman
+LANG_ENGLISH         "Marksman"
+
+REFERENCE            weapon_mastery_expert_subtitle
+LANG_ENGLISH         "Camos Earned"
+
+REFERENCE            weapon_mastery_expert
+LANG_ENGLISH         "Expert"
+
+REFERENCE            weapon_mastery_dark_matter_subtitle
+LANG_ENGLISH         "Diamond Camo Earned"
+
+REFERENCE            weapon_mastery_dark_matter_desc
+LANG_ENGLISH         "Unlock Diamond Camo for all Weapon Classes in Multiplayer."
+
+REFERENCE            weapon_longshots_desc
+LANG_ENGLISH         "Get &&1 Longshot medals with the &&2 in Multiplayer."
+
+REFERENCE            weapon_longshots_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_longshots
+LANG_ENGLISH         "Longshots"
+
+REFERENCE            weapon_launcher_destroy_single_game_desc
+LANG_ENGLISH         "Destroy 3 Scorestreaks or enemy vehicles in a single game &&1 times in Multiplayer."
+
+REFERENCE            weapon_launcher_destroy_single_game_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_launcher_destroy_single_game
+LANG_ENGLISH         "Destroy Single Game"
+
+REFERENCE            weapon_launcher_destroy_ground_desc
+LANG_ENGLISH         "Destroy &&1 ground-based Scorestreaks or vehicles in Multiplayer."
+
+REFERENCE            weapon_launcher_destroy_ground_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_launcher_destroy_ground
+LANG_ENGLISH         "Destroy Ground"
+
+REFERENCE            weapon_launcher_destroy_any_desc
+LANG_ENGLISH         "Destroy &&1 Equipment, Scorestreaks, or vehicles in Multiplayer."
+
+REFERENCE            weapon_launcher_destroy_any_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_launcher_destroy_any
+LANG_ENGLISH         "Launcher Destroy"
+
+REFERENCE            weapon_launcher_destroy_air_desc
+LANG_ENGLISH         "Destroy &&1 aerial Scorestreaks or vehicles in Multiplayer."
+
+REFERENCE            weapon_launcher_destroy_air_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_launcher_destroy_air
+LANG_ENGLISH         "Destroy Air"
+
+REFERENCE            weapon_killstreak_3_desc
+LANG_ENGLISH         "Get 3 kills without dying &&1 times with all kills coming from &&2 in Multiplayer."
+
+REFERENCE            weapon_killstreak_3_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_killstreak_3
+LANG_ENGLISH         "Kill Three without Dying"
+
+REFERENCE            weapon_kills_desc
+LANG_ENGLISH         "Kill &&1 enemies in Multiplayer."
+
+REFERENCE            weapon_kills_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kills
+LANG_ENGLISH         "Kills"
+
+REFERENCE            weapon_kill_while_sliding_desc
+LANG_ENGLISH         "Get &&1 kills while sliding in Multiplayer."
+
+REFERENCE            weapon_kill_while_sliding_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_while_sliding
+LANG_ENGLISH         "Sliding"
+
+REFERENCE            weapon_kill_while_injured_desc
+LANG_ENGLISH         "Kill &&1 enemies while injured in Multiplayer."
+
+REFERENCE            weapon_kill_while_injured_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_while_injured
+LANG_ENGLISH         "Kill While Injured"
+
+REFERENCE            weapon_kill_smoked_blinded_stunned_desc
+LANG_ENGLISH         "Kill &&1 enemies disoriented by smoke, flash, or stun grenades in Multiplayer."
+
+REFERENCE            weapon_kill_smoked_blinded_stunned_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_smoked_blinded_stunned
+LANG_ENGLISH         "Smoked Blinded Stunned"
+
+REFERENCE            weapon_kill_point_blank_desc
+LANG_ENGLISH         "Kill &&1 enemies at point blank range in Multiplayer."
+
+REFERENCE            weapon_kill_point_blank_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_point_blank
+LANG_ENGLISH         "Point Blank"
+
+REFERENCE            weapon_kill_finishing_move_desc
+LANG_ENGLISH         "Execute &&1 finishing moves in Multiplayer."
+
+REFERENCE            weapon_kill_finishing_move_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_finishing_move
+LANG_ENGLISH         "Finishing Move"
+
+REFERENCE            weapon_kill_enemy_while_holding_breath_desc
+LANG_ENGLISH         "Get &&1 kills while holding your breath in Multiplayer."
+
+REFERENCE            weapon_kill_enemy_while_holding_breath_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_enemy_while_holding_breath
+LANG_ENGLISH         "Holding Breath"
+
+REFERENCE            weapon_kill_enemy_taking_cover_from_you_desc
+LANG_ENGLISH         "Shoot and kill &&1 enemies taking cover from you in Multiplayer."
+
+REFERENCE            weapon_kill_enemy_taking_cover_from_you_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_enemy_taking_cover_from_you
+LANG_ENGLISH         "Behind Cover"
+
+REFERENCE            weapon_kill_enemy_one_bullet_sniper_desc
+LANG_ENGLISH         "Get &&1 One Shot One Kill medals with the &&2 in Multiplayer."
+
+REFERENCE            weapon_kill_enemy_one_bullet_sniper_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_enemy_one_bullet_sniper
+LANG_ENGLISH         "One Shot / One Kill"
+
+REFERENCE            weapon_kill_detected_stunned_blinded_desc
+LANG_ENGLISH         "Kill &&1 enemies detected, stunned, or blinded, by your Scorestreaks, Equipment, or Field Upgrades in Multiplayer."
+
+REFERENCE            weapon_kill_detected_stunned_blinded_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_detected_stunned_blinded
+LANG_ENGLISH         "Detected Stunned Blinded"
+
+REFERENCE            weapon_kill_backstabber_desc
+LANG_ENGLISH         "Get &&1 backstabber medals (kill from behind) in Multiplayer."
+
+REFERENCE            weapon_kill_backstabber_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_kill_backstabber
+LANG_ENGLISH         "Backstabber Kill"
+
+REFERENCE            weapon_headshots_desc
+LANG_ENGLISH         "Get &&1 Headshot medals with the &&2 in Multiplayer."
+
+REFERENCE            weapon_headshots_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_headshots
+LANG_ENGLISH         "Headshots"
+
+REFERENCE            weapon_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations with the &&2 in Multiplayer."
+
+REFERENCE            weapon_eliminations_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_eliminations
+LANG_ENGLISH         "Eliminations"
+
+REFERENCE            weapon_dark_matter_desc
+LANG_ENGLISH         "Unlock Diamond Camo for all Weapon Classes in Multiplayer."
+
+REFERENCE            weapon_dark_matter_award
+LANG_ENGLISH         "Dark Matter Camo"
+
+REFERENCE            weapon_dark_matter
+LANG_ENGLISH         "Dark Matter"
+
+REFERENCE            weapon_bloodthirsty_desc
+LANG_ENGLISH         "Get 5 kills without dying &&1 times with all kills coming from the &&2 in Multiplayer."
+
+REFERENCE            weapon_bloodthirsty_award
+LANG_ENGLISH         "&&1 Camo"
+
+REFERENCE            weapon_bloodthirsty
+LANG_ENGLISH         "Bloodthirsty"
+
+REFERENCE            seasonal_season_one_mastery_desc
+LANG_ENGLISH         "Complete all Season One Prestige Challenges"
+
+REFERENCE            seasonal_season_one_mastery
+LANG_ENGLISH         "Master"
+
+REFERENCE            seasonal_mp_wz_supply_run_contracts_completed_desc
+LANG_ENGLISH         "In Warzone, complete &&1 Supply Run Contracts."
+
+REFERENCE            seasonal_mp_wz_supply_run_contracts_completed
+LANG_ENGLISH         "Supply Run"
+
+REFERENCE            seasonal_mp_wz_scavenger_contracts_completed_desc
+LANG_ENGLISH         "In Warzone, complete &&1 Scavenger Contracts."
+
+REFERENCE            seasonal_mp_wz_scavenger_contracts_completed
+LANG_ENGLISH         "Field Procurement"
+
+REFERENCE            seasonal_mp_wz_or_fireteam_top_3_desc
+LANG_ENGLISH         "In Warzone or Fireteam, earn a top 3 placement with your team &&1 times."
+
+REFERENCE            seasonal_mp_wz_or_fireteam_top_3
+LANG_ENGLISH         "Top Brass"
+
+REFERENCE            seasonal_mp_wz_most_wanted_contracts_desc
+LANG_ENGLISH         "In Warzone, survive or kill &&1 Most Wanted Contracts. "
+
+REFERENCE            seasonal_mp_wz_most_wanted_contracts
+LANG_ENGLISH         "Kill List"
+
+REFERENCE            seasonal_mp_wz_killstreaks_purchased_desc
+LANG_ENGLISH         "In Warzone, purchase &&1 Killstreaks."
+
+REFERENCE            seasonal_mp_wz_killstreaks_purchased
+LANG_ENGLISH         "Arms Dealer"
+
+REFERENCE            seasonal_mp_wz_contracts_in_one_match_desc
+LANG_ENGLISH         "In Warzone, complete 3 Contracts in a single match &&1 times. "
+
+REFERENCE            seasonal_mp_wz_contracts_in_one_match
+LANG_ENGLISH         "Hired Gun"
+
+REFERENCE            seasonal_mp_wz_cash_picked_up_desc
+LANG_ENGLISH         "In Warzone, collect &&1 piles of Cash."
+
+REFERENCE            seasonal_mp_wz_cash_picked_up
+LANG_ENGLISH         "Dirty Money"
+
+REFERENCE            seasonal_mp_tomahawk_or_throwing_knife_kills_desc
+LANG_ENGLISH         "Get &&1 kills with Tomahawk or Throwing Knife Lethal Equipment."
+
+REFERENCE            seasonal_mp_tomahawk_or_throwing_knife_kills
+LANG_ENGLISH         "Bullseye"
+
+REFERENCE            seasonal_mp_sniper_savior_kills_desc
+LANG_ENGLISH         "Use a Sniper Rifle to kill an enemy who is injuring a teammate &&1 times. "
+
+REFERENCE            seasonal_mp_sniper_savior_kills
+LANG_ENGLISH         "Protective Overwatch"
+
+REFERENCE            seasonal_mp_smoke_kills_desc
+LANG_ENGLISH         "Kill &&1 enemies while near your deployed Smoke Grenades."
+
+REFERENCE            seasonal_mp_smoke_kills
+LANG_ENGLISH         "Smoke Screen"
+
+REFERENCE            seasonal_mp_smg_multi_kills_desc
+LANG_ENGLISH         "Get &&1 multi kills with SMGs."
+
+REFERENCE            seasonal_mp_smg_multi_kills
+LANG_ENGLISH         "Brap Brap"
+
+REFERENCE            seasonal_mp_seated_in_vehicle_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations while seated in a vehicle. "
+
+REFERENCE            seasonal_mp_seated_in_vehicle_eliminations
+LANG_ENGLISH         "Vehicular Assault"
+
+REFERENCE            seasonal_mp_scorestreak_and_killstreak_kills_desc
+LANG_ENGLISH         "Kill &&1 enemies with Scorestreaks or Killstreaks. "
+
+REFERENCE            seasonal_mp_scorestreak_and_killstreak_kills
+LANG_ENGLISH         "Strike Coordinates"
+
+REFERENCE            seasonal_mp_scorestreak_and_killstreak_double_kills_desc
+LANG_ENGLISH         "Kill 2 or more enemies with a single Scorestreak or Killstreak &&1 times."
+
+REFERENCE            seasonal_mp_scorestreak_and_killstreak_double_kills
+LANG_ENGLISH         "Mass Casualties"
+
+REFERENCE            seasonal_mp_scavenger_perk_ammo_pickup_desc
+LANG_ENGLISH         "Replenish ammo [n] times while using the Scavenger Perk."
+
+REFERENCE            seasonal_mp_scavenger_perk_ammo_pickup
+LANG_ENGLISH         "Looting and Pillaging"
+
+REFERENCE            seasonal_mp_quad_feed_desc
+LANG_ENGLISH         "Earn &&1 Quad Feed medals (4 uninterrupted kills in the kill feed)."
+
+REFERENCE            seasonal_mp_quad_feed
+LANG_ENGLISH         "Annihilation"
+
+REFERENCE            seasonal_mp_proximity_mine_vehicle_destructions_desc
+LANG_ENGLISH         "Use Proximity Mines to destroy &&1 enemy ground vehicles."
+
+REFERENCE            seasonal_mp_proximity_mine_vehicle_destructions
+LANG_ENGLISH         "Bump in the Road"
+
+REFERENCE            seasonal_mp_proximity_mine_kills_desc
+LANG_ENGLISH         "Get &&1 kills with Proximity Mines. "
+
+REFERENCE            seasonal_mp_proximity_mine_kills
+LANG_ENGLISH         "Rigged To Blow"
+
+REFERENCE            seasonal_mp_prisoner_wins_desc
+LANG_ENGLISH         "In Warzone, win &&1 one on one fights as a prisoner."
+
+REFERENCE            seasonal_mp_prisoner_wins
+LANG_ENGLISH         "Prison Break"
+
+REFERENCE            seasonal_mp_point_blank_shotgun_kills_desc
+LANG_ENGLISH         "Get &&1 Point Blank kills with Shotguns."
+
+REFERENCE            seasonal_mp_point_blank_shotgun_kills
+LANG_ENGLISH         "Ambush"
+
+REFERENCE            seasonal_mp_picked_up_weapon_kills_desc
+LANG_ENGLISH         "Get &&1 eliminations using a weapon that you have picked up."
+
+REFERENCE            seasonal_mp_picked_up_weapon_kills
+LANG_ENGLISH         "Guerilla Warfare"
+
+REFERENCE            seasonal_mp_molotov_kills_desc
+LANG_ENGLISH         "Get &&1 kills with Molotov Lethal Equipment. "
+
+REFERENCE            seasonal_mp_molotov_kills
+LANG_ENGLISH         "Incendiary Warfare"
+
+REFERENCE            seasonal_mp_melee_kills_desc
+LANG_ENGLISH         "Get &&1 kills with melee weapons."
+
+REFERENCE            seasonal_mp_melee_kills
+LANG_ENGLISH         "Close and Personal"
+
+REFERENCE            seasonal_mp_lmg_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations with LMGs."
+
+REFERENCE            seasonal_mp_lmg_eliminations
+LANG_ENGLISH         "Suppressing Fire "
+
+REFERENCE            seasonal_mp_launcher_kills_desc
+LANG_ENGLISH         "Get &&1 kills using Launchers."
+
+REFERENCE            seasonal_mp_launcher_kills
+LANG_ENGLISH         "Launcher Kills"
+
+REFERENCE            seasonal_mp_kills_after_skydiving_desc
+LANG_ENGLISH         "Kill an enemy shortly after skydiving &&1 times."
+
+REFERENCE            seasonal_mp_kills_after_skydiving
+LANG_ENGLISH         "Hot Drop"
+
+REFERENCE            seasonal_mp_kill_uav_or_field_mic_detected_enemies_desc
+LANG_ENGLISH         "Kill &&1 enemies detected by a Spy Plane, UAV, or Field Mic. "
+
+REFERENCE            seasonal_mp_kill_uav_or_field_mic_detected_enemies
+LANG_ENGLISH         "Good Intelligence"
+
+REFERENCE            seasonal_mp_hacked_equipment_or_field_upgrade_desc
+LANG_ENGLISH         "Hack &&1 enemy Equipment or Field Upgrades."
+
+REFERENCE            seasonal_mp_hacked_equipment_or_field_upgrade
+LANG_ENGLISH         "Cybersecurity Threat"
+
+REFERENCE            seasonal_mp_ground_vehicle_destructions_desc
+LANG_ENGLISH         "Destroy &&1 ground vehicles."
+
+REFERENCE            seasonal_mp_ground_vehicle_destructions
+LANG_ENGLISH         "Anti-Vehicle"
+
+REFERENCE            seasonal_mp_gas_kills_desc
+LANG_ENGLISH         "Kill &&1 enemies who are under the effects of Gas. "
+
+REFERENCE            seasonal_mp_gas_kills
+LANG_ENGLISH         "Chemical Warfare"
+
+REFERENCE            seasonal_mp_finishing_moves_desc
+LANG_ENGLISH         "Execute &&1 Finishing Moves. "
+
+REFERENCE            seasonal_mp_finishing_moves
+LANG_ENGLISH         "Takedown"
+
+REFERENCE            seasonal_mp_eliminations_desc
+LANG_ENGLISH         "Eliminate &&1 enemies."
+
+REFERENCE            seasonal_mp_eliminations
+LANG_ENGLISH         "Eliminations"
+
+REFERENCE            seasonal_mp_downed_enemy_eliminations_desc
+LANG_ENGLISH         "Eliminate &&1 downed enemies. "
+
+REFERENCE            seasonal_mp_downed_enemy_eliminations
+LANG_ENGLISH         "Execution"
+
+REFERENCE            seasonal_mp_double_kills_desc
+LANG_ENGLISH         "Earn &&1 Double Kill or better medals."
+
+REFERENCE            seasonal_mp_double_kills
+LANG_ENGLISH         "Swift Brutality"
+
+REFERENCE            seasonal_mp_destroy_aerial_vehicles_or_streaks_desc
+LANG_ENGLISH         "Destroy &&1 aerial Scorestreaks or vehicles. "
+
+REFERENCE            seasonal_mp_destroy_aerial_vehicles_or_streaks
+LANG_ENGLISH         "Fly Swatter"
+
+REFERENCE            seasonal_mp_decoy_kills_desc
+LANG_ENGLISH         "Kill &&1 enemies that are near your active Decoy Grenade."
+
+REFERENCE            seasonal_mp_decoy_kills
+LANG_ENGLISH         "Deception"
+
+REFERENCE            seasonal_mp_counter_uav_or_jammer_kills_desc
+LANG_ENGLISH         "Kill &&1 enemies scrambled by your Counter UAV or Jammer Field Upgrade. "
+
+REFERENCE            seasonal_mp_counter_uav_or_jammer_kills
+LANG_ENGLISH         "Scrambled"
+
+REFERENCE            seasonal_mp_c4_ground_vehicle_destructions_desc
+LANG_ENGLISH         "Use C4 to destroy &&1 enemy ground vehicles."
+
+REFERENCE            seasonal_mp_c4_ground_vehicle_destructions
+LANG_ENGLISH         "Car Bomb"
+
+REFERENCE            seasonal_mp_ar_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations using Assault Rifles. "
+
+REFERENCE            seasonal_mp_ar_eliminations
+LANG_ENGLISH         "Assault Rifle Eliminations"
+
+REFERENCE            seasonal_mp_5_kills_without_dying_desc
+LANG_ENGLISH         "Get 5 kills without dying &&1 times."
+
+REFERENCE            seasonal_mp_5_kills_without_dying
+LANG_ENGLISH         "Act of Intimidation"
+
+REFERENCE            operator_unlock_pap_weapon_eliminations_desc
+LANG_ENGLISH         "In Zombies, get &&1 eliminations using Pack-A-Punched weapons."
+
+REFERENCE            operator_unlock_pap_weapon_eliminations_award
+LANG_ENGLISH         "Unlock Ingo Beck"
+
+REFERENCE            operator_unlock_pap_weapon_eliminations
+LANG_ENGLISH         "Pack-A-Punched Eliminations"
+
+REFERENCE            operator_unlock_killstreak_5_desc
+LANG_ENGLISH         "In Multiplayer, get 5 kills without dying &&1 times."
+
+REFERENCE            operator_unlock_killstreak_5_award
+LANG_ENGLISH         "Unlock Frank Woods"
+
+REFERENCE            operator_unlock_killstreak_5
+LANG_ENGLISH         "Bloodthirsty"
+
+REFERENCE            operator_unlock_kill_with_scorestreak_desc
+LANG_ENGLISH         "In Multiplayer, get &&1 kills with Scorestreaks."
+
+REFERENCE            operator_unlock_kill_with_scorestreak_award
+LANG_ENGLISH         "Unlock Russel Adler"
+
+REFERENCE            operator_unlock_kill_with_scorestreak
+LANG_ENGLISH         "Kill with Scorestreaks"
+
+REFERENCE            operator_unlock_kill_detected_enemies_desc
+LANG_ENGLISH         "In Multiplayer, kill &&1 enemies revealed by Scorestreaks or Field Upgrades."
+
+REFERENCE            operator_unlock_kill_detected_enemies_award
+LANG_ENGLISH         "Unlock Yirina Portnova"
+
+REFERENCE            operator_unlock_kill_detected_enemies
+LANG_ENGLISH         "Kill Detected Enemies"
+
+REFERENCE            operator_unlock_finishing_move_kill_desc
+LANG_ENGLISH         "In Multiplayer, perform &&1 Finishing Moves."
+
+REFERENCE            operator_unlock_finishing_move_kill_award
+LANG_ENGLISH         "Unlock Harry Stone"
+
+REFERENCE            operator_unlock_finishing_move_kill
+LANG_ENGLISH         "Finishing Moves"
+
+REFERENCE            operator_unlock_exfils_desc
+LANG_ENGLISH         "In Zombies, successfully exfil &&1 times."
+
+REFERENCE            operator_unlock_exfils_award
+LANG_ENGLISH         "Unlock Helen Park"
+
+REFERENCE            operator_unlock_exfils
+LANG_ENGLISH         "Successful Exfils"
+
+REFERENCE            operator_unlock_ekia_sniper_desc
+LANG_ENGLISH         "In Multiplayer, get &&1 eliminations with Sniper Rifles."
+
+REFERENCE            operator_unlock_ekia_sniper_award
+LANG_ENGLISH         "Unlock James Baker"
+
+REFERENCE            operator_unlock_ekia_sniper
+LANG_ENGLISH         "Sniper Eliminimations"
+
+REFERENCE            operator_unlock_detonate_dirty_bomb_desc
+LANG_ENGLISH         "In Fireteam Dirty Bomb, detonate or help your Fireteam detonate &&1 Dirty Bombs."
+
+REFERENCE            operator_unlock_detonate_dirty_bomb_award
+LANG_ENGLISH         "Unlock Mendo Garcia"
+
+REFERENCE            operator_unlock_detonate_dirty_bomb
+LANG_ENGLISH         "Detonate Dirty Bomb"
+
+REFERENCE            operator_unlock_destroy_vehicle_desc
+LANG_ENGLISH         "In Multiplayer, destroy &&1 enemy vehicles or Scorestreaks."
+
+REFERENCE            operator_unlock_destroy_vehicle_award
+LANG_ENGLISH         "Unlock Lawrence Sims"
+
+REFERENCE            operator_unlock_destroy_vehicle
+LANG_ENGLISH         "Destroy Vehicles"
+
+REFERENCE            operator_mission_wz_top_15_placement_desc
+LANG_ENGLISH         "In Warzone, earn top 15 placement with your team &&1 time."
+
+REFERENCE            operator_mission_wz_top_15_placement
+LANG_ENGLISH         "Competitive Edge - Objective 4"
+
+REFERENCE            operator_mission_wz_teammate_buybacks_desc
+LANG_ENGLISH         "In Warzone, successfully buy a teammate back into the game &&1 times."
+
+REFERENCE            operator_mission_wz_teammate_buybacks
+LANG_ENGLISH         "Field Medic - Objective 2"
+
+REFERENCE            operator_mission_wz_prisoner_wins_desc
+LANG_ENGLISH         "In Warzone, win &&1 one on one fight as a Prisoner."
+
+REFERENCE            operator_mission_wz_prisoner_wins
+LANG_ENGLISH         "Unkillable - Objective 1"
+
+REFERENCE            operator_mission_wz_complete_recon_objectives_desc
+LANG_ENGLISH         "In Warzone, complete &&1 Recon Contracts."
+
+REFERENCE            operator_mission_wz_complete_recon_objectives2_desc
+LANG_ENGLISH         "In Warzone, complete &&1 Recon Contracts."
+
+REFERENCE            operator_mission_wz_complete_recon_objectives2
+LANG_ENGLISH         "Manhunt - Objective 2"
+
+REFERENCE            operator_mission_wz_complete_recon_objectives
+LANG_ENGLISH         "Close Air Support - Objective 2"
+
+REFERENCE            operator_mission_wz_call_in_loadout_drops_desc
+LANG_ENGLISH         "In Warzone, call in &&1 Loadout Drops."
+
+REFERENCE            operator_mission_wz_call_in_loadout_drops
+LANG_ENGLISH         "Close Air Support - Objective 3"
+
+REFERENCE            operator_mission_wz_bounty_contracts_desc
+LANG_ENGLISH         "In Warzone, complete &&1 Bounty Contracts."
+
+REFERENCE            operator_mission_wz_bounty_contracts
+LANG_ENGLISH         "Payback - Objective 2"
+
+REFERENCE            operator_mission_win_one_v_one_as_prisoner_desc
+LANG_ENGLISH         "In Warzone, win &&1 one-on-one fight as a Prisoner."
+
+REFERENCE            operator_mission_win_one_v_one_as_prisoner
+LANG_ENGLISH         "Release Agent - Objective 1 "
+
+REFERENCE            operator_mission_urbaninfiltration
+LANG_ENGLISH         "Urban Infiltration"
+
+REFERENCE            operator_mission_unkillable
+LANG_ENGLISH         "Unkillable"
+
+REFERENCE            operator_mission_tracker_perk_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations while using the Tracker perk."
+
+REFERENCE            operator_mission_tracker_perk_eliminations
+LANG_ENGLISH         "Manhunt - Objective 3"
+
+REFERENCE            operator_mission_tomahawk_or_throwing_knife_kills_desc
+LANG_ENGLISH         "Get &&1 kills with the Tomahawk or Throwing Knife Lethal Equipment."
+
+REFERENCE            operator_mission_tomahawk_or_throwing_knife_kills
+LANG_ENGLISH         "Stone Cold Killer - Objective 3"
+
+REFERENCE            operator_mission_survivor_medals_desc
+LANG_ENGLISH         "Get &&1 Survivor medals (kill an enemy while badly injured)."
+
+REFERENCE            operator_mission_survivor_medals
+LANG_ENGLISH         "Unkillable - Objective 3"
+
+REFERENCE            operator_mission_stonecoldkiller
+LANG_ENGLISH         "Stone Cold Killer"
+
+REFERENCE            operator_mission_stim_shot_health_recovery_desc
+LANG_ENGLISH         "Use the Stim Shot to recover &&1 health."
+
+REFERENCE            operator_mission_stim_shot_health_recovery
+LANG_ENGLISH         "Field Medic - Objective 1"
+
+REFERENCE            operator_mission_sniper_one_shot_one_kill_desc
+LANG_ENGLISH         "Get &&1 One Shot, One Kill medals with Sniper Rifles."
+
+REFERENCE            operator_mission_sniper_one_shot_one_kill
+LANG_ENGLISH         "Eyes on Target - Objective 4"
+
+REFERENCE            operator_mission_shotgun_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations with Shotguns."
+
+REFERENCE            operator_mission_shotgun_eliminations
+LANG_ENGLISH         "Stone Cold Killer - Objective 2"
+
+REFERENCE            operator_mission_scorestreak_or_killstreak_kills_desc
+LANG_ENGLISH         "Kill &&1 enemies with Scorestreaks or Killstreaks."
+
+REFERENCE            operator_mission_scorestreak_or_killstreak_kills
+LANG_ENGLISH         "Explosives Whisperer - Objective 2"
+
+REFERENCE            operator_mission_revive_teammates_desc
+LANG_ENGLISH         "Revive &&1 teammates."
+
+REFERENCE            operator_mission_revive_teammates
+LANG_ENGLISH         "Field Medic - Objective 4"
+
+REFERENCE            operator_mission_resupply_teammates_assault_pack_munitions_box_desc
+LANG_ENGLISH         "Resupply &&1 teammates with the Assault Pack or Munitions Box Field Upgrades."
+
+REFERENCE            operator_mission_resupply_teammates_assault_pack_munitions_box
+LANG_ENGLISH         "Born for Battle - Objective 3"
+
+REFERENCE            operator_mission_releaseagent
+LANG_ENGLISH         "Release Agent"
+
+REFERENCE            operator_mission_point_blank_kill_desc
+LANG_ENGLISH         "Earn &&1 Point Blank medals (kill at close range)."
+
+REFERENCE            operator_mission_point_blank_kill
+LANG_ENGLISH         "Urban Infiltration - Objective 4"
+
+REFERENCE            operator_mission_payback
+LANG_ENGLISH         "Payback"
+
+REFERENCE            operator_mission_paranoia_or_high_alert_perk_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations while using the Paranoia or High Alert perks."
+
+REFERENCE            operator_mission_paranoia_or_high_alert_perk_eliminations
+LANG_ENGLISH         "Unkillable - Objective 2"
+
+REFERENCE            operator_mission_most_wanted_contract_completed_desc
+LANG_ENGLISH         "In Warzone, complete &&1 Most Wanted Contracts."
+
+REFERENCE            operator_mission_most_wanted_contract_completed
+LANG_ENGLISH         "Release Agent - Objective 4"
+
+REFERENCE            operator_mission_molotov_kills_desc
+LANG_ENGLISH         "Get &&1 kills with Molotov Lethal Equipment."
+
+REFERENCE            operator_mission_molotov_kills
+LANG_ENGLISH         "Payback - Objective 3"
+
+REFERENCE            operator_mission_longshot_kills_desc
+LANG_ENGLISH         "Get &&1 Longshot Kills"
+
+REFERENCE            operator_mission_longshot_kills
+LANG_ENGLISH         "Eyes on Target - Objective 2"
+
+REFERENCE            operator_mission_lethal_kills_with_quartermaster_or_restock_perks_desc
+LANG_ENGLISH         "Get &&1 Lethal Equipment kills while using the Quartermaster or Restock Perks."
+
+REFERENCE            operator_mission_lethal_kills_with_quartermaster_or_restock_perks
+LANG_ENGLISH         "Explosives Whisperer - Objective 4"
+
+REFERENCE            operator_mission_launcher_kills_desc
+LANG_ENGLISH         "Get &&1 kills with Launchers."
+
+REFERENCE            operator_mission_launcher_kills
+LANG_ENGLISH         "Explosives Whisperer - Objective 1"
+
+REFERENCE            operator_mission_knife_kills_desc
+LANG_ENGLISH         "Get &&1 kills with the Combat Knife."
+
+REFERENCE            operator_mission_knife_kills
+LANG_ENGLISH         "Manhunt - Objective 4"
+
+REFERENCE            operator_mission_kills_while_crouched_or_prone_desc
+LANG_ENGLISH         "Get &&1 kills while Crouched or Prone"
+
+REFERENCE            operator_mission_kills_while_crouched_or_prone
+LANG_ENGLISH         "Eyes on Target - Objective 3"
+
+REFERENCE            operator_mission_huntkillunit
+LANG_ENGLISH         "Manhunt"
+
+REFERENCE            operator_mission_headshots_desc
+LANG_ENGLISH         "Get &&1 Headshot Kills"
+
+REFERENCE            operator_mission_headshots
+LANG_ENGLISH         "Eyes on Target - Objective 1"
+
+REFERENCE            operator_mission_finishing_moves_desc
+LANG_ENGLISH         "Execute &&1 Finishing Move."
+
+REFERENCE            operator_mission_finishing_moves
+LANG_ENGLISH         "Stone Cold Killer - Objective 4"
+
+REFERENCE            operator_mission_fieldmedic
+LANG_ENGLISH         "Field Medic"
+
+REFERENCE            operator_mission_eyesontarget
+LANG_ENGLISH         "Eyes On Target"
+
+REFERENCE            operator_mission_explosiveswhisperer
+LANG_ENGLISH         "Explosives Whisperer"
+
+REFERENCE            operator_mission_enemy_uav_eliminations_with_ghost_perk_desc
+LANG_ENGLISH         "Using the Ghost Perk, eliminate &&1 enemies while an enemy Spy Plane or UAV is active."
+
+REFERENCE            operator_mission_enemy_uav_eliminations_with_ghost_perk
+LANG_ENGLISH         "Field Medic - Objective 3"
+
+REFERENCE            operator_mission_eliminations_while_in_vehicle_desc
+LANG_ENGLISH         "Get &&1 eliminations while in a vehicle."
+
+REFERENCE            operator_mission_eliminations_while_in_vehicle
+LANG_ENGLISH         "Close Air Support - Objective 1"
+
+REFERENCE            operator_mission_eliminate_downed_enemies_desc
+LANG_ENGLISH         "Eliminate &&1 downed enemies. "
+
+REFERENCE            operator_mission_eliminate_downed_enemies
+LANG_ENGLISH         "Born for Battle - Objective 2"
+
+REFERENCE            operator_mission_ekia_with_tac_mask_or_battle_hardened_perk_desc
+LANG_ENGLISH         "Get &&1 eliminations while using the Tactical Mask or Battle Hardened perks."
+
+REFERENCE            operator_mission_ekia_with_tac_mask_or_battle_hardened_perk
+LANG_ENGLISH         "Release Agent - Objective 3"
+
+REFERENCE            operator_mission_ekia_with_silenced_weapons_desc
+LANG_ENGLISH         "Get &&1 eliminations with Silenced Weapons."
+
+REFERENCE            operator_mission_ekia_with_silenced_weapons
+LANG_ENGLISH         "Urban Infiltration - Objective 1"
+
+REFERENCE            operator_mission_ekia_enemies_gas_mine_or_gas_grenade_desc
+LANG_ENGLISH         "Eliminate &&1 enemies that are affected by your Gas Mine or Gas Grenade."
+
+REFERENCE            operator_mission_ekia_enemies_gas_mine_or_gas_grenade
+LANG_ENGLISH         "Release Agent - Objective 2"
+
+REFERENCE            operator_mission_ekia_call_in_uav_desc
+LANG_ENGLISH         "Call in &&1 Spy Planes or UAVs."
+
+REFERENCE            operator_mission_ekia_call_in_uav
+LANG_ENGLISH         "Urban Infiltration - Objective 3"
+
+REFERENCE            operator_mission_ekia_blinded_desc
+LANG_ENGLISH         "Eliminate &&1 enemies while they are blinded by your Flash Grenades."
+
+REFERENCE            operator_mission_ekia_blinded
+LANG_ENGLISH         "Urban Infiltration - Objective 2"
+
+REFERENCE            operator_mission_double_kills_desc
+LANG_ENGLISH         "Earn 3 Double Kill medals (2 rapid kills)."
+
+REFERENCE            operator_mission_double_kills
+LANG_ENGLISH         "Competitive Edge - Objective 1"
+
+REFERENCE            operator_mission_destroy_enemy_vehicles_desc
+LANG_ENGLISH         "Destroy &&1 enemy vehicles."
+
+REFERENCE            operator_mission_destroy_enemy_vehicles2_desc
+LANG_ENGLISH         "Destroy &&1 enemy vehicles."
+
+REFERENCE            operator_mission_destroy_enemy_vehicles2
+LANG_ENGLISH         "Payback - Objective 4"
+
+REFERENCE            operator_mission_destroy_enemy_vehicles
+LANG_ENGLISH         "Explosives Whisperer - Objective 3"
+
+REFERENCE            operator_mission_competitiveedge
+LANG_ENGLISH         "Competitive Edge"
+
+REFERENCE            operator_mission_combat_knife_kills_desc
+LANG_ENGLISH         "Get &&1 kills with the Combat Knife."
+
+REFERENCE            operator_mission_combat_knife_kills
+LANG_ENGLISH         "Stone Cold Killer - Objective 1"
+
+REFERENCE            operator_mission_cold_blooded_perk_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations while using the Cold Blooded Perk."
+
+REFERENCE            operator_mission_cold_blooded_perk_eliminations
+LANG_ENGLISH         "Competitive Edge - Objective 2"
+
+REFERENCE            operator_mission_closeairsupport
+LANG_ENGLISH         "Close Air Support"
+
+REFERENCE            operator_mission_call_in_uavs_desc
+LANG_ENGLISH         "Call in &&1 Spy Planes or UAVs."
+
+REFERENCE            operator_mission_call_in_uavs
+LANG_ENGLISH         "Manhunt - Objective 1"
+
+REFERENCE            operator_mission_call_in_scorestreaks_or_killstreaks_desc
+LANG_ENGLISH         "Call in &&1 Scorestreaks or Killstreaks."
+
+REFERENCE            operator_mission_call_in_scorestreaks_or_killstreaks
+LANG_ENGLISH         "Close Air Support - Objective 3"
+
+REFERENCE            operator_mission_c4_kills_desc
+LANG_ENGLISH         "Get &&1 kills with C4 Lethal Equipment."
+
+REFERENCE            operator_mission_c4_kills
+LANG_ENGLISH         "Payback - Objective 1"
+
+REFERENCE            operator_mission_bornforbattle
+LANG_ENGLISH         "Born for Battle"
+
+REFERENCE            operator_mission_bloodthirsty_medals_desc
+LANG_ENGLISH         "Kill 5 enemies without dying &&1 time."
+
+REFERENCE            operator_mission_bloodthirsty_medals
+LANG_ENGLISH         "Unkillable - Objective 4"
+
+REFERENCE            operator_mission_bloodthirsty_medal_desc
+LANG_ENGLISH         "Kill 5 enemies without dying &&1 time."
+
+REFERENCE            operator_mission_bloodthirsty_medal
+LANG_ENGLISH         "Competitive Edge - Objective 3"
+
+REFERENCE            operator_mission_avenger_medals_desc
+LANG_ENGLISH         "Earn &&1 Avenger medals (kill an enemy that recently killed a teammate)."
+
+REFERENCE            operator_mission_avenger_medals
+LANG_ENGLISH         "Born for Battle - Objective 4"
+
+REFERENCE            operator_mission_assault_rifle_eliminations_desc
+LANG_ENGLISH         "Get &&1 eliminations with Assault Rifles."
+
+REFERENCE            operator_mission_assault_rifle_eliminations
+LANG_ENGLISH         "Born for Battle - Objective 1"
+
+REFERENCE            milestone_optic_category_kills
+LANG_ENGLISH         "Get &&1 kills while aiming down sights with the &&2 in Multiplayer"
+
+REFERENCE            mastery_expert
+LANG_ENGLISH         "Unlock &&1 Multiplayer Camos for this weapon."
+
+REFERENCE            camo_diamond_desc_singular
+LANG_ENGLISH         "Unlock Gold Camo for &&1 weapon in this class in Multiplayer
+"
+
+REFERENCE            camo_diamond_desc
+LANG_ENGLISH         "Unlock Gold Camo for &&1 weapons in this class in Multiplayer."
+
+
+ENDMARKER

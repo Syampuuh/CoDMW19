@@ -2,6 +2,12 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            10secondstoexfil
+LANG_ENGLISH         "&&110 seconds to exfil."
+
+REFERENCE            15secondstoexfil
+LANG_ENGLISH         "&&115 seconds to exfil."
+
 REFERENCE            1lapcomplete
 LANG_ENGLISH         "&&11 Lap complete!"
 
@@ -11,17 +17,62 @@ LANG_ENGLISH         "&&11 lap to go."
 REFERENCE            1moretogo
 LANG_ENGLISH         "&&11 more to go!"
 
+REFERENCE            20secondstoexfil
+LANG_ENGLISH         "&&120 seconds to exfil."
+
 REFERENCE            2lapscomplete
 LANG_ENGLISH         "&&12 laps complete!"
 
+REFERENCE            2minutestoexfil
+LANG_ENGLISH         "&&12 minutes to exfil."
+
+REFERENCE            2targetsremoved
+LANG_ENGLISH         "&&12 targets removed."
+
+REFERENCE            30secondstoexfil
+LANG_ENGLISH         "&&130 seconds to exfil."
+
 REFERENCE            321go
 LANG_ENGLISH         "&&13,2,1 Go!"
+
+REFERENCE            3minutestoexfil
+LANG_ENGLISH         "&&13 minutes to exfil."
+
+REFERENCE            45secondstoexfil
+LANG_ENGLISH         "&&145 seconds to exfil."
+
+REFERENCE            4minutestoexfil
+LANG_ENGLISH         "&&14 minutes to exfil."
+
+REFERENCE            51hitshits
+LANG_ENGLISH         "&&15-1 hits hits."
+
+REFERENCE            51strafingrunineffec
+LANG_ENGLISH         "&&15-1 Strafing run ineffectual. Repeat. Ineffectual."
+
+REFERENCE            51withthekill
+LANG_ENGLISH         "&&15-1 with the kill."
 
 REFERENCE            5423whatisit5111945o
 LANG_ENGLISH         "&&154... 23... What is it? 5... 11... 19... 45? Of course... Lucky 7."
 
 REFERENCE            54321go
 LANG_ENGLISH         "&&15...4...3...2...1...GO!"
+
+REFERENCE            5minutestoexfil
+LANG_ENGLISH         "&&15 minutes to exfil."
+
+REFERENCE            5secondstoexfil
+LANG_ENGLISH         "&&15 seconds to exfil."
+
+REFERENCE            60secondstoexfil
+LANG_ENGLISH         "&&160 seconds to exfil."
+
+REFERENCE            68tally
+LANG_ENGLISH         "&&16-8 tally."
+
+REFERENCE            71512197256136715140
+LANG_ENGLISH         "&&17-15-1-2-19-7-25-6-13-6-7-15-14-0"
 
 REFERENCE            750securedstayfocuse
 LANG_ENGLISH         "&&1750 secured. Stay focused."
@@ -215,6 +266,9 @@ LANG_ENGLISH         "&&1All teams, proceed to an exfil location. Helos are stan
 REFERENCE            alltrainingactivitie
 LANG_ENGLISH         "&&1All training activities are currently suspended."
 
+REFERENCE            allyhaspickedupthera
+LANG_ENGLISH         "&&1Ally has picked up the radio."
+
 REFERENCE            almostdonefarahherew
 LANG_ENGLISH         "&&1Almost done, Farah... Here we go..."
 
@@ -275,8 +329,14 @@ LANG_ENGLISH         "&&1AN INFINITY WARD PRODUCTION"
 REFERENCE            anyfurthercomplicati
 LANG_ENGLISH         "&&1Any further complications and we're at war."
 
+REFERENCE            anystationthisnetthi
+LANG_ENGLISH         "&&1Any station this net, this is Captain Rozental of the Russian Vessel Vodianoy"
+
 REFERENCE            aoistoohotredeployme
 LANG_ENGLISH         "&&1AO is too hot, redeployment is no longer possible."
+
+REFERENCE            aperimeterhasbeenest
+LANG_ENGLISH         "&&1A perimeter has been established for your safety."
 
 REFERENCE            approachandusetheloa
 LANG_ENGLISH         "&&1Approach and use the loadout drop."
@@ -286,6 +346,9 @@ LANG_ENGLISH         "&&1Approach and use the loudout drop."
 
 REFERENCE            approachcoveraimdown
 LANG_ENGLISH         "&&1Approach cover, aim down your sights, and mount your weapon on the cover."
+
+REFERENCE            approachingtargetgri
+LANG_ENGLISH         "&&1Approaching target grid."
 
 REFERENCE            approachsomecoveraim
 LANG_ENGLISH         "&&1Approach some cover, aim down your sights, and mount your weapon on the cover."
@@ -473,6 +536,12 @@ LANG_ENGLISH         "&&1Be advised, gas is closing in. Proceed to the safe zone
 REFERENCE            beadvisedhighvalueta
 LANG_ENGLISH         "&&1Be advised - high value targets nearby."
 
+REFERENCE            beadvisedincomingmis
+LANG_ENGLISH         "&&1Be advised - Incoming missile - take cover."
+
+REFERENCE            beadvisedleveltwocon
+LANG_ENGLISH         "&&1Be advised - Level Two Containment Protocols are now in effect."
+
 REFERENCE            beadvisedloadoutdrop
 LANG_ENGLISH         "&&1Be advised, loadout drop inbound."
 
@@ -490,6 +559,9 @@ LANG_ENGLISH         "&&1Be advised, the enemy is approaching 1 million in cash.
 
 REFERENCE            beadvisedtheenemyisc
 LANG_ENGLISH         "&&1Be advised, the enemy is closing on their objective."
+
+REFERENCE            beadvisedthereisabio
+LANG_ENGLISH         "&&1Be advised. There is a biohazard on board. We have enacted containment protocols...but it might be too late."
 
 REFERENCE            beadvisedtheresanene
 LANG_ENGLISH         "&&1Be advised, there's an enemy team hutning for you."
@@ -520,6 +592,9 @@ LANG_ENGLISH         "&&1Be advised, your teammate has been marked as Most-Wante
 
 REFERENCE            beatthemdownorcaptur
 LANG_ENGLISH         "&&1Beat them down or capture the objective."
+
+REFERENCE            becarefulyouareneari
+LANG_ENGLISH         "&&1Be careful, you are nearing a plague zone."
 
 REFERENCE            becarefulzombiesarem
 LANG_ENGLISH         "&&1Be careful, Zombies are more powerful in the gas."
@@ -667,6 +742,9 @@ LANG_ENGLISH         "&&1BR Metal Solos"
 
 REFERENCE            brmetaltrios
 LANG_ENGLISH         "&&1BR Metal Trios"
+
+REFERENCE            buffalo
+LANG_ENGLISH         "&&1Buffalo."
 
 REFERENCE            bunkeropened
 LANG_ENGLISH         "&&1Bunker Opened."
@@ -881,11 +959,29 @@ LANG_ENGLISH         "^3aq team leader:^7 "
 REFERENCE            char_chly
 LANG_ENGLISH         "^3Charly:^7 "
 
+REFERENCE            char_clv
+LANG_ENGLISH         "^3culver:^7 "
+
+REFERENCE            char_cp1
+LANG_ENGLISH         "^3chopper pilot:^7 "
+
+REFERENCE            char_ebr
+LANG_ENGLISH         "^3emergency broadcast:^7 "
+
 REFERENCE            char_enfo
 LANG_ENGLISH         "^3Enforcer:^7 "
 
 REFERENCE            char_far
 LANG_ENGLISH         "^3Farah:^7 "
+
+REFERENCE            char_fem1
+LANG_ENGLISH         "^3female voice 1:^7 "
+
+REFERENCE            char_g51
+LANG_ENGLISH         "^3guardian 51:^7 "
+
+REFERENCE            char_g68
+LANG_ENGLISH         "^3guardian 68:^7 "
 
 REFERENCE            char_gfx
 LANG_ENGLISH         "^3gfx:^7 "
@@ -908,6 +1004,9 @@ LANG_ENGLISH         "^3Lerch:^7 "
 REFERENCE            char_lyon
 LANG_ENGLISH         "^3Lyons:^7 "
 
+REFERENCE            char_mon
+LANG_ENGLISH         "^3containment monitor:^7 "
+
 REFERENCE            char_nik
 LANG_ENGLISH         "^3Nikolai:^7 "
 
@@ -916,6 +1015,18 @@ LANG_ENGLISH         "^3Otter:^7 "
 
 REFERENCE            char_pri
 LANG_ENGLISH         "^3Price:^7 "
+
+REFERENCE            char_rfm1
+LANG_ENGLISH         "^3russian female 1:^7 "
+
+REFERENCE            char_rm1
+LANG_ENGLISH         "^3russian male 1:^7 "
+
+REFERENCE            char_rm2
+LANG_ENGLISH         "^3russian male 2:^7 "
+
+REFERENCE            char_roz
+LANG_ENGLISH         "^3captain rozental:^7 "
 
 REFERENCE            char_roze
 LANG_ENGLISH         "^3Roze:^7 "
@@ -986,6 +1097,15 @@ LANG_ENGLISH         "&&1Chemical weapons are now in the wild."
 REFERENCE            chemicalweaponshavef
 LANG_ENGLISH         "&&1Chemical weapons have fallen into terrorist's hands."
 
+REFERENCE            chopperheadingtoradi
+LANG_ENGLISH         "&&1Chopper heading to radio location."
+
+REFERENCE            chopperheadingtoyour
+LANG_ENGLISH         "&&1Chopper heading to your location."
+
+REFERENCE            chopperinbound
+LANG_ENGLISH         "&&1Chopper inbound."
+
 REFERENCE            circledareasonthetac
 LANG_ENGLISH         "&&1Circled areas on the tac-map are ideal for hiding."
 
@@ -1025,6 +1145,12 @@ LANG_ENGLISH         "&&1Collect the most cash before time runs out."
 REFERENCE            comeback
 LANG_ENGLISH         "&&1Comeback!"
 
+REFERENCE            comingbackaroundtore
+LANG_ENGLISH         "&&1Coming back around to re-engage, 5 seconds."
+
+REFERENCE            commsonlineretrievin
+LANG_ENGLISH         "&&1Comms online. Retrieving location."
+
 REFERENCE            competeintimetrialst
 LANG_ENGLISH         "&&1Compete in time trials to set the fastest time."
 
@@ -1057,6 +1183,9 @@ LANG_ENGLISH         "&&1Consume enough remains to respawn as a human."
 
 REFERENCE            consumetheremainsoft
 LANG_ENGLISH         "&&1Consume the remains of the dead to regain your humanity."
+
+REFERENCE            containmentisimperat
+LANG_ENGLISH         "&&1Containment is imperative."
 
 REFERENCE            contractaborted
 LANG_ENGLISH         "&&1Contract aborted."
@@ -1177,6 +1306,9 @@ LANG_ENGLISH         "&&1Contract was aborted. Stand down."
 
 REFERENCE            controltheareasecure
 LANG_ENGLISH         "&&1Control the area, secure the cash, and get it to extraction."
+
+REFERENCE            coordinatesacceptedm
+LANG_ENGLISH         "&&1Coordinates accepted - Missile is airborne."
 
 REFERENCE            copyactualdemonteams
 LANG_ENGLISH         "&&1Copy Actual- Demon teams have cordoned off the silo."
@@ -1625,6 +1757,9 @@ LANG_ENGLISH         "&&1Equip the armor."
 REFERENCE            erasethem
 LANG_ENGLISH         "&&1Erase them!"
 
+REFERENCE            escape
+LANG_ENGLISH         "&&1Escape."
+
 REFERENCE            evadeenemyattackers
 LANG_ENGLISH         "&&1Evade enemy attackers"
 
@@ -1636,6 +1771,9 @@ LANG_ENGLISH         "&&1Every journey begins with a single step... this is step
 
 REFERENCE            excellentworkcargose
 LANG_ENGLISH         "&&1Excellent work, cargo secured."
+
+REFERENCE            exfilinbound
+LANG_ENGLISH         "&&1Exfil inbound."
 
 REFERENCE            exfilisapproachingyo
 LANG_ENGLISH         "&&1Exfil is approaching your position. Stand by..."
@@ -1652,14 +1790,38 @@ LANG_ENGLISH         "&&1Exfil is leaving the AO."
 REFERENCE            exfilisonstationgett
 LANG_ENGLISH         "&&1Exfil is on station. Get to the LZ!"
 
+REFERENCE            exfilmissionabandone
+LANG_ENGLISH         "&&1Exfil mission abandoned."
+
+REFERENCE            exfilradioisinboundh
+LANG_ENGLISH         "&&1Exfil radio is inbound, hold on to win."
+
+REFERENCE            exfilroyale
+LANG_ENGLISH         "&&1Exfil Royale."
+
 REFERENCE            exfilsonstationgetto_1
 LANG_ENGLISH         "&&1Exfil's on station. Get to the LZ!"
+
+REFERENCE            exfilstrategy
+LANG_ENGLISH         "&&1Exfil Strategy"
 
 REFERENCE            exitingcombatarea
 LANG_ENGLISH         "&&1Exiting combat area."
 
 REFERENCE            exitingcombatzone
 LANG_ENGLISH         "&&1Exiting combat zone."
+
+REFERENCE            exitstrategy
+LANG_ENGLISH         "&&1Exit Strategy"
+
+REFERENCE            exitstrategyinprogre
+LANG_ENGLISH         "&&1Exit Strategy in progress."
+
+REFERENCE            experiencingstrongwi
+LANG_ENGLISH         "&&1Experiencing strong winds from the South West. Adjusting course."
+
+REFERENCE            experiencingstrongwi_1
+LANG_ENGLISH         "&&1Experiencing strong winds, taking different route."
 
 REFERENCE            extractfailedfightfo
 LANG_ENGLISH         "&&1Extract failed, Fight for your life."
@@ -1813,6 +1975,9 @@ LANG_ENGLISH         "&&1Five remaining."
 
 REFERENCE            fiveremainstaysharp
 LANG_ENGLISH         "&&1Five remain. Stay sharp."
+
+REFERENCE            fixingradiosignalstr
+LANG_ENGLISH         "&&1Fixing radio signal strength."
 
 REFERENCE            fixit
 LANG_ENGLISH         "&&1Fix it."
@@ -2027,6 +2192,9 @@ LANG_ENGLISH         "&&1Get to the Cash Deposit Helipad."
 REFERENCE            gettothelzanddeposit
 LANG_ENGLISH         "&&1Get to the LZ and deposit your cash."
 
+REFERENCE            gettotheradiocarrier
+LANG_ENGLISH         "&&1Get to the Radio Carrier."
+
 REFERENCE            getyourarmoron
 LANG_ENGLISH         "&&1Get your armor on."
 
@@ -2042,6 +2210,12 @@ LANG_ENGLISH         "&&1Get yourselves sorted. We'll be deploying shortly."
 REFERENCE            ghostout
 LANG_ENGLISH         "&&1Ghost out."
 
+REFERENCE            gladimnotdownthere
+LANG_ENGLISH         "&&1Glad I'm not down there."
+
+REFERENCE            godhelpus
+LANG_ENGLISH         "&&1God help us."
+
 REFERENCE            good_2
 LANG_ENGLISH         "&&1Good."
 
@@ -2054,7 +2228,7 @@ LANG_ENGLISH         "&&1Good effect on target, Shadows!"
 REFERENCE            goodeffortgetbackint
 LANG_ENGLISH         "&&1Good effort. Get back in there."
 
-REFERENCE            goodgood_2
+REFERENCE            goodgood_3
 LANG_ENGLISH         "&&1Good. Good."
 
 REFERENCE            goodhunting
@@ -2135,6 +2309,33 @@ LANG_ENGLISH         "&&1Greenlight, soldier! Deploy when you're ready!"
 REFERENCE            greenlightyoureclear
 LANG_ENGLISH         "&&1Greenlight! You're clear to jump!"
 
+REFERENCE            guardian51doublekill
+LANG_ENGLISH         "&&1Guardian 5-1, double kill."
+
+REFERENCE            guardian51multipleta
+LANG_ENGLISH         "&&1Guardian 5-1 - multiple targets struck - no movement."
+
+REFERENCE            guardian68failuretof
+LANG_ENGLISH         "&&1Guardian 6-8, failure to find."
+
+REFERENCE            guardian68goodeffect
+LANG_ENGLISH         "&&1Guardian 6-8 - good effect on target."
+
+REFERENCE            guardian68killkill
+LANG_ENGLISH         "&&1Guardian 68, kill kill."
+
+REFERENCE            guardian68settingupg
+LANG_ENGLISH         "&&1Guardian 6-8 setting up ground attack."
+
+REFERENCE            guardian68strafingag
+LANG_ENGLISH         "&&1Guardian 6-8, strafing again."
+
+REFERENCE            guardian68withthetri
+LANG_ENGLISH         "&&1Guardian 6-8 with the triple."
+
+REFERENCE            guardiancommencingat
+LANG_ENGLISH         "&&1Guardian commencing attack run - Guns hot."
+
 REFERENCE            guardsarecomingourwa
 LANG_ENGLISH         "&&1Guards are coming our way now, Actual..."
 
@@ -2156,8 +2357,17 @@ LANG_ENGLISH         "&&1Halfway done. Keep it up."
 REFERENCE            halfwaydonekeepupthe
 LANG_ENGLISH         "&&1Halfway done. Keep up the pace."
 
+REFERENCE            hangondownthere
+LANG_ENGLISH         "&&1Hang on down there."
+
+REFERENCE            hangonsoldier
+LANG_ENGLISH         "&&1Hang on, soldier."
+
 REFERENCE            headsupcombatantsare
 LANG_ENGLISH         "&&1Heads up! Combatants are redeploying to the AO!"
+
+REFERENCE            heavyfiregoinglow
+LANG_ENGLISH         "&&1Heavy fire. Going low."
 
 REFERENCE            heavymetalbr
 LANG_ENGLISH         "&&1Heavy Metal BR"
@@ -2179,6 +2389,9 @@ LANG_ENGLISH         "&&1He had the tunnels but no trains."
 
 REFERENCE            hehyoukickedtheirars
 LANG_ENGLISH         "&&1Heh, you kicked their arse. Stand by for redeployment."
+
+REFERENCE            helibravoalphatracki
+LANG_ENGLISH         "&&1Heli Bravo. Alpha tracking location."
 
 REFERENCE            helicopterisawayyour
 LANG_ENGLISH         "&&1Helicopter is away. Your cash is safe now."
@@ -2285,6 +2498,9 @@ LANG_ENGLISH         "&&1Hostile dropping into the area. Watch the skies."
 REFERENCE            hostilercxdinyourao
 LANG_ENGLISH         "&&1Hostile RC-XD in your AO."
 
+REFERENCE            houston
+LANG_ENGLISH         "&&1Houston."
+
 REFERENCE            howaboutyoucaptain
 LANG_ENGLISH         "&&1How about you Captain,"
 
@@ -2314,6 +2530,9 @@ LANG_ENGLISH         "&&1I can listen."
 
 REFERENCE            idratherkillhim
 LANG_ENGLISH         "&&1I'd rather kill him..."
+
+REFERENCE            ifyouareunabletoavoi
+LANG_ENGLISH         "&&1If you are unable to avoid the infected, use of lethal force is authorized and encouraged."
 
 REFERENCE            ifyoubuymesometimeye
 LANG_ENGLISH         "&&1If you buy me some time, yes."
@@ -2393,6 +2612,12 @@ LANG_ENGLISH         "&&1I'll send Operators you can trust."
 REFERENCE            inbloodmoneydeathcom
 LANG_ENGLISH         "&&1In Blood Money, death comes with a heavy tax."
 
+REFERENCE            incomingmissiledetec
+LANG_ENGLISH         "&&1Incoming missile detected - take shelter."
+
+REFERENCE            incomingradio
+LANG_ENGLISH         "&&1Incoming radio."
+
 REFERENCE            incorrectcode1attemp
 LANG_ENGLISH         "&&1Incorrect Code, 1 attempt remaining."
 
@@ -2411,8 +2636,38 @@ LANG_ENGLISH         "&&1I need your help."
 REFERENCE            ineedyoutofindoutwhy
 LANG_ENGLISH         "&&1I need you to find out why."
 
+REFERENCE            ineffectivestrikenoi
+LANG_ENGLISH         "&&1Ineffective strike. No impact."
+
 REFERENCE            inextractiondeathcom
 LANG_ENGLISH         "&&1In Extraction, death comes with a heavy tax."
+
+REFERENCE            infectionlevel33
+LANG_ENGLISH         "&&1Infection Level 33%."
+
+REFERENCE            infectionlevel35
+LANG_ENGLISH         "&&1Infection Level 35%."
+
+REFERENCE            infectionlevel39
+LANG_ENGLISH         "&&1Infection Level 39%."
+
+REFERENCE            infectionlevelat66
+LANG_ENGLISH         "&&1Infection Level at 66%."
+
+REFERENCE            infectionlevelat69
+LANG_ENGLISH         "&&1Infection Level at 69%."
+
+REFERENCE            infectionlevelat70
+LANG_ENGLISH         "&&1Infection Level at 70%."
+
+REFERENCE            infectionlevelat90
+LANG_ENGLISH         "&&1Infection Level at 90%."
+
+REFERENCE            infectionlevelat91
+LANG_ENGLISH         "&&1Infection Level at 91%."
+
+REFERENCE            infectionlevelat92
+LANG_ENGLISH         "&&1Infection Level at 92%."
 
 REFERENCE            infiltothetargetarea
 LANG_ENGLISH         "&&1Infil to the target area, secure the cash, and get out."
@@ -2506,6 +2761,9 @@ LANG_ENGLISH         "&&1It's time, soldier. Break them."
 
 REFERENCE            ivegotfireteamoperat
 LANG_ENGLISH         "&&1I've got fire team operators inbound hot to your position."
+
+REFERENCE            iveneverseenanything
+LANG_ENGLISH         "&&1I've never seen anything like it."
 
 REFERENCE            jailbreakallprisoner
 LANG_ENGLISH         "&&1Jailbreak. All prisoners are being released from the Gulag. Get ready..."
@@ -2651,6 +2909,9 @@ LANG_ENGLISH         "&&1Last Stand."
 REFERENCE            lasttarget
 LANG_ENGLISH         "&&1Last Target."
 
+REFERENCE            launchauthorizationa
+LANG_ENGLISH         "&&1Launch authorization accepted - missile is flying."
+
 REFERENCE            learnfromthelossfail
 LANG_ENGLISH         "&&1Learn from the loss. Failure's a proper teacher."
 
@@ -2669,8 +2930,35 @@ LANG_ENGLISH         "&&1Leaving safe zone. Weapons hot."
 REFERENCE            lerchtorozeyoureadyt
 LANG_ENGLISH         "&&1Lerch to Roze- You ready to start this fire...?"
 
+REFERENCE            lessthan10secondstoe
+LANG_ENGLISH         "&&1Less than 10 seconds to exfil."
+
+REFERENCE            lessthan20secondstoe
+LANG_ENGLISH         "&&1Less than 20 seconds to exfil."
+
+REFERENCE            lessthan2minutestoex
+LANG_ENGLISH         "&&1Less than 2 minutes to exfil."
+
+REFERENCE            lessthan3minutestoex
+LANG_ENGLISH         "&&1Less than 3 minutes to exfil."
+
+REFERENCE            lessthan45secondstoe
+LANG_ENGLISH         "&&1Less than 45 seconds to exfil."
+
+REFERENCE            lessthan4minutestoex
+LANG_ENGLISH         "&&1Less than 4 minutes to exfil."
+
 REFERENCE            lessthan50enemiesrem
 LANG_ENGLISH         "&&1Less than 50 enemies remain."
+
+REFERENCE            lessthan5minutestoex
+LANG_ENGLISH         "&&1Less than 5 minutes to exfil."
+
+REFERENCE            lessthan5secondstoex
+LANG_ENGLISH         "&&1Less than 5 seconds to exfil."
+
+REFERENCE            lessthan60secondstoe
+LANG_ENGLISH         "&&1Less than 60 seconds to exfil."
 
 REFERENCE            lessthanfiftyremains
 LANG_ENGLISH         "&&1Less than fifty remain standing."
@@ -2777,6 +3065,12 @@ LANG_ENGLISH         "&&1Locate the Cash Deposit Balloon in the next area."
 REFERENCE            locatethetabletwitht
 LANG_ENGLISH         "&&1Locate the tablet with the contract."
 
+REFERENCE            longitudelockedin
+LANG_ENGLISH         "&&1Longitude locked in."
+
+REFERENCE            longscream
+LANG_ENGLISH         "&&1(long scream)"
+
 REFERENCE            lookatthearmoranddro
 LANG_ENGLISH         "&&1Look at the armor and Drop a Pin."
 
@@ -2807,6 +3101,12 @@ LANG_ENGLISH         "&&1Look out for others."
 REFERENCE            lootandcasharenormal
 LANG_ENGLISH         "&&1Loot and cash are normally found inside buildings."
 
+REFERENCE            losingthesignal
+LANG_ENGLISH         "&&1Losing the signal!"
+
+REFERENCE            lostconnection
+LANG_ENGLISH         "&&1Lost connection."
+
 REFERENCE            loudoutdropsallowyou
 LANG_ENGLISH         "&&1Loudout Drops allow you to select a full loudout."
 
@@ -2815,6 +3115,12 @@ LANG_ENGLISH         "&&1Luck is on your side. We are sending you back to the fr
 
 REFERENCE            mactavishtoactual
 LANG_ENGLISH         "&&1MacTavish to Actual..."
+
+REFERENCE            madison
+LANG_ENGLISH         "&&1Madison."
+
+REFERENCE            makesureyoursquadhas
+LANG_ENGLISH         "&&1Make sure your squad has the radio when its time to exfil."
 
 REFERENCE            maneuvertothefinishw
 LANG_ENGLISH         "&&1Maneuver to the finish without contacting the ground."
@@ -2836,6 +3142,9 @@ LANG_ENGLISH         "&&1Mark the targets for your teammates."
 
 REFERENCE            maybeyourteamwillbuy
 LANG_ENGLISH         "&&1Maybe your team will buy you a redeployment."
+
+REFERENCE            mediumscream
+LANG_ENGLISH         "&&1(medium scream)"
 
 REFERENCE            metalbr
 LANG_ENGLISH         "&&1Metal BR"
@@ -2872,6 +3181,15 @@ LANG_ENGLISH         "&&1Mini BR"
 
 REFERENCE            miniroyale
 LANG_ENGLISH         "&&1Mini Royale"
+
+REFERENCE            missileawaytimetotar
+LANG_ENGLISH         "&&1Missile away - time to target 10 seconds."
+
+REFERENCE            missilelaunchconfirm
+LANG_ENGLISH         "&&1Missile launch confirmed."
+
+REFERENCE            missilethreatinbound
+LANG_ENGLISH         "&&1Missile threat inbound on your location. Seek shelter immediately!"
 
 REFERENCE            missionaccomplisheda_1
 LANG_ENGLISH         "&&1Mission accomplished. All cash secured."
@@ -2957,6 +3275,9 @@ LANG_ENGLISH         "&&1Navigate the course and shoot all hostile targets."
 REFERENCE            navigatethroughthech
 LANG_ENGLISH         "&&1Navigate through the checkpoints to complete the course."
 
+REFERENCE            negativeengagement
+LANG_ENGLISH         "&&1Negative engagement."
+
 REFERENCE            negativeonexfilwelos
 LANG_ENGLISH         "&&1Negative on exfil. We lost the cargo."
 
@@ -2969,6 +3290,12 @@ LANG_ENGLISH         "&&1Negative on that deposit.  Pick up your cash."
 REFERENCE            negativeonthatdeposi_1
 LANG_ENGLISH         "&&1Negative on that deposit. Helo was shot down."
 
+REFERENCE            negativestrafingrunn
+LANG_ENGLISH         "&&1Negative. Strafing run, no impact."
+
+REFERENCE            negativestrikesoutsi
+LANG_ENGLISH         "&&1Negative - strikes outside."
+
 REFERENCE            neutralizeallenemyta
 LANG_ENGLISH         "&&1Neutralize all enemy targets."
 
@@ -2977,6 +3304,9 @@ LANG_ENGLISH         "&&1Neutralize the objective."
 
 REFERENCE            neutralizetheobjecti_1
 LANG_ENGLISH         "&&1Neutralize the objectives."
+
+REFERENCE            newcarrierupdatinghe
+LANG_ENGLISH         "&&1New carrier. Updating heading."
 
 REFERENCE            newcourserecord
 LANG_ENGLISH         "&&1New course record!"
@@ -3058,6 +3388,9 @@ LANG_ENGLISH         "&&1Not by a long shot."
 
 REFERENCE            notenoughcashwassecu
 LANG_ENGLISH         "&&1Not enough cash was secured. Stand down."
+
+REFERENCE            nothingbutstrangersi
+LANG_ENGLISH         "&&1Nothing but Strangers in sight."
 
 REFERENCE            noticesupplyboxesmak
 LANG_ENGLISH         "&&1Notice supply boxes make a distinct hum when you're close."
@@ -3410,6 +3743,9 @@ LANG_ENGLISH         "&&1Personal Radar available."
 REFERENCE            personalradarreadyto
 LANG_ENGLISH         "&&1Personal Radar ready to deploy."
 
+REFERENCE            phoenix
+LANG_ENGLISH         "&&1Phoenix."
+
 REFERENCE            pickaloudoutfromthel
 LANG_ENGLISH         "&&1Pick a loudout from the loudout drop."
 
@@ -3490,6 +3826,9 @@ LANG_ENGLISH         "&&1Practice is over. The real fight begins now."
 
 REFERENCE            practicewithexplosiv
 LANG_ENGLISH         "&&1Practice with explosive projectiles here."
+
+REFERENCE            precautionarymeasure
+LANG_ENGLISH         "&&1Precautionary measures are being taken and Level One Containment Protocols have been initiated."
 
 REFERENCE            preparationisdonenow
 LANG_ENGLISH         "&&1Preparation is done. Now you deploy to the Warzone."
@@ -3590,6 +3929,18 @@ LANG_ENGLISH         "&&1Props are more easily hidden in areas designated by cir
 REFERENCE            propversusprop
 LANG_ENGLISH         "&&1Prop versus prop!"
 
+REFERENCE            protecttheradio
+LANG_ENGLISH         "&&1Protect the Radio!"
+
+REFERENCE            protecttheradiountil
+LANG_ENGLISH         "&&1Protect the radio until exfil."
+
+REFERENCE            protecttheradiountil_1
+LANG_ENGLISH         "&&1Protect the radio until the timer runs out to win."
+
+REFERENCE            protocolmustbefollow
+LANG_ENGLISH         "&&1Protocol must be followed."
+
 REFERENCE            pulloutyourrifle
 LANG_ENGLISH         "&&1Pull out your rifle."
 
@@ -3640,6 +3991,54 @@ LANG_ENGLISH         "&&1Race Complete, third place!"
 
 REFERENCE            raceconcludingsoonfi
 LANG_ENGLISH         "&&1Race concluding soon, finish quickly."
+
+REFERENCE            radiocarrierdown
+LANG_ENGLISH         "&&1Radio Carrier down."
+
+REFERENCE            radiocarrierisbeingh
+LANG_ENGLISH         "&&1Radio Carrier is being hit!"
+
+REFERENCE            radiocarrierisgettin
+LANG_ENGLISH         "&&1Radio Carrier is getting hit!"
+
+REFERENCE            radiocarriermustbeel
+LANG_ENGLISH         "&&1Radio carrier must be eliminated."
+
+REFERENCE            radiocarrierunderfir
+LANG_ENGLISH         "&&1Radio Carrier under fire!"
+
+REFERENCE            radiocarrierwaselimi
+LANG_ENGLISH         "&&1Radio Carrier was eliminated."
+
+REFERENCE            radiocommsareactive
+LANG_ENGLISH         "&&1Radio Comms are active."
+
+REFERENCE            radiodropped
+LANG_ENGLISH         "&&1Radio Dropped."
+
+REFERENCE            radiodropped_1
+LANG_ENGLISH         "&&1Radio dropped."
+
+REFERENCE            radioforexfilandesca
+LANG_ENGLISH         "&&1Radio for Exfil and Escape."
+
+REFERENCE            radioincoming
+LANG_ENGLISH         "&&1Radio incoming."
+
+REFERENCE            radioinenemyhands
+LANG_ENGLISH         "&&1Radio in enemy hands."
+
+REFERENCE            radioisontheground
+LANG_ENGLISH         "&&1Radio is on the ground."
+
+REFERENCE            radioonline
+LANG_ENGLISH         "&&1Radio online."
+
+REFERENCE            radiopickingupinterf
+LANG_ENGLISH         "&&1Radio picking up interference."
+
+REFERENCE            radiosignallostinthe
+LANG_ENGLISH         "&&1Radio signal lost in the gas."
 
 REFERENCE            raidlocations
 LANG_ENGLISH         "&&1Raid locations."
@@ -3767,6 +4166,12 @@ LANG_ENGLISH         "&&1Run to the finish."
 REFERENCE            rushroyale
 LANG_ENGLISH         "&&1Rush Royale"
 
+REFERENCE            sacramento
+LANG_ENGLISH         "&&1Sacramento."
+
+REFERENCE            saltlakecity
+LANG_ENGLISH         "&&1Salt Lake City."
+
 REFERENCE            sametoyougivethecapt
 LANG_ENGLISH         "&&1Same to you. Give the Captain my regards..."
 
@@ -3845,6 +4250,9 @@ LANG_ENGLISH         "&&1Secure the Juggernaut armor and hold out for extraction
 REFERENCE            securethemostcashtow
 LANG_ENGLISH         "&&1Secure the most cash to win."
 
+REFERENCE            securetheradiotorequ
+LANG_ENGLISH         "&&1Secure the radio to request exfil."
+
 REFERENCE            seekanddestroyallene
 LANG_ENGLISH         "&&1Seek and destroy all enemy props."
 
@@ -3899,6 +4307,12 @@ LANG_ENGLISH         "&&1Shooter, welcome to Blood Money Bootcamp."
 REFERENCE            shooterwelcometoplun
 LANG_ENGLISH         "&&1Shooter, welcome to Plunder Training."
 
+REFERENCE            shortscream
+LANG_ENGLISH         "&&1(short scream)"
+
+REFERENCE            shotsmissedshotsmiss
+LANG_ENGLISH         "&&1Shots missed. Shots missed. Going again."
+
 REFERENCE            showyourself
 LANG_ENGLISH         "&&1Show yourself...!"
 
@@ -3916,6 +4330,9 @@ LANG_ENGLISH         "&&1Signal acquired. Locate the supply cache."
 
 REFERENCE            signaldecryptedsendi
 LANG_ENGLISH         "&&1Signal Decrypted, sending you the code."
+
+REFERENCE            signallostaborting
+LANG_ENGLISH         "&&1Signal lost. Aborting."
 
 REFERENCE            signallostabortingde
 LANG_ENGLISH         "&&1Signal Lost, aborting decryption."
@@ -4004,6 +4421,12 @@ LANG_ENGLISH         "&&1Starting the timer."
 REFERENCE            startingtimer
 LANG_ENGLISH         "&&1Starting timer."
 
+REFERENCE            staticnoises
+LANG_ENGLISH         "&&1(static noises)"
+
+REFERENCE            stayalertyouregettin
+LANG_ENGLISH         "&&1Stay alert. You're getting close to a plague zone."
+
 REFERENCE            stayhelpusgoafterzak
 LANG_ENGLISH         "&&1Stay... Help us go after Zakhaev."
 
@@ -4031,6 +4454,12 @@ LANG_ENGLISH         "&&1Still standing..."
 REFERENCE            stop
 LANG_ENGLISH         "&&1Stop!"
 
+REFERENCE            strangerhit
+LANG_ENGLISH         "&&1Stranger hit."
+
+REFERENCE            strangersneutralized
+LANG_ENGLISH         "&&1Strangers neutralized."
+
 REFERENCE            supplyboxidentifiedm
 LANG_ENGLISH         "&&1Supply box identified. Marking location now."
 
@@ -4055,11 +4484,17 @@ LANG_ENGLISH         "&&1Supply Cache Secured, good job!"
 REFERENCE            supplychoppersinboun
 LANG_ENGLISH         "&&1Supply Choppers inbound! Rare cargo is onboard!"
 
+REFERENCE            survivelongenoughfor
+LANG_ENGLISH         "&&1Survive long enough for exfil."
+
 REFERENCE            survivelongenoughtor
 LANG_ENGLISH         "&&1Survive long enough to receive reinforcement."
 
 REFERENCE            surviveuntilreinforc
 LANG_ENGLISH         "&&1Survive until reinforced."
+
+REFERENCE            surviveuntiltheradio
+LANG_ENGLISH         "&&1Survive until the radio arrives, then hold on for exfil."
 
 REFERENCE            switchtoyourprimaryw
 LANG_ENGLISH         "&&1Switch to your primary weapon."
@@ -4075,6 +4510,9 @@ LANG_ENGLISH         "&&1Take ammo from the table."
 
 REFERENCE            takeanylootyouwantot
 LANG_ENGLISH         "&&1Take any loot you want. Otherwise I've got to clean this mess up myself."
+
+REFERENCE            takedowntheradiocarr
+LANG_ENGLISH         "&&1Take down the Radio Carrier!"
 
 REFERENCE            takeemdown
 LANG_ENGLISH         "&&1Take 'em down!"
@@ -4094,14 +4532,26 @@ LANG_ENGLISH         "&&1Take the loot. I'm not cleaning that mess up."
 REFERENCE            takethemout
 LANG_ENGLISH         "&&1Take them out!"
 
+REFERENCE            targetcoordinatesare
+LANG_ENGLISH         "&&1Target coordinates are in - missile away."
+
 REFERENCE            targetdown
 LANG_ENGLISH         "&&1Target down!"
 
 REFERENCE            targetdowngetthoseta
 LANG_ENGLISH         "&&1Target Down, get those tags!"
 
+REFERENCE            targetgridpaintedmis
+LANG_ENGLISH         "&&1Target grid painted - missile inbound."
+
+REFERENCE            targetgridwasempty
+LANG_ENGLISH         "&&1Target grid was empty."
+
 REFERENCE            targetidentifiedplan
 LANG_ENGLISH         "&&1Target identified. Plant a charge and detonate it."
+
+REFERENCE            targetingplaguezones
+LANG_ENGLISH         "&&1Targeting plague zones."
 
 REFERENCE            targetisonthemoveche
 LANG_ENGLISH         "&&1Target is on the move. Check your map for alternate routes."
@@ -4109,8 +4559,14 @@ LANG_ENGLISH         "&&1Target is on the move. Check your map for alternate rou
 REFERENCE            targetlocatedplantac
 LANG_ENGLISH         "&&1Target located. Plant a charge and destroy it."
 
+REFERENCE            targetlockedinmissil
+LANG_ENGLISH         "&&1Target locked in - Missile launched."
+
 REFERENCE            targetsareupgettowor
 LANG_ENGLISH         "&&1Targets are up. Get to work."
+
+REFERENCE            targetseliminated
+LANG_ENGLISH         "&&1Targets eliminated."
 
 REFERENCE            taskateamicantrust
 LANG_ENGLISH         "&&1Task a team I can trust."
@@ -4129,6 +4585,9 @@ LANG_ENGLISH         "&&1Teammate is down! Get them back up!"
 
 REFERENCE            teammateisdownpickth
 LANG_ENGLISH         "&&1Teammate is down! Pick them up!"
+
+REFERENCE            teammatepickedupther
+LANG_ENGLISH         "&&1Teammate picked up the radio."
 
 REFERENCE            teammateredeployingt
 LANG_ENGLISH         "&&1Teammate redeploying to the AO."
@@ -4207,6 +4666,9 @@ LANG_ENGLISH         "&&1That's a legendary Loot Cache. It has a different sound
 
 REFERENCE            thatsalegendarysuppl
 LANG_ENGLISH         "&&1That's a legendary supply box. It has a different sound and color from the ordinary ones."
+
+REFERENCE            thatsamisstargetonth
+LANG_ENGLISH         "&&1That's a miss. Target on the move."
 
 REFERENCE            thatsawinproperjob
 LANG_ENGLISH         "&&1That's a win! Proper job!"
@@ -4337,6 +4799,15 @@ LANG_ENGLISH         "&&1The fight's on!"
 REFERENCE            thefirsttimeyouareel
 LANG_ENGLISH         "&&1The first time you are eliminated, you go to the gulag."
 
+REFERENCE            thefollowingareasare
+LANG_ENGLISH         "&&1The following areas are affected and should be avoided: Hospital, Stadium, Superstore, and the Dam."
+
+REFERENCE            thefollowingareasare_1
+LANG_ENGLISH         "&&1The following areas are affected and should be avoided: Hospital, Stadium, and Superstore."
+
+REFERENCE            thefollowingareasare_2
+LANG_ENGLISH         "&&1The following areas are affected and should be avoided: The Hospital and The Stadium."
+
 REFERENCE            thegasismovinggettot
 LANG_ENGLISH         "&&1The gas is moving, get to the new safe zone."
 
@@ -4363,6 +4834,9 @@ LANG_ENGLISH         "&&1The High Value Target is marked on the tac-map."
 
 REFERENCE            thehighvaluetargetsa
 LANG_ENGLISH         "&&1The High Value Targets are marked on the tac map."
+
+REFERENCE            theinfectioncannotbe
+LANG_ENGLISH         "&&1The infection cannot be allowed to spread."
 
 REFERENCE            theinvadersofmycount
 LANG_ENGLISH         "&&1The invaders of my country have no regard for human life."
@@ -4409,6 +4883,12 @@ LANG_ENGLISH         "&&1Then keep them out."
 REFERENCE            thenletsfight
 LANG_ENGLISH         "&&1Then let's fight."
 
+REFERENCE            thepackageisinthemai
+LANG_ENGLISH         "&&1The package is in the mail."
+
+REFERENCE            theperimeterisbeingm
+LANG_ENGLISH         "&&1The perimeter is being maintained."
+
 REFERENCE            theplayercarryingthe
 LANG_ENGLISH         "&&1The player carrying the most cash is marked on the tac-map."
 
@@ -4433,11 +4913,20 @@ LANG_ENGLISH         "&&1There are twenty four enemies active. Kill them all."
 REFERENCE            therearetwentyfouren_1
 LANG_ENGLISH         "&&1There are twenty four enemies still out there. Kill 'em all."
 
+REFERENCE            therehasbeenanoutbre
+LANG_ENGLISH         "&&1There has been an outbreak. And I'm afraid we can't contain it."
+
+REFERENCE            therehasbeenwearecar
+LANG_ENGLISH         "&&1There has been... we are carrying biohazardous infectious material and..."
+
 REFERENCE            thereisahighvaluetar
 LANG_ENGLISH         "&&1There is a High Value Target nearby."
 
 REFERENCE            thereisanotherwayyou
 LANG_ENGLISH         "&&1There is another way you can help your team."
+
+REFERENCE            thereisnoescape
+LANG_ENGLISH         "&&1There is no escape."
 
 REFERENCE            thereisnoonelefttofi
 LANG_ENGLISH         "&&1There is no one left to fight. Stand by for redeployment."
@@ -4622,6 +5111,9 @@ LANG_ENGLISH         "&&1They will to bleed out if you do not revive them."
 REFERENCE            thinkaboutthatnextti
 LANG_ENGLISH         "&&1Think about that next time you get rid of your pistol."
 
+REFERENCE            thinktheresanyonelef
+LANG_ENGLISH         "&&1Think there's anyone left down there?"
+
 REFERENCE            thinktwicebeforelosi
 LANG_ENGLISH         "&&1Think twice before losing your pistol, yes?"
 
@@ -4636,6 +5128,9 @@ LANG_ENGLISH         "&&1This contract is for terminating a nearby enemy."
 
 REFERENCE            thiscontractsobjecti
 LANG_ENGLISH         "&&1This Contract's objective is to open three supply boxes."
+
+REFERENCE            thisisanalertinitiat
+LANG_ENGLISH         "&&1This is an alert initiated by the Emergency Broadcast System."
 
 REFERENCE            thisisbiggernow
 LANG_ENGLISH         "&&1This is bigger now."
@@ -4661,8 +5156,14 @@ LANG_ENGLISH         "&&1This is Easy Money."
 REFERENCE            thisisextraction
 LANG_ENGLISH         "&&1This is Extraction."
 
+REFERENCE            thisisguardian51stra
+LANG_ENGLISH         "&&1This is Guardian 5-1. Strafing run inbound."
+
 REFERENCE            thisisitdoordie
 LANG_ENGLISH         "&&1This is it. Do or die!"
+
+REFERENCE            thisisnotatestrepeat
+LANG_ENGLISH         "&&1This is not a test - repeat - this is not a test."
 
 REFERENCE            thisisntover
 LANG_ENGLISH         "&&1This isn't over..."
@@ -4703,6 +5204,9 @@ LANG_ENGLISH         "&&1This is your last chance! Finish the job!"
 REFERENCE            thisonehasacrownsohi
 LANG_ENGLISH         "&&1This one has a crown. So his team is in the lead."
 
+REFERENCE            thisplaceisswarming
+LANG_ENGLISH         "&&1This place is swarming."
+
 REFERENCE            thistargethasarmor
 LANG_ENGLISH         "&&1This target has armor."
 
@@ -4714,6 +5218,9 @@ LANG_ENGLISH         "&&1This victory came at a cost, but you accomplished your 
 
 REFERENCE            thiswayeverythingisr
 LANG_ENGLISH         "&&1This way. Everything is ready."
+
+REFERENCE            thiswillbeourfinalbr
+LANG_ENGLISH         "&&1This will be our final broadcast."
 
 REFERENCE            threeenemiesheadingy
 LANG_ENGLISH         "&&1Three enemies heading your way, Nik."
@@ -4841,6 +5348,9 @@ LANG_ENGLISH         "&&1Unauthorized access."
 REFERENCE            untiltheballoonsgone
 LANG_ENGLISH         "&&1Until the balloon's gone, that cash is still in play."
 
+REFERENCE            updatingheading
+LANG_ENGLISH         "&&1Updating heading."
+
 REFERENCE            useredeploytotravela
 LANG_ENGLISH         "&&1Use Redeploy to travel anywhere in the AO."
 
@@ -4928,6 +5438,9 @@ LANG_ENGLISH         "&&1Warm up while you can. We will deploy soon."
 REFERENCE            warningcirclecollaps
 LANG_ENGLISH         "&&1Warning, circle collapse imminent."
 
+REFERENCE            warninglevelthreecon
+LANG_ENGLISH         "&&1Warning - Level Three Containment Protocols are in effect."
+
 REFERENCE            warningonlyoneteamma
 LANG_ENGLISH         "&&1Warning, only one teammate remaining in area."
 
@@ -4936,6 +5449,9 @@ LANG_ENGLISH         "&&1Warning, only one teammate remaining in the area."
 
 REFERENCE            warningsamplesiteste
 LANG_ENGLISH         "&&1Warning: Sample site sterilization commencing in 5 seconds. 4. 3. 2. 1."
+
+REFERENCE            warningwarningtermin
+LANG_ENGLISH         "&&1Warning, Warning - Terminal Containment Protocol initiated."
 
 REFERENCE            warzone
 LANG_ENGLISH         "&&1Warzone"
@@ -4949,6 +5465,9 @@ LANG_ENGLISH         "&&1Watch out, last teammate in the area."
 REFERENCE            watchtheclocktimesru
 LANG_ENGLISH         "&&1Watch the clock. Time's running out!"
 
+REFERENCE            weapondroptimetotarg
+LANG_ENGLISH         "&&1Weapon drop - time to target 3 seconds."
+
 REFERENCE            weareaheadontheobjec
 LANG_ENGLISH         "&&1We are ahead on the objective. Keep pushing."
 
@@ -4957,6 +5476,9 @@ LANG_ENGLISH         "&&1We are all killers here... no?"
 
 REFERENCE            wearebehindontheobje
 LANG_ENGLISH         "&&1We are behind on the objective. Turn it around!"
+
+REFERENCE            wearebeingoverrun
+LANG_ENGLISH         "&&1We are being overrun."
 
 REFERENCE            wecantreachtheobject
 LANG_ENGLISH         "&&1We can't reach the objective. Scrub the contract."
@@ -5114,6 +5636,9 @@ LANG_ENGLISH         "&&1We need to make up some ground. Let's target those top 
 REFERENCE            weneedtomovefast
 LANG_ENGLISH         "&&1We need to move fast."
 
+REFERENCE            weneedtostopthecarri
+LANG_ENGLISH         "&&1We need to stop the carrier from calling exfil!"
+
 REFERENCE            wereaheadontheobject
 LANG_ENGLISH         "&&1We're ahead on the objective. Keep pushing."
 
@@ -5174,6 +5699,9 @@ LANG_ENGLISH         "&&1We took some casualties, but you finished the mission. 
 REFERENCE            weturnedourgunsbacko
 LANG_ENGLISH         "&&1We turned our guns back on each other, just like he wanted."
 
+REFERENCE            wevegotstrangersever
+LANG_ENGLISH         "&&1We've got Strangers everywhere."
+
 REFERENCE            wevegotworktodoletsm
 LANG_ENGLISH         "&&1We've got work to do. Let's move on, soldier."
 
@@ -5182,6 +5710,9 @@ LANG_ENGLISH         "&&1We've secured more cash than the enemy. Keep it up."
 
 REFERENCE            whatdoyousuggest
 LANG_ENGLISH         "&&1What do you suggest?"
+
+REFERENCE            whathavewedone
+LANG_ENGLISH         "&&1What have we done?"
 
 REFERENCE            whatthehellisthis
 LANG_ENGLISH         "&&1What the hell is this?"

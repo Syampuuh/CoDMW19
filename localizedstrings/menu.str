@@ -664,6 +664,12 @@ LANG_ENGLISH         "[{MENU:ui_secondary;menu_back}] Back to AAR."
 REFERENCE            backtogame
 LANG_ENGLISH         "Back To Game"
 
+REFERENCE            battle_pass
+LANG_ENGLISH         "Battle Pass"
+
+REFERENCE            battle_pass_season_1_bundle_desc
+LANG_ENGLISH         "The Battle Pass has 100 Tiers of exciting new content!"
+
 REFERENCE            beast
 LANG_ENGLISH         "Beast"
 
@@ -967,7 +973,7 @@ REFERENCE            bundle_description_alpha_dog
 LANG_ENGLISH         "Remind everyone your bite is every bit as big as your bark with this canine-themed collection."
 
 REFERENCE            bundle_description_amethyst_assassin
-LANG_ENGLISH         "Always get your kill with The Amethyst Assassin Collection. Note: The Operator Skin included will also unlock the Operator and the included weapons change the ^1Tracer^7 Fire to purple."
+LANG_ENGLISH         "Always get your kill with the Amethyst Assassin Collection. Note: The Operator Skin included will also unlock the Operator and the included weapons change the ^1Tracer^7 Fire to purple."
 
 REFERENCE            bundle_description_amphibious
 LANG_ENGLISH         "A dive knife and a precision watch round out this collection that will arm Otter to the teeth. Note: The Operator Skin included will also unlock the Operator."
@@ -1078,7 +1084,7 @@ REFERENCE            bundle_description_blunt_force_ii
 LANG_ENGLISH         "Set high expectations for your team with the Blunt Force II: Light 'Em Up Collection. Note: The Operator Skin included will also unlock the Operator and this pack contains a weapon that applies the all new Pot Shot ^1Dismemberment^7 effect."
 
 REFERENCE            bundle_description_bocw_ultimate
-LANG_ENGLISH         "Includes Call of Duty??: Black Ops Cold War game (console version includes current-gen version and next-gen version when it launches), Battle Pass Bundle, and additional content. Purchase and receive additional MW and WZ content."
+LANG_ENGLISH         "Includes Call of Duty??: Black Ops Cold War game (console version includes current-gen version and next-gen version when it launches), Battle Pass Bundle, and additional content."
 
 REFERENCE            bundle_description_bodyguard
 LANG_ENGLISH         "It's all in the line of duty when you roll with The Bodyguard Bundle. Note: The Operator Skin included will also unlock the Operator."
@@ -1220,7 +1226,7 @@ REFERENCE            bundle_description_coin_operations
 LANG_ENGLISH         "If you're looking for some plastic that packs a punch, look no further than the Coin Operations Collection. "
 
 REFERENCE            bundle_description_coin_operations_ii
-LANG_ENGLISH         "If you're the type of person that loves a good high score, look no further than the Coin Operations II collection."
+LANG_ENGLISH         "If you're the type of person that loves a good high score, look no further than the Coin Operations II Collection."
 
 REFERENCE            bundle_description_coin_operations_iii
 LANG_ENGLISH         "Nobody will top your score when you have the Coin Operations 3 Collection."
@@ -1319,7 +1325,7 @@ REFERENCE            bundle_description_dragon_slayer
 LANG_ENGLISH         "Take down the biggest and the baddest with this fire-breathing pack of goodies."
 
 REFERENCE            bundle_description_dragon_turtle
-LANG_ENGLISH         "Slow and steady with the Dragon Turtle collection."
+LANG_ENGLISH         "Slow and steady with the Dragon Turtle Collection."
 
 REFERENCE            bundle_description_dreadnought
 LANG_ENGLISH         "Leave them in your wake of destruction with the Dreadnought Pack."
@@ -1352,7 +1358,7 @@ REFERENCE            bundle_description_eternal_samurai
 LANG_ENGLISH         "Immortalize yourself with the Eternal Samurai Collection."
 
 REFERENCE            bundle_description_executive_armory_i
-LANG_ENGLISH         "Access all areas with these white-collar weapons comprising the first Executive Armory collection."
+LANG_ENGLISH         "Access all areas with these white-collar weapons comprising the first Executive Armory Collection."
 
 REFERENCE            bundle_description_executive_armory_ii
 LANG_ENGLISH         "Add some gravitas to your battlefield presence with these well-heeled blueprints and cosmetics."
@@ -1406,7 +1412,7 @@ REFERENCE            bundle_description_fools_gold
 LANG_ENGLISH         "Bearing in mind what you get here, only a fool would pass up this golden opportunity."
 
 REFERENCE            bundle_description_fools_gold_ii
-LANG_ENGLISH         "Unfortunately for your enemies, the bullets are too real with the Fool's Gold II collection"
+LANG_ENGLISH         "Unfortunately for your enemies, the bullets are too real with the Fool's Gold II Collection"
 
 REFERENCE            bundle_description_fools_gold_iii
 LANG_ENGLISH         "Don't be foolish, get the Fool's Gold III Collection."
@@ -1450,6 +1456,9 @@ LANG_ENGLISH         "There's no better price than FREE!"
 REFERENCE            bundle_description_gift_pack_halloween
 LANG_ENGLISH         "Trick or Treat! Here's some free loot in the spirit of the Haunting of Verdansk."
 
+REFERENCE            bundle_description_gift_pack_holiday
+LANG_ENGLISH         "Jingle bells, Nikto smells, Zakhaev laid an egg. Start the Holidays off right with a gift from Infinity Ward."
+
 REFERENCE            bundle_description_ginger_red
 LANG_ENGLISH         "The sniper pack that proves the old maxim: it???s all fun and games until someone loses an eye."
 
@@ -1472,7 +1481,10 @@ REFERENCE            bundle_description_great_white
 LANG_ENGLISH         "Do you have a killer???s instinct and cold, soulless eyes? This one is for you."
 
 REFERENCE            bundle_description_griggs_operator_bundle
-LANG_ENGLISH         "The weak man may be careful not to soil himself when he sees the Sgt. Griggs Operator Bundle. Note: The Operator Skin included will also unlock the Operator and the included weapons change the ^1Tracer^7 Fire to Crimson & Gold and apply the ^1Dismemberment^7 Effect."
+LANG_ENGLISH         "The weak man may be careful not to soil himself when he sees the Sgt. Griggs Operator Bundle. Note: The Operator Skin included will also unlock the Operator and the included weapons change the ^1Tracer^7 Fire to crimson & gold and apply the ^1Dismemberment^7 Effect."
+
+REFERENCE            bundle_description_grinch_heart_of_a_lion
+LANG_ENGLISH         "They'll definitely need some courage to fight what you got from your Grinch: Heart of a Lion Bundle. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_grizzly
 LANG_ENGLISH         "Tame is for school or work or home life. Here, we invite you to escape and run with the monsters."
@@ -1562,7 +1574,7 @@ REFERENCE            bundle_description_imperatorium
 LANG_ENGLISH         "Cement your legacy with the Imperatorium Bundle."
 
 REFERENCE            bundle_description_infernal_chords
-LANG_ENGLISH         "Raise some hell with the Infernal Chords collection."
+LANG_ENGLISH         "Raise some hell with the Infernal Chords Collection."
 
 REFERENCE            bundle_description_infiltrator
 LANG_ENGLISH         "Turn Rodion into a modern-day monster ??? get in and out of the warzone without being detected. The Operator Skin included will also unlock the Operator."
@@ -1580,7 +1592,10 @@ REFERENCE            bundle_description_irradiated
 LANG_ENGLISH         "Kill anything you touch. This is the Irradiated Collection."
 
 REFERENCE            bundle_description_iskra_amethyst_tracer_pack
-LANG_ENGLISH         "Always get your kill with The Tracer Pack: Amethyst Iskra Collection. Note: The Operator Skin included will also unlock the Operator and the included weapons change the ^1Tracer^7 Fire to purple."
+LANG_ENGLISH         "Always get your kill with the Tracer Pack: Amethyst Iskra Collection. Note: The Operator Skin included will also unlock the Operator and the included weapons change the ^1Tracer^7 Fire to purple."
+
+REFERENCE            bundle_description_iskra_dead_of_winter
+LANG_ENGLISH         "When the cold comes, so do you and what you got from the Iskra: Dead of Winter Bundle. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_iskra_operator_bundle
 LANG_ENGLISH         "See through their lies with the H.E. Tracer Pack: Iskra Operator Bundle. The Operator Skin included will also unlock the Operator. Note: This bundle contains weapons that apply the ^1Dismemberment^7 effect."
@@ -1766,7 +1781,7 @@ REFERENCE            bundle_description_notice_me_iii
 LANG_ENGLISH         "Okay seriously, how have you not noticed me?"
 
 REFERENCE            bundle_description_notice_me_iv
-LANG_ENGLISH         "If you haven't noticed me by now, that's on you. The Notice Me IV collection."
+LANG_ENGLISH         "If you haven't noticed me by now, that's on you. The Notice Me IV Collection."
 
 REFERENCE            bundle_description_nova_ambrosia
 LANG_ENGLISH         "Leave them standing in awe with your Nova Ambrosia Pack."
@@ -1852,6 +1867,9 @@ LANG_ENGLISH         "Leave your enemies in the dust with the Racing Series: Mac
 REFERENCE            bundle_description_ragnarok
 LANG_ENGLISH         "It's all led up to this. The Ragnarok Collection. Note: The Operator Skin included will also unlock the Operator."
 
+REFERENCE            bundle_description_rainbow_sparkles
+LANG_ENGLISH         "Undeniably the cutest bundle we've released so far. Introducing the Rainbow Sparkles Bundle. Note: The included weapons change the ^1Tracer^7 fire to rainbow and the Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_rainbow_tactical
 LANG_ENGLISH         "Show your true colors with the Rainbow Tactical Bundle."
 
@@ -1903,6 +1921,9 @@ LANG_ENGLISH         "The awe-inspiring Royal Armory: Reserve Collection is here
 
 REFERENCE            bundle_description_royal_assassin
 LANG_ENGLISH         "Royally screw them over with the Royal Assassin Pack."
+
+REFERENCE            bundle_description_roze_behind_the_mask
+LANG_ENGLISH         "See what lies under the mask of Shadow Company's most mysterious Operator. Melt through their defenses with the included weapons' Acid ^1Tracer^7 Rounds and ^1Dismemberment^7 effect. Note: Effect is visual only and does not have any impact on gameplay. "
 
 REFERENCE            bundle_description_roze_operator_bundle
 LANG_ENGLISH         "Strike fear in their eyes with the Roze Operator Bundle and add insult to injury with the included weapon's ^1Dismemberment Effect^7. Note: The Operator Skin included will also unlock the Operator."
@@ -2009,6 +2030,9 @@ LANG_ENGLISH         "If you want the opposition to keep quiet, reach for the Si
 REFERENCE            bundle_description_silver_surgeon
 LANG_ENGLISH         "When precision is required, look no further than the Silver Surgeon Collection."
 
+REFERENCE            bundle_description_singularity
+LANG_ENGLISH         "Race to the finish with The Singularity Collection. Note: The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_snakeskin
 LANG_ENGLISH         "Tell them they can bite you with the Snakeskin Bundle."
 
@@ -2017,6 +2041,9 @@ LANG_ENGLISH         "Bundle up in heavy coats and heavy guns with the Snow Cove
 
 REFERENCE            bundle_description_snowstorm
 LANG_ENGLISH         "Leave them in the cold with the Snowstorm Bundle. The Operator Skin included will also unlock the Operator."
+
+REFERENCE            bundle_description_soap_operator_bundle
+LANG_ENGLISH         "Pay homage to all possible Call of Duty timelines when you play as the mohawked Scotsman, John "Soap" MacTavish. Complete the included operator mission to unlock additional Soap Skins. Note: The weapons included apply both an ice ^1Tracer^7 fire effect and the ^1Dismemberment^7 effect. "
 
 REFERENCE            bundle_description_soft_spots
 LANG_ENGLISH         "Blend in and don't be seen with the Soft Spots Bundle."
@@ -2035,6 +2062,12 @@ LANG_ENGLISH         "Remember the most important rule, safety first. This is th
 
 REFERENCE            bundle_description_sony_headstart_5
 LANG_ENGLISH         "If you need to get out of the Gulag, the Call of Duty??: Warzone Combat Pack has got you covered. Note: The Operator Skin included will also unlock the Operator."
+
+REFERENCE            bundle_description_sparks_frostbite
+LANG_ENGLISH         "Leave them out in the cold with the Sparks: Frostbite Bundle. Note: The weapons included apply both an ice ^1Tracer^7 fire effect and the ^1Dismemberment^7 effect and the Operator Skin included will also unlock the Operator."
+
+REFERENCE            bundle_description_sparks_operator_bundle
+LANG_ENGLISH         "Ice the competition with Demon Dogs' newest member, Sparks. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_spectrum
 LANG_ENGLISH         "See them in a whole new light with the Spectrum Bundle."
@@ -2080,6 +2113,9 @@ LANG_ENGLISH         "We got a little something for you, but you can't tell anyo
 
 REFERENCE            bundle_description_sushi_dinner
 LANG_ENGLISH         "Experience the raw firepower of fish-inspired weaponry and cosmetics."
+
+REFERENCE            bundle_description_tacgas
+LANG_ENGLISH         "If you're looking for the perfect shot, look no further than the TacGas: Fuel Your Brand Bundle. Note: The weapons included change the ^1Tracer^7 fire to black and applies the ^1Dismemberment^7 effect. The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_tactical_advantage
 LANG_ENGLISH         "You were born with certain advantages, but this pack lets you round out the picture."
@@ -2223,6 +2259,9 @@ LANG_ENGLISH         "Pretty, Pink, and Deadly... That's what you can expect fro
 REFERENCE            bundle_description_tracer_pack_cobalt
 LANG_ENGLISH         "Tracer Pack Cobalt Description Text..."
 
+REFERENCE            bundle_description_tracer_pack_crimson_ronin
+LANG_ENGLISH         "Harness the way of the warrior with the Tracer Pack: Crimson Ronin. Complete the included operator mission to unlock additional Ronin Skins. Note: The weapons included change the ^1Tracer^7 fire to red and applies a Tsubaki flower petal effect. The Operator Skin included will also unlock the Operator."
+
 REFERENCE            bundle_description_tracer_pack_freedom
 LANG_ENGLISH         "Light up the sky with the Tracer Pack: Freedom,  featuring colored ^1Tracer Fire^7 that alternates between red, white, and blue!"
 
@@ -2346,10 +2385,10 @@ REFERENCE            bundle_description_wolfs_bane
 LANG_ENGLISH         "Have 'em howling for mercy with the Wolf's Bane Collection. Note: The Operator Skin included will also unlock the Operator."
 
 REFERENCE            bundle_description_woods_bocw_next_gen_standard
-LANG_ENGLISH         "Includes Call of Duty??: Black Ops Cold War game (current-gen version and next-gen version when it launches) and Confrontation Weapons Pack. Purchase and receive additional MW and WZ content."
+LANG_ENGLISH         "Includes Call of Duty??: Black Ops Cold War game (current-gen version and next-gen version when it launches) and Confrontation Weapons Pack."
 
 REFERENCE            bundle_description_woods_bocw_standard
-LANG_ENGLISH         "Includes Call of Duty??: Black Ops Cold War game and Confrontation Weapons Pack. Purchase and receive the Woods Operator Pack for immediate use in MW and WZ."
+LANG_ENGLISH         "Includes Call of Duty??: Black Ops Cold War game and Confrontation Weapons Pack."
 
 REFERENCE            bundle_description_x_marks_the_spot
 LANG_ENGLISH         "Dig in deep with the X Marks The Spot bundle."
@@ -2919,7 +2958,7 @@ REFERENCE            bundle_name_devourer
 LANG_ENGLISH         "Devourer"
 
 REFERENCE            bundle_name_die_on_the_vine
-LANG_ENGLISH         "Die on the Vine"
+LANG_ENGLISH         "Die On The Vine"
 
 REFERENCE            bundle_name_dont_be_afraid
 LANG_ENGLISH         "Don't Be Afraid"
@@ -3065,6 +3104,9 @@ LANG_ENGLISH         "Free Bundle"
 REFERENCE            bundle_name_gift_pack_halloween
 LANG_ENGLISH         "Gift Pack: Halloween"
 
+REFERENCE            bundle_name_gift_pack_holiday
+LANG_ENGLISH         "Holiday Gift Pack"
+
 REFERENCE            bundle_name_ginger_red
 LANG_ENGLISH         "Ginger Red"
 
@@ -3085,6 +3127,9 @@ LANG_ENGLISH         "Great White"
 
 REFERENCE            bundle_name_griggs_operator_bundle
 LANG_ENGLISH         "Sgt. Griggs Operator Bundle"
+
+REFERENCE            bundle_name_grinch_heart_of_a_lion
+LANG_ENGLISH         "Grinch: Heart Of A Lion"
 
 REFERENCE            bundle_name_grizzly
 LANG_ENGLISH         "Grizzly"
@@ -3175,6 +3220,9 @@ LANG_ENGLISH         "Irradiated"
 
 REFERENCE            bundle_name_iskra_amethyst_tracer_pack
 LANG_ENGLISH         "Iskra Amethyst Tracer Pack"
+
+REFERENCE            bundle_name_iskra_dead_of_winter
+LANG_ENGLISH         "Iskra: Dead of Winter"
 
 REFERENCE            bundle_name_iskra_operator_bundle
 LANG_ENGLISH         "H.E. Tracer Pack: Iskra Operator Bundle"
@@ -3428,6 +3476,9 @@ LANG_ENGLISH         "Racing Series: Mach 8"
 REFERENCE            bundle_name_ragnarok
 LANG_ENGLISH         "Ragnarok"
 
+REFERENCE            bundle_name_rainbow_sparkles
+LANG_ENGLISH         "Rainbow Sparkles"
+
 REFERENCE            bundle_name_rainbow_tactical
 LANG_ENGLISH         "Rainbow Tactical"
 
@@ -3478,6 +3529,9 @@ LANG_ENGLISH         "Royal Armory: Reserve Collection"
 
 REFERENCE            bundle_name_royal_assassin
 LANG_ENGLISH         "Royal Assassin"
+
+REFERENCE            bundle_name_roze_behind_the_mask
+LANG_ENGLISH         "Roze: Behind The Mask"
 
 REFERENCE            bundle_name_roze_operator_bundle
 LANG_ENGLISH         "Roze Operator Bundle"
@@ -3581,11 +3635,17 @@ LANG_ENGLISH         "Silent as the Grave"
 REFERENCE            bundle_name_silver_surgeon
 LANG_ENGLISH         "Silver Surgeon"
 
+REFERENCE            bundle_name_singularity
+LANG_ENGLISH         "The Singularity"
+
 REFERENCE            bundle_name_snakeskin
 LANG_ENGLISH         "Snakeskin"
 
 REFERENCE            bundle_name_snowstorm
 LANG_ENGLISH         "Snowstorm"
+
+REFERENCE            bundle_name_soap_operator_bundle
+LANG_ENGLISH         "Soap Operator Bundle"
 
 REFERENCE            bundle_name_soft_spots
 LANG_ENGLISH         "Soft Spots"
@@ -3604,6 +3664,12 @@ LANG_ENGLISH         "Call of Duty??: Warzone Combat Pack"
 
 REFERENCE            bundle_name_sony_headstart_5
 LANG_ENGLISH         "Call of Duty??: Warzone Combat Pack"
+
+REFERENCE            bundle_name_sparks_frostbite
+LANG_ENGLISH         "Sparks Frostbite"
+
+REFERENCE            bundle_name_sparks_operator_bundle
+LANG_ENGLISH         "Sparks Operator Bundle"
 
 REFERENCE            bundle_name_spectrum
 LANG_ENGLISH         "Spectrum"
@@ -3646,6 +3712,9 @@ LANG_ENGLISH         "Surprise!"
 
 REFERENCE            bundle_name_sushi_dinner
 LANG_ENGLISH         "Sushi Dinner"
+
+REFERENCE            bundle_name_tacgas
+LANG_ENGLISH         "TacGas: Fuel Your Brand"
 
 REFERENCE            bundle_name_tactical_advantage
 LANG_ENGLISH         "Tactical Advantage"
@@ -3769,6 +3838,9 @@ LANG_ENGLISH         "Tracer Pack: Anime Super"
 
 REFERENCE            bundle_name_tracer_pack_cobalt
 LANG_ENGLISH         "Tracer Pack Cobalt"
+
+REFERENCE            bundle_name_tracer_pack_crimson_ronin
+LANG_ENGLISH         "Tracer Pack: Crimson Ronin"
 
 REFERENCE            bundle_name_tracer_pack_executive_armory
 LANG_ENGLISH         "Tracer Pack: Executive Armory"
@@ -6130,6 +6202,18 @@ LANG_ENGLISH         "&&1 on &&2"
 REFERENCE            gametype_pre
 LANG_ENGLISH         "GAMETYPE: "
 
+REFERENCE            gear_equipment_charge
+LANG_ENGLISH         "Equipment Charge"
+
+REFERENCE            gear_equipment_charge_desc
+LANG_ENGLISH         "Equipment and Specialist Weapons recharge faster."
+
+REFERENCE            gear_scorestreak_charge
+LANG_ENGLISH         "COMSEC Device"
+
+REFERENCE            gear_scorestreak_charge_desc
+LANG_ENGLISH         "Scorestreaks are earned at a discounted cost."
+
 REFERENCE            german
 LANG_ENGLISH         "German"
 
@@ -7658,6 +7742,9 @@ LANG_ENGLISH         "Model Detail"
 
 REFERENCE            models_only
 LANG_ENGLISH         "Models Only"
+
+REFERENCE            modern_warfare_vault
+LANG_ENGLISH         "Modern Warfare Vault"
 
 REFERENCE            modifiers
 LANG_ENGLISH         "Modifiers"
@@ -9197,7 +9284,7 @@ REFERENCE            reset_to_defaults
 LANG_ENGLISH         "Reset to Default"
 
 REFERENCE            resetcustomclasses
-LANG_ENGLISH         "Your rank and unlocked items have been reset."
+LANG_ENGLISH         "Your Level Progression has been synchronized across Warzone, Black Ops Cold War and Modern Warfare"
 
 REFERENCE            restart_level
 LANG_ENGLISH         "Restart Level"
@@ -10500,7 +10587,7 @@ REFERENCE            store_cat_franchise
 LANG_ENGLISH         "Franchise Store"
 
 REFERENCE            store_cat_grau_bundles
-LANG_ENGLISH         "Grau Bundles"
+LANG_ENGLISH         "Grau 5.56 Bundles"
 
 REFERENCE            store_cat_grau_collection
 LANG_ENGLISH         "Grau 5.56 Collection"
@@ -10547,6 +10634,9 @@ LANG_ENGLISH         "Hollywood Collection"
 REFERENCE            store_cat_i_love_gold
 LANG_ENGLISH         "I Love Gold!"
 
+REFERENCE            store_cat_include_grau
+LANG_ENGLISH         "Bundles that include a Grau 5.56"
+
 REFERENCE            store_cat_include_m4a1
 LANG_ENGLISH         "Bundles that include M4A1 Blueprints"
 
@@ -10558,6 +10648,12 @@ LANG_ENGLISH         "Infinity Ward Bundles"
 
 REFERENCE            store_cat_justforyou
 LANG_ENGLISH         "Just for you"
+
+REFERENCE            store_cat_justforyoubocw
+LANG_ENGLISH         "Just for you: Black Ops Cold War"
+
+REFERENCE            store_cat_justforyoumw
+LANG_ENGLISH         "Just for you: Modern Warfare"
 
 REFERENCE            store_cat_light_em_up
 LANG_ENGLISH         "Light 'Em Up"
@@ -10582,6 +10678,9 @@ LANG_ENGLISH         "Most Popular"
 
 REFERENCE            store_cat_mostpopular
 LANG_ENGLISH         "Most Popular"
+
+REFERENCE            store_cat_mw_vault
+LANG_ENGLISH         "MW Vault"
 
 REFERENCE            store_cat_old_school_bundles
 LANG_ENGLISH         "Old School Bundles"
@@ -11448,7 +11547,7 @@ REFERENCE            voice_chat_recording_device_desc
 LANG_ENGLISH         "Choose which device will be used to record voice chat."
 
 REFERENCE            voice_chat_recording_mode
-LANG_ENGLISH         "Voice Chat Recording Mode"
+LANG_ENGLISH         "Microphone Activation Mode"
 
 REFERENCE            voice_chat_recording_mode_desc
 LANG_ENGLISH         "^5Push to Talk:^7 Hold the ^5Voice Chat (Push to Talk)^7 keybind to record voice.
@@ -11761,7 +11860,7 @@ REFERENCE            your_settings_are_now_set
 LANG_ENGLISH         "Your settings are now set"
 
 REFERENCE            zeus_banner
-LANG_ENGLISH         "Cold War"
+LANG_ENGLISH         "Black Ops"
 
 REFERENCE            zfeather_smoke
 LANG_ENGLISH         "Soften Smoke Edges"

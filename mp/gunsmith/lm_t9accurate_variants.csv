@@ -1,1 +1,4 @@
-0,iw8_lm_t9accurate_variant_0,iw8_lm_t9accurate,,,,,,,,,,,,,,,WEAPON_TANGO/LM_T9ACCURATE,ui_loot_weapon_lm_pkilo,
+0,iw8_lm_t9accurate_variant_0,iw8_lm_t9accurate,,,,,,,,,,,,,,,WEAPON_TANGO/LM_T9ACCURATE,ui_loot_weapon_lm_t9accurate,
+1,iw8_lm_t9accurate_variant_1,iw8_lm_t9accurate,,rec|1 front|1 back|1 mag|1,silencer|2,barcust|1,,gripvert|1,,fastmags2|1,,stocks|1,,,,,WEAPON_TANGO/LM_T9ACCURATECB_V2,ui_loot_weapon_lm_t9accurate_v1,
+2,iw8_lm_t9accurate_variant_2,iw8_lm_t9accurate,,rec|2 front|2 back|2 mag|2,,barlong|0,,gripang|0,,,pistolgrip03|0,stocks|0,,,,,WEAPON_TANGO/LM_T9ACCURATECB_V3,ui_loot_weapon_lm_t9accurate_v2,
+3,iw8_lm_t9accurate_variant_3,iw8_lm_t9accurate,iw8_lm_t9accurate_mpcb,rec|3 front|3 back|3 mag|3,,,,,,,,,,,,,WEAPON_TANGO/LM_T9ACCURATECB,ui_loot_weapon_lm_t9accurate_v3,

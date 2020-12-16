@@ -68,6 +68,9 @@ LANG_ENGLISH         "Kaiju"
 REFERENCE            lm_mkilo3_5_flavor
 LANG_ENGLISH         "Go off the rails with the Crazy Train LMG."
 
+REFERENCE            little_bird_camo_034
+LANG_ENGLISH         "Rainbow Runner"
+
 REFERENCE            little_bird_camo_033
 LANG_ENGLISH         "Golden Bull"
 
@@ -122,11 +125,14 @@ LANG_ENGLISH         "LITTLE_BIRD_CAMO_010"
 REFERENCE            little_bird_camo_008
 LANG_ENGLISH         "Snow Patrol"
 
+REFERENCE            little_bird_camo_002
+LANG_ENGLISH         "Dirty Bird"
+
 REFERENCE            little_bird_camo_001
 LANG_ENGLISH         "Goblin"
 
 REFERENCE            jeep_camo_039
-LANG_ENGLISH         "JEEP_CAMO_039"
+LANG_ENGLISH         "Traversette"
 
 REFERENCE            jeep_camo_038
 LANG_ENGLISH         "From the Deep"
@@ -178,6 +184,9 @@ LANG_ENGLISH         "Manitou"
 
 REFERENCE            jeep_camo_008
 LANG_ENGLISH         "The Warzone Express"
+
+REFERENCE            jeep_camo_002
+LANG_ENGLISH         "Assault"
 
 REFERENCE            jeep_camo_001
 LANG_ENGLISH         "Contagion"
@@ -280,6 +289,9 @@ LANG_ENGLISH         "Purple People Eater"
 
 REFERENCE            cargo_truck_camo_004
 LANG_ENGLISH         "Ambush Alley"
+
+REFERENCE            cargo_truck_camo_001
+LANG_ENGLISH         "Tidal Wave"
 
 REFERENCE            camo_gold_unlock_text
 LANG_ENGLISH         "Complete all camo challenges for this weapon."
@@ -657,7 +669,7 @@ REFERENCE            camo_00a
 LANG_ENGLISH         "Hot and Cold"
 
 REFERENCE            atv_camo_031
-LANG_ENGLISH         "ATV_CAMO_031"
+LANG_ENGLISH         "Red Knight"
 
 REFERENCE            atv_camo_030
 LANG_ENGLISH         "Mutated"
@@ -703,6 +715,9 @@ LANG_ENGLISH         "Best Summer"
 
 REFERENCE            atv_camo_005
 LANG_ENGLISH         "Sportsman"
+
+REFERENCE            atv_camo_002
+LANG_ENGLISH         "Wave Dasher"
 
 REFERENCE            atv_camo_001
 LANG_ENGLISH         "Sevral"

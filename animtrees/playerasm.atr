@@ -1,4 +1,4 @@
-%lod_distances ( 
+﻿%lod_distances ( 
 	650,	// fingers, facial anims
 	800,	// IK, antislide
 	1000,	// procedural/dynamic
@@ -197,6 +197,22 @@ playerasm
 			sdr_mp_strafe_sprint_start_me_kalisticks_9@2
 			sdr_mp_strafe_sprint_start_me_kalisticks_8@2
 			sdr_mp_strafe_sprint_start_me_kalisticks_7@2
+		}
+		
+		start_forward_sprint_t9sledgehammer: blendspace2d( rangex="-180,180", rangey="0,350", blend_time="0",
+		coords="{0,245},{-45,245},{45,245},{-45,1},{0,1},{45,1},{-45,320},{0,320},{45,320}",
+		edges="{1,3,4},{2,4,5},{0,1,4},{0,2,4},{0,2,8},{0,7,8},{0,1,6},{0,6,7}",
+		valuex=[strafeangle], valuey=[speed] ) nonloopsync 2
+		{
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_8
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_9
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_7
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_9@1
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_8@1
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_7@1
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_9@2
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_8@2
+			sdr_mp_strafe_sprint_start_me_t9sledgehammert_7@2
 		}
 		
 		start_forward_sprint_me: blendspace2d( rangex="-180,180", rangey="0,350", blend_time="0",
@@ -1595,7 +1611,21 @@ playerasm
 			sdr_mp_strafe_supersprint_me_kalisticks_8@1
 			sdr_mp_strafe_supersprint_me_kalisticks_7@1
 		}
-		
+
+		move_sprint_forward_t9sledgehammer: blendspace2d( rangex="-180,180", rangey="0,315", blend_time="0",
+		coords="{0,258},{-45,230},{45,230},{0,230},{0,315},{45,300},{-45,300}",
+		edges="{0,1,3},{0,2,3},{0,4,5},{0,4,6},{0,1,6},{0,2,5}",
+		valuex=[strafeangle], valuey=[speed] ) loopsync 1
+		{
+			sdr_mp_strafe_sprint_me_t9sledgehammer_8
+			sdr_mp_strafe_sprint_me_t9sledgehammer_9
+			sdr_mp_strafe_sprint_me_t9sledgehammer_7
+			sdr_mp_strafe_sprint_me_t9sledgehammer_8@1
+			sdr_mp_strafe_sprint_me_t9sledgehammer_8@2
+			sdr_mp_strafe_sprint_me_t9sledgehammer_7@1
+			sdr_mp_strafe_sprint_me_t9sledgehammer_9@1
+		}	
+	
 		move_sprint_forward_me: blendspace2d( rangex="-180,180", rangey="0,400", blend_time="0",
 		coords="{0,259},{-45,230},{45,230},{0,230},{0,315},{45,300},{-45,300},{-45,380},{0,380},{45,380}",
 		edges="{0,1,3},{0,2,3},{0,4,5},{0,4,6},{0,1,6},{0,2,5},{4,5,9},{4,8,9},{4,6,7},{4,7,8}",
@@ -3860,6 +3890,20 @@ playerasm
 		sdr_mp_strafe_sprint_me_kalisticks_jump_takeoff_9@1
 	}
 	
+	jump_takeoff_sprint_t9sledgehammer: blendspace2d( rangex="-180,180", rangey="0,315", blend_time="0",
+	coords="{0,247},{-45,220},{45,220},{0,220},{0,315},{45,300},{-45,300}",
+	edges="{0,1,3},{0,2,3},{0,4,5},{0,4,6},{0,1,6},{0,2,5}",
+	valuex=[strafeangle], valuey=[speed] ) nonloopsync 2
+	{
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_takeoff_8
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_takeoff_9
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_takeoff_7
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_takeoff_8@1
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_takeoff_8@2
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_takeoff_7@1
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_takeoff_9@1
+	}
+		
 	jump_takeoff_sprint_akimbo: blendspace2d( rangex="-180,180", rangey="0,315", blend_time="0",
 	coords="{0,247},{-45,220},{45,220},{0,220},{0,315},{45,300},{-45,300}",
 	edges="{0,1,3},{0,2,3},{0,4,5},{0,4,6},{0,1,6},{0,2,5}",
@@ -3901,7 +3945,21 @@ playerasm
 		sdr_mp_strafe_sprint_lmg_jump_takeoff_7@1
 		sdr_mp_strafe_sprint_lmg_jump_takeoff_9@1
 	}
-	
+
+	jump_land_sprint_t9sledgehammer: blendspace2d( rangex="-180,180", rangey="0,315", blend_time="0",
+	coords="{0,247},{-45,220},{45,220},{0,220},{0,315},{45,300},{-45,300}",
+	edges="{0,1,3},{0,2,3},{0,4,5},{0,4,6},{0,1,6},{0,2,5}",
+	valuex=[strafeangle], valuey=[speed] ) nonloopsync 3
+	{
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_land_8
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_land_9
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_land_7
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_land_8@1
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_land_8@2
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_land_7@1
+		sdr_mp_strafe_sprint_me_t9sledgehammer_jump_land_9@1
+	}
+		
 	jump_land_sprint_ar: blendspace2d( rangex="-180,180", rangey="0,315", blend_time="0",
 	coords="{0,247},{-45,220},{45,220},{0,220},{0,315},{45,300},{-45,300}",
 	edges="{0,1,3},{0,2,3},{0,4,5},{0,4,6},{0,1,6},{0,2,5}",
@@ -6206,6 +6264,7 @@ playerasm
 			sdr_mp_facial_morte_aim_1
 			sdr_mp_facial_farah_aim_1
 			sdr_mp_facial_nikolai_aim_1
+			sdr_mp_facial_soap_aim_1
 		}
 		
 		facial_angry: random( blendtime="0.05", restart="false", seed=[random_seed] ) complete lod_cull(0)
@@ -6246,6 +6305,7 @@ playerasm
 				sdr_mp_facial_morte_angry_1
 				sdr_mp_facial_farah_angry_1
 				sdr_mp_facial_nikolai_angry_1
+				sdr_mp_facial_soap_angry_1
 				
 			}
 			facial_angry_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
@@ -6284,6 +6344,7 @@ playerasm
 				sdr_mp_facial_morte_angry_2
 				sdr_mp_facial_farah_angry_2
 				sdr_mp_facial_nikolai_angry_2
+				sdr_mp_facial_soap_angry_2
 			}
 			facial_angry_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6321,6 +6382,7 @@ playerasm
 				sdr_mp_facial_morte_angry_3
 				sdr_mp_facial_farah_angry_3
 				sdr_mp_facial_nikolai_angry_3
+				sdr_mp_facial_soap_angry_3
 			}
 		}
 		
@@ -6360,6 +6422,7 @@ playerasm
 			sdr_mp_facial_morte_angry_1@1
 			sdr_mp_facial_farah_angry_1@1
 			sdr_mp_facial_nikolai_angry_1@1			
+			sdr_mp_facial_soap_angry_1@1	
 		}
 		
 		facial_fire_ads: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
@@ -6398,6 +6461,7 @@ playerasm
 			sdr_mp_facial_morte_fire_ads_1
 			sdr_mp_facial_farah_fire_ads_1
 			sdr_mp_facial_nikolai_fire_ads_1
+			sdr_mp_facial_soap_fire_ads_1
 		}
 		
 		facial_death: random( blendtime="0.05", restart="false", seed=[random_seed] ) complete lod_cull(0)
@@ -6438,6 +6502,7 @@ playerasm
 				sdr_mp_facial_morte_death_1
 				sdr_mp_facial_farah_death_1
 				sdr_mp_facial_nikolai_death_1
+				sdr_mp_facial_soap_death_1
 			}
 			facial_death_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6474,7 +6539,8 @@ playerasm
 				sdr_mp_facial_woods_death_2
 				sdr_mp_facial_morte_death_2
 				sdr_mp_facial_farah_death_2
-				sdr_mp_facial_nikolai_death_2				
+				sdr_mp_facial_nikolai_death_2	
+				sdr_mp_facial_soap_death_2
 			}
 			facial_death_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6512,6 +6578,7 @@ playerasm
 				sdr_mp_facial_morte_death_3
 				sdr_mp_facial_farah_death_3
 				sdr_mp_facial_nikolai_death_3
+				sdr_mp_facial_soap_death_3
 			}
 		}
 		facial_idle: random( blendtime="0.05", restart="false", seed=[random_seed] ) complete lod_cull(0)
@@ -6552,6 +6619,7 @@ playerasm
 				sdr_mp_facial_morte_idle_1
 				sdr_mp_facial_farah_idle_1
 				sdr_mp_facial_nikolai_idle_1
+				sdr_mp_facial_soap_idle_1
 			}
 			facial_idle_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6589,6 +6657,7 @@ playerasm
 				sdr_mp_facial_morte_idle_2
 				sdr_mp_facial_farah_idle_2
 				sdr_mp_facial_nikolai_idle_2
+				sdr_mp_facial_soap_idle_2
 			}
 			facial_idle_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6626,6 +6695,7 @@ playerasm
 				sdr_mp_facial_morte_idle_3
 				sdr_mp_facial_farah_idle_3
 				sdr_mp_facial_nikolai_idle_3
+				sdr_mp_facial_soap_idle_3
 			}
 		}
 		
@@ -6666,7 +6736,8 @@ playerasm
 				sdr_mp_facial_woods_pain_1
 				sdr_mp_facial_morte_pain_1
 				sdr_mp_facial_farah_pain_1
-				sdr_mp_facial_nikolai_pain_1				
+				sdr_mp_facial_nikolai_pain_1	
+				sdr_mp_facial_soap_pain_1
 			}
 			facial_pain_2: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6703,7 +6774,8 @@ playerasm
 				sdr_mp_facial_woods_pain_2
 				sdr_mp_facial_morte_pain_2
 				sdr_mp_facial_farah_pain_2
-				sdr_mp_facial_nikolai_pain_2				
+				sdr_mp_facial_nikolai_pain_2	
+				sdr_mp_facial_soap_pain_2
 			}
 			facial_pain_3: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
 			{
@@ -6740,7 +6812,8 @@ playerasm
 				sdr_mp_facial_woods_pain_3
 				sdr_mp_facial_morte_pain_3
 				sdr_mp_facial_farah_pain_3
-				sdr_mp_facial_nikolai_pain_3				
+				sdr_mp_facial_nikolai_pain_3	
+				sdr_mp_facial_soap_pain_3
 			}
 		}
 		
@@ -6779,7 +6852,8 @@ playerasm
 				sdr_mp_facial_woods_gunlesspain_1
 				sdr_mp_facial_morte_gunlesspain_1
 				sdr_mp_facial_farah_gunlesspain_1
-				sdr_mp_facial_nikolai_gunlesspain_1				
+				sdr_mp_facial_nikolai_gunlesspain_1	
+				sdr_mp_facial_soap_gunlesspain_1
 		}
 		
 		
@@ -6818,7 +6892,8 @@ playerasm
 			sdr_mp_facial_woods_reload_1
 			sdr_mp_facial_morte_reload_1
 			sdr_mp_facial_farah_reload_1
-			sdr_mp_facial_nikolai_reload_1			
+			sdr_mp_facial_nikolai_reload_1		
+			sdr_mp_facial_soap_reload_1
 		}
 		
 		facial_run: toggle( index=[facial_type], blendcurve="ease_in_sine", blendtime="0.05", restart="false", clearifnochild="true", errorifnochild="false" )
@@ -6856,7 +6931,8 @@ playerasm
 			sdr_mp_facial_woods_run_1
 			sdr_mp_facial_morte_run_1
 			sdr_mp_facial_farah_run_1
-			sdr_mp_facial_nikolai_run_1			
+			sdr_mp_facial_nikolai_run_1	
+			sdr_mp_facial_soap_run_1
 		}
 	}
 

@@ -1,0 +1,102 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            ac130
+LANG_ENGLISH         "Gunship"
+
+REFERENCE            ac130_desc
+LANG_ENGLISH         "Be the gunner in a close air support gunship. Cooldown: 90 sec"
+
+REFERENCE            attack_helicopter
+LANG_ENGLISH         "Attack Helicopter"
+
+REFERENCE            attack_helicopter_desc
+LANG_ENGLISH         "Call in an armed support helicopter. Cooldown: 60 sec"
+
+REFERENCE            chopper_gunner
+LANG_ENGLISH         "Chopper Gunner"
+
+REFERENCE            chopper_gunner_desc
+LANG_ENGLISH         "Be the gunner in a close air support helicopter. Cooldown: 60 sec "
+
+REFERENCE            cuav
+LANG_ENGLISH         "Counter Spy Plane"
+
+REFERENCE            cuav_desc
+LANG_ENGLISH         "Scramble enemy mini-maps and disable hostile Missile Turrets for a short time. Cooldown: 60 sec"
+
+REFERENCE            dart
+LANG_ENGLISH         "Dart"
+
+REFERENCE            dart_desc
+LANG_ENGLISH         "Pilot an anti-personnel drone. Remote detonate the drone with ^3[{+attack}]^7 or detonate on impact."
+
+REFERENCE            drone_squadron
+LANG_ENGLISH         "Drone Squad"
+
+REFERENCE            drone_squadron_desc
+LANG_ENGLISH         "Call in a squadron of autonomous drones outfitted with machine gun turrets. "
+
+REFERENCE            heavy_attack_chopper
+LANG_ENGLISH         "Heavy Attack Chopper"
+
+REFERENCE            heavy_attack_chopper_desc
+LANG_ENGLISH         "A heavily armed and armored helicopter provides air support."
+
+REFERENCE            hoverjet
+LANG_ENGLISH         "VTOL Escort"
+
+REFERENCE            hoverjet_desc
+LANG_ENGLISH         "Lay waste to enemy infantry and vehicles from the cockpit of a powerful VTOL jet. Cooldown: 90 sec"
+
+REFERENCE            jetfighter
+LANG_ENGLISH         "Air Patrol"
+
+REFERENCE            jetfighter_desc
+LANG_ENGLISH         "Call in a squadron of jets to attack enemy air Scorestreaks. Counter enemy Air Patrols. Cooldown: 0 sec"
+
+REFERENCE            napalm_strike
+LANG_ENGLISH         "Napalm Strike"
+
+REFERENCE            napalm_strike_desc
+LANG_ENGLISH         "Launch a targeted carpet bomb strike of explosive napalm. Cooldown: 30 sec"
+
+REFERENCE            overwatch_snipers
+LANG_ENGLISH         "Sniper's Nest"
+
+REFERENCE            overwatch_snipers_desc
+LANG_ENGLISH         "Call in the support of 2 heli snipers."
+
+REFERENCE            planemortar
+LANG_ENGLISH         "Artillery"
+
+REFERENCE            planemortar_desc
+LANG_ENGLISH         "Launch three targeted artillery strikes. Unused strikes can be saved for later. Cooldown: 30 sec"
+
+REFERENCE            recon_plane
+LANG_ENGLISH         "H.A.R.P."
+
+REFERENCE            recon_plane_desc
+LANG_ENGLISH         "High-Altitude Reconnaissance Plane that shows both enemy position and direction on the mini-map. Cooldown: 60 sec"
+
+REFERENCE            remote_missile
+LANG_ENGLISH         "Cruise Missile"
+
+REFERENCE            remote_missile_desc
+LANG_ENGLISH         "Steer a trio of missiles with boost and air brake controls. Secondary missiles auto-fire at painted targets. Cooldown: 90 sec"
+
+REFERENCE            straferun
+LANG_ENGLISH         "Strafe Run"
+
+REFERENCE            straferun_desc
+LANG_ENGLISH         "AI piloted strafe run that lays heavy machine gun and rocket fire. Cooldown: 30 sec"
+
+REFERENCE            uav
+LANG_ENGLISH         "Spy Plane"
+
+REFERENCE            uav_desc
+LANG_ENGLISH         "Reveal enemy positions through the Fog of War. Cooldown: 90 sec"
+
+
+ENDMARKER

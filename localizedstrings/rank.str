@@ -299,6 +299,21 @@ LANG_ENGLISH         "Gunnery Sergeant V"
 REFERENCE            gsgt_full_n
 LANG_ENGLISH         "Gunnery Sergeant &&1"
 
+REFERENCE            lcpl
+LANG_ENGLISH         "LCpl"
+
+REFERENCE            lcpl_full
+LANG_ENGLISH         "Lance Corporal"
+
+REFERENCE            lcpl_full2
+LANG_ENGLISH         "Lance Corporal II"
+
+REFERENCE            lcpl_full3
+LANG_ENGLISH         "Lance Corporal III"
+
+REFERENCE            lcpl_full_n
+LANG_ENGLISH         "Lance Corporal &&1"
+
 REFERENCE            lt_full
 LANG_ENGLISH         "Lieutenant I"
 

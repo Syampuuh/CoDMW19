@@ -1,0 +1,2484 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            st_card_t9001
+LANG_ENGLISH         "Core Superior"
+
+REFERENCE            st_card_t9002
+LANG_ENGLISH         "Elite Operator Master"
+
+REFERENCE            st_card_t9003
+LANG_ENGLISH         "The Best Around"
+
+REFERENCE            st_card_t9004
+LANG_ENGLISH         "The Best Around"
+
+REFERENCE            st_card_t9005
+LANG_ENGLISH         "Superstar"
+
+REFERENCE            st_card_t9006
+LANG_ENGLISH         "Top Dog"
+
+REFERENCE            st_card_t9007
+LANG_ENGLISH         "Vanquisher"
+
+REFERENCE            st_card_t9008
+LANG_ENGLISH         "Calling card 008"
+
+REFERENCE            st_card_t9009
+LANG_ENGLISH         "Calling card 009"
+
+REFERENCE            st_card_t9010
+LANG_ENGLISH         "Calling card 010"
+
+REFERENCE            st_card_t9011
+LANG_ENGLISH         "Calling card 011"
+
+REFERENCE            st_card_t9012
+LANG_ENGLISH         "Calling card 012"
+
+REFERENCE            st_card_t9013
+LANG_ENGLISH         "Calling card 013"
+
+REFERENCE            st_card_t9014
+LANG_ENGLISH         "Calling card 014"
+
+REFERENCE            st_card_t9015
+LANG_ENGLISH         "Calling card 015"
+
+REFERENCE            st_card_t9016
+LANG_ENGLISH         "Calling card 016"
+
+REFERENCE            st_card_t9017
+LANG_ENGLISH         "Calling card 017"
+
+REFERENCE            st_card_t9018
+LANG_ENGLISH         "Calling card 018"
+
+REFERENCE            st_card_t9019
+LANG_ENGLISH         "Calling card 019"
+
+REFERENCE            st_card_t9020
+LANG_ENGLISH         "Calling card 020"
+
+REFERENCE            st_card_t9021
+LANG_ENGLISH         "Calling card 021"
+
+REFERENCE            st_card_t9022
+LANG_ENGLISH         "Calling card 022"
+
+REFERENCE            st_card_t9023
+LANG_ENGLISH         "Calling card 023"
+
+REFERENCE            st_card_t9024
+LANG_ENGLISH         "Calling card 024"
+
+REFERENCE            st_card_t9025
+LANG_ENGLISH         "Calling card 025"
+
+REFERENCE            st_card_t9026
+LANG_ENGLISH         "Calling card 026"
+
+REFERENCE            st_card_t9027
+LANG_ENGLISH         "Gambler"
+
+REFERENCE            st_card_t9028
+LANG_ENGLISH         "Boot Camp Master"
+
+REFERENCE            st_card_t9029
+LANG_ENGLISH         "Boot Camp - Off The Shell"
+
+REFERENCE            st_card_t9030
+LANG_ENGLISH         "Perk Me Up"
+
+REFERENCE            st_card_t9031
+LANG_ENGLISH         "Scavenger"
+
+REFERENCE            st_card_t9032
+LANG_ENGLISH         " Boot Camp - Scientific Advances"
+
+REFERENCE            st_card_t9033
+LANG_ENGLISH         "Showtime"
+
+REFERENCE            st_card_t9034
+LANG_ENGLISH         "Blaster"
+
+REFERENCE            st_card_t9035
+LANG_ENGLISH         "Coldfront"
+
+REFERENCE            st_card_t9036
+LANG_ENGLISH         "Electrician"
+
+REFERENCE            st_card_t9037
+LANG_ENGLISH         "Elementalist Master"
+
+REFERENCE            st_card_t9038
+LANG_ENGLISH         "Plaguebringer"
+
+REFERENCE            st_card_t9039
+LANG_ENGLISH         "Pyromaniac"
+
+REFERENCE            st_card_t9040
+LANG_ENGLISH         "Zynergy"
+
+REFERENCE            st_card_t9041
+LANG_ENGLISH         "Big Game"
+
+REFERENCE            st_card_t9042
+LANG_ENGLISH         "Clever Ruse"
+
+REFERENCE            st_card_t9043
+LANG_ENGLISH         "Demolitionist"
+
+REFERENCE            st_card_t9044
+LANG_ENGLISH         "Zombie Hunter Master"
+
+REFERENCE            st_card_t9045
+LANG_ENGLISH         "Signature Slayer"
+
+REFERENCE            st_card_t9046
+LANG_ENGLISH         "Superior Ordinance"
+
+REFERENCE            st_card_t9047
+LANG_ENGLISH         "Trapper"
+
+REFERENCE            st_card_t9048
+LANG_ENGLISH         "Calling card 048"
+
+REFERENCE            st_card_t9049
+LANG_ENGLISH         "Calling card 049"
+
+REFERENCE            st_card_t9050
+LANG_ENGLISH         "Clandestine Master"
+
+REFERENCE            st_card_t9051
+LANG_ENGLISH         "Nightcrawlers"
+
+REFERENCE            st_card_t9052
+LANG_ENGLISH         "Silent but Deadly"
+
+REFERENCE            st_card_t9053
+LANG_ENGLISH         "Smooth Operator"
+
+REFERENCE            st_card_t9054
+LANG_ENGLISH         "Alley Cat"
+
+REFERENCE            st_card_t9055
+LANG_ENGLISH         "Calling card 055"
+
+REFERENCE            st_card_t9056
+LANG_ENGLISH         "Another Round?"
+
+REFERENCE            st_card_t9057
+LANG_ENGLISH         "Armed to the Teeth"
+
+REFERENCE            st_card_t9058
+LANG_ENGLISH         "Box Addict"
+
+REFERENCE            st_card_t9059
+LANG_ENGLISH         "Checkmate"
+
+REFERENCE            st_card_t9060
+LANG_ENGLISH         "Calling card 060"
+
+REFERENCE            st_card_t9061
+LANG_ENGLISH         "Evil Unleashed"
+
+REFERENCE            st_card_t9062
+LANG_ENGLISH         "Good Enough"
+
+REFERENCE            st_card_t9063
+LANG_ENGLISH         "Calling card 063"
+
+REFERENCE            st_card_t9064
+LANG_ENGLISH         "Invincible"
+
+REFERENCE            st_card_t9065
+LANG_ENGLISH         "Calling card 065"
+
+REFERENCE            st_card_t9066
+LANG_ENGLISH         "Reaper of the Undead"
+
+REFERENCE            st_card_t9067
+LANG_ENGLISH         "The Anvil"
+
+REFERENCE            st_card_t9068
+LANG_ENGLISH         "Calling card 068"
+
+REFERENCE            st_card_t9069
+LANG_ENGLISH         "From the Shadows"
+
+REFERENCE            st_card_t9070
+LANG_ENGLISH         "Hands Off Help"
+
+REFERENCE            st_card_t9071
+LANG_ENGLISH         "Rampage"
+
+REFERENCE            st_card_t9072
+LANG_ENGLISH         "Ringmaster"
+
+REFERENCE            st_card_t9073
+LANG_ENGLISH         "Stay Right There"
+
+REFERENCE            st_card_t9074
+LANG_ENGLISH         "Calling card 074"
+
+REFERENCE            st_card_t9075
+LANG_ENGLISH         "Our Flag"
+
+REFERENCE            st_card_t9076
+LANG_ENGLISH         "Scientist at Work"
+
+REFERENCE            st_card_t9077
+LANG_ENGLISH         "Green Screen"
+
+REFERENCE            st_card_t9078
+LANG_ENGLISH         "Sunny Factory"
+
+REFERENCE            st_card_t9079
+LANG_ENGLISH         "Comrades"
+
+REFERENCE            st_card_t9080
+LANG_ENGLISH         "Be Right Back"
+
+REFERENCE            st_card_t9081
+LANG_ENGLISH         "Bear of Honor"
+
+REFERENCE            st_card_t9082
+LANG_ENGLISH         "Calling card 082"
+
+REFERENCE            st_card_t9083
+LANG_ENGLISH         "Chark-offed"
+
+REFERENCE            st_card_t9084
+LANG_ENGLISH         "Calling card 084"
+
+REFERENCE            st_card_t9085
+LANG_ENGLISH         "Calling card 085"
+
+REFERENCE            st_card_t9086
+LANG_ENGLISH         "Bloodthirsty Master"
+
+REFERENCE            st_card_t9087
+LANG_ENGLISH         "No Loose Ends"
+
+REFERENCE            st_card_t9088
+LANG_ENGLISH         "Unhappy Landing"
+
+REFERENCE            st_card_t9089
+LANG_ENGLISH         "Volk You"
+
+REFERENCE            st_card_t9090
+LANG_ENGLISH         "Calling card 090"
+
+REFERENCE            st_card_t9091
+LANG_ENGLISH         "Calling card 091"
+
+REFERENCE            st_card_t9092
+LANG_ENGLISH         "Calling card 092"
+
+REFERENCE            st_card_t9093
+LANG_ENGLISH         "Calling card 093"
+
+REFERENCE            st_card_t9094
+LANG_ENGLISH         "Calling card 094"
+
+REFERENCE            st_card_t9095
+LANG_ENGLISH         "Calling card 095"
+
+REFERENCE            st_card_t9096
+LANG_ENGLISH         "Calling card 096"
+
+REFERENCE            st_card_t9097
+LANG_ENGLISH         "Calling card 097"
+
+REFERENCE            st_card_t9098
+LANG_ENGLISH         "Calling card 098"
+
+REFERENCE            st_card_t9099
+LANG_ENGLISH         "Calling card 099"
+
+REFERENCE            st_card_t9100
+LANG_ENGLISH         "Calling card 100"
+
+REFERENCE            st_card_t9101
+LANG_ENGLISH         "Calling card 101"
+
+REFERENCE            st_card_t9102
+LANG_ENGLISH         "Calling card 102"
+
+REFERENCE            st_card_t9103
+LANG_ENGLISH         "Calling card 103"
+
+REFERENCE            st_card_t9104
+LANG_ENGLISH         "Calling card 104"
+
+REFERENCE            st_card_t9105
+LANG_ENGLISH         "Calling card 105"
+
+REFERENCE            st_card_t9106
+LANG_ENGLISH         "Calling card 106"
+
+REFERENCE            st_card_t9107
+LANG_ENGLISH         "Calling card 107"
+
+REFERENCE            st_card_t9108
+LANG_ENGLISH         "Calling card 108"
+
+REFERENCE            st_card_t9109
+LANG_ENGLISH         "Calling card 109"
+
+REFERENCE            st_card_t9110
+LANG_ENGLISH         "Calling card 110"
+
+REFERENCE            st_card_t9111
+LANG_ENGLISH         "Calling card 111"
+
+REFERENCE            st_card_t9112
+LANG_ENGLISH         "Calling card 112"
+
+REFERENCE            st_card_t9113
+LANG_ENGLISH         "Calling card 113"
+
+REFERENCE            st_card_t9114
+LANG_ENGLISH         "Calling card 114"
+
+REFERENCE            st_card_t9115
+LANG_ENGLISH         "Calling card 115"
+
+REFERENCE            st_card_t9116
+LANG_ENGLISH         "Calling card 116"
+
+REFERENCE            st_card_t9117
+LANG_ENGLISH         "Calling card 117"
+
+REFERENCE            st_card_t9118
+LANG_ENGLISH         "Calling card 118"
+
+REFERENCE            st_card_t9119
+LANG_ENGLISH         "Calling card 119"
+
+REFERENCE            st_card_t9120
+LANG_ENGLISH         "Calling card 120"
+
+REFERENCE            st_card_t9121
+LANG_ENGLISH         "Calling card 121"
+
+REFERENCE            st_card_t9122
+LANG_ENGLISH         "Calling card 122"
+
+REFERENCE            st_card_t9123
+LANG_ENGLISH         "Calling card 123"
+
+REFERENCE            st_card_t9124
+LANG_ENGLISH         "Calling card 124"
+
+REFERENCE            st_card_t9125
+LANG_ENGLISH         "Conspiracy Theorist"
+
+REFERENCE            st_card_t9126
+LANG_ENGLISH         "Endstation Historian"
+
+REFERENCE            st_card_t9127
+LANG_ENGLISH         "Interdimensional Broadcast"
+
+REFERENCE            st_card_t9128
+LANG_ENGLISH         "KGB Archivist"
+
+REFERENCE            st_card_t9129
+LANG_ENGLISH         "Die Maschine Report Master"
+
+REFERENCE            st_card_t9130
+LANG_ENGLISH         "No Stone Unturned"
+
+REFERENCE            st_card_t9131
+LANG_ENGLISH         "Seeing Ghosts"
+
+REFERENCE            st_card_t9132
+LANG_ENGLISH         "Calling card 132"
+
+REFERENCE            st_card_t9133
+LANG_ENGLISH         "Get to the Chopper"
+
+REFERENCE            st_card_t9134
+LANG_ENGLISH         "Headhunter"
+
+REFERENCE            st_card_t9135
+LANG_ENGLISH         "Grizzled Veteran Master"
+
+REFERENCE            st_card_t9136
+LANG_ENGLISH         "Medic"
+
+REFERENCE            st_card_t9137
+LANG_ENGLISH         "Stabtastic"
+
+REFERENCE            st_card_t9138
+LANG_ENGLISH         "Zurvivor"
+
+REFERENCE            st_card_t9139
+LANG_ENGLISH         "Calling card 139"
+
+REFERENCE            st_card_t9140
+LANG_ENGLISH         "Wood Chipper"
+
+REFERENCE            st_card_t9141
+LANG_ENGLISH         "Calling card 141"
+
+REFERENCE            st_card_t9142
+LANG_ENGLISH         "Awkward Chat"
+
+REFERENCE            st_card_t9143
+LANG_ENGLISH         "Antihero"
+
+REFERENCE            st_card_t9144
+LANG_ENGLISH         "Cover Your Tracks"
+
+REFERENCE            st_card_t9145
+LANG_ENGLISH         "Defiant"
+
+REFERENCE            st_card_t9146
+LANG_ENGLISH         "Calling card 146"
+
+REFERENCE            st_card_t9147
+LANG_ENGLISH         "Retro Gamer"
+
+REFERENCE            st_card_t9148
+LANG_ENGLISH         "What Do the Numbers Mean?"
+
+REFERENCE            st_card_t9149
+LANG_ENGLISH         "Calling card 149"
+
+REFERENCE            st_card_t9150
+LANG_ENGLISH         "HUMINT"
+
+REFERENCE            st_card_t9151
+LANG_ENGLISH         "IMINT"
+
+REFERENCE            st_card_t9152
+LANG_ENGLISH         "Let???s Try This Way"
+
+REFERENCE            st_card_t9153
+LANG_ENGLISH         "Explorer Master"
+
+REFERENCE            st_card_t9154
+LANG_ENGLISH         "Calling card 154"
+
+REFERENCE            st_card_t9155
+LANG_ENGLISH         "Calling card 155"
+
+REFERENCE            st_card_t9156
+LANG_ENGLISH         "Your Worst Nightmare"
+
+REFERENCE            st_card_t9157
+LANG_ENGLISH         "Calling card 157"
+
+REFERENCE            st_card_t9158
+LANG_ENGLISH         "By the Book"
+
+REFERENCE            st_card_t9159
+LANG_ENGLISH         "Calling card 159"
+
+REFERENCE            st_card_t9160
+LANG_ENGLISH         "Friend of the Crown"
+
+REFERENCE            st_card_t9161
+LANG_ENGLISH         "Loyal Agent Master"
+
+REFERENCE            st_card_t9162
+LANG_ENGLISH         "Calling card 162"
+
+REFERENCE            st_card_t9163
+LANG_ENGLISH         "The Hunt for Red Circus"
+
+REFERENCE            st_card_t9164
+LANG_ENGLISH         "Calling card 164"
+
+REFERENCE            st_card_t9165
+LANG_ENGLISH         "Calling card 165"
+
+REFERENCE            st_card_t9166
+LANG_ENGLISH         "Stunner Shades "
+
+REFERENCE            st_card_t9167
+LANG_ENGLISH         "Hypersonic "
+
+REFERENCE            st_card_t9168
+LANG_ENGLISH         "Bombs Away"
+
+REFERENCE            st_card_t9169
+LANG_ENGLISH         "Strike Team 7"
+
+REFERENCE            st_card_t9170
+LANG_ENGLISH         "Payback Season "
+
+REFERENCE            st_card_t9171
+LANG_ENGLISH         "Fire Team"
+
+REFERENCE            st_card_t9172
+LANG_ENGLISH         "Down Satellite"
+
+REFERENCE            st_card_t9173
+LANG_ENGLISH         "No Fly Zone"
+
+REFERENCE            st_card_t9174
+LANG_ENGLISH         "Arms Length"
+
+REFERENCE            st_card_t9175
+LANG_ENGLISH         "Purveyor of Chaos "
+
+REFERENCE            st_card_t9176
+LANG_ENGLISH         "Chip Away"
+
+REFERENCE            st_card_t9177
+LANG_ENGLISH         "Target Confirmed"
+
+REFERENCE            st_card_t9178
+LANG_ENGLISH         "Heart Monitor"
+
+REFERENCE            st_card_t9179
+LANG_ENGLISH         "Escaped Menace"
+
+REFERENCE            st_card_t9180
+LANG_ENGLISH         "Quick Strike"
+
+REFERENCE            st_card_t9181
+LANG_ENGLISH         "Body Shot"
+
+REFERENCE            st_card_t9182
+LANG_ENGLISH         "Slow Down Turbo"
+
+REFERENCE            st_card_t9183
+LANG_ENGLISH         "Arms Check"
+
+REFERENCE            st_card_t9184
+LANG_ENGLISH         "Red Room"
+
+REFERENCE            st_card_t9185
+LANG_ENGLISH         "Best BUDS"
+
+REFERENCE            st_card_t9186
+LANG_ENGLISH         "Top Secret Clearance"
+
+REFERENCE            st_card_t9187
+LANG_ENGLISH         "Calling card 187"
+
+REFERENCE            st_card_t9188
+LANG_ENGLISH         "Calling card 188"
+
+REFERENCE            st_card_t9189
+LANG_ENGLISH         "Calling card 189"
+
+REFERENCE            st_card_t9190
+LANG_ENGLISH         "Calling card 190"
+
+REFERENCE            st_card_t9191
+LANG_ENGLISH         "Firepower"
+
+REFERENCE            st_card_t9192
+LANG_ENGLISH         "Calling card 192"
+
+REFERENCE            st_card_t9193
+LANG_ENGLISH         "Calling card 193"
+
+REFERENCE            st_card_t9194
+LANG_ENGLISH         "Calling card 194"
+
+REFERENCE            st_card_t9195
+LANG_ENGLISH         "Warheads"
+
+REFERENCE            st_card_t9196
+LANG_ENGLISH         "Foreign Asset"
+
+REFERENCE            st_card_t9197
+LANG_ENGLISH         "Calling card 197"
+
+REFERENCE            st_card_t9198
+LANG_ENGLISH         "HONK Squadron"
+
+REFERENCE            st_card_t9199
+LANG_ENGLISH         "Calling card 199"
+
+REFERENCE            st_card_t9200
+LANG_ENGLISH         "Calling card 200"
+
+REFERENCE            st_card_t9201
+LANG_ENGLISH         "Calling card 201"
+
+REFERENCE            st_card_t9202
+LANG_ENGLISH         "Calling card 202"
+
+REFERENCE            st_card_t9203
+LANG_ENGLISH         "Calling card 203"
+
+REFERENCE            st_card_t9204
+LANG_ENGLISH         "Calling card 204"
+
+REFERENCE            st_card_t9205
+LANG_ENGLISH         "Ruins"
+
+REFERENCE            st_card_t9206
+LANG_ENGLISH         "Calling card 206"
+
+REFERENCE            st_card_t9207
+LANG_ENGLISH         "Choose Your Fighter"
+
+REFERENCE            st_card_t9208
+LANG_ENGLISH         "Tournament Fighter"
+
+REFERENCE            st_card_t9209
+LANG_ENGLISH         "Calling card 209"
+
+REFERENCE            st_card_t9210
+LANG_ENGLISH         "Calling card 210"
+
+REFERENCE            st_card_t9211
+LANG_ENGLISH         "Calling card 211"
+
+REFERENCE            st_card_t9212
+LANG_ENGLISH         "Unidentified"
+
+REFERENCE            st_card_t9213
+LANG_ENGLISH         "Calling card 213"
+
+REFERENCE            st_card_t9214
+LANG_ENGLISH         "Calling card 214"
+
+REFERENCE            st_card_t9215
+LANG_ENGLISH         "Act of Intimidation"
+
+REFERENCE            st_card_t9216
+LANG_ENGLISH         "Calling card 216"
+
+REFERENCE            st_card_t9217
+LANG_ENGLISH         "Geared Up"
+
+REFERENCE            st_card_t9218
+LANG_ENGLISH         "Calling card 218"
+
+REFERENCE            st_card_t9219
+LANG_ENGLISH         "Calling card 219"
+
+REFERENCE            st_card_t9220
+LANG_ENGLISH         "Calling card 220"
+
+REFERENCE            st_card_t9221
+LANG_ENGLISH         "Calling card 221"
+
+REFERENCE            st_card_t9222
+LANG_ENGLISH         "Calling card 222"
+
+REFERENCE            st_card_t9223
+LANG_ENGLISH         "Calling card 223"
+
+REFERENCE            st_card_t9224
+LANG_ENGLISH         "Calling card 224"
+
+REFERENCE            st_card_t9225
+LANG_ENGLISH         "Calling card 225"
+
+REFERENCE            st_card_t9226
+LANG_ENGLISH         "Calling card 226"
+
+REFERENCE            st_card_t9227
+LANG_ENGLISH         "Calling card 227"
+
+REFERENCE            st_card_t9228
+LANG_ENGLISH         "Calling card 228"
+
+REFERENCE            st_card_t9229
+LANG_ENGLISH         "Calling card 229"
+
+REFERENCE            st_card_t9230
+LANG_ENGLISH         "Calling card 230"
+
+REFERENCE            st_card_t9231
+LANG_ENGLISH         "Calling card 231"
+
+REFERENCE            st_card_t9232
+LANG_ENGLISH         "Calling card 232"
+
+REFERENCE            st_card_t9233
+LANG_ENGLISH         "Calling card 233"
+
+REFERENCE            st_card_t9234
+LANG_ENGLISH         "Calling card 234"
+
+REFERENCE            st_card_t9235
+LANG_ENGLISH         "Calling card 235"
+
+REFERENCE            st_card_t9236
+LANG_ENGLISH         "Top Brass"
+
+REFERENCE            st_card_t9237
+LANG_ENGLISH         "Calling card 237"
+
+REFERENCE            st_card_t9238
+LANG_ENGLISH         "Calling card 238"
+
+REFERENCE            st_card_t9239
+LANG_ENGLISH         "Calling card 239"
+
+REFERENCE            st_card_t9240
+LANG_ENGLISH         "Calling card 240"
+
+REFERENCE            st_card_t9241
+LANG_ENGLISH         "Calling card 241"
+
+REFERENCE            st_card_t9242
+LANG_ENGLISH         "Calling card 242"
+
+REFERENCE            st_card_t9243
+LANG_ENGLISH         "Calling card 243"
+
+REFERENCE            st_card_t9244
+LANG_ENGLISH         "Calling card 244"
+
+REFERENCE            st_card_t9245
+LANG_ENGLISH         "Calling card 245"
+
+REFERENCE            st_card_t9246
+LANG_ENGLISH         "Execution"
+
+REFERENCE            st_card_t9247
+LANG_ENGLISH         "Calling card 247"
+
+REFERENCE            st_card_t9248
+LANG_ENGLISH         "Calling card 248"
+
+REFERENCE            st_card_t9249
+LANG_ENGLISH         "Calling card 249"
+
+REFERENCE            st_card_t9250
+LANG_ENGLISH         "Nuclear Pledge"
+
+REFERENCE            st_card_t9251
+LANG_ENGLISH         "Calling card 251"
+
+REFERENCE            st_card_t9252
+LANG_ENGLISH         "Calling card 252"
+
+REFERENCE            st_card_t9253
+LANG_ENGLISH         "Calling card 253"
+
+REFERENCE            st_card_t9254
+LANG_ENGLISH         "Calling card 254"
+
+REFERENCE            st_card_t9255
+LANG_ENGLISH         "Calling card 255"
+
+REFERENCE            st_card_t9256
+LANG_ENGLISH         "Calling card 256"
+
+REFERENCE            st_card_t9257
+LANG_ENGLISH         "Calling card 257"
+
+REFERENCE            st_card_t9258
+LANG_ENGLISH         "Biggest Bang"
+
+REFERENCE            st_card_t9259
+LANG_ENGLISH         "Calling card 259"
+
+REFERENCE            st_card_t9260
+LANG_ENGLISH         "Calling card 260"
+
+REFERENCE            st_card_t9261
+LANG_ENGLISH         "Calling card 261"
+
+REFERENCE            st_card_t9262
+LANG_ENGLISH         "Car Bomb"
+
+REFERENCE            st_card_t9263
+LANG_ENGLISH         "Calling card 263"
+
+REFERENCE            st_card_t9264
+LANG_ENGLISH         "Calling card 264"
+
+REFERENCE            st_card_t9265
+LANG_ENGLISH         "Calling card 265"
+
+REFERENCE            st_card_t9266
+LANG_ENGLISH         "Calling card 266"
+
+REFERENCE            st_card_t9267
+LANG_ENGLISH         "Calling card 267"
+
+REFERENCE            st_card_t9268
+LANG_ENGLISH         "Rigged To Blow"
+
+REFERENCE            st_card_t9269
+LANG_ENGLISH         "Swift Brutality"
+
+REFERENCE            st_card_t9270
+LANG_ENGLISH         "Calling card 270"
+
+REFERENCE            st_card_t9271
+LANG_ENGLISH         "Archaeologist"
+
+REFERENCE            st_card_t9272
+LANG_ENGLISH         "Bonus Round"
+
+REFERENCE            st_card_t9273
+LANG_ENGLISH         "Full Arsenal"
+
+REFERENCE            st_card_t9274
+LANG_ENGLISH         "Invictus"
+
+REFERENCE            st_card_t9275
+LANG_ENGLISH         "Calling card 275"
+
+REFERENCE            st_card_t9276
+LANG_ENGLISH         "Moving On Up"
+
+REFERENCE            st_card_t9277
+LANG_ENGLISH         "Topple Mama"
+
+REFERENCE            st_card_t9278
+LANG_ENGLISH         "Fire at Will"
+
+REFERENCE            st_card_t9279
+LANG_ENGLISH         "Undertaker"
+
+REFERENCE            st_card_t9280
+LANG_ENGLISH         "Strike Package"
+
+REFERENCE            st_card_t9281
+LANG_ENGLISH         "Calling card 281"
+
+REFERENCE            st_card_t9282
+LANG_ENGLISH         "Special Weapons Team"
+
+REFERENCE            st_card_t9283
+LANG_ENGLISH         "Serpent Sacrifice"
+
+REFERENCE            st_card_t9284
+LANG_ENGLISH         "Calling card 284"
+
+REFERENCE            st_card_t9285
+LANG_ENGLISH         "Missile Control"
+
+REFERENCE            st_card_t9286
+LANG_ENGLISH         "Strike Team"
+
+REFERENCE            st_card_t9287
+LANG_ENGLISH         "Abyssal Discovery"
+
+REFERENCE            st_card_t9288
+LANG_ENGLISH         "Cyber Battleground"
+
+REFERENCE            st_card_t9289
+LANG_ENGLISH         "Duel for the Decades"
+
+REFERENCE            st_card_t9290
+LANG_ENGLISH         "Space Race"
+
+REFERENCE            st_card_t9291
+LANG_ENGLISH         "Joke's On You"
+
+REFERENCE            st_card_t9292
+LANG_ENGLISH         "Death Dealer"
+
+REFERENCE            st_card_t9293
+LANG_ENGLISH         "Point and Shoot"
+
+REFERENCE            st_card_t9294
+LANG_ENGLISH         "Into Darkness"
+
+REFERENCE            st_card_t9295
+LANG_ENGLISH         "Big Hawk"
+
+REFERENCE            st_card_t9296
+LANG_ENGLISH         "Snow Monster"
+
+REFERENCE            st_card_t9297
+LANG_ENGLISH         "Jump Start"
+
+REFERENCE            st_card_t9298
+LANG_ENGLISH         "Akuma"
+
+REFERENCE            st_card_t9299
+LANG_ENGLISH         "Big Amount"
+
+REFERENCE            st_card_t9300
+LANG_ENGLISH         "Double Bird"
+
+REFERENCE            st_card_t9301
+LANG_ENGLISH         "Local Lurkers"
+
+REFERENCE            st_card_t9302
+LANG_ENGLISH         "Clear Message"
+
+REFERENCE            st_card_t9303
+LANG_ENGLISH         "Infernal March"
+
+REFERENCE            st_card_t9304
+LANG_ENGLISH         "Black Mamba"
+
+REFERENCE            st_card_t9305
+LANG_ENGLISH         "End to the Means"
+
+REFERENCE            st_card_t9306
+LANG_ENGLISH         "FOB Friends"
+
+REFERENCE            st_card_t9307
+LANG_ENGLISH         "Calling card 307"
+
+REFERENCE            st_card_t9308
+LANG_ENGLISH         "Love Link"
+
+REFERENCE            st_card_t9309
+LANG_ENGLISH         "Calling card 309"
+
+REFERENCE            st_card_t9310
+LANG_ENGLISH         "Tree Line Trio"
+
+REFERENCE            st_card_t9311
+LANG_ENGLISH         "Low Profile"
+
+REFERENCE            st_card_t9312
+LANG_ENGLISH         "Calling card 312"
+
+REFERENCE            st_card_t9313
+LANG_ENGLISH         "Calling card 313"
+
+REFERENCE            st_card_t9314
+LANG_ENGLISH         "Calling card 314"
+
+REFERENCE            st_card_t9315
+LANG_ENGLISH         "Calling card 315"
+
+REFERENCE            st_card_t9316
+LANG_ENGLISH         "Calling card 316"
+
+REFERENCE            st_card_t9317
+LANG_ENGLISH         "Calling card 317"
+
+REFERENCE            st_card_t9318
+LANG_ENGLISH         "Down Satellite"
+
+REFERENCE            st_card_t9319
+LANG_ENGLISH         "Calling card 319"
+
+REFERENCE            st_card_t9320
+LANG_ENGLISH         "Wired Access Point "
+
+REFERENCE            st_card_t9321
+LANG_ENGLISH         "Team Player"
+
+REFERENCE            st_card_t9322
+LANG_ENGLISH         "Morale Booster"
+
+REFERENCE            st_card_t9323
+LANG_ENGLISH         "Forward Operators"
+
+REFERENCE            st_card_t9324
+LANG_ENGLISH         "Love Truck"
+
+REFERENCE            st_card_t9325
+LANG_ENGLISH         "Simple Night Out"
+
+REFERENCE            st_card_t9326
+LANG_ENGLISH         "Crosswalk"
+
+REFERENCE            st_card_t9327
+LANG_ENGLISH         "Happy Hour"
+
+REFERENCE            st_card_t9328
+LANG_ENGLISH         "Look Both Ways"
+
+REFERENCE            st_card_t9329
+LANG_ENGLISH         "Solid Soldiers"
+
+REFERENCE            st_card_t9330
+LANG_ENGLISH         "Another Level"
+
+REFERENCE            st_card_t9331
+LANG_ENGLISH         "Leer"
+
+REFERENCE            st_card_t9332
+LANG_ENGLISH         "Action Movie"
+
+REFERENCE            st_card_t9333
+LANG_ENGLISH         "Fog of War"
+
+REFERENCE            st_card_t9334
+LANG_ENGLISH         "Firefight"
+
+REFERENCE            st_card_t9335
+LANG_ENGLISH         "Scorched"
+
+REFERENCE            st_card_t9336
+LANG_ENGLISH         "Explosive"
+
+REFERENCE            st_card_t9337
+LANG_ENGLISH         "Back Fire"
+
+REFERENCE            st_card_t9338
+LANG_ENGLISH         "Shredder"
+
+REFERENCE            st_card_t9339
+LANG_ENGLISH         "Blast Off"
+
+REFERENCE            st_card_t9340
+LANG_ENGLISH         "Safer Inside"
+
+REFERENCE            st_card_t9341
+LANG_ENGLISH         "Pizza Boys"
+
+REFERENCE            st_card_t9342
+LANG_ENGLISH         "Tunnel Vision"
+
+REFERENCE            st_card_t9343
+LANG_ENGLISH         "Big Hair"
+
+REFERENCE            st_card_t9344
+LANG_ENGLISH         "Under Fire"
+
+REFERENCE            st_card_t9345
+LANG_ENGLISH         "Pull Up Hot"
+
+REFERENCE            st_card_t9346
+LANG_ENGLISH         "Warsmith"
+
+REFERENCE            st_card_t9347
+LANG_ENGLISH         "Calling card 347"
+
+REFERENCE            st_card_t9348
+LANG_ENGLISH         "Sniper Battle"
+
+REFERENCE            st_card_t9349
+LANG_ENGLISH         "Winter Assault"
+
+REFERENCE            st_card_t9350
+LANG_ENGLISH         "Case Work"
+
+REFERENCE            st_card_t9351
+LANG_ENGLISH         "Missile Crisis"
+
+REFERENCE            st_card_t9352
+LANG_ENGLISH         "Wheel Man"
+
+REFERENCE            st_card_t9353
+LANG_ENGLISH         "High Stakes"
+
+REFERENCE            st_card_t9354
+LANG_ENGLISH         "En Route"
+
+REFERENCE            st_card_t9355
+LANG_ENGLISH         "In Reverence"
+
+REFERENCE            st_card_t9356
+LANG_ENGLISH         "Calling card 356"
+
+REFERENCE            st_card_t9357
+LANG_ENGLISH         "Night Watch"
+
+REFERENCE            st_card_t9358
+LANG_ENGLISH         "Virtual World"
+
+REFERENCE            st_card_t9359
+LANG_ENGLISH         "Family Portrait"
+
+REFERENCE            st_card_t9360
+LANG_ENGLISH         "Decades In The Making"
+
+REFERENCE            st_card_t9361
+LANG_ENGLISH         "Another Pawn Down"
+
+REFERENCE            st_card_t9362
+LANG_ENGLISH         "Shall We Play"
+
+REFERENCE            st_card_t9363
+LANG_ENGLISH         "Not Just A Theory"
+
+REFERENCE            st_card_t9364
+LANG_ENGLISH         "Fallen Heroes"
+
+REFERENCE            st_card_t9365
+LANG_ENGLISH         "Pawn Takes Pawn"
+
+REFERENCE            st_card_t9366
+LANG_ENGLISH         "Soviet Space Program"
+
+REFERENCE            st_card_t9367
+LANG_ENGLISH         "Experimentation"
+
+REFERENCE            st_card_t9368
+LANG_ENGLISH         "Loading..."
+
+REFERENCE            st_card_t9369
+LANG_ENGLISH         "Familiar Fortress"
+
+REFERENCE            st_card_t9370
+LANG_ENGLISH         "Heroic Sacrifice"
+
+REFERENCE            st_card_t9371
+LANG_ENGLISH         "BRB"
+
+REFERENCE            st_card_t9372
+LANG_ENGLISH         "Staunch Defense"
+
+REFERENCE            st_card_t9373
+LANG_ENGLISH         "Calling card 373"
+
+REFERENCE            st_card_t9374
+LANG_ENGLISH         "Calling card 374"
+
+REFERENCE            st_card_t9375
+LANG_ENGLISH         "Calling card 375"
+
+REFERENCE            st_card_t9376
+LANG_ENGLISH         "Calling card 376"
+
+REFERENCE            st_card_t9377
+LANG_ENGLISH         "Calling card 377"
+
+REFERENCE            st_card_t9378
+LANG_ENGLISH         "Calling card 378"
+
+REFERENCE            st_card_t9379
+LANG_ENGLISH         "Calling card 379"
+
+REFERENCE            st_card_t9380
+LANG_ENGLISH         "Calling card 380"
+
+REFERENCE            st_card_t9381
+LANG_ENGLISH         "Calling card 381"
+
+REFERENCE            st_card_t9382
+LANG_ENGLISH         "Calling card 382"
+
+REFERENCE            st_card_t9383
+LANG_ENGLISH         "Calling card 383"
+
+REFERENCE            st_card_t9384
+LANG_ENGLISH         "Calling card 384"
+
+REFERENCE            st_card_t9385
+LANG_ENGLISH         "Calling card 385"
+
+REFERENCE            st_card_t9386
+LANG_ENGLISH         "Calling card 386"
+
+REFERENCE            st_card_t9387
+LANG_ENGLISH         "Calling card 387"
+
+REFERENCE            st_card_t9388
+LANG_ENGLISH         "Calling card 388"
+
+REFERENCE            st_card_t9389
+LANG_ENGLISH         "Calling card 389"
+
+REFERENCE            st_card_t9390
+LANG_ENGLISH         "Calling card 390"
+
+REFERENCE            st_card_t9391
+LANG_ENGLISH         "Calling card 391"
+
+REFERENCE            st_card_t9392
+LANG_ENGLISH         "Calling card 392"
+
+REFERENCE            st_card_t9393
+LANG_ENGLISH         "Calling card 393"
+
+REFERENCE            st_card_t9394
+LANG_ENGLISH         "Calling card 394"
+
+REFERENCE            st_card_t9395
+LANG_ENGLISH         "Calling card 395"
+
+REFERENCE            st_card_t9396
+LANG_ENGLISH         "Calling card 396"
+
+REFERENCE            st_card_t9397
+LANG_ENGLISH         "Calling card 397"
+
+REFERENCE            st_card_t9398
+LANG_ENGLISH         "Calling card 398"
+
+REFERENCE            st_card_t9399
+LANG_ENGLISH         "Calling card 399"
+
+REFERENCE            st_card_t9400
+LANG_ENGLISH         "Calling card 400"
+
+REFERENCE            st_card_t9401
+LANG_ENGLISH         "Calling card 401"
+
+REFERENCE            st_card_t9402
+LANG_ENGLISH         "Calling card 402"
+
+REFERENCE            st_card_t9403
+LANG_ENGLISH         "Calling card 403"
+
+REFERENCE            st_card_t9404
+LANG_ENGLISH         "Calling card 404"
+
+REFERENCE            st_card_t9405
+LANG_ENGLISH         "Calling card 405"
+
+REFERENCE            st_card_t9406
+LANG_ENGLISH         "Calling card 406"
+
+REFERENCE            st_card_t9407
+LANG_ENGLISH         "Calling card 407"
+
+REFERENCE            st_card_t9408
+LANG_ENGLISH         "Calling card 408"
+
+REFERENCE            st_card_t9409
+LANG_ENGLISH         "Calling card 409"
+
+REFERENCE            st_card_t9410
+LANG_ENGLISH         "Calling card 410"
+
+REFERENCE            st_card_t9411
+LANG_ENGLISH         "Calling card 411"
+
+REFERENCE            st_card_t9412
+LANG_ENGLISH         "Calling card 412"
+
+REFERENCE            st_card_t9413
+LANG_ENGLISH         "Calling card 413"
+
+REFERENCE            st_card_t9414
+LANG_ENGLISH         "Calling card 414"
+
+REFERENCE            st_card_t9415
+LANG_ENGLISH         "Calling card 415"
+
+REFERENCE            st_card_t9416
+LANG_ENGLISH         "Calling card 416"
+
+REFERENCE            st_card_t9417
+LANG_ENGLISH         "Calling card 417"
+
+REFERENCE            st_card_t9418
+LANG_ENGLISH         "Calling card 418"
+
+REFERENCE            st_card_t9419
+LANG_ENGLISH         "Calling card 419"
+
+REFERENCE            st_card_t9420
+LANG_ENGLISH         "Calling card 420"
+
+REFERENCE            st_card_t9421
+LANG_ENGLISH         "Calling card 421"
+
+REFERENCE            st_card_t9422
+LANG_ENGLISH         "Calling card 422"
+
+REFERENCE            st_card_t9423
+LANG_ENGLISH         "Calling card 423"
+
+REFERENCE            st_card_t9424
+LANG_ENGLISH         "Calling card 424"
+
+REFERENCE            st_card_t9425
+LANG_ENGLISH         "Calling card 425"
+
+REFERENCE            st_card_t9426
+LANG_ENGLISH         "Calling card 426"
+
+REFERENCE            st_card_t9427
+LANG_ENGLISH         "Calling card 427"
+
+REFERENCE            st_card_t9428
+LANG_ENGLISH         "Calling card 428"
+
+REFERENCE            st_card_t9429
+LANG_ENGLISH         "Calling card 429"
+
+REFERENCE            st_card_t9430
+LANG_ENGLISH         "Calling card 430"
+
+REFERENCE            st_card_t9431
+LANG_ENGLISH         "Calling card 431"
+
+REFERENCE            st_card_t9432
+LANG_ENGLISH         "Calling card 432"
+
+REFERENCE            st_card_t9433
+LANG_ENGLISH         "Calling card 433"
+
+REFERENCE            st_card_t9434
+LANG_ENGLISH         "Calling card 434"
+
+REFERENCE            st_card_t9435
+LANG_ENGLISH         "Calling card 435"
+
+REFERENCE            st_card_t9436
+LANG_ENGLISH         "Calling card 436"
+
+REFERENCE            st_card_t9437
+LANG_ENGLISH         "Calling card 437"
+
+REFERENCE            st_card_t9438
+LANG_ENGLISH         "Calling card 438"
+
+REFERENCE            st_card_t9439
+LANG_ENGLISH         "Calling card 439"
+
+REFERENCE            st_card_t9440
+LANG_ENGLISH         "Calling card 440"
+
+REFERENCE            st_card_t9441
+LANG_ENGLISH         "Calling card 441"
+
+REFERENCE            st_card_t9442
+LANG_ENGLISH         "Calling card 442"
+
+REFERENCE            st_card_t9443
+LANG_ENGLISH         "Calling card 443"
+
+REFERENCE            st_card_t9444
+LANG_ENGLISH         "Calling card 444"
+
+REFERENCE            st_card_t9445
+LANG_ENGLISH         "Calling card 445"
+
+REFERENCE            st_card_t9446
+LANG_ENGLISH         "Calling card 446"
+
+REFERENCE            st_card_t9447
+LANG_ENGLISH         "Calling card 447"
+
+REFERENCE            st_card_t9448
+LANG_ENGLISH         "Calling card 448"
+
+REFERENCE            st_card_t9449
+LANG_ENGLISH         "Calling card 449"
+
+REFERENCE            st_card_t9450
+LANG_ENGLISH         "Calling card 450"
+
+REFERENCE            st_card_t9451
+LANG_ENGLISH         "Calling card 451"
+
+REFERENCE            st_card_t9452
+LANG_ENGLISH         "Calling card 452"
+
+REFERENCE            st_card_t9453
+LANG_ENGLISH         "Calling card 453"
+
+REFERENCE            st_card_t9454
+LANG_ENGLISH         "Calling card 454"
+
+REFERENCE            st_card_t9455
+LANG_ENGLISH         "Calling card 455"
+
+REFERENCE            st_card_t9456
+LANG_ENGLISH         "Calling card 456"
+
+REFERENCE            st_card_t9457
+LANG_ENGLISH         "Calling card 457"
+
+REFERENCE            st_card_t9458
+LANG_ENGLISH         "Calling card 458"
+
+REFERENCE            st_card_t9459
+LANG_ENGLISH         "Calling card 459"
+
+REFERENCE            st_card_t9460
+LANG_ENGLISH         "Calling card 460"
+
+REFERENCE            st_card_t9461
+LANG_ENGLISH         "Calling card 461"
+
+REFERENCE            st_card_t9462
+LANG_ENGLISH         "Calling card 462"
+
+REFERENCE            st_card_t9463
+LANG_ENGLISH         "Calling card 463"
+
+REFERENCE            st_card_t9464
+LANG_ENGLISH         "Calling card 464"
+
+REFERENCE            st_card_t9465
+LANG_ENGLISH         "Calling card 465"
+
+REFERENCE            st_card_t9466
+LANG_ENGLISH         "Calling card 466"
+
+REFERENCE            st_card_t9467
+LANG_ENGLISH         "Calling card 467"
+
+REFERENCE            st_card_t9468
+LANG_ENGLISH         "Calling card 468"
+
+REFERENCE            st_card_t9469
+LANG_ENGLISH         "Calling card 469"
+
+REFERENCE            st_card_t9470
+LANG_ENGLISH         "Calling card 470"
+
+REFERENCE            st_card_t9471
+LANG_ENGLISH         "Calling card 471"
+
+REFERENCE            st_card_t9472
+LANG_ENGLISH         "Calling card 472"
+
+REFERENCE            st_card_t9473
+LANG_ENGLISH         "Chark-Offed"
+
+REFERENCE            st_card_t9473_v1
+LANG_ENGLISH         "Guilty Bystander"
+
+REFERENCE            st_card_t9473_v2
+LANG_ENGLISH         "Kick the Habbit"
+
+REFERENCE            st_card_t9473_v3
+LANG_ENGLISH         "Bloodthirsty Master"
+
+REFERENCE            st_card_t9473_v4
+LANG_ENGLISH         "No Loose Ends"
+
+REFERENCE            st_card_t9473_v5
+LANG_ENGLISH         "Unhappy Ending"
+
+REFERENCE            st_card_t9473_v6
+LANG_ENGLISH         "Volk You"
+
+REFERENCE            st_card_t9474
+LANG_ENGLISH         "Edda-Fying"
+
+REFERENCE            st_card_t9474_v1
+LANG_ENGLISH         "Hey, What's that Sound?"
+
+REFERENCE            st_card_t9474_v2
+LANG_ENGLISH         "Clandestine Master"
+
+REFERENCE            st_card_t9474_v3
+LANG_ENGLISH         "Nightcrawlers"
+
+REFERENCE            st_card_t9474_v4
+LANG_ENGLISH         "Silent But Deadly"
+
+REFERENCE            st_card_t9474_v5
+LANG_ENGLISH         "Smooth Operator"
+
+REFERENCE            st_card_t9474_v6
+LANG_ENGLISH         "Alley Cat"
+
+REFERENCE            st_card_t9475
+LANG_ENGLISH         "Dark Matter"
+
+REFERENCE            st_card_t9476
+LANG_ENGLISH         "Calling card 476"
+
+REFERENCE            st_card_t9477
+LANG_ENGLISH         "Assault Rifle Diamond"
+
+REFERENCE            st_card_t9478
+LANG_ENGLISH         "Assault Rifle Diamond"
+
+REFERENCE            st_card_t9479
+LANG_ENGLISH         "Melee and Special Diamond"
+
+REFERENCE            st_card_t9480
+LANG_ENGLISH         "Melee and Special Diamond"
+
+REFERENCE            st_card_t9481
+LANG_ENGLISH         "LMG Diamond"
+
+REFERENCE            st_card_t9482
+LANG_ENGLISH         "LMG Diamond"
+
+REFERENCE            st_card_t9483
+LANG_ENGLISH         "Pistol Diamond"
+
+REFERENCE            st_card_t9484
+LANG_ENGLISH         "Pistol Diamond"
+
+REFERENCE            st_card_t9485
+LANG_ENGLISH         "Shotgun Diamond"
+
+REFERENCE            st_card_t9486
+LANG_ENGLISH         "Shotgun Diamond"
+
+REFERENCE            st_card_t9487
+LANG_ENGLISH         "SMG Diamond"
+
+REFERENCE            st_card_t9488
+LANG_ENGLISH         "SMG Diamond"
+
+REFERENCE            st_card_t9489
+LANG_ENGLISH         "Sniper Diamond"
+
+REFERENCE            st_card_t9490
+LANG_ENGLISH         "Sniper Diamond"
+
+REFERENCE            st_card_t9491
+LANG_ENGLISH         "Tactical Rifle Diamond"
+
+REFERENCE            st_card_t9492
+LANG_ENGLISH         "Tactical Rifle Diamond"
+
+REFERENCE            st_card_t9493
+LANG_ENGLISH         "Calling card 493"
+
+REFERENCE            st_card_t9494
+LANG_ENGLISH         "Calling card 494"
+
+REFERENCE            st_card_t9495
+LANG_ENGLISH         "Calling card 495"
+
+REFERENCE            st_card_t9496
+LANG_ENGLISH         "Calling card 496"
+
+REFERENCE            st_card_t9497
+LANG_ENGLISH         "Calling card 497"
+
+REFERENCE            st_card_t9498
+LANG_ENGLISH         "Calling card 498"
+
+REFERENCE            st_card_t9499
+LANG_ENGLISH         "Calling card 499"
+
+REFERENCE            st_card_t9500
+LANG_ENGLISH         "Calling card 500"
+
+REFERENCE            st_card_t9501
+LANG_ENGLISH         "Calling card 501"
+
+REFERENCE            st_card_t9502
+LANG_ENGLISH         "Calling card 502"
+
+REFERENCE            st_card_t9503
+LANG_ENGLISH         "Calling card 503"
+
+REFERENCE            st_card_t9504
+LANG_ENGLISH         "Calling card 504"
+
+REFERENCE            st_card_t9505
+LANG_ENGLISH         "Calling card 505"
+
+REFERENCE            st_card_t9506
+LANG_ENGLISH         "Calling card 506"
+
+REFERENCE            st_card_t9507
+LANG_ENGLISH         "Calling card 507"
+
+REFERENCE            st_card_t9508
+LANG_ENGLISH         "Calling card 508"
+
+REFERENCE            st_card_t9509
+LANG_ENGLISH         "Calling card 509"
+
+REFERENCE            st_card_t9510
+LANG_ENGLISH         "Calling card 510"
+
+REFERENCE            st_card_t9511
+LANG_ENGLISH         "Calling card 511"
+
+REFERENCE            st_card_t9512
+LANG_ENGLISH         "Calling card 512"
+
+REFERENCE            st_card_t9513
+LANG_ENGLISH         "Stitch"
+
+REFERENCE            st_card_t9514
+LANG_ENGLISH         "Calling card 514"
+
+REFERENCE            st_card_t9515
+LANG_ENGLISH         "Calling card 515"
+
+REFERENCE            st_card_t9516
+LANG_ENGLISH         "Calling card 516"
+
+REFERENCE            st_card_t9517
+LANG_ENGLISH         "Calling card 517"
+
+REFERENCE            st_card_t9518
+LANG_ENGLISH         "Calling card 518"
+
+REFERENCE            st_card_t9519
+LANG_ENGLISH         "Calling card 519"
+
+REFERENCE            st_card_t9520
+LANG_ENGLISH         "Calling card 520"
+
+REFERENCE            st_card_t9521
+LANG_ENGLISH         "Calling card 521"
+
+REFERENCE            st_card_t9522
+LANG_ENGLISH         "Calling card 522"
+
+REFERENCE            st_card_t9523
+LANG_ENGLISH         "Calling card 523"
+
+REFERENCE            st_card_t9524
+LANG_ENGLISH         "Calling card 524"
+
+REFERENCE            st_card_t9525
+LANG_ENGLISH         "Calling card 525"
+
+REFERENCE            st_card_t9526
+LANG_ENGLISH         "Calling card 526"
+
+REFERENCE            st_card_t9527
+LANG_ENGLISH         "Calling card 527"
+
+REFERENCE            st_card_t9528
+LANG_ENGLISH         "Calling card 528"
+
+REFERENCE            st_card_t9529
+LANG_ENGLISH         "Calling card 529"
+
+REFERENCE            st_card_t9530
+LANG_ENGLISH         "Calling card 530"
+
+REFERENCE            st_card_t9531
+LANG_ENGLISH         "Calling card 531"
+
+REFERENCE            st_card_t9532
+LANG_ENGLISH         "Calling card 532"
+
+REFERENCE            st_card_t9533
+LANG_ENGLISH         "Calling card 533"
+
+REFERENCE            st_card_t9534
+LANG_ENGLISH         "Calling card 534"
+
+REFERENCE            st_card_t9535
+LANG_ENGLISH         "Calling card 535"
+
+REFERENCE            st_card_t9536
+LANG_ENGLISH         "Calling card 536"
+
+REFERENCE            st_card_t9537
+LANG_ENGLISH         "Calling card 537"
+
+REFERENCE            st_card_t9538
+LANG_ENGLISH         "Calling card 538"
+
+REFERENCE            st_card_t9539
+LANG_ENGLISH         "Calling card 539"
+
+REFERENCE            st_card_t9540
+LANG_ENGLISH         "Calling card 540"
+
+REFERENCE            st_card_t9541
+LANG_ENGLISH         "Calling card 541"
+
+REFERENCE            st_card_t9542
+LANG_ENGLISH         "Calling card 542"
+
+REFERENCE            st_card_t9543
+LANG_ENGLISH         "Calling card 543"
+
+REFERENCE            st_card_t9544
+LANG_ENGLISH         "Calling card 544"
+
+REFERENCE            st_card_t9545
+LANG_ENGLISH         "Calling card 545"
+
+REFERENCE            st_card_t9546
+LANG_ENGLISH         "Calling card 546"
+
+REFERENCE            st_card_t9547
+LANG_ENGLISH         "Calling card 547"
+
+REFERENCE            st_card_t9548
+LANG_ENGLISH         "Calling card 548"
+
+REFERENCE            st_card_t9549
+LANG_ENGLISH         "Calling card 549"
+
+REFERENCE            st_card_t9550
+LANG_ENGLISH         "Calling card 550"
+
+REFERENCE            st_card_t9551
+LANG_ENGLISH         "Calling card 551"
+
+REFERENCE            st_card_t9552
+LANG_ENGLISH         "Calling card 552"
+
+REFERENCE            st_card_t9553
+LANG_ENGLISH         "Calling card 553"
+
+REFERENCE            st_card_t9554
+LANG_ENGLISH         "Calling card 554"
+
+REFERENCE            st_card_t9555
+LANG_ENGLISH         "Calling card 555"
+
+REFERENCE            st_card_t9556
+LANG_ENGLISH         "Calling card 556"
+
+REFERENCE            st_card_t9557
+LANG_ENGLISH         "Calling card 557"
+
+REFERENCE            st_card_t9558
+LANG_ENGLISH         "Calling card 558"
+
+REFERENCE            st_card_t9559
+LANG_ENGLISH         "Calling card 559"
+
+REFERENCE            st_card_t9560
+LANG_ENGLISH         "Calling card 560"
+
+REFERENCE            st_card_t9561
+LANG_ENGLISH         "Calling card 561"
+
+REFERENCE            st_card_t9562
+LANG_ENGLISH         "Calling card 562"
+
+REFERENCE            st_card_t9563
+LANG_ENGLISH         "Calling card 563"
+
+REFERENCE            st_card_t9564
+LANG_ENGLISH         "Calling card 564"
+
+REFERENCE            st_card_t9565
+LANG_ENGLISH         "Calling card 565"
+
+REFERENCE            st_card_t9566
+LANG_ENGLISH         "Calling card 566"
+
+REFERENCE            st_card_t9567
+LANG_ENGLISH         "Calling card 567"
+
+REFERENCE            st_card_t9568
+LANG_ENGLISH         "Calling card 568"
+
+REFERENCE            st_card_t9569
+LANG_ENGLISH         "Calling card 569"
+
+REFERENCE            st_card_t9570
+LANG_ENGLISH         "Calling card 570"
+
+REFERENCE            st_card_t9571
+LANG_ENGLISH         "Calling card 571"
+
+REFERENCE            st_card_t9572
+LANG_ENGLISH         "Calling card 572"
+
+REFERENCE            st_card_t9573
+LANG_ENGLISH         "Calling card 573"
+
+REFERENCE            st_card_t9574
+LANG_ENGLISH         "Calling card 574"
+
+REFERENCE            st_card_t9575
+LANG_ENGLISH         "Calling card 575"
+
+REFERENCE            st_card_t9576
+LANG_ENGLISH         "Calling card 576"
+
+REFERENCE            st_card_t9577
+LANG_ENGLISH         "Calling card 577"
+
+REFERENCE            st_card_t9578
+LANG_ENGLISH         "Calling card 578"
+
+REFERENCE            st_card_t9579
+LANG_ENGLISH         "Core Superior"
+
+REFERENCE            st_card_t9579_v1
+LANG_ENGLISH         "Elite Operator Master"
+
+REFERENCE            st_card_t9579_v2
+LANG_ENGLISH         "The Best Around"
+
+REFERENCE            st_card_t9579_v3
+LANG_ENGLISH         "Hardcore Superior"
+
+REFERENCE            st_card_t9579_v4
+LANG_ENGLISH         "Superstar"
+
+REFERENCE            st_card_t9579_v5
+LANG_ENGLISH         "Top Dog"
+
+REFERENCE            st_card_t9579_v6
+LANG_ENGLISH         "Vanquisher"
+
+REFERENCE            st_card_t9580
+LANG_ENGLISH         "Calling card 580"
+
+REFERENCE            st_card_t9580_v1
+LANG_ENGLISH         "Calling card 580_v1"
+
+REFERENCE            st_card_t9580_v2
+LANG_ENGLISH         "Calling card 580_v2"
+
+REFERENCE            st_card_t9580_v3
+LANG_ENGLISH         "Calling card 580_v3"
+
+REFERENCE            st_card_t9580_v4
+LANG_ENGLISH         "Calling card 580_v4"
+
+REFERENCE            st_card_t9580_v5
+LANG_ENGLISH         "Calling card 580_v5"
+
+REFERENCE            st_card_t9580_v6
+LANG_ENGLISH         "Calling card 580_v6"
+
+REFERENCE            st_card_t9581
+LANG_ENGLISH         "Calling card 581"
+
+REFERENCE            st_card_t9581_v1
+LANG_ENGLISH         "Calling card 580_v1"
+
+REFERENCE            st_card_t9581_v2
+LANG_ENGLISH         "Calling card 580_v2"
+
+REFERENCE            st_card_t9581_v3
+LANG_ENGLISH         "Calling card 580_v3"
+
+REFERENCE            st_card_t9581_v4
+LANG_ENGLISH         "Calling card 580_v4"
+
+REFERENCE            st_card_t9581_v5
+LANG_ENGLISH         "Calling card 580_v5"
+
+REFERENCE            st_card_t9581_v6
+LANG_ENGLISH         "Calling card 580_v6"
+
+REFERENCE            st_card_t9581_v7
+LANG_ENGLISH         "Calling card 580_v7"
+
+REFERENCE            st_card_t9581_v8
+LANG_ENGLISH         "Calling card 580_v8"
+
+REFERENCE            st_card_t9581_v9
+LANG_ENGLISH         "Calling card 580_v9"
+
+REFERENCE            st_card_t9582
+LANG_ENGLISH         "Calling card 582"
+
+REFERENCE            st_card_t9582_v1
+LANG_ENGLISH         "Calling card 582_v1"
+
+REFERENCE            st_card_t9582_v2
+LANG_ENGLISH         "Calling card 582_v2"
+
+REFERENCE            st_card_t9582_v3
+LANG_ENGLISH         "Calling card 582_v3"
+
+REFERENCE            st_card_t9582_v4
+LANG_ENGLISH         "Calling card 582_v4"
+
+REFERENCE            st_card_t9582_v5
+LANG_ENGLISH         "Calling card 582_v5"
+
+REFERENCE            st_card_t9583
+LANG_ENGLISH         "Calling card 583"
+
+REFERENCE            st_card_t9583_v1
+LANG_ENGLISH         "Calling card 583_v1"
+
+REFERENCE            st_card_t9583_v2
+LANG_ENGLISH         "Calling card 583_v2"
+
+REFERENCE            st_card_t9583_v3
+LANG_ENGLISH         "Calling card 583_v3"
+
+REFERENCE            st_card_t9583_v4
+LANG_ENGLISH         "Calling card 583_v4"
+
+REFERENCE            st_card_t9583_v5
+LANG_ENGLISH         "Calling card 583_v5"
+
+REFERENCE            st_card_t9584
+LANG_ENGLISH         "Calling card 584"
+
+REFERENCE            st_card_t9584_v1
+LANG_ENGLISH         "Calling card 584_v1"
+
+REFERENCE            st_card_t9584_v2
+LANG_ENGLISH         "Calling card 584_v2"
+
+REFERENCE            st_card_t9584_v3
+LANG_ENGLISH         "Calling card 584_v3"
+
+REFERENCE            st_card_t9584_v4
+LANG_ENGLISH         "Calling card 584_v4"
+
+REFERENCE            st_card_t9584_v5
+LANG_ENGLISH         "Calling card 584_v5"
+
+REFERENCE            st_card_t9584_v6
+LANG_ENGLISH         "Calling card 584_v6"
+
+REFERENCE            st_card_t9585
+LANG_ENGLISH         "Calling card 585"
+
+REFERENCE            st_card_t9585_v1
+LANG_ENGLISH         "Calling card 585_v1"
+
+REFERENCE            st_card_t9585_v2
+LANG_ENGLISH         "Calling card 585_v2"
+
+REFERENCE            st_card_t9585_v3
+LANG_ENGLISH         "Calling card 585_v3"
+
+REFERENCE            st_card_t9585_v4
+LANG_ENGLISH         "Calling card 585_v4"
+
+REFERENCE            st_card_t9585_v5
+LANG_ENGLISH         "Calling card 585_v5"
+
+REFERENCE            st_card_t9585_v6
+LANG_ENGLISH         "Calling card 585_v6"
+
+REFERENCE            st_card_t9586
+LANG_ENGLISH         "Calling card 586"
+
+REFERENCE            st_card_t9586_v1
+LANG_ENGLISH         "Calling card 586_v1"
+
+REFERENCE            st_card_t9586_v2
+LANG_ENGLISH         "Calling card 586_v2"
+
+REFERENCE            st_card_t9586_v3
+LANG_ENGLISH         "Calling card 586_v3"
+
+REFERENCE            st_card_t9586_v4
+LANG_ENGLISH         "Calling card 586_v4"
+
+REFERENCE            st_card_t9586_v5
+LANG_ENGLISH         "Calling card 586_v5"
+
+REFERENCE            st_card_t9586_v6
+LANG_ENGLISH         "Calling card 586_v6"
+
+REFERENCE            st_card_t9587
+LANG_ENGLISH         "Stinky Surprise"
+
+REFERENCE            st_card_t9588
+LANG_ENGLISH         "Hired Gun"
+
+REFERENCE            st_card_t9589
+LANG_ENGLISH         "Season One Prestige Master"
+
+REFERENCE            st_card_t9590
+LANG_ENGLISH         "Prison Break"
+
+REFERENCE            st_card_t9591
+LANG_ENGLISH         "Fade to Blue"
+
+REFERENCE            st_card_t9592
+LANG_ENGLISH         "Bombing Run"
+
+REFERENCE            st_card_t9593
+LANG_ENGLISH         "Eliminations"
+
+REFERENCE            st_card_t9594
+LANG_ENGLISH         "Elite Gamer"
+
+REFERENCE            st_card_t9595
+LANG_ENGLISH         "Toxic Bomb"
+
+REFERENCE            st_card_t9596
+LANG_ENGLISH         "Frag Out"
+
+REFERENCE            st_card_t9597
+LANG_ENGLISH         "Down Below"
+
+REFERENCE            st_card_t9598
+LANG_ENGLISH         "Haymaker"
+
+REFERENCE            st_card_t9599
+LANG_ENGLISH         "Awkward Chat"
+
+REFERENCE            st_card_t9599_v1
+LANG_ENGLISH         "Antihero"
+
+REFERENCE            st_card_t9599_v2
+LANG_ENGLISH         "Cover Your Tracks"
+
+REFERENCE            st_card_t9599_v3
+LANG_ENGLISH         "Defiant"
+
+REFERENCE            st_card_t9599_v4
+LANG_ENGLISH         "Dark Ops Master"
+
+REFERENCE            st_card_t9599_v5
+LANG_ENGLISH         "Retro Gamer"
+
+REFERENCE            st_card_t9599_v6
+LANG_ENGLISH         "What Do the Numbers Mean?"
+
+REFERENCE            st_card_t9600
+LANG_ENGLISH         "HUMINT"
+
+REFERENCE            st_card_t9600_v1
+LANG_ENGLISH         "IMINT"
+
+REFERENCE            st_card_t9600_v2
+LANG_ENGLISH         "Let???s Try This Way"
+
+REFERENCE            st_card_t9600_v3
+LANG_ENGLISH         "Explorer Master"
+
+REFERENCE            st_card_t9600_v4
+LANG_ENGLISH         "A Long Trip"
+
+REFERENCE            st_card_t9600_v5
+LANG_ENGLISH         "Red Connection"
+
+REFERENCE            st_card_t9600_v6
+LANG_ENGLISH         "Your Worst Nightmare"
+
+REFERENCE            st_card_t9601
+LANG_ENGLISH         "Back to Basics"
+
+REFERENCE            st_card_t9601_v1
+LANG_ENGLISH         "Burning Rubber"
+
+REFERENCE            st_card_t9601_v2
+LANG_ENGLISH         "Highly Proficient Master"
+
+REFERENCE            st_card_t9601_v3
+LANG_ENGLISH         "Saving PhD Ryan"
+
+REFERENCE            st_card_t9601_v4
+LANG_ENGLISH         "Targeting Computer"
+
+REFERENCE            st_card_t9601_v5
+LANG_ENGLISH         "Time to Spare"
+
+REFERENCE            st_card_t9601_v6
+LANG_ENGLISH         "Catastrophic"
+
+REFERENCE            st_card_t9602
+LANG_ENGLISH         "By the Book"
+
+REFERENCE            st_card_t9602_v1
+LANG_ENGLISH         "Disciple"
+
+REFERENCE            st_card_t9602_v2
+LANG_ENGLISH         "Friend of the Crown"
+
+REFERENCE            st_card_t9602_v3
+LANG_ENGLISH         "Loyal Agent Master"
+
+REFERENCE            st_card_t9602_v4
+LANG_ENGLISH         "Dilemma Solved"
+
+REFERENCE            st_card_t9602_v5
+LANG_ENGLISH         "The Hunt for Red Circus"
+
+REFERENCE            st_card_t9602_v6
+LANG_ENGLISH         "Big-hearted"
+
+REFERENCE            st_card_t9603
+LANG_ENGLISH         "Swamp Hunter"
+
+REFERENCE            st_card_t9604
+LANG_ENGLISH         "Seeing Double"
+
+REFERENCE            st_card_t9605
+LANG_ENGLISH         "Ego Chall"
+
+REFERENCE            st_card_t9606
+LANG_ENGLISH         "Welcome to Nuketown"
+
+REFERENCE            st_card_t9607
+LANG_ENGLISH         "Mass Casualties"
+
+REFERENCE            st_card_t9608
+LANG_ENGLISH         "Fight for Survival"
+
+REFERENCE            st_card_t9609
+LANG_ENGLISH         "Old Faithful"
+
+REFERENCE            st_card_t9610
+LANG_ENGLISH         "Fly Swatter"
+
+REFERENCE            st_card_t9611
+LANG_ENGLISH         "Season One Prestige Master"
+
+REFERENCE            st_card_t9612
+LANG_ENGLISH         "It's My Year"
+
+REFERENCE            st_card_t9613
+LANG_ENGLISH         "Night Vision"
+
+REFERENCE            st_card_t9614
+LANG_ENGLISH         "The Great Escape"
+
+REFERENCE            st_card_t9615
+LANG_ENGLISH         "Spirit Shot"
+
+REFERENCE            st_card_t9616
+LANG_ENGLISH         "Street Mural"
+
+REFERENCE            st_card_t9617
+LANG_ENGLISH         "Bullet Spray"
+
+REFERENCE            st_card_t9618
+LANG_ENGLISH         "Proceed with Caution"
+
+REFERENCE            st_card_t9619
+LANG_ENGLISH         "Stalemate"
+
+REFERENCE            st_card_t9620
+LANG_ENGLISH         "Tag Team"
+
+REFERENCE            st_card_t9620_v1
+LANG_ENGLISH         "Clear Skies"
+
+REFERENCE            st_card_t9620_v2
+LANG_ENGLISH         "Field Clearance"
+
+REFERENCE            st_card_t9620_v3
+LANG_ENGLISH         "Frogman"
+
+REFERENCE            st_card_t9620_v4
+LANG_ENGLISH         "Guerilla Warfare"
+
+REFERENCE            st_card_t9620_v5
+LANG_ENGLISH         "Boot Camp Master"
+
+REFERENCE            st_card_t9620_v6
+LANG_ENGLISH         "Stalking Prey"
+
+REFERENCE            st_card_t9621
+LANG_ENGLISH         "Buckle Up"
+
+REFERENCE            st_card_t9621_v1
+LANG_ENGLISH         "Hard Counter"
+
+REFERENCE            st_card_t9621_v2
+LANG_ENGLISH         "Heart Breaker"
+
+REFERENCE            st_card_t9621_v3
+LANG_ENGLISH         "Counter Measures Master"
+
+REFERENCE            st_card_t9621_v4
+LANG_ENGLISH         "Risk Taker"
+
+REFERENCE            st_card_t9621_v5
+LANG_ENGLISH         "Shutdown"
+
+REFERENCE            st_card_t9621_v6
+LANG_ENGLISH         "Totaled"
+
+REFERENCE            st_card_t9622
+LANG_ENGLISH         "Back At You"
+
+REFERENCE            st_card_t9622_v1
+LANG_ENGLISH         "Brutal Killer"
+
+REFERENCE            st_card_t9622_v10
+LANG_ENGLISH         "Relentless Killer"
+
+REFERENCE            st_card_t9622_v11
+LANG_ENGLISH         "Calling card 622_v11"
+
+REFERENCE            st_card_t9622_v12
+LANG_ENGLISH         "Ultra Killer"
+
+REFERENCE            st_card_t9622_v13
+LANG_ENGLISH         "Underwater Ops"
+
+REFERENCE            st_card_t9622_v14
+LANG_ENGLISH         "Very Nuclear"
+
+REFERENCE            st_card_t9622_v2
+LANG_ENGLISH         "Chain Killer"
+
+REFERENCE            st_card_t9622_v3
+LANG_ENGLISH         "Frenzy Killer"
+
+REFERENCE            st_card_t9622_v4
+LANG_ENGLISH         "From the Depths"
+
+REFERENCE            st_card_t9622_v5
+LANG_ENGLISH         "Hard Wipe"
+
+REFERENCE            st_card_t9622_v6
+LANG_ENGLISH         "Dark Ops Master"
+
+REFERENCE            st_card_t9622_v7
+LANG_ENGLISH         "Mega Killer"
+
+REFERENCE            st_card_t9622_v8
+LANG_ENGLISH         "Nuclear Killer"
+
+REFERENCE            st_card_t9622_v9
+LANG_ENGLISH         "Nuked Out"
+
+REFERENCE            st_card_t9623
+LANG_ENGLISH         "Bang for the Buck"
+
+REFERENCE            st_card_t9623_v1
+LANG_ENGLISH         "Finish Them"
+
+REFERENCE            st_card_t9623_v2
+LANG_ENGLISH         "Fog of War"
+
+REFERENCE            st_card_t9623_v3
+LANG_ENGLISH         "Gunner"
+
+REFERENCE            st_card_t9623_v4
+LANG_ENGLISH         "Field Specialist Master"
+
+REFERENCE            st_card_t9623_v5
+LANG_ENGLISH         "Master Chef"
+
+REFERENCE            st_card_t9623_v6
+LANG_ENGLISH         "Peek A Boo"
+
+REFERENCE            st_card_t9624
+LANG_ENGLISH         "BAMF"
+
+REFERENCE            st_card_t9624_v1
+LANG_ENGLISH         "Four Piece Dinner"
+
+REFERENCE            st_card_t9624_v2
+LANG_ENGLISH         "Going HAM Master"
+
+REFERENCE            st_card_t9624_v3
+LANG_ENGLISH         "Reaper"
+
+REFERENCE            st_card_t9624_v4
+LANG_ENGLISH         "Overwhelming Force"
+
+REFERENCE            st_card_t9624_v5
+LANG_ENGLISH         "Pest Control"
+
+REFERENCE            st_card_t9624_v6
+LANG_ENGLISH         "Say Hello"
+
+REFERENCE            st_card_t9625
+LANG_ENGLISH         "Aggression"
+
+REFERENCE            st_card_t9625_v1
+LANG_ENGLISH         "Dialed In"
+
+REFERENCE            st_card_t9625_v2
+LANG_ENGLISH         "Elimination Collector"
+
+REFERENCE            st_card_t9625_v3
+LANG_ENGLISH         "Hardcore Kill Collector"
+
+REFERENCE            st_card_t9625_v4
+LANG_ENGLISH         "Headshot Collector"
+
+REFERENCE            st_card_t9625_v5
+LANG_ENGLISH         "Grizzled Veteran Master"
+
+REFERENCE            st_card_t9625_v6
+LANG_ENGLISH         "Winner"
+
+REFERENCE            st_card_t9626
+LANG_ENGLISH         "Backfire"
+
+REFERENCE            st_card_t9626_v1
+LANG_ENGLISH         "Blunt Trauma"
+
+REFERENCE            st_card_t9626_v2
+LANG_ENGLISH         "Circus Act"
+
+REFERENCE            st_card_t9626_v3
+LANG_ENGLISH         "Hit Job"
+
+REFERENCE            st_card_t9626_v4
+LANG_ENGLISH         "Humiliation Master"
+
+REFERENCE            st_card_t9626_v5
+LANG_ENGLISH         "Surprise"
+
+REFERENCE            st_card_t9626_v6
+LANG_ENGLISH         "Tick Tock Boom"
+
+REFERENCE            st_card_t9627
+LANG_ENGLISH         "Bloodthirsty Killer"
+
+REFERENCE            st_card_t9627_v1
+LANG_ENGLISH         "Double Killer"
+
+REFERENCE            st_card_t9627_v2
+LANG_ENGLISH         "Fury Killer"
+
+REFERENCE            st_card_t9627_v3
+LANG_ENGLISH         "Killer Master"
+
+REFERENCE            st_card_t9627_v4
+LANG_ENGLISH         "Merciless Killer"
+
+REFERENCE            st_card_t9627_v5
+LANG_ENGLISH         "Ruthless Killer"
+
+REFERENCE            st_card_t9627_v6
+LANG_ENGLISH         "Triple Killer"
+
+REFERENCE            st_card_t9628
+LANG_ENGLISH         "Death Race"
+
+REFERENCE            st_card_t9628_v1
+LANG_ENGLISH         "Hot Potato"
+
+REFERENCE            st_card_t9628_v2
+LANG_ENGLISH         "Return Fire Master"
+
+REFERENCE            st_card_t9628_v3
+LANG_ENGLISH         "Nope"
+
+REFERENCE            st_card_t9628_v4
+LANG_ENGLISH         "Problem Solver"
+
+REFERENCE            st_card_t9628_v5
+LANG_ENGLISH         "Resistance"
+
+REFERENCE            st_card_t9628_v6
+LANG_ENGLISH         "Shake it Off"
+
+REFERENCE            st_card_t9629
+LANG_ENGLISH         "Vehicular Assault"
+
+REFERENCE            st_card_t9630
+LANG_ENGLISH         "Omnibus"
+
+REFERENCE            st_card_t9631
+LANG_ENGLISH         "Purveyor of Chaos "
+
+REFERENCE            st_card_t9632
+LANG_ENGLISH         "Dragon's Breath"
+
+REFERENCE            st_card_t9633
+LANG_ENGLISH         "Stay Airbone"
+
+REFERENCE            st_card_t9634
+LANG_ENGLISH         "Return Fire"
+
+REFERENCE            st_card_t9635
+LANG_ENGLISH         "Takedown"
+
+REFERENCE            st_card_t9636
+LANG_ENGLISH         "Far Sighted"
+
+REFERENCE            st_card_t9636_v1
+LANG_ENGLISH         "Hail Mary"
+
+REFERENCE            st_card_t9636_v2
+LANG_ENGLISH         "Hard Stop"
+
+REFERENCE            st_card_t9636_v3
+LANG_ENGLISH         "Headhunter"
+
+REFERENCE            st_card_t9636_v4
+LANG_ENGLISH         "Precision Master"
+
+REFERENCE            st_card_t9636_v5
+LANG_ENGLISH         "One Shot Kill"
+
+REFERENCE            st_card_t9636_v6
+LANG_ENGLISH         "Two for One"
+
+REFERENCE            st_card_t9637
+LANG_ENGLISH         "Impending Boom"
+
+REFERENCE            st_card_t9638
+LANG_ENGLISH         "Mecha Rex"
+
+REFERENCE            st_card_t9639
+LANG_ENGLISH         "Push Your Luck"
+
+REFERENCE            st_card_t9640
+LANG_ENGLISH         "Mouthful"
+
+REFERENCE            st_card_t9641
+LANG_ENGLISH         "Shred"
+
+REFERENCE            st_card_t9642
+LANG_ENGLISH         "Strike Coordinates"
+
+REFERENCE            st_card_t9643
+LANG_ENGLISH         "Triple Trouble"
+
+REFERENCE            st_card_t9644
+LANG_ENGLISH         "Help From Beyond"
+
+REFERENCE            st_card_t9645
+LANG_ENGLISH         "Assault Rifle Eliminations"
+
+REFERENCE            st_card_t9646
+LANG_ENGLISH         "Parkour Killer"
+
+REFERENCE            st_card_t9647
+LANG_ENGLISH         "Suction Please!"
+
+REFERENCE            st_card_t9648
+LANG_ENGLISH         "Chemical Warfare"
+
+REFERENCE            st_card_t9649
+LANG_ENGLISH         "Good Intelligence"
+
+REFERENCE            st_card_t9650
+LANG_ENGLISH         "Parkour Killer"
+
+REFERENCE            st_card_t9651
+LANG_ENGLISH         "Sunset Staredown"
+
+REFERENCE            st_card_t9652
+LANG_ENGLISH         "Overthrown"
+
+REFERENCE            st_card_t9653
+LANG_ENGLISH         "Head Crusher"
+
+REFERENCE            st_card_t9654
+LANG_ENGLISH         "Calling card 654"
+
+REFERENCE            st_card_t9654_v1
+LANG_ENGLISH         "Pristine Pelt"
+
+REFERENCE            st_card_t9655
+LANG_ENGLISH         "Calling card 655"
+
+REFERENCE            st_card_t9655_v1
+LANG_ENGLISH         "Bonus Round"
+
+REFERENCE            st_card_t9655_v2
+LANG_ENGLISH         "Full Arsenal"
+
+REFERENCE            st_card_t9655_v3
+LANG_ENGLISH         "Invictus"
+
+REFERENCE            st_card_t9655_v4
+LANG_ENGLISH         "Silverback Expedition Master"
+
+REFERENCE            st_card_t9655_v5
+LANG_ENGLISH         "Moving On Up"
+
+REFERENCE            st_card_t9655_v6
+LANG_ENGLISH         "Topple Mama"
+
+REFERENCE            st_card_t9656
+LANG_ENGLISH         "Calling card 656"
+
+REFERENCE            st_card_t9656_v1
+LANG_ENGLISH         "Don't Call Me Chicken!"
+
+REFERENCE            st_card_t9656_v2
+LANG_ENGLISH         "Exceptional Trophy Room"
+
+REFERENCE            st_card_t9656_v3
+LANG_ENGLISH         "Calling Card 656"
+
+REFERENCE            st_card_t9656_v4
+LANG_ENGLISH         "New School"
+
+REFERENCE            st_card_t9656_v5
+LANG_ENGLISH         "Tools of the Trade"
+
+REFERENCE            st_card_t9656_v6
+LANG_ENGLISH         "Damage Delivery"
+
+REFERENCE            st_card_t9657
+LANG_ENGLISH         "Scientific Advantage"
+
+REFERENCE            st_card_t9662
+LANG_ENGLISH         "Calling card 662"
+
+REFERENCE            st_card_t9663
+LANG_ENGLISH         "ST_CARD_T9663"
+
+REFERENCE            st_card_t9669
+LANG_ENGLISH         "Calling card 669"
+
+
+ENDMARKER

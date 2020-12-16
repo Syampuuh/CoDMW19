@@ -1,0 +1,559 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            bundle_1001_description
+LANG_ENGLISH         "Show 'em a little razzle dazzle with the Deadly Grip Bundle."
+
+REFERENCE            bundle_1001_title
+LANG_ENGLISH         "Deadly Drip"
+
+REFERENCE            bundle_1002_description
+LANG_ENGLISH         "Stay quick on the trigger and fast on the draw with the Quick Draw Bundle."
+
+REFERENCE            bundle_1002_title
+LANG_ENGLISH         "Quick Draw"
+
+REFERENCE            bundle_1003_description
+LANG_ENGLISH         "Death before dishonor with the Samurai Spirit Bundle."
+
+REFERENCE            bundle_1003_title
+LANG_ENGLISH         "Samurai Spirit"
+
+REFERENCE            bundle_1004_description
+LANG_ENGLISH         "Put yourself on the market with the Scar Tissue Bundle."
+
+REFERENCE            bundle_1004_title
+LANG_ENGLISH         "Scar Tissue"
+
+REFERENCE            bundle_1005_description
+LANG_ENGLISH         "Fear the reaper, become the reaper with Death's Touch  Bundle."
+
+REFERENCE            bundle_1005_title
+LANG_ENGLISH         "Death's Touch"
+
+REFERENCE            bundle_1006_description
+LANG_ENGLISH         "Decipher the crypto key with the Terminal Failure Bundle."
+
+REFERENCE            bundle_1006_title
+LANG_ENGLISH         "Terminal Failure"
+
+REFERENCE            bundle_1007_description
+LANG_ENGLISH         "Hit 'em where it hurts with the Young & Gifted Bundle."
+
+REFERENCE            bundle_1007_title
+LANG_ENGLISH         "Young & Gifted"
+
+REFERENCE            bundle_1008_description
+LANG_ENGLISH         "Survive, Evade, Resist, and Escape from behind enemy lines with the Advanced Maneuvers Bundle."
+
+REFERENCE            bundle_1008_title
+LANG_ENGLISH         "Advanced Maneuvers"
+
+REFERENCE            bundle_1009_description
+LANG_ENGLISH         "It's love at first bite with the Tracer Pack: ^9Rouge^7 Bundle. Note: This pack features weapons that change the tracer fire to a ^9deadly red^7."
+
+REFERENCE            bundle_1009_title
+LANG_ENGLISH         "Tracer Pack: Rouge"
+
+REFERENCE            bundle_1010_description
+LANG_ENGLISH         "Time to knock a couple out of the box with the Brawler Bundle."
+
+REFERENCE            bundle_1010_title
+LANG_ENGLISH         "Brawler"
+
+REFERENCE            bundle_1011_description
+LANG_ENGLISH         "Track down your enemies one by one with the Scout Team Bundle. Note: This bundle includes a ^3functional compass Watch^7."
+
+REFERENCE            bundle_1011_title
+LANG_ENGLISH         "Scout Team"
+
+REFERENCE            bundle_1012_description
+LANG_ENGLISH         "Drop the top and the napalm with the Miami Nights Bundle."
+
+REFERENCE            bundle_1012_title
+LANG_ENGLISH         "Miami Nights"
+
+REFERENCE            bundle_1013_description
+LANG_ENGLISH         "You???ve passed inspection, now gear up with the Torqued Up Bundle."
+
+REFERENCE            bundle_1013_title
+LANG_ENGLISH         "Torqued Up"
+
+REFERENCE            bundle_1014_description
+LANG_ENGLISH         "Stock your inventory with the best accessories the armorer has to offer with the Timeless Bundle."
+
+REFERENCE            bundle_1014_title
+LANG_ENGLISH         "Timeless"
+
+REFERENCE            bundle_1015_description
+LANG_ENGLISH         "Gold has long been the currency of dictators, start your dynasty with the Gilded Age Bundle."
+
+REFERENCE            bundle_1015_title
+LANG_ENGLISH         "Gilded Age"
+
+REFERENCE            bundle_1016_description
+LANG_ENGLISH         "Avalanche incoming! Try not to get run over with the Cold Hearted Bundle."
+
+REFERENCE            bundle_1016_title
+LANG_ENGLISH         "Cold Hearted"
+
+REFERENCE            bundle_1017_description
+LANG_ENGLISH         "Leave a puncture wound with the Sand Stalker Bundle."
+
+REFERENCE            bundle_1017_title
+LANG_ENGLISH         "Sand Stalker"
+
+REFERENCE            bundle_1018_description
+LANG_ENGLISH         "Break through their defenses with the Heavy Cover Bundle."
+
+REFERENCE            bundle_1018_title
+LANG_ENGLISH         "Heavy Cover"
+
+REFERENCE            bundle_1019_description
+LANG_ENGLISH         "Field strip your loadout to maximize efficiency with the Rapid Reflexes Bundle."
+
+REFERENCE            bundle_1019_title
+LANG_ENGLISH         "Rapid Reflexes"
+
+REFERENCE            bundle_1020_description
+LANG_ENGLISH         "Crush a couple skulls without being noticed with the Pearl Python Bundle."
+
+REFERENCE            bundle_1020_title
+LANG_ENGLISH         "Pearl Python"
+
+REFERENCE            bundle_1021_description
+LANG_ENGLISH         "Make your combat load count with the Good Company Bundle."
+
+REFERENCE            bundle_1021_title
+LANG_ENGLISH         "Good Company"
+
+REFERENCE            bundle_1022_description
+LANG_ENGLISH         "Erase them from the map with the Rocket Science ^4Mastercraft Bundle^7. Note: this bundle includes a ^1functional kill tracker^7 Watch."
+
+REFERENCE            bundle_1022_title
+LANG_ENGLISH         "Rocket Science Mastercraft Bundle"
+
+REFERENCE            bundle_1023_description
+LANG_ENGLISH         "Keep those tanks tracking, comrade! The Tracer Pack: ^=Violet^7 Anime Bundle. Note: This pack features weapons that change the tracer fire to a ^=fantastic purple^7."
+
+REFERENCE            bundle_1023_title
+LANG_ENGLISH         "Tracer Pack: Violet Anime"
+
+REFERENCE            bundle_1025_description
+LANG_ENGLISH         "Secure the bag with the Bank Heist Bundle."
+
+REFERENCE            bundle_1025_title
+LANG_ENGLISH         "Bank Heist"
+
+REFERENCE            bundle_1026_description
+LANG_ENGLISH         "Spit fire with the big gun and charge the battlefield 
+with the Warthog Warrior Bundle."
+
+REFERENCE            bundle_1026_title
+LANG_ENGLISH         "Warthog Warrior"
+
+REFERENCE            bundle_1027_description
+LANG_ENGLISH         "All weather soldier built for the tundra and trenches, dig deep with the Winter Assassin Bundle."
+
+REFERENCE            bundle_1027_title
+LANG_ENGLISH         "Winter Assassin"
+
+REFERENCE            bundle_1028_description
+LANG_ENGLISH         "Melt your enemies and forge victory with the Blacksmith Battery Bundle."
+
+REFERENCE            bundle_1028_title
+LANG_ENGLISH         "Blacksmith Battery"
+
+REFERENCE            bundle_1029_description
+LANG_ENGLISH         "There's no stopping this train wreck, full steam ahead with the Midnight Express Bundle."
+
+REFERENCE            bundle_1029_title
+LANG_ENGLISH         "Midnight Express"
+
+REFERENCE            bundle_1030_description
+LANG_ENGLISH         "War was not invented in Greece, but perfected with the Greek Fire Bundle."
+
+REFERENCE            bundle_1030_title
+LANG_ENGLISH         "Greek Fire"
+
+REFERENCE            bundle_1031_description
+LANG_ENGLISH         "Get wrecked with Tracer Pack: Bulldozer Operator Bundle. Note: This pack features weapons that change the tracer fire to a ^2monstrous green^7, and the first blueprint for the ^2Sledgehammer^7 Melee Weapon."
+
+REFERENCE            bundle_1031_title
+LANG_ENGLISH         "Tracer Pack: Bulldozer Operator Bundle"
+
+REFERENCE            bundle_1032_description
+LANG_ENGLISH         "Introducing the first Blueprint for the ^5Streetsweeper^7 Shotgun. Generate enough power to overwhelm your adversaries with the Shock Value Bundle."
+
+REFERENCE            bundle_1032_title
+LANG_ENGLISH         "Shock Value"
+
+REFERENCE            bundle_1034_description
+LANG_ENGLISH         "Use your brains, but don't lose them with the Beyond the Grave Bundle. Note: this bundle comes with a ^4functional heart rate tracker^7."
+
+REFERENCE            bundle_1034_title
+LANG_ENGLISH         "Beyond the Grave"
+
+REFERENCE            bundle_1035_description
+LANG_ENGLISH         "Things might get ugly, good thing you've got the Brute Force Bundle."
+
+REFERENCE            bundle_1035_title
+LANG_ENGLISH         "Brute Force"
+
+REFERENCE            bundle_1036_description
+LANG_ENGLISH         "Dive deep and cast a wide net with the Puddle Pirate Bundle."
+
+REFERENCE            bundle_1036_title
+LANG_ENGLISH         "Puddle Pirate"
+
+REFERENCE            bundle_1037_description
+LANG_ENGLISH         "Not all discoveries can be found in a lab. Get outside with the Field Research Bundle."
+
+REFERENCE            bundle_1037_title
+LANG_ENGLISH         "Field Research"
+
+REFERENCE            bundle_1038_description
+LANG_ENGLISH         "Ride into the sunset with style with the Vehicle Pack: Neon Nights Bundle."
+
+REFERENCE            bundle_1038_title
+LANG_ENGLISH         "Vehicle Pack: Neon Nights"
+
+REFERENCE            bundle_1039_description
+LANG_ENGLISH         "Catch a tan, but try not to burn with the Killer Surf Bundle."
+
+REFERENCE            bundle_1039_title
+LANG_ENGLISH         "Killer Surf"
+
+REFERENCE            bundle_1040_description
+LANG_ENGLISH         "You're in for a battle,  prepare now if you want a Fighting Chance Bundle."
+
+REFERENCE            bundle_1040_title
+LANG_ENGLISH         "Fighting Chance"
+
+REFERENCE            bundle_1041_description
+LANG_ENGLISH         "From Moscow to Nicaragua, be ready to fight with the Global Operations Bundle."
+
+REFERENCE            bundle_1041_title
+LANG_ENGLISH         "Global Operations"
+
+REFERENCE            bundle_1042_description
+LANG_ENGLISH         "Add to your collection with the Mint Condition ^4Mastercraft Bundle^7. Note: this bundle includes a ^1functional kill tracker^7 Watch."
+
+REFERENCE            bundle_1042_title
+LANG_ENGLISH         "Mint Condition Mastercraft Bundle"
+
+REFERENCE            bundle_1043_description
+LANG_ENGLISH         "Nobody likes clowns, play it practical with the Big Joke Bundle."
+
+REFERENCE            bundle_1043_title
+LANG_ENGLISH         "Big Joke"
+
+REFERENCE            bundle_1044_description
+LANG_ENGLISH         "Cover your tracks, you never know what's chasing you with the Fatal Frostbite Bundle."
+
+REFERENCE            bundle_1044_title
+LANG_ENGLISH         "Fatal Frostbite"
+
+REFERENCE            bundle_1045_description
+LANG_ENGLISH         "Dive into the action head first with the Full Assault Bundle."
+
+REFERENCE            bundle_1045_title
+LANG_ENGLISH         "Full Assault"
+
+REFERENCE            bundle_1046_description
+LANG_ENGLISH         "This comrade was never taught to compromise, but collect, the Kompromat Bundle."
+
+REFERENCE            bundle_1046_title
+LANG_ENGLISH         "Kompromat"
+
+REFERENCE            bundle_1047_description
+LANG_ENGLISH         "Put a little jingle in your step with Mistletoe Meetup Bundle."
+
+REFERENCE            bundle_1047_title
+LANG_ENGLISH         "Mistletoe Meetup"
+
+REFERENCE            bundle_1048_description
+LANG_ENGLISH         "Pull the graveyard shift with the City Ripper Bundle."
+
+REFERENCE            bundle_1048_title
+LANG_ENGLISH         "City Ripper"
+
+REFERENCE            bundle_1049_description
+LANG_ENGLISH         "Put some elbow grease to good use with the Mr. Fixer Bundle."
+
+REFERENCE            bundle_1049_title
+LANG_ENGLISH         "Mr. Fixer"
+
+REFERENCE            bundle_1050_description
+LANG_ENGLISH         "The scent of blood can be detected for miles, spill some with the Frigid Frenzy Bundle."
+
+REFERENCE            bundle_1050_title
+LANG_ENGLISH         "Frigid Frenzy"
+
+REFERENCE            bundle_1051_description
+LANG_ENGLISH         "Keep the silos stocked, it's gonna be a cold winter with the Harvester Bundle."
+
+REFERENCE            bundle_1051_title
+LANG_ENGLISH         "Harvester"
+
+REFERENCE            bundle_1052_description
+LANG_ENGLISH         "Drop some fresh powder and slow down their approach with the Winter Sniper Bundle."
+
+REFERENCE            bundle_1052_title
+LANG_ENGLISH         "Winter Sniper"
+
+REFERENCE            bundle_1054_description
+LANG_ENGLISH         "Collect and compromise with the Photo Finish Bundle."
+
+REFERENCE            bundle_1054_title
+LANG_ENGLISH         "Photo Finish"
+
+REFERENCE            bundle_1055_description
+LANG_ENGLISH         "Blow the case wide open with the Double Agent Bundle. Note: This Blueprint includes the ^1Dual Wield ^7Attachment"
+
+REFERENCE            bundle_1055_title
+LANG_ENGLISH         "Double Agent"
+
+REFERENCE            bundle_1056_description
+LANG_ENGLISH         "Get all revved up and start a mosh pit with the Demon Dog Bundle."
+
+REFERENCE            bundle_1056_title
+LANG_ENGLISH         "Demon Dog"
+
+REFERENCE            bundle_1057_description
+LANG_ENGLISH         "Push it to the limit with the Redline Bundle."
+
+REFERENCE            bundle_1057_title
+LANG_ENGLISH         "Redline"
+
+REFERENCE            bundle_1058_description
+LANG_ENGLISH         "This batch came out extra sticky, unwrap the Sweet Tooth Bundle."
+
+REFERENCE            bundle_1058_title
+LANG_ENGLISH         "Sweet Tooth"
+
+REFERENCE            bundle_1059_description
+LANG_ENGLISH         "Pump yourself up with the Gassed Up Bundle."
+
+REFERENCE            bundle_1059_title
+LANG_ENGLISH         "Gassed Up"
+
+REFERENCE            bundle_1060_description
+LANG_ENGLISH         "Make them quiver with a well placed arrow, take a shot or four with the Arrowhead Bundle."
+
+REFERENCE            bundle_1060_title
+LANG_ENGLISH         "Arrowhead"
+
+REFERENCE            bundle_1061_description
+LANG_ENGLISH         "Drop dimes like a dump truck with the Spoiled Rotten Bundle."
+
+REFERENCE            bundle_1061_title
+LANG_ENGLISH         "Silver Mold"
+
+REFERENCE            bundle_1062_description
+LANG_ENGLISH         "Shop 'til you drop with the Mall Rat Bundle."
+
+REFERENCE            bundle_1062_title
+LANG_ENGLISH         "Mall Rat"
+
+REFERENCE            bundle_1063_description
+LANG_ENGLISH         "Compact but deadly, shutdown the party with the Zeyna Operator Bundle. Note: the included weapons have the ^?Dismemberment^7 effect."
+
+REFERENCE            bundle_1063_title
+LANG_ENGLISH         "Zeyna Operator Bundle"
+
+REFERENCE            bundle_1064_description
+LANG_ENGLISH         "Leave a mark or two with the Tagger Bundle."
+
+REFERENCE            bundle_1064_title
+LANG_ENGLISH         "Tagger"
+
+REFERENCE            bundle_1065_description
+LANG_ENGLISH         "Summon your inner demons and give 'em hell with the Devil's Departed Bundle."
+
+REFERENCE            bundle_1065_title
+LANG_ENGLISH         "Devil's Departed"
+
+REFERENCE            bundle_1066_description
+LANG_ENGLISH         "Introducing the first blueprint for the ^;Wakizashi ^7Melee Weapon. Measure once, cut twice with the Disavowed Assassin Bundle."
+
+REFERENCE            bundle_1066_title
+LANG_ENGLISH         "Disavowed Assassin"
+
+REFERENCE            bundle_1067_description
+LANG_ENGLISH         "Sharpen your blade and don't be afraid to spill a little sap with the Lumberjacked Bundle."
+
+REFERENCE            bundle_1067_title
+LANG_ENGLISH         "Lumberjacked"
+
+REFERENCE            bundle_1068_description
+LANG_ENGLISH         "Get comfy comrade, we've still got a ways to go with the Long Road Ahead Bundle."
+
+REFERENCE            bundle_1068_title
+LANG_ENGLISH         "Long Road Ahead"
+
+REFERENCE            bundle_1069_description
+LANG_ENGLISH         "Achieve the ultimate enlightenment and embrace your inner warrior monk with the Petal to the Metal Bundle."
+
+REFERENCE            bundle_1069_title
+LANG_ENGLISH         "Petal to the Metal"
+
+REFERENCE            bundle_1070_description
+LANG_ENGLISH         "Rudolph is back for revenge with the Came to Sleigh Bundle."
+
+REFERENCE            bundle_1070_title
+LANG_ENGLISH         "Came to Sleigh"
+
+REFERENCE            bundle_1071_description
+LANG_ENGLISH         "Spread their ashes at the bottom of the ocean with the Cemented Fate Bundle."
+
+REFERENCE            bundle_1071_title
+LANG_ENGLISH         "Cemented Fate"
+
+REFERENCE            bundle_1072_description
+LANG_ENGLISH         "Slow down there cowboy, this is the Most Wanted Bundle."
+
+REFERENCE            bundle_1072_title
+LANG_ENGLISH         "Most Wanted"
+
+REFERENCE            bundle_1073_description
+LANG_ENGLISH         "Play it back one time with the Retro Renegade ^4Mastercraft Bundle^7. Note: this bundle includes a ^5functional Step Counting Watch^7."
+
+REFERENCE            bundle_1073_title
+LANG_ENGLISH         "Retro Renegade Mastercraft Bundle"
+
+REFERENCE            bundle_1074_description
+LANG_ENGLISH         "Show ???em chivalry isn???t dead. Get the King's Court Bundle."
+
+REFERENCE            bundle_1074_title
+LANG_ENGLISH         "King's Court"
+
+REFERENCE            bundle_1075_description
+LANG_ENGLISH         "A Storm is brewing, which side will you be on with the Cold Front Bundle."
+
+REFERENCE            bundle_1075_title
+LANG_ENGLISH         "Cold Front"
+
+REFERENCE            bundle_1076_description
+LANG_ENGLISH         "Maintain your local reputation with the Certified Bundle."
+
+REFERENCE            bundle_1076_title
+LANG_ENGLISH         "Certified"
+
+REFERENCE            bundle_1077_description
+LANG_ENGLISH         "Clear the landing zone with the Flight School Bundle."
+
+REFERENCE            bundle_1077_title
+LANG_ENGLISH         "Flight School"
+
+REFERENCE            bundle_1078_description
+LANG_ENGLISH         "The rules are simple, you gotta have Street Smart Bundle."
+
+REFERENCE            bundle_1078_title
+LANG_ENGLISH         "Street Smart"
+
+REFERENCE            bundle_1079_description
+LANG_ENGLISH         "Never miss another silhouette with the Target Practice Bundle."
+
+REFERENCE            bundle_1079_title
+LANG_ENGLISH         "Target Practice"
+
+REFERENCE            bundle_1080_description
+LANG_ENGLISH         "Remember to send a postcard when you get there with the Frequent Flyer Bundle."
+
+REFERENCE            bundle_1080_title
+LANG_ENGLISH         "Frequent Flyer"
+
+REFERENCE            bundle_1081_description
+LANG_ENGLISH         "Chase them to their grave with the Ultraviolent Bundle."
+
+REFERENCE            bundle_1081_title
+LANG_ENGLISH         "Ultraviolent"
+
+REFERENCE            bundle_1082_description
+LANG_ENGLISH         "Keep one eye open and be ready to fire with the Eye Relief Bundle."
+
+REFERENCE            bundle_1082_title
+LANG_ENGLISH         "Eye Relief"
+
+REFERENCE            bundle_1083_description
+LANG_ENGLISH         "Victory has never looked this good, strike a pose with the Anime Assassin Bundle."
+
+REFERENCE            bundle_1083_title
+LANG_ENGLISH         "Anime Assassin"
+
+REFERENCE            bundle_1084_description
+LANG_ENGLISH         "It's open season with the Most Dangerous Hunt Bundle."
+
+REFERENCE            bundle_1084_title
+LANG_ENGLISH         "Most Dangerous Hunt"
+
+REFERENCE            bundle_1085_description
+LANG_ENGLISH         "Place the mission first and be the hero with the Hot Shot Bundle."
+
+REFERENCE            bundle_1085_title
+LANG_ENGLISH         "Hot Shot"
+
+REFERENCE            bundle_1086_description
+LANG_ENGLISH         "Break some hearts, and take some names with the Dominator Bundle."
+
+REFERENCE            bundle_1086_title
+LANG_ENGLISH         "Dominator"
+
+REFERENCE            bundle_1087_description
+LANG_ENGLISH         "All sharks have sharp teeth, but this one has pinstripes, unlock the Debt Collector Bundle."
+
+REFERENCE            bundle_1087_title
+LANG_ENGLISH         "Debt Collector"
+
+REFERENCE            bundle_1088_description
+LANG_ENGLISH         "There can only be one victor, knock them all out with the Striking Distance Bundle."
+
+REFERENCE            bundle_1088_title
+LANG_ENGLISH         "Striking Distance"
+
+REFERENCE            bundle_1089_description
+LANG_ENGLISH         "Grow the lead, slow and steady with the Pinch Hitter Bundle."
+
+REFERENCE            bundle_1089_title
+LANG_ENGLISH         "Pinch Hitter"
+
+REFERENCE            bundle_1090_description
+LANG_ENGLISH         "This hunk of junk is designed to be complete trash, be careful of the Alleyway Ambush Bundle."
+
+REFERENCE            bundle_1090_title
+LANG_ENGLISH         "Alleyway Ambush"
+
+REFERENCE            bundle_1105_description
+LANG_ENGLISH         "Put that security clearance to good use and start your investigation."
+
+REFERENCE            bundle_1105_title
+LANG_ENGLISH         "Free Bundle"
+
+REFERENCE            bundle_1111_description
+LANG_ENGLISH         "Naughty or Nice, here's a Holiday gift for you."
+
+REFERENCE            bundle_1111_title
+LANG_ENGLISH         "Free Holiday Bundle"
+
+REFERENCE            bundle_11xx_description
+LANG_ENGLISH         "Have one on the house!"
+
+REFERENCE            bundle_11xx_title
+LANG_ENGLISH         "Free Bundle"
+
+REFERENCE            bundle_1904_description
+LANG_ENGLISH         "Time to hit the flight line with the Tracer Pack: ^5Indigo^7 Bundle. Note: This pack features weapons that change the tracer fire to a ^5blazing blue^7."
+
+REFERENCE            bundle_1904_title
+LANG_ENGLISH         "Tracer Pack: Indigo"
+
+REFERENCE            bundle_1905_description
+LANG_ENGLISH         "If it moves, shoot it with the Gator Done Bundle."
+
+REFERENCE            bundle_1905_title
+LANG_ENGLISH         "Gator Done"
+
+
+ENDMARKER

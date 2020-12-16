@@ -1355,6 +1355,9 @@ LANG_ENGLISH         "A fully automatic light machine gun firing 7.62mm ammuniti
 REFERENCE            lm_sierrax
 LANG_ENGLISH         "An ultra-light open bolt 5.56 machine gun with a low cyclic rate and advanced recoil controls, giving the FiNN exceptional full-auto accuracy."
 
+REFERENCE            lm_slima
+LANG_ENGLISH         "The Reconnaissance Auxiliary Assault Lightweight Machine Gun uses a low fire rate and a reciprocating barrel to mitigate the powerful .338 Normal Mag recoil.  Advanced titanium construction keeps the weight manageable."
+
 REFERENCE            lmg_ameli
 LANG_ENGLISH         "Fully automatic. Increased damage and range with a slower rate of fire for stability."
 
@@ -1577,6 +1580,9 @@ LANG_ENGLISH         "The most powerful semi-automatic handgun available, deals 
 
 REFERENCE            pi_golf21
 LANG_ENGLISH         "A semi-automatic pistol chambered in .45 ACP ammunition. A reliable fallback when you find yourself in close quarters."
+
+REFERENCE            pi_mike
+LANG_ENGLISH         "A dependable fallback in close quarters, this double-action/single-action sidearm comes with a few custom gunsmith mods that make it an outstanding addition to any arsenal."
 
 REFERENCE            pi_mike1911
 LANG_ENGLISH         "A well-rounded, semi-automatic sidearm with a moderate rate of fire.  Slightly more range than your average .45 ACP pistol."

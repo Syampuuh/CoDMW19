@@ -116,6 +116,7 @@ GPUTime,CyclingList,MENU/GPU_TIME,MENU/GPU_TIME_DESC,,,,LUA_MENU/DISABLED;LUA_ME
 DebugKeyboard,CyclingList,DEBUG KEYBOARD,DEBUG KEYBOARD,,,useDevKeyboard,LUA_MENU/DISABLED;LUA_MENU/ENABLED,,,Y,Y,Y,Y,Y,Y,Y,,Y,N,,,,
 SpamRemoval,GenericButton,SPAM REMOVAL,SPAM REMOVAL,,,,,,,Y,Y,Y,Y,Y,Y,Y,,N,N,,,,
 GrantT9Items,GenericButton,Grant All T9 Items,Grants ownership of all T9 items,,,,,,,Y,Y,Y,Y,Y,Y,Y,,N,N,,,,
+SendDailyChallengeCompletion,GenericButton,Send Daily Challenge Completion,Triggers a Daily Challenge Completion splash with debug/bogus data,,,,,,,Y,Y,Y,Y,Y,Y,Y,,N,N,,,,
 StreamingDebug,GenericButton,Streaming Debug,Enables streaming debugging overlays,,,,,,,Y,Y,Y,Y,Y,Y,Y,,N,N,,,,
 StreamImageSortLists,GenericButton,Stream Image Sort Lists,Show stream image sort list fullscreen debug overlay,,,,,,,Y,Y,Y,Y,Y,Y,Y,,N,N,,,,
 StreamHTTPDebug,GenericButton,Stream HTTP Debug,Show Stream HTTP debug overlay,,,,,,,Y,Y,Y,Y,Y,Y,Y,,N,N,,,,

@@ -1,0 +1,371 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            bgb_aftertaste
+LANG_ENGLISH         "Aftertaste"
+
+REFERENCE            bgb_aftertaste_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 5 minutes or 1 down)
+Keep all Loadout Perks after being revived.  Non-Loadout Perks are still lost when downed."
+
+REFERENCE            bgb_alchemical_antithesis
+LANG_ENGLISH         "Alchemical Antithesis"
+
+REFERENCE            bgb_alchemical_antithesis_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 1 minute)
+Every 10 points earned is instead awarded 1 ammo in the stock of the current weapon."
+
+REFERENCE            bgb_always_done_swiftly
+LANG_ENGLISH         "Always Done Swiftly"
+
+REFERENCE            bgb_always_done_swiftly_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 5 minutes)
+Walk faster while aiming. Raise and lower your weapon to aim more quickly."
+
+REFERENCE            bgb_anti_entrapment
+LANG_ENGLISH         "Anti-Entrapment"
+
+REFERENCE            bgb_anti_entrapment_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 30 seconds)
+Immune to player initiated trap damage."
+
+REFERENCE            bgb_anywhere_but_here
+LANG_ENGLISH         "Anywhere But Here!"
+
+REFERENCE            bgb_anywhere_but_here_desc
+LANG_ENGLISH         "
+Instant Activation
+Instantly teleport to a random location. A concussive blast knocks away any nearby zombies, keeping you safe."
+
+REFERENCE            bgb_arsenal_accelerator
+LANG_ENGLISH         "Arsenal Accelerator"
+
+REFERENCE            bgb_arsenal_accelerator_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 2 minutes)
+Charge your special weapon faster."
+
+REFERENCE            bgb_blood_debt
+LANG_ENGLISH         "Blood Debt"
+
+REFERENCE            bgb_blood_debt_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 1 minute)
+Instead of losing health, you lose points. Amount lost increases each time you are hit until max amount is hit. If you have 0 points, Blood Debt ends."
+
+REFERENCE            bgb_bullet_boost
+LANG_ENGLISH         "Bullet Boost"
+
+REFERENCE            bgb_bullet_boost_desc
+LANG_ENGLISH         "
+Instant Activation
+Applies or re-rolls an AAT to your current weapon (if supported).  Weapon Damage is not affected."
+
+REFERENCE            bgb_burned_out
+LANG_ENGLISH         "Burned Out"
+
+REFERENCE            bgb_burned_out_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts three hits)
+The next time you take melee damage, nearby zombies burst into fire."
+
+REFERENCE            bgb_cache_back
+LANG_ENGLISH         "Cache Back"
+
+REFERENCE            bgb_cache_back_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a Max Ammo power up."
+
+REFERENCE            bgb_ctrl_z
+LANG_ENGLISH         "Ctrl-Z"
+
+REFERENCE            bgb_ctrl_z_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 30 seconds)
+Turns zombies near you into allies (Max 2)."
+
+REFERENCE            bgb_dead_of_nuclear_winter
+LANG_ENGLISH         "Dead of Nuclear Winter"
+
+REFERENCE            bgb_dead_of_nuclear_winter_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a Nuke power up."
+
+REFERENCE            bgb_equip_mint
+LANG_ENGLISH         "Equip Mint"
+
+REFERENCE            bgb_equip_mint_desc
+LANG_ENGLISH         "
+Instant Activation
+Refreshes cooldown on your equipment."
+
+REFERENCE            bgb_extra_credit
+LANG_ENGLISH         "Extra Credit"
+
+REFERENCE            bgb_extra_credit_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a personal 1250 point power up."
+
+REFERENCE            bgb_free_fire
+LANG_ENGLISH         "Free Fire"
+
+REFERENCE            bgb_free_fire_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 30 seconds)
+Fire weapons without using up bullets."
+
+REFERENCE            bgb_head_drama
+LANG_ENGLISH         "Head Drama"
+
+REFERENCE            bgb_head_drama_desc
+LANG_ENGLISH         "
+Activates Immediately (Lasts 5 minutes)
+Any bullet which hits a zombie will damage its head."
+
+REFERENCE            bgb_head_scan
+LANG_ENGLISH         "Head Scan"
+
+REFERENCE            bgb_head_scan_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 2 minutes)
+Headshots have a chance to Instakill."
+
+REFERENCE            bgb_immolation_liquidation
+LANG_ENGLISH         "Immolation Liquidation"
+
+REFERENCE            bgb_immolation_liquidation_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a Fire Sale power up."
+
+REFERENCE            bgb_in_plain_sight
+LANG_ENGLISH         "In Plain Sight"
+
+REFERENCE            bgb_in_plain_sight_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 10 seconds)
+You are ignored by zombies."
+
+REFERENCE            bgb_join_the_party
+LANG_ENGLISH         "Join The Party"
+
+REFERENCE            bgb_join_the_party_desc
+LANG_ENGLISH         "
+Instant Activation
+All players in spectate will spawn in immediately and all downed players will be immediately revived.  Will not restore lost Perks."
+
+REFERENCE            bgb_kill_joy
+LANG_ENGLISH         "Kill Joy"
+
+REFERENCE            bgb_kill_joy_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns an Instakill power up."
+
+REFERENCE            bgb_licensed_contractor
+LANG_ENGLISH         "Licensed Contractor"
+
+REFERENCE            bgb_licensed_contractor_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a Carpenter power up."
+
+REFERENCE            bgb_near_death_experience
+LANG_ENGLISH         "Near Death Experience"
+
+REFERENCE            bgb_near_death_experience_desc
+LANG_ENGLISH         "
+Activates Immediately (Lasts 10 minutes or 5 revives)
+Revive, or be revived, simply by being near other players. Revived players keep all Loadout Perks after being revived.
+"
+
+REFERENCE            bgb_newtonian_negation
+LANG_ENGLISH         "Newtonian Negation"
+
+REFERENCE            bgb_newtonian_negation_desc
+LANG_ENGLISH         "
+^6W^3H^5I^2M^7S^2I^5C^3A^6L
+^7Instant Activation (Lasts 25 minutes)
+Zombies killed fall straight up."
+
+REFERENCE            bgb_now_you_see_me
+LANG_ENGLISH         "Now You See Me"
+
+REFERENCE            bgb_now_you_see_me_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 15 seconds)
+All zombies will chase you."
+
+REFERENCE            bgb_nowhere_but_there
+LANG_ENGLISH         "Nowhere But There!"
+
+REFERENCE            bgb_nowhere_but_there_desc
+LANG_ENGLISH         "
+Instant Activation
+Teleport to a downed player's location.
+"
+
+REFERENCE            bgb_perkaholic
+LANG_ENGLISH         "Perkaholic"
+
+REFERENCE            bgb_perkaholic_desc
+LANG_ENGLISH         "
+Activates Immediately
+Receive all Loadout Perks and six random, extra Perks that are not in your loadout. Will not stack with itself."
+
+REFERENCE            bgb_phantom_reload
+LANG_ENGLISH         "Phantom Reload"
+
+REFERENCE            bgb_phantom_reload_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 4 minutes)
+Reloading has a 30% chance to fill the magazine without using up stock ammo."
+
+REFERENCE            bgb_phoenix_up
+LANG_ENGLISH         "Phoenix Up"
+
+REFERENCE            bgb_phoenix_up_desc
+LANG_ENGLISH         "
+Instant Activation
+Revives all teammates. Teammates keep all Loadout Perks after being revived.
+"
+
+REFERENCE            bgb_point_drops
+LANG_ENGLISH         "Point Drops"
+
+REFERENCE            bgb_point_drops_desc
+LANG_ENGLISH         "
+Instant Activation
+Drop 500 of your points as a power up.
+"
+
+REFERENCE            bgb_pop_shocks
+LANG_ENGLISH         "Pop Shocks"
+
+REFERENCE            bgb_pop_shocks_desc
+LANG_ENGLISH         "
+Auto-activates when melee attacking zombies (5 Melees)
+Melee attacks trigger an electrostatic discharge, electrocuting nearby zombies."
+
+REFERENCE            bgb_power_keg
+LANG_ENGLISH         "Power Keg"
+
+REFERENCE            bgb_power_keg_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a Full Power power up."
+
+REFERENCE            bgb_power_vacuum
+LANG_ENGLISH         "Power Vacuum"
+
+REFERENCE            bgb_power_vacuum_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 5 minutes)
+More power ups can drop each round."
+
+REFERENCE            bgb_reign_drops
+LANG_ENGLISH         "Reign Drops"
+
+REFERENCE            bgb_reign_drops_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns one of each of the nine core power ups."
+
+REFERENCE            bgb_secret_shopper
+LANG_ENGLISH         "Secret Shopper"
+
+REFERENCE            bgb_secret_shopper_desc
+LANG_ENGLISH         "
+Activates Immediately (Lasts 10 minutes)
+Any gun wall-buy can be used to buy ammo for any gun."
+
+REFERENCE            bgb_shields_up
+LANG_ENGLISH         "Shields Up"
+
+REFERENCE            bgb_shields_up_desc
+LANG_ENGLISH         "
+Instant Activation
+Gives a new shield."
+
+REFERENCE            bgb_shopping_free
+LANG_ENGLISH         "Shopping Free"
+
+REFERENCE            bgb_shopping_free_desc
+LANG_ENGLISH         "
+Activates Immediately (Lasts 1 minute)
+All purchases are free."
+
+REFERENCE            bgb_stock_option
+LANG_ENGLISH         "Stock Option"
+
+REFERENCE            bgb_stock_option_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 2 minutes)
+Ammo is taken from your stockpile instead of your weapon's magazine."
+
+REFERENCE            bgb_suit_up
+LANG_ENGLISH         "Suit Up"
+
+REFERENCE            bgb_suit_up_desc
+LANG_ENGLISH         "
+Instant Activation
+You and nearby players get full Armor which lasts until destroyed."
+
+REFERENCE            bgb_sword_flay
+LANG_ENGLISH         "Sword Flay"
+
+REFERENCE            bgb_sword_flay_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 1 minute)
+Melee attacks instantly kill basic and vermin enemies, otherwise they deal 5x as much damage."
+
+REFERENCE            bgb_temporal_gift
+LANG_ENGLISH         "Temporal Gift"
+
+REFERENCE            bgb_temporal_gift_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 5 minutes)
+Power ups last longer."
+
+REFERENCE            bgb_undead_man_walking
+LANG_ENGLISH         "Undead Man Walking"
+
+REFERENCE            bgb_undead_man_walking_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 1 minute)
+Slow down all zombies to shambling speed."
+
+REFERENCE            bgb_wall_power
+LANG_ENGLISH         "Wall Power"
+
+REFERENCE            bgb_wall_power_desc
+LANG_ENGLISH         "
+Auto-activates on your next wall-buy gun purchase
+The next gun bought off a wall comes Pack-a-Punched."
+
+REFERENCE            bgb_wall_to_wall_clearance
+LANG_ENGLISH         "Wall-to-Wall Clearance"
+
+REFERENCE            bgb_wall_to_wall_clearance_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 30 seconds)
+Wall buy Fire Sale."
+
+REFERENCE            bgb_whos_keeping_score
+LANG_ENGLISH         "Who's Keeping Score?"
+
+REFERENCE            bgb_whos_keeping_score_desc
+LANG_ENGLISH         "
+Instant Activation
+Spawns a Double Points power up."
+
+
+ENDMARKER

@@ -248,17 +248,92 @@ LANG_ENGLISH         "Time of the Season"
 REFERENCE            accessory0106_desc
 LANG_ENGLISH         "The Time of The Season Watch is perfect if you've ever wanted a swarm of bats on your wrist while you keep an eye on the clock."
 
+REFERENCE            accessory0107
+LANG_ENGLISH         "Aletsch"
+
+REFERENCE            accessory0107_desc
+LANG_ENGLISH         "Keep your cool with the Aletsch Watch."
+
+REFERENCE            accessory0108
+LANG_ENGLISH         "Kaleidoscope"
+
+REFERENCE            accessory0108_desc
+LANG_ENGLISH         "See them in a whole new light with the Kaleidoscope Watch."
+
+REFERENCE            accessory0109
+LANG_ENGLISH         "ACCESSORY0109"
+
 REFERENCE            accessory010_desc
 LANG_ENGLISH         "When your back is against the wall - it's time to crunch!"
 
 REFERENCE            accessory011
 LANG_ENGLISH         "Dinner Time"
 
+REFERENCE            accessory0110
+LANG_ENGLISH         "ACCESSORY0110"
+
+REFERENCE            accessory0111
+LANG_ENGLISH         "ACCESSORY0111"
+
+REFERENCE            accessory0112
+LANG_ENGLISH         "ACCESSORY0112"
+
+REFERENCE            accessory0113
+LANG_ENGLISH         "ACCESSORY0113"
+
+REFERENCE            accessory0114
+LANG_ENGLISH         "ACCESSORY0114"
+
+REFERENCE            accessory0115
+LANG_ENGLISH         "ACCESSORY0115"
+
+REFERENCE            accessory0116
+LANG_ENGLISH         "ACCESSORY0116"
+
+REFERENCE            accessory0117
+LANG_ENGLISH         "ACCESSORY0117"
+
+REFERENCE            accessory0118
+LANG_ENGLISH         "ACCESSORY0118"
+
+REFERENCE            accessory0119
+LANG_ENGLISH         "ACCESSORY0119"
+
 REFERENCE            accessory011_desc
 LANG_ENGLISH         "Stay hungry with the Dinner Time watch."
 
 REFERENCE            accessory012
 LANG_ENGLISH         "Time Frame"
+
+REFERENCE            accessory0120
+LANG_ENGLISH         "ACCESSORY0120"
+
+REFERENCE            accessory0121
+LANG_ENGLISH         "ACCESSORY0121"
+
+REFERENCE            accessory0122
+LANG_ENGLISH         "ACCESSORY0122"
+
+REFERENCE            accessory0123
+LANG_ENGLISH         "ACCESSORY0123"
+
+REFERENCE            accessory0124
+LANG_ENGLISH         "ACCESSORY0124"
+
+REFERENCE            accessory0125
+LANG_ENGLISH         "ACCESSORY0125"
+
+REFERENCE            accessory0126
+LANG_ENGLISH         "ACCESSORY0126"
+
+REFERENCE            accessory0127
+LANG_ENGLISH         "ACCESSORY0127"
+
+REFERENCE            accessory0128
+LANG_ENGLISH         "ACCESSORY0128"
+
+REFERENCE            accessory0129
+LANG_ENGLISH         "ACCESSORY0129"
 
 REFERENCE            accessory012_desc
 LANG_ENGLISH         "Always be on time with the Time Frame Watch."
@@ -750,6 +825,9 @@ LANG_ENGLISH         "Four Winds"
 
 REFERENCE            accessory096_desc
 LANG_ENGLISH         "Ever needed to know where North or South was in a pinch? Just look at the Four Winds Watch on your wrist!"
+
+REFERENCE            accessory097
+LANG_ENGLISH         "ACCESSORY097"
 
 REFERENCE            accessory098
 LANG_ENGLISH         "Strange Magic"
@@ -1321,8 +1399,11 @@ LANG_ENGLISH         "You can equip a ^5War Track^7 via the War Tracks menu in v
 REFERENCE            battle_xptoken_equipped
 LANG_ENGLISH         "Double Battle Pass XP Token equipped"
 
+REFERENCE            battlenet_goto
+LANG_ENGLISH         "Go to Battle.net App"
+
 REFERENCE            battlenet_modify_install
-LANG_ENGLISH         "To modify the installation, the game will exit. Do you want to proceed?"
+LANG_ENGLISH         "All content management need to be done in the Battle.net App. You will be redirected to the Battle.net App and your game will close."
 
 REFERENCE            battlepass_xp_token
 LANG_ENGLISH         "Battle Pass XP token"
@@ -1499,7 +1580,7 @@ REFERENCE            bots_veteran
 LANG_ENGLISH         "Veteran"
 
 REFERENCE            bp_boost
-LANG_ENGLISH         "Season &&1 XP Boost"
+LANG_ENGLISH         "&&1 XP Boost"
 
 REFERENCE            bp_boost_desc
 LANG_ENGLISH         "BP_BOOST_DESC"
@@ -1888,6 +1969,9 @@ LANG_ENGLISH         "Make it Rain (Hey Mom!)"
 REFERENCE            card_name_9
 LANG_ENGLISH         "POW!"
 
+REFERENCE            career
+LANG_ENGLISH         "Career"
+
 REFERENCE            cash_earned_caps
 LANG_ENGLISH         "CASH EARNED"
 
@@ -1935,6 +2019,9 @@ LANG_ENGLISH         "Challenge Invitations"
 
 REFERENCE            challenge_match_caps
 LANG_ENGLISH         "CHALLENGE MATCH"
+
+REFERENCE            challenge_progress_bo_exclusive
+LANG_ENGLISH         "Challenge can only be progressed in Black Ops Cold War"
 
 REFERENCE            challenge_progress_disclaimer
 LANG_ENGLISH         "Challenge progress only gained while playing multiplayer."
@@ -2270,16 +2357,16 @@ REFERENCE            code_pack_2
 LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Fearless Pack"
 
 REFERENCE            code_pack_zeus
-LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Fearless Pack"
+LANG_ENGLISH         "Call of Duty?? Modern Warfare?? - C.O.D.E. Challenger Pack"
 
 REFERENCE            codename
 LANG_ENGLISH         "Codename"
 
 REFERENCE            cold_war_first
-LANG_ENGLISH         "Cold War First"
+LANG_ENGLISH         "Black Ops First"
 
 REFERENCE            cold_war_only
-LANG_ENGLISH         "Cold War Only"
+LANG_ENGLISH         "Black Ops Only"
 
 REFERENCE            collected_x
 LANG_ENGLISH         "Collected &&1"
@@ -2354,6 +2441,9 @@ Callsign and Barracks will be inaccessible in this mode."
 
 REFERENCE            complete_all_objectives
 LANG_ENGLISH         "Complete all objectives"
+
+REFERENCE            complete_challenge_tiers
+LANG_ENGLISH         "Complete all tiers to unlock"
 
 REFERENCE            completed
 LANG_ENGLISH         "[ COMPLETED ]"
@@ -3149,6 +3239,15 @@ LANG_ENGLISH         "CUSTOMIZE SQUAD MEMBER"
 
 REFERENCE            customize_squad_member_desc
 LANG_ENGLISH         "Modify the appearance of your squad member."
+
+REFERENCE            cw_cdl_launch_pack
+LANG_ENGLISH         "Call of Duty League??? - Launch Pack"
+
+REFERENCE            cw_head_start_pack
+LANG_ENGLISH         "Call of Duty??: Warzone??? - Combat Pack (Penumbra)"
+
+REFERENCE            cw_starter_pack_season_01
+LANG_ENGLISH         "Call of Duty??: Black Ops Cold War - Starter Pack"
 
 REFERENCE            cwl_modes
 LANG_ENGLISH         "Call of Duty League???"
@@ -4156,6 +4255,9 @@ LANG_ENGLISH         "Return to menu"
 REFERENCE            footer_tooltip_local_refreshservers
 LANG_ENGLISH         "Refresh the local servers list"
 
+REFERENCE            footer_tooltip_modify_install
+LANG_ENGLISH         "Modify the installation with Battle.net"
+
 REFERENCE            footer_tooltip_options
 LANG_ENGLISH         "Access Options from all menus and in-game."
 
@@ -4977,6 +5079,15 @@ LANG_ENGLISH         "High"
 REFERENCE            high_party_member_count_warning
 LANG_ENGLISH         "The area you are moving to allows up to &&2 party members, you currently have &&1. Remove some party members and try again."
 
+REFERENCE            high_res_texture_pack_2_desc
+LANG_ENGLISH         "Do you wish to install High Resolution Texture Pack #2? Game will restart when installing."
+
+REFERENCE            high_res_texture_pack_2_desc2
+LANG_ENGLISH         "NOTE: You can manage your installs from the Game Installs menu within General options at any time."
+
+REFERENCE            high_res_texture_pack_2_title
+LANG_ENGLISH         "Install High Resolution Texture Pack 2"
+
 REFERENCE            high_res_texture_pack_desc
 LANG_ENGLISH         "Do you wish to install the High Resolution Texture Pack? Game will restart when installing."
 
@@ -5109,8 +5220,17 @@ LANG_ENGLISH         "Inspect"
 REFERENCE            install
 LANG_ENGLISH         "Install"
 
+REFERENCE            install_campaign
+LANG_ENGLISH         "Install Campaign"
+
 REFERENCE            install_complete
 LANG_ENGLISH         "Install Complete"
+
+REFERENCE            install_coop
+LANG_ENGLISH         "Install Co-Op"
+
+REFERENCE            install_multiplayer
+LANG_ENGLISH         "Install Multiplayer"
 
 REFERENCE            install_suspended
 LANG_ENGLISH         "Install suspended or missing data pack"
@@ -5124,11 +5244,20 @@ LANG_ENGLISH         "You're officially an owner of this content. Once installat
 REFERENCE            installation_needed_ps4
 LANG_ENGLISH         "You're officially an owner of this content. Once installation is complete, you can access the content."
 
+REFERENCE            installation_suspended
+LANG_ENGLISH         "Installation Suspended"
+
+REFERENCE            installed_campaign
+LANG_ENGLISH         "Campaign Installed"
+
 REFERENCE            installing
 LANG_ENGLISH         "Installing"
 
 REFERENCE            installing_campaign
 LANG_ENGLISH         "Installing campaign - &&1%"
+
+REFERENCE            installing_content
+LANG_ENGLISH         "Installing Content..."
 
 REFERENCE            installing_coop
 LANG_ENGLISH         "Installing co-op - &&1%"
@@ -5798,6 +5927,9 @@ LANG_ENGLISH         "LEVEL"
 
 REFERENCE            level_locked
 LANG_ENGLISH         "LOCKED"
+
+REFERENCE            level_x_rewards
+LANG_ENGLISH         "LEVEL &&1 REWARDS"
 
 REFERENCE            level_x_unlocks
 LANG_ENGLISH         "Level &&1 Unlocks"
@@ -6552,6 +6684,9 @@ LANG_ENGLISH         "Match Summary"
 REFERENCE            max
 LANG_ENGLISH         "MAX"
 
+REFERENCE            max_level_number
+LANG_ENGLISH         "Max Level &&1"
+
 REFERENCE            max_rank
 LANG_ENGLISH         "Max Rank"
 
@@ -6612,6 +6747,9 @@ LANG_ENGLISH         "Midnight Mode"
 REFERENCE            midnight_mode_description
 LANG_ENGLISH         "Low dynamic range. When you need to listen at softer volume but still keep the details."
 
+REFERENCE            military
+LANG_ENGLISH         "MILITARY"
+
 REFERENCE            milsim
 LANG_ENGLISH         "MIL-SIM"
 
@@ -6639,6 +6777,9 @@ LANG_ENGLISH         "MISC"
 REFERENCE            misses_caps
 LANG_ENGLISH         "MISSES"
 
+REFERENCE            missing_data_pack
+LANG_ENGLISH         "Missing Data Pack"
+
 REFERENCE            missing_dlc_cp
 LANG_ENGLISH         "You are missing one or more Special Ops DLC packs. Please download and install."
 
@@ -6652,7 +6793,7 @@ REFERENCE            missing_dlc_cp3
 LANG_ENGLISH         "You do not own or are missing the Spec Ops Survival DLC pack. Please purchase or download."
 
 REFERENCE            missing_dlc_cp3_battlenet
-LANG_ENGLISH         "You are missing the Spec Ops Survival DLC pack. To modify the installation, the game will exit. Do you want to proceed?"
+LANG_ENGLISH         "You are missing the Spec Ops Survival DLC pack. All content management need to be done in the Battle.net App. You will be redirected to the Battle.net App and your game will close."
 
 REFERENCE            missing_dlc_cp3_party
 LANG_ENGLISH         "A party member does not own or is missing the Spec Ops Survival DLC pack."
@@ -6766,6 +6907,9 @@ LANG_ENGLISH         "Moderate"
 
 REFERENCE            moderatepartywarning
 LANG_ENGLISH         "Your NAT type is Moderate.  This means players may have trouble connecting to you and joining your party."
+
+REFERENCE            modify_install
+LANG_ENGLISH         "Modify install"
 
 REFERENCE            monday
 LANG_ENGLISH         "Monday"
@@ -6943,6 +7087,9 @@ LANG_ENGLISH         "MVP"
 REFERENCE            mw2r
 LANG_ENGLISH         "Underwater Demo Team Classic Ghost Bundle"
 
+REFERENCE            mw_exclusive_finishing_equip_hint
+LANG_ENGLISH         "You can equip this ^5finishing move^7 via the customize menu for ^5all Modern Warfare operators^7 in operator select."
+
 REFERENCE            mw_first
 LANG_ENGLISH         "MW First"
 
@@ -7028,6 +7175,12 @@ LANG_ENGLISH         "New Rewards"
 REFERENCE            newest_first
 LANG_ENGLISH         "Newest First"
 
+REFERENCE            newrefoperator_ronin_skin_3
+LANG_ENGLISH         "Honj??"
+
+REFERENCE            next_lvl_xp
+LANG_ENGLISH         "Next Level XP"
+
 REFERENCE            next_page
 LANG_ENGLISH         "Next Page"
 
@@ -7039,6 +7192,9 @@ LANG_ENGLISH         "Next Reward"
 
 REFERENCE            next_tier
 LANG_ENGLISH         "Next Tier"
+
+REFERENCE            next_tier_colon
+LANG_ENGLISH         "NEXT TIER: &&1"
 
 REFERENCE            next_unlock
 LANG_ENGLISH         "Next Unlock"
@@ -7301,6 +7457,9 @@ LANG_ENGLISH         "ONLINE"
 
 REFERENCE            onlinevault_downloading_percent
 LANG_ENGLISH         "Downloading (%d %%)"
+
+REFERENCE            only
+LANG_ENGLISH         "Only"
 
 REFERENCE            op_inactive
 LANG_ENGLISH         "^3Operation Inactive^7"
@@ -7729,10 +7888,10 @@ REFERENCE            operator_domino_skin_20
 LANG_ENGLISH         "Le Taillefer"
 
 REFERENCE            operator_domino_skin_21
-LANG_ENGLISH         "OPERATOR_DOMINO_SKIN_21"
+LANG_ENGLISH         "Cataclysm"
 
 REFERENCE            operator_domino_skin_22
-LANG_ENGLISH         "OPERATOR_DOMINO_SKIN_22"
+LANG_ENGLISH         "Licorne"
 
 REFERENCE            operator_domino_skin_3
 LANG_ENGLISH         "Jungle"
@@ -7792,7 +7951,7 @@ REFERENCE            operator_edition
 LANG_ENGLISH         "Operator Edition"
 
 REFERENCE            operator_enhanced_edition
-LANG_ENGLISH         "Operator Enhanced Edition"
+LANG_ENGLISH         "Battle Pass Edition"
 
 REFERENCE            operator_faction_level
 LANG_ENGLISH         "Level &&1"
@@ -8062,7 +8221,7 @@ REFERENCE            operator_grinch_skin_15
 LANG_ENGLISH         "Gilded Assassin"
 
 REFERENCE            operator_grinch_skin_16
-LANG_ENGLISH         "OPERATOR_GRINCH_SKIN_16"
+LANG_ENGLISH         "The Lionheart"
 
 REFERENCE            operator_grinch_skin_2
 LANG_ENGLISH         "Muddy Waters"
@@ -8111,6 +8270,9 @@ LANG_ENGLISH         "Heart of Glass"
 
 REFERENCE            operator_iskra_skin_7
 LANG_ENGLISH         "Arachnis"
+
+REFERENCE            operator_iskra_skin_8
+LANG_ENGLISH         "Whitechapel"
 
 REFERENCE            operator_kreuger_skin_12
 LANG_ENGLISH         "Chimera Syd"
@@ -8194,7 +8356,7 @@ REFERENCE            operator_lerch_skin_3
 LANG_ENGLISH         "Colossus"
 
 REFERENCE            operator_lerch_skin_4
-LANG_ENGLISH         "OPERATOR_LERCH_SKIN_4"
+LANG_ENGLISH         "Ignition"
 
 REFERENCE            operator_loot_locked
 LANG_ENGLISH         "Locked"
@@ -8568,6 +8730,15 @@ LANG_ENGLISH         "Gungho"
 REFERENCE            operator_rodion_skin_9
 LANG_ENGLISH         "Night Raid"
 
+REFERENCE            operator_ronin_skin_1
+LANG_ENGLISH         "Zen"
+
+REFERENCE            operator_ronin_skin_2
+LANG_ENGLISH         "Hagakure"
+
+REFERENCE            operator_ronin_skin_3
+LANG_ENGLISH         "Honj??"
+
 REFERENCE            operator_ronin_skin_basic
 LANG_ENGLISH         "Lone Dragon"
 
@@ -8584,7 +8755,7 @@ REFERENCE            operator_roze_skin_4
 LANG_ENGLISH         "Murk"
 
 REFERENCE            operator_roze_skin_5
-LANG_ENGLISH         "OPERATOR_ROZE_SKIN_5"
+LANG_ENGLISH         "Torn Veil"
 
 REFERENCE            operator_select
 LANG_ENGLISH         "Operator Select"
@@ -8679,6 +8850,21 @@ LANG_ENGLISH         "Operator Skins"
 REFERENCE            operator_skins_desc
 LANG_ENGLISH         "Placeholder Operator Uniforms Description"
 
+REFERENCE            operator_soap_skin_1
+LANG_ENGLISH         "Highlands"
+
+REFERENCE            operator_soap_skin_2
+LANG_ENGLISH         "Skye"
+
+REFERENCE            operator_soap_skin_3
+LANG_ENGLISH         "Over the Edge"
+
+REFERENCE            operator_sparks_skin_1
+LANG_ENGLISH         "Mirka"
+
+REFERENCE            operator_sparks_skin_2
+LANG_ENGLISH         "High Altitude"
+
 REFERENCE            operator_spetsnaz_skin_1
 LANG_ENGLISH         "Fixer"
 
@@ -8743,35 +8929,35 @@ REFERENCE            operator_unlocked_cw_skin_challenge_adler
 LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Campaign."
 
 REFERENCE            operator_unlocked_cw_skin_challenge_baker
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer."
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Multiplayer."
 
 REFERENCE            operator_unlocked_cw_skin_challenge_beck
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Zombies."
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Zombies."
 
 REFERENCE            operator_unlocked_cw_skin_challenge_garcia
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer."
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Multiplayer."
 
 REFERENCE            operator_unlocked_cw_skin_challenge_generic
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War.
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Cold War.
 "
 
 REFERENCE            operator_unlocked_cw_skin_challenge_park
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer. "
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Multiplayer. "
 
 REFERENCE            operator_unlocked_cw_skin_challenge_portnova
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer. "
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Multiplayer. "
 
 REFERENCE            operator_unlocked_cw_skin_challenge_sims
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer. "
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Multiplayer. "
 
 REFERENCE            operator_unlocked_cw_skin_challenge_woods
-LANG_ENGLISH         "Complete the base skin unlock challenge in Cold War Multiplayer."
+LANG_ENGLISH         "Complete the base skin unlock challenge in Black Ops Multiplayer."
 
 REFERENCE            operator_unlocked_with_cw
 LANG_ENGLISH         "Available with purchase of Cold War."
 
 REFERENCE            operator_unlocked_with_cw_or_skin
-LANG_ENGLISH         "Available with purchase of Cold War or by acquiring a skin for this operator."
+LANG_ENGLISH         "Available with purchase of Black Ops or by acquiring a skin for this operator."
 
 REFERENCE            operator_unlocked_with_mw
 LANG_ENGLISH         "Available with purchase of Modern Warfare."
@@ -9317,6 +9503,9 @@ LANG_ENGLISH         "Invites"
 REFERENCE            party_invites_singular
 LANG_ENGLISH         "Invite"
 
+REFERENCE            party_limit_exceeded
+LANG_ENGLISH         "This option supports &&1 player(s) only. Your party has too many players in it."
+
 REFERENCE            party_only
 LANG_ENGLISH         "Party Only"
 
@@ -9685,7 +9874,7 @@ REFERENCE            prepurchase_deluxe
 LANG_ENGLISH         "Modern Warfare??: Operator Edition"
 
 REFERENCE            prepurchase_enhanced
-LANG_ENGLISH         "Modern Warfare??: Operator Enhanced Edition"
+LANG_ENGLISH         "Modern Warfare??: Battle Pass Edition"
 
 REFERENCE            prepurchase_standard
 LANG_ENGLISH         "Modern Warfare??: Standard Edition"
@@ -9702,11 +9891,17 @@ LANG_ENGLISH         "Gear: &&1"
 REFERENCE            prestige_caps
 LANG_ENGLISH         "PRESTIGE"
 
+REFERENCE            prestige_challenge_title
+LANG_ENGLISH         "WARZONE / MP"
+
 REFERENCE            prestige_details
 LANG_ENGLISH         "Prestige Details"
 
 REFERENCE            prestige_icon
 LANG_ENGLISH         "Prestige Icon"
+
+REFERENCE            prestige_keys
+LANG_ENGLISH         "PRESTIGE KEYS"
 
 REFERENCE            prestige_menu_desc
 LANG_ENGLISH         "Placeholder Prestige Description"
@@ -9746,6 +9941,9 @@ LANG_ENGLISH         "Preview Camo"
 REFERENCE            preview_charm
 LANG_ENGLISH         "Preview Charm"
 
+REFERENCE            preview_charm_prompt
+LANG_ENGLISH         "[{ui_r3}] Preview Charm"
+
 REFERENCE            preview_loot_item
 LANG_ENGLISH         "[{ui_r3}] Preview Loot Item"
 
@@ -9755,8 +9953,14 @@ LANG_ENGLISH         "Preview Next Objective Loot Item"
 REFERENCE            preview_reward
 LANG_ENGLISH         "[{ui_r3}] Preview Reward"
 
+REFERENCE            preview_reward_lstick
+LANG_ENGLISH         "[{ui_l3}] Preview Reward"
+
 REFERENCE            preview_sticker
 LANG_ENGLISH         "Preview Sticker"
+
+REFERENCE            preview_sticker_prompt
+LANG_ENGLISH         "[{ui_r3}] Preview Sticker"
 
 REFERENCE            preview_title
 LANG_ENGLISH         "PREVIEW - &&1"
@@ -10107,7 +10311,7 @@ REFERENCE            quip_charly_9
 LANG_ENGLISH         "Work to Do"
 
 REFERENCE            quip_crowfoot_1
-LANG_ENGLISH         "Later"
+LANG_ENGLISH         "Goodbye"
 
 REFERENCE            quip_crowfoot_10
 LANG_ENGLISH         "Live on the Land"
@@ -10320,34 +10524,34 @@ REFERENCE            quip_golem_9
 LANG_ENGLISH         "Gave It Best"
 
 REFERENCE            quip_griggs_1
-LANG_ENGLISH         "QUIP_GRIGGS_1"
+LANG_ENGLISH         "Done"
 
 REFERENCE            quip_griggs_10
-LANG_ENGLISH         "QUIP_GRIGGS_10"
+LANG_ENGLISH         "Hot Shit"
 
 REFERENCE            quip_griggs_2
-LANG_ENGLISH         "QUIP_GRIGGS_2"
+LANG_ENGLISH         "Shitbrick"
 
 REFERENCE            quip_griggs_3
-LANG_ENGLISH         "QUIP_GRIGGS_3"
+LANG_ENGLISH         "Too Good"
 
 REFERENCE            quip_griggs_4
-LANG_ENGLISH         "QUIP_GRIGGS_4"
+LANG_ENGLISH         "Had That Coming"
 
 REFERENCE            quip_griggs_5
-LANG_ENGLISH         "QUIP_GRIGGS_5"
+LANG_ENGLISH         "Mess"
 
 REFERENCE            quip_griggs_6
-LANG_ENGLISH         "QUIP_GRIGGS_6"
+LANG_ENGLISH         "What You Get"
 
 REFERENCE            quip_griggs_7
 LANG_ENGLISH         "How It's Done"
 
 REFERENCE            quip_griggs_8
-LANG_ENGLISH         "QUIP_GRIGGS_8"
+LANG_ENGLISH         "How That Works"
 
 REFERENCE            quip_griggs_9
-LANG_ENGLISH         "QUIP_GRIGGS_9"
+LANG_ENGLISH         "Better Man Won"
 
 REFERENCE            quip_grinch_1
 LANG_ENGLISH         "Shh Don't Tell"
@@ -10893,64 +11097,64 @@ REFERENCE            quip_selected
 LANG_ENGLISH         "Quip Selected"
 
 REFERENCE            quip_soap_1
-LANG_ENGLISH         "QUIP_SOAP_1"
+LANG_ENGLISH         "Shithawk"
 
 REFERENCE            quip_soap_10
-LANG_ENGLISH         "QUIP_SOAP_10"
+LANG_ENGLISH         "Pushed Your Luck"
 
 REFERENCE            quip_soap_2
-LANG_ENGLISH         "QUIP_SOAP_2"
+LANG_ENGLISH         "Bug Off"
 
 REFERENCE            quip_soap_3
-LANG_ENGLISH         "QUIP_SOAP_3"
+LANG_ENGLISH         "Ya Stumur"
 
 REFERENCE            quip_soap_4
-LANG_ENGLISH         "QUIP_SOAP_4"
+LANG_ENGLISH         "Teach Ya"
 
 REFERENCE            quip_soap_5
-LANG_ENGLISH         "QUIP_SOAP_5"
+LANG_ENGLISH         "Lay Down"
 
 REFERENCE            quip_soap_6
-LANG_ENGLISH         "QUIP_SOAP_6"
+LANG_ENGLISH         "Get Stuffed"
 
 REFERENCE            quip_soap_7
-LANG_ENGLISH         "QUIP_SOAP_7"
+LANG_ENGLISH         "Off With Ya"
 
 REFERENCE            quip_soap_8
-LANG_ENGLISH         "QUIP_SOAP_8"
+LANG_ENGLISH         "Meet the Devil"
 
 REFERENCE            quip_soap_9
-LANG_ENGLISH         "QUIP_SOAP_9"
+LANG_ENGLISH         "Drop Dead"
 
 REFERENCE            quip_sparks_1
-LANG_ENGLISH         "QUIP_SPARKS_1"
+LANG_ENGLISH         "Time Was Up"
 
 REFERENCE            quip_sparks_10
-LANG_ENGLISH         "QUIP_SPARKS_10"
+LANG_ENGLISH         "Dirt Nap"
 
 REFERENCE            quip_sparks_2
-LANG_ENGLISH         "QUIP_SPARKS_2"
+LANG_ENGLISH         "Killing Season"
 
 REFERENCE            quip_sparks_3
-LANG_ENGLISH         "QUIP_SPARKS_3"
+LANG_ENGLISH         "Clean Kill"
 
 REFERENCE            quip_sparks_4
-LANG_ENGLISH         "QUIP_SPARKS_4"
+LANG_ENGLISH         "Fair Game."
 
 REFERENCE            quip_sparks_5
-LANG_ENGLISH         "QUIP_SPARKS_5"
+LANG_ENGLISH         "Wall Hanger"
 
 REFERENCE            quip_sparks_6
-LANG_ENGLISH         "QUIP_SPARKS_6"
+LANG_ENGLISH         "Fell Prey"
 
 REFERENCE            quip_sparks_7
-LANG_ENGLISH         "QUIP_SPARKS_7"
+LANG_ENGLISH         "Bagged"
 
 REFERENCE            quip_sparks_8
-LANG_ENGLISH         "QUIP_SPARKS_8"
+LANG_ENGLISH         "Manhunt"
 
 REFERENCE            quip_sparks_9
-LANG_ENGLISH         "QUIP_SPARKS_9"
+LANG_ENGLISH         "Trained Harder"
 
 REFERENCE            quip_spetsnaz_1
 LANG_ENGLISH         "Better"
@@ -12586,11 +12790,14 @@ LANG_ENGLISH         ""
 REFERENCE            season6_desc
 LANG_ENGLISH         ""
 
-REFERENCE            season_challenges
-LANG_ENGLISH         "Season &&1 "
-
 REFERENCE            season_num
 LANG_ENGLISH         "Season &&1"
+
+REFERENCE            season_x_master
+LANG_ENGLISH         "&&1 MASTER"
+
+REFERENCE            seasonal_progression
+LANG_ENGLISH         "SEASONAL PROGRESSION"
 
 REFERENCE            seasons
 LANG_ENGLISH         "Seasons"
@@ -12732,6 +12939,9 @@ LANG_ENGLISH         "Selected Operators"
 
 REFERENCE            send_invite
 LANG_ENGLISH         "Send Invite"
+
+REFERENCE            senegalese
+LANG_ENGLISH         "Senegalese"
 
 REFERENCE            sent
 LANG_ENGLISH         "Sent"
@@ -12912,7 +13122,7 @@ REFERENCE            sort_filter_prompt
 LANG_ENGLISH         "[{ui_alt1}] Sort Filter &&1"
 
 REFERENCE            sort_filter_type
-LANG_ENGLISH         "Sort Filter &&1"
+LANG_ENGLISH         "  Sort Filter &&1"
 
 REFERENCE            sort_officer
 LANG_ENGLISH         "Sort by Officer Emblems"
@@ -13313,6 +13523,12 @@ LANG_ENGLISH         "SYD"
 REFERENCE            syd_background
 LANG_ENGLISH         "Born in Washington DC to family of wealthy politicians. Joined US Army at 18. Family had her stationed in Bulgaria. Served full enlistment. Traveled 5 years off-grid, fighting in conflict zones from Eastern Europe to Africa. "
 
+REFERENCE            t9_challenge_disclaimer
+LANG_ENGLISH         "Challenge progress can be gained while playing Warzone or Black Ops multiplayer."
+
+REFERENCE            t9_exclusive_finishing_equip_hint
+LANG_ENGLISH         "You can equip this ^5finishing move^7 via the customize menu for ^5all Black Ops operators^7 in operator select."
+
 REFERENCE            t_for_tags_caps
 LANG_ENGLISH         "Tags"
 
@@ -13646,6 +13862,9 @@ LANG_ENGLISH         "Th"
 
 REFERENCE            tied
 LANG_ENGLISH         "Tied"
+
+REFERENCE            tier_reward
+LANG_ENGLISH         "TIER REWARD"
 
 REFERENCE            time
 LANG_ENGLISH         "Time"
@@ -14253,7 +14472,7 @@ REFERENCE            unlocked_first
 LANG_ENGLISH         "Unlocked First"
 
 REFERENCE            unlocked_through_bp
-LANG_ENGLISH         "Unlocked through the Season &&1 Battle Pass."
+LANG_ENGLISH         "Unlocked through the &&1 Battle Pass."
 
 REFERENCE            unlocked_through_bundle
 LANG_ENGLISH         "Unlocked through a store bundle."
@@ -14263,6 +14482,9 @@ LANG_ENGLISH         "Unlocked through the Games of Summer event."
 
 REFERENCE            unlocks_caps
 LANG_ENGLISH         "UNLOCKS"
+
+REFERENCE            unlocks_max_rank_reward_text
+LANG_ENGLISH         "Sticker & Emblem"
 
 REFERENCE            unlocks_menu_desc
 LANG_ENGLISH         "Placeholder Unlocks Description"
@@ -14418,6 +14640,9 @@ LANG_ENGLISH         "View"
 
 REFERENCE            view_all_star_rewards
 LANG_ENGLISH         "[{ui_alt1}] View All Classic Spec Ops Rewards"
+
+REFERENCE            view_battle_pass
+LANG_ENGLISH         "View Battle Pass"
 
 REFERENCE            view_battle_pass_prompt
 LANG_ENGLISH         "[{ui_alt1}] View Battle Pass"
@@ -14737,6 +14962,9 @@ LANG_ENGLISH         "Weapon Equipped"
 REFERENCE            weapon_level_button
 LANG_ENGLISH         "LVL : &&1"
 
+REFERENCE            weapon_max_level_number
+LANG_ENGLISH         "Weapon Max Level &&1"
+
 REFERENCE            weapon_stats_caps
 LANG_ENGLISH         "WEAPON STATS"
 
@@ -14896,6 +15124,9 @@ LANG_ENGLISH         "Submachine Gun"
 REFERENCE            weaptype_single_sniper
 LANG_ENGLISH         "Sniper Rifle"
 
+REFERENCE            weaptype_single_tactical
+LANG_ENGLISH         "Tactical Rifle"
+
 REFERENCE            weaptype_smg
 LANG_ENGLISH         "SMGs"
 
@@ -14911,6 +15142,9 @@ LANG_ENGLISH         "Precision rifles fitted with high-powered scopes. Most eff
 REFERENCE            weaptype_support_desc
 LANG_ENGLISH         "Your streak count persists through death. Rewards support your team. "
 
+REFERENCE            weaptype_tactical
+LANG_ENGLISH         "Tactical Rifles"
+
 REFERENCE            wednesday
 LANG_ENGLISH         "Wednesday"
 
@@ -14925,6 +15159,9 @@ LANG_ENGLISH         "Placeholder Weekly Challenges Description"
 
 REFERENCE            welcome
 LANG_ENGLISH         "WELCOME"
+
+REFERENCE            welcome_to
+LANG_ENGLISH         "Welcome To"
 
 REFERENCE            west_operators
 LANG_ENGLISH         "West Operators"
@@ -15083,9 +15320,6 @@ LANG_ENGLISH         "What are calling cards?"
 REFERENCE            wz_tutorial_reward_popup_title
 LANG_ENGLISH         "Congratulations!"
 
-REFERENCE            wz_view_battle_pass
-LANG_ENGLISH         "View Battle Pass"
-
 REFERENCE            wzweapon
 LANG_ENGLISH         "Your weapon progression is also unified. Have immediate access to your current weapon setups and load outs."
 
@@ -15163,7 +15397,7 @@ REFERENCE            xp_required_prefix
 LANG_ENGLISH         "XP REQUIRED - &&1"
 
 REFERENCE            xp_required_rank
-LANG_ENGLISH         "&&1 / &&2 XP Required to Rank Up"
+LANG_ENGLISH         "&&1 / &&2"
 
 REFERENCE            xp_time_remaining
 LANG_ENGLISH         "Bonus XP Time"

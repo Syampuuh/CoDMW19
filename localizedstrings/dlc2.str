@@ -1,0 +1,32 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            bgb_dividend_yield
+LANG_ENGLISH         "Dividend Yield"
+
+REFERENCE            bgb_dividend_yield_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 5 minutes)
+Some of the points you earn create additional bonus points for you and all other nearby players."
+
+REFERENCE            bgb_quacknarok
+LANG_ENGLISH         "Quacknarok"
+
+REFERENCE            bgb_quacknarok_desc
+LANG_ENGLISH         "
+^6W^3H^5I^2M^7S^2I^5C^3A^6L
+^7Instant Activation (Lasts 5 minutes)
+Zombies wear a duck float, but it doesn't help anything.
+"
+
+REFERENCE            bgb_talkin_bout_regeneration
+LANG_ENGLISH         "Talkin' Bout Regeneration"
+
+REFERENCE            bgb_talkin_bout_regeneration_desc
+LANG_ENGLISH         "
+Instant Activation (Lasts 4 minutes)
+Your health constantly regenerates while moving."
+
+
+ENDMARKER

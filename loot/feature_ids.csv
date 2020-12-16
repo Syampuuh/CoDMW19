@@ -19,3 +19,4 @@
 350018,challenge_id_roze,4,0,0,0,LUA_MENU/OPERATOR_ROZE_SKIN_2,STORE_FLAVOR/OPERATOR_ROZE_EASTERN_A_FLAVOR,ui_loot_operator_east_roze_multi,ui_loot_operator_east_roze_multi,roze_eastern_d,
 350019,challenge_id_kyle,4,0,0,0,LUA_MENU/OPERATOR_KYLE_SKIN_1,STORE_FLAVOR/OPERATOR_KYLE_WESTERN_BASIC_FLAVOR,ui_loot_operator_west_kyle_multi,ui_loot_operator_west_kyle_multi,kyle_western_basic,
 350020,randomization,0,0,0,0,LUA_MENU_MP/RANDOM,LUA_MENU_MP/RANDOM_DESC_CALLING_CARDS,ui_emblem_randomize,ui_emblem_randomize,,
+24458083,t9_mtx_season_1_xp_boost,4,0,0,7000,LUA_MENU_MP/SEASON_1_XP_BOOST,LUA_MENU_MP/BATTLE_PASS_SEASONAL_XP_BOOST_SUBTITLE,icon_mtx_season_1_xp_boost,icon_mtx_season_1_xp_boost,,

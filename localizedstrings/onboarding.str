@@ -38,6 +38,9 @@ LANG_ENGLISH         "Armory"
 REFERENCE            armory_1
 LANG_ENGLISH         "The Armory holds your collection of Custom Mods and Blueprint weapons. These Weapons may be applied directly to your loadouts."
 
+REFERENCE            armory_1_wz
+LANG_ENGLISH         "The armory holds your collection of Custom Mods and Blueprint weapons from Black Ops Cold War and Modern Warfare. These Weapons may be applied directly to your loadouts."
+
 REFERENCE            armory_2
 LANG_ENGLISH         "Custom Mods are earned by leveling your Weapons. Each one is a save slot where you can customize and name your firearms for quick access."
 
@@ -49,6 +52,22 @@ LANG_ENGLISH         "Blueprint weapons are firearms with pre-configured
 attachments and custom cosmetics. Blueprints can be
 purchased in the ^5Store ^7, via the ^5Battle Pass^7, or unlocked in ^5Missions & Challenges^7.
 Blueprints will be shown in the armory and can be taken into Gunsmith for modification."
+
+REFERENCE            barracks_ch2_equip_title
+LANG_ENGLISH         "Equip Black Ops Cold War Content"
+
+REFERENCE            barracks_ch2mw_content_1
+LANG_ENGLISH         "Earn all types of content when you play Warzone, Call of Duty Black Ops and Modern Warfare."
+
+REFERENCE            barracks_ch2mw_content_2
+LANG_ENGLISH         "Your player Military Rank and Season Level information has been moved to the Progression Tab."
+
+REFERENCE            barracks_ch2wz_content_1
+LANG_ENGLISH         "Earn all types of content when you play Warzone, Call of Duty Black Ops and Modern Warfare."
+
+REFERENCE            barracks_ch2wz_content_2
+LANG_ENGLISH         "Your player Military Rank and Season Level information has been moved to the Progression Tab.
+"
 
 REFERENCE            battle_tracks
 LANG_ENGLISH         "War Tracks"
@@ -70,6 +89,12 @@ LANG_ENGLISH         "Edit loadout has been updated to show available blueprints
 
 REFERENCE            blueprint_store_2
 LANG_ENGLISH         "Blueprints obtainable through the ^5Store ^7are marked with a ^5Blueprint Tag^7. Find these blueprints in the ^5Blueprint Store ^7menu or the ^5Armory ^7menu."
+
+REFERENCE            blueprint_store_ch2wz_1
+LANG_ENGLISH         "Blueprint Weapons are unique firearms from Black Ops Cold War and Modern Warfare with pre-configured attachments and custom cosmetics."
+
+REFERENCE            blueprint_store_ch2wz_2
+LANG_ENGLISH         "Any Blueprints that you acquire can be applied directly to your Classes or taken into the Gunsmith for modification."
 
 REFERENCE            br_classic_hint_header_1
 LANG_ENGLISH         "Loot"
@@ -107,6 +132,34 @@ LANG_ENGLISH         "Complete Contracts, visit Buy Stations, and access your cu
 REFERENCE            br_hint_text_3
 LANG_ENGLISH         "Be the last one alive to win. Eliminate opponents and escape the gas."
 
+REFERENCE            career_leasonleveling_1
+LANG_ENGLISH         "Progress your Season and Prestige Levels wherever you play, with unified progression across Warzone, Black Ops Cold War, and Modern Warfare. Can you reach Prestige Master?"
+
+REFERENCE            career_leasonleveling_2
+LANG_ENGLISH         "Reach Season Level milestones to gain access to Seasonal Calling Card Challenges."
+
+REFERENCE            career_leasonleveling_3
+LANG_ENGLISH         "Earn a Prestige Key with each new Prestige Level, which can be used in the Black Ops Prestige Shop to unlock exclusive rewards. 
+Season Level resets at the end of each Season, but you will keep your earned Prestige Level."
+
+REFERENCE            career_leasonleveling_title
+LANG_ENGLISH         "Unified Season Leveling & Prestige"
+
+REFERENCE            career_newcareer_1
+LANG_ENGLISH         "Complete Military Ranks wherever you play, with unified progression across Warzone, Black Ops Cold War, and Modern Warfare.
+"
+
+REFERENCE            career_newcareer_2
+LANG_ENGLISH         "Unlock weapons from Black Ops Cold War and Modern Warfare. 
+Equip weapons from both titles in your Warzone Loadout."
+
+REFERENCE            career_newcareer_3
+LANG_ENGLISH         "Complete your Military Ranks and begin or continue your Prestige Journey with the launch of Season 1.
+"
+
+REFERENCE            career_newcareer_title
+LANG_ENGLISH         "Synchronized Progression"
+
 REFERENCE            cdl
 LANG_ENGLISH         "Call of Duty League??? RESTRICTIONS"
 
@@ -131,6 +184,29 @@ LANG_ENGLISH         "Play Call of Duty League??? Maps and Game Modes with Leagu
 
 REFERENCE            cdl_rules_3
 LANG_ENGLISH         "In the Call of Duty League??? playlists, your Private Match Loadouts are used and all items are unlocked. Restricted items will be replaced."
+
+REFERENCE            ch2_weapons_loadoutupdate_1
+LANG_ENGLISH         "Unlock weapons from Black Ops Cold War and Modern Warfare. 
+Equip weapons from both titles in your Warzone Loadout."
+
+REFERENCE            ch2_weapons_loadoutupdate_title
+LANG_ENGLISH         "Loadout Update"
+
+REFERENCE            challenges_ch2wz_reserves_1
+LANG_ENGLISH         "New Daily Challenges are added to the Reserves. Swap Challenges in and out to suit your play style and optimize your progression."
+
+REFERENCE            challenges_ch2wz_reserves_2
+LANG_ENGLISH         "Active Challenges that are swapped into the reserves will retain their progress until you come back to them later."
+
+REFERENCE            challenges_ch2wz_reserves_title
+LANG_ENGLISH         "Challenge Reserves"
+
+REFERENCE            challenges_daily_ch2wz_1
+LANG_ENGLISH         "Receive a set of 3 new Daily Challenges every day. 
+Warzone Daily Challenge categories include Reconnaissance, Combat and Support."
+
+REFERENCE            challenges_daily_ch2wz_title
+LANG_ENGLISH         "New Daily Challenges"
 
 REFERENCE            classified_challenge
 LANG_ENGLISH         "Classified Challenge Unlocked."
@@ -157,6 +233,21 @@ LANG_ENGLISH         "Primary and Secondary weapons form the base of your loadou
 
 REFERENCE            editdropkit_3
 LANG_ENGLISH         "You may create and name multiple loadouts for various gameplay situations. Be sure to experiment with new combinations as you level up and unlock new functionalities."
+
+REFERENCE            editdropkit_mw_editloadout_1
+LANG_ENGLISH         "Edit Loadout allows you to configure loadouts that can be accessed during the match. Assemble battle-ready combinations of Weapons, Equipment and Perks."
+
+REFERENCE            editdropkit_mw_editloadout_2
+LANG_ENGLISH         "Primary and Secondary weapons form the base of your loadout. Perks give your soldier abilities on the battlefield. "
+
+REFERENCE            editdropkit_mw_editloadout_3
+LANG_ENGLISH         " You may create and name multiple loadouts for various gameplay situations. Be sure to experiment with new combinations as you level."
+
+REFERENCE            editdropkit_wz_editloadout_2
+LANG_ENGLISH         "Primary and Secondary Weapons from Black Ops Cold War and Modern Warfare form the base of your loadout, Perks provide passive benefits on the battlefield, and Field Upgrades allow you to call in support mid-match. "
+
+REFERENCE            editdropkit_wz_editloadout_3
+LANG_ENGLISH         "Create and name multiple classes for various gameplay situations. Be sure to experiment with new combinations as you level up and unlock new gear and functionality."
 
 REFERENCE            elder
 LANG_ENGLISH         "Officer Progression"
@@ -223,6 +314,9 @@ LANG_ENGLISH         "Gunsmith is a deep weapon customization system that allows
 
 REFERENCE            gunsmith_2
 LANG_ENGLISH         "Leveling up your weapons in battle will unlock new attachments across 8 attachment zones, as well as weapon perks."
+
+REFERENCE            gunsmith_2_ch2_wz
+LANG_ENGLISH         "Unlock new attachment zones by leveling up your weapons during battle across Black Ops Cold War, Modern Warfare and Warzone."
 
 REFERENCE            gunsmith_3
 LANG_ENGLISH         "Upgrade your weapon with up to 5 attachments that significantly change how your weapon feels. Experiment with various combinations to suit your playstyle and different game modes."
@@ -373,11 +467,17 @@ LANG_ENGLISH         "Activate munitions using the radial menu. Points will be s
 REFERENCE            munitions
 LANG_ENGLISH         "Munitions"
 
-REFERENCE            onboarding_ch2_mwwz_loadout_boot_split
-LANG_ENGLISH         "Warzone and Modern Warfare Update"
+REFERENCE            onboarding_ch2_mw_boot_crossprogression_1
+LANG_ENGLISH         "Synchronized Progression begins with the launch of Black Ops Cold War: Season 1. Progress your Military Rank and unlock Black Ops Cold War items while playing all 3 Call of Duty titles."
 
-REFERENCE            onboarding_ch2_mwwz_loadout_boot_split_1
-LANG_ENGLISH         "Your Warzone loadout selection is now independent from Modern Warfare."
+REFERENCE            onboarding_ch2_mw_boot_crossprogression_2
+LANG_ENGLISH         "You will be able to progress your Military Rank, Season Levels, weapons, and operators across Warzone, Black Ops Cold War, and Modern Warfare."
+
+REFERENCE            onboarding_ch2_mw_boot_crossprogression_3
+LANG_ENGLISH         "Warzone, Black Ops Cold War, and Modern Warfare will share the Battle Pass. Purchase anywhere and unlock tiers by playing any of these titles."
+
+REFERENCE            onboarding_ch2_mwwz_crossprogression_title
+LANG_ENGLISH         "Synchronized Progression"
 
 REFERENCE            onboarding_ch2_mwwz_loadoutsplit
 LANG_ENGLISH         "Loadout Selection"
@@ -385,17 +485,28 @@ LANG_ENGLISH         "Loadout Selection"
 REFERENCE            onboarding_ch2_mwwz_loadoutsplit_1
 LANG_ENGLISH         "Warzone and Modern Warfare now each have a full list of loadouts that can be edited independently from each other."
 
+REFERENCE            onboarding_ch2_wz_boot_crossprogression_1
+LANG_ENGLISH         "Synchronized Progression begins with the launch of Black Ops Cold War: Season 1. Progress your Military Rank and unlock Black Ops Cold War items while playing all 3 Call of Duty titles.
+"
+
+REFERENCE            onboarding_ch2_wz_boot_crossprogression_2
+LANG_ENGLISH         "You will be able to progress your Military Rank, Season Levels, weapons, and operators across Warzone, Black Ops Cold War, and Modern Warfare.
+"
+
+REFERENCE            onboarding_ch2_wz_boot_crossprogression_3
+LANG_ENGLISH         "Warzone, Black Ops Cold War, and Modern Warfare will share the Battle Pass. Purchase anywhere and unlock tiers by playing any of these titles."
+
 REFERENCE            onboarding_text_rebirth_1
-LANG_ENGLISH         "Getting a kill highlights the victim's teammates locations for a brief delay in your mini-map."
+LANG_ENGLISH         "Survive during the Rebirth countdown to return your allies to the Warzone. Earn score to shorten the countdown."
 
 REFERENCE            onboarding_text_rebirth_2
-LANG_ENGLISH         "Bring your squad mates back by staying alive at all cost."
+LANG_ENGLISH         "Heads up! Rebirth supply boxes can be re-opened shortly after use."
 
 REFERENCE            onboarding_text_rebirth_3
-LANG_ENGLISH         "Be the last team alive to win."
+LANG_ENGLISH         "Getting a kill highlights the victim's allies positions for a brief period in your mini-map."
 
 REFERENCE            onboarding_title_rebirth_1
-LANG_ENGLISH         "On the Hunt"
+LANG_ENGLISH         "Rebirth"
 
 REFERENCE            operator_1
 LANG_ENGLISH         "Operators are soldiers of the Call of Duty??: Modern Warfare?? universe. Each one has their own personality and look on the battlefield."
@@ -424,7 +535,25 @@ LANG_ENGLISH         "You no longer need to manually select Operator Missions ??
 REFERENCE            operator_missions_3
 LANG_ENGLISH         "Core Missions are still available to select from the Missions screen. Make sure to complete your Missions and maximize your XP."
 
+REFERENCE            operator_missions_ch2wz_1
+LANG_ENGLISH         "Activate new Operator-specific Missions as you progress the Battle Pass each Season."
+
+REFERENCE            operator_missions_ch2wz_2
+LANG_ENGLISH         "Operator Missions can be progressed in Warzone as well as Black Ops Cold War."
+
 REFERENCE            operators
+LANG_ENGLISH         "Operators"
+
+REFERENCE            operators_ch2wz_only_1
+LANG_ENGLISH         "Operators are the soldiers of the Call of Duty universe. Each has their own personality and look on the battlefield."
+
+REFERENCE            operators_ch2wz_only_2
+LANG_ENGLISH         "Acquire new Operator skins by completing challenges, purchasing store bundles or via the Battle Pass."
+
+REFERENCE            operators_ch2wz_only_3
+LANG_ENGLISH         "Customize your Operators??? Skins and Finishing Moves to give them additional flair and suit your style."
+
+REFERENCE            operators_ch2wz_only_title
 LANG_ENGLISH         "Operators"
 
 REFERENCE            perk_1
@@ -479,7 +608,7 @@ REFERENCE            plunder_intro_popup_desc_1
 LANG_ENGLISH         "Learn and test out the new game mechanics of Plunder to get the edge on the opponent and receive an unique reward."
 
 REFERENCE            rebirth_hint_header_1
-LANG_ENGLISH         "Loot"
+LANG_ENGLISH         "Rebirth Supply Box"
 
 REFERENCE            rebirth_hint_header_2
 LANG_ENGLISH         "Rebirth"
@@ -488,10 +617,10 @@ REFERENCE            rebirth_hint_header_3
 LANG_ENGLISH         "Survive"
 
 REFERENCE            rebirth_hint_text_1
-LANG_ENGLISH         "Drop in gear up for combat. Gather weapons, ammo, and armor."
+LANG_ENGLISH         "Heads up! Rebirth supply boxes can be re-opened shortly after use."
 
 REFERENCE            rebirth_hint_text_2
-LANG_ENGLISH         "Bring your squad mates back by staying alive at all cost. Kill enemies to instantaneously revive one squad member."
+LANG_ENGLISH         "Survive during the Rebirth countdown to return your allies to the Warzone. Earn score to shorten the countdown."
 
 REFERENCE            rebirth_hint_text_3
 LANG_ENGLISH         "Be the last team alive to win. Eliminate opponents and escape the gas."
@@ -563,13 +692,13 @@ REFERENCE            sprays_desc_1
 LANG_ENGLISH         "Equip and preview both gestures and sprays here in the Barracks tab."
 
 REFERENCE            sprays_desc_2
-LANG_ENGLISH         "Press and hold [{ui_dpad_up}] to bring up the Gestures & Sprays menu in-game."
+LANG_ENGLISH         "Press and hold [{ONFOOT:+actionslot 1}] to bring up the Gestures & Sprays menu in-game."
 
 REFERENCE            sprays_desc_2_kbm
 LANG_ENGLISH         "Press and hold [{ONFOOT_MP:gesture_wheel}] to bring up the Gestures & Sprays menu in-game."
 
 REFERENCE            sprays_desc_3
-LANG_ENGLISH         "Use [{ui_right_stick}] to highlight a gesture or spray then release [{ui_dpad_up}] to use it."
+LANG_ENGLISH         "Use [{ui_right_stick}] to highlight a gesture or spray then release [{ONFOOT:+actionslot 1}] to use it."
 
 REFERENCE            sprays_desc_3_kbm
 LANG_ENGLISH         "Highlight a gesture or spray then release [{ONFOOT_MP:gesture_wheel}] to use it."
@@ -693,14 +822,26 @@ LANG_ENGLISH         "Choose between the various Warzone modes including Battle 
 REFERENCE            warzone_private_match_desc_3
 LANG_ENGLISH         "Ability to join up on different squads, team up with new players, or jump in with friends you already know."
 
+REFERENCE            weapon_customization
+LANG_ENGLISH         "Weapon Challenges"
+
+REFERENCE            weapon_customization_1
+LANG_ENGLISH         "Unlock Camos, Reticles, Charms and Stickers by completing weapon challenges during combat across Black Ops Cold War, Modern Warfare and Warzone."
+
 REFERENCE            weapon_mastery
 LANG_ENGLISH         "Weapon Mastery Challenges"
 
 REFERENCE            weapon_mastery_1
 LANG_ENGLISH         "The new obsidian camo is now available on all weapons. Unlock the camo by completing the obsidian challenge for each weapon."
 
+REFERENCE            weapon_mastery_1_ch2wz
+LANG_ENGLISH         "Master each Modern Warfare weapon and unlock exclusive rewards by completing various challenge types. Weapon mastery challenges become available after obtaining a weapon's gold camo."
+
 REFERENCE            weapon_mastery_2
 LANG_ENGLISH         "Master each weapon and unlock exclusive rewards by completing various challenge types. Weapon mastery challenges become available after obtaining a weapon's gold camo."
+
+REFERENCE            weapon_mastery_2_ch2wz
+LANG_ENGLISH         "Progress Weapon Mastery and Class Mastery Challenges across Black Ops Cold War and Warzone to earn Camos, Calling Cards, and other rewards. Do you have what it takes to earn Dark Matter?"
 
 REFERENCE            wz_congratulation_popup_desc_1
 LANG_ENGLISH         "Congratulations on completing the Warzone training. Replay it anytime by accessing it from the play menu."

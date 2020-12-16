@@ -1,0 +1,4077 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            acog_t901
+LANG_ENGLISH         "VLK 3.0x Optic"
+
+REFERENCE            acog_t902
+LANG_ENGLISH         "Axial Arms 3x"
+
+REFERENCE            acog_t903
+LANG_ENGLISH         "Royal & Kross 4x"
+
+REFERENCE            acog_t904
+LANG_ENGLISH         "Visiontech 2x"
+
+REFERENCE            barheavy_t9accurate01
+LANG_ENGLISH         "Heavey Barrel Base"
+
+REFERENCE            barheavy_t9accurate02
+LANG_ENGLISH         "Heavey Barrel Pro"
+
+REFERENCE            barlong_t9accurate01
+LANG_ENGLISH         "Long Barrel Base"
+
+REFERENCE            barlong_t9accurate02
+LANG_ENGLISH         "Long Barrel Pro"
+
+REFERENCE            barrel_ar_t901
+LANG_ENGLISH         "19.7" Takedown"
+
+REFERENCE            barrel_ar_t902
+LANG_ENGLISH         "19.7" Ranger"
+
+REFERENCE            barrel_barrel2_ar_damage
+LANG_ENGLISH         "20" Liberator"
+
+REFERENCE            barrel_barrel2_ar_desc
+LANG_ENGLISH         "Cold hammer-forged barrel.  Extended length improves bullet speed."
+
+REFERENCE            barrel_barrel2_ar_fastfire
+LANG_ENGLISH         "21.2" Ranger"
+
+REFERENCE            barrel_barrel2_ar_fasthandling
+LANG_ENGLISH         "16.2" GRU Composite"
+
+REFERENCE            barrel_barrel2_ar_fasthandling_desc
+LANG_ENGLISH         "Reinforced by a continuous carbon fiber filament.  Improves muzzle velocity and damage range."
+
+REFERENCE            barrel_barrel2_ar_mobility
+LANG_ENGLISH         "16.5" Ranger"
+
+REFERENCE            barrel_barrel2_ar_standard
+LANG_ENGLISH         "13.7" Extended"
+
+REFERENCE            barrel_barrel2_ar_t9_desc
+LANG_ENGLISH         "Cold hammer-forged barrel.  Extended length improves bullet speed."
+
+REFERENCE            barrel_barrel2_lm_t9_desc
+LANG_ENGLISH         "Cut down steel barrel.  Reduced weapon weight maximizes movement speed when firing."
+
+REFERENCE            barrel_barrel2_lmg_accurate
+LANG_ENGLISH         "16" SOR Cut Down"
+
+REFERENCE            barrel_barrel2_lmg_desc
+LANG_ENGLISH         "Cut down steel barrel.  Reduced weapon weight maximizes movement speed when firing."
+
+REFERENCE            barrel_barrel2_lmg_light
+LANG_ENGLISH         "14.7" GRU Cut Down"
+
+REFERENCE            barrel_barrel2_lmg_slowfire
+LANG_ENGLISH         "17.5" SOR Cut Down"
+
+REFERENCE            barrel_barrel2_pi_t9_desc
+LANG_ENGLISH         "Extended chrome lined barrel.  Button rifled to improve bullet velocity."
+
+REFERENCE            barrel_barrel2_pistol_burst
+LANG_ENGLISH         "7.8" Chrome Lined"
+
+REFERENCE            barrel_barrel2_pistol_desc
+LANG_ENGLISH         "Extended chrome lined barrel.  Button rifled to improve bullet velocity."
+
+REFERENCE            barrel_barrel2_pistol_revolver
+LANG_ENGLISH         "7.5" Chrome Lined"
+
+REFERENCE            barrel_barrel2_pistol_semiauto
+LANG_ENGLISH         "7.12" Chrome Lined"
+
+REFERENCE            barrel_barrel2_sh_t9_desc
+LANG_ENGLISH         "Extended length shotgun barrel maximizes damage range. "
+
+REFERENCE            barrel_barrel2_shotgun_desc
+LANG_ENGLISH         "Extended length shotgun barrel maximizes damage range. "
+
+REFERENCE            barrel_barrel2_shotgun_fullauto
+LANG_ENGLISH         "14.6" Ranger"
+
+REFERENCE            barrel_barrel2_shotgun_pump
+LANG_ENGLISH         "24.1" Ranger"
+
+REFERENCE            barrel_barrel2_shotgun_semiauto
+LANG_ENGLISH         "24.6" Ranger"
+
+REFERENCE            barrel_barrel2_sm_t9_desc
+LANG_ENGLISH         "Nitride lined barrel.  Button rifled to improve bullet speed. "
+
+REFERENCE            barrel_barrel2_smg_burst
+LANG_ENGLISH         "9.5" Ranger"
+
+REFERENCE            barrel_barrel2_smg_capacity
+LANG_ENGLISH         "8.1" Liberator"
+
+REFERENCE            barrel_barrel2_smg_desc
+LANG_ENGLISH         "Nitride lined barrel.  Button rifled to improve bullet speed. "
+
+REFERENCE            barrel_barrel2_smg_fastfire
+LANG_ENGLISH         "5.3" Ranger"
+
+REFERENCE            barrel_barrel2_smg_handling
+LANG_ENGLISH         "10.5" Ranger"
+
+REFERENCE            barrel_barrel2_smg_heavy
+LANG_ENGLISH         "10.3" Liberator"
+
+REFERENCE            barrel_barrel2_smg_standard
+LANG_ENGLISH         "9.5" Ranger"
+
+REFERENCE            barrel_barrel2_sn_t9_desc
+LANG_ENGLISH         "Machine rifled barrel. Extended length maximizes bullet velocity."
+
+REFERENCE            barrel_barrel2_sniper_desc
+LANG_ENGLISH         "Machine rifled barrel. Extended length maximizes bullet velocity."
+
+REFERENCE            barrel_barrel2_sniper_powersemi
+LANG_ENGLISH         "22.6" Combat Recon"
+
+REFERENCE            barrel_barrel2_sniper_quickscope
+LANG_ENGLISH         "27.2" Combat Recon"
+
+REFERENCE            barrel_barrel2_sniper_standard
+LANG_ENGLISH         "29.1" Combat Recon"
+
+REFERENCE            barrel_barrel2_tr_damagesemi
+LANG_ENGLISH         "16.4" Titanium"
+
+REFERENCE            barrel_barrel2_tr_desc
+LANG_ENGLISH         "Medium contour steel barrel.  Button rifling improves fire rate."
+
+REFERENCE            barrel_barrel2_tr_longburst
+LANG_ENGLISH         "16.3" Titanium"
+
+REFERENCE            barrel_barrel2_tr_powerburst
+LANG_ENGLISH         "17" Titanium"
+
+REFERENCE            barrel_barrel2_tr_precisionsemi
+LANG_ENGLISH         "16.3" Titanium"
+
+REFERENCE            barrel_barrel_ar_damage
+LANG_ENGLISH         "18.2" Takedown"
+
+REFERENCE            barrel_barrel_ar_damage_desc
+LANG_ENGLISH         "Extended chrome lined barrel.  Improves damage range."
+
+REFERENCE            barrel_barrel_ar_desc
+LANG_ENGLISH         "Tapered barrel with a chrome lined bore.  Extended length improves bullet speed.  "
+
+REFERENCE            barrel_barrel_ar_fastfire
+LANG_ENGLISH         "20.3" Takedown"
+
+REFERENCE            barrel_barrel_ar_fastfire_desc
+LANG_ENGLISH         "Extended chrome lined barrel.  Improves damage range. "
+
+REFERENCE            barrel_barrel_ar_fasthandling
+LANG_ENGLISH         "15.7" Contour M2"
+
+REFERENCE            barrel_barrel_ar_fasthandling_desc
+LANG_ENGLISH         "Cut down barrel reduces weapon weight to improve maneuverability."
+
+REFERENCE            barrel_barrel_ar_mobility
+LANG_ENGLISH         "15.5" Takedown"
+
+REFERENCE            barrel_barrel_ar_mobility_desc
+LANG_ENGLISH         "Extended chrome lined barrel.  Improves damage range. "
+
+REFERENCE            barrel_barrel_ar_standard
+LANG_ENGLISH         "13.7" Takedown"
+
+REFERENCE            barrel_barrel_ar_standard_desc
+LANG_ENGLISH         "Tapered barrel with chrome lined bore and chamber.  Improves damage range. "
+
+REFERENCE            barrel_barrel_ar_t901
+LANG_ENGLISH         "19.7" Takedown"
+
+REFERENCE            barrel_barrel_ar_t901_desc
+LANG_ENGLISH         "Extended tapered barrel.  Improves damage range. "
+
+REFERENCE            barrel_barrel_ar_t902
+LANG_ENGLISH         "19.7" Ranger"
+
+REFERENCE            barrel_barrel_ar_t9_desc
+LANG_ENGLISH         "Tapered barrel with a chrome lined bore.  Extended length improves bullet speed.  "
+
+REFERENCE            barrel_barrel_lm_t9_desc
+LANG_ENGLISH         "Cut down barrel reduces weapon weight.  Improves movement speed when firing."
+
+REFERENCE            barrel_barrel_lmg_accurate
+LANG_ENGLISH         "16" Cut Down"
+
+REFERENCE            barrel_barrel_lmg_desc
+LANG_ENGLISH         "Cut down barrel reduces weapon weight.  Improves movement speed when firing."
+
+REFERENCE            barrel_barrel_lmg_light
+LANG_ENGLISH         "16.5" Cut Down"
+
+REFERENCE            barrel_barrel_lmg_slowfire
+LANG_ENGLISH         "18" Cut Down"
+
+REFERENCE            barrel_barrel_pi_t9_desc
+LANG_ENGLISH         "Extended length barrel.  Improves bullet velocity. "
+
+REFERENCE            barrel_barrel_pistol_burst
+LANG_ENGLISH         "7.8" Extended"
+
+REFERENCE            barrel_barrel_pistol_desc
+LANG_ENGLISH         "Extended length barrel.  Improves bullet velocity. "
+
+REFERENCE            barrel_barrel_pistol_revolver
+LANG_ENGLISH         "7.2" Extended"
+
+REFERENCE            barrel_barrel_pistol_semiauto
+LANG_ENGLISH         "6.83" Extended"
+
+REFERENCE            barrel_barrel_sh_t9_desc
+LANG_ENGLISH         "Extended shotgun barrel with a chrome lined bore.  Improves damage range."
+
+REFERENCE            barrel_barrel_shotgun_desc
+LANG_ENGLISH         "Extended shotgun barrel with a chrome lined bore.  Improves damage range."
+
+REFERENCE            barrel_barrel_shotgun_fullauto
+LANG_ENGLISH         "13.7" Extended"
+
+REFERENCE            barrel_barrel_shotgun_pump
+LANG_ENGLISH         "22" Extended"
+
+REFERENCE            barrel_barrel_shotgun_semiauto
+LANG_ENGLISH         "22.7" Extended"
+
+REFERENCE            barrel_barrel_sm_t9_desc
+LANG_ENGLISH         "Thin profile barrel forged from chromoly steel.  Improves bullet speed. "
+
+REFERENCE            barrel_barrel_smg_burst
+LANG_ENGLISH         "8.9" Extended"
+
+REFERENCE            barrel_barrel_smg_capacity
+LANG_ENGLISH         "7.1" Extended"
+
+REFERENCE            barrel_barrel_smg_desc
+LANG_ENGLISH         "Thin profile barrel forged from chromoly steel.  Improves bullet speed. "
+
+REFERENCE            barrel_barrel_smg_fastfire
+LANG_ENGLISH         "5.3" Extended"
+
+REFERENCE            barrel_barrel_smg_handling
+LANG_ENGLISH         "8.9" Extended"
+
+REFERENCE            barrel_barrel_smg_heavy
+LANG_ENGLISH         "9.3" Extended"
+
+REFERENCE            barrel_barrel_smg_standard
+LANG_ENGLISH         "9.5" Extended"
+
+REFERENCE            barrel_barrel_sn_t9_desc
+LANG_ENGLISH         "Chrome lined fluted barrel.  Improves projectile speed."
+
+REFERENCE            barrel_barrel_sniper_desc
+LANG_ENGLISH         "Chrome lined fluted barrel.  Improves projectile speed."
+
+REFERENCE            barrel_barrel_sniper_powersemi
+LANG_ENGLISH         "22.2" Extended"
+
+REFERENCE            barrel_barrel_sniper_quickscope
+LANG_ENGLISH         "25" Extended"
+
+REFERENCE            barrel_barrel_sniper_standard
+LANG_ENGLISH         "28.2" Extended"
+
+REFERENCE            barrel_barrel_tr_damagesemi
+LANG_ENGLISH         "16.4" Rapid Fire"
+
+REFERENCE            barrel_barrel_tr_desc
+LANG_ENGLISH         "Steel barrel with a modified gas block.  Improves fire rate."
+
+REFERENCE            barrel_barrel_tr_longburst
+LANG_ENGLISH         "16.3" Rapid Fire"
+
+REFERENCE            barrel_barrel_tr_powerburst
+LANG_ENGLISH         "18" Rapid Fire"
+
+REFERENCE            barrel_barrel_tr_precisionsemi
+LANG_ENGLISH         "17" Rapid Fire"
+
+REFERENCE            barrel_heavy2_ar_damage
+LANG_ENGLISH         "15.5" Ultralight"
+
+REFERENCE            barrel_heavy2_ar_damage_desc
+LANG_ENGLISH         "Lightweight cut down barrel.  Reduced weight improves maneuverability."
+
+REFERENCE            barrel_heavy2_ar_desc
+LANG_ENGLISH         "Hammer forged from chromoly steel.  Button rifled to improve damage range. "
+
+REFERENCE            barrel_heavy2_ar_fastfire
+LANG_ENGLISH         "17.9" Ultralight"
+
+REFERENCE            barrel_heavy2_ar_fastfire_desc
+LANG_ENGLISH         "Shortened barrel.  Reduced weight improves maneuverability. "
+
+REFERENCE            barrel_heavy2_ar_fasthandling
+LANG_ENGLISH         "15.3" Ultralight"
+
+REFERENCE            barrel_heavy2_ar_mobility
+LANG_ENGLISH         "13.7" Ultralight"
+
+REFERENCE            barrel_heavy2_ar_mobility_desc
+LANG_ENGLISH         "Shortened barrel.  Reduced weight improves maneuverability."
+
+REFERENCE            barrel_heavy2_ar_standard
+LANG_ENGLISH         "11.8" Ranger"
+
+REFERENCE            barrel_heavy2_ar_standard_desc
+LANG_ENGLISH         "Hammer forged from chromoly steel.  Improves ballistic speed."
+
+REFERENCE            barrel_heavy2_ar_t9_desc
+LANG_ENGLISH         "Hammer forged from chromoly steel.  Button rifled to improve damage range. "
+
+REFERENCE            barrel_heavy2_lm_t9_desc
+LANG_ENGLISH         "Extended button rifled barrel.  Improves damage range. "
+
+REFERENCE            barrel_heavy2_lmg_accurate
+LANG_ENGLISH         "20.7" Match Grade"
+
+REFERENCE            barrel_heavy2_lmg_desc
+LANG_ENGLISH         "Extended button rifled barrel.  Improves damage range. "
+
+REFERENCE            barrel_heavy2_lmg_light
+LANG_ENGLISH         "20.3" Match Grade"
+
+REFERENCE            barrel_heavy2_lmg_slowfire
+LANG_ENGLISH         "22.8" Match Grade"
+
+REFERENCE            barrel_heavy2_pi_t9_desc
+LANG_ENGLISH         "Heavy profile pistol barrel.  Improves damage range. "
+
+REFERENCE            barrel_heavy2_pistol_burst
+LANG_ENGLISH         "6.5" Takedown"
+
+REFERENCE            barrel_heavy2_pistol_desc
+LANG_ENGLISH         "Heavy profile pistol barrel.  Improves damage range. "
+
+REFERENCE            barrel_heavy2_pistol_revolver
+LANG_ENGLISH         "4.7" Takedown"
+
+REFERENCE            barrel_heavy2_pistol_semiauto
+LANG_ENGLISH         "5.63" Takedown"
+
+REFERENCE            barrel_heavy2_sh_t9_desc
+LANG_ENGLISH         "Shortened steel barrel with an improved gas system.  Increases rate of fire. "
+
+REFERENCE            barrel_heavy2_shotgun_desc
+LANG_ENGLISH         "Shortened steel barrel with an improved gas system.  Increases rate of fire. "
+
+REFERENCE            barrel_heavy2_shotgun_fullauto
+LANG_ENGLISH         "13.3" Hammer Forged"
+
+REFERENCE            barrel_heavy2_shotgun_pump
+LANG_ENGLISH         "19.3" Hammer Forged"
+
+REFERENCE            barrel_heavy2_shotgun_semiauto
+LANG_ENGLISH         "20.3" Hammer Forged"
+
+REFERENCE            barrel_heavy2_sm_t9_desc
+LANG_ENGLISH         "Nitride lined barrel.  Prevents bending to improve damage range."
+
+REFERENCE            barrel_heavy2_smg_burst
+LANG_ENGLISH         "10.2" Rifled"
+
+REFERENCE            barrel_heavy2_smg_capacity
+LANG_ENGLISH         "7.6" Rifled"
+
+REFERENCE            barrel_heavy2_smg_desc
+LANG_ENGLISH         "Nitride lined barrel.  Prevents bending to improve damage range."
+
+REFERENCE            barrel_heavy2_smg_fastfire
+LANG_ENGLISH         "6.5" Rifled"
+
+REFERENCE            barrel_heavy2_smg_handling
+LANG_ENGLISH         "9.5" Rifled"
+
+REFERENCE            barrel_heavy2_smg_heavy
+LANG_ENGLISH         "8.4" Rifled"
+
+REFERENCE            barrel_heavy2_smg_standard
+LANG_ENGLISH         "9.1" Rifled"
+
+REFERENCE            barrel_heavy2_sn_t9_desc
+LANG_ENGLISH         "Shortened steel barrel.  Reduced weight improves maneuverability."
+
+REFERENCE            barrel_heavy2_sniper_desc
+LANG_ENGLISH         "Shortened steel barrel.  Reduced weight improves maneuverability."
+
+REFERENCE            barrel_heavy2_sniper_powersemi
+LANG_ENGLISH         "19.5" Ultralight"
+
+REFERENCE            barrel_heavy2_sniper_quickscope
+LANG_ENGLISH         "21.7" Ultralight"
+
+REFERENCE            barrel_heavy2_sniper_standard
+LANG_ENGLISH         "26.5" Hammer Forged"
+
+REFERENCE            barrel_heavy2_sniper_t9_desc
+LANG_ENGLISH         "Shortened steel barrel. Button rifled for an improved fire rate."
+
+REFERENCE            barrel_heavy2_tr_damagesemi
+LANG_ENGLISH         "21.5" Match Grade"
+
+REFERENCE            barrel_heavy2_tr_desc
+LANG_ENGLISH         "Extended button rifled barrel hammer forged from chromoly steel.  Improves damage range. 
+
+"
+
+REFERENCE            barrel_heavy2_tr_longburst
+LANG_ENGLISH         "20.5" Match Grade"
+
+REFERENCE            barrel_heavy2_tr_powerburst
+LANG_ENGLISH         "19.6" Match Grade"
+
+REFERENCE            barrel_heavy2_tr_precisionsemi
+LANG_ENGLISH         "20.8" Match Grade"
+
+REFERENCE            barrel_heavy_ar_damage
+LANG_ENGLISH         "16.5" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_ar_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_ar_fastfire
+LANG_ENGLISH         "18.7" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_ar_fasthandling
+LANG_ENGLISH         "16.2" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_ar_mobility
+LANG_ENGLISH         "13.7" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_ar_standard
+LANG_ENGLISH         "12.5" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_ar_t901
+LANG_ENGLISH         "17.7" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_ar_t902
+LANG_ENGLISH         "16.5" Ultralight"
+
+REFERENCE            barrel_heavy_ar_t902_desc
+LANG_ENGLISH         "Lightweight cut down barrel.  Reduced weight improves maneuverability."
+
+REFERENCE            barrel_heavy_ar_t9_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_lm_t9_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves bullet speed, range, and damage."
+
+REFERENCE            barrel_heavy_lmg_accurate
+LANG_ENGLISH         "21.8" Task Force"
+
+REFERENCE            barrel_heavy_lmg_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves bullet speed, range, and damage."
+
+REFERENCE            barrel_heavy_lmg_light
+LANG_ENGLISH         "20.3" Task Force"
+
+REFERENCE            barrel_heavy_lmg_slowfire
+LANG_ENGLISH         "22.8" Task Force"
+
+REFERENCE            barrel_heavy_pi_t9_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_pistol_burst
+LANG_ENGLISH         "6.5" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_pistol_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_pistol_revolver
+LANG_ENGLISH         "5.9" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_pistol_semiauto
+LANG_ENGLISH         "5.42" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_sh_t9_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_shotgun_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_shotgun_fullauto
+LANG_ENGLISH         "14.6" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_shotgun_pump
+LANG_ENGLISH         "20.4" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_shotgun_semiauto
+LANG_ENGLISH         "23.5" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_sm_t9_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_smg_burst
+LANG_ENGLISH         "9.6" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_smg_capacity
+LANG_ENGLISH         "7" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_smg_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_smg_fastfire
+LANG_ENGLISH         "6.5" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_smg_handling
+LANG_ENGLISH         "9.5" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_smg_heavy
+LANG_ENGLISH         "8.4" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_smg_standard
+LANG_ENGLISH         "10.1" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_sn_t9_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_sniper_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_heavy_sniper_powersemi
+LANG_ENGLISH         "21.8" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_sniper_quickscope
+LANG_ENGLISH         "23.3" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_sniper_standard
+LANG_ENGLISH         "26.5" Cavalry Lancer"
+
+REFERENCE            barrel_heavy_tr_damagesemi
+LANG_ENGLISH         "21.5" Task Force"
+
+REFERENCE            barrel_heavy_tr_desc
+LANG_ENGLISH         "Nitride lined barrel.  Button rifled to improve bullet speed, range, and damage."
+
+REFERENCE            barrel_heavy_tr_longburst
+LANG_ENGLISH         "20.5" Task Force"
+
+REFERENCE            barrel_heavy_tr_powerburst
+LANG_ENGLISH         "19.8" Task Force"
+
+REFERENCE            barrel_heavy_tr_precisionsemi
+LANG_ENGLISH         "20.8" Task Force"
+
+REFERENCE            barrel_mixbarrel2_ar_damage
+LANG_ENGLISH         "20" Spetsnaz RPK Barrel"
+
+REFERENCE            barrel_mixbarrel2_ar_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves bullet speed, range, and damage."
+
+REFERENCE            barrel_mixbarrel2_ar_fastfire
+LANG_ENGLISH         "19.5" Task Force"
+
+REFERENCE            barrel_mixbarrel2_ar_fasthandling
+LANG_ENGLISH         "16.5" CMV Mil-Spec"
+
+REFERENCE            barrel_mixbarrel2_ar_fasthandling_desc
+LANG_ENGLISH         "Refit barrel with polygonal rifling.  Improves strafe speed and damage."
+
+REFERENCE            barrel_mixbarrel2_ar_mobility
+LANG_ENGLISH         "15.5" Task Force"
+
+REFERENCE            barrel_mixbarrel2_ar_standard
+LANG_ENGLISH         "13.5" Task Force"
+
+REFERENCE            barrel_mixbarrel2_ar_t9_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves bullet speed, range, and damage."
+
+REFERENCE            barrel_mixbarrel2_lm_t9_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_mixbarrel2_lmg_accurate
+LANG_ENGLISH         "17.8" Cavalry Lancer"
+
+REFERENCE            barrel_mixbarrel2_lmg_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_mixbarrel2_lmg_light
+LANG_ENGLISH         "16.5" Spetsnaz RPK Barrel"
+
+REFERENCE            barrel_mixbarrel2_lmg_slowfire
+LANG_ENGLISH         "18.9" Cavalry Lancer"
+
+REFERENCE            barrel_mixbarrel2_pi_t9_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves bullet speed, range, and damage.
+"
+
+REFERENCE            barrel_mixbarrel2_pistol_burst
+LANG_ENGLISH         "7.2" Task Force"
+
+REFERENCE            barrel_mixbarrel2_pistol_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves bullet speed, range, and damage.
+"
+
+REFERENCE            barrel_mixbarrel2_pistol_revolver
+LANG_ENGLISH         "7.2" Task Force"
+
+REFERENCE            barrel_mixbarrel2_pistol_semiauto
+LANG_ENGLISH         "6.53" Task Force"
+
+REFERENCE            barrel_mixbarrel2_sh_t9_desc
+LANG_ENGLISH         "Extended smooth bore barrel.  Improves pellet damage against enemy personnel."
+
+REFERENCE            barrel_mixbarrel2_shotgun_desc
+LANG_ENGLISH         "Extended smooth bore barrel.  Improves pellet damage against enemy personnel."
+
+REFERENCE            barrel_mixbarrel2_shotgun_fullauto
+LANG_ENGLISH         "14.4" Task Force"
+
+REFERENCE            barrel_mixbarrel2_shotgun_pump
+LANG_ENGLISH         "25.2" Task Force"
+
+REFERENCE            barrel_mixbarrel2_shotgun_pump_desc
+LANG_ENGLISH         "Bright flashlight attachment crafted from aircraft grade aluminum to reveal enemy data."
+
+REFERENCE            barrel_mixbarrel2_shotgun_semiauto
+LANG_ENGLISH         "24.8" Task Force"
+
+REFERENCE            barrel_mixbarrel2_sm_t9_desc
+LANG_ENGLISH         "Extended barrel.  Improves bullet speed, range, and damage against enemy personnel.
+"
+
+REFERENCE            barrel_mixbarrel2_smg_burst
+LANG_ENGLISH         "10.5" Task Force"
+
+REFERENCE            barrel_mixbarrel2_smg_capacity
+LANG_ENGLISH         "7.4" Task Force"
+
+REFERENCE            barrel_mixbarrel2_smg_desc
+LANG_ENGLISH         "Extended barrel.  Improves bullet speed, range, and damage against enemy personnel.
+"
+
+REFERENCE            barrel_mixbarrel2_smg_fastfire
+LANG_ENGLISH         "5.9" Task Force"
+
+REFERENCE            barrel_mixbarrel2_smg_handling
+LANG_ENGLISH         "10.6" Task Force"
+
+REFERENCE            barrel_mixbarrel2_smg_heavy
+LANG_ENGLISH         "10.3" Task Force"
+
+REFERENCE            barrel_mixbarrel2_smg_standard
+LANG_ENGLISH         "9.5" Task Force"
+
+REFERENCE            barrel_mixbarrel2_sn_t9_desc
+LANG_ENGLISH         "Extended fluted barrel with polygonal rifling.  Improves bullet speed, fire rate, and damage."
+
+REFERENCE            barrel_mixbarrel2_sniper_desc
+LANG_ENGLISH         "Extended fluted barrel with polygonal rifling.  Improves bullet speed, fire rate, and damage."
+
+REFERENCE            barrel_mixbarrel2_sniper_powersemi
+LANG_ENGLISH         "22.6" Tiger Team"
+
+REFERENCE            barrel_mixbarrel2_sniper_quickscope
+LANG_ENGLISH         "26.5" Tiger Team"
+
+REFERENCE            barrel_mixbarrel2_sniper_standard
+LANG_ENGLISH         "28.2" Tiger Team"
+
+REFERENCE            barrel_mixbarrel2_tr_damagesemi
+LANG_ENGLISH         "18.3" Cavalry Lancer"
+
+REFERENCE            barrel_mixbarrel2_tr_desc
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            barrel_mixbarrel2_tr_longburst
+LANG_ENGLISH         "15.9" Cavalry Lancer"
+
+REFERENCE            barrel_mixbarrel2_tr_powerburst
+LANG_ENGLISH         "17.9" Cavalry Lancer"
+
+REFERENCE            barrel_mixbarrel2_tr_precisionsemi
+LANG_ENGLISH         "17.1" Cavalry Lancer"
+
+REFERENCE            barrel_mixbarrel_ar_damage
+LANG_ENGLISH         "18.2" VDV Reinforced "
+
+REFERENCE            barrel_mixbarrel_ar_desc
+LANG_ENGLISH         "Extended barrel button rifled to improve damage range and bullet speed. "
+
+REFERENCE            barrel_mixbarrel_ar_fastfire
+LANG_ENGLISH         "19.5" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_ar_fasthandling
+LANG_ENGLISH         "16.7" VDV Reinforced"
+
+REFERENCE            barrel_mixbarrel_ar_mobility
+LANG_ENGLISH         "15.5" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_ar_standard
+LANG_ENGLISH         "13.5" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_ar_t901
+LANG_ENGLISH         "15.5" Contour"
+
+REFERENCE            barrel_mixbarrel_ar_t901_desc
+LANG_ENGLISH         "Cut down barrel reduces weapon weight to improve maneuverability. "
+
+REFERENCE            barrel_mixbarrel_ar_t902
+LANG_ENGLISH         "15" CMV Mil-Spec"
+
+REFERENCE            barrel_mixbarrel_ar_t902_desc
+LANG_ENGLISH         "Shortened barrel with polygonal rifling.  Improves strafe speed and damage."
+
+REFERENCE            barrel_mixbarrel_ar_t9_desc
+LANG_ENGLISH         "Extended barrel button rifled to improve damage range and bullet speed. "
+
+REFERENCE            barrel_mixbarrel_lm_t9_desc
+LANG_ENGLISH         "Shortened barrel improves movement speed.  Rifling improves damage against enemies."
+
+REFERENCE            barrel_mixbarrel_lmg_accurate
+LANG_ENGLISH         "18.6" Division"
+
+REFERENCE            barrel_mixbarrel_lmg_desc
+LANG_ENGLISH         "Shortened barrel improves movement speed.  Rifling improves damage against enemies."
+
+REFERENCE            barrel_mixbarrel_lmg_light
+LANG_ENGLISH         "16.5" Division"
+
+REFERENCE            barrel_mixbarrel_lmg_slowfire
+LANG_ENGLISH         "18.9" Division"
+
+REFERENCE            barrel_mixbarrel_pi_t9_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves ballistic speed and damage range."
+
+REFERENCE            barrel_mixbarrel_pistol_burst
+LANG_ENGLISH         "7.2" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_pistol_desc
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves ballistic speed and damage range."
+
+REFERENCE            barrel_mixbarrel_pistol_revolver
+LANG_ENGLISH         "6.4" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_pistol_semiauto
+LANG_ENGLISH         "6.45" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_sh_t9_desc
+LANG_ENGLISH         "Extended stress relieved steel barrel.  Improves fire rate and damage range. "
+
+REFERENCE            barrel_mixbarrel_shotgun_desc
+LANG_ENGLISH         "Extended stress relieved steel barrel.  Improves fire rate and damage range. "
+
+REFERENCE            barrel_mixbarrel_shotgun_fullauto
+LANG_ENGLISH         "13" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_shotgun_pump
+LANG_ENGLISH         "21.6" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_shotgun_semiauto
+LANG_ENGLISH         "21.4" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_sm_t9_desc
+LANG_ENGLISH         "Extended heavy profile barrel.  Improves bullet speed and damage range."
+
+REFERENCE            barrel_mixbarrel_smg_burst
+LANG_ENGLISH         "10.5" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_smg_capacity
+LANG_ENGLISH         "6.7" VDV Reinforced"
+
+REFERENCE            barrel_mixbarrel_smg_desc
+LANG_ENGLISH         "Extended heavy profile barrel.  Improves bullet speed and damage range."
+
+REFERENCE            barrel_mixbarrel_smg_fastfire
+LANG_ENGLISH         "6.1" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_smg_handling
+LANG_ENGLISH         "10.1" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_smg_heavy
+LANG_ENGLISH         "9.3" VDV Reinforced"
+
+REFERENCE            barrel_mixbarrel_smg_standard
+LANG_ENGLISH         "9.5" Reinforced Heavy"
+
+REFERENCE            barrel_mixbarrel_sn_t9_desc
+LANG_ENGLISH         "Fluted barrel made from lighter components.  Improves bullet speed and fire rate. "
+
+REFERENCE            barrel_mixbarrel_sniper_desc
+LANG_ENGLISH         "Fluted barrel made from lighter components.  Improves bullet speed and fire rate. "
+
+REFERENCE            barrel_mixbarrel_sniper_powersemi
+LANG_ENGLISH         "20.6" Rapid Fire"
+
+REFERENCE            barrel_mixbarrel_sniper_quickscope
+LANG_ENGLISH         "25" Reinforced Heavy "
+
+REFERENCE            barrel_mixbarrel_sniper_standard
+LANG_ENGLISH         "25.8" Rapid Fire"
+
+REFERENCE            barrel_mixbarrel_tr_damagesemi
+LANG_ENGLISH         "18.3" Strike Team"
+
+REFERENCE            barrel_mixbarrel_tr_desc
+LANG_ENGLISH         "Phosphate coated barrel.  Improves fire rate and damage against enemy personnel."
+
+REFERENCE            barrel_mixbarrel_tr_longburst
+LANG_ENGLISH         "15.9" Strike Team"
+
+REFERENCE            barrel_mixbarrel_tr_powerburst
+LANG_ENGLISH         "18.2" Strike Team"
+
+REFERENCE            barrel_mixbarrel_tr_precisionsemi
+LANG_ENGLISH         "17.1" Strike Team"
+
+REFERENCE            barxlong_t9accurate01
+LANG_ENGLISH         "Mix Barrel Base"
+
+REFERENCE            barxlong_t9accurate02
+LANG_ENGLISH         "Mix Barrel Pro"
+
+REFERENCE            body_light2_general
+LANG_ENGLISH         "Tiger Team Spotlight"
+
+REFERENCE            body_light2_general_desc
+LANG_ENGLISH         "Powerful spotlight with a longer reaching beam reveals enemy data from longer distances. "
+
+REFERENCE            body_light_general
+LANG_ENGLISH         "Mounted Flashlight"
+
+REFERENCE            body_light_general_ar_t901
+LANG_ENGLISH         "Mounted Flashlight"
+
+REFERENCE            body_light_general_ar_t901_desc
+LANG_ENGLISH         "Bright flashlight attachment crafted from aircraft grade aluminum to reveal enemy data."
+
+REFERENCE            body_light_general_ar_t902
+LANG_ENGLISH         "Tiger Team Spotlight"
+
+REFERENCE            body_light_general_ar_t902_desc
+LANG_ENGLISH         "Powerful spotlight with a longer reaching beam reveals enemy data from longer distances. "
+
+REFERENCE            body_light_general_desc
+LANG_ENGLISH         "Bright flashlight attachment crafted from aircraft grade aluminum to reveal enemy data."
+
+REFERENCE            body_mixbody2_general
+LANG_ENGLISH         "Ember Sighting Point"
+
+REFERENCE            body_mixbody2_general_desc
+LANG_ENGLISH         "Hard anodized laser sight combo reveals enemy data and improves hipfire accuracy. "
+
+REFERENCE            body_mixbody_general
+LANG_ENGLISH         "KGB Target Designator"
+
+REFERENCE            body_mixbody_general_ar_t901
+LANG_ENGLISH         "SOF Target Designator"
+
+REFERENCE            body_mixbody_general_ar_t901_desc
+LANG_ENGLISH         "Durable precision flashlight reveals enemy data at longer engagement distances.  Must be activated by aiming down the sight."
+
+REFERENCE            body_mixbody_general_ar_t902
+LANG_ENGLISH         "Ember Sighting Point"
+
+REFERENCE            body_mixbody_general_ar_t902_desc
+LANG_ENGLISH         "Hard anodized laser sight combo reveals enemy data and improves hipfire accuracy. "
+
+REFERENCE            body_mixbody_general_desc
+LANG_ENGLISH         "Durable precision flashlight reveals enemy data at longer engagement distances.  Must be activated by aiming down the sight."
+
+REFERENCE            body_steadyaim2_general
+LANG_ENGLISH         "GRU 5mw Laser Sight"
+
+REFERENCE            body_steadyaim2_general_desc
+LANG_ENGLISH         "IR laser maximizes hipfire accuracy to quickly resolve threats while on the move."
+
+REFERENCE            body_steadyaim_ar_t901
+LANG_ENGLISH         "Steady Aim Laser"
+
+REFERENCE            body_steadyaim_ar_t901_desc
+LANG_ENGLISH         "Dust-proof diode laser improves hipfire accuracy."
+
+REFERENCE            body_steadyaim_ar_t902
+LANG_ENGLISH         "SWAT 5mw Laser Sight"
+
+REFERENCE            body_steadyaim_ar_t902_desc
+LANG_ENGLISH         "IR laser maximizes hipfire accuracy to quickly resolve threats while on the move."
+
+REFERENCE            body_steadyaim_general
+LANG_ENGLISH         "Steady Aim Laser"
+
+REFERENCE            body_steadyaim_general_desc
+LANG_ENGLISH         "Dust-proof diode laser improves hipfire accuracy."
+
+REFERENCE            compensator_ar_t901
+LANG_ENGLISH         "Muzzle Brake 5.56"
+
+REFERENCE            compensator_ar_t902
+LANG_ENGLISH         "Infantry Compensator"
+
+REFERENCE            compensator_t9ar01
+LANG_ENGLISH         "Compensator Base"
+
+REFERENCE            compensator_t9ar02
+LANG_ENGLISH         "Compensator Pro"
+
+REFERENCE            desc_acog_t901
+LANG_ENGLISH         "American-made scope with 2.0x magnification provides exceptional optical clarity."
+
+REFERENCE            desc_acog_t902
+LANG_ENGLISH         "American scope with 3.0x magnification features a mil-dot crosshair for advanced targeting at extended ranges."
+
+REFERENCE            desc_acog_t903
+LANG_ENGLISH         "4.0x optic manufactured in the UK with a light aluminum body improves targeting from long range. "
+
+REFERENCE            desc_acog_t904
+LANG_ENGLISH         "American-made scope with 2.0x magnification provides exceptional optical clarity."
+
+REFERENCE            desc_barheavy_t9accurate01
+LANG_ENGLISH         "Aluminum alloy shroud and chrome-moly polygonal rifled barrel perfectly balance range with mobility."
+
+REFERENCE            desc_barheavy_t9accurate02
+LANG_ENGLISH         "Hammer forged from chromoly steel.  Button rifled to improve damage range. "
+
+REFERENCE            desc_barlong_t9accurate01
+LANG_ENGLISH         "Stainless steel 20.8" barrel increases muzzle velocity and extends range.  Additional weight stabilizes shots but hinders mobility."
+
+REFERENCE            desc_barlong_t9accurate02
+LANG_ENGLISH         "Cold hammer-forged barrel.  Extended length improves bullet speed."
+
+REFERENCE            desc_barrel_ar_t901
+LANG_ENGLISH         "Tapered barrel with a chrome lined bore.  Extended length improves bullet speed.  "
+
+REFERENCE            desc_barrel_ar_t902
+LANG_ENGLISH         "Cold hammer-forged barrel.  Extended length improves bullet speed."
+
+REFERENCE            desc_barxlong_t9accurate01
+LANG_ENGLISH         "Partially shrouded 26.4" barrel from FSS provides the ultimate in range and accuracy.  This heavy weight barrel is ideal for improving long range marksmanship."
+
+REFERENCE            desc_barxlong_t9accurate02
+LANG_ENGLISH         "Partially shrouded 26.4" barrel from FSS provides the ultimate in range and accuracy.  This heavy weight barrel is ideal for improving long range marksmanship."
+
+REFERENCE            desc_compensator_ar_t901
+LANG_ENGLISH         "Greatly reduced vertical recoil while aiming down the sight. "
+
+REFERENCE            desc_compensator_ar_t902
+LANG_ENGLISH         "In-line vent holes expel gases upward to reduce muzzle climb."
+
+REFERENCE            desc_dualzoom_t901
+LANG_ENGLISH         "Telescopic sight produced in the UK with variable 2.0x-4.0x magnification for long range target acquisition. "
+
+REFERENCE            desc_elo_t901
+LANG_ENGLISH         "Compact mini reflex sight of American origin with 1.25x magnification."
+
+REFERENCE            desc_elo_t902
+LANG_ENGLISH         "Reflex sight manufactured by Phantom USA with 1.25x magnification and a thin frame. "
+
+REFERENCE            desc_elo_t903
+LANG_ENGLISH         "Russian mini reflex sight with 1.5x magnification provides a clear sight picture."
+
+REFERENCE            desc_extclip_ar_t901
+LANG_ENGLISH         "Extended magazine holds ^245 rounds^7 of ammunition."
+
+REFERENCE            desc_extclip_ar_t902
+LANG_ENGLISH         "High-capacity magazine holds ^260 rounds^7 of ammunition."
+
+REFERENCE            desc_fastreload_ar_t901
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            desc_fastreload_ar_t902
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            desc_grip_ar_t901
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            desc_grip_ar_t902
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved recoil control."
+
+REFERENCE            desc_gripang_t9
+LANG_ENGLISH         "Heavy weight angled grip keeps the weapon steady while aiming, and helps maintain control during heavy fire."
+
+REFERENCE            desc_gripangpro_t9
+LANG_ENGLISH         "Tactical foregrip provides best in class control acquiring targets."
+
+REFERENCE            desc_griphip01_t901
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            desc_griphip02_t902
+LANG_ENGLISH         "Standard foregrip improves vertical recoil and stabilizes weapon while aiming for improved long range combat."
+
+REFERENCE            desc_gripvert_t9
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            desc_gripvertpro_t9
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved recoil control."
+
+REFERENCE            desc_handle_ar_t901
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            desc_handle_ar_t902
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            desc_heavy_ar_t901
+LANG_ENGLISH         "Heavy profile barrel.  Broach rifling improves damage against enemy vehicles."
+
+REFERENCE            desc_heavy_ar_t902
+LANG_ENGLISH         "Hammer forged from chromoly steel.  Button rifled to improve damage range. "
+
+REFERENCE            desc_holo_t901
+LANG_ENGLISH         "Compact mini reflex sight of American origin with 1.25x magnification."
+
+REFERENCE            desc_holo_t902
+LANG_ENGLISH         "Reflex sight manufactured by Phantom USA with 1.25x magnification and a thin frame. "
+
+REFERENCE            desc_laser_bart9
+LANG_ENGLISH         "Low power 1mW red laser improves hip fire accuracy while remaining undetected."
+
+REFERENCE            desc_laser_flashlightt9_01
+LANG_ENGLISH         "Bright flashlight attachment crafted from aircraft grade aluminum to reveal enemy data."
+
+REFERENCE            desc_laser_flashlightt9_02
+LANG_ENGLISH         "Powerful spotlight with a longer reaching beam reveals enemy data from longer distances. "
+
+REFERENCE            desc_laser_flashlightt9_03
+LANG_ENGLISH         "Infra Red laser only visible using Night Vision."
+
+REFERENCE            desc_laser_flashlightt9_04
+LANG_ENGLISH         "Infra Red laser only visible using Night Vision."
+
+REFERENCE            desc_laserrange_bart9
+LANG_ENGLISH         "IR laser maximizes hipfire accuracy to quickly resolve threats while on the move."
+
+REFERENCE            desc_light_ar_t901
+LANG_ENGLISH         "Bright flashlight attachment crafted from aircraft grade aluminum to reveal enemy data."
+
+REFERENCE            desc_light_ar_t902
+LANG_ENGLISH         "Powerful spotlight with a longer reaching beam reveals enemy data from longer distances. "
+
+REFERENCE            desc_lightmag_mixclip2_60_t9
+LANG_ENGLISH         "Lightweight extended magazine contains ^260 rounds^7 and improves reload speed."
+
+REFERENCE            desc_mag_ext_bake_40_t9
+LANG_ENGLISH         "Bakelite magazine contains ^240 rounds^7."
+
+REFERENCE            desc_mag_ext_bake_60_t9
+LANG_ENGLISH         "Bakelite magazine modified to contain ^260 rounds^7 of ammunition."
+
+REFERENCE            desc_mag_extclip_drum_45_t9
+LANG_ENGLISH         "Drum magazine holds ^245 rounds^7 of ammunition."
+
+REFERENCE            desc_mag_extclip_spets_drum_60_t9
+LANG_ENGLISH         "High-capacity drum magazine holds ^260 rounds^7 of ammunition."
+
+REFERENCE            desc_mag_extclip_stanag_60_t9
+LANG_ENGLISH         "High-capacity magazine holds ^260 rounds^7 of ammunition."
+
+REFERENCE            desc_mag_extclip_stanag_drum_60_t9
+LANG_ENGLISH         "High-capacity drum magazine holds ^260 rounds^7 of ammunition."
+
+REFERENCE            desc_mag_fast_vdv_60_t9
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^260 rounds^7."
+
+REFERENCE            desc_mag_mixclip2_48_t9
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^248 rounds^7."
+
+REFERENCE            desc_mag_mixclip2_60_t9
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^260 rounds^7."
+
+REFERENCE            desc_mag_mixclip_45
+LANG_ENGLISH         "Extended magazine contains ^245 rounds^7 and improves reload speed."
+
+REFERENCE            desc_minireddot_t901
+LANG_ENGLISH         "Precision optic produced by Millstop with 1.37x magnification."
+
+REFERENCE            desc_mixbarrel_ar_t901
+LANG_ENGLISH         "Increased muzzle velocity and ballistic speed.
+Increased damage vs. vehicles, equipment, and body armor."
+
+REFERENCE            desc_mixbarrel_ar_t902
+LANG_ENGLISH         "Extended barrel with polygonal rifling.  Improves bullet speed, range, and damage."
+
+REFERENCE            desc_mixbody_ar_t901
+LANG_ENGLISH         "Durable precision flashlight reveals enemy data at longer engagement distances.  Must be activated by aiming down the sight."
+
+REFERENCE            desc_mixbody_ar_t902
+LANG_ENGLISH         "Hard anodized laser sight combo reveals enemy data and improves hipfire accuracy. "
+
+REFERENCE            desc_mixclip_ar_t901
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed."
+
+REFERENCE            desc_mixclip_ar_t902
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^260 rounds^7."
+
+REFERENCE            desc_mixhandle_ar_t901
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            desc_mixhandle_ar_t902
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            desc_mixmuzzle_ar_t901
+LANG_ENGLISH         "Reduced weapon sound, and mini-map signature.
+Reduced vertical recoil while aiming down the sight."
+
+REFERENCE            desc_mixmuzzle_ar_t902
+LANG_ENGLISH         "Reduces muzzle flash and vents gases to the sides to reduce muzzle rise."
+
+REFERENCE            desc_mixstock_ar_t901
+LANG_ENGLISH         "Extended stock perfectly balanced to improve sliding speed."
+
+REFERENCE            desc_mixstock_ar_t902
+LANG_ENGLISH         "Lightweight stock provides added stability for improved sprint recovery and movement speed when aiming."
+
+REFERENCE            desc_mixunder_ar_t901
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed."
+
+REFERENCE            desc_mixunder_ar_t902
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            desc_optic_ironsight_sn_t9
+LANG_ENGLISH         "Sniper iron sights provide better peripheral vision for improved tracking of moving targets."
+
+REFERENCE            desc_pistolgrip01_t9accurate01
+LANG_ENGLISH         "Skeletonized grip for the ultimate in high speed maneuvering."
+
+REFERENCE            desc_pistolgrip02_t9accurate01
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            desc_pistolgrip03_t9accurate01
+LANG_ENGLISH         "Textured polymer with an adjustable palm shelf keeps the weapon incredibly stable while aiming."
+
+REFERENCE            desc_quickdraw_ar_t901
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            desc_quickdraw_ar_t902
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            desc_rangefinder_t901
+LANG_ENGLISH         "American rangefinder scope with 6.0x magnification for reliable long-distance target acquisition. "
+
+REFERENCE            desc_reddot_t901
+LANG_ENGLISH         "Red-dot sight of Soviet origin with 1.75x magnification features an illuminated aimpoint to improve target acquisition."
+
+REFERENCE            desc_reflex_pi_t9
+LANG_ENGLISH         "Precision optic produced by Millstop with 1.37x magnification."
+
+REFERENCE            desc_reflex_t901
+LANG_ENGLISH         "Precision optic produced by Millstop with 1.37x magnification."
+
+REFERENCE            desc_reflex_t902
+LANG_ENGLISH         "American reflex sight with a large objective lens and 1.37x magnification provides higher precision."
+
+REFERENCE            desc_reflex_t903
+LANG_ENGLISH         "Russian reflex sight with 1.37x magnification and a thin circular frame to prevent sight obstruction."
+
+REFERENCE            desc_reflex_t904
+LANG_ENGLISH         "Open reflex sight from Phantom with 1.37x magnification improves aiming precision and target acquisition."
+
+REFERENCE            desc_scope3x_t901
+LANG_ENGLISH         "American scope with 3.0x magnification features a mil-dot crosshair for advanced targeting at extended ranges."
+
+REFERENCE            desc_scope4x_t901
+LANG_ENGLISH         "4.0x optic manufactured in the UK with a light aluminum body improves targeting from long range. "
+
+REFERENCE            desc_smoothzoom_t901
+LANG_ENGLISH         "Advanced scope of Russian origin zooms between 1.0x and 10x for reliable target acquisition from mid to long range. "
+
+REFERENCE            desc_smoothzoom_t902
+LANG_ENGLISH         "High powered Russian scope with variable 2.0x and 20x magnification for long-distance engagements. "
+
+REFERENCE            desc_snprscope_t901
+LANG_ENGLISH         "Thermal imaging scope of American origin with 2.3x magnification highlights targets in all lighting conditions."
+
+REFERENCE            desc_speedgrip_ar_t901
+LANG_ENGLISH         "Stubby polymer foregrip for faster weapon melee combat."
+
+REFERENCE            desc_speedgrip_ar_t902
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability. "
+
+REFERENCE            desc_sprintout_ar_t901
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            desc_sprintout_ar_t902
+LANG_ENGLISH         "Foam pad buffer tube cover reduces weight for greater sprint recovery. "
+
+REFERENCE            desc_stalker_ar_t901
+LANG_ENGLISH         "Durable extended stock improves movement speed when aiming down sights."
+
+REFERENCE            desc_stalker_ar_t902
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            desc_steadyaim_ar_t901
+LANG_ENGLISH         "Dust-proof diode laser improves hipfire accuracy."
+
+REFERENCE            desc_steadyaim_ar_t902
+LANG_ENGLISH         "IR laser maximizes hipfire accuracy to quickly resolve threats while on the move."
+
+REFERENCE            desc_stock_buffer_tube_t9
+LANG_ENGLISH         "MIL-SPEC buffer tube reduces draw time when exiting sprint."
+
+REFERENCE            desc_stockl_pist_t9accurate
+LANG_ENGLISH         "Tactical stock streamlined for close quarters combat.  Gets you on target faster."
+
+REFERENCE            desc_stockskel_default_t9
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            desc_suppressed_ar_t901
+LANG_ENGLISH         "Reduces acoustic intensity of muzzle report and eliminates muzzle flash."
+
+REFERENCE            desc_suppressed_ar_t902
+LANG_ENGLISH         "Traps gas to reduce muzzle rise.  Reduces flash and sound from muzzle blast. "
+
+REFERENCE            desc_themal_t901
+LANG_ENGLISH         "Soviet thermal scope with 2.3x magnification improves visibility by highlighting enemy heat signatures.  "
+
+REFERENCE            desc_themal_t902
+LANG_ENGLISH         "Thermal imaging scope of American origin with 2.3x magnification highlights targets in all lighting conditions."
+
+REFERENCE            desc_thermal_east_t9
+LANG_ENGLISH         "Soviet thermal scope with 2.3x magnification improves visibility by highlighting enemy heat signatures."
+
+REFERENCE            desc_thermal_t901
+LANG_ENGLISH         "Well-rounded holographic sight with 1.75x magnification provides a distortion-free sight picture."
+
+REFERENCE            desc_vzscope_t901
+LANG_ENGLISH         "Red-dot sight of Soviet origin with 1.75x magnification features an illuminated aimpoint to improve target acquisition."
+
+REFERENCE            desc_xmags_t9accurate
+LANG_ENGLISH         "Extended magazine holds 40 rounds^7 of ammunition."
+
+REFERENCE            desc_xmagslrg_t9accurate
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            desc_xmagssml_t9accurate01
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            extclip_ar_t901
+LANG_ENGLISH         "45 Rnd"
+
+REFERENCE            extclip_ar_t902
+LANG_ENGLISH         "STANAG 60 Rnd"
+
+REFERENCE            fastreload_ar_t901
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            fastreload_ar_t902
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            grip_ar_t901
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            grip_ar_t902
+LANG_ENGLISH         "Field Agent Grip"
+
+REFERENCE            gripang_t9
+LANG_ENGLISH         "Mixunder Base"
+
+REFERENCE            gripangpro_t9
+LANG_ENGLISH         "Mixunder Pro"
+
+REFERENCE            griphip01_t901
+LANG_ENGLISH         "Speed Grip Base"
+
+REFERENCE            griphip02_t902
+LANG_ENGLISH         "Speed Grip Pro"
+
+REFERENCE            gripvert_t9
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            gripvertpro_t9
+LANG_ENGLISH         "Field Agent Grip"
+
+REFERENCE            handle_ar_t901
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_ar_t902
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_ergo_ar_t9_desc
+LANG_ENGLISH         "Rubber ergonomic grip improves aiming speed."
+
+REFERENCE            handle_fabric_sn_t9_desc
+LANG_ENGLISH         "Fabric wrapping increases grip for improved aiming speed."
+
+REFERENCE            handle_handle2_ar_t9
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_handle2_ar_t9_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle2_general
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_handle2_general_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle2_lm_t9
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_handle2_lm_t9_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle2_pi_t9
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle2_pi_t9_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle2_sh_t9
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_handle2_sh_t9_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle2_sm_t9
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_handle2_sm_t9_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle2_sn_t9
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_handle2_sn_t9_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle_ar_t9
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_ar_t901
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_ar_t901_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_handle_ar_t902
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_handle_ar_t902_desc
+LANG_ENGLISH         "Makeshift combination of fabric tape and rubber bands to improve aiming speed and flinch stability. "
+
+REFERENCE            handle_handle_ar_t9_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_handle_general
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_general_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_handle_lm_t9
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_lm_t9_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_handle_pi_t9
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_pi_t9_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_handle_sh_t9
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_sh_t9_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_handle_sm_t9
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_sm_t9_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_handle_sn_t9
+LANG_ENGLISH         "Field Tape"
+
+REFERENCE            handle_handle_sn_t9_desc
+LANG_ENGLISH         "A layer of adhesive fabric tape absorbs shock to improve flinch stability. "
+
+REFERENCE            handle_mixhandle2_ar_t9
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle2_ar_t9_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            handle_mixhandle2_general
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle2_general_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            handle_mixhandle2_lm_t9
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle2_lm_t9_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            handle_mixhandle2_pi_t9
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle2_pi_t9_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            handle_mixhandle2_sh_t9
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle2_sh_t9_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            handle_mixhandle2_sm_t9
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle2_sm_t9_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            handle_mixhandle2_sn_t9
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle2_sn_t9_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability while maintaining agility."
+
+REFERENCE            handle_mixhandle_ar_t9
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_ar_t901
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_ar_t901_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_mixhandle_ar_t902
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            handle_mixhandle_ar_t902_desc
+LANG_ENGLISH         "Non-abrasive grip sleeve improves shooter stability whiling maintaining agility."
+
+REFERENCE            handle_mixhandle_ar_t9_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_mixhandle_general
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_general_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_mixhandle_lm_t9
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_lm_t9_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_mixhandle_pi_t9
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_pi_t9_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_mixhandle_sh_t9
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_sh_t9_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_mixhandle_sm_t9
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_sm_t9_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_mixhandle_sn_t9
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            handle_mixhandle_sn_t9_desc
+LANG_ENGLISH         "Tightly wrapped fabric bands to improve flinch stability when aiming from different stances. "
+
+REFERENCE            handle_quickdraw2_ar_t9
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw2_ar_t9_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw2_general
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw2_general_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw2_granulated_desc
+LANG_ENGLISH         "Granulated grip tape increases friction to improve aiming speed."
+
+REFERENCE            handle_quickdraw2_lm_t9
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw2_lm_t9_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw2_pi_t9
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw2_pi_t9_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw2_sh_t9
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw2_sh_t9_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw2_sm_t9
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw2_sm_t9_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw2_sn_t9
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw2_sn_t9_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw_ar_t9
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_ar_t901
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_ar_t901_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_quickdraw_ar_t902
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            handle_quickdraw_ar_t902_desc
+LANG_ENGLISH         "Duct tape with an adhesive coating ensures a firm grip to increase aiming speed."
+
+REFERENCE            handle_quickdraw_ar_t9_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_quickdraw_general
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_general_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_quickdraw_lm_t9
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_lm_t9_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_quickdraw_pi_t9
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_pi_t9_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_quickdraw_sh_t9
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_sh_t9_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_quickdraw_sm_t9
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_sm_t9_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_quickdraw_sn_t9
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            handle_quickdraw_sn_t9_desc
+LANG_ENGLISH         "Duct tape applied to handle increases friction for improved aiming speed. "
+
+REFERENCE            handle_speedgrip_t9
+LANG_ENGLISH         "Speed Grip"
+
+REFERENCE            handle_spets2_grip_t9
+LANG_ENGLISH         "Spetsnaz Field Grip"
+
+REFERENCE            handle_spets_grip_t9
+LANG_ENGLISH         "SASR Jungle Grip"
+
+REFERENCE            handle_stip_ar_t9_desc
+LANG_ENGLISH         "Stippled rubber grip increases friction for improved aiming speed."
+
+REFERENCE            heavy_ar_t901
+LANG_ENGLISH         "17.7" Cavalry Lancer"
+
+REFERENCE            heavy_ar_t902
+LANG_ENGLISH         "16.5" Ultralight"
+
+REFERENCE            holo_t901
+LANG_ENGLISH         "Quickdot LED"
+
+REFERENCE            holo_t902
+LANG_ENGLISH         "PBX Holo 7 Sight"
+
+REFERENCE            laser_bart9
+LANG_ENGLISH         "Steady Aim Laser"
+
+REFERENCE            laser_flashlightt9_01
+LANG_ENGLISH         "Mounted Flashlight"
+
+REFERENCE            laser_flashlightt9_02
+LANG_ENGLISH         "Tiger Team Spotlight"
+
+REFERENCE            laser_flashlightt9_03
+LANG_ENGLISH         "Mixbody Base"
+
+REFERENCE            laser_flashlightt9_04
+LANG_ENGLISH         "Mixbody Pro"
+
+REFERENCE            laserrange_bart9
+LANG_ENGLISH         "SWAT 5mw Laser Sight"
+
+REFERENCE            light_ar_t901
+LANG_ENGLISH         "Mounted Flashlight"
+
+REFERENCE            light_ar_t902
+LANG_ENGLISH         "Tiger Team Spotlight"
+
+REFERENCE            mag_ext_bake_40_t9
+LANG_ENGLISH         "Bakelite 40 Rnd"
+
+REFERENCE            mag_ext_bake_55_t9
+LANG_ENGLISH         "Bakelite 35 Rnd"
+
+REFERENCE            mag_ext_bake_60_t9
+LANG_ENGLISH         "Bakelite 60 Rnd"
+
+REFERENCE            mag_ext_bake_t9
+LANG_ENGLISH         "Bakelite 55 Rnd"
+
+REFERENCE            mag_extclip2_115
+LANG_ENGLISH         "Spetsnaz 115 Rnd"
+
+REFERENCE            mag_extclip2_115_desc
+LANG_ENGLISH         "High-capacity magazine holds ^2115 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip2_12
+LANG_ENGLISH         "STANAG 12 Rnd Tube"
+
+REFERENCE            mag_extclip2_12_desc
+LANG_ENGLISH         "High-capacity magazine holds ^212 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_14
+LANG_ENGLISH         "STANAG 14 Rnd"
+
+REFERENCE            mag_extclip2_14_desc
+LANG_ENGLISH         "High-capacity magazine holds ^214 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_150
+LANG_ENGLISH         "STANAG 150 Rnd"
+
+REFERENCE            mag_extclip2_150_desc
+LANG_ENGLISH         "High-capacity magazine holds ^2150 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_18
+LANG_ENGLISH         "STANAG 18 Rnd"
+
+REFERENCE            mag_extclip2_18_desc
+LANG_ENGLISH         "High-capacity magazine holds ^218 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_30
+LANG_ENGLISH         "STANAG 30 Rnd"
+
+REFERENCE            mag_extclip2_30_desc
+LANG_ENGLISH         "High-capacity magazine holds ^230 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_35
+LANG_ENGLISH         "STANAG 35 Rnd"
+
+REFERENCE            mag_extclip2_35_desc
+LANG_ENGLISH         "High-capacity magazine holds ^235 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_40
+LANG_ENGLISH         "STANAG 40 Rnd"
+
+REFERENCE            mag_extclip2_40_desc
+LANG_ENGLISH         "High-capacity magazine holds ^240 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_45
+LANG_ENGLISH         "STANAG 45 Rnd"
+
+REFERENCE            mag_extclip2_45_desc
+LANG_ENGLISH         "High-capacity magazine holds ^245 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_50
+LANG_ENGLISH         "STANAG 50 Rnd"
+
+REFERENCE            mag_extclip2_50_desc
+LANG_ENGLISH         "High-capacity magazine holds ^250 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_54
+LANG_ENGLISH         "STANAG 54 Rnd"
+
+REFERENCE            mag_extclip2_54_desc
+LANG_ENGLISH         "High-capacity magazine holds ^254 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_55
+LANG_ENGLISH         "STANAG 55 Rnd"
+
+REFERENCE            mag_extclip2_55_desc
+LANG_ENGLISH         "High-capacity magazine holds ^255 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_85
+LANG_ENGLISH         "Stanag 85 Rnd"
+
+REFERENCE            mag_extclip2_85_desc
+LANG_ENGLISH         "High-capacity magazine holds ^285 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_9
+LANG_ENGLISH         "STANAG 9 Rnd"
+
+REFERENCE            mag_extclip2_9_desc
+LANG_ENGLISH         "High-capacity magazine holds ^29 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_ar_t9
+LANG_ENGLISH         "STANAG 50 Rnd"
+
+REFERENCE            mag_extclip2_ar_t9_desc
+LANG_ENGLISH         "Maximized ammo capacity.
+Reduced aim down sight speed."
+
+REFERENCE            mag_extclip2_drum54_t9_desc
+LANG_ENGLISH         "High-capacity drum magazine contains ^254 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_drum_55_desc
+LANG_ENGLISH         "High-capacity drum magazine holds ^255 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_lm_t9
+LANG_ENGLISH         "STANAG 150 Rnd"
+
+REFERENCE            mag_extclip2_lm_t9_desc
+LANG_ENGLISH         "High-capacity magazine holds ^2150 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_lmg_accurate_desc
+LANG_ENGLISH         "Extended ammo belt holds ^250 additional rounds^7. "
+
+REFERENCE            mag_extclip2_pi_t9
+LANG_ENGLISH         "Extended Mag Pro"
+
+REFERENCE            mag_extclip2_pi_t9_desc
+LANG_ENGLISH         "Maximized ammo capacity.
+Reduced aim down sight speed."
+
+REFERENCE            mag_extclip2_sh_t9
+LANG_ENGLISH         "STANAG 18 RND"
+
+REFERENCE            mag_extclip2_sh_t9_desc
+LANG_ENGLISH         "Maximized ammo capacity."
+
+REFERENCE            mag_extclip2_sm_t9
+LANG_ENGLISH         "STANAG 50 Rnd"
+
+REFERENCE            mag_extclip2_sm_t9_desc
+LANG_ENGLISH         "High-capacity drum magazine contains ^250 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip2_smburst_t9
+LANG_ENGLISH         "STANAG 48 Rnd"
+
+REFERENCE            mag_extclip2_smburst_t9_desc
+LANG_ENGLISH         "High-capacity drum magazine. Contains ^248 Rounds^7."
+
+REFERENCE            mag_extclip2_smg_fastfire_desc
+LANG_ENGLISH         "High-capacity drum magazine. Contains ^253 Rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_smg_standard_desc
+LANG_ENGLISH         "High-capacity drum magazine contains ^250 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip2_sn_t9
+LANG_ENGLISH         "STANAG 9 Rnd"
+
+REFERENCE            mag_extclip2_sn_t9_desc
+LANG_ENGLISH         "High-capacity magazine holds ^29 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip2_stanag_drum_54_t9
+LANG_ENGLISH         "STANAG 54 Rnd Drum"
+
+REFERENCE            mag_extclip_12
+LANG_ENGLISH         "12 Rnd"
+
+REFERENCE            mag_extclip_120
+LANG_ENGLISH         "120 Rnd"
+
+REFERENCE            mag_extclip_120_desc
+LANG_ENGLISH         "Extended ammo belt contains ^2120 rounds^7."
+
+REFERENCE            mag_extclip_12_desc
+LANG_ENGLISH         "Extended magazine holds ^212 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_14
+LANG_ENGLISH         "14 Rnd"
+
+REFERENCE            mag_extclip_14_desc
+LANG_ENGLISH         "Extended magazine holds ^214 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_24
+LANG_ENGLISH         "24 Rnd"
+
+REFERENCE            mag_extclip_24_desc
+LANG_ENGLISH         "Extended magazine holds ^224 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_30
+LANG_ENGLISH         "30 Rnd"
+
+REFERENCE            mag_extclip_30_desc
+LANG_ENGLISH         "Extended magazine holds ^230 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_38
+LANG_ENGLISH         "38 Rnd"
+
+REFERENCE            mag_extclip_38_desc
+LANG_ENGLISH         "Extended magazine holds ^238 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_40
+LANG_ENGLISH         "40 Rnd"
+
+REFERENCE            mag_extclip_40_desc
+LANG_ENGLISH         "Extended magazine holds ^240 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip_45
+LANG_ENGLISH         "45 Rnd"
+
+REFERENCE            mag_extclip_45_desc
+LANG_ENGLISH         "Extended magazine holds ^245 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_65
+LANG_ENGLISH         "65 Rnd"
+
+REFERENCE            mag_extclip_65_desc
+LANG_ENGLISH         "Extended magazine holds ^265 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_7
+LANG_ENGLISH         "7 Rnd"
+
+REFERENCE            mag_extclip_7_desc
+LANG_ENGLISH         "Extended magazine holds ^27 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_9
+LANG_ENGLISH         "9 Rnd Tube"
+
+REFERENCE            mag_extclip_90
+LANG_ENGLISH         "90 Rnd"
+
+REFERENCE            mag_extclip_90_desc
+LANG_ENGLISH         "Extended magazine holds ^290 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_9_desc
+LANG_ENGLISH         "Extended magazine holds ^29 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_ar_t9
+LANG_ENGLISH         "40 Rnd"
+
+REFERENCE            mag_extclip_ar_t901
+LANG_ENGLISH         "40 Rnd"
+
+REFERENCE            mag_extclip_ar_t901_desc
+LANG_ENGLISH         "Extended magazine holds ^240 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip_ar_t902
+LANG_ENGLISH         "STANAG 50 Rnd"
+
+REFERENCE            mag_extclip_ar_t902_desc
+LANG_ENGLISH         "High-capacity magazine holds ^250 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip_ar_t9_desc
+LANG_ENGLISH         "Extended magazine holds ^240 rounds^7 of ammunition."
+
+REFERENCE            mag_extclip_drum45_t9_desc
+LANG_ENGLISH         "Drum magazine designed for submachine guns. Contains ^245 rounds^7."
+
+REFERENCE            mag_extclip_drum_40_t9
+LANG_ENGLISH         "40 Rnd Drum"
+
+REFERENCE            mag_extclip_drum_43_t9
+LANG_ENGLISH         "43 Rnd Drum"
+
+REFERENCE            mag_extclip_drum_45_desc
+LANG_ENGLISH         "Drum magazine designed for submachine guns. Contains ^245 rounds^7."
+
+REFERENCE            mag_extclip_drum_45_t9
+LANG_ENGLISH         "45 Rnd Drum"
+
+REFERENCE            mag_extclip_lm_t9
+LANG_ENGLISH         "112 Rnd"
+
+REFERENCE            mag_extclip_lm_t9_desc
+LANG_ENGLISH         "Greatly increased ammo capacity."
+
+REFERENCE            mag_extclip_pi_12_t9
+LANG_ENGLISH         "STANAG 12 Rnd"
+
+REFERENCE            mag_extclip_pi_9_t9
+LANG_ENGLISH         "9 Rnd"
+
+REFERENCE            mag_extclip_pi_t9
+LANG_ENGLISH         "Extended Mag"
+
+REFERENCE            mag_extclip_pi_t9_desc
+LANG_ENGLISH         "Greatly increased ammo capacity."
+
+REFERENCE            mag_extclip_sh_t9
+LANG_ENGLISH         "15 RND Tube"
+
+REFERENCE            mag_extclip_sh_t9_desc
+LANG_ENGLISH         "Greatly increased ammo capacity."
+
+REFERENCE            mag_extclip_sm_t9
+LANG_ENGLISH         "40 Rnd"
+
+REFERENCE            mag_extclip_sm_t9_desc
+LANG_ENGLISH         "Drum magazine designed for submachine guns.  Contains ^240 rounds^7."
+
+REFERENCE            mag_extclip_smburst_t9
+LANG_ENGLISH         "42 Rnd"
+
+REFERENCE            mag_extclip_smburst_t9_desc
+LANG_ENGLISH         "Drum magazine designed for submachine guns. Contains ^242 Rounds^7."
+
+REFERENCE            mag_extclip_smg_fastfire_desc
+LANG_ENGLISH         "Drum magazine designed for submachine guns. Contains ^243 Rounds^7."
+
+REFERENCE            mag_extclip_smg_standard_desc
+LANG_ENGLISH         "Drum magazine designed for submachine guns.  Contains ^240 rounds^7."
+
+REFERENCE            mag_extclip_sn_t9
+LANG_ENGLISH         "7 Rnd"
+
+REFERENCE            mag_extclip_sn_t9_desc
+LANG_ENGLISH         "Extended magazine holds ^27 rounds^7 of ammunition. "
+
+REFERENCE            mag_extclip_spets_150_t9
+LANG_ENGLISH         "Spetsnaz 150 Rnd"
+
+REFERENCE            mag_extclip_spets_150_t9_desc
+LANG_ENGLISH         "Ammo box holds an extended belt with ^2150 rounds^7."
+
+REFERENCE            mag_extclip_spets_drum_50_t9
+LANG_ENGLISH         "Spetsnaz 50 Rnd Drum"
+
+REFERENCE            mag_extclip_spets_drum_60_t9
+LANG_ENGLISH         "Spetsnaz 60 Rnd Drum"
+
+REFERENCE            mag_extclip_stanag_60_t9
+LANG_ENGLISH         "STANAG 60 Rnd"
+
+REFERENCE            mag_extclip_stanag_drum_50_t9
+LANG_ENGLISH         "STANAG 50 Rnd Drum"
+
+REFERENCE            mag_extclip_stanag_drum_53_t9
+LANG_ENGLISH         "STANAG 53 Rnd Drum"
+
+REFERENCE            mag_extclip_stanag_drum_55_t9
+LANG_ENGLISH         "STANAG 55 Rnd Drum"
+
+REFERENCE            mag_extclip_stanag_drum_60_t9
+LANG_ENGLISH         "STANAG 60 Rnd Drum"
+
+REFERENCE            mag_fast_gru_clamp_t9
+LANG_ENGLISH         "GRU Mag Clamp"
+
+REFERENCE            mag_fast_jungle_t9
+LANG_ENGLISH         "Jungle-Style Mag"
+
+REFERENCE            mag_fast_lm_t9_desc
+LANG_ENGLISH         "Compact ammo box improves reload speed."
+
+REFERENCE            mag_fast_pi_12_t9
+LANG_ENGLISH         "STANAG 12 Rnd Fast Mag"
+
+REFERENCE            mag_fast_pi_9_t9
+LANG_ENGLISH         "9 Rnd Speed Mag"
+
+REFERENCE            mag_fast_rpd_t9_desc
+LANG_ENGLISH         "Lightweight RPD drum magazine improves reload speed."
+
+REFERENCE            mag_fast_sas_clamp_t9
+LANG_ENGLISH         "SAS Mag Clamp"
+
+REFERENCE            mag_fast_taped_t9
+LANG_ENGLISH         "Taped Mags"
+
+REFERENCE            mag_fast_vdv_150_t9
+LANG_ENGLISH         "VDV 150 Rnd Fast Mag"
+
+REFERENCE            mag_fast_vdv_150_t9_desc
+LANG_ENGLISH         "Military grade ammo belt container improved reload speed and holds a ^2150 round^7 belt."
+
+REFERENCE            mag_fast_vdv_40_t9
+LANG_ENGLISH         "VDV 40 Rnd Fast Mag"
+
+REFERENCE            mag_fast_vdv_50_t9
+LANG_ENGLISH         "VDV 50 Rnd Fast Mag"
+
+REFERENCE            mag_fast_vdv_60_t9
+LANG_ENGLISH         "VDV 60 Rnd Fast Mag"
+
+REFERENCE            mag_fast_vdv_85_t9
+LANG_ENGLISH         "VDV 85 Rnd Fast Mag"
+
+REFERENCE            mag_fast_vdv_t9
+LANG_ENGLISH         "VDV 50 Rnd Fast Mag"
+
+REFERENCE            mag_fastloader_t9
+LANG_ENGLISH         "Fast Loader"
+
+REFERENCE            mag_fastrelaod2_sm_t9
+LANG_ENGLISH         "Fast Clip"
+
+REFERENCE            mag_fastrelaod2_sm_t9_desc
+LANG_ENGLISH         "Greatly improved reload speed."
+
+REFERENCE            mag_fastreload2_ar_t9
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            mag_fastreload2_ar_t9_desc
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            mag_fastreload2_general
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            mag_fastreload2_general_desc
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            mag_fastreload2_lm_t9
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            mag_fastreload2_lm_t9_desc
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            mag_fastreload2_lmg_accurate_desc
+LANG_ENGLISH         "Lightweight ammo belt container improves reload speeds."
+
+REFERENCE            mag_fastreload2_pi_t9
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            mag_fastreload2_pi_t9_desc
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            mag_fastreload2_sm_t9
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            mag_fastreload2_sm_t9_desc
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            mag_fastreload2_sn_t9
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            mag_fastreload2_sn_t9_desc
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            mag_fastreload2_sniper_quickscope_desc
+LANG_ENGLISH         "Bolt handle wrapped in adhesive cloth improves reload speed."
+
+REFERENCE            mag_fastreload_ar_t9
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            mag_fastreload_ar_t901
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            mag_fastreload_ar_t901_desc
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            mag_fastreload_ar_t902
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            mag_fastreload_ar_t902_desc
+LANG_ENGLISH         "Magazine coupler joins an additional inverted magazine to the one in the gun for faster reloads."
+
+REFERENCE            mag_fastreload_ar_t9_desc
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            mag_fastreload_general
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            mag_fastreload_general_desc
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            mag_fastreload_lm_t9
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            mag_fastreload_lm_t9_desc
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            mag_fastreload_lmg_accurate_desc
+LANG_ENGLISH         "Compact ammo belt container improves reload speed."
+
+REFERENCE            mag_fastreload_pi_t9
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            mag_fastreload_pi_t9_desc
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            mag_fastreload_sm_t9
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            mag_fastreload_sm_t9_desc
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            mag_fastreload_sn_t9
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            mag_fastreload_sn_t9_desc
+LANG_ENGLISH         "Magazines secured together with duct tape to improve reload speed."
+
+REFERENCE            mag_fastreload_sniper_quickscope_desc
+LANG_ENGLISH         "Stainless steel bolt handle improves reload speed. "
+
+REFERENCE            mag_lightweight_lm_t9_desc
+LANG_ENGLISH         "Lightweight ammo box holds an extended belt with ^2120 rounds^7. Improves reload speed."
+
+REFERENCE            mag_mixclip2_100
+LANG_ENGLISH         "Salvo 150 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_100_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^2150 rounds^7."
+
+REFERENCE            mag_mixclip2_115
+LANG_ENGLISH         "Salvo 150 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_115_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^2150 rounds^7."
+
+REFERENCE            mag_mixclip2_14
+LANG_ENGLISH         "Salvo 14 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_14_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^214 rounds^7."
+
+REFERENCE            mag_mixclip2_18
+LANG_ENGLISH         "Salvo 9 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_18_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^29 rounds^7."
+
+REFERENCE            mag_mixclip2_30
+LANG_ENGLISH         "Salvo 30 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_30_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^230 rounds^7."
+
+REFERENCE            mag_mixclip2_35
+LANG_ENGLISH         "Salvo 50 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_35_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^250 rounds^7."
+
+REFERENCE            mag_mixclip2_40_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^240 rounds^7."
+
+REFERENCE            mag_mixclip2_48_t9
+LANG_ENGLISH         "Salvo 48 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_50
+LANG_ENGLISH         "Salvo 50 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_50_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^250 rounds^7."
+
+REFERENCE            mag_mixclip2_50_fast
+LANG_ENGLISH         "Salvo 50 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_50_fast_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^250 rounds^7."
+
+REFERENCE            mag_mixclip2_53
+LANG_ENGLISH         "Salvo 53 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_53_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed. Contains ^253 Rounds^7."
+
+REFERENCE            mag_mixclip2_54
+LANG_ENGLISH         "Salvo 54 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_54_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^254 rounds^7."
+
+REFERENCE            mag_mixclip2_55
+LANG_ENGLISH         "Salvo 55 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_55_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^255 rounds^7."
+
+REFERENCE            mag_mixclip2_60_t9
+LANG_ENGLISH         "Salvo 60 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_85
+LANG_ENGLISH         "VDV 150 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_85_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^2150 rounds^7."
+
+REFERENCE            mag_mixclip2_9
+LANG_ENGLISH         "Salvo 9 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_9_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^29 rounds^7."
+
+REFERENCE            mag_mixclip2_ar_t9
+LANG_ENGLISH         "Salvo 45 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_ar_t9_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^245 rounds^7."
+
+REFERENCE            mag_mixclip2_lm_t9
+LANG_ENGLISH         "Tactical Mags Pro"
+
+REFERENCE            mag_mixclip2_lm_t9_desc
+LANG_ENGLISH         "Greatly improved reload speed.
+Greatly increased ammo capacity.
+Reduced aim down sight speed.
+Increased sway while aim down sights. "
+
+REFERENCE            mag_mixclip2_lmg_accurate_desc
+LANG_ENGLISH         "Lightweight snail drum magazine holds a larger ammo belt and improves reload speed."
+
+REFERENCE            mag_mixclip2_pi_t9
+LANG_ENGLISH         "Tactical Mags Pro"
+
+REFERENCE            mag_mixclip2_pi_t9_desc
+LANG_ENGLISH         "Lightweight revolver cylinder contains ^212 rounds^7 and improves reload speed."
+
+REFERENCE            mag_mixclip2_sm_t9
+LANG_ENGLISH         "Salvo 85 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_sm_t9_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^285 rounds^7."
+
+REFERENCE            mag_mixclip2_smburst_t9
+LANG_ENGLISH         "48 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip2_smburst_t9_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^248 rounds^7."
+
+REFERENCE            mag_mixclip2_sn_t9
+LANG_ENGLISH         "Salvo 40 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip2_sn_t9_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^240 rounds^7."
+
+REFERENCE            mag_mixclip2_sniper_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed."
+
+REFERENCE            mag_mixclip_12
+LANG_ENGLISH         "12 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_14
+LANG_ENGLISH         "7 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_24
+LANG_ENGLISH         "24 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_30
+LANG_ENGLISH         "30 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_38
+LANG_ENGLISH         "38 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_38_desc
+LANG_ENGLISH         "Makeshift duct tape pull tab with increased gripping surface improves reload speed. "
+
+REFERENCE            mag_mixclip_40
+LANG_ENGLISH         "40 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_40_desc
+LANG_ENGLISH         "Extended magazine contains ^240 rounds^7 and improves reload speed. "
+
+REFERENCE            mag_mixclip_43
+LANG_ENGLISH         "43 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_45
+LANG_ENGLISH         "45 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_45_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_mixclip_65
+LANG_ENGLISH         "120 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_65_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_mixclip_7
+LANG_ENGLISH         "7 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_75
+LANG_ENGLISH         "120 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_90
+LANG_ENGLISH         "120 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_ar_t9
+LANG_ENGLISH         "45 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_ar_t901
+LANG_ENGLISH         "40 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_ar_t901_desc
+LANG_ENGLISH         "Extended magazine contains ^240 rounds^7 and improves reload speed. "
+
+REFERENCE            mag_mixclip_ar_t902
+LANG_ENGLISH         "Salvo 60 Rnd Fast Mag"
+
+REFERENCE            mag_mixclip_ar_t902_desc
+LANG_ENGLISH         "Paracord pull loop improves reload speed.  Contains ^260 rounds^7."
+
+REFERENCE            mag_mixclip_ar_t9_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_mixclip_general_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_mixclip_lm_t9
+LANG_ENGLISH         "100 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_lm_t9_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_mixclip_lmg_accurate_desc
+LANG_ENGLISH         "Snail drum magazine centered below gun.  Improves ammo capacity and reload speed. "
+
+REFERENCE            mag_mixclip_pi_t9
+LANG_ENGLISH         "Tactical Mags"
+
+REFERENCE            mag_mixclip_pi_t9_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_mixclip_sm_t9
+LANG_ENGLISH         "65 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_sm_t9_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_mixclip_smburst_t9
+LANG_ENGLISH         "42 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_sn_t9
+LANG_ENGLISH         "30 Rnd Speed Mag"
+
+REFERENCE            mag_mixclip_sn_t9_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. "
+
+REFERENCE            mag_sniper_standard_mixclip2_desc
+LANG_ENGLISH         "Lightweight extended magazine contains ^29 rounds^7 and improves reload speed."
+
+REFERENCE            mag_sniper_standard_mixclip_desc
+LANG_ENGLISH         "Extended magazine with duct tape gripping surface improves reload speed."
+
+REFERENCE            mag_speed_lm_t9_desc
+LANG_ENGLISH         "Military grade ammo belt container improves reload speed and holds a ^2120 round^7 belt."
+
+REFERENCE            mag_tube_7_t9
+LANG_ENGLISH         "7 Rnd Tube"
+
+REFERENCE            mag_tube_stanag_9_t9
+LANG_ENGLISH         "STANAG 9 Rnd Tube"
+
+REFERENCE            mags_access_sm_t9_desc
+LANG_ENGLISH         "Drum magazine with accessible handles. Contains ^242 rounds^7."
+
+REFERENCE            mags_detach_lm_t9_desc
+LANG_ENGLISH         "Easily detachable RPD drum magazine with a ^275 round^7 belt. Improves reload speed."
+
+REFERENCE            mags_ext2_pi_t9_desc
+LANG_ENGLISH         "Custom revolver cylinder holds ^212 rounds^7."
+
+REFERENCE            mags_ext2_sh_t9_desc
+LANG_ENGLISH         "Extended tube magazine holds four additional shells."
+
+REFERENCE            mags_ext2_sm_t9_desc
+LANG_ENGLISH         "Extended magazine with a steel pull loop to improve reload speed. Contains ^255 rounds^7."
+
+REFERENCE            mags_ext3_pi_t9_desc
+LANG_ENGLISH         "Extended pistol magazine contains ^230 rounds^7 and improves reload speed."
+
+REFERENCE            mags_ext3_sh_t9_desc
+LANG_ENGLISH         "Extended tube magazine holds five additional shells."
+
+REFERENCE            mags_ext_pi_t9_desc
+LANG_ENGLISH         "Extended revolver cylinder holds ^23 extra rounds^7."
+
+REFERENCE            mags_ext_sh_t9_desc
+LANG_ENGLISH         "Tubular magazine holds two additional shells."
+
+REFERENCE            mags_ext_sm_t9_desc
+LANG_ENGLISH         "Extended magazine with a steel pull loop to improve reload speed."
+
+REFERENCE            mags_ext_sn_t9_desc
+LANG_ENGLISH         "Extended magazine holds ^29 rounds^7 of ammunition."
+
+REFERENCE            mags_fast2_pi_t9_desc
+LANG_ENGLISH         "Improved revolver cylinder and speed loader allows for fast reload speeds."
+
+REFERENCE            mags_fast2_sn_t9_desc
+LANG_ENGLISH         "Lightweight magazine with a makeshift pull loop to improve reload speed."
+
+REFERENCE            mags_fast3_sn_t9_desc
+LANG_ENGLISH         "Makeshift duct tape pull loop improves reload speed."
+
+REFERENCE            mags_fast4_sn_t9_desc
+LANG_ENGLISH         "Extended magazine with a makeshift steel tab to improve reload speed. Contains ^240 rounds^7."
+
+REFERENCE            mags_fast_lm_t9_desc
+LANG_ENGLISH         "Compact ammo box holds a ^2150 round^7 belt. Improves reload speed."
+
+REFERENCE            mags_fast_pi_t9_desc
+LANG_ENGLISH         "Lightweight extended magazine contains ^214 rounds^7 and improves reload speed."
+
+REFERENCE            mags_fast_sn_t9_desc
+LANG_ENGLISH         "Lightweight extended magazine contains ^29 rounds^7 and improves reload speed."
+
+REFERENCE            mags_hel_ext2_sm_t9_desc
+LANG_ENGLISH         "Extended helical magazine holds ^285 rounds^7 in a spiral formation."
+
+REFERENCE            mags_hel_ext_sm_t9_desc
+LANG_ENGLISH         "Helical magazine with ammo arranged in a spiral formation. Large capacity in a compact design."
+
+REFERENCE            mags_hel_fast2_sm_t9_desc
+LANG_ENGLISH         "Lightweight helical magazine. Improved reload speed and ammo capacity."
+
+REFERENCE            mags_hel_fast_sm_t9_desc
+LANG_ENGLISH         "Helical magazine with thin strips of grip tape. Tighter grip improves reload speed."
+
+REFERENCE            mags_hel_speed2_sm_t9_desc
+LANG_ENGLISH         "Helical magazine with thick patches of grip tape to improve reload speed."
+
+REFERENCE            mags_hel_speed_sm_t9_desc
+LANG_ENGLISH         "Extended helical magazine made from lightweight materials. Contains ^265 rounds^7."
+
+REFERENCE            mags_olive_drab_sm_t9_desc
+LANG_ENGLISH         "Drum magazine contains ^248 rounds^7 secured inside an olive drab pouch."
+
+REFERENCE            mags_para_loop_sm_t9_desc
+LANG_ENGLISH         "Paracord magazine pull loop improves reload speed."
+
+REFERENCE            mags_speed2_pi_t9_desc
+LANG_ENGLISH         "Speed loader holds ^23 additional rounds^7 and improves reload speed."
+
+REFERENCE            mags_speed2_sm_t9_desc
+LANG_ENGLISH         "High-capacity magazine with increased gripping surface for faster reloads. Holds ^242 rounds^7."
+
+REFERENCE            mags_speed2_sn_t9_desc
+LANG_ENGLISH         "Lightweight magazine with bands improves reload speed.
+Contains ^27 rounds^7."
+
+REFERENCE            mags_speed3_pi_t9_desc
+LANG_ENGLISH         "Revolver speed loader improves reload speed. Avoid hand loading."
+
+REFERENCE            mags_speed3_sm_t9_desc
+LANG_ENGLISH         "High-capacity magazine contains ^248 rounds^7. Improves reload speed."
+
+REFERENCE            mags_speed3_sn_t9_desc
+LANG_ENGLISH         "Lightweight magazine with steel extender improves reload speed."
+
+REFERENCE            mags_speed4_sn_t9_desc
+LANG_ENGLISH         "Extended magazine with a makeshift pull loop to improve reload speed. Contains ^230 rounds^7."
+
+REFERENCE            mags_speed_lm_t9_desc
+LANG_ENGLISH         "Military grade ammo belt container improves reload speed."
+
+REFERENCE            mags_speed_pi_t9_desc
+LANG_ENGLISH         "Lightweight extended magazine improves reload speed. Contains ^212 rounds^7."
+
+REFERENCE            mags_speed_sm_t9_desc
+LANG_ENGLISH         "Extended magazine with a paracord pull loop to improve reload speed. Contains ^245 rounds^7."
+
+REFERENCE            mags_speed_sn_t9_desc
+LANG_ENGLISH         "Extended magazine with increased gripping surface improves reload speed."
+
+REFERENCE            mags_speed_trans_sm_t9_desc
+LANG_ENGLISH         "Extended translucent magazine with a makeshift pull loop to improve reload speed."
+
+REFERENCE            mags_steel_loop_t9_desc
+LANG_ENGLISH         "Steel pull loop improves reload speed."
+
+REFERENCE            minireddot_t901
+LANG_ENGLISH         "Cronen LP945 Mini Reflex"
+
+REFERENCE            mixbarrel_ar_t901
+LANG_ENGLISH         "15.5" Contour"
+
+REFERENCE            mixbarrel_ar_t902
+LANG_ENGLISH         "15" CMV Mil-Spec"
+
+REFERENCE            mixbarrel_sn_t9_desc
+LANG_ENGLISH         "Durable barrel made from lighter components. Improves fire rate."
+
+REFERENCE            mixbody_ar_t901
+LANG_ENGLISH         "SOF Target Designator"
+
+REFERENCE            mixbody_ar_t902
+LANG_ENGLISH         "Ember Sighting Point"
+
+REFERENCE            mixclip_ar_t901
+LANG_ENGLISH         "45 Rnd Speed Mag"
+
+REFERENCE            mixclip_ar_t902
+LANG_ENGLISH         "Salvo 60 Rnd Fast Mag"
+
+REFERENCE            mixhandle_ar_t901
+LANG_ENGLISH         "Dropshot Wrap"
+
+REFERENCE            mixhandle_ar_t902
+LANG_ENGLISH         "Airborne Elastic Wrap"
+
+REFERENCE            mixhandle_gru_wrap_t9
+LANG_ENGLISH         "GRU Elastic Wrap"
+
+REFERENCE            mixmuzzle_ar_t901
+LANG_ENGLISH         "Flashguard 5.56"
+
+REFERENCE            mixmuzzle_ar_t902
+LANG_ENGLISH         "SOCOM Eliminator"
+
+REFERENCE            mixstock_ar_t901
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            mixstock_ar_t902
+LANG_ENGLISH         "Raider Stock"
+
+REFERENCE            mixunder_ar_t901
+LANG_ENGLISH         "Patrol Grip"
+
+REFERENCE            mixunder_ar_t902
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            muzzle_compensator2_5prong_desc
+LANG_ENGLISH         "Five prong muzzle compensator design forces gas forward and to the sides away from the shooter to reduce vertical recoil. "
+
+REFERENCE            muzzle_compensator2_ar_t9
+LANG_ENGLISH         "Infantry Compensator"
+
+REFERENCE            muzzle_compensator2_ar_t9_desc
+LANG_ENGLISH         "In-line vent holes expel gases upward to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator2_general
+LANG_ENGLISH         "Infantry Compensator"
+
+REFERENCE            muzzle_compensator2_general_desc
+LANG_ENGLISH         "In-line vent holes expel gases upward to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator2_lm_t9
+LANG_ENGLISH         "Infantry Compensator"
+
+REFERENCE            muzzle_compensator2_lm_t9_desc
+LANG_ENGLISH         "In-line vent holes expel gases upward to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator2_pi_t9
+LANG_ENGLISH         "Infantry Compensator"
+
+REFERENCE            muzzle_compensator2_pi_t9_desc
+LANG_ENGLISH         "Pistol compensator vents gases upwards to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator2_pistol_desc
+LANG_ENGLISH         "Pistol compensator vents gases upwards to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator2_sh_t9
+LANG_ENGLISH         "Infantry V-Choke"
+
+REFERENCE            muzzle_compensator2_sh_t9_desc
+LANG_ENGLISH         "V-shaped muzzle choke.  Diverts pellets to the side for greater spread."
+
+REFERENCE            muzzle_compensator2_shotgun
+LANG_ENGLISH         "Infantry V-Choke"
+
+REFERENCE            muzzle_compensator2_shotgun_desc
+LANG_ENGLISH         "V-shaped muzzle choke.  Diverts pellets to the side for greater spread."
+
+REFERENCE            muzzle_compensator2_sm_t9
+LANG_ENGLISH         "Infantry Compensator"
+
+REFERENCE            muzzle_compensator2_sm_t9_desc
+LANG_ENGLISH         "In-line vent holes expel gases upward to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator2_sn_t9
+LANG_ENGLISH         "Infantry Stabilizer"
+
+REFERENCE            muzzle_compensator2_sn_t9_desc
+LANG_ENGLISH         "Lightweight ported muzzle brake reduces weapon sway. "
+
+REFERENCE            muzzle_compensator2_sniper
+LANG_ENGLISH         "Infantry Stabilizer"
+
+REFERENCE            muzzle_compensator2_sniper_desc
+LANG_ENGLISH         "Lightweight ported muzzle brake reduces weapon sway. "
+
+REFERENCE            muzzle_compensator2_spetsnaz
+LANG_ENGLISH         "Spetsnaz Compensator"
+
+REFERENCE            muzzle_compensator2_wooden_desc
+LANG_ENGLISH         "Cone shaped muzzle brake vents gases through top ports to reduce muzzle rise. "
+
+REFERENCE            muzzle_compensator_45apc
+LANG_ENGLISH         "Muzzle Brake .45 APC"
+
+REFERENCE            muzzle_compensator_45apc_desc
+LANG_ENGLISH         "Redirects gases upwards and to the sides to counter unwanted muzzle climb."
+
+REFERENCE            muzzle_compensator_545mm
+LANG_ENGLISH         "Muzzle Brake 5.45"
+
+REFERENCE            muzzle_compensator_556mm
+LANG_ENGLISH         "Muzzle Brake 5.56"
+
+REFERENCE            muzzle_compensator_556mm_desc
+LANG_ENGLISH         "Reverse venting redirects gases to the sides to reduce muzzle climb.  "
+
+REFERENCE            muzzle_compensator_762mm
+LANG_ENGLISH         "Muzzle Brake 7.62"
+
+REFERENCE            muzzle_compensator_762mm_2_desc
+LANG_ENGLISH         "Lightweight single port redirects gases to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator_762mm_desc
+LANG_ENGLISH         "Redirects gases upwards and to the sides to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator_9mm
+LANG_ENGLISH         "Muzzle Brake 9"
+
+REFERENCE            muzzle_compensator_9mm_desc
+LANG_ENGLISH         "Reduces muzzle climb by expelling gases upwards and to the side."
+
+REFERENCE            muzzle_compensator_ar_t9
+LANG_ENGLISH         "Muzzle Brake"
+
+REFERENCE            muzzle_compensator_ar_t901
+LANG_ENGLISH         "Muzzle Brake 5.56"
+
+REFERENCE            muzzle_compensator_ar_t901_desc
+LANG_ENGLISH         "Reverse venting redirects gases to the sides to reduce muzzle climb.  "
+
+REFERENCE            muzzle_compensator_ar_t902
+LANG_ENGLISH         "Infantry Compensator"
+
+REFERENCE            muzzle_compensator_ar_t902_desc
+LANG_ENGLISH         "In-line vent holes expel gases upward to reduce muzzle climb."
+
+REFERENCE            muzzle_compensator_ar_t9_desc
+LANG_ENGLISH         "Greatly reduced vertical recoil while aiming down the sight. "
+
+REFERENCE            muzzle_compensator_lm_t9
+LANG_ENGLISH         "Muzzle Brake"
+
+REFERENCE            muzzle_compensator_lm_t9_desc
+LANG_ENGLISH         "Greatly reduced vertical recoil while aiming down the sight. "
+
+REFERENCE            muzzle_compensator_pi_t9
+LANG_ENGLISH         "Muzzle Brake"
+
+REFERENCE            muzzle_compensator_pi_t9_desc
+LANG_ENGLISH         "Greatly reduced vertical recoil while aiming down the sight. "
+
+REFERENCE            muzzle_compensator_sh_t9
+LANG_ENGLISH         "Duckbill Choke"
+
+REFERENCE            muzzle_compensator_sh_t9_desc
+LANG_ENGLISH         "Spreader choke diverts pellets more towards the sides."
+
+REFERENCE            muzzle_compensator_shotgun
+LANG_ENGLISH         "Duckbill Choke"
+
+REFERENCE            muzzle_compensator_shotgun_desc
+LANG_ENGLISH         "Spreader choke diverts pellets more towards the sides."
+
+REFERENCE            muzzle_compensator_sm_t9
+LANG_ENGLISH         "Muzzle Brake 9"
+
+REFERENCE            muzzle_compensator_sm_t9_desc
+LANG_ENGLISH         "Greatly reduced vertical recoil while aiming down the sight. "
+
+REFERENCE            muzzle_compensator_sn_t9
+LANG_ENGLISH         "Muzzle Brake"
+
+REFERENCE            muzzle_compensator_sn_t9_desc
+LANG_ENGLISH         "Greatly reduced sway while aiming down sight."
+
+REFERENCE            muzzle_compensator_sniper_308mm
+LANG_ENGLISH         "Stabilizer .308"
+
+REFERENCE            muzzle_compensator_sniper_308mm_2_desc
+LANG_ENGLISH         "Lightweight muzzle brake reduces weapon sway for improved control."
+
+REFERENCE            muzzle_compensator_sniper_308mm_desc
+LANG_ENGLISH         "Lightweight muzzle brake reduces weapon sway."
+
+REFERENCE            muzzle_compensator_sniper_50bmg
+LANG_ENGLISH         "Stabilizer .50 BMG"
+
+REFERENCE            muzzle_compensator_sniper_50bmg_desc
+LANG_ENGLISH         "Improve stability for quicker realignment and more accurate follow up shots with a custom clamshell compensator."
+
+REFERENCE            muzzle_mixmuzzle2_ar_t9
+LANG_ENGLISH         "SOCOM Eliminator"
+
+REFERENCE            muzzle_mixmuzzle2_ar_t9_desc
+LANG_ENGLISH         "Reduces muzzle flash and vents gases to the sides to reduce muzzle rise."
+
+REFERENCE            muzzle_mixmuzzle2_general
+LANG_ENGLISH         "SOCOM Eliminator"
+
+REFERENCE            muzzle_mixmuzzle2_general_desc
+LANG_ENGLISH         "Reduces muzzle flash and vents gases to the sides to reduce muzzle rise."
+
+REFERENCE            muzzle_mixmuzzle2_kgb
+LANG_ENGLISH         "KGB Eliminator"
+
+REFERENCE            muzzle_mixmuzzle2_lm_t9
+LANG_ENGLISH         "SOCOM Eliminator"
+
+REFERENCE            muzzle_mixmuzzle2_lm_t9_desc
+LANG_ENGLISH         "Reduces muzzle flash and vents gases to the sides to reduce muzzle rise."
+
+REFERENCE            muzzle_mixmuzzle2_pi_t9
+LANG_ENGLISH         "SOCOM Eliminator"
+
+REFERENCE            muzzle_mixmuzzle2_pi_t9_desc
+LANG_ENGLISH         "Reduces muzzle flash and vents gases to the sides to reduce muzzle rise."
+
+REFERENCE            muzzle_mixmuzzle2_sh_t9
+LANG_ENGLISH         "SOCOM Blast Mitigator"
+
+REFERENCE            muzzle_mixmuzzle2_sh_t9_desc
+LANG_ENGLISH         "Blast shield reduces muzzle flash to conceal shooter's position from enemies."
+
+REFERENCE            muzzle_mixmuzzle2_shotgun
+LANG_ENGLISH         "SOCOM Blast Mitigator"
+
+REFERENCE            muzzle_mixmuzzle2_shotgun_desc
+LANG_ENGLISH         "Blast shield reduces muzzle flash to conceal shooter's position from enemies."
+
+REFERENCE            muzzle_mixmuzzle2_sm_t9
+LANG_ENGLISH         "SOCOM Eliminator"
+
+REFERENCE            muzzle_mixmuzzle2_sm_t9_desc
+LANG_ENGLISH         "Reduces muzzle flash and vents gases to the sides to reduce muzzle rise."
+
+REFERENCE            muzzle_mixmuzzle2_sn_t9
+LANG_ENGLISH         "Task Force Shroud"
+
+REFERENCE            muzzle_mixmuzzle2_sn_t9_desc
+LANG_ENGLISH         "Lightweight muzzle shroud to improve weapon sway and reduce flash."
+
+REFERENCE            muzzle_mixmuzzle2_sniper
+LANG_ENGLISH         "Task Force Shroud"
+
+REFERENCE            muzzle_mixmuzzle2_sniper_desc
+LANG_ENGLISH         "Lightweight muzzle shroud to improve weapon sway and reduce flash."
+
+REFERENCE            muzzle_mixmuzzle2_wooden_desc
+LANG_ENGLISH         "Muzzle device reduces flash and vents gases to the sides to reduce muzzle climb. "
+
+REFERENCE            muzzle_mixmuzzle_12ga
+LANG_ENGLISH         "Sound Suppressor"
+
+REFERENCE            muzzle_mixmuzzle_12ga_desc
+LANG_ENGLISH         "Lightweight suppressor eliminates flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_mixmuzzle_45apc
+LANG_ENGLISH         "Flashguard .45 APC"
+
+REFERENCE            muzzle_mixmuzzle_45apc_desc
+LANG_ENGLISH         "Lightweight flash hider reduces muzzle flash to conceal position. "
+
+REFERENCE            muzzle_mixmuzzle_545mm
+LANG_ENGLISH         "Flashguard 5.45"
+
+REFERENCE            muzzle_mixmuzzle_556mm
+LANG_ENGLISH         "Flashguard 5.56"
+
+REFERENCE            muzzle_mixmuzzle_556mm_desc
+LANG_ENGLISH         "Flash hider preserves vision and conceals position by reducing muzzle flash. "
+
+REFERENCE            muzzle_mixmuzzle_762mm
+LANG_ENGLISH         "Flashguard 7.62"
+
+REFERENCE            muzzle_mixmuzzle_762mm_desc
+LANG_ENGLISH         "Reduces muzzle flash to conceal position."
+
+REFERENCE            muzzle_mixmuzzle_9mm
+LANG_ENGLISH         "Flashguard 9"
+
+REFERENCE            muzzle_mixmuzzle_9mm_desc
+LANG_ENGLISH         "Reduces muzzle flash signature to conceal position. "
+
+REFERENCE            muzzle_mixmuzzle_ar_t9
+LANG_ENGLISH         "Regulator"
+
+REFERENCE            muzzle_mixmuzzle_ar_t901
+LANG_ENGLISH         "Flashguard 5.56"
+
+REFERENCE            muzzle_mixmuzzle_ar_t901_desc
+LANG_ENGLISH         "Flash hider preserves vision and conceals position by reducing muzzle flash. "
+
+REFERENCE            muzzle_mixmuzzle_ar_t902
+LANG_ENGLISH         "SOCOM Eliminator"
+
+REFERENCE            muzzle_mixmuzzle_ar_t902_desc
+LANG_ENGLISH         "Reduces muzzle flash and vents gases to the sides to reduce muzzle rise."
+
+REFERENCE            muzzle_mixmuzzle_ar_t9_desc
+LANG_ENGLISH         "Reduced weapon sound, and mini-map signature.
+Reduced vertical recoil while aiming down the sight."
+
+REFERENCE            muzzle_mixmuzzle_lm_t9
+LANG_ENGLISH         "Regulator"
+
+REFERENCE            muzzle_mixmuzzle_lm_t9_desc
+LANG_ENGLISH         "Reduced weapon sound, and mini-map signature.
+Reduced vertical recoil while aiming down the sight."
+
+REFERENCE            muzzle_mixmuzzle_pi_t9
+LANG_ENGLISH         "Regulator"
+
+REFERENCE            muzzle_mixmuzzle_pi_t9_desc
+LANG_ENGLISH         "Reduced weapon sound, and mini-map signature.
+Reduced vertical recoil while aiming down the sight."
+
+REFERENCE            muzzle_mixmuzzle_sh_t9
+LANG_ENGLISH         "Regulator"
+
+REFERENCE            muzzle_mixmuzzle_sh_t9_desc
+LANG_ENGLISH         "Reduced weapon sound, and mini-map signature.
+Increased hip-fire pellet area."
+
+REFERENCE            muzzle_mixmuzzle_shotgun_12ga
+LANG_ENGLISH         "Flash Cone 12 Ga"
+
+REFERENCE            muzzle_mixmuzzle_shotgun_12ga_desc
+LANG_ENGLISH         "Flash hider reduces muzzle flash to preserve vision and conceal location."
+
+REFERENCE            muzzle_mixmuzzle_sm_t9
+LANG_ENGLISH         "Flashguard 9"
+
+REFERENCE            muzzle_mixmuzzle_sm_t9_desc
+LANG_ENGLISH         "Reduced weapon sound, and mini-map signature.
+Reduced vertical recoil while aiming down the sight."
+
+REFERENCE            muzzle_mixmuzzle_sn_t9
+LANG_ENGLISH         "Regulator"
+
+REFERENCE            muzzle_mixmuzzle_sn_t9_desc
+LANG_ENGLISH         "Reduced weapon sound, and mini-map signature.
+Reduced sway while aiming down sight."
+
+REFERENCE            muzzle_mixmuzzle_sniper_308
+LANG_ENGLISH         "Flash Hider .308"
+
+REFERENCE            muzzle_mixmuzzle_sniper_308_desc
+LANG_ENGLISH         "Flash guard reduces muzzle flash to conceal your position from enemies. "
+
+REFERENCE            muzzle_mixmuzzle_sniper_50bmg
+LANG_ENGLISH         "Flash Hider .50 BMG"
+
+REFERENCE            muzzle_mixmuzzle_sniper_50bmg_desc
+LANG_ENGLISH         "Lightweight flash hider reduces muzzle flash to conceal your position."
+
+REFERENCE            muzzle_mixmuzzle_wooden_desc
+LANG_ENGLISH         "Reduces muzzle flash to improve sight picture and position concealment. "
+
+REFERENCE            muzzle_suppressed
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            muzzle_suppressed2_ar_t9
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            muzzle_suppressed2_ar_t9_desc
+LANG_ENGLISH         "Traps gas to reduce muzzle rise.  Reduces flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed2_general
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            muzzle_suppressed2_general_desc
+LANG_ENGLISH         "Traps gas to reduce muzzle rise.  Reduces flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed2_gru
+LANG_ENGLISH         "GRU Silencer"
+
+REFERENCE            muzzle_suppressed2_gru_sup
+LANG_ENGLISH         "GRU Suppressor"
+
+REFERENCE            muzzle_suppressed2_lm_t9
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            muzzle_suppressed2_lm_t9_desc
+LANG_ENGLISH         "Traps gas to reduce muzzle rise.  Reduces flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed2_other
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            muzzle_suppressed2_other_desc
+LANG_ENGLISH         "Traps gases to reduce muzzle climb and eliminate muzzle flash. "
+
+REFERENCE            muzzle_suppressed2_pi_t9
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            muzzle_suppressed2_pi_t9_desc
+LANG_ENGLISH         "Traps gases to reduce muzzle climb and eliminate muzzle flash. "
+
+REFERENCE            muzzle_suppressed2_sh_t9
+LANG_ENGLISH         "Agency Choke"
+
+REFERENCE            muzzle_suppressed2_sh_t9_desc
+LANG_ENGLISH         "Conceals position by eliminating flash and reducing acoustics.  Improves pellet spread."
+
+REFERENCE            muzzle_suppressed2_shotgun
+LANG_ENGLISH         "Agency Choke"
+
+REFERENCE            muzzle_suppressed2_shotgun_desc
+LANG_ENGLISH         "Conceals position by eliminating flash and reducing acoustics.  Improves pellet spread."
+
+REFERENCE            muzzle_suppressed2_sm_t9
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            muzzle_suppressed2_sm_t9_desc
+LANG_ENGLISH         "Traps gases to reduce muzzle climb and eliminate muzzle flash. "
+
+REFERENCE            muzzle_suppressed2_sn_t9
+LANG_ENGLISH         "Wrapped Suppressor"
+
+REFERENCE            muzzle_suppressed2_sn_t9_desc
+LANG_ENGLISH         "Wrapped suppressor minimizes heat distortion to maintain a clear sight picture and traps gases to reduce muzzle rise. "
+
+REFERENCE            muzzle_suppressed2_sniper
+LANG_ENGLISH         "Agency Moderator"
+
+REFERENCE            muzzle_suppressed2_sniper_desc
+LANG_ENGLISH         "Wrapped suppressor minimizes heat distortion to maintain a clear sight picture and traps gases to reduce muzzle rise. "
+
+REFERENCE            muzzle_suppressed2_tr
+LANG_ENGLISH         "Agency Silencer"
+
+REFERENCE            muzzle_suppressed2_tr_desc
+LANG_ENGLISH         "Traps gases to reduce muzzle rise and maintain control.  Provides flash and sound suppression."
+
+REFERENCE            muzzle_suppressed2_wooden_desc
+LANG_ENGLISH         "Traps gases to reduce muzzle rise and maintain control.  Provides flash and sound suppression."
+
+REFERENCE            muzzle_suppressed_ar_t9
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            muzzle_suppressed_ar_t901
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            muzzle_suppressed_ar_t901_desc
+LANG_ENGLISH         "Reduces acoustic intensity of muzzle report and eliminates muzzle flash."
+
+REFERENCE            muzzle_suppressed_ar_t902
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            muzzle_suppressed_ar_t902_desc
+LANG_ENGLISH         "Traps gas to reduce muzzle rise.  Reduces flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed_ar_t9_desc
+LANG_ENGLISH         "Reduces acoustic intensity of muzzle report and eliminates muzzle flash."
+
+REFERENCE            muzzle_suppressed_desc
+LANG_ENGLISH         "Greatly reduced weapon sound, and mini-map signature.
+"
+
+REFERENCE            muzzle_suppressed_general
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            muzzle_suppressed_general_desc
+LANG_ENGLISH         "Reduces acoustic intensity of muzzle report and eliminates muzzle flash."
+
+REFERENCE            muzzle_suppressed_lm_t9
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            muzzle_suppressed_lm_t9_desc
+LANG_ENGLISH         "Reduces acoustic intensity of muzzle report and eliminates muzzle flash."
+
+REFERENCE            muzzle_suppressed_other
+LANG_ENGLISH         "Sound Suppressor"
+
+REFERENCE            muzzle_suppressed_other_desc
+LANG_ENGLISH         "Lightweight suppressor eliminates flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed_pi_t9
+LANG_ENGLISH         "Sound Suppressor"
+
+REFERENCE            muzzle_suppressed_pi_t9_desc
+LANG_ENGLISH         "Lightweight suppressor eliminates flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed_sh_t9
+LANG_ENGLISH         "Sound Suppressor"
+
+REFERENCE            muzzle_suppressed_sh_t9_desc
+LANG_ENGLISH         "Lightweight suppressor eliminates flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed_sm_t9
+LANG_ENGLISH         "Sound Suppressor"
+
+REFERENCE            muzzle_suppressed_sm_t9_desc
+LANG_ENGLISH         "Lightweight suppressor eliminates flash and sound from muzzle blast. "
+
+REFERENCE            muzzle_suppressed_sn_t9
+LANG_ENGLISH         "Sound Moderator "
+
+REFERENCE            muzzle_suppressed_sn_t9_desc
+LANG_ENGLISH         "Reduces firing acoustics and eliminates flash to improve position concealment."
+
+REFERENCE            muzzle_suppressed_sniper
+LANG_ENGLISH         "Sound Moderator "
+
+REFERENCE            muzzle_suppressed_sniper_desc
+LANG_ENGLISH         "Reduces firing acoustics and eliminates flash to improve position concealment."
+
+REFERENCE            muzzle_suppressed_tr
+LANG_ENGLISH         "Silencer"
+
+REFERENCE            muzzle_suppressed_tr_desc
+LANG_ENGLISH         "Eliminates muzzle flash and reduces firing acoustics to improve position concealment. "
+
+REFERENCE            muzzle_suppressed_wooden_desc
+LANG_ENGLISH         "Lightweight suppressor eliminates muzzle flash and reduces acoustic intensity."
+
+REFERENCE            newref
+LANG_ENGLISH         "Non-abrasive slip on nylon grip offers versatile aiming mobility in all firing stances and combat conditions. Perfect for small-unit special operation missions."
+
+REFERENCE            optic_acog_t9
+LANG_ENGLISH         "Visiontech 2x"
+
+REFERENCE            optic_acog_t9_desc
+LANG_ENGLISH         "American-made scope with 2.0x magnification provides exceptional optical clarity."
+
+REFERENCE            optic_dualzoom_t9
+LANG_ENGLISH         "SUSAT Multizoom"
+
+REFERENCE            optic_dualzoom_t9_desc
+LANG_ENGLISH         "Telescopic sight produced in the UK with variable 2.0x-4.0x magnification for long range target acquisition.  Press [{^BBUTTON_LUI_RIGHT_STICK^;+melee_zoom}] to toggle between 2.0x and 4.0x."
+
+REFERENCE            optic_elo_t901
+LANG_ENGLISH         "Quickdot LED"
+
+REFERENCE            optic_elo_t901_desc
+LANG_ENGLISH         "Compact mini reflex sight of American origin with 1.25x magnification."
+
+REFERENCE            optic_elo_t902
+LANG_ENGLISH         "Microflex LED"
+
+REFERENCE            optic_elo_t902_desc
+LANG_ENGLISH         "Reflex sight manufactured by Phantom USA with 1.25x magnification and a thin frame. "
+
+REFERENCE            optic_elo_t903
+LANG_ENGLISH         "SnapPoint"
+
+REFERENCE            optic_elo_t903_desc
+LANG_ENGLISH         "Russian mini reflex sight with 1.5x magnification provides a clear sight picture."
+
+REFERENCE            optic_elo_t904
+LANG_ENGLISH         "Low Zoom Reflex 4"
+
+REFERENCE            optic_holo_t9
+LANG_ENGLISH         "Sillix Holoscout"
+
+REFERENCE            optic_holo_t9_desc
+LANG_ENGLISH         "Well-rounded holographic sight with 1.75x magnification provides a distortion-free sight picture."
+
+REFERENCE            optic_ironsight_sn_t9
+LANG_ENGLISH         "Iron Sights"
+
+REFERENCE            optic_otero_t9
+LANG_ENGLISH         "Otero Mini Reflex"
+
+REFERENCE            optic_otero_t9_desc
+LANG_ENGLISH         "Otero reflex sight with 1.37x magnification designed specifically for pistols."
+
+REFERENCE            optic_pistol_reflex_t9
+LANG_ENGLISH         "Millstop Reflex"
+
+REFERENCE            optic_rangfinder_t9
+LANG_ENGLISH         "Hangman RF"
+
+REFERENCE            optic_rangfinder_t9_desc
+LANG_ENGLISH         "American rangefinder scope with 6.0x magnification for reliable long-distance target acquisition. "
+
+REFERENCE            optic_reddot_t9
+LANG_ENGLISH         "Kobra Red Dot"
+
+REFERENCE            optic_reddot_t9_desc
+LANG_ENGLISH         "Red-dot sight of Soviet origin with 1.75x magnification features an illuminated aimpoint to improve target acquisition."
+
+REFERENCE            optic_reflex_pi_t9
+LANG_ENGLISH         "Millstop Reflex"
+
+REFERENCE            optic_reflex_pi_t9_desc
+LANG_ENGLISH         "Precision optic produced by Millstop with 1.37x magnification."
+
+REFERENCE            optic_reflex_t901
+LANG_ENGLISH         "Millstop Reflex"
+
+REFERENCE            optic_reflex_t901_desc
+LANG_ENGLISH         "Precision optic produced by Millstop with 1.37x magnification."
+
+REFERENCE            optic_reflex_t902
+LANG_ENGLISH         "Hawksmoor"
+
+REFERENCE            optic_reflex_t902_desc
+LANG_ENGLISH         "American reflex sight with a large objective lens and 1.37x magnification provides higher precision."
+
+REFERENCE            optic_reflex_t903
+LANG_ENGLISH         "Diamondback Reflex"
+
+REFERENCE            optic_reflex_t903_desc
+LANG_ENGLISH         "Russian reflex sight with 1.37x magnification and a thin circular frame to prevent sight obstruction."
+
+REFERENCE            optic_reflex_t904
+LANG_ENGLISH         "Fastpoint Reflex"
+
+REFERENCE            optic_reflex_t904_desc
+LANG_ENGLISH         "Open reflex sight from Phantom with 1.37x magnification improves aiming precision and target acquisition."
+
+REFERENCE            optic_reflex_t905
+LANG_ENGLISH         "Reflex 5"
+
+REFERENCE            optic_reflex_t906
+LANG_ENGLISH         "Reflex 6"
+
+REFERENCE            optic_scope3x_t9
+LANG_ENGLISH         "Axial Arms 3x"
+
+REFERENCE            optic_scope3x_t9_desc
+LANG_ENGLISH         "American scope with 3.0x magnification features a mil-dot crosshair for advanced targeting at extended ranges."
+
+REFERENCE            optic_scope4x_t9
+LANG_ENGLISH         "Royal & Kross 4x"
+
+REFERENCE            optic_scope4x_t9_desc
+LANG_ENGLISH         "4.0x optic manufactured in the UK with a light aluminum body improves targeting from long range. "
+
+REFERENCE            optic_smoothzoom_t901
+LANG_ENGLISH         "Vulture Custom Zoom"
+
+REFERENCE            optic_smoothzoom_t901_desc
+LANG_ENGLISH         "Advanced scope of Russian origin zooms between 1.0x and 10x for reliable target acquisition from mid to long range.  Press [{^BBUTTON_LUI_DPAD_U^;+zoomin}] and [{^BBUTTON_LUI_DPAD_D^;+zoomout}] to move between 1.0x and 10x."
+
+REFERENCE            optic_smoothzoom_t902
+LANG_ENGLISH         "Ultrazoom Custom"
+
+REFERENCE            optic_themal_t901
+LANG_ENGLISH         "Noch Sova Thermal"
+
+REFERENCE            optic_themal_t902
+LANG_ENGLISH         "AN/PVS-4 Thermal"
+
+REFERENCE            optic_thermal_east_t9
+LANG_ENGLISH         "Noch Sova Thermal"
+
+REFERENCE            optic_zoomscope_2x12x_t901
+LANG_ENGLISH         "Zoom_Scope_6x12x"
+
+REFERENCE            optic_zoomscope_2x12x_t902
+LANG_ENGLISH         "Ultrazoom Custom"
+
+REFERENCE            optic_zoomscope_2x6x_t901
+LANG_ENGLISH         "Zoom Scope - 2x-6x 2"
+
+REFERENCE            optic_zoomscope_2x6x_t902
+LANG_ENGLISH         "Zoom Scope - 2x-6x"
+
+REFERENCE            otpic_reflex_t902
+LANG_ENGLISH         "Hawksmoor"
+
+REFERENCE            otpic_reflex_t902_desc
+LANG_ENGLISH         "American reflex sight with a large objective lens and 1.37x magnification provides higher precision."
+
+REFERENCE            pistolgrip01_t9accurate01
+LANG_ENGLISH         "Quickdraw Base"
+
+REFERENCE            pistolgrip01_t9accurate02
+LANG_ENGLISH         "Handle Pro"
+
+REFERENCE            pistolgrip02_t9accurate01
+LANG_ENGLISH         "Handle Base"
+
+REFERENCE            pistolgrip02_t9accurate02
+LANG_ENGLISH         "Quickdraw Pro"
+
+REFERENCE            pistolgrip03_t9accurate01
+LANG_ENGLISH         "Mixhandle Base"
+
+REFERENCE            pistolgrip03_t9accurate02
+LANG_ENGLISH         "Mixhandle Pro"
+
+REFERENCE            quickdraw_ar_t901
+LANG_ENGLISH         "Speed Tape"
+
+REFERENCE            quickdraw_ar_t902
+LANG_ENGLISH         "Serpent Wrap"
+
+REFERENCE            reflex_t901
+LANG_ENGLISH         "Millstop Reflex"
+
+REFERENCE            silencerlarge_t9ar01
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            silencerlarge_t9ar02
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            silencermed_t9ar01
+LANG_ENGLISH         "Mix muzzle Base"
+
+REFERENCE            silencermed_t9ar02
+LANG_ENGLISH         "Mix muzzle Pro"
+
+REFERENCE            snprscope_t901
+LANG_ENGLISH         "AN/PVS-4 Thermal"
+
+REFERENCE            speedgrip_ar_t901
+LANG_ENGLISH         "Bruiser Grip"
+
+REFERENCE            speedgrip_ar_t902
+LANG_ENGLISH         "Infiltrator Grip"
+
+REFERENCE            sprintout_ar_t901
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            sprintout_ar_t902
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stalker_ar_t901
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stalker_ar_t902
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            steadyaim_ar_t901
+LANG_ENGLISH         "Steady Aim Laser"
+
+REFERENCE            steadyaim_ar_t902
+LANG_ENGLISH         "SWAT 5mw Laser Sight"
+
+REFERENCE            stock_buffer_tube_t9
+LANG_ENGLISH         "Buffer Tube"
+
+REFERENCE            stock_cheek_sh_t9_desc
+LANG_ENGLISH         "Leather cheek rest for improved movement speed when aiming down sights."
+
+REFERENCE            stock_cheek_sn_t9_desc
+LANG_ENGLISH         "Polyester cheek rest reduces shock for improved sprint recovery time."
+
+REFERENCE            stock_classic_sh_t9_desc
+LANG_ENGLISH         "Classic shotgun stock increased stability for improved sprint recovery time."
+
+REFERENCE            stock_cqb_pad_t9
+LANG_ENGLISH         "CQB Pad"
+
+REFERENCE            stock_cqb_t9_desc
+LANG_ENGLISH         "Cheek rest contoured for stability and increased sprint recovery time."
+
+REFERENCE            stock_dualwield_desc
+LANG_ENGLISH         "Carry two weapons, with one in each hand. Cannot aim down the sight or be combined with optics."
+
+REFERENCE            stock_duster_fold_t9_desc
+LANG_ENGLISH         "Folding stock enables movement versatility to increase sliding speed."
+
+REFERENCE            stock_duster_pad_t9
+LANG_ENGLISH         "Duster Pad"
+
+REFERENCE            stock_duster_sn_t9_desc
+LANG_ENGLISH         "Tactical cheek rest and recoil pad provides added stability to increase sliding speed."
+
+REFERENCE            stock_duster_t9_desc
+LANG_ENGLISH         "Durable recoil pad absorbs shock to improve sliding speed."
+
+REFERENCE            stock_kgb_pad_t9
+LANG_ENGLISH         "KGB Pad"
+
+REFERENCE            stock_kgb_skel_t9
+LANG_ENGLISH         "KGB Skeletal Stock"
+
+REFERENCE            stock_kgb_skel_t9_desc
+LANG_ENGLISH         "Folding stock enables concealment versatility for improved sprint recovery and movement speed when aiming."
+
+REFERENCE            stock_light_fold_sh_t9_desc
+LANG_ENGLISH         "Lightweight folding stock improves sprint recovery and movement speeds when aiming, firing, and sprinting."
+
+REFERENCE            stock_mara_light_t9_desc
+LANG_ENGLISH         "Lightweight stock improves versatility by increasing sprint recovery time."
+
+REFERENCE            stock_marathon_sh_t9_desc
+LANG_ENGLISH         "Recoil pad absorbs shock for improved sprint recovery and movement speeds when aiming, firing, and sprinting."
+
+REFERENCE            stock_marathon_sn_t9_desc
+LANG_ENGLISH         "Recoil pad absorbs shock to reduce draw time when exiting sprint."
+
+REFERENCE            stock_marathon_t9
+LANG_ENGLISH         "Marathon Stock"
+
+REFERENCE            stock_marathon_t9_desc
+LANG_ENGLISH         "Extended stock perfectly balanced for improved sprint recovery time."
+
+REFERENCE            stock_mixstock2_ar_t9
+LANG_ENGLISH         "Raider Stock"
+
+REFERENCE            stock_mixstock2_ar_t9_desc
+LANG_ENGLISH         "Buffer tube stock pad made from non-slip rubber absorbs shock for improved sprint recovery and faster movement speed when aiming. "
+
+REFERENCE            stock_mixstock2_general
+LANG_ENGLISH         "Raider Stock"
+
+REFERENCE            stock_mixstock2_general_desc
+LANG_ENGLISH         "Buffer tube stock pad made from non-slip rubber absorbs shock for improved sprint recovery and faster movement speed when aiming. "
+
+REFERENCE            stock_mixstock2_leather2_desc
+LANG_ENGLISH         "Retrofitted leather cheek rest to improve movement speeds when aiming and firing."
+
+REFERENCE            stock_mixstock2_leather_desc
+LANG_ENGLISH         "Retrofitted leather cheek rest absorbs shock to improve sprint recovery and movement speed when aiming."
+
+REFERENCE            stock_mixstock2_lm_t9
+LANG_ENGLISH         "Raider Stock"
+
+REFERENCE            stock_mixstock2_lm_t9_desc
+LANG_ENGLISH         "Buffer tube stock pad made from non-slip rubber absorbs shock for improved sprint recovery and faster movement speed when aiming. "
+
+REFERENCE            stock_mixstock2_noleather_desc
+LANG_ENGLISH         "Retrofitted cheek rest to improve movement speeds when aiming and firing."
+
+REFERENCE            stock_mixstock2_sh_t9
+LANG_ENGLISH         "Marathon Stock"
+
+REFERENCE            stock_mixstock2_sh_t9_desc
+LANG_ENGLISH         "Synthetic adjustable stock spacer improves steadiness while aiming on the move. Serrated bottom keeps gun steady for improved sprinting speed."
+
+REFERENCE            stock_mixstock2_shotgun
+LANG_ENGLISH         "Marathon Stock"
+
+REFERENCE            stock_mixstock2_shotgun_desc
+LANG_ENGLISH         "Synthetic adjustable stock spacer improves steadiness while aiming on the move. Serrated bottom keeps gun steady for improved sprinting speed."
+
+REFERENCE            stock_mixstock2_shotgun_semiauto_desc
+LANG_ENGLISH         "Built-in stock is folded out for increased shoulder support to improve movement speeds when aiming and firing. "
+
+REFERENCE            stock_mixstock2_sm_t9
+LANG_ENGLISH         "Raider Stock"
+
+REFERENCE            stock_mixstock2_sm_t9_desc
+LANG_ENGLISH         "Buffer tube stock pad made from non-slip rubber absorbs shock for improved sprint recovery and faster movement speed when aiming. "
+
+REFERENCE            stock_mixstock2_smg_handling_desc
+LANG_ENGLISH         "Minimal stock with weight stabilizer maximizes movement speed when aiming and improves sprinting speed. "
+
+REFERENCE            stock_mixstock2_sn_t9
+LANG_ENGLISH         "Raider Stock"
+
+REFERENCE            stock_mixstock2_sn_t9_desc
+LANG_ENGLISH         "Buffer tube stock pad made from non-slip rubber absorbs shock for improved sprint recovery and faster movement speed when aiming. "
+
+REFERENCE            stock_mixstock2_t9_desc
+LANG_ENGLISH         "Buffer tube stock pad absorbs shock for improved sprint recovery and faster movement speed when aiming."
+
+REFERENCE            stock_mixstock3_lm_t9_desc
+LANG_ENGLISH         "Lightweight recoil pad absorbs shock to improve sliding speed."
+
+REFERENCE            stock_mixstock3_t9_desc
+LANG_ENGLISH         "Tactical cheek rest provides added stability to increase sliding speed."
+
+REFERENCE            stock_mixstock4_t9_desc
+LANG_ENGLISH         "Lightweight cheek rest provides added stability for improved sprint recovery and movement speed when aiming."
+
+REFERENCE            stock_mixstock_ar_t9
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            stock_mixstock_ar_t901
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            stock_mixstock_ar_t901_desc
+LANG_ENGLISH         "Reliable stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_mixstock_ar_t902
+LANG_ENGLISH         "Raider Stock"
+
+REFERENCE            stock_mixstock_ar_t902_desc
+LANG_ENGLISH         "Buffer tube stock pad made from non-slip rubber absorbs shock for improved sprint recovery and faster movement speed when aiming. "
+
+REFERENCE            stock_mixstock_ar_t9_desc
+LANG_ENGLISH         "Reliable stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_mixstock_general
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            stock_mixstock_general_desc
+LANG_ENGLISH         "Reliable stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_mixstock_lm_t9
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            stock_mixstock_lm_t9_desc
+LANG_ENGLISH         "Reliable stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_mixstock_sh_t9
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            stock_mixstock_sh_t9_desc
+LANG_ENGLISH         "Reliable stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_mixstock_shotgun_semiauto_desc
+LANG_ENGLISH         "Built-in stock is folded out for increased shoulder support to improve sliding speed. "
+
+REFERENCE            stock_mixstock_sm_t9
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            stock_mixstock_sm_t9_desc
+LANG_ENGLISH         "Reliable stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_mixstock_smg_handling_desc
+LANG_ENGLISH         "Extended minimal stock frame improves sprint recovery time to assist in getting back on target. "
+
+REFERENCE            stock_mixstock_sn_t9
+LANG_ENGLISH         "Duster Stock"
+
+REFERENCE            stock_mixstock_sn_t9_desc
+LANG_ENGLISH         "Reliable stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_mixstock_t9_desc
+LANG_ENGLISH         "Lightweight extended stock durably constructed to increase sliding speed."
+
+REFERENCE            stock_raider_pad_t9
+LANG_ENGLISH         "Raider Pad"
+
+REFERENCE            stock_raider_pad_t9_desc
+LANG_ENGLISH         "Recoil pad absorbs shock for improved sprint recovery and movement speed when aiming."
+
+REFERENCE            stock_raider_sn_t9_desc
+LANG_ENGLISH         "Polyester cheek rest improves sprint recovery and movement speed when aiming."
+
+REFERENCE            stock_raider_t9_desc
+LANG_ENGLISH         "Lightweight stock perfectly balanced for improved sprint recovery and movement speeds when aiming."
+
+REFERENCE            stock_retro_sn_t9_desc
+LANG_ENGLISH         "Retrofitted leather cheek rest improves sliding speed."
+
+REFERENCE            stock_retro_t9_desc
+LANG_ENGLISH         "Retrofitted stock balanced for stability and improved sliding speed."
+
+REFERENCE            stock_shotgun_t9
+LANG_ENGLISH         "Shotgun Stock"
+
+REFERENCE            stock_spets_pkm_t9
+LANG_ENGLISH         "Spetsnaz PKM Stock"
+
+REFERENCE            stock_spets_pkm_t9_desc
+LANG_ENGLISH         "Lightweight stock provides stability to improve movement speeds when aiming and firing."
+
+REFERENCE            stock_sprintout2_ar_t9
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stock_sprintout2_ar_t9_desc
+LANG_ENGLISH         "Foam pad buffer tube cover reduces weight for greater sprint recovery. "
+
+REFERENCE            stock_sprintout2_general
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stock_sprintout2_general_desc
+LANG_ENGLISH         "Foam pad buffer tube cover reduces weight for greater sprint recovery. "
+
+REFERENCE            stock_sprintout2_lm_t9
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stock_sprintout2_lm_t9_desc
+LANG_ENGLISH         "Foam pad buffer tube cover reduces weight for greater sprint recovery. "
+
+REFERENCE            stock_sprintout2_no_stock_desc
+LANG_ENGLISH         "Removed stock enables concealment versatility to improve sprint recovery time."
+
+REFERENCE            stock_sprintout2_sh_t9
+LANG_ENGLISH         "CQB Pad"
+
+REFERENCE            stock_sprintout2_sh_t9_desc
+LANG_ENGLISH         "Reduced weight from stock removal with an easier to grip handle improves sprinting speed and reduces draw time when exiting sprint. "
+
+REFERENCE            stock_sprintout2_shotgun
+LANG_ENGLISH         "CQB Pad"
+
+REFERENCE            stock_sprintout2_shotgun_desc
+LANG_ENGLISH         "Reduced weight from stock removal with an easier to grip handle improves sprinting speed and reduces draw time when exiting sprint. "
+
+REFERENCE            stock_sprintout2_sm_t9
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stock_sprintout2_sm_t9_desc
+LANG_ENGLISH         "Foam pad buffer tube cover reduces weight for greater sprint recovery. "
+
+REFERENCE            stock_sprintout2_smg_handling_desc
+LANG_ENGLISH         "Extended minimal stock with shoulder support and weight stabilizer improves sprinting speed."
+
+REFERENCE            stock_sprintout2_sn_t9
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stock_sprintout2_sn_t9_desc
+LANG_ENGLISH         "Foam pad buffer tube cover reduces weight for greater sprint recovery. "
+
+REFERENCE            stock_sprintout2_sniper_desc
+LANG_ENGLISH         "Rubber stock extender provides more shoulder support for increased stability when exiting a sprint."
+
+REFERENCE            stock_sprintout2_t9_desc
+LANG_ENGLISH         "Lightweight stock pad absorbs shock to reduce draw time when exiting sprint."
+
+REFERENCE            stock_sprintout_ar_t9
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stock_sprintout_ar_t901
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stock_sprintout_ar_t901_desc
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stock_sprintout_ar_t902
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stock_sprintout_ar_t902_desc
+LANG_ENGLISH         "Foam pad buffer tube cover reduces weight for greater sprint recovery. "
+
+REFERENCE            stock_sprintout_ar_t9_desc
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stock_sprintout_general
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stock_sprintout_general_desc
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stock_sprintout_lm_t9
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stock_sprintout_lm_t9_desc
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stock_sprintout_minimal_desc
+LANG_ENGLISH         "Wire stock frame reduces bulk and weapon weight to improve the time it takes to recover from sprinting. "
+
+REFERENCE            stock_sprintout_sh_t9
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stock_sprintout_sh_t9_desc
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stock_sprintout_sm_t9
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stock_sprintout_sm_t9_desc
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stock_sprintout_sn_t9
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stock_sprintout_sn_t9_desc
+LANG_ENGLISH         "Lightweight stock reduces weapon weight to improve sprint recovery time."
+
+REFERENCE            stock_sprintout_t9_desc
+LANG_ENGLISH         "Tactical recoil pad adds stability and reduces shock to increase sprint recovery time."
+
+REFERENCE            stock_sprintout_wire_desc
+LANG_ENGLISH         "Wire stock reduces weight to improve sprint recovery time."
+
+REFERENCE            stock_stalker2_ar_t9
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker2_ar_t9_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker2_general
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker2_general_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker2_lm_t9
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker2_lm_t9_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker2_sh_t10
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker2_sh_t10_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker2_sh_t9
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker2_sh_t9_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker2_sm_t9
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker2_sm_t9_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker2_smg_handling_desc
+LANG_ENGLISH         "Extended wooden stock with low comb and attached leather cheek riser improves moving speeds when aiming and firing."
+
+REFERENCE            stock_stalker2_smg_heavy_desc
+LANG_ENGLISH         "Low comb wooden stock reduces weight and provides firm shoulder support for improved movement speeds when aiming and firing. "
+
+REFERENCE            stock_stalker2_smg_standard_desc
+LANG_ENGLISH         "Extended polymer stock with attached leather cheek riser  improves movement speeds when aiming and firing."
+
+REFERENCE            stock_stalker2_sn_t9
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker2_sn_t9_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker2_sniper_desc
+LANG_ENGLISH         "Plastic cheek riser bolted into gun improves cheek weld for faster movement speeds when aiming and firing. "
+
+REFERENCE            stock_stalker2_t9_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing. "
+
+REFERENCE            stock_stalker3_lm_t9_desc
+LANG_ENGLISH         "Extended stock with aftermarket cheek rest to improve movement speeds when aiming and firing."
+
+REFERENCE            stock_stalker_ar_accurate_desc
+LANG_ENGLISH         "Extended polymer stock increases stability for improved movement speed when aiming down sights. "
+
+REFERENCE            stock_stalker_ar_t9
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stock_stalker_ar_t901
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stock_stalker_ar_t901_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_ar_t902
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            stock_stalker_ar_t902_desc
+LANG_ENGLISH         "Polyester cheek rest improves movement speeds when aiming and firing by providing a firm cheek weld. "
+
+REFERENCE            stock_stalker_ar_t9_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_general
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stock_stalker_general_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_lm_t9
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stock_stalker_lm_t9_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_sh_t9
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stock_stalker_sh_t9_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_sm_t9
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stock_stalker_sm_t9_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_smg_handling_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_smg_heavy_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_smg_standard_desc
+LANG_ENGLISH         "Extended polymer stock stabilizes weight for improved movement speeds when aiming. "
+
+REFERENCE            stock_stalker_sn_t9
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stock_stalker_sn_t9_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_stalker_sniper_standard_desc
+LANG_ENGLISH         "Durable cheek riser improves movement speeds when aiming. "
+
+REFERENCE            stock_stalker_t9_desc
+LANG_ENGLISH         "Lightweight cheek rest for increased aim down sight movement speed."
+
+REFERENCE            stock_stalker_tr_longburst_desc
+LANG_ENGLISH         "Classic stock designed to increase aim down sight movement speed."
+
+REFERENCE            stock_tac_cheek_t9_desc
+LANG_ENGLISH         "Tactical cheek rest to improve movement speeds when aiming and firing."
+
+REFERENCE            stock_tac_rpd_t9_desc
+LANG_ENGLISH         "MIL-SPEC stock with integrated cheek rest to improve movement speed when aiming down sights."
+
+REFERENCE            stock_tac_sn_t9_desc
+LANG_ENGLISH         "Polyester cheek pad improves movement speeds when aiming down the sights."
+
+REFERENCE            stock_tac_t9_desc
+LANG_ENGLISH         "Extended stock provides added stability for improved movement speed when aiming."
+
+REFERENCE            stockcollapsed_desc
+LANG_ENGLISH         "Collapsed stock enables concealment versatility to improve sprint recovery time."
+
+REFERENCE            stockh_solid_t9accurate
+LANG_ENGLISH         "Mixstock Base"
+
+REFERENCE            stockl_pist_t9accurate
+LANG_ENGLISH         "Mixstock Pro"
+
+REFERENCE            stockl_t9accurate
+LANG_ENGLISH         "Wire Stock"
+
+REFERENCE            stockno_t9accurate
+LANG_ENGLISH         "No Stock"
+
+REFERENCE            stockskel_default_t901
+LANG_ENGLISH         "Tactical Stock"
+
+REFERENCE            stockskel_default_t902
+LANG_ENGLISH         "SAS Combat Stock"
+
+REFERENCE            suppressed_ar_t901
+LANG_ENGLISH         "Suppressor"
+
+REFERENCE            suppressed_ar_t902
+LANG_ENGLISH         "Agency Suppressor"
+
+REFERENCE            thermal_t901
+LANG_ENGLISH         "Sillix Holoscout"
+
+REFERENCE            underbarrel_ergogrip_spets_t9
+LANG_ENGLISH         "Spetsnaz Ergonomic Grip"
+
+REFERENCE            underbarrel_grip2_ar_t9
+LANG_ENGLISH         "Field Agent Grip"
+
+REFERENCE            underbarrel_grip2_ar_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved recoil control."
+
+REFERENCE            underbarrel_grip2_fullauto
+LANG_ENGLISH         "Field Agent Grip"
+
+REFERENCE            underbarrel_grip2_fullauto_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved recoil control."
+
+REFERENCE            underbarrel_grip2_lm_t9
+LANG_ENGLISH         "Field Agent Grip"
+
+REFERENCE            underbarrel_grip2_lm_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved recoil control."
+
+REFERENCE            underbarrel_grip2_sm_t9
+LANG_ENGLISH         "Grip Pro"
+
+REFERENCE            underbarrel_grip2_sm_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved recoil control."
+
+REFERENCE            underbarrel_grip2_sn_t9
+LANG_ENGLISH         "Bipod"
+
+REFERENCE            underbarrel_grip2_sn_t9_desc
+LANG_ENGLISH         "Bipod and repurposed polymer pistol grip for improved recoil control. "
+
+REFERENCE            underbarrel_grip2_sniper
+LANG_ENGLISH         "Bipod"
+
+REFERENCE            underbarrel_grip2_sniper_desc
+LANG_ENGLISH         "Bipod and repurposed polymer pistol grip for improved recoil control. "
+
+REFERENCE            underbarrel_grip2_tr
+LANG_ENGLISH         "Field Agent Foregrip"
+
+REFERENCE            underbarrel_grip2_tr_desc
+LANG_ENGLISH         "Folding vertical grip for improved recoil control."
+
+REFERENCE            underbarrel_grip2_wooden_desc
+LANG_ENGLISH         "Repurposed bakelite pistol grip for improved recoil control."
+
+REFERENCE            underbarrel_grip_ar_t9
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            underbarrel_grip_ar_t901
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            underbarrel_grip_ar_t901_desc
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            underbarrel_grip_ar_t902
+LANG_ENGLISH         "Field Agent Grip"
+
+REFERENCE            underbarrel_grip_ar_t902_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved recoil control."
+
+REFERENCE            underbarrel_grip_ar_t9_desc
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            underbarrel_grip_fullauto
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            underbarrel_grip_fullauto_desc
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            underbarrel_grip_lm_t9
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            underbarrel_grip_lm_t9_desc
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            underbarrel_grip_single
+LANG_ENGLISH         "Front Grip"
+
+REFERENCE            underbarrel_grip_single_desc
+LANG_ENGLISH         "Bipod and standard polymer foregrip for improved recoil control."
+
+REFERENCE            underbarrel_grip_sm_t9
+LANG_ENGLISH         "Foregrip"
+
+REFERENCE            underbarrel_grip_sm_t9_desc
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control. "
+
+REFERENCE            underbarrel_grip_sn_t9
+LANG_ENGLISH         "Front Grip"
+
+REFERENCE            underbarrel_grip_sn_t9_desc
+LANG_ENGLISH         "Standard polymer foregrip for improved recoil control."
+
+REFERENCE            underbarrel_grip_wooden_desc
+LANG_ENGLISH         "Standard wooden foregrip for improved recoil control."
+
+REFERENCE            underbarrel_infil_t9
+LANG_ENGLISH         "Infiltrator Grip"
+
+REFERENCE            underbarrel_light_poly_t9_desc
+LANG_ENGLISH         "Lightweight polymer foregrip for improved combat maneuverability."
+
+REFERENCE            underbarrel_light_t9_desc
+LANG_ENGLISH         "Lightweight wooden foregrip for improved combat maneuverability."
+
+REFERENCE            underbarrel_mixunder2_ar_t9
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            underbarrel_mixunder2_ar_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder2_general
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            underbarrel_mixunder2_general_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder2_lm_t9
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            underbarrel_mixunder2_lm_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder2_other
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            underbarrel_mixunder2_other_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder2_sm_t9
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            underbarrel_mixunder2_sm_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder2_sn_t9
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            underbarrel_mixunder2_sn_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder2_wooden_desc
+LANG_ENGLISH         "Ergonomic wooden grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder_ar_t9
+LANG_ENGLISH         "Patrol Grip"
+
+REFERENCE            underbarrel_mixunder_ar_t901
+LANG_ENGLISH         "Patrol Grip"
+
+REFERENCE            underbarrel_mixunder_ar_t901_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed."
+
+REFERENCE            underbarrel_mixunder_ar_t902
+LANG_ENGLISH         "SFOD Speedgrip"
+
+REFERENCE            underbarrel_mixunder_ar_t902_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_mixunder_ar_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed."
+
+REFERENCE            underbarrel_mixunder_general
+LANG_ENGLISH         "Patrol Grip"
+
+REFERENCE            underbarrel_mixunder_general_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed."
+
+REFERENCE            underbarrel_mixunder_lm_t9
+LANG_ENGLISH         "Patrol Grip"
+
+REFERENCE            underbarrel_mixunder_lm_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed."
+
+REFERENCE            underbarrel_mixunder_sm_t9
+LANG_ENGLISH         "Patrol Grip"
+
+REFERENCE            underbarrel_mixunder_sm_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed."
+
+REFERENCE            underbarrel_mixunder_sn_t9
+LANG_ENGLISH         "Patrol Grip"
+
+REFERENCE            underbarrel_mixunder_sn_t9_desc
+LANG_ENGLISH         "Repurposed polymer pistol grip for improved sprint speed."
+
+REFERENCE            underbarrel_mixunder_wooden_desc
+LANG_ENGLISH         "Repurposed wood pistol grip for improved sprint speed."
+
+REFERENCE            underbarrel_plates_poly2_t9_desc
+LANG_ENGLISH         "Segmented polymer grip plates for faster movement speed when sprinting."
+
+REFERENCE            underbarrel_plates_poly_t9_desc
+LANG_ENGLISH         "Segmented polymer grip plates for faster weapon melee combat and improved sprint speed."
+
+REFERENCE            underbarrel_plates_t9_desc
+LANG_ENGLISH         "Bakelite grip plates for improved recoil control."
+
+REFERENCE            underbarrel_poly_fore2_t9_desc
+LANG_ENGLISH         "Polymer foregrip for improved sprint speed."
+
+REFERENCE            underbarrel_poly_fore_t9_desc
+LANG_ENGLISH         "Polymer foregrip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_sect_poly_t9_desc
+LANG_ENGLISH         "Sectioned polymer grip plates for improved recoil control."
+
+REFERENCE            underbarrel_solid_poly_t9_desc
+LANG_ENGLISH         "Solid polymer grip for improved sprint speed and recoil control."
+
+REFERENCE            underbarrel_speedgrip2_ar_t9
+LANG_ENGLISH         "Infiltrator Grip"
+
+REFERENCE            underbarrel_speedgrip2_ar_t9_desc
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability. "
+
+REFERENCE            underbarrel_speedgrip2_general
+LANG_ENGLISH         "Infiltrator Grip"
+
+REFERENCE            underbarrel_speedgrip2_general_desc
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability. "
+
+REFERENCE            underbarrel_speedgrip2_lm_t9
+LANG_ENGLISH         "Infiltrator Grip"
+
+REFERENCE            underbarrel_speedgrip2_lm_t9_desc
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability. "
+
+REFERENCE            underbarrel_speedgrip2_sm_t9
+LANG_ENGLISH         "Red Cell Foregrip"
+
+REFERENCE            underbarrel_speedgrip2_sm_t9_desc
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability."
+
+REFERENCE            underbarrel_speedgrip2_smg
+LANG_ENGLISH         "Red Cell Foregrip"
+
+REFERENCE            underbarrel_speedgrip2_smg_desc
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability."
+
+REFERENCE            underbarrel_speedgrip2_sn_t9
+LANG_ENGLISH         "Infiltrator Grip"
+
+REFERENCE            underbarrel_speedgrip2_sn_t9_desc
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability. "
+
+REFERENCE            underbarrel_speedgrip2_wooden_desc
+LANG_ENGLISH         "Short bakelite foregrip for improved combat maneuverability."
+
+REFERENCE            underbarrel_speedgrip_ar_t9
+LANG_ENGLISH         "Bruiser Grip"
+
+REFERENCE            underbarrel_speedgrip_ar_t901
+LANG_ENGLISH         "Bruiser Grip"
+
+REFERENCE            underbarrel_speedgrip_ar_t901_desc
+LANG_ENGLISH         "Stubby polymer foregrip for faster weapon melee combat."
+
+REFERENCE            underbarrel_speedgrip_ar_t902
+LANG_ENGLISH         "Infiltrator Grip"
+
+REFERENCE            underbarrel_speedgrip_ar_t902_desc
+LANG_ENGLISH         "Short polymer foregrip for improved combat maneuverability. "
+
+REFERENCE            underbarrel_speedgrip_ar_t9_desc
+LANG_ENGLISH         "Stubby polymer foregrip for faster weapon melee combat."
+
+REFERENCE            underbarrel_speedgrip_general
+LANG_ENGLISH         "Bruiser Grip"
+
+REFERENCE            underbarrel_speedgrip_general_desc
+LANG_ENGLISH         "Stubby polymer foregrip for faster weapon melee combat."
+
+REFERENCE            underbarrel_speedgrip_lm_t9
+LANG_ENGLISH         "Bruiser Grip"
+
+REFERENCE            underbarrel_speedgrip_lm_t9_desc
+LANG_ENGLISH         "Stubby polymer foregrip for faster weapon melee combat."
+
+REFERENCE            underbarrel_speedgrip_sm_t9
+LANG_ENGLISH         "Bruiser Grip"
+
+REFERENCE            underbarrel_speedgrip_sm_t9_desc
+LANG_ENGLISH         "Stubby polymer foregrip for faster weapon melee combat."
+
+REFERENCE            underbarrel_speedgrip_sn_t9
+LANG_ENGLISH         "Bruiser Grip"
+
+REFERENCE            underbarrel_speedgrip_sn_t9_desc
+LANG_ENGLISH         "Stubby polymer foregrip for faster weapon melee combat."
+
+REFERENCE            underbarrel_speedgrip_spets_t9
+LANG_ENGLISH         "Spetsnaz Speedgrip"
+
+REFERENCE            underbarrel_speedgrip_strike_t9
+LANG_ENGLISH         "Striker Grip"
+
+REFERENCE            underbarrel_speedgrip_wooden_desc
+LANG_ENGLISH         "Short wooden foregrip for faster weapon melee combat. "
+
+REFERENCE            underbarrel_stub_wood_t9_desc
+LANG_ENGLISH         "Stubby wooden foregrip for faster weapon melee combat."
+
+REFERENCE            underbarrel_vertgrip_spets_t9
+LANG_ENGLISH         "Spetsnaz Grip"
+
+REFERENCE            underbarrel_wood_poly_t9_desc
+LANG_ENGLISH         "Wood handled polymer foregrip for improved sprint speed."
+
+REFERENCE            vzscope_t901
+LANG_ENGLISH         "Kobra Red Dot"
+
+REFERENCE            xmags_t9accurate
+LANG_ENGLISH         "40 Rnd"
+
+REFERENCE            xmagslrg_t9accurate
+LANG_ENGLISH         "STANAG 50 Rnd"
+
+REFERENCE            xmagslrg_t9accurate02
+LANG_ENGLISH         "Fast Mag"
+
+REFERENCE            xmagslrg_t9accurate03
+LANG_ENGLISH         "Vandal Speed Loader"
+
+REFERENCE            xmagssml_t9accurate01
+LANG_ENGLISH         "Mixclip Base"
+
+REFERENCE            xmagssml_t9accurate02
+LANG_ENGLISH         "Mixclip Pro"
+
+
+ENDMARKER

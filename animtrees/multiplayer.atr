@@ -5624,6 +5624,14 @@ wm_eq_ascender_ext_down_get_off_sdr
 
 al_qatala_skirt_cloth_idle
 
+// gulag
+sdr_mp_gulag_breakout_wz_2_start_plr
+sdr_mp_gulag_breakout_wz_2_loop_plr
+sdr_mp_gulag_breakout_wz_2_exit_plr
+wm_mp_gulag_breakout_wz_2_start_plr
+wm_mp_gulag_breakout_wz_2_loop_plr
+wm_mp_gulag_breakout_wz_2_exit_plr
+
 ragdoll : public clientauth overlay ragdoll (ragdoll_handle=[entity_ragdoll_handle])
 {
 }

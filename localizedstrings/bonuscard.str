@@ -1,0 +1,44 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            gearhound
+LANG_ENGLISH         "Danger Close"
+
+REFERENCE            gearhound_desc
+LANG_ENGLISH         "Equip extra lethal and tactical thrown equipment.
+Start with additional ammo."
+
+REFERENCE            lawbreaker
+LANG_ENGLISH         "Law Breaker"
+
+REFERENCE            lawbreaker_desc
+LANG_ENGLISH         "Equip any weapon class in either slot.
+Equip multiple perks from one Perk Category."
+
+REFERENCE            overkill
+LANG_ENGLISH         "Overkill"
+
+REFERENCE            overkill_desc
+LANG_ENGLISH         "Replace secondary with any primary not in use."
+
+REFERENCE            perk_1_greed
+LANG_ENGLISH         "Perk Greed"
+
+REFERENCE            perk_1_greed_desc
+LANG_ENGLISH         "Equip an extra Perk from each Perk Category."
+
+REFERENCE            primary_gunfighter_1
+LANG_ENGLISH         "Gunfighter"
+
+REFERENCE            primary_gunfighter_desc
+LANG_ENGLISH         "Unlock 3 additional attachment slots for your primary weapon."
+
+REFERENCE            underkill
+LANG_ENGLISH         "Underkill"
+
+REFERENCE            underkill_desc
+LANG_ENGLISH         "Replace primary with any secondary not in use."
+
+
+ENDMARKER

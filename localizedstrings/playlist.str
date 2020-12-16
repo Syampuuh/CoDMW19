@@ -824,12 +824,6 @@ LANG_ENGLISH         "Complete the Detection Contract to unlock 24 hour early ac
 REFERENCE            classified_name
 LANG_ENGLISH         "Classified"
 
-REFERENCE            classified_short
-LANG_ENGLISH         "Classified"
-
-REFERENCE            classified_short_desc
-LANG_ENGLISH         "Classified Playlist"
-
 REFERENCE            cntrct_clr_name
 LANG_ENGLISH         "Contract Closer"
 
@@ -1215,6 +1209,12 @@ LANG_ENGLISH         "Go behind enemy lines, extract Dr. Linda Morales, and use 
 REFERENCE            dealer_name
 LANG_ENGLISH         "Operation Paladin"
 
+REFERENCE            decon_desc
+LANG_ENGLISH         "There is no circle, but all players are continually building up radiation exposure, and need a continual intake of antidote to survive"
+
+REFERENCE            decon_name
+LANG_ENGLISH         "Decontamination Trios"
+
 REFERENCE            demo_abbrv
 LANG_ENGLISH         "Demolition"
 
@@ -1398,6 +1398,12 @@ LANG_ENGLISH         "Stocked Up, Locked Down"
 
 REFERENCE            epicgun_name
 LANG_ENGLISH         "Epic Gun Game"
+
+REFERENCE            escapemode_desc
+LANG_ENGLISH         "Escape Mode Temp Description"
+
+REFERENCE            escapemode_name
+LANG_ENGLISH         "Escape Trios"
 
 REFERENCE            face_off_name
 LANG_ENGLISH         "Face Off"
@@ -2146,6 +2152,9 @@ LANG_ENGLISH         "King Slayer Trios"
 REFERENCE            kngslay2_desc
 LANG_ENGLISH         "Multi-Team Deathmatch in Verdansk. First squad to reach the kill limit wins!"
 
+REFERENCE            kngslay2_desc_rebirth
+LANG_ENGLISH         "Multi-Team Deathmatch in Rebirth Island. First squad to reach the kill limit wins!"
+
 REFERENCE            kngslyr_desc
 LANG_ENGLISH         "Multi-Team TDM with Battle Royale Mechanics played at various locations in Verdansk. First team to 100 kills wins!"
 
@@ -2277,6 +2286,9 @@ LANG_ENGLISH         "Mini BR"
 
 REFERENCE            minibr_desc
 LANG_ENGLISH         "Fast-paced Battle Royale in condensed areas of Verdansk."
+
+REFERENCE            minibr_desc_rebirth
+LANG_ENGLISH         "Fast-paced Battle Royale in condensed areas of Rebirth Island."
 
 REFERENCE            minibr_name
 LANG_ENGLISH         "Mini BR"
@@ -2898,13 +2910,13 @@ REFERENCE            rbrth_desc
 LANG_ENGLISH         "Loot and Kill. Wipe out enemy teams to eliminate them from the match. Redeploy for free as long as one of your teammates stays alive. Last team standing wins."
 
 REFERENCE            rbrthduos_name
-LANG_ENGLISH         "Rebirth Duos"
+LANG_ENGLISH         "Resurgence Duos"
 
 REFERENCE            rbrthquad_name
-LANG_ENGLISH         "Rebirth Quads"
+LANG_ENGLISH         "Resurgence Quads"
 
 REFERENCE            rbrthtrios_name
-LANG_ENGLISH         "Rebirth Trios"
+LANG_ENGLISH         "Resurgence Trios"
 
 REFERENCE            real_gwsiege_name
 LANG_ENGLISH         "Realism Ground War Reinforce"
@@ -3004,6 +3016,45 @@ LANG_ENGLISH         "Realism Team Defender"
 
 REFERENCE            realteamtac_name
 LANG_ENGLISH         "Realism Team Tactical"
+
+REFERENCE            rebirth_battle_royale_duos
+LANG_ENGLISH         "Rebirth Battle Royale Duos"
+
+REFERENCE            rebirth_battle_royale_quads
+LANG_ENGLISH         "Rebirth Battle Royale Quads"
+
+REFERENCE            rebirth_battle_royale_solo
+LANG_ENGLISH         "Rebirth Battle Royale Solo"
+
+REFERENCE            rebirth_battle_royale_trios
+LANG_ENGLISH         "Rebirth Battle Royale Trios"
+
+REFERENCE            rebirth_buy_back_duos
+LANG_ENGLISH         "Rebirth Buy Back Duos"
+
+REFERENCE            rebirth_buy_back_quads
+LANG_ENGLISH         "Rebirth Buy Back Quads"
+
+REFERENCE            rebirth_buy_back_solo
+LANG_ENGLISH         "Rebirth Buy Back Solo"
+
+REFERENCE            rebirth_buy_back_trios
+LANG_ENGLISH         "Rebirth Buy Back Trios"
+
+REFERENCE            rebirth_king_slayer
+LANG_ENGLISH         "Rebirth King Slayer"
+
+REFERENCE            rebirth_mini_royale_duos
+LANG_ENGLISH         "Rebirth Mini Royale Duos"
+
+REFERENCE            rebirth_mini_royale_quads
+LANG_ENGLISH         "Rebirth Mini Royale Quads"
+
+REFERENCE            rebirth_mini_royale_solo
+LANG_ENGLISH         "Rebirth Mini Royale Solo"
+
+REFERENCE            rebirth_mini_royale_trios
+LANG_ENGLISH         "Rebirth Mini Royale Trios"
 
 REFERENCE            riot_conf_desc
 LANG_ENGLISH         "Riot CONF"
@@ -3631,6 +3682,9 @@ LANG_ENGLISH         "Warzone TDM"
 
 REFERENCE            wzteam_desc
 LANG_ENGLISH         "Large-scale Team Deathmatch in areas around Verdansk."
+
+REFERENCE            wzteam_desc_rebirth
+LANG_ENGLISH         "Large-scale Team Deathmatch in areas around Rebirth Island."
 
 REFERENCE            wzteamdm_name
 LANG_ENGLISH         "Warzone Team Deathmatch"

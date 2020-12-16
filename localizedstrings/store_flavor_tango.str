@@ -1,0 +1,951 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            accessory105_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9001_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9002_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9003_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9004_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9005_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9006_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9007_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9008_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9009_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9010_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9011_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9012_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9013_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9014_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9015_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9016_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9017_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9018_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9019_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9020_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9021_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9022_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9023_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9024_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9025_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9026_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9027_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9028_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9029_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9030_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9031_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9032_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9033_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9034_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9035_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9036_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9037_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9038_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9039_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9040_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9041_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9042_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9043_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9044_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9045_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9046_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9047_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9048_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9049_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9050_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9051_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9052_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9053_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9054_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9055_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9056_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9057_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9058_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9059_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9060_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9061_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9062_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9063_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9064_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9065_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9066_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9067_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9068_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9069_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9070_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9071_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9072_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9073_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9074_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9075_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9076_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9077_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9078_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9079_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9080_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9081_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9082_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9083_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9084_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9085_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9086_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9087_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9088_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9089_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9090_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9091_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9092_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9093_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9094_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9095_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9096_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9097_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9098_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9099_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9100_ms_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9100_pc_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9100_sy_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9101_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9102_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9103_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9104_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9105_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9106_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9107_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9108_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9109_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9110_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9111_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9112_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9113_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9114_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9115_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9116_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9117_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9118_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9119_ms_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9119_pc_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9119_sy_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9120_ms_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9120_pc_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9120_sy_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9121_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9122_ms_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9122_pc_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9122_sy_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9123_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9124_ms_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9124_pc_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9124_sy_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9125_ms_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9125_pc_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9125_sy_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9126_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9127_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9128_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9129_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9130_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9131_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9132_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9133_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9134_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9135_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9136_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9137_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9138_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9139_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9140_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9141_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9142_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9143_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9144_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9145_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9146_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9147_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9148_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9149_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9150_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9151_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9152_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9153_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9154_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9155_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9156_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9157_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9158_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9159_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9160_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9161_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9162_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9163_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9164_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            t9_charm_80sport_flavor
+LANG_ENGLISH         "Add some zoom to your boom."
+
+REFERENCE            t9_charm_action_fig_flavor
+LANG_ENGLISH         "Now you're just showing off. It's the Boxed Legend Charm."
+
+REFERENCE            t9_charm_afro_pick_flavor
+LANG_ENGLISH         "Pick your battles with the Afropick Charm."
+
+REFERENCE            t9_charm_ammo_box_flavor
+LANG_ENGLISH         "Start your reloads early and in between waves with the MG Can."
+
+REFERENCE            t9_charm_anvil_flavor
+LANG_ENGLISH         "Work out the kinks, one strike at a time with the Anvil Charm."
+
+REFERENCE            t9_charm_apple_arrow_flavor
+LANG_ENGLISH         "Forget about your teacher and your doctor, this apple is for you and you alone."
+
+REFERENCE            t9_charm_arrow_head_flavor
+LANG_ENGLISH         "Pierce their armor with the Ancient Arrow."
+
+REFERENCE            t9_charm_battering_flavor
+LANG_ENGLISH         "Breach the front door with The Penetrator Charm."
+
+REFERENCE            t9_charm_bfoot_flavor
+LANG_ENGLISH         "Every clue counts."
+
+REFERENCE            t9_charm_birthday_cake_flavor
+LANG_ENGLISH         "Did someone say cake?!"
+
+REFERENCE            t9_charm_boogie_board_flavor
+LANG_ENGLISH         "Jump in the water and shred with the Big Ripper Charm."
+
+REFERENCE            t9_charm_box_glove_flavor
+LANG_ENGLISH         "Get your fists up."
+
+REFERENCE            t9_charm_bpanda_flavor
+LANG_ENGLISH         "Remaining vigilant in the never-ending search for more bamboo."
+
+REFERENCE            t9_charm_bulldog_flavor
+LANG_ENGLISH         "Bite their ankles with the Micro Bully Charm."
+
+REFERENCE            t9_charm_bullet_556_flavor
+LANG_ENGLISH         "Never forget to reload with the Lucky One Charm."
+
+REFERENCE            t9_charm_bwidow_flavor
+LANG_ENGLISH         "Watch out for its web, it's the Lady In Red Charm."
+
+REFERENCE            t9_charm_c_knight_flavor
+LANG_ENGLISH         "Break through their lines, don't go around."
+
+REFERENCE            t9_charm_c_queen_flavor
+LANG_ENGLISH         "It's checkmate with The Queen Charm."
+
+REFERENCE            t9_charm_c_rook_flavor
+LANG_ENGLISH         "Strike from the sides, they'll never see it coming. This is the Rook Charm."
+
+REFERENCE            t9_charm_candy_flavor
+LANG_ENGLISH         "Give them something to chew on with the Sticky Situation Charm."
+
+REFERENCE            t9_charm_chainball_flavor
+LANG_ENGLISH         "Classify every single sound."
+
+REFERENCE            t9_charm_cheese_flavor
+LANG_ENGLISH         "Put some holes in the competition."
+
+REFERENCE            t9_charm_chip_flavor
+LANG_ENGLISH         "Resist the urge to snack during a firefight."
+
+REFERENCE            t9_charm_christmas_ornament_flavor
+LANG_ENGLISH         "Decorate the battle with the Ornament Charm."
+
+REFERENCE            t9_charm_compass_flavor
+LANG_ENGLISH         "Find your way with the Compass."
+
+REFERENCE            t9_charm_corn_flavor
+LANG_ENGLISH         "Corn up top, missiles down low, Nebraska has it all."
+
+REFERENCE            t9_charm_croc_head_flavor
+LANG_ENGLISH         "Get revenge for Chubbs with the Gator Head Charm."
+
+REFERENCE            t9_charm_crystal_eleph_flavor
+LANG_ENGLISH         "Etched from ancient marble, the Sacred Elephant Charm is priceless."
+
+REFERENCE            t9_charm_cyber_glasses_flavor
+LANG_ENGLISH         "Scan your surroundings, scout the battlefield with the Power Level Charm."
+
+REFERENCE            t9_charm_cymonkey_flavor
+LANG_ENGLISH         "Where did he get that little hat? Preferred by nine out of ten zombies."
+
+REFERENCE            t9_charm_daisy_flwr_flavor
+LANG_ENGLISH         "Join the flower brigade with the Daisy Charm."
+
+REFERENCE            t9_charm_diamond_brass_knuckles_flavor
+LANG_ENGLISH         "Crack some skulls with the Knuckle Duster Charm."
+
+REFERENCE            t9_charm_dogmachine_flavor
+LANG_ENGLISH         "Sniff them out with the Hunting Dog Charm."
+
+REFERENCE            t9_charm_dogtags_flavor
+LANG_ENGLISH         "Never forget those who made the ultimate sacrifice."
+
+REFERENCE            t9_charm_dogtags_ms_flavor
+LANG_ENGLISH         "Never forget those who made the ultimate sacrifice."
+
+REFERENCE            t9_charm_dogtags_pc_flavor
+LANG_ENGLISH         "Never forget those who made the ultimate sacrifice."
+
+REFERENCE            t9_charm_dogtags_sy_flavor
+LANG_ENGLISH         "Never forget those who made the ultimate sacrifice."
+
+REFERENCE            t9_charm_duffel_flavor
+LANG_ENGLISH         "Make it quick and grab all the cash with the Duffel Bag Charm."
+
+REFERENCE            t9_charm_falcon_flavor
+LANG_ENGLISH         "Never lose track of your prey with the Falcon Charm."
+
+REFERENCE            t9_charm_family_crest_flavor
+LANG_ENGLISH         "The honor of the unit rests on your shoulders and relies on your fingers. This is the Company Crest Charm."
+
+REFERENCE            t9_charm_family_photo_flavor
+LANG_ENGLISH         "Locked, loaded, and hair exploded."
+
+REFERENCE            t9_charm_fish_stick_hook_flavor
+LANG_ENGLISH         "I haven't heard this joke before, it's the Fish Stick Charm."
+
+REFERENCE            t9_charm_frog_flavor
+LANG_ENGLISH         "Hippity hoppity, I'll decorate your property."
+
+REFERENCE            t9_charm_fstatue_flavor
+LANG_ENGLISH         "Crack open a cold case with the Bronze Eagle Charm."
+
+REFERENCE            t9_charm_fun_fish_flavor
+LANG_ENGLISH         "This is your official reminder to take some R&R after the next Op."
+
+REFERENCE            t9_charm_fuzzydice_flavor
+LANG_ENGLISH         "Want to win big? Roll the dice and take your chance."
+
+REFERENCE            t9_charm_g_duck_flavor
+LANG_ENGLISH         "HONK HONK - Throw some bread crumbs out with the Mallard Charm."
+
+REFERENCE            t9_charm_gas_can_flavor
+LANG_ENGLISH         "Fight or flight, stay fueled with the Gas Can Charm."
+
+REFERENCE            t9_charm_gold_bar_flavor
+LANG_ENGLISH         "Carry serious weight with the All That Glitters Charm."
+
+REFERENCE            t9_charm_gold_bell_flavor
+LANG_ENGLISH         "Ring a ding ding."
+
+REFERENCE            t9_charm_goldwrench_flavor
+LANG_ENGLISH         "This might come in real handy some day."
+
+REFERENCE            t9_charm_gothamulet_flavor
+LANG_ENGLISH         "Summon your inner demons with the Demonic Crystal Charm."
+
+REFERENCE            t9_charm_guitarfire_flavor
+LANG_ENGLISH         "Tap some caps while you shoot and scoot. "
+
+REFERENCE            t9_charm_happy_grenade_flavor
+LANG_ENGLISH         "Spread joy and other things with the Goofy Grenade Charm."
+
+REFERENCE            t9_charm_helicopter_flavor
+LANG_ENGLISH         "Get airborne with the Mini Chopper."
+
+REFERENCE            t9_charm_hornface_flavor
+LANG_ENGLISH         "Haunt your enemies with the Servant of Doom."
+
+REFERENCE            t9_charm_hunting_dog_flavor
+LANG_ENGLISH         "Sniff them out with the Hunting Dog Charm."
+
+REFERENCE            t9_charm_ice_axe_flavor
+LANG_ENGLISH         "Rise to the top with the Ice Pick Charm."
+
+REFERENCE            t9_charm_icebreaker_flavor
+LANG_ENGLISH         "Try not to mess this up like the other boat... the Icebreaker Charm."
+
+REFERENCE            t9_charm_icicle_flavor
+LANG_ENGLISH         "Stay frosty with the Icicle Charm."
+
+REFERENCE            t9_charm_japanese_bell_flavor
+LANG_ENGLISH         "Remain in your safe space with the Blossom Bell Charm."
+
+REFERENCE            t9_charm_kawaiideer_flavor
+LANG_ENGLISH         "Always lead the way with the Lil Rudy Charm."
+
+REFERENCE            t9_charm_kniferose_flavor
+LANG_ENGLISH         "Romeo, oh, Romeo what ever will you do with the Lover's Dagger Charm."
+
+REFERENCE            t9_charm_knight_helmet_flavor
+LANG_ENGLISH         "The origin of the hand salute comes from medieval times where knights would "tip the visor" of their helmet, before lowering it, and engaging in deadly combat. To honor the sacrifice of one's opponent."
+
+REFERENCE            t9_charm_lunch_flavor
+LANG_ENGLISH         "Cyborg Commando Special Edition Collectible Tin Charm."
+
+REFERENCE            t9_charm_magnificent_flavor
+LANG_ENGLISH         "Behold the glory of my fabulous lightning!"
+
+REFERENCE            t9_charm_mann_female1d_flavor
+LANG_ENGLISH         "As if!"
+
+REFERENCE            t9_charm_mann_female2d_flavor
+LANG_ENGLISH         "Like, whatever!"
+
+REFERENCE            t9_charm_mann_female3d_flavor
+LANG_ENGLISH         "Gag me with a spoon!"
+
+REFERENCE            t9_charm_mann_male4d_flavor
+LANG_ENGLISH         "Take a Chill Pill!"
+
+REFERENCE            t9_charm_mann_male5d_flavor
+LANG_ENGLISH         "Majorly Awesome!"
+
+REFERENCE            t9_charm_mann_male6d_flavor
+LANG_ENGLISH         "Gnarly!"
+
+REFERENCE            t9_charm_mbadge_flavor
+LANG_ENGLISH         "Everything is in your jurisdiction when you've got the Deputy Badge Charm."
+
+REFERENCE            t9_charm_mil_hardhat_flavor
+LANG_ENGLISH         "Stay low and keep your head down."
+
+REFERENCE            t9_charm_mtndew_flavor
+LANG_ENGLISH         "Remove pin. Count to 3. Enjoy."
+
+REFERENCE            t9_charm_mtop_flavor
+LANG_ENGLISH         "Just in case you're actually playing a game inside a game inside a game."
+
+REFERENCE            t9_charm_n6_gas_barrel_01_flavor
+LANG_ENGLISH         "We can neither confirm nor deny the existence of Nova 6."
+
+REFERENCE            t9_charm_ninjastar_flavor
+LANG_ENGLISH         "It's a shooting star."
+
+REFERENCE            t9_charm_nvidia_flavor
+LANG_ENGLISH         "An interdimensional gateway, now in convenient pocket-size."
+
+REFERENCE            t9_charm_old_computer_flavor
+LANG_ENGLISH         "Old Computer"
+
+REFERENCE            t9_charm_oldcamera_flavor
+LANG_ENGLISH         "Collect actionable intelligence with the Flashpack Charm."
+
+REFERENCE            t9_charm_olive_crown_flavor
+LANG_ENGLISH         "The Wreath of Excellence Charm signifies growth and balance."
+
+REFERENCE            t9_charm_p_wrench_flavor
+LANG_ENGLISH         "Lay the pipe with the Pipe Wrench Charm."
+
+REFERENCE            t9_charm_pitchfork_flavor
+LANG_ENGLISH         "Poke some holes in their soul with the Trident of Doom."
+
+REFERENCE            t9_charm_pwatch_flavor
+LANG_ENGLISH         "Smack your enemies with your weapon just to let them know what time it is."
+
+REFERENCE            t9_charm_rabbit_foot_flavor
+LANG_ENGLISH         "Never forget your first kill with the Rabbit's Foot Charm."
+
+REFERENCE            t9_charm_rebirthisland_01_flavor
+LANG_ENGLISH         "Steiner won't be needing this anymore."
+
+REFERENCE            t9_charm_red_baron_bi_plane_flavor
+LANG_ENGLISH         "The sky is the limit with the Air Superiority Charm."
+
+REFERENCE            t9_charm_red_button_flavor
+LANG_ENGLISH         "Hey, what's this Charm do?"
+
+REFERENCE            t9_charm_red_flare_flavor
+LANG_ENGLISH         "Get fired up with the Pyro Stick Charm."
+
+REFERENCE            t9_charm_red_rduck_flavor
+LANG_ENGLISH         "Keep your battle buddy close and your enemies closer."
+
+REFERENCE            t9_charm_roman_coin_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            t9_charm_scorpion_flavor
+LANG_ENGLISH         "It's not what can see that you should be worried about."
+
+REFERENCE            t9_charm_silverspoon_flavor
+LANG_ENGLISH         "Spoil them rotten with the Silver Spoon Charm."
+
+REFERENCE            t9_charm_skull_circuit_flavor
+LANG_ENGLISH         "Download the data and get out of there with the Closed Circuit Charm."
+
+REFERENCE            t9_charm_skull_sgl_flavor
+LANG_ENGLISH         "In case you needed a friendly reminder where to aim, it's the Skull Charm."
+
+REFERENCE            t9_charm_smoke_gren_flavor
+LANG_ENGLISH         "Cover and concealment are two very different things, thankfully you can carry one."
+
+REFERENCE            t9_charm_snake_flute_flavor
+LANG_ENGLISH         "Hypnotize them into submission with the Charmer's Flute Charm."
+
+REFERENCE            t9_charm_snowman_flavor
+LANG_ENGLISH         "It's that time of year."
+
+REFERENCE            t9_charm_soviet_tank_flavor
+LANG_ENGLISH         "Tread lightly with the Tiny Tank Charm."
+
+REFERENCE            t9_charm_spray_can_flavor
+LANG_ENGLISH         "The most dangerous weapon is an idea, paint one with the Spray Can Charm."
+
+REFERENCE            t9_charm_spyplane_flavor
+LANG_ENGLISH         "Enter orbit."
+
+REFERENCE            t9_charm_tacsnowman_flavor
+LANG_ENGLISH         "Guaranteed not to melt under pressure."
+
+REFERENCE            t9_charm_target_pract_flavor
+LANG_ENGLISH         "Aim center mass with the Target Practice Charm."
+
+REFERENCE            t9_charm_tesla_ball_flavor
+LANG_ENGLISH         "Up the voltage with the Van De Graaff Charm."
+
+REFERENCE            t9_charm_tigerbomb_flavor
+LANG_ENGLISH         "Look what the cat dragged in."
+
+REFERENCE            t9_charm_tombstone_flavor
+LANG_ENGLISH         "Mark each grave and bury the dead with the Tombstone Charm."
+
+REFERENCE            t9_charm_toyteeth_flavor
+LANG_ENGLISH         "Equal parts disturbing and hilarious. It's the Chomper Charm!"
+
+REFERENCE            t9_charm_vtg_iron_flavor
+LANG_ENGLISH         "Now all you need is a nice shirt. Isn't that ironic?"
+
+REFERENCE            t9_charm_vtg_tv_flavor
+LANG_ENGLISH         "Rots your brain, kid."
+
+REFERENCE            t9_charm_walkman_flavor
+LANG_ENGLISH         "Keep it funky with the Mixtape Charm."
+
+REFERENCE            t9_charm_world_globe_flavor
+LANG_ENGLISH         "Take it for a spin and you'll be surprised where you land with the Globe Charm."
+
+REFERENCE            t9_charm_zamboni_flavor
+LANG_ENGLISH         "Smooth everything over with the Resurfacer Charm."
+
+REFERENCE            t9_charm_zombiehand_flavor
+LANG_ENGLISH         "Lend a hand with the Helping Hand Charm."
+
+REFERENCE            wristaccessory_t9
+LANG_ENGLISH         "Stack them as high as you can with the Body Count Kill Tracker Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_aviator_02_flavor
+LANG_ENGLISH         "It???s been a cool minute. Check out the Wellington Noir Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_fancy_debt_collector_flavor
+LANG_ENGLISH         "It's about bloody time to check the Crimson Royale watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_fancy_flavor
+LANG_ENGLISH         "If you listen closely, you can hear the ocean."
+
+REFERENCE            wristaccessory_t9_s1_analog_fancy_gold_flavor
+LANG_ENGLISH         "Get your shine on time with the Early Retirement Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_horex_01_flavor
+LANG_ENGLISH         "Synchronize your time with the mission, every second counts with the Dial Diver Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_kremlin_flavor
+LANG_ENGLISH         "Get your timing perfect with the Vladivostok Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_mt_brawler_flavor
+LANG_ENGLISH         "This one doesn't scratch that easy, you're gonna have to swing a little harder, try on the Seasoned Vet Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_origin_01_flavor
+LANG_ENGLISH         "Hit them every hour on the hour with the Flight Plan Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_private_eye_01_flavor
+LANG_ENGLISH         "Log some hours with the Grizzly Oak Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_private_eye_02_flavor
+LANG_ENGLISH         "Carefully track down the clues with the Private Eye Watch."
+
+REFERENCE            wristaccessory_t9_s1_analog_private_eye_03_flavor
+LANG_ENGLISH         "Carefully track down the clues with the Private Eye Watch."
+
+REFERENCE            wristaccessory_t9_s1_bracelet_01_flavor
+LANG_ENGLISH         "You're up, he sees you, you're down."
+
+REFERENCE            wristaccessory_t9_s1_bracelet_braided_02_flavor
+LANG_ENGLISH         "Add some slack to your rotation with the Woven Cord"
+
+REFERENCE            wristaccessory_t9_s1_bracelet_skull_01_flavor
+LANG_ENGLISH         "Keep death close with Death's Reminder Wrist Accessory."
+
+REFERENCE            wristaccessory_t9_s1_digital_compass_01_flavor
+LANG_ENGLISH         "Never get lost on your way to Bravo."
+
+REFERENCE            wristaccessory_t9_s1_digital_diver_flavor
+LANG_ENGLISH         "Stay on the move with the Forward Progress Watch."
+
+REFERENCE            wristaccessory_t9_s1_digital_first_spy_01_flavor
+LANG_ENGLISH         "Keep track of your collection with the Mail-in Order Watch."
+
+REFERENCE            wristaccessory_t9_s1_digital_gambit_01_flavor
+LANG_ENGLISH         "Stay on top of things with the Scoreboard Watch."
+
+REFERENCE            wristaccessory_t9_s1_digital_inteculo_01_flavor
+LANG_ENGLISH         "The time is right with the Silver Flash Watch."
+
+REFERENCE            wristaccessory_t9_s1_digital_kazuya_01_flavor
+LANG_ENGLISH         "Stack them as high as you can with the Body Count Kill Tracker Watch."
+
+REFERENCE            wristaccessory_t9_s1_digital_rank_01_flavor
+LANG_ENGLISH         "Flash your rank with the Ranking Officer watch."
+
+REFERENCE            wristaccessory_t9_s1_digital_rank_penumbra_view_flavor
+LANG_ENGLISH         "Rank up and unwind. Now you're Killing Time"
+
+REFERENCE            wristaccessory_t9_s1_digital_zm_heart_rate_01_flavor
+LANG_ENGLISH         "Health is wealth with the Vital Sign Watch."
+
+
+ENDMARKER

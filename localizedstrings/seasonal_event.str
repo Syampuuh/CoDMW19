@@ -2,17 +2,125 @@ VERSION				"1"
 CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
 
+REFERENCE            atlantis_onboarding_desc_1
+LANG_ENGLISH         "Try out the new playlists to see the new Rebirth Island for yourself."
+
+REFERENCE            atlantis_onboarding_desc_2
+LANG_ENGLISH         "Complete the 16 new missions while playing any game modes featured on the island."
+
+REFERENCE            atlantis_onboarding_desc_3
+LANG_ENGLISH         "You get rewarded for each finished mission with calling cards, emblems and more."
+
+REFERENCE            atlantis_onboarding_header_1
+LANG_ENGLISH         "Visit the Island"
+
+REFERENCE            atlantis_onboarding_header_2
+LANG_ENGLISH         "Complete Missions"
+
+REFERENCE            atlantis_onboarding_header_3
+LANG_ENGLISH         "Get Rewards"
+
+REFERENCE            atlantis_starting_treat
+LANG_ENGLISH         "Here's a gift for your visit"
+
+REFERENCE            atlantis_title
+LANG_ENGLISH         "Rebirth"
+
 REFERENCE            bonus_loot
 LANG_ENGLISH         "Bonus Loot"
+
+REFERENCE            ch_rebirth_0
+LANG_ENGLISH         "Pilot a vehicle for 20 minutes on Rebirth Island."
+
+REFERENCE            ch_rebirth_1
+LANG_ENGLISH         "Complete any 30 contracts on Rebirth Island."
+
+REFERENCE            ch_rebirth_10
+LANG_ENGLISH         "Destroy 1 Vehicles carrying enemies on Rebirth Island."
+
+REFERENCE            ch_rebirth_11
+LANG_ENGLISH         "Use 50 Armor Plates on Rebirth Island."
+
+REFERENCE            ch_rebirth_12
+LANG_ENGLISH         "Place in the top 30% 15 time(s) on Rebirth Island."
+
+REFERENCE            ch_rebirth_13
+LANG_ENGLISH         "Place in the top 30% 30 time(s) on Rebirth Island."
+
+REFERENCE            ch_rebirth_14
+LANG_ENGLISH         "Get a kill before the first circle closes 1 time on Rebirth Island."
+
+REFERENCE            ch_rebirth_15
+LANG_ENGLISH         "Kill 100 Downed enemies in on Rebirth Island."
+
+REFERENCE            ch_rebirth_2
+LANG_ENGLISH         "Buy 30 Killstreak items on Rebirth Island."
+
+REFERENCE            ch_rebirth_3
+LANG_ENGLISH         "Open 100 Crates on Rebirth Island."
+
+REFERENCE            ch_rebirth_4
+LANG_ENGLISH         "Collect 200 piles of Plunder from the ground on Rebirth Island."
+
+REFERENCE            ch_rebirth_5
+LANG_ENGLISH         "Collect your loadout 20 time(s) on Rebirth Island."
+
+REFERENCE            ch_rebirth_6
+LANG_ENGLISH         "Place in the top 30% 5 time(s) on Rebirth Island."
+
+REFERENCE            ch_rebirth_7
+LANG_ENGLISH         "Get 30 kills with a Common weapon on Rebirth Island."
+
+REFERENCE            ch_rebirth_8
+LANG_ENGLISH         "Get 30 Kills with a Legendary weapon on Rebirth Island."
+
+REFERENCE            ch_rebirth_9
+LANG_ENGLISH         "Get 2 kills or Assists while in a vehicle on Rebirth Island."
+
+REFERENCE            ch_rebirth_complete
+LANG_ENGLISH         "FINAL REWARD GIVEN ONCE EVERY CHALLENGE IS COMPLETED."
+
+REFERENCE            ch_rebirth_early
+LANG_ENGLISH         "Play a Game in Rebirth Island while the Early Access will be live in Rebirth."
+
+REFERENCE            ch_rebirth_gift
+LANG_ENGLISH         "Get this reward when Rebirth Island become live for everyone."
+
+REFERENCE            collect_gift
+LANG_ENGLISH         "Collect Gift"
 
 REFERENCE            collect_treat
 LANG_ENGLISH         "Collect Treat"
 
+REFERENCE            collecting_gift
+LANG_ENGLISH         "Collecting gift"
+
 REFERENCE            collecting_treat
 LANG_ENGLISH         "Collecting treat"
 
+REFERENCE            complete_x_challenges
+LANG_ENGLISH         "Complete all ^:&&1 ^7challenges on Rebirth Island"
+
 REFERENCE            content
 LANG_ENGLISH         "Event Content"
+
+REFERENCE            content_atlantis_desc_1
+LANG_ENGLISH         "Grab the free Rebirth Island bundle in the store before time runs out!"
+
+REFERENCE            content_atlantis_desc_2
+LANG_ENGLISH         "Play on Rebirth Island and try out the new game modes."
+
+REFERENCE            content_atlantis_desc_3
+LANG_ENGLISH         "Don't forget to equip your free emblem just for participating in the event!"
+
+REFERENCE            content_atlantis_title_1
+LANG_ENGLISH         "Free blueprint bundle"
+
+REFERENCE            content_atlantis_title_2
+LANG_ENGLISH         "New game modes"
+
+REFERENCE            content_atlantis_title_3
+LANG_ENGLISH         "Free Emblem"
 
 REFERENCE            content_desc_1
 LANG_ENGLISH         "Grab The Texas Chainsaw Massacre and Saw bundles before time runs out!"
@@ -36,7 +144,7 @@ REFERENCE            ends_in
 LANG_ENGLISH         "Event ends in:"
 
 REFERENCE            error_collecting_treat
-LANG_ENGLISH         "Error collecting treat."
+LANG_ENGLISH         "Error collecting reward."
 
 REFERENCE            event_end_time
 LANG_ENGLISH         "Event Ends: &&1"
@@ -82,6 +190,9 @@ LANG_ENGLISH         "Happy Halloween"
 
 REFERENCE            how_does_it_work
 LANG_ENGLISH         "[{ui_alt2}] How does it work?"
+
+REFERENCE            how_does_it_work_kbm
+LANG_ENGLISH         "How does it work?"
 
 REFERENCE            map_area_01
 LANG_ENGLISH         "Military Base"
@@ -134,6 +245,12 @@ LANG_ENGLISH         "Train (location varies)"
 REFERENCE            preview
 LANG_ENGLISH         "[{ui_r3}] Preview"
 
+REFERENCE            preview_kbm
+LANG_ENGLISH         "Preview"
+
+REFERENCE            rebirth_event
+LANG_ENGLISH         "Rebirth Island"
+
 REFERENCE            splash_event_complete
 LANG_ENGLISH         "Halloween Event Complete"
 
@@ -151,6 +268,9 @@ LANG_ENGLISH         "Trick or Treat"
 
 REFERENCE            view_bundles
 LANG_ENGLISH         "[{ui_alt1}] View"
+
+REFERENCE            view_bundles_kbm
+LANG_ENGLISH         "View"
 
 REFERENCE            x_event
 LANG_ENGLISH         "&&1 Event"

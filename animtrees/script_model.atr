@@ -8597,6 +8597,9 @@ sdr_mp_gulag_breakout_wz_2_exit_plr
 sdr_mp_gulag_breakout_wz_2_start_straps
 sdr_mp_gulag_breakout_wz_2_loop_straps
 sdr_mp_gulag_breakout_wz_2_exit_straps
+wm_mp_gulag_breakout_wz_2_start_plr
+wm_mp_gulag_breakout_wz_2_loop_plr
+wm_mp_gulag_breakout_wz_2_exit_plr
 
 // blockade
 cp_raid_blockade_gate_le_close

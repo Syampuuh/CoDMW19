@@ -1,0 +1,474 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            acog_1
+LANG_ENGLISH         "ACOG_1"
+
+REFERENCE            acog_11
+LANG_ENGLISH         "ACOG_11"
+
+REFERENCE            acog_13
+LANG_ENGLISH         "ACOG_13"
+
+REFERENCE            acog_15
+LANG_ENGLISH         "ACOG_15"
+
+REFERENCE            acog_17
+LANG_ENGLISH         "Shootout"
+
+REFERENCE            acog_19
+LANG_ENGLISH         "ACOG_19"
+
+REFERENCE            acog_3
+LANG_ENGLISH         "Hunter"
+
+REFERENCE            acog_5
+LANG_ENGLISH         "ACOG_5"
+
+REFERENCE            acog_7
+LANG_ENGLISH         "ACOG_7"
+
+REFERENCE            acog_9
+LANG_ENGLISH         "ACOG_9"
+
+REFERENCE            dualzoom_1
+LANG_ENGLISH         "DUALZOOM_1"
+
+REFERENCE            dualzoom_10
+LANG_ENGLISH         "DUALZOOM_10"
+
+REFERENCE            dualzoom_2
+LANG_ENGLISH         "DUALZOOM_2"
+
+REFERENCE            dualzoom_3
+LANG_ENGLISH         "DUALZOOM_3"
+
+REFERENCE            dualzoom_4
+LANG_ENGLISH         "DUALZOOM_4"
+
+REFERENCE            dualzoom_5
+LANG_ENGLISH         "DUALZOOM_5"
+
+REFERENCE            dualzoom_6
+LANG_ENGLISH         "DUALZOOM_6"
+
+REFERENCE            dualzoom_7
+LANG_ENGLISH         "DUALZOOM_7"
+
+REFERENCE            dualzoom_8
+LANG_ENGLISH         "DUALZOOM_8"
+
+REFERENCE            dualzoom_9
+LANG_ENGLISH         "DUALZOOM_9"
+
+REFERENCE            holo_1
+LANG_ENGLISH         "HOLO_1"
+
+REFERENCE            holo_10
+LANG_ENGLISH         "HOLO_10"
+
+REFERENCE            holo_2
+LANG_ENGLISH         "HOLO_2"
+
+REFERENCE            holo_3
+LANG_ENGLISH         "HOLO_3"
+
+REFERENCE            holo_4
+LANG_ENGLISH         "HOLO_4"
+
+REFERENCE            holo_5
+LANG_ENGLISH         "HOLO_5"
+
+REFERENCE            holo_6
+LANG_ENGLISH         "HOLO_6"
+
+REFERENCE            holo_7
+LANG_ENGLISH         "HOLO_7"
+
+REFERENCE            holo_8
+LANG_ENGLISH         "HOLO_8"
+
+REFERENCE            holo_9
+LANG_ENGLISH         "HOLO_9"
+
+REFERENCE            reflex_1
+LANG_ENGLISH         "REFLEX_1"
+
+REFERENCE            reflex_10
+LANG_ENGLISH         "REFLEX_10"
+
+REFERENCE            reflex_11
+LANG_ENGLISH         "REFLEX_11"
+
+REFERENCE            reflex_13
+LANG_ENGLISH         "REFLEX_13"
+
+REFERENCE            reflex_15
+LANG_ENGLISH         "REFLEX_15"
+
+REFERENCE            reflex_17
+LANG_ENGLISH         "REFLEX_17"
+
+REFERENCE            reflex_19
+LANG_ENGLISH         "REFLEX_19"
+
+REFERENCE            reflex_2
+LANG_ENGLISH         "REFLEX_2"
+
+REFERENCE            reflex_3
+LANG_ENGLISH         "REFLEX_3"
+
+REFERENCE            reflex_4
+LANG_ENGLISH         "REFLEX_4"
+
+REFERENCE            reflex_5
+LANG_ENGLISH         "REFLEX_5"
+
+REFERENCE            reflex_6
+LANG_ENGLISH         "REFLEX_6"
+
+REFERENCE            reflex_7
+LANG_ENGLISH         "REFLEX_7"
+
+REFERENCE            reflex_8
+LANG_ENGLISH         "REFLEX_8"
+
+REFERENCE            reflex_9
+LANG_ENGLISH         "REFLEX_9"
+
+REFERENCE            ret_t901
+LANG_ENGLISH         "RET_T901"
+
+REFERENCE            ret_t902
+LANG_ENGLISH         "RET_T902"
+
+REFERENCE            ret_t903
+LANG_ENGLISH         "RET_T903"
+
+REFERENCE            ret_t904
+LANG_ENGLISH         "RET_T904"
+
+REFERENCE            ret_t905
+LANG_ENGLISH         "RET_T905"
+
+REFERENCE            ret_t906
+LANG_ENGLISH         "RET_T906"
+
+REFERENCE            ret_t907
+LANG_ENGLISH         "RET_T907"
+
+REFERENCE            ret_t908
+LANG_ENGLISH         "RET_T908"
+
+REFERENCE            ret_t909
+LANG_ENGLISH         "RET_T909"
+
+REFERENCE            ret_t910
+LANG_ENGLISH         "RET_T910"
+
+REFERENCE            ret_t911
+LANG_ENGLISH         "RET_T911"
+
+REFERENCE            ret_t912
+LANG_ENGLISH         "RET_T912"
+
+REFERENCE            ret_t913
+LANG_ENGLISH         "RET_T913"
+
+REFERENCE            ret_t914
+LANG_ENGLISH         "RET_T914"
+
+REFERENCE            ret_t915
+LANG_ENGLISH         "RET_T915"
+
+REFERENCE            ret_t916
+LANG_ENGLISH         "RET_T916"
+
+REFERENCE            ret_t917
+LANG_ENGLISH         "RET_T917"
+
+REFERENCE            ret_t918
+LANG_ENGLISH         "RET_T918"
+
+REFERENCE            ret_t919
+LANG_ENGLISH         "RET_T919"
+
+REFERENCE            ret_t920
+LANG_ENGLISH         "RET_T920"
+
+REFERENCE            ret_t921
+LANG_ENGLISH         "RET_T921"
+
+REFERENCE            ret_t922
+LANG_ENGLISH         "RET_T922"
+
+REFERENCE            ret_t923
+LANG_ENGLISH         "RET_T923"
+
+REFERENCE            ret_t924
+LANG_ENGLISH         "RET_T924"
+
+REFERENCE            ret_t925
+LANG_ENGLISH         "RET_T925"
+
+REFERENCE            ret_t926
+LANG_ENGLISH         "RET_T926"
+
+REFERENCE            ret_t927
+LANG_ENGLISH         "RET_T927"
+
+REFERENCE            ret_t928
+LANG_ENGLISH         "RET_T928"
+
+REFERENCE            ret_t929
+LANG_ENGLISH         "RET_T929"
+
+REFERENCE            ret_t930
+LANG_ENGLISH         "RET_T930"
+
+REFERENCE            ret_t931
+LANG_ENGLISH         "RET_T931"
+
+REFERENCE            ret_t932
+LANG_ENGLISH         "RET_T932"
+
+REFERENCE            ret_t933
+LANG_ENGLISH         "RET_T933"
+
+REFERENCE            ret_t934
+LANG_ENGLISH         "RET_T934"
+
+REFERENCE            ret_t935
+LANG_ENGLISH         "RET_T935"
+
+REFERENCE            ret_t936
+LANG_ENGLISH         "RET_T936"
+
+REFERENCE            ret_t937
+LANG_ENGLISH         "RET_T937"
+
+REFERENCE            ret_t938
+LANG_ENGLISH         "RET_T938"
+
+REFERENCE            ret_t939
+LANG_ENGLISH         "Trefoil"
+
+REFERENCE            ret_t940
+LANG_ENGLISH         "RET_T940"
+
+REFERENCE            reticle_21
+LANG_ENGLISH         "RETICLE_21"
+
+REFERENCE            reticle_22
+LANG_ENGLISH         "RETICLE_22"
+
+REFERENCE            reticle_23
+LANG_ENGLISH         "RETICLE_23"
+
+REFERENCE            reticle_24
+LANG_ENGLISH         "RETICLE_24"
+
+REFERENCE            reticle_25
+LANG_ENGLISH         "RETICLE_25"
+
+REFERENCE            reticle_26
+LANG_ENGLISH         "RETICLE_26"
+
+REFERENCE            reticle_27
+LANG_ENGLISH         "RETICLE_27"
+
+REFERENCE            reticle_28
+LANG_ENGLISH         "RETICLE_28"
+
+REFERENCE            reticle_29
+LANG_ENGLISH         "RETICLE_29"
+
+REFERENCE            reticle_30
+LANG_ENGLISH         "RETICLE_30"
+
+REFERENCE            reticle_31
+LANG_ENGLISH         "RETICLE_31"
+
+REFERENCE            reticle_32
+LANG_ENGLISH         "RETICLE_32"
+
+REFERENCE            reticle_33
+LANG_ENGLISH         "RETICLE_33"
+
+REFERENCE            reticle_34
+LANG_ENGLISH         "RETICLE_34"
+
+REFERENCE            reticle_35
+LANG_ENGLISH         "RETICLE_35"
+
+REFERENCE            reticle_36
+LANG_ENGLISH         "RETICLE_36"
+
+REFERENCE            reticle_37
+LANG_ENGLISH         "RETICLE_37"
+
+REFERENCE            reticle_38
+LANG_ENGLISH         "RETICLE_38"
+
+REFERENCE            reticle_39
+LANG_ENGLISH         "RETICLE_39"
+
+REFERENCE            reticle_40
+LANG_ENGLISH         "RETICLE_40"
+
+REFERENCE            reticle_41
+LANG_ENGLISH         "RETICLE_41"
+
+REFERENCE            reticle_42
+LANG_ENGLISH         "RETICLE_42"
+
+REFERENCE            reticle_43
+LANG_ENGLISH         "RETICLE_43"
+
+REFERENCE            reticle_44
+LANG_ENGLISH         "RETICLE_44"
+
+REFERENCE            retmtxreflex_t901
+LANG_ENGLISH         "RETMTXREFLEX_T901"
+
+REFERENCE            retmtxreflex_t902
+LANG_ENGLISH         "RETMTXREFLEX_T902"
+
+REFERENCE            retmtxreflex_t903
+LANG_ENGLISH         "RETMTXREFLEX_T903"
+
+REFERENCE            retmtxreflex_t904
+LANG_ENGLISH         "RETMTXREFLEX_T904"
+
+REFERENCE            retmtxreflex_t905
+LANG_ENGLISH         "RETMTXREFLEX_T905"
+
+REFERENCE            retmtxreflex_t906
+LANG_ENGLISH         "RETMTXREFLEX_T906"
+
+REFERENCE            retmtxreflex_t907
+LANG_ENGLISH         "RETMTXREFLEX_T907"
+
+REFERENCE            retmtxreflex_t908
+LANG_ENGLISH         "RETMTXREFLEX_T908"
+
+REFERENCE            retmtxreflex_t909
+LANG_ENGLISH         "RETMTXREFLEX_T909"
+
+REFERENCE            retmtxreflex_t910
+LANG_ENGLISH         "RETMTXREFLEX_T910"
+
+REFERENCE            retmtxreflex_t911
+LANG_ENGLISH         "Donut"
+
+REFERENCE            retmtxreflex_t912
+LANG_ENGLISH         "Eye"
+
+REFERENCE            retmtxreflex_t913
+LANG_ENGLISH         "RETMTXREFLEX_T913"
+
+REFERENCE            retmtxreflex_t914
+LANG_ENGLISH         "Skull"
+
+REFERENCE            retmtxreflex_t915
+LANG_ENGLISH         "Viral"
+
+REFERENCE            retmtxreflex_t916
+LANG_ENGLISH         "RETMTXREFLEX_T916"
+
+REFERENCE            retmtxreflex_t917
+LANG_ENGLISH         "RETMTXREFLEX_T917"
+
+REFERENCE            retmtxreflex_t918
+LANG_ENGLISH         "RETMTXREFLEX_T918"
+
+REFERENCE            retmtxreflex_t919
+LANG_ENGLISH         "RETMTXREFLEX_T919"
+
+REFERENCE            retmtxreflexbp_t901
+LANG_ENGLISH         "RETMTXREFLEXBP_T901"
+
+REFERENCE            retmtxreflexbp_t902
+LANG_ENGLISH         "RETMTXREFLEXBP_T902"
+
+REFERENCE            retmtxreflexbp_t903
+LANG_ENGLISH         "RETMTXREFLEXBP_T903"
+
+REFERENCE            retmtxreflexbp_t904
+LANG_ENGLISH         "RETMTXREFLEXBP_T904"
+
+REFERENCE            retmtxreflexbp_t905
+LANG_ENGLISH         "RETMTXREFLEXBP_T905"
+
+REFERENCE            retmtxreflexbp_t906
+LANG_ENGLISH         "RETMTXREFLEXBP_T906"
+
+REFERENCE            retmtxreflexbp_t907
+LANG_ENGLISH         "RETMTXREFLEXBP_T907"
+
+REFERENCE            retmtxreflexbp_t908
+LANG_ENGLISH         "RETMTXREFLEXBP_T908"
+
+REFERENCE            scope3x_1
+LANG_ENGLISH         "Recon"
+
+REFERENCE            scope3x_10
+LANG_ENGLISH         "Overlord"
+
+REFERENCE            scope3x_2
+LANG_ENGLISH         "Hunter"
+
+REFERENCE            scope3x_3
+LANG_ENGLISH         "On Point"
+
+REFERENCE            scope3x_4
+LANG_ENGLISH         "Precision"
+
+REFERENCE            scope3x_5
+LANG_ENGLISH         "Cyclops"
+
+REFERENCE            scope3x_6
+LANG_ENGLISH         "Kill Shot"
+
+REFERENCE            scope3x_7
+LANG_ENGLISH         "Spectral"
+
+REFERENCE            scope3x_8
+LANG_ENGLISH         "Clean Living"
+
+REFERENCE            scope3x_9
+LANG_ENGLISH         "Shootout"
+
+REFERENCE            scope4x_1
+LANG_ENGLISH         "SCOPE4X_1"
+
+REFERENCE            scope4x_10
+LANG_ENGLISH         "SCOPE4X_10"
+
+REFERENCE            scope4x_2
+LANG_ENGLISH         "SCOPE4X_2"
+
+REFERENCE            scope4x_3
+LANG_ENGLISH         "SCOPE4X_3"
+
+REFERENCE            scope4x_4
+LANG_ENGLISH         "SCOPE4X_4"
+
+REFERENCE            scope4x_5
+LANG_ENGLISH         "SCOPE4X_5"
+
+REFERENCE            scope4x_6
+LANG_ENGLISH         "SCOPE4X_6"
+
+REFERENCE            scope4x_7
+LANG_ENGLISH         "SCOPE4X_7"
+
+REFERENCE            scope4x_8
+LANG_ENGLISH         "SCOPE4X_8"
+
+REFERENCE            scope4x_9
+LANG_ENGLISH         "SCOPE4X_9"
+
+
+ENDMARKER

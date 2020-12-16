@@ -516,7 +516,7 @@ REFERENCE            revive
 LANG_ENGLISH         "^3[{+activate}]^7 Revive player"
 
 REFERENCE            reusable_loot_cache
-LANG_ENGLISH         "Tactical Supply Box"
+LANG_ENGLISH         "Rebirth Supply Box"
 
 REFERENCE            returning_flag
 LANG_ENGLISH         "Returning Flag"
@@ -1460,6 +1460,12 @@ LANG_ENGLISH         "Long Range SMG"
 REFERENCE            br_type_sm_hc
 LANG_ENGLISH         "High Capacity SMG"
 
+REFERENCE            br_type_sm_fast
+LANG_ENGLISH         "Rapid-Fire SMG"
+
+REFERENCE            br_type_sm_3burst
+LANG_ENGLISH         "Burst SMG"
+
 REFERENCE            br_type_sm
 LANG_ENGLISH         "Submachine Gun"
 
@@ -1943,6 +1949,9 @@ LANG_ENGLISH         "Current Bet: $&&1"
 REFERENCE            br_geigercounter
 LANG_ENGLISH         "Take
 Radiation Counter"
+
+REFERENCE            br_gasmask_durable_desc
+LANG_ENGLISH         "Provides twenty-four seconds of protection from the encroaching gas before breaking."
 
 REFERENCE            br_gasmask_durable
 LANG_ENGLISH         "Durable Gas Mask"

@@ -128,6 +128,9 @@ LANG_ENGLISH         "Leave nothing left with the Return To Dust Assault Rifle."
 REFERENCE            ar_asierra12_1_flavor
 LANG_ENGLISH         "Maul your enemies with the Carbon Bear Assault Rifle."
 
+REFERENCE            ar_asierra12_20_flavor
+LANG_ENGLISH         "There just isn't anything quite like it. The Majestic Assault Rifle. Note: This weapon changes the ^1Tracer^7 fire to rainbow."
+
 REFERENCE            ar_asierra12_2_flavor
 LANG_ENGLISH         "The Liar is an assault rifle with a sniper scope, Colossus suppressor and FORGE TAC ballast pack. At least, that???s what it wants you to believe."
 
@@ -271,7 +274,7 @@ REFERENCE            ar_galima_8_flavor
 LANG_ENGLISH         "They'll be scared to death when they find out you're rocking the Slishwood Assault Rifle."
 
 REFERENCE            ar_galima_9_flavor
-LANG_ENGLISH         "Leave them no choice but to confess with the Confession Assault Rifle. Note: This weapon applies the ^1Dismemberment^7 effect and changes the ^1Tracer^7 fire to Blood Red while leaving behind a bloody jigsaw piece on fatal impacts."
+LANG_ENGLISH         "Leave them no choice but to confess with the Confession Assault Rifle. Note: This weapon applies the ^1Dismemberment^7 effect and changes the ^1Tracer^7 fire to blood red while leaving behind a bloody jigsaw piece on fatal impacts."
 
 REFERENCE            ar_kilo433_10_flavor
 LANG_ENGLISH         "Have your enemies take a hike with the Fieldguide Assault Rifle."
@@ -390,6 +393,12 @@ LANG_ENGLISH         "Cpt. Pugsly is reporting for duty, awaiting a bone and a b
 REFERENCE            ar_mcharlie_22_flavor
 LANG_ENGLISH         "You and your Sacrosanct Assault Rifle are too important to be messed with. Note: This weapon changes the ^1Tracer^7 fire to yellow."
 
+REFERENCE            ar_mcharlie_23_flavor
+LANG_ENGLISH         "Expect nothing but sunshine and smiles with the Splendor Assault Rifle. Note: This weapon changes the ^1Tracer^7 fire to rainbow."
+
+REFERENCE            ar_mcharlie_24_flavor
+LANG_ENGLISH         "Show them what toxic really looks like with the Scyloxes Assault Rifle. Note: This weapon applies Acid ^1Tracer^7 Rounds as well as the ^1Dismemberment^7 effect. This is visual only."
+
 REFERENCE            ar_mcharlie_2_flavor
 LANG_ENGLISH         "You can blast more than sand with this assault rifle. Mud, dirt, water, concrete, wood... even people. The Sandblaster incorporates a Sniper Scope, Tempus Marksman barrel, Tactical Suppressor, and Bipod into its mission to destroy all the small, annoying, grainy stuff you might come up against."
 
@@ -499,7 +508,13 @@ REFERENCE            ar_mike4_34_flavor
 LANG_ENGLISH         "Persevere with the Murdoc Assault Rifle. "
 
 REFERENCE            ar_mike4_35_flavor
-LANG_ENGLISH         "Show them why you're in charge with the War Pig Assault Rifle. Note: This weapon changes the ^1Tracer^7 Fire to alternate between crimson and gold and also applies the ^1Dismemberment^7 Effect."
+LANG_ENGLISH         "Show them why you're in charge with the War Pig Assault Rifle. Note: This weapon changes the ^1Tracer^7 Fire to alternate between crimson and gold and also applies the ^1Dismemberment^7 effect."
+
+REFERENCE            ar_mike4_36_flavor
+LANG_ENGLISH         "Destroy everything with the Abaddon Assault Rifle. Note: The weapons included change the ^1Tracer^7 fire to black and applies the ^1Dismemberment^7 effect."
+
+REFERENCE            ar_mike4_37_flavor
+LANG_ENGLISH         "Take your KD ratio to new heights with the K2 Assault Rifle. Note: This weapon applies both an ice ^1Tracer^7 fire effect and the ^1Dismemberment^7 effect. "
 
 REFERENCE            ar_mike4_3_bullet_1
 LANG_ENGLISH         "FSS 14.5" Tac Lite Compact Barrel"
@@ -672,6 +687,384 @@ LANG_ENGLISH         "Leave some char on them with the Toasted Assault Rifle."
 REFERENCE            ar_sierra552_9_flavor
 LANG_ENGLISH         "Get intimate with the Rocker Box Assault Rifle."
 
+REFERENCE            ar_t9accurate_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            ar_t9accurate_1_flavor
+LANG_ENGLISH         "Seize the win with the Utilitarian Assault Rifle."
+
+REFERENCE            ar_t9accurate_2_flavor
+LANG_ENGLISH         "Victory. Legacy. Bragging rights. Fight for them all with the King's Ransom Assault Rifle."
+
+REFERENCE            ar_t9accurate_3_flavor
+LANG_ENGLISH         "Bodyshots. Headshots. They???re all yours with the Haymaker Assault Rifle."
+
+REFERENCE            ar_t9accurate_4_flavor
+LANG_ENGLISH         "They don't call it the Head Hunter Assault Rifle for nothing."
+
+REFERENCE            ar_t9accurate_5_flavor
+LANG_ENGLISH         "Dive bomb and unleash the Barrell Roll Assault Rifle."
+
+REFERENCE            ar_t9accurate_6_flavor
+LANG_ENGLISH         "Bury them six feet deep with the Death Certificate Assault Rifle."
+
+REFERENCE            ar_t9accurate_7_flavor
+LANG_ENGLISH         "Banned throughout the world, the Hazardous Assault Rifle is extremely dangerous."
+
+REFERENCE            ar_t9accurate_8_flavor
+LANG_ENGLISH         "Cut clean with the Shogunate Assault Rifle."
+
+REFERENCE            ar_t9accurate_9_flavor
+LANG_ENGLISH         "No time for fussing, just get to busting with the Simple Plan Assault Rifle."
+
+REFERENCE            ar_t9accurate_v10_flavor
+LANG_ENGLISH         "No time for fussing, just get to busting with the Simple Plan Assault Rifle."
+
+REFERENCE            ar_t9accurate_v2_flavor
+LANG_ENGLISH         "Seize the win with the Utilitarian Assault Rifle."
+
+REFERENCE            ar_t9accurate_v3_flavor
+LANG_ENGLISH         "Victory. Legacy. Bragging rights. Fight for them all with the King's Ransom Assault Rifle."
+
+REFERENCE            ar_t9accurate_v4_flavor
+LANG_ENGLISH         "Bodyshots. Headshots. They???re all yours with the Haymaker Assault Rifle."
+
+REFERENCE            ar_t9accurate_v5_flavor
+LANG_ENGLISH         "They don't call it the Head Hunter Assault Rifle for nothing."
+
+REFERENCE            ar_t9accurate_v6_flavor
+LANG_ENGLISH         "Dive bomb and unleash the Barrell Roll Assault Rifle."
+
+REFERENCE            ar_t9accurate_v7_flavor
+LANG_ENGLISH         "Bury them six feet deep with the Death Certificate Assault Rifle."
+
+REFERENCE            ar_t9accurate_v8_flavor
+LANG_ENGLISH         "Banned throughout the world, the Hazardous Assault Rifle is extremely dangerous."
+
+REFERENCE            ar_t9accurate_v9_flavor
+LANG_ENGLISH         "Cut clean with the Shogunate Assault Rifle."
+
+REFERENCE            ar_t9damage_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            ar_t9damage_10_flavor
+LANG_ENGLISH         "Answer to the Kremlin with the Soviet Standard Assault Rifle."
+
+REFERENCE            ar_t9damage_11_flavor
+LANG_ENGLISH         "Set it off with the ICBRifle Assault Rifle."
+
+REFERENCE            ar_t9damage_12_flavor
+LANG_ENGLISH         "Iron Curtain"
+
+REFERENCE            ar_t9damage_13_flavor
+LANG_ENGLISH         "Iron Curtain"
+
+REFERENCE            ar_t9damage_1_flavor
+LANG_ENGLISH         "Nocturne"
+
+REFERENCE            ar_t9damage_2_flavor
+LANG_ENGLISH         "Rip them a new one with the Brick Wall Assault Rifle."
+
+REFERENCE            ar_t9damage_3_flavor
+LANG_ENGLISH         "Originally designed to be entombed within the catacombs of the Royal Family, the Czarina Assault Rifle was authorized for the People's use."
+
+REFERENCE            ar_t9damage_4_flavor
+LANG_ENGLISH         "Freeze them in their tracks with the Long Winter Assault Rifle."
+
+REFERENCE            ar_t9damage_5_flavor
+LANG_ENGLISH         "Finish the fight with the Prototype Assault Rifle."
+
+REFERENCE            ar_t9damage_6_flavor
+LANG_ENGLISH         "Iron Curtain"
+
+REFERENCE            ar_t9damage_7_flavor
+LANG_ENGLISH         "Tear down the walls with the Eastern Wall Assault Rifle."
+
+REFERENCE            ar_t9damage_8_flavor
+LANG_ENGLISH         "Your fellow Rangers are counting on you. Don't disappoint them with the Ranger Patrol Assault Rifle."
+
+REFERENCE            ar_t9damage_9_flavor
+LANG_ENGLISH         "Finally get the recognition you deserve with the Magnificence Assault Rifle."
+
+REFERENCE            ar_t9damage_v10_flavor
+LANG_ENGLISH         "Finally get the recognition you deserve with the Magnificence Assault Rifle."
+
+REFERENCE            ar_t9damage_v11_flavor
+LANG_ENGLISH         "Answer to the Kremlin with the Soviet Standard Assault Rifle."
+
+REFERENCE            ar_t9damage_v12_flavor
+LANG_ENGLISH         "Set it off with the ICBRifle Assault Rifle."
+
+REFERENCE            ar_t9damage_v3_flavor
+LANG_ENGLISH         "Rip them a new one with the Brick Wall Assault Rifle."
+
+REFERENCE            ar_t9damage_v4_flavor
+LANG_ENGLISH         "Originally designed to be entombed within the catacombs of the Royal Family, the Czarina Assault Rifle was authorized for the People's use."
+
+REFERENCE            ar_t9damage_v5_flavor
+LANG_ENGLISH         "Freeze them in their tracks with the Long Winter Assault Rifle."
+
+REFERENCE            ar_t9damage_v6_flavor
+LANG_ENGLISH         "Finish the fight with the Prototype Assault Rifle."
+
+REFERENCE            ar_t9damage_v7_flavor
+LANG_ENGLISH         "Things are starting to heat up behind the Iron Curtain Assault Rifle."
+
+REFERENCE            ar_t9damage_v8_flavor
+LANG_ENGLISH         "Tear down the walls with the Eastern Wall Assault Rifle."
+
+REFERENCE            ar_t9damage_v9_flavor
+LANG_ENGLISH         "Your fellow Rangers are counting on you. Don't disappoint them with the Ranger Patrol Assault Rifle."
+
+REFERENCE            ar_t9fastfire_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            ar_t9fastfire_1_flavor
+LANG_ENGLISH         "Snake your way up the leader board with the Arid Constrictor Assault Rifle."
+
+REFERENCE            ar_t9fastfire_2_flavor
+LANG_ENGLISH         "Do laps around the competition with the Fast Tempo Assault Rifle."
+
+REFERENCE            ar_t9fastfire_3_flavor
+LANG_ENGLISH         "Drown them in firepower with the Deep Threat Assault Rifle."
+
+REFERENCE            ar_t9fastfire_4_flavor
+LANG_ENGLISH         "You're gonna have to check this one in at the gate, the Wanderlust Assault Rifle."
+
+REFERENCE            ar_t9fastfire_5_flavor
+LANG_ENGLISH         "Hold your fire until the right moment with the Ground Patrol Assault Rifle."
+
+REFERENCE            ar_t9fastfire_6_flavor
+LANG_ENGLISH         "Designed for lateral movement and high impact, use the Bastion Assault Rifle."
+
+REFERENCE            ar_t9fastfire_7_flavor
+LANG_ENGLISH         "Break some glass, don???t just window shop with the Super Rad Assault Rifle."
+
+REFERENCE            ar_t9fastfire_8_flavor
+LANG_ENGLISH         "No sudden movements, you never know what's waiting for you just around the corner with the Maneater Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v2_flavor
+LANG_ENGLISH         "Snake your way up the leader board with the Arid Constrictor Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v3_flavor
+LANG_ENGLISH         "Do laps around the competition with the Fast Tempo Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v4_flavor
+LANG_ENGLISH         "Drown them in firepower with the Deep Threat Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v5_flavor
+LANG_ENGLISH         "You're gonna have to check this one in at the gate, the Wanderlust Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v6_flavor
+LANG_ENGLISH         "Hold your fire until the right moment with the Ground Patrol Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v7_flavor
+LANG_ENGLISH         "Designed for lateral movement and high impact, use the Bastion Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v8_flavor
+LANG_ENGLISH         "Break some glass, don???t just window shop with the Super Rad Assault Rifle."
+
+REFERENCE            ar_t9fastfire_v9_flavor
+LANG_ENGLISH         "No sudden movements, you never know what's waiting for you just around the corner with the Maneater Assault Rifle."
+
+REFERENCE            ar_t9fasthandling_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            ar_t9fasthandling_1_flavor
+LANG_ENGLISH         "Natural Wonder"
+
+REFERENCE            ar_t9fasthandling_v2_flavor
+LANG_ENGLISH         "Fight with honor with the Natural Order Assault Rifle."
+
+REFERENCE            ar_t9longburst_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            ar_t9longburst_10_flavor
+LANG_ENGLISH         "Make love not war with the Conscientious Objector Tactical Rifle."
+
+REFERENCE            ar_t9longburst_11_flavor
+LANG_ENGLISH         "Thoughtfully crafted for versatility. The Green Machine Tactical Rifle is the sign of a true professional. "
+
+REFERENCE            ar_t9longburst_13_flavor
+LANG_ENGLISH         "The Stripe"
+
+REFERENCE            ar_t9longburst_14_flavor
+LANG_ENGLISH         "Western Front"
+
+REFERENCE            ar_t9longburst_15_flavor
+LANG_ENGLISH         "Western Front"
+
+REFERENCE            ar_t9longburst_2_flavor
+LANG_ENGLISH         "Respond accordingly, with swift action and the devastating Military Green Tactical Rifle."
+
+REFERENCE            ar_t9longburst_3_flavor
+LANG_ENGLISH         "Put some cracks in the asphalt with the Monstrous Envy Tactical Rifle. Note: This weapon changes the Tracer fire to green."
+
+REFERENCE            ar_t9longburst_4_flavor
+LANG_ENGLISH         "Bombs away with the Warlock Tactical Rifle."
+
+REFERENCE            ar_t9longburst_5_flavor
+LANG_ENGLISH         "Western Front"
+
+REFERENCE            ar_t9longburst_6_flavor
+LANG_ENGLISH         "Custom inlay, a real masterpiece, one of a kind, the Lone Driver Assault Rifle."
+
+REFERENCE            ar_t9longburst_7_flavor
+LANG_ENGLISH         "Knock Knock? Who's there? It's the Fool Proof Tactical Rifle."
+
+REFERENCE            ar_t9longburst_8_flavor
+LANG_ENGLISH         "Field tested, operator approved. Get the job done with the SOG Standard Tactical Rifle."
+
+REFERENCE            ar_t9longburst_9_flavor
+LANG_ENGLISH         "Never love another with the Constable Tactical Rifle."
+
+REFERENCE            ar_t9longburst_v10_flavor
+LANG_ENGLISH         "Never love another with the Constable Tactical Rifle."
+
+REFERENCE            ar_t9longburst_v11_flavor
+LANG_ENGLISH         "Make love not war with the Conscientious Objector Tactical Rifle."
+
+REFERENCE            ar_t9longburst_v12_flavor
+LANG_ENGLISH         "Thoughtfully crafted for versatility. The Green Machine Tactical Rifle is the sign of a true professional. "
+
+REFERENCE            ar_t9longburst_v2_flavor
+LANG_ENGLISH         "Wherever there is a duty to fulfill, The Stripe Tactical Rifle will be there."
+
+REFERENCE            ar_t9longburst_v3_flavor
+LANG_ENGLISH         "Respond accordingly, with swift action and the devastating Military Green Tactical Rifle."
+
+REFERENCE            ar_t9longburst_v4_flavor
+LANG_ENGLISH         "Put some cracks in the asphalt with the Monstrous Envy Tactical Rifle. Note: This weapon changes the Tracer fire to green."
+
+REFERENCE            ar_t9longburst_v5_flavor
+LANG_ENGLISH         "Bombs away with the Warlock Tactical Rifle."
+
+REFERENCE            ar_t9longburst_v6_flavor
+LANG_ENGLISH         "It's time to go loud with the Western Front Tactical Rifle."
+
+REFERENCE            ar_t9longburst_v7_flavor
+LANG_ENGLISH         "Custom inlay, a real masterpiece, one of a kind, the Lone Driver Assault Rifle."
+
+REFERENCE            ar_t9longburst_v8_flavor
+LANG_ENGLISH         "Knock Knock? Who's there? It's the Fool Proof Tactical Rifle."
+
+REFERENCE            ar_t9longburst_v9_flavor
+LANG_ENGLISH         "Field tested, operator approved. Get the job done with the SOG Standard Tactical Rifle."
+
+REFERENCE            ar_t9mobility_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            ar_t9mobility_1_flavor
+LANG_ENGLISH         "Unleash your inner warrior with the Cross Check Assault Rifle."
+
+REFERENCE            ar_t9mobility_2_flavor
+LANG_ENGLISH         "Send a chill down their spines with the Frostbite Assault Rifle."
+
+REFERENCE            ar_t9mobility_3_flavor
+LANG_ENGLISH         "This thing can really get going, legs for days with the Almost Famous Assault Rifle."
+
+REFERENCE            ar_t9mobility_4_flavor
+LANG_ENGLISH         "Track down your prey and unleash the Hellhawk Assault Rifle."
+
+REFERENCE            ar_t9mobility_5_flavor
+LANG_ENGLISH         "Patch some wins together with the Death Metal Assault Rifle."
+
+REFERENCE            ar_t9mobility_6_flavor
+LANG_ENGLISH         "We didn't start this fight, but you'll finish it with the Soul Survivor Assault Rifle."
+
+REFERENCE            ar_t9mobility_v2_flavor
+LANG_ENGLISH         "Unleash your inner warrior with the Cross Check Assault Rifle."
+
+REFERENCE            ar_t9mobility_v3_flavor
+LANG_ENGLISH         "Send a chill down their spines with the Frostbite Assault Rifle."
+
+REFERENCE            ar_t9mobility_v4_flavor
+LANG_ENGLISH         "This thing can really get going, legs for days with the Almost Famous Assault Rifle."
+
+REFERENCE            ar_t9mobility_v5_flavor
+LANG_ENGLISH         "Track down your prey and unleash the Hellhawk Assault Rifle."
+
+REFERENCE            ar_t9mobility_v6_flavor
+LANG_ENGLISH         "Patch some wins together with the Death Metal Assault Rifle."
+
+REFERENCE            ar_t9mobility_v7_flavor
+LANG_ENGLISH         "We didn't start this fight, but you'll finish it with the Soul Survivor Assault Rifle."
+
+REFERENCE            ar_t9standard_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            ar_t9standard_10_flavor
+LANG_ENGLISH         "Stay under the radar with the Inconspicuous Assault Rifle."
+
+REFERENCE            ar_t9standard_11_flavor
+LANG_ENGLISH         "Throw a wrench in their plans with the Ratchet Patrol Assault Rifle."
+
+REFERENCE            ar_t9standard_12_flavor
+LANG_ENGLISH         "Wipe the battlefield clean with the Black Tide Assault Rifle."
+
+REFERENCE            ar_t9standard_13_flavor
+LANG_ENGLISH         "Wipe the battlefield clean with the Black Tide Assault Rifle."
+
+REFERENCE            ar_t9standard_1_flavor
+LANG_ENGLISH         "Ice them out with the Glacial Mass Assault Rifle."
+
+REFERENCE            ar_t9standard_2_flavor
+LANG_ENGLISH         "Spray and pray with the Western Wall Assault Rifle."
+
+REFERENCE            ar_t9standard_3_flavor
+LANG_ENGLISH         "Give them a taste of the nightlife with the Souvenir Assault Rifle."
+
+REFERENCE            ar_t9standard_4_flavor
+LANG_ENGLISH         "Wipe the battlefield clean with the Black Tide Assault Rifle."
+
+REFERENCE            ar_t9standard_5_flavor
+LANG_ENGLISH         "The ocean blue covers 70% of the earth's surface, Great Pacific Assault Rifle covers the other 30%. Featuring Blue tracer fire."
+
+REFERENCE            ar_t9standard_6_flavor
+LANG_ENGLISH         "They???re all damned when you???ve got the Succubus Assault Rifle."
+
+REFERENCE            ar_t9standard_7_flavor
+LANG_ENGLISH         "Write history, or hide it with the Deniable Ops Assault Rifle."
+
+REFERENCE            ar_t9standard_8_flavor
+LANG_ENGLISH         "Doesn???t have to be pretty. Just use the Giantsbane Assault Rifle."
+
+REFERENCE            ar_t9standard_9_flavor
+LANG_ENGLISH         "Bring the hammer down with the Signature Forged Assault Rifle."
+
+REFERENCE            ar_t9standard_v10_flavor
+LANG_ENGLISH         "Bring the hammer down with the Signature Forged Assault Rifle."
+
+REFERENCE            ar_t9standard_v11_flavor
+LANG_ENGLISH         "Stay under the radar with the Inconspicuous Assault Rifle."
+
+REFERENCE            ar_t9standard_v12_flavor
+LANG_ENGLISH         "Throw a wrench in their plans with the Ratchet Patrol Assault Rifle."
+
+REFERENCE            ar_t9standard_v2_flavor
+LANG_ENGLISH         "Ice them out with the Glacial Mass Assault Rifle."
+
+REFERENCE            ar_t9standard_v3_flavor
+LANG_ENGLISH         "Spray and pray with the Western Wall Assault Rifle."
+
+REFERENCE            ar_t9standard_v4_flavor
+LANG_ENGLISH         "Give them a taste of the nightlife with the Souvenir Assault Rifle."
+
+REFERENCE            ar_t9standard_v5_flavor
+LANG_ENGLISH         "Wipe the battlefield clean with the Black Tide Assault Rifle."
+
+REFERENCE            ar_t9standard_v6_flavor
+LANG_ENGLISH         "The ocean blue covers 70% of the earth's surface, Great Pacific Assault Rifle covers the other 30%. Featuring Blue tracer fire."
+
+REFERENCE            ar_t9standard_v7_flavor
+LANG_ENGLISH         "They???re all damned when you???ve got the Succubus Assault Rifle."
+
+REFERENCE            ar_t9standard_v8_flavor
+LANG_ENGLISH         "Write history, or hide it with the Deniable Ops Assault Rifle."
+
+REFERENCE            ar_t9standard_v9_flavor
+LANG_ENGLISH         "Doesn???t have to be pretty. Just use the Giantsbane Assault Rifle."
+
 REFERENCE            ar_tango21_0_flavor
 LANG_ENGLISH         "A fully automatic bullpup 5.56mm assault rifle from XRK designed to dominate close quarters engagements.  Features an optional custom Cronen precision optic and good selection of barrels. The RAM-7 is the ideal rifle for aggressive and determined operators."
 
@@ -689,6 +1082,9 @@ LANG_ENGLISH         "Pass them up with the Tiki-Taka Assault Rifle."
 
 REFERENCE            ar_tango21_14_flavor
 LANG_ENGLISH         "If you don't want people up in your business, the Reticent Assault Rifle has your back."
+
+REFERENCE            ar_tango21_15_flavor
+LANG_ENGLISH         "Fight honorably with the Divine Spirit Assault Rifle. Note: This weapon applies Tsubaki ^1Tracer^7 rounds for added visual effect."
 
 REFERENCE            ar_tango21_16_flavor
 LANG_ENGLISH         "Make them dance with the Dance Macabre Assault Rifle."
@@ -750,8 +1146,20 @@ LANG_ENGLISH         "Show them how scary things can get with the Malphas Assaul
 REFERENCE            ar_valpha_2_flavor
 LANG_ENGLISH         "Fill them up with the Straw Man Assault Rifle."
 
+REFERENCE            ar_valpha_3_flavor
+LANG_ENGLISH         "Light 'em up with the Midnight Sun Assault Rifle. Note: This weapon applies both an ice ^1Tracer^7 fire effect and the ^1Dismemberment^7 effect. "
+
 REFERENCE            cos_274_flavor
 LANG_ENGLISH         "The name says it all. The Try Harder Charm."
+
+REFERENCE            la_t9launcher_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            la_t9launcher_1_flavor
+LANG_ENGLISH         "Lob a couple in there with the Noob Tube Launcher."
+
+REFERENCE            la_t9launcher_v2_flavor
+LANG_ENGLISH         "Lob a couple in there with the Noob Tube Launcher."
 
 REFERENCE            lm_kilo121_10_flavor
 LANG_ENGLISH         "All routes point to victory with the Parallax LMG."
@@ -1065,6 +1473,93 @@ LANG_ENGLISH         "Go for gold with the Klondike LMG."
 REFERENCE            lm_sierrax_3_flavor
 LANG_ENGLISH         "The Family Heirloom LMG is perfect for making sure someone disappears. Why do you think it's been in the family so long? Note: This weapon applies the ^1Dismemberment^7 effect and changes the ^1Tracer^7 fire to Orange."
 
+REFERENCE            lm_sierrax_4_flavor
+LANG_ENGLISH         "You'll be proud of the way the Pride LMG performs."
+
+REFERENCE            lm_t9accurate_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            lm_t9accurate_1_flavor
+LANG_ENGLISH         "Good luck getting past the Queen's Guard."
+
+REFERENCE            lm_t9accurate_2_flavor
+LANG_ENGLISH         "This thunder can be heard for meters and miles, the Blue Lightning LMG."
+
+REFERENCE            lm_t9accurate_3_flavor
+LANG_ENGLISH         "Stoner 63A - Coverband"
+
+REFERENCE            lm_t9accuratecb_1_flavor
+LANG_ENGLISH         "Good luck getting past the Queen's Guard LMG."
+
+REFERENCE            lm_t9accuratecb_2_flavor
+LANG_ENGLISH         "This thunder can be heard for meters and miles, the Blue Lightning LMG."
+
+REFERENCE            lm_t9accuratecb_v2_flavor
+LANG_ENGLISH         "Good luck getting past the Queen's Guard LMG."
+
+REFERENCE            lm_t9accuratecb_v3_flavor
+LANG_ENGLISH         "This thunder can be heard for meters and miles, the Blue Lightning LMG."
+
+REFERENCE            lm_t9light_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            lm_t9light_1_flavor
+LANG_ENGLISH         "Capture flags and kills with the Bunker Beetle LMG."
+
+REFERENCE            lm_t9light_2_flavor
+LANG_ENGLISH         "Drop in and shred with the Wave Lord LMG."
+
+REFERENCE            lm_t9light_3_flavor
+LANG_ENGLISH         "Lend a helping hand with the Big Comrade LMG, featuring Purple Tracer Fire. Note: This weapon changes the Tracer fire to purple."
+
+REFERENCE            lm_t9light_4_flavor
+LANG_ENGLISH         "Fire off some silver bullets with the Dime Piece LMG."
+
+REFERENCE            lm_t9light_5_flavor
+LANG_ENGLISH         "Deplete their lifelines with the Noxious LMG."
+
+REFERENCE            lm_t9light_6_flavor
+LANG_ENGLISH         "Swing hard enough and something might fall off with The Cleaver LMG."
+
+REFERENCE            lm_t9light_7_flavor
+LANG_ENGLISH         "All praise to the high lord, in this life and the next. Make tribute with the Dead Pharaoh LMG."
+
+REFERENCE            lm_t9light_v2_flavor
+LANG_ENGLISH         "Capture flags and kills with the Bunker Beetle LMG."
+
+REFERENCE            lm_t9light_v3_flavor
+LANG_ENGLISH         "Drop in and shred with the Wave Lord LMG."
+
+REFERENCE            lm_t9light_v4_flavor
+LANG_ENGLISH         "Lend a helping hand with the Big Comrade LMG, featuring Purple Tracer Fire. Note: This weapon changes the Tracer fire to purple."
+
+REFERENCE            lm_t9light_v5_flavor
+LANG_ENGLISH         "Fire off some silver bullets with the Dime Piece LMG."
+
+REFERENCE            lm_t9light_v6_flavor
+LANG_ENGLISH         "Deplete their lifelines with the Noxious LMG."
+
+REFERENCE            lm_t9light_v7_flavor
+LANG_ENGLISH         "Swing hard enough and something might fall off with The Cleaver LMG."
+
+REFERENCE            lm_t9light_v8_flavor
+LANG_ENGLISH         "All praise to the high lord, in this life and the next. Make tribute with the Dead Pharaoh LMG."
+
+REFERENCE            lm_t9slowfire_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            lm_t9slowfire_1_flavor
+LANG_ENGLISH         "Bore right through them with the Jackal LMG."
+
+REFERENCE            lm_t9slowfire_2_flavor
+LANG_ENGLISH         "You may be outnumbered, but never out gunned with the Ohaguro LMG."
+
+REFERENCE            lm_t9slowfire_v2_flavor
+LANG_ENGLISH         "Bore right through them with the Jackal LMG."
+
+REFERENCE            lm_t9slowfire_v3_flavor
+LANG_ENGLISH         "You may be outnumbered, but never outgunned with the Ohaguro LMG."
+
 REFERENCE            me_akimbo_blunt_1_flavor
 LANG_ENGLISH         "Crush more than their hopes and dreams with the Hit Sticks Akimbo Melee Weapon."
 
@@ -1100,6 +1595,9 @@ LANG_ENGLISH         "Eat through their defenses with the Carn Evil Pistol."
 
 REFERENCE            pi_cpapa_17_flavor
 LANG_ENGLISH         "Even though it's small, the Red Sparrow Pistol packs a mean punch."
+
+REFERENCE            pi_cpapa_18_flavor
+LANG_ENGLISH         "Always great to start a conversation off. The Ice Breaker Pistol."
 
 REFERENCE            pi_cpapa_1_flavor
 LANG_ENGLISH         "Silverfield Ordnance manufacture the .357 Barrel on the Enforcer pistol. It???s matched to Snake Shot shotgun pellets and the Mo' Money Perk for good measure."
@@ -1251,6 +1749,9 @@ LANG_ENGLISH         "Don't be afraid to take out the trash with the Spectra Pis
 REFERENCE            pi_golf21_22_flavor
 LANG_ENGLISH         "Once your streak starts, it's hard to stop. The Hit Streak Pistol."
 
+REFERENCE            pi_golf21_23_flavor
+LANG_ENGLISH         "Send them into a haze with the Mudfog Pistol."
+
 REFERENCE            pi_golf21_2_flavor
 LANG_ENGLISH         "Custom .45 caliber handgun with a polygonal rifled barrel, custom machined slide, and constructed with lightweight durable polymer. The custom barrel extends effective range on this sidearm and bonus XP earned per kill will make any task pleasurable."
 
@@ -1307,6 +1808,9 @@ LANG_ENGLISH         "Break away from the herd with the Elk Rut Pistol and add s
 
 REFERENCE            pi_mike1911_16_flavor
 LANG_ENGLISH         "Become an honorary member of Taskforce 141 when you rock the One For One Pistol."
+
+REFERENCE            pi_mike1911_17_flavor
+LANG_ENGLISH         "They won't dare cross you and your Suilven Pistol. Note: This weapon applies both an ice ^1Tracer^7 fire effect and the ^1Dismemberment^7 effect. "
 
 REFERENCE            pi_mike1911_18_flavor
 LANG_ENGLISH         "Put up your defenses with the Exoskeleton Pistol."
@@ -1386,6 +1890,9 @@ LANG_ENGLISH         "Make them wish they never came for seconds with the Shoyu 
 REFERENCE            pi_mike9_16_flavor
 LANG_ENGLISH         "When you have the Short Shift Pistol, it's hard not to finish on top!"
 
+REFERENCE            pi_mike9_17_flavor
+LANG_ENGLISH         "Eat through 'em with the Anthia Pistol. Note: This weapon applies Acid ^1Tracer^7 Rounds as well as the ^1Dismemberment^7 effect. This is visual only."
+
 REFERENCE            pi_mike9_1_flavor
 LANG_ENGLISH         "When everything else goes south, the Guard One Pistol keeps on dropping tangos, like it???s going out of style."
 
@@ -1412,6 +1919,9 @@ LANG_ENGLISH         "Shift the tide with the Callisto Pistol."
 
 REFERENCE            pi_mike9_9_flavor
 LANG_ENGLISH         "The Badger Sett Pistol is perfect for making a quick escape."
+
+REFERENCE            pi_mike_1_flavor
+LANG_ENGLISH         "There's no questioning you're going to the top. The Monviso Pistol will just help things go as planned."
 
 REFERENCE            pi_mike_9_8_flavor
 LANG_ENGLISH         "Contrary to popular belief, the moon actually got its name from the pistol. The Callisto."
@@ -1455,6 +1965,9 @@ LANG_ENGLISH         "Show off your skills using a sidearm with the CDL Champs 2
 REFERENCE            pi_papa320_21_flavor
 LANG_ENGLISH         "Discuss terms with the Parley Pistol."
 
+REFERENCE            pi_papa320_22_flavor
+LANG_ENGLISH         "If they're looking for an update on how things are going, just show them the State of War Pistol. It should sum things up. Note: This weapon applies Tsubaki ^1Tracer^7 rounds for added visual effect."
+
 REFERENCE            pi_papa320_23_flavor
 LANG_ENGLISH         "They'll be belly up when you come at 'em with the Yellow Belly Pistol."
 
@@ -1485,6 +1998,120 @@ LANG_ENGLISH         "You, too, can be a small, cool star with the Red Dwarf Pis
 REFERENCE            pi_papa320_9_flavor
 LANG_ENGLISH         "Hit 'em right where it hurts with the Moneymaker Pistol."
 
+REFERENCE            pi_t9burst_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            pi_t9burst_1_flavor
+LANG_ENGLISH         "Moving targets are no problem for the Avalanche Pistol."
+
+REFERENCE            pi_t9burst_2_flavor
+LANG_ENGLISH         "Keep your talons sharp with the Primal Hunter Pistol."
+
+REFERENCE            pi_t9burst_3_flavor
+LANG_ENGLISH         "Aim for the cockpit with the Sky Burst Pistol"
+
+REFERENCE            pi_t9burst_4_flavor
+LANG_ENGLISH         "Deciding Factor"
+
+REFERENCE            pi_t9burst_5_flavor
+LANG_ENGLISH         "Punches come in bunches with the Tiny Comrade, featuring Purple Tracer Fire."
+
+REFERENCE            pi_t9burst_7_flavor
+LANG_ENGLISH         "Diamatti - Coverband"
+
+REFERENCE            pi_t9burst_v2_flavor
+LANG_ENGLISH         "Moving targets are no problem for the Avalanche Pistol."
+
+REFERENCE            pi_t9burst_v3_flavor
+LANG_ENGLISH         "Keep your talons sharp with the Primal Hunter Pistol."
+
+REFERENCE            pi_t9burstcb_3_flavor
+LANG_ENGLISH         "Aim for the cockpit with the Sky Burst Pistol."
+
+REFERENCE            pi_t9burstcb_4_flavor
+LANG_ENGLISH         "Shoot with flair with the Deciding Factor Pistol."
+
+REFERENCE            pi_t9burstcb_5_flavor
+LANG_ENGLISH         "Punches come in bunches with the Tiny Comrade, featuring Purple Tracer Fire. Note: This weapon changes the Tracer fire to purple and comes with the dual wield attachment."
+
+REFERENCE            pi_t9burstcb_v4_flavor
+LANG_ENGLISH         "Aim for the cockpit with the Sky Burst Pistol."
+
+REFERENCE            pi_t9burstcb_v5_flavor
+LANG_ENGLISH         "Shoot with flair with the Deciding Factor Pistol."
+
+REFERENCE            pi_t9burstcb_v6_flavor
+LANG_ENGLISH         "Punches come in bunches with the Tiny Comrade, featuring Purple Tracer Fire. Note: This weapon changes the Tracer fire to purple and comes with the dual wield attachment."
+
+REFERENCE            pi_t9revolver_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            pi_t9revolver_1_flavor
+LANG_ENGLISH         "Pack a punch with the Silent Nod Pistol."
+
+REFERENCE            pi_t9revolver_2_flavor
+LANG_ENGLISH         "Not many creatures can survive its sting, the Vice Grip Pistol."
+
+REFERENCE            pi_t9revolver_3_flavor
+LANG_ENGLISH         "This pistol comes with the Dual Wield attachment. Pick your poison, they both mean business. "
+
+REFERENCE            pi_t9revolver_4_flavor
+LANG_ENGLISH         "The Minted Pistol can wiggle you out of any pickle or stickup."
+
+REFERENCE            pi_t9revolver_v2_flavor
+LANG_ENGLISH         "Pack a punch with the Silent Nod Pistol."
+
+REFERENCE            pi_t9revolver_v3_flavor
+LANG_ENGLISH         "Not many creatures can survive its sting, the Vice Grip Pistol."
+
+REFERENCE            pi_t9revolver_v4_flavor
+LANG_ENGLISH         "This pistol comes with the Dual Wield attachment. Pick your poison, they both mean business. "
+
+REFERENCE            pi_t9revolver_v5_flavor
+LANG_ENGLISH         "The Minted Pistol can wiggle you out of any pickle or stickup."
+
+REFERENCE            pi_t9semiauto_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            pi_t9semiauto_10_flavor
+LANG_ENGLISH         "Aim straight and fly true. The Wingman Pistol makes this look good."
+
+REFERENCE            pi_t9semiauto_1_flavor
+LANG_ENGLISH         "Midnight"
+
+REFERENCE            pi_t9semiauto_2_flavor
+LANG_ENGLISH         "Teal Steel"
+
+REFERENCE            pi_t9semiauto_3_flavor
+LANG_ENGLISH         "No matter the foe, The Standard Issue Pistol is always ready."
+
+REFERENCE            pi_t9semiauto_4_flavor
+LANG_ENGLISH         "Flex your mettle with the Field Officer Pistol."
+
+REFERENCE            pi_t9semiauto_5_flavor
+LANG_ENGLISH         "Aim straight and fly true. The Wingman Pistol makes this look good."
+
+REFERENCE            pi_t9semiauto_6_flavor
+LANG_ENGLISH         "Don't get it twisted with the Slight Adjustment Pistol."
+
+REFERENCE            pi_t9semiauto_8_flavor
+LANG_ENGLISH         "Standard Issue"
+
+REFERENCE            pi_t9semiauto_9_flavor
+LANG_ENGLISH         "Aim straight and fly true. The Wingman Pistol makes this look good."
+
+REFERENCE            pi_t9semiauto_v4_flavor
+LANG_ENGLISH         "No matter the foe, The Standard Issue Pistol is always ready."
+
+REFERENCE            pi_t9semiauto_v5_flavor
+LANG_ENGLISH         "Flex your mettle with the Field Officer Pistol."
+
+REFERENCE            pi_t9semiauto_v6_flavor
+LANG_ENGLISH         "Aim straight and fly true. The Wingman Pistol makes this look good."
+
+REFERENCE            pi_t9semiauto_v7_flavor
+LANG_ENGLISH         "Don't get it twisted with the Slight Adjustment Pistol."
+
 REFERENCE            romeo870_17_flavor
 LANG_ENGLISH         "Gorge yourself on vermin with the Puff Adder Shotgun."
 
@@ -1493,6 +2120,9 @@ LANG_ENGLISH         "Strike where they're weak with the Kopis Shotgun. Note: Th
 
 REFERENCE            sh_aalpha12_2_flavor
 LANG_ENGLISH         "Always keep it moving with the Valerie Shotgun."
+
+REFERENCE            sh_aalpha12_3_flavor
+LANG_ENGLISH         "Make them fall down with the Ring of Fire Shotgun. Note: The weapons included change the ^1Tracer^7 fire to black and applies the ^1Dismemberment^7 effect."
 
 REFERENCE            sh_charlie725_10_flavor
 LANG_ENGLISH         "Put them in the dirt with the Muskeg Shotgun."
@@ -1513,7 +2143,7 @@ REFERENCE            sh_charlie725_16_flavor
 LANG_ENGLISH         "You might take off a little more than they're used to. The Off the Top Shotgun."
 
 REFERENCE            sh_charlie725_17_flavor
-LANG_ENGLISH         "Tell the squad to bring a mop. This is the Crimson Pools Shotgun. Note: This weapon applies ^1Dismemberment^7."
+LANG_ENGLISH         "Tell the squad to bring a mop. This is the Crimson Pools Shotgun. Note: This weapon applies the ^1Dismemberment^7 effect."
 
 REFERENCE            sh_charlie725_18_flavor
 LANG_ENGLISH         "Just two shots before reload, make 'em count! The Apodora Shotgun."
@@ -1738,7 +2368,7 @@ REFERENCE            sh_romeo870_22_flavor
 LANG_ENGLISH         "Spread the news! The Muninn Shotgun is here!"
 
 REFERENCE            sh_romeo870_23_flavor
-LANG_ENGLISH         "There's no escape for 'em when you've got your Death Trap Shotgun. Note: This weapon applies the ^1Dismemberment^7 effect and changes the ^1Tracer^7 fire to Blood Red while leaving behind jigsaw pieces on fatal impacts."
+LANG_ENGLISH         "There's no escape for 'em when you've got your Death Trap Shotgun. Note: This weapon applies the ^1Dismemberment^7 effect and changes the ^1Tracer^7 fire to blood red while leaving behind jigsaw pieces on fatal impacts."
 
 REFERENCE            sh_romeo870_2_bullet_1
 LANG_ENGLISH         "Cronen LP945 Mini Reflex"
@@ -1772,6 +2402,123 @@ LANG_ENGLISH         "If you're looking for a team member who pulls their weight
 
 REFERENCE            sh_romeo870_9_flavor
 LANG_ENGLISH         "Be more divisive with the Gulf Stalker Shotgun."
+
+REFERENCE            sh_t9fullauto_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sh_t9fullauto_1_flavor
+LANG_ENGLISH         "Fortify your position with the Red Shift Shotgun."
+
+REFERENCE            sh_t9fullauto_2_flavor
+LANG_ENGLISH         "Direct, and then alternate the current with the Surge Protector Shotgun."
+
+REFERENCE            sh_t9fullauto_v2_flavor
+LANG_ENGLISH         "Fortify your position with the Red Shift Weapon."
+
+REFERENCE            sh_t9fullauto_v3_flavor
+LANG_ENGLISH         "Direct, and then alternate the current with the Surge Protector Shotgun."
+
+REFERENCE            sh_t9pump_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sh_t9pump_10_flavor
+LANG_ENGLISH         "Hit them from out of nowhere with the Sucker Punch Shotgun."
+
+REFERENCE            sh_t9pump_11_flavor
+LANG_ENGLISH         "Hit them from out of nowhere with the Sucker Punch Shotgun."
+
+REFERENCE            sh_t9pump_1_flavor
+LANG_ENGLISH         "Melt the competition with the Headache Shotgun. Note: This weapon changes the Tracer fire to green."
+
+REFERENCE            sh_t9pump_2_flavor
+LANG_ENGLISH         "Flex on them with the Chestnut Shotgun."
+
+REFERENCE            sh_t9pump_3_flavor
+LANG_ENGLISH         "Take no shot for granted with the Battle Worn Shotgun."
+
+REFERENCE            sh_t9pump_4_flavor
+LANG_ENGLISH         "It's time to turn out the lights with the Nightfall Shotgun."
+
+REFERENCE            sh_t9pump_5_flavor
+LANG_ENGLISH         "Hit them from out of nowhere with the Sucker Punch Shotgun."
+
+REFERENCE            sh_t9pump_6_flavor
+LANG_ENGLISH         "The top prize goes to the quickest on the draw. Hang them out to dry with the Hangman Shotgun."
+
+REFERENCE            sh_t9pump_7_flavor
+LANG_ENGLISH         "Watch the recoil on the Albino Snake Shotgun."
+
+REFERENCE            sh_t9pump_8_flavor
+LANG_ENGLISH         "Don't get left behind, but even if you do at least you will have the Chimney Sweeper Shotgun."
+
+REFERENCE            sh_t9pump_9_flavor
+LANG_ENGLISH         "It's the end of the line with the Last Stop Shotgun."
+
+REFERENCE            sh_t9pump_v10_flavor
+LANG_ENGLISH         "It's the end of the line with the Last Stop Shotgun."
+
+REFERENCE            sh_t9pump_v2_flavor
+LANG_ENGLISH         "Melt the competition with the Headache Shotgun. Note: This weapon changes the Tracer fire to green."
+
+REFERENCE            sh_t9pump_v3_flavor
+LANG_ENGLISH         "Flex on them with the Chestnut Shotgun."
+
+REFERENCE            sh_t9pump_v4_flavor
+LANG_ENGLISH         "Take no shot for granted with the Battle Worn Shotgun."
+
+REFERENCE            sh_t9pump_v5_flavor
+LANG_ENGLISH         "It's time to turn out the lights with the Nightfall Shotgun."
+
+REFERENCE            sh_t9pump_v6_flavor
+LANG_ENGLISH         "Hit them from out of nowhere with the Sucker Punch Shotgun."
+
+REFERENCE            sh_t9pump_v7_flavor
+LANG_ENGLISH         "The top prize goes to the quickest on the draw. Hang them out to dry with the Hangman Shotgun."
+
+REFERENCE            sh_t9pump_v8_flavor
+LANG_ENGLISH         "Watch the recoil on the Albino Snake Shotgun."
+
+REFERENCE            sh_t9pump_v9_flavor
+LANG_ENGLISH         "Don't get left behind, but even if you do at least you will have the Chimney Sweeper Shotgun."
+
+REFERENCE            sh_t9semiauto_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sh_t9semiauto_1_flavor
+LANG_ENGLISH         "You work alone. But with the Apollo Shotgun, you'll consider a sidekick."
+
+REFERENCE            sh_t9semiauto_2_flavor
+LANG_ENGLISH         "Practice your comedic timing with The Punchline Shotgun."
+
+REFERENCE            sh_t9semiauto_3_flavor
+LANG_ENGLISH         "Make the punishment fit the crime with the Warden's Word Shotgun."
+
+REFERENCE            sh_t9semiauto_4_flavor
+LANG_ENGLISH         "Knock their block off with the Jaw Breaker Shotgun."
+
+REFERENCE            sh_t9semiauto_5_flavor
+LANG_ENGLISH         "Christmas Sweater"
+
+REFERENCE            sh_t9semiauto_6_flavor
+LANG_ENGLISH         "Gallo SA12 - Coverband"
+
+REFERENCE            sh_t9semiauto_v2_flavor
+LANG_ENGLISH         "You work alone. But with the Apollo Shotgun, you'll consider a sidekick."
+
+REFERENCE            sh_t9semiauto_v3_flavor
+LANG_ENGLISH         "Practice your comedic timing with The Punchline Shotgun."
+
+REFERENCE            sh_t9semiauto_v4_flavor
+LANG_ENGLISH         "Make the punishment fit the crime with the Warden's Word Shotgun."
+
+REFERENCE            sh_t9semiauto_v5_flavor
+LANG_ENGLISH         "Knock their block off with the Jaw Breaker Shotgun."
+
+REFERENCE            sh_t9semiautocb_5_flavor
+LANG_ENGLISH         "Give them a gift they???ll never forget with the White Elephant Shotgun."
+
+REFERENCE            sh_t9semiautocb_v6_flavor
+LANG_ENGLISH         "Give them a gift they???ll never forget with the White Elephant Shotgun."
 
 REFERENCE            sm_augolf_0_flavor
 LANG_ENGLISH         ""
@@ -1939,7 +2686,7 @@ REFERENCE            sm_mpapa5_14_flavor
 LANG_ENGLISH         "Break their will with the Spirit of the Beast SMG."
 
 REFERENCE            sm_mpapa5_15_flavor
-LANG_ENGLISH         "Strike first with the Show of Force SMG."
+LANG_ENGLISH         "Strike first with the Checkered Flag SMG."
 
 REFERENCE            sm_mpapa5_16_flavor
 LANG_ENGLISH         "Send them six feet under with the Mot SMG."
@@ -1966,7 +2713,7 @@ REFERENCE            sm_mpapa5_22_flavor
 LANG_ENGLISH         "Show them what you're worth with the Croesus SMG."
 
 REFERENCE            sm_mpapa5_25_flavor
-LANG_ENGLISH         "You've given them their options, the Ultimatum SMG is just here to make sure things go according to plan. Note: This weapon changes the ^1Tracer^7 Fire to alternate between crimson and gold and also applies the ^1Dismemberment^7 Effect."
+LANG_ENGLISH         "You've given them their options, the Ultimatum SMG is just here to make sure things go according to plan. Note: This weapon changes the ^1Tracer^7 Fire to alternate between crimson and gold and also applies the ^1Dismemberment^7 effect."
 
 REFERENCE            sm_mpapa5_26_flavor
 LANG_ENGLISH         "Make 'em squeal with The Buzzkiller SMG. Note: This weapon applies the ^1Dismemberment^7 effect and changes the ^1Tracer^7 fire to Orange."
@@ -2051,6 +2798,9 @@ LANG_ENGLISH         "Come back at 'em with the Rebirth SMG."
 
 REFERENCE            sm_mpapa7_22_flavor
 LANG_ENGLISH         "Leave them shocked with the Efflux SMG. Note: This weapon applies an electrical ^1Tracer^7 fire effect."
+
+REFERENCE            sm_mpapa7_23_flavor
+LANG_ENGLISH         "They can try to hit you, but it's going to be pretty tough with your Artful Dodger SMG."
 
 REFERENCE            sm_mpapa7_2_flavor
 LANG_ENGLISH         "All death is inevitable. But especially when you roll with the Sands of Time SMG."
@@ -2148,6 +2898,9 @@ LANG_ENGLISH         "Watch your enemies melt when you bring this sublime SMG to
 REFERENCE            sm_papa90_v24
 LANG_ENGLISH         "SM_PAPA90_V24"
 
+REFERENCE            sm_secho_1_flavor
+LANG_ENGLISH         "Break their defenses with the Serac SMG. Note: This weapon applies both an ice ^1Tracer^7 fire effect and the ^1Dismemberment^7 effect. "
+
 REFERENCE            sm_smgolf45_0_flavor
 LANG_ENGLISH         "A hard-hitting submachine gun chambered in .45 Auto that will shred at longer distances than other weapons in its class. A moderate rate of fire helps keep the gun under control while in fully automatic mode."
 
@@ -2183,6 +2936,313 @@ LANG_ENGLISH         "Haunt their dreams with the Evil Manifest SMG. Note: This 
 
 REFERENCE            sm_smgolf45_9_flavor
 LANG_ENGLISH         "Don't be afraid to send it with the Halcyon Days SMG."
+
+REFERENCE            sm_t9burst_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sm_t9burst_1_flavor
+LANG_ENGLISH         "Clear the air and send waves with the Full Spectrum SMG."
+
+REFERENCE            sm_t9burst_2_flavor
+LANG_ENGLISH         "Add some flavor to the AO with the Twin Stripe SMG."
+
+REFERENCE            sm_t9burst_3_flavor
+LANG_ENGLISH         "Put a dent in their plans with the Multi-Tool SMG."
+
+REFERENCE            sm_t9burst_4_flavor
+LANG_ENGLISH         "Take the path less traveled and bring some help with the Ogresbreath SMG."
+
+REFERENCE            sm_t9burst_5_flavor
+LANG_ENGLISH         "Multi-functional range system. The best second option in the wild, the Perma Frost SMG."
+
+REFERENCE            sm_t9burst_6_flavor
+LANG_ENGLISH         "Let the sparks fly with the Molten Core SMG."
+
+REFERENCE            sm_t9burst_7_flavor
+LANG_ENGLISH         "Help the grass grow with the Earthen Spirit SMG."
+
+REFERENCE            sm_t9burst_8_flavor
+LANG_ENGLISH         "Grab a straggler off the shoreline with the Scaled Snapper SMG."
+
+REFERENCE            sm_t9burst_9_flavor
+LANG_ENGLISH         "Make 'em watch the rewind with the Tape Deck Mastercraft SMG."
+
+REFERENCE            sm_t9burst_v10_flavor
+LANG_ENGLISH         "Make 'em watch the rewind with the Tape Deck Mastercraft SMG."
+
+REFERENCE            sm_t9burst_v2_flavor
+LANG_ENGLISH         "Clear the air and send waves with the Full Spectrum SMG."
+
+REFERENCE            sm_t9burst_v3_flavor
+LANG_ENGLISH         "Add some flavor to the AO with the Twin Stripe SMG."
+
+REFERENCE            sm_t9burst_v4_flavor
+LANG_ENGLISH         "Put a dent in their plans with the Multi-Tool SMG."
+
+REFERENCE            sm_t9burst_v5_flavor
+LANG_ENGLISH         "Take the path less traveled and bring some help with the Ogresbreath SMG."
+
+REFERENCE            sm_t9burst_v6_flavor
+LANG_ENGLISH         "Multi-functional range system. The best second option in the wild, the Perma Frost SMG."
+
+REFERENCE            sm_t9burst_v7_flavor
+LANG_ENGLISH         "Let the sparks fly with the Molten Core SMG."
+
+REFERENCE            sm_t9burst_v8_flavor
+LANG_ENGLISH         "Help the grass grow with the Earthen Spirit SMG."
+
+REFERENCE            sm_t9burst_v9_flavor
+LANG_ENGLISH         "Grab a straggler off the shoreline with the Scaled Snapper SMG."
+
+REFERENCE            sm_t9capacity_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sm_t9capacity_1_flavor
+LANG_ENGLISH         "Reduce, reuse, resist, and respawn your enemies with the Recycler SMG."
+
+REFERENCE            sm_t9capacity_2_flavor
+LANG_ENGLISH         "Breeze right through the battlefield with the Turbo Powered SMG. Featuring Blue Tracer fire."
+
+REFERENCE            sm_t9capacity_3_flavor
+LANG_ENGLISH         "Be a team player, it's hard enough out there, time for the Motorcade SMG."
+
+REFERENCE            sm_t9capacity_5_flavor
+LANG_ENGLISH         "Command the strategy with the Torch Bearer SMG."
+
+REFERENCE            sm_t9capacity_6_flavor
+LANG_ENGLISH         "Results vary, exercise extreme prejudice with the Violettor SMG."
+
+REFERENCE            sm_t9capacity_7_flavor
+LANG_ENGLISH         "Launch codes have been authenticated, it's time to unleash the Blast Radius SMG."
+
+REFERENCE            sm_t9capacity_8_flavor
+LANG_ENGLISH         "Get them to pipe down with the Gas Guzzler SMG."
+
+REFERENCE            sm_t9capacity_v2_flavor
+LANG_ENGLISH         "Reduce, reuse, resist, and respawn your enemies with the Recycler SMG."
+
+REFERENCE            sm_t9capacity_v3_flavor
+LANG_ENGLISH         "Breeze right through the battlefield with the Turbo Powered SMG. Featuring Blue Tracer fire."
+
+REFERENCE            sm_t9capacity_v4_flavor
+LANG_ENGLISH         "Be a team player, it's hard enough out there, time for the Motorcade SMG."
+
+REFERENCE            sm_t9capacity_v6_flavor
+LANG_ENGLISH         "Command the strategy with the Torch Bearer SMG."
+
+REFERENCE            sm_t9capacity_v7_flavor
+LANG_ENGLISH         "Results vary, exercise extreme prejudice with the Violettor SMG."
+
+REFERENCE            sm_t9capacity_v8_flavor
+LANG_ENGLISH         "Launch codes have been authenticated, it's time to unleash the Blast Radius SMG."
+
+REFERENCE            sm_t9capacity_v9_flavor
+LANG_ENGLISH         "Get them to pipe down with the Gas Guzzler SMG."
+
+REFERENCE            sm_t9fastfire_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sm_t9fastfire_1_flavor
+LANG_ENGLISH         "Gallantry"
+
+REFERENCE            sm_t9fastfire_2_flavor
+LANG_ENGLISH         "Gallantry"
+
+REFERENCE            sm_t9fastfire_v2_flavor
+LANG_ENGLISH         "Tell them good knight with the Gallantry SMG."
+
+REFERENCE            sm_t9handling_0_flavor
+LANG_ENGLISH         "
+"
+
+REFERENCE            sm_t9handling_10_flavor
+LANG_ENGLISH         "Don't stop moving, don't look back, just survive with the Evasion Protocol SMG."
+
+REFERENCE            sm_t9handling_11_flavor
+LANG_ENGLISH         "Don't be afraid to break a few bones in the process with the Excavator SMG."
+
+REFERENCE            sm_t9handling_1_flavor
+LANG_ENGLISH         "Forge your own path with the Stones Throw SMG."
+
+REFERENCE            sm_t9handling_2_flavor
+LANG_ENGLISH         "Mutual Animosity"
+
+REFERENCE            sm_t9handling_3_flavor
+LANG_ENGLISH         "Avalanche"
+
+REFERENCE            sm_t9handling_4_flavor
+LANG_ENGLISH         "Hate to boast, but you need the Mahogany SMG."
+
+REFERENCE            sm_t9handling_5_flavor
+LANG_ENGLISH         "Send a message with the Blood Money SMG."
+
+REFERENCE            sm_t9handling_6_flavor
+LANG_ENGLISH         "Let all that energy out with the Mosh Pitted SMG."
+
+REFERENCE            sm_t9handling_7_flavor
+LANG_ENGLISH         "Destroy any trace of the evidence with the Red Room SMG."
+
+REFERENCE            sm_t9handling_8_flavor
+LANG_ENGLISH         "Lone Stalker"
+
+REFERENCE            sm_t9handling_9_flavor
+LANG_ENGLISH         "Get a little violent with the Razor's Edge SMG."
+
+REFERENCE            sm_t9handling_v10_flavor
+LANG_ENGLISH         "Get a little violent with the Razor's Edge SMG."
+
+REFERENCE            sm_t9handling_v11_flavor
+LANG_ENGLISH         "Don't stop moving, don't look back, just survive with the Evasion Protocol SMG."
+
+REFERENCE            sm_t9handling_v12_flavor
+LANG_ENGLISH         "Don't be afraid to break a few bones in the process with the Excavator SMG."
+
+REFERENCE            sm_t9handling_v2_flavor
+LANG_ENGLISH         "Forge your own path with the Stones Throw SMG."
+
+REFERENCE            sm_t9handling_v3_flavor
+LANG_ENGLISH         "Let the arms race begin with the Mutual Animosity SMG."
+
+REFERENCE            sm_t9handling_v5_flavor
+LANG_ENGLISH         "Hate to boast, but you need the Mahogany SMG."
+
+REFERENCE            sm_t9handling_v6_flavor
+LANG_ENGLISH         "Send a message with the Blood Money SMG."
+
+REFERENCE            sm_t9handling_v7_flavor
+LANG_ENGLISH         "Let all that energy out with the Mosh Pitted SMG."
+
+REFERENCE            sm_t9handling_v8_flavor
+LANG_ENGLISH         "Destroy any trace of the evidence with the Red Room SMG."
+
+REFERENCE            sm_t9handling_v9_flavor
+LANG_ENGLISH         "Thrive in the great outdoors with the Whiteout SMG."
+
+REFERENCE            sm_t9heavy_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sm_t9heavy_1_flavor
+LANG_ENGLISH         "Breach, clear, and breach again with the Big Trouble SMG."
+
+REFERENCE            sm_t9heavy_2_flavor
+LANG_ENGLISH         "Leave them on the side of the road with the Armadillo SMG."
+
+REFERENCE            sm_t9heavy_3_flavor
+LANG_ENGLISH         "Sprinkle a little extra with the Little Comrade SMG, featuring Purple Tracer Fire. Note: This weapon changes the Tracer fire to purple."
+
+REFERENCE            sm_t9heavy_4_flavor
+LANG_ENGLISH         "Leap into the heat of battle with the Pop Star SMG."
+
+REFERENCE            sm_t9heavy_5_flavor
+LANG_ENGLISH         "Knock some sense into them with the Knuckle Buster SMG."
+
+REFERENCE            sm_t9heavy_6_flavor
+LANG_ENGLISH         "Concrete shoes never float in the river with the Cautionary Tale SMG."
+
+REFERENCE            sm_t9heavy_7_flavor
+LANG_ENGLISH         "Slow is steady, and steady is fast. They'll never catch up with the Field Agent SMG."
+
+REFERENCE            sm_t9heavy_8_flavor
+LANG_ENGLISH         "Finish the fight in the first round with the World Champ SMG."
+
+REFERENCE            sm_t9heavy_9_flavor
+LANG_ENGLISH         "Try not to scratch it, it???s a Collector's Item SMG."
+
+REFERENCE            sm_t9heavy_v10_flavor
+LANG_ENGLISH         "Try not to scratch it, it???s a Collector's Item SMG."
+
+REFERENCE            sm_t9heavy_v2_flavor
+LANG_ENGLISH         "Breach, clear, and breach again with the Big Trouble SMG."
+
+REFERENCE            sm_t9heavy_v3_flavor
+LANG_ENGLISH         "Leave them on the side of the road with the Armadillo SMG."
+
+REFERENCE            sm_t9heavy_v4_flavor
+LANG_ENGLISH         "Sprinkle a little extra with the Little Comrade SMG, featuring Purple Tracer Fire. Note: This weapon changes the Tracer fire to purple."
+
+REFERENCE            sm_t9heavy_v5_flavor
+LANG_ENGLISH         "Leap into the heat of battle with the Pop Star SMG."
+
+REFERENCE            sm_t9heavy_v6_flavor
+LANG_ENGLISH         "Knock some sense into them with the Knuckle Buster SMG."
+
+REFERENCE            sm_t9heavy_v7_flavor
+LANG_ENGLISH         "Concrete shoes never float in the river with the Cautionary Tale SMG."
+
+REFERENCE            sm_t9heavy_v8_flavor
+LANG_ENGLISH         "Slow is steady, and steady is fast. They'll never catch up with the Field Agent SMG."
+
+REFERENCE            sm_t9heavy_v9_flavor
+LANG_ENGLISH         "Finish the fight in the first round with the World Champ SMG."
+
+REFERENCE            sm_t9powerburst_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sm_t9powerburst_1_flavor
+LANG_ENGLISH         "Midnight Express"
+
+REFERENCE            sm_t9powerburst_2_flavor
+LANG_ENGLISH         "Black Oak"
+
+REFERENCE            sm_t9powerburst_3_flavor
+LANG_ENGLISH         "AUG - Coverband"
+
+REFERENCE            sm_t9powerburstcb_1_flavor
+LANG_ENGLISH         "Book them a first class ticket to respawn with the Midnight Express Tactical Rifle."
+
+REFERENCE            sm_t9powerburstcb_2_flavor
+LANG_ENGLISH         "Aim for the trunk and you'll never miss a branch with the Black Oak Tactical Rifle."
+
+REFERENCE            sm_t9powerburstcb_v2_flavor
+LANG_ENGLISH         "Book them a first class ticket to respawn with the Midnight Express Tactical Rifle."
+
+REFERENCE            sm_t9powerburstcb_v3_flavor
+LANG_ENGLISH         "Aim for the trunk and you'll never miss a branch with the Black Oak Tactical Rifle."
+
+REFERENCE            sm_t9standard_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sm_t9standard_1_flavor
+LANG_ENGLISH         "Spin a web with the Widowmaker SMG. Note: This weapon changes the Tracer fire to red."
+
+REFERENCE            sm_t9standard_2_flavor
+LANG_ENGLISH         "Slow down turbo, this Pitstop Pressure SMG comes with a drum."
+
+REFERENCE            sm_t9standard_3_flavor
+LANG_ENGLISH         "Cut deep and aim for vital organs with The Scalpel SMG."
+
+REFERENCE            sm_t9standard_4_flavor
+LANG_ENGLISH         "Crack the vault wide open with the Rare Prospect SMG."
+
+REFERENCE            sm_t9standard_5_flavor
+LANG_ENGLISH         "Crash the AO with the Anti-Virus SMG."
+
+REFERENCE            sm_t9standard_6_flavor
+LANG_ENGLISH         "Tactical Taffy"
+
+REFERENCE            sm_t9standard_7_flavor
+LANG_ENGLISH         "MP5 - Contraband"
+
+REFERENCE            sm_t9standard_v2_flavor
+LANG_ENGLISH         "Spin a web with the Widowmaker SMG. Note: This weapon changes the Tracer fire to red."
+
+REFERENCE            sm_t9standard_v3_flavor
+LANG_ENGLISH         "Slow down turbo, this Pitstop Pressure SMG comes with a drum."
+
+REFERENCE            sm_t9standard_v4_flavor
+LANG_ENGLISH         "Cut deep and aim for vital organs with The Scalpel SMG."
+
+REFERENCE            sm_t9standard_v5_flavor
+LANG_ENGLISH         "Crack the vault wide open with the Rare Prospect SMG."
+
+REFERENCE            sm_t9standard_v6_flavor
+LANG_ENGLISH         "Crash the AO with the Anti-Virus SMG."
+
+REFERENCE            sm_t9standardcb_6_flavor
+LANG_ENGLISH         "Let off a couple licks with the Candy Core SMG."
+
+REFERENCE            sm_t9standardcb_v7_flavor
+LANG_ENGLISH         "Let off a couple licks with the Candy Core SMG."
 
 REFERENCE            sm_uzulu_10_flavor
 LANG_ENGLISH         "Brute force their reaction times with the Mach-5 SMG."
@@ -2225,6 +3285,9 @@ LANG_ENGLISH         "The steps involved with the Two-Step Viper SMG are simple.
 
 REFERENCE            sm_uzulu_23_flavor
 LANG_ENGLISH         "Torment them with The Haunt SMG."
+
+REFERENCE            sm_uzulu_24_flavor
+LANG_ENGLISH         "Run the streets with the Tsuiso SMG."
 
 REFERENCE            sm_uzulu_2_bullet_1
 LANG_ENGLISH         "Solozero Optics Mini reflex"
@@ -2613,6 +3676,9 @@ LANG_ENGLISH         "Reliable, hard-hitting .300 Win bolt action rifle from Slo
 REFERENCE            sn_romeo700_1_flavor
 LANG_ENGLISH         "Lure them in with the Darkwood DMR."
 
+REFERENCE            sn_romeo700_2_flavor
+LANG_ENGLISH         "Leave nothing left with the Frozen Waste DMR."
+
 REFERENCE            sn_sbeta_10_flavor
 LANG_ENGLISH         "You'll tear up the battlefield with the Torn DMR, featuring ^1Dismemberment^7 rounds for when you want a... little extra tear."
 
@@ -2696,6 +3762,153 @@ LANG_ENGLISH         "Roam the desert with the El Paso DMR."
 
 REFERENCE            sn_sksierra_9_flavor
 LANG_ENGLISH         "Always hit your mark with the Erne DMR."
+
+REFERENCE            sn_t9damagesemi_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sn_t9damagesemi_1_flavor
+LANG_ENGLISH         "Death Adder"
+
+REFERENCE            sn_t9damagesemi_2_flavor
+LANG_ENGLISH         "Nobody???s at a safe distance with the Scrambler Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_3_flavor
+LANG_ENGLISH         "Beguile your enemies with the Entanglement Tactical Rifle. Note: This weapon changes the Tracer fire to red."
+
+REFERENCE            sn_t9damagesemi_4_flavor
+LANG_ENGLISH         "Spread the wealth and kill the health with the People's Infantry Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_5_flavor
+LANG_ENGLISH         "Strike only when necessary and always by surprise with the Sand Striker Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_6_flavor
+LANG_ENGLISH         "Crowstorm"
+
+REFERENCE            sn_t9damagesemi_7_flavor
+LANG_ENGLISH         "Kick up your spurs and get shooting with the Western Justice Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_v3_flavor
+LANG_ENGLISH         "Nobody???s at a safe distance with the Scrambler Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_v4_flavor
+LANG_ENGLISH         "Beguile your enemies with the Entanglement Tactical Rifle. Note: This weapon changes the Tracer fire to red."
+
+REFERENCE            sn_t9damagesemi_v5_flavor
+LANG_ENGLISH         "Spread the wealth and kill the health with the People's Infantry Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_v6_flavor
+LANG_ENGLISH         "Strike only when necessary and always by surprise with the Sand Striker Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_v7_flavor
+LANG_ENGLISH         "Spread dread throughout the battlefield with the Crowstorm Tactical Rifle."
+
+REFERENCE            sn_t9damagesemi_v8_flavor
+LANG_ENGLISH         "Kick up your spurs and get shooting with the Western Justice Tactical Rifle."
+
+REFERENCE            sn_t9powersemi_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sn_t9powersemi_1_flavor
+LANG_ENGLISH         "Empty the vault with the Money Shot Sniper Rifle."
+
+REFERENCE            sn_t9powersemi_2_flavor
+LANG_ENGLISH         "Unleash the dead of winter and leave some holes with the Frozen Chosen Sniper Rifle."
+
+REFERENCE            sn_t9powersemi_3_flavor
+LANG_ENGLISH         "Barret M82 - Coverband"
+
+REFERENCE            sn_t9powersemi_v3_flavor
+LANG_ENGLISH         "Unleash the dead of winter and leave some holes with the Frozen Chosen Sniper Rifle."
+
+REFERENCE            sn_t9powersemicb_1_flavor
+LANG_ENGLISH         "Empty the vault with the Money Shot Sniper Rifle."
+
+REFERENCE            sn_t9powersemicb_v2_flavor
+LANG_ENGLISH         "Empty the vault with the Money Shot Sniper Rifle."
+
+REFERENCE            sn_t9precisionsemi_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sn_t9precisionsemi_1_flavor
+LANG_ENGLISH         "Harmony with the elements, animals, and environments - be at peace with Totemic Tactical Rifle."
+
+REFERENCE            sn_t9precisionsemi_2_flavor
+LANG_ENGLISH         "Built to last, all weather conditions, accurate in any environment, the Solid Core Tactical Rifle."
+
+REFERENCE            sn_t9precisionsemi_v2_flavor
+LANG_ENGLISH         "Harmony with the elements, animals, and environments - be at peace with Totemic Tactical Rifle."
+
+REFERENCE            sn_t9precisionsemi_v3_flavor
+LANG_ENGLISH         "Built to last, all weather conditions, accurate in any environment, the Solid Core Tactical Rifle."
+
+REFERENCE            sn_t9quickscope_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sn_t9quickscope_1_flavor
+LANG_ENGLISH         "Make every shot count with the Counter Measures Sniper Rifle."
+
+REFERENCE            sn_t9quickscope_2_flavor
+LANG_ENGLISH         "Passed down for generations from hunter to hunter, take a shot with the Natural Hunter Sniper Rifle."
+
+REFERENCE            sn_t9quickscope_3_flavor
+LANG_ENGLISH         "Sprinkle a little spirit into the battlefield with the North Pole Sniper Rifle."
+
+REFERENCE            sn_t9quickscope_4_flavor
+LANG_ENGLISH         "Create some mischief with the Minute of Angle Sniper Rifle."
+
+REFERENCE            sn_t9quickscope_v2_flavor
+LANG_ENGLISH         "Make every shot count with the Counter Measures Sniper Rifle."
+
+REFERENCE            sn_t9quickscope_v3_flavor
+LANG_ENGLISH         "Passed down for generations from hunter to hunter, take a shot with the Natural Hunter Sniper Rifle."
+
+REFERENCE            sn_t9quickscope_v4_flavor
+LANG_ENGLISH         "Sprinkle a little spirit into the battlefield with the North Pole Sniper Rifle."
+
+REFERENCE            sn_t9quickscope_v5_flavor
+LANG_ENGLISH         "Create some mischief with the Minute of Angle Sniper Rifle."
+
+REFERENCE            sn_t9standard_0_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sn_t9standard_1_flavor
+LANG_ENGLISH         "Make them walk the planks with the Ashwood Sniper Rifle."
+
+REFERENCE            sn_t9standard_2_flavor
+LANG_ENGLISH         "Teal Steel"
+
+REFERENCE            sn_t9standard_3_flavor
+LANG_ENGLISH         "Put them into hibernation with Below Zero Sniper Rifle."
+
+REFERENCE            sn_t9standard_4_flavor
+LANG_ENGLISH         "Bigger the wave the better, snipe the ride with the Barrel Hunter Sniper Rifle."
+
+REFERENCE            sn_t9standard_5_flavor
+LANG_ENGLISH         "Make their systems fail with the Data Synapse Sniper Rifle."
+
+REFERENCE            sn_t9standard_6_flavor
+LANG_ENGLISH         "There is no compromise when you're caught with the business end of the Bronzewood Sniper Rifle."
+
+REFERENCE            sn_t9standard_7_flavor
+LANG_ENGLISH         "Glam, meet bam. This is the Cursed Bullion Sniper Rifle."
+
+REFERENCE            sn_t9standard_v2_flavor
+LANG_ENGLISH         "Make them walk the planks with the Ashwood Sniper Rifle."
+
+REFERENCE            sn_t9standard_v4_flavor
+LANG_ENGLISH         "Put them into hibernation with Below Zero Sniper Rifle."
+
+REFERENCE            sn_t9standard_v5_flavor
+LANG_ENGLISH         "Bigger the wave the better, snipe the ride with the Barrel Hunter Sniper Rifle."
+
+REFERENCE            sn_t9standard_v6_flavor
+LANG_ENGLISH         "Make their systems fail with the Data Synapse Sniper Rifle."
+
+REFERENCE            sn_t9standard_v7_flavor
+LANG_ENGLISH         "There is no compromise when you're caught with the business end of the Bronzewood Sniper Rifle."
+
+REFERENCE            sn_t9standard_v8_flavor
+LANG_ENGLISH         "Glam, meet bam. This is the Cursed Bullion Sniper Rifle."
 
 REFERENCE            sn_xmike109_1_flavor
 LANG_ENGLISH         "There's no hope for 'em when you have the Damnation Sniper Rifle."

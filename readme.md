@@ -21,6 +21,10 @@ While WinMerge can smartly identify moved lines and ignore them for me, GitHub u
 
 ---
 
-# Season 6's Final State - December 15th, 2020
+# Year 2 Season 1 - December 16th, 2020
+
+Cold War integration patch for Warzone, and definitely not hiding a bunch of finished content for Modern Warfare that IW is being held at gunpoint to not release.
+
+## Season 6's Final State - December 15th, 2020
 
 The final state of the game files immediately before Cold War's first season and the integration patch with Warzone.

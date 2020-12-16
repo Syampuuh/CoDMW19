@@ -1,0 +1,36 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            prestige_master
+LANG_ENGLISH         "Prestige Master"
+
+REFERENCE            sticker_and_emblem
+LANG_ENGLISH         "Sticker & Emblem"
+
+REFERENCE            store_panel_desc_1
+LANG_ENGLISH         "Earn keys while playing Call of Duty and cash them in at the Black Ops Cold War Prestige Shop."
+
+REFERENCE            store_panel_desc_2
+LANG_ENGLISH         "Unlock legacy Prestige Icons and use them to customize your Rank Icon."
+
+REFERENCE            store_panel_desc_3
+LANG_ENGLISH         "Collect fan favorite Calling Cards from previous Call of Duty titles."
+
+REFERENCE            store_panel_heading_1
+LANG_ENGLISH         "EARN PRESTIGE KEYS"
+
+REFERENCE            store_panel_heading_2
+LANG_ENGLISH         "CUSTOM PRESTIGE ICONS"
+
+REFERENCE            store_panel_heading_3
+LANG_ENGLISH         "LEGACY CALLING CARDS"
+
+REFERENCE            store_popup_flavor
+LANG_ENGLISH         "Access to the Prestige Store and items"
+
+REFERENCE            store_popup_heading
+LANG_ENGLISH         "Black Ops Cold War Prestige Shop"
+
+
+ENDMARKER

@@ -32,6 +32,9 @@ LANG_ENGLISH         "&&1??F"
 REFERENCE            headshots
 LANG_ENGLISH         "[{watch_headshots}] &&1"
 
+REFERENCE            inteculo_modes
+LANG_ENGLISH         "3 Modes"
+
 REFERENCE            kills
 LANG_ENGLISH         "[{watch_kills}] &&1"
 

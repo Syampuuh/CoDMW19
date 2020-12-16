@@ -444,7 +444,7 @@ REFERENCE            emblem_1042
 LANG_ENGLISH         "Beetle Bruiser"
 
 REFERENCE            emblem_1043
-LANG_ENGLISH         "EMBLEM 1043"
+LANG_ENGLISH         "Stand Your Ground"
 
 REFERENCE            emblem_1044
 LANG_ENGLISH         "Set to Strike"
@@ -714,28 +714,28 @@ REFERENCE            emblem_1124
 LANG_ENGLISH         "Adventurer"
 
 REFERENCE            emblem_1125
-LANG_ENGLISH         "EMBLEM 1125"
+LANG_ENGLISH         "Rebirth Island"
 
 REFERENCE            emblem_1126
-LANG_ENGLISH         "EMBLEM 1126"
+LANG_ENGLISH         "Redeploying"
 
 REFERENCE            emblem_1127
-LANG_ENGLISH         "EMBLEM 1127"
+LANG_ENGLISH         "Chemical Weapon"
 
 REFERENCE            emblem_1128
-LANG_ENGLISH         "EMBLEM 1128"
+LANG_ENGLISH         "Mask On"
 
 REFERENCE            emblem_1129
-LANG_ENGLISH         "EMBLEM 1129"
+LANG_ENGLISH         "Neon Strike"
 
 REFERENCE            emblem_113
 LANG_ENGLISH         "EMBLEM_113"
 
 REFERENCE            emblem_1130
-LANG_ENGLISH         "EMBLEM 1130"
+LANG_ENGLISH         "Embroidered Pride"
 
 REFERENCE            emblem_1131
-LANG_ENGLISH         "EMBLEM 1131"
+LANG_ENGLISH         "Bear of Honor"
 
 REFERENCE            emblem_1132
 LANG_ENGLISH         "Gangrene"
@@ -805,25 +805,25 @@ REFERENCE            emblem_1151
 LANG_ENGLISH         "Fire Demon"
 
 REFERENCE            emblem_1152
-LANG_ENGLISH         "EMBLEM 1152"
+LANG_ENGLISH         "Decomposed"
 
 REFERENCE            emblem_1153
-LANG_ENGLISH         "EMBLEM 1153"
+LANG_ENGLISH         "Holy Order"
 
 REFERENCE            emblem_1154
-LANG_ENGLISH         "EMBLEM 1154"
+LANG_ENGLISH         "Evil Force"
 
 REFERENCE            emblem_1155
 LANG_ENGLISH         "EMBLEM 1155"
 
 REFERENCE            emblem_1156
-LANG_ENGLISH         "EMBLEM 1156"
+LANG_ENGLISH         "Mighty Orc"
 
 REFERENCE            emblem_1157
-LANG_ENGLISH         "EMBLEM 1157"
+LANG_ENGLISH         "Skeleton Crew"
 
 REFERENCE            emblem_1158
-LANG_ENGLISH         "EMBLEM 1158"
+LANG_ENGLISH         "Night Rider"
 
 REFERENCE            emblem_1159
 LANG_ENGLISH         "EMBLEM 1159"
@@ -844,7 +844,7 @@ REFERENCE            emblem_1163
 LANG_ENGLISH         "EMBLEM 1163"
 
 REFERENCE            emblem_1164
-LANG_ENGLISH         "EMBLEM 1164"
+LANG_ENGLISH         "Blizzard Beast"
 
 REFERENCE            emblem_1165
 LANG_ENGLISH         "EMBLEM 1165"
@@ -859,7 +859,7 @@ REFERENCE            emblem_1168
 LANG_ENGLISH         "EMBLEM 1168"
 
 REFERENCE            emblem_1169
-LANG_ENGLISH         "EMBLEM 1169"
+LANG_ENGLISH         "Smilodon"
 
 REFERENCE            emblem_117
 LANG_ENGLISH         "Fortune's Favored"
@@ -868,16 +868,16 @@ REFERENCE            emblem_1170
 LANG_ENGLISH         "EMBLEM 1170"
 
 REFERENCE            emblem_1171
-LANG_ENGLISH         "EMBLEM 1171"
+LANG_ENGLISH         "Fierce Frosty"
 
 REFERENCE            emblem_1172
 LANG_ENGLISH         "EMBLEM 1172"
 
 REFERENCE            emblem_1173
-LANG_ENGLISH         "EMBLEM 1173"
+LANG_ENGLISH         "Dash Away All"
 
 REFERENCE            emblem_1174
-LANG_ENGLISH         "EMBLEM 1174"
+LANG_ENGLISH         "Kris Kringle"
 
 REFERENCE            emblem_1175
 LANG_ENGLISH         "EMBLEM 1175"
@@ -898,28 +898,28 @@ REFERENCE            emblem_118
 LANG_ENGLISH         "EMBLEM_118"
 
 REFERENCE            emblem_1180
-LANG_ENGLISH         "EMBLEM 1180"
+LANG_ENGLISH         "Under Wraps"
 
 REFERENCE            emblem_1181
-LANG_ENGLISH         "EMBLEM 1181"
+LANG_ENGLISH         "Cold Stare"
 
 REFERENCE            emblem_1182
-LANG_ENGLISH         "EMBLEM 1182"
+LANG_ENGLISH         "Cold Depths"
 
 REFERENCE            emblem_1183
-LANG_ENGLISH         "EMBLEM 1183"
+LANG_ENGLISH         "Expedition"
 
 REFERENCE            emblem_1184
-LANG_ENGLISH         "EMBLEM 1184"
+LANG_ENGLISH         "Alpine"
 
 REFERENCE            emblem_1185
-LANG_ENGLISH         "EMBLEM 1185"
+LANG_ENGLISH         "Fuel Up"
 
 REFERENCE            emblem_1186
-LANG_ENGLISH         "EMBLEM 1186"
+LANG_ENGLISH         "The Downfall"
 
 REFERENCE            emblem_1187
-LANG_ENGLISH         "EMBLEM 1187"
+LANG_ENGLISH         "Frolic"
 
 REFERENCE            emblem_1188
 LANG_ENGLISH         "EMBLEM 1188"
@@ -934,7 +934,7 @@ REFERENCE            emblem_1190
 LANG_ENGLISH         "EMBLEM 1190"
 
 REFERENCE            emblem_1191
-LANG_ENGLISH         "EMBLEM 1191"
+LANG_ENGLISH         "The King"
 
 REFERENCE            emblem_1192
 LANG_ENGLISH         "EMBLEM 1192"
@@ -2906,7 +2906,7 @@ REFERENCE            emblem_717
 LANG_ENGLISH         "EMBLEM 717"
 
 REFERENCE            emblem_718
-LANG_ENGLISH         "EMBLEM 718"
+LANG_ENGLISH         "Dragon Seal"
 
 REFERENCE            emblem_719
 LANG_ENGLISH         "Fire Beast"
@@ -3844,6 +3844,9 @@ LANG_ENGLISH         ".50 GS Master: Damascus"
 REFERENCE            emblem_mc_damascus_pi_golf21
 LANG_ENGLISH         "X16 Master: Damascus"
 
+REFERENCE            emblem_mc_damascus_pi_mike
+LANG_ENGLISH         "Sykov Master: Damascus"
+
 REFERENCE            emblem_mc_damascus_pi_mike1911
 LANG_ENGLISH         "1911 Master: Damascus"
 
@@ -3888,6 +3891,9 @@ LANG_ENGLISH         "MP7 Master: Damascus"
 
 REFERENCE            emblem_mc_damascus_sm_papa90
 LANG_ENGLISH         "P90 Master: Damascus"
+
+REFERENCE            emblem_mc_damascus_sm_secho
+LANG_ENGLISH         "CX-9 Master: Damascus"
 
 REFERENCE            emblem_mc_damascus_sm_smgolf45
 LANG_ENGLISH         "Striker 45 Master: Damascus"
@@ -4021,6 +4027,9 @@ LANG_ENGLISH         ".50 GS Master: Gold"
 REFERENCE            emblem_mc_gold_pi_golf21
 LANG_ENGLISH         "X16 Master: Gold"
 
+REFERENCE            emblem_mc_gold_pi_mike
+LANG_ENGLISH         "Sykov Master: Gold"
+
 REFERENCE            emblem_mc_gold_pi_mike1911
 LANG_ENGLISH         "1911 Master: Gold"
 
@@ -4065,6 +4074,9 @@ LANG_ENGLISH         "MP7 Master: Gold"
 
 REFERENCE            emblem_mc_gold_sm_papa90
 LANG_ENGLISH         "P90 Master: Gold"
+
+REFERENCE            emblem_mc_gold_sm_secho
+LANG_ENGLISH         "CX-9 Master: Gold"
 
 REFERENCE            emblem_mc_gold_sm_smgolf45
 LANG_ENGLISH         "Striker 45 Master: Gold"
@@ -4198,6 +4210,9 @@ LANG_ENGLISH         ".50 GS Master: Obsidian"
 REFERENCE            emblem_mc_obsidian_pi_golf21
 LANG_ENGLISH         "X16 Master: Obsidian"
 
+REFERENCE            emblem_mc_obsidian_pi_mike
+LANG_ENGLISH         "Sykov Master: Obsidian"
+
 REFERENCE            emblem_mc_obsidian_pi_mike1911
 LANG_ENGLISH         "1911 Master: Obsidian"
 
@@ -4242,6 +4257,9 @@ LANG_ENGLISH         "MP7 Master: Obsidian"
 
 REFERENCE            emblem_mc_obsidian_sm_papa90
 LANG_ENGLISH         "P90 Master: Obsidian"
+
+REFERENCE            emblem_mc_obsidian_sm_secho
+LANG_ENGLISH         "CX-9 Master: Obsidian"
 
 REFERENCE            emblem_mc_obsidian_sm_smgolf45
 LANG_ENGLISH         "Striker 45 Master: Obsidian"
@@ -4375,6 +4393,9 @@ LANG_ENGLISH         ".50 GS Master: Platinum"
 REFERENCE            emblem_mc_platinum_pi_golf21
 LANG_ENGLISH         "X16 Master: Platinum"
 
+REFERENCE            emblem_mc_platinum_pi_mike
+LANG_ENGLISH         "Sykov Master: Platinum"
+
 REFERENCE            emblem_mc_platinum_pi_mike1911
 LANG_ENGLISH         "1911 Master: Platinum"
 
@@ -4385,7 +4406,7 @@ REFERENCE            emblem_mc_platinum_pi_papa320
 LANG_ENGLISH         "M19 Master: Platinum"
 
 REFERENCE            emblem_mc_platinum_sh_aalpha12
-LANG_ENGLISH         "JAK-12 Master Platinum"
+LANG_ENGLISH         "JAK-12 Master: Platinum"
 
 REFERENCE            emblem_mc_platinum_sh_charlie725
 LANG_ENGLISH         "725 Master: Platinum"
@@ -4419,6 +4440,9 @@ LANG_ENGLISH         "MP7 Master: Platinum"
 
 REFERENCE            emblem_mc_platinum_sm_papa90
 LANG_ENGLISH         "P90 Master: Platinum"
+
+REFERENCE            emblem_mc_platinum_sm_secho
+LANG_ENGLISH         "CX-9 Master: Platinum"
 
 REFERENCE            emblem_mc_platinum_sm_smgolf45
 LANG_ENGLISH         "Striker 45 Master: Platinum"

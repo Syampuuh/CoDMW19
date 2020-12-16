@@ -8,6 +8,9 @@ LANG_ENGLISH         "Randomize Favorites"
 REFERENCE            randomize_all
 LANG_ENGLISH         "Randomize All"
 
+REFERENCE            random_watch
+LANG_ENGLISH         "When Random is equipped, your watch will randomly cycle through your currently owned watches each time you enter a lobby."
+
 REFERENCE            random_vehicle_track
 LANG_ENGLISH         "When Random is equipped, your war tracks will randomly cycle through your currently owned war tracks each time you enter a lobby."
 

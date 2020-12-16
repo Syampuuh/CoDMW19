@@ -1,0 +1,240 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            adrenaline
+LANG_ENGLISH         "Adrenaline"
+
+REFERENCE            adrenaline_desc
+LANG_ENGLISH         "Super Sprint is instantly refreshed after a kill. Enemies you kill don't leave a skull marker for their team."
+
+REFERENCE            armor
+LANG_ENGLISH         "Body Armor"
+
+REFERENCE            armor_desc
+LANG_ENGLISH         "Increased protection from initial bullet damage. Reduced movement speed while equipped."
+
+REFERENCE            armor_t1
+LANG_ENGLISH         "Light Armor"
+
+REFERENCE            armor_t1_desc
+LANG_ENGLISH         "Increased protection from initial bullet damage. (+50) "
+
+REFERENCE            armor_t2
+LANG_ENGLISH         "Medium Armor"
+
+REFERENCE            armor_t2_desc
+LANG_ENGLISH         "Increased protection from initial bullet damage. (+100) "
+
+REFERENCE            armor_t3
+LANG_ENGLISH         "Heavy Armor"
+
+REFERENCE            armor_t3_desc
+LANG_ENGLISH         "Increased protection from initial bullet damage. (+150) "
+
+REFERENCE            awareness
+LANG_ENGLISH         "Acoustic Sensor"
+
+REFERENCE            awareness_desc
+LANG_ENGLISH         "Enemy movements are easier to hear and trigger visual indicators on the minimap."
+
+REFERENCE            brawler
+LANG_ENGLISH         "Brawler"
+
+REFERENCE            brawler_desc
+LANG_ENGLISH         "Increases damage from fists. Gains 20 health per punch that damages enemy. Punches gain tinitus status effect. The current victim effects should be reduced on default punches and the large reactions added to Brawler."
+
+REFERENCE            cold_blooded
+LANG_ENGLISH         "Cold Blooded"
+
+REFERENCE            cold_blooded_desc
+LANG_ENGLISH         "AI-controlled Scorestreaks will not target you. Player-controlled Scorestreaks will not highlight you. Show up cold on Thermal. Players in vehicles won't see your nameplate. Immune to Flashlight attachments."
+
+REFERENCE            consumer
+LANG_ENGLISH         "Consumer"
+
+REFERENCE            consumer_desc
+LANG_ENGLISH         "Reduces all cast times by 50%"
+
+REFERENCE            dead_silence
+LANG_ENGLISH         "Ninja"
+
+REFERENCE            dead_silence_desc
+LANG_ENGLISH         "Sprint more quietly. Resistant to Field Mic when sprinting. Speak only when necessary."
+
+REFERENCE            dexterity
+LANG_ENGLISH         "Dexterity"
+
+REFERENCE            dexterity_desc
+LANG_ENGLISH         "Mantle, climb, slide, and swap weapons faster. Increased weapon accuracy when jumping or mantling."
+
+REFERENCE            endurance
+LANG_ENGLISH         "Endurance"
+
+REFERENCE            endurance_desc
+LANG_ENGLISH         "Increase Super Sprint duration."
+
+REFERENCE            engineer
+LANG_ENGLISH         "Engineer"
+
+REFERENCE            engineer_desc
+LANG_ENGLISH         "Detect enemy equipment and Scorestreaks through walls. See enemy Scorestreaks on your minimap. Re-roll Care Packages."
+
+REFERENCE            espionage
+LANG_ENGLISH         "Forward Intel"
+
+REFERENCE            espionage_desc
+LANG_ENGLISH         "See indicators for enemy reinforcements on your minimap. Minimap shows a larger area."
+
+REFERENCE            expendable
+LANG_ENGLISH         "Expendable"
+
+REFERENCE            expendable_desc
+LANG_ENGLISH         "Retain more Score after dying."
+
+REFERENCE            flak_jacket
+LANG_ENGLISH         "Flak Jacket"
+
+REFERENCE            flak_jacket_desc
+LANG_ENGLISH         "Take less damage from enemy explosives and Molotov and Combat Bow flames."
+
+REFERENCE            ghost
+LANG_ENGLISH         "Ghost"
+
+REFERENCE            ghost_desc
+LANG_ENGLISH         "Undetectable by enemy Spy Planes whenever you are moving, planting or defusing bombs, or controlling Scorestreaks."
+
+REFERENCE            gung_ho
+LANG_ENGLISH         "Gung-Ho"
+
+REFERENCE            gung_ho_desc
+LANG_ENGLISH         "Fire your weapon and use Equipment while sprinting. Move at full speed when reloading. Switch weapons faster. Take less damage from falling. Fire more accurately while sliding."
+
+REFERENCE            high_value_target
+LANG_ENGLISH         "Assassin"
+
+REFERENCE            high_value_target_desc
+LANG_ENGLISH         "Enemies that appear on your minimap when shooting or revealed by a Spy Plane will have a crosshair indicator instead of a red dot if they are on a killstreak. Receive extra Score for taking them down."
+
+REFERENCE            iron_lungs
+LANG_ENGLISH         "Iron Lungs"
+
+REFERENCE            iron_lungs_desc
+LANG_ENGLISH         "Increased breath hold on sniper rifles. Increased breath time underwater."
+
+REFERENCE            lightweight
+LANG_ENGLISH         "Lightweight"
+
+REFERENCE            lightweight_desc
+LANG_ENGLISH         "Move faster while sprinting and take no damage when falling."
+
+REFERENCE            logistics
+LANG_ENGLISH         "Gearhead"
+
+REFERENCE            logistics_desc
+LANG_ENGLISH         "Reduce Field Upgrade cooldown. Store up to two Field Upgrade charges."
+
+REFERENCE            looter
+LANG_ENGLISH         "Looter"
+
+REFERENCE            looter_desc
+LANG_ENGLISH         "Reveals nearby Stashes and Loot items."
+
+REFERENCE            medic
+LANG_ENGLISH         "Medic"
+
+REFERENCE            medic_desc
+LANG_ENGLISH         "Heal faster. Revive allies faster. Allies you revive get more health."
+
+REFERENCE            medical_gun
+LANG_ENGLISH         "Stim Shot"
+
+REFERENCE            medical_gun_desc
+LANG_ENGLISH         "Heal faster and more often, while maintaining control of your weapon. "
+
+REFERENCE            outlander
+LANG_ENGLISH         "Outlander"
+
+REFERENCE            outlander_desc
+LANG_ENGLISH         "Reduce damage from the circle. Increase player speed when taking damage."
+
+REFERENCE            paranoia
+LANG_ENGLISH         "Paranoia"
+
+REFERENCE            paranoia_desc
+LANG_ENGLISH         "Receive audio indicator when you're being targeted by enemy."
+
+REFERENCE            quartermaster
+LANG_ENGLISH         "Quartermaster"
+
+REFERENCE            quartermaster_desc
+LANG_ENGLISH         "Recharge Equipment over 25 seconds."
+
+REFERENCE            reinforced
+LANG_ENGLISH         "Reinforced"
+
+REFERENCE            reinforced_desc
+LANG_ENGLISH         "Increased resistance to enemy status effects that blind and slow you. Reduced explosive and fire damage. "
+
+REFERENCE            resistance
+LANG_ENGLISH         "Tactical Mask"
+
+REFERENCE            resistance_desc
+LANG_ENGLISH         "Maximized resistance to Flashbang and Stun Grenade. Immune to gas."
+
+REFERENCE            scavenger
+LANG_ENGLISH         "Scavenger"
+
+REFERENCE            scavenger_desc
+LANG_ENGLISH         "Replenish ammo from fallen players."
+
+REFERENCE            skulker
+LANG_ENGLISH         "Skulker"
+
+REFERENCE            skulker_desc
+LANG_ENGLISH         "Move faster while crouched and prone."
+
+REFERENCE            spycraft
+LANG_ENGLISH         "Spycraft"
+
+REFERENCE            spycraft_desc
+LANG_ENGLISH         "Hack enemy Field Upgrades. Immune to Counter Spy Plane, Jammer, Tracker, and Paranoia. Won't trigger Proximity Mines or Gas Mines. Booby trap enemy Care Packages."
+
+REFERENCE            squad_link
+LANG_ENGLISH         "Squad Link"
+
+REFERENCE            squad_link_desc
+LANG_ENGLISH         "Player gets squad link."
+
+REFERENCE            stimulant
+LANG_ENGLISH         "Stimulant"
+
+REFERENCE            stimulant_desc
+LANG_ENGLISH         "Raises max health by 100. Health stays until block completely depleted."
+
+REFERENCE            team_link
+LANG_ENGLISH         "Team Link"
+
+REFERENCE            team_link_desc
+LANG_ENGLISH         "See friendly teammates through walls and reveal a Fog of War circle around you and your teammates."
+
+REFERENCE            threat_perception
+LANG_ENGLISH         "Paranoia"
+
+REFERENCE            threat_perception_desc
+LANG_ENGLISH         "Hear an alert when an enemy aims at you. Your vision pulses if the enemy is outside of your view."
+
+REFERENCE            thrust_pack
+LANG_ENGLISH         "Thrust Pack"
+
+REFERENCE            thrust_pack_desc
+LANG_ENGLISH         "Unlimited Sprint, Thrust Jump, and Wall-Run."
+
+REFERENCE            tracker
+LANG_ENGLISH         "Tracker"
+
+REFERENCE            tracker_desc
+LANG_ENGLISH         "See imprint of enemy footsteps. Aim at enemies to reveal them on your team's minimap."
+
+
+ENDMARKER
